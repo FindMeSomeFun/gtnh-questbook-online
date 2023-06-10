@@ -1,44 +1,78 @@
-<!-- https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/blob/main/index.html -->
+<!-- https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html -->
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
 	<head>
-	<meta charset="utf-8">
+		<meta charset='utf-8'>
+		<link rel='stylesheet' href='./themes/dark.css'>
 	</head> 
 	<body>
-		<label>Version:</label>
-		<select id="version">
-		</select>
 		
-		<label>Theme:</label>
-		<select id="theme">
-		</select>
+		<div id="header">
+			<label>Version:</label>
+			<select id='version'>
+			</select>
+			
+			<label>Theme:</label>
+			<select id='theme'>
+			</select>
+		</div>
 		
-		<div>
-			<ul id="questLines">
-			</ul>
+		<div id="panel">
+			<div id='questLines'>
+			</div>
+			
+			<div id='questTree'>
+				<div id='desc'>
+					Description
+				</div>
+				
+				<div id='quests'>
+				<a href="#">Quest</a>
+				</div>
+			</div>
 		</div>
 		
 		<script>
-			readTextFile("https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/versions.txt", "version");
-			readTextFile("https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/themes.txt", "theme");
-			readTextFile("https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/2.3.0/questLines.txt", "questLines");
+			var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
+			//var url = new URL(window.location.href);
+			//var getParam = url.searchParams.get('foo'); 
+			//alert(url + ' -> ' + getParam);
+			readTextFile(repo + 'versions.txt', 'version');
+			readTextFile(repo + 'themes.txt', 'theme');
+			readTextFile(repo + '2.3.0/questLines.txt', 'questLines');
 			
 			function readTextFile(file, id) {
-				var element = document.getElementById(id);
 				var rawFile = new XMLHttpRequest();
-				rawFile.open("GET", file, false);
+				rawFile.open('GET', file, false);
 				rawFile.onreadystatechange = function ()
 				{
-					if(rawFile.readyState === 4)
+					if (rawFile.readyState === 4)
 					{
-						if(rawFile.status === 200 || rawFile.status == 0)
+						if (rawFile.status === 200 || rawFile.status == 0)
 						{
-							element.innerHTML = rawFile.responseText;
+							populate(rawFile.responseText, id)
 						}
 					}
 				}
 				rawFile.send();
+			}
+			
+			function populate(text, id) {
+				var element = document.getElementById(id);
+				var lines = text.split("\n");
+				
+				if (id == 'version' || id == 'theme') {
+					for (var i = 0; i < lines.length; i++) {
+						if (lines[i] != '') {
+							element.innerHTML += '<option value="' + lines[i].slice(0, -1)  + '">' + lines[i].slice(0, -1) + '</option>';
+						}
+					}
+				} else if (id == 'questLines') {
+					for (var i = 0; i < lines.length; i++) {
+						element.innerHTML += '<div class="questLine"> <img src="'+ repo + 'icons/' + lines[i].slice(0, -1) + '.png" alt="' + lines[i++].slice(0, -1) + '.png"> <a href="' + repo + 'index.html">' + lines[i].slice(0, -1) + '</a> </div>';
+					}
+				}
 			}
 			
 		</script>
