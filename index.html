@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	</head> 
+	<body>
+		<h2>Read Online File</h2>
+		<p id="text">Text placeholder.</p>
+		<button type="button" onclick="changeText()">Click Me</button>
+		<script>
+		function changeText(){
+			var element = document.getElementById("text");
+			readTextFile("https://raw.githubusercontent.com/GTNewHorizons/GTplusplus/master/src/main/java/gtPlusPlus/xmod/gregtech/common/tileentities/machines/multi/processing/GregtechMetaTileEntity_IndustrialWashPlant.java", element);
+		}
+		
+		function readTextFile(file, element)
+		{
+			var rawFile = new XMLHttpRequest();
+			rawFile.open("GET", file, false);
+			rawFile.onreadystatechange = function ()
+			{
+				if(rawFile.readyState === 4)
+				{
+					if(rawFile.status === 200 || rawFile.status == 0)
+					{
+						var text = rawFile.responseText;
+						element.innerHTML = text;
+						alert(text);
+					}
+				}
+			}
+			rawFile.send(null);
+		}
+		</script>
+	</body>
+</html>
