@@ -7,24 +7,25 @@
 	</head> 
 	<body>
 		<label>Version:</label>
-		<select id="vesrion">
-			<option value="volvo">Volvo</option>
-			<option value="saab">Saab</option>
-			<option value="mercedes">Mercedes</option>
-			<option value="audi">Audi</option>
+		<select id="version">
 		</select>
-		<p id="text">Text placeholder.</p>
-		<button type="button" onclick="insertVersions()">insertVersions</button>
+		
+		<label>Theme:</label>
+		<select id="theme">
+		</select>
+		
+		<div>
+			<ul id="questLines">
+			</ul>
+		</div>
+		
 		<script>
-			insertVersions()
+			readTextFile("https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/versions.txt", "version");
+			readTextFile("https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/themes.txt", "theme");
+			readTextFile("https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/2.3.0/questLines.txt", "questLines");
 			
-			function insertVersions(){
-				var element = document.getElementById("text");
-				readTextFile("https://github.com/FindMeSomeFun/gtnh-questbook-wiki/blob/main/versions.txt", element);
-			}
-			
-			function readTextFile(file, element)
-			{
+			function readTextFile(file, id) {
+				var element = document.getElementById(id);
 				var rawFile = new XMLHttpRequest();
 				rawFile.open("GET", file, false);
 				rawFile.onreadystatechange = function ()
@@ -33,14 +34,13 @@
 					{
 						if(rawFile.status === 200 || rawFile.status == 0)
 						{
-							var text = rawFile.responseText;
-							element.innerHTML = text;
-							alert(text);
+							element.innerHTML = rawFile.responseText;
 						}
 					}
 				}
-				rawFile.send(null);
+				rawFile.send();
 			}
+			
 		</script>
 	</body>
 </html>
