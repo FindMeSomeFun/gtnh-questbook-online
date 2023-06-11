@@ -1,34 +1,136 @@
-<!-- https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html -->
-
 <!DOCTYPE html>
 <html lang='en'>
 	<head>
 		<meta charset='utf-8'>
-		<link rel='stylesheet' href='./themes/dark.css'>
+		<style>
+			body {
+				background-color: #000;
+				color: #ddd;
+				font-family: Arial, Helvetica, sans-serif;
+			}
+
+			a {
+				position:relative;
+				top: -4px;
+				color: #ddd;
+				text-decoration: none;
+			}
+
+			img {
+				position:relative;
+				top: 1px;
+				left: 1px;
+				width: 20px;
+				height: 20px;
+			}
+
+			.questLine {
+				color: #ddd;
+				border: 1px solid #ddd;
+				width: 100%;
+				height: 20px;
+			}
+
+			.questLine:hover {
+				background-color: #666;
+			}
+
+			#header {
+				padding: 0px 0px 10px 10px;
+			}
+
+			#panel {
+				padding: 10px;
+				background-color: #333;
+				width: 1875px;
+			}
+
+			#questLines {
+				width: 250px;
+			}
+
+			#desc {
+				background-color: #009;
+				width: 100%;
+			}
+
+			#questTree {
+				background-color: #900;
+				position: absolute;
+				top: 50px;
+				left: 280px;
+				height: 924px;
+				width: 1613px;
+			}	
+		</style>
 	</head> 
 	<body>
 		
 		<div id="header">
 			<label>Version:</label>
 			<select id='version'>
+				<option value="2.3.0">2.3.0</option>
 			</select>
 			
 			<label>Theme:</label>
 			<select id='theme'>
+				<option value="midnight">midnight</option>
 			</select>
 		</div>
 		
 		<div id="panel">
 			<div id='questLines'>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/minecraft-bed.png" alt="minecraft-bed.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">And So, It Begins</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/minecraft-writable_book.png" alt="minecraft-writable_book.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tips and Tricks</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/IC2-itemToolBronzePickaxe.png" alt="IC2-itemToolBronzePickaxe.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 0 - Stone Age</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/minecraft-flint_and_steel.png" alt="minecraft-flint_and_steel.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 0.5 - Steam</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.metaitem.01.png" alt="gregtech-gt.metaitem.01.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 1 - LV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/IC2-itemPartCircuitAdv.png" alt="IC2-itemPartCircuitAdv.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 2 - MV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/GalacticraftCore-tile.rocketWorkbench.png" alt="GalacticraftCore-tile.rocketWorkbench.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 3 - HV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/IC2-blockGenerator.png" alt="IC2-blockGenerator.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 4 - EV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.blockmachines.png" alt="gregtech-gt.blockmachines.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 5 - IV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.blockmachines.png" alt="gregtech-gt.blockmachines.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 6 - LuV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.metaitem.01.png" alt="gregtech-gt.metaitem.01.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 7 - ZPM</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.blockmachines.png" alt="gregtech-gt.blockmachines.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 8 - UV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Avaritia-Resource.png" alt="Avaritia-Resource.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Tier 9 - UHV</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/harvestcraft-potItem.png" alt="harvestcraft-potItem.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Fishing, Farming, Cooking</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/GraviSuite-graviChestPlate.png" alt="GraviSuite-graviChestPlate.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Getting Around Without Dying</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/chisel-futura.png" alt="chisel-futura.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Building Better Bases</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Forestry-factory.png" alt="Forestry-factory.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Forestry and Multifarms</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.blockmachines.png" alt="gregtech-gt.blockmachines.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Multiblock Goals</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.blockmachines.png" alt="gregtech-gt.blockmachines.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">GT++ </a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/thaumcraftneiplugin-Aspect.png" alt="thaumcraftneiplugin-Aspect.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">How to Generate Power</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.metaitem.01.png" alt="gregtech-gt.metaitem.01.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Storing and Transforming EU</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/BuildCraft-Energy-bucketOil.png" alt="BuildCraft-Energy-bucketOil.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Working with Oil</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/gregtech-gt.metaitem.02.png" alt="gregtech-gt.metaitem.02.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Bio for the Masses</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/IC2-blockGenerator.png" alt="IC2-blockGenerator.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Powerful Nuclear Physics</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/GalaxySpace-item.Tier6Rocket.png" alt="GalaxySpace-item.Tier6Rocket.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Space Race</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/StevesCarts-CartModule.png" alt="StevesCarts-CartModule.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Basic Automation</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/OpenComputers-item.png" alt="OpenComputers-item.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Advanced Automation</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/appliedenergistics2-item.ItemBasicStorageCell.64k.png" alt="appliedenergistics2-item.ItemBasicStorageCell.64k.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Applied Energistics</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Forestry-beehives.png" alt="Forestry-beehives.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">How to Be(e)</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Forestry-beeQueenGE.png" alt="Forestry-beeQueenGE.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Be(e) Breeding</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/HardcoreEnderExpansion-transference_gem.png" alt="HardcoreEnderExpansion-transference_gem.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Hardcore End(er) Expansion</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Thaumcraft-WandCasting.png" alt="Thaumcraft-WandCasting.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Novice Thaumaturgy</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Thaumcraft-WandCasting.png" alt="Thaumcraft-WandCasting.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Adept Thaumaturgy</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/ThaumicTinkerer-kamiResource.png" alt="ThaumicTinkerer-kamiResource.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Kaaami, Haaaami, ... HA!</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Thaumcraft-FocusPrimal.png" alt="Thaumcraft-FocusPrimal.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Focus on Wand Foci &amp; EMT</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/Botania-grassSeeds.png" alt="Botania-grassSeeds.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Flower Power</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/witchery-ingredient.png" alt="witchery-ingredient.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Look to the Edges</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/AWWayofTime-Altar.png" alt="AWWayofTime-Altar.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Paying the Highest Price</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/SGCraft-stargateController.png" alt="SGCraft-stargateController.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Endgame Goals</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/TwilightForest-item.trophy.png" alt="TwilightForest-item.trophy.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Kill All the Things</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/dreamcraft-item.CoinTechnicianIII.png" alt="dreamcraft-item.CoinTechnicianIII.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Coins, Coins, Coins</a> </div>
+			<div class="questLine"> <img src="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/icons/enhancedlootbags-lootbag.png" alt="enhancedlootbags-lootbag.png"> <a href="https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html">Reward Area</a> </div>
 			</div>
 			
 			<div id='questTree'>
 				<div id='desc'>
-					Description
+					QuestLine Description
 				</div>
 				
 				<div id='quests'>
-				<a href="#">Quest</a>
+				<a href="#">Quest Tree</a>
 				</div>
 			</div>
 		</div>
@@ -38,9 +140,9 @@
 			//var url = new URL(window.location.href);
 			//var getParam = url.searchParams.get('foo'); 
 			//alert(url + ' -> ' + getParam);
-			readTextFile(repo + 'versions.txt', 'version');
-			readTextFile(repo + 'themes.txt', 'theme');
-			readTextFile(repo + '2.3.0/questLines.txt', 'questLines');
+			//readTextFile(repo + 'versions.txt', 'version');
+			//readTextFile(repo + 'themes.txt', 'theme');
+			//readTextFile(repo + '2.3.0/questLines.txt', 'questLines');
 			
 			function readTextFile(file, id) {
 				var rawFile = new XMLHttpRequest();
