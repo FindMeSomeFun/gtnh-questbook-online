@@ -6,15 +6,18 @@ var param = url.searchParams.get('light');
 if (param == 1) {
 	document.getElementById('lights-on').checked = true;
 	switchTheme();
+} else {
+	document.getElementById('lights-on').checked = false;
 }
 
 param = url.searchParams.get('version');
-alert(document.getElementById('availableVersions').value);
-if (param != null) {
-	alert(param);
+if (document.getElementById('availableVersions').value.includes(param)) {
 	document.getElementById('versions').value = param;
 } else {
-	alert('Version: ' + param + 'does not exist, fallback to latest.')
+	readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
+	var fallbackVersion = document.getElementById('fallbackVersion').value;
+	alert('Version: ' + param + 'does not exist, fallback to ' + fallbackVersion);
+	document.getElementById('versions').value = fallbackVersion;
 }
 //alert(url + ' -> ' + getParam);
 readTextFile(repo + 'resources/versions.txt', 'versions');
@@ -44,12 +47,14 @@ function populateElement(text, id) {
 		var values = ""
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				values += lines[i];
+				values += lines[i] + ';';
 				element.innerHTML += '<option value="' + lines[i]  + '">' + lines[i] + '</option>';
 			}
 		}
 		document.getElementById('availableVersions').value = values;
-	} else if (id == 'questLines') {
+	} else if (id == 'fallbackVersion') {
+		document.getElementById('fallbackVersion').value = lines[0];
+	}else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
 				element.innerHTML += '<div class="questLine"><img src="' + repo + 'resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
