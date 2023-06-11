@@ -1,7 +1,7 @@
 var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
 
 var url = new URL(window.location.href);
-
+// Set theme
 var param = url.searchParams.get('light');
 if (param == 1) {
 	document.getElementById('lights-on').checked = true;
@@ -10,18 +10,26 @@ if (param == 1) {
 	document.getElementById('lights-on').checked = false;
 }
 
+readTextFile(repo + 'resources/versions.txt', 'versions');
+// Set version
 param = url.searchParams.get('version');
 if (document.getElementById('availableVersions').value.includes(param)) {
-	document.getElementById('versions').value = param;
+	var array = document.getElementById('availableVersions').value.split(';');
+	for (var i = 0; i < array.length; i++) {
+		if (array[i] == param) {
+			document.getElementById('versions').options[i].selected = 'selected';
+			break;
+		}
+	}
 } else {
 	readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
 	var fallbackVersion = document.getElementById('fallbackVersion').value;
-	alert('Version: ' + param + 'does not exist, fallback to ' + fallbackVersion);
+	if (param != null) {
+		alert('Version: ' + param + ' does not exist, fallback to ' + fallbackVersion);
+	}
 	document.getElementById('versions').value = fallbackVersion;
 }
-//alert(url + ' -> ' + getParam);
-readTextFile(repo + 'resources/versions.txt', 'versions');
-readTextFile(repo + 'resources/2.3.0/questLines.txt', 'questLines');
+readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLines.txt', 'questLines');
 
 function readTextFile(file, id) {
 	var rawFile = new XMLHttpRequest();
@@ -41,10 +49,10 @@ function readTextFile(file, id) {
 
 function populateElement(text, id) {
 	var element = document.getElementById(id);
-	var lines = text.split("\n");
+	var lines = text.split('\n');
 	
 	if (id == 'versions') {
-		var values = ""
+		var values = ''
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
 				values += lines[i] + ';';
@@ -65,12 +73,14 @@ function populateElement(text, id) {
 
 /* Dropdown List with Images */
 function showList() {
-	document.getElementById("questLines").classList.toggle("show");
+	document.getElementById('questLines').classList.toggle('show');
 }
 
 window.onclick = function(event) {
 	if (event.target.matches('.questLine')) {
-		var dropdowns = document.getElementsByClassName("dropdown-content");
+		document.getElementById('questLineImg').src = event.target.children[0].src;
+		document.getElementById('questLineName').textContent = event.target.children[1].textContent;
+		var dropdowns = document.getElementsByClassName('dropdown-content');
 		for (var i = 0; i < dropdowns.length; i++) {
 			var openDropdown = dropdowns[i];
 			if (openDropdown.classList.contains('show')) {
@@ -81,8 +91,8 @@ window.onclick = function(event) {
 }
 
 function switchTheme(event) {
-	var elems = document.getElementsByClassName('theme-switch');
+	var elems = document.getElementsByClassName('dark');
 	for (var i = 0; i < elems.length; i++) {
-		elems[i].classList.toggle("light");
+		elems[i].classList.toggle('light');
 	}
 }

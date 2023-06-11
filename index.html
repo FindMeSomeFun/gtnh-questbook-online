@@ -6,15 +6,15 @@
 		<link type='text/css' rel='stylesheet' href='https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/style.css'>
 		<title>GTNH BetterQuesting Wiki</title>
 	</head> 
-	<body class='theme-switch'>
+	<body class='dark'>
 		<input type='hidden' id='availableVersions' />
 		<input type='hidden' id='fallbackVersion' />
 	
 		<div id='panel'>
 			<div>
 				<div class='dropdown'>
-					<button onclick='showList()' class='dropbtn'>
-						<img src='https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/image/gtnh.png'> <span> Select A QuestLine</span>
+					<button onclick='showList()' class='dropbtn dark'>
+						<img id='questLineImg' src='https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/image/gtnh.png'> <span id='questLineName'> Select A QuestLine</span>
 					</button>
 					<div id='questLines' class='dropdown-content'>
 					</div>
@@ -31,16 +31,16 @@
 				</div>
 			</div>
 			
-			<div id='desc'>
-				QuestLine Description
-			</div>
-			
 			<div id='questTree'>
-				Quest Tree
+				<div id='welcome'>
+					<h1>Welcome to</h1>
+					<img src='./resources/image/title.png'></img>
+					<h1>GregTech New Horizons</h1>
+					<h1>QuestBook Wiki Page</h1>
+				</div>
 			</div>
 			
 			<div id='questInfo'>
-				Quest Info
 			</div>
 		</div>
 	</body>
