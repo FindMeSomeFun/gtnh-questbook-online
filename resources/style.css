@@ -79,7 +79,7 @@ input[type=checkbox]:checked + label {
 
 /* Dropdown list */
 .dropbtn {
-	background-color: #333;
+	background-color: transparent;
 	color: #ddd;
 	min-width: 300px;
 	font-size: 16px;

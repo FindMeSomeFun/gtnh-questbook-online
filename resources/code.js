@@ -29,6 +29,7 @@ if (document.getElementById('availableVersions').value.includes(param)) {
 	}
 	document.getElementById('versions').value = fallbackVersion;
 }
+
 readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLines.txt', 'questLines');
 
 function readTextFile(file, id) {
@@ -62,7 +63,7 @@ function populateElement(text, id) {
 		document.getElementById('availableVersions').value = values;
 	} else if (id == 'fallbackVersion') {
 		document.getElementById('fallbackVersion').value = lines[0];
-	}else if (id == 'questLines') {
+	} else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
 				element.innerHTML += '<div class="questLine"><img src="' + repo + 'resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
