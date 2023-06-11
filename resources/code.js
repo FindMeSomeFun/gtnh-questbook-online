@@ -30,13 +30,12 @@ function populateElement(text, id) {
 	if (id == 'versions') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				element.innerHTML += '<option value="' + lines[i].slice(0, -1)  + '">' + lines[i].slice(0, -1) + '</option>';
+				element.innerHTML += '<option value="' + lines[i]  + '">' + lines[i] + '</option>';
 			}
 		}
 	} else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
-			var add = '<a href="#" class="questLine"><img src="' + repo + 'resources/image/item/' + lines[i++].slice(0, -1) + '.png" alt="No Image"> <span> ' + lines[i].slice(0, -1) + '</span> </a>';
-			element.innerHTML += add;
+			element.innerHTML += '<a href="#" class="questLine"><img src="' + repo + 'resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </a>';
 		}
 	}
 }
