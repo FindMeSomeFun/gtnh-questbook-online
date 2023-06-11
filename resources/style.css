@@ -1,4 +1,6 @@
 body {
+	background-color: #333;
+	color: #ddd;
 	margin: 20px;
 	width: 1880px;
 	font-family: Arial, Helvetica, sans-serif;
@@ -11,9 +13,9 @@ img {
 	height: 32px;
 }
 
-.dark {
-	background-color: #333;
-	color: #ddd;
+span {
+	position: relative;
+	top: -10px;
 }
 
 .light {
@@ -21,14 +23,19 @@ img {
 	color: #333;
 }
 
-.questLine {
+.questLineItem {
 	border: 1px solid #ddd;
 	width: 100%;
 	height: 32px;
 }
 
-.questLine:hover {
+.questLineItem:hover {
 	background-color: #666;
+	cursor: pointer;
+}
+
+#versions {
+	height: 35px;
 }
 
 #panel {
@@ -47,7 +54,7 @@ img {
 }
 
 /* Theme toggle */
-#theme {
+#theme-btn {
 	display: inline;
 	padding: 0px 0px 0px 50px;
 }
@@ -57,16 +64,17 @@ input[type=checkbox] {
 }
  
 input[type=checkbox] + label {
-	background-image: url('https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/image/sun.png');
+	background-image: url('./image/sun.png');
+	background-size: 32px 32px;
+    filter: invert(100%);
 	height: 32px;
 	width: 32px;
 	display: inline-block;
 }
 input[type=checkbox]:checked + label {
-	background-image: url('https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/image/moon.png');
-	height: 32px;
-	width: 32px;
-	display: inline-block;
+	background-image: url('./image/moon.png');
+	background-size: 32px 32px;
+    filter: invert(0%);
 }
 
 /* Dropdown list */
@@ -76,11 +84,6 @@ input[type=checkbox]:checked + label {
 	font-size: 16px;
 	border: none;
 	cursor: pointer;
-}
-
-.dropbtn > span {
-	position: relative;
-	top: -8px;
 }
 
 .dropbtn:hover,
@@ -107,15 +110,6 @@ input[type=checkbox]:checked + label {
 	color: black;
 	text-decoration: none;
 	display: block;
-}
-
-.dropdown-content a span {
-	position: relative;
-	top: -10px;
-}
-
-.dropdown a:hover {
-	background-color: #ddd;
 }
 
 .show {

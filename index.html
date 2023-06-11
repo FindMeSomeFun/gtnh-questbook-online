@@ -6,7 +6,9 @@
 		<link type='text/css' rel='stylesheet' href='https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/style.css'>
 		<title>GTNH BetterQuesting Wiki</title>
 	</head> 
-	<body>
+	<body class='theme-switch'>
+		<input type='hidden' id='availableVersions' />
+	
 		<div id='panel'>
 			<div>
 				<div class='dropdown'>
@@ -17,13 +19,14 @@
 					</div>
 				</div>
 				
-				<label>Version:</label>
-				<select id='versions'>
-				</select>
+				<span>
+					<label>Version:</label>
+					<select id='versions'> </select>
+				</span>
 				
-				<div id='theme'>
-					<input type='checkbox' name='thing' id='thing'/>
-					<label for='thing'></label> 
+				<div id='theme-btn'>
+					<input type='checkbox' onchange='switchTheme(event)' name='lights-on' id='lights-on'/>
+					<label for='lights-on'></label> 
 				</div>
 			</div>
 			
