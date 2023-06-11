@@ -1,0 +1,84 @@
+minecraft/bed~0
+And So, It Begins
+minecraft/writable_book~0
+Tips and Tricks
+IC2/itemToolBronzePickaxe~0
+Tier 0 - Stone Age
+minecraft/flint_and_steel~0
+Tier 0.5 - Steam
+gregtech/gt.metaitem.01~17019
+Tier 1 - LV
+IC2/itemPartCircuitAdv~0
+Tier 2 - MV
+GalacticraftCore/tile.rocketWorkbench~0
+Tier 3 - HV
+IC2/blockGenerator~5
+Tier 4 - EV
+gregtech/gt.blockmachines~1170
+Tier 5 - IV
+gregtech/gt.blockmachines~1193
+Tier 6 - LuV
+gregtech/gt.metaitem.01~32598
+Tier 7 - ZPM
+gregtech/gt.blockmachines~15331
+Tier 8 - UV
+Avaritia/Resource~6
+Tier 9 - UHV
+harvestcraft/potItem~0
+Fishing, Farming, Cooking
+GraviSuite/graviChestPlate~1
+Getting Around Without Dying
+chisel/futura~3
+Building Better Bases
+Forestry/factory~1
+Forestry and Multifarms
+gregtech/gt.blockmachines~1000
+Multiblock Goals
+gregtech/gt.blockmachines~810
+GT++ 
+thaumcraftneiplugin/Aspect~0
+How to Generate Power
+gregtech/gt.metaitem.01~32518
+Storing and Transforming EU
+BuildCraftEnergy/bucketOil~0
+Working with Oil
+gregtech/gt.metaitem.02~32557
+Bio for the Masses
+IC2/blockGenerator~5
+Powerful Nuclear Physics
+GalaxySpace/item.Tier6Rocket~4
+Space Race
+StevesCarts/CartModule~1
+Basic Automation
+OpenComputers/item~103
+Advanced Automation
+appliedenergistics2/item.ItemBasicStorageCell.64k~0
+Applied Energistics
+Forestry/beehives~1
+How to Be(e)
+Forestry/beeQueenGE~0
+Be(e) Breeding
+HardcoreEnderExpansion/transference_gem~0
+Hardcore End(er) Expansion
+Thaumcraft/WandCasting~9
+Novice Thaumaturgy
+Thaumcraft/WandCasting~9000
+Adept Thaumaturgy
+ThaumicTinkerer/kamiResource~0
+Kaaami, Haaaami, ... HA!
+Thaumcraft/FocusPrimal~0
+Focus on Wand Foci & EMT
+Botania/grassSeeds~0
+Flower Power
+witchery/ingredient~9
+Look to the Edges
+AWWayofTime/Altar~0
+Paying the Highest Price
+SGCraft/stargateController~0
+Endgame Goals
+TwilightForest/item.trophy~2
+Kill All the Things
+dreamcraft/item.CoinTechnicianIII~0
+Coins, Coins, Coins
+enhancedlootbags/lootbag~44
+Reward Area
