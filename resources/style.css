@@ -45,17 +45,19 @@ span {
 	height: 500px;
 }
 
-#questDesc {
+#questLineDesc {
 	background-color: #444;
-	height: 100px;
+	text-align: center;
 }
 
 .quest {
-	position: relative;
+	position: absolute;
 }
 
-#questTree {
-	background-color: #222;
+#questLineTree {
+	background-color: #000;
+	position: relative;
+	min-height: 400px;
 }
 
 #questInfo {
