@@ -1,45 +1,47 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html lang="en">
 	<head>
-		<meta charset='utf-8'>
-		<link type='text/css' rel='stylesheet' href='./resources/style.css'>
+		<meta charset="utf-8">
+		<link type="text/css" rel="stylesheet" href="./resources/style.css">
 		<title>GTNH BetterQuesting Wiki</title>
 	</head> 
-	<body class='dark'>
-	
-		<div id='panel'>
-			<div>
-				<div class='dropdown'>
-					<button onclick='showList()' class='dropbtn dark'>
-						<img id='questLineImg' src='./resources/image/gtnh.png'> <span id='questLineName'> Select A QuestLine</span>
+	<body class="dark">
+		<div id="main">
+			<div id="header">
+				<div class="dropdown">
+					<button onclick="showList()" class="dropbtn dark">
+						<img id="questLineImg" src="./resources/image/gtnh.png"> <span id="questLineName"> Select A QuestLine</span>
 					</button>
-					<div id='questLines' class='dropdown-content'>
+					<div id="questLines" class="dropdown-content">
 					</div>
 				</div>
 				
 				<span>
 					<label>Version:</label>
-					<select id='versions'> </select>
+					<select id="versions"> </select>
 				</span>
 				
-				<div id='theme-btn'>
-					<input type='checkbox' onchange='switchTheme(event)' name='lights-on' id='lights-on'/>
-					<label for='lights-on'></label> 
+				<div id="theme-btn">
+					<input type="checkbox" onchange="switchTheme(event)" name="lights-on" id="lights-on"/>
+					<label for="lights-on"></label> 
 				</div>
 			</div>
 			
-			<div id='questTree'>
-				<div id='welcome'>
+			<div id="questDesc">
+			</div>
+			
+			<div id="questLineTree">
+				<div id="welcome">
 					<h1>Welcome to</h1>
-					<img src='./resources/image/title.png'></img>
+					<img src="./resources/image/title.png"></img>
 					<h1>GregTech New Horizons</h1>
 					<h1>QuestBook Wiki Page</h1>
 				</div>
 			</div>
 			
-			<div id='questInfo'>
+			<div id="questInfo">
 			</div>
 		</div>
 	</body>
-	<script type='text/javascript' src='./resources/code.js'></script>
+	<script type="text/javascript" src="./resources/code.js"></script>
 </html>

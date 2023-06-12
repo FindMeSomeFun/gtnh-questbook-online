@@ -52,25 +52,43 @@ function readTextFile(file, id) {
 }
 
 function populateElement(text, id) {
+alert(text);
 	var element = document.getElementById(id);
-	var lines = text.split('\u0007');
+	var data = text.split('\u0007');
 	
 	if (id == 'versions') {
-		for (var i = 0; i < lines.length; i++) {
-			if (lines[i] != '') {
-				availableVersions.push(lines[i]);
-				element.innerHTML += '<option value="' + lines[i]  + '">' + lines[i] + '</option>';
+		for (var i = 0; i < data.length; i++) {
+			if (data[i] != '') {
+				availableVersions.push(data[i]);
+				element.innerHTML += '<option value="' + data[i]  + '">' + data[i] + '</option>';
 			}
 		}
 	} else if (id == 'fallbackVersion') {
-		fallbackVersion = lines[0];
+		fallbackVersion = data[0];
 	} else if (id == 'questLines') {
-		for (var i = 0; i < lines.length; i++) {
-			if (lines[i] != '') {
-				element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + i + '" /><img src="./resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
+		for (var i = 0; i < data.length; i++) {
+			if (data[i] != '') {
+				element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + i + '" /><img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> <span> ' + data[i] + '</span> </div>';
+			}
+		}
+	} else if (id == 'questLineTree') {
+		document.getElementById('welcome').remove();
+		document.getElementById('questDesc').innerHTML = data[0];
+		for (var i = 1; i < data.length; i++) {
+			if (data[i] != '') {
+				var questId = data[i++];
+				var x = data[i++];
+				var y = data[i++];
+				var iconSize = data[i++];
+				var questIcon = data[i++];
+				element.innerHTML += '<div class="quest" style="top: ' + x + 'px; left: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img style="width: 100%; height: 100%;" src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
 			}
 		}
 	}
+}
+
+function loadQuestLineTree(questLineId) {
+	readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLine/' + questLineId + '.txt', 'questLineTree');
 }
 
 /* Dropdown List with Images */
@@ -89,6 +107,7 @@ window.onclick = function(event) {
 				openDropdown.classList.remove('show');
 			}
 		}
+		loadQuestLineTree(event.target.children[0].value)
 	}
 }
 
@@ -98,23 +117,3 @@ function switchTheme(event) {
 		elems[i].classList.toggle('light');
 	}
 }
-
-/*
-JSON.parse() takes a JSON string as input and converts it into JavaScript object:
-
-const me = `{ "name": "Atta", "age": 30, "twitter": "@attacomsian" }`
-const data = JSON.parse(me)
-console.log(data.name)		// Atta
-console.log(data.age)		// 30
-console.log(data.twitter) 	// @attacomsian
-
-JSON.stringify() does the opposite. It takes a JavaScript object as input and transforms it into a string that represents it in JSON:
-
-const data = {
-	name: 'Atta',
-	age: '30',
-	twitter: '@attacomsian'
-}
-const me = JSON.stringify(data)
-console.log(me)		// {"name":"Atta","age":"30","twitter":"@attacomsian"}
-*/
