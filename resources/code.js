@@ -66,7 +66,7 @@ function populateElement(text, id) {
 	} else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + i + '<img src="./resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
+				element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + i + '" /><img src="./resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
 			}
 		}
 	}
@@ -79,8 +79,9 @@ function showList() {
 
 window.onclick = function(event) {
 	if (event.target.matches('.questLine')) {
-		document.getElementById('questLineImg').src = event.target.children[0].src;
-		document.getElementById('questLineName').textContent = event.target.children[1].textContent;
+		document.getElementById('questLineId').src = event.target.children[0].src;
+		document.getElementById('questLineImg').src = event.target.children[1].src;
+		document.getElementById('questLineName').textContent = event.target.children[2].textContent;
 		var dropdowns = document.getElementsByClassName('dropdown-content');
 		for (var i = 0; i < dropdowns.length; i++) {
 			var openDropdown = dropdowns[i];
