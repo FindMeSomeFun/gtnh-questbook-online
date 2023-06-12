@@ -1,13 +1,10 @@
 var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
 
 var url = new URL(window.location.href);
-alert("url: " + url);
-alert("url.searchParams: " + url.searchParams);
 // Set theme
 var param = url.searchParams.get('light');
 alert("param: " + param);
 if (param == '1') {
-alert("light=1");
 	document.getElementById('lights-on').checked = true;
 	switchTheme();
 } else {
