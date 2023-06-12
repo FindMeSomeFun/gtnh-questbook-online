@@ -14,7 +14,7 @@ readTextFile(repo + 'resources/versions.txt', 'versions');
 // Set version
 param = url.searchParams.get('version');
 if (document.getElementById('availableVersions').value.includes(param)) {
-	var array = document.getElementById('availableVersions').value.split(';');
+	var array = document.getElementById('availableVersions').value.split('\u0007');
 	for (var i = 0; i < array.length; i++) {
 		if (array[i] == param) {
 			document.getElementById('versions').options[i].selected = 'selected';
@@ -50,13 +50,13 @@ function readTextFile(file, id) {
 
 function populateElement(text, id) {
 	var element = document.getElementById(id);
-	var lines = text.split('\n');
+	var lines = text.split('\u0007');
 	
 	if (id == 'versions') {
 		var values = ''
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				values += lines[i] + ';';
+				values += lines[i] + '\u0007';
 				element.innerHTML += '<option value="' + lines[i]  + '">' + lines[i] + '</option>';
 			}
 		}
@@ -66,7 +66,7 @@ function populateElement(text, id) {
 	} else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				element.innerHTML += '<div class="questLine"><img src="./resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
+				element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + i + '<img src="./resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
 			}
 		}
 	}
@@ -97,3 +97,23 @@ function switchTheme(event) {
 		elems[i].classList.toggle('light');
 	}
 }
+
+/*
+JSON.parse() takes a JSON string as input and converts it into JavaScript object:
+
+const me = `{ "name": "Atta", "age": 30, "twitter": "@attacomsian" }`
+const data = JSON.parse(me)
+console.log(data.name)		// Atta
+console.log(data.age)		// 30
+console.log(data.twitter) 	// @attacomsian
+
+JSON.stringify() does the opposite. It takes a JavaScript object as input and transforms it into a string that represents it in JSON:
+
+const data = {
+	name: 'Atta',
+	age: '30',
+	twitter: '@attacomsian'
+}
+const me = JSON.stringify(data)
+console.log(me)		// {"name":"Atta","age":"30","twitter":"@attacomsian"}
+*/
