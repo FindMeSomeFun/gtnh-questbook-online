@@ -66,7 +66,7 @@ function populateElement(text, id) {
 	} else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				element.innerHTML += '<div class="questLine"><img src="' + repo + 'resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
+				element.innerHTML += '<div class="questLine"><img src="./resources/image/item/' + lines[i++] + '.png" alt="No Image"> <span> ' + lines[i] + '</span> </div>';
 			}
 		}
 	}

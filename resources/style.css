@@ -64,7 +64,7 @@ input[type=checkbox] {
 }
  
 input[type=checkbox] + label {
-	background-image: url('https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/image/sun.png');
+	background-image: url('./image/sun.png');
 	background-size: 32px 32px;
     filter: invert(100%);
 	height: 32px;
@@ -72,7 +72,7 @@ input[type=checkbox] + label {
 	display: inline-block;
 }
 input[type=checkbox]:checked + label {
-	background-image: url('https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/resources/image/moon.png');
+	background-image: url('./image/moon.png');
 	background-size: 32px 32px;
     filter: invert(0%);
 }
