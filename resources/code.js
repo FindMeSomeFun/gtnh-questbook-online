@@ -33,13 +33,6 @@ for (var i = 0; i < newParams.length; i++) {
 	}
 }
 
-function switchTheme(event) {
-	var elems = document.getElementsByClassName('dark');
-	for (var i = 0; i < elems.length; i++) {
-		elems[i].classList.toggle('light');
-	}
-}
-
 readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLines.txt', 'questLines');
 
 function readTextFile(file, id) {
@@ -87,7 +80,6 @@ function showList() {
 
 window.onclick = function(event) {
 	if (event.target.matches('.questLine')) {
-		document.getElementById('questLineId').src = event.target.children[0].src;
 		document.getElementById('questLineImg').src = event.target.children[1].src;
 		document.getElementById('questLineName').textContent = event.target.children[2].textContent;
 		var dropdowns = document.getElementsByClassName('dropdown-content');
@@ -97,6 +89,13 @@ window.onclick = function(event) {
 				openDropdown.classList.remove('show');
 			}
 		}
+	}
+}
+
+function switchTheme(event) {
+	var elems = document.getElementsByClassName('dark');
+	for (var i = 0; i < elems.length; i++) {
+		elems[i].classList.toggle('light');
 	}
 }
 
