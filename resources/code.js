@@ -1,34 +1,43 @@
-var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
-
-var url = new URL(window.location.href);
-// Set theme
-var param = url.searchParams.get('light');
-alert("param: " + param);
-if (param == '1') {
-	document.getElementById('lights-on').checked = true;
-	switchTheme();
-} else {
-	document.getElementById('lights-on').checked = false;
-}
+const repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
+var availableVersions = [];
+var fallbackVersion = '';
+var questLineId = '';
+var questId = '';
 
 readTextFile(repo + 'resources/versions.txt', 'versions');
-// Set version
-param = url.searchParams.get('version');
-if (document.getElementById('availableVersions').value.includes(param)) {
-	var array = document.getElementById('availableVersions').value.split('\u0007');
-	for (var i = 0; i < array.length; i++) {
-		if (array[i] == param) {
-			document.getElementById('versions').options[i].selected = 'selected';
-			break;
+
+// Parse URL parameters because regular way does not work on https://htmlpreview.github.io/
+const parts = window.location.href.split('?');
+const newParams = parts[parts.length - 1].split('&');
+for (var i = 0; i < newParams.length; i++) {
+	var param = newParams[i].split('=');
+	if (param[0] == 'light') {				// Set theme
+		if (param[1] == '1') {
+			document.getElementById('lights-on').checked = true;
+			switchTheme();
+		} else {
+			document.getElementById('lights-on').checked = false;
 		}
+	} else if (param[0] == 'version') {		// Set version
+		var index = availableVersions.indexOf(param[1]);
+		if (index < 0) {
+			readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
+			alert('Version ' + param[1] + ' does not exist, fallback to ' + fallbackVersion);
+			index = availableVersions.indexOf(fallbackVersion);
+		}
+		document.getElementById('versions').options[index].selected = 'selected';
+	} else if (param[0] == 'questLineId') {	// Set questLine
+		
+	} else if (param[0] == 'questId') {		// Set quest
+		
 	}
-} else {
-	readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
-	var fallbackVersion = document.getElementById('fallbackVersion').value;
-	if (param != null) {
-		alert('Version: ' + param + ' does not exist, fallback to ' + fallbackVersion);
+}
+
+function switchTheme(event) {
+	var elems = document.getElementsByClassName('dark');
+	for (var i = 0; i < elems.length; i++) {
+		elems[i].classList.toggle('light');
 	}
-	document.getElementById('versions').value = fallbackVersion;
 }
 
 readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLines.txt', 'questLines');
@@ -54,16 +63,14 @@ function populateElement(text, id) {
 	var lines = text.split('\u0007');
 	
 	if (id == 'versions') {
-		var values = ''
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
-				values += lines[i] + '\u0007';
+				availableVersions.push(lines[i]);
 				element.innerHTML += '<option value="' + lines[i]  + '">' + lines[i] + '</option>';
 			}
 		}
-		document.getElementById('availableVersions').value = values;
 	} else if (id == 'fallbackVersion') {
-		document.getElementById('fallbackVersion').value = lines[0];
+		fallbackVersion = lines[0];
 	} else if (id == 'questLines') {
 		for (var i = 0; i < lines.length; i++) {
 			if (lines[i] != '') {
@@ -90,13 +97,6 @@ window.onclick = function(event) {
 				openDropdown.classList.remove('show');
 			}
 		}
-	}
-}
-
-function switchTheme(event) {
-	var elems = document.getElementsByClassName('dark');
-	for (var i = 0; i < elems.length; i++) {
-		elems[i].classList.toggle('light');
 	}
 }
 
