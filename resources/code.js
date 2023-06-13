@@ -27,7 +27,7 @@ for (var i = 0; i < newParams.length; i++) {
 		}
 		document.getElementById('versions').options[index].selected = 'selected';
 	} else if (param[0] == 'questLineId') {	// Set questLine
-		
+		loadQuestLineTree(param[1]);
 	} else if (param[0] == 'questId') {		// Set quest
 		
 	}
