@@ -74,8 +74,8 @@ function populateElement(text, id) {
 		}
 	} else if (id == 'questLineTree') {
 		document.getElementById('questLineDesc').innerHTML = data[0];
-		element.style.width = data[1];
-		element.style.height = data[2];
+		element.style.width = data[1] + 'px';
+		element.style.height = data[2] + 'px';
 		element.innerHTML = ""
 		for (var i = 3; i < data.length; i++) {
 			if (data[i] != '') {
