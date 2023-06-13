@@ -13,3 +13,5 @@ Usage: [URL]?light=1&version=2.3.0&questLineId=1&questId=1
 Page preview at:
 
 https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html
+
+Attribution to https://github.com/GTNewHorizons/GT-New-Horizons-Modpack

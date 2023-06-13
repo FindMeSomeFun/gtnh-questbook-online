@@ -5,31 +5,31 @@
 		<link type="text/css" rel="stylesheet" href="./resources/style.css">
 		<title>GTNH BetterQuesting Wiki</title>
 	</head> 
-	<body class="dark">
-		<div id="main">
-			<div id="header">
-				<div class="dropdown">
-					<button onclick="showList()" class="dropbtn dark">
-						<img id="questLineImg" src="./resources/image/gtnh.png"> <span id="questLineName"> Select A QuestLine</span>
-					</button>
-					<div id="questLines" class="dropdown-content">
-					</div>
-				</div>
-				
-				<span>
-					<label>Version:</label>
-					<select id="versions"> </select>
-				</span>
-				
-				<div id="theme-btn">
-					<input type="checkbox" onchange="switchTheme(event)" name="lights-on" id="lights-on"/>
-					<label for="lights-on"></label> 
+	<body class="switch-theme dark">
+		<div class="switch-theme dark" id="header">
+			<div class="dropdown">
+				<button onclick="showList()" class="dropbtn switch-theme dark">
+					<img id="questLineImg" src="./resources/image/gtnh.png"> <span id="questLineName"> Select A QuestLine</span>
+				</button>
+				<div id="questLines" class="dropdown-content">
 				</div>
 			</div>
 			
+			<span>
+				<label>Version:</label>
+				<select id="versions"> </select>
+			</span>
+			
+			<div id="theme-btn">
+				<input type="checkbox" id="lights-on"/>
+				<label onclick="switchTheme()"><img src="./resources/image/sun.png"></img></label> 
+			</div>
+		</div>
+		<div id="main">
 			<div id="questLineDesc">
 			</div>
-			<div class="dark">
+			
+			<div class="switch-theme dark">
 				<div id="questLineTree">
 					<div id="welcome">
 						<h1>Welcome to</h1>

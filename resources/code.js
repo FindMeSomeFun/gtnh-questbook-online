@@ -5,6 +5,7 @@ var questLineId = '';
 var questId = '';
 
 readTextFile(repo + 'resources/versions.txt', 'versions');
+readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
 
 // Parse URL parameters because regular way does not work on https://htmlpreview.github.io/
 const parts = window.location.href.split('?');
@@ -13,27 +14,31 @@ for (var i = 0; i < newParams.length; i++) {
 	var param = newParams[i].split('=');
 	if (param[0] == 'light') {				// Set theme
 		if (param[1] == '1') {
-			document.getElementById('lights-on').checked = true;
 			switchTheme();
-		} else {
-			document.getElementById('lights-on').checked = false;
 		}
 	} else if (param[0] == 'version') {		// Set version
 		var index = availableVersions.indexOf(param[1]);
 		if (index < 0) {
-			readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
 			alert('Version ' + param[1] + ' does not exist, fallback to ' + fallbackVersion);
 			index = availableVersions.indexOf(fallbackVersion);
 		}
 		document.getElementById('versions').options[index].selected = 'selected';
-	} else if (param[0] == 'questLineId') {	// Set questLine
-		loadQuestLineTree(param[1]);
-	} else if (param[0] == 'questId') {		// Set quest
-		
 	}
 }
 
 readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLines.txt', 'questLines');
+
+for (var i = 0; i < newParams.length; i++) {
+	var param = newParams[i].split('=');
+	if (param[0] == 'questLineId') {	// Set questLine
+		loadQuestLineTree(param[1]);
+		var qstLine = document.getElementById('questLines');
+		document.getElementById('questLineImg').src = qstLine.children[param[1]].children[1].src;
+		document.getElementById('questLineName').textContent = qstLine.children[param[1]].children[2].textContent;
+	} else if (param[0] == 'questId') {		// Set quest
+		
+	}
+}
 
 function readTextFile(file, id) {
 	var rawFile = new XMLHttpRequest();
@@ -114,9 +119,22 @@ window.onclick = function(event) {
 	}
 }
 
-function switchTheme(event) {
-	var elems = document.getElementsByClassName('dark');
+function switchTheme() {
+	var themeInput = document.getElementById('lights-on');
+	if (themeInput.checked) {
+		themeInput.checked = false;
+		themeInput.nextElementSibling.children[0].src = './resources/image/sun.png';
+		replaceTheme('light','dark');
+	} else {
+		themeInput.checked = true;
+		themeInput.nextElementSibling.children[0].src = './resources/image/moon.png';
+		replaceTheme('dark', 'light');
+	}
+}
+
+function replaceTheme(current, next) {
+	var elems = document.getElementsByClassName('switch-theme');
 	for (var i = 0; i < elems.length; i++) {
-		elems[i].classList.toggle('light');
+		elems[i].classList.replace(current, next);
 	}
 }
