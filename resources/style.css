@@ -55,13 +55,13 @@ span {
 }
 
 #questLineTree {
-	background-color: #000;
 	position: relative;
-	min-height: 400px;
+	margin: 50px;
 }
 
 #questInfo {
-	background-color: #222;
+	background-color: #444;
+	text-align: center;
 }
 
 /* Theme toggle */
