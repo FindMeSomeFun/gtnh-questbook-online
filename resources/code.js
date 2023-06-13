@@ -74,8 +74,10 @@ function populateElement(text, id) {
 		}
 	} else if (id == 'questLineTree') {
 		document.getElementById('questLineDesc').innerHTML = data[0];
+		element.style.width = data[1];
+		element.style.height = data[2];
 		element.innerHTML = ""
-		for (var i = 1; i < data.length; i++) {
+		for (var i = 3; i < data.length; i++) {
 			if (data[i] != '') {
 				var questId = data[i++];
 				var x = data[i++];
