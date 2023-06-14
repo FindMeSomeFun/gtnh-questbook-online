@@ -1,0 +1,31 @@
+3040Where Do I Build the Dyson Swarm?If you read the Dyson Swarm Ground Unit's tooltip carfeully (which you should), you might have noticed, that it mentions a "dimension-dependent factor". The dimension you build the Dyson Swarm multiblock in can greatly affect the real power output.
+
+§lSorted by factor (descending):§r
+§a231% - Barnarda C
+228% - α Centauri Bb
+198% - Vega B
+194% - Venus Space Stations
+176% - Venus
+161% - Mercury
+141% - Barnarda E
+134% - T Ceti E
+126% - Barnarda F
+112% - Ross128b, Ross128ba
+110% - Earth Space Stations
+§6100% - Overworld, Moon
+§c89% - Mars Space Stations
+81% - Mars, Phobos, Deimos
+61% - Asteroids
+60% - Ceres
+48% - Jupiter Space Stations
+44% - Europa, Io, Ganymede
+36% - Saturn Space Stations
+32% - Enceladus, Titan, Callisto
+25% - Uranus Space Stations
+23% - Oberon, Proteus, Miranda
+20% - Neptune Space Stations
+18% - Triton
+16% - Pluto, Kuiper Belt
+15% - Makemake, Haumea
+1% - Garden, Mining and Void Worlds
+§40% - All other dimensionsAND3039gregtech/gt.blockmachines~14001ANDcheckboxdreamcraft/item.CoinSpaceIV~01

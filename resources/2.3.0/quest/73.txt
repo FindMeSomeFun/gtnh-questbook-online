@@ -1,0 +1,3 @@
+73§3§lBasic Crafting: Machine HullsAll machines need a hull to keep their private parts together. Good news is: They are crafted in the same way for every tier, only the materials change.
+
+§3As noted on the tooltip, you can also use a machine hull to pass EU through, at 1A. This can be useful for a 1A diode on Thermos servers, splitting cables from 4A->1A or in a cleanroom later. You can also pass items or fluids through it.AND67gregtech/gt.blockmachines~1360948gregtech/gt.metaitem.01~11304ANDcraftinggregtech/gt.blockcasings~11craftinggregtech/gt.blockmachines~111itemharvestcraft/poachedpearItem~02itemdreamcraft/item.CoinTechnician~015

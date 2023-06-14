@@ -1,0 +1,35 @@
+2145§1§lE_TOO_MANY_KEYSERROR: Too many keys to fit a 104 key keyboard.
+
+There are lots of keybinds in this modpack, to avoid conflicts most of them are unbinded by default and only those available from the start of the game are binded.
+Here is a list of what some of them do :
+
+
+BetterQuesting
+GRAVE - Open Questbook
+
+Battlegear
+R - Draw Weapons - It's a second hotbar that holds weapons
+
+Draconic Evolution
+V - Place the item you are holding on the block you are looking at
+
+Journeymap
+B - Create a Waypoint
+J - Open Fullscreen Map
+= - Zoom In (works on minimap too)
+- - Zoom out
+
+Inventory Tweaks
+R - Sort Inventory
+
+Share Where I am
+INSERT - Places a temporary beam where you are looking at that will be seen by you and other players
+SHIFT + INSERT - Places a temporary beam where you are that will be seen by you and other players
+CTRL + INSERT - Shares with other players the position you are looking at
+CTRL + SHIFT + INSERT - Shares with other players your position
+
+Waila - Shows informations of what you are looking at
+NUMPAD1 - show/hide the Waila HUD
+NUMPAD3 - shows how to craft what you are looking at
+NUMPAD4 - shows the crafting usages of the thing you are looking at
+AND0minecraft/wheat~0ANDcheckboxgregtech/gt.metaitem.01~20374

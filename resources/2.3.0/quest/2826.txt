@@ -1,0 +1,3 @@
+2826Solid-Oxide Fuel Cell Mk IIIt's the same as the previous, but more/better. It takes less time to heat up, but it chews through fuel pretty fast too. It still isn't as good as an LGT for power produced over time, but it can produce power faster. As long as you use it with the HP Steam Turbine.
+
+It can produce 1A+ of LuV if you set it up right.AND860gregtech/gt.metaitem.01~110281245gregtech/gt.metaitem.01~32653ANDoptional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~131021itemgregtech/gt.metaitem.01~3068616enhancedlootbags/lootbag~81itemdreamcraft/item.CoinTechnicianII~010

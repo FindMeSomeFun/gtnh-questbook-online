@@ -1,0 +1,14 @@
+1452Launch ControllerThe Launch Controller has been modified in GTNH to provide additional functionality. If you launch from a Launch Pad with the Launch Controller set up, the countdown will be greatly reduced, and you will teleport directly to the receiving Launch Pad. It will use half the rocket's fuel up though. This is very useful on laggy servers and can act as an early teleport option if you don't like the magical solutions. You will need to set up a Rocket Launch Pad with Launch Controller and possibly a Fuel Loader on either side.
+
+If you don't to use it for yourself, you can also try to use it for the Cargo Rocket. To use those at full capacity it is necessary to equip a Rocket Launch Pad, to send items, with:
+
+Fuel Loader
+Launch Controller
+Cargo Loader
+And the receiving side with:
+
+Fuel Loader
+Launch Controller
+Cargo Unloader
+
+It is also possible to use Buildcraft pipes to transfer items into the Cargo loaders. Next step is to set up the Frequencies in both Launch Controllers (i.e. Set: A to target B, B to target A). Have a look at Launch Controller to setup the automated launch. The first time you have to right-click the Cargo rocket and press launch at the top right corner.AND1429GalacticraftMars/item.spaceshipTier2~0ANDretrievalGalacticraftCore/tile.landingPad~018choiceGalacticraftMars/item.null~54gregtech/gt.metaitem.01~1131616enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~02

@@ -1,0 +1,9 @@
+2141§6§lWelcome to the Church of BenzeneIf you made it to MV using steam, you're probably wondering how to survive going further. One option is to switch to Light Fuel, discussed in LV. Another option is to use Benzene. Benzene is made from Wood Tar. There are a couple of pathways for that. Both start with logs from trees.  
+
+One path is to use Coke Ovens or Advanced Coke Ovens to make charcoal, and fluid-extract Wood Tar from it (use LV fluid extractors for maximum EU efficiency). Then distill the Wood Tar to make Benzene. This method produces less pollution, but will also provide less Benzene.
+
+The second path is to use the Pyrolyze Oven multiblock and Nitrogen gas to extract Wood Tar and Charcoal. Fluid Extract the Charcoal for addtional Wood Tar. Then proceed as above. This method will create pollution from the Pyrolyze, but will provide more Benzene per log.
+
+Excess wood tar can also be turned into Toluene, a key ingredient for explosives that you'll need later on to make rockets.
+
+If you use the Charcoal Byproducts recipe, you can get a plethora of useful byproducts as well, but you'll need 4 DTs.AND1148gregtech/gt.blockmachines~12ANDretrievalgregtech/gt.metaitem.01~3068664itemenhancedlootbags/lootbag~51

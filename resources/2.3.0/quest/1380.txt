@@ -1,0 +1,5 @@
+1380Wand Focus Pech's CurseThe Pech's Curse is a rare wand focus which cannot be crafted by the player. It can only be obtained from a Pech Thaumaturge -- either by trading, or by killing it for the drop. (If attacked, the Pech will use it against you!)  Its vis cost per shot is 0.1 Perditio, 0.1 Terra and 0.1 Aqua.
+
+The focus fires a small ball of energy with a bright bluish-green trail. This missile is affected by gravity, so the shots need to be "arced" to hit distant targets. When the shot hits a mob, it does one heart of damage and randomly inflicts one of several effects on the target: Poison, Weakness, or Slowness. A 5th-level upgrade to the focus can make it give all the effects at once.
+
+This focus can be upgraded at the Focal Manipulator.AND230Thaumcraft/WandCasting~0ANDretrievalThaumcraft/FocusPech~01itemenhancedlootbags/lootbag~101Thaumcraft/ItemLootBag~21itemdreamcraft/item.CoinDarkWizardII~01

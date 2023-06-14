@@ -1,0 +1,3 @@
+13164k Item Storage CellSecond tier storage cell, which can contain 4,096 bytes of storage. 4,096 bytes of storage can hold 508 stacks of a single item, or 260 stacks, while holding 63 different items. The 4k storage cell uses 32 bytes of data to store a single type.
+
+When placed inside a drive or chest will consume 1.0 ae/t.AND1317appliedenergistics2/item.ItemMultiMaterial~36ANDretrievalappliedenergistics2/item.ItemBasicStorageCell.4k~01choicegregtech/gt.metaitem.01~1101916gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

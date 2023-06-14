@@ -1,0 +1,5 @@
+1642Reward for Desulfurizing AutomationThe greatest reward is having your stuff automated if you've done everything correctly, but here's a reward for making it this far.
+
+Some other setups to look at automating are making polyethylene and nitric acid. 
+
+With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.AND1640gregtech/gt.metaitem.01~30460ANDcheckboxProjRedCore/projectred.core.part~338itemenhancedlootbags/lootbag~52dreamcraft/item.CoinChemistI~08dreamcraft/item.CoinTechnicianI~08choiceProjRedCore/projectred.core.part~308ProjRedCore/projectred.core.part~288ProjRedCore/projectred.core.part~248ProjRedCore/projectred.core.part~208ProjRedCore/projectred.core.part~218ProjRedCore/projectred.core.part~328ProjRedCore/projectred.core.part~338

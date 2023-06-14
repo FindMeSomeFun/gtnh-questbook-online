@@ -1,0 +1,5 @@
+1417§6§lCough Cough - Something Needs to Be Done About the SmellBirds falling out of the sky, fish dead and floating belly up in the rivers, acid rain melting the ground...Time to start picking up the trash and cleaning up the air. Small black steel turbines should be fine for now. You'll need two amps of steady power to keep the scrubber working.
+
+The detector's setting can be changed by clicking on the +/- texture with a screwdriver. Also, in general, better (and larger) turbines work better at cleaning up pollution. The code is too complex to fully explain here, but that's basically it. More EU turbine = more pollution cleaning turbine.
+
+§4This quest covers one method of combating pollution - there are others, including not making as much to begin with.AND1494gregtech/gt.blockmachines~1000ANDretrievalgregtech/gt.blockmachines~7561retrievalmiscutils/itemAirFilter~01retrievalgregtech/gt.metatool.01~1701retrievalgregtech/gt.blockmachines~7591choicemiscutils/itemAirFilter~02enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

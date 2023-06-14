@@ -1,0 +1,9 @@
+2387Mutating SprigThe Mutating Sprig brings a degree of order to the chaotic nature of Mutandis, allowing more limited, but also more predictable effects. It is a key tool in the creation of plant-based devices such as the Leech Chest.
+
+The Mutating Sprig is crafted in the crafting bench using an Ent Twig, Nether Wart and Mutandis Extremis.
+
+Grass - Mutates to Mycellium
+Mycellium - Mutates to Grass
+Dirt (under water) - Mutates to Clay
+
+Wheat in a proper configuration should mutate to wormwood, but because of other mods it doesn't work. You can buy wormwood from the Coins tab instead.AND2336witchery/ingredient~152338witchery/ingredient~82ANDretrievalwitchery/mutator~01choiceTwilightForest/tile.TFPlant~316enhancedlootbags/lootbag~521itemdreamcraft/item.CoinSurvivorI~05dreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05

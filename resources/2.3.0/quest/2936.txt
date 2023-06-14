@@ -1,0 +1,11 @@
+2936§6§lNeutron ActivatorYou will need machine to process the naquadah in future.
+
+This machine is different from most mulits. It needs to use §4Neutron Accelerator§r this special hatch instead of energy hatch to keep it running.
+
+The accelerator will increase its Neutron Kinetic Energy (NKE) and when the NKE is between the requested number which you can see in NEI, the machine will work and output the right products. However, if you turn on the Neutron Activator when NKE doesn't meet the requirement, it will still consume your input material but output trash. So be careful with the NKE when you run this machine.
+
+When all Neutron Accelerator§rs aren't running, NKE will decrease 72keV/s.
+
+Neutron Activator will explode when NKE is over 1200MeV.
+
+§3The more height/speed casings you have, the more inefficient the eu->eV conversion becomes, so you then need more power. The maths is as follows: Multiply recipe time by 0.9 for each height above 4 and multiply eV you get from your input power by 0.95 for each height above 4.AND3090gregtech/gt.blockmachines~32018ANDoptional_retrievalGoodGenerator/speedingPipe~04retrievalgregtech/gt.blockmachines~320131itemenhancedlootbags/lootbag~82itemdreamcraft/item.CoinTechnicianIII~01

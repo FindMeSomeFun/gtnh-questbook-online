@@ -1,0 +1,15 @@
+1989Machine Inventory ManagerThe core block of Stacy's...er Steve's Factory Manager. SFM is a high tier automation system. While AE2 can handle a lot of different crafting tasks, SFM can handle even more complex crafting. It's not actually needed for the assembling line. But still, this is one place where you can go that route.
+
+Inventory Cables connect the MIM to inventories or tanks.
+
+Right now until some Moron figures it out, your best bet is to experiment, ask for help on Discord, and search Google. The interface resembles most GUI based automation systems like LabView.
+
+There have been TPS problems caused by poorly designed SFM setups. Make sure your outputs are properly emptied, and don't get filled.
+
+Inventory cables are the "basic" cable of SFM. They allow the MIM to interact with an inventory, and act as a connector cable to other cables.
+
+mehdi2344 thinks my jokes suck, but he's an idiot, so there. 
+
+Thanks to Nori Silverrage for writing up these quests!
+
+§3BTW, there's a Creative Supplier for creative testing. The Energistics Connector is disabled because it doesn't work correctly.AND1225gregtech/gt.metaitem.01~32705ANDretrievalStevesFactoryManager/BlockCableName~024itemStevesFactoryManager/BlockCableName~040

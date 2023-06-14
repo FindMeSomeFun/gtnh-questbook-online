@@ -1,0 +1,12 @@
+2522Visualizing How Much Your StuffThe ME Storage Monitor allows you to visualize how much of an item you have. For example you can tell if you're running low on circuitsand should make more, or how a long crafting process is proceeding. There are a couple of ways to use them.
+
+Rightclick with item: Will display the current level of that item if not locked.
+Rightclick with empty hand: Will reset the display if not locked.
+Rightclick with AE2 wrench or network tool: Will toggle the lock.
+
+
+The ME Conversion Monitor is the upgraded version of the ME Storage Monitor. It adds the ability to directly withdraw from or store items into the ME Network. It has the normal interactions, plus more.
+
+Shift-right-clicking with item: Attempts to insert the item stack into the network. This works even if it's not the displayed item!
+Shift-double-right-clicking: Attempts to insert all item stacks of the type displayed into the network.
+Right-clicking (while locked): Attempts to pull out a stack of the item displayed.AND2519appliedenergistics2/item.ItemMultiPart~180ANDretrievalappliedenergistics2/item.ItemMultiPart~4201itemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

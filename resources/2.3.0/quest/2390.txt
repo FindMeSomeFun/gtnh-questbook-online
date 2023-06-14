@@ -1,0 +1,12 @@
+2390§a§lJust Enough Tungstensteel For Your RocketOK, now you can:
+
+1) Turn the Tungsten Trioxide into Hot Tungsten Ingots in the EBF with some Carbon
+2) Keep going for TS
+
+We want TS, so put some Hydrogen along with the Tungsten Trioxide in your EBF to get rid of the Oxygen.
+
+Combine your pure Tungsten with Steel in a mixer to get Tungstensteel.
+
+Then EBF and then freeze it to get the Tungstensteel ingot.
+
+§3Note that Tungsten Trioxide to Tungsten Ingot has reduced smelt time. This does not apply to the pure version. You're gonna need a bunch of it in IV as well as the TS, so keep this in mind.AND86gregtech/gt.blockcasings5~32890bartworks/gt.bwMetaGenerateddust~29901ANDoptional_retrievalgregtech/gt.metaitem.01~3000118optional_retrievalgregtech/gt.metaitem.01~20813optional_retrievalgregtech/gt.metaitem.01~23053optional_retrievalgregtech/gt.metaitem.01~23166retrievalgregtech/gt.metaitem.01~113166itemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinChemistII~02dreamcraft/item.CoinSmithII~02dreamcraft/item.CoinTechnicianII~02

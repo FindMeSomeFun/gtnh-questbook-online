@@ -1,0 +1,5 @@
+1203Time for Another ReactorWhile one reactor is nice and all, why not make another? This time you can use the MK3 americium recipe to make it easier. 
+
+Costing just 1 ingot of Plutonium, and 2 cells of hydrogen, this recipe is much easier and faster than the MK2 version. By making americium plasma, then putting it through a turbine, you will get americium in the liquid state. You will need at least 132 plates for the controller and the fusion machine casings.
+
+Plus, free power!AND1198gregtech/gt.blockmachines~1195ANDoptional_retrievalgregtech/gt.metaitem.01~30001264retrievalgregtech/gt.metaitem.01~17103132choicegregtech/gt.metaitem.01~325604gregtech/gt.metaitem.01~327371itemdreamcraft/item.CoinTechnicianIII~05

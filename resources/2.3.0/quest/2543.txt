@@ -1,0 +1,5 @@
+2543Wireless 3.0This upgrade allows unlimited range. You don't even need a Wireless Access Point!
+
+§4Extremely buggy, unfortunately. May randomly disappear, or fall out of the terminal at any time.
+
+§3Many bugs were fixed. Maybe its better now?AND2542ae2wct/wirelessCraftingTerminal~02595gregtech/gt.blockmachines~15300ANDretrievalae2wct/infinityBoosterCard~01itemappliedenergistics2/item.ItemMultiMaterial~584ae2fc/fluid_part~54enhancedlootbags/lootbag~382itemdreamcraft/item.CoinTechnicianIV~01dreamcraft/item.CoinSmithIV~01

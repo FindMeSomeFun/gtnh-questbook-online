@@ -1,0 +1,21 @@
+2026§3§lA Better Way to Find ItemsNEI has a built in search feature for finding an item stored in an inventory nearby. A Stockroom Catalog can give you a list of everything stored in your inventories.
+ 
+Sneak right-click a block with an inventory (a chest, bookcase, barrel, anything with an inventory) to add that inventory to the list of inventories for the catalog to keep track of.
+
+Sneak right-click the same block again to remove that block from the list.
+
+A small particle effect will render on any block that has been selected with the catalog when holding the Stockroom Catalog to let you know that block is being tracked.
+
+Right click to open the GUI and see the list. You can sort the list in ascending or descending order by quantity (Count) or alphabetical order.
+
+You can also see a list of all the inventories that have a particular item and easily add the location of one of those inventories to a stockroom catalog so you can easily find your stuff.
+
+The Stockroom Catalog can also be copied with the typesetting table and printing press.
+
+Click on the title to change it to anything so you can custom label your stockroom catalog.
+
+Click on the small chest icons on the right hand side of each listing to open the inventory list view. 
+
+If you want, you can craft a waypoint compass and use that to point you towards the chest. Since we have JourneyMaps and NEI, it's not really necessary.
+
+§4The Catalog seems to be a bit broken though and doesn't work well with GT items.AND1008minecraft/book~0ANDretrievalBiblioCraft/item.StockroomCatalog~01itemminecraft/chest~016

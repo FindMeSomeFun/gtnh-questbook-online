@@ -1,0 +1,10 @@
+1292Storing Your ME DataA block designed to do one thing, store storage cells. This block holds 10 storage cells so you can tightly pack your storage into a very small space. ME drives show their contents and the storage cell status on the front of the drive face.
+
+Red - Indicates the storage cell is full.
+Orange - Indicates the storage cell cannot hold any more types, but it can store more items.
+Green - Indicates the cell can hold more types, or more items.
+Black - Indicates there is no channel, or power is offline.
+
+It's important to note, that without an ME Network this block does nothing. It's only useful when combined with a way to input, and output items, and requires 2 AE/t power to function, and additional power for each storage cell stored inside it.
+
+About Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.AND183appliedenergistics2/item.ItemMultiMaterial~22184appliedenergistics2/item.ItemMultiPart~16ANDretrievalappliedenergistics2/tile.BlockDrive~01choicegregtech/gt.metaitem.01~1108516gregtech/gt.metaitem.01~1102816enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

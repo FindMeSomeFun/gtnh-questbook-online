@@ -1,0 +1,5 @@
+1300ME in the EtherAfter you link up the wireless terminal in the ME security terminal, it grants portable access to the ME network. Put it into a charger to recharge it.
+
+Holds 1.6m AE in its battery and drains 1 AE/t for each block you are away from the nearest ME wireless access point.
+
+Charge your Wireless Terminals (and the successors) with an EIO Wireless Charger if you don't want to wait a century for them to charge.AND1298appliedenergistics2/tile.BlockSecurity~01299appliedenergistics2/tile.BlockDenseEnergyCell~0ANDretrievalappliedenergistics2/item.ToolWirelessTerminal~01choicegregtech/gt.metaitem.01~1102816gregtech/gt.metaitem.01~1130632enhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02

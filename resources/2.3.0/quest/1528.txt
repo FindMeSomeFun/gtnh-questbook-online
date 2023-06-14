@@ -1,0 +1,9 @@
+1528§5§lPersonal ChunkloadingLet's craft a personal chunkloader. It will load a 3x3 chunk area. You need ender fragments, ender pearls, or coins to power the chunkloader. 
+
+Personal anchors can be powered with ender fragments for 1h, ender pearls for 4 hours, and a varying amount depending on the coin used. 
+
+§aPersonal Anchors§r are loaded once the owner visits, and stays loaded while the player is logged in.
+
+§9Passive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.
+
+§4World Anchors§r are always loaded, even after a server reset.AND102gregtech/gt.blockmachines~251ANDretrievalRailcraft/machine.alpha~21itemminecraft/ender_pearl~04enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

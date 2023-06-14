@@ -1,0 +1,4 @@
+480§2§lMalachiteAnother copper source is "malachite" which can be found between Y 10-40. This vein contains more iron ore variants like "brown limonite", "yellow limonite" and "banded iron ore".
+
+§4Hint:
+To see where a special ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.AND474TConstruct/pickaxe~0ANDretrievalgregtech/gt.blockores~93016choicegregtech/gt.metaitem.01~110358gregtech/gt.metaitem.02~322401enhancedlootbags/lootbag~11itemdreamcraft/item.CoinAdventure~05

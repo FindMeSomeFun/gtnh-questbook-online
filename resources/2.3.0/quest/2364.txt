@@ -1,0 +1,21 @@
+2364Transference GemThe Transference Gem is used to teleport to a marked location.
+
+The Transference Gem uses Energy and can be charged in an Energy Extraction Table.§3 (?)§r Shift+right-clicking on a block with a Transference Gem in hand will link the gem to that block. 
+The state of the gem itself will switch to "Linked", as seen in its tooltip. 
+After linking, the player can right-click with a Transference Gem in hand to teleport to the linked block, using some of the Energy stored in the gem.
+
+Using F3+H to enable detailed item tooltips makes the Transference Gem show the exact coordinates and the dimension of the linked location.
+
+Once the charge of the Transference Gem becomes lower than 44%, negative effects will appear:
+
+Deflection - the player will be teleported to a random location instead of the linked block.
+Various negative potion effects, the lower the charge is - the longer they will last:
+
+Slowness II
+Nausea I
+Weakness II
+Hunger I
+
+Endermen - Angry Endermen will spawn and attack the player.
+Item drop - a random amount of items in player's inventory will drop to the ground.
+Storm - will cause a 2-3 minute storm. This is the most rare effect.AND2363HardcoreEnderExpansion/spatial_dash_gem~0ANDoptional_retrievalgregtech/gt.metaitem.98~46retrievalHardcoreEnderExpansion/transference_gem~01choicegregtech/gt.metaitem.98~464HardcoreEnderExpansion/essence~032HardcoreEnderExpansion/endoplasm~016HardcoreEnderExpansion/arcane_shard~016HardcoreEnderExpansion/end_powder~064enhancedlootbags/lootbag~581itemdreamcraft/item.CoinSmithII~02dreamcraft/item.CoinDarkWizardII~02HardcoreEnderExpansion/knowledge_note~04

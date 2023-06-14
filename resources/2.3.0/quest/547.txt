@@ -1,0 +1,5 @@
+547§5§lYour Oil is Too Crude? Refine it!Burning oil in the combustion generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to refine it.
+
+You'll need to use a circuit to pick which of the products you want. Later on you can make a Distillation Tower to get all of them, but that's far away for now.
+
+You can also distill many other fluids! There are two that are useful, but take a long time to distill, so you should set them up in advance: Lubricant (from Creosote) and Distilled Water (from Water).OR93gregtech/gt.metaitem.01~32610546BuildCraftEnergy/blockOil~0ANDretrievalgregtech/gt.blockmachines~5311choiceIC2/itemCellEmpty~064gregtech/gt.integrated_circuit~01itemdreamcraft/item.CoinTechnicianI~03

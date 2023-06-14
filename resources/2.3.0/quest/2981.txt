@@ -1,0 +1,30 @@
+2981§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§lAir-FilterElectric Air Filter
+
+This wonderful multiblock comes in 3 versions:§9 §rT1 for LV, T2 for late HV and T3 for IV.
+
+§r§9§rIt has 2 modes:
+
+§9§r- a normal mode, where one chunk is processed at a time in the working area, in order, per pollution cleaning cycle.
+- a random mode, where the chunk being cleaned is picked randomly between all the polluted chunks in the working area.
+§r
+To cycle between the modes, right click on the controller with a screwdriver.
+
+§9§rThe controller can change its working area from 1x1 to (2*tier+1) x (2*tier+1) chunks. To do that, right click with a screwdriver on the controller while sneaking. The default size is the maximum working area.
+
+§r§9§rThe pollution removal calculation is equals (by default) to 30 * bonusMultiTier * Muffler Hatches * Turbine Eff * Multiblock Eff * 2.5 ^ Effective Tier where:
+
+- BonusMultiTier is a boost given by the multiblock tier. T1 is 1 (0%), T2 is 1.05 (5%) and T3 is 1.10 (10%)
+
+- Muffler Hatches is the amount of muffler hatches on the multiblock (up to 8)
+
+- Turbine Eff is the efficiency of the turbine chosen to run the multi. It won't run if there is no turbine in the controller.
+
+- Multiblock Eff is the efficiency of the multiblock (100% when no maintenance issue, -10% per issue)
+
+- Effective Tier is the Effective Tier of the multi: the minimum tier between the electric tier of the multi and the tier of the muffler hatches
+
+§rThe pollution cleaning is boosted by two (by default) when using an Absorption Filter. When added in the input bus, it will be consumed and used for 30 (by default) successful pollution cleaning cycle. If a chunk with no pollution in it is processed, that doesn't count as successful, and the multi decides that a chunk has no pollution if the pollution is below 10k gibbl (by default). After the 30th successful pollution cleaning cycle, the output bus will give a Dirty Absorption Filter.
+
+To know if an Absorption Filter is present and how many remaining cycles there are, use an portable scanner on the controller.
+
+§9§rA pollution cycle lasts 10s, and the cleaning is done every second.AND88gregtech/gt.blockmachines~1120ANDretrievalgregtech/gt.blockmachines~120201optional_retrievaldreamcraft/gt.blockcasingsNH~013optional_retrievalgregtech/gt.blockmachines~811optional_retrievalgregtech/gt.blockmachines~918optional_retrievalgregtech/gt.blockmachines~411optional_retrievalgregtech/gt.metatool.01~1701choiceenhancedlootbags/lootbag~43gregtech/gt.metaitem.01~327641dreamcraft/item.AdsorptionFilter~01itemdreamcraft/item.CoinTechnician~075

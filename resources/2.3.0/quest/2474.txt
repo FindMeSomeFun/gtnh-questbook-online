@@ -1,0 +1,1 @@
+24744096k Crafting StorageComponent of the crafting CPU which provides 4,194,304 bytes of storage for crafting.AND2466appliedenergistics2/item.ItemMultiMaterial~59ANDretrievalappliedenergistics2/tile.BlockAdvancedCraftingStorage~21itemdreamcraft/item.EmeraldHighAdvancedCoreChip~01itemdreamcraft/item.CoinTechnicianII~08

@@ -1,0 +1,3 @@
+674Wooden Rail VariantsThe wooden junction, wye and switch tracks need an assembling machine to craft. They allow you to join and switch to tracks going to different locations.
+
+NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.AND676Railcraft/tool.crowbar~0ANDretrievalRailcraft/track~7364choiceRailcraft/track~73616Railcraft/part.railbed~016enhancedlootbags/lootbag~321itemdreamcraft/item.CoinAdventure~015dreamcraft/item.CoinTechnician~015

@@ -1,0 +1,21 @@
+1832§6§lGrinding With WindThe Windmill is a grinder that uses the force of wind to macerate Items and Blocks. You will only get one crushed Ore from it sometimes. However it does give a bonus when you try to macerate other things. That bonus depends on the item inserted, for example Netherrack has a chance to give two instead of one dust and Wheat will always give one and a quarter flour.
+
+The dispensers replace a clay block in the walls. Put anything you like in the interior - a bed, stairs, torches, etc.
+
+Normal multiblock rules apply - do not cross chunk boundaries with this multiblock.
+
+If this is your first GregTech multiblock, as with all the rest you will need to whack the controller with a soft mallet to activate it.
+
+If you have troubles forming the multiblock, try breaking and replacing the controller block.
+
+The controller can be fed items via hoppers etc to allow for larger batches. Just don't allow the dispenser to fill up or it will void outputs.
+
+The rotor blades will run if the controller is disabled or has no recipe. Remove the blades when not in use or else they'll be used up.
+
+Speed and output will be affected by wind speed, recipe, and rotor.
+
+Macerates 16 items at a time.
+
+High wind speeds will decrease output.
+
+The durability will decrease according to the wind speed.OR48gregtech/gt.metaitem.01~113081831minecraft/dispenser~0ANDretrievalminecraft/hardened_clay~045retrievalbartworks/craftingParts~21retrievalgregtech/gt.blockmachines~126981itemdreamcraft/item.CoinTechnicianI~01gregtech/gt.metaitem.02~310321choiceminecraft/leather~012minecraft/carpet~06minecraft/paper~03

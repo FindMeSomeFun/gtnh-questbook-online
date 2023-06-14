@@ -1,0 +1,7 @@
+647Electrotine JetpackYour glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.
+
+A diamond chestplate surrounded with 4 electrotine batteries is powerful enough to bring you up into the air.
+
+It does not have a hover mode so you better take your glider with you. 
+
+Hint: This jetpack can't fly higher than Y-128.AND646ProjRedExpansion/projectred.expansion.battery~0ANDoptional_retrievalgregtech/gt.metaitem.01~178111retrievalProjRedExpansion/projectred.expansion.jetpack~64001choiceProjRedCore/projectred.core.part~5632minecraft/enchanted_book~01enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

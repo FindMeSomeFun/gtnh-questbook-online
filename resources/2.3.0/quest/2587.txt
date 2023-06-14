@@ -1,0 +1,1 @@
+2587UV SolarProduces 1A of UV voltage during the day. Useful if you live in a dimension with permanent day (Eg garden).AND2595gregtech/gt.blockmachines~153002777gregtech/gt.metaitem.01~32759ANDretrievalsupersolarpanel/PhotonicSolarPanel~01

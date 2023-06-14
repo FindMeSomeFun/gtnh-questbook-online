@@ -1,0 +1,38 @@
+1778Warp WarningsThaumcraft offers considerable power from its devices and tools. But power comes with a price.... That price is represented by Warp: A corruption of the character's mind and soul, inflicting progressively more dire effects upon them. 
+
+While the effects of warp can range from annoying to deadly, accumulating enough of it can also grant you access to greater power... at the cost of increasing madness, and attention from dark powers. At least, others may call it madness... but is it truly insanity, when the voices in your head grant useful knowledge?
+
+Warp Theory adds a bunch of new Warp Effects to the Player. Be very careful because you don't want to spawn a Wither in your base.
+
+5 warp: Message
+10 warp: Fake Explosion
+15 warp: Coin, Pumpkin
+20 warp: Lay Eggs, Spawn Phantoms
+25 warp: Fake Creeper, Fake Rain
+30 warp: GregTech Fake Sounds, Spawn Bats
+35 warp: Blood, Fake Enderman
+40 warp: Spawn Friendly Creeper
+45 warp: Jump Boost, Nausea
+50 warp: Insomnia, Vis Drain
+55 warp: Thunderstorm
+60 warp: Spawn Fire Bats
+65 warp: Blindness, Poison
+70 warp: Livestock Rain
+75 warp: Spawn Doppelganger
+80 warp: Spawn Endermen, Wither Potion
+85 warp: Wind
+90 warp: Ender Pearl
+95 warp: Blaze Fireball
+100 warp: Litmus Paper, Junk
+110 warp: Obsidian
+120 warp: Lightning
+125 warp: Inventory Swap
+130 warp: Random Teleport
+140 warp: Acceleration
+150 warp: Fake Wither, Inventory Scramble
+160 warp: Countdown Bomb
+170 warp: Mushrooms
+175 warp: Snow
+180 warp: Decay
+190 warp: Swamp
+200 warp: Spawn WitherAND231Thaumcraft/ItemThaumonomicon~0ANDcheckboxmiscutils/itemGenericToken~01choiceWarpTheory/item.warptheory.paper~016Thaumcraft/ItemBathSalts~04Thaumcraft/ItemSanitySoap~02Thaumcraft/ItemLootBag~02

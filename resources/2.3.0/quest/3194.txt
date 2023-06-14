@@ -1,0 +1,7 @@
+3194Smaller Fusion Is BiggerIt's not smaller, it's compact!
+
+Compact Fusion. If you've been looking for a big multiblock to put together, you have arrived at a very neat thing. There's hardly anything that could beat its size, except for a max height Mega Distillation Tower, but this is instead a wide multi instead of a tall one. It is so wide, in fact, that it cannot fit in one chunk, and instead covers a 3x3 chunk space! Make sure you follow the instructions and the hologram properly, and jump in joy when you have one of these built.
+
+You can choose one of four tiers for this reactor, in the same way as the normal Fusion Reactors. The Compact controller will need 48 of the regular controllers in the same tier, plus some other materials, and more than 2 thousand blocks in the structure, which are conveniently detailed in the tooltip. It is much bigger than the previous reactors, but it also has a huge number of parallels, starting at 64x with t1 and ending at a maximum of 256x with t4! 
+
+This is the go-to when you have found yourself deep into t3 fusion, perhaps even t4, and you find yourself running short on power. Instead of making a tower of reactors, why not make one of these? The only power issue that you'll have after getting it done is the amount of turbines you will need to eat up all the plasma.AND3192eternalsingularity/combined_singularity~1ANDoptional_retrievalgregtech/gt.blockmachines~320211retrievalGoodGenerator/compactFusionCoil~21

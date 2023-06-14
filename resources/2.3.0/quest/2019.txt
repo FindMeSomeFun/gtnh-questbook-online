@@ -1,0 +1,9 @@
+2019The Basics of SFMVariables - Declaration vs Standard
+Declaration is simply creating a variable with eligible blocks in it. This allows easy updating of workflows. For instance you could have a variable that contains 2 chests. You use it in a nifty for each loop and later add another chest. Simply update the variable and the for each loop will start using it.
+
+Standard variables are able to be inserted into the middle of a workflow (it has input/output) and thus can be modified on the run.
+
+Please note that for each loops will require a empty variable to work with. This is listed as "Element" in the loop.
+
+Global vs Local
+Global will keep changes to a variable that are done in the workflow, whereas local keeps anything done local to that part of the workflow.AND1989StevesFactoryManager/BlockMachineManagerName~0ANDcheckboxenhancedlootbags/lootbag~71itemStevesFactoryManager/BlockMachineManagerName~01

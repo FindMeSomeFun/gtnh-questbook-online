@@ -1,0 +1,3 @@
+990§9§lEnergetic AlloyEnergetic alloy is a new alloy from EnderIO made out of gold, conductive iron and black steel dust. Double-layer capacitors need it, as does the HV energy hatch.
+
+§3The direct mixer recipe has 7 ingredients, so you need an EV mixer or a multiblock to use it. You have to use the other one for now.AND78gregtech/gt.blockcasings5~1160gregtech/gt.blockmachines~13ANDretrievalgregtech/gt.metaitem.01~1136616itemenhancedlootbags/lootbag~61EnderIO/itemBasicCapacitor~016itemdreamcraft/item.CoinChemistI~05dreamcraft/item.CoinTechnicianI~05

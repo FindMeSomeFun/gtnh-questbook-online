@@ -1,0 +1,3 @@
+2877Applied Greg?ME Buses are combination of technology and...other technology. Don't give me that look, it is, ok? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.
+
+You just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.AND1302appliedenergistics2/item.ItemMultiPart~440ANDretrievalgregtech/gt.blockmachines~27131itemgregtech/gt.blockmachines~27101itemdreamcraft/item.CoinTechnicianII~01

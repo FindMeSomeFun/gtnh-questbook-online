@@ -1,0 +1,47 @@
+2072Planetary TearsIndeed you will be crying over all the tiers you have to do for planets. Here is a handy reference.
+
+Tier 1 - Requires Oxygen Gear
+Moon
+
+Tier 2 - Requires Thermal Padding
+Deimos
+Mars
+Phobos
+
+Tier 3 - Requires tier 2 Thermal Padding
+Asteroids - Counts as Zero-G, because there's no planet
+Callisto
+Ceres
+Europa
+Ganymede
+Ross128b - Habitable Planet (needs no Oxygen Gear/Thermal Padding)
+
+Tier 4 - Requires tier 2 Thermal Padding
+Io
+Mercury
+Venus - Requires SpaceSuit
+
+Tier 5  Requires tier 2 Thermal Padding
+Enceladus
+Miranda
+Oberon
+Ross128ba
+Titan
+
+Tier 6 - Requires tier 2 Thermal Padding
+Proteus
+Triton
+
+Tier 7   Requires tier 2 Thermal Padding
+Kuiper Belt - Also counts as Zero-G
+Haumea
+Makemake
+Pluto
+
+Tier 8 - Requires tier 2 Thermal Padding
+Alpha Centauri Bb - Requires SpaceSuit
+Barnarda C - Habitable Planet (needs no Oxygen Gear/Thermal Padding)
+Barnarda E
+Barnarda F
+Tau Ceti E - Habitable Planet (needs no Oxygen Gear/Thermal Padding)
+Vega BAND810GalacticraftCore/item.spaceship~0ANDcheckboxdreamcraft/item.CoinTechnicianII~05

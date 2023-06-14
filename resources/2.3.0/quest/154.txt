@@ -1,0 +1,1 @@
+154§6§lSimple Fluid TransferJust like the item translocators, the fluid ones transfer... fluids. Same restrictions apply, 1 block distance. These can also be upgraded.AND153Translocator/translocator~0ANDretrievalTranslocator/translocator~11itemTranslocator/diamondNugget~02enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

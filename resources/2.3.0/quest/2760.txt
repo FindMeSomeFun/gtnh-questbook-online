@@ -1,0 +1,3 @@
+2760What Even is This?In addition to being a dehydrator multi, it's also a Vacuum Furnace, for which no singleblock exists. It's supposed to be used with the IsaMill Grinding Machine multi and the Flotation Cell Regulator multi for the purposes of ore milling, an advanced method of ore processing that needs a lot of infrastructure, but which gives many new outputs for each ore it supports.
+
+§3This multi is ZPM.AND1416gregtech/gt.blockmachines~8102610gregtech/gt.blockmachines~17ANDretrievalmiscutils/gtplusplus.blockcasings.4~101itemenhancedlootbags/lootbag~421

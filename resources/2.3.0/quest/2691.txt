@@ -1,0 +1,5 @@
+26912-EthylanthraquinoneDoes anyone else wonder why these chemicals have numbers in the name? No? Just me? Moving on, to make it, combine Phthalic Anhydride and Ethylbenzene in the Chemical Plant to make 2-Ethylanthraquinone.
+
+BTW the other recipe that makes this is used later in the processing chain. You can loop the 2-Ethylanthraquinone so you don't have to make more if you don't want to scale up.
+
+§3You need Palladium for the next quest.AND2692miscutils/itemDustPhthalicAnhydride~0ANDoptional_retrievalmiscutils/Ethylbenzene~05optional_retrievalmiscutils/2Ethylanthraquinone~05checkboxmiscutils/2Ethylanthraquinone~05

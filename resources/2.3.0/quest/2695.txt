@@ -1,0 +1,9 @@
+2695Serious UpgradesSo if you thought 'hey, the purple stuff wasn't that bad, why not make the green?', well, first of all, you may need professional help. Second, you're going to need to be in ZPM to make the casings you need, full stop. You need a ZPM ABS for the components, so come back once you've made a ZPM Energy Hatch.
+
+You can probably figure most of it out on your own, but keep in mind that some of the materials need to be created in the ABS, solidified, macerated, and then used in another ABS recipe. Examples are: Hastelloy-N and Inconel-792.
+
+Laurenium is also like this, and also inclues Rhenium and Dysprosium. Rhenium uses a nonstandard ABS recipe to make, and Dysprosium requires either making Rare Earth (III) or going to the Toxic Everglades. You'll also need to make Rare Earth (I) for Ytterbium or, again, visit the Everglades for it.
+
+Have fun with that!
+
+§3You'll almost certainly need more than this, but the exact amount, as always, depends on your hatches and busses.AND2610gregtech/gt.blockmachines~17ANDretrievalmiscutils/gtplusplus.blockspecialcasings.2~270

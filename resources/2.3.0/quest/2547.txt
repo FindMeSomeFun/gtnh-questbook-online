@@ -1,0 +1,6 @@
+2547Autocrafting Magic StuffThe Arcane Assembler works like a combination of the Molecular Assembler and the Arcane Workbench, allowing you to autocraft anything crafted in the latter. You need to link a vis relay through the network to supply essentia to it, and a Knowledge Core with recipes on it for to work. Additionally, you can add vis discount gear into the interface to take advantage of the discount. The base discount starts at 20%. For each Acceleration card, the time taken will reduce by 20%, and increase power used by 50%. For every point of warp on the discount gear, the power costs increase by 15%.
+
+The knowledge core holds up to 21 patterns for use in the Arcane Assembler, but you need a new assembler for every knowledge core if you want to autocraft more than that.
+
+To encode the patterns, you need a Knowledge Inscriber. It works exactly as you would expect. It doesn't connect to the network, so it doesn't need a channel. If you want to erase a pattern select it and the save icon should become erase instead.
+AND2512thaumicenergistics/material~0ANDretrievalthaumicenergistics/thaumicenergistics.block.knowledge.inscriber~01itemenhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02dreamcraft/item.CoinDarkWizardII~02

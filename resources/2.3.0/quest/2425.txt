@@ -1,0 +1,23 @@
+2425Greenhouses on Mountains, Hell on EarthYou're almost there! To actually use the ritual, you need to recruit a coven first. Find some Coven Witches and complete their quests:
+The means to control the dead -> Necromantic Stone
+The beating means to master the infernal dimension -> Demon Heart
+I must perform many curses, bring me the necessary brew -> Brew of the Grotesquex5
+I desire to predict the future -> Crystal Ball
+Or just fight something.
+
+Once completed, they'll disappear until you need them. They will sometimes appear near your spawn point if you walk by it, so don't position it over lava or something, since they CAN die and reduce the number of your coven. You can have 6, with one extra appearing for Cauldron work. Consider keeping some extras around in a dungeon just in case.
+
+After you recruit your coven, you just need a few things for the ritual itself: Spider Eye, Toe of Frog, Wool of Bat, Tongue of Dog, Owlet's Wing, Attuned Stone, and Attuned Stone (Charged).
+
+To specify the biome, look in the Book of Biomes, and find 1) the type (Forest, Plains, etc), and 2) the number. Type determines the foci used, and number determines the amount of Glowstone Dust used to get that specific biome. Make sure to pack up a ritual circle into a circle talisman so you don't have to redraw it, and bring some cobblestone to make a flat area (15x15, any height). Try not to do it at night unless you like dealing with infernals.
+
+To actually do the ritual, have the ritual circle on the ground, the items (including the foci and Glowstone) in the circle, and right-click the center with the Seer's Stone.
+
+The area affected is determined by the number of witches in your coven. It's 16 * (size of coven - 3) radius in a circular area, so 16/32/48 if it doesn't fail.
+
+Unfortunately, sometimes after logging out and back in again you may find that it didn't work correctly in specific chunks, this is (possibly) due to lack of chunk updates and it not saving the changed biome ID correctly. Just redoing the ritual doesn't really help, you'll just get patches in the same places, however placing water after the ritual and before logging out may help with this. Or use chickens. Lots of chickens.
+
+Also, if you already have crops in the area, they'll disappear until a block update or relog.
+
+§3PS: To pack your circle back up, you need to bring your altar with you.
+AND2344witchery/ingredient~942424ForbiddenMagic/SubCollar~0ANDretrievalwitchery/ingredient~111itemenhancedlootbags/lootbag~561minecraft/spider_eye~08witchery/ingredient~908witchery/ingredient~248witchery/ingredient~258witchery/ingredient~898witchery/ingredient~108witchery/ingredient~118minecraft/glowstone_dust~064itemdreamcraft/item.CoinWitchII~05

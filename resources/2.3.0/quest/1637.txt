@@ -1,0 +1,6 @@
+1637Storing the FluidsFirst we should make a place to store all the fluids we'll use.
+
+If you're interested what they'll be used for:
+1 for oxygen
+1 for hydrogen
+1 for sulfuric acidAND547gregtech/gt.blockmachines~5311636BuildCraftEnergy/bucketOil~0ANDretrievalgregtech/gt.blockmachines~1303

@@ -1,0 +1,3 @@
+1427Tier 2 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 11 tier 2 heavy duty plates out of tier 1 plates and meteoric iron plates.
+
+You'll need to make a couple of tungstensteel ingots to make these plates. You can process end stone or end stone dust, or macerate moon blocks to get some.AND1426gregtech/gt.blockores~3401433GalacticraftCore/tile.moonBlock~14ANDoptional_retrievalgregtech/gt.metaitem.01~113166optional_retrievalgregtech/gt.metaitem.01~3246311retrievalGalacticraftMars/item.null~311choiceGalacticraftCore/item.heavyPlating~01gregtech/gt.metaitem.01~1734016IC2/blockITNT~032enhancedlootbags/lootbag~71itemdreamcraft/item.CoinSpaceII~02dreamcraft/item.CoinTechnicianII~02

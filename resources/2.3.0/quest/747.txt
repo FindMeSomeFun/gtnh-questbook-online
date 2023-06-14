@@ -1,0 +1,4 @@
+747§5§lDiodesGood circuits need diodes. There are two main ways to craft them. You can crush the Gallium Arsenide crystals to dust and combine that with fine copper wires and molten glass. Once you have solar grade silicon you can use it to make silicon wafers in your EBF to make even more. Note that the wafers are much more efficient on gallium and arsenic, so even a reduced amount is still worth it.
+
+Make sure you check all the NEI recipes for advanced items instead of just using the first one you find. You can use annealed copper wires and polyethylene to increase your output even more. 
+AND836gregtech/gt.metaitem.03~32190ANDoptional_retrievalgregtech/gt.metaitem.02~1903516optional_retrievalgregtech/gt.metaitem.01~19804retrievalgregtech/gt.metaitem.01~327158choicegregtech/gt.metaitem.01~28742gregtech/gt.metaitem.01~20204enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

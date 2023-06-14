@@ -1,0 +1,11 @@
+2354Enhanced Brewing StandAfter the altar creation is complete, a player has to place up to 8 solid blocks (of any kind) near the altar. These blocks require 1 block of air above them and no solid blocks touching them on the sides and diagonally. These blocks are the pedestals. The Dragon Essence Altar will project purple particles to all the pedestals connected to it.
+
+Placing an item on the pedestal is done by throwing. After the item has been placed on top of the pedestal, the altar will start "infusing" the item using Dragon Essence stored in the altar itself. Adding more essence to the altar is done by right-clicking.
+
+Infusing makes items repair themselves (excluding items which require Energy), increase the level of existing enchantments (up to 4 enchantments per item) and even gain new enchantments.
+
+There are two items by this mod which can be obtained only by Dragon Essence infusion:
+
+Enhanced Brewing Stand - by infusing a vanilla Brewing Stand, requires 20 pieces of Dragon Essence.
+
+Temple Caller - by infusing a vanilla Eye of Ender, requires 50 pieces of Dragon Essence. It's disabled though, so don't bother.AND2351HardcoreEnderExpansion/essence_altar~1ANDoptional_retrievalminecraft/brewing_stand~01retrievalHardcoreEnderExpansion/enhanced_brewing_stand~01itemHardcoreEnderExpansion/essence~016enhancedlootbags/lootbag~571itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinSmithII~01dreamcraft/item.CoinAdventureII~01HardcoreEnderExpansion/knowledge_note~01

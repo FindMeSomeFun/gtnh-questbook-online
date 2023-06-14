@@ -1,0 +1,11 @@
+1270Time for a SpadeThis item is a combined Weeding Trowel, Hoe and Shovel. If you're the type that accidentally does things, only use this when necessary, as it's easy to mess up and use it to harvest/destroy your crops when you wanted to get rid of a weed.
+
+You can use it to get seeds from crops when they're §9immature§r using §6right-click§r at very low rates. Using §4left-click§r when §9immature§r will result in nothing.
+
+If it's §amature§r, use §6left-click§r to have a higher chance of a seed dropping. Using §4right-click§r when §amature§r will result in lower seed drops than punching it normally.
+
+Keep in mind that the higher the tier/stats of the crop, the lower the chances. By a lot.
+
+§3The formula is 1+tanh((-1)(X+5((-Re/2)+Gr+Ga)/21)/12); X=0 to 16
+
+Where Re, Gr, Ga are respectively Resistance, Growth and Gain stat of the crop, and X is tier. Don't ask me whether this is for L/R-click, ask bart or look at the code.AND724IC2/itemWeed~01081gregtech/gt.blockmachines~222ANDretrievalberriespp/itemSpade~01choiceIC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01

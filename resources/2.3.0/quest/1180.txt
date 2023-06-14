@@ -1,0 +1,9 @@
+1180§6§lPassive ChunkloadingUsing the MV bender you can finally press dense plates. So let's craft a passive chunkloader. It will also load a 3x3 chunk area. You need ender pearls or coins to power the chunkloader. 
+
+Passive anchors will run for 1 hour off of an ender pearl, and a varying amount depending on the coin used. 
+
+§aPersonal Anchors§r are loaded once the owner visits, and stays loaded while the player is logged in.
+
+§9Passive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.
+
+§4World Anchors§r are always loaded, even after a server reset.AND1081gregtech/gt.blockmachines~222ANDretrievalRailcraft/machine.alpha~131itemdreamcraft/item.CoinChunkloaderTierI~04enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

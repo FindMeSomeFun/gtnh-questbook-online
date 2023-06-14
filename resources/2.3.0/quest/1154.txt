@@ -1,0 +1,9 @@
+1154§5§lMagnalium Crossbow BoltsMagnalium bolts are much better than your old wooden bolts.
+
+You can use nether quartz on the bolts to make them even better. This requires a free modifier slot.
+
+Experiment with NEI to find other good bolt materials. 
+
+To make it, you must use a Fluid Solidifer instead of the Tinker's casting table.
+
+§4You'll need to get the molten iron out of the smeltery and into the fluid solidifier, the GT molten iron won't work.AND1150TConstruct/Crossbow~01155gregtech/gt.blockmachines~521ANDoptional_retrievalTConstruct/metalPattern~11retrievalTConstruct/fletching~11retrievalTGregworks/tGregToolPartToolRod~16021retrievalTConstruct/BoltPart~16021retrievalTConstruct/BoltAmmo~01itemgregtech/gt.metaitem.01~113825enhancedlootbags/lootbag~41itemdreamcraft/item.CoinSmith~015dreamcraft/item.CoinTechnician~015

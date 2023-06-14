@@ -1,0 +1,1 @@
+2064Healing Your NodesMany of the nodes of the wild have damage, and unjarring a captured node can also cause damage. The Node Manipulator can help you recover the nodes to full strength, and increase their recharge speed.AND275Thaumcraft/blockStoneDevice~11ANDretrievalthaumicbases/nodeManipulator~01itemthaumicbases/nodeFoci~21

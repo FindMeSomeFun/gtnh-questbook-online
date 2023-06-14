@@ -1,0 +1,42 @@
+2415Bringing the Biome to YouSo maybe you can't find a swamp or tropical forest for your crops or bees, or maybe they're too far away so they're inconvenient to get to, or maybe your base is in a colder climate and you have to deal with the howls of direwolves constantly. Instead of packing up all your stuff and moving somewhere else, why not try changing the biome? There are a couple different ways to do so in this modpack:
+
+Use the Arcane Terrestrial Reformer from Witching Gadgets
+-Requires EV Circuits, Tungstensteel, Rocket Tier III
+-Also requires Infusion, Void Metal (sufficient warp), Energized Node for CV, lots of Essentia
+-16 block radius
+-Can only change to a few specific Vanilla or Thaumcraft biomes
+-Kind of slow
+
+Use Ritual of Gaia's Transformation from Blood Magic
+-Requires Void Metal, Infusion, Tungstensteel
+-Requires getting deep into BM (and the warp that come with it)
+-Requires 1,000,000 LP, Master Blood Orb, Tier 4 Altar and Awakened Activation Crystal
+-10 block radius, can be exactly specified with bloodstone bricks (either type)
+-Cannot specify which biome you get, you can only change the temperature/humidity within the 0.0 - 2.0 range and hope
+-Some biomes may be impossible due to limited range and overlap
+-Adjust temperature/humidity with items on 8 plinths around the Master Ritual Stone
+-Need to relog to see changes
+-Very little documentation or explanation
+-Fast
+
+Use the Brew of Shifting Seasons from Witchery
+-Small range, depends on the level of the brew (power, not dispersal extent)
+-Biome can be exactly specified
+-Crafted using the complicated custom brew system
+-Can add different ingredients to change range of the brew
+-At min changes a single block
+-At max has about a 3 block (circular) radius
+-Instant (once you use it)
+
+Use the Rite of Shifting Seasons from Witchery
+-Requires Stainless Steel, Greatwood Scepter or better for the Distillery
+-You have to do a bunch of witchery stuff
+-Not hard once you're done it once
+-Extremely large range, 16/32/48 block (circular) radius
+-Biome can be exactly specified
+-Sometimes fails in specific chunks
+-Very Fast
+
+If you want to know how to use the Witchery methods, please go to the Look to the edges tab to continue.
+
+PSA: The IC2&Galacticraft Terraformers only change the surface, not the biome itself.OR721Natura/N Crops~01511Forestry/habitatLocator~0ANDcheckboxdreamcraft/item.CoinTechnician~025

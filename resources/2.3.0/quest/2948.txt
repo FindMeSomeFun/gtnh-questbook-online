@@ -1,0 +1,23 @@
+2948Large Naquadah ReactorThe multi block version of the naquadah reactor, but it is completely different from the single block ones.
+
+It uses liquid naquadah or excited nuclear liquid as fuel, and outputs the depleted fuel. You can see the liquid fuel infomation in NEI.
+
+It consumes 2400 L/s liquid air when running, otherwise it will keep consuming your fuel without outputing power.
+
+§4It will explode with more than one types of fuel in its hatches.
+
+§rYou can input in coolant to increase efficiency.
+IC2 Coolant: 1.05x
+Super Coolant: 1.5x
+Cryotheum: 2.75x
+
+You can also input molten metals to increase power.
+Molten Caesium: 2x
+Molten Uranium-235: 3x
+Molten Naquadah: 4x
+Molten Atomic Separation Catalyst: 16x
+Note: It will consume more fuel to match the output power, unlike coolant which directly increases the power. The molten metal works like 'parallels' for your reactor.
+
+It also supports §9Tec§1Tech§r's Multi-Amp Dynamo hatches and laser hatches.
+
+§3PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.AND2622gregtech/gt.metaitem.01~32676ANDoptional_retrievalGoodGenerator/radiationProtectionSteelFrame~036retrievalgregtech/gt.blockmachines~127321itembartworks/gt.bwMetaGeneratedcell~100412

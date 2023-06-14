@@ -1,0 +1,26 @@
+3209Gas PlanetsYou probably also want a good overview of what you can get with your Gas Siphon. So here we go:
+
+
+Jupiter§r
+1 Hydrogen - 15000 L/s
+2 Helium - 500 L/s
+3 Nitrogen - 300 L/s
+4 Oxygen - 200 L/s
+
+§oSaturn§r
+1 Hydrogen - 18000 L/s
+2 Helium - 800 L/s
+3 Oxygen - 500 L/s
+4 Liquid Oxygen - 150 L/s
+
+§oUranus§r
+1 Deuterium - 5000 L/s
+2 Neon - 450 L/s
+3 Argon - 250 L/s
+4 Krypton - 100 L/s
+
+§oNeptune§r
+1 Tritium - 3000 L/s
+2 Helium-3 - 500 L/s
+3 Ammonia - 400 L/s
+4 Xenon - 350 L/sAND3037gregtech/gt.blockmachines~14002ANDcheckboxdreamcraft/item.CoinDarkWizardI~05

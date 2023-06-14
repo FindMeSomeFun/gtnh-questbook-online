@@ -1,0 +1,13 @@
+2874§1§lLoading the ChunksIn this, like many packs, you'll want to have things in your base keep running while you're off exploring. §3(Though admittedly once you reach midgame you'll spend almost no time off-base, you'll still want to make sure everything is still chunkloaded just in case to prevent machine explosions, especially for multiblocks)§r
+
+In order to have things keep running, you need to have the chunks loaded. You can do this in a few ways.
+
+1) Install FTB Utilities and claim chunks, then set them to chunkload. By default you may not be able to claim/chunkload enough per player, so feel free to increase the number. You need to be in SP or running your own server to do this.
+
+2) Use an Anchor from Railcraft. There are 4 types. Anchors are not craftable until LV. In SP, or a server you run, cheat in Admin Anchors to chunkload forever, for free. They're limited on servers to prevent TPS dropping from people chunkloading a base forever when they aren't even there. On the officials, you need to use Ender Fragments, Ender Pearls, or Coins to fuel them. Look at the tooltip on each for how long it will work, and in what chunkloader. Feel free to limit yourself to chunkloading this way in SP if you want to make it more challenging though.
+
+3) Use chicken chunks to get anchor-like blocks. But don't do this, it's buggy.
+
+4) Use Chunkloader from GT++. You need EU instead of Ender Pearls.
+
+5) Use one of the blocks that chunkloads itself. If you do this on a server, expect the admins to possibly get very mad with you if it's not something you're allowed to do. Same for vanilla methods.AND0minecraft/wheat~0ANDcheckboxenhancedlootbags/lootbag~191itemminecraft/cookie~01

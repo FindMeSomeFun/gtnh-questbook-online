@@ -1,0 +1,3 @@
+1388Wand Focus DistortionThe Wand Focus: Distortion can be equipped on any wand.  It protects the caster from "ordinary" projectiles such as arrows, snowballs, and potions. The focus can be enabled by cycling through the foci currently in the player's inventory, which is done with the F-key. The focus consumes 0.04 Aer and 0.08 Ordo per tick from the Vis stored in the wand while in use.
+
+This focus can be upgraded at the Focal Manipulator.AND1387ThaumicTinkerer/focusFlight~0ANDretrievalThaumicTinkerer/focusDeflect~01itemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~11itemdreamcraft/item.CoinDarkWizardI~05

@@ -1,0 +1,17 @@
+1146§2§lGT6-Styled PipesMaybe you are wondering why the new pipes don't auto-connect anymore? This was changed to make the pipes smarter. You can now use a wrench to connect only the pipes you want. You don't need a plate or a foil to prevent pipes from connecting anymore.
+
+Pipes transferring anything hotter than a certain amount (like steam) will cause damage to a player touching them. You'll want to cover hot pipes to prevent getting hurt if you want to walk over them. Also, if the heat level is higher than the pipe's heat capacity, it will melt.
+
+Right clicking on a pipe in the center of the 'grid' will enable or disable a connection. It will have an X through it if the connection is enabled. You can do the same to any of the 4 corners to adjust the opposite side. You can similarly connect each of the 4 sides by clicking on the closest box in the grid.
+
+Also, pipes now come with a shutter built in for free to reduce sloshing. Shift-rightclick with a wrench on the side you want prevent input.
+
+Pipes will attempt to transfer 1/2 of the capacity twice per second, so the full capacity per second in total.
+
+Large or Huge fluid pipes can be a poor man's storage tank, holding large amounts on their own.
+
+For machine outputs, including the boilers, and RC water tanks (the one made of water tank siding), you will not need pumps. Other tanks will need pumps or Tinker's Construct faucets to move fluids.
+
+You can put covers such as GT oak planks or plates on a pipe as well. Normally this prevents connections in that direction, but you can use a screwdriver to enable connections. This lets you make pipes that look nice going through walls. Use a crowbar to remove covers.
+
+§3Hint: If you click one pipe onto the other they will auto-connect.AND35gregtech/gt.metaitem.01~2300ANDoptional_retrievalgregtech/gt.metaitem.01~173006craftinggregtech/gt.blockmachines~51231choiceIronChest/woodIronUpgrade~02gregtech/gt.metaitem.01~113008enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~05

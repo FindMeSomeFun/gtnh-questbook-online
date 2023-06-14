@@ -1,0 +1,3 @@
+1795Metals From the SkyYou can even create metals not found on Earth using crops! You'll need the proper metal block beneath the crop in order for them to fully mature.
+
+BTW, higher tier crops have a lower chance of dropping seeds, so consider breeding a second one before you try breaking them, ok?AND1601gregtech/gt.metaitem.02~32530ANDretrievalgregtech/gt.metaitem.02~325329choiceIC2/itemCropSeed~01IC2/itemCropSeed~01itemgregtech/gt.blockores~20842gregtech/gt.blockores~20832enhancedlootbags/lootbag~511

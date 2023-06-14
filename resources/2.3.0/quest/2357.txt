@@ -1,0 +1,7 @@
+2357Energy WandEnergy Clusters have different health levels, which affect the regeneration (or leaking) speed.
+
+Clusters can be moved using Energy Wand. Moving them too far or across dimensions can have negative effect on their health.
+
+Blocks that use Energy will take it from Clusters up to 16 blocks away, and from the environment if placed in the End.
+
+Items that use Energy automatically refill in the End, or can be used on a Cluster to start and stop draining the Energy.AND2356HardcoreEnderExpansion/auricion~0ANDoptional_retrievalHardcoreEnderExpansion/endium_block~01retrievalHardcoreEnderExpansion/energy_wand_core~01retrievalHardcoreEnderExpansion/obsidian_fragment~02optional_retrievalgregtech/gt.metaitem.01~270284retrievalHardcoreEnderExpansion/energy_wand~01itemHardcoreEnderExpansion/obsidian_fragment~032enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinSmithII~02dreamcraft/item.CoinAdventureII~02HardcoreEnderExpansion/knowledge_note~02

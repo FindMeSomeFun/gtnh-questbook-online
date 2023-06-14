@@ -1,0 +1,5 @@
+1462Thermal ClothThermal Padding is a set of garments made out of an advanced insulating material. The garments are able to keep a player from freezing to death in the cold environments of Outer Space. They are also able to keep the player from suffering heat exhaustion in an overly hot environment.
+
+The temperature indicator on the Life Support HUD will show if the player is becoming too hot or too cold - as the temperature approaches dangerous levels, an "Invalid Thermal Protection" warning will be shown. On Mars and the Asteroids, simply wearing a full set of Thermal Padding should be enough to fix this.
+
+§3You'll also need some Silicon Rubber.AND1427GalacticraftMars/item.null~3ANDoptional_retrievaldreamcraft/item.MeteoricIronString~0216optional_retrievalGalacticraftMars/item.itemBasicAsteroids~724retrievalGalacticraftMars/item.thermalPadding~31choicegregtech/gt.metaitem.01~1101964gregtech/gt.metaitem.01~1134032enhancedlootbags/lootbag~71itemdreamcraft/item.CoinSmithIII~01dreamcraft/item.CoinTechnicianIII~01

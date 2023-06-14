@@ -1,0 +1,26 @@
+2682TecTech MultiblocksTecTech Multiblock Common Functionality
+
+Multiple Ampere and Laser Hatches Compatibility - to ease power distribution.
+
+Power Pass - Allows connected dynamo hatches to take power from the controller and output it, just like the active transformer does (and that is why the controller always need it in it's recipe if that function is enabled...). §4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!§r
+
+Safe Void - Enabling this moves all EM (Elemental Matter, not all machines use this) from input and output hatches to overflow hatches. Which allows the machine to be disassembled more easily.
+
+Constructable Interface - Allows visualizing the structure with blueprints (there is an API to implement that for any block, but almost nothing does).
+
+From left to right is 1, then clockwise for the rest in TT multi interfaces.
+
+1) Parameters - They are the way of the controller to communicate with player and parameter hatches. Lights indicate status but more detailed information can be seen when moused over. The tooltip contains ID in form of HatchID:ParameterNumber:Direction, Current Status, Current Value, and Short Description.
+
+2) Uncertainty status - These 9 blocks indicate uncertainty status of the machine. If the lights are on, this machine requires an uncertainty resolver. Red = Bad, Green = Good. You need to do the absurd puzzle before using the machine.
+
+Control buttons - Buttons might change their behavior and appearance depending on machine but usually they work like this, starting from top:
+
+3) Power Pass - Toggles Power Pass.
+
+4) Safe Void - Toggles Safe Void.
+
+5) Power Switch - Soft Mallet with your finger...
+
+6) Input slot - Standard functionality.
+AND2005structurelib/item.structurelib.constructableTrigger~0ANDcheckboxGalaxySpace/tcetiedandelions~064

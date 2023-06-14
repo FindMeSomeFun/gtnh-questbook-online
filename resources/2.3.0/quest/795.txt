@@ -1,0 +1,3 @@
+795§5§lBasic Circuit AssemblerAdvanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine. 
+
+However, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!AND92gregtech/gt.metaitem.01~32650529gregtech/gt.metaitem.01~32680717gregtech/gt.metaitem.01~32702ANDretrievalgregtech/gt.blockmachines~11801choicegregtech/gt.metaitem.01~113034gregtech/gt.metaitem.01~113454enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

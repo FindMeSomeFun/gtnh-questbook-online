@@ -1,0 +1,9 @@
+169§9§lThe Creation of LifeBy utilizing large amounts of energy, you're able to reactivate those broken spawners you may have found in the past. If you haven't, you should get one of them now.
+
+If the broken spawner isn't of the type of mob you want to spawn, you'll need to do some extra work. Capture one in a soul vial, then use that and the broken spawner in the soul binder to change the type. This takes forever, and also levels.
+
+Combine a BS with your Powered Spawner in an anvil to set the type for it to spawn. Then you just gotta power it up!
+
+If you set it to capture mode, you can make souls of a specific mob without any danger.
+
+§3Please try to use as few as possible on servers, mobs are laggy. Use crops if possible.AND141EnderIO/itemMaterial~6165EnderIO/blockSoulBinder~0ANDretrievalEnderIO/itemBrokenSpawner~01retrievalEnderIO/blockPoweredSpawner~01choiceenhancedlootbags/lootbag~61EnderIO/itemBasicCapacitor~02itemdreamcraft/item.CoinTechnicianI~05dreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinSurvivorI~05

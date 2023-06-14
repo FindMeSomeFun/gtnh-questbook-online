@@ -1,0 +1,13 @@
+1761Hello World!First things first, let's install OpenOS to the computer so you don't always need disk in the drive. Type in 'install' and then type 'Y' when asked if you wish to install OpenOS.     
+
+When finished, remove the disk and toss it on your wall and reboot the computer.
+
+Type 'df' to display all present file systems and mount points, you'll notice one named OpenOS; this is your hard drive's default name after installing the OS.
+
+Let's change it with 'label -a OpenOS HDD', '-a' checks for names starting with what you type after it with that command. §3<-- part of this is apparently wrong? Thanks for the non-ticket explaining what part, guys.§r
+
+Now for fun, let's make your first program! How about something functional, make a with 'edit startup' this will bring you to an edit page for a new program called startup. Let's just have it do something simple, 'print("Hello World!")' Like that'll never get old.
+
+Now press Ctrl+S to save, and Ctrl+W to get out of that screen. Back in your home root let's now type startup and you'll see it display "Hello World!"  neat huh?
+
+Let's now make startup actually work on startup. Type 'edit .shrc' .shrc is a mystic file that runs shell commands when booting your PC. So in .shrc type 'startup' save and reboot the computer. Now it should say "Hello World!" upon starting. Double neat right?AND1747universalsingularities/universal.bigReactors.singularity~1ANDcheckboxmiscutils/itemGenericToken~01itemgregtech/gt.metaitem.02~320021

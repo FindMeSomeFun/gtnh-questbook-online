@@ -1,0 +1,1 @@
+1821§5§lCable DiodesSometimes you just need a Diode, either to prevent burning up cables when splitting off a main line, or on a Thermos Server's chunk borders. Make one 4A Diode and get a 2A one for free!AND747gregtech/gt.metaitem.01~32715ANDretrievalgregtech/gt.blockmachines~126341itemgregtech/gt.blockmachines~126181itemdreamcraft/item.CoinTechnician~015

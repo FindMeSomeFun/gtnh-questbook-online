@@ -1,0 +1,4 @@
+825§2§lCopper OreCan be found between Y 5-60 either as "Copper Ore" or "Chalcopyrite". Most of the time you'll find it together with  "Iron" and "Pyrite".
+
+§4Hint:
+To see where a special ore can be found click the raw ore in NEI and it will show you more details. Works with small ores too.AND474TConstruct/pickaxe~0ANDretrievalgregtech/gt.blockores~3524choiceTConstruct/oreBerries~25harvestcraft/footlongItem~01enhancedlootbags/lootbag~11itemdreamcraft/item.CoinAdventure~05

@@ -1,0 +1,8 @@
+1510§5§lBiomes Everywhere, But Not the One You Want?Tired of searching all over the map for that Bamboo Forest or Tropical Rainforest? Desperate for clay dust and need to find a Canyon or Mesa biome? Nature's compass will lead you to the biome you're looking for, if it's within range.
+
+Some things to keep in mind:
+1) Biomes from other dims show up on the list, don't bother searching those unless you're in that dim
+2) Radius 10000 means it couldn't find it
+3) You can try again at a different location and you might find it, the range is 10K too. There's also a config setting for those who don't mind the freeze when searching
+4) Artificially created biomes count, so remove them if you want to find a natural one
+5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.AND97gregtech/gt.blockmachines~211ANDretrievalnaturescompass/NaturesCompass~01itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinBees~015dreamcraft/item.CoinForestry~015

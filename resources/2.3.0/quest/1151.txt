@@ -1,0 +1,10 @@
+1151§3§lWooden CrossbowNow you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
+
+Assemble the bow yourself on your tool forge.
+
+§4For upgrades:
+§5§4§3Redstone - Speed on the draw
+Lapis - Fortune on kills
+Moss - Self-repair (this is not visible in NEI until you unlock it in the GTNH Thaumcraft tab)
+
+§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.AND741TConstruct/ToolForgeBlock~0ANDoptional_retrievalTConstruct/woodPattern~231retrievalTConstruct/bowstring~01retrievalTConstruct/Crossbow~01itemenhancedlootbags/lootbag~21itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010

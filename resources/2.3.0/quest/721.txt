@@ -1,0 +1,13 @@
+721Unknown Seeds No MoreYou have a lot of unknown seeds already. Use your scanner to scan all the seeds.
+ 
+Seeds can be planted again to breed better and more resilient crops.
+
+Later you can use your portable scanner to see the crop stats while still in the ground.
+
+Growability depends on having dirt beneath your crop (4 max), biome (swamp/jungle types are all pretty much the same), air quality (increases up to Y124 and don't place a lot above/around your plants), hydration, and fertilizer.  When the crop tier and plant stats get high enough, they will actually die without enough Growability. This is never a concern if you use a good biome though.
+
+As long as you water and fertilize them, you can pretty much grow crops anywhere.
+
+If the Growth stat gets too high, greather than 24 or so, the plant will spread weeds onto neighbors.
+
+Some crops, such as Redwheat or oreberries, require certain light levels to crossbreed or grow.AND719IC2/itemCropSeed~0ANDretrievalIC2/itemCropSeed~032choiceminecraft/glowstone~08IC2/blockCrop~016enhancedlootbags/lootbag~511itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinFarmer~015

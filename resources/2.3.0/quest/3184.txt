@@ -1,0 +1,7 @@
+3184The Fission FinaleHere we are, at the end of fission.
+
+At this time, you have more than entered the fusion tiers. In fact, the last fusion setups go as deep as t2 fusion, so you might be running both fission and fusion at the same time, although the latter is generally easier and more efficient once the structure is built.
+
+One of the ultimate goals of fission is a filled HTGR, or its younger brother, the THTR, two very expensive multis that can grant you essentially infinite power or breeding products. However, the Naquadah Generator that has those excited nuclear fuels can do much more! The Naquadah fuel line is the reason why it was created, and it can replace t3 fusion and beyond by condensing powergen even more than fusion did, and replace the turbine spam.
+
+Those fuels aren't exactly nuclear fission, nor fusion, and more of a chemical line, so they were not included here. If interested, look at NEI to see what they have to offer.AND3185bartworks/bw.HTGRMaterials~123198bartworks/gt.bwMetaGeneratedingotHot~10022ANDcheckboxbartworks/gt.bwMetaGeneratedcell~100031

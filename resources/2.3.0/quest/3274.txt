@@ -1,0 +1,5 @@
+3274Bio ChamberAs I got new technologies, I have seen the need to make a chamber where the circuit board can contain neurons for the wetware boards or the upcoming bioware boards.
+
+The Bio Chamber is a simple upgrade, it doesn't require many resources. Don't know why I didn't make it earlier.
+
+§3It can use any glass.AND2649gregtech/gt.metaitem.03~320733273gregtech/gt.blockmachines~356ANDretrievalIC2/blockAlloyGlass~01

@@ -1,0 +1,1 @@
+1223§b§a§lEV Circuit AssemblerAn EV circuit assembler requires IV Circuits to craft. With this assembler you can make higher tier circuits.AND1246gregtech/gt.metaitem.01~32693ANDretrievalgregtech/gt.blockmachines~11831choicegregtech/gt.metaitem.01~110288gregtech/gt.metaitem.03~3210616enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~02

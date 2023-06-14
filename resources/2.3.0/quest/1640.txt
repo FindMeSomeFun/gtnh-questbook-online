@@ -1,0 +1,3 @@
+1640Dealing with H2SNow let's convert all that H2S into sulfuric acid. Hook up a chemical reactor to electricity, water and interface pipe. Put inside an item responder chip set to accept H2S cells and extract empty cells. Distill that diluted sulfuric acid in distillery and store it in super tank.
+
+Congratulations. You now have a completely automatic desulfuring of oil, automatic production of hydrogen and oxygen and you also store all that sulfuric acid.AND1639gregtech/gt.metaitem.01~30737ANDretrievalProjRedTransportation/projectred.transportation.pipe~21

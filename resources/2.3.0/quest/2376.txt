@@ -1,0 +1,11 @@
+2376CursesA Curse is a magical powder that attaches itself to an area of blocks, a mob, or a player, crafted using living matter, End Powder and specific ingredients.
+
+It can be either placed right on a block or an entity, or thrown. If it gets thrown into a group of entities, it will have a chance to hit more than one at the same time.
+
+Curses eventually disappear, but they can be made eternal by crafting them with stardust and an arcane shard. Eternal Curses will stay forever on blocks and mobs, and longer than normal Curses on players.
+
+Curses placed on blocks are only visible to the player who cast it, and for a short duration to players affected by it.
+
+Getting very close to a Curse makes it visible without having it affect you, but it requires extreme carefulness.
+
+It is possible to remove Curses by using a Potion of Purity.AND2372HardcoreEnderExpansion/living_matter~0ANDretrievalHardcoreEnderExpansion/end_powder~04choiceHardcoreEnderExpansion/endoplasm~01HardcoreEnderExpansion/essence~04HardcoreEnderExpansion/silverfish_blood~01HardcoreEnderExpansion/arcane_shard~02HardcoreEnderExpansion/living_matter~01enhancedlootbags/lootbag~581itemdreamcraft/item.CoinChemistII~05dreamcraft/item.CoinDarkWizardII~05HardcoreEnderExpansion/knowledge_note~06

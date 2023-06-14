@@ -1,0 +1,19 @@
+2711Fluids for Copying CulturesOk, so let's say you've made some kind of culture, but you want more of it? You only need one per Vat, but they're consumed when making DNA Samples, so you should probably learn how.
+
+To start off, you'll need to get an eColi Culture.
+
+Use that to make the eColi Bacteria Fluid.§3 (I know the name is completely different, deal with it)§r
+
+Centrifuge that to make Liquid DNA.
+
+And combine it with Radon in the Mixer to make FluorecentdDNA.
+
+eColi Bacteria Fluid can also be Centrifuged for Plasma Membranes (10% chance) and EnzymesSollution, so do that as well.
+
+And then Centrifuge the EnzymesSollution again for Polymerase.
+
+You should expect to need a significant amount of eColi Bacteria Fluid if you plan on copying a lot of cultures, or making the hard to make ones.
+
+§3To search for items related to copying cultures, search for 'culture', 'dna sample', or 'plasmid'. You can't do this for the Data Orbs, you have to check the uses of DNA Samples.
+
+§5A bunch of the fluids have incorrect spelling, don't blame me for it.AND2649gregtech/gt.metaitem.03~32073ANDretrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.98~111retrievalgregtech/gt.metaitem.98~131retrievalgregtech/gt.metaitem.98~171

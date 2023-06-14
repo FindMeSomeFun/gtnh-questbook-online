@@ -1,0 +1,5 @@
+41§2§lDon't Burn Your Fingers!You have decided it's time to make some tasty pizza, but your fingers got burned badly. Reading an ancient cookbook you discovered a pair of magical items that would allow you to carry anything hot, even lava in a bucket.
+
+§6§5The gloves have to be placed in the Baubles ring slots of Thaumcraft. You also have to place each in the correct slot, you'll get a notification if it's wrong.
+
+§rFor the protection effect, the hot item has to be in your active slot. I wonder if there is some way to carry more than a few buckets at a time?AND43Natura/barleyFood~3ANDoptional_retrievalharvestcraft/wovencottonItem~06craftingdreamcraft/item.OvenGlove~11itemIguanaTweaksTConstruct/clayBucketFired~02itemdreamcraft/item.CoinTechnician~010

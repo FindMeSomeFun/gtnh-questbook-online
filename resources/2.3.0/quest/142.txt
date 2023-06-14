@@ -1,0 +1,3 @@
+142§6§lBrewing LiquidsThis machine is not only capable of brewing more powerful burnable liquids, it can also be used to brew nutrient distillation, which might have further usage soon™.
+
+Note that you get different ratios depending on what item you use for recipes that allow alternates. Use what you like.AND132EnderIO/blockCombustionGenerator~0ANDretrievalEnderIO/blockVat~01choiceenhancedlootbags/lootbag~51EnderIO/itemBasicCapacitor~01itemdreamcraft/item.CoinChemist~025dreamcraft/item.CoinTechnician~025

@@ -1,0 +1,14 @@
+1621§c§lFluid TP for Magic-HatersHate magic (and fluid P2P), but still want to TP fluids? TT has your back with the Ender Fluid Link Cover!
+
+Place one on a tank and open the GUI.
+Color: Links to same color.
+
+Public: Links to any of the same color not set to private. Use an internet program to find out what the numbers mean, and get colors you like.
+Private: Does not link to public version of that color. Meaningless in SP.
+
+Import: Exports from attached tank.
+Export: Send to attached tank.
+
+You can use multiple as inputs and/or outputs. It runs at 8000L/t.
+
+You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.AND1490gregtech/gt.metaitem.01~32695ANDretrievaltectech/item.tm.enderfluidlinkcover~02

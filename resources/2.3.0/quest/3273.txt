@@ -1,0 +1,13 @@
+3273PCB FactoryAll those boards made in a chemical reactor. It's time to stop that, there must be a more efficient way to make them. After a couple days of research I have found one, a factory designed to print out circuit boards.
+
+§4§5§a§d§r§a§rThe PCB Factory is able to use a wide range of plastics to create circuit boards ready to be used. The printing mechanism overheats when it tries to overclock currently, so I will have to find a way to make that work later. Boards with neurons on them will also take a bit before they can be made, but it won't be hard to achieve.
+
+§T§2Trace size: the trace size represents the lines between components, which are needed to transmit the electrical signals on the circuit. One can make it smaller to slow down the machine, but use less resources, or make it bigger to make it faster, but use more resources.
+
+§1Formulas:
+- 10000/(TraceSize/100) Production
+- RecipeDuration/TraceSize^2 Time
+
+§2Using the GUI, the player can go to the configuration menu. There they can change the trace size or add new parts to the multiblock. One can also change where they are placed around the multiblock.
+
+§3Make sure to set the configuration you want before using the structure lib blueprint for autobuild.AND2611gregtech/gt.metaitem.01~32656ANDretrievalgregtech/gt.blockmachines~3561retrievalgregtech/gt.blockcasings3~101itemgregtech/gt.metaitem.03~3210664gregtech/gt.metaitem.03~3210416gregtech/gt.metaitem.03~321058

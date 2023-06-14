@@ -1,0 +1,1 @@
+1987§3§lUpgrading DrawersDrawer upgrades are different than barrel upgrades. First you need to make the ugprade template.AND65gregtech/gt.metaitem.01~11305ANDretrievalStorageDrawers/upgradeTemplate~03itemStorageDrawers/upgradeTemplate~06

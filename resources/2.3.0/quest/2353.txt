@@ -1,0 +1,22 @@
+2353Find all the Ores in the EndEnd Powder Ore:
+Generated in the End in between End Stone at every height level. When the ore is mined with any type of pickaxe, it will drop one or two pieces of End Powder.
+
+Endium Ore:
+Rare ore that starts to appear near Dungeon Towers, and gets more common the further you travel.
+
+Igneous Rock Ore:
+Generated in the End in the Burning Mountains and sometimes in the Endstone Blobs. This block emits lava particles but does no damage to the player. When the ore is mined with an Iron Pickaxe or better, it will drop one Igneous Rock.
+
+Note: the Fortune Enchantment does not affect Igneous Rock Ore. However, the Silk Touch enchantment does work with this block. You can get better output by crushing the block with machines.
+
+Instability Ore:
+Generated in the End in the Biome Islands. When the ore is mined with a Advanced Pickaxe, it has a 40% chance to drop one Instability Orb, otherwise it breaks without providing any items.
+
+Note: the Fortune Enchantment increases the chance of getting an Instability Orb by 4% per enchantment level.
+
+Stardust Ore:
+Generated in the End in the Biome Islands. When the ore is mined with an Advanced Pickaxe, it has a chance to drop 0-4 pieces of Stardust. Even though this ore comes in clusters, two ore blocks from the same cluster can be generated away from each other, making Stardust Ore a rare resource which requires thorough exploration and mining.
+
+Stardust Ore block has different textures on its sides.
+
+Sphalerite: You can macerate it for crushed normal sphalerite,OR2356HardcoreEnderExpansion/auricion~02358HardcoreEnderExpansion/arcane_shard~02359HardcoreEnderExpansion/endoplasm~02360HardcoreEnderExpansion/fire_shard~0ANDretrievalHardcoreEnderExpansion/sphalerite~016choiceHardcoreEnderExpansion/sphalerite~132HardcoreEnderExpansion/essence~016enhancedlootbags/lootbag~571itemdreamcraft/item.CoinAdventureII~01dreamcraft/item.CoinSurvivorII~01HardcoreEnderExpansion/knowledge_note~01

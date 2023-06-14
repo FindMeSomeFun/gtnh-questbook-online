@@ -1,0 +1,1 @@
+1000§9§lRF Solar PanelIt's possible to power RF machines with a solar panel. It outputs 10 RF/t. Perfect for low use RF machines.AND933gregtech/gt.metaitem.01~32750989gregtech/gt.metaitem.01~11367ANDretrievalEnderIO/blockSolarPanel~01itemenhancedlootbags/lootbag~61EnderIO/itemBasicCapacitor~016itemdreamcraft/item.CoinTechnicianI~05

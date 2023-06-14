@@ -1,0 +1,13 @@
+592Multifarm: GearboxTo power your farm and have it automatically harvest crops, you will need at least one farm gearbox to supply power. You can use either RF or EU. If you use EU, make sure to use a cable to allow conversion. Farm operations can be hastened with additional gearboxes.
+
+Testing has shown that splitting the amps to 4 gearboxes (4A ULV) works better than sending 1A LV to 4 gearboxes.
+
+A max sized IC2 Crop farm (5x4x5) using all space possible with max stat seeds (31/31/0) on a fast crop needs only 6A ULV to keep up.
+
+Similarly, a max sized small farm (3x4x3) using all space possible with max stat seeds (31/31/0) on a high tier, moderate speed crop needs only 4A ULV.
+
+Sending more power to the same gearbox doesn't work. If it can get to max RF capacity but your farm can't keep up, sending more power won't help, so add more gearboxes.
+
+In addition, you lose 2 EU from the the energy emitting device for every A of ULV (which is only 8 to begin with), so it's not nearly as efficient as using LV or higher. Just keep in mind that more A to more gearboxes is better than to the same one.
+
+Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.AND582Forestry/ffarm~0ANDoptional_retrievalgregtech/gt.metaitem.01~326001retrievalForestry/ffarm~22choiceForestry/thermionicTubes~24Forestry/thermionicTubes~04Forestry/thermionicTubes~14enhancedlootbags/lootbag~191itemdreamcraft/item.CoinFarmer~025

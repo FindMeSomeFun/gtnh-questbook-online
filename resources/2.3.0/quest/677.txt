@@ -1,0 +1,9 @@
+677MinecartAfter you craft your first cart the journey can begin...
+
+Well, not really. You will need some kind of tracks first.
+
+§3We here at QuestBook, Inc. do not guarantee the usefulness of minecarts or trains in any way. Especially since you can mine out a vein in a single session once you have a hammer and backpacks.
+
+§c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with blocks to prevent carts from disappearing.
+
+Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.AND36gregtech/gt.metatool.01~16ANDoptional_retrievalgregtech/gt.metaitem.01~280324optional_retrievalgregtech/gt.metaitem.01~321002optional_retrievalgregtech/gt.metaitem.01~170323craftingminecraft/minecart~01choicegregtech/gt.metaitem.01~321002Railcraft/track~7368enhancedlootbags/lootbag~321itemdreamcraft/item.CoinAdventure~010dreamcraft/item.CoinTechnician~010

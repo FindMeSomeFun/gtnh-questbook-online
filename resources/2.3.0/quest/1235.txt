@@ -1,0 +1,5 @@
+1235§9§lLV MicroprocessorThe Microprocessor is the highest tier version of the LV circuit, getting you 2 per recipe.
+
+In addition to what's listed, you'll need 2 Resistors, Transistors, and Capcitors, SMD or non-SMD.
+
+This advanced circuit type needs a cleanroom.AND940gregtech/gt.blockmachines~11721015gregtech/gt.metaitem.03~321061221gregtech/gt.blockmachines~1181ANDoptional_retrievalgregtech/gt.metaitem.02~190352retrievalgregtech/gt.metaitem.03~320782choicegregtech/gt.metaitem.03~321062gregtech/gt.metaitem.03~320451gregtech/gt.metaitem.03~320202enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05

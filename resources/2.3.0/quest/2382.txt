@@ -1,0 +1,13 @@
+2382Infused AltarAltar with one or more special effects (enhancements).
+
+The way to make an enhanced altar is to right click a Brewing Stand with End Powder in your Hand. You can continue adding as many effects to one Altar as you want.
+
+Enhancements:
+Range (Block of Lapis)
+Increase the range a item can be infused by the Altar.
+
+Speed (Block of Redstone)
+Increasing the speed of the Altar.
+
+Efficency (Block of Emerald)
+Reduce the cost of Dragon Essence using in a Altar recipe.AND2352HardcoreEnderExpansion/essence_altar~0ANDretrievalHardcoreEnderExpansion/essence_altar~01retrievalminecraft/emerald_block~03itemHardcoreEnderExpansion/essence~032enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinSmithII~02HardcoreEnderExpansion/knowledge_note~02

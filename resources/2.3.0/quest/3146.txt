@@ -1,0 +1,3 @@
+3146Focus on BreedingThis side of the advanced fission branch will focus on the items you can get from nuclear fission. In terms of physics, this fission refers to atoms being broken into two parts, each of which generates a different atom. This has potential to produce some interesting stuff and, perhaps, replace some chemical lines.
+
+As you advance, your rewards will scale just as the complexity does. However, this part is one where development has lagged behind, and some fission setups are poorly rewarding when it comes to byproducts. However, as those setups are updated, so will these quests, so check back on new updates to see what has changed!OR3150gregtech/gt.blockmachines~8353153GalaxySpace/item.RobotArm~0ANDcheckboxenhancedlootbags/lootbag~411

@@ -1,0 +1,5 @@
+130§6§lPortable TanksUntil now, you had to use buildcraft tanks with dollies to carry liquids around. Which can be a pain with all that slowness. These portable tanks from EnderIO are able to push and pull liquids by themselves, as they have a built-in pump which is powered by some magic energy source. How convenient.
+
+The pressurized versions are twice as large.
+
+§3Just be careful, because it will eat water cells instead of returning them. AND129EnderIO/itemMachinePart~0ANDretrievalEnderIO/blockTank~01choiceenhancedlootbags/lootbag~51EnderIO/itemBasicCapacitor~01itemdreamcraft/item.CoinTechnician~025

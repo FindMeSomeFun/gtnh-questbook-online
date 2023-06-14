@@ -1,0 +1,7 @@
+38§2§lMaking Better ToolsWith aluminium and copper, you can create a material with a higher melting temperature, "Aluminum Brass", which can be used to cast better tools.
+
+But first you'll need a smeltery. See the Multiblock Goals tab for details. You can also grab some extra blocks from some villages, but they don't count towards the quest.
+
+You can then use your fancy new bronze to make better tools with a higher mining level.
+
+§3Remember, you need to gather mining xp or use an upgrade slot to get the full mining level on your bronze pickaxe.AND30gregtech/gt.metaitem.01~1103535gregtech/gt.metaitem.01~23001866gregtech/gt.metaitem.01~2019ANDretrievalTConstruct/metalPattern~21retrievalTConstruct/metalPattern~31retrievalTConstruct/pickaxeHead~141retrievalTConstruct/shovelHead~141itemgregtech/gt.metaitem.02~322432itemdreamcraft/item.CoinSmith~05dreamcraft/item.CoinTechnician~05

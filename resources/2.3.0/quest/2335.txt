@@ -1,0 +1,12 @@
+2335Taglock KitTaglock Kits are used to collect taglocks from other players or creatures. Taglocks, such as locks of hair, fingernail clippings or blood, are used in various recipes to create a link between the creature and the magic.
+
+Use a taglock kit on a creature, or the used bed of a player, to collect some taglocks from that being. Repeated use on the same bed will cycle taglocks for each player who has used that bed. The kit can also be used on a Leech Chest to collect taglocks from users who have opened the chest or on a Blood Rose to collect the taglock of the player that walked over it.
+
+Shift-clicking on any bed will fill the kit with the current players taglocks.
+
+Collecting taglocks by using the kit on a player has a chance of failing and informing the other player what you were trying to do. To increase the chance of collecting a taglock from a player, sneak, and prefer approaching from behind.
+
+Taglocks can only be collected from players who are logged into the same world.
+
+Taglock kits are made by crafting a Glass Bottle with a Bone Needle.
+AND333witchery/altar~0ANDoptional_retrievalminecraft/glass_bottle~016retrievalwitchery/taglockkit~016choicewitchery/ingredient~1634minecraft/glass_bottle~064enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05

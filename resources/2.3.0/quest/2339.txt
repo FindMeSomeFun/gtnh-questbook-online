@@ -1,0 +1,7 @@
+2339Redstone Soup?Redstone soup is a witches brew that forms the base for all infusions, although it does have other uses.
+
+Filling a chalice with redstone soup will increase its magical affinity and upgrade it to a filled chalice, doubling its effectiveness.
+
+Drinking redstone soup will boost the health of the drinker for a few minutes.
+
+Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.AND339witchery/chalkritual~01571witchery/distilleryidle~0ANDoptional_retrievalwitchery/ingredient~241retrievalwitchery/ingredient~401choicewitchery/ingredient~391witchery/ingredient~252enhancedlootbags/lootbag~541itemdreamcraft/item.CoinCookII~01dreamcraft/item.CoinChemistII~01dreamcraft/item.CoinWitchII~01

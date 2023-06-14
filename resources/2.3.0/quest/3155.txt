@@ -1,0 +1,32 @@
+3155Thorium as Breeding FuelAlternatively, you might choose to only process Thorium for its main output, Lutetium. This is important because Lutetium is required to make Americium in a Fusion Reactor down the line, and that is a recipe you will need to do in order to progress. Your objective is to breed Thorium into Lutetium, which means you might want to focus on a breeder reactor.
+
+What is a breeder reactor? In this case, it's an IC2 nuke designed to consume as much Thorium as possible. The main cost here is the amount of chambers or nuke components you'll have to make. If you want to save on Overclocked Heat Vents, make a tower of 0-chamber nukes, each with the following setup:
+
+RPR
+ORP
+RPR
+PRP
+RPR
+ORP
+
+R -> Single Fuel Rod of Thorium (9 needed)
+O -> Overclocked Heat Vent (2 needed)
+P -> Reactor Plating (7 needed)
+
+Otherwise, if you have excess Overclocked Heat Vents and want to save up on chambers, turn to this setup:
+
+ORORORO
+ROEOEOR
+ORORORO
+ROROROR
+OPOPOPO
+ROROROR
+
+E -> Heat Exchanger (2 needed)
+R -> Quad Fuel Rod of Thorium (16 needed)
+O -> Overclocked Heat Vent (21 needed)
+P -> Reactor Plating (3 needed)
+
+(Each of the latter is worth 7x the former in terms of breeding.)
+
+To complete this quest, you'll need to get Lutetium from one cycle of the any reactor setup. Which setup you choose is up to you, of course.AND3151gregtech/gt.Thoriumcell~0ANDoptional_retrievalgregtech/gt.metaitem.01~207832retrievalgregtech/gt.metaitem.01~20782

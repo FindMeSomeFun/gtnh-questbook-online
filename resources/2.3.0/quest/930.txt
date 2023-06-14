@@ -1,0 +1,9 @@
+930§5§lAuto MiningAutomatic mining in LV tier? Wow! This nifty machine will collect ores for you, which can be helpful especially in the Nether, as it won't anger pigmen.
+
+Place up to two stacks of mining pipes in the right slots. Each pipe can go 1 block, and allow the miner to dig 1 block further. If you're above Y64, you may need to pipe more in.
+
+This machine only needs 8 EU/t to work, so LV batteries in a batbuff work ok if you don't want to make another generator.
+
+The miner searches for ores in a 17x17 block work area (adjustable with a screwdriver), and comes with a level 1 fortune bonus! Great for gathering additional small ores!
+
+Don't forget to cover it up! These are GT machines, so remember to protect them (and their power sources!) from rain on all sides. And set a waypoint with JourneyMap so you don't forget where you placed it if you place it far away! You'll need to chunkload the miner if you want it to keep working when you're not there.AND530gregtech/gt.metaitem.01~32690ANDretrievalgregtech/gt.blockmachines~6791itemIC2/blockMiningPipe~016enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~020

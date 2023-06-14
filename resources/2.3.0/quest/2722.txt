@@ -1,0 +1,1 @@
+2722§a§lWater, FastThe Remote IO Water Reservoir works like the Everfull Urn in that you can pull water out as fast as you can pull it out, but you can use all the sides to do so.AND1245gregtech/gt.metaitem.01~32653ANDretrievalRIO/tile.machine~01itemgregtech/gt.metaitem.01~326131itemdreamcraft/item.CoinChemistII~01dreamcraft/item.CoinTechnicianII~01

@@ -1,0 +1,16 @@
+836§5§lGallium Arsenide CrystalThe diode requires gallium arsenide, and you may be wondering how to get gallium or arsenic this early in the game.
+
+Sphalerite and zinc are the primary sources of gallium at this tier.
+
+You can find sphalerite in sulfur veins at Y 5-20, and the small zinc ores in the Overworld or the in the Nether at Y 80-210. You won't find much on the Overworld because of obvious reasons. To get additional zinc crushed ore drops, use a Tinker's Construct tool with the Luck (Fortune) enchant on it, probably the best use for all that lapis you got while looking for calcite. Or use a miner, if you don't mind how slow it is.
+
+- Sphalerite can be electrolyzed for a small chance of a gallium dust. Better put in a lot or you might get unlucky.
+- Zinc crushed ore can be washed and then thermal centrifuged or forge hammered and then centrifuged. But you don't always get the crushed ore as a drop, the impure dust doesn't give gallium.
+
+You can get arsenic from realgar small ores in the Nether at Y 15-85. Centrifuge the dusts in a centrifuge.
+
+Other sources are Tinker's Construct cobalt ore in the nether and cobaltite ore in the Twilight Forest. You can use your EBF for that. You also need to level up your pickaxe to ardite or make an Ironwood Pickaxe or LV Miner to harvest cobalt ore.
+
+Another way to get gallium and arsenic is with XP buckets in a crafting grid if you're really desperate.
+
+With your EBF you can combine these two dusts to make a Gallium Arsenide Crystal.AND77gregtech/gt.blockmachines~1000542gregtech/gt.blockmachines~371ANDoptional_retrievalgregtech/gt.metaitem.01~20391retrievalgregtech/gt.metaitem.03~321901choicegregtech/gt.metaitem.01~20371gregtech/gt.metaitem.01~20391enhancedlootbags/lootbag~41itemdreamcraft/item.CoinChemistI~03dreamcraft/item.CoinTechnicianI~03

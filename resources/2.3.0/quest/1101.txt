@@ -1,0 +1,7 @@
+1101Division SigilFind a sigil in a chest? Get one from the Wither? You've heard about a ritual to activate it.
+
+You need an enchantment table, 8 redstone dust, a weapon, and an animal you want to sacrifice. Catching and holding it with a Golden Lasso would be the easiest way. Check in LV for the Golden Lasso quest if you haven't completed it yet.
+
+Place your enchantment table on a grass field and surround it with redstone dust. At midnight, place the animal on or near the table and kill it. You can check with the sigil if it's time yet by right-clicking it on the enchantment table. Of course you also need to have your sigil on you.
+
+Beware! Your actions will have consequences.AND117ExtraUtilities/golden_lasso~01100minecraft/enchanting_table~0ANDoptional_retrievalExtraUtilities/divisionSigil~01optional_retrievalExtraUtilities/golden_lasso~01retrievalExtraUtilities/divisionSigil~01itemminecraft/torch~016ExtraUtilities/unstableingot~11enhancedlootbags/lootbag~91itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinTechnicianI~05dreamcraft/item.CoinSurvivorI~05

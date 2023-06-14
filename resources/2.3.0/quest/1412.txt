@@ -1,0 +1,19 @@
+1412§6§lAssembling LineThe Assembling Line (or 'Assline') is an important machine for high tier components in LuV tier and above for making Motors, Pistons, Robot Arms, Pumps and many more.
+
+The multiblock can be 5-16 blocks long. The minimum length required depends on the number of components and fluids required by the recipe it's crafting. A length of 11 blocks will fit 80 percent of all recipes in GTNH.
+
+The bottom layer must have on one outer side all the Input Hatches for fluids (4), in the bottom middle layer Input Busses for items (10), and on the end 1 Output Bus. Also on the bottom outer layer must be one Maintainance Hatch. The rest is Solid Steel Machine Casings.
+
+The second layer on the outer sides left and right are Reinforced Glass and in the middle center Assembling Line Casing.
+
+The third layer has on the left and right Grate Machine Casings and in the middle Assembler Machine Casings (Note the name change!). The Assembling Line control block and Data Access Hatch are on the opposite edge from the Input Hatches - not at the end with the Output Bus.
+
+The fourth layer is a single line of Solid Steel Machine Casings in the middle (11), with two Energy Hatches for power. Once you have it built, you can replace the two IV energy hatches with 1 LuV energy hatch.
+
+Automating the assline is a difficult challenge! You can used advanced tooles like SFM or OpenComputers, but maybe you can figure out how to do it with Enderio or just AE2.
+
+For more details on using the Assembly Line, check out the wiki page https://tinyurl.com/GTNH-Assline
+
+§3BTW the input busses are ULV to help with your automating, if you don't want to automate it, you can use higher tier ones, unlike the CAL.
+
+You can have up to 16 input busses. If you use the full 16 you should put the output bus to the side.AND1707gregtech/gt.metaitem.03~320881890gregtech/gt.blockmachines~215ANDoptional_retrievalgregtech/gt.blockmachines~901optional_retrievalgregtech/gt.blockcasings2~511optional_retrievalgregtech/gt.blockcasings2~915retrievalgregtech/gt.blockmachines~11701itemminecraft/paper~064gregtech/gt.metaitem.98~664gregtech/gt.metaitem.01~327084enhancedlootbags/lootbag~82itemdreamcraft/item.CoinTechnicianIII~01

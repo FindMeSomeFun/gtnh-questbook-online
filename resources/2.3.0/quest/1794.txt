@@ -1,0 +1,12 @@
+1794Crop StatsWith the portable scanner, you can get the crop's stats and environmental info while it is still in the ground by right clicking it. It also stays scanned after getting the seed. Look for the portable scanner quest after the EBF in Multiblock Goals. About those stats:
+
+§aGrowth§r:
+How fast it grows, with higher = faster. Specifically, it increases the growth points your crop gets per growth tick. If it gets to 24+, your crop acts like a weed, so most people say to stay at 23 or less. However, it will only weed other crops under certain conditions.
+
+1) Is in a cardinal direction on the same Y level. 2) Will only affect dirt/grass, or cropsticks or crops 3) If there's a crop there that is §oalso§r a weed, if it's at a maturity level > 1, it §owon't affect it§r 4) If it affects the crop, it'll be replaced with a normal weed
+
+§9Gain§r:
+Influences chances of how many drops you get, and whether you get any at all. 31 is the best for sure.
+
+§eResistance§r:
+This stat is responsible for a couple of crops' properties: chances for getting a seed while punching crop, resistance of your crop to trampling (jumping on it), decreases chance of crop dying due to lack of enviromental stats, and resistance of crop to weed spread. It also reduces mutation chance as it goes up (apparently). Aim for around 10 for balance.AND1541IC2/itemCropnalyzer~1ANDretrievalgregtech/gt.metaitem.01~327621itemIC2/itemCropSeed~01enhancedlootbags/lootbag~511

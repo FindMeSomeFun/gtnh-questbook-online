@@ -1,0 +1,5 @@
+2027§6§lThermal Boiler - Lava you long timeIf you want energy from Lava and the byproducts, the Thermal Boiler is the perfect solution. It processes Lava super fast for Steam, and with a Lava Filter will provide some centrifuged lava byproducts as well. A great source of Copper, Silver, Gold, Tin, Tantalum, and Tungstate, better outputs than regular lava processing in a Centrifuge.
+
+You can get even better efficiency pairing it with a Large Heat Exchanger. The LHE will turn normal vanilla Lava into Pahoehoe Lava, which will provide Steam and byproducts in the Thermal Boiler. Win/Win/Win!
+
+§3This multi is IV.AND1416gregtech/gt.blockmachines~810ANDretrievalmiscutils/miscutils.blockcasings~11itemmiscutils/itemLavaFilter~03

@@ -1,0 +1,8 @@
+2859Combustion EngineThe combustion engine combusts things for power like a car engine does. You need water in it if it's over 100 degrees, or it will explode. Don't run out of water! You turn it on with a redstone signal.
+
+Your options for fuel are:
+Oil @30RF/t for a total of 150K
+Ethanol @40RF/t for a total of 360K
+Diesel @60RF/t for a total of 1,500K
+
+§3Make sure to use Oil, not raw, light, medium, or heavy oil.AND577Forestry/sturdyMachine~0ANDoptional_retrievalminecraft/piston~01retrievalBuildCraftCore/engineBlock~21itemIC2/itemCellEmpty~116choicegregtech/gt.metaitem.01~3070716gregtech/gt.metaitem.01~307068gregtech/gt.metaitem.01~307084itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015

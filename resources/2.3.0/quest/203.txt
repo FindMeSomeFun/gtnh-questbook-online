@@ -1,0 +1,9 @@
+203Bundled AE ChannelsP2P tunnels. You'll probably want a bunch of them! They act as teleport points from one place to another for the contained information. You need to use a §odifferent§r network to transfer them, so use a subnetwork for that.
+
+They can pack up to 32 channels into 1 channel and transport those to the destination P2P bus. Each P2P tunnel requires 1 free channel. P2P connections cannot be nested, but one transport cable can carry multiple P2P connections. For a normal fluix cable, that's 4 P2P connections, and 16 for dense. You could also use a ME controller on your subnework if that just isn't enough. Or use separate cables.
+
+Generally, you'll want to have the first point be one side of an ME Controller block (remember you can add more!), and the other where some of your machines are.
+
+A nice online guide can be found at https://tinyurl.com/GTNH-AE2 under P2P tunnels.
+
+§IIf you want to use one of the P2P tunnels for something §oother§r than ME channels, use an applicable item on the center of the face of the tunnel, (for example, a GT cable for GT EU, redstone for RS signal, an RF conduit for RF, a torch for light, a bucket for fluid, a chest for items, or an OC cable for OC) and it will convert to that type, even if you pick it up. Use a fluix cable to change it back.AND181appliedenergistics2/item.ItemMultiMaterial~7ANDretrievalappliedenergistics2/item.ItemMultiPart~4602itemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinTechnicianII~01

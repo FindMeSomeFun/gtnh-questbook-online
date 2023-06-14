@@ -1,0 +1,3 @@
+1237§9§lPhosphorus Doped Monocrystalline SiliconTo make more advanced wafers, you need to make phosphorus doped monocrystalline silicon first. The process takes a while, so make sure you have stable power.
+
+You can also get more wafers, and thus more chips out of higher tier boules. You still need to make the lower tier ones sometimes though.AND78gregtech/gt.blockcasings5~1746gregtech/gt.metaitem.01~110201236gregtech/gt.blockmachines~253ANDoptional_retrievalgregtech/gt.metaitem.03~321912retrievalgregtech/gt.metaitem.03~320311choicegregtech/gt.metaitem.01~285664gregtech/gt.metaitem.01~20218enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

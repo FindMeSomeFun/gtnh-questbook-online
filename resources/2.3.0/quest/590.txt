@@ -1,0 +1,5 @@
+590Multifarm: ValveMost farms require water for hydration purposes. Although you can do it manually by supplying it through liquid containers (such as cans), you can also automate the process by using farm valves.
+
+By connecting fluid pipes into the farm valve and supplying water, you can automatically fill the farm's water tank.
+
+If it hasn't rained for a while, the required water will go up, up to 1500%. Use an Everfull Urn, or Reservoir (RIO) for serious water needs.AND582Forestry/ffarm~0ANDoptional_retrievalgregtech/gt.metaitem.02~313051retrievalForestry/ffarm~42choiceForestry/thermionicTubes~104Forestry/thermionicTubes~114Forestry/thermionicTubes~34enhancedlootbags/lootbag~191itemdreamcraft/item.CoinFarmer~025

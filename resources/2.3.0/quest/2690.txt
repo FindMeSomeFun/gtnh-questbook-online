@@ -1,0 +1,3 @@
+26902-EthylanthrahydroquinoneTo make this complicated sounding chemical, combine the similarly named 2-Ethylanthraquinone and Hydrogen along with an Orange Catalyst in the Chemical Plant.
+
+§3You need Palladium to make the Catalyst, so keep that in mind.AND2310gregtech/gt.metaitem.01~20522691miscutils/2Ethylanthraquinone~0ANDoptional_retrievalmiscutils/item.BasicGenericChemItem~31optional_retrievalmiscutils/2Ethylanthrahydroquinone~05checkboxmiscutils/2Ethylanthrahydroquinone~05

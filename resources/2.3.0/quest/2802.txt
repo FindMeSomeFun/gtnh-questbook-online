@@ -1,0 +1,8 @@
+2802Radioisotope Thermoelectric GeneratorRuns for a reaaaally long time. Outputs an amount based on the fuel pellet given.
+
+241Am: 16 EU, 69875 days
+90Sr: 30 EU, 62640 days
+238Pu: 64 EU, 42982 days
+210Po: 480 EU, 34560 days
+
+Honestly, it's super not worth it. Especially considering you need to make a Cyclotron to make the fuel. And it's not even guaranteed!AND1707gregtech/gt.metaitem.03~320882761gregtech/gt.blockmachines~8282801IC2/blockGenerator~6ANDretrievalgregtech/gt.blockmachines~8691

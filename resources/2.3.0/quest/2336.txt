@@ -1,0 +1,13 @@
+2336Mutandis ExtremisMutandis Extremis is an upgraded version of Mutandis that is used by witches and warlocks to mutate plants into other species. Mutandis Extremis has all the same properties as basic Mutandis but it can even be used on multi-stage plants like wheat, cactus, etc. and can also mutate cooked meat.
+
+If Mutandis Extremis is used on a Grass block there is a chance it will mutate it into Mycelium and vice versa.
+
+If Mutandis Extremis is used on an underwater dirt block there is a chance it will mutate it (and nearby dirt) into clay blocks.
+
+Mutating plants is the only way to acquire Rowan, Hawthorn and Alder saplings.
+
+Some recipes require Mutandis Extremis as an ingredient.
+
+Mutandis is crafted using Mutandis and Netherwart.
+
+§3Some cauldron recipes require altar power. This is one of them. Make sure you read the Witches' Brews book.AND1555witchery/ingredient~14ANDoptional_retrievalwitchery/ingredient~1416retrievalwitchery/ingredient~1516itemwitchery/ingredient~1416witchery/ingredient~2732itemdreamcraft/item.CoinCookI~05dreamcraft/item.CoinWitchI~05dreamcraft/item.CoinDarkWizardI~05

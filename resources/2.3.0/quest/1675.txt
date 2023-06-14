@@ -1,0 +1,7 @@
+1675§a§lGlass FiberGlass Fiber is used in Fiber Reinforced Boards for circuits. §3For next tier. Go left for this tier's circuits.§r
+
+Borax can be extracted out of Salt ores. Electrolyze it to get Boron and mix it with Glass dust to get Borosilicate Glass Dust.
+
+The ingots can be turned into glass fiber in the wiremill or extruder.
+
+You can also use borosilicate to make higher tier glass for higher tier SB recipes, or for the blocks for the multis that need it.AND1224gregtech/gt.metaitem.01~17470ANDoptional_retrievalgregtech/gt.metaitem.01~294123optional_retrievalgregtech/gt.metaitem.01~28907optional_retrievalgregtech/gt.metaitem.01~26118optional_retrievalgregtech/gt.metaitem.01~116112retrievalgregtech/gt.metaitem.03~3202116itemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinChemistII~02dreamcraft/item.CoinTechnicianII~02

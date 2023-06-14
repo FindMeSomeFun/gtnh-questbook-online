@@ -1,0 +1,38 @@
+3175MOX NukesUpon gathering more Plutonium, you can try building a MOX nuke, the most powerful of the basic nukes. It is a 6-chamber, like usual, and it takes U238 as before, but it outputs close to 6820 EU/t while only using 5 quad rods instead of 7. How is this possible? The answer is... MOX.
+
+MOX means mixed-oxide, which is the name given to the mix of Uranium and Plutonium. In here, rods with this fuel are special in the sense that they don't output a specific amount of EU/t from the usual nuke mechanics. On top of those, it also reacts to the heat of the reactor, generating more energy the hotter it is. To compensate, these rods last only half the time that the Uranium fuel rods do, but their total EU is higher if they are active in very hot reactors. This imposes an obvious problem - hot reactors are not good for your base.
+
+There is one standardized way of dealing with this: heat-neutral reactors. What this means is that the reactor's temperature does not change while it's active, because the components inside are not interacting with the reactor's temperature value, only with the value of other components like the fuel rods themselves. This limits the type of components you can use, and you'll find that Advanced Heat Vents are now required (the overclocked ones interact with the reactor itself). However, at the same time, you can use any fuel rod to heat the reactor up to a high temperature and then activate a setup of this kind, which ensures safety and efficiency in MOX nukes.
+
+VAAV
+ARRA
+VAAV
+VAAV
+ARRA
+VAAV
+
+A - Advanced Heat Exchanger (12 needed)
+V - Component Heat Vent (8 needed)
+R - Dual Fuel Rod of MOX (4 needed)
+
+1200-2730 EU/t
+
+(This setup is the most efficient per MOX fuel rod, if you're short on fuel, which you shouldn't be if you're doing a MOX setup)
+
+AEAVPVAEA
+VARAVARAV
+AVAVAVAVA
+EAVARAVAE
+ARAVAVARA
+VAEAVAEAV
+
+A - Advanced Heat Vent (26 needed)
+E - Component Heat Exchanger (6 needed)
+V - Component Heat Vent (16 needed)
+R - Quad Fuel Rod of MOX (5 needed)
+P - Reactor Plating (1 needed)
+
+3000-6825 EU/t
+
+(This setup is the most efficient per Advanced Heat Vent)
+AND3172miscutils/itemDustPlutonium239~0ANDoptional_retrievalgregtech/gt.reactorMOXQuad~05retrievalgregtech/gt.reactorMOXQuad~01

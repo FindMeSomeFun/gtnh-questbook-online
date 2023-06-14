@@ -1,0 +1,7 @@
+2896§5§6§l§5§lGimme My Stuff Back!At some point, you'll be all, 'Man, arc furnacing or macerating these things to recycle them blows, I barely get any of the materials I used back'. Well, there's a solution, the Disassembler.
+
+Basically, things go in, parts it's made of go out. It needs to be at the same tier or higher though.
+
+It works on hand and assembler crafted items, but it doesn't work on assline stuff (LuV+), or non-GT items. However, for some reason on some items it fails for seemingly no reason. Ask bart why that happens. If there's an oredicted item like a circuit, it should return the least valuable one. You can now recyle your old coils, hatches, machines, etc with impunity!
+
+§3The % chance based on tier is gone now. Also, it's really fast!AND92gregtech/gt.metaitem.01~32650ANDretrievalgregtech/gt.blockmachines~4511itemIC2/itemPartCircuit~02enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~02

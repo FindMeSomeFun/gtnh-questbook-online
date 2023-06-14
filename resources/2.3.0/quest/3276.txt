@@ -1,0 +1,6 @@
+3276PCB Factory Tier 2With the Nano Forge built, we can upgrade our production of circuit boards for free, but the nanites need a container to hold them. The current casings aren't enough, we need to find an alternative casing.
+
+After some research, infinity as a frame and enriched holmium as the protection layer seems to work well. It can be allowed to let through nanites to go into the printer base so that extra material can be directly removed instead of trying to go slower.
+
+§3Allows the player to use the tier 2 recipes with the use of a silver nanite in the input bus.
+This also unlocks parallels of the PCB Factory with said formula: Log2(x) parallels, where x is the amount of nanites in the input bus.AND3249gregtech/gt.metaitem.01~179793273gregtech/gt.blockmachines~356ANDretrievalgregtech/gt.metaitem.03~40541retrievalgregtech/gt.blockmachines~44241

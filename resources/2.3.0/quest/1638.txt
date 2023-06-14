@@ -1,0 +1,11 @@
+1638Electrolyzing WaterNow let's automate electrolyzing water into oxygen and hydrogen. You'll need hydrogen for tons of stuff including desulfurization, obtaining tungsten, and nitric acid production. Oxygen is also useful as I'm sure you noticed when making steel.
+
+How to set it up:
+
+Place the electrolyzer down and connect it to water and electricity. Place the 2 super tanks nearby. Set the electrolyzer to produce hydrogen gas and oxygen cells. Use normal GT fluid pipes to output the hydrogen gas into one super tank. That is now your hydrogen storage. Now connect interface pipes to all 3 machines.
+
+For the electrolyzer put in item stock keeper set to keep 2 empty cells stored. Also put in extractor set to extract oxygen cells.
+
+Now for the oxygen storage put it item responder chip set to accept oxygen cells and extractor set to extract empty cells.
+
+Now put some empty cells inside your default storage chest and don't forget to have a broadcaster there.AND1637gregtech/gt.blockmachines~130ANDretrievalProjRedTransportation/projectred.transportation.pipe~23

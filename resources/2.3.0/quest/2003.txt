@@ -1,0 +1,1 @@
+2003Transforming Cable CamouflageTransforming Cable Camouflage allows you to change the collision box of the cable, so you can turn it into a door or whatever.AND2002StevesFactoryManager/BlockCableCamouflageName~1ANDretrievalStevesFactoryManager/BlockCableCamouflageName~22itemStevesFactoryManager/BlockCableCamouflageName~22

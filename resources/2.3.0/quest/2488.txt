@@ -1,0 +1,1 @@
+2488AE Tier 2 Fluid StorageThe main processor for 256K, 1024k and 4096K fluid cells. You'll need to be in IV for these.AND2481ae2fc/fluid_part~3ANDretrievaldreamcraft/item.EngineeringProcessorFluidEmeraldCore~01itemdreamcraft/item.EmeraldAdvancedFluidCoreChip~01itemdreamcraft/item.CoinTechnicianII~04

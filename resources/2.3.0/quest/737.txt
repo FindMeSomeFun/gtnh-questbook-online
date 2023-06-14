@@ -1,0 +1,20 @@
+737Can u eat those?No you can't eat them but you can add them to your routed pipes. Without chips routed pipes can't do anything on their own, chips also have a GUI to configure them which can be opened by right clicking. 
+There are 8 types of chips:
+
+-Item extractor chip can be used to send items from its inventory to responder, dynamic responder, terminator and overflow responder chips in a pipe network. 
+
+-Item responder chip will request items from the extractor chips in your network which match the filter configured to the inventory connected to the responder chip. Chips with higher priority value will receive items first until the inventory is full then will be sent to other inventories with valid filters and remaining space.
+
+-Dynamic item responder chip will request items from the extractor chips in your network that match items inside the dynamic item responder connected inventory. This chip has to be in the same interface pipe as the item responder chip in order to work. Priority rules apply here as well. 
+
+-Item overflow responder works exactly the same as the item responder chip, however it only accepts items that cannot go to an item responder chip, dynamic item responder chip, or item terminator chip. 
+
+-Item terminator chip works as a backup for responder chips.
+
+-Item broadcaster chip will show you the inventory connected to the routed request pipe on the pipe network and can be used to retrieve items from it. They can also extract from the side you configure. 
+
+-Item stock keeper chip will constantly check the network for items and pull them to its pipe. If the chip is set to pull when empty, it will only pull if the inventory next to it is empty, otherwise it will pull when there are less items in the inventory than configured in the chip.
+
+-Item crafting chips craft things. 
+
+-Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.AND127ProjRedTransportation/projectred.transportation.routingchip~0ANDretrievalProjRedCore/projectred.core.part~444choiceIC2/itemPartCircuit~02ProjRedCore/projectred.core.part~02enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

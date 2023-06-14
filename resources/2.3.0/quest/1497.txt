@@ -1,0 +1,7 @@
+1497§2§lDigging DeeperNow that you know where to dig, dig all the way down to bedrock to find if there is a vein located there.
+
+Now, what if you know what you want but not where to find it? Our fancy bartimaeusnek developer has added a nifty feature to NEI that shows you where to find ores! Simply look for the oreblock in NEI, and click on it for info on where to find that ore.
+
+There are many types of ores, even just for getting one material like Iron. So don't stick to only one type.
+
+You can also search small ores, but not all of them are used.AND1496minecraft/iron_ore~0ANDcheckboxminecraft/iron_ingot~01xplevelUp1

@@ -1,0 +1,20 @@
+2563§6§lSievert for the VatSome Vat recipes require a certain Sievert (radioactivity) value. So attach this Radio Hatch to your Vat to input radioactive material!
+
+The Radio Hatch holds rods/long rods of radioactive material and uses them to produce Sievert. The input item determines the Sievert value and how long it lasts. Items stored in the hatch will be used continuously even if machine not active, so make sure you want to craft something before putting items in.
+
+§rYou can check the stats of an inputted item with a portable scanner. Higher tiers of hatch hold more, from 1kg (HV) to 6kg (UV). Rods are worth 1kg, while long rods are 2kg.
+
+Some recipes require §4exact§r sievert, you can use the screwdriver to access the radiation shutter control to adjust how much sv is blocked from being sent to the vat. For example, you need 100sv to make SeaweedBroth, so you'd use Naquadah rods, and block off 30sv.
+
+Rod Stats:
+Material-Sievert-Apprx. time until used up
+Bismuth                 83sv   198s
+Uranium 235           92sv    80s
+Uranium 238           92sv    80s
+Plutonium 239         94sv    66s
+Plutonium 241         94sv    66s
+Naquadah             130sv   14.5s
+Enriched Naquadah 140sv   10.5s
+Naquadria            150sv     8s
+
+There are more radioactive materials than these, but these are the main ones.AND1243gregtech/gt.blockores~48732561gregtech/gt.blockmachines~12712ANDretrievalgregtech/gt.blockmachines~127131itemgregtech/gt.metaitem.01~230981

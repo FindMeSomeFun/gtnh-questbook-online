@@ -1,0 +1,5 @@
+2759I Want SOLIDS not LIQUIDS!For when your ABS isn't the right machine. Also uses coils.
+
+Note that this is a multiblock version of the alloy smelter, not a solid version of the alloy blast smelter.
+
+§3This multi is IV.AND1416gregtech/gt.blockmachines~810ANDretrievalmiscutils/gtplusplus.blockcasings.3~11

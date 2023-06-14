@@ -1,0 +1,15 @@
+2379Infused Brewing StandA Brewing Stand with one or more special effects (enhancements).
+
+You can upgrade your Enhanced Brewing Stand with End Powder to modify it like other HEE items. 
+
+You can continue adding as many effects to one Brewing Stand as you want.
+
+Enhancements:
+Tier (Ectoplasm)
+Your potion can have a higher tier and a longer potion duration than vanilla ones. (Tier IV is up to 12 mins)
+
+Speed (Igneous Rock)
+Increases the speed of the Brewing Stand.
+
+Cost (Emerald)
+Reduces the cost of End Powder used in a brewing cycle.AND2354HardcoreEnderExpansion/enhanced_brewing_stand~0ANDretrievalHardcoreEnderExpansion/enhanced_brewing_stand~01retrievalminecraft/emerald~05itemHardcoreEnderExpansion/essence~032enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinSmithII~02HardcoreEnderExpansion/knowledge_note~02

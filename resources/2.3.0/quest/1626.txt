@@ -1,0 +1,5 @@
+1626ChipsNow you need to make some chips to use in those interface pipes. These ones do not do anything but are needed as a material for crafting the others.
+
+Now would be a good time to look into IC2 crops to get all the dyes you will need for your advanced chips.
+
+§3If NEI's bookmarks are blocking you on the left, you can turn it off (O) until that gets fixed.AND1625ProjRedTransportation/projectred.transportation.pipe~2ANDretrievalProjRedCore/projectred.core.part~448choiceProjRedCore/projectred.core.part~08IC2/itemPartCircuit~04enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

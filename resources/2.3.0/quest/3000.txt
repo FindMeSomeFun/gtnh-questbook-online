@@ -1,0 +1,5 @@
+3000More Oil OptionsAlongside the Oil Drilling Rig, there are other sources you can explore. For Heavy Oil, a good source might be Oilsands Ore, which is found in rare veins at high altitudes. If you find one, you will have a large amount of Heavy Fuel to make Diesel with after processing.
+
+There are also renewable sources of Oil, namely from IC2 crops and bees. The Oilberry crop can produce it indefinitely, but at a very slow rate, whereas bees can do it much faster, particularly Refined Bees, but they are much harder to obtain.
+
+You can also get more out of the Oil by cracking it in specific ways. Lightly Hydrocracked Heavy Fuel, for example, gives 60% of the input amount as Light Fuel, which can be helpful if you have an excess of Heavy, and not enough Light to make Diesel.AND2996BuildCraftEnergy/bucketOil~0ANDcheckboxdreamcraft/item.CoinChemistII~01itemgregtech/gt.blockores~87832

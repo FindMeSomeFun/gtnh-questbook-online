@@ -1,0 +1,122 @@
+2555Underground FluidsSo you're probably wondering what all the underground fluids are, so here's a list. They're sorted by rocket tier and planet. Any Dims not listed have none.
+
+§cThis list is subject to change due to balancing at any time!§r
+
+§2Example:
+
+Tier X:
+Dimension/Planet
+Fluid <Number that represents how likely it is for this fluid to show up> <Number that represents how much can be present in any 8x8 UF chunk. They are 0-# unless otherwise specified>
+Other fluid that is also present <same as above> <same as above>
+Etc§r
+
+
+§5Tier 0:§r
+Overworld
+Natural Gas 20 350
+Oil 20 625
+Raw Oil 20 625
+Light Oil 20 625
+Heavy Oil 20 625
+
+
+§5Tier 1:§r
+Moon
+Helium-3 100 425
+Salt water 20 200
+
+
+§5Tier 2:§r
+Mars
+Chlorobenzene 100 400
+Salt Water 100 400
+
+
+§5Tier 3:§r
+Callisto
+Liquid Air 100 2-200
+Oxygen 100 200
+
+Europa
+Distilled Water 80 3500
+Salt Water 100 800
+Very Heavy Oil 20 200
+
+Ross128b
+Distilled Water 100 5000
+Lava 5 820
+Natural Gas 65 625
+Very Heavy Oil 40 625
+
+
+§5Tier 4:§r
+Io
+Carbon Dioxide 80 750
+Molten Lead 20 650
+Sulfuric Acid 80 350
+
+Mercury
+Helium-3 100 800
+Molten Iron 30 400
+
+Venus
+Carbon Dioxide 100 1500
+Molten Lead 100 1600
+Sulfuric Acid 100 250
+
+
+§5Tier 5:§r
+Miranda
+Hydrogen Sulfide 100 900
+
+Oberon
+Carbon Monoxide 100 2000
+
+Ross128ba
+Helium-3 60 1250
+Salt Water 40 1250
+
+Titan
+Ethane 100 200
+Methane 100 800
+
+
+§5Tier 6:§r
+Proteus
+Deuterium 100 700
+
+Triton
+Ethylene 100 800
+Nitrogen 100 800
+
+
+§5Tier 7:§r
+Makemake
+Hydrofluoric Acid 80 300
+
+Pluto
+Fluorine 80 4-800
+Liquid Air 40 4-300
+Nitrogen 100 800
+Oxygen 100 800
+
+
+§5Tier 8:§r
+Alpha Centauri Bb
+Molten Copper 10 300
+
+Barnarda C
+Distilled Water 100 8000
+Unknown Water 100 300
+Very Heavy Oil 100 800
+
+Barnarda E
+Liquid Air 20 400
+
+Barnarda F
+Molten Tin 15 400
+
+Tau Ceti E
+Distilled Water 100 10000
+Hydrogen 50 700
+Very Heavy Oil 100 200AND765gregtech/gt.blockmachines~1157ANDcheckboxdreamcraft/item.RuneOfVoidFragment~01

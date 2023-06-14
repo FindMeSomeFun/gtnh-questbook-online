@@ -1,0 +1,11 @@
+2996Oil ReservoirsUnlike the oil spouts that are visible on the surface, the underground reservoirs cannot be seen or measured without the use of specific tools. To find one, you can make a Seismic Prospector and power it by using some kind of explosive (there is a quest for this, which gives the necessary items as rewards). After it has finished working, using a Data Stick on it will give back the raw information from the prospecting, which needs to be put in a Scanner, and then into a Printer, which will give back some pages. Make a book from those pages and you will be able to read the information about reservoirs, and also ores found in the vicinity.
+
+Upon finding a reservoir, you can see the type of oil and its amount within an area of 8x8 chunks. There are five types of Oil in reservoirs, not to be confused with the four portions obtained after oil distillation:
+
+Oil - The same as what is found in oil spouts, and usually the kind you want;
+Raw Oil - Gives a lot of Naphtha;
+Light Oil - Gives mostly Sulfuric Gas, not useful in general;
+Heavy Oil - Gives mostly Heavy Fuel, handy if you need some for Diesel or other purposes;
+Natural Gas - Turns into Refinery Gas when reacted with Hydrogen;
+
+The amount of Oil in the reservoir is very important! Values in the 400s or above are good, and slowly decrease over time as the Oil is pumped, which means that large reservoirs will last for a very long time. If you find one, it's unlikely you'll run out until much later in progression.AND2987miscutils/gtplusplus.blockspecialcasings.2~1ANDoptional_retrievalgregtech/gt.blockmachines~21021retrievalgregtech/gt.metaitem.01~3070730itemgregtech/gt.metaitem.01~327082gregtech/gt.blockreinforced~564enhancedlootbags/lootbag~51dreamcraft/item.CoinTechnicianI~05

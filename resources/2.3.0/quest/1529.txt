@@ -1,0 +1,11 @@
+1529§9§lChunkloadingWith your HV assembler you can craft a world anchor. So let's make one. It will again load a 3x3 chunk area.
+
+You need coins to power the world anchor, it will run a varying amount depending on the coin used. 
+
+§aPersonal Anchors§r are loaded once the owner visits, and stays loaded while the player is logged in.
+
+§9Passive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.
+
+§4World Anchors§r are always loaded, even after a server reset.
+
+§3Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS highAND770gregtech/gt.blockmachines~213ANDretrievalRailcraft/machine.alpha~01itemdreamcraft/item.CoinChunkloaderTierII~04enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05

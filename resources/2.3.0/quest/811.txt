@@ -1,0 +1,1 @@
+811Tier 1 Control ComputerEach rocket needs a Control Computer, appropriate to the tier of the rocket.AND812GalacticraftCore/item.heavyPlating~0ANDretrievalGalaxySpace/item.RocketControlComputer~11choiceGalacticraftCore/item.basicItem~94gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

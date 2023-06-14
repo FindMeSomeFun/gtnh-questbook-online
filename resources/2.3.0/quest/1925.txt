@@ -1,0 +1,3 @@
+1925§a§lWhat's in the Box?Tired of waiting around for hours with radium in your inventory, waiting for it to decay? With a lead-lined box you can safely leave your radium in it and it'll decay while you do real work.
+
+§3You may not be able to shift click items in and out, but pipes still work. You can not use a WA.AND1480miscutils/dustRadium226~0ANDretrievalmiscutils/blockDecayablesChest~01optional_retrievalmiscutils/dustRadium226~015retrievalmiscutils/itemDustDecayedRadium226~015retrievalgregtech/gt.metaitem.01~300932itemenhancedlootbags/lootbag~71dreamcraft/item.CoinChemistII~01

@@ -1,0 +1,4 @@
+1013§9§lSMD Circuit ComponentsSurface-mount devices are more advanced circuit parts. They're needed for circuits starting next tier and are cheaper to craft than basic capacitors, transitors, diodes and resistors. Once you get a reliable polyethylene setup, you can save a lot of resources by using SMD components.
+
+Be sure to check how much gallium you have available. It might not be worth it to use SMD diodes and transistors until you have a steady supply with an HV macerator or bees. Also look into IC2 crops to 4x your zinc, sphalerite, and bauxite.
+AND1598gregtech/gt.blockmachines~2122295gregtech/gt.metaitem.01~9085ANDretrievalgregtech/gt.metaitem.03~3218248itemgregtech/gt.metaitem.01~287432enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

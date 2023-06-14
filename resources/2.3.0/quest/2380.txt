@@ -1,0 +1,25 @@
+2380TNT EnchantmentsEnhanced TNT is a special version of vanilla TNT with one or more special effects (enhancements).
+
+The way to make enhanced TNT is to right click with End Powder in your Hand to modify your TNT. You can continue adding as many effects to one TNT as you want.
+
+Enhancements:
+No block damage (Feather)
+TNT explodes with no Block damage.
+
+No Entity damage (Slime)
+TNT explodes with no Entity damage.
+
+Extra Damage (Gundpowder)
+TNT explodes with extra damage.
+
+Trap (Redstone)
+TNT explodes when hostile mob touches or walks over the tnt block.
+
+No Clip (Enderpearls)
+TNT falls through solid blocks and explodes after a few seconds.
+
+Fire (Igneous Rock) 
+TNT explodes with a big fire spread.
+
+No fuse (Redstone Torch)
+TNT explodes immediately.AND2350HardcoreEnderExpansion/end_powder_ore~0ANDretrievalminecraft/tnt~07retrievalminecraft/redstone_torch~02retrievalHardcoreEnderExpansion/end_powder~028choiceminecraft/tnt~016HardcoreEnderExpansion/end_powder~032enhancedlootbags/lootbag~571itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinSmithII~01HardcoreEnderExpansion/knowledge_note~01

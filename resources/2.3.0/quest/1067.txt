@@ -1,0 +1,16 @@
+1067Space StationYou can build a space station if you want. You can add up to four spin thrusters to your station to rotate it.
+
+Days on space stations last longer than on the overworld, so you can generate more solar power.
+
+§oYou can build space stations here:§r
+Moon - T1
+Mars - T2
+Jupiter - T3
+Venus - T4
+Saturn - T5
+Uranus - T5
+Neptune - T6
+
+§bHint:§r Each task corresponds to one space station (they are in the same order). You need to complete at least one task to complete the quest.
+
+§cNote:§r It is likely that you will loose your rocket when flying back to earth or another space station. Make sure you have an alternative way to return (some form of teleportation) or use another planet/moon as proxy (if you get an error while doing so, you spawn on the planet/moon and can launch your rocket again).AND810GalacticraftCore/item.spaceship~0ORretrievalgregtech/gt.blockmachines~131retrievalgregtech/gt.blockmachines~131retrievalgregtech/gt.blockmachines~141retrievalgregtech/gt.blockmachines~151retrievalgregtech/gt.blockmachines~161retrievalgregtech/gt.blockmachines~161retrievalgregtech/gt.blockmachines~171choiceGalacticraftCore/item.standardWrench~01GalacticraftCore/tile.spinThruster~01enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

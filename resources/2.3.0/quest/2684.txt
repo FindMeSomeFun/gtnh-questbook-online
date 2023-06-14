@@ -1,0 +1,13 @@
+2684RP-1 Rocket FuelOne option to fuel your T1 and T2 rocket is RP-1 Rocket Fuel. First, you'll need either Diesel or Coal Tar. Coal Tar is the better option on the long run, since you'll need the other products of distilling it to make other rocket fuels, but for now you can use Diesel.§3
+
+If you're using Diesel, you need 20 cells, if using Coal Tar, you need 30. Unless you use a DT, in which case it doesn't divide evenly anymore :(§r
+
+Distill it in the Distillery to get Kerosene, then distill it again to get RP-1. You'll need a Chemical Plant for the last step.
+
+RP-1 Rocket Fuel is a T4 240 EU/t recipe, so you'll need to make the CP out of Stainless Steel and HV Machine Casings.
+
+Since there is no oxygen in space, you will also need an oxidizer. But since the Galacticraft rocket can only take one fluid we have simplified that a bit. Just combine Liquid Oxygen and RP-1 to make the fully functional RP-1 Rocket Fuel.
+
+§3If you're confused about how to use/make the Chemical Plant, refer to the manual with the same name.
+
+§2PS: You can also use Rocket Fuels for power in Rocket Engines, or the Rocketdyne F-1A Engine multi.AND827GalacticraftCore/item.fuelCanisterPartial~1ANDoptional_retrievalmiscutils/Kerosene~012optional_retrievalgregtech/gt.metaitem.01~3049336retrievalmiscutils/RocketFuelMixB~027itemmiscutils/RocketFuelMixB~01itemdreamcraft/item.CoinTechnicianII~01

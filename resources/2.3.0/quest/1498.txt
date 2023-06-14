@@ -1,0 +1,38 @@
+1498(DEPRECATED)§2§l A Dimension by Any Other Name...Use this table to decode dimension names
+
+OW - Overworld
+Ne - Nether
+TF - Twilight Forest
+EN - End
+VA - Vanilla End Asteroids
+EA - End Asteroids (don't ask me what the difference is)
+
+Space Dims:
+As - Asteroids (the asteroid belt between mars and Jupiter)
+BC - Barnard C
+BE - Barnard E
+BF - Barnard F
+Ca - Callisto
+CA - Centauri A
+Ce - Ceres
+De - Deimos
+En - Enceladus
+Eu - Europa
+Ga - Ganymeade
+Ha - Haumea
+Io - Io
+KB - Kuiper Belt
+Ma - Mars
+Me - Mercury
+Mi - Miranda
+MM - Makemake
+Mo - Moon
+Ob - Oberon
+Ph - Phobos
+Pl - Pluto
+Pr - Proteus
+TE - Tau Ceti E
+Ti - Titan
+Tr - Triton
+VB - Vega B
+Ve - VenusAND3247minecraft/nether_star~0ANDcheckboxlevelUp1itemdreamcraft/item.CoinSurvivor~05

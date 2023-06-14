@@ -1,0 +1,11 @@
+2651This is Not How You Make CheeseIn order to make Wetware circuits, you'll need Sterilized Growth Medium and Stemcells, so let's get started on those, ok?
+
+To get anywhere, first you need Bacteria. You can get this through the vat or the brewing machine. Vat way is more efficient, but you need culture for it so you first need to do brewing way. Vat needs Bismuth rods for radiation and EV-tier glass. There are also 3 recipes, so you can use a higher tier one later if you like.
+
+You'll also need Mince Meat and Agar. You'll want a stable supply of meat, so something like the a fish farm, a standard animal farm, or IC2 Meatrose or Goldfish is probably best.
+
+Agar has a more complicated processing chain, but it's nothing compared to Platinum. You'll need even more meat for it.
+
+Use some of the Bacteria to create an Ova Evolutionis culture (15% chance), and then use that in the vat's controller to make Raw Growth Medium. You'll need IV-tier glass, and Uranium rods. There are also higher tier recipes.
+
+§3Cultures are not consumed when used in the vat.AND2561gregtech/gt.blockmachines~127122566gregtech/gt.blockmachines~126992635gregtech/gt.blockmachines~1186ANDoptional_retrievalgregtech/gt.metaitem.98~151optional_retrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.01~306081

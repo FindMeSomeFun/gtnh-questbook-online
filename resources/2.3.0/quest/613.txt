@@ -1,0 +1,5 @@
+613Reusable Battery: SodiumSodium, cadmium, and lithium batteries are rechargeable batteries. They're crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.
+
+If placed in a machine, it will fill up if there's excess power, and drain if the machine can't get enough. Handy for high-EU machines you don't want to choke.
+
+§3Sodium is the one that stores the least EU of the 3 rechargable batteries, but is definitely the easiest to get.AND609gregtech/gt.metaitem.01~32500624gregtech/gt.blockmachines~231ANDretrievalgregtech/gt.metaitem.01~325191choicegregtech/gt.metaitem.01~20172gregtech/gt.metaitem.01~23154gregtech/gt.blockmachines~12464enhancedlootbags/lootbag~41itemdreamcraft/item.CoinChemist~015dreamcraft/item.CoinTechnician~015

@@ -1,0 +1,5 @@
+1153§5§lArdite Crossbow BodyTo make your crossbow even better, craft an ardite crossbow body. You received a few ardite ingots as reward before but will need to find ore in the Nether and process it in an Electric Blast Furnace.
+
+With redstone you can make your bow faster. This requires a free modifier slot on your crossbow.
+
+Don't bother putting Nether Quartz on the crossbow, it only improves damage from whacking mobs over the head with it. Put the Nether Quartz on your bolts instead.AND1152TConstruct/bowstring~2ANDoptional_retrievalgregtech/gt.metaitem.01~113825retrievalTConstruct/CrossbowBodyPart~111itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinSmith~015dreamcraft/item.CoinTechnician~015

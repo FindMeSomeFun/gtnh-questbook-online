@@ -1,0 +1,7 @@
+62§3§lThe Power of the SunThe sun has quite a bit of power, so why not use it to produce steam? 
+
+Fill it with water on the bottom side to produce steam. Unlike the other boilers, this only outputs steam on the output port side.
+
+§4Hint: The solar boiler calcifies and becomes less efficient over time. Later on you can consider using distilled water to avoid calcification.
+
+§3You'll need silver from the Twilight Forest (LV+) or from small ores for this.AND52minecraft/glass~059gregtech/gt.GregTech_FluidDisplay~89ANDcraftinggregtech/gt.blockmachines~1051itemharvestcraft/papayajellysandwichItem~02itemdreamcraft/item.CoinTechnician~010

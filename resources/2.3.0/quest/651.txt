@@ -1,0 +1,9 @@
+651Electric JetpackYour first electrical jetpack. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode while holding down the jump key. When descending, remember to shut off hover mode or else you'll drain your jetpack.
+
+The only limitation is that you can't fly higher than Y-185.
+
+For charging on the go, you can craft a charging crystal from ic2 charging components. You have to take the backpack out of the armor slot and put it in your hotbar and activate the charger by sneak-clicking. There are better models than this one old one I don't need any more. Look in NEI.
+
+Later on GT++ charging packs are belts that can charge everything in your inventory including armor. Check NEI for the recipe.
+
+Finally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!AND80gregtech/gt.blockmachines~1001160gregtech/gt.blockmachines~13ANDoptional_retrievalgregtech/gt.blockmachines~13821retrievalIC2/itemArmorJetpackElectric~327671choiceIC2/itemPartCircuitAdv~02gregtech/gt.metaitem.01~326021enhancedlootbags/lootbag~61IC2/itemBatChargeRE~11itemdreamcraft/item.CoinTechnicianI~05

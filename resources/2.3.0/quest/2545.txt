@@ -1,0 +1,7 @@
+2545Providing Essentia on DemandThe Essentia and Infusion Providers both do basically the same thing, send essentia to a device that requests it for crafting.
+
+The Essentia Provider needs to be next to the device, it's mostly for the Thaumatorium. Since it's effectively a magic ME Interface, you can also use it instead of an Essentia Import Bus next to your Alembics or the Advanced Alchemical Furnace.
+
+The Infusion Provider is for devices that draw essentia through the air, like the Runic Matrix (infusion) or Overchanting Table. It doesn't need to be next to the device.
+
+They both obviously need the essentia they request to be accessible by the network to work.AND2512thaumicenergistics/material~0ANDretrievalthaumicenergistics/thaumicenergistics.block.infusion.provider~01itemenhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02dreamcraft/item.CoinDarkWizardII~02

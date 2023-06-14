@@ -1,0 +1,5 @@
+541§5§lA New Alloy - Cobalt BrassIf you want to cut diamond blocks into plates, it's time to get a new alloy, Cobalt Brass.
+
+First you need to make brass out of zinc (only found in small ores in the Overworld, in Nether Sphalerite, or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with aluminium and cobalt dust (you can get it as a byproduct of a couple ores, go searching in the nether, or go to the Twilight Forest for Cobaltite) to get the cobalt brass dust.
+
+Now that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.AND91gregtech/gt.metaitem.01~32630ANDoptional_retrievalgregtech/gt.metaitem.01~20363optional_retrievalgregtech/gt.metaitem.01~23019optional_retrievalgregtech/gt.metaitem.01~20331retrievalgregtech/gt.metaitem.01~23438itemgregtech/gt.metaitem.02~322222itemdreamcraft/item.CoinSmithI~03dreamcraft/item.CoinChemistI~03dreamcraft/item.CoinTechnicianI~03

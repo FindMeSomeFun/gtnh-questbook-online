@@ -1,0 +1,9 @@
+768§6§lYou Smell Like a Distillery!This bad boy will tremendously boost the byproducts of your cracked fuel or pyrolyse oven. This way you can make industrial TNT, polyethylene, polytetrafluoroethylene and other plastics more efficiently. You'll also need this for the platline.
+
+You'll need to make EV circuits in a cleanroom to build this machine.
+
+For hatches, you can choose your own tier. 1 MV energy does most of the useful recipes. 2 MV energy or 1 HV energy hatch will cover almost all the rest.
+
+You will need 1 input hatch, and at least 5 output hatches. An output bus will capture any solid outputs.
+
+§3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!AND160gregtech/gt.blockmachines~13ANDoptional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~11261choicegregtech/gt.metaitem.01~3074116gregtech/gt.metaitem.01~3074032enhancedlootbags/lootbag~62itemdreamcraft/item.CoinTechnicianII~02

@@ -1,0 +1,20 @@
+1764Basic Power DisplayFor this part we will learn how to use our adapter, place it next to, let's say your EBFs battery buffer and connect it to the computer with cables.
+Now lets type in lua while on the computer to open the LUA environment where we can test things without worrying about saving and trying our program.
+
+Type in 'component.list()' this will display a table of all of .list from component. What we're looking for is gt_batterybuffer.
+If you have too many nearby things it may not display and the way to search the entire list of components is too advanced for starters.
+
+So now assign a variable to it; for example 'a = component.gt_batterybuffer'; now we can call 'a' to see what methods the batteryBuffer has.
+What we'll be using in this example is the 'getBatteryCharge' method. So type  'a.getBatteryCharge(1)' this will call the method getBatteryCharge from the first inventory slot on the gt_batterybuffer in component.
+
+So if we're using a 2x2 battery buffer; we can type something like, 'for i=1, 4 do print(a.getBatteryCharge(i)) end'
+Poof you now see what all the batteries EU values. Now what can we do with this?
+
+Try making a variable called 'batteryCharge = 0', now do 'for i=1, 4 do batteryCharge = batteryCharge + a.getBatteryCharge(i) end'
+
+Now print(batteryCharge) will display the total charge. Here's a program example of this being used.
+
+Place in your tape drive and type 'install', and follow the promps to install it into C. Then edit it, test it, figure how it works.
+
+I suppose that's enough for now; congrats! Experiment and learn, and don't forget to check google as much as possible!  
+This questline will be updated again in the future; but I figure this is a good ending point for now.AND1763OpenComputers/item~5ANDcheckboxOpenComputers/cable~3276716itemOpenComputers/item~41

@@ -1,0 +1,9 @@
+2374Infestation RemedyInfestation Remedy is a drinkable item used to shorten effects of the Infestation.
+
+Obtaining:
+The Infestation Remedy is brewed in an Enhanced Brewing Stand, using Silverfish Blood as the brewing ingredient and an Awkward Potion.
+
+Usage:
+When drank, the remedy will shorten each of the Infestation effects by 150 to 180 seconds.
+
+You can make splash potions with gunpowder and 3 more End Powder as well.AND2354HardcoreEnderExpansion/enhanced_brewing_stand~02373HardcoreEnderExpansion/silverfish_blood~0ANDoptional_retrievalHardcoreEnderExpansion/end_powder~016retrievalHardcoreEnderExpansion/infestation_remedy~03itemHardcoreEnderExpansion/silverfish_blood~04enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinChemistII~02

@@ -1,0 +1,5 @@
+743§3§lCutting a Tree log by log is so Old SchoolBy making a lumber axe you are now able to cut down the entire tree in one hit. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. Don't forget your backpack when you are cutting a sacred oak tree down.
+
+§6The quest should accept the tool whatever materials you used.
+
+§3Protip: Make one out of netherrack, the lower the mining speed, the less XP needed to level up. Use the modifier slots to add reinforced. Once you've got it leveled up enough, change the parts out for better (and faster) ones. You can't use auto-smelt, so don't bother with that.AND741TConstruct/ToolForgeBlock~0ANDretrievalTConstruct/metalPattern~141retrievalTConstruct/lumberaxe~01itemenhancedlootbags/lootbag~21itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010

@@ -1,0 +1,5 @@
+578The CarpenterThe carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.
+
+The carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
+
+§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.AND577Forestry/sturdyMachine~0ANDoptional_retrievalForestry/sturdyMachine~01retrievalForestry/factory~11choiceminecraft/glass~016minecraft/redstone~010gregtech/gt.metaitem.01~307128enhancedlootbags/lootbag~191itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015

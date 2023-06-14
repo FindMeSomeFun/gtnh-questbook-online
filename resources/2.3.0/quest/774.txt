@@ -1,0 +1,8 @@
+774§6§lBio Organic MeshIf you want to save the environment you can autoclave 16 plantballs to get raw bio fiber with the following liquids:
+
+Biomass        33% chance
+Methanol       50% chance
+Fuel            90% chance
+Nitro-diesel 100% chance
+
+§rHowever, making carbon plates this way will require an electric blast furnace.AND731IC2/itemFuelPlantBall~0771gregtech/gt.blockmachines~571ANDoptional_retrievaldreamcraft/item.RawBioFiber~048retrievaldreamcraft/item.BioOrganicMesh~024choicegregtech/gt.metaitem.01~307088gregtech/gt.metaitem.01~307094enhancedlootbags/lootbag~51itemdreamcraft/item.CoinChemist~025dreamcraft/item.CoinFarmer~025

@@ -1,0 +1,5 @@
+1495§1§lAll Alone in the NightIf you are playing single player, updates mean having to reload the questbook. Use the Default Load Block to do it for you without having to enter creative mode - you don't lose progress, but you'll have new quests to complete! Use the items to craft it, then place it and right-click.
+
+Sorry, no rewards, other than the satisfaction of knowing it's you versus the world.
+
+§3PS: This is the same as /bq_admin default load.AND1204minecraft/crafting_table~0ANDretrievalminecraft/stick~01

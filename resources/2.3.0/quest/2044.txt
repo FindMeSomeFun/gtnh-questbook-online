@@ -1,0 +1,5 @@
+2044§6§lMega is BettaFor someone who needs to blast a truly §lridiculous§r amount of stuff, this is the machine for you. This monster machine can handle up to 256 parallel recipes at a time.
+
+The glass tier sets the maximum energy hatch tier for this machine.
+
+You can set Circuit prioritization by Screwdrivering the Controller.AND213gregtech/gt.blockmachines~15ANDretrievalgregtech/gt.blockmachines~127301itemenhancedlootbags/lootbag~81

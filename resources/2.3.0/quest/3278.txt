@@ -1,0 +1,5 @@
+3278PCB Factory Tier 3Why use a small nosel to print out the conductor on the board when one can just build it using nanites? Well the silver nanite isn't rigid enough for that so a new nanite will be needed... and so will new casings. Heard that celestial tungsten is a good candidate for a frame. Quantum can be used for the protection as these nanites will be forever flying around inside.
+
+The structure will need to change as it needs to be a bit bigger and taller.
+
+§3Works the same as the Tier 2 in most cases, but allows the player to use even less resources by using a gold nanite.AND3237gregtech/gt.metaitem.01~320173276gregtech/gt.blockcasings8~12ANDretrievalgregtech/gt.metaitem.03~40861retrievalgregtech/gt.blockcasings8~101

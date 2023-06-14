@@ -1,0 +1,5 @@
+78§6§lMore Heat - Kanthal Coil UpgradeBetter materials need higher temperatures. You can just exchange the old coils with the new ones. Kanthal coils let you reach 2700K. You can even reuse the old coils in your Pyro or to make other machines, how fancy is that! If you don't have any other place to use them, you can macerate, arc furnace, or disassemble them too.
+
+If you dont have a Vacuum Freezer yet coole the hot ingots in a MV Chemical Bath with Coolant.
+
+Remember that you can get an upgraded OC (4/4) instead of a regular one (4/2) if your coils are 1800K above the recipe temperature, as well as a EU discount. This applies to every 900K or 1800K above, so you should try to upgrade your coils as soon as you can.AND77gregtech/gt.blockmachines~1000ANDretrievalgregtech/gt.blockcasings5~116itemenhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

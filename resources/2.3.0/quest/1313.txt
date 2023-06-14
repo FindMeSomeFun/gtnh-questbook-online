@@ -1,0 +1,7 @@
+13131k Item Storage CellLowest tier storage cell, which can contain 1,024 bytes of storage. 1,024 bytes of storage can hold 127 stacks of a single item, or 65 stacks, while holding 63 different items. The 1k storage cell uses 8 bytes of data to store a single type.
+
+When placed inside a drive or chest will consume 0.5 ae/t. It must be in an ME drive or ME chest to be usable.
+
+You can remove the 1k ME storage component by fully emptying the storage cell, and sneak clicking it in your hand.
+
+You can format it in the cell workbench.AND1310appliedenergistics2/item.ItemMultiMaterial~391314appliedenergistics2/item.ItemMultiMaterial~35ANDretrievalappliedenergistics2/item.ItemBasicStorageCell.1k~01choicegregtech/gt.metaitem.01~1101916gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

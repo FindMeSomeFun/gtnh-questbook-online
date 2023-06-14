@@ -1,0 +1,5 @@
+3117No Benzene YetThis questbook page is supposed to explain the Benzene powergen line, but you might have noticed that you haven't made any Benzene yet. That's because the recipe path to get it from Charcoal has an MV recipe, and you can't just skip straight to MV with the small amount of steam you were using in the Bronze Age. 
+
+There are also other paths for renewable power in this page. They have similar sources, or the same source, but different processing lines, and the entire thing looks like a tree branch, with many different ways in which you can go. The Carbon Monoxide path is one example of this, and there are many more to come in the future.
+
+Regardless of which path you chose to get power from your Charcoal, you can now sustain an EBF comfortably and get power more efficiently. It's recommended that you move away from steam in the next tier, because you will need to transport too much of it to produce good amounts of MV power. Fortunately, you won't need steam at all!AND3097Railcraft/machine.beta~5ANDcheckboxdreamcraft/item.CoinChemistII~05itemgregtech/gt.metaitem.01~326501

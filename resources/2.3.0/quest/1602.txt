@@ -1,0 +1,3 @@
+1602Water, Water, EverywhereEven though you have to plant crops near the water, they don't actually get any hydration unless you apply water manually. Make a hydration cell and use it on your crops to increase their growth speed. 
+
+You can recycle empty cells in a centrifuge.AND719IC2/itemCropSeed~0ANDretrievalIC2/itemCellHydrant~11itemIC2/itemCellHydrant~12enhancedlootbags/lootbag~511

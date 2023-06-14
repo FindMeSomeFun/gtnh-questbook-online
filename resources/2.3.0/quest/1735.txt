@@ -1,0 +1,5 @@
+1735§3§lBowl Full of SpaghettiOr at least factories full of item pipes. With these simple item pipes and conveyors you can take items out of one machine and feed them immediately into a second machine.
+
+Later on you can make better item pipes. Search for "item pipe" in NEI for options.
+
+§4You'll need a Steel Wrench to remove them. Don't place them down unless you're sure of the location until you have one.AND1205minecraft/hopper~0ANDoptional_retrievalgregtech/gt.metaitem.01~1705712retrievalgregtech/gt.blockmachines~559012itemharvestcraft/spagettiItem~01itemdreamcraft/item.CoinTechnician~010

@@ -1,0 +1,13 @@
+2143§5§lChoices, ChoicesNeed a map on fuel choices? Well, we don't have that but we have suggestions. You can use Steam up to IV, but beyond MV it gets pretty painful. 
+
+In LV you can start refining oil for either Light Fuel for a Combustion Generator or Refinery Gas for a Gas Turbine. 
+
+Once you hit MV you can switch from Steam to renewable Benzene (Gas) from your logs. Other renewable alternatives are Fish Oil or Seed Oil based bio diesel (combustion). Seed Oil can be sourced from Pam's peanuts, IC2 Rape crop or Forestry tree nuts.
+
+At MV you can also upgrade your Light Fuel with Heavy Fuel to get Diesel. When you reach HV turn diesel or bio diesel into Cetane Boosted Diesel. In EV, you can make HOG, but it's complex, and you'll need to rejigger your whole oil distillation setup, since it uses different fluids than Cetane does.
+
+EV introduces the Large Gas Turbine, Large Steam Turbine, Large HP Steam Turbine, and Large Combustion Engine, which are more efficient versions of the earlier ones. The first 3 require turbines. 
+
+You can also make Nukes, or Wind and Water Kinetics.
+
+For low-power operations, or dedicated players willing to setup autocrafting, you can begin using Solar Panels at MV.AND88gregtech/gt.blockmachines~1120ANDcheckboxenhancedlootbags/lootbag~41

@@ -1,0 +1,16 @@
+2047§5§lCircuit ProgrammingSome machines have a very, very large number of recipes. To avoid conflicts many recipes have programmed circuits to ensure you get the right one. These programmed circuits are not consumed.
+
+In this modpack, all singleblock GT machines now come with an icon on the bottom right in the GUI that represent a ghost circuit. Click it or scroll to choose the number you need. If you do that you don't have to insert a physical circuit. This is going to be your main option for all single block machines. This option is now also available for input busses of multiblocks which you will get to in later tiers.
+
+There are a few places throughout the modpack where you still need the physical circuits. You can turn an LV circuit into a programmed circuit in the crafting grid and then program it in various ways:
+
+1) Find the correct crafting recipe with a screwdriver in NEI and use that.
+
+2) Rightclick while holding the programmed circuit to open an easy menu. You still need to at least have the screwdriver in your inventory though or it won't work. Eventually you can also make an electric screwdriver.
+
+3) Use the BartWorks Circuit Programmer. It is only available in MV. But it does not use any durability and runs on EU.
+
+4) Use the GT++ Circuit Programmer block. It isn't portable and only available in MV. But it allows for automation.
+
+
+§3As you can now use the ghost circuits for almost everything, the tasks here are now optional and you can just click the checkmark once you understand how programmed circuits work.AND105gregtech/gt.blockmachines~221ANDoptional_retrievalgregtech/gt.integrated_circuit~01optional_retrievalbartworks/gt.BWCircuitProgrammer~01optional_retrievalmiscutils/blockCircuitProgrammer~01optional_retrievalgregtech/gt.integrated_circuit~11checkboxgregtech/gt.integrated_circuit~11itemenhancedlootbags/lootbag~41

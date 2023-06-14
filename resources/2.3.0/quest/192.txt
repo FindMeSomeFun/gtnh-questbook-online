@@ -1,0 +1,5 @@
+192Tricky Nuclear Fuel: MOXUnder normal conditions, produces the same amount of power as uranium, but MOX produces more power the more you let the reactor heat up. Try to come up with a heat-neutral design as close to the limit as possible to take advantage of this. It lasts 1/2 the time, and produces more heat once the reactor is over 50%. A fuel for all the engineers out there.
+
+§3You'll need to run a uranium reactor for a while to get some plutonium if you don't have another way to get it. Remember that there's more than 1 type!
+
+§4Make sure to test in creative and/or use protection against explosions!AND190IC2/blockGenerator~5ANDretrievalgregtech/gt.reactorMOXSimple~01itemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01

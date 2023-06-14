@@ -1,0 +1,1 @@
+3069§6§lMake a better DistilleryTo produce methanol and ethanol much faster, craft a mv distillery.AND736gregtech/gt.metaitem.01~30691ANDretrievalgregtech/gt.blockmachines~5321choiceIC2/itemCellEmpty~016gregtech/gt.metaitem.01~327022gregtech/gt.metaitem.01~326011enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

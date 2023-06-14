@@ -1,0 +1,11 @@
+650Copterpack, More 'Hover' than 'Jet'The copterpack is the first jetpack with a hover mode. It uses several different types of fuels to power it. 
+
+Buckets of creosote, lava, oil, diesel, cetane, ethanol, and fuel will work.
+
+Equip your jetpack and hit Shift and the adventure backpack's action-key. You can also switch between hover and normal mode.
+
+Max flying height is limited to Y-200. 
+
+Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
+
+§3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.AND1870gregtech/gt.blockmachines~1111ANDoptional_retrievalgregtech/gt.metaitem.01~273053optional_retrievaladventurebackpack/backpackComponent~61optional_retrievalgregtech/gt.metaitem.01~173055optional_retrievaladventurebackpack/backpackComponent~51optional_retrievalgregtech/gt.metaitem.01~275002retrievaladventurebackpack/copterPack~01choiceBuildCraftEnergy/bucketFuel~04minecraft/enchanted_book~01enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

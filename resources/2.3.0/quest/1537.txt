@@ -1,0 +1,5 @@
+1537§§§5§lBlack and DeckerTired of having to replace tools all the time? Now that steel is available, it's time to make some electric versions of the screwdriver and wrench! Charge them up like a battery, and they'll last much longer than normal versions of the tools.
+
+You can use lithium batteries, or if you're on a budget, cadmium or sodium batteries instead. Later on, Vibrant Alloy will make excellent tools with great durability.
+
+§3If you look in NEI, you can also see MV and HV versions, but you need Aluminium or Stainless Steel for those.AND76gregtech/gt.blockmachines~140609gregtech/gt.metaitem.01~32500ANDretrievalgregtech/gt.metatool.01~1201retrievalgregtech/gt.metatool.01~1501choicegregtech/gt.metaitem.01~325182enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~025

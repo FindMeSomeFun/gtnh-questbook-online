@@ -1,0 +1,3 @@
+2056§3§lJacques CousteauNow that you have a Scuba Helmet you can safely explore underwater for long periods of time. You just need some compressed air cells.  I'll trade you some Tin ingots for a few compressed air cells.
+
+As your air drops, the helmet will take a compressed air cell and give back an empty cell. Throw these cells into your compressor and you can easily gather clay from beneath rivers. You'll be able to make more cells later once you get an extruder or a plate bender.AND1888IC2/itemArmorHazmatChestplate~64ANDretrievalIC2/itemArmorHazmatHelmet~01retrievalgregtech/gt.metaitem.01~1105732itemIC2/itemCellEmpty~516

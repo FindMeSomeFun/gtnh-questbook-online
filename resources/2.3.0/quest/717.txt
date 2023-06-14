@@ -1,0 +1,5 @@
+717§4§3§5§lGood CircuitsGood circuits are an improvement on basic circuits. They're an MV-tier circuit, which is a component of all MV gregtech machines.
+
+To open MV, you still need to make an EBF and do the Aluminium quest if you haven't already, since §oeverything§r needs aluminium.
+
+§3This quest will also open the Project Red quests, one of the early automation options.AND747gregtech/gt.metaitem.01~32715748gregtech/gt.metaitem.03~32101ANDoptional_retrievalgregtech/gt.blockmachines~13604retrievalgregtech/gt.metaitem.01~327022itemgregtech/gt.metaitem.02~321194gregtech/gt.metaitem.02~321022itemdreamcraft/item.CoinTechnicianI~03

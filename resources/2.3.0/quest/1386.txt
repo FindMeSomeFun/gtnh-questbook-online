@@ -1,0 +1,3 @@
+1386Wand Focus MendingThe Wand Focus: Mending is a wand focus that will slowly mend the Caster's wounds by expending Vis. The Focus consumes 0.45 Aqua and 0.45 Terra per cast, healing half a heart (1 health).
+
+This focus can be upgraded at the Focal Manipulator.AND238Thaumcraft/blockCosmeticSolid~71380Thaumcraft/FocusPech~0ANDretrievalThaumicTinkerer/focusHeal~01itemenhancedlootbags/lootbag~101Thaumcraft/ItemLootBag~21itemdreamcraft/item.CoinDarkWizardII~01

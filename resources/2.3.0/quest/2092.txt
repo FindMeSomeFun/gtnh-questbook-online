@@ -1,0 +1,11 @@
+2092Busy Bees Buzzing BoldlyThese upgrades can significantly increase your production rate by keeping your bees from stopping production due to the environment.
+
+Rain Shield - Can work through the rain
+Lighting - Can work day and night
+Alveary Heater - Increases temperature a flat 20% each (needs power)
+Alveary Fan - Decreases temperature a flat 20% each (needs power)
+Alveary Hygroregulator[sic] - Has two modes, water and lava
+Lava - Temp+10%, Humidity-20%
+Water - Temp010%, Humidity+20%
+
+Unfortunately, there's no way to make them like caves with a block.AND1123Forestry/alveary~0ANDretrievalForestry/alveary~51itemForestry/alveary~01enhancedlootbags/lootbag~261

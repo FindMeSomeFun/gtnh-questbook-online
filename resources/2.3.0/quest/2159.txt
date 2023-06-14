@@ -1,0 +1,21 @@
+2159Bees TemplateGet the princess bee and reward bag in NEI first.
+Copy this quest.
+Press Icon and set the icon to the bee.
+Change the name, decription, and rewards.
+
+Press Task, and select the stone, and replace it with the princess.
+Before closing, select the ... next to the bee name and press Raw NBT
+Go into Tag, Genome, Chromosomes. The first one is the name and must stay. 
+Go inside there and delete the first entry, keep both of the species so players
+must have purebreeds.
+Delete the rest of the chromosomes.
+Delete the rest of the entries for Genome.
+
+Press Requirements. Remove the Infinity unlock requirement and select the required bee quests. Use the common bees quest if nothing applies.
+
+Change Show:Hidden to Show:Normal.
+
+To reduce waste in the questbook file ideally you should also go into the advanced options, then press ... for the icon, and remove unnecessary NBT there as well. Just leave the species as above.
+
+
+§3You can change the visibility of requirements by pressing the eye symbol in the requirements menu.AND3247minecraft/nether_star~0ANDretrievalminecraft/stone~01itemenhancedlootbags/lootbag~251

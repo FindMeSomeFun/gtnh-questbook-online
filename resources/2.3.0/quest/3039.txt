@@ -1,0 +1,10 @@
+3039Dyson Swarm Ground UnitThe Dyson Swarm Ground Unit multiblock is basically a solar panel, you just insert Dyson Swarm Modules (how many depends on how much energy you want) and get energy out. There are some complications though:
+- Each second, n of m Modules are destroyed according to this formula: n=X*0.0001*m^1.05, where X is a normally distributed random number between 0 and 2 with mean 1.
+- Needs 1000 L/s of Gelid Cryotheum.
+- Requires n computation per tick according to this formula: n=0.1*m^1.075-128, where m is the amount of modules. As you can see, you get 128 computation for free! Isn't that nice?
+
+§cNote: §9Tec§1Tech§r's Multi-Amp Dynamo Hatches and Laser Source Hatches are supported.
+
+§cNote: §rThe amount of each part on the right is only the minimum, depending on how many Dynamo Hatches, Input Busses, Input Hatches and Optical Slave Connectors you use, you may need more Energy Receiver Base Casings, Module Deployment Unit Base Casings or Control Center Base Casings.
+
+§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)AND2621gregtech/gt.blockmachines~20202717bartworks/BioLabParts~03038GalaxySpace/item.DysonSwarmParts~3ANDoptional_retrievalgregtech/gt.blockmachines~508164retrievalgregtech/gt.blockmachines~140011choiceenhancedlootbags/lootbag~434GalaxySpace/item.DysonSwarmParts~0256itemdreamcraft/item.CoinTechnicianIV~05dreamcraft/item.CoinSpaceIV~01

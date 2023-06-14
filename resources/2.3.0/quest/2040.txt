@@ -1,0 +1,5 @@
+2040Industrial Coke OvenSwimming in logs? Turn those logs into clean burning charcoal! The Industrial Coke Oven is a 3x3x3 multiblock that runs much faster than those gigangic Pyrolyse Ovens. With one of these, you can replace several of those, since it does up to 24x parallels.
+
+You'll be able to effectively retire the Pyros from now on, unless there's some very fast recipe that they can keep up with. To turn Wood into Charcoal, for example, this ICO can keep up with an entire farm as long as you provide it enough Nitrogen for the job!
+
+§3This multi is EV and doesn't actually need the ABS.AND1416gregtech/gt.blockmachines~810ANDretrievalmiscutils/miscutils.blockcasings~31itemenhancedlootbags/lootbag~81

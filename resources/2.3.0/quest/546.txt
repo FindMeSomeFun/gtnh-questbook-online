@@ -1,0 +1,17 @@
+546§5§lHello Baron, How's Your Black Gold Today?During your travels you may have seen some huge oil spouts. Now's the time to make a pump and go collect this black gold into tanks. Oil can be burned directly in a combustion generator (onsite to power the pump, perhaps?) or be refined for better fuels and crafting materials. 
+
+Bring a generator or battery buffer (with full batteries obviously) with you to power the pump. Thanks to the advancement of technology the pump can auto output on top. Stacking multiple pumps makes them work faster. In that case, oil has to be removed from the bottom of the stack using a pump cover or other means like a conduit.
+
+Taller spouts have more oil. But for the LV pump, it's better to use the short spouts if possible since it doesn't have enough range to fully collect the larger ones in the horizontal range. Save the taller spouts for MV or HV pumps.
+
+Mining pipes are needed for pumping the oil, same as the auto miner. When it hits the bottom (or something in the way), if there's no fluid left to collect, it will start retracting the pipes. Same thing if you disable it with a soft mallet. You can also change the range with a screwdriver if there's a reason to do that, like collecting lava in a limited area faster.
+
+These are GT machines, so remember to protect them (and their power sources!) from rain on all sides. And set a waypoint with JourneyMaps so you don't forget where you placed it!
+
+§3Once you run out of surface oil, you'll want to turn to:
+1) Oilsands ore, though this is better suited for making heavy oil
+2) Making oil from logs in a pyro
+4) Ridiculous bio vat nonsense
+5) Crops
+6) Bees
+7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for detailsAND93gregtech/gt.metaitem.01~32610ANDretrievalgregtech/gt.blockmachines~11401retrievalIC2/blockMiningPipe~064itemBuildCraftFactory/tankBlock~04minecraft/bucket~02itemdreamcraft/item.CoinTechnicianI~03

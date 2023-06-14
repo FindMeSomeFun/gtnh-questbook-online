@@ -1,0 +1,5 @@
+1323§5§6§lBiomassChose the IC2 or the gregtech way to make biomass. Water and Bio Chaff is needed.
+
+You can also use the pyrolyze oven to make biomass in a more efficient way if you make it.
+
+Note that forestry has it's own biomass as well. It can also be made into fermented biomass like this kind. Choose which kind you want to make later on yourself.OR734IC2/blockMachine~6735gregtech/gt.blockmachines~4923070gregtech/gt.blockmachines~1159ANDretrievalIC2/itemCellEmpty~664choicegregtech/gt.blockmachines~13662gregtech/gt.metaitem.01~327021IC2/itemCellEmpty~032enhancedlootbags/lootbag~51itemdreamcraft/item.CoinChemist~025dreamcraft/item.CoinTechnician~025

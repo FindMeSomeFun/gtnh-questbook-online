@@ -1,0 +1,5 @@
+1156§3§lWooden BoltsYour crossbow need some ammo to shoot with. Let's craft some wooden bolts. For now, you can put either iron, alumite, or steel on the tip of your bolts using the Smeltery. For higher tier bolts and tips you will need to pump metals into a Fluid Solidifier with the correct tool rod inserted.
+
+§4For upgrades
+§3Nether Quartz - More damage
+Moss - Self-Repair (unlock in GTNH Thaumcraft tab)AND1151TConstruct/Crossbow~0ANDoptional_retrievalTConstruct/woodPattern~241optional_retrievalTConstruct/fletching~01optional_retrievalTConstruct/BoltPart~01retrievalTConstruct/BoltAmmo~01itemenhancedlootbags/lootbag~21itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010

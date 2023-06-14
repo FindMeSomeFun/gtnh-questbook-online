@@ -1,0 +1,3 @@
+2103InoculatorThe final step is inoculation. Currently the only machine capable of inserting genes is the Inoculator. This uses Bacteria Vector, created by incubating Bacteria and Blaze Powder, to transfer the gene into organisms.
+
+Only the young stage of organisms can be injected, which are larvae (bees), pollen (trees and flowers) and caterpillars (butterflies). Bee larvae can be converted into drones by incubating with Liquid Growth Medium.AND2098Genetics/machine~2ANDretrievalGenetics/machine~31itemBinnieCore/containerCylinder~7728enhancedlootbags/lootbag~261

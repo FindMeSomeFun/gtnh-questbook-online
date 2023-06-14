@@ -1,0 +1,1 @@
+1980EnderIO LightsEnderio also has its own lights. These lights have a radius of 8 blocks vs the normal 7. AND77gregtech/gt.blockmachines~1000ANDretrievalEnderIO/blockElectricLight~31itemEnderIO/blockElectricLight~37EnderIO/blockElectricLight~28

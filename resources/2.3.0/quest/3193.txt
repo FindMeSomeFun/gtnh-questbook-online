@@ -1,0 +1,9 @@
+3193Optional Tier 3 FusionIndium - from Lithium + Silver. This is one of the most important optional fusion recipes, given how difficult Indium is to get. Your options are to either replicate it, make it with fusion, obtain it from the naquadria line, or obtain it from processing sphalerite ore.
+
+(You can make Indium in other ways, of course, but this is a relatively popular, non-forced fusion recipe)
+
+Oganesson - from Calcium + Californium. This is the best noble gas of them all, and a very power-hungry recipe compared to most. However, Oganesson will save you power on EBF recipes, reducing recipe time more than any other fluid, and it also boosts Void Miners to their maximum speed. Replicating it, if possible, is easier than producing more through fusion.
+
+Americium - from Hydrogen + Plutonium 241. This is the cheaper Americium recipe that was promised to you in t2, and it no longer needs Lutetium. You should be able to get both of the inputs very easily, so enjoy your cheaper Americium!
+
+Neutronium - from Naquadria + Americium. Neutronium fusion? You probably won't need to use this, but it is a source other than ores that you can try.AND3190miscutils/particleIon~82ANDcheckboxgregtech/gt.blockmachines~9081

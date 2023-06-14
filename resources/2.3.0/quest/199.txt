@@ -1,0 +1,6 @@
+199§a§lQuit Exhaling DustsThe QED is used to make only a few things, so I'll just list them here:
+
+Magnum Torch: Prevent mob spawns.
+Ender Quarry, and the Ender-Markers that go with it: Quarry up the landscape, so you can get planet blocks, dirt, etc, unlike miners.
+Ender-Thermic Pump: For nether lava pumping with less lag.
+Transfer Node Energy/Hyper-Energy: Transfers RF, so. useless.AND176gregtech/gt.blockmachines~14ANDretrievalExtraUtilities/endConstructor~23itemExtraUtilities/endConstructor~21itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinTechnicianII~01

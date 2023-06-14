@@ -1,0 +1,8 @@
+1935A Better ChiselIf you want to decorate your base, you're going to need a better chisel.
+
+Normal: 256
+Obsidian: 512
+Diamond: 2560
+Bedrockium: 32767
+
+They obviously get harder to make the longer they last.AND54gregtech/gt.blockmachines~115ANDretrievalchisel/obsidianChisel~01itemminecraft/diamond~02

@@ -1,0 +1,7 @@
+2305§b§lFirst Separation - RhodiumThe Platinum Group processing line (AKA Platline) is a multi-step complicated process. Because of it's complexity, and how much you need, you should have a processing line running all the time. You should be able to comprehend it better after doing these quests. Or maybe you set it up already, and you're siphoning off some of the results? Either way.
+
+As a first step in getting Rhodium, Ruthenium, Iridium, and Osmium, we will split apart the Rhodium from the other metals in an EBF with the Potassium Disulfate you made previously.
+
+The amounts for this step are pretty annoying, blame Bart for that.
+
+§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.AND2304bartworks/gt.bwMetaGeneratedcellMolten~59ANDoptional_retrievalbartworks/gt.bwMetaGeneratedcellMolten~5978retrievalbartworks/gt.bwMetaGeneratedcell~6111itemdreamcraft/item.CoinChemistIII~01dreamcraft/item.CoinTechnicianIII~01

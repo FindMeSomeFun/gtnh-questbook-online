@@ -1,0 +1,9 @@
+1879§a§lCreate New Materials Out of Pure EnergyUsing the scanner, you can scan certain items (check the replicator's NEI recipes) to store the information of the item to a data orb so you can make copies of them with the replicator. This process uses a varying amount of UUM and time, depending on the item. Scanning also takes forever.
+
+Some items you might want to replicate include:
+Indium
+Platline metals like Iridium and Osmium
+Neon, Krypton, Xenon from liquid air distilling
+Oganesson
+
+For some things (Oganesson), this might be considered the only reasonable way of getting a decent amount.AND1880gregtech/gt.metaitem.01~32671ANDretrievalgregtech/gt.metaitem.01~327071retrievalgregtech/gt.blockmachines~4821choiceenhancedlootbags/lootbag~71gregtech/gt.metaitem.01~110288IC2/itemPartCircuitAdv~04itemdreamcraft/item.CoinTechnicianII~01

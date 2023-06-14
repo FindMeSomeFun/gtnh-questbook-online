@@ -1,0 +1,7 @@
+784§6§lIt's Time to Get More SteamAs soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. This boiler produces 800L of steam per tick. This is enough to run 10 basic steam turbines.
+
+The large boiler can use either water or distilled water. Water is consumed at a rate of 1L of water per 150L of steam.
+
+To make a large boiler you must make a 3x3x5 structure with Bronze Pipe Casings in the center of the middle 3 levels. The lowest level must contain at least 1 or 2 input hatches, 1 or 2 input buses, 3 or 4 fireboxes, 1 muffler, and one maintenance hatch. The lowest level can not contain any plated bricks. All hatches, buses, and mufflers must have their back side touching a firebox. The output hatch can be placed on any of the upper 4 levels.
+
+§c§cWarning: Different from other boilers, Large Boilers must contain water at all times while active. If at any point the Boiler runs out of water while it is active, it will explode.AND717gregtech/gt.metaitem.01~32702ANDoptional_retrievalgregtech/gt.blockcasings3~135retrievalgregtech/gt.blockmachines~10201optional_retrievalgregtech/gt.blockcasings2~123optional_retrievalgregtech/gt.blockcasings~1032optional_retrievalgregtech/gt.blockmachines~911itemdreamcraft/tile.DoubleCompressedCharcoal~02enhancedlootbags/lootbag~42itemdreamcraft/item.CoinTechnicianI~05

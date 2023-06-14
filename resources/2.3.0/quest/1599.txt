@@ -1,0 +1,7 @@
+1599§5§lNode UpgradesNodes can take many upgrades. For now, try building a World Interaction Upgrade.  With it, you can setup simple autocrafting. 
+
+Put a WIU in a transfer node attached to a crafting table. On the other side of the table, the 3x3 area is now treated as a crafting grid.  Place items in inventories on the other side and if they make a valid recipe, the WIU will craft it.  To speed it up, you will need to wait until HV for stainless steel.
+
+Also, if you place a node on a block of cobble that has lava and water next to it, and a WIU in it, it will produce cobble for you automatically. Use upgrades to get more at a time and faster.
+
+§4The WIU can NOT be used for infinite water in GTNH.AND114ExtraUtilities/extractor_base~0ANDretrievaldreamcraft/BabyChest~09itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

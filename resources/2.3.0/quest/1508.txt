@@ -1,0 +1,7 @@
+1508§2§lA Better Crafting TableTired of your stuff falling out of your crafting table every time you walk away?  This fancy table from Tinker's Construct has slots to hold the items in your recipe. 
+
+You can also use it to upgrade tools with 8 modifiers at a time. Very handy for additional speed or looting!
+
+When it's placed next to a vanilla chest, it will even show the chest's inventory in the crafting window. Single or double vanilla chests only please.
+
+Cut it again for a sleek, low profile version.AND36gregtech/gt.metatool.01~16ANDretrievalTConstruct/CraftingStation~01itemdreamcraft/item.CoinSmith~010itemharvestcraft/plumjellysandwichItem~04

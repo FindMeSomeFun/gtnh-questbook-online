@@ -1,0 +1,11 @@
+1371LOX and Bagels§cNOTE: You cannot directly refill your tanks in a crafting grid anymore!§r
+
+The LOX canister is an alternate solution to refilling your oxygen tanks.
+
+To make liquid oxygen you need to put an oxygen cell into a vacuum freezer to get a cell of liquid oxygen. Transfer this liquid oxygen into a tank, and then into a LOX canister.
+
+To refill your oxygen tanks just put the tank and the LOX canister in the oxygen compressor to transfer oxygen, or use a oxygen collector.
+
+Each LOX canister can fill 4 Heavy Oxygen Tanks, 6 Medium Oxygen Tanks, or 12 Light Oxygen Tanks.
+
+So much Greggy!AND821GalacticraftCore/tile.fuelLoader~0ANDoptional_retrievalgregtech/gt.metaitem.01~300131optional_retrievalGalacticraftCore/item.oilCanisterPartial~10011retrievalGalacticraftMars/item.canisterPartialLOX~11choiceGalacticraftCore/item.oilCanisterPartial~10012GalacticraftCore/tile.oxygenPipe~016GalacticraftCore/item.oxygenTankLightFull~9001enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

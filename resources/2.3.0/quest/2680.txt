@@ -1,0 +1,13 @@
+2680§c§lMutating Things is CoolWhen making Raw Crystal Chips, you have two other options if using Europium constantly is too expensive for you: Bacterial Sludge, and Mutagen.
+
+Mutagen is obviously better than the sludge, but how do you get it? I'll teach you how.
+
+First, get the Bacterial Sludge you got from Mars, and run it through a Brewery along with some U-238 to get EnrichedBacterialSludge. Then Ferment it to get FermentedBacterialSludge. And finally you Distill it to get Mutagen.
+
+But is a single bucket enough for you? Hardly! But now that we have some, we can make more with the vat. Use the Mutagen you got along with some of that Mysterious Crystal Dust to make a culture. Unfortunately the chances are pretty low, so you'll almost certainly have to do it several times.
+
+Once you have your culture you can use it in the vat along with some of the dust again to make more. You'll need LuV-tier glass, and Plutonium rods.
+
+If you want to get more Bacterial Sudge more easily, you can use the vat to make that too! The culture is much easier to make.
+
+§3Mutagen is also used for Gendustry, so if you want to do that, make a bunch.AND1469GalacticraftMars/tile.sludge~01687gregtech/gt.metaitem.03~320702561gregtech/gt.blockmachines~127122566gregtech/gt.blockmachines~126992609gregtech/gt.metaitem.01~2398ANDoptional_retrievalgregtech/gt.metaitem.01~2098140optional_retrievalgregtech/gt.metaitem.01~239816optional_retrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.98~210

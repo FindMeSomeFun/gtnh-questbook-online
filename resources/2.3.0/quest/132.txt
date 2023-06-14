@@ -1,0 +1,10 @@
+132§6§lSimple RF Power: LiquidsThis generator requires both water as coolant, and a burnable liquid as fuel. The amount of power it produces depends on the type of liquid used.
+
+Fuel           Burn Time (ticks/mb)    Power Output (RF/tick)    Power Output (RF/mb) 
+Oil                5                          30                               150
+Hootch          6                          60                               360
+Ethanol        15                          40                               600 
+Fire Water    15                          80                              1200
+Diesel/Fuel   25                          60                              1500
+
+§3Rocket Fuel is disabled.AND130EnderIO/blockTank~0ANDretrievalEnderIO/blockCombustionGenerator~01choiceEnderIO/itemBasicCapacitor~01enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

@@ -1,0 +1,5 @@
+2477AE Tier 1 Fluid StorageThe main processor for 1K, 4K, 16k, and 64k fluid cells.
+
+Don't want to get rid of your super tanks? Use the fluid storage bus instead of these then. Super tanks double in capacity each tier, but these quadruple. Plus they're less expensive for sure. But the earlier ones may not be worth it.
+
+§4AE2 with fluids is kinda buggy. Report problems so they can (hopefully) be fixed, ok?AND183appliedenergistics2/item.ItemMultiMaterial~22ANDretrievaldreamcraft/item.EngineeringProcessorFluidDiamondCore~01itemdreamcraft/item.DiamondFluidCoreChip~01itemdreamcraft/item.CoinTechnicianII~02

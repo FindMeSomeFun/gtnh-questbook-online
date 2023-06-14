@@ -1,0 +1,11 @@
+3180Faster Lutetium ExcitementThis quest is late LuV.
+
+You might have read before that Lutetium is necessary as an input for fusion crafting. In a tier 2 fusion reactor, Lutetium + Chrome = Americium, a required material for many required crafts. Lutetium is a material that is obtained exclusively from breeding, so you're in the right place to find ways to get it.
+
+The very first method, EV's IC2 Thorium nukes, is the cheapest, but also the slowest. Each fuel rod takes 50000 seconds to deplete, almost 14 hours, with half of a Lutetium Dust per depleted rod. Highly stackable designs, such as the 2-chamber 11 quad rod one, will grant you 22 dust per cycle. After building 10 of those, the rate is still 16 dust per hour. This processing speed isn't good enough to keep progressing forever, and there is no need to make more towers of breeder nukes. Instead, make liquid fuel.
+
+Just like before, you want to deplete it. The slowest step in the process takes 2500 seconds per bucket, but one bucket of depleted Thorium Based Liquid Fuel awards, on average, 96 Lutetium Dust. This is 138 per hour at the slowest rate! One Neutron Activator matches the speed of 86 of the IC2 nukes mentioned above, and that Neutron Activator is one of the two expensive parts of this multi. The other one is a tier 1 Fusion Reactor to make Helium Plasma and activate the Thorium Liquid Fuel.
+
+So, you need Lutetium for fusion, but need fusion for this Lutetium? Yes, Helium Plasma is t1 fusion while the Americium recipe is only t2, so you have some time to accumulate Lutetium at a faster rate if you haven't done it already. To accomplish this, you will need a Precise Assembler to make the Neutron Activator, plus the MkI Fusion Reactor, and also some of the Naquadah line in the middle.
+
+§4§4Obtaining Lutetium with the neutron activator is no longer possible. Please hold while the quest book authors figure this out. I think the HTGR is the new method but you might just do bees at this point.OR2610gregtech/gt.blockmachines~173179miscutils/itemCellPlasmaXenon~03183bartworks/gt.bwMetaGeneratedcell~10003ANDoptional_retrievalgregtech/gt.blockmachines~320131retrievalbartworks/gt.bwMetaGeneratedcell~100071

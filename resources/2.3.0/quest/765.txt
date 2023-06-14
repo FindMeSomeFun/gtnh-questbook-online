@@ -1,0 +1,11 @@
+765§6§lTime to Drill for Oil!Pumps are nice but you're going to reach a point where you'll want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you'll need to search for oil using a seismic prospector. You can find raw, light, medium, and heavy oil. There's also a chance to find natural gas.
+
+Higher tiers of power will drill faster. You need to upgrade the energy hatch corresponding to the power tier. 
+
+Later you can upgrade the oil drilling rig so it extracts from more than one chunk at a time.
+
+You need mining pipes in the controller. If you need more than 64, you can use an input bus.
+
+These are GT machines, so remember to protect them (and their power sources!) from rain on any side. And set a waypoint with JourneyMaps so you don't forget where you placed it!
+
+Space dims can also have fluids beneath bedrock. For info, check the Tips and Tricks tab.AND1148gregtech/gt.blockmachines~12ANDretrievalgregtech/gt.blockmachines~11571optional_retrievalgregtech/gt.blockmachines~901optional_retrievalIC2/blockMiningPipe~064choiceenhancedlootbags/lootbag~51gregtech/gt.metaitem.01~326012gregtech/gt.metaitem.01~327082gregtech/gt.metaitem.01~1701916itemdreamcraft/item.CoinTechnicianI~05

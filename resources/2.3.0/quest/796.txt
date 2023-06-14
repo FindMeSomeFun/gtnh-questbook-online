@@ -1,0 +1,1 @@
+796Sensor LensThe night vision goggles need special sensor lenses to work.AND753gregtech/gt.metaitem.01~11306838IC2/itemPartCircuitAdv~0ANDoptional_retrievaldreamcraft/item.ReinforcedGlassLense~02retrievalGalacticraftCore/item.sensorLens~02choiceIC2/itemPartCircuitAdv~01IC2/itemBatCrystal~261enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05

@@ -1,0 +1,14 @@
+3293Travelocity²Why walk when you can teleport? This upgrade to the staff of traveling can move you even further, even faster, and will never run out of energy.
+
+Right-click:
+ * If looking at a block: teleport to it, 512 range
+ * If no block in range: teleport forward, 64 range
+ * If looking at a block within 2 range: teleport to the other side of a wall, 16 range
+ * No cooldown
+
+Shift-right-click:
+ * Teleport to travel anchor, 2048 range
+
+§3Tip: You won't be able to see travel anchors that are far away, but can still teleport to them if they are in range and chunk-loaded. Try using JourneyMap waypoints to mark anchors!
+
+§3Note: The staff of teleportation has inverted shift behavior compared to the regular staff. This is to make moving around with right-click easier.AND1509EnderIO/itemTravelStaff~02673Avaritia/Resource~4ANDretrievalEnderIO/itemTeleportStaff~01

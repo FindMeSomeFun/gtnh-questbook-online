@@ -1,0 +1,34 @@
+2383Curse MasterCurse of Teleportation
+Teleport Entities around randomly.
+
+Curse of Confusion
+Confuses mobs. Creepers just explode and have no fuse time or mobs fight each other.
+
+Curse of Tranquillity
+Prevent mobs from attaking you. Doesn't work on Boss mobs.
+
+Curse of Slowness
+Inflicts slow on mobs.
+
+Curse of Weakness
+Inflicts weakness on mobs.
+
+Curse of Blindness
+Inflicts blindnness on mobs.
+
+Curse of Death
+Does 1.5 magical damage to mobs. Mobs bleed for a while and lose health.
+
+Curse of Decay
+Items and armor get damaged over time.
+
+Curse of Vampire
+Mobs become sensitive to sunlight and take more damage.
+
+Curse of Rebound
+Adds reflection damage to a mob.
+
+Curse of Loss
+Items will removed out of your inventory and get destroyed or fall on the ground.
+
+AND2376HardcoreEnderExpansion/curse~0ANDretrievalHardcoreEnderExpansion/end_powder~044retrievalHardcoreEnderExpansion/curse~104retrievalgregtech/gt.metaitem.01~50611retrievalHardcoreEnderExpansion/curse~2661choiceHardcoreEnderExpansion/endoplasm~064HardcoreEnderExpansion/essence~0512HardcoreEnderExpansion/silverfish_blood~064HardcoreEnderExpansion/arcane_shard~064HardcoreEnderExpansion/living_matter~032enhancedlootbags/lootbag~584itemdreamcraft/item.CoinChemistIII~01dreamcraft/item.CoinDarkWizardIII~01HardcoreEnderExpansion/knowledge_note~010

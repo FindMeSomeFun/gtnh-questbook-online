@@ -1,0 +1,7 @@
+1998I Can See EverythingWith your new wand, you can make Goggles of Revealing. You can now see nodes clearly, more so than with the thaumometer, but all the time! Additionally, the goggles give you a 5 percent vis discount.
+
+Simple lens upgrades will grant you various seeing abilities as well.
+
+Later you can make more advanced goggles and even integrate the goggles into advanced armors.
+
+With TC Node Tracker, it makes remembering nodes trivial. The default key is I. You can select from the list of nodes you have scanned, and an in-world arrow will show you the way. You can also sort the list.AND237Thaumcraft/WandCasting~9ANDretrievalThaumcraft/ItemGoggles~01itemThaumcraft/blockCustomPlant~52

@@ -1,0 +1,3 @@
+1988§3§lYour Mom Says to Upgrade Your DrawersThere are many tiers of upgrades for storage drawers. Make some iron and gold tier upgrades and I'll give you some of the special purpose upgrades to experiment with in your base. Check NEI for more options such as Obsidian, Emerald, and Diamond upgrades.
+
+§4To remove upgrades, shift-right-click with an empty hand to access the drawer interface.AND1987StorageDrawers/upgradeTemplate~0ANDretrievalStorageDrawers/upgrade~31itemStorageDrawers/upgradeStatus~11StorageDrawers/upgradeVoid~01

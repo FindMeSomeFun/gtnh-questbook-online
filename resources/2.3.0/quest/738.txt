@@ -1,0 +1,9 @@
+738Routed PipesThere are six types of routed pipes: 
+
+-Junction pipe is used to form an intersection that will allow other routed pipes to communicate. 
+
+-Interface pipe will connect to an inventory allowing you to extract or insert items, chips can be used to control the logic. 
+
+-Request pipe will allow requesting only specific items to be send through pipes.
+
+-Firewall pipe can control which items can pass through them.AND127ProjRedTransportation/projectred.transportation.routingchip~0ANDretrievalProjRedTransportation/projectred.transportation.pipe~14choiceProjRedTransportation/projectred.transportation.pipe~04ProjRedCore/projectred.core.part~132gregtech/gt.metaitem.01~175001enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

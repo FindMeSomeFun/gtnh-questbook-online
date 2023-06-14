@@ -1,0 +1,7 @@
+3037Space PumpingYou might have already wondered: There are these enormous gas planets in the solar system - isn't there a way to "harvest" them? Indeed there is. By constructing the "Planetary Gas Siphon" multiblock, you are able to pump from the infinite supply of gas found on Jupiter, Saturn, Uranus and Neptune. You just need to build a space station around a gas planet to get near enough to be able to reach the gas without falling into it.
+
+By pumping on different depths, you are able to extract different gases. The depth is controlled by a Programmed Circuit. You need to supply 64 * depth Mining Pipes to be able to rach the selected depth.
+
+While operational, the multiblock needs d*4^(t+2) EU/t (t is the space station's tier and d is the depth).
+
+You can find an overview of what you can pump where in the Tips and Tricks chapter.AND1067GalaxySpace/item.Icon~371535GalaxySpace/item.Tier4Rocket~0ANDretrievalgregtech/gt.blockmachines~140021choiceenhancedlootbags/lootbag~241enhancedlootbags/lootbag~81IC2/blockMiningPipe~0256itemdreamcraft/item.CoinSpaceII~05dreamcraft/item.CoinTechnicianII~05dreamcraft/item.CoinAdventureII~05

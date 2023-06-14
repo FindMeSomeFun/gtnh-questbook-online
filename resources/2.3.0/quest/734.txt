@@ -1,0 +1,3 @@
+734§6§lWay One: IC2 Fluid CannerThe first way you get biomass out of bio chaff is to use the IC2 Fluid Canner. One bucket of water and one bio chaff gives one bucket of biomass.
+
+§4This option is not really recommended. You should focus on GT machines, not IC2. It also has some buggy interaction with normal cells, you might need to use universal cells.AND733IC2/itemBiochaff~0ANDretrievalIC2/blockMachine~61choicegregtech/gt.blockmachines~12464IC2/itemPartCircuit~01gregtech/gt.metaitem.01~288808enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~025

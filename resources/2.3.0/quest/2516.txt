@@ -1,0 +1,3 @@
+2516Storing Essentia in Jars? Why, again?So apparently you can attach this to a void/oblivion jar and have it void overflow if you set the priority low. Neat, huh?
+
+What? Store essentia in jars? Seriously? I guess you could, if you really wanted to, or if there were new, larger jars...AND1304ae2fc/part_fluid_storage_bus~0ANDretrievalthaumicenergistics/part.base~21itemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~02dreamcraft/item.CoinDarkWizardII~02

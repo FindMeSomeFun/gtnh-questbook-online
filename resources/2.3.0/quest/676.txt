@@ -1,0 +1,5 @@
+676CrowbarThe crowbar comes in a Railcraft (and thaumcraft versions of RC) and a gregtech variant. It is used to manipulate machines from railcraft, remove plates and any other covers (pumps, conveyor modules, etc.) from gregtech pipes and machines as well as breaking certain objects faster, such as tracks. This tool is also used to access certain inventories from Railcraft.
+
+Hold a crowbar and shift + right click to attach carts. Click the starting cart then continue to click to add more carts to the link. Carts will act slower the more connections are made.
+
+The crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).AND675Railcraft/signal~4ANDretrievalRailcraft/tool.crowbar~01choiceminecraft/minecart~01Railcraft/part.rail~016enhancedlootbags/lootbag~321itemdreamcraft/item.CoinTechnician~010

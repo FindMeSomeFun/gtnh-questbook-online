@@ -1,0 +1,5 @@
+1628Item Overflow ChipThis chip stores the items in a connected inventory. It designates a storage for items that have no other place to go. It is strongly recomended to have a default storage for items in every pipe system, otherwise bad stuff can happen. Best used with a large chest (diamond for example).
+
+It seems to have some bugs though, so don't craft more than one without testing it first.
+
+You might have to just use a normal item responder and add the items you want routed back to your overflow spot.AND1626ProjRedCore/projectred.core.part~44ANDretrievalProjRedTransportation/projectred.transportation.routingchip~21choiceProjRedCore/projectred.core.part~02IC2/itemPartCircuit~01gregtech/gt.blockmachines~20008ProjRedCore/projectred.core.part~441enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015itemProjRedTransportation/projectred.transportation.routingchip~01

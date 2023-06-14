@@ -1,0 +1,3 @@
+2012Cable ClusterThe cable cluster allows you to combine as many of the other cables together into one block. You could have a redstone receiver and emitter and a inventory relay all in one block.
+
+This cable is a "terminal" cable. It does not extend the MIM beyond it.AND1989StevesFactoryManager/BlockMachineManagerName~0ANDretrievalStevesFactoryManager/BlockCableClusterName~08itemStevesFactoryManager/BlockCableClusterName~08

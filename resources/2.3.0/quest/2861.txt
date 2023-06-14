@@ -1,0 +1,10 @@
+2861§5§lPrison Gangs are ObsoleteWant lots of cobble, stone, or obsidian? This is the machine for you!
+
+Cobble: Water and lava on 2 of the sides.
+Stone: Water on a side, lava on top.
+Obsidian: Either of the above, and redstone in the machine.
+
+You of course need to power it. If you don't want to spend power on cobble, do it the ExU way with the WIU.
+
+§3You need to toggle the ghost circuit to circuit 1 to get obsidian.
+AND95gregtech/gt.metaitem.01~32640ANDretrievalgregtech/gt.blockmachines~4411itemminecraft/water_bucket~01minecraft/lava_bucket~01enhancedlootbags/lootbag~41choiceminecraft/cobblestone~04096minecraft/stone~0256minecraft/obsidian~016itemdreamcraft/item.CoinTechnician~015

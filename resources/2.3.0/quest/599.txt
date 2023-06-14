@@ -1,0 +1,9 @@
+599§5§lThermal CentrifugeA machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.
+
+When you have IC2 nuclear reactors and want to recycle your depleted fuel rods, it's the only way to do so.
+
+If you can't produce the 2A of LV power for this machine right now, wait until you get to MV and use transformers to power an LV version.
+
+In LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.
+
+§4Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.AND836gregtech/gt.metaitem.03~32190ANDretrievalgregtech/gt.blockmachines~3811itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

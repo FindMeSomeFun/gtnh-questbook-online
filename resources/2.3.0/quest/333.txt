@@ -1,0 +1,9 @@
+333OfferingsFor all your offering needs. And of course, it looks fancy!
+
+An altar is created by placing six altar blocks in a 2x3 pattern; you will know it's correct when a red cloth appears over the top of the altar.
+
+Right-clicking on it will bring up a screen showing how much power the altar has collected, how much it can collect and its current recharge rate. It is important to check that there is sufficient available power to perform a given rite or use a distillery, or certain kettle or cauldron recipes.
+
+The maximum amount of power available is determined by how many natural items are in the vicinity of the altar: dirt, grass, trees, plants, etc. all contribute; stone and sand do not. The important thing is to have a diverse mix of different plants, trees and crops (plants from other mods are supported to an extent as well). Read a wiki for details.
+
+Certain objects (or foci), placed onto an altar, will boost the focusing capabilities of an altar, either improving the amount of magic it can focus, the rate at which it replenishes or the range it can distribute power. Only one of each type of item (skull, chalice, etc.) will have an effect. There may also be other less savory foci that dark magic practitioners could make use of.AND334witchery/cauldron~01575witchery/ingredient~28ANDretrievalwitchery/ingredient~01choicewitchery/arthana~01witchery/ingredient~11enhancedlootbags/lootbag~531itemdreamcraft/item.CoinWitchI~05dreamcraft/item.CoinDarkWizardI~05

@@ -1,0 +1,9 @@
+1494§6§f§6§lStainless Taking Too Long?Time for a second EBF! 
+
+You can make ingots faster in 3 ways - better coils, higher tier energy hatches, or adding more furnaces. It's probably time to add a second EBF to your base.
+
+Multiblock machines can share casings, mufflers, and input/output hatches/busses, but not maintenance hatches (you can share the auto ones though). You can share energy hatches, but only if you can supply enough power to all machines it's a part of. So if you have two EBFs that both want MV power, and you use a MV Energy Hatch, it won't work, since neither will get enough power. This is almost never used, so don't worry about it. Also, if you want to share inputs on Processing Arrays, turn off recipe map filtering on the busses.
+
+Remember, pollution will be very high with two EBFs active at once! Watch out for high pollution effects. Use the best mufflers available and don't place the EBFs in the same chunk as farmland or other high pollution machines like Pyrolyse Ovens and Large Boilers.
+
+You can use whatever coils you have lying around, but you might want to start searching for Mica if you haven't found any yet.AND753gregtech/gt.metaitem.01~11306ANDretrievalgregtech/gt.blockmachines~10001retrievalgregtech/gt.blockmachines~921retrievalgregtech/gt.blockmachines~422itemgregtech/gt.metaitem.01~325292gregtech/gt.blockmachines~1721dreamcraft/item.CoinTechnicianI~05

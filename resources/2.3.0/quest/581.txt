@@ -1,0 +1,5 @@
+581A Series of TubesBefore you can craft your first farm block you need apatite tubes. Make some apatite rods first with a lathe, then use a forge hammer to join them into long apatite rods. You need golden bolts and a red alloy plate.
+
+Put some glass or sand into your thermionic fabricator and make your first tubes.
+
+§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?AND588gregtech/gt.metaitem.01~8530ANDoptional_retrievalminecraft/glass~02retrievalForestry/thermionicTubes~102choiceForestry/thermionicTubes~02Forestry/thermionicTubes~12Forestry/thermionicTubes~22enhancedlootbags/lootbag~191itemdreamcraft/item.CoinForestry~025

@@ -1,0 +1,9 @@
+1480§a§lRadon DecayRadon is needed for EV Emitters and Sensors.
+
+You can get Radium-226 from sifting Thorium, Pitchblende, Uraninite, or Uranium 238. It needs 4500 seconds, or 75 mins, to decay, and it will debuff you until it decays unless you have complete hazmat protection. It's a good idea to make a Lead-Lined Box and let the Radium decay there, instead.
+
+Thorium can be obtained from the Nether, whereas the other 3 ores are locked after the Tier 2 Rocket. However, Thorium gives a much smaller chance of getting Radium, so you'll need a good amount of it to continue.
+
+After it decays, you can electrolyze Radon out of it and progress into the next circuit line. However, you will not be able to do the Radon loop here, that can only be done with Plutonium 239.
+
+§3You only need to do one task.AND1252gregtech/gt.blockmachines~544ORretrievalgregtech/gt.metaitem.01~687364retrievalgregtech/gt.metaitem.01~692264retrievalgregtech/gt.metaitem.01~609864retrievalgregtech/gt.metaitem.01~6096128choicegregtech/gt.metaitem.01~110288gregtech/gt.metaitem.03~3210616enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~02

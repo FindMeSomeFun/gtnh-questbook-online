@@ -1,0 +1,1 @@
+2016Block GateThe Block Gate can break, pickup, or place blocks.AND1989StevesFactoryManager/BlockMachineManagerName~0ANDretrievalStevesFactoryManager/BlockCableBreakerName~01itemStevesFactoryManager/BlockCableBreakerName~01

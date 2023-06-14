@@ -1,0 +1,13 @@
+2765§6§lTFFTThe TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.
+
+With the tier I storage field block, it consumes 31.5 EU/t but only has about 0.315x the storage capacity of a ST I per fluid.
+
+With the tier V storage field block it consumes 504 EU/t and has about 1.26x the storage capacity of a QT III per fluid.
+
+You can use the multi hatch to access all the fluids at once with an ME Fluid Storage Bus or Fluid Ender Conduit.
+
+You need 63 of any tier of storage field block, you can mix them too.
+
+§3Remember to turn auto-voiding on.
+
+§4The TFFT was reworked apparently, so this quest might or might not be accurate.AND213gregtech/gt.blockmachines~15ANDretrievalgregtech/gt.blockmachines~131041

@@ -1,0 +1,7 @@
+2530Spring CleaningSo, when you first started AE, maybe you dumped a bunch of your items into 1k drives, but now you want to clean them up, or empty them to reuse them in making higher tier ones. The ME IO Port will allow you to fill or empty your drives by connecting to the rest of the network.
+
+You can use the Cell Workbench to format your drives, so they'll only contain the stuff you want. Remember, more item types mean less space overall. You can set them to lapis for example, then put them in the ME IO Port with the transfer direction to the drive to fill it with only that item. Don't put in an unformatted drive while using storage drawers to store tons of stuff! If you want to move your stuff around, put in new drives, then empty old ones, or disconnect your storage drawers temporarily.
+
+You can use the Workbench to format fluid drives too, and even use cells instead of buckets.
+
+Cell Workbenches do not connect to the network, so they don't need a channel.AND1292appliedenergistics2/tile.BlockDrive~0ANDretrievalappliedenergistics2/tile.BlockCellWorkbench~01itemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

@@ -1,0 +1,6 @@
+2546Ordering EssentiaThe Distillation Pattern Encoder allows you to automatically melt down items in your alchemical furnace to provide essentia.
+First, place something that is already scanned in the device, along with a blank pattern. You can create the pattern by clicking the button, or click the different aspects to select one that is not the highest. This will create a pattern of item -> essentia. Then use an ME Interface pointing at a furnace with the pattern in it. You can now craft that type of essentia the same way you would a normal craft, but through the Essentia Terminal.
+
+§4There isn't a way to have the system craft essentia on demand for a craft unfortunately.§r
+
+AND2512thaumicenergistics/material~0ANDretrievalthaumicenergistics/thaumicenergistics.block.distillation.encoder~01itemenhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02dreamcraft/item.CoinDarkWizardII~02

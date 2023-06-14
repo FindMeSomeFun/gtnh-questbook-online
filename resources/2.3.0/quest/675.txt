@@ -1,0 +1,3 @@
+675Switch LeverThe switch lever is the manual version of the switch motor, requiring a player to operate it instead of a redstone signal.
+
+It is used in various signaling systems, mainly to change the way switch tracks and wye tracks work.AND48gregtech/gt.metaitem.01~1130876gregtech/gt.blockmachines~140667Railcraft/track~736ANDretrievalRailcraft/signal~41choiceRailcraft/part.rail~216Railcraft/part.rail~08enhancedlootbags/lootbag~321itemdreamcraft/item.CoinTechnician~015

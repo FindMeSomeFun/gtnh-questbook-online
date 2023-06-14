@@ -1,0 +1,13 @@
+2444§5§lLong Distance Fluid PipelineWouldn't it be great if you could transport your oil from a far away oil spout or oil field by pipes to your base?
+
+This is not a problem anymore. Connect your setup on the start and end point with a Long Distance Fluid Pipeline block. Inbetween use the associated pipe blocks - the total distance between endpoints must be more than 64 blocks apart (4 or more chunks). There can only be one start and end point per pipeline.
+
+To actually connect it, you need to align the start LDFP block such that the arrows are facing inwards, and the opposite side of it has a LDFPP block. Put a pump on the side of the block that has the arrows and set to import. It will now attempt to import fluid to the endpoint LDFP. §2This will go as fast as you can put fluid into it.§r
+
+Do the opposite on the far side, except you don't need a pump.
+
+Now you only need to chunkload the start and end points and the fluid will be "teleported" to you.
+
+Of course, later on you'll probably use ender tanks to §oactually§r teleport the fluid, especially from other dims.
+
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.AND546BuildCraftEnergy/blockOil~0ANDretrievalgregtech/gt.blockmachines~27002retrievalgregtech/gt.block.longdistancepipe~064itemgregtech/gt.metaitem.01~326102irontank/goldTank~02itemdreamcraft/item.CoinTechnician~015

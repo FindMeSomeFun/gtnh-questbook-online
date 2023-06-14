@@ -1,0 +1,20 @@
+2732The Third Time's the CharmThe Lapotronic Supercapacitor is an alternative to the Power Sub-Station (or Power Station Control Node as indicated on the controller) and the LESU. It is harder to make, but has its own benefits:
+
+1) It looks cooler
+2) Hatch tier is not limited by the capacitors like cells, so you can use whatever hatch tier you want if you store up power or have the input for it
+3) Can mix and match Capacitor tiers
+4) Loses 1% of total capacity every 24h, so much much less, but you can't cheese it
+5) Actually stores way more power at IV+ tier
+
+It also has downsides of course:
+1) More expensive to make
+2) Stores less power, though this is only the case with EV
+3) Can only I/O on the bottom 2 layers
+4) Can't cheese power loss
+5) It can have maintenance issues, unlike the PSS, voiding 20% more power per, so try not to let that slide. Though at most it's still only 2.2%
+
+For the first, smallest one, you'll need the following, plus an Energy Hatch and a Dynamo (or the laser equivalents). Remember that you can get your Lapos back if you run the capacitor through an unpackager. Finally a reason to make one!
+
+You can use Laser Hatches, that can output very high amperage. You need at least UV Glass to use them. (This is also the case with PSS BTW.)
+
+BTW your LSC can hold between 540M and 8.1B EU using only the EV capacitors. Remember that you need more than half the blocks to be non-empty capacitors for it to be valid.AND806IC2/itemBatLamaCrystal~11261gregtech/gt.metaitem.01~32706ANDoptional_retrievalgregtech/gt.blockmachines~901optional_retrievalkekztech/kekztech_lapotronicenergyunit_block~64retrievalgregtech/gt.blockmachines~131061itemenhancedlootbags/lootbag~81gregtech/gt.metaitem.01~3271415itemdreamcraft/item.CoinSmithII~02dreamcraft/item.CoinTechnicianII~02

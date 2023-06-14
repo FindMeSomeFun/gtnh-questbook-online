@@ -1,0 +1,26 @@
+2548Miscellaneous AE ItemsThere are several AE items that aren't particularly useful, but probably deserve mention, so here they are:
+
+Certus Tanks: They hold 32B and are portable and easy to make.
+
+View Cell: Format in a Cell Workbench to filter what you see in a terminal (when they're installed in it)
+
+Certus/Nether Quartz Cutting Knifes: Right-click to open interface. Place an iron ingot in the slot, and choose a name. The press can be used in the Inscriber to name stuff without using an anvil. You can also rename p2p tunnels and interfaces in world with the knife.
+
+ME Block Container: Holds only one type of item, but the amount of a 64k drive. Can place the item in world, or replace in a 1x1 or 3x3 area. Blocks replaced will be dumped in world. This will be horizontal or vertical depending on which side of a block you select. Shift-right click air to change mode, right click a block to activate mode.
+
+Charged Quartz Fixture: Emits light at the same level as a torch, but fancier.
+
+Light Detecting Fixture: Emits redstone signal based on light. Since it only starts at 7, it's not as useful as the Light Sensor.
+
+ME Upgrade (Tier 1/2/3): If you're an OC person, there's 3 upgrades you can make to add access to your network from robots and drones.
+T1: 0.5 access point range
+T2: Normal access point range
+T3: Unlimited range, any dim
+
+Entropy Manipulator: Changes grass/dirt/dried dirt into each other, or starts fires. Or melts ice. Useless.
+
+Matter Cannon: Shoots Matter Balls made in the Matter Condensor. Put it in an ME Chest or Drive and put items in a Terminal to fill. Decent I guess? But it destroys blocks every time you use it, so... Well, I guess you could use it with Paint Balls?
+
+Color Applicator: Use dye items or Paint Balls (more efficient) to dye stuff. You can dye cables, or anything Forge-compatible, like wool or glass. Place items inside like the Matter Cannon. You can cycle through the colors by holding shift and right-clicking, or scrolling the mouse wheel. If you use snow balls, you can remove paint instead. You can also use it in a dispensor.
+
+Walrus: It's a walrus, what were you expecting?AND860gregtech/gt.metaitem.01~11028ANDcheckboxdreamcraft/item.CoinDarkWizardII~02

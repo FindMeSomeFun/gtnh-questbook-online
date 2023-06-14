@@ -1,0 +1,1 @@
+2015Redstone ReceiverThe Redstone Receiver reads redstone signals on each of its 6 faces.AND1999StevesFactoryManager/BlockCableOutputName~0ANDretrievalStevesFactoryManager/BlockCableInputName~01itemStevesFactoryManager/BlockCableInputName~01

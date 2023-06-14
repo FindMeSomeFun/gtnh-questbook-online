@@ -1,0 +1,5 @@
+533§4§5§lHydrogen, Methane or Some Farts... (Natural gas) Some centrifugal processes leave gases behind like Hydrogen or Methane. Centrifuge some Brown and Yellow Limonite to get Hydrogen or dump your unused food in a Centrifuge to get Methane gas. Wood will even give 60 mb per log, and many other crops will also generate Methane this way.
+
+The main powergen line that uses this generator is Benzene, but that needs MV tier.
+
+§3If you're dealing with fully renewable powergen, this is the type of generator you'll use the most.AND95gregtech/gt.metaitem.01~32640ANDretrievalgregtech/gt.blockmachines~11151itemgregtech/gt.metaitem.01~300018gregtech/gt.metaitem.01~307154gregtech/gt.metaitem.01~307422itemdreamcraft/item.CoinTechnician~015

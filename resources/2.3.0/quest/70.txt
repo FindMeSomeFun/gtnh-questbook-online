@@ -1,0 +1,5 @@
+70§3§lSteam-a-licious!You've almost made it. One last crafting step is required in order to advance to Tier 1. Keep going!
+
+This Steam Turbine generates electricity from Steam. The power source you've been using is the same, but from this point on you will generate EU, and bring it to your machines via cables, instead of bringing the Steam directly to them. Luckily, electric machines don't need an exhaust port, and they are considerably more efficient than Bronze machines.
+
+At a later point, you will most likely switch from Steam to another fuel, though.AND68IC2/itemPartCircuit~071gregtech/gt.metaitem.01~3260072gregtech/gt.metaitem.02~21032ANDcraftinggregtech/gt.blockmachines~11201itemharvestcraft/cranberrybarItem~010enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnicianI~03

@@ -1,0 +1,6 @@
+653Advanced Electric JetpackThe advanced electric jetpack is an upgraded version of the electric jetpack.
+While worn in the chest armor slot and charged with EU, it allows the player to fly. It provides no armor protection, but will charge tools being used in the same manner as the advanced lappack from its 3.000.000 EU internal storage.
+
+The advanced electric jetpack is limited to a maximum flying height of Y-256.
+
+§3To turn it on, hit the fly key listed under gravisuite. You can then use space to fly up. To activate hover, hit the IC2 mode key while holding space. Will also recharge tools.AND176gregtech/gt.blockmachines~14651IC2/itemArmorJetpackElectric~1692IC2/itemArmorAlloyChestplate~0ANDoptional_retrievalgregtech/gt.metaitem.01~327041retrievalGraviSuite/advJetpack~327671choicegregtech/gt.metaitem.01~327042gregtech/gt.metaitem.01~326031enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01

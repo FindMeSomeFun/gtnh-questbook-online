@@ -1,0 +1,3 @@
+562§6§lHigh-Pressure Boiler TankAfter you make steel you are able to craft a high pressure boiler tank. The upgraded version increases the temperature and produces more steam than the low pressure version. It will take longer to warm up, so make sure to keep it well fed!
+
+Extract steam by attaching a pipe to the boiler tank.OR560Railcraft/machine.beta~5561Railcraft/machine.beta~6ANDoptional_retrievalgregtech/gt.metaitem.02~183056craftingRailcraft/machine.beta~41itemharvestcraft/meatfeastpizzaItem~02gregtech/gt.metaitem.02~322402choicegregtech/gt.metaitem.01~173052enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~010

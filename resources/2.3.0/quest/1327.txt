@@ -1,0 +1,1 @@
+1327Recipe PatternsSave patterns onto these to do autocrafting. They go into molecular assemblers and ME interfaces.AND1328appliedenergistics2/item.ItemMultiPart~340ANDretrievalappliedenergistics2/item.ItemMultiMaterial~5216choicegregtech/gt.metaitem.01~1781116gregtech/gt.metaitem.01~1101916enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

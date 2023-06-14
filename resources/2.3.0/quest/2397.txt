@@ -1,0 +1,30 @@
+2397Playing With the Big Boys, ChemicallyThis facility will process certain chemical recipes you'll need later on, like Rocket Fuels. Keep in mind that recipes can only be made after meeting the required Chemical Plant tier.
+
+It will need a minecart load of resources, so start mining!
+
+Catalysts are needed in some recipes, place them in the Catalyst Housing. They use durability, this includes ones that don't look like it.
+
+§3You can make Silicon Carbide in the mixer, you don't need the ABS.§r
+
+Valid solid casings: (Determines CP Tier for recipes)
+1 Strong Bronze Machine Casing
+2 Solid Steel Machine Casing
+3 Sturdy Aluminium Machine Casing
+4 Clean Stainless Steel Machine Casing
+5 Stable Titanium Machine Casing
+6 Robust Tungstensteel Casing
+7 Vigorous Laurenium Machine Casing
+8 Rugged Botmium Machine Casing
+
+Valid machine casings: (Determines maximum hatch/bus tier)
+LV-UHV Machine Casing, UHV unlocks any hatch/bus.
+
+Valid pipe casings: (+2 Parallels, -20% chance to consume catalyst durability per pipe casing starting with 2 parallels and 100% chance for the first one.)
+Bronze
+Steel
+Titanium
+Tungstensteel
+
+All coils from Cupronickel to Eternal are valid. Each one increases speed by +50%, starting at 50% speed for Cupronickel.
+
+§3Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!AND943gregtech/gt.blockmachines~423ANDretrievalgregtech/gt.blockmachines~9981itemenhancedlootbags/lootbag~61

@@ -1,0 +1,3 @@
+144§9§lAutomated CraftingYou know, yet another automated crafting solution...
+
+The left grid sets the recipe. The center box on the left will show the output. The right item grid is where you place resources. The output products will show up on the right center box.AND146EnderIO/blockSliceAndSplice~0ANDretrievalEnderIO/blockCrafter~01choiceEnderIO/itemMachinePart~01enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnician~025

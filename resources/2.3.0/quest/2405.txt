@@ -1,0 +1,3 @@
+2405Wax On, Wax OffYou can take vanilla tree saplings and place them directly on crop sticks. This will give you a "bonsai" tree. Bonsai trees will give you drops just like a tree, but without the wasted CPU of placing all the tree blocks just to chop them down again.
+
+This can be significant overhead on a server, so if you want to be nice, breed some bonsai trees for your pyrolyze ovens. They also drop a ton and are fast, especially statted up, so there's no reason not to if you can automate them.AND718IC2/blockCrop~0ANDretrievalIC2/itemCropSeed~01choiceIC2/blockCrop~064IC2/itemCellHydrant~14IC2/itemFertilizer~064itemenhancedlootbags/lootbag~511

@@ -1,0 +1,6 @@
+1446Mars DungeonThe Mars dungeon works the same as last time, so go find it!
+
+If you need the schematics for the astro miner or the cargo rocket, kill another Boss Monster and exchange the schematics.
+Before you journey home make sure you fulfill the quest requirements in the EV tab.
+
+AND1429GalacticraftMars/item.spaceshipTier2~0ANDretrievalGalacticraftMars/tile.mars~716retrievalGalacticraftMars/item.key~01retrievalGalacticraftMars/item.schematic~01choiceGalacticraftMars/item.null~216gregtech/gt.metaitem.01~113168enhancedlootbags/lootbag~71itemdreamcraft/item.CoinAdventureII~05dreamcraft/item.CoinTechnicianII~05

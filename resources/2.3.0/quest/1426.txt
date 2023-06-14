@@ -1,0 +1,5 @@
+1426Find Some Meteoric IronTo reach tier two planets like Mars or its moons, Phobos and Deimos you need a better rocket. Your next goal is Tier two rocket plates which need Meteoric Iron. 
+
+You will find small meteoric iron ore under the surface. Use an HV miner or multiblock miner to get extra fortune on small ores. Small meteoric iron is only from Y 50-70, so try to find tall hills.
+
+You can also just mine the fallen meteors on the surface. Use your ears to listen to their impacts.AND1433GalacticraftCore/tile.moonBlock~14ORretrievalgregtech/gt.metaitem.01~534032retrievalgregtech/gt.metaitem.01~334032retrievalGalacticraftCore/item.meteoricIronRaw~016itemenhancedlootbags/lootbag~61GalacticraftCore/item.oxygenTankLightFull~01itemdreamcraft/item.CoinSpaceII~02dreamcraft/item.CoinAdventureII~02

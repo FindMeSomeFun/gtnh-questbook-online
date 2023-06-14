@@ -1,0 +1,10 @@
+2082Making Bees More ComfortableThe acclimatiser is a key machine for breeding your bees. With lots of power and the appropriate ingredients you can toughen your bees to thrive anywhere. It's recommend to use an EnderIO capacitor to power this device. However, even with climate hardiness your bees still won't produce special items unless they are in their favorite climate. Along with the bee, put in these items to adjust the bee's traits:
+
+Snowball - More cold tolerance
+Lava - More heat tolerance
+Sand - More dry tolerance
+Water - More wet tolerance
+
+You should know that the acclimatiser doesn't return capsules or cells. The amount if items needed is pretty random.
+
+§3§3A nice trick is to start with a bee that already has §o§oboth 1§r§r§3§3. Then you can use either direction to increase it further! You don't need any lava if you do it like this. And no cells either. You can just use sand and snowballs.AND2081Genetics/misc~0ANDretrievalGenetics/labMachine~41itemminecraft/snowball~016minecraft/sand~016Forestry/waxCapsuleWater~01

@@ -1,0 +1,11 @@
+3187Two Million TurbinesHopefully, not more than a handful. The objective here is for each of them to output close to 2 million EU/t.
+
+How can you get there? Look at the UV Dynamo Hatch's recipe and you have your new objective. When you arrive there, each turbine that is equipped with that impressive block will be able to output up to 2,097,152 EU/t, which again opens you up to new turbine opportunities. Some good choices at this point are as follows:
+
+Large Cosmic Neutronium 220% 1,330,560 EU/t
+Large Awakened Draconium 190% 478,800 EU/t
+Large Trinium 180% 1,452,520 EU/t
+
+At this point, you might consider building more t1 Fusion Reactors to process other materials. Even if you stop the reactor you're using to generate this plasma, the EU cost of restarting it is less than 1 bucket of plasma, so it's probably not that big of a deal.
+
+Make a normal or buffered UV dynamo to complete the quest.AND3186gregtech/gt.metaitem.01~31057ORretrievalgregtech/gt.blockmachines~381retrievalgregtech/gt.blockmachines~9071

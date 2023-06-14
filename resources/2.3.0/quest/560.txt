@@ -1,0 +1,7 @@
+560§6§lRailcraft Steam PowerAs an alternative way to make steam you can use the railcraft boilers. They require at least one firebox.
+
+More than one size is possible: (1x1 which the quest gets you to make) 2x2 and 3x3.
+
+Provide water and coal to the firebox. Make sure you don't run out of water or...BOOM.
+
+Each boiler needs 1, 2 or 3 layers of tanks on top, equal to the size (1x1x1, 2x2x2, or 3x3x3) - see the quests linked below.AND59gregtech/gt.GregTech_FluidDisplay~89ANDoptional_retrievalgregtech/gt.metaitem.01~170324retrievalRailcraft/machine.beta~51itemgregtech/gt.metaitem.01~170324harvestcraft/figjellysandwichItem~03itemdreamcraft/item.CoinTechnician~010

@@ -1,0 +1,9 @@
+1123AlveariesThe alveary is an advanced variant of the apiary. The alveary allows for combs to be produced faster due to its natural speed increase to production (as well as the ability to add up to six frames via the Extra Bees frame housings) and due to its ability to be modified by other blocks. 
+
+It is possible to adjust the internal temperature of the alveary using the alveary heater or alveary fan in order to accommodate bees that require hotter or colder climates.
+
+Certain bees will not produce their specialty items unless they are Jubilant. This requires matching their preferred Temperature/Humidity, without any genetic modifiers. Some bees also need a block of something beneath them as well.
+
+It is also possible to use mutators to increase chances of mutation, alveary lighting and alveary rain shield to allow bees without the nocturnal and tolerant flyer traits to work during the night and rain, respectively, and the swarmer to use excess royal jelly to create princesses that last for a limited number of generations.
+
+§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.AND507Forestry/apiculture~0ANDoptional_retrievalForestry/pollen~0216optional_retrievalgregtech/gt.metaitem.01~30725216optional_retrievalForestry/craftingMaterial~6216optional_retrievalgregtech/gt.metaitem.01~307137optional_retrievalForestry/craftingMaterial~6216retrievalForestry/alveary~027optional_retrievalminecraft/wooden_slab~09itemForestry/royalJelly~016Forestry/propolis~332itemdreamcraft/item.CoinBeesI~05enhancedlootbags/lootbag~261

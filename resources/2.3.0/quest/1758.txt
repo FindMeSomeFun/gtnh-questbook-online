@@ -1,0 +1,5 @@
+1758BIOSThe ROM disks are necessary to get your computer to start, they're also what you use to run a drone off from.
+
+Your BIOS go onto these little disks,  get me a blank and I'll write the basic BIOS onto it for you.
+
+You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.AND1745OpenComputers/item~48ANDoptional_retrievalgregtech/gt.metaitem.01~290861retrievalOpenComputers/eeprom~01itemOpenComputers/eeprom~01miscutils/itemGenericToken~01

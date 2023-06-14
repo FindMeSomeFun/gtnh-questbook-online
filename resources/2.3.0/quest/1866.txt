@@ -1,0 +1,8 @@
+1866§2§lOptions For Finding Aluminium in This TierIt can be hard to find aluminium gravel ores on old servers, or unlucky world seeds.
+
+Alternatives to aluminium gravel ores are
+- Planting the Aluminium ore berries from the Smeltery quest
+- Searching for Aluminium bars in chests
+- XP buckets in a crafting table
+
+Once you reach LV, you can get Alumina from processing various ores or EBFing Sapphire. At MV you can electrolyze clay dust or red granite dust. Check NEI for more options.AND474TConstruct/pickaxe~0ANDcheckboxdreamcraft/item.CoinSmith~030itemgregtech/gt.metaitem.01~20191

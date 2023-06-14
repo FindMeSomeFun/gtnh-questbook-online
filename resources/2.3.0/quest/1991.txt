@@ -1,0 +1,7 @@
+1991Naming NamesThe Factory Labeler allows you to assign unique names to anything that can be connected to a Manager - making it easy to identify when you are setting up commands.
+
+Type in the text box to set a label or to searched stored labels - click any stored entry to select it, double click to edit it. Closing the GUI will set the Labeler to whatever was in the text box at that time.
+
+Left click to set labels, right click to open the gui. Setting a blank label will remove any existing labels.
+
+§3May or may not be buggy. Will lose the label in MP when relogging, but works fine in SP. It'll still work until you need to change it though. Have fun!AND1989StevesFactoryManager/BlockMachineManagerName~0ANDretrievalStevesAddons/labeler~01itemenhancedlootbags/lootbag~71

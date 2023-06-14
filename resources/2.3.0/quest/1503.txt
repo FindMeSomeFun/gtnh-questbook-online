@@ -1,0 +1,11 @@
+1503§6§lNobody Wants an Explosion......right? So when building multiblocks, make sure you
+
+1. Don't cross chunk boundaries with the multiblock.
+
+2. Don't rely on resources coming from outside the chunk to prevent explosions. In other words, make sure you source your water locally.
+
+Also, if you haven't discovered it yet, Electric machines don't like getting rain or snow on them. They'll start fires, and those fires have a chance of causing an explosion. This explosion will explode other machines, cascading until your whole base is a hole in the ground. This is one of the reason backups are a thing. Stay safe out there!
+
+Good luck.
+
+§3BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.AND13minecraft/bed~0ANDcheckboxdreamcraft/item.CoinTechnicianI~05itemminecraft/fireworks~01

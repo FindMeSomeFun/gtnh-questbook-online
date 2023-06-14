@@ -1,0 +1,5 @@
+662§5§lBasic Arc FurnaceThe arc furnace is an alternative to macerating stuff back into dusts and for making wrought iron, annealed copper, and glass (in MV). You get ingots, and sometimes different materials back from recycling than with a macerator. You also have all 4 slots at LV. The recipes use oxygen and 3A of power.
+
+§3Just ignore the plasma one.
+
+§3And no, you can't just send 1A of MV, that'll just cause an explosion.AND624gregtech/gt.blockmachines~231ANDretrievalgregtech/gt.blockmachines~6511itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

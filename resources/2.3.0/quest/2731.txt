@@ -1,0 +1,5 @@
+2731Transform and...Stay Put ActuallyActive Transformers will transform power up or down at only a 0.004% power loss, making using several in a row obsolete, if you can afford it. Unfortunately, it's kinda expensive. On the other hand, you can use it to turn your lasers from your laser hatches, which is probably a better use.
+
+It doesn't need a Maintenance Hatch, just the I/O Hatches.
+
+§4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!AND2006tectech/gt.blockcasingsTT~0ANDoptional_retrievaltectech/gt.blockcasingsTT~023retrievalgregtech/gt.blockmachines~153001

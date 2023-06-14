@@ -1,0 +1,5 @@
+1396Wand Focus Dark MatterWand Focus: Dark Matter allows the player to cast the projectiles Eldritch Guardians cast. Can be upgraded with Potency, Frugal, Sanity, Diffusion and Corrosive. For each projectile cast the player will get Temporary Warp. This will not happen if the focus is enchanted with Sanity. Enchanting the focus with Diffusion will change its firing mode from single projectiles to short-range black gas which acts as a flamethrower.
+
+Each cast costs 0.2 Ignis + 0.2 Perditio. With Corrosive each cast will cost additionally 0.2 Aqua + 0.3 Ignis
+
+This focus can be upgraded at the Focal Manipulator.AND284Thaumcraft/ItemEldritchObject~31378Thaumcraft/FocusPortableHole~0ANDretrievalTaintedMagic/ItemFocusEldritch~01itemenhancedlootbags/lootbag~111Thaumcraft/ItemLootBag~22itemdreamcraft/item.CoinDarkWizardII~05
