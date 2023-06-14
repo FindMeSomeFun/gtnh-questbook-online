@@ -62,20 +62,16 @@ function populateElement(text, id) {
 	
 	if (id == 'versions') {
 		for (var i = 0; i < data.length; i++) {
-			if (data[i] != '') {
-				availableVersions.push(data[i]);
-				element.innerHTML += '<option value="' + data[i]  + '">' + data[i] + '</option>';
-			}
+			availableVersions.push(data[i]);
+			element.innerHTML += '<option value="' + data[i]  + '">' + data[i] + '</option>';
 		}
 	} else if (id == 'fallbackVersion') {
 		fallbackVersion = data[0];
 	} else if (id == 'questLines') {
 		var j = 0;
 		for (var i = 0; i < data.length; i++) {
-			if (data[i] != '') {
-				element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + j + '" /><img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> <span> ' + data[i] + '</span> </div>';
-				j++;
-			}
+			element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + j + '" /><img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> <span> ' + data[i] + '</span> </div>';
+			j++;
 		}
 	} else if (id == 'questLineTree') {
 		document.getElementById('questLineDesc').innerHTML = data[0];
@@ -83,14 +79,12 @@ function populateElement(text, id) {
 		element.style.height = data[2] + 'px';
 		element.innerHTML = ""
 		for (var i = 3; i < data.length; i++) {
-			if (data[i] != '') {
-				var questId = data[i++];
-				var x = data[i++];
-				var y = data[i++];
-				var iconSize = data[i++];
-				var questIcon = data[i];
-				element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img style="width: 100%; height: 100%;" src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
-			}
+			var questId = data[i++];
+			var x = data[i++];
+			var y = data[i++];
+			var iconSize = data[i++];
+			var questIcon = data[i];
+			element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img style="width: 100%; height: 100%;" src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
 		}
 	}
 }
