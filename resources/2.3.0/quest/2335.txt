@@ -9,4 +9,4 @@ Collecting taglocks by using the kit on a player has a chance of failing and inf
 Taglocks can only be collected from players who are logged into the same world.
 
 Taglock kits are made by crafting a Glass Bottle with a Bone Needle.
-AND333witchery/altar~0ANDoptional_retrievalminecraft/glass_bottle~016retrievalwitchery/taglockkit~016choicewitchery/ingredient~1634minecraft/glass_bottle~064enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05
+ANDpreRequ333witchery/altar~0tasksANDoptional_retrievalminecraft/glass_bottle~016retrievalwitchery/taglockkit~016rewardschoicewitchery/ingredient~1634minecraft/glass_bottle~064enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05

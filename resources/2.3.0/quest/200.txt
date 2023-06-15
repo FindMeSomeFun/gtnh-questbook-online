@@ -1,3 +1,3 @@
 200§a§lAdvanced Mob ProtectionLike the chandelier, the magnum torch prevents monsters from spawning. However, its range is quite big, so a single one might be enough for your entire base. The range is 64 blocks horizontally in each direction, and 32 up and down.
 
-§4Don't forget, monsters can still follow you home!AND199ExtraUtilities/endConstructor~0ANDretrievalExtraUtilities/magnumTorch~01itemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinTechnicianII~01
+§4Don't forget, monsters can still follow you home!ANDpreRequ199ExtraUtilities/endConstructor~0tasksANDretrievalExtraUtilities/magnumTorch~01rewardsitemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinTechnicianII~01

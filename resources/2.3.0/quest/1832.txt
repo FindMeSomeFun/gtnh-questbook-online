@@ -18,4 +18,4 @@ Macerates 16 items at a time.
 
 High wind speeds will decrease output.
 
-The durability will decrease according to the wind speed.OR48gregtech/gt.metaitem.01~113081831minecraft/dispenser~0ANDretrievalminecraft/hardened_clay~045retrievalbartworks/craftingParts~21retrievalgregtech/gt.blockmachines~126981itemdreamcraft/item.CoinTechnicianI~01gregtech/gt.metaitem.02~310321choiceminecraft/leather~012minecraft/carpet~06minecraft/paper~03
+The durability will decrease according to the wind speed.ORpreRequ48gregtech/gt.metaitem.01~113081831minecraft/dispenser~0tasksANDretrievalminecraft/hardened_clay~045retrievalbartworks/craftingParts~21retrievalgregtech/gt.blockmachines~126981rewardsitemdreamcraft/item.CoinTechnicianI~01gregtech/gt.metaitem.02~310321choiceminecraft/leather~012minecraft/carpet~06minecraft/paper~03

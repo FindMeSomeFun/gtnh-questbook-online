@@ -2,4 +2,4 @@
 
 You can move 25% faster than with normal tracks.
 
-NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.AND753gregtech/gt.metaitem.01~11306866minecraft/rail~0ANDretrievalRailcraft/track~064retrievalRailcraft/track~016choiceRailcraft/track~016Railcraft/part.rail~432Railcraft/part.railbed~132enhancedlootbags/lootbag~331itemdreamcraft/item.CoinAdventureI~05dreamcraft/item.CoinTechnicianI~05
+NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.ANDpreRequ753gregtech/gt.metaitem.01~11306866minecraft/rail~0tasksANDretrievalRailcraft/track~064retrievalRailcraft/track~016rewardschoiceRailcraft/track~016Railcraft/part.rail~432Railcraft/part.railbed~132enhancedlootbags/lootbag~331itemdreamcraft/item.CoinAdventureI~05dreamcraft/item.CoinTechnicianI~05

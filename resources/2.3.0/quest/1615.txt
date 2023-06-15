@@ -2,4 +2,4 @@
 
 I'll show you a way you can get it. You'll need an Oil Cracker and a Distillation Tower. There are different ways to do it and this quest is only an example of how you can make it.
 
-The first step is to crack your Naphtha with steam.AND943gregtech/gt.blockmachines~423ANDoptional_retrievalIC2/itemCellEmpty~1420retrievalgregtech/gt.metaitem.99~1373924choicegregtech/gt.metaitem.01~3070716enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05
+The first step is to crack your Naphtha with steam.ANDpreRequ943gregtech/gt.blockmachines~423tasksANDoptional_retrievalIC2/itemCellEmpty~1420retrievalgregtech/gt.metaitem.99~1373924rewardschoicegregtech/gt.metaitem.01~3070716enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05

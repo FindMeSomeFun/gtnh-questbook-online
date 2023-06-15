@@ -2,4 +2,4 @@
 
 Sunnarium - from Helium + Glowstone. If you've had difficulty in getting lots of Sunnarium after the Molecular Transformer nerf, you can try this for your Solar Panels and other things. Glowing Coral processing with UUM is recommended, though.
 
-Boron - from Lithium and Helium. If you haven't automated this yet, for Borosilicate Glass for example, this is one way to do it. You will need lots of glass for the Mega Blast Furnace and other big multis of the kind, so it's not a useless recipe.AND3162miscutils/particleIon~62ANDcheckboxgregtech/gt.blockcasings4~121
+Boron - from Lithium and Helium. If you haven't automated this yet, for Borosilicate Glass for example, this is one way to do it. You will need lots of glass for the Mega Blast Furnace and other big multis of the kind, so it's not a useless recipe.ANDpreRequ3162miscutils/particleIon~62tasksANDcheckboxgregtech/gt.blockcasings4~121rewards

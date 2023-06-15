@@ -1,3 +1,3 @@
 151§9§lAutomated Mob FarmingOf course... zombies love that... disgusting liquid (nutrient distillation). While using a small amount per hit, he will attack everything that is within his range with a weapon you give him. That also includes players, so be careful. Rumors are there might be a weapon that will never break when used in this "machine"...
 
-§3BTW you need to be at > 75% to run it.AND148EnderIO/bucketNutrient_distillation~0165EnderIO/blockSoulBinder~0ANDretrievalEnderIO/blockKillerJoe~01choiceenhancedlootbags/lootbag~51EnderIO/itemBasicCapacitor~02itemdreamcraft/item.CoinSurvivor~025dreamcraft/item.CoinTechnician~025
+§3BTW you need to be at > 75% to run it.ANDpreRequ148EnderIO/bucketNutrient_distillation~0165EnderIO/blockSoulBinder~0tasksANDretrievalEnderIO/blockKillerJoe~01rewardschoiceenhancedlootbags/lootbag~51EnderIO/itemBasicCapacitor~02itemdreamcraft/item.CoinSurvivor~025dreamcraft/item.CoinTechnician~025

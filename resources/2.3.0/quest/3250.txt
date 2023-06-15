@@ -24,4 +24,4 @@ Automating the Assembling Line is easy. It follows the typical flask setup but r
 https://gtnh.miraheze.org/wiki/AE2FC
 
 §3The Extra Cells mod is now deprecated. Makes sure to convert any old components and cells to AE2 and AE2FC.
-AND2477dreamcraft/item.EngineeringProcessorFluidDiamondCore~0ANDretrievalae2fc/ingredient_buffer~01itemae2fc/fluid_storage16~01ae2fc/part_fluid_import~01ae2fc/part_fluid_export~01
+ANDpreRequ2477dreamcraft/item.EngineeringProcessorFluidDiamondCore~0tasksANDretrievalae2fc/ingredient_buffer~01rewardsitemae2fc/fluid_storage16~01ae2fc/part_fluid_import~01ae2fc/part_fluid_export~01

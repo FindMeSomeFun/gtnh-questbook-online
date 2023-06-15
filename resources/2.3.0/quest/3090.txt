@@ -4,4 +4,4 @@ Precise mode is used to make some of the advanced components from Good Generator
 
 Normal mode works as multiblock version of Assembler.
 
-§3You can't skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.AND2321gregtech/gt.metaitem.01~20842830gregtech/gt.blockmachines~452878gregtech/gt.metaitem.01~2052ANDoptional_retrievalIC2/blockAlloyGlass~042retrievalgregtech/gt.blockmachines~320181itemenhancedlootbags/lootbag~81
+§3You can't skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.ANDpreRequ2321gregtech/gt.metaitem.01~20842830gregtech/gt.blockmachines~452878gregtech/gt.metaitem.01~2052tasksANDoptional_retrievalIC2/blockAlloyGlass~042retrievalgregtech/gt.blockmachines~320181rewardsitemenhancedlootbags/lootbag~81

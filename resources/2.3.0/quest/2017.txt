@@ -1,1 +1,1 @@
-2017Block DetectorThe Block Detector allows your MIM to detect when a Block update has occured. AND1989StevesFactoryManager/BlockMachineManagerName~0ANDretrievalStevesFactoryManager/BlockCableBUDName~01itemStevesFactoryManager/BlockCableBUDName~01
+2017Block DetectorThe Block Detector allows your MIM to detect when a Block update has occured. ANDpreRequ1989StevesFactoryManager/BlockMachineManagerName~0tasksANDretrievalStevesFactoryManager/BlockCableBUDName~01rewardsitemStevesFactoryManager/BlockCableBUDName~01

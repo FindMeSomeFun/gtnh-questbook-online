@@ -1,3 +1,3 @@
 2798Geothermal Power EVTurns lava into power, at very inefficient rates. Also, seems to produce way more pollution than it says. They also require you to be 2 tiers above the output amount, so, yeah.
 
-§3Wasn't geothermal supposed to be environmentally friendly?AND1707gregtech/gt.metaitem.03~32088ANDretrievalgregtech/gt.blockmachines~8301
+§3Wasn't geothermal supposed to be environmentally friendly?ANDpreRequ1707gregtech/gt.metaitem.03~32088tasksANDretrievalgregtech/gt.blockmachines~8301rewards

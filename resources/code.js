@@ -36,7 +36,7 @@ for (var i = 0; i < newParams.length; i++) {
 		document.getElementById('questLineImg').src = qstLine.children[param[1]].children[1].src;
 		document.getElementById('questLineName').textContent = qstLine.children[param[1]].children[2].textContent;
 	} else if (param[0] == 'questId') {		// Set quest
-		
+		loadQuest(param[0]);
 	}
 }
 
@@ -84,13 +84,45 @@ function populateElement(text, id) {
 			var y = data[i++];
 			var iconSize = data[i++];
 			var questIcon = data[i];
-			element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img style="width: 100%; height: 100%;" src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
+			element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
 		}
+	} else if (id == 'questInfo') {
+		element.innerHTML = '<span> <h1>Id: ' + data[0] + ' - ' + data[1] + '</h1> </span>';
+		var desc = data[2];
+		var logic = data[3];
+		var nextI = 0;
+		element.innerHTML += '<span> <h2>Pre-Requisites: ';
+		if (data[5] == 'tasks') {
+			element.innerHTML += 'NONE </h2> </span>';
+		} else {
+			for (var i = 5; i < data.length; i++) {
+				element.innerHTML += '<div class="questPre"> <input type="hidden" value="' + data[i++] + '"> <img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> </div>';
+				if (data[i] == 'tasks') {
+					element.innerHTML += '</h2> </span>';
+					nextI = i++;
+				} else {
+					element.innerHTML += ' ' + logic + ' ';
+				}
+			}
+		}
+		
+		
+		
+		var x = data[i++];
+		var y = data[i++];
+		var iconSize = data[i++];
+		var questIcon = data[i];
+		element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
+// id, name, desc, logic, preRequ, [preId, icon, ...], tasks, logic, [type, [icon, number, ...]], ?rewards, [type, [icon, number, ...]]
 	}
 }
 
 function loadQuestLineTree(questLineId) {
 	readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLine/' + questLineId + '.txt', 'questLineTree');
+}
+
+function loadQuest(questId) {
+	readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/quest/' + questId + '.txt', 'questInfo');
 }
 
 /* Dropdown List with Images */
@@ -109,7 +141,9 @@ window.onclick = function(event) {
 				openDropdown.classList.remove('show');
 			}
 		}
-		loadQuestLineTree(event.target.children[0].value)
+		loadQuestLineTree(event.target.children[0].value);
+	} else if (event.target.matches('.quest')) {
+		loadQuest(event.target.children[0].value);
 	}
 }
 

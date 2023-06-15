@@ -1,1 +1,1 @@
-456Trigger LifeTriggers the Life Canister Quest after a Wither death.AND916minecraft/nether_star~0ANDhuntWitherBoss1
+456Trigger LifeTriggers the Life Canister Quest after a Wither death.ANDpreRequ916minecraft/nether_star~0tasksANDhuntWitherBoss1rewards

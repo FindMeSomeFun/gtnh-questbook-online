@@ -1,3 +1,3 @@
 2937§6§lNeutron SensorThe sensor will sends redstone signals according to the NKE of the Neutron Activator.
 
-You only need to input some expressions like ">120MeV", "<=1000keV" etc in the sensor, and it will work as you want.AND2936gregtech/gt.blockmachines~32013ANDretrievalgregtech/gt.blockmachines~320121
+You only need to input some expressions like ">120MeV", "<=1000keV" etc in the sensor, and it will work as you want.ANDpreRequ2936gregtech/gt.blockmachines~32013tasksANDretrievalgregtech/gt.blockmachines~320121rewards

@@ -4,4 +4,4 @@ About the stats on frames you see when holding shift, you'll note that some have
 
 The stats on the frames are also multiplicative instead of additive, so after 4 frames in an alveary, soul frames will max out. On the other hand, accelerated frames will take 9 to get there, but you can just keep on going.
 
-If you pile up the multipliers, 5x from stimulator, 3x from mutator, and 4x1.8x frames, it'll get you to 157x, getting you those 1% bees in a single generation!AND1113Forestry/frameImpregnated~0ANDretrievalMagicBees/frameMetabolic~01itemMagicBees/frameMetabolic~02itemdreamcraft/item.CoinBeesII~01dreamcraft/item.CoinDarkWizardII~01enhancedlootbags/lootbag~261
+If you pile up the multipliers, 5x from stimulator, 3x from mutator, and 4x1.8x frames, it'll get you to 157x, getting you those 1% bees in a single generation!ANDpreRequ1113Forestry/frameImpregnated~0tasksANDretrievalMagicBees/frameMetabolic~01rewardsitemMagicBees/frameMetabolic~02itemdreamcraft/item.CoinBeesII~01dreamcraft/item.CoinDarkWizardII~01enhancedlootbags/lootbag~261

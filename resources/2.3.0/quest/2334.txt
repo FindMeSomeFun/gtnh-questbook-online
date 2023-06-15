@@ -3,4 +3,4 @@
 A plain demonic contract is used to make a deal with Flame Imps. The basic contract is crafted with a Taglock Kit containing the blood of the witch (or warlock).
 
 When performing Imp Magic, a plain contract is first crafted with reagents pertaining to the spell effect, and then signed in the blood of the target by crafting it with a Taglock Kit containing the targets blood.
-AND2335witchery/taglockkit~0ANDoptional_retrievalwitchery/ingredient~1631retrievalwitchery/ingredient~1401choicewitchery/ingredient~16316minecraft/paper~064enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05
+ANDpreRequ2335witchery/taglockkit~0tasksANDoptional_retrievalwitchery/ingredient~1631retrievalwitchery/ingredient~1401rewardschoicewitchery/ingredient~16316minecraft/paper~064enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05

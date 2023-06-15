@@ -4,4 +4,4 @@ The math regarding the Rocketdyne is complicated. Looking at the controller's to
 
 You will always want to have the Rocketdyne boosted, for several reasons. Assuming you have at least a buffered IV Dynamo Hatch, outputting close to the maximum on that hatch will lower the fuel efficiency, but not if it's boosted. Additionally, this multi doesn't consume fuel continuously, but with intervals of 1 second between consuming and not consuming, while generating power all the same. Boosting this consumption results in huge fuel efficiency, combined with the high fuel values of the Rocket Fuels.
 
-§3This multi is IV.AND1416gregtech/gt.blockmachines~810ANDoptional_retrievalmiscutils/gtplusplus.blockcasings.4~111retrievalgregtech/gt.blockmachines~9961
+§3This multi is IV.ANDpreRequ1416gregtech/gt.blockmachines~810tasksANDoptional_retrievalmiscutils/gtplusplus.blockcasings.4~111retrievalgregtech/gt.blockmachines~9961rewards

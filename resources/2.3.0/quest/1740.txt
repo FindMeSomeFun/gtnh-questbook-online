@@ -4,4 +4,4 @@ You will also require 3 Input Hatches, a Muffler, and a Dynamo Hatch. Their tier
 
 Cetane Boosted Diesel and High Octane Gasoline (HOG) are excellent fuel sources for this engine.
 
-You will need to keep the area in front of the engine clear so it can pull enough air - not even torches.AND860gregtech/gt.metaitem.01~110281245gregtech/gt.metaitem.01~32653ANDoptional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~11711itemgregtech/gt.metaitem.01~1102824enhancedlootbags/lootbag~73gregtech/gt.metaitem.01~3099864itemdreamcraft/item.CoinTechnicianII~07
+You will need to keep the area in front of the engine clear so it can pull enough air - not even torches.ANDpreRequ860gregtech/gt.metaitem.01~110281245gregtech/gt.metaitem.01~32653tasksANDoptional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~11711rewardsitemgregtech/gt.metaitem.01~1102824enhancedlootbags/lootbag~73gregtech/gt.metaitem.01~3099864itemdreamcraft/item.CoinTechnicianII~07

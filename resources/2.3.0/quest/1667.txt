@@ -4,4 +4,4 @@ The full naquadah processing line is too complex and does not fit in IV. I belie
 
 Lucky, you can directly smelt the NOM dust into naquadah nuggets in EBF, but it is inefficient and you will lose the byproducts in it.
 
-§3PS: The Naquadah Oxide Mixture is once called "Naquadah Metal Oxide Mixture" and someone called it Nq-MOM for short. §6§4AND1538gregtech/gt.blockores~828ANDretrievalgregtech/gt.metaitem.01~113241itemenhancedlootbags/lootbag~81itemdreamcraft/item.CoinSmithII~05dreamcraft/item.CoinTechnicianII~05
+§3PS: The Naquadah Oxide Mixture is once called "Naquadah Metal Oxide Mixture" and someone called it Nq-MOM for short. §6§4ANDpreRequ1538gregtech/gt.blockores~828tasksANDretrievalgregtech/gt.metaitem.01~113241rewardsitemenhancedlootbags/lootbag~81itemdreamcraft/item.CoinSmithII~05dreamcraft/item.CoinTechnicianII~05

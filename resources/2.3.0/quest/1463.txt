@@ -4,4 +4,4 @@ Using the chamber during the daytime will skip the time to the next sunrise, exc
 
 Once the player has used the Cryogenic Chamber, there is a 300 seconds cool-down time before he can use the chamber again. Breaking and placing back the chamber or trying to use different chamber will not reset the cool-down time, unless by dying.
 
-The chamber does not require energy to work.AND1454GalacticraftMars/item.itemTier3Rocket~0ANDoptional_retrievalminecraft/clock~01retrievalGalacticraftMars/tile.marsMachine~41choiceGalacticraftMars/item.itemBasicAsteroids~02GalacticraftMars/item.null~34enhancedlootbags/lootbag~81itemdreamcraft/item.CoinSurvivorII~05dreamcraft/item.CoinTechnicianII~05
+The chamber does not require energy to work.ANDpreRequ1454GalacticraftMars/item.itemTier3Rocket~0tasksANDoptional_retrievalminecraft/clock~01retrievalGalacticraftMars/tile.marsMachine~41rewardschoiceGalacticraftMars/item.itemBasicAsteroids~02GalacticraftMars/item.null~34enhancedlootbags/lootbag~81itemdreamcraft/item.CoinSurvivorII~05dreamcraft/item.CoinTechnicianII~05

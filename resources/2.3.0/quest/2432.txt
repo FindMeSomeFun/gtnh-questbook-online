@@ -1,1 +1,1 @@
-2432Netherquartz Ore exchangeYou can exchange your Stack of GT Nether Quartz Ore for vanilla Nether Quartz Ore.AND479minecraft/portal~0ANDretrievalgregtech/gt.blockores~152264itemminecraft/quartz_ore~064
+2432Netherquartz Ore exchangeYou can exchange your Stack of GT Nether Quartz Ore for vanilla Nether Quartz Ore.ANDpreRequ479minecraft/portal~0tasksANDretrievalgregtech/gt.blockores~152264rewardsitemminecraft/quartz_ore~064

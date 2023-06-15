@@ -2,4 +2,4 @@
 
 Alternatively, you can also use the IC2 Painter, GT Spray Can, or the AE2 Color Applicator.
 
-§3The buildcraft paintbrush can now color many cables or pipes in a row with just a single click!AND2005structurelib/item.structurelib.constructableTrigger~0ANDretrievalBuildCraftCore/paintbrush~01
+§3The buildcraft paintbrush can now color many cables or pipes in a row with just a single click!ANDpreRequ2005structurelib/item.structurelib.constructableTrigger~0tasksANDretrievalBuildCraftCore/paintbrush~01rewards

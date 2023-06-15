@@ -4,4 +4,4 @@ When placed inside a drive or chest will consume 0.5 ae/t. It must be in an ME d
 
 You can remove the 1k ME storage component by fully emptying the storage cell, and sneak clicking it in your hand.
 
-You can format it in the cell workbench.AND1310appliedenergistics2/item.ItemMultiMaterial~391314appliedenergistics2/item.ItemMultiMaterial~35ANDretrievalappliedenergistics2/item.ItemBasicStorageCell.1k~01choicegregtech/gt.metaitem.01~1101916gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01
+You can format it in the cell workbench.ANDpreRequ1310appliedenergistics2/item.ItemMultiMaterial~391314appliedenergistics2/item.ItemMultiMaterial~35tasksANDretrievalappliedenergistics2/item.ItemBasicStorageCell.1k~01rewardschoicegregtech/gt.metaitem.01~1101916gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

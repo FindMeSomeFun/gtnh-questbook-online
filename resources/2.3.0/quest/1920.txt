@@ -5,4 +5,4 @@ Species
 Crop tier
 Whether it can grow (some crops have requirements)
 Whether you can harvest it
-Growth stage, and progress to the nextAND718IC2/blockCrop~0ANDretrievalberriespp/itemLens~01itemIC2/itemCropSeed~01dreamcraft/item.CoinFarmer~010
+Growth stage, and progress to the nextANDpreRequ718IC2/blockCrop~0tasksANDretrievalberriespp/itemLens~01rewardsitemIC2/itemCropSeed~01dreamcraft/item.CoinFarmer~010

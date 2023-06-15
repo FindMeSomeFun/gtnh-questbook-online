@@ -23,4 +23,4 @@ Jupiter§r
 1 Tritium - 3000 L/s
 2 Helium-3 - 500 L/s
 3 Ammonia - 400 L/s
-4 Xenon - 350 L/sAND3037gregtech/gt.blockmachines~14002ANDcheckboxdreamcraft/item.CoinDarkWizardI~05
+4 Xenon - 350 L/sANDpreRequ3037gregtech/gt.blockmachines~14002tasksANDcheckboxdreamcraft/item.CoinDarkWizardI~05rewards

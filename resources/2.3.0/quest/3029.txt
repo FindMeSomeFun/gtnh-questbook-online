@@ -2,4 +2,4 @@
 
 The Universal Chemical Fuel Engine burns fuel with some additives, as did its predecessors, but it runs at a lower efficiency. The 150% value is a mathematical limit, you cannot reach it without supplying infinite fuel, but this engine compensates by running as fast as fuel is input into it, without the maximum EU/t limitation the others had. The only two things you have to make sure of are that you supply enough Combustion Promoter to keep efficiency up (I'll let you figure the best ratio on your own, but 1:4 promoter:fuel is decent), and that the dynamo can support the EU/t that the generator is outputting.
 
-§9§9§b§4You will need an Assembly Line to craft the dynamo needed to complete this quest. You better burn enough HOG to make it worth!§r AND3026witchery/brewgas~0ANDretrievalgregtech/gt.blockmachines~9051
+§9§9§b§4You will need an Assembly Line to craft the dynamo needed to complete this quest. You better burn enough HOG to make it worth!§r ANDpreRequ3026witchery/brewgas~0tasksANDretrievalgregtech/gt.blockmachines~9051rewards

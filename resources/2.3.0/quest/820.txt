@@ -6,4 +6,4 @@ Storms and other events that affect entities can knock your rocket off (but not 
 
 Be sure to checkout https://gtnh.miraheze.org/wiki/Rockets for a Departure Checklist!
 
-Also note that they emit pollution, lots of it. So either put it far from your base, or use a scrubber while launching. You probably won't have to worry until T4 or so though.AND810GalacticraftCore/item.spaceship~0ANDoptional_retrievalminecraft/iron_block~09retrievalGalacticraftCore/tile.landingPad~09choiceIC2/itemPartAlloy~04gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01
+Also note that they emit pollution, lots of it. So either put it far from your base, or use a scrubber while launching. You probably won't have to worry until T4 or so though.ANDpreRequ810GalacticraftCore/item.spaceship~0tasksANDoptional_retrievalminecraft/iron_block~09retrievalGalacticraftCore/tile.landingPad~09rewardschoiceIC2/itemPartAlloy~04gregtech/gt.metaitem.01~113068enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

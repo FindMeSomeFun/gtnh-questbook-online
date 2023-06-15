@@ -1,1 +1,1 @@
-208§a§lProtect Your Base: Tier 4The small parts for the powerful turrets.AND211openmodularturrets/fenceTierFour~0ANDretrievalopenmodularturrets/sensorTierFourItem~02itemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01
+208§a§lProtect Your Base: Tier 4The small parts for the powerful turrets.ANDpreRequ211openmodularturrets/fenceTierFour~0tasksANDretrievalopenmodularturrets/sensorTierFourItem~02rewardsitemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01

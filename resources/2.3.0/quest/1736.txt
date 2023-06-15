@@ -2,4 +2,4 @@
 
 The reward - restrictive item pipes - allow you to prioritize destinations. Locations on the other side of a restrictive pipe are treated as much further away than locations on the same side of a pipe. Very handy when you want overflow (or non-matching) items to go somewhere else!
 
-For higher tiers, look up "* item pipe" in NEI, or just look at the spreadsheet.AND740gregtech/gt.blockmachines~282ANDoptional_retrievalgregtech/gt.metaitem.01~1130112retrievalgregtech/gt.blockmachines~560112itemgregtech/gt.blockmachines~56413itemdreamcraft/item.CoinTechnician~025
+For higher tiers, look up "* item pipe" in NEI, or just look at the spreadsheet.ANDpreRequ740gregtech/gt.blockmachines~282tasksANDoptional_retrievalgregtech/gt.metaitem.01~1130112retrievalgregtech/gt.blockmachines~560112rewardsitemgregtech/gt.blockmachines~56413itemdreamcraft/item.CoinTechnician~025

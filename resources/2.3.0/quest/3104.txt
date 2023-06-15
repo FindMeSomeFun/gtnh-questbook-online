@@ -6,4 +6,4 @@ What makes the Pyro valuable? It outputs a fluid alongside the Charcoal, which y
 
 However, the Pyro uses coils in a similar way to the EBF, and those coils affect the time each recipe takes: if you're using Cupronickel Coils, the recipe time is actually 2x what NEI says! This might be too slow for your needs, so make sure you check how much Charcoal you're getting from here. Kanthal Coils are available in MV, using the IC2 Coolant instead of the Vacuum Freezer.
 
-You can also boost your Pyro by providing Nitrogen. There are separate recipes for that in NEI.AND3098gregtech/gt.metaitem.01~30686ANDretrievaldreamcraft/gt.blockcasingsNH~260choiceenhancedlootbags/lootbag~52gregtech/gt.metaitem.01~326412itemdreamcraft/item.CoinTechnicianI~03dreamcraft/item.CoinChemistI~03
+You can also boost your Pyro by providing Nitrogen. There are separate recipes for that in NEI.ANDpreRequ3098gregtech/gt.metaitem.01~30686tasksANDretrievaldreamcraft/gt.blockcasingsNH~260rewardschoiceenhancedlootbags/lootbag~52gregtech/gt.metaitem.01~326412itemdreamcraft/item.CoinTechnicianI~03dreamcraft/item.CoinChemistI~03

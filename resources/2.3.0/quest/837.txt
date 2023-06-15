@@ -1,2 +1,2 @@
 837§6§lILC and RAMAdvanced circuits need integrated logic circuits and random access memory chips.
-You can get those by cutting the ILC and RAM wafers.AND791gregtech/gt.blockmachines~592ANDoptional_retrievalgregtech/gt.metaitem.03~320381retrievalgregtech/gt.metaitem.03~320398choicegregtech/gt.metaitem.01~245001gregtech/gt.metaitem.01~245021enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05
+You can get those by cutting the ILC and RAM wafers.ANDpreRequ791gregtech/gt.blockmachines~592tasksANDoptional_retrievalgregtech/gt.metaitem.03~320381retrievalgregtech/gt.metaitem.03~320398rewardschoicegregtech/gt.metaitem.01~245001gregtech/gt.metaitem.01~245021enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05

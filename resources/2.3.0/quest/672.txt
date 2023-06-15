@@ -1,3 +1,3 @@
 672Boat Shape?Really? Yes for the more advanced boats you need a new shape form.
 
-You need to make an Extruder first to progress further.AND668IC2/itemBoat~1ANDoptional_retrievaldreamcraft/item.ShapeBoat~01retrievaldreamcraft/item.ExtruderShapeBoat~01choicegregtech/gt.metaitem.01~118808gregtech/gt.metaitem.01~173054enhancedlootbags/lootbag~321itemdreamcraft/item.CoinTechnician~015
+You need to make an Extruder first to progress further.ANDpreRequ668IC2/itemBoat~1tasksANDoptional_retrievaldreamcraft/item.ShapeBoat~01retrievaldreamcraft/item.ExtruderShapeBoat~01rewardschoicegregtech/gt.metaitem.01~118808gregtech/gt.metaitem.01~173054enhancedlootbags/lootbag~321itemdreamcraft/item.CoinTechnician~015

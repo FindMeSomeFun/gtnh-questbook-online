@@ -6,4 +6,4 @@ You monster.
 
 Some of the dungeons have Spawner of Enderman, so you can do whatever you want with it.
 
-§cTo prevent endermen from teleporting make sure to cover the smeltery so they don't see the sky. If you manage to put a regenerating endermen in there, tag it so it doesn't despawn, and make sure your smeltery is not in a claimed chunk on a server.AND74TConstruct/Smeltery~0ANDretrievalTConstruct/woodPattern~101retrievalTConstruct/metalPattern~101retrievalminecraft/ender_pearl~016choiceminecraft/ender_pearl~08enhancedlootbags/lootbag~21itemdreamcraft/item.CoinSurvivor~020
+§cTo prevent endermen from teleporting make sure to cover the smeltery so they don't see the sky. If you manage to put a regenerating endermen in there, tag it so it doesn't despawn, and make sure your smeltery is not in a claimed chunk on a server.ANDpreRequ74TConstruct/Smeltery~0tasksANDretrievalTConstruct/woodPattern~101retrievalTConstruct/metalPattern~101retrievalminecraft/ender_pearl~016rewardschoiceminecraft/ender_pearl~08enhancedlootbags/lootbag~21itemdreamcraft/item.CoinSurvivor~020

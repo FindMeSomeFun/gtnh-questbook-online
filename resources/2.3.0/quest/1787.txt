@@ -8,4 +8,4 @@ Automatable Data Access Hatch: It's UV, but it allows I/O of the sticks. Skip it
 
 The Data Bank Multi: Can be connected to multiple Asslines, and can contain more than 1 DAH. This is the best way, when you can do it. Look in ZPM for the quest.
 
-§3You only need to make one.AND1412gregtech/gt.blockmachines~1170ORretrievalgregtech/gt.blockmachines~1451retrievalgregtech/gt.blockmachines~1461retrievalgregtech/gt.blockmachines~1471itemgregtech/gt.metaitem.01~327084enhancedlootbags/lootbag~81itemdreamcraft/item.CoinTechnicianII~02
+§3You only need to make one.ANDpreRequ1412gregtech/gt.blockmachines~1170tasksORretrievalgregtech/gt.blockmachines~1451retrievalgregtech/gt.blockmachines~1461retrievalgregtech/gt.blockmachines~1471rewardsitemgregtech/gt.metaitem.01~327084enhancedlootbags/lootbag~81itemdreamcraft/item.CoinTechnicianII~02

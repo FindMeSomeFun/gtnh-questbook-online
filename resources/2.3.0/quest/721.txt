@@ -10,4 +10,4 @@ As long as you water and fertilize them, you can pretty much grow crops anywhere
 
 If the Growth stat gets too high, greather than 24 or so, the plant will spread weeds onto neighbors.
 
-Some crops, such as Redwheat or oreberries, require certain light levels to crossbreed or grow.AND719IC2/itemCropSeed~0ANDretrievalIC2/itemCropSeed~032choiceminecraft/glowstone~08IC2/blockCrop~016enhancedlootbags/lootbag~511itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinFarmer~015
+Some crops, such as Redwheat or oreberries, require certain light levels to crossbreed or grow.ANDpreRequ719IC2/itemCropSeed~0tasksANDretrievalIC2/itemCropSeed~032rewardschoiceminecraft/glowstone~08IC2/blockCrop~016enhancedlootbags/lootbag~511itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinFarmer~015

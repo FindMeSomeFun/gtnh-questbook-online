@@ -1,3 +1,3 @@
 2071§c§lPanning For Gold is For ChumpsNow that you've reached LuV you can make the god-tier prospector - The Electric Prospector. This handheld machine can provide detailed information on ores in the area, and return maps of how much UG fluid and what type is in each chunk.
 
-Note that the range is determined by the tier and material (the durability seems to not matter). You can select an ore from the list to show only that ore, or double click to switch dark/light mode.AND1490gregtech/gt.metaitem.01~32695ANDretrievalgregtech/gt.detrav.metatool.01~1001itemdreamcraft/item.CoinTechnicianII~05
+Note that the range is determined by the tier and material (the durability seems to not matter). You can select an ore from the list to show only that ore, or double click to switch dark/light mode.ANDpreRequ1490gregtech/gt.metaitem.01~32695tasksANDretrievalgregtech/gt.detrav.metatool.01~1001rewardsitemdreamcraft/item.CoinTechnicianII~05

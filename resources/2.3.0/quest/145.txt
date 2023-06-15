@@ -7,4 +7,4 @@ It's great for lead, copper, tin, silver, nickel, redstone, ruby, lapis, certus 
 Even coal, charcoal, bones, wheat, ender pearls, and charcoal non-ores will give bonus outputs.
 
 That said, the GT ones are still way faster later on.
-AND129EnderIO/itemMachinePart~0ANDretrievalEnderIO/blockSagMill~01choiceEnderIO/itemMachinePart~01enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025
+ANDpreRequ129EnderIO/itemMachinePart~0tasksANDretrievalEnderIO/blockSagMill~01rewardschoiceEnderIO/itemMachinePart~01enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

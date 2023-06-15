@@ -35,4 +35,4 @@ P - Reactor Plating (1 needed)
 3000-6825 EU/t
 
 (This setup is the most efficient per Advanced Heat Vent)
-AND3172miscutils/itemDustPlutonium239~0ANDoptional_retrievalgregtech/gt.reactorMOXQuad~05retrievalgregtech/gt.reactorMOXQuad~01
+ANDpreRequ3172miscutils/itemDustPlutonium239~0tasksANDoptional_retrievalgregtech/gt.reactorMOXQuad~05retrievalgregtech/gt.reactorMOXQuad~01rewards

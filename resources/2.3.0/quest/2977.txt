@@ -1,1 +1,1 @@
-2977§9§lHot SlurryThen heat up the slurry with steam.AND2978gregtech/gt.metaitem.01~5822ANDretrievalgregtech/gt.metaitem.01~3041032choiceenhancedlootbags/lootbag~61gregtech/gt.metaitem.01~582216itemdreamcraft/item.CoinChemistI~05
+2977§9§lHot SlurryThen heat up the slurry with steam.ANDpreRequ2978gregtech/gt.metaitem.01~5822tasksANDretrievalgregtech/gt.metaitem.01~3041032rewardschoiceenhancedlootbags/lootbag~61gregtech/gt.metaitem.01~582216itemdreamcraft/item.CoinChemistI~05

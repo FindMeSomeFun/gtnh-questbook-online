@@ -16,4 +16,4 @@ You should expect to need a significant amount of eColi Bacteria Fluid if you pl
 
 §3To search for items related to copying cultures, search for 'culture', 'dna sample', or 'plasmid'. You can't do this for the Data Orbs, you have to check the uses of DNA Samples.
 
-§5A bunch of the fluids have incorrect spelling, don't blame me for it.AND2649gregtech/gt.metaitem.03~32073ANDretrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.98~111retrievalgregtech/gt.metaitem.98~131retrievalgregtech/gt.metaitem.98~171
+§5A bunch of the fluids have incorrect spelling, don't blame me for it.ANDpreRequ2649gregtech/gt.metaitem.03~32073tasksANDretrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.98~111retrievalgregtech/gt.metaitem.98~131retrievalgregtech/gt.metaitem.98~171rewards

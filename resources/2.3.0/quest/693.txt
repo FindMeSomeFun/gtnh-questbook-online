@@ -2,4 +2,4 @@
 
 Inside the meteor you can find a skystone chest containing some processor press plates. Save them for later, you can't do AE2 without them. Though you can also just make them yourself in EV. Plus the chest is nice, and can be placed underneath blocks and still opened.
 
-Hint: If all your surface meteors have been raided, put some skystone in your Ore Finder to find underground ones. Or wait until you can make the compass to find them.AND38TConstruct/pickaxe~0ANDretrievalappliedenergistics2/tile.BlockSkyChest~01choiceminecraft/enchanted_book~01enhancedlootbags/lootbag~11itemdreamcraft/item.CoinAdventure~05dreamcraft/item.CoinDarkWizard~05
+Hint: If all your surface meteors have been raided, put some skystone in your Ore Finder to find underground ones. Or wait until you can make the compass to find them.ANDpreRequ38TConstruct/pickaxe~0tasksANDretrievalappliedenergistics2/tile.BlockSkyChest~01rewardschoiceminecraft/enchanted_book~01enhancedlootbags/lootbag~11itemdreamcraft/item.CoinAdventure~05dreamcraft/item.CoinDarkWizard~05

@@ -1,3 +1,3 @@
 1372Wand Focus FireThe Wand Focus: Fire is a basic wand focus. When equipped to a wand, it will be able to spew a short-range cone of fire by holding down the right mouse button. Its base vis cost is 0.1 ignis per second.
 
-This focus can be upgraded at the Focal Manipulator.AND227Thaumcraft/blockTable~15ANDretrievalThaumcraft/FocusFire~01itemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~01itemdreamcraft/item.CoinDarkWizard~025
+This focus can be upgraded at the Focal Manipulator.ANDpreRequ227Thaumcraft/blockTable~15tasksANDretrievalThaumcraft/FocusFire~01rewardsitemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~01itemdreamcraft/item.CoinDarkWizard~025

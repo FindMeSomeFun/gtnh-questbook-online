@@ -4,4 +4,4 @@ The villager are too dumb that they spent all their seared bricks without adding
 
 Totally not useful tip: if you hold off building this long enough, you will be able to break down seared brick blocks into seared brick items with a forge hammer or extractor.
 
-§3Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.XOR18minecraft/stone~03031minecraft/wooden_shovel~0ANDretrievalTConstruct/Smeltery~12checkboxTConstruct/Smeltery~12
+§3Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.XORpreRequ18minecraft/stone~03031minecraft/wooden_shovel~0tasksANDretrievalTConstruct/Smeltery~12checkboxTConstruct/Smeltery~12rewards

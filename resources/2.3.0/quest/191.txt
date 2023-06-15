@@ -2,4 +2,4 @@
 
 Most fuel rods are basically this, but slightly modified. You generally get this from Mars and it's moons, but you can get a little from centrifuging thorium if you want.
 
-BTW, one of the reactor types 'pulses' the reactor to turn it off once it gets too hot. You can pack in the rods and then cool it off for a while to get higher efficiency out of each rod. Try it if you like explosions.AND190IC2/blockGenerator~5ANDretrievalgregtech/gt.reactorUraniumSimple~01itemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01
+BTW, one of the reactor types 'pulses' the reactor to turn it off once it gets too hot. You can pack in the rods and then cool it off for a while to get higher efficiency out of each rod. Try it if you like explosions.ANDpreRequ190IC2/blockGenerator~5tasksANDretrievalgregtech/gt.reactorUraniumSimple~01rewardsitemenhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01

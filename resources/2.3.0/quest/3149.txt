@@ -1,3 +1,3 @@
 3149Build the Assembly Line FirstThis branch refers to nuclear fusion. This content is strictly LuV onwards, so you will need the Assembly Line before even starting to think about fusion. It is the most "endgame" content on this quest page, so it's the one left for last.
 
-The quest you need to complete is in the "Multiblock Goals" tab. There are also fusion-related quests in the LuV, ZPM and UV tabs, amongst others, so check them out when you're there.AND1412gregtech/gt.blockmachines~11703145IC2/blockGenerator~5ANDcheckboxenhancedlootbags/lootbag~411
+The quest you need to complete is in the "Multiblock Goals" tab. There are also fusion-related quests in the LuV, ZPM and UV tabs, amongst others, so check them out when you're there.ANDpreRequ1412gregtech/gt.blockmachines~11703145IC2/blockGenerator~5tasksANDcheckboxenhancedlootbags/lootbag~411rewards

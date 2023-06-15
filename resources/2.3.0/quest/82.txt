@@ -1,3 +1,3 @@
 82§7§6§lAn Unexpected BonusBecause we're nice developers, we decided to add a little bonus if you happen to compress charcoal. Use it in the bricked blast furnace, or in a boiler, it yields 10 times the burn time of a piece of charcoal. So one charcoal for free. This bonus only occurs on the first compression step. (But for fanciness, you should definitely get a quintuple one!)
 
-§3Of course, if you're not using BBFs or boilers, they're kinda useless.AND698gregtech/gt.metaitem.01~15305ANDretrievalgregtech/gt.blockgem3~464choiceenhancedlootbags/lootbag~410enhancedlootbags/lootbag~210
+§3Of course, if you're not using BBFs or boilers, they're kinda useless.ANDpreRequ698gregtech/gt.metaitem.01~15305tasksANDretrievalgregtech/gt.blockgem3~464rewardschoiceenhancedlootbags/lootbag~410enhancedlootbags/lootbag~210

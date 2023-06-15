@@ -1,3 +1,3 @@
 1938Some Handy UsesThe TiCon chisel doesn't have a lot of uses, but here a couple of interesting ones. Use NEI to see other options for more decorations. You can also slab these blocks if you want something monsters cannot spawn on.
 
-Brownstone roads are slightly faster than rough brownstone.AND1936TConstruct/metalPattern~13ANDretrievalTConstruct/decoration.multibrick~81itemminecraft/lava_bucket~01
+Brownstone roads are slightly faster than rough brownstone.ANDpreRequ1936TConstruct/metalPattern~13tasksANDretrievalTConstruct/decoration.multibrick~81rewardsitemminecraft/lava_bucket~01

@@ -60,4 +60,4 @@ Planks/Plates/Foils: Blocks I/O on that side. Use a screwdriver to set allowed t
 
 Computer Monitor: Adds a visual look. Useless, but sorta fancy.
 
-Lens: Visual only. Useless.AND88gregtech/gt.blockmachines~1120ANDcheckboxdreamcraft/item.CoinTechnicianIII~01
+Lens: Visual only. Useless.ANDpreRequ88gregtech/gt.blockmachines~1120tasksANDcheckboxdreamcraft/item.CoinTechnicianIII~01rewards

@@ -2,4 +2,4 @@
 
 Note that this is a multiblock version of the alloy smelter, not a solid version of the alloy blast smelter.
 
-§3This multi is IV.AND1416gregtech/gt.blockmachines~810ANDretrievalmiscutils/gtplusplus.blockcasings.3~11
+§3This multi is IV.ANDpreRequ1416gregtech/gt.blockmachines~810tasksANDretrievalmiscutils/gtplusplus.blockcasings.3~11rewards

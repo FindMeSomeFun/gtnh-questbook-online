@@ -1,4 +1,4 @@
 3087§b§lThe Other WayWhen you inevitably get Samarium Ore, you'll end up getting a ton of this dust. There are a couple of options here: One includes the monazite line and has a higher yield, the other is simpler but has a poorer yield.
 We'll look at the latter here.
 
-Eventually you'll probably want to switch entirely to the monazite option, but for now, supplementing it with this can be a good idea.AND1696gregtech/gt.blockmachines~425ANDoptional_retrievalgregtech/gt.metaitem.01~20263retrievalgregtech/gt.metaitem.01~25341
+Eventually you'll probably want to switch entirely to the monazite option, but for now, supplementing it with this can be a good idea.ANDpreRequ1696gregtech/gt.blockmachines~425tasksANDoptional_retrievalgregtech/gt.metaitem.01~20263retrievalgregtech/gt.metaitem.01~25341rewards

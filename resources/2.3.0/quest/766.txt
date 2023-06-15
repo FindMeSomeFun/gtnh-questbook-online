@@ -6,4 +6,4 @@ Hint: Only GT/Railcraft steam can be used, not ic2 steam. You can use a fluid he
 
 §3The circuit goes in the controller.
 
-§3PS: I listed all the cracker recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!AND160gregtech/gt.blockmachines~13838IC2/itemPartCircuitAdv~0ANDoptional_retrievalgregtech/gt.blockcasings4~120optional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~11601itemenhancedlootbags/lootbag~62choicegregtech/gt.metaitem.01~3000132gregtech/gt.metaitem.98~064itemdreamcraft/item.CoinTechnicianII~01
+§3PS: I listed all the cracker recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpreRequ160gregtech/gt.blockmachines~13838IC2/itemPartCircuitAdv~0tasksANDoptional_retrievalgregtech/gt.blockcasings4~120optional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~11601rewardsitemenhancedlootbags/lootbag~62choicegregtech/gt.metaitem.01~3000132gregtech/gt.metaitem.98~064itemdreamcraft/item.CoinTechnicianII~01

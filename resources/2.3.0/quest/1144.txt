@@ -1,3 +1,3 @@
 1144HV BatteryBetter machines need some better batteries. Lithium is the best material to use when making batteries, at least for LV-HV.
 
-§3You only need to complete one task.AND1143gregtech/gt.metaitem.01~32502ORretrievalgregtech/gt.metaitem.01~325394retrievalgregtech/gt.metaitem.01~325384itemgregtech/gt.metaitem.01~1731516enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05
+§3You only need to complete one task.ANDpreRequ1143gregtech/gt.metaitem.01~32502tasksORretrievalgregtech/gt.metaitem.01~325394retrievalgregtech/gt.metaitem.01~325384rewardsitemgregtech/gt.metaitem.01~1731516enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05

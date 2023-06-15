@@ -1,3 +1,3 @@
 1527§6§lCaging a Demon - Wither Killing ChamberEver wanted to trap a wither but the only option was non movable bedrock? Now that you've made dark steel you can get reinforced obsidian which is wither-proof. Useful for manual killing and even automation once you get a powered spawner supplying you with wither skeleton skulls.
 
-§3Hint: Unlike vanilla obsidian, reinforced obsidian CAN be moved by pistons which might come in handy.AND138EnderIO/itemAlloy~6ANDretrievalEnderIO/blockReinforcedObsidian~032choiceenhancedlootbags/lootbag~51minecraft/skull~11itemdreamcraft/item.CoinDarkWizardI~03dreamcraft/item.CoinSmithI~02
+§3Hint: Unlike vanilla obsidian, reinforced obsidian CAN be moved by pistons which might come in handy.ANDpreRequ138EnderIO/itemAlloy~6tasksANDretrievalEnderIO/blockReinforcedObsidian~032rewardschoiceenhancedlootbags/lootbag~51minecraft/skull~11itemdreamcraft/item.CoinDarkWizardI~03dreamcraft/item.CoinSmithI~02

@@ -4,4 +4,4 @@ For this purpose, you will need around one LHE per fluid nuke if you're doing on
 
 If your setup does not match that 800 HU threshold, you can use a Hot Coolant buffer and set up a redstone latch so that the Hot Coolant flows in fast enough, until the buffer is almost empty. ProjectRed has a special block that acts as the latch, and you will then need two redstone signals that scale with the amount of fluid stored in your buffer tank. One of the signals should be normal, and the other reversed.
 
-AND3154IC2/blockreactorvessel~0ANDoptional_retrievalgregtech/gt.blockcasings2~142retrievalgregtech/gt.blockcasings4~22
+ANDpreRequ3154IC2/blockreactorvessel~0tasksANDoptional_retrievalgregtech/gt.blockcasings2~142retrievalgregtech/gt.blockcasings4~22rewards

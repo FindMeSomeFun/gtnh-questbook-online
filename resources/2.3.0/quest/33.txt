@@ -1,3 +1,3 @@
 33§2§lTinker-TimeWhile using your flint tools is fun in terms of killing pigs and cows, they are not very good, and can't be repaired. Plus Infernals laugh at your attempts to kill them. You discovered how to craft tools that can be repaired and upgraded, but for that you definitely need a more advanced crafting technique.
 
-If you have to use wood other than oak to make your tables, you can convert them to the default oak wood type to complete this quest.AND32minecraft/paper~0ANDcraftingTConstruct/ToolStationBlock~51itemTConstruct/blankPattern~02TConstruct/manualBook~01itemdreamcraft/item.CoinTechnician~010
+If you have to use wood other than oak to make your tables, you can convert them to the default oak wood type to complete this quest.ANDpreRequ32minecraft/paper~0tasksANDcraftingTConstruct/ToolStationBlock~51rewardsitemTConstruct/blankPattern~02TConstruct/manualBook~01itemdreamcraft/item.CoinTechnician~010

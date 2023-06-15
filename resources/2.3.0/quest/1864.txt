@@ -4,4 +4,4 @@ In this pack you have to first gain expertise in Thaumcraft to craft it. Go and 
 
 Have a beer to prepare for your long journey.
 
-§3If you really want to see recipe now, you can go to Mod Options > Thamcraft NEI Additions > Config > general > showLockedRecipes and set to true. Note that this is disabled by default... for reasons.AND38TConstruct/pickaxe~0ANDcheckboxRandomThings/filter~11itemgregtech/gt.metaitem.02~321192
+§3If you really want to see recipe now, you can go to Mod Options > Thamcraft NEI Additions > Config > general > showLockedRecipes and set to true. Note that this is disabled by default... for reasons.ANDpreRequ38TConstruct/pickaxe~0tasksANDcheckboxRandomThings/filter~11rewardsitemgregtech/gt.metaitem.02~321192

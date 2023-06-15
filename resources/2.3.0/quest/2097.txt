@@ -1,3 +1,3 @@
 2097SequencerAfter obtaining a DNA Sequence with the gene that you wish, it must be placed in the Sequencer. This uses Fluorescent Dye to determine the correct sequence, and when completed logs the discovery. The important thing here is that the discovery goes to the person who placed the machine.
 
-Genes are sequenced faster if the sequence has been placed in a Polymeriser first to increase the strength.AND2096Genetics/machine~0ANDretrievalGenetics/machine~11itemGenetics/misc~216enhancedlootbags/lootbag~261
+Genes are sequenced faster if the sequence has been placed in a Polymeriser first to increase the strength.ANDpreRequ2096Genetics/machine~0tasksANDretrievalGenetics/machine~11rewardsitemGenetics/misc~216enhancedlootbags/lootbag~261

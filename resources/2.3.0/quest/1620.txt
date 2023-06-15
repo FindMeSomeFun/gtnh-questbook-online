@@ -1,3 +1,3 @@
 1620§9§lStyrenePutting Benzene and Ethylene in the Chemical Reactor gives you Styrene.
 
-§3And also hydrogen, just pack that away with the rest.AND1617gregtech/gt.metaitem.01~30646ANDoptional_retrievalgregtech/gt.metaitem.01~306772retrievalgregtech/gt.metaitem.01~306372choicegregtech/gt.metaitem.01~306868enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05
+§3And also hydrogen, just pack that away with the rest.ANDpreRequ1617gregtech/gt.metaitem.01~30646tasksANDoptional_retrievalgregtech/gt.metaitem.01~306772retrievalgregtech/gt.metaitem.01~306372rewardschoicegregtech/gt.metaitem.01~306868enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05

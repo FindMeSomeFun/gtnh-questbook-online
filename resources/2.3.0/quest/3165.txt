@@ -9,4 +9,4 @@ Large Neutronium 160% 241,920 EU/t (very durable)
 
 The power output and final efficiency can vary a lot, based on which turbines you're using. Some of them, like Ichorium and Neutronium, last basically forever, while others will need to be replaced from time to time but offer higher efficiency. If you want to get more power per turbine, to reach closer to the dynamo's limit, you can increase the flow of plasma to the turbine, but be careful! You can't go beyond the dynamo's limit, and you will also lose efficiency as you increase the flow amount. More concrete values for efficiency loss can be found in the Plasma Turbine quest in the LuV page.
 
-Make a normal or buffered ZPM dynamo to complete the quest.AND3163gregtech/gt.metaitem.01~31004ORretrievalgregtech/gt.blockmachines~371retrievalgregtech/gt.blockmachines~9061
+Make a normal or buffered ZPM dynamo to complete the quest.ANDpreRequ3163gregtech/gt.metaitem.01~31004tasksORretrievalgregtech/gt.blockmachines~371retrievalgregtech/gt.blockmachines~9061rewards

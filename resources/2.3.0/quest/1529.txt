@@ -8,4 +8,4 @@ You need coins to power the world anchor, it will run a varying amount depending
 
 §4World Anchors§r are always loaded, even after a server reset.
 
-§3Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS highAND770gregtech/gt.blockmachines~213ANDretrievalRailcraft/machine.alpha~01itemdreamcraft/item.CoinChunkloaderTierII~04enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05
+§3Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS highANDpreRequ770gregtech/gt.blockmachines~213tasksANDretrievalRailcraft/machine.alpha~01rewardsitemdreamcraft/item.CoinChunkloaderTierII~04enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05

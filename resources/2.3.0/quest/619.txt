@@ -4,4 +4,4 @@ They come in different sizes: 1, 4, 9(!) and 16 slots. They can draw 2A and outp
 
 Remember that there's loss when outputting EU from any GT machine, so putting 4 4-slot ones in a row loses 8 power compared to 2 from 1 16-slot one. And this is for every amp too.
 
-§3You can import batteries into one, but ONLY empty acid batteries can be exported from one. No, you can't get around this.OR611gregtech/gt.metaitem.01~32511612gregtech/gt.metaitem.01~32510613gregtech/gt.metaitem.01~32519614gregtech/gt.metaitem.01~32517615gregtech/gt.metaitem.01~32518ANDretrievalgregtech/gt.blockmachines~1711itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03
+§3You can import batteries into one, but ONLY empty acid batteries can be exported from one. No, you can't get around this.ORpreRequ611gregtech/gt.metaitem.01~32511612gregtech/gt.metaitem.01~32510613gregtech/gt.metaitem.01~32519614gregtech/gt.metaitem.01~32517615gregtech/gt.metaitem.01~32518tasksANDretrievalgregtech/gt.blockmachines~1711rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

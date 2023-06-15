@@ -4,4 +4,4 @@ Bee Houses do not allow crossbreeding. You need an Apiary to crossbreed them to 
 
 Common Bees produce Honey Combs every 2.2 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time. 
 
-Make sure your bees are pure by checking their genetics with a Beealyzer or GT scanner.AND500gregtech/gt.metatool.01~28ANDoptional_retrievalForestry/beePrincessGE~01retrievalForestry/beeDroneGE~01itemenhancedlootbags/lootbag~251Forestry/honeyDrop~016Forestry/beeCombs~016itemdreamcraft/item.CoinBees~025
+Make sure your bees are pure by checking their genetics with a Beealyzer or GT scanner.ANDpreRequ500gregtech/gt.metatool.01~28tasksANDoptional_retrievalForestry/beePrincessGE~01retrievalForestry/beeDroneGE~01rewardsitemenhancedlootbags/lootbag~251Forestry/honeyDrop~016Forestry/beeCombs~016itemdreamcraft/item.CoinBees~025

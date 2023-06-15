@@ -6,4 +6,4 @@ To unlock the next quest, you will need the LV scanner.
 
 If you haven't already, consider building some Filing Cabinets. They make storing and moving large quantities of seeds a breeze. Plus they will properly sort the seeds based on name. To find a specific seed, type its name in the NEI search bar, and double click the bar so it highlights yellow.  Now you can look through the Filing Cabinet and find the exact seedbag you want.
 
-Or use double chests and toss the ones you don't want.AND718IC2/blockCrop~0ANDretrievalIC2/itemCropSeed~08choiceIC2/blockCrop~032minecraft/nether_wart~016enhancedlootbags/lootbag~511itemdreamcraft/item.CoinFarmer~015
+Or use double chests and toss the ones you don't want.ANDpreRequ718IC2/blockCrop~0tasksANDretrievalIC2/itemCropSeed~08rewardschoiceIC2/blockCrop~032minecraft/nether_wart~016enhancedlootbags/lootbag~511itemdreamcraft/item.CoinFarmer~015

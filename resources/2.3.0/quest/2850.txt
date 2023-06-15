@@ -10,4 +10,4 @@ Now you only need to chunkload the start and end points and the items will be "t
 
 Of course, later on you'll probably use ender chests to §oactually§r teleport the ore, especially from other dims.
 
-This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.AND930gregtech/gt.blockmachines~679ANDretrievalgregtech/gt.blockmachines~27012retrievalgregtech/gt.block.longdistancepipe~164itemgregtech/gt.metaitem.01~326302IronChest/BlockIronChest~12itemdreamcraft/item.CoinTechnician~015
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpreRequ930gregtech/gt.blockmachines~679tasksANDretrievalgregtech/gt.blockmachines~27012retrievalgregtech/gt.block.longdistancepipe~164rewardsitemgregtech/gt.metaitem.01~326302IronChest/BlockIronChest~12itemdreamcraft/item.CoinTechnician~015

@@ -32,4 +32,4 @@ Waila - Shows informations of what you are looking at
 NUMPAD1 - show/hide the Waila HUD
 NUMPAD3 - shows how to craft what you are looking at
 NUMPAD4 - shows the crafting usages of the thing you are looking at
-AND0minecraft/wheat~0ANDcheckboxgregtech/gt.metaitem.01~20374
+ANDpreRequ0minecraft/wheat~0tasksANDcheckboxgregtech/gt.metaitem.01~20374rewards

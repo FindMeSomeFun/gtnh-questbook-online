@@ -6,4 +6,4 @@ The second one is basically the first one, but it requires Infinity Catalyst ins
 
 The third one is the most efficient, but it requires Biocells (which you don't have yet), and 4 dust of Infinity Catalyst at UV voltage and 150 Sievert (Naquadria level) in a Bacterial Vat. It makes Raw Bio Medium at 1:2 ratio.
 
-§3The second and third ways use a different culture.AND2648GalaxySpace/item.Tier8Rocket~0ANDoptional_retrievalgregtech/gt.metaitem.01~306081optional_retrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.01~306031
+§3The second and third ways use a different culture.ANDpreRequ2648GalaxySpace/item.Tier8Rocket~0tasksANDoptional_retrievalgregtech/gt.metaitem.01~306081optional_retrievalbartworks/BioLabParts~01retrievalgregtech/gt.metaitem.01~306031rewards

@@ -4,4 +4,4 @@ In tier 1 you only need to place the blood altar. Plan for the configuration to 
 
 Keep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.
 
-The altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.AND239Thaumcraft/blockCosmeticSolid~7240Thaumcraft/blockStoneDevice~0241Thaumcraft/blockMetalDevice~01568witchery/ingredient~10ANDretrievalAWWayofTime/Altar~01itemenhancedlootbags/lootbag~161itemdreamcraft/item.CoinBloodII~01
+The altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.ANDpreRequ239Thaumcraft/blockCosmeticSolid~7240Thaumcraft/blockStoneDevice~0241Thaumcraft/blockMetalDevice~01568witchery/ingredient~10tasksANDretrievalAWWayofTime/Altar~01rewardsitemenhancedlootbags/lootbag~161itemdreamcraft/item.CoinBloodII~01

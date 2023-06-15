@@ -6,4 +6,4 @@ Place the controller one block above the ground and use the Multiblock Structure
 
 The Assembly Line Slave Connector replaces your old Data Access Hatch on the Assembling Line. Connect it to a Master Connector on the Data Bank with Optical Fiber Cable and make sure to color the hatches and the cable.
 
-§3If you can't figure out what blocks to place, pay attention to the tooltip in the bottom-left when using the Multiblock Structure Hologram Projector. In this case the filler blocks are Computer Casing.AND2006tectech/gt.blockcasingsTT~0ANDoptional_retrievalgregtech/gt.blockmachines~1547010retrievalgregtech/gt.blockmachines~153131
+§3If you can't figure out what blocks to place, pay attention to the tooltip in the bottom-left when using the Multiblock Structure Hologram Projector. In this case the filler blocks are Computer Casing.ANDpreRequ2006tectech/gt.blockcasingsTT~0tasksANDoptional_retrievalgregtech/gt.blockmachines~1547010retrievalgregtech/gt.blockmachines~153131rewards

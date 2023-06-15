@@ -2,4 +2,4 @@
 
 The sealer will only work in a room that is completely sealed off from outer space. This can be achieved with either a completely closed off room, or with an Air Lock. The sealer must have nothing above it to block its vents. It is designed to check for a proper seal about every 5 seconds, so be sure to give it time to seal.
 
-Each sealer requires at least 320 air points per second to work continuously or it will fail.AND1429GalacticraftMars/item.spaceshipTier2~0ANDretrievalGalacticraftCore/tile.sealer~01choiceGalacticraftCore/tile.oxygenPipe~016GalacticraftMars/item.null~56GalacticraftCore/item.airVent~02enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~02
+Each sealer requires at least 320 air points per second to work continuously or it will fail.ANDpreRequ1429GalacticraftMars/item.spaceshipTier2~0tasksANDretrievalGalacticraftCore/tile.sealer~01rewardschoiceGalacticraftCore/tile.oxygenPipe~016GalacticraftMars/item.null~56GalacticraftCore/item.airVent~02enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~02

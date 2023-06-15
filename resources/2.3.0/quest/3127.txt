@@ -2,4 +2,4 @@
 
 Given as much, this is not a task for the very start of EV. It's recommended that you automate your Titanium processing line before you attempt this, because the Chemical Plant is going to grind your manual patience otherwise. If you already have a lot of that, everything else should be much simpler.
 
-(You will need a lot more than a stack. This is just to get you started.)OR176gregtech/gt.blockmachines~143114gregtech/gt.metaitem.01~30675ANDretrievalgregtech/gt.metaitem.01~1102864itemgregtech/gt.blockcasings4~21
+(You will need a lot more than a stack. This is just to get you started.)ORpreRequ176gregtech/gt.blockmachines~143114gregtech/gt.metaitem.01~30675tasksANDretrievalgregtech/gt.metaitem.01~1102864rewardsitemgregtech/gt.blockcasings4~21

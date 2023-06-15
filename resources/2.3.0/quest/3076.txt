@@ -5,4 +5,4 @@ You can either use an IC2 crop farm, or have any type of Glowstone farm and comb
 A farm for Glowing Coral or Glowstone should also help you mass produce other resources like Gold, Redstone, Mercury, etc.
 
 
-§3The Large Processing Factory can speed things up, but is also rather expensive to make.AND213gregtech/gt.blockmachines~15ANDretrievalBiomesOPlenty/coral1~1532optional_retrievalIC2/itemCellEmpty~31retrievalgregtech/gt.metaitem.01~23184choiceAdvancedSolarPanel/asp_crafting_items~01enhancedlootbags/lootbag~81itemdreamcraft/item.CoinTechnicianII~02
+§3The Large Processing Factory can speed things up, but is also rather expensive to make.ANDpreRequ213gregtech/gt.blockmachines~15tasksANDretrievalBiomesOPlenty/coral1~1532optional_retrievalIC2/itemCellEmpty~31retrievalgregtech/gt.metaitem.01~23184rewardschoiceAdvancedSolarPanel/asp_crafting_items~01enhancedlootbags/lootbag~81itemdreamcraft/item.CoinTechnicianII~02

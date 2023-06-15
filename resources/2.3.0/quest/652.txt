@@ -1,3 +1,3 @@
 652Fueled JetpackThis jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.
 
-Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.AND80gregtech/gt.blockmachines~1001160gregtech/gt.blockmachines~131870gregtech/gt.blockmachines~1111ANDoptional_retrievalIC2/itemPartCircuitAdv~01retrievalIC2/itemArmorJetpack~327671choiceIC2/itemCellEmpty~730enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05
+Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.ANDpreRequ80gregtech/gt.blockmachines~1001160gregtech/gt.blockmachines~131870gregtech/gt.blockmachines~1111tasksANDoptional_retrievalIC2/itemPartCircuitAdv~01retrievalIC2/itemArmorJetpack~327671rewardschoiceIC2/itemCellEmpty~730enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05

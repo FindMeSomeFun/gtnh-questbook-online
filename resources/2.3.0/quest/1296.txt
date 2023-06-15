@@ -3,4 +3,4 @@
 They can be grown in-world for free by dropping them in water, or at a much faster rate in a GT Autoclave.
 
 §3Distilled water reduces the recipe time in the Autoclave by half.
-AND181appliedenergistics2/item.ItemMultiMaterial~7ANDretrievalappliedenergistics2/item.ItemMultiMaterial~816retrievalappliedenergistics2/item.ItemCrystalSeed~120032retrievalappliedenergistics2/item.ItemMultiMaterial~1232choiceappliedenergistics2/item.ItemMultiMaterial~18gregtech/gt.metaitem.01~85238itemdreamcraft/item.CoinChemistII~01
+ANDpreRequ181appliedenergistics2/item.ItemMultiMaterial~7tasksANDretrievalappliedenergistics2/item.ItemMultiMaterial~816retrievalappliedenergistics2/item.ItemCrystalSeed~120032retrievalappliedenergistics2/item.ItemMultiMaterial~1232rewardschoiceappliedenergistics2/item.ItemMultiMaterial~18gregtech/gt.metaitem.01~85238itemdreamcraft/item.CoinChemistII~01

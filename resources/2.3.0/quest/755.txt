@@ -16,4 +16,4 @@ Possible problems                Tool to fix
 "Something is stuck."            Soft Mallet 
 "Platings are dented."           Hammer 
 "Circuitry burned out."    Soldering Iron 
-"That doesn't belong there."   CrowbarAND77gregtech/gt.blockmachines~1000609gregtech/gt.metaitem.01~32500ANDretrievalgregtech/gt.metatool.01~1601choiceenhancedlootbags/lootbag~43gregtech/gt.metaitem.02~1931464itemdreamcraft/item.CoinTechnicianI~05
+"That doesn't belong there."   CrowbarANDpreRequ77gregtech/gt.blockmachines~1000609gregtech/gt.metaitem.01~32500tasksANDretrievalgregtech/gt.metatool.01~1601rewardschoiceenhancedlootbags/lootbag~43gregtech/gt.metaitem.02~1931464itemdreamcraft/item.CoinTechnicianI~05

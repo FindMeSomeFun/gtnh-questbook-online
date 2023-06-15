@@ -4,4 +4,4 @@ No problem, craft a large bronze pipe and place it under the faucet. Make sure t
 
 A hopper and a chest underneath will auto-output products from the casting blocks. 
 
-NOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on...AND35gregtech/gt.metaitem.01~230074TConstruct/Smeltery~0ANDretrievalgregtech/gt.blockmachines~51231optional_retrievalgregtech/gt.metaitem.02~310322optional_retrievalminecraft/chest~04retrievalminecraft/hopper~02itemTConstruct/GlassBlock~016enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~010
+NOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on...ANDpreRequ35gregtech/gt.metaitem.01~230074TConstruct/Smeltery~0tasksANDretrievalgregtech/gt.blockmachines~51231optional_retrievalgregtech/gt.metaitem.02~310322optional_retrievalminecraft/chest~04retrievalminecraft/hopper~02rewardsitemTConstruct/GlassBlock~016enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~010

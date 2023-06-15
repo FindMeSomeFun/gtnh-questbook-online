@@ -6,4 +6,4 @@ After some time of decaying, it starts to occasionally attract Angry Endermen.
 
 When the flower decays completely, it turns dark, propagates massive amount decay to nearby blocks and spawns an Energy Cluster.
 
-Partial decay can be healed a little using End Powder.AND2350HardcoreEnderExpansion/end_powder_ore~0ANDretrievalminecraft/flower_pot~01retrievalHardcoreEnderExpansion/death_flower~151choiceHardcoreEnderExpansion/death_flower~08HardcoreEnderExpansion/death_flower~158enhancedlootbags/lootbag~571itemdreamcraft/item.CoinAdventureII~01dreamcraft/item.CoinForestryII~01HardcoreEnderExpansion/knowledge_note~01
+Partial decay can be healed a little using End Powder.ANDpreRequ2350HardcoreEnderExpansion/end_powder_ore~0tasksANDretrievalminecraft/flower_pot~01retrievalHardcoreEnderExpansion/death_flower~151rewardschoiceHardcoreEnderExpansion/death_flower~08HardcoreEnderExpansion/death_flower~158enhancedlootbags/lootbag~571itemdreamcraft/item.CoinAdventureII~01dreamcraft/item.CoinForestryII~01HardcoreEnderExpansion/knowledge_note~01

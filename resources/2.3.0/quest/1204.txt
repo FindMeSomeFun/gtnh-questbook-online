@@ -1,1 +1,1 @@
-1204§1§lCrafting TimeIt's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!AND1minecraft/flint~0ANDcraftingminecraft/crafting_table~01itemminecraft/apple~02itemdreamcraft/item.CoinTechnician~05
+1204§1§lCrafting TimeIt's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!ANDpreRequ1minecraft/flint~0tasksANDcraftingminecraft/crafting_table~01rewardsitemminecraft/apple~02itemdreamcraft/item.CoinTechnician~05

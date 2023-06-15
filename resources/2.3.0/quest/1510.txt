@@ -5,4 +5,4 @@ Some things to keep in mind:
 2) Radius 10000 means it couldn't find it
 3) You can try again at a different location and you might find it, the range is 10K too. There's also a config setting for those who don't mind the freeze when searching
 4) Artificially created biomes count, so remove them if you want to find a natural one
-5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.AND97gregtech/gt.blockmachines~211ANDretrievalnaturescompass/NaturesCompass~01itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinBees~015dreamcraft/item.CoinForestry~015
+5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.ANDpreRequ97gregtech/gt.blockmachines~211tasksANDretrievalnaturescompass/NaturesCompass~01rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinBees~015dreamcraft/item.CoinForestry~015

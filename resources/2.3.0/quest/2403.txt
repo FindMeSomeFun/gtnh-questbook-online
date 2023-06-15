@@ -1,3 +1,3 @@
 2403§5§lWhere Does it All Go? The time may come when you finally decide you have enough of a fluid. This overflow cover lets you tune how full a tank can get. You can put it on a smaller tank leading to a bigger tank, and when the bigger tank gets full, the fluid will backup into the smaller tank. Once the fluid level in the smaller tank exceeds the setting on the cover, it will start voiding fluid.
 
-Handy for an oxygen centrifuge setup when you don't want to stop from excess nitrogen.AND97gregtech/gt.blockmachines~211ANDretrievalmiscutils/MU-metaitem.01~320721itemgregtech/gt.blockmachines~8184itemdreamcraft/item.CoinTechnician~015
+Handy for an oxygen centrifuge setup when you don't want to stop from excess nitrogen.ANDpreRequ97gregtech/gt.blockmachines~211tasksANDretrievalmiscutils/MU-metaitem.01~320721rewardsitemgregtech/gt.blockmachines~8184itemdreamcraft/item.CoinTechnician~015

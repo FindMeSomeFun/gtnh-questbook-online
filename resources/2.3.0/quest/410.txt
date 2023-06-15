@@ -2,4 +2,4 @@
 
 Place an orb in the slot to start crafting, using LP from your network. You'll need higher tier orbs to craft more complicated items.
 
-If the LP in your network falls to 0 while you're working with this alchemy, you will get a permanent Nausea debuff until it is increased again.AND238Thaumcraft/blockCosmeticSolid~7407AWWayofTime/blankSlate~0ANDretrievalAWWayofTime/blockWritingTable~01itemenhancedlootbags/lootbag~161itemdreamcraft/item.CoinChemistII~01dreamcraft/item.CoinBloodII~01
+If the LP in your network falls to 0 while you're working with this alchemy, you will get a permanent Nausea debuff until it is increased again.ANDpreRequ238Thaumcraft/blockCosmeticSolid~7407AWWayofTime/blankSlate~0tasksANDretrievalAWWayofTime/blockWritingTable~01rewardsitemenhancedlootbags/lootbag~161itemdreamcraft/item.CoinChemistII~01dreamcraft/item.CoinBloodII~01

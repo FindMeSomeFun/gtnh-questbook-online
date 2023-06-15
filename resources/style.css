@@ -4,14 +4,16 @@ body {
 	font-size: 16px ;
 }
 
-img {
-	position:relative;
-	top: 1px;
+h2 {
+	margin: 0px;
+}
+
+#questLineImg, #questLines > div > img, #theme-btn > label > img {
 	width: 32px;
 	height: 32px;
 }
 
-span {
+#questLineName, #header > span, #questLines > div > span {
 	position: relative;
 	top: -10px;
 }
@@ -63,15 +65,68 @@ span {
 	background-color: #880;
 }
 
+.quest > img, .tasks > div > div > div > img {
+	width: 100%; 
+	height: 100%;
+}
+
+.questPre {
+	position: relative;
+	display: inline-block;
+	background-color: #880;
+	width: 64px;
+	height: 64px;
+}
+
 #questLineTree {
 	position: relative;
 	margin: 50px;
 	border: 5px solid #088;
 }
 
-#questInfo {
+.questInfo {
 	background-color: #444;
 	text-align: center;
+}
+
+.questInfo > span, .questInfo > div {
+	display: inline-block;
+	width: 49%;
+	vertical-align: top;
+}
+
+.questInfo > span > h2 {
+	position: relative;
+	top: -10px;
+}
+
+.questInfo > span > h2 > div {
+	position: relative;
+	top: 24px;
+}
+
+.tasks {
+	text-align: left;
+	border-left: 3px solid #888;
+}
+
+.rewards {
+	text-align: right;
+	border-right: 3px solid #888;
+}
+
+.rewards > p,
+.rewards > div,
+.tasks > p,
+.tasks > div {
+	padding: 0px 25px;
+}
+
+.rewards > div > div > div,
+.tasks > div > div > div {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
 }
 
 /* Theme toggle */
@@ -128,7 +183,7 @@ input[type=checkbox]:checked + label {
 	display: block;
 }
 
-.questLine {
+#questLines > div {
 	border: 1px solid #888;
 	width: 99%;
 	height: 32px;
@@ -136,11 +191,11 @@ input[type=checkbox]:checked + label {
 	color: #ddd;
 }
 
-.questLine > img, .questLine > span {
+#questLines > div > img, #questLines > div > span {
 	z-index: -1;
 }
 
-.questLine:hover {
+#questLines > div:hover {
 	background-color: rgba(144, 144, 144, 0.4);
 	cursor: pointer;
 }

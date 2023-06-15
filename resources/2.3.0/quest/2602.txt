@@ -4,4 +4,4 @@ To use the imprints, place them in the CAL controller's item slot. The CAL will 
 
 §3If you already have an imprint for an earlier version of a recipe, you don't need to make another, it works with both recipes.
 
-§4Because of the way oredicting and recipes work, slicing LV or HV circuits in the Cutting Factory will not work properly, so use at least an HV slicing machine for those.AND2606bartworks/gt.bwMetaGeneratedItem0~3ANDretrievalgregtech/gt.metaitem.01~323981
+§4Because of the way oredicting and recipes work, slicing LV or HV circuits in the Cutting Factory will not work properly, so use at least an HV slicing machine for those.ANDpreRequ2606bartworks/gt.bwMetaGeneratedItem0~3tasksANDretrievalgregtech/gt.metaitem.01~323981rewards

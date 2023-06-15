@@ -6,4 +6,4 @@ If you can't produce the 2A of LV power for this machine right now, wait until y
 
 In LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.
 
-§4Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.AND836gregtech/gt.metaitem.03~32190ANDretrievalgregtech/gt.blockmachines~3811itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03
+§4Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.ANDpreRequ836gregtech/gt.metaitem.03~32190tasksANDretrievalgregtech/gt.blockmachines~3811rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

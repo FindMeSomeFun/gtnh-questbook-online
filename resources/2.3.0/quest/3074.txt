@@ -6,4 +6,4 @@ As you can see, the speed is directly proportional to hull temperature and rods 
 
 erp=bpO50cpsdtJElVqn4hObFJc0tiOE0JpEHYpqTxJHvyezjSKRjUuwgouXzNOlU4a3hFBRygM=
 
-Replace Containment Reactor Plating with actual Glowstone rods and you should be good to go. You can also use fewer reactor chambers by using less plating. Enjoy!AND190IC2/blockGenerator~5ANDretrievalgregtech/gt.glowstoneCell~01retrievalgregtech/gt.sunnariumCell~01retrievalgregtech/gt.metaitem.01~23181choiceAdvancedSolarPanel/asp_crafting_items~91enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01
+Replace Containment Reactor Plating with actual Glowstone rods and you should be good to go. You can also use fewer reactor chambers by using less plating. Enjoy!ANDpreRequ190IC2/blockGenerator~5tasksANDretrievalgregtech/gt.glowstoneCell~01retrievalgregtech/gt.sunnariumCell~01retrievalgregtech/gt.metaitem.01~23181rewardschoiceAdvancedSolarPanel/asp_crafting_items~91enhancedlootbags/lootbag~71itemdreamcraft/item.CoinTechnicianII~01

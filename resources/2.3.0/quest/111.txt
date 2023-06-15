@@ -2,4 +2,4 @@
 
 §c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with glass (or any solid block) to prevent carts from disappearing.
 
-Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.AND106StevesCarts/BlockCartAssembler~0ANDretrievalStevesCarts/CartModule~381itemminecraft/rail~04itemdreamcraft/item.CoinTechnician~025
+Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.ANDpreRequ106StevesCarts/BlockCartAssembler~0tasksANDretrievalStevesCarts/CartModule~381rewardsitemminecraft/rail~04itemdreamcraft/item.CoinTechnician~025

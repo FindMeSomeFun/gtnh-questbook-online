@@ -4,4 +4,4 @@ As an alternative to storing items in ME, you can use a storage bus connected to
 
 §cNote that using external storage like this can significantly harm server performance and may be banned on some servers!
 
-Super and Quantum chests do not have TPS issues.§rAND183appliedenergistics2/item.ItemMultiMaterial~22ANDretrievaldreamcraft/item.LogicProcessorItemGoldCore~04choiceappliedenergistics2/item.ItemMultiMaterial~222dreamcraft/item.GoldCoreChip~02enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01
+Super and Quantum chests do not have TPS issues.§rANDpreRequ183appliedenergistics2/item.ItemMultiMaterial~22tasksANDretrievaldreamcraft/item.LogicProcessorItemGoldCore~04rewardschoiceappliedenergistics2/item.ItemMultiMaterial~222dreamcraft/item.GoldCoreChip~02enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

@@ -2,4 +2,4 @@
 
 §3You can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.
 
-If you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.AND92gregtech/gt.metaitem.01~32650ANDretrievalgregtech/gt.blockmachines~2111itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03
+If you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.ANDpreRequ92gregtech/gt.metaitem.01~32650tasksANDretrievalgregtech/gt.blockmachines~2111rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

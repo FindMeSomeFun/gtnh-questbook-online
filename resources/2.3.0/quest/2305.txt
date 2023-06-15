@@ -4,4 +4,4 @@ As a first step in getting Rhodium, Ruthenium, Iridium, and Osmium, we will spli
 
 The amounts for this step are pretty annoying, blame Bart for that.
 
-§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.AND2304bartworks/gt.bwMetaGeneratedcellMolten~59ANDoptional_retrievalbartworks/gt.bwMetaGeneratedcellMolten~5978retrievalbartworks/gt.bwMetaGeneratedcell~6111itemdreamcraft/item.CoinChemistIII~01dreamcraft/item.CoinTechnicianIII~01
+§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.ANDpreRequ2304bartworks/gt.bwMetaGeneratedcellMolten~59tasksANDoptional_retrievalbartworks/gt.bwMetaGeneratedcellMolten~5978retrievalbartworks/gt.bwMetaGeneratedcell~6111rewardsitemdreamcraft/item.CoinChemistIII~01dreamcraft/item.CoinTechnicianIII~01

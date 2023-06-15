@@ -1,1 +1,1 @@
-2436Lead Ore exchangeYou can exchange your Stack of GT Lead Ore for IC2 Lead Ore.AND610gregtech/gt.blockores~830ANDretrievalgregtech/gt.blockores~8964itemIC2/blockOreLead~064
+2436Lead Ore exchangeYou can exchange your Stack of GT Lead Ore for IC2 Lead Ore.ANDpreRequ610gregtech/gt.blockores~830tasksANDretrievalgregtech/gt.blockores~8964rewardsitemIC2/blockOreLead~064

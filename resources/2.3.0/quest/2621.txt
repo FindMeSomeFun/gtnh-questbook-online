@@ -2,4 +2,4 @@
 
 What, the UHV superconductor? Didn't you already make that?
 
-§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.AND2616gregtech/gt.blockmachines~19ANDretrievalgregtech/gt.blockmachines~202024
+§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.ANDpreRequ2616gregtech/gt.blockmachines~19tasksANDretrievalgregtech/gt.blockmachines~202024rewards

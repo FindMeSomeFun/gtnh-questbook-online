@@ -1,1 +1,1 @@
-2433Copper Ore exchangeYou can exchange your Stack of GT Copper Ore for IC2 Copper Ore.AND825IC2/blockOreCopper~0ANDretrievalgregtech/gt.blockores~3564itemIC2/blockOreCopper~064
+2433Copper Ore exchangeYou can exchange your Stack of GT Copper Ore for IC2 Copper Ore.ANDpreRequ825IC2/blockOreCopper~0tasksANDretrievalgregtech/gt.blockores~3564rewardsitemIC2/blockOreCopper~064

@@ -9,4 +9,4 @@ The ME Conversion Monitor is the upgraded version of the ME Storage Monitor. It 
 
 Shift-right-clicking with item: Attempts to insert the item stack into the network. This works even if it's not the displayed item!
 Shift-double-right-clicking: Attempts to insert all item stacks of the type displayed into the network.
-Right-clicking (while locked): Attempts to pull out a stack of the item displayed.AND2519appliedenergistics2/item.ItemMultiPart~180ANDretrievalappliedenergistics2/item.ItemMultiPart~4201itemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01
+Right-clicking (while locked): Attempts to pull out a stack of the item displayed.ANDpreRequ2519appliedenergistics2/item.ItemMultiPart~180tasksANDretrievalappliedenergistics2/item.ItemMultiPart~4201rewardsitemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01

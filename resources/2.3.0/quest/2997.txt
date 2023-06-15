@@ -6,4 +6,4 @@ An alternative option is to do this, but with salt water, obtained from Salty Ro
 
 Lastly, did you know that most of the oil byproducts are organic compounds, and as such are made mostly of Carbon and Hydrogen? You can electrolyze most of them to get these elements, at a faster rate than water, but only if you have leftovers. Methane is one of the choices that you might have stockpiling. However, note that these byproducts often have fuel values and it's often better to use them as fuel to then electrolyze (salt) water.
 
-Either way, you will need Electrolyzers. Build some to continue!AND2996BuildCraftEnergy/bucketOil~0ANDretrievalgregtech/gt.metaitem.01~3000140choiceenhancedlootbags/lootbag~51gregtech/gt.metaitem.01~1101910itemdreamcraft/item.CoinTechnicianI~05dreamcraft/item.CoinChemistI~05
+Either way, you will need Electrolyzers. Build some to continue!ANDpreRequ2996BuildCraftEnergy/bucketOil~0tasksANDretrievalgregtech/gt.metaitem.01~3000140rewardschoiceenhancedlootbags/lootbag~51gregtech/gt.metaitem.01~1101910itemdreamcraft/item.CoinTechnicianI~05dreamcraft/item.CoinChemistI~05

@@ -1,3 +1,3 @@
 509Genetic SamplerWith this machine, you can extract a random trait from any bee, sapling, butterfly or flower. The bee/sapling/butterfly/flower will be destroyed in this process. Each process requires an empty gene sample and some labware.
 
-The resulting sample is random, so make sure to recycle the extra gene samples you don't want.AND510gendustry/Labware~0ANDretrievalgendustry/Sampler~01itemenhancedlootbags/lootbag~411itemdreamcraft/item.CoinBeesII~01enhancedlootbags/lootbag~411
+The resulting sample is random, so make sure to recycle the extra gene samples you don't want.ANDpreRequ510gendustry/Labware~0tasksANDretrievalgendustry/Sampler~01rewardsitemenhancedlootbags/lootbag~411itemdreamcraft/item.CoinBeesII~01enhancedlootbags/lootbag~411

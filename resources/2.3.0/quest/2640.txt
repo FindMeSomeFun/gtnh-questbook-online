@@ -4,4 +4,4 @@ You need to use CN3H7O3 (Purple) Rocket Fuel or better to fuel it.
 
 §3If you started on an older version of GTNH and still have some Monomethylhydrazine Fuel Mix, you can also use that as rocket fuel! But you can't make any more of it, so better look into CN3H7O3 anyway.
 
-§3If you want to make this rocket in ZPM, you'll need to use the GT++ Assembler multi.AND2751GalaxySpace/item.RocketControlComputer~6ANDretrievalGalaxySpace/item.Tier6Rocket~01
+§3If you want to make this rocket in ZPM, you'll need to use the GT++ Assembler multi.ANDpreRequ2751GalaxySpace/item.RocketControlComputer~6tasksANDretrievalGalaxySpace/item.Tier6Rocket~01rewards

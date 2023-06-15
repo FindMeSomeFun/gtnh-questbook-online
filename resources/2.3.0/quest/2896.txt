@@ -4,4 +4,4 @@ Basically, things go in, parts it's made of go out. It needs to be at the same t
 
 It works on hand and assembler crafted items, but it doesn't work on assline stuff (LuV+), or non-GT items. However, for some reason on some items it fails for seemingly no reason. Ask bart why that happens. If there's an oredicted item like a circuit, it should return the least valuable one. You can now recyle your old coils, hatches, machines, etc with impunity!
 
-§3The % chance based on tier is gone now. Also, it's really fast!AND92gregtech/gt.metaitem.01~32650ANDretrievalgregtech/gt.blockmachines~4511itemIC2/itemPartCircuit~02enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~02
+§3The % chance based on tier is gone now. Also, it's really fast!ANDpreRequ92gregtech/gt.metaitem.01~32650tasksANDretrievalgregtech/gt.blockmachines~4511rewardsitemIC2/itemPartCircuit~02enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~02

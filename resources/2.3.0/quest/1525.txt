@@ -1,3 +1,3 @@
 1525§a§lBest Bolts?That meteoric iron you found on the moon, when sent through the EBF, turns into this amazing meteoric steel, able to keep a fine edge. Put some on an Energetic Alloy tool rod to make an awesome bolt. Your next bolt you'll have to figure out yourself.
 
-Use whatever fletching you want.AND162GalacticraftCore/item.spaceship~0990gregtech/gt.metaitem.01~11366ANDoptional_retrievalTGregworks/tGregToolPartToolRod~16351optional_retrievalgregtech/gt.metaitem.01~113411retrievalTConstruct/BoltPart~16351itemminecraft/spawn_egg~561dreamcraft/item.CoinSmithII~01
+Use whatever fletching you want.ANDpreRequ162GalacticraftCore/item.spaceship~0990gregtech/gt.metaitem.01~11366tasksANDoptional_retrievalTGregworks/tGregToolPartToolRod~16351optional_retrievalgregtech/gt.metaitem.01~113411retrievalTConstruct/BoltPart~16351rewardsitemminecraft/spawn_egg~561dreamcraft/item.CoinSmithII~01

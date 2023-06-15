@@ -2,4 +2,4 @@
 
 Note: The ball of moss gives a tinker's tool self-repair. But if the tool is completely broken, it won't repair it.
 
-Note that the flint and steel can take a few times to work.AND65gregtech/gt.metaitem.01~11305ANDoptional_retrievalminecraft/flint~01optional_retrievalgregtech/gt.metaitem.02~203051craftingminecraft/flint_and_steel~01itemminecraft/bow~01minecraft/arrow~032TConstruct/materials~61choiceminecraft/obsidian~016enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~015
+Note that the flint and steel can take a few times to work.ANDpreRequ65gregtech/gt.metaitem.01~11305tasksANDoptional_retrievalminecraft/flint~01optional_retrievalgregtech/gt.metaitem.02~203051craftingminecraft/flint_and_steel~01rewardsitemminecraft/bow~01minecraft/arrow~032TConstruct/materials~61choiceminecraft/obsidian~016enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~015

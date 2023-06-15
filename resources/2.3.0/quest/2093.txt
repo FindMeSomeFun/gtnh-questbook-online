@@ -10,4 +10,4 @@ Golden ET - Mutation rate: 150 (Max 500)
 Tin ET - Territory: 40 (Min 10) Prod: 90 (Min 50)
 Bronze ET - Territory: 150 (Max 500)
 
-Genetic Decay is also increased by 50% for all of them. This affects how long until ignoble bees die off, so don't worry about it if your bees are pristine.AND1123Forestry/alveary~0ANDretrievalExtraBees/alveary~41itemForestry/thermionicTubes~38itemenhancedlootbags/lootbag~261
+Genetic Decay is also increased by 50% for all of them. This affects how long until ignoble bees die off, so don't worry about it if your bees are pristine.ANDpreRequ1123Forestry/alveary~0tasksANDretrievalExtraBees/alveary~41rewardsitemForestry/thermionicTubes~38itemenhancedlootbags/lootbag~261

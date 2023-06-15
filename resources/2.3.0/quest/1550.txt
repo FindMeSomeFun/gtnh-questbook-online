@@ -1,3 +1,3 @@
 1550More Seed TypesThis fancy addon allows your cart to plant/harvest more seed types. If you have an MV+ centrifuge you might want to look at glowflowers for some free redstone and gold.
 
-§3You can't harvest IC2 crops with carts, so give up on that.AND109StevesCarts/CartModule~14ANDretrievalStevesCarts/CartModule~1051itemenhancedlootbags/lootbag~41minecraft/dye~1564itemdreamcraft/item.CoinFarmer~025
+§3You can't harvest IC2 crops with carts, so give up on that.ANDpreRequ109StevesCarts/CartModule~14tasksANDretrievalStevesCarts/CartModule~1051rewardsitemenhancedlootbags/lootbag~41minecraft/dye~1564itemdreamcraft/item.CoinFarmer~025

@@ -7,4 +7,4 @@ Assemble the bow yourself on your tool forge.
 Lapis - Fortune on kills
 Moss - Self-repair (this is not visible in NEI until you unlock it in the GTNH Thaumcraft tab)
 
-§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.AND741TConstruct/ToolForgeBlock~0ANDoptional_retrievalTConstruct/woodPattern~231retrievalTConstruct/bowstring~01retrievalTConstruct/Crossbow~01itemenhancedlootbags/lootbag~21itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010
+§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.ANDpreRequ741TConstruct/ToolForgeBlock~0tasksANDoptional_retrievalTConstruct/woodPattern~231retrievalTConstruct/bowstring~01retrievalTConstruct/Crossbow~01rewardsitemenhancedlootbags/lootbag~21itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010

@@ -1,3 +1,3 @@
 2396Hydrogen PeroxideTo make Hydrogen Peroxide you combine Air (or Oxygen), 2-Ethylanthrahydroquinone, and Anthracene in a Chemical Plant.
 
-You can fully recycle 2-Ethylanthraquinone, so don't make bunch of them.AND854gregtech/gt.metaitem.01~306592690miscutils/2Ethylanthrahydroquinone~0ANDoptional_retrievalgregtech/gt.Volumetric_Flask~01optional_retrievalmiscutils/HydrogenPeroxide~05checkboxmiscutils/HydrogenPeroxide~05
+You can fully recycle 2-Ethylanthraquinone, so don't make bunch of them.ANDpreRequ854gregtech/gt.metaitem.01~306592690miscutils/2Ethylanthrahydroquinone~0tasksANDoptional_retrievalgregtech/gt.Volumetric_Flask~01optional_retrievalmiscutils/HydrogenPeroxide~05checkboxmiscutils/HydrogenPeroxide~05rewards

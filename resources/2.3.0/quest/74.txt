@@ -4,4 +4,4 @@ The aluminium oreberries can be planted on cropsticks, and macerated to get smal
 
 Note: The book says a 3x3 base, but you can make a smeltery with a smaller base. Taller/wider smelteries can do more items at one time, conserving fuel.
 
-§3The smeltry does not double ores in GTNH. Later machines will help you there.OR2985StevesCarts/CartModule~233031minecraft/wooden_shovel~0ANDcheckboxdreamcraft/item.CoinTechnician~015
+§3The smeltry does not double ores in GTNH. Later machines will help you there.ORpreRequ2985StevesCarts/CartModule~233031minecraft/wooden_shovel~0tasksANDcheckboxdreamcraft/item.CoinTechnician~015rewards

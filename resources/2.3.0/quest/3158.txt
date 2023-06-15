@@ -2,4 +2,4 @@
 
 These setups share one purpose: when they were created, they were meant to bridge the gap between IC2 nukes and fusion, because there was really nothing else worth using beyond fluid nukes if there were no backups available, or redstone automation was too unreliable for vacuum nukes. Not only is there a full 2-tier gap of one single powergen until fusion, but there's also a required power input in order to begin a fusion reaction in the first place. This is both boring and difficult to push through, especially with the Assembly Line in the middle, so here we are.
 
-The first setup you can put together is the LFTR chain, although only one half of it is available in IV. As such, that is where we will start.AND3150gregtech/gt.blockmachines~835ANDcheckboxgregtech/gt.blockcasings4~22
+The first setup you can put together is the LFTR chain, although only one half of it is available in IV. As such, that is where we will start.ANDpreRequ3150gregtech/gt.blockmachines~835tasksANDcheckboxgregtech/gt.blockcasings4~22rewards

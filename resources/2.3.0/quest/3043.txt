@@ -7,4 +7,4 @@ of this line.
 
 You'll then need to combine it with nitric acid in the Digester multiblock,
 to get its mud form.
-Yes, this is a §overy§r nitric acid hungry process!AND213gregtech/gt.blockmachines~153041gregtech/gt.blockmachines~10500ANDoptional_retrievalgregtech/gt.metaitem.01~3065321retrievalbartworks/gt.bwMetaGeneratedcell~1101412itemdreamcraft/item.CoinChemistIII~01
+Yes, this is a §overy§r nitric acid hungry process!ANDpreRequ213gregtech/gt.blockmachines~153041gregtech/gt.blockmachines~10500tasksANDoptional_retrievalgregtech/gt.metaitem.01~3065321retrievalbartworks/gt.bwMetaGeneratedcell~1101412rewardsitemdreamcraft/item.CoinChemistIII~01

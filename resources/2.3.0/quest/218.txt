@@ -1,3 +1,3 @@
 218Reward Choice: LootDon't need a personal dimension, eh? Well, then you'll probably be happy with some extra loot. Choose wisely; You can only pick one.
 
-§3PS: The loot is lame, don't pick this one.XOR214GalacticraftCore/tile.treasureChest~0217personalspace/personalPortal~0ANDcheckboxpersonalspace/personalPortal~01choiceThaumcraft/ItemLootBag~210enhancedlootbags/lootbag~710Thaumcraft/blockLootCrate~210DraconicEvolution/dezilsMarshmallow~016
+§3PS: The loot is lame, don't pick this one.XORpreRequ214GalacticraftCore/tile.treasureChest~0217personalspace/personalPortal~0tasksANDcheckboxpersonalspace/personalPortal~01rewardschoiceThaumcraft/ItemLootBag~210enhancedlootbags/lootbag~710Thaumcraft/blockLootCrate~210DraconicEvolution/dezilsMarshmallow~016

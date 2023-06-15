@@ -2,4 +2,4 @@
 
 The carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
 
-§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.AND577Forestry/sturdyMachine~0ANDoptional_retrievalForestry/sturdyMachine~01retrievalForestry/factory~11choiceminecraft/glass~016minecraft/redstone~010gregtech/gt.metaitem.01~307128enhancedlootbags/lootbag~191itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015
+§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.ANDpreRequ577Forestry/sturdyMachine~0tasksANDoptional_retrievalForestry/sturdyMachine~01retrievalForestry/factory~11rewardschoiceminecraft/glass~016minecraft/redstone~010gregtech/gt.metaitem.01~307128enhancedlootbags/lootbag~191itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015

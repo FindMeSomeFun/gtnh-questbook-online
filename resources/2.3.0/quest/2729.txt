@@ -11,4 +11,4 @@ Second is the Crop Synthesizer:
 It takes §24 Data Orbs§r, one for each of the types from the CGE, §51000L of UUM per crop tier/2§r (this is not rounded), and §616A§r while running. It will create a new crop seedbag with the desired stats.
 
 Lastly is the Crop Replicator:
-It takes an existing crop seedbag, §51000L per crop tier of UUM§r, and §66A§r while running. After finishing, it gives you back two of the same seedbag, duplicating it. This takes twice as much UUM, but less power, it's up to you whether that's worth it.AND721Natura/N Crops~02415witchery/ingredient~106ANDcheckboxThaumcraft/WandCasting~4501
+It takes an existing crop seedbag, §51000L per crop tier of UUM§r, and §66A§r while running. After finishing, it gives you back two of the same seedbag, duplicating it. This takes twice as much UUM, but less power, it's up to you whether that's worth it.ANDpreRequ721Natura/N Crops~02415witchery/ingredient~106tasksANDcheckboxThaumcraft/WandCasting~4501rewards

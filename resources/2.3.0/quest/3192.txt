@@ -5,4 +5,4 @@ Large Infinity Catalyst 200% 806,400 EU/t
 
 Yes, that's basically it. You can use any material from the previous turbine quests, but when you make the t8 rocket and can mine Infinity Catalyst, these are the two options. Obviously, Infinity is much better, but also much more expensive. If you stick with fusion, you will need several of those to push through the endgame. Remember that you can input plasma beyond the optimal flow, and get more out of each turbine at the cost of fuel efficiency.
 
-Make a normal or buffered UHV dynamo to complete the quest.AND3188GoodGenerator/compactFusionCoil~0ORretrievalgregtech/gt.blockmachines~391retrievalgregtech/gt.blockmachines~9081
+Make a normal or buffered UHV dynamo to complete the quest.ANDpreRequ3188GoodGenerator/compactFusionCoil~0tasksORretrievalgregtech/gt.blockmachines~391retrievalgregtech/gt.blockmachines~9081rewards

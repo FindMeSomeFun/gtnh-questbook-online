@@ -1,1 +1,1 @@
-2117Milk Without the Cow?A Cow backpack will generate milk from wheat placed in its inventory. Great for a lazy farmer!AND2112adventurebackpack/adventureBackpack~0ANDretrievaladventurebackpack/adventureBackpack~11itemminecraft/wheat~064
+2117Milk Without the Cow?A Cow backpack will generate milk from wheat placed in its inventory. Great for a lazy farmer!ANDpreRequ2112adventurebackpack/adventureBackpack~0tasksANDretrievaladventurebackpack/adventureBackpack~11rewardsitemminecraft/wheat~064

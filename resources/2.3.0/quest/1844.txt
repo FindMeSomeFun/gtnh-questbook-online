@@ -1,1 +1,1 @@
-1844§1§lPorkchops With AttitudeThe only zombie pigman to watch out for is the Vampire Pigman. He hardly takes any damage unless you use a wooden sword as a stake or have a magical sword.AND1843minecraft/string~0ANDcheckboxminecraft/string~08itemminecraft/porkchop~08
+1844§1§lPorkchops With AttitudeThe only zombie pigman to watch out for is the Vampire Pigman. He hardly takes any damage unless you use a wooden sword as a stake or have a magical sword.ANDpreRequ1843minecraft/string~0tasksANDcheckboxminecraft/string~08rewardsitemminecraft/porkchop~08

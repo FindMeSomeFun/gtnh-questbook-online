@@ -14,4 +14,4 @@ IV Oriharukon 7x7 - 2649
 
 Each chunk successfully scanned costs 100 durability. Each failed chunk costs 25. The average for MV is ~55 per chunk when scanning a large area. As you can see, the prospectors become better and better with each tier, so craft one whenever you think you need it.
 
-Good luck.AND1477gregtech/gt.metaitem.01~32691ANDretrievalgregtech/gt.detrav.metatool.01~41itemgregtech/gt.metaitem.01~326911gregtech/gt.metaitem.01~327022enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025
+Good luck.ANDpreRequ1477gregtech/gt.metaitem.01~32691tasksANDretrievalgregtech/gt.detrav.metatool.01~41rewardsitemgregtech/gt.metaitem.01~326911gregtech/gt.metaitem.01~327022enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

@@ -8,4 +8,4 @@ Use a Multiblock Structure Hologram Projector or MSHP to visualize the structure
 
 While it's now possible to build a sideways EBF, or even build one into the floor, not everything can be rotated. Exceptions include: LSC, Charcoal Pile Igniter, BBF, DT, Miners, Industial Washing Plant, Algae Farm, Bacterial Vat, DEHP, the MVF can, but the MBF cannot.
 
-§3PS: We did get permission, that was just a little joke.AND77gregtech/gt.blockmachines~1000ANDretrievalstructurelib/item.structurelib.constructableTrigger~01choiceenhancedlootbags/lootbag~41gregtech/gt.metatool.01~161itemdreamcraft/item.CoinTechnician~025
+§3PS: We did get permission, that was just a little joke.ANDpreRequ77gregtech/gt.blockmachines~1000tasksANDretrievalstructurelib/item.structurelib.constructableTrigger~01rewardschoiceenhancedlootbags/lootbag~41gregtech/gt.metatool.01~161itemdreamcraft/item.CoinTechnician~025

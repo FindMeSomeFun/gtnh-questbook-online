@@ -1,3 +1,3 @@
 953§6§lStainless Steel PipesStainless steel pipes are much better than steel pipes. Like all high tier pipes (Titanium, Tungstensteel etc) you need a better wrench to deconstruct the pipes.
 
-§3If you don't need these, just recycle them to get the materials back. Not everything needs ginormous pipes or high heat tolerance.AND753gregtech/gt.metaitem.01~11306ANDretrievalgregtech/gt.blockmachines~514316itemgregtech/gt.metatool.01~161enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025
+§3If you don't need these, just recycle them to get the materials back. Not everything needs ginormous pipes or high heat tolerance.ANDpreRequ753gregtech/gt.metaitem.01~11306tasksANDretrievalgregtech/gt.blockmachines~514316rewardsitemgregtech/gt.metatool.01~161enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

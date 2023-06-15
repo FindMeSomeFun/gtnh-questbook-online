@@ -6,4 +6,4 @@ Platline metals like Iridium and Osmium
 Neon, Krypton, Xenon from liquid air distilling
 Oganesson
 
-For some things (Oganesson), this might be considered the only reasonable way of getting a decent amount.AND1880gregtech/gt.metaitem.01~32671ANDretrievalgregtech/gt.metaitem.01~327071retrievalgregtech/gt.blockmachines~4821choiceenhancedlootbags/lootbag~71gregtech/gt.metaitem.01~110288IC2/itemPartCircuitAdv~04itemdreamcraft/item.CoinTechnicianII~01
+For some things (Oganesson), this might be considered the only reasonable way of getting a decent amount.ANDpreRequ1880gregtech/gt.metaitem.01~32671tasksANDretrievalgregtech/gt.metaitem.01~327071retrievalgregtech/gt.blockmachines~4821rewardschoiceenhancedlootbags/lootbag~71gregtech/gt.metaitem.01~110288IC2/itemPartCircuitAdv~04itemdreamcraft/item.CoinTechnicianII~01

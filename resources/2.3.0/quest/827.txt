@@ -6,4 +6,4 @@ You'll need something with more oomph for the later rockets.
 
 For the moon, a full rocket leaving from the OW should have enough fuel left to make it back. But you might want to take extra just in case.
 
-Rocket Fuel usage is not based on either the destination or the type of fuel used, but instead the rocket itself, with higher tiers both storing more fuel, and consuming less. Also, the gravity of the planet affects how much fuel is used, with lower gravity locations using less fuel to launch.AND2744GalacticraftCore/tile.rocketWorkbench~0ANDcheckboxdreamcraft/item.CoinAdventure~05
+Rocket Fuel usage is not based on either the destination or the type of fuel used, but instead the rocket itself, with higher tiers both storing more fuel, and consuming less. Also, the gravity of the planet affects how much fuel is used, with lower gravity locations using less fuel to launch.ANDpreRequ2744GalacticraftCore/tile.rocketWorkbench~0tasksANDcheckboxdreamcraft/item.CoinAdventure~05rewards

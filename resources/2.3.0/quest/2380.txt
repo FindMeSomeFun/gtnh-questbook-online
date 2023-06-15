@@ -22,4 +22,4 @@ Fire (Igneous Rock)
 TNT explodes with a big fire spread.
 
 No fuse (Redstone Torch)
-TNT explodes immediately.AND2350HardcoreEnderExpansion/end_powder_ore~0ANDretrievalminecraft/tnt~07retrievalminecraft/redstone_torch~02retrievalHardcoreEnderExpansion/end_powder~028choiceminecraft/tnt~016HardcoreEnderExpansion/end_powder~032enhancedlootbags/lootbag~571itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinSmithII~01HardcoreEnderExpansion/knowledge_note~01
+TNT explodes immediately.ANDpreRequ2350HardcoreEnderExpansion/end_powder_ore~0tasksANDretrievalminecraft/tnt~07retrievalminecraft/redstone_torch~02retrievalHardcoreEnderExpansion/end_powder~028rewardschoiceminecraft/tnt~016HardcoreEnderExpansion/end_powder~032enhancedlootbags/lootbag~571itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinSmithII~01HardcoreEnderExpansion/knowledge_note~01

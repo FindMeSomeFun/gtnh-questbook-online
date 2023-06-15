@@ -1,3 +1,3 @@
 870§6§lSmelt All the Things...Smelting up to nine items at once sound nice? With a bit of steel you can make a railcraft Steam Oven. 2x2x2
 
-Hint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.AND65gregtech/gt.metaitem.01~11305ANDoptional_retrievalgregtech/gt.blockcasings3~148retrievalRailcraft/machine.alpha~38itemenhancedlootbags/lootbag~22itemdreamcraft/item.CoinTechnician~025
+Hint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.ANDpreRequ65gregtech/gt.metaitem.01~11305tasksANDoptional_retrievalgregtech/gt.blockcasings3~148retrievalRailcraft/machine.alpha~38rewardsitemenhancedlootbags/lootbag~22itemdreamcraft/item.CoinTechnician~025

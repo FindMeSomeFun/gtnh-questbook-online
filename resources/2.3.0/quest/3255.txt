@@ -1,3 +1,3 @@
 3255Hydrobotanic EnergyMana is blue. Water is also blue. There's a correlation there, and the hydroangea turns that correlation into causation. Place a water source block nearby, and the hydroangea will consume it to produce mana - until it dies after an hour.
 
-This one can be a bit tricky to automate given the lack of naturally-regenerating source blocks.AND3262Botania/manaResource~23ANDretrievalBotania/specialFlower~01itemBotania/specialFlower~01dreamcraft/item.CoinFlowerI~010
+This one can be a bit tricky to automate given the lack of naturally-regenerating source blocks.ANDpreRequ3262Botania/manaResource~23tasksANDretrievalBotania/specialFlower~01rewardsitemBotania/specialFlower~01dreamcraft/item.CoinFlowerI~010

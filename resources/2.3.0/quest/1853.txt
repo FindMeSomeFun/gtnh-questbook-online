@@ -11,4 +11,4 @@ When placing your power hatches, make sure to minimize the distance between any 
 
 Output hatches and buses will automatically push into tanks and inventories placed next to them such as chests or BC tanks. They will also void if they're full, so keep an eye on them!
 
-When building multiple EBFs, the GregTech 1000 Electric Blast Furnace can share walls. This can save you on input and output hatches too. Not recommended for energy and maintenance hatches!AND77gregtech/gt.blockmachines~1000ANDcheckboxminecraft/hopper~02itemgregtech/gt.metaitem.01~23058
+When building multiple EBFs, the GregTech 1000 Electric Blast Furnace can share walls. This can save you on input and output hatches too. Not recommended for energy and maintenance hatches!ANDpreRequ77gregtech/gt.blockmachines~1000tasksANDcheckboxminecraft/hopper~02rewardsitemgregtech/gt.metaitem.01~23058

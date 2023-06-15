@@ -2,4 +2,4 @@
 
 You can also power it with batteries, if you're worried about it draining your power, or don't want to set up the infrastructure.
 
-§3Rockets keep their fuel in them on landing now, so you don't need to take this with you anymore unless you want to go to multiple places in one trip. Or you didn't fill it all the way or something.AND819GalaxySpace/item.ModuleSmallFuelCanister~0ANDoptional_retrievalgregtech/gt.metaitem.01~324051retrievalGalacticraftCore/tile.fuelLoader~01choicegregtech/gt.metaitem.01~307091GalacticraftCore/item.basicItem~92enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01
+§3Rockets keep their fuel in them on landing now, so you don't need to take this with you anymore unless you want to go to multiple places in one trip. Or you didn't fill it all the way or something.ANDpreRequ819GalaxySpace/item.ModuleSmallFuelCanister~0tasksANDoptional_retrievalgregtech/gt.metaitem.01~324051retrievalGalacticraftCore/tile.fuelLoader~01rewardschoicegregtech/gt.metaitem.01~307091GalacticraftCore/item.basicItem~92enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

@@ -3,4 +3,4 @@
 You can use 2 Chlorine and 1 Methane per Chloromethane in your chemical reactor. Alternatively you can use Methanol and Hydrochloric Acid.
 
 There are different ways to do it and this quest is only an example of how you can make it.
-AND943gregtech/gt.blockmachines~423ANDretrievalgregtech/gt.metaitem.01~3066442choicegregtech/gt.metaitem.01~3068316enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05
+ANDpreRequ943gregtech/gt.blockmachines~423tasksANDretrievalgregtech/gt.metaitem.01~3066442rewardschoicegregtech/gt.metaitem.01~3068316enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05

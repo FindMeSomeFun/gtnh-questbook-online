@@ -1,3 +1,3 @@
 1653§5§lAkihabaraTired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.
 
-You'll need an Assembler to finish it up.AND102gregtech/gt.blockmachines~251ANDoptional_retrievalminecraft/dispenser~01optional_retrievalgregtech/gt.metaitem.02~324704retrievalExtraUtilities/trading_post~01itemminecraft/emerald~05itemenhancedlootbags/lootbag~41dreamcraft/item.CoinAdventure~015
+You'll need an Assembler to finish it up.ANDpreRequ102gregtech/gt.blockmachines~251tasksANDoptional_retrievalminecraft/dispenser~01optional_retrievalgregtech/gt.metaitem.02~324704retrievalExtraUtilities/trading_post~01rewardsitemminecraft/emerald~05itemenhancedlootbags/lootbag~41dreamcraft/item.CoinAdventure~015

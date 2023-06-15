@@ -1,3 +1,3 @@
 513Advanced MutatronA more advanced version of the mutatron. It uses more energy to mutate a drone with a princess, and you can select which mutation you want to have. This machine is a must-have for high-tier bees.
 
-§3You'll need neutronium bees to make this.AND508gendustry/Mutatron~0ANDretrievalgendustry/MutatronAdv~01itemgendustry/Labware~05itemdreamcraft/item.CoinBeesII~05enhancedlootbags/lootbag~271
+§3You'll need neutronium bees to make this.ANDpreRequ508gendustry/Mutatron~0tasksANDretrievalgendustry/MutatronAdv~01rewardsitemgendustry/Labware~05itemdreamcraft/item.CoinBeesII~05enhancedlootbags/lootbag~271

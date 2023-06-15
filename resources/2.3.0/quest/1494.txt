@@ -6,4 +6,4 @@ Multiblock machines can share casings, mufflers, and input/output hatches/busses
 
 Remember, pollution will be very high with two EBFs active at once! Watch out for high pollution effects. Use the best mufflers available and don't place the EBFs in the same chunk as farmland or other high pollution machines like Pyrolyse Ovens and Large Boilers.
 
-You can use whatever coils you have lying around, but you might want to start searching for Mica if you haven't found any yet.AND753gregtech/gt.metaitem.01~11306ANDretrievalgregtech/gt.blockmachines~10001retrievalgregtech/gt.blockmachines~921retrievalgregtech/gt.blockmachines~422itemgregtech/gt.metaitem.01~325292gregtech/gt.blockmachines~1721dreamcraft/item.CoinTechnicianI~05
+You can use whatever coils you have lying around, but you might want to start searching for Mica if you haven't found any yet.ANDpreRequ753gregtech/gt.metaitem.01~11306tasksANDretrievalgregtech/gt.blockmachines~10001retrievalgregtech/gt.blockmachines~921retrievalgregtech/gt.blockmachines~422rewardsitemgregtech/gt.metaitem.01~325292gregtech/gt.blockmachines~1721dreamcraft/item.CoinTechnicianI~05

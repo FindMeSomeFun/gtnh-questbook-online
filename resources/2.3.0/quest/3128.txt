@@ -4,4 +4,4 @@ Everything from this quest onwards is about those solid fuels. There are two ver
 
 How does it generally go? If you already have CBD, you can get power from it by putting it directly in Combustion Generators. In this line, though, you need to automate Fuel Binder, add blocks of Charcoal, Coal or Coal Coke and then put the Super Fuel in a Titanium or Tungstensteel Large Boiler, where you get Superheated Steam. After that, you need a HP Steam Turbine multi, followed by a regular Steam Turbine multi, and the setup is complete. 
 
-If you want to continue, then you'll need at least one Titanium Large Boiler. Build one. OR176gregtech/gt.blockmachines~143120gregtech/gt.metaitem.01~30709ANDretrievalgregtech/gt.blockcasings4~224itemIC2/itemCellEmpty~1332enhancedlootbags/lootbag~71dreamcraft/item.CoinTechnicianII~08
+If you want to continue, then you'll need at least one Titanium Large Boiler. Build one. ORpreRequ176gregtech/gt.blockmachines~143120gregtech/gt.metaitem.01~30709tasksANDretrievalgregtech/gt.blockcasings4~224rewardsitemIC2/itemCellEmpty~1332enhancedlootbags/lootbag~71dreamcraft/item.CoinTechnicianII~08

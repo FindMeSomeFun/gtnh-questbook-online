@@ -8,4 +8,4 @@ To lower the fluid limit, do the same while looking at the left side.
 
 Use the Large Turbine Calculator and the Turbine stats sheet on the spreadsheet to find what to set it to (after deciding on a fuel). At GTNH, we do the math for you! For this at least.
 
-§3If you shift-right click on it you can use the interface which is more precise.OR783gregtech/gt.blockmachines~11311200gregtech/gt.blockmachines~11531894gregtech/gt.blockmachines~1151ANDretrievalgregtech/gt.metaitem.01~326621itemenhancedlootbags/lootbag~51itemdreamcraft/item.CoinChemistII~02dreamcraft/item.CoinTechnicianII~02
+§3If you shift-right click on it you can use the interface which is more precise.ORpreRequ783gregtech/gt.blockmachines~11311200gregtech/gt.blockmachines~11531894gregtech/gt.blockmachines~1151tasksANDretrievalgregtech/gt.metaitem.01~326621rewardsitemenhancedlootbags/lootbag~51itemdreamcraft/item.CoinChemistII~02dreamcraft/item.CoinTechnicianII~02

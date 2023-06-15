@@ -1,1 +1,1 @@
-392Co-Processing x16For an even more compact crafting CPU.AND393appliedenergistics2/tile.BlockCraftingUnit~21710gregtech/gt.metaitem.03~32091ANDretrievalappliedenergistics2/tile.BlockCraftingUnit~31itemdreamcraft/item.CoinTechnicianIII~01
+392Co-Processing x16For an even more compact crafting CPU.ANDpreRequ393appliedenergistics2/tile.BlockCraftingUnit~21710gregtech/gt.metaitem.03~32091tasksANDretrievalappliedenergistics2/tile.BlockCraftingUnit~31rewardsitemdreamcraft/item.CoinTechnicianIII~01

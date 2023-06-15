@@ -2,4 +2,4 @@
 
 Heavy Fuel, Light Fuel, Refinery Gas and Naphtha can each be cracked both ways, and with three different intensities: lightly, moderately or severely cracked. This means that each portion has 6 different cracking options, and the products of distilling them can be cracked once more! There are a lot of options here, but a few of them stand out for their usefulness.
 
-The first one you should attempt starts with Refinery Gas, instead of Light Fuel, so switch your Distillery to produce that, and get some Steam.AND2992gregtech/gt.blockmachines~1110ANDretrievalgregtech/gt.metaitem.98~010choiceenhancedlootbags/lootbag~41gregtech/gt.metaitem.01~326301itemdreamcraft/item.CoinChemistI~05
+The first one you should attempt starts with Refinery Gas, instead of Light Fuel, so switch your Distillery to produce that, and get some Steam.ANDpreRequ2992gregtech/gt.blockmachines~1110tasksANDretrievalgregtech/gt.metaitem.98~010rewardschoiceenhancedlootbags/lootbag~41gregtech/gt.metaitem.01~326301itemdreamcraft/item.CoinChemistI~05

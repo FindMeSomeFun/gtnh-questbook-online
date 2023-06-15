@@ -2,4 +2,4 @@
 
 The Bio Chamber is a simple upgrade, it doesn't require many resources. Don't know why I didn't make it earlier.
 
-§3It can use any glass.AND2649gregtech/gt.metaitem.03~320733273gregtech/gt.blockmachines~356ANDretrievalIC2/blockAlloyGlass~01
+§3It can use any glass.ANDpreRequ2649gregtech/gt.metaitem.03~320733273gregtech/gt.blockmachines~356tasksANDretrievalIC2/blockAlloyGlass~01rewards

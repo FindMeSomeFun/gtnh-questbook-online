@@ -4,4 +4,4 @@ Make sure to get a set of TPV coils for your EBF.
 
 You should've learned "how to GregTech" by now. If not, go clean up the machine craters in your base...
 
-Many GT++ multiblock machines unlock at this tier. Make sure you have an Alloy Blast Smelter ready to go and check the GT++ tab.AND176gregtech/gt.blockmachines~14394gregtech/gt.metaitem.01~2819861gregtech/gt.metaitem.01~113161225gregtech/gt.metaitem.01~32705ANDretrievalgregtech/gt.blockmachines~151itemenhancedlootbags/lootbag~81itemdreamcraft/item.CoinAdventureII~05dreamcraft/item.CoinSpaceII~05dreamcraft/item.CoinTechnicianII~05
+Many GT++ multiblock machines unlock at this tier. Make sure you have an Alloy Blast Smelter ready to go and check the GT++ tab.ANDpreRequ176gregtech/gt.blockmachines~14394gregtech/gt.metaitem.01~2819861gregtech/gt.metaitem.01~113161225gregtech/gt.metaitem.01~32705tasksANDretrievalgregtech/gt.blockmachines~151rewardsitemenhancedlootbags/lootbag~81itemdreamcraft/item.CoinAdventureII~05dreamcraft/item.CoinSpaceII~05dreamcraft/item.CoinTechnicianII~05

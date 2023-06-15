@@ -5,4 +5,4 @@ Rowan: Whiff of Magic
 Hawthorn: Odour of Purity
 Alder: Reek of Misfortune
 
-Rowan trees drop Rowan Berries, and you'll need to get some Alder Wood for your altar.AND1555witchery/ingredient~14ANDretrievalwitchery/witchsapling~11itemwitchery/ingredient~1416witchery/ingredient~2716itemdreamcraft/item.CoinWitch~025dreamcraft/item.CoinDarkWizard~025
+Rowan trees drop Rowan Berries, and you'll need to get some Alder Wood for your altar.ANDpreRequ1555witchery/ingredient~14tasksANDretrievalwitchery/witchsapling~11rewardsitemwitchery/ingredient~1416witchery/ingredient~2716itemdreamcraft/item.CoinWitch~025dreamcraft/item.CoinDarkWizard~025

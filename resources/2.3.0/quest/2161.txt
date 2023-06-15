@@ -16,4 +16,4 @@ A single block machine starved of EU will restart progress but not lose the reci
 
 Note that any block that emits EU has loss when doing so: 2 ^ tier. So 2 EU at LV, 4 EU at MV, and so on. Using large numbers of battery buffers in a row is thus very wasteful of your power, and even 1 can prevent usage of an EBF at MV voltage. Of course, if you want to keep your amps topped up, you'll need to place BBs occasionally to 'top up' the amps, though this is less the case the further ingame you get, as the loss becomes less of something to worry about.
 
-If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.AND70gregtech/gt.blockmachines~1120ANDcheckboxCarpentersBlocks/itemCarpentersChisel~01itemmiscutils/itemHatTinFoil~01
+If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.ANDpreRequ70gregtech/gt.blockmachines~1120tasksANDcheckboxCarpentersBlocks/itemCarpentersChisel~01rewardsitemmiscutils/itemHatTinFoil~01

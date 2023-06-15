@@ -2,4 +2,4 @@
 
 You need a carpenter, your old backpack and a bit of seed oil.
 
-If the recipe isn't working, put the bag in a crafting grid to reset its nbt data. After removing anything in it of course.AND486Backpack/tannedLeather~0995Forestry/craftingMaterial~3ANDoptional_retrievalForestry/craftingMaterial~318retrievalForestry/minerBagT2~01choiceForestry/craftingMaterial~39gregtech/gt.metatool.01~281enhancedlootbags/lootbag~261itemdreamcraft/item.CoinBeesI~05
+If the recipe isn't working, put the bag in a crafting grid to reset its nbt data. After removing anything in it of course.ANDpreRequ486Backpack/tannedLeather~0995Forestry/craftingMaterial~3tasksANDoptional_retrievalForestry/craftingMaterial~318retrievalForestry/minerBagT2~01rewardschoiceForestry/craftingMaterial~39gregtech/gt.metatool.01~281enhancedlootbags/lootbag~261itemdreamcraft/item.CoinBeesI~05

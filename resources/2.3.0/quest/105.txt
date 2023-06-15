@@ -1,3 +1,3 @@
 105§5§lSaving Metal With BendingInstead of a 3:2 ratio of ingots to plates, this machine allows for 1:1. This saves an enormous amount of metal, so make it ASAP.
 
-BTW if you want foils, just run the plate back through. There's other circuit modes, but you can discover them later.AND95gregtech/gt.metaitem.01~32640ANDretrievalgregtech/gt.blockmachines~2211itemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03
+BTW if you want foils, just run the plate back through. There's other circuit modes, but you can discover them later.ANDpreRequ95gregtech/gt.metaitem.01~32640tasksANDretrievalgregtech/gt.blockmachines~2211rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnicianI~03

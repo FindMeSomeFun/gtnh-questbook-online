@@ -1,3 +1,3 @@
 890§4§3§lThe GT Tank, ULV VersionThis is the first GT-type tank. It stores 32 buckets or 32,000L, and can be used to I/O cells. The ULV Tank from GT++ needs steel plates, iron plates, tin plates, a clay pipe, and a water bucket.
 
-GT tanks do not auto-output. If you want to move fluids out of the tank, use a GT pump, conduit, or something similar.AND65gregtech/gt.metaitem.01~11305ANDcraftinggregtech/gt.blockmachines~8171itemgregtech/gt.blockmachines~307684enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~010
+GT tanks do not auto-output. If you want to move fluids out of the tank, use a GT pump, conduit, or something similar.ANDpreRequ65gregtech/gt.metaitem.01~11305tasksANDcraftinggregtech/gt.blockmachines~8171rewardsitemgregtech/gt.blockmachines~307684enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~010

@@ -2,4 +2,4 @@
 
 There are a few more shapes than the ones listed here. Makes sure to have a look.
 
-§3Most of the Tinkers Gregworks tool parts are made in the extruder. They also have long extrusion times to balance out their usefulness.AND896gregtech/gt.metaitem.01~32641ANDretrievalgregtech/gt.metaitem.01~323761retrievalgregtech/gt.blockmachines~2821itemenhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05questcompletiongregtech/gt.blockmachines~281673
+§3Most of the Tinkers Gregworks tool parts are made in the extruder. They also have long extrusion times to balance out their usefulness.ANDpreRequ896gregtech/gt.metaitem.01~32641tasksANDretrievalgregtech/gt.metaitem.01~323761retrievalgregtech/gt.blockmachines~2821rewardsitemenhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnicianI~05questcompletiongregtech/gt.blockmachines~281673

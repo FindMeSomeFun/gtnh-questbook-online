@@ -1,1 +1,1 @@
-451Trigger LoCTriggered by having a "Lamp of Cinders" in your inventory.AND906TwilightForest/item.trophy~4ANDretrievalTwilightForest/item.lampOfCinders~01
+451Trigger LoCTriggered by having a "Lamp of Cinders" in your inventory.ANDpreRequ906TwilightForest/item.trophy~4tasksANDretrievalTwilightForest/item.lampOfCinders~01rewards

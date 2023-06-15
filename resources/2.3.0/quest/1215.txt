@@ -6,4 +6,4 @@ Fruit Juice Startup/Restart Only 10 RF/t 2500
 Liquid Honey Startup/Restart Only 20 RF/t 2500
 Milk Constant 10 RF/t 10000
 Seed Oil Startup/Restart Only 30 RF/t 2500
-Biomass Startup/Restart Only 50 RF/t 2500AND577Forestry/sturdyMachine~0ANDoptional_retrievalminecraft/piston~01retrievalForestry/engine~21choiceForestry/canSeedOil~016Railcraft/fluid.creosote.can~016Forestry/canLava~016Forestry/canBiomass~016enhancedlootbags/lootbag~191itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015
+Biomass Startup/Restart Only 50 RF/t 2500ANDpreRequ577Forestry/sturdyMachine~0tasksANDoptional_retrievalminecraft/piston~01retrievalForestry/engine~21rewardschoiceForestry/canSeedOil~016Railcraft/fluid.creosote.can~016Forestry/canLava~016Forestry/canBiomass~016enhancedlootbags/lootbag~191itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015

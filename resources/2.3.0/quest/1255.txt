@@ -1,3 +1,3 @@
 125564k Item Storage CellHighest tier storage cell, which can contain 65,536 bytes of storage. 65,536 bytes of storage can hold 8,128 stacks of a single item, or 4,160 stacks, while holding 63 different items. The 64k storage cell uses 512 bytes of data to store a single type.
 
-When placed inside a drive or chest will consume 2.0 ae/t.AND1256appliedenergistics2/item.ItemMultiMaterial~38ANDretrievalappliedenergistics2/item.ItemBasicStorageCell.64k~01choicegregtech/gt.metaitem.01~110288gregtech/gt.metaitem.01~1130616enhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02
+When placed inside a drive or chest will consume 2.0 ae/t.ANDpreRequ1256appliedenergistics2/item.ItemMultiMaterial~38tasksANDretrievalappliedenergistics2/item.ItemBasicStorageCell.64k~01rewardschoicegregtech/gt.metaitem.01~110288gregtech/gt.metaitem.01~1130616enhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02

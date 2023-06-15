@@ -1,3 +1,3 @@
 2340ChaliceThe chalice is an upgrade for an altar that improves the maximum amount of power an altar can hold. The chalice will increase the maximum power by 1x the base power rate.
 
-The chalice upgrades to the Filled Chalice. Only one chalice upgrade will have an effect on an altar.AND333witchery/altar~0ANDretrievalwitchery/ingredient~11choicewitchery/ingredient~401enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05
+The chalice upgrades to the Filled Chalice. Only one chalice upgrade will have an effect on an altar.ANDpreRequ333witchery/altar~0tasksANDretrievalwitchery/ingredient~11rewardschoicewitchery/ingredient~401enhancedlootbags/lootbag~531itemdreamcraft/item.CoinDarkWizardI~05dreamcraft/item.CoinWitchI~05

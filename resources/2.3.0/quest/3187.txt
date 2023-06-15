@@ -8,4 +8,4 @@ Large Trinium 180% 1,452,520 EU/t
 
 At this point, you might consider building more t1 Fusion Reactors to process other materials. Even if you stop the reactor you're using to generate this plasma, the EU cost of restarting it is less than 1 bucket of plasma, so it's probably not that big of a deal.
 
-Make a normal or buffered UV dynamo to complete the quest.AND3186gregtech/gt.metaitem.01~31057ORretrievalgregtech/gt.blockmachines~381retrievalgregtech/gt.blockmachines~9071
+Make a normal or buffered UV dynamo to complete the quest.ANDpreRequ3186gregtech/gt.metaitem.01~31057tasksORretrievalgregtech/gt.blockmachines~381retrievalgregtech/gt.blockmachines~9071rewards

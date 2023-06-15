@@ -14,4 +14,4 @@ These are GT machines, so remember to protect them (and their power sources!) fr
 4) Ridiculous bio vat nonsense
 5) Crops
 6) Bees
-7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for detailsAND93gregtech/gt.metaitem.01~32610ANDretrievalgregtech/gt.blockmachines~11401retrievalIC2/blockMiningPipe~064itemBuildCraftFactory/tankBlock~04minecraft/bucket~02itemdreamcraft/item.CoinTechnicianI~03
+7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for detailsANDpreRequ93gregtech/gt.metaitem.01~32610tasksANDretrievalgregtech/gt.blockmachines~11401retrievalIC2/blockMiningPipe~064rewardsitemBuildCraftFactory/tankBlock~04minecraft/bucket~02itemdreamcraft/item.CoinTechnicianI~03

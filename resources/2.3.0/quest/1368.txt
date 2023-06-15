@@ -1,3 +1,3 @@
 1368Stuck in the Twilight Forest?If you're in the Twilight Forest and your portal gets broken, you're kinda stuck. Every 24h you're able to exchange some materials to get a new portal crystal to escape.
 
-§3Also consider making an extra yourself and sticking it in a chest on the TF side, just in case.AND225minecraft/end_portal~0ANDretrievalTwilightForest/tile.TFLog~164itemdreamcraft/item.TwilightCrystal~01
+§3Also consider making an extra yourself and sticking it in a chest on the TF side, just in case.ANDpreRequ225minecraft/end_portal~0tasksANDretrievalTwilightForest/tile.TFLog~164rewardsitemdreamcraft/item.TwilightCrystal~01

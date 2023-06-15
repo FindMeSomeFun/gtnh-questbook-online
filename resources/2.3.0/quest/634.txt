@@ -1,1 +1,1 @@
-634Wheat TimeIt's time to plant some wheat to make some bread or to prepare grain bait for your animal traps.AND7minecraft/carrot~0ANDretrievalminecraft/wheat~032itemIC2/blockCrop~04Natura/barley.seed~08itemdreamcraft/item.CoinFarmer~015
+634Wheat TimeIt's time to plant some wheat to make some bread or to prepare grain bait for your animal traps.ANDpreRequ7minecraft/carrot~0tasksANDretrievalminecraft/wheat~032rewardsitemIC2/blockCrop~04Natura/barley.seed~08itemdreamcraft/item.CoinFarmer~015

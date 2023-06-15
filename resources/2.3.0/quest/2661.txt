@@ -1,1 +1,1 @@
-2661Self-Aware CircuitsMake a Bio Processing Unit. It is an important component in making the Bio Circuits.AND2660gregtech/gt.metaitem.03~32107ANDretrievalgregtech/gt.metaitem.03~320771
+2661Self-Aware CircuitsMake a Bio Processing Unit. It is an important component in making the Bio Circuits.ANDpreRequ2660gregtech/gt.metaitem.03~32107tasksANDretrievalgregtech/gt.metaitem.03~320771rewards

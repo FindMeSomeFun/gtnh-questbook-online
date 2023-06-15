@@ -1,1 +1,1 @@
-2882RF NodeThe RF Node acts as an I/O point for RF. If you need that, I guess.AND1989StevesFactoryManager/BlockMachineManagerName~0ANDretrievalStevesAddons/cable_rf~01itemStevesAddons/cable_rf~01
+2882RF NodeThe RF Node acts as an I/O point for RF. If you need that, I guess.ANDpreRequ1989StevesFactoryManager/BlockMachineManagerName~0tasksANDretrievalStevesAddons/cable_rf~01rewardsitemStevesAddons/cable_rf~01

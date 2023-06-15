@@ -2,4 +2,4 @@
 
 When fed with energy it is able to charge any item that is fed into its Input Bus. Fully charged items will be placed in the Output Bus. The items will be fed with the amount of energy provided by the used Energy Hatch.
 
-Apart from its charging capabilities the Energy Infuser can repair items when provided with UU-Matter and energy. However, GregTech tools can not be repaired. When repairing the machine consumes 1L UU-Matter and 1000 EU per repaired durability point.AND2006tectech/gt.blockcasingsTT~0ANDretrievalgregtech/gt.blockmachines~153501
+Apart from its charging capabilities the Energy Infuser can repair items when provided with UU-Matter and energy. However, GregTech tools can not be repaired. When repairing the machine consumes 1L UU-Matter and 1000 EU per repaired durability point.ANDpreRequ2006tectech/gt.blockcasingsTT~0tasksANDretrievalgregtech/gt.blockmachines~153501rewards

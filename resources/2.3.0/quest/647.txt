@@ -4,4 +4,4 @@ A diamond chestplate surrounded with 4 electrotine batteries is powerful enough 
 
 It does not have a hover mode so you better take your glider with you. 
 
-Hint: This jetpack can't fly higher than Y-128.AND646ProjRedExpansion/projectred.expansion.battery~0ANDoptional_retrievalgregtech/gt.metaitem.01~178111retrievalProjRedExpansion/projectred.expansion.jetpack~64001choiceProjRedCore/projectred.core.part~5632minecraft/enchanted_book~01enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015
+Hint: This jetpack can't fly higher than Y-128.ANDpreRequ646ProjRedExpansion/projectred.expansion.battery~0tasksANDoptional_retrievalgregtech/gt.metaitem.01~178111retrievalProjRedExpansion/projectred.expansion.jetpack~64001rewardschoiceProjRedCore/projectred.core.part~5632minecraft/enchanted_book~01enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015

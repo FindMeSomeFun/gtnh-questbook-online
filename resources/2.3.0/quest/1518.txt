@@ -1,3 +1,3 @@
 1518§6§lAll the Crops You Could WantTired of applying bonemeal or fertilizer by hand? A sprinkler can take water and boost your crop growth rate. Bonemeal or fertilizer will make it work even faster.
 
-§3Note that the sprinkler does not work with IC2 crops.AND138EnderIO/itemAlloy~6ANDretrievalminecraft/dye~1564retrievalForestry/fertilizerCompound~064retrievalOpenBlocks/sprinkler~02choicegregtech/gt.metaitem.01~113648enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025
+§3Note that the sprinkler does not work with IC2 crops.ANDpreRequ138EnderIO/itemAlloy~6tasksANDretrievalminecraft/dye~1564retrievalForestry/fertilizerCompound~064retrievalOpenBlocks/sprinkler~02rewardschoicegregtech/gt.metaitem.01~113648enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025

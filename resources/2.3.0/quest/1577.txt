@@ -6,4 +6,4 @@ Planting Wispy Cotton nearby when using a Brew of Sleeping near to a Dream Weave
 
 Wispy Cotton will remain in a players inventory when they return from the Spirit World.
 
-AND1576minecraft/end_portal~0ANDretrievalwitchery/somniancotton~016itemminecraft/potion~82291itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinWitchII~01dreamcraft/item.CoinAdventureII~01
+ANDpreRequ1576minecraft/end_portal~0tasksANDretrievalwitchery/somniancotton~016rewardsitemminecraft/potion~82291itemdreamcraft/item.CoinDarkWizardII~01dreamcraft/item.CoinWitchII~01dreamcraft/item.CoinAdventureII~01

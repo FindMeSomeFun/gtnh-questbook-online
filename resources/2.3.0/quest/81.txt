@@ -2,4 +2,4 @@
 
 Ingots that go through the EBF above a certain temperature will come out as hot ingots that need to be cooled.
 
-You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.AND940gregtech/gt.blockmachines~11721014gregtech/gt.metaitem.01~32704ANDretrievalgregtech/gt.blockmachines~10021optional_retrievalgregtech/gt.blockcasings2~122itemharvestcraft/neapolitanicecreamItem~04enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01
+You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.ANDpreRequ940gregtech/gt.blockmachines~11721014gregtech/gt.metaitem.01~32704tasksANDretrievalgregtech/gt.blockmachines~10021optional_retrievalgregtech/gt.blockcasings2~122rewardsitemharvestcraft/neapolitanicecreamItem~04enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01

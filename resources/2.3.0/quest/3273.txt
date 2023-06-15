@@ -10,4 +10,4 @@
 
 §2Using the GUI, the player can go to the configuration menu. There they can change the trace size or add new parts to the multiblock. One can also change where they are placed around the multiblock.
 
-§3Make sure to set the configuration you want before using the structure lib blueprint for autobuild.AND2611gregtech/gt.metaitem.01~32656ANDretrievalgregtech/gt.blockmachines~3561retrievalgregtech/gt.blockcasings3~101itemgregtech/gt.metaitem.03~3210664gregtech/gt.metaitem.03~3210416gregtech/gt.metaitem.03~321058
+§3Make sure to set the configuration you want before using the structure lib blueprint for autobuild.ANDpreRequ2611gregtech/gt.metaitem.01~32656tasksANDretrievalgregtech/gt.blockmachines~3561retrievalgregtech/gt.blockcasings3~101rewardsitemgregtech/gt.metaitem.03~3210664gregtech/gt.metaitem.03~3210416gregtech/gt.metaitem.03~321058

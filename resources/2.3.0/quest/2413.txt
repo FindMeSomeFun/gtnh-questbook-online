@@ -1,3 +1,3 @@
 2413The Darkness of Choice for EdgelordsIn order to get to the riches you rightfully deserve, you'll first need to make a Raw Portal, then complete it with more materials. You can then access this dimension that should contain every ore imaginable...
 
-§3Unfortunately, those tasty ores are locked beneath the mantle of the planet. You'll need to use a Void Miner to get them out.AND3243gregtech/gt.metaitem.01~320183244dreamcraft/item.QuantumCircuit~0ANDretrievalgregtech/gt.blockreinforced~121retrievalExtraUtilities/dark_portal~01itemminecraft/paper~01
+§3Unfortunately, those tasty ores are locked beneath the mantle of the planet. You'll need to use a Void Miner to get them out.ANDpreRequ3243gregtech/gt.metaitem.01~320183244dreamcraft/item.QuantumCircuit~0tasksANDretrievalgregtech/gt.blockreinforced~121retrievalExtraUtilities/dark_portal~01rewardsitemminecraft/paper~01

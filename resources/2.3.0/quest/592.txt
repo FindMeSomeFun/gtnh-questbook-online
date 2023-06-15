@@ -10,4 +10,4 @@ Sending more power to the same gearbox doesn't work. If it can get to max RF cap
 
 In addition, you lose 2 EU from the the energy emitting device for every A of ULV (which is only 8 to begin with), so it's not nearly as efficient as using LV or higher. Just keep in mind that more A to more gearboxes is better than to the same one.
 
-Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.AND582Forestry/ffarm~0ANDoptional_retrievalgregtech/gt.metaitem.01~326001retrievalForestry/ffarm~22choiceForestry/thermionicTubes~24Forestry/thermionicTubes~04Forestry/thermionicTubes~14enhancedlootbags/lootbag~191itemdreamcraft/item.CoinFarmer~025
+Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.ANDpreRequ582Forestry/ffarm~0tasksANDoptional_retrievalgregtech/gt.metaitem.01~326001retrievalForestry/ffarm~22rewardschoiceForestry/thermionicTubes~24Forestry/thermionicTubes~04Forestry/thermionicTubes~14enhancedlootbags/lootbag~191itemdreamcraft/item.CoinFarmer~025

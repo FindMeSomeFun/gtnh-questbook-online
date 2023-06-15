@@ -8,4 +8,4 @@ Cultivated Bees produce Honey Combs every 0.9 minutes. Note that production time
 
 Make sure your cultivated bees are pure with a Beealyzer or GT scanner.
 
-The main bee breeding quests will require pure bees but you can use Ignoble or Pristine princesses.AND1117Forestry/beeQueenGE~0ANDoptional_retrievalForestry/beePrincessGE~01retrievalForestry/beeDroneGE~01itemenhancedlootbags/lootbag~251Forestry/honeyDrop~032Forestry/beeCombs~032itemdreamcraft/item.CoinBees~025
+The main bee breeding quests will require pure bees but you can use Ignoble or Pristine princesses.ANDpreRequ1117Forestry/beeQueenGE~0tasksANDoptional_retrievalForestry/beePrincessGE~01retrievalForestry/beeDroneGE~01rewardsitemenhancedlootbags/lootbag~251Forestry/honeyDrop~032Forestry/beeCombs~032itemdreamcraft/item.CoinBees~025

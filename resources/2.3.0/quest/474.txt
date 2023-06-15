@@ -2,4 +2,4 @@
 
 I have an idea; bring me some of the stone you mined with your flint pickaxe and I will give you a better tool head in exchange.
 
-§3Remember to level it up again!AND28ExtraUtilities/curtains~0472TConstruct/pickaxe~0ANDretrievalminecraft/cobblestone~0256itemTConstruct/pickaxeHead~21choiceenhancedlootbags/lootbag~11TConstruct/hatchetHead~21TConstruct/shovelHead~21
+§3Remember to level it up again!ANDpreRequ28ExtraUtilities/curtains~0472TConstruct/pickaxe~0tasksANDretrievalminecraft/cobblestone~0256rewardsitemTConstruct/pickaxeHead~21choiceenhancedlootbags/lootbag~11TConstruct/hatchetHead~21TConstruct/shovelHead~21

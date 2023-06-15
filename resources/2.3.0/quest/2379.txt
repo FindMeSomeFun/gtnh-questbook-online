@@ -12,4 +12,4 @@ Speed (Igneous Rock)
 Increases the speed of the Brewing Stand.
 
 Cost (Emerald)
-Reduces the cost of End Powder used in a brewing cycle.AND2354HardcoreEnderExpansion/enhanced_brewing_stand~0ANDretrievalHardcoreEnderExpansion/enhanced_brewing_stand~01retrievalminecraft/emerald~05itemHardcoreEnderExpansion/essence~032enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinSmithII~02HardcoreEnderExpansion/knowledge_note~02
+Reduces the cost of End Powder used in a brewing cycle.ANDpreRequ2354HardcoreEnderExpansion/enhanced_brewing_stand~0tasksANDretrievalHardcoreEnderExpansion/enhanced_brewing_stand~01retrievalminecraft/emerald~05rewardsitemHardcoreEnderExpansion/essence~032enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinSmithII~02HardcoreEnderExpansion/knowledge_note~02

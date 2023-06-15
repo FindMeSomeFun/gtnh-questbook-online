@@ -1,3 +1,3 @@
 29§2§lAnother Fuel SourceLignite and regular coal are the fuel sources you'll definitely need. The latter can be turned into coal coke, which is a superior fuel source to smelt your first large batch of ore.
 
-Lignite you can toss in a boiler once you have one.AND474TConstruct/pickaxe~0ANDretrievalgregtech/gt.metaitem.01~853816itemgregtech/gt.metaitem.02~322431itemdreamcraft/item.CoinAdventure~05
+Lignite you can toss in a boiler once you have one.ANDpreRequ474TConstruct/pickaxe~0tasksANDretrievalgregtech/gt.metaitem.01~853816rewardsitemgregtech/gt.metaitem.02~322431itemdreamcraft/item.CoinAdventure~05

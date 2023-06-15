@@ -13,4 +13,4 @@ Creeper=4
 Wither Skeleton=7
 Nether Star=8
 
-§3You can use paper binding to add extra modifier, but not very much important as tool level exists.AND33TConstruct/ToolStationBlock~1ANDoptional_retrievalTConstruct/blankPattern~04optional_retrievalTConstruct/woodPattern~31optional_retrievalminecraft/planks~01retrievalminecraft/stick~03retrievalTConstruct/shovel~01itemminecraft/flint~010TConstruct/blankPattern~02choiceenhancedlootbags/lootbag~11TConstruct/blankPattern~04itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010
+§3You can use paper binding to add extra modifier, but not very much important as tool level exists.ANDpreRequ33TConstruct/ToolStationBlock~1tasksANDoptional_retrievalTConstruct/blankPattern~04optional_retrievalTConstruct/woodPattern~31optional_retrievalminecraft/planks~01retrievalminecraft/stick~03retrievalTConstruct/shovel~01rewardsitemminecraft/flint~010TConstruct/blankPattern~02choiceenhancedlootbags/lootbag~11TConstruct/blankPattern~04itemdreamcraft/item.CoinSmith~010dreamcraft/item.CoinTechnician~010

@@ -17,4 +17,4 @@ O -> Overclocked Heat Vent (28 needed)
 R -> Quad Fuel Rod of Uranium (7 needed)
 P -> Reactor Plating (7 needed)
 
-When the fuel rods get repleted, you can reprocess them to get 3/4 of the U235 back, and also a bit of Plutonium.AND3168gregtech/gt.metaitem.01~2098ANDoptional_retrievalgregtech/gt.reactorUraniumQuad~07retrievalgregtech/gt.reactorUraniumQuad~01
+When the fuel rods get repleted, you can reprocess them to get 3/4 of the U235 back, and also a bit of Plutonium.ANDpreRequ3168gregtech/gt.metaitem.01~2098tasksANDoptional_retrievalgregtech/gt.reactorUraniumQuad~07retrievalgregtech/gt.reactorUraniumQuad~01rewards

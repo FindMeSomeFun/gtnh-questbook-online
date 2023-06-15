@@ -8,4 +8,4 @@ Also, if you haven't discovered it yet, Electric machines don't like getting rai
 
 Good luck.
 
-§3BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.AND13minecraft/bed~0ANDcheckboxdreamcraft/item.CoinTechnicianI~05itemminecraft/fireworks~01
+§3BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.ANDpreRequ13minecraft/bed~0tasksANDcheckboxdreamcraft/item.CoinTechnicianI~05rewardsitemminecraft/fireworks~01

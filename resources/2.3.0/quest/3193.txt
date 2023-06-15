@@ -6,4 +6,4 @@ Oganesson - from Calcium + Californium. This is the best noble gas of them all, 
 
 Americium - from Hydrogen + Plutonium 241. This is the cheaper Americium recipe that was promised to you in t2, and it no longer needs Lutetium. You should be able to get both of the inputs very easily, so enjoy your cheaper Americium!
 
-Neutronium - from Naquadria + Americium. Neutronium fusion? You probably won't need to use this, but it is a source other than ores that you can try.AND3190miscutils/particleIon~82ANDcheckboxgregtech/gt.blockmachines~9081
+Neutronium - from Naquadria + Americium. Neutronium fusion? You probably won't need to use this, but it is a source other than ores that you can try.ANDpreRequ3190miscutils/particleIon~82tasksANDcheckboxgregtech/gt.blockmachines~9081rewards

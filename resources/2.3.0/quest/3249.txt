@@ -4,4 +4,4 @@
 
 Compared to the previous plastics, most of the steps required here are not chemical reactions. They are also very slow, so you might want to use a mega multiblock to help with that. This production line also underlines the necessity of large-scale plasma production. You will only need more going forward.
 
-§3The Heavy Radox you get as a byproduct can be used for MkV Naquadah Fuel.AND2717bartworks/BioLabParts~0ANDretrievalgregtech/gt.metaitem.01~179791
+§3The Heavy Radox you get as a byproduct can be used for MkV Naquadah Fuel.ANDpreRequ2717bartworks/BioLabParts~0tasksANDretrievalgregtech/gt.metaitem.01~179791rewards

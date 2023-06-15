@@ -36,4 +36,4 @@ The lamps can be inverted.
 The dirt must be tilled.
 If you encounter any issue or have any suggestion please open an issue on github and ping §l@kuba6000§r.
 This MB was created to farm tea because I wanted to.
-AND213gregtech/gt.blockmachines~15ANDretrievalRandomThings/fertilizedDirt~08retrievalgregtech/gt.blockmachines~127921itemdreamcraft/item.CoinFarmerIII~010itemkubatech/kubaitems~31
+ANDpreRequ213gregtech/gt.blockmachines~15tasksANDretrievalRandomThings/fertilizedDirt~08retrievalgregtech/gt.blockmachines~127921rewardsitemdreamcraft/item.CoinFarmerIII~010itemkubatech/kubaitems~31

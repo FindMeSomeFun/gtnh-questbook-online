@@ -1,3 +1,3 @@
 2638Cheaper IV CircuitsThe Crystal SoC will allow you to make Crystalprocessors cheaper.
 
-Unfortunately, this is the last SoC.AND2628gregtech/gt.blockmachines~48ANDoptional_retrievalgregtech/gt.metaitem.01~2635864retrievalgregtech/gt.metaitem.03~3208916
+Unfortunately, this is the last SoC.ANDpreRequ2628gregtech/gt.blockmachines~48tasksANDoptional_retrievalgregtech/gt.metaitem.01~2635864retrievalgregtech/gt.metaitem.03~3208916rewards
