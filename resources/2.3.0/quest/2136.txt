@@ -1,3 +1,3 @@
 2136Energy AcceptorThe Energy Acceptor is an alternative place to inject energy into your AE2 network. You can form a "dumb" network with just an EA, but for real capability, you'll want a Controller.
 
-§3If you're making a subnet, just transfer power over with a Quartz Fiber.ANDpreRequ181appliedenergistics2/item.ItemMultiMaterial~7tasksANDretrievalappliedenergistics2/tile.BlockEnergyAcceptor~01rewardsitemappliedenergistics2/item.ItemMultiMaterial~72enhancedlootbags/lootbag~371
+§3If you're making a subnet, just transfer power over with a Quartz Fiber.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~7Quest Name For 181181rewardsItemenhancedlootbags/lootbag~37Item Name1tasksANDRetrievalappliedenergistics2/tile.BlockEnergyAcceptor~0appliedenergistics2/tile.BlockEnergyAcceptor~0 Name1

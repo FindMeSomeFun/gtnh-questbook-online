@@ -2,4 +2,4 @@
 
 §6§5The gloves have to be placed in the Baubles ring slots of Thaumcraft. You also have to place each in the correct slot, you'll get a notification if it's wrong.
 
-§rFor the protection effect, the hot item has to be in your active slot. I wonder if there is some way to carry more than a few buckets at a time?ANDpreRequ43Natura/barleyFood~3tasksANDoptional_retrievalharvestcraft/wovencottonItem~06craftingdreamcraft/item.OvenGlove~11rewardsitemIguanaTweaksTConstruct/clayBucketFired~02itemdreamcraft/item.CoinTechnician~010
+§rFor the protection effect, the hot item has to be in your active slot. I wonder if there is some way to carry more than a few buckets at a time?ANDpreRequNatura/barleyFood~3Quest Name For 4343rewardsItemIguanaTweaksTConstruct/clayBucketFired~0Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalharvestcraft/wovencottonItem~0harvestcraft/wovencottonItem~0 Name6Craftingdreamcraft/item.OvenGlove~1dreamcraft/item.OvenGlove~1 Name1

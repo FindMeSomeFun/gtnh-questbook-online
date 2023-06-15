@@ -11,4 +11,4 @@ Export: Send to attached tank.
 
 You can use multiple as inputs and/or outputs. It runs at 8000L/t.
 
-You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.ANDpreRequ1490gregtech/gt.metaitem.01~32695tasksANDretrievaltectech/item.tm.enderfluidlinkcover~02rewards
+You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.ANDpreRequgregtech/gt.metaitem.01~32695Quest Name For 14901490rewardstasksANDRetrievaltectech/item.tm.enderfluidlinkcover~0tectech/item.tm.enderfluidlinkcover~0 Name2

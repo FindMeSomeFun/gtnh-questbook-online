@@ -2,4 +2,4 @@
 
 You can put the lapis lazuli in more than one slot in the tool station, use blocks to raise the luck level faster, and even use lapis blocks in the crafting station with your tool for maximum luck gain.
 
-§3Since it only affects small ore it might not be worth it to you to use. Also, if you lack in lapis, you can put 1 point on, and then mine stuff, and it will sometimes gain more points, up to the 450 limit.ANDpreRequ867minecraft/lapis_block~0tasksANDretrievalminecraft/dye~464rewardsitemminecraft/golden_carrot~02harvestcraft/gingerbreadItem~04enhancedlootbags/lootbag~21itemdreamcraft/item.CoinTechnician~010
+§3Since it only affects small ore it might not be worth it to you to use. Also, if you lack in lapis, you can put 1 point on, and then mine stuff, and it will sometimes gain more points, up to the 450 limit.ANDpreRequminecraft/lapis_block~0Quest Name For 867867rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalminecraft/dye~4minecraft/dye~4 Name64

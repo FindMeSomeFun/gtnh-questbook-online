@@ -2,4 +2,4 @@
 
 To duplicate a Fortune III book you may need 40+ levels. Note that the wiki mentions black dye but only vanilla ink sacs will work.
 
-§3You'll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop.ANDpreRequ1867gregtech/gt.metaitem.01~32601tasksANDretrievalBiblioCraft/Printing Press~01rewardsitemminecraft/experience_bottle~08itemdreamcraft/item.CoinTechnicianII~01enhancedlootbags/lootbag~51
+§3You'll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop.ANDpreRequgregtech/gt.metaitem.01~32601Quest Name For 18671867rewardsItemminecraft/experience_bottle~0Item Name8Itemenhancedlootbags/lootbag~5Item Name1tasksANDRetrievalBiblioCraft/Printing Press~0BiblioCraft/Printing Press~0 Name1

@@ -6,4 +6,4 @@ It can scan machines from GregTech, giving information about current progress, t
 
 For any block in the game it scans, it gives information about its ID, Metadata, position in the world and hardness value. It also gives information about pollution level in the chunk the scanned block belongs to.
 
-In addition it shows when the cleanroom has reached its 100 percent efficieny level.ANDpreRequ77gregtech/gt.blockmachines~10001477gregtech/gt.metaitem.01~326911478gregtech/gt.metaitem.01~32681tasksANDretrievalgregtech/gt.metaitem.01~327621rewardschoiceenhancedlootbags/lootbag~51gregtech/gt.metaitem.01~327645itemdreamcraft/item.CoinTechnicianI~05
+In addition it shows when the cleanroom has reached its 100 percent efficieny level.ANDpreRequgregtech/gt.blockmachines~1000Quest Name For 7777gregtech/gt.metaitem.01~32691Quest Name For 14771477gregtech/gt.metaitem.01~32681Quest Name For 14781478rewardsChoicegregtech/gt.metaitem.01~32764Choice Name5Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~32762gregtech/gt.metaitem.01~32762 Name1

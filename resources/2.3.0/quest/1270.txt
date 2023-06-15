@@ -8,4 +8,4 @@ Keep in mind that the higher the tier/stats of the crop, the lower the chances. 
 
 §3The formula is 1+tanh((-1)(X+5((-Re/2)+Gr+Ga)/21)/12); X=0 to 16
 
-Where Re, Gr, Ga are respectively Resistance, Growth and Gain stat of the crop, and X is tier. Don't ask me whether this is for L/R-click, ask bart or look at the code.ANDpreRequ724IC2/itemWeed~01081gregtech/gt.blockmachines~222tasksANDretrievalberriespp/itemSpade~01rewardschoiceIC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01IC2/itemCropSeed~01
+Where Re, Gr, Ga are respectively Resistance, Growth and Gain stat of the crop, and X is tier. Don't ask me whether this is for L/R-click, ask bart or look at the code.ANDpreRequIC2/itemWeed~0Quest Name For 724724gregtech/gt.blockmachines~222Quest Name For 10811081rewardsChoiceIC2/itemCropSeed~0Choice Name1tasksANDRetrievalberriespp/itemSpade~0berriespp/itemSpade~0 Name1

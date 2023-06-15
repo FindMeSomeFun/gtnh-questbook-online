@@ -1,4 +1,4 @@
 826§2§lIron OreWith iron tools, you are able to mine most of the Overworld ores. You've probably already found iron or magnetite, given how common it is. So bring me some ores and make some iron ingots out of them.
 
 §4Hint:
-To see where an ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.ANDpreRequ474TConstruct/pickaxe~0tasksANDretrievalgregtech/gt.blockores~93016rewardschoiceTConstruct/oreBerries~05minecraft/lava_bucket~01enhancedlootbags/lootbag~11itemdreamcraft/item.CoinAdventure~05
+To see where an ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.ANDpreRequTConstruct/pickaxe~0Quest Name For 474474rewardsChoiceenhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name5tasksANDRetrievalgregtech/gt.blockores~930gregtech/gt.blockores~930 Name16

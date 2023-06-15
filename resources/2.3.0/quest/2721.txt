@@ -7,4 +7,4 @@ Cactus Charcoal (400BT) + 500t -> Cactus Coke (800BT) +30l Cr
 Sugar Cane (50BT) + 500t -> Sugar Charcoal (400BT) +30l Cr
 Sugar Charcoal (400BT) + 500t -> Sugar Coke (800BT) +30l Cr
 
-You'll want Coke for making steel in your BBF later on. Though you can still use charcoal if you want.ANDpreRequ27minecraft/coal~1tasksANDretrievalminecraft/reeds~08retrievalmiscutils/itemSugarCharcoal~08retrievalmiscutils/itemSugarCoke~08rewardsitemmiscutils/itemCactusCoke~04miscutils/itemSugarCoke~04enhancedlootbags/lootbag~11itemdreamcraft/item.CoinFarmer~05
+You'll want Coke for making steel in your BBF later on. Though you can still use charcoal if you want.ANDpreRequminecraft/coal~1Quest Name For 2727rewardsItemenhancedlootbags/lootbag~1Item Name1Itemdreamcraft/item.CoinFarmer~0Item Name5tasksANDRetrievalminecraft/reeds~0minecraft/reeds~0 Name8Retrievalmiscutils/itemSugarCharcoal~0miscutils/itemSugarCharcoal~0 Name8Retrievalmiscutils/itemSugarCoke~0miscutils/itemSugarCoke~0 Name8

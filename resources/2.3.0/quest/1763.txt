@@ -7,4 +7,4 @@ Now go down another line and type in 'mount HDD C:' because why not, it's Classi
 You'll now start in C:/ nifty! Try typing 'mkdir programs' and now you have a dedicated directory to put your programs in for the sake of organization.
 'cd programs' will then take you to programs, and 'cd ../' will take you back a directory; you can also do things like, lets say you have a folder called apples in C as well but you're in apples, type 'cd ../apples' and it'll take you to apples. '..' essentially just means previous directory and this can be stacked; works with copying files and moving them as well, very useful to know.  
 
-But right now we're going to do something functional, come over to the next quest and bring your adapter and cables.ANDpreRequ1761gregtech/gt.metaitem.02~32000tasksANDretrievalOpenComputers/cable~3276716rewards
+But right now we're going to do something functional, come over to the next quest and bring your adapter and cables.ANDpreRequgregtech/gt.metaitem.02~32000Quest Name For 17611761rewardstasksANDRetrievalOpenComputers/cable~32767OpenComputers/cable~32767 Name16

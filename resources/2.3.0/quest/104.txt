@@ -1,3 +1,3 @@
 104§5§lYour Magic ProgressionNow that you're able to produce Aluminium, you may dig into magic. If you haven't unlocked basic thaumaturgy, try to find a Silverwood and a Greatwood sapling.
 
-There is a coin quest that lets you purchase these saplings. If you haven't found any yet, go check it out!ANDpreRequ103gregtech/gt.metaitem.01~11019tasksANDcheckboxdreamcraft/item.CoinTechnicianI~03rewards
+There is a coin quest that lets you purchase these saplings. If you haven't found any yet, go check it out!ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103rewardstasksANDCheckboxcheckbox  

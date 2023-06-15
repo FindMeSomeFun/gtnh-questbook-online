@@ -2,4 +2,4 @@
 
 There's lots more to understand about AE2, but you should probably either experiment, read the quests, or watch a video for more than the basics.
 
-Also keep in mind that EC2 is kinda completely broken in regards to fluids, so maybe avoid that. (The questmaker is sad :()ANDpreRequ2755appliedenergistics2/tile.BlockCraftingStorage~0tasksANDretrievalappliedenergistics2/item.ToolMemoryCard~01rewards
+Also keep in mind that EC2 is kinda completely broken in regards to fluids, so maybe avoid that. (The questmaker is sad :()ANDpreRequappliedenergistics2/tile.BlockCraftingStorage~0Quest Name For 27552755rewardstasksANDRetrievalappliedenergistics2/item.ToolMemoryCard~0appliedenergistics2/item.ToolMemoryCard~0 Name1

@@ -6,4 +6,4 @@ For hatches, you can choose your own tier. 1 MV energy does most of the useful r
 
 You will need 1 input hatch, and at least 5 output hatches. An output bus will capture any solid outputs.
 
-§3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpreRequ160gregtech/gt.blockmachines~13tasksANDoptional_retrievalgregtech/gt.blockmachines~901retrievalgregtech/gt.blockmachines~11261rewardschoicegregtech/gt.metaitem.01~3074116gregtech/gt.metaitem.01~3074032enhancedlootbags/lootbag~62itemdreamcraft/item.CoinTechnicianII~02
+§3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsChoiceenhancedlootbags/lootbag~6Choice Name2Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.blockmachines~90gregtech/gt.blockmachines~90 Name1Retrievalgregtech/gt.blockmachines~1126gregtech/gt.blockmachines~1126 Name1

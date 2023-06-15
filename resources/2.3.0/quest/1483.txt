@@ -3,4 +3,4 @@
 After you've mastered the flowing spirit in the dream dimension (witchery), put a bit of flour, sugar, salis mundus and draconium dust in your IV Mixer. 
 The recipe starts when you give flowing spirit to it and gives you malformed slush, a very stinky and disgusting piece of...something. 
 
-Be careful, you'll get blindness II when holding it in your hand.ANDpreRequ1410gregtech/gt.blockmachines~5851584witchery/ingredient~96tasksANDoptional_retrievalwitchery/bucketspirit~02retrievaldreamcraft/item.MalformedSlush~02rewardschoicewitchery/bucketspirit~01enhancedlootbags/lootbag~81itemdreamcraft/item.CoinTechnicianII~02dreamcraft/item.CoinCookII~02dreamcraft/item.CoinChemistII~02
+Be careful, you'll get blindness II when holding it in your hand.ANDpreRequgregtech/gt.blockmachines~585Quest Name For 14101410witchery/ingredient~96Quest Name For 15841584rewardsChoiceenhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinChemistII~0Item Name2tasksANDOptionalwitchery/bucketspirit~0witchery/bucketspirit~0 Name2Retrievaldreamcraft/item.MalformedSlush~0dreamcraft/item.MalformedSlush~0 Name2

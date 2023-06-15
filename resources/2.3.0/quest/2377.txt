@@ -3,4 +3,4 @@
 Obtaining:
 The Purity Potion is brewed in an Enhanced Brewing Stand, using Ectoplasm as the brewing ingredient and an Awkward Potion.
 
-You can make splash potions with gunpowder and 3 more End Powder as well.ANDpreRequ2376HardcoreEnderExpansion/curse~0tasksANDoptional_retrievalHardcoreEnderExpansion/end_powder~024retrievalHardcoreEnderExpansion/potion_of_purity~03rewardsitemHardcoreEnderExpansion/endoplasm~04enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~03dreamcraft/item.CoinChemistII~03
+You can make splash potions with gunpowder and 3 more End Powder as well.ANDpreRequHardcoreEnderExpansion/curse~0Quest Name For 23762376rewardsItemenhancedlootbags/lootbag~58Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name3tasksANDOptionalHardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name24RetrievalHardcoreEnderExpansion/potion_of_purity~0HardcoreEnderExpansion/potion_of_purity~0 Name3

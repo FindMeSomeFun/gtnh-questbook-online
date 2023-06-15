@@ -4,4 +4,4 @@ It can't be overclocked by increasing the input voltage. The only way to overclo
 
 It also supports §9Tec§1Tech§r's Multi-Amp energy hatches and laser hatches.
 
-Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.ANDpreRequ2948gregtech/gt.blockmachines~12732tasksANDoptional_retrievalGoodGenerator/fieldRestrictingGlass~08retrievalgregtech/gt.blockmachines~169991rewardsitembartworks/gt.bwMetaGeneratedcell~100461
+Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.ANDpreRequgregtech/gt.blockmachines~12732Quest Name For 29482948rewardsItembartworks/gt.bwMetaGeneratedcell~10046Item Name1tasksANDOptionalGoodGenerator/fieldRestrictingGlass~0GoodGenerator/fieldRestrictingGlass~0 Name8Retrievalgregtech/gt.blockmachines~16999gregtech/gt.blockmachines~16999 Name1

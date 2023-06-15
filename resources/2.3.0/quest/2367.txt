@@ -11,4 +11,4 @@ The Void rune is less common than other types.
 
 Runes are used to create Charms, and are crafted in a Charm Pouch.
 
-Basic Runes increase attributes, such as strength, speed or health. Void Rune (gray) gives the Louse one of special and extremely dangerous abilities.ANDpreRequ2359HardcoreEnderExpansion/endoplasm~0tasksANDretrievalHardcoreEnderExpansion/rune~51rewardschoiceHardcoreEnderExpansion/rune~01HardcoreEnderExpansion/rune~21HardcoreEnderExpansion/rune~41HardcoreEnderExpansion/rune~31HardcoreEnderExpansion/rune~51HardcoreEnderExpansion/rune~11enhancedlootbags/lootbag~581itemdreamcraft/item.CoinSurvivorII~02dreamcraft/item.CoinAdventureII~02dreamcraft/item.CoinDarkWizardII~02
+Basic Runes increase attributes, such as strength, speed or health. Void Rune (gray) gives the Louse one of special and extremely dangerous abilities.ANDpreRequHardcoreEnderExpansion/endoplasm~0Quest Name For 23592359rewardsChoiceenhancedlootbags/lootbag~58Choice Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalHardcoreEnderExpansion/rune~5HardcoreEnderExpansion/rune~5 Name1

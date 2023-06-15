@@ -2,4 +2,4 @@
 
 Additionally, Diesel can be used as fuel for the Copterpack, a good jetpack that makes it much easier to move around, inside and outside of your base. It's heavily recommended that you make one, if you have Diesel.
 
-§3This will also unlock new quests in the Armors and Jetpacks tab.ANDpreRequ896gregtech/gt.metaitem.01~32641tasksANDretrievalgregtech/gt.blockmachines~11111rewardsitemgregtech/gt.metaitem.01~3070732gregtech/gt.metaitem.01~3070816gregtech/gt.metaitem.01~307098itemdreamcraft/item.CoinTechnicianI~05
+§3This will also unlock new quests in the Armors and Jetpacks tab.ANDpreRequgregtech/gt.metaitem.01~32641Quest Name For 896896rewardsItemgregtech/gt.metaitem.01~30709Item Name8Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~1111gregtech/gt.blockmachines~1111 Name1

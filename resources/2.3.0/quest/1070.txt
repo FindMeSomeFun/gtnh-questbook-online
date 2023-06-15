@@ -2,4 +2,4 @@
 
 First, go find some Raven feathers. You can get them by killing Ravens. They like to hang out near the obsidian pillars.
 
-Then you need some Torchberries (found underground) and some Glowstone dust.ANDpreRequ225minecraft/end_portal~0tasksANDoptional_retrievalminecraft/glowstone_dust~01retrievalTwilightForest/item.magicMapFocus~01rewardsitemdreamcraft/item.CoinDarkWizard~025dreamcraft/item.CoinAdventure~025
+Then you need some Torchberries (found underground) and some Glowstone dust.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemdreamcraft/item.CoinAdventure~0Item Name25tasksANDOptionalminecraft/glowstone_dust~0minecraft/glowstone_dust~0 Name1RetrievalTwilightForest/item.magicMapFocus~0TwilightForest/item.magicMapFocus~0 Name1

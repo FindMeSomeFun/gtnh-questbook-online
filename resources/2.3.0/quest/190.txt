@@ -4,4 +4,4 @@ If you want to know how they work, refer to The Internet or the Reactor Planner 
 
 Note: The EU multiplier is set to 10x in this pack. That means your nuclear reactor is 10 times more efficient. Make sure to set the planner to GTNH mode under advanced. Also, the base numbers (before 10xing) can be seen on the hover text for all the components.
 
-If you just want to use them, go to https://gtnh.miraheze.org/wiki/Nuclear_Reactors for reactor designs. The Thorium 1920 EU one is probably best for now.ANDpreRequ176gregtech/gt.blockmachines~14tasksANDretrievalIC2/itemFuelRod~04rewardsitemIC2NuclearControl/blockNuclearControlMain~01itemdreamcraft/item.CoinTechnicianII~02
+If you just want to use them, go to https://gtnh.miraheze.org/wiki/Nuclear_Reactors for reactor designs. The Thorium 1920 EU one is probably best for now.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsItemIC2NuclearControl/blockNuclearControlMain~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalIC2/itemFuelRod~0IC2/itemFuelRod~0 Name4

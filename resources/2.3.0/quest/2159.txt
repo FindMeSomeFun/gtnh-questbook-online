@@ -18,4 +18,4 @@ Change Show:Hidden to Show:Normal.
 To reduce waste in the questbook file ideally you should also go into the advanced options, then press ... for the icon, and remove unnecessary NBT there as well. Just leave the species as above.
 
 
-§3You can change the visibility of requirements by pressing the eye symbol in the requirements menu.ANDpreRequ3247minecraft/nether_star~0tasksANDretrievalminecraft/stone~01rewardsitemenhancedlootbags/lootbag~251
+§3You can change the visibility of requirements by pressing the eye symbol in the requirements menu.ANDpreRequminecraft/nether_star~0Quest Name For 32473247rewardsItemenhancedlootbags/lootbag~25Item Name1tasksANDRetrievalminecraft/stone~0minecraft/stone~0 Name1

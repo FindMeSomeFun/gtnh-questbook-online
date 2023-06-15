@@ -4,4 +4,4 @@ For example, Redwheat has "Red", "Wheat" and "Redstone" attributes and is tier 6
 
 You'll also want to make sure the light level is between 5-10 for this particular cross breeding to occur. Honestly, it's the worst, condition-wise.
 
-Really though, once you get to MV it's better to make a Glowstone crop and centrifuge it for redstone. Or a redstone block crop. Or just mine it, honestly. Red wheat == Dead wheat.ANDpreRequ1288IC2/itemHops~0tasksANDretrievalIC2/itemCropSeed~02retrievalIC2/itemCropSeed~01rewardsitemdreamcraft/item.CoinFarmerII~01enhancedlootbags/lootbag~511
+Really though, once you get to MV it's better to make a Glowstone crop and centrifuge it for redstone. Or a redstone block crop. Or just mine it, honestly. Red wheat == Dead wheat.ANDpreRequIC2/itemHops~0Quest Name For 12881288rewardsItemenhancedlootbags/lootbag~51Item Name1tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name2RetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name1

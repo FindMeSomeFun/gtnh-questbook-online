@@ -3,4 +3,4 @@ First, place something that is already scanned in the device, along with a blank
 
 §4There isn't a way to have the system craft essentia on demand for a craft unfortunately.§r
 
-ANDpreRequ2512thaumicenergistics/material~0tasksANDretrievalthaumicenergistics/thaumicenergistics.block.distillation.encoder~01rewardsitemenhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02dreamcraft/item.CoinDarkWizardII~02
+ANDpreRequthaumicenergistics/material~0Quest Name For 25122512rewardsItemenhancedlootbags/lootbag~38Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.distillation.encoder~0thaumicenergistics/thaumicenergistics.block.distillation.encoder~0 Name1

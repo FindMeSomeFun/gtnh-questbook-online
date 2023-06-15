@@ -2,4 +2,4 @@
 
 Some cooked meat, potato cakes, toast, fried egg and a tasty juice provide you with a very nourishing meal.
 
-You can use any cooked meat and any fruit juice here.ANDpreRequ638harvestcraft/toastItem~01086harvestcraft/strawberryjuiceItem~01087harvestcraft/potatocakesItem~01088harvestcraft/friedeggItem~0tasksANDoptional_retrievalharvestcraft/applejuiceItem~01retrievalharvestcraft/heartybreakfastItem~01rewardschoiceharvestcraft/friedeggItem~04harvestcraft/potatocakesItem~04harvestcraft/toastItem~04enhancedlootbags/lootbag~291itemdreamcraft/item.CoinCook~050
+You can use any cooked meat and any fruit juice here.ANDpreRequharvestcraft/toastItem~0Quest Name For 638638harvestcraft/strawberryjuiceItem~0Quest Name For 10861086harvestcraft/potatocakesItem~0Quest Name For 10871087harvestcraft/friedeggItem~0Quest Name For 10881088rewardsChoiceenhancedlootbags/lootbag~29Choice Name1Itemdreamcraft/item.CoinCook~0Item Name50tasksANDOptionalharvestcraft/applejuiceItem~0harvestcraft/applejuiceItem~0 Name1Retrievalharvestcraft/heartybreakfastItem~0harvestcraft/heartybreakfastItem~0 Name1

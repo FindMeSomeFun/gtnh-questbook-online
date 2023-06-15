@@ -2,4 +2,4 @@
 
 You can run the Metallic Sludge through a centrifuge to get nickel and copper, while the Calcium Chloride needs to be solidified in a fluid solidifier before it can be electrolyzed for calcium and chlorine.
 
-BTW, this step is only EV, the only part that is, so you could do it earlier if you really wanted to.ANDpreRequ2319bartworks/gt.bwMetaGenerateddust~76tasksANDoptional_retrievalgregtech/gt.metaitem.01~20263retrievalbartworks/gt.bwMetaGeneratedcell~633rewardsitemgregtech/gt.metaitem.01~20841
+BTW, this step is only EV, the only part that is, so you could do it earlier if you really wanted to.ANDpreRequbartworks/gt.bwMetaGenerateddust~76Quest Name For 23192319rewardsItemgregtech/gt.metaitem.01~2084Item Name1tasksANDOptionalgregtech/gt.metaitem.01~2026gregtech/gt.metaitem.01~2026 Name3Retrievalbartworks/gt.bwMetaGeneratedcell~63bartworks/gt.bwMetaGeneratedcell~63 Name3

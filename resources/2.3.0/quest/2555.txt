@@ -119,4 +119,4 @@ Molten Tin 15 400
 Tau Ceti E
 Distilled Water 100 10000
 Hydrogen 50 700
-Very Heavy Oil 100 200ANDpreRequ765gregtech/gt.blockmachines~1157tasksANDcheckboxdreamcraft/item.RuneOfVoidFragment~01rewards
+Very Heavy Oil 100 200ANDpreRequgregtech/gt.blockmachines~1157Quest Name For 765765rewardstasksANDCheckboxcheckbox  

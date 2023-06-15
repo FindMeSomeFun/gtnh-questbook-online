@@ -5,4 +5,4 @@ Oil @30RF/t for a total of 150K
 Ethanol @40RF/t for a total of 360K
 Diesel @60RF/t for a total of 1,500K
 
-§3Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpreRequ577Forestry/sturdyMachine~0tasksANDoptional_retrievalminecraft/piston~01retrievalBuildCraftCore/engineBlock~21rewardsitemIC2/itemCellEmpty~116choicegregtech/gt.metaitem.01~3070716gregtech/gt.metaitem.01~307068gregtech/gt.metaitem.01~307084itemdreamcraft/item.CoinTechnician~015dreamcraft/item.CoinForestry~015
+§3Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpreRequForestry/sturdyMachine~0Quest Name For 577577rewardsItemIC2/itemCellEmpty~1Item Name16Choicegregtech/gt.metaitem.01~30708Choice Name4Itemdreamcraft/item.CoinForestry~0Item Name15tasksANDOptionalminecraft/piston~0minecraft/piston~0 Name1RetrievalBuildCraftCore/engineBlock~2BuildCraftCore/engineBlock~2 Name1

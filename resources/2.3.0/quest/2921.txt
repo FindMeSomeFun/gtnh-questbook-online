@@ -1,3 +1,3 @@
 2921§c§lEther Strike!The naquadah is so inert that most acids won't react with it, so you need a more powerful kind of acid to dissolve it.
 
-Let's prepare some necessary organic solvent to make the acid.ANDpreRequ1493gregtech/gt.blockmachines~16tasksANDretrievalbartworks/gt.bwMetaGeneratedcell~100291rewardsitemdreamcraft/item.CoinChemistIII~01choicegregtech/gt.metaitem.01~307202gregtech/gt.metaitem.01~307062
+Let's prepare some necessary organic solvent to make the acid.ANDpreRequgregtech/gt.blockmachines~16Quest Name For 14931493rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1Choicegregtech/gt.metaitem.01~30706Choice Name2tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell~10029bartworks/gt.bwMetaGeneratedcell~10029 Name1

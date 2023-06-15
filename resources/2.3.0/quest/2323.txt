@@ -1,3 +1,3 @@
 2323§a§b§lBut.. This is Expensive!Gathering Zinc might not have been a pleasant task in the past, but here, it's just used as a catalyst, so you will regain all of it.
 
-When you electrolyze the Zinc Sulfate, you get a Sulfur and 4000L Oxygen back too.ANDpreRequ2322bartworks/gt.bwMetaGeneratedcell~62tasksANDoptional_retrievalgregtech/gt.metaitem.01~20361retrievalbartworks/gt.bwMetaGenerateddust~846rewardschoicedreamcraft/item.CoinChemistIII~01enhancedlootbags/lootbag~81
+When you electrolyze the Zinc Sulfate, you get a Sulfur and 4000L Oxygen back too.ANDpreRequbartworks/gt.bwMetaGeneratedcell~62Quest Name For 23222322rewardsChoiceenhancedlootbags/lootbag~8Choice Name1tasksANDOptionalgregtech/gt.metaitem.01~2036gregtech/gt.metaitem.01~2036 Name1Retrievalbartworks/gt.bwMetaGenerateddust~84bartworks/gt.bwMetaGenerateddust~84 Name6

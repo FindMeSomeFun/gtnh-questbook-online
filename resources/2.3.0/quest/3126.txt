@@ -2,4 +2,4 @@
 
 Unlike in the other steps, you can probably get away with batch crafting this instead of automating it, and still have consistent power from this fuel line. One stack of this dust is enough to make more than 100 million EU's worth of power, as long as the other fluids are automated. Given that, you can forget about it for a long time, but not forever. If you choose to not automate it yet, make sure you check it from time to time.
 
-(This can be automated from Salt Water, which can be automated from Tearstalks, a specific IC2 crop. You get Chlorine and Hydrogen as well.)ANDpreRequ3099gregtech/gt.metaitem.02~32557tasksANDretrievalgregtech/gt.metaitem.01~268516rewardsitemenhancedlootbags/lootbag~51dreamcraft/item.CoinChemistI~01
+(This can be automated from Salt Water, which can be automated from Tearstalks, a specific IC2 crop. You get Chlorine and Hydrogen as well.)ANDpreRequgregtech/gt.metaitem.02~32557Quest Name For 30993099rewardsItemdreamcraft/item.CoinChemistI~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~2685gregtech/gt.metaitem.01~2685 Name16

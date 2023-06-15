@@ -1,1 +1,1 @@
-3215Trigger: SMD Transistor SkipNo DescriptionANDpreRequ1148gregtech/gt.blockmachines~12tasksANDretrievalgregtech/gt.metaitem.03~3201816rewardsquestcompletiongregtech/gt.metaitem.01~32717785
+3215Trigger: SMD Transistor SkipNo DescriptionANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsQuestcompletionirontank/ironTank~0Quest Name785tasksANDRetrievalgregtech/gt.metaitem.03~32018gregtech/gt.metaitem.03~32018 Name16

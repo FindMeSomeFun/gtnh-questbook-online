@@ -8,4 +8,4 @@ Earth: 1 more row of item slots
 Fire: Attacks hostile mobs, setting them on fire
 Water: Nearly invulnerable. In SMP, can only be opened or picked up by player who placed it.
 Entropy: Sucks in loose items nearby if it has room
-Order: Can be picked up with its contents, and nested in other inventories. Don't be stupid about this.ANDpreRequ292Thaumcraft/ItemGolemPlacer~1tasksANDretrievalThaumcraft/TrunkSpawner~01rewardsitemThaumcraft/ItemLootBag~11enhancedlootbags/lootbag~101choiceThaumcraft/ItemGolemUpgrade~01Thaumcraft/ItemGolemUpgrade~11Thaumcraft/ItemGolemUpgrade~21Thaumcraft/ItemGolemUpgrade~31Thaumcraft/ItemGolemUpgrade~41Thaumcraft/ItemGolemUpgrade~51
+Order: Can be picked up with its contents, and nested in other inventories. Don't be stupid about this.ANDpreRequThaumcraft/ItemGolemPlacer~1Quest Name For 292292rewardsItemenhancedlootbags/lootbag~10Item Name1ChoiceThaumcraft/ItemGolemUpgrade~5Choice Name1tasksANDRetrievalThaumcraft/TrunkSpawner~0Thaumcraft/TrunkSpawner~0 Name1

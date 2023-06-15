@@ -4,4 +4,4 @@ You can also use it to upgrade tools with 8 modifiers at a time. Very handy for 
 
 When it's placed next to a vanilla chest, it will even show the chest's inventory in the crafting window. Single or double vanilla chests only please.
 
-Cut it again for a sleek, low profile version.ANDpreRequ36gregtech/gt.metatool.01~16tasksANDretrievalTConstruct/CraftingStation~01rewardsitemdreamcraft/item.CoinSmith~010itemharvestcraft/plumjellysandwichItem~04
+Cut it again for a sleek, low profile version.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsItemdreamcraft/item.CoinSmith~0Item Name10Itemharvestcraft/plumjellysandwichItem~0Item Name4tasksANDRetrievalTConstruct/CraftingStation~0TConstruct/CraftingStation~0 Name1

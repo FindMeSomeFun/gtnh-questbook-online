@@ -1,3 +1,3 @@
 1143HV Battery HullsBetter machines need better batteries. Let's make some HV battery hulls for new batteries.
 
-It's up to you what kind of battery to make, but realistically you'll probably make Sodium or Lithium.ANDpreRequ160gregtech/gt.blockmachines~13tasksANDretrievalgregtech/gt.metaitem.01~325024rewardsitemenhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianI~05
+It's up to you what kind of battery to make, but realistically you'll probably make Sodium or Lithium.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~32502gregtech/gt.metaitem.01~32502 Name4

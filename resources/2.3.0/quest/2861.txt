@@ -7,4 +7,4 @@ Obsidian: Either of the above, and redstone in the machine.
 You of course need to power it. If you don't want to spend power on cobble, do it the ExU way with the WIU.
 
 §3You need to toggle the ghost circuit to circuit 1 to get obsidian.
-ANDpreRequ95gregtech/gt.metaitem.01~32640tasksANDretrievalgregtech/gt.blockmachines~4411rewardsitemminecraft/water_bucket~01minecraft/lava_bucket~01enhancedlootbags/lootbag~41choiceminecraft/cobblestone~04096minecraft/stone~0256minecraft/obsidian~016itemdreamcraft/item.CoinTechnician~015
+ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemenhancedlootbags/lootbag~4Item Name1Choiceminecraft/obsidian~0Choice Name16Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~441gregtech/gt.blockmachines~441 Name1

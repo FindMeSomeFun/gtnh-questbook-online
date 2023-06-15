@@ -4,4 +4,4 @@ Filling a chalice with redstone soup will increase its magical affinity and upgr
 
 Drinking redstone soup will boost the health of the drinker for a few minutes.
 
-Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.ANDpreRequ339witchery/chalkritual~01571witchery/distilleryidle~0tasksANDoptional_retrievalwitchery/ingredient~241retrievalwitchery/ingredient~401rewardschoicewitchery/ingredient~391witchery/ingredient~252enhancedlootbags/lootbag~541itemdreamcraft/item.CoinCookII~01dreamcraft/item.CoinChemistII~01dreamcraft/item.CoinWitchII~01
+Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.ANDpreRequwitchery/chalkritual~0Quest Name For 339339witchery/distilleryidle~0Quest Name For 15711571rewardsChoiceenhancedlootbags/lootbag~54Choice Name1Itemdreamcraft/item.CoinWitchII~0Item Name1tasksANDOptionalwitchery/ingredient~24witchery/ingredient~24 Name1Retrievalwitchery/ingredient~40witchery/ingredient~40 Name1

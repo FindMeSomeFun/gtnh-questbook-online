@@ -2,4 +2,4 @@
 
 To automate the farm, place a string next to the cactus and a sand on top of the string. Now when the cactus grows, it will automatically break!  You can stack this horizontally and vertically to make a very efficient cactus farm.  Use water to redirect the cactus to a convenient pickup location or to above a hopper.
 
-First player to make a base running off of only cactus water gets a cape!ANDpreRequ23IguanaTweaksTConstruct/clayBucketUnfired~0tasksANDretrievalminecraft/log~010rewardsitemminecraft/cactus~03
+First player to make a base running off of only cactus water gets a cape!ANDpreRequIguanaTweaksTConstruct/clayBucketUnfired~0Quest Name For 2323rewardsItemminecraft/cactus~0Item Name3tasksANDRetrievalminecraft/log~0minecraft/log~0 Name10

@@ -2,4 +2,4 @@
 
 To start, LV is the tier of Light Fuel. It is worth much more than the Oil itself for generating power, so you should distill and dessulfurize the Oil to get clean Light Fuel and use it for power. It's a great way to run your base, and can be upgraded further in the next tiers. Check the "Working with Oil" tab for more information, once you've made a Pump and found some Oil.
 
-§3If you're dealing with Oil processing, this is the type of generator you'll use the most.§rANDpreRequ95gregtech/gt.metaitem.01~32640tasksANDretrievalgregtech/gt.blockmachines~11101rewardsitemgregtech/gt.metaitem.01~307078gregtech/gt.metaitem.01~307084gregtech/gt.metaitem.01~307092itemdreamcraft/item.CoinTechnician~015
+§3If you're dealing with Oil processing, this is the type of generator you'll use the most.§rANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemgregtech/gt.metaitem.01~30709Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~1110gregtech/gt.blockmachines~1110 Name1

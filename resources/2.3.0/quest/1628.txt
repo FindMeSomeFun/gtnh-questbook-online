@@ -2,4 +2,4 @@
 
 It seems to have some bugs though, so don't craft more than one without testing it first.
 
-You might have to just use a normal item responder and add the items you want routed back to your overflow spot.ANDpreRequ1626ProjRedCore/projectred.core.part~44tasksANDretrievalProjRedTransportation/projectred.transportation.routingchip~21rewardschoiceProjRedCore/projectred.core.part~02IC2/itemPartCircuit~01gregtech/gt.blockmachines~20008ProjRedCore/projectred.core.part~441enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~015itemProjRedTransportation/projectred.transportation.routingchip~01
+You might have to just use a normal item responder and add the items you want routed back to your overflow spot.ANDpreRequProjRedCore/projectred.core.part~44Quest Name For 16261626rewardsChoiceenhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15ItemProjRedTransportation/projectred.transportation.routingchip~0Item Name1tasksANDRetrievalProjRedTransportation/projectred.transportation.routingchip~2ProjRedTransportation/projectred.transportation.routingchip~2 Name1

@@ -2,4 +2,4 @@
 
 Go and get a few trees like Bloodwood, Fusewood, Darkwood or Ghostwood out of the Nether.
 
-These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.ANDpreRequ496IC2/itemDust~13tasksANDretrievalNatura/tree~28retrievalNatura/florasapling~54retrievalNatura/Natura.netherfood~01retrievalNatura/florasapling~74rewardschoiceenhancedlootbags/lootbag~21EnderIO/itemAlloy~64itemdreamcraft/item.CoinTechnician~025dreamcraft/item.CoinAdventure~025
+These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.ANDpreRequIC2/itemDust~13Quest Name For 496496rewardsChoiceEnderIO/itemAlloy~6Choice Name4Itemdreamcraft/item.CoinAdventure~0Item Name25tasksANDRetrievalNatura/tree~2Natura/tree~2 Name8RetrievalNatura/florasapling~5Natura/florasapling~5 Name4RetrievalNatura/Natura.netherfood~0Natura/Natura.netherfood~0 Name1RetrievalNatura/florasapling~7Natura/florasapling~7 Name4

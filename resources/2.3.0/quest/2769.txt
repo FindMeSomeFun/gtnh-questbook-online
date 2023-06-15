@@ -30,4 +30,4 @@ Nutrients and Humidity are mostly about the right biome, with swamp and rainfore
 §aGrowability§r:
 Your crop will require a certain level of NHA, try to reach or surpass this, or the crop will either not grow, or even die (disappear). Each crop is different, and higher tiers (and stats) require more. It's generally easy to meet though, as long as you're in a good biome.
 
-Growability is determined by the difference between what the crop needs in terms of NHA, and what it actually has. If you have more than what you need it grows faster. This is why you don't want a maxed resistance stat, since higher stats will slow it down.ANDpreRequ1794gregtech/gt.metaitem.01~32762tasksANDcheckboxgendustry/Waste~064rewards
+Growability is determined by the difference between what the crop needs in terms of NHA, and what it actually has. If you have more than what you need it grows faster. This is why you don't want a maxed resistance stat, since higher stats will slow it down.ANDpreRequgregtech/gt.metaitem.01~32762Quest Name For 17941794rewardstasksANDCheckboxcheckbox  

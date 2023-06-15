@@ -10,4 +10,4 @@ In order to have things keep running, you need to have the chunks loaded. You ca
 
 4) Use Chunkloader from GT++. You need EU instead of Ender Pearls.
 
-5) Use one of the blocks that chunkloads itself. If you do this on a server, expect the admins to possibly get very mad with you if it's not something you're allowed to do. Same for vanilla methods.ANDpreRequ0minecraft/wheat~0tasksANDcheckboxenhancedlootbags/lootbag~191rewardsitemminecraft/cookie~01
+5) Use one of the blocks that chunkloads itself. If you do this on a server, expect the admins to possibly get very mad with you if it's not something you're allowed to do. Same for vanilla methods.ANDpreRequminecraft/wheat~0Quest Name For 00rewardsItemminecraft/cookie~0Item Name1tasksANDCheckboxcheckbox  

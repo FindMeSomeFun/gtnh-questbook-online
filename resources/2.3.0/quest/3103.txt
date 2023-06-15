@@ -6,4 +6,4 @@ How is it made? The ACO needs a lot more steps than the normal Coke Ovens, steps
 
 The speed of this new one is 1 Charcoal per second, or the equivalent to 90 Coke Ovens. The cost of this is the loss of the Creosote, and also that it needs fuel to work, making it so approaximately 1/16 of your Charcoal is lost in this step. Fortunately, you can automate it with item pipes, and the EnderIO conduits make it even simpler. Input wood, input charcoal, output charcoal.
 
-Make one of these multis to continue. Be warned that you might need more!ANDpreRequ3098gregtech/gt.metaitem.01~30686tasksANDretrievalRailcraft/machine.alpha~1234rewardschoiceRailcraft/cube~016enhancedlootbags/lootbag~52itemdreamcraft/item.CoinTechnicianI~03dreamcraft/item.CoinSmithI~03
+Make one of these multis to continue. Be warned that you might need more!ANDpreRequgregtech/gt.metaitem.01~30686Quest Name For 30983098rewardsChoiceenhancedlootbags/lootbag~5Choice Name2Itemdreamcraft/item.CoinSmithI~0Item Name3tasksANDRetrievalRailcraft/machine.alpha~12Railcraft/machine.alpha~12 Name34

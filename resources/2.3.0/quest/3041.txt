@@ -3,4 +3,4 @@ They're not that easy to separate, however...
 
 Craft up a Digester to unlock the questline in the IV tab.
 
-Note: This multiblock will not function correctly without a muffler hatchANDpreRequ1890gregtech/gt.blockmachines~215tasksANDretrievalgregtech/gt.blockmachines~105001rewardsitemgregtech/gt.blockcasings4~08choiceenhancedlootbags/lootbag~81gregtech/gt.blockcasings4~016
+Note: This multiblock will not function correctly without a muffler hatchANDpreRequgregtech/gt.blockmachines~215Quest Name For 18901890rewardsItemgregtech/gt.blockcasings4~0Item Name8Choicegregtech/gt.blockcasings4~0Choice Name16tasksANDRetrievalgregtech/gt.blockmachines~10500gregtech/gt.blockmachines~10500 Name1

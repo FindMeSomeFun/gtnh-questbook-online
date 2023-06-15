@@ -1,3 +1,3 @@
 1384Wand Focus Efreet's FlameThe Wand Focus: Efreet's Flame is a Wand Focus that smelts blocks like a Furnace would when pointed and fired at them. It shoots a beam similar to the Wand Focus: Excavation. Each usage consumes 0.45 Ignis and 0.12 Perditio
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequ227Thaumcraft/blockTable~151372Thaumcraft/FocusFire~01373Thaumcraft/FocusExcavation~0tasksANDretrievalThaumicTinkerer/focusSmelt~01rewardsitemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~11itemdreamcraft/item.CoinDarkWizardI~05
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockTable~15Quest Name For 227227Thaumcraft/FocusFire~0Quest Name For 13721372Thaumcraft/FocusExcavation~0Quest Name For 13731373rewardsItemThaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumicTinkerer/focusSmelt~0ThaumicTinkerer/focusSmelt~0 Name1

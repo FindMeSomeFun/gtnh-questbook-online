@@ -2,4 +2,4 @@
 
 Some other setups to look at automating are making polyethylene and nitric acid. 
 
-With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.ANDpreRequ1640gregtech/gt.metaitem.01~30460tasksANDcheckboxProjRedCore/projectred.core.part~338rewardsitemenhancedlootbags/lootbag~52dreamcraft/item.CoinChemistI~08dreamcraft/item.CoinTechnicianI~08choiceProjRedCore/projectred.core.part~308ProjRedCore/projectred.core.part~288ProjRedCore/projectred.core.part~248ProjRedCore/projectred.core.part~208ProjRedCore/projectred.core.part~218ProjRedCore/projectred.core.part~328ProjRedCore/projectred.core.part~338
+With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.ANDpreRequgregtech/gt.metaitem.01~30460Quest Name For 16401640rewardsItemdreamcraft/item.CoinTechnicianI~0Item Name8ChoiceProjRedCore/projectred.core.part~33Choice Name8tasksANDCheckboxcheckbox  

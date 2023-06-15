@@ -10,4 +10,4 @@ By the time you've completed this, you'll probably be done with most of the tab,
 
 §3Also check the Armor and Jetpacks tab for new unlocks.
 Note: If you were exploring Twilight Forest before 2.1.1.4 you won't find any cryolite in existing veins. You'll need to explore new chunks.
-Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumaturgy Tab.ANDpreRequ88gregtech/gt.blockmachines~1120tasksANDoptional_retrievalgregtech/gt.metaitem.01~269910optional_retrievalTConstruct/materials~128retrievalgregtech/gt.metaitem.01~110198rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinSmithI~03dreamcraft/item.CoinTechnicianI~03
+Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumaturgy Tab.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDOptionalgregtech/gt.metaitem.01~2699gregtech/gt.metaitem.01~2699 Name10OptionalTConstruct/materials~12TConstruct/materials~12 Name8Retrievalgregtech/gt.metaitem.01~11019gregtech/gt.metaitem.01~11019 Name8

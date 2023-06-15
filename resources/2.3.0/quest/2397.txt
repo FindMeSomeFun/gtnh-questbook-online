@@ -27,4 +27,4 @@ Tungstensteel
 
 All coils from Cupronickel to Eternal are valid. Each one increases speed by +50%, starting at 50% speed for Cupronickel.
 
-§3Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!ANDpreRequ943gregtech/gt.blockmachines~423tasksANDretrievalgregtech/gt.blockmachines~9981rewardsitemenhancedlootbags/lootbag~61
+§3Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!ANDpreRequgregtech/gt.blockmachines~423Quest Name For 943943rewardsItemenhancedlootbags/lootbag~6Item Name1tasksANDRetrievalgregtech/gt.blockmachines~998gregtech/gt.blockmachines~998 Name1

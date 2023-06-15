@@ -4,4 +4,4 @@ Fill it with water on the bottom side to produce steam. Unlike the other boilers
 
 §4Hint: The solar boiler calcifies and becomes less efficient over time. Later on you can consider using distilled water to avoid calcification.
 
-§3You'll need silver from the Twilight Forest (LV+) or from small ores for this.ANDpreRequ62gregtech/gt.blockmachines~10576gregtech/gt.blockmachines~140948gregtech/gt.metaitem.01~11304tasksANDretrievalgregtech/gt.blockmachines~1141rewardsitemharvestcraft/kiwijellysandwichItem~04itemdreamcraft/item.CoinTechnician~010
+§3You'll need silver from the Twilight Forest (LV+) or from small ores for this.ANDpreRequgregtech/gt.blockmachines~105Quest Name For 6262gregtech/gt.blockmachines~140Quest Name For 7676gregtech/gt.metaitem.01~11304Quest Name For 948948rewardsItemharvestcraft/kiwijellysandwichItem~0Item Name4Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalgregtech/gt.blockmachines~114gregtech/gt.blockmachines~114 Name1

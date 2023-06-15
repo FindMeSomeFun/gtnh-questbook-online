@@ -2,4 +2,4 @@
 
 §3If you fail with Minesweeper, it blows up. Be sure to make room for escape!
 
-§4Make sure that no water/oil is flowing into the room because of worldgen or it will kill you and destroy your grave because of 'cheating'. This is a bug.ANDpreRequ2875minecraft/nether_star~0tasksANDcheckboxlootgames/LootGamesDungeonLight~327671rewardsitemminecraft/skull~31gregtech/gt.metaitem.01~28171
+§4Make sure that no water/oil is flowing into the room because of worldgen or it will kill you and destroy your grave because of 'cheating'. This is a bug.ANDpreRequminecraft/nether_star~0Quest Name For 28752875rewardsItemgregtech/gt.metaitem.01~2817Item Name1tasksANDCheckboxcheckbox  

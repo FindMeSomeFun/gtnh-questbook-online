@@ -4,4 +4,4 @@ It is made in a Spinning Wheel using Disturbed Cotton, Blood Burned String and R
 
 §4You need a T2 BM Blood Altar to make the string, so go over to the BM tab if you want to continue and haven't done that yet.
 
-§rAn Altar must be nearby to power the spinning wheel.ANDpreRequ335witchery/spinningwheel~0tasksANDoptional_retrievalwitchery/ingredient~9912retrievalwitchery/ingredient~1013rewardsitemwitchery/ingredient~994itemdreamcraft/item.CoinWitchII~01dreamcraft/item.CoinDarkWizardII~01
+§rAn Altar must be nearby to power the spinning wheel.ANDpreRequwitchery/spinningwheel~0Quest Name For 335335rewardsItemwitchery/ingredient~99Item Name4Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDOptionalwitchery/ingredient~99witchery/ingredient~99 Name12Retrievalwitchery/ingredient~101witchery/ingredient~101 Name3

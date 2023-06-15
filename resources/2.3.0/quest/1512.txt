@@ -4,4 +4,4 @@ Healing? XP? Poison?
 
 The collector's jars can even be piped or connected to a conveyor so that drones last a long time.
 
-§3PS: Using the regen effect of Imperial bees while doing Blood Magic may be useful.ANDpreRequ504Forestry/beealyzer~0tasksANDretrievalMagicBees/effectJar~01rewardsitemMagicBees/effectJar~01itemdreamcraft/item.CoinBeesI~05
+§3PS: Using the regen effect of Imperial bees while doing Blood Magic may be useful.ANDpreRequForestry/beealyzer~0Quest Name For 504504rewardsItemMagicBees/effectJar~0Item Name1Itemdreamcraft/item.CoinBeesI~0Item Name5tasksANDRetrievalMagicBees/effectJar~0MagicBees/effectJar~0 Name1

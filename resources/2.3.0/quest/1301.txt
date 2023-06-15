@@ -1,3 +1,3 @@
 1301Annihilation and FormationFormation Core - a component which can convert energy back into matter.
 Annihilation Core - a component which can convert matter into energy.
-Gates all network I/O.ANDpreRequ1296appliedenergistics2/item.ItemMultiMaterial~12tasksANDretrievalappliedenergistics2/item.ItemMultiMaterial~4316rewardschoiceappliedenergistics2/item.ItemMultiMaterial~116appliedenergistics2/item.ItemMultiMaterial~1016enhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01
+Gates all network I/O.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~12Quest Name For 12961296rewardsChoiceenhancedlootbags/lootbag~37Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial~43appliedenergistics2/item.ItemMultiMaterial~43 Name16

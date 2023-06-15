@@ -4,4 +4,4 @@ One tip - Put some vanilla saplings near the Bee Houses. Bee Houses give a natur
 
 Of course, if you do this without taking precautions, you may find yourself swarmed by laggy butterflies...
 
-You may also notice that bees with the 'flower' type flower spread flowers. This can be used to get, say, lavender, among others. If you don't like them spreading them everywhere, replace the dirt/grass blocks, remove the trait, or reduce the pollination speed/territory.ANDpreRequ1112Forestry/frameUntreated~0tasksANDretrievalForestry/apiculture~21rewardsitemenhancedlootbags/lootbag~251Forestry/beeCombs~41itemdreamcraft/item.CoinBees~025
+You may also notice that bees with the 'flower' type flower spread flowers. This can be used to get, say, lavender, among others. If you don't like them spreading them everywhere, replace the dirt/grass blocks, remove the trait, or reduce the pollination speed/territory.ANDpreRequForestry/frameUntreated~0Quest Name For 11121112rewardsItemForestry/beeCombs~4Item Name1Itemdreamcraft/item.CoinBees~0Item Name25tasksANDRetrievalForestry/apiculture~2Forestry/apiculture~2 Name1

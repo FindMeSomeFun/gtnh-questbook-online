@@ -10,4 +10,4 @@ Speed (Block of Redstone)
 Increasing the speed of the Altar.
 
 Efficency (Block of Emerald)
-Reduce the cost of Dragon Essence using in a Altar recipe.ANDpreRequ2352HardcoreEnderExpansion/essence_altar~0tasksANDretrievalHardcoreEnderExpansion/essence_altar~01retrievalminecraft/emerald_block~03rewardsitemHardcoreEnderExpansion/essence~032enhancedlootbags/lootbag~581itemdreamcraft/item.CoinDarkWizardII~02dreamcraft/item.CoinSmithII~02HardcoreEnderExpansion/knowledge_note~02
+Reduce the cost of Dragon Essence using in a Altar recipe.ANDpreRequHardcoreEnderExpansion/essence_altar~0Quest Name For 23522352rewardsItemenhancedlootbags/lootbag~58Item Name1ItemHardcoreEnderExpansion/knowledge_note~0Item Name2tasksANDRetrievalHardcoreEnderExpansion/essence_altar~0HardcoreEnderExpansion/essence_altar~0 Name1Retrievalminecraft/emerald_block~0minecraft/emerald_block~0 Name3

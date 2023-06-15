@@ -1,3 +1,3 @@
 1390Wand Focus TelekinesisWand Focus: Telekinesis is a wand focus that can move nearby objects such as dropped items, arrows etc. where you are pointing with the wand, or towards you if you hold the shift key while using it. Consumes 0.05 Aer + 0.05 Perditio per tick used.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequ238Thaumcraft/blockCosmeticSolid~71387ThaumicTinkerer/focusFlight~0tasksANDretrievalThaumicTinkerer/focusTelekinesis~01rewardsitemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~11itemdreamcraft/item.CoinDarkWizardI~05
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 238238ThaumicTinkerer/focusFlight~0Quest Name For 13871387rewardsItemThaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumicTinkerer/focusTelekinesis~0ThaumicTinkerer/focusTelekinesis~0 Name1

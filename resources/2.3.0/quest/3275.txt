@@ -2,4 +2,4 @@
 
 I will need to provide some distilled water to its hatch to avoid blockage in the pipes.
 
-§3The Liquid Cooling Tower allows the Multiblock to have 2/4 OC at the cost of 10/s of distilled water when running. The hatch is placed in the center of the Liquid Cooling Tower.ANDpreRequ2675Avaritia/Resource~63273gregtech/gt.blockmachines~356tasksANDretrievalgregtech/gt.blockcasings2~151rewards
+§3The Liquid Cooling Tower allows the Multiblock to have 2/4 OC at the cost of 10/s of distilled water when running. The hatch is placed in the center of the Liquid Cooling Tower.ANDpreRequAvaritia/Resource~6Quest Name For 26752675gregtech/gt.blockmachines~356Quest Name For 32733273rewardstasksANDRetrievalgregtech/gt.blockcasings2~15gregtech/gt.blockcasings2~15 Name1

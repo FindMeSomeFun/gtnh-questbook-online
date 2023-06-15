@@ -1,3 +1,3 @@
 2635Circuits, Assemble!To make Wetware Circuits (UHV-Tier Circuits), you need to make a ZPM Circuit Assembling Machine.
 
-What? Did you think that just because you made the multi you can skip out making the singleblock? Well, too bad! You still need to use it to make the first circuit for the imprints.ANDpreRequ2612gregtech/gt.metaitem.01~326962613gregtech/gt.blockmachines~18tasksANDretrievalgregtech/gt.blockmachines~11861rewards
+What? Did you think that just because you made the multi you can skip out making the singleblock? Well, too bad! You still need to use it to make the first circuit for the imprints.ANDpreRequgregtech/gt.metaitem.01~32696Quest Name For 26122612gregtech/gt.blockmachines~18Quest Name For 26132613rewardstasksANDRetrievalgregtech/gt.blockmachines~1186gregtech/gt.blockmachines~1186 Name1

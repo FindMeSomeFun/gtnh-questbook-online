@@ -12,4 +12,4 @@ Pre-moon, the best rotors are Shadow Metal or Vibrant Alloy.
 
 Post-moon, the best HV rotors are Shadow Metal or Oriharukon (this is IV-tier). Luckily, turbines are now fully functional with multi-amp dynamos, so give those a try if you need extra amps!
 
-For additional choices, see the spreadsheet and Large Turbine Calculator.ANDpreRequ160gregtech/gt.blockmachines~13tasksANDoptional_retrievalgregtech/gt.blockmachines~611optional_retrievalgregtech/gt.metatool.01~1701retrievalgregtech/gt.blockmachines~11311rewardschoiceenhancedlootbags/lootbag~51dreamcraft/tile.TripleCompressedCharcoal~01itemdreamcraft/item.CoinTechnicianII~02
+For additional choices, see the spreadsheet and Large Turbine Calculator.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsChoicedreamcraft/tile.TripleCompressedCharcoal~0Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.blockmachines~61gregtech/gt.blockmachines~61 Name1Optionalgregtech/gt.metatool.01~170gregtech/gt.metatool.01~170 Name1Retrievalgregtech/gt.blockmachines~1131gregtech/gt.blockmachines~1131 Name1

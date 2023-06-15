@@ -7,4 +7,4 @@ Also see this if you want to see a fancy teleporter: https://www.reddit.com/r/fe
 
 §4Spatial cells, once used, will only work in the XYZ dimensions first used, with no way to format or recraft. Test in creative first!
 
-Expect your world to lag for a second after using, blame AE.ANDpreRequ2505dreamcraft/item.EngineeringProcessorSpatialPulsatingCore~02509appliedenergistics2/item.ItemSpatialStorageCell.2Cubed~0tasksANDretrievalappliedenergistics2/tile.BlockSpatialIOPort~04rewardsitemenhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02
+Expect your world to lag for a second after using, blame AE.ANDpreRequdreamcraft/item.EngineeringProcessorSpatialPulsatingCore~0Quest Name For 25052505appliedenergistics2/item.ItemSpatialStorageCell.2Cubed~0Quest Name For 25092509rewardsItemenhancedlootbags/lootbag~38Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalappliedenergistics2/tile.BlockSpatialIOPort~0appliedenergistics2/tile.BlockSpatialIOPort~0 Name4

@@ -2,4 +2,4 @@
 
 Hold a crowbar and shift + right click to attach carts. Click the starting cart then continue to click to add more carts to the link. Carts will act slower the more connections are made.
 
-The crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).ANDpreRequ675Railcraft/signal~4tasksANDretrievalRailcraft/tool.crowbar~01rewardschoiceminecraft/minecart~01Railcraft/part.rail~016enhancedlootbags/lootbag~321itemdreamcraft/item.CoinTechnician~010
+The crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).ANDpreRequRailcraft/signal~4Quest Name For 675675rewardsChoiceenhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalRailcraft/tool.crowbar~0Railcraft/tool.crowbar~0 Name1

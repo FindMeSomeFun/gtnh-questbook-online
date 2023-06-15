@@ -1,1 +1,1 @@
-2428Coal Ore exchangeYou can exchange your Stack of GT Coal Ore for vanilla Coal Ore.ANDpreRequ826minecraft/iron_ore~0tasksANDretrievalgregtech/gt.blockores~53564rewardsitemminecraft/coal_ore~064
+2428Coal Ore exchangeYou can exchange your Stack of GT Coal Ore for vanilla Coal Ore.ANDpreRequminecraft/iron_ore~0Quest Name For 826826rewardsItemminecraft/coal_ore~0Item Name64tasksANDRetrievalgregtech/gt.blockores~535gregtech/gt.blockores~535 Name64

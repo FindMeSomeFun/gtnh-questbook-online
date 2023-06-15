@@ -1,3 +1,3 @@
 1948No ASMR From Your Machines?If the sounds of your machines are driving you crazy, you can add a muffler upgrade to block them out. 
 
-NOTE: This also means you won't hear when the machine is out of energy. Also, once applied the upgrade cannot be removed.ANDpreRequ759gregtech/gt.metaitem.99~874tasksANDretrievalgregtech/gt.metaitem.01~327271rewardsitemExtraUtilities/sound_muffler~01
+NOTE: This also means you won't hear when the machine is out of energy. Also, once applied the upgrade cannot be removed.ANDpreRequgregtech/gt.metaitem.99~874Quest Name For 759759rewardsItemExtraUtilities/sound_muffler~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~32727gregtech/gt.metaitem.01~32727 Name1

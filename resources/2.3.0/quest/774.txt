@@ -5,4 +5,4 @@ Methanol       50% chance
 Fuel            90% chance
 Nitro-diesel 100% chance
 
-§rHowever, making carbon plates this way will require an electric blast furnace.ANDpreRequ731IC2/itemFuelPlantBall~0771gregtech/gt.blockmachines~571tasksANDoptional_retrievaldreamcraft/item.RawBioFiber~048retrievaldreamcraft/item.BioOrganicMesh~024rewardschoicegregtech/gt.metaitem.01~307088gregtech/gt.metaitem.01~307094enhancedlootbags/lootbag~51itemdreamcraft/item.CoinChemist~025dreamcraft/item.CoinFarmer~025
+§rHowever, making carbon plates this way will require an electric blast furnace.ANDpreRequIC2/itemFuelPlantBall~0Quest Name For 731731gregtech/gt.blockmachines~571Quest Name For 771771rewardsChoiceenhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDOptionaldreamcraft/item.RawBioFiber~0dreamcraft/item.RawBioFiber~0 Name48Retrievaldreamcraft/item.BioOrganicMesh~0dreamcraft/item.BioOrganicMesh~0 Name24

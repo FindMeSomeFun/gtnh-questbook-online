@@ -2,4 +2,4 @@
 
 It generates in the giant underground caves in Mars in small amounts.
 
-Collect it to produce mutagen for bees mutation in gendustry.ANDpreRequ1429GalacticraftMars/item.spaceshipTier2~0tasksANDretrievalgregtech/gt.metaitem.98~116rewardschoiceExtraUtilities/shears~01IC2/itemCellEmpty~064GalacticraftMars/item.null~54enhancedlootbags/lootbag~71itemdreamcraft/item.CoinChemistII~02dreamcraft/item.CoinTechnicianII~02
+Collect it to produce mutagen for bees mutation in gendustry.ANDpreRequGalacticraftMars/item.spaceshipTier2~0Quest Name For 14291429rewardsChoiceenhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.metaitem.98~1gregtech/gt.metaitem.98~1 Name16

@@ -2,4 +2,4 @@
 
 Then put the Singularity and Enderpearl Dust on the ground and use an explosion (Tiny TNT works well) to create two Quantum Entangled Singularities.
 
-QESs are each a unique pair.ANDpreRequ2137appliedenergistics2/tile.BlockController~0tasksANDretrievalappliedenergistics2/item.ItemMultiMaterial~381optional_retrievalappliedenergistics2/tile.BlockTinyTNT~01retrievalappliedenergistics2/item.ItemMultiMaterial~482rewardsitemenhancedlootbags/lootbag~381itemdreamcraft/item.CoinTechnicianII~02
+QESs are each a unique pair.ANDpreRequappliedenergistics2/tile.BlockController~0Quest Name For 21372137rewardsItemenhancedlootbags/lootbag~38Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial~38appliedenergistics2/item.ItemMultiMaterial~38 Name1Optionalappliedenergistics2/tile.BlockTinyTNT~0appliedenergistics2/tile.BlockTinyTNT~0 Name1Retrievalappliedenergistics2/item.ItemMultiMaterial~48appliedenergistics2/item.ItemMultiMaterial~48 Name2

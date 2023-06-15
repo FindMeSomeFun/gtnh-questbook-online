@@ -2,4 +2,4 @@
 
 You need to use Dense Hydrazine Rocket Fuel.
 
-§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.ANDpreRequ1531GalaxySpace/item.RocketControlComputer~4tasksANDretrievalGalaxySpace/item.Tier4Rocket~01rewardschoiceIC2/blockITNT~0128GalacticraftMars/item.itemBasicAsteroids~04enhancedlootbags/lootbag~242enhancedlootbags/lootbag~412itemdreamcraft/item.CoinSpaceIII~02dreamcraft/item.CoinTechnicianIII~02
+§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.ANDpreRequGalaxySpace/item.RocketControlComputer~4Quest Name For 15311531rewardsChoiceenhancedlootbags/lootbag~41Choice Name2Itemdreamcraft/item.CoinTechnicianIII~0Item Name2tasksANDRetrievalGalaxySpace/item.Tier4Rocket~0GalaxySpace/item.Tier4Rocket~0 Name1

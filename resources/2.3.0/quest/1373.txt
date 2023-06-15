@@ -2,4 +2,4 @@
 
 Its base vis cost is 0.15  terra per tick that it mines a block. It is also used in operating the Arcane Bore.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequ227Thaumcraft/blockTable~15tasksANDretrievalThaumcraft/FocusExcavation~01rewardsitemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~11itemdreamcraft/item.CoinDarkWizardI~05
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockTable~15Quest Name For 227227rewardsItemThaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/FocusExcavation~0Thaumcraft/FocusExcavation~0 Name1

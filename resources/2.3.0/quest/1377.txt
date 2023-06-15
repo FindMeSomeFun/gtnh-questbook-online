@@ -4,4 +4,4 @@ Warded Blocks are completely indestructible and will produce particle effects si
 
 Special Note: Warded blocks emit light.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequ238Thaumcraft/blockCosmeticSolid~7tasksANDretrievalThaumcraft/FocusWarding~01rewardsitemenhancedlootbags/lootbag~101Thaumcraft/ItemLootBag~21itemdreamcraft/item.CoinDarkWizardII~01
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 238238rewardsItemThaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/FocusWarding~0Thaumcraft/FocusWarding~0 Name1

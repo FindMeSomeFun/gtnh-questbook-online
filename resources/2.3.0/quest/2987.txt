@@ -2,4 +2,4 @@
 
 Of course, you might already be using Light Fuel as your power source of choice, but a different question might have popped up in your mind by now: is there a better way to get Oil? Perhaps you have run short, or perhaps not. Either way, there is a multi unlocked in this tier that can greatly facilitate the automation of Oil input into your Distillery. That multi is the Oil Drilling Rig, which can pump it from below bedrock, but only if there is some in the current chunk, which means that you will have to scan the chunks around you to find it.
 
-There is a quest for this rig in the Multiblock Goals tab. Go check it out!ANDpreRequ546BuildCraftEnergy/blockOil~01148gregtech/gt.blockmachines~12tasksANDcheckboxTConstruct/Smeltery~12rewards
+There is a quest for this rig in the Multiblock Goals tab. Go check it out!ANDpreRequBuildCraftEnergy/blockOil~0Quest Name For 546546gregtech/gt.blockmachines~12Quest Name For 11481148rewardstasksANDCheckboxcheckbox  

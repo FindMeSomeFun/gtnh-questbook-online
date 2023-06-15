@@ -8,4 +8,4 @@ To refill your oxygen tanks just put the tank and the LOX canister in the oxygen
 
 Each LOX canister can fill 4 Heavy Oxygen Tanks, 6 Medium Oxygen Tanks, or 12 Light Oxygen Tanks.
 
-So much Greggy!ANDpreRequ821GalacticraftCore/tile.fuelLoader~0tasksANDoptional_retrievalgregtech/gt.metaitem.01~300131optional_retrievalGalacticraftCore/item.oilCanisterPartial~10011retrievalGalacticraftMars/item.canisterPartialLOX~11rewardschoiceGalacticraftCore/item.oilCanisterPartial~10012GalacticraftCore/tile.oxygenPipe~016GalacticraftCore/item.oxygenTankLightFull~9001enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01
+So much Greggy!ANDpreRequGalacticraftCore/tile.fuelLoader~0Quest Name For 821821rewardsChoiceenhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name1OptionalGalacticraftCore/item.oilCanisterPartial~1001GalacticraftCore/item.oilCanisterPartial~1001 Name1RetrievalGalacticraftMars/item.canisterPartialLOX~1GalacticraftMars/item.canisterPartialLOX~1 Name1

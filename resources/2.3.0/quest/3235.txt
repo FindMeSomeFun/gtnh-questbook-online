@@ -4,4 +4,4 @@ You can share a wireless network with others by adding them to your network with
 
 You cannot connect wires to these blocks. These are also designed to be highly lag efficient, meaning EU is added at large intervals to prevent needless calculations from occurring. This will also save you some TPS lag from vast wire networks.
 
-§3If your calculator is giving up, 2^(2^31) is a number with 646,456,994 digits.ANDpreRequ3240gregtech/gt.metaitem.01~11588tasksANDretrievalgregtech/gt.blockmachines~2061rewards
+§3If your calculator is giving up, 2^(2^31) is a number with 646,456,994 digits.ANDpreRequgregtech/gt.metaitem.01~11588Quest Name For 32403240rewardstasksANDRetrievalgregtech/gt.blockmachines~206gregtech/gt.blockmachines~206 Name1

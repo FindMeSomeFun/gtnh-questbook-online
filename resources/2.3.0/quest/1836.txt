@@ -1,3 +1,3 @@
 1836Kitchenware 2.0GregTech tools like the knives get used up when crafting foods. Pams Tool like the Cutting Board, Juicer or the Bakeware can last forever.
  
-After you reach stainless steel in HV you can make these tools that last forever.ANDpreRequ665harvestcraft/potItem~0753gregtech/gt.metaitem.01~11306tasksANDretrievalharvestcraft/cuttingboardItem~01rewardschoiceharvestcraft/presser~01harvestcraft/churn~01harvestcraft/oven~01harvestcraft/quern~01enhancedlootbags/lootbag~301itemdreamcraft/item.CoinCookI~05dreamcraft/item.CoinTechnicianI~05
+After you reach stainless steel in HV you can make these tools that last forever.ANDpreRequharvestcraft/potItem~0Quest Name For 665665gregtech/gt.metaitem.01~11306Quest Name For 753753rewardsChoiceenhancedlootbags/lootbag~30Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalharvestcraft/cuttingboardItem~0harvestcraft/cuttingboardItem~0 Name1

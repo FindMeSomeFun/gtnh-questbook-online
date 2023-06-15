@@ -1,3 +1,3 @@
 117§5§lGotta Catch 'em AllSure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.
 
-You can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.ANDpreRequ97gregtech/gt.blockmachines~211tasksANDretrievalExtraUtilities/golden_lasso~01rewardsitemenhancedlootbags/lootbag~41itemdreamcraft/item.CoinFarmer~015dreamcraft/item.CoinTechnician~015
+You can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalExtraUtilities/golden_lasso~0ExtraUtilities/golden_lasso~0 Name1

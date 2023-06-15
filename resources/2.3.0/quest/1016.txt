@@ -4,4 +4,4 @@ The first one is the Integrated Processor, the final type of MV circuits. You al
 
 You will additionally need 4 Resistors, 4 Capacitors and 4 Transistors.
 
-§3This and all circuits past it need a cleanroom.ANDpreRequ1015gregtech/gt.metaitem.03~321061018gregtech/gt.metaitem.03~32045tasksANDoptional_retrievalgregtech/gt.metaitem.02~193084retrievalgregtech/gt.metaitem.03~320801rewardschoicegregtech/gt.metaitem.03~321064gregtech/gt.metaitem.03~320451gregtech/gt.metaitem.03~320184enhancedlootbags/lootbag~61itemdreamcraft/item.CoinTechnicianII~01
+§3This and all circuits past it need a cleanroom.ANDpreRequgregtech/gt.metaitem.03~32106Quest Name For 10151015gregtech/gt.metaitem.03~32045Quest Name For 10181018rewardsChoiceenhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.02~19308gregtech/gt.metaitem.02~19308 Name4Retrievalgregtech/gt.metaitem.03~32080gregtech/gt.metaitem.03~32080 Name1

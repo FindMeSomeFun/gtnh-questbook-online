@@ -4,4 +4,4 @@ Put your jetpack on your back and hit Shift and the adventure backpack's action-
 
 Max flying height for this jetpack is Y-185.
 
-Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.ANDpreRequ103gregtech/gt.metaitem.01~11019tasksANDoptional_retrievalgregtech/gt.metaitem.01~326011retrievaladventurebackpack/coalJetpack~01rewardschoiceRailcraft/fuel.coke~016gregtech/gt.blockmachines~51303enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025
+Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103rewardsChoiceenhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalgregtech/gt.metaitem.01~32601gregtech/gt.metaitem.01~32601 Name1Retrievaladventurebackpack/coalJetpack~0adventurebackpack/coalJetpack~0 Name1

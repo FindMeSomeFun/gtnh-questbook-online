@@ -1,1 +1,1 @@
-2799Geothermal Power IVThe LuV version. Almost certainly produces more pollution than it says.ANDpreRequ1710gregtech/gt.metaitem.03~32091tasksANDretrievalgregtech/gt.blockmachines~8311rewards
+2799Geothermal Power IVThe LuV version. Almost certainly produces more pollution than it says.ANDpreRequgregtech/gt.metaitem.03~32091Quest Name For 17101710rewardstasksANDRetrievalgregtech/gt.blockmachines~831gregtech/gt.blockmachines~831 Name1

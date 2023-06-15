@@ -8,4 +8,4 @@ Dark shears can be empowered, and then will shear a large area, including leaves
 
 The axe, once empowered, can be recharged wirelessly while in farming station.
 
-The pick? Well, it can mine cobalt I guess if you haven't gotten a tool capable of that yet. You could keep it around to use for base decorations if your normal pick is too fast, I suppose.ANDpreRequ138EnderIO/itemAlloy~6tasksANDretrievalEnderIO/item.darkSteel_shears~01retrievalEnderIO/item.darkSteel_sword~01rewardschoiceenhancedlootbags/lootbag~51EnderIO/itemAlloy~64itemdreamcraft/item.CoinSmith~025dreamcraft/item.CoinSurvivor~025
+The pick? Well, it can mine cobalt I guess if you haven't gotten a tool capable of that yet. You could keep it around to use for base decorations if your normal pick is too fast, I suppose.ANDpreRequEnderIO/itemAlloy~6Quest Name For 138138rewardsChoiceEnderIO/itemAlloy~6Choice Name4Itemdreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalEnderIO/item.darkSteel_shears~0EnderIO/item.darkSteel_shears~0 Name1RetrievalEnderIO/item.darkSteel_sword~0EnderIO/item.darkSteel_sword~0 Name1

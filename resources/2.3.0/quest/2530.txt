@@ -4,4 +4,4 @@ You can use the Cell Workbench to format your drives, so they'll only contain th
 
 You can use the Workbench to format fluid drives too, and even use cells instead of buckets.
 
-Cell Workbenches do not connect to the network, so they don't need a channel.ANDpreRequ1292appliedenergistics2/tile.BlockDrive~0tasksANDretrievalappliedenergistics2/tile.BlockCellWorkbench~01rewardsitemenhancedlootbags/lootbag~371itemdreamcraft/item.CoinTechnicianII~01
+Cell Workbenches do not connect to the network, so they don't need a channel.ANDpreRequappliedenergistics2/tile.BlockDrive~0Quest Name For 12921292rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/tile.BlockCellWorkbench~0appliedenergistics2/tile.BlockCellWorkbench~0 Name1

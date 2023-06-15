@@ -2,4 +2,4 @@
 
 You can use lithium batteries, or if you're on a budget, cadmium or sodium batteries instead. Later on, Vibrant Alloy will make excellent tools with great durability.
 
-§3If you look in NEI, you can also see MV and HV versions, but you need Aluminium or Stainless Steel for those.ANDpreRequ76gregtech/gt.blockmachines~140609gregtech/gt.metaitem.01~32500tasksANDretrievalgregtech/gt.metatool.01~1201retrievalgregtech/gt.metatool.01~1501rewardschoicegregtech/gt.metaitem.01~325182enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~025
+§3If you look in NEI, you can also see MV and HV versions, but you need Aluminium or Stainless Steel for those.ANDpreRequgregtech/gt.blockmachines~140Quest Name For 7676gregtech/gt.metaitem.01~32500Quest Name For 609609rewardsChoiceenhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metatool.01~120gregtech/gt.metatool.01~120 Name1Retrievalgregtech/gt.metatool.01~150gregtech/gt.metatool.01~150 Name1

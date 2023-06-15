@@ -1,3 +1,3 @@
 1952BotanyThe Botany mod offers more colors for blocks and glass, and simple tile patterns or more complex patterns using a Tileworker. For now, we'll make an iron trowel.
 
-This mod will make lots of butterflies, so make sure to do your gardening underground or under glass. The butterflies will spread and infect leaves around your area, making more butterflies, causing lag.ANDpreRequ492OpenBlocks/trophy~0tasksANDretrievalBotany/trowelIron~01rewardsitemminecraft/clay_ball~063
+This mod will make lots of butterflies, so make sure to do your gardening underground or under glass. The butterflies will spread and infect leaves around your area, making more butterflies, causing lag.ANDpreRequOpenBlocks/trophy~0Quest Name For 492492rewardsItemminecraft/clay_ball~0Item Name63tasksANDRetrievalBotany/trowelIron~0Botany/trowelIron~0 Name1

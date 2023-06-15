@@ -10,4 +10,4 @@ There are also two commands:
 Will tell you total progress, and progress to next heart.
 
 /foodlist sync <PlayerName>
-Is to sync with the server if it gets out of sync.ANDpreRequ15SpiceOfLife/lunchbag~0tasksANDcheckboxdreamcraft/item.CoinTechnicianI~05rewards
+Is to sync with the server if it gets out of sync.ANDpreRequSpiceOfLife/lunchbag~0Quest Name For 1515rewardstasksANDCheckboxcheckbox  

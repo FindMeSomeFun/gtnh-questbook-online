@@ -92,20 +92,50 @@ function populateElement(text, id) {
 		var logic = data[3];
 		var nextI = 0;
 		element.innerHTML += '<span> <h2>Pre-Requisites: ';
-		if (data[5] == 'tasks') {
+		if (data[5] == 'rewards') {
 			element.innerHTML += 'NONE </h2> </span>';
 		} else {
 			for (var i = 5; i < data.length; i++) {
 				element.innerHTML += '<div class="questPre"> <input type="hidden" value="' + data[i++] + '"> <img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> </div>';
-				if (data[i] == 'tasks') {
+				if (data[i] == 'rewards') {
 					element.innerHTML += '</h2> </span>';
 					nextI = i++;
+					break;
 				} else {
 					element.innerHTML += ' ' + logic + ' ';
 				}
 			}
 		}
-		
+		// ['a', 'b', 'c'].includes('b')
+		element.innerHTML += '<p> ' + desc + ' </p> <div class="rewards"> <p> Rewards: </p> <div> <p> ';
+		var rewardTypes = ['item', 'choice', 'questcompletion', 'xp'];
+		if (data[nextI] == 'tasks') {
+			element.innerHTML += 'NONE </p> </div>';
+		} else {
+			for (var i = nextI; i < data.length; i++) {
+				if (reportIfMissing(rewardTypes, data[i], 'rewardTypes')) {
+					var type = data[i];
+					for (i; i < data.length; i++) {
+						var icon = data[i++];
+						var name = icon;
+						var number = data[i++];
+						element.innerHTML += type + ' Reward </p> <div> <div> <div> ';
+						element.innerHTML += name + ' </div> <div> x ' + number + '</div> </div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> </div> </div>';
+						if (data[i] == 'tasks') {
+							element.innerHTML += '</div>';
+							nextI = i++;
+							break;
+						} if (rewardTypes.includes(data[i])) {
+							
+						} else {
+							element.innerHTML += ' ' + logic + ' ';
+						}
+					}
+				}
+			}
+			var taskNo = 1;
+			var taskTypes = ['retrieval', 'optional', 'checkbox', 'crafting', 'hunt', 'location', 'fluid'];
+		}
 		
 		
 		var x = data[i++];
@@ -113,8 +143,16 @@ function populateElement(text, id) {
 		var iconSize = data[i++];
 		var questIcon = data[i];
 		element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
-// id, name, desc, logic, preRequ, [preId, icon, ...], tasks, logic, [type, [icon, number, ...]], ?rewards, [type, [icon, number, ...]]
+// id, name, desc, logic, preRequ, [icon, name, qustId, , ...], rewards, [type, [icon, name, number, ...]], tasks, logic, [type, [icon, name, number, ...]]
 	}
+}
+
+function reportIfMissing(array, value, listName) {
+	if (rewardTypes.includes(data[i++])) {
+		return true;
+	}
+	alert('Value: "' + value + '" is missing in "' + listName + '" list!');
+	return false;
 }
 
 function loadQuestLineTree(questLineId) {

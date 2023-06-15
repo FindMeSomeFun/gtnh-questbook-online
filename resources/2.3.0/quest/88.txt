@@ -4,4 +4,4 @@ To make your life easier, you'll want to focus on getting a wiremill and bender 
 
 After that, the polarizer, assembler, lathe, and chemical reactor+fluid solidifier (for rubber) all help make things cheaper.
 
-§3PS: ULV doesn't exist.ANDpreRequ70gregtech/gt.blockmachines~1120tasksANDretrievalgregtech/gt.blockmachines~11201rewardsitemharvestcraft/bananasplitItem~02itemdreamcraft/item.CoinTechnicianI~03
+§3PS: ULV doesn't exist.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 7070rewardsItemharvestcraft/bananasplitItem~0Item Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~1120gregtech/gt.blockmachines~1120 Name1

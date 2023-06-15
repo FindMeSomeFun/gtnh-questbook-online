@@ -1,3 +1,3 @@
 2685Coal Tar DistillingIn order to distill Coal Tar, you need to get some first. To do so, run Charcoal, Lignite, Coal, or Coal Coke though either the Industrial Coke Oven or the Pyrolyse Oven.
 
-Since you need multiple products, use a Distillery Tower to get them all. Everything other than Naphtha is used to make Rocket Fuels.ANDpreRequ768gregtech/gt.blockmachines~11262684miscutils/RocketFuelMixB~0tasksANDoptional_retrievalmiscutils/CoalTar~024optional_retrievalmiscutils/Kerosene~08checkboxmiscutils/Kerosene~08rewards
+Since you need multiple products, use a Distillery Tower to get them all. Everything other than Naphtha is used to make Rocket Fuels.ANDpreRequgregtech/gt.blockmachines~1126Quest Name For 768768miscutils/RocketFuelMixB~0Quest Name For 26842684rewardstasksANDOptionalmiscutils/CoalTar~0miscutils/CoalTar~0 Name24Optionalmiscutils/Kerosene~0miscutils/Kerosene~0 Name8Checkboxcheckbox  

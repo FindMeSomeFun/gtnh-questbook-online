@@ -4,4 +4,4 @@ By pumping on different depths, you are able to extract different gases. The dep
 
 While operational, the multiblock needs d*4^(t+2) EU/t (t is the space station's tier and d is the depth).
 
-You can find an overview of what you can pump where in the Tips and Tricks chapter.ANDpreRequ1067GalaxySpace/item.Icon~371535GalaxySpace/item.Tier4Rocket~0tasksANDretrievalgregtech/gt.blockmachines~140021rewardschoiceenhancedlootbags/lootbag~241enhancedlootbags/lootbag~81IC2/blockMiningPipe~0256itemdreamcraft/item.CoinSpaceII~05dreamcraft/item.CoinTechnicianII~05dreamcraft/item.CoinAdventureII~05
+You can find an overview of what you can pump where in the Tips and Tricks chapter.ANDpreRequGalaxySpace/item.Icon~37Quest Name For 10671067GalaxySpace/item.Tier4Rocket~0Quest Name For 15351535rewardsChoiceIC2/blockMiningPipe~0Choice Name256Itemdreamcraft/item.CoinAdventureII~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~14002gregtech/gt.blockmachines~14002 Name1

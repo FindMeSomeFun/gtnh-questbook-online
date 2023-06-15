@@ -2,4 +2,4 @@
 
 You can get even better efficiency pairing it with a Large Heat Exchanger. The LHE will turn normal vanilla Lava into Pahoehoe Lava, which will provide Steam and byproducts in the Thermal Boiler. Win/Win/Win!
 
-§3This multi is IV.ANDpreRequ1416gregtech/gt.blockmachines~810tasksANDretrievalmiscutils/miscutils.blockcasings~11rewardsitemmiscutils/itemLavaFilter~03
+§3This multi is IV.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardsItemmiscutils/itemLavaFilter~0Item Name3tasksANDRetrievalmiscutils/miscutils.blockcasings~1miscutils/miscutils.blockcasings~1 Name1

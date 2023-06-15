@@ -4,4 +4,4 @@ Naquadah is used for efficient Silicon Wafer, as well as highly advanced compone
 
 Quantium is used for T5 Rocket and item pipe that has the best throughput in GT.
 
-§3Make sure to bring your MBM to maximize ore yield.ANDpreRequ215GalacticraftMars/item.itemTier3Rocket~0tasksANDretrievalgregtech/gt.metaitem.01~5324192rewardsitemenhancedlootbags/lootbag~241enhancedlootbags/lootbag~81itemdreamcraft/item.CoinSpaceII~05dreamcraft/item.CoinAdventureII~05
+§3Make sure to bring your MBM to maximize ore yield.ANDpreRequGalacticraftMars/item.itemTier3Rocket~0Quest Name For 215215rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinAdventureII~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~5324gregtech/gt.metaitem.01~5324 Name192

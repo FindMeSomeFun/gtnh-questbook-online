@@ -18,4 +18,4 @@ Another useful display is Extra Utilities' TPS meter. It gives you the instantan
 
 Toggle the display with
 
-§l/xu_tpsANDpreRequ0minecraft/wheat~0tasksANDcheckboxenhancedlootbags/lootbag~511rewards
+§l/xu_tpsANDpreRequminecraft/wheat~0Quest Name For 00rewardstasksANDCheckboxcheckbox  

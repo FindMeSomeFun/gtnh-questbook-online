@@ -7,4 +7,4 @@ Ethanol        15                          40                               600
 Fire Water    15                          80                              1200
 Diesel/Fuel   25                          60                              1500
 
-§3Rocket Fuel is disabled.ANDpreRequ130EnderIO/blockTank~0tasksANDretrievalEnderIO/blockCombustionGenerator~01rewardschoiceEnderIO/itemBasicCapacitor~01enhancedlootbags/lootbag~51itemdreamcraft/item.CoinTechnician~025
+§3Rocket Fuel is disabled.ANDpreRequEnderIO/blockTank~0Quest Name For 130130rewardsChoiceenhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalEnderIO/blockCombustionGenerator~0EnderIO/blockCombustionGenerator~0 Name1

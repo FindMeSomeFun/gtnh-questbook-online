@@ -2,4 +2,4 @@
 
 §3The Thermosink Radiator allows for 4/4 OC making it possible to speed through recipes. It requires 10/s of super coolant in its hatch, its in the same place as the Liquid Cooling Tower.
 
-§4This upgrade is incompatible with its lower tier predecessor.ANDpreRequ3243gregtech/gt.metaitem.01~320183275IC2/upgradeModule~0tasksANDretrievalgregtech/gt.blockcasings~151rewards
+§4This upgrade is incompatible with its lower tier predecessor.ANDpreRequgregtech/gt.metaitem.01~32018Quest Name For 32433243IC2/upgradeModule~0Quest Name For 32753275rewardstasksANDRetrievalgregtech/gt.blockcasings~15gregtech/gt.blockcasings~15 Name1

@@ -1,3 +1,3 @@
 1748Arithmetic Logic CircuitsThe Arithmetic Logic Circuits are used in numerous parts;  mostly in groups of 8-16, up to 64.
    
-So be sure to make plenty.ANDpreRequ1745OpenComputers/item~48tasksANDoptional_retrievalgregtech/gt.metaitem.03~321064retrievalOpenComputers/item~274rewardschoiceOpenComputers/item~274OpenComputers/item~241itemenhancedlootbags/lootbag~451miscutils/itemGenericToken~01
+So be sure to make plenty.ANDpreRequOpenComputers/item~48Quest Name For 17451745rewardsChoiceOpenComputers/item~24Choice Name1Itemmiscutils/itemGenericToken~0Item Name1tasksANDOptionalgregtech/gt.metaitem.03~32106gregtech/gt.metaitem.03~32106 Name4RetrievalOpenComputers/item~27OpenComputers/item~27 Name4

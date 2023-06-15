@@ -8,4 +8,4 @@ Curses placed on blocks are only visible to the player who cast it, and for a sh
 
 Getting very close to a Curse makes it visible without having it affect you, but it requires extreme carefulness.
 
-It is possible to remove Curses by using a Potion of Purity.ANDpreRequ2372HardcoreEnderExpansion/living_matter~0tasksANDretrievalHardcoreEnderExpansion/end_powder~04rewardschoiceHardcoreEnderExpansion/endoplasm~01HardcoreEnderExpansion/essence~04HardcoreEnderExpansion/silverfish_blood~01HardcoreEnderExpansion/arcane_shard~02HardcoreEnderExpansion/living_matter~01enhancedlootbags/lootbag~581itemdreamcraft/item.CoinChemistII~05dreamcraft/item.CoinDarkWizardII~05HardcoreEnderExpansion/knowledge_note~06
+It is possible to remove Curses by using a Potion of Purity.ANDpreRequHardcoreEnderExpansion/living_matter~0Quest Name For 23722372rewardsChoiceenhancedlootbags/lootbag~58Choice Name1ItemHardcoreEnderExpansion/knowledge_note~0Item Name6tasksANDRetrievalHardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name4

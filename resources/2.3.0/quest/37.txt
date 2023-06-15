@@ -1,2 +1,2 @@
 37§2§lGetting IronIron can be found in multiple veins. 
-Magnetite veins (Y 30-180), Chalcopyrite veins (Y 5-60), and Limonite veins (Y 10-40) all contain iron ore.ANDpreRequ474TConstruct/pickaxe~0tasksANDretrievalminecraft/iron_ingot~072rewardschoiceminecraft/pumpkin_pie~01minecraft/golden_carrot~01enhancedlootbags/lootbag~11itemdreamcraft/item.CoinSmith~010
+Magnetite veins (Y 30-180), Chalcopyrite veins (Y 5-60), and Limonite veins (Y 10-40) all contain iron ore.ANDpreRequTConstruct/pickaxe~0Quest Name For 474474rewardsChoiceenhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10tasksANDRetrievalminecraft/iron_ingot~0minecraft/iron_ingot~0 Name72

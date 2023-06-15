@@ -6,4 +6,4 @@ All recipes require a §cculture§r, some recipes require a specific §cGlass-Ti
 
 §rThe culture is made in a BioLab and §lput in the controller.
 
-§l§rThe Glass-Tier is calculated as LV = Tier 1, so this quest requires you to make tier 3 glass.ANDpreRequ160gregtech/gt.blockmachines~132566gregtech/gt.blockmachines~12699tasksANDoptional_retrievalbartworks/BW_GlasBlocks~032retrievalgregtech/gt.blockmachines~127121rewardsitemenhancedlootbags/lootbag~62itemdreamcraft/item.CoinTechnicianII~01
+§l§rThe Glass-Tier is calculated as LV = Tier 1, so this quest requires you to make tier 3 glass.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160gregtech/gt.blockmachines~12699Quest Name For 25662566rewardsItemenhancedlootbags/lootbag~6Item Name2Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalbartworks/BW_GlasBlocks~0bartworks/BW_GlasBlocks~0 Name32Retrievalgregtech/gt.blockmachines~12712gregtech/gt.blockmachines~12712 Name1

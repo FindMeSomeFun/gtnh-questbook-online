@@ -16,4 +16,4 @@ Use WAs in TE mode to accelerate crops if you need it. Mostly useful for breedin
 
 As you tier up, you can create 31/31/0 crops with the machines and UUM. It's up to you whether it's worth it though.
 
-Go do bees if you want something higher than EV tier materials.ANDpreRequ2729gregtech/gt.blockmachines~12501tasksANDcheckboxgendustry/Waste~064rewards
+Go do bees if you want something higher than EV tier materials.ANDpreRequgregtech/gt.blockmachines~12501Quest Name For 27292729rewardstasksANDCheckboxcheckbox  

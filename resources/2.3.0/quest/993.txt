@@ -2,4 +2,4 @@
 
 This can take a very long time, so parallelize!
 
-Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and useful) combs you need a GT centrifuge.ANDpreRequ539gregtech/gt.blockmachines~361992Forestry/beePrincessGE~0tasksANDoptional_retrievalForestry/beeCombs~6370retrievalForestry/propolis~3305rewardsitemenhancedlootbags/lootbag~251gregtech/gt.metatool.01~281itemdreamcraft/item.CoinBees~025
+Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and useful) combs you need a GT centrifuge.ANDpreRequgregtech/gt.blockmachines~361Quest Name For 539539Forestry/beePrincessGE~0Quest Name For 992992rewardsItemgregtech/gt.metatool.01~28Item Name1Itemdreamcraft/item.CoinBees~0Item Name25tasksANDOptionalForestry/beeCombs~6Forestry/beeCombs~6 Name370RetrievalForestry/propolis~3Forestry/propolis~3 Name305

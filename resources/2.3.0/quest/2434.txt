@@ -1,1 +1,1 @@
-2434Tin Ore exchangeYou can exchange your Stack of GT Tin Ore for IC2 Tin Ore.ANDpreRequ31gregtech/gt.metaitem.01~11057tasksANDretrievalgregtech/gt.blockores~5764rewardsitemIC2/blockOreTin~064
+2434Tin Ore exchangeYou can exchange your Stack of GT Tin Ore for IC2 Tin Ore.ANDpreRequgregtech/gt.metaitem.01~11057Quest Name For 3131rewardsItemIC2/blockOreTin~0Item Name64tasksANDRetrievalgregtech/gt.blockores~57gregtech/gt.blockores~57 Name64

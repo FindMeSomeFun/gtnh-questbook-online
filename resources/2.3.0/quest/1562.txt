@@ -6,4 +6,4 @@ The Brew of Love may be thrown at a group of two or more enthralled zombies (cre
 
 The Brew of Love is created in a kettle using the recipe found in the book Witchcraft: Brews & Infusions. Into the pot, throw a Rose, a Golden Carrot, Whiff of Magic, a Lily Pad, a Water Artichoke Globe and Cocoa Beans.
 
-Wear a Witches Hat (and/or robes) while brewing to get more brews than just three.ANDpreRequ336witchery/kettle~0tasksANDoptional_retrievalwitchery/ingredient~341retrievalwitchery/ingredient~753rewardsitemminecraft/glass_bottle~016witchery/ingredient~2764enhancedlootbags/lootbag~531itemdreamcraft/item.CoinCookI~05dreamcraft/item.CoinWitchI~05dreamcraft/item.CoinDarkWizardI~05
+Wear a Witches Hat (and/or robes) while brewing to get more brews than just three.ANDpreRequwitchery/kettle~0Quest Name For 336336rewardsItemenhancedlootbags/lootbag~53Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDOptionalwitchery/ingredient~34witchery/ingredient~34 Name1Retrievalwitchery/ingredient~75witchery/ingredient~75 Name3

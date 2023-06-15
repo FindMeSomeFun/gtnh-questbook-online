@@ -1,3 +1,3 @@
 1182Fluid Loader and UnloaderIf you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.
 
-§3PS: You can also use the long-distance pipeline.ANDpreRequ866minecraft/rail~0tasksANDretrievalRailcraft/machine.gamma~51retrievalRailcraft/track~201762rewardschoicegregtech/gt.blockmachines~5103128gregtech/gt.metaitem.01~326101minecraft/rail~064enhancedlootbags/lootbag~321itemdreamcraft/item.CoinAdventure~025dreamcraft/item.CoinTechnician~025
+§3PS: You can also use the long-distance pipeline.ANDpreRequminecraft/rail~0Quest Name For 866866rewardsChoiceenhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalRailcraft/machine.gamma~5Railcraft/machine.gamma~5 Name1RetrievalRailcraft/track~20176Railcraft/track~20176 Name2

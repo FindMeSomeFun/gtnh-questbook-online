@@ -2,4 +2,4 @@
 
 §3You need IV circuits and the HV assembler to start the tab though.
 
-§6If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.ANDpreRequ1231gregtech/gt.metaitem.01~32652tasksANDretrievalGalacticraftCore/tile.moonBlock~58rewardsitemenhancedlootbags/lootbag~221enhancedlootbags/lootbag~61itemdreamcraft/item.CoinSpaceII~01dreamcraft/item.CoinAdventureII~01dreamcraft/item.CoinTechnicianII~01
+§6If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.ANDpreRequgregtech/gt.metaitem.01~32652Quest Name For 12311231rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/tile.moonBlock~5GalacticraftCore/tile.moonBlock~5 Name8

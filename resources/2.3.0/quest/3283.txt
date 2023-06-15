@@ -10,4 +10,4 @@ NEI also has an overview of all the ores you can obtain with a Space Mining Modu
 
 The space elevator also lets you travel to other planets. It doesn't get you back though and there is no documentation. So best find out yourself how it works.
 
-The mining module also got a cycle mode. In static mode it will hold its distance while in cycle mode it will change its distance after each recipe check (and you can configure the range and step size of that).ANDpreRequ2623gregtech/gt.metaitem.01~326772641dreamcraft/item.HeavyDutyPlateTier7~0tasksANDretrievalgregtech/gt.blockmachines~140031rewards
+The mining module also got a cycle mode. In static mode it will hold its distance while in cycle mode it will change its distance after each recipe check (and you can configure the range and step size of that).ANDpreRequgregtech/gt.metaitem.01~32677Quest Name For 26232623dreamcraft/item.HeavyDutyPlateTier7~0Quest Name For 26412641rewardstasksANDRetrievalgregtech/gt.blockmachines~14003gregtech/gt.blockmachines~14003 Name1

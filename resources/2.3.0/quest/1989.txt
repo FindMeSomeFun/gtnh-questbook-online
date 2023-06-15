@@ -12,4 +12,4 @@ mehdi2344 thinks my jokes suck, but he's an idiot, so there.
 
 Thanks to Nori Silverrage for writing up these quests!
 
-§3BTW, there's a Creative Supplier for creative testing. The Energistics Connector is disabled because it doesn't work correctly.ANDpreRequ1225gregtech/gt.metaitem.01~32705tasksANDretrievalStevesFactoryManager/BlockCableName~024rewardsitemStevesFactoryManager/BlockCableName~040
+§3BTW, there's a Creative Supplier for creative testing. The Energistics Connector is disabled because it doesn't work correctly.ANDpreRequgregtech/gt.metaitem.01~32705Quest Name For 12251225rewardsItemStevesFactoryManager/BlockCableName~0Item Name40tasksANDRetrievalStevesFactoryManager/BlockCableName~0StevesFactoryManager/BlockCableName~0 Name24

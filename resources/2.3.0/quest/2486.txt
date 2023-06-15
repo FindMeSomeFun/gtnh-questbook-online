@@ -1,1 +1,1 @@
-2486(deprecated) Fluid Storage HousingThis is the fluid version, for storing fluids in your network.ANDpreRequ3247minecraft/nether_star~0tasksANDrewardsitemdreamcraft/item.DiamondFluidCoreChip~01itemdreamcraft/item.CoinTechnicianII~02
+2486(deprecated) Fluid Storage HousingThis is the fluid version, for storing fluids in your network.ANDpreRequminecraft/nether_star~0Quest Name For 32473247rewardsItemdreamcraft/item.DiamondFluidCoreChip~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksAND

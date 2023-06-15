@@ -1,1 +1,1 @@
-2625ZPM AssemblerLike previous tiers, you need a same-tier assembler to make the energy hatch. It's also used to make the Naquadah Alloy Coils.ANDpreRequ2611gregtech/gt.metaitem.01~32656tasksANDretrievalgregtech/gt.blockmachines~107811rewards
+2625ZPM AssemblerLike previous tiers, you need a same-tier assembler to make the energy hatch. It's also used to make the Naquadah Alloy Coils.ANDpreRequgregtech/gt.metaitem.01~32656Quest Name For 26112611rewardstasksANDRetrievalgregtech/gt.blockmachines~10781gregtech/gt.blockmachines~10781 Name1

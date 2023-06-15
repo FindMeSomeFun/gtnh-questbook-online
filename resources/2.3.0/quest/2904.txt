@@ -1,1 +1,1 @@
-2904Trigger:Platline Palladium SkipNo DescriptionANDpreRequ1696gregtech/gt.blockmachines~425tasksANDretrievalgregtech/gt.metaitem.01~205264rewardsquestcompletiongregtech/gt.metaitem.01~20522878
+2904Trigger:Platline Palladium SkipNo DescriptionANDpreRequgregtech/gt.blockmachines~425Quest Name For 16961696rewardsQuestcompletionThaumcraft/ItemResource~0Quest Name2878tasksANDRetrievalgregtech/gt.metaitem.01~2052gregtech/gt.metaitem.01~2052 Name64

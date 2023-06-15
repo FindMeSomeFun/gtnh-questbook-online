@@ -17,4 +17,4 @@ Naquadah             130sv   14.5s
 Enriched Naquadah 140sv   10.5s
 Naquadria            150sv     8s
 
-There are more radioactive materials than these, but these are the main ones.ANDpreRequ1243gregtech/gt.blockores~48732561gregtech/gt.blockmachines~12712tasksANDretrievalgregtech/gt.blockmachines~127131rewardsitemgregtech/gt.metaitem.01~230981
+There are more radioactive materials than these, but these are the main ones.ANDpreRequgregtech/gt.blockores~4873Quest Name For 12431243gregtech/gt.blockmachines~12712Quest Name For 25612561rewardsItemgregtech/gt.metaitem.01~23098Item Name1tasksANDRetrievalgregtech/gt.blockmachines~12713gregtech/gt.blockmachines~12713 Name1

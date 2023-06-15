@@ -2,4 +2,4 @@
 
 To operate it, fill it with a bucket of water to keep the plants hydrated. After that you can add the ingredients by dropping them on top.
 
-Each craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.ANDpreRequ3220Botania/grassSeeds~0tasksANDoptional_retrievalgregtech/gt.blockmetal6~101retrievalBotania/altar~01rewardsitemdreamcraft/item.CoinFlowerI~05
+Each craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.ANDpreRequBotania/grassSeeds~0Quest Name For 32203220rewardsItemdreamcraft/item.CoinFlowerI~0Item Name5tasksANDOptionalgregtech/gt.blockmetal6~10gregtech/gt.blockmetal6~10 Name1RetrievalBotania/altar~0Botania/altar~0 Name1

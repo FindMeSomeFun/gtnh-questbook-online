@@ -1,3 +1,3 @@
 2978§9§lGetting the most out of your Bauxite.If processed correctly you can get a lot more Gallium out of your Bauxite compared to just using the Thermal Centrifuge. You will also get large amounts of Rutile and Alumina.
 
-First, make some Bauxite Slurry.ANDpreRequ1011gregtech/gt.blockores~822tasksANDoptional_retrievalIC2/itemCellEmpty~120retrievalgregtech/gt.metaitem.01~3040932rewardschoicegregtech/gt.metaitem.01~582216enhancedlootbags/lootbag~61itemdreamcraft/item.CoinChemistI~05
+First, make some Bauxite Slurry.ANDpreRequgregtech/gt.blockores~822Quest Name For 10111011rewardsChoiceenhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5tasksANDOptionalIC2/itemCellEmpty~1IC2/itemCellEmpty~1 Name20Retrievalgregtech/gt.metaitem.01~30409gregtech/gt.metaitem.01~30409 Name32

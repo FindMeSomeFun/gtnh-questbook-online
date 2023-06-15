@@ -1,1 +1,1 @@
-2875Trigger:Loot GameFind a loot game roomANDpreRequtasksORretrievallootgames/LootGamesDungeonWall~327671retrievallootgames/LootGamesDungeonLight~327671rewards
+2875Trigger:Loot GameFind a loot game roomANDpreRequrewardstasksORRetrievallootgames/LootGamesDungeonWall~32767lootgames/LootGamesDungeonWall~32767 Name1Retrievallootgames/LootGamesDungeonLight~32767lootgames/LootGamesDungeonLight~32767 Name1

@@ -2,4 +2,4 @@
 
 First, place water in a 2x2 grid, with 12 flowers surrounding it. Then toss in a portal crystal to open it up. And no, a diamond is not enough.
 
-§3You should be able to use any vanilla flower.ANDpreRequ14Thaumcraft/blockCustomPlant~188gregtech/gt.blockmachines~1120tasksANDretrievaldreamcraft/item.TwilightCrystal~01locationDIM7rewardschoiceTConstruct/materials~261Thaumcraft/ItemLootBag~01enhancedlootbags/lootbag~91itemdreamcraft/item.CoinAdventureI~05dreamcraft/item.CoinDarkWizardI~05
+§3You should be able to use any vanilla flower.ANDpreRequThaumcraft/blockCustomPlant~1Quest Name For 1414gregtech/gt.blockmachines~1120Quest Name For 8888rewardsChoiceenhancedlootbags/lootbag~9Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievaldreamcraft/item.TwilightCrystal~0dreamcraft/item.TwilightCrystal~0 Name1LocationDIM7DIM7 Name 

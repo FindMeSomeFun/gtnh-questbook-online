@@ -1,3 +1,3 @@
 621§6§5§lHow to Get SodiumA second source for sodium is glauconite ore or glauconite sand. This type of ore vein can be found at Y level 20-50.
 
-Soapstone and talc can be used for lubricant.ANDpreRequ609gregtech/gt.metaitem.01~32500tasksANDretrievalgregtech/gt.blockores~90216rewardschoiceharvestcraft/coleslawburgerItem~01harvestcraft/sesameseedsItem~05enhancedlootbags/lootbag~41itemdreamcraft/item.CoinAdventure~015
+Soapstone and talc can be used for lubricant.ANDpreRequgregtech/gt.metaitem.01~32500Quest Name For 609609rewardsChoiceenhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name15tasksANDRetrievalgregtech/gt.blockores~902gregtech/gt.blockores~902 Name16

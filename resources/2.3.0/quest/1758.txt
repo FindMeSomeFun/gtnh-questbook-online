@@ -2,4 +2,4 @@
 
 Your BIOS go onto these little disks,  get me a blank and I'll write the basic BIOS onto it for you.
 
-You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.ANDpreRequ1745OpenComputers/item~48tasksANDoptional_retrievalgregtech/gt.metaitem.01~290861retrievalOpenComputers/eeprom~01rewardsitemOpenComputers/eeprom~01miscutils/itemGenericToken~01
+You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.ANDpreRequOpenComputers/item~48Quest Name For 17451745rewardsItemmiscutils/itemGenericToken~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~29086gregtech/gt.metaitem.01~29086 Name1RetrievalOpenComputers/eeprom~0OpenComputers/eeprom~0 Name1

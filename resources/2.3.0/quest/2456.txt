@@ -10,4 +10,4 @@ x=space, p=pedestal, P=plinth
 
 Place a bound master orb on the plinth and the appropriate sacrifices on the pedestals. They must all be the same element. Specifically, Aether, Incendium, Aquasalus, Terrae, Tenebrae, or Sanctus.
 
-After the lightning, the demon will appear. It won't always drop the shard, so prepare multiple sets.ANDpreRequ708AWWayofTime/masterBloodOrb~0927dreamcraft/tile.BloodyVoid~0tasksANDretrievalAWWayofTime/blockPlinth~01retrievalAWWayofTime/demonBloodShard~03rewardsitemenhancedlootbags/lootbag~171itemdreamcraft/item.CoinBloodII~03
+After the lightning, the demon will appear. It won't always drop the shard, so prepare multiple sets.ANDpreRequAWWayofTime/masterBloodOrb~0Quest Name For 708708dreamcraft/tile.BloodyVoid~0Quest Name For 927927rewardsItemenhancedlootbags/lootbag~17Item Name1Itemdreamcraft/item.CoinBloodII~0Item Name3tasksANDRetrievalAWWayofTime/blockPlinth~0AWWayofTime/blockPlinth~0 Name1RetrievalAWWayofTime/demonBloodShard~0AWWayofTime/demonBloodShard~0 Name3

@@ -12,4 +12,4 @@ You can provide royal jelly to increase the outputs. 1 royal jelly grants 5% bon
 
 OPERATING MODE - SWARMER: In this mode you can only insert 1 queen. The IAADDS will then slowly produce ignoble princesses for 100 royal jelly per operation. The base processing time is 1 minute but you can overclock this process. The base usage is 1 Amp IV.
 
-§3Yes you need thousands of queens, not princesses.ANDpreRequ2089gregtech/gt.blockmachines~93992614gregtech/gt.metaitem.01~32657tasksANDretrievalgregtech/gt.blockmachines~142021rewardsitemkubatech/kubaitems~21
+§3Yes you need thousands of queens, not princesses.ANDpreRequgregtech/gt.blockmachines~9399Quest Name For 20892089gregtech/gt.metaitem.01~32657Quest Name For 26142614rewardsItemkubatech/kubaitems~2Item Name1tasksANDRetrievalgregtech/gt.blockmachines~14202gregtech/gt.blockmachines~14202 Name1

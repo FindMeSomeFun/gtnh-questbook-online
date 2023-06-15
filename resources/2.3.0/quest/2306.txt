@@ -2,4 +2,4 @@
 
 You'll need Saltpeter and Saltwater for this. You can pump saltwater or make it, and mine saltpeter or make it too. Given how much KNO3 you need, you should probably automate making it.
 
-For the steam, you can void it or reuse it for making Hot Ruthenium Tetroxide.ANDpreRequ2305bartworks/gt.bwMetaGeneratedcell~61tasksANDoptional_retrievalgregtech/gt.metaitem.01~306924retrievalgregtech/gt.metaitem.98~04rewardschoicegregtech/gt.metaitem.01~2836100enhancedlootbags/lootbag~82
+For the steam, you can void it or reuse it for making Hot Ruthenium Tetroxide.ANDpreRequbartworks/gt.bwMetaGeneratedcell~61Quest Name For 23052305rewardsChoiceenhancedlootbags/lootbag~8Choice Name2tasksANDOptionalgregtech/gt.metaitem.01~30692gregtech/gt.metaitem.01~30692 Name4Retrievalgregtech/gt.metaitem.98~0gregtech/gt.metaitem.98~0 Name4

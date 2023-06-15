@@ -1,3 +1,3 @@
 1395Wand Focus Vis ShardWand Focus: Vis Shard can be equipped on any wand. While equipped, it can be right-clicked to cast a homing projectile which deals 2-5 damage points. This projectile can bounce off of solid blocks. If the target is not hit in 10 seconds, the projectile disappears. This focus can be enchanted with Frugal, Potency and Persistent.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequ227Thaumcraft/blockTable~15tasksANDretrievalTaintedMagic/ItemFocusVisShard~01rewardsitemenhancedlootbags/lootbag~91Thaumcraft/ItemLootBag~11itemdreamcraft/item.CoinDarkWizardI~05
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockTable~15Quest Name For 227227rewardsItemThaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalTaintedMagic/ItemFocusVisShard~0TaintedMagic/ItemFocusVisShard~0 Name1

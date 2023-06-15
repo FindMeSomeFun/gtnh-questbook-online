@@ -14,4 +14,4 @@ Note that the implementation is not finished, so there are some problems. Upgrad
 
 Please report any bugs/problems to the CFB-specific GTNH issue tracker at https://github.com/GTNewHorizons/CookingForBlockheads/issues
 
-§3There is no cow in a jar, it will not come back.ANDpreRequ1008minecraft/book~0tasksANDretrievalcookingforblockheads/cabinetcorner~01retrievalcookingforblockheads/cookingtable~01rewards
+§3There is no cow in a jar, it will not come back.ANDpreRequminecraft/book~0Quest Name For 10081008rewardstasksANDRetrievalcookingforblockheads/cabinetcorner~0cookingforblockheads/cabinetcorner~0 Name1Retrievalcookingforblockheads/cookingtable~0cookingforblockheads/cookingtable~0 Name1

@@ -10,4 +10,4 @@ Now you only need to chunkload the start and end points and the fluid will be "t
 
 Of course, later on you'll probably use ender tanks to §oactually§r teleport the fluid, especially from other dims.
 
-This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpreRequ546BuildCraftEnergy/blockOil~0tasksANDretrievalgregtech/gt.blockmachines~27002retrievalgregtech/gt.block.longdistancepipe~064rewardsitemgregtech/gt.metaitem.01~326102irontank/goldTank~02itemdreamcraft/item.CoinTechnician~015
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpreRequBuildCraftEnergy/blockOil~0Quest Name For 546546rewardsItemirontank/goldTank~0Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~2700gregtech/gt.blockmachines~2700 Name2Retrievalgregtech/gt.block.longdistancepipe~0gregtech/gt.block.longdistancepipe~0 Name64

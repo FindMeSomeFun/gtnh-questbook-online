@@ -6,4 +6,4 @@ Standard variables are able to be inserted into the middle of a workflow (it has
 Please note that for each loops will require a empty variable to work with. This is listed as "Element" in the loop.
 
 Global vs Local
-Global will keep changes to a variable that are done in the workflow, whereas local keeps anything done local to that part of the workflow.ANDpreRequ1989StevesFactoryManager/BlockMachineManagerName~0tasksANDcheckboxenhancedlootbags/lootbag~71rewardsitemStevesFactoryManager/BlockMachineManagerName~01
+Global will keep changes to a variable that are done in the workflow, whereas local keeps anything done local to that part of the workflow.ANDpreRequStevesFactoryManager/BlockMachineManagerName~0Quest Name For 19891989rewardsItemStevesFactoryManager/BlockMachineManagerName~0Item Name1tasksANDCheckboxcheckbox  

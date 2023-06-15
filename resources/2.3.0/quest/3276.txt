@@ -3,4 +3,4 @@
 After some research, infinity as a frame and enriched holmium as the protection layer seems to work well. It can be allowed to let through nanites to go into the printer base so that extra material can be directly removed instead of trying to go slower.
 
 §3Allows the player to use the tier 2 recipes with the use of a silver nanite in the input bus.
-This also unlocks parallels of the PCB Factory with said formula: Log2(x) parallels, where x is the amount of nanites in the input bus.ANDpreRequ3249gregtech/gt.metaitem.01~179793273gregtech/gt.blockmachines~356tasksANDretrievalgregtech/gt.metaitem.03~40541retrievalgregtech/gt.blockmachines~44241rewards
+This also unlocks parallels of the PCB Factory with said formula: Log2(x) parallels, where x is the amount of nanites in the input bus.ANDpreRequgregtech/gt.metaitem.01~17979Quest Name For 32493249gregtech/gt.blockmachines~356Quest Name For 32733273rewardstasksANDRetrievalgregtech/gt.metaitem.03~4054gregtech/gt.metaitem.03~4054 Name1Retrievalgregtech/gt.blockmachines~4424gregtech/gt.blockmachines~4424 Name1

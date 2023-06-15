@@ -2,4 +2,4 @@
 
 There are also renewable sources of Oil, namely from IC2 crops and bees. The Oilberry crop can produce it indefinitely, but at a very slow rate, whereas bees can do it much faster, particularly Refined Bees, but they are much harder to obtain.
 
-You can also get more out of the Oil by cracking it in specific ways. Lightly Hydrocracked Heavy Fuel, for example, gives 60% of the input amount as Light Fuel, which can be helpful if you have an excess of Heavy, and not enough Light to make Diesel.ANDpreRequ2996BuildCraftEnergy/bucketOil~0tasksANDcheckboxdreamcraft/item.CoinChemistII~01rewardsitemgregtech/gt.blockores~87832
+You can also get more out of the Oil by cracking it in specific ways. Lightly Hydrocracked Heavy Fuel, for example, gives 60% of the input amount as Light Fuel, which can be helpful if you have an excess of Heavy, and not enough Light to make Diesel.ANDpreRequBuildCraftEnergy/bucketOil~0Quest Name For 29962996rewardsItemgregtech/gt.blockores~878Item Name32tasksANDCheckboxcheckbox  

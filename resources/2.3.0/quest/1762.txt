@@ -2,4 +2,4 @@
 
 Place a keyboard facing a screen, or stuck to the back of a screen to make it able to interact with a computer.
 
-Absolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.ANDpreRequ1759OpenComputers/item~54tasksANDoptional_retrievalgregtech/gt.metaitem.02~180191retrievalOpenComputers/keyboard~01rewardschoicegregtech/gt.metaitem.01~327402enhancedlootbags/lootbag~461itemharvestcraft/colasodaItem~01miscutils/itemGenericToken~01
+Absolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.ANDpreRequOpenComputers/item~54Quest Name For 17591759rewardsChoiceenhancedlootbags/lootbag~46Choice Name1Itemmiscutils/itemGenericToken~0Item Name1tasksANDOptionalgregtech/gt.metaitem.02~18019gregtech/gt.metaitem.02~18019 Name1RetrievalOpenComputers/keyboard~0OpenComputers/keyboard~0 Name1

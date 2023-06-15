@@ -16,4 +16,4 @@ This multi consumes 1A LuV when operating, no matter how many pebbles are inside
 
 In this reactor, the throughput increases with the amount of pebbles put into it.
 
-By typing HTGR in NEI, you can see all the items that are related to this multiblock.ANDpreRequ3180gregtech/gt.metaitem.01~2078tasksANDoptional_retrievalgregtech/gt.blockcasings8~5531retrievalgregtech/gt.blockmachines~127911rewardsitemdreamcraft/item.CoinTechnicianIII~010itemkubatech/kubaitems~71
+By typing HTGR in NEI, you can see all the items that are related to this multiblock.ANDpreRequgregtech/gt.metaitem.01~2078Quest Name For 31803180rewardsItemdreamcraft/item.CoinTechnicianIII~0Item Name10Itemkubatech/kubaitems~7Item Name1tasksANDOptionalgregtech/gt.blockcasings8~5gregtech/gt.blockcasings8~5 Name531Retrievalgregtech/gt.blockmachines~12791gregtech/gt.blockmachines~12791 Name1

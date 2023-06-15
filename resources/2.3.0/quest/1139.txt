@@ -4,4 +4,4 @@ If the Kinetic Water Generator's Rotor isn't entirely submerged in water, it wil
 
 While inconvenient, the Water Generator runs more consistently.
 
-§4You can use Witchery (for example) to convert biomes.ANDpreRequ1137IC2/blockGenerator~9tasksANDoptional_retrievalgregtech/gt.metaitem.02~200282retrievalIC2/blockKineticGenerator~41rewardschoiceenhancedlootbags/lootbag~61gregtech/gt.metaitem.02~183064gregtech/gt.metaitem.01~326022itemdreamcraft/item.CoinTechnicianI~05
+§4You can use Witchery (for example) to convert biomes.ANDpreRequIC2/blockGenerator~9Quest Name For 11371137rewardsChoicegregtech/gt.metaitem.01~32602Choice Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.02~20028gregtech/gt.metaitem.02~20028 Name2RetrievalIC2/blockKineticGenerator~4IC2/blockKineticGenerator~4 Name1

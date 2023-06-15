@@ -1,3 +1,3 @@
 2658Making TritaniumIn order to make Tritanium, first you need to make Duranium.
 
-Tritanium is used for the T6 rocket, Gravisuit, the T4 mining multi, and UHV circuits.ANDpreRequ1197gregtech/gt.blockmachines~1194tasksANDoptional_retrievalgregtech/gt.metaitem.99~372optional_retrievalgregtech/gt.metaitem.99~283retrievalgregtech/gt.metaitem.99~3291rewards
+Tritanium is used for the T6 rocket, Gravisuit, the T4 mining multi, and UHV circuits.ANDpreRequgregtech/gt.blockmachines~1194Quest Name For 11971197rewardstasksANDOptionalgregtech/gt.metaitem.99~37gregtech/gt.metaitem.99~37 Name2Optionalgregtech/gt.metaitem.99~28gregtech/gt.metaitem.99~28 Name3Retrievalgregtech/gt.metaitem.99~329gregtech/gt.metaitem.99~329 Name1

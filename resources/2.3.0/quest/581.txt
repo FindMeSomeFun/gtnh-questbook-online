@@ -2,4 +2,4 @@
 
 Put some glass or sand into your thermionic fabricator and make your first tubes.
 
-§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?ANDpreRequ588gregtech/gt.metaitem.01~8530tasksANDoptional_retrievalminecraft/glass~02retrievalForestry/thermionicTubes~102rewardschoiceForestry/thermionicTubes~02Forestry/thermionicTubes~12Forestry/thermionicTubes~22enhancedlootbags/lootbag~191itemdreamcraft/item.CoinForestry~025
+§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?ANDpreRequgregtech/gt.metaitem.01~8530Quest Name For 588588rewardsChoiceenhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinForestry~0Item Name25tasksANDOptionalminecraft/glass~0minecraft/glass~0 Name2RetrievalForestry/thermionicTubes~10Forestry/thermionicTubes~10 Name2

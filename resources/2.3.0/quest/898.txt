@@ -1,3 +1,3 @@
 898§5§lSimple Ore WasherToo lazy to make an ore washer, yet bored with your non-automatable cauldron? Then the simple washer is the machine for you! It works reasonably fast and uses only 8eu max - make sure you don't provide too much voltage! Ok, so you don't get any byproducts, but who cares!
 
-§3They're only every other tier, which is why there's no LV one.ANDpreRequ93gregtech/gt.metaitem.01~32610tasksANDretrievalgregtech/gt.blockmachines~7671rewardsitemgregtech/gt.blockmachines~51334enhancedlootbags/lootbag~41itemdreamcraft/item.CoinTechnician~010
+§3They're only every other tier, which is why there's no LV one.ANDpreRequgregtech/gt.metaitem.01~32610Quest Name For 9393rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalgregtech/gt.blockmachines~767gregtech/gt.blockmachines~767 Name1

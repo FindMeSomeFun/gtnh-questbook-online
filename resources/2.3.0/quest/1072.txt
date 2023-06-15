@@ -2,4 +2,4 @@
 
 First you have to prove you can survive on the moon by yourself. After mining some moon turf, dirt, and rock, you can have it.
 
-Make sure you check back in the HV questline for necessary ores you should gather while here.ANDpreRequ810GalacticraftCore/item.spaceship~0tasksANDretrievalminecraft/ender_eye~01locationDIM28retrievalGalacticraftCore/tile.moonBlock~4512rewardsitemenhancedlootbags/lootbag~61ThaumicTinkerer/cleansingTalisman~01itemdreamcraft/item.CoinSpaceII~01dreamcraft/item.CoinAdventureII~01
+Make sure you check back in the HV questline for necessary ores you should gather while here.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810rewardsItemThaumicTinkerer/cleansingTalisman~0Item Name1Itemdreamcraft/item.CoinAdventureII~0Item Name1tasksANDRetrievalminecraft/ender_eye~0minecraft/ender_eye~0 Name1LocationDIM28DIM28 Name RetrievalGalacticraftCore/tile.moonBlock~4GalacticraftCore/tile.moonBlock~4 Name512
