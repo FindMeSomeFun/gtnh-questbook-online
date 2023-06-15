@@ -84,75 +84,87 @@ function populateElement(text, id) {
 			var y = data[i++];
 			var iconSize = data[i++];
 			var questIcon = data[i];
-			element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
+			element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img class="openQuest" src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
 		}
 	} else if (id == 'questInfo') {
-		element.innerHTML = '<span> <h1>Id: ' + data[0] + ' - ' + data[1] + '</h1> </span>';
+		element.innerHTML = '<span> <h1> Id: ' + data[0] + ' - ' + data[1] + '</h1> </span>';
 		var desc = data[2];
 		var logic = data[3];
-		var nextI = 0;
-		element.innerHTML += '<span> <h2>Pre-Requisites: ';
+		var i = 5;
+		var elementString = '';
+		elementString += '<span> <h2>Pre-Requisites: ';
 		if (data[5] == 'rewards') {
-			element.innerHTML += 'NONE </h2> </span>';
+			elementString += 'NONE </h2> </span>';
 		} else {
-			for (var i = 5; i < data.length; i++) {
-				element.innerHTML += '<div class="questPre"> <input type="hidden" value="' + data[i++] + '"> <img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> </div>';
-				if (data[i] == 'rewards') {
-					element.innerHTML += '</h2> </span>';
-					nextI = i++;
+			for (; i < data.length; i++) {
+				var icon = data[i++];
+				var name = data[i++];
+				var number = data[i];
+//alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
+				elementString += '<div class="questPre"> <input type="hidden" value="' + number + '"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div>';
+				if (data[i + 1] == 'rewards') {
+					elementString += '</h2> </span>';
+					i = i + 1;
 					break;
 				} else {
-					element.innerHTML += ' ' + logic + ' ';
+					elementString += ' ' + logic + ' ';
 				}
 			}
 		}
-		// ['a', 'b', 'c'].includes('b')
-		element.innerHTML += '<p> ' + desc + ' </p> <div class="rewards"> <p> Rewards: </p> <div> <p> ';
-		var rewardTypes = ['item', 'choice', 'questcompletion', 'xp'];
-		if (data[nextI] == 'tasks') {
-			element.innerHTML += 'NONE </p> </div>';
+		i++;	// jump over 'rewards' string
+		element.innerHTML += elementString;
+		elementString = '<p> ' + desc + ' </p> <div class="rewards"> <p> Rewards: </p> <div> <p> ';
+		var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
+alert('before rewards:' + data[i] + '\ni: ' + i);
+		if (data[i] == 'tasks') {
+			elementString += 'NONE </p> </div>';
 		} else {
-			for (var i = nextI; i < data.length; i++) {
-				if (reportIfMissing(rewardTypes, data[i], 'rewardTypes')) {
-					var type = data[i];
-					for (i; i < data.length; i++) {
-						var icon = data[i++];
-						var name = icon;
-						var number = data[i++];
-						element.innerHTML += type + ' Reward </p> <div> <div> <div> ';
-						element.innerHTML += name + ' </div> <div> x ' + number + '</div> </div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> </div> </div>';
-						if (data[i] == 'tasks') {
-							element.innerHTML += '</div>';
-							nextI = i++;
-							break;
-						} if (rewardTypes.includes(data[i])) {
-							
-						} else {
-							element.innerHTML += ' ' + logic + ' ';
-						}
+			for (; i < data.length; i++) {
+				var type = data[i++];
+alert('type: ' + type);
+				for (; i < data.length; i++) {
+					if (data[i] == 'tasks') {
+						elementString += '</div>';
+						break;
+					}
+					var icon = data[i++];
+					var name = data[i++];
+					var number = data[i++];
+alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i]);
+					elementString += type + ' Reward </p> <div> <div> <div> ' + name + ' </div> <div> x ' + number + '</div> </div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> </div> </div>';
+					if (rewardTypes.includes(data[i--])) {
+						break;
 					}
 				}
+				if (data[i] == 'tasks') {
+					break;
+				}
 			}
-			var taskNo = 1;
-			var taskTypes = ['retrieval', 'optional', 'checkbox', 'crafting', 'hunt', 'location', 'fluid'];
 		}
-		
-		
-		var x = data[i++];
-		var y = data[i++];
-		var iconSize = data[i++];
-		var questIcon = data[i];
-		element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
-// id, name, desc, logic, preRequ, [icon, name, qustId, , ...], rewards, [type, [icon, name, number, ...]], tasks, logic, [type, [icon, name, number, ...]]
+		i++;	// jump over 'tasks' string
+		element.innerHTML += elementString;
+		var taskNo = 1;
+		elementString = '<div class="tasks"> <p> Tasks: </p> <div> <p> ' + taskNo + '. ';
+		var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid'];
+		logic = data[i++];
+alert('before tasks:' + data[i] + '\ni: ' + i);
+		for (; i < data.length; i++) {
+			var type = data[i++];
+alert('type: ' + type);
+			for (; i < data.length; i++) {
+				var icon = data[i++];
+				var name = data[i++];
+				var number = data[i++];
+alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i]);
+				elementString += type + ' Task </p> <div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> <div> <div> ' + name + ' </div> <div> 0 / ' + number + ' </div> </div> </div>';
+				if (taskTypes.includes(data[i])) {
+					break;
+				}
+			}
+		}
+		elementString += '</div>';
+		element.innerHTML += elementString;
 	}
-}
-
-function reportIfMissing(array, value, listName) {
-	if (rewardTypes.includes(data[i++])) {
-		return true;
-	}
-	alert('Value: "' + value + '" is missing in "' + listName + '" list!');
-	return false;
 }
 
 function loadQuestLineTree(questLineId) {
@@ -180,8 +192,8 @@ window.onclick = function(event) {
 			}
 		}
 		loadQuestLineTree(event.target.children[0].value);
-	} else if (event.target.matches('.quest')) {
-		loadQuest(event.target.children[0].value);
+	} else if (event.target.matches('.openQuest')) {
+		loadQuest(event.target.previousElementSibling.value);
 	}
 }
 

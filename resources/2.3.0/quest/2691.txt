@@ -2,4 +2,4 @@
 
 BTW the other recipe that makes this is used later in the processing chain. You can loop the 2-Ethylanthraquinone so you don't have to make more if you don't want to scale up.
 
-§3You need Palladium for the next quest.ANDpreRequmiscutils/itemDustPhthalicAnhydride~0Quest Name For 26922692rewardstasksANDOptionalmiscutils/Ethylbenzene~0miscutils/Ethylbenzene~0 Name5Optionalmiscutils/2Ethylanthraquinone~0miscutils/2Ethylanthraquinone~0 Name5Checkboxcheckbox  
+§3You need Palladium for the next quest.ANDpreRequmiscutils/itemDustPhthalicAnhydride~0Quest Name For 26922692rewardstasksANDOptionalmiscutils/itemDustPhthalicAnhydride~0miscutils/itemDustPhthalicAnhydride~0 Name75miscutils/Ethylbenzene~0miscutils/Ethylbenzene~0 Name5Optionalmiscutils/2Ethylanthraquinone~0miscutils/2Ethylanthraquinone~0 Name5Checkboxcheckbox  

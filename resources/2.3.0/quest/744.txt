@@ -2,4 +2,4 @@
 
 Higher tier metals require the MV extruder. Don't destroy your whole garden.
 
-§6The quest should accept the tool whatever materials you used.ANDpreRequTConstruct/ToolForgeBlock~0Quest Name For 741741rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalTConstruct/metalPattern~14TConstruct/metalPattern~14 Name1RetrievalTConstruct/excavator~0TConstruct/excavator~0 Name1
+§6The quest should accept the tool whatever materials you used.ANDpreRequTConstruct/ToolForgeBlock~0Quest Name For 741741rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalTConstruct/metalPattern~19TConstruct/metalPattern~19 Name1TConstruct/metalPattern~16TConstruct/metalPattern~16 Name1TConstruct/metalPattern~15TConstruct/metalPattern~15 Name1TConstruct/metalPattern~14TConstruct/metalPattern~14 Name1RetrievalTConstruct/excavator~0TConstruct/excavator~0 Name1

@@ -1,3 +1,3 @@
 2687MonomethylhydrazineYou'll need this if you want to make CN3H7O3 (Purple) Rocket Fuel. It's also made in the Chemical Plant.
 
-§3Look up recipe for CN3H7O3 to properly see recipe for Monomethylhydrazine.ANDpreRequmiscutils/RocketFuelMixD~0Quest Name For 26862686rewardstasksANDOptionalgregtech/gt.metaitem.01~2010gregtech/gt.metaitem.01~2010 Name2Optionalmiscutils/Monomethylhydrazine~0miscutils/Monomethylhydrazine~0 Name2Checkboxcheckbox  
+§3Look up recipe for CN3H7O3 to properly see recipe for Monomethylhydrazine.ANDpreRequmiscutils/RocketFuelMixD~0Quest Name For 26862686rewardstasksANDOptionalgregtech/gt.metaitem.01~30001gregtech/gt.metaitem.01~30001 Name4miscutils/Hydrazine~0miscutils/Hydrazine~0 Name2gregtech/gt.metaitem.01~2010gregtech/gt.metaitem.01~2010 Name2Optionalmiscutils/Monomethylhydrazine~0miscutils/Monomethylhydrazine~0 Name2Checkboxcheckbox  

@@ -2,4 +2,4 @@
 
 By the way, you can wall-share Oil Crackers, just like DTs, LCRs and many other multis, and doing this will save on the amount of coils you need!
 
-§3You only need to do one of the two tasks.ANDpreRequgregtech/gt.blockmachines~142Quest Name For 30103010rewardsItemdreamcraft/item.CoinChemistII~0Item Name10tasksORRetrievalgregtech/gt.blockcasings5~2gregtech/gt.blockcasings5~2 Name16Retrievalgregtech/gt.blockcasings5~3gregtech/gt.blockcasings5~3 Name16
+§3You only need to do one of the two tasks.ANDpreRequgregtech/gt.blockmachines~142Quest Name For 30103010rewardsItemIC2/itemCellEmpty~0Item Name64gregtech/gt.metaitem.01~30001Item Name16IC2/itemCellEmpty~14Item Name16enhancedlootbags/lootbag~7Item Name1dreamcraft/item.CoinChemistII~0Item Name10tasksORRetrievalgregtech/gt.blockcasings5~2gregtech/gt.blockcasings5~2 Name16Retrievalgregtech/gt.blockcasings5~3gregtech/gt.blockcasings5~3 Name16

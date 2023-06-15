@@ -4,4 +4,4 @@ You will need to plant 4 vanilla flowers to get them on a cropstick. They also d
 
 To get "Rose Seeds" place poppies. Honestly there's several flowers you can use, though.
 
-§3If you actually want these for dyes, go make the rainbow cactus instead.ANDpreRequIC2/blockCrop~0Quest Name For 718718rewardsChoiceenhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name2Retrievalminecraft/dye~11minecraft/dye~11 Name32
+§3If you actually want these for dyes, go make the rainbow cactus instead.ANDpreRequIC2/blockCrop~0Quest Name For 718718rewardsChoiceIC2/itemCropSeed~0Choice Name1IC2/itemCropSeed~0Choice Name1enhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name2IC2/itemCropSeed~0IC2/itemCropSeed~0 Name2Retrievalminecraft/dye~1minecraft/dye~1 Name32minecraft/dye~11minecraft/dye~11 Name32

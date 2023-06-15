@@ -4,4 +4,4 @@ The first is for items and acts like a terminal. It can hold 4,032 of a single i
 
 The second is for liquids, and acts like the fluid terminal. It can hold 128 buckets of a single liquid.
 
-It costs AE to put things in, take them out, or have the interface open. Use the Wireless Charger from EIO if you don't want it to take forever.ANDpreRequappliedenergistics2/tile.BlockDrive~0Quest Name For 12921292rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalae2fc/portable_fluid_cell~0ae2fc/portable_fluid_cell~0 Name1
+It costs AE to put things in, take them out, or have the interface open. Use the Wireless Charger from EIO if you don't want it to take forever.ANDpreRequappliedenergistics2/tile.BlockDrive~0Quest Name For 12921292rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/item.ToolPortableCell~0appliedenergistics2/item.ToolPortableCell~0 Name1ae2fc/portable_fluid_cell~0ae2fc/portable_fluid_cell~0 Name1

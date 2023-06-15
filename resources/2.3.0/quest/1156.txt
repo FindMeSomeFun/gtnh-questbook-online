@@ -2,4 +2,4 @@
 
 §4For upgrades
 §3Nether Quartz - More damage
-Moss - Self-Repair (unlock in GTNH Thaumcraft tab)ANDpreRequTConstruct/Crossbow~0Quest Name For 11511151rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalTConstruct/woodPattern~24TConstruct/woodPattern~24 Name1OptionalTConstruct/fletching~0TConstruct/fletching~0 Name1OptionalTConstruct/BoltPart~0TConstruct/BoltPart~0 Name1RetrievalTConstruct/BoltAmmo~0TConstruct/BoltAmmo~0 Name1
+Moss - Self-Repair (unlock in GTNH Thaumcraft tab)ANDpreRequTConstruct/Crossbow~0Quest Name For 11511151rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalTConstruct/woodPattern~1TConstruct/woodPattern~1 Name1TConstruct/woodPattern~24TConstruct/woodPattern~24 Name1OptionalTConstruct/toolRod~0TConstruct/toolRod~0 Name1TConstruct/fletching~0TConstruct/fletching~0 Name1OptionalTConstruct/BoltPart~0TConstruct/BoltPart~0 Name1RetrievalTConstruct/BoltAmmo~0TConstruct/BoltAmmo~0 Name1

@@ -9,4 +9,4 @@ F) After leaving you wake up on the surface somewhere nearby, your lack of memor
 
 Among the ore samples you seem to have brought back with you, you find a number of "basic" and "intermediate" ores and gems, as well as a few you don't recognize! Perhaps a return trip is in order?  
 
-Also, you seem to smell like cheese for some reason?ANDpreRequThaumicTinkerer/ichorPickGem~0Quest Name For 327327rewardsItemAutomagy/shardSliver~5Item Name1ItemIC2/blockMiningPipe~0Item Name64tasksANDLocationDIM60DIM60 Name 
+Also, you seem to smell like cheese for some reason?ANDpreRequThaumicTinkerer/ichorPickGem~0Quest Name For 327327rewardsItemgregtech/gt.metaitem.01~9032Item Name1gregtech/gt.metaitem.01~9089Item Name1gregtech/gt.metaitem.01~2500Item Name1appliedenergistics2/item.ItemCrystalSeed~600Item Name1GalacticraftCore/item.basicItem~2Item Name1GalacticraftMars/item.null~0Item Name1Automagy/shardSliver~5Item Name1ItemIC2/blockMiningPipe~0Item Name64IC2/blockMiningPipe~0Item Name64IC2/blockMiningPipe~0Item Name64IC2/blockMiningPipe~0Item Name64tasksANDLocationDIM60DIM60 Name 

@@ -5,4 +5,4 @@ Golden swords increase the chance to 1 in 14.
 It is used to brew Infestation Remedy.
 
 
-ANDpreRequHardcoreEnderExpansion/instability_orb_ore~0Quest Name For 23532353rewardsChoiceenhancedlootbags/lootbag~58Choice Name1ItemHardcoreEnderExpansion/knowledge_note~0Item Name3tasksANDRetrievalminecraft/golden_sword~0minecraft/golden_sword~0 Name1RetrievalHardcoreEnderExpansion/silverfish_blood~0HardcoreEnderExpansion/silverfish_blood~0 Name16
+ANDpreRequHardcoreEnderExpansion/instability_orb_ore~0Quest Name For 23532353rewardsChoiceHardcoreEnderExpansion/endoplasm~0Choice Name2HardcoreEnderExpansion/essence~0Choice Name8HardcoreEnderExpansion/silverfish_blood~0Choice Name2enhancedlootbags/lootbag~58Choice Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinDarkWizardII~0Item Name2HardcoreEnderExpansion/knowledge_note~0Item Name3tasksANDRetrievalminecraft/golden_sword~0minecraft/golden_sword~0 Name1RetrievalHardcoreEnderExpansion/silverfish_blood~0HardcoreEnderExpansion/silverfish_blood~0 Name16

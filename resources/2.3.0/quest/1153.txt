@@ -2,4 +2,4 @@
 
 With redstone you can make your bow faster. This requires a free modifier slot on your crossbow.
 
-Don't bother putting Nether Quartz on the crossbow, it only improves damage from whacking mobs over the head with it. Put the Nether Quartz on your bolts instead.ANDpreRequTConstruct/bowstring~2Quest Name For 11521152rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~11382gregtech/gt.metaitem.01~11382 Name5RetrievalTConstruct/CrossbowBodyPart~11TConstruct/CrossbowBodyPart~11 Name1
+Don't bother putting Nether Quartz on the crossbow, it only improves damage from whacking mobs over the head with it. Put the Nether Quartz on your bolts instead.ANDpreRequTConstruct/bowstring~2Quest Name For 11521152rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinSmith~0Item Name15dreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~11382gregtech/gt.metaitem.01~11382 Name5RetrievalTConstruct/CrossbowBodyPart~11TConstruct/CrossbowBodyPart~11 Name1

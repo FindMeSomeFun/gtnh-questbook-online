@@ -1,3 +1,3 @@
 1435Moon Buggy SchematicThe moon buggy needs a schematic. Place it in the NASA worbench and unlock it on the last tab.
 
-§3If you've made the chip in an older version, you can turn it back into a schematic in a PLE.ANDpreRequGalacticraftCore/tile.moonBlock~14Quest Name For 14331433rewardsChoiceenhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/item.schematic~0GalacticraftCore/item.schematic~0 Name1
+§3If you've made the chip in an older version, you can turn it back into a schematic in a PLE.ANDpreRequGalacticraftCore/tile.moonBlock~14Quest Name For 14331433rewardsChoiceGalacticraftCore/item.heavyPlating~0Choice Name1gregtech/gt.metaitem.01~11028Choice Name8enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/item.schematic~0GalacticraftCore/item.schematic~0 Name1

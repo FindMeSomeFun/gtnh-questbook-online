@@ -2,4 +2,4 @@
 
 If you want to get that molten redstone into a cell, you'll need a fluid canner instead of a GT tank. Why? Because Reasons.
 
-Fortunately, most fluids work properly, but redstone, cracked fluids, and certain other ones do not. Or just use a universal cell.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemharvestcraft/frenchtoastItem~0Item Name2Choiceminecraft/redstone~0Choice Name32Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~511gregtech/gt.blockmachines~511 Name1
+Fortunately, most fluids work properly, but redstone, cracked fluids, and certain other ones do not. Or just use a universal cell.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemharvestcraft/appleciderItem~0Item Name5harvestcraft/frenchtoastItem~0Item Name2ChoiceIC2/itemCellEmpty~0Choice Name16enhancedlootbags/lootbag~4Choice Name1gregtech/gt.metaitem.01~32700Choice Name2minecraft/redstone~0Choice Name32Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~511gregtech/gt.blockmachines~511 Name1

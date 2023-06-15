@@ -6,4 +6,4 @@ Passive anchors will run for 1 hour off of an ender pearl, and a varying amount 
 
 §9Passive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.
 
-§4World Anchors§r are always loaded, even after a server reset.ANDpreRequgregtech/gt.blockmachines~222Quest Name For 10811081rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalRailcraft/machine.alpha~13Railcraft/machine.alpha~13 Name1
+§4World Anchors§r are always loaded, even after a server reset.ANDpreRequgregtech/gt.blockmachines~222Quest Name For 10811081rewardsItemdreamcraft/item.CoinChunkloaderTierI~0Item Name4enhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalRailcraft/machine.alpha~13Railcraft/machine.alpha~13 Name1

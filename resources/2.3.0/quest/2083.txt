@@ -2,4 +2,4 @@
 
 If you want to bulk scan saplings, you can feed them through a GT scanner filled with honey.
 
-You can also try the Genetics mod to modify them. It's on the first bee tab.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103Forestry/factory~1Quest Name For 578578rewardsItemForestry/honeyDrop~0Item Name64Itemdreamcraft/item.CoinForestry~0Item Name15tasksANDRetrievalForestry/treealyzer~0Forestry/treealyzer~0 Name1
+You can also try the Genetics mod to modify them. It's on the first bee tab.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103Forestry/factory~1Quest Name For 578578rewardsItemenhancedlootbags/lootbag~19Item Name1Forestry/honeyDrop~0Item Name64Itemdreamcraft/item.CoinForestry~0Item Name15tasksANDRetrievalForestry/treealyzer~0Forestry/treealyzer~0 Name1

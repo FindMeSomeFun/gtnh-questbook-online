@@ -195,7 +195,8 @@ input[type=checkbox]:checked + label {
 	z-index: -1;
 }
 
-#questLines > div:hover {
+#questLines > div:hover,
+.quest:hover {
 	background-color: rgba(144, 144, 144, 0.4);
 	cursor: pointer;
 }

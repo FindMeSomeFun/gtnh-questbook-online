@@ -2,4 +2,4 @@
 
 Flippers allow the player to swim at the same speed as walking. The only problem is that it has 0 armor protection.
 
-If you're doing underwater construction, or digging out some clay or gravel, you may find them useful.ANDpreRequminecraft/bed~0Quest Name For 1313BiomesOPlenty/flippers~0Quest Name For 29002900rewardsChoiceenhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSurvivor~0Item Name2tasksANDRetrievalBiomesOPlenty/flippers~0BiomesOPlenty/flippers~0 Name1
+If you're doing underwater construction, or digging out some clay or gravel, you may find them useful.ANDpreRequminecraft/bed~0Quest Name For 1313BiomesOPlenty/flippers~0Quest Name For 29002900rewardsChoiceminecraft/waterlily~0Choice Name16minecraft/dye~0Choice Name16enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSurvivor~0Item Name2tasksANDRetrievalBiomesOPlenty/flippers~0BiomesOPlenty/flippers~0 Name1

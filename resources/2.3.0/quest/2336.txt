@@ -10,4 +10,4 @@ Some recipes require Mutandis Extremis as an ingredient.
 
 Mutandis is crafted using Mutandis and Netherwart.
 
-§3Some cauldron recipes require altar power. This is one of them. Make sure you read the Witches' Brews book.ANDpreRequwitchery/ingredient~14Quest Name For 15551555rewardsItemwitchery/ingredient~27Item Name32Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDOptionalwitchery/ingredient~14witchery/ingredient~14 Name16Retrievalwitchery/ingredient~15witchery/ingredient~15 Name16
+§3Some cauldron recipes require altar power. This is one of them. Make sure you read the Witches' Brews book.ANDpreRequwitchery/ingredient~14Quest Name For 15551555rewardsItemwitchery/ingredient~14Item Name16witchery/ingredient~27Item Name32Itemdreamcraft/item.CoinCookI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDOptionalminecraft/nether_wart~0minecraft/nether_wart~0 Name16witchery/ingredient~14witchery/ingredient~14 Name16Retrievalwitchery/ingredient~15witchery/ingredient~15 Name16

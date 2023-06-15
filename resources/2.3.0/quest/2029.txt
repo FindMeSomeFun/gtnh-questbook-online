@@ -4,4 +4,4 @@ The "effective" voltage for the High Current Arc furnace is one tier lower than 
 
 This machine also does plasma arc furnace recipes.
 
-§3This multi is LuV. It also uses Thorium 232 and is generally a huge pain to make, considering how not useful it is.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416gregtech/gt.blockmachines~16Quest Name For 14931493rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDRetrievalmiscutils/gtplusplus.blockcasings.4~3miscutils/gtplusplus.blockcasings.4~3 Name1
+§3This multi is LuV. It also uses Thorium 232 and is generally a huge pain to make, considering how not useful it is.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416gregtech/gt.blockmachines~16Quest Name For 14931493rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDRetrievalgregtech/gt.blockmachines~862gregtech/gt.blockmachines~862 Name1miscutils/gtplusplus.blockcasings.4~3miscutils/gtplusplus.blockcasings.4~3 Name1

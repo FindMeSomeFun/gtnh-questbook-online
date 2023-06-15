@@ -2,4 +2,4 @@
 
 §3Hint: Check out the nether star recipe which uses null catalyst and salis mundus. Null catalyst can be duplicated by adding magma cream, blaze powder and a tiny pile of nether star dust.§r
 
-§3Also, if you're having trouble getting the wither skulls, you can make a Cleaver or the Skullfire Sword to help with that.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160gregtech/gt.blockmachines~213Quest Name For 770770gregtech/gt.metaitem.01~32705Quest Name For 12251225rewardsItemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/tile.rocketWorkbench~0GalacticraftCore/tile.rocketWorkbench~0 Name1
+§3Also, if you're having trouble getting the wither skulls, you can make a Cleaver or the Skullfire Sword to help with that.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160gregtech/gt.blockmachines~213Quest Name For 770770gregtech/gt.metaitem.01~32705Quest Name For 12251225rewardsItemdreamcraft/item.CoinSpaceII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/tile.rocketWorkbench~0GalacticraftCore/tile.rocketWorkbench~0 Name1

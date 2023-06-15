@@ -2,4 +2,4 @@
 
 Hint: Fluid will auto-output (without any pumps) if you place a valve on the bottom side of the tank. The output rate is 1000 L/t so twice as fast as a GT HV Pump Cover. You can color the tank with Buildcraft paintbrushes and the GT spray can.
 
-If you still use Railcraft tanks in later tiers, you boost the output rate by using pumps.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoiceenhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalRailcraft/machine.beta~1Railcraft/machine.beta~1 Name2
+If you still use Railcraft tanks in later tiers, you boost the output rate by using pumps.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoiceRailcraft/machine.beta~1Choice Name1Railcraft/machine.beta~2Choice Name1TConstruct/oreBerries~1Choice Name5enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalRailcraft/machine.beta~0Railcraft/machine.beta~0 Name30Railcraft/machine.beta~2Railcraft/machine.beta~2 Name2Railcraft/machine.beta~1Railcraft/machine.beta~1 Name2

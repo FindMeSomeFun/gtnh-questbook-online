@@ -6,4 +6,4 @@ Grass - Mutates to Mycellium
 Mycellium - Mutates to Grass
 Dirt (under water) - Mutates to Clay
 
-Wheat in a proper configuration should mutate to wormwood, but because of other mods it doesn't work. You can buy wormwood from the Coins tab instead.ANDpreRequwitchery/ingredient~15Quest Name For 23362336witchery/ingredient~82Quest Name For 23382338rewardsChoiceenhancedlootbags/lootbag~52Choice Name1Itemdreamcraft/item.CoinWitchI~0Item Name5tasksANDRetrievalwitchery/mutator~0witchery/mutator~0 Name1
+Wheat in a proper configuration should mutate to wormwood, but because of other mods it doesn't work. You can buy wormwood from the Coins tab instead.ANDpreRequwitchery/ingredient~15Quest Name For 23362336witchery/ingredient~82Quest Name For 23382338rewardsChoiceTwilightForest/tile.TFPlant~3Choice Name16enhancedlootbags/lootbag~52Choice Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5tasksANDRetrievalwitchery/mutator~0witchery/mutator~0 Name1

@@ -6,4 +6,4 @@ When only using vanilla Minecraft with Witchery (and no other mods), an Arthana 
 
 An Arthana does not change the drop chance for Wither Skeleton Skulls, that will require the Looting enchantment as usual.
 
-Some Circle Magic rites use an Arthana as a foci, the Arthana is not consumed in the process.ANDpreRequwitchery/altar~0Quest Name For 333333rewardsChoiceenhancedlootbags/lootbag~53Choice Name1Itemdreamcraft/item.CoinWitchI~0Item Name5tasksANDRetrievalwitchery/arthana~0witchery/arthana~0 Name1
+Some Circle Magic rites use an Arthana as a foci, the Arthana is not consumed in the process.ANDpreRequwitchery/altar~0Quest Name For 333333rewardsChoiceminecraft/book~0Choice Name1enhancedlootbags/lootbag~53Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5tasksANDRetrievalwitchery/arthana~0witchery/arthana~0 Name1

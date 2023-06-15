@@ -1,3 +1,3 @@
 2891§5§lMagnets != MagicTired of running after ore or other blocks? Use a magnet! It has a limited range, but who cares? Just remember to turn it on.
 
-§3Craft it into the better one in HV, if you still need a magnet by then.ANDpreRequgregtech/gt.metaitem.01~32500Quest Name For 609609gregtech/gt.metaitem.01~32518Quest Name For 615615rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalDraconicEvolution/magnet~0DraconicEvolution/magnet~0 Name1
+§3Craft it into the better one in HV, if you still need a magnet by then.ANDpreRequgregtech/gt.metaitem.01~32500Quest Name For 609609gregtech/gt.metaitem.01~32518Quest Name For 615615rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinSmithI~0Item Name3dreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalDraconicEvolution/magnet~0DraconicEvolution/magnet~0 Name1

@@ -6,4 +6,4 @@ This magical pouch allows creating, holding and activating Charms.
 Sneaking and using the pouch activates or deactives the Charms.
 
 Only one pouch can be active at a time.
-ANDpreRequHardcoreEnderExpansion/rune~0Quest Name For 23672367rewardsChoiceenhancedlootbags/lootbag~58Choice Name1Itemdreamcraft/item.CoinSmithII~0Item Name5tasksANDRetrievalHardcoreEnderExpansion/charm_pouch~0HardcoreEnderExpansion/charm_pouch~0 Name1
+ANDpreRequHardcoreEnderExpansion/rune~0Quest Name For 23672367rewardsChoiceHardcoreEnderExpansion/charm~2Choice Name1HardcoreEnderExpansion/charm~11Choice Name1HardcoreEnderExpansion/charm~8Choice Name1HardcoreEnderExpansion/charm~18Choice Name1HardcoreEnderExpansion/charm~5Choice Name1enhancedlootbags/lootbag~58Choice Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name5dreamcraft/item.CoinSmithII~0Item Name5tasksANDRetrievalHardcoreEnderExpansion/charm_pouch~0HardcoreEnderExpansion/charm_pouch~0 Name1

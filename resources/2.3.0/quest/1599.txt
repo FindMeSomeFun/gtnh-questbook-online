@@ -4,4 +4,4 @@ Put a WIU in a transfer node attached to a crafting table. On the other side of 
 
 Also, if you place a node on a block of cobble that has lava and water next to it, and a WIU in it, it will produce cobble for you automatically. Use upgrades to get more at a time and faster.
 
-§4The WIU can NOT be used for infinite water in GTNH.ANDpreRequExtraUtilities/extractor_base~0Quest Name For 114114rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievaldreamcraft/BabyChest~0dreamcraft/BabyChest~0 Name9
+§4The WIU can NOT be used for infinite water in GTNH.ANDpreRequExtraUtilities/extractor_base~0Quest Name For 114114rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalExtraUtilities/nodeUpgrade~2ExtraUtilities/nodeUpgrade~2 Name1dreamcraft/BabyChest~0dreamcraft/BabyChest~0 Name9

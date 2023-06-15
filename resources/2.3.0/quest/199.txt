@@ -3,4 +3,4 @@
 Magnum Torch: Prevent mob spawns.
 Ender Quarry, and the Ender-Markers that go with it: Quarry up the landscape, so you can get planet blocks, dirt, etc, unlike miners.
 Ender-Thermic Pump: For nether lava pumping with less lag.
-Transfer Node Energy/Hyper-Energy: Transfers RF, so. useless.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsItemExtraUtilities/endConstructor~2Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalExtraUtilities/endConstructor~2ExtraUtilities/endConstructor~2 Name3
+Transfer Node Energy/Hyper-Energy: Transfers RF, so. useless.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsItemExtraUtilities/endConstructor~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalExtraUtilities/endConstructor~0ExtraUtilities/endConstructor~0 Name1ExtraUtilities/endConstructor~2ExtraUtilities/endConstructor~2 Name3

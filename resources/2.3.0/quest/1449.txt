@@ -2,4 +2,4 @@
 
 This rocket can be loaded with 2000L of Rocket Fuel. The safe fuel level is 80 percent. 
 
-You can fill up the right slots with chests to increase the storage space to 36 and 54 slots.ANDpreRequGalacticraftMars/tile.mars~7Quest Name For 14461446rewardsChoiceenhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalGalacticraftMars/item.schematic~1GalacticraftMars/item.schematic~1 Name1
+You can fill up the right slots with chests to increase the storage space to 36 and 54 slots.ANDpreRequGalacticraftMars/tile.mars~7Quest Name For 14461446rewardsChoiceGalacticraftMars/item.null~3Choice Name1gregtech/gt.metaitem.01~11316Choice Name8enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalGalacticraftMars/item.schematic~1GalacticraftMars/item.schematic~1 Name1

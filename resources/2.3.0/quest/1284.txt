@@ -1,3 +1,3 @@
 1284Wasps honeyGiant wasps can be found in the Nether. Quick! Sneak into their hive and steal some honey!
 
-§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect it.ANDpreRequminecraft/portal~0Quest Name For 479479rewardsItemenhancedlootbags/lootbag~1Item Name1tasksANDFluidhoneyhoney Name5000
+§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect it.ANDpreRequminecraft/portal~0Quest Name For 479479rewardsItemdreamcraft/item.CoinAdventure~0Item Name5enhancedlootbags/lootbag~1Item Name1tasksANDFluidhoneyhoney Name5000

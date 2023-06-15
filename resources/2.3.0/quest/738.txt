@@ -6,4 +6,4 @@
 
 -Request pipe will allow requesting only specific items to be send through pipes.
 
--Firewall pipe can control which items can pass through them.ANDpreRequProjRedTransportation/projectred.transportation.routingchip~0Quest Name For 127127rewardsChoiceenhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe~1ProjRedTransportation/projectred.transportation.pipe~1 Name4
+-Firewall pipe can control which items can pass through them.ANDpreRequProjRedTransportation/projectred.transportation.routingchip~0Quest Name For 127127rewardsChoiceProjRedTransportation/projectred.transportation.pipe~0Choice Name4ProjRedCore/projectred.core.part~13Choice Name2gregtech/gt.metaitem.01~17500Choice Name1enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe~1ProjRedTransportation/projectred.transportation.pipe~1 Name4

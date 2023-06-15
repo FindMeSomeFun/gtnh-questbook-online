@@ -1,3 +1,3 @@
 1378Wand Focus Portable HoleThe Wand Focus: Portable Hole when equipped to a wand will create a temporary 3x3 hole centered on the targeted block that will go 32 blocks. Some blocks cannot be passed through, such as Bedrock. Its base vis cost is 0.1 aer and 0.1 perditio per cast.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 238238rewardsItemThaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/FocusPortableHole~0Thaumcraft/FocusPortableHole~0 Name1
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 238238rewardsItemenhancedlootbags/lootbag~10Item Name1Thaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/FocusPortableHole~0Thaumcraft/FocusPortableHole~0 Name1

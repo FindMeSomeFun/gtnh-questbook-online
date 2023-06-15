@@ -1,3 +1,3 @@
 1083MV BatteriesBetter machines need some better batteries. Lithium is the best material to use when making batteries.
 
-§3You only need to complete one task.ANDpreRequgregtech/gt.metaitem.01~32501Quest Name For 758758rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksORRetrievalgregtech/gt.metaitem.01~32529gregtech/gt.metaitem.01~32529 Name4Retrievalgregtech/gt.metaitem.01~32528gregtech/gt.metaitem.01~32528 Name4
+§3You only need to complete one task.ANDpreRequgregtech/gt.metaitem.01~32501Quest Name For 758758rewardsItemgregtech/gt.metaitem.01~17315Item Name8enhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksORRetrievalgregtech/gt.metaitem.01~32529gregtech/gt.metaitem.01~32529 Name4Retrievalgregtech/gt.metaitem.01~32528gregtech/gt.metaitem.01~32528 Name4

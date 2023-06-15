@@ -6,4 +6,4 @@ Personal anchors can be powered with ender fragments for 1h, ender pearls for 4 
 
 §9Passive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.
 
-§4World Anchors§r are always loaded, even after a server reset.ANDpreRequgregtech/gt.blockmachines~251Quest Name For 102102rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalRailcraft/machine.alpha~2Railcraft/machine.alpha~2 Name1
+§4World Anchors§r are always loaded, even after a server reset.ANDpreRequgregtech/gt.blockmachines~251Quest Name For 102102rewardsItemminecraft/ender_pearl~0Item Name4enhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalRailcraft/machine.alpha~2Railcraft/machine.alpha~2 Name1

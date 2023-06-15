@@ -1,3 +1,3 @@
 2686Dense HydrazineDense Hydrazine is needed starting from rocket tier 3, so you should make some if you want to keep exploring space.
 
-It's a T5 240 EU/t recipe, so you'll need to build Chemical Plant out of Titanium and HV Machine Casings.ANDpreRequmiscutils/Hydrazine~0Quest Name For 23942394rewardstasksANDOptionalgregtech/gt.metaitem.01~30673gregtech/gt.metaitem.01~30673 Name6Retrievalmiscutils/RocketFuelMixD~0miscutils/RocketFuelMixD~0 Name10
+It's a T5 240 EU/t recipe, so you'll need to build Chemical Plant out of Titanium and HV Machine Casings.ANDpreRequmiscutils/Hydrazine~0Quest Name For 23942394rewardstasksANDOptionalmiscutils/Hydrazine~0miscutils/Hydrazine~0 Name4gregtech/gt.metaitem.01~30673gregtech/gt.metaitem.01~30673 Name6Retrievalmiscutils/RocketFuelMixD~0miscutils/RocketFuelMixD~0 Name10

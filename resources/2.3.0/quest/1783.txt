@@ -4,4 +4,4 @@ Stealth turns you invisible while sneaking. Place the vest in the center of a Ti
 
 Hint:
 Autorepair can be added to the vest as well.
-Every Armor part has 3 Slots for modification.ANDpreRequTConstruct/travelVest~0Quest Name For 17811781rewardsChoiceenhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalminecraft/ender_eye~0minecraft/ender_eye~0 Name1
+Every Armor part has 3 Slots for modification.ANDpreRequTConstruct/travelVest~0Quest Name For 17811781rewardsChoiceminecraft/potion~8206Choice Name2minecraft/ender_eye~0Choice Name2enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalTConstruct/travelVest~0TConstruct/travelVest~0 Name1minecraft/sugar~0minecraft/sugar~0 Name1minecraft/ender_pearl~0minecraft/ender_pearl~0 Name1minecraft/ender_eye~0minecraft/ender_eye~0 Name1

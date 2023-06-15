@@ -1,4 +1,4 @@
 2439Pumpkin PiePumpkin Pie is a traditional US dessert that is particularly popular for Halloween, Thanksgiving, and Christmas.
 
 1,5 Food Bars for just two Pumpkins and a three sugar. Bon Appetite.
-ANDpreRequharvestcraft/potItem~0Quest Name For 665665rewardsChoiceenhancedlootbags/lootbag~28Choice Name1Itemdreamcraft/item.CoinCook~0Item Name15tasksANDOptionalminecraft/sugar~0minecraft/sugar~0 Name30Retrievalminecraft/pumpkin_pie~0minecraft/pumpkin_pie~0 Name10
+ANDpreRequharvestcraft/potItem~0Quest Name For 665665rewardsChoiceharvestcraft/butterItem~0Choice Name10minecraft/sugar~0Choice Name64enhancedlootbags/lootbag~28Choice Name1Itemdreamcraft/item.CoinCook~0Item Name15tasksANDOptionalminecraft/pumpkin~0minecraft/pumpkin~0 Name20minecraft/sugar~0minecraft/sugar~0 Name30Retrievalminecraft/pumpkin_pie~0minecraft/pumpkin_pie~0 Name10

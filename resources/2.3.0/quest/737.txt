@@ -17,4 +17,4 @@ There are 8 types of chips:
 
 -Item crafting chips craft things. 
 
--Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.ANDpreRequProjRedTransportation/projectred.transportation.routingchip~0Quest Name For 127127rewardsChoiceenhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedCore/projectred.core.part~44ProjRedCore/projectred.core.part~44 Name4
+-Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.ANDpreRequProjRedTransportation/projectred.transportation.routingchip~0Quest Name For 127127rewardsChoiceIC2/itemPartCircuit~0Choice Name2ProjRedCore/projectred.core.part~0Choice Name2enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedCore/projectred.core.part~44ProjRedCore/projectred.core.part~44 Name4

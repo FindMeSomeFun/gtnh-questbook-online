@@ -14,4 +14,4 @@ Put in power (and hopefully UUA), and out comes UUM. You should also know that y
 
 For now, just stockpile the UU matter. You need data orbs to use the replicator, and that's explained next tier. 
 
-§3You only need to complete one of the tasks.ANDpreRequgregtech/gt.blockmachines~473Quest Name For 18761876rewardsChoiceenhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksORRetrievalgregtech/gt.blockmachines~461gregtech/gt.blockmachines~461 Name2Retrievalgregtech/gt.blockmachines~462gregtech/gt.blockmachines~462 Name1
+§3You only need to complete one of the tasks.ANDpreRequgregtech/gt.blockmachines~473Quest Name For 18761876rewardsChoicegregtech/gt.metaitem.01~30721Choice Name1gregtech/gt.metaitem.01~11306Choice Name16EnderIO/blockTank~0Choice Name2enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksORRetrievalgregtech/gt.blockmachines~461gregtech/gt.blockmachines~461 Name2Retrievalgregtech/gt.blockmachines~462gregtech/gt.blockmachines~462 Name1

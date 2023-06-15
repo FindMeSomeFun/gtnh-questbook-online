@@ -6,4 +6,4 @@ With your Ore Washer you can also get Magnesium out of ores like Magnesite.
 
 You already made some Aluminium dust before. It will get easier once you have an EBF or an MV electrolyzer.
 
-Combine both in your alloy smelter to get magnalium.ANDpreRequgregtech/gt.blockmachines~281Quest Name For 673673rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~2019gregtech/gt.metaitem.01~2019 Name6Retrievalgregtech/gt.metaitem.01~11313gregtech/gt.metaitem.01~11313 Name9
+Combine both in your alloy smelter to get magnalium.ANDpreRequgregtech/gt.blockmachines~281Quest Name For 673673rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinAdventure~0Item Name15dreamcraft/item.CoinSmith~0Item Name15dreamcraft/item.CoinChemist~0Item Name15dreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~2018gregtech/gt.metaitem.01~2018 Name3gregtech/gt.metaitem.01~2019gregtech/gt.metaitem.01~2019 Name6Retrievalgregtech/gt.metaitem.01~11313gregtech/gt.metaitem.01~11313 Name9

@@ -2,4 +2,4 @@
 
 The focus fires a small ball of energy with a bright bluish-green trail. This missile is affected by gravity, so the shots need to be "arced" to hit distant targets. When the shot hits a mob, it does one heart of damage and randomly inflicts one of several effects on the target: Poison, Weakness, or Slowness. A 5th-level upgrade to the focus can make it give all the effects at once.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/WandCasting~0Quest Name For 230230rewardsItemThaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/FocusPech~0Thaumcraft/FocusPech~0 Name1
+This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/WandCasting~0Quest Name For 230230rewardsItemenhancedlootbags/lootbag~10Item Name1Thaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/FocusPech~0Thaumcraft/FocusPech~0 Name1

@@ -2,4 +2,4 @@
 
 They can do good amounts of damage and aggro enemies like the pigmen away from you. They can even take care of that pesky Vampire Pigman.
 
-ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemminecraft/red_flower~0Item Name1Choiceenhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalminecraft/iron_block~0minecraft/iron_block~0 Name4
+ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemminecraft/red_flower~0Item Name1Choiceminecraft/iron_ingot~0Choice Name9enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinDarkWizard~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalminecraft/pumpkin~0minecraft/pumpkin~0 Name1minecraft/iron_block~0minecraft/iron_block~0 Name4

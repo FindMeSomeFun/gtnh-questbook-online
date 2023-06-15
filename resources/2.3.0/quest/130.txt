@@ -2,4 +2,4 @@
 
 The pressurized versions are twice as large.
 
-§3Just be careful, because it will eat water cells instead of returning them. ANDpreRequEnderIO/itemMachinePart~0Quest Name For 129129rewardsChoiceEnderIO/itemBasicCapacitor~0Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalEnderIO/blockTank~0EnderIO/blockTank~0 Name1
+§3Just be careful, because it will eat water cells instead of returning them. ANDpreRequEnderIO/itemMachinePart~0Quest Name For 129129rewardsChoiceenhancedlootbags/lootbag~5Choice Name1EnderIO/itemBasicCapacitor~0Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalEnderIO/blockTank~0EnderIO/blockTank~0 Name1

@@ -1,4 +1,4 @@
 694§3§lOne Anvil... Better Make That Two!With your brand-new Compressor you are able to make some metal blocks for your new anvil. Better craft two anvils, one will be required for the forge hammer.
 
 §4With the anvil you can repair, rename and enchant armor and tools.
-ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemminecraft/piston~0Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~27032gregtech/gt.metaitem.01~27032 Name4Craftingminecraft/anvil~0minecraft/anvil~0 Name2
+ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemminecraft/iron_block~0Item Name1minecraft/piston~0Item Name1Itemdreamcraft/item.CoinSmith~0Item Name15dreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalminecraft/iron_block~0minecraft/iron_block~0 Name10gregtech/gt.metaitem.01~17032gregtech/gt.metaitem.01~17032 Name4gregtech/gt.metaitem.01~27032gregtech/gt.metaitem.01~27032 Name4Craftingminecraft/anvil~0minecraft/anvil~0 Name2

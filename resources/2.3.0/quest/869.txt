@@ -2,4 +2,4 @@
 
 You can find small Zinc ores (look in NEI) or you can search the Nether for Sphalerite.
 
-The Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsChoicegregtech/gt.metaitem.01~6535Choice Name64Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~641gregtech/gt.blockmachines~641 Name1
+The Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsChoicegregtech/gt.metaitem.01~6500Choice Name64gregtech/gt.metaitem.01~6501Choice Name64gregtech/gt.metaitem.01~6502Choice Name64gregtech/gt.metaitem.01~6535Choice Name64Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~641gregtech/gt.blockmachines~641 Name1

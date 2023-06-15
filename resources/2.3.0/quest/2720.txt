@@ -2,4 +2,4 @@
 
 Try an Iron Scythe! When used, it clears out a 5x5x5 area of leaves, crops, flowers, or grass. Excellent for tearing through Sacred Oak leaves or dense shrubbery in certain biomes. Later when you have a Cutting Machine you can upgrade to a Diamond Scythe with a 7x7x7 area of effect, or use Amethyst for 9x9x9 to FLEX.
 
-§3The lower tiers break leaves instantly, but don't seem to have the 3x3x3 range for some reason.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoiceenhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name5tasksANDRetrievalBiomesOPlenty/scytheIron~0BiomesOPlenty/scytheIron~0 Name1
+§3The lower tiers break leaves instantly, but don't seem to have the 3x3x3 range for some reason.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoicegregtech/gt.blockores~32Choice Name4BiomesOPlenty/scytheIron~0Choice Name1enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name5dreamcraft/item.CoinSmith~0Item Name5tasksANDRetrievalBiomesOPlenty/scytheIron~0BiomesOPlenty/scytheIron~0 Name1

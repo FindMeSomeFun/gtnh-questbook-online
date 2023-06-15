@@ -4,4 +4,4 @@ A player sensor is a nicer way of opening a door, instead of pushing a button or
 
 Maybe you can find a use for this block mixer, it's kinda weird and doesn't work right. I was going to throw it out anyways.
 
-There are some craftable Malisis items as well, check them out in NEI.ANDpreRequgregtech/gt.metaitem.01~32630Quest Name For 9191rewardsItemmalisisdoors/block_mixer~0Item Name1tasksANDRetrievalmalisisdoors/player_sensor~0malisisdoors/player_sensor~0 Name1
+There are some craftable Malisis items as well, check them out in NEI.ANDpreRequgregtech/gt.metaitem.01~32630Quest Name For 9191rewardsItemmalisisdoors/block_mixer~0Item Name1tasksANDRetrievalmalisisdoors/door_factory~0malisisdoors/door_factory~0 Name1malisisdoors/player_sensor~0malisisdoors/player_sensor~0 Name1

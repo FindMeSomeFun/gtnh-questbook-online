@@ -8,4 +8,4 @@ The highest score for GGR is 31, while the lowest is 0.
 
 §4Remember that you can §5permanantly brick your character!§4 So make a backup first if you don't know what you're doing, or want to edit your actual character.§r
 
-Of course, you can't do any of this on a server.ANDpreRequNatura/N Crops~0Quest Name For 721721rewardsChoiceenhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalminecraft/pumpkin~0minecraft/pumpkin~0 Name32
+Of course, you can't do any of this on a server.ANDpreRequNatura/N Crops~0Quest Name For 721721rewardsChoiceminecraft/glowstone~0Choice Name32IC2/blockCrop~0Choice Name128enhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalminecraft/carrot~0minecraft/carrot~0 Name64minecraft/potato~0minecraft/potato~0 Name64minecraft/melon_block~0minecraft/melon_block~0 Name32minecraft/pumpkin~0minecraft/pumpkin~0 Name32

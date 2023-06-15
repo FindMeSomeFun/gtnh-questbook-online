@@ -6,4 +6,4 @@ Shift-rightclicking recovers the diamond and makes the tank part of the public t
 
 The dial on front controls the input/output of the tank. When blue is up, the tank accepts fluids. When orange is up, the tank will eject fluids.
 
-§3If you get FPS problems from large numbers of them, try the setting in the config to turn off the fancy render at the bottom.ANDpreRequThaumcraft/WandCasting~54Quest Name For 262262rewardsItemminecraft/dye~11Item Name1tasksANDRetrievalEnderStorage/enderChest~4096EnderStorage/enderChest~4096 Name1
+§3If you get FPS problems from large numbers of them, try the setting in the config to turn off the fancy render at the bottom.ANDpreRequThaumcraft/WandCasting~54Quest Name For 262262rewardsItemminecraft/nether_star~0Item Name4minecraft/dye~1Item Name1minecraft/dye~11Item Name1tasksANDRetrievalEnderStorage/enderChest~4096EnderStorage/enderChest~4096 Name1

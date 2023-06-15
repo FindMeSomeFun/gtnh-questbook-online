@@ -4,4 +4,4 @@
 
 Just in case you get that far and still remember it: The PA maxes out at UHV recipes. But UEV machines are treated as 4x UHV machines giving you a lot of parallels.
 
-There is also a new experimental feature where the PA can handle fluid recipes without cells but using the fluid directly.ANDpreRequgregtech/gt.metaitem.01~32705Quest Name For 12251225gregtech/gt.metaitem.01~32597Quest Name For 21492149rewardstasksANDRetrievalgregtech/gt.blockcasings4~0gregtech/gt.blockcasings4~0 Name1
+There is also a new experimental feature where the PA can handle fluid recipes without cells but using the fluid directly.ANDpreRequgregtech/gt.metaitem.01~32705Quest Name For 12251225gregtech/gt.metaitem.01~32597Quest Name For 21492149rewardstasksANDRetrievalgregtech/gt.blockmachines~1199gregtech/gt.blockmachines~1199 Name1gregtech/gt.blockcasings4~0gregtech/gt.blockcasings4~0 Name1

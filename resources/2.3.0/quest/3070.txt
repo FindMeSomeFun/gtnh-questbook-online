@@ -4,4 +4,4 @@ You can also side-step the need for a Fermenter. Check out NEI to see which way 
 
 (You only have to submit one of these)
 
-ANDpreRequIC2/itemBiochaff~0Quest Name For 733733rewardsChoiceenhancedlootbags/lootbag~5Choice Name1tasksORRetrievalgregtech/gt.blockmachines~1159gregtech/gt.blockmachines~1159 Name1Retrievalgregtech/gt.blockmachines~791gregtech/gt.blockmachines~791 Name1
+ANDpreRequIC2/itemBiochaff~0Quest Name For 733733rewardsChoicegregtech/gt.blockmachines~1366Choice Name4gregtech/gt.metaitem.03~32079Choice Name2enhancedlootbags/lootbag~5Choice Name1tasksORRetrievalgregtech/gt.blockmachines~1159gregtech/gt.blockmachines~1159 Name1Retrievalgregtech/gt.blockmachines~791gregtech/gt.blockmachines~791 Name1

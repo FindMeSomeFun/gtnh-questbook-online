@@ -3,4 +3,4 @@
 Hint:
 Autorepair can be added to the goggles as well.
 
-Every Armor has 3 slots for modofication.ANDpreRequTConstruct/travelVest~0Quest Name For 17811781rewardsChoiceenhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalminecraft/potion~8198minecraft/potion~8198 Name1
+Every Armor has 3 slots for modofication.ANDpreRequTConstruct/travelVest~0Quest Name For 17811781rewardsChoiceTConstruct/materials~6Choice Name1minecraft/potion~8198Choice Name2enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalTConstruct/travelGoggles~0TConstruct/travelGoggles~0 Name1minecraft/flint_and_steel~0minecraft/flint_and_steel~0 Name1minecraft/golden_carrot~0minecraft/golden_carrot~0 Name1minecraft/potion~8198minecraft/potion~8198 Name1

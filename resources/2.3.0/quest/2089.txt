@@ -2,4 +2,4 @@
 
 The Industrial Apiary is now a GT machine. It takes up to UV voltage and up to 4 amps but the base usage is just 37 eu/t. You can no longer use a World Accelerator and there is only the one machine, so no GT overclocking. Instead, there are new §oacceleration upgrades§r that act similar to a World Accelerator but are directly integrated into the machine. You will want to use them, they increase the speed and energy usage by a lot. The final tier also increases productivity.
 
-But I shouldn't drone on too long. Go make one and find out yourself.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemenhancedlootbags/lootbag~27Item Name1Itemkubatech/kubaitems~11Item Name1tasksANDRetrievalgregtech/gt.blockmachines~9399gregtech/gt.blockmachines~9399 Name1
+But I shouldn't drone on too long. Go make one and find out yourself.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemgregtech/gt.metaitem.03~32199Item Name4enhancedlootbags/lootbag~27Item Name1Itemkubatech/kubaitems~11Item Name1tasksANDRetrievalgregtech/gt.blockmachines~9399gregtech/gt.blockmachines~9399 Name1

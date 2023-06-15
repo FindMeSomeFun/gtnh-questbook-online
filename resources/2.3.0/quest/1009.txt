@@ -1,3 +1,3 @@
 1009Fish Trapping 2.0Fishing can be very boring. Why not automate it with a fish trap?
 
-This is fish trap 2.0.ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565harvestcraft/fishtrap~0Quest Name For 633633rewardsItemIronChest/BlockIronChest~4Item Name1Itemdreamcraft/item.CoinFarmer~0Item Name20tasksANDCraftingmiscutils/blockFishTrap~0miscutils/blockFishTrap~0 Name1
+This is fish trap 2.0.ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565harvestcraft/fishtrap~0Quest Name For 633633rewardsItemgregtech/gt.blockmachines~5132Item Name8dreamcraft/item.SteelBars~0Item Name4IronChest/BlockIronChest~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name20dreamcraft/item.CoinFarmer~0Item Name20tasksANDCraftingmiscutils/blockFishTrap~0miscutils/blockFishTrap~0 Name1

@@ -35,4 +35,4 @@ Warp Theory adds a bunch of new Warp Effects to the Player. Be very careful beca
 175 warp: Snow
 180 warp: Decay
 190 warp: Swamp
-200 warp: Spawn WitherANDpreRequThaumcraft/ItemThaumonomicon~0Quest Name For 231231rewardsChoiceThaumcraft/ItemLootBag~0Choice Name2tasksANDCheckboxcheckbox  
+200 warp: Spawn WitherANDpreRequThaumcraft/ItemThaumonomicon~0Quest Name For 231231rewardsChoiceWarpTheory/item.warptheory.paper~0Choice Name16Thaumcraft/ItemBathSalts~0Choice Name4Thaumcraft/ItemSanitySoap~0Choice Name2Thaumcraft/ItemLootBag~0Choice Name2tasksANDCheckboxcheckbox  

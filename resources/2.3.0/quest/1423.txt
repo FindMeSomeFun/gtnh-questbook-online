@@ -2,4 +2,4 @@
 
 You can use Noise Hazard Signs instead of Thermal Processing Casings, as long as you have at least 8 Thermal Processing Casings.
 
-§3This multi is IV.§r The muffler goes on the bottom layer.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardsItemgregtech/gt.blockores~34Item Name64Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalmiscutils/gtplusplus.blockcasings.2~0miscutils/gtplusplus.blockcasings.2~0 Name1
+§3This multi is IV.§r The muffler goes on the bottom layer.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardsItemenhancedlootbags/lootbag~8Item Name1gregtech/gt.blockores~34Item Name64Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.blockmachines~849gregtech/gt.blockmachines~849 Name1miscutils/gtplusplus.blockcasings.2~0miscutils/gtplusplus.blockcasings.2~0 Name1

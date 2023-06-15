@@ -8,4 +8,4 @@ Alveary Hygroregulator[sic] - Has two modes, water and lava
 Lava - Temp+10%, Humidity-20%
 Water - Temp010%, Humidity+20%
 
-Unfortunately, there's no way to make them like caves with a block.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemenhancedlootbags/lootbag~26Item Name1tasksANDRetrievalForestry/alveary~5Forestry/alveary~5 Name1
+Unfortunately, there's no way to make them like caves with a block.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemForestry/alveary~0Item Name1enhancedlootbags/lootbag~26Item Name1tasksANDRetrievalExtraBees/alveary~2ExtraBees/alveary~2 Name1ExtraBees/alveary~3ExtraBees/alveary~3 Name1Forestry/alveary~4Forestry/alveary~4 Name1Forestry/alveary~3Forestry/alveary~3 Name1Forestry/alveary~5Forestry/alveary~5 Name1

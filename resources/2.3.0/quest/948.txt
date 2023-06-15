@@ -6,4 +6,4 @@ To make wrought iron, you need a tinkers smelter to melt some iron ingots down a
 
 Later on, you can use an arc furnace to make wrought iron ingots directly.
 
-ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565rewardsItemgregtech/gt.metaitem.02~32243Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~9032gregtech/gt.metaitem.01~9032 Name63Optionalgregtech/gt.metaitem.01~9304gregtech/gt.metaitem.01~9304 Name63Retrievalgregtech/gt.metaitem.01~11304gregtech/gt.metaitem.01~11304 Name7
+ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565rewardsItemgregtech/gt.metatool.01~12Item Name1gregtech/gt.metatool.01~16Item Name1gregtech/gt.metaitem.02~32243Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~9032gregtech/gt.metaitem.01~9032 Name63Optionalgregtech/gt.metaitem.01~9304gregtech/gt.metaitem.01~9304 Name63Retrievalgregtech/gt.metaitem.01~11304gregtech/gt.metaitem.01~11304 Name7

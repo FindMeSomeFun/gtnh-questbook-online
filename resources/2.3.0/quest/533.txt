@@ -2,4 +2,4 @@
 
 The main powergen line that uses this generator is Benzene, but that needs MV tier.
 
-§3If you're dealing with fully renewable powergen, this is the type of generator you'll use the most.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemgregtech/gt.metaitem.01~30742Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~1115gregtech/gt.blockmachines~1115 Name1
+§3If you're dealing with fully renewable powergen, this is the type of generator you'll use the most.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemgregtech/gt.metaitem.01~30001Item Name8gregtech/gt.metaitem.01~30715Item Name4gregtech/gt.metaitem.01~30742Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~1115gregtech/gt.blockmachines~1115 Name1
