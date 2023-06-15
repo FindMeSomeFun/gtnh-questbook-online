@@ -78,6 +78,11 @@ h2 {
 	height: 64px;
 }
 
+.icon64 {
+	width: 64px;
+	height: 64px;
+}
+
 #questLineTree {
 	position: relative;
 	margin: 50px;

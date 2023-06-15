@@ -36,7 +36,7 @@ for (var i = 0; i < newParams.length; i++) {
 		document.getElementById('questLineImg').src = qstLine.children[param[1]].children[1].src;
 		document.getElementById('questLineName').textContent = qstLine.children[param[1]].children[2].textContent;
 	} else if (param[0] == 'questId') {		// Set quest
-		loadQuest(param[0]);
+		loadQuest(param[1]);
 	}
 }
 
@@ -100,7 +100,6 @@ function populateElement(text, id) {
 				var icon = data[i++];
 				var name = data[i++];
 				var number = data[i];
-//alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
 				elementString += '<div class="questPre"> <input type="hidden" value="' + number + '"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div>';
 				if (data[i + 1] == 'rewards') {
 					elementString += '</h2> </span>';
@@ -111,17 +110,16 @@ function populateElement(text, id) {
 				}
 			}
 		}
-		i++;	// jump over 'rewards' string
 		element.innerHTML += elementString;
 		elementString = '<p> ' + desc + ' </p> <div class="rewards"> <p> Rewards: </p> <div> <p> ';
 		var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
-alert('before rewards:' + data[i] + '\ni: ' + i);
+		i++;	// jump over 'rewards' string
 		if (data[i] == 'tasks') {
 			elementString += 'NONE </p> </div>';
 		} else {
 			for (; i < data.length; i++) {
 				var type = data[i++];
-alert('type: ' + type);
+				elementString += type + ' Reward </p> ';
 				for (; i < data.length; i++) {
 					if (data[i] == 'tasks') {
 						elementString += '</div>';
@@ -130,8 +128,7 @@ alert('type: ' + type);
 					var icon = data[i++];
 					var name = data[i++];
 					var number = data[i++];
-alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i]);
-					elementString += type + ' Reward </p> <div> <div> <div> ' + name + ' </div> <div> x ' + number + '</div> </div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> </div> </div>';
+					elementString += '<div> <div> <div> ' + name + ' </div> <div> x ' + number + '</div> </div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> </div>';
 					if (rewardTypes.includes(data[i--])) {
 						break;
 					}
@@ -141,28 +138,28 @@ alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' +
 				}
 			}
 		}
-		i++;	// jump over 'tasks' string
+		elementString += '</div>';
 		element.innerHTML += elementString;
 		var taskNo = 1;
-		elementString = '<div class="tasks"> <p> Tasks: </p> <div> <p> ' + taskNo + '. ';
+		elementString = '<div class="tasks"> <p> Tasks: </p> ';
 		var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid'];
 		logic = data[i++];
-alert('before tasks:' + data[i] + '\ni: ' + i);
+		i++;	// jump over 'tasks' string
 		for (; i < data.length; i++) {
 			var type = data[i++];
-alert('type: ' + type);
+			elementString += '<div> <p> ' + taskNo++ + '. ' + type + ' Task </p> ';
 			for (; i < data.length; i++) {
 				var icon = data[i++];
 				var name = data[i++];
 				var number = data[i++];
-alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i]);
-				elementString += type + ' Task </p> <div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> <div> <div> ' + name + ' </div> <div> 0 / ' + number + ' </div> </div> </div>';
-				if (taskTypes.includes(data[i])) {
+//alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
+				elementString += '<div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> <div> <div> ' + name + ' </div> <div> 0 / ' + number + ' </div> </div> </div>';
+				if (taskTypes.includes(data[i--])) {
+					elementString += '</div>';
 					break;
 				}
 			}
 		}
-		elementString += '</div>';
 		element.innerHTML += elementString;
 	}
 }
