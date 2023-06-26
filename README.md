@@ -9,7 +9,7 @@ Planned usage of path parameters:
 - pinned (predefined list of the pinned quest)
 
 Example:
-https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html?questlineid=4&questid=45&prequestid=36&pinned=1,2,3
+https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html?light=1&questlineid=4&questid=45&prequestid=36&pinned=1,2,3
 
 
 Page preview at:
