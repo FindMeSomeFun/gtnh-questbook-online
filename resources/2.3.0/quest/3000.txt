@@ -4,4 +4,4 @@ There are also renewable sources of Oil, namely from IC2 crops and bees. The Oil
 
 You can also get more out of the Oil by cracking it in specific ways. Lightly Hydrocracked Heavy Fuel, for example, gives 60% of the input amount as Light Fuel, which can be helpful if you have an excess of Heavy, and not enough Light to make Diesel.ANDpre29960BuildCraftEnergy/bucketOil-0.pngrewardsItemgregtech/gt.blockores-878.pngOilsands Ore
 32tasksANDCheckboxcheckbox-.pngCheckbox
-
+1

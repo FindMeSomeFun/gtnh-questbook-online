@@ -3,4 +3,4 @@
 To help you with placing all the blocks in the right places, the controller's interface shows a diagram of which blocks go where. To get a 3D view of the placements in the world, use the Multiblock Structure Hologram Projector on the controller. If you need even more assistance, there are lots of resources on the internet that explain how it's build, since this is a big GregTech multiblock that is required in many packs, and almost always built the same way.
 
 The original quests for each reactor tier will be included in the questline, since they provide good information about each tier and are updated.ANDpre31490GoodGenerator/radiationProtectionPlate-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1

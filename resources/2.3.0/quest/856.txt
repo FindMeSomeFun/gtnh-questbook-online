@@ -8,4 +8,4 @@
 4miscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst\nActive Reaction Agent\n50 / 50
 1Optionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell\nC\u2082H\u2088N\u2082
 2Checkboxcheckbox-.pngCheckbox
-
+1

@@ -6,4 +6,4 @@ Survival autoplace can also take from your alternative inventories, or items tha
 - ME network linked by any kind of AE2 wireless terminal that support item access. support view cell filtering, consume power, require security access and within wireless range
 - Forestry backpacks
 - ender chest inventory, if you have the Ender Backpack from Backpacks mod. Note: ordinary backpacks from the Backpacks mod are NOT supported at the moment.ANDpre28560structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1

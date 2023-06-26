@@ -12,4 +12,4 @@ Totally not useful tip: if you hold off building this long enough, you will be a
 1TConstruct/SearedBlock-2.pngCasting Basin\nFor the ambitious Smeltery\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
 1TConstruct/Smeltery-1.pngSmeltery Drain\nWorks both as input and output for\nfluids in the Smeltery
 2Checkboxcheckbox-.pngCheckbox
-
+1

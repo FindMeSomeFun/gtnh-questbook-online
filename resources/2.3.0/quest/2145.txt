@@ -33,4 +33,4 @@ NUMPAD1 - show/hide the Waila HUD
 NUMPAD3 - shows how to craft what you are looking at
 NUMPAD4 - shows the crafting usages of the thing you are looking at
 ANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1

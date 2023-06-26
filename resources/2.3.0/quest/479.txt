@@ -17,4 +17,4 @@ Watch out for some mobs! They'll take minimal damage from any weapon that is not
 15dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 15tasksANDRetrievalminecraft/obsidian-0.pngObsidian
 10LocationDIM/-1-.pngNether
-
+1

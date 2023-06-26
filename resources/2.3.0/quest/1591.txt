@@ -1,7 +1,7 @@
 1591witchery/ingredient-31.png0Exhale of the Dreaming Horned One360For later use do a few Exhale of the Horned One.ANDpre15850witchery/witchesovenidle-0.pngrewardsItemwitchery/ingredient-27.pngClay Jar
 8Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDLocationDIM/55-.pngSpirit World
-Optionalminecraft/sapling-0.pngOak Sapling\nBurn Time: 100
+1Optionalminecraft/sapling-0.pngOak Sapling\nBurn Time: 100
 64witchery/ingredient-27.pngClay Jar
 16Retrievalwitchery/ingredient-31.pngExhale of the Horned One
 16

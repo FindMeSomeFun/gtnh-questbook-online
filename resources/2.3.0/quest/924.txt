@@ -3,5 +3,5 @@
 5dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 5dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 5tasksANDLocationDIM/49-.pngPluto
-Huntmobs/GalacticraftCore-EvolvedBossWolf-.pngEvolved Boss Wolf
+1Huntmobs/GalacticraftCore-EvolvedBossWolf-.pngEvolved Boss Wolf
 1

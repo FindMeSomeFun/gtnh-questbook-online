@@ -7,4 +7,4 @@
 4miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst\nActive Reaction Agent\n50 / 50
 1Optionalmiscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cell
 2Checkboxcheckbox-.pngCheckbox
-
+1

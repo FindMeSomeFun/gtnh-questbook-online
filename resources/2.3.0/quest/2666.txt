@@ -3,4 +3,4 @@
 They all use Imprint Supporting Boards, a type of crystal (change the dust to crystal with Neon or Krypton in an Autoclave, and then move up tiers with the Precision Laser Engraver), SMDs (or and advanced version), and a §3circuit of the previous tier.§r So the material cost increases rather dramatically. They're made at a power tier +1 of the circuit's tier, so IV ones are made with LuV voltage.
 
 You can even make UEV circuits if you're crazy enough!ANDpre26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1

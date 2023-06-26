@@ -70,5 +70,5 @@ Finally, kill an Iron Golem while it stands within the ritual area to activate t
 1Optionalminecraft/pumpkin-0.pngPumpkin
 1minecraft/iron_block-0.pngBlock of Iron
 4LocationDIM/1-.pngThe End
-RetrievalExtraUtilities/divisionSigil-0-activated.pngPseudo-Inversion Sigil\nSTABLE
+1RetrievalExtraUtilities/divisionSigil-0-activated.pngPseudo-Inversion Sigil\nSTABLE
 1

@@ -166,14 +166,13 @@ function drawLine(ctx, x1, y1, x2, y2, color, width) {
 }
 
 function loadQuestData(data, eId) {
-	var id = id;
-	var icon = data[0];
-	var name = data[1];
-	var desc = data[2];
-	var main = +data[3];
-	var rTime = +data[4];
-	var qLogic = data[5];
-	fullElementString = '<div style="height: 64px;"><div class="inline icon' + main2 + '"><img src="./resources/image/' + icon1 + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id0 + ' - ' + name3 + '</div><div class="sub-title">QuestLine: ' + questLine4 + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>' + rTime5 + '</div><div class="inline top btn hide">Hide</div>';
+	var id = data[0];
+	var icon = data[1];
+	var main = +data[2];
+	var name = data[3];
+	var qLine = data[4];
+	var rTime = +data[5];
+	fullElementString = '<div style="height: 64px;"><div class="inline icon' + main + '"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id + ' - ' + name + '</div><div class="sub-title">QuestLine: ' + qLine + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>' + rTime + '</div><div class="inline top btn hide">Hide</div>';
 	if (eId == 'pinned') {
 		fullElementString += '<div class="inline top btn remove">Remove</div></div></div>';
 	} else {
@@ -181,11 +180,11 @@ function loadQuestData(data, eId) {
 		
 	}
 	//   0-id 1-icon, 2-main, 3-name, 4-questLine, 5-repeatTime, 6-desc, 7-questLogic, 8-pre[[id, main, icon]], 9-rewards[type, [[icon, name, number]]], 10-taskLogic, 11-tasks[type, [[icon, name, number]]]
-	var desc = data[2];
-	var logic = data[3];
-	var i = 5;
+	var desc = data[6];
+	var qLogic = data[7];
+	var i = 9;
 	var elementString = '<div class="pad-top"><div class="half"><div><span>Pre-Requisites: ';
-	if (data[5] == 'rewards') {
+	if (data[9] == 'rewards') {
 		elementString += 'NONE </span><div class="inline icon"></div></div>';
 	} else {
 		for (; i < data.length; i++) {

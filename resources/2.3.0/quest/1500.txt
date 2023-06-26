@@ -29,4 +29,4 @@ Enables BQ3 Hardcore Mode. You only start with 3 lives, so best of luck. Additio
 About Party Syncing: Party syncing works, but if you have someone join later, you'll need to help them go through all the quests first. This is mostly annoying in the first two ages, as they're mostly crafting tasks, instead of retrieval you can just have them pick up. You always need to do consume tasks separately though. 
 
 §4For quests to save properly, you must be online and logged into your Mojang account when starting the game. Sorry, it's a limitation of Better Questing.§rANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1

@@ -61,4 +61,4 @@ Planks/Plates/Foils: Blocks I/O on that side. Use a screwdriver to set allowed t
 Computer Monitor: Adds a visual look. Useless, but sorta fancy.
 
 Lens: Visual only. Useless.ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1

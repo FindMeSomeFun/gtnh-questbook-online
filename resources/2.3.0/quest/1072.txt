@@ -12,7 +12,7 @@ Make sure you check back in the HV questline for necessary ores you should gathe
 4minecraft/ghast_tear-0.pngGhast Tear
 2minecraft/ender_eye-0.pngEye of Ender
 1LocationDIM/28-.pngMoon
-ConsumeGalacticraftCore/tile.moonBlock-5.pngMoon Turf
+1ConsumeGalacticraftCore/tile.moonBlock-5.pngMoon Turf
 512GalacticraftCore/tile.moonBlock-3.pngMoon Dirt
 512GalacticraftCore/tile.moonBlock-4.pngMoon Rock
 512

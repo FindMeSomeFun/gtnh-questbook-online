@@ -2,4 +2,4 @@
 
 Use your Botmium Chemical Plant to make this Mutated Living Solder. The catalyst recipe requires infinity, so best upgrade your chemical plant to Tungstensteel Pipe Casings and at least Awakened Draconium Coils to remove the durability loss on the catalyst.ANDpre26591gregtech/gt.metaitem.03-32076.png26751Avaritia/Resource-6.png26961miscutils/gtplusplus.blockspecialcasings.2-3.pngrewardstasksOROptionalmiscutils/itemCellMutatedLivingSolder-0.pngMutated Living Solder Cell\n?Sn?Bi?\nHold Ctrl to show additional info.
 1Checkboxcheckbox-.pngCheckbox
-
+1

@@ -6,4 +6,4 @@ Have a beer to prepare for your long journey.
 
 §3If you really want to see recipe now, you can go to Mod Options > Thamcraft NEI Additions > Config > general > showLockedRecipes and set to true. Note that this is disabled by default... for reasons.ANDpre381TConstruct/pickaxe-0-356.pngrewardsItemgregtech/gt.metaitem.02-32119.pngBeer\ngregtech:gt.metaitem.02\nGood old Beer
 2tasksANDCheckboxcheckbox-.pngCheckbox
-
+1

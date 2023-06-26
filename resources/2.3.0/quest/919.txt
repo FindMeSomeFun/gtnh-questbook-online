@@ -3,5 +3,5 @@
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1tasksANDLocationDIM/29-.pngMars
-Huntmobs/GalacticraftMars-CreeperBoss-.pngCreeper Boss
+1Huntmobs/GalacticraftMars-CreeperBoss-.pngCreeper Boss
 1

@@ -1,4 +1,4 @@
 375gregtech/gt.metaitem.01-32599.png0Power, So Much Power!10-1If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.
 
 §3The quests to get items will trigger the next part once you hold the item in question.ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-
+1
