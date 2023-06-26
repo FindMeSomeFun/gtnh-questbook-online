@@ -1,1 +1,15 @@
-1709§c§lUltimate CrystalcomputerThe Ultimate Crystalcomputer is a ZPM circuit.ANDpreRequgregtech/gt.metaitem.03~32096Quest Name For 17081708rewardsChoicegregtech/gt.metaitem.03~32104Choice Name4gregtech/gt.metaitem.03~32043Choice Name64gregtech/gt.metaitem.03~32041Choice Name64enhancedlootbags/lootbag~41Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.03~32104gregtech/gt.metaitem.03~32104 Name6gregtech/gt.metaitem.03~32096gregtech/gt.metaitem.03~32096 Name2gregtech/gt.metaitem.03~32039gregtech/gt.metaitem.03~32039 Name24gregtech/gt.metaitem.03~32043gregtech/gt.metaitem.03~32043 Name64gregtech/gt.metaitem.03~32041gregtech/gt.metaitem.03~32041 Name64gregtech/gt.metaitem.02~19360gregtech/gt.metaitem.02~19360 Name64Retrievalgregtech/gt.metaitem.03~32090gregtech/gt.metaitem.03~32090 Name1Optionalbartworks/gt.bwMetaGeneratedItem0~1bartworks/gt.bwMetaGeneratedItem0~1 Name1Retrievalbartworks/gt.bwMetaGeneratedItem0~0bartworks/gt.bwMetaGeneratedItem0~0 Name1
+gregtech/gt.metaitem.03-32090.png§c§lUltimate CrystalcomputerThe Ultimate Crystalcomputer is a ZPM circuit.1-1ANDpre17081gregtech/gt.metaitem.03-32096.pngrewardsChoicegregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
+4gregtech/gt.metaitem.03-32043.pngNOR Memory Chip\nIntegrated Circuit
+64gregtech/gt.metaitem.03-32041.pngNAND Memory Chip\nIntegrated Circuit
+64enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
+6gregtech/gt.metaitem.03-32096.pngCrystalprocessor Assembly\nA Master Circuit\nLuV-Tier
+2gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+24gregtech/gt.metaitem.03-32043.pngNOR Memory Chip\nIntegrated Circuit
+64gregtech/gt.metaitem.03-32041.pngNAND Memory Chip\nIntegrated Circuit
+64gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
+64Retrievalgregtech/gt.metaitem.03-32090.pngUltimate Crystalcomputer\nAn Ultimate Circuit\nZPM-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit\nA Sliced Circuit\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint\nAn Imprint for a Circuit\nAdded by BartWorks
+1

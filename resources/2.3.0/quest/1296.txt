@@ -1,6 +1,19 @@
-1296Purifying the ImpureThe purified versions of Nether, Certus and Fluix crystals can be grown from seeds made in the assembler from crystal dust and sand.
+appliedenergistics2/item.ItemMultiMaterial-12.pngPurifying the ImpureThe purified versions of Nether, Certus and Fluix crystals can be grown from seeds made in the assembler from crystal dust and sand.
 
 They can be grown in-world for free by dropping them in water, or at a much faster rate in a GT Autoclave.
 
 §3Distilled water reduces the recipe time in the Autoclave by half.
-ANDpreRequappliedenergistics2/item.ItemMultiMaterial~7Quest Name For 181181rewardsChoiceappliedenergistics2/item.ItemMultiMaterial~1Choice Name8gregtech/gt.metaitem.01~8523Choice Name8Itemdreamcraft/item.CoinChemistII~0Item Name1tasksANDRetrievalminecraft/sand~0minecraft/sand~0 Name48gregtech/gt.metaitem.01~2522gregtech/gt.metaitem.01~2522 Name16gregtech/gt.metaitem.01~2516gregtech/gt.metaitem.01~2516 Name16appliedenergistics2/item.ItemMultiMaterial~8appliedenergistics2/item.ItemMultiMaterial~8 Name16Retrievalappliedenergistics2/item.ItemCrystalSeed~600appliedenergistics2/item.ItemCrystalSeed~600 Name32appliedenergistics2/item.ItemCrystalSeed~0appliedenergistics2/item.ItemCrystalSeed~0 Name32appliedenergistics2/item.ItemCrystalSeed~1200appliedenergistics2/item.ItemCrystalSeed~1200 Name32Retrievalappliedenergistics2/item.ItemMultiMaterial~11appliedenergistics2/item.ItemMultiMaterial~11 Name32appliedenergistics2/item.ItemMultiMaterial~10appliedenergistics2/item.ItemMultiMaterial~10 Name32appliedenergistics2/item.ItemMultiMaterial~12appliedenergistics2/item.ItemMultiMaterial~12 Name32
+1-1ANDpre1811appliedenergistics2/item.ItemMultiMaterial-7.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
+8gregtech/gt.metaitem.01-8523.pngQuartzite\nSiO\u2082
+8Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDRetrievalminecraft/sand-0.pngSand
+48gregtech/gt.metaitem.01-2522.pngNether Quartz Dust\nSiO\u2082
+16gregtech/gt.metaitem.01-2516.pngCertus Quartz Dust\nSiO\u2082
+16appliedenergistics2/item.ItemMultiMaterial-8.pngFluix Dust
+16Retrievalappliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed\nThis item won''t de-spawn.\n0.0%
+32appliedenergistics2/item.ItemCrystalSeed-0.pngCertus Quartz Seed\nThis item won''t de-spawn.\n0.0%
+32appliedenergistics2/item.ItemCrystalSeed-1200.pngFluix Seed\nThis item won''t de-spawn.\n0.0%
+32Retrievalappliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal
+32appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
+32appliedenergistics2/item.ItemMultiMaterial-12.pngPure Fluix Crystal
+32

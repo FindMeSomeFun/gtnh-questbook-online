@@ -1,3 +1,16 @@
-1686§c§lCrystalprocessorsNow that you're this far into LuV, you can make easier IV circuits, as well as your first UV circuit.
+gregtech/gt.metaitem.03-32089.png§c§lCrystalprocessorsNow that you're this far into LuV, you can make easier IV circuits, as well as your first UV circuit.
 
-After crafting each circuit, make an imprint of it to reduce the cost of following ones.ANDpreRequgregtech/gt.metaitem.03~32045Quest Name For 12491249gregtech/gt.metaitem.01~11360Quest Name For 15221522gregtech/gt.metaitem.03~32104Quest Name For 16881688bartworks/gt.bwMetaGeneratedItem0~0Quest Name For 26022602gregtech/gt.metaitem.03~32025Quest Name For 26082608rewardsChoicegregtech/gt.metaitem.03~32049Choice Name8gregtech/gt.metaitem.03~32102Choice Name8enhancedlootbags/lootbag~41Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.03~32104gregtech/gt.metaitem.03~32104 Name6gregtech/gt.metaitem.03~32070gregtech/gt.metaitem.03~32070 Name6gregtech/gt.metaitem.03~32055gregtech/gt.metaitem.03~32055 Name12gregtech/gt.metaitem.03~32027gregtech/gt.metaitem.03~32027 Name36gregtech/gt.metaitem.03~32026gregtech/gt.metaitem.03~32026 Name36gregtech/gt.metaitem.02~19360gregtech/gt.metaitem.02~19360 Name48Retrievalgregtech/gt.metaitem.03~32089gregtech/gt.metaitem.03~32089 Name1Optionalbartworks/gt.bwMetaGeneratedItem0~1bartworks/gt.bwMetaGeneratedItem0~1 Name1Retrievalbartworks/gt.bwMetaGeneratedItem0~0bartworks/gt.bwMetaGeneratedItem0~0 Name1
+After crafting each circuit, make an imprint of it to reduce the cost of following ones.1-1ANDpre12491gregtech/gt.metaitem.03-32045.png15221gregtech/gt.metaitem.01-11360.png16881gregtech/gt.metaitem.03-32104.png26021bartworks/gt.bwMetaGeneratedItem0-0.png26081gregtech/gt.metaitem.03-32025.pngrewardsChoicegregtech/gt.metaitem.03-32049.pngASoC\nAdvanced System on a Chip
+8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
+8enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
+6gregtech/gt.metaitem.03-32070.pngCrystal Processing Unit\nCrystal CPU
+6gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit\nPower Circuit
+12gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor\nAdvanced Electronic Component
+36gregtech/gt.metaitem.03-32026.pngAdvanced SMD Transistor\nAdvanced Electronic Component
+36gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
+48Retrievalgregtech/gt.metaitem.03-32089.pngCrystalprocessor\nAn Elite Circuit\nIV-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit\nA Sliced Circuit\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint\nAn Imprint for a Circuit\nAdded by BartWorks
+1

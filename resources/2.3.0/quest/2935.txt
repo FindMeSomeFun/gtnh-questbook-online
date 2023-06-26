@@ -1,1 +1,3 @@
-2935§c§lP-507This solvent can be 100% recycled in the naquadah process line, so don't make a line for it.ANDpreRequbartworks/gt.bwMetaGeneratedcell~10059Quest Name For 29342934rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell~10060bartworks/gt.bwMetaGeneratedcell~10060 Name1
+bartworks/gt.bwMetaGeneratedcell-10060.png§c§lP-507This solvent can be 100% recycled in the naquadah process line, so don't make a line for it.1-1ANDpre29341bartworks/gt.bwMetaGeneratedcell-10059.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10060.pngP-507 Cell\n(C\u2088H\u2081\u2087)\u2082PO\u2083H\nAdded by Good Generator via BartWorks
+1

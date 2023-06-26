@@ -1,3 +1,10 @@
-1579Better Nightmare ProtectionThe Charm of Fanciful Thinking is the only way to protect oneself from some of the worst effects a nightmare can throw at you. It just needs to be in a player's inventory for it to function.
+witchery/ingredient-110.pngBetter Nightmare ProtectionThe Charm of Fanciful Thinking is the only way to protect oneself from some of the worst effects a nightmare can throw at you. It just needs to be in a player's inventory for it to function.
 
-A Charm of Fanciful Thinking is crafted using Sticks and Fanciful Thread.ANDpreRequwitchery/ingredient~100Quest Name For 15951595rewardsItemwitchery/somniancotton~0Item Name16enhancedlootbags/lootbag~54Item Name1Itemdreamcraft/item.CoinWitchII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDOptionalwitchery/ingredient~100witchery/ingredient~100 Name1minecraft/stick~0minecraft/stick~0 Name8Retrievalwitchery/ingredient~110witchery/ingredient~110 Name1
+A Charm of Fanciful Thinking is crafted using Sticks and Fanciful Thread.0-1ANDpre15950witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+16enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDOptionalwitchery/ingredient-100.pngFanciful Thread
+1minecraft/stick-0.pngStick\nBurn Time: 100
+8Retrievalwitchery/ingredient-110.pngCharm of Fanciful Thinking
+1

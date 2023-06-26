@@ -1,1 +1,4 @@
-973CreosoteWant some creosote? Buy some!ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsItemgregtech/gt.metaitem.01~30712Item Name16tasksANDRetrievalIC2/itemCellEmpty~0IC2/itemCellEmpty~0 Name16dreamcraft/item.CoinChemist~0dreamcraft/item.CoinChemist~0 Name25
+Railcraft/fluid.creosote.cell-0.pngCreosoteWant some creosote? Buy some!012000ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.metaitem.01-30712.pngCreosote Cell
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25

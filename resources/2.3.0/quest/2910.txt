@@ -1,1 +1,7 @@
-2910§3§lBarrel Upgrades Tier 3Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!ANDpreRequJABBA/upgradeStructural~1Quest Name For 11251125rewardsChoiceJABBA/upgradeCore~0Choice Name4JABBA/upgradeStructural~3Choice Name2enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalJABBA/upgradeStructural~2JABBA/upgradeStructural~2 Name2RetrievalJABBA/upgradeCore~0JABBA/upgradeCore~0 Name8
+JABBA/upgradeStructural-2.png§3§lBarrel Upgrades Tier 3Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!0-1ANDpre11250JABBA/upgradeStructural-1.pngrewardsChoiceJABBA/upgradeCore-0.pngStorage upgrade\nSlots Used :1\nIncreases the storage capacity by 64 stacks
+4JABBA/upgradeStructural-3.pngStructural MK IV\nSlots Provided :15
+2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalJABBA/upgradeStructural-2.pngStructural MK III\nSlots Provided :7
+2RetrievalJABBA/upgradeCore-0.pngStorage upgrade\nSlots Used :1\nIncreases the storage capacity by 64 stacks
+8

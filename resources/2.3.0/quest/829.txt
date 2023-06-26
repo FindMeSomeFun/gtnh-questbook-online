@@ -1,1 +1,14 @@
-829Oxygen CompressorThe oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.ANDpreRequGalacticraftCore/item.oxygenTankLightFull~0Quest Name For 824824rewardsChoiceGalacticraftCore/tile.oxygenPipe~0Choice Name4GalacticraftCore/item.basicItem~10Choice Name2GalacticraftCore/item.basicItem~9Choice Name2enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalGalacticraftCore/item.oxygenConcentrator~0GalacticraftCore/item.oxygenConcentrator~0 Name1gregtech/gt.metaitem.01~32602gregtech/gt.metaitem.01~32602 Name1GalacticraftCore/item.oilCanisterPartial~1001GalacticraftCore/item.oilCanisterPartial~1001 Name1gregtech/gt.metaitem.01~32642gregtech/gt.metaitem.01~32642 Name1GalacticraftCore/item.basicItem~9GalacticraftCore/item.basicItem~9 Name2GalacticraftCore/item.basicItem~10GalacticraftCore/item.basicItem~10 Name1GalacticraftCore/item.basicItem~8GalacticraftCore/item.basicItem~8 Name2RetrievalGalacticraftCore/tile.oxygenCompressor~0GalacticraftCore/tile.oxygenCompressor~0 Name1
+GalacticraftCore/tile.oxygenCompressor-0.pngOxygen CompressorThe oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.1-1ANDpre8241GalacticraftCore/item.oxygenTankLightFull-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+4GalacticraftCore/item.basicItem-10.pngCompressed Bronze
+2GalacticraftCore/item.basicItem-9.pngCompressed Steel
+2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalGalacticraftCore/item.oxygenConcentrator-0.pngOxygen Concentrator
+1gregtech/gt.metaitem.01-32602.pngElectric Motor
+1GalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister\nDurability: 0 / 1001
+1gregtech/gt.metaitem.01-32642.pngElectric Piston
+1GalacticraftCore/item.basicItem-9.pngCompressed Steel
+2GalacticraftCore/item.basicItem-10.pngCompressed Bronze
+1GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
+2RetrievalGalacticraftCore/tile.oxygenCompressor-0.pngOxygen Compressor\nPower required: 45 EU /s
+1

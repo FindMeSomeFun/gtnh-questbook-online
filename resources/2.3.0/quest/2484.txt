@@ -1,1 +1,4 @@
-248416k Fluid Storage CellThese hold 4,096 buckets, or 4,096,000L of a single fluid. They finally match a Super Tank I.ANDpreRequae2fc/fluid_part~2Quest Name For 24802480rewardsItemdreamcraft/item.DiamondFluidCoreChip~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalae2fc/fluid_storage16~0ae2fc/fluid_storage16~0 Name1
+ae2fc/fluid_storage16-0.png16k Fluid Storage CellThese hold 4,096 buckets, or 4,096,000L of a single fluid. They finally match a Super Tank I.0-1ANDpre24800ae2fc/fluid_part-2.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier I
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalae2fc/fluid_storage16-0.png16k ME Fluid Storage Cell\n0 of 16,384 Bytes Used\n0 of 1 Types\n> Hold Ctrl for more information
+1

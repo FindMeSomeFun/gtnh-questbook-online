@@ -1,1 +1,7 @@
-403Kill Mog and GulgMog and Gulg are the god-like beings that hobgoblins worship. They may send their avatars to pay witches a visit who exploit their worship (with a statue of hobgoblin patron). Rumor has it that using a nether star may make them take immediate notice.ANDpreRequwitchery/distilleryidle~0Quest Name For 15711571rewardsItemenhancedlootbags/lootbag~55Item Name1Itemdreamcraft/item.CoinSurvivorIII~0Item Name1dreamcraft/item.CoinDarkWizardIII~0Item Name1dreamcraft/item.CoinAdventureIII~0Item Name1tasksANDHuntwitchery.goblinmogwitchery.goblinmog Name1Huntwitchery.goblingulgwitchery.goblingulg Name1
+witchery/quiverofmog-0.pngKill Mog and GulgMog and Gulg are the god-like beings that hobgoblins worship. They may send their avatars to pay witches a visit who exploit their worship (with a statue of hobgoblin patron). Rumor has it that using a nether star may make them take immediate notice.0-1ANDpre15710witchery/distilleryidle-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
+1tasksANDHuntmobs/witchery-goblinmog-.pngGoblin Mog
+1Huntmobs/witchery-goblingulg-.pngGoblin Gulg
+1

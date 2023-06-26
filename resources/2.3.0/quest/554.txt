@@ -1,5 +1,8 @@
-554§5§lHey DJ, Mix it!The mixer is a very useful device. You can mix all kinds of fluids and items. Useful to prevent dust from falling to the ground when crafting - most mixer recipes give a slight boost over hand crafting!
+gregtech/gt.blockmachines-581.png§5§lHey DJ, Mix it!The mixer is a very useful device. You can mix all kinds of fluids and items. Useful to prevent dust from falling to the ground when crafting - most mixer recipes give a slight boost over hand crafting!
 
 §3You get +3 slots in the EV+ versions, this one has 6.
 
-§3Hint: You can use the battery slot and other extra slots in the GUI to store anything you like!ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~581gregtech/gt.blockmachines~581 Name1
+§3Hint: You can use the battery slot and other extra slots in the GUI to store anything you like!1-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-581.pngBasic Mixer\nWill it Blend?\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1

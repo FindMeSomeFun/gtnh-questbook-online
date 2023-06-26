@@ -1,1 +1,6 @@
-1406§a§lEV AssemblerAn EV asembler is required to make lapotron crystals, coils, and other stuff.ANDpreRequgregtech/gt.metaitem.01~32653Quest Name For 12451245rewardsChoicegregtech/gt.metaitem.01~11028Choice Name8gregtech/gt.metaitem.01~11067Choice Name8enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~214gregtech/gt.blockmachines~214 Name1
+gregtech/gt.blockmachines-214.png§a§lEV AssemblerAn EV asembler is required to make lapotron crystals, coils, and other stuff.1-1ANDpre12451gregtech/gt.metaitem.01-32653.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+8gregtech/gt.metaitem.01-11067.pngNeodymium Ingot\nNd
+8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-214.pngAdvanced Assembling Machine III\nAvengers, Assemble!\nVoltage IN: 2,048 (EV)\nCapacity: 131,072 EU
+1

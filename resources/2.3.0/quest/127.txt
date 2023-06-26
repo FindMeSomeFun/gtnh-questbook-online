@@ -1,4 +1,4 @@
-127Project red beginningWelcome to Project Red!
+ProjRedTransportation/projectred.transportation.routingchip-0.pngProject red beginningWelcome to Project Red!
 
 This quest will teach you the basics of Projectred and show you how to set up a Ghetto AE system.
 
@@ -15,4 +15,8 @@ Pressurized pipes are pipes that use a pressure based routing system where the p
 
 However, in order to control the logic of the routed pipes you will need special circuit chips.
 
-§4Note: I have no idea how PR works, or if this questline is entirely a duplicate, and have zero willpower to read all the boring text and find out, so I just unhid them since no one came forward with any info after I asked. If it should be removed or w/e, make a ticket.ANDpreRequgregtech/gt.metaitem.01~32702Quest Name For 717717rewardsChoicegregtech/gt.metaitem.02~22032Choice Name16enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe~0ProjRedTransportation/projectred.transportation.pipe~0 Name16
+§4Note: I have no idea how PR works, or if this questline is entirely a duplicate, and have zero willpower to read all the boring text and find out, so I just unhid them since no one came forward with any info after I asked. If it should be removed or w/e, make a ticket.0-1ANDpre7171gregtech/gt.metaitem.01-32702.pngrewardsChoicegregtech/gt.metaitem.02-22032.pngLong Iron Rod\nFe
+16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
+16

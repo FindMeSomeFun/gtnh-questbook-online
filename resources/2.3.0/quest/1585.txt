@@ -1,1 +1,7 @@
-1585We Need Another OvenFirst of all you can't visit any other dim to get materials. Not the Twilight Forest, not the Nether or the End. Lets start with crafting a new oven and a stack of jars to start with some basic ingredients.ANDpreRequdreamcraft/item.CoinWitchII~0Quest Name For 338338rewardsItemwitchery/ingredient~27Item Name64witchery/witchesovenidle~0Item Name1tasksANDRetrievalwitchery/ingredient~27witchery/ingredient~27 Name64witchery/witchesovenidle~0witchery/witchesovenidle~0 Name1LocationDIM55DIM55 Name Retrievaldreamcraft/item.CoinWitchII~0dreamcraft/item.CoinWitchII~0 Name5
+witchery/witchesovenidle-0.pngWe Need Another OvenFirst of all you can't visit any other dim to get materials. Not the Twilight Forest, not the Nether or the End. Lets start with crafting a new oven and a stack of jars to start with some basic ingredients.0-1ANDpre3380dreamcraft/item.CoinWitchII-0.pngrewardsItemwitchery/ingredient-27.pngClay Jar
+64witchery/witchesovenidle-0.pngWitches Oven
+1tasksANDConsumewitchery/ingredient-27.pngClay Jar
+64witchery/witchesovenidle-0.pngWitches Oven
+1LocationDIM/55-.pngSpirit World
+1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5

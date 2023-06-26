@@ -1,1 +1,3 @@
-2692How Do You Even Pronounce This?To make Phthalic Anhydride, use a dehydrator. You need to use GT++ Phthalic Acid.ORpreRequmiscutils/PhthalicAcid~0Quest Name For 26892689miscutils/PhthalicAcid~0Quest Name For 26932693rewardstasksANDOptionalgregtech/gt.Volumetric_Flask~0gregtech/gt.Volumetric_Flask~0 Name1Retrievalmiscutils/itemDustPhthalicAnhydride~0miscutils/itemDustPhthalicAnhydride~0 Name3
+miscutils/itemDustPhthalicAnhydride-0.pngHow Do You Even Pronounce This?To make Phthalic Anhydride, use a dehydrator. You need to use GT++ Phthalic Acid.0-1ORpre26890miscutils/PhthalicAcid-0.png26930miscutils/PhthalicAcid-0.pngrewardstasksANDOptionalgregtech/gt.Volumetric_Flask-0.pngVolumetric flask\n< Phthalic Acid, 200 mB >\nRightclick on air to set volume (only while empty)
+1Retrievalmiscutils/itemDustPhthalicAnhydride-0.pngPhthalic Anhydride Dust\nC\u2086H\u2084(CO)\u2082O
+3

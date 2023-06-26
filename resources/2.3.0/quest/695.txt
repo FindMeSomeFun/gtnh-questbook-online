@@ -1,7 +1,15 @@
-695§6§o§1§2§3§r§r§r§r§r§r§3§4§r§o§7§7§8§9§9§5§3§1§0§r§o§m§k§c§e§l§r§1§1§r§6§lAutomation, Tier 1Do you want to automate your smeltery because you're planning to make stacks and stacks of glass blocks? 
+gregtech/gt.blockmachines-5123.png§6§o§1§2§3§r§r§r§r§r§r§3§4§r§o§7§7§8§9§9§5§3§1§0§r§o§m§k§c§e§l§r§1§1§r§6§lAutomation, Tier 1Do you want to automate your smeltery because you're planning to make stacks and stacks of glass blocks? 
 
 No problem, craft a large bronze pipe and place it under the faucet. Make sure to connect the pipe to the faucet using a wrench. Now the molten fluid will flow inside the pipe. Under or next to the pipe you have to place the casting basins or tables.
 
 A hopper and a chest underneath will auto-output products from the casting blocks. 
 
-NOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on...ANDpreRequgregtech/gt.metaitem.01~2300Quest Name For 3535TConstruct/Smeltery~0Quest Name For 7474rewardsItemTConstruct/GlassBlock~0Item Name16enhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalgregtech/gt.blockmachines~5123gregtech/gt.blockmachines~5123 Name1Optionalgregtech/gt.metaitem.01~17032gregtech/gt.metaitem.01~17032 Name10gregtech/gt.metaitem.02~31032gregtech/gt.metaitem.02~31032 Name2Optionalminecraft/chest~0minecraft/chest~0 Name4Retrievalminecraft/hopper~0minecraft/hopper~0 Name2
+NOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on...0-1ANDpre351gregtech/gt.metaitem.01-2300.png740TConstruct/Smeltery-0.pngrewardsItemTConstruct/GlassBlock-0.pngClear Glass\nGlass-Tier: HV
+16enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalgregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,000 K
+1Optionalgregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+10gregtech/gt.metaitem.02-31032.pngIron Gear\nFe
+2Optionalminecraft/chest-0.pngChest\nBurn Time: 300
+4Retrievalminecraft/hopper-0.pngHopper
+2

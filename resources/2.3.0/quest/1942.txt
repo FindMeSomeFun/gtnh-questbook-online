@@ -1,1 +1,8 @@
-1942Basic BlocksChisel offers a wide variety of blocks. Searching NEI for "chisel" can gives pages and pages. Here's a small sample.ANDpreRequchisel/obsidianChisel~0Quest Name For 19351935rewardsItemminecraft/lava_bucket~0Item Name1tasksANDRetrievalchisel/antiBlock~15chisel/antiBlock~15 Name1chisel/carpet~0chisel/carpet~0 Name1chisel/brickCustom~5chisel/brickCustom~5 Name1Retrievalchisel/grimstone~0chisel/grimstone~0 Name1chisel/lavastone~0chisel/lavastone~0 Name1chisel/waterstone~0chisel/waterstone~0 Name1
+chisel/lavastone-0.pngBasic BlocksChisel offers a wide variety of blocks. Searching NEI for "chisel" can gives pages and pages. Here's a small sample.0-1ANDpre19350chisel/obsidianChisel-0.pngrewardsItemminecraft/lava_bucket-0.pngLava Bucket\nBurn Time: 20000\nYou need Gloves for it?
+1tasksANDRetrievalchisel/antiBlock-15.pngAnti Block\nWhite Anti Block\nMobs cannot Spawn on this Block
+1chisel/carpet-0.pngFloor Carpet\nWhite Carpet\nMobs cannot Spawn on this Block
+1chisel/brickCustom-5.pngBrick Block\nAged Bricks\nMobs cannot Spawn on this Block
+1Retrievalchisel/grimstone-0.pngGrimstone\nGrimstone\nMobs cannot Spawn on this Block
+1chisel/lavastone-0.pngLavastone\nLavastone\nMobs cannot Spawn on this Block
+1chisel/waterstone-0.pngWaterstone\nWaterstone Bricks\nMobs cannot Spawn on this Block
+1

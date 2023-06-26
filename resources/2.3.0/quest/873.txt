@@ -1,1 +1,3 @@
-873Seed BagsFinding some special "Pam's HarvestCraft" seeds can be very difficult. With your farmer coins you can buy some seedbags.ANDpreRequharvestcraft/pamappleSapling~0Quest Name For 440440rewardsItemenhancedlootbags/lootbag~35Item Name1tasksANDRetrievaldreamcraft/item.CoinFarmer~0dreamcraft/item.CoinFarmer~0 Name5
+harvestcraft/rhubarbseedItem-0.pngSeed BagsFinding some special "Pam's HarvestCraft" seeds can be very difficult. With your farmer coins you can buy some seedbags.012000ANDpre4400harvestcraft/pamappleSapling-0.pngrewardsItemenhancedlootbags/lootbag-35.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDConsumedreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+5

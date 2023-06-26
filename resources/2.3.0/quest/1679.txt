@@ -1,1 +1,8 @@
-1679§b§lQBit Wafer and ChipThe Qbit Wafer is made out of a Nano CPU Wafer and either Quantum Eyes and Gallium Arsenide, or IGP and Radon. Cut it for Qbit processor chips.ANDpreRequgregtech/gt.metaitem.03~32045Quest Name For 12491249gregtech/gt.blockmachines~1184Quest Name For 16691669rewardsChoicegregtech/gt.metaitem.01~30093Choice Name8gregtech/gt.metaitem.01~2980Choice Name64enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinChemistII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.03~32056gregtech/gt.metaitem.03~32056 Name2Retrievalgregtech/gt.metaitem.03~32057gregtech/gt.metaitem.03~32057 Name8
+gregtech/gt.metaitem.03-32056.png§b§lQBit Wafer and ChipThe Qbit Wafer is made out of a Nano CPU Wafer and either Quantum Eyes and Gallium Arsenide, or IGP and Radon. Cut it for Qbit processor chips.1-1ANDpre12491gregtech/gt.metaitem.03-32045.png16691gregtech/gt.blockmachines-1184.pngrewardsChoicegregtech/gt.metaitem.01-30093.pngRadon Cell\nRn
+8gregtech/gt.metaitem.01-2980.pngGallium Arsenide Dust\nAsGa
+64enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.03-32056.pngQBit Wafer\nRaw Circuit
+2Retrievalgregtech/gt.metaitem.03-32057.pngQBit Processing Unit\nQuantum CPU
+8

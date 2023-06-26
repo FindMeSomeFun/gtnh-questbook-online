@@ -1,3 +1,5 @@
-3228Botanic infusionThe infusion altar will allow you to make runes, which in turn gives you access to progressively more advanced flowers.
+Botania/runeAltar-0.pngBotanic infusionThe infusion altar will allow you to make runes, which in turn gives you access to progressively more advanced flowers.
 
-To operate the altar, drop the ingredients on top, whack it with a wand of the forest, and when it's done drop a livingrock block on top to complete the craft. You will additionally need a mana source, such as a mana spreader pointing at it.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 238238Botania/manaResource~10Quest Name For 32273227rewardsItemdreamcraft/item.CoinFlowerII~0Item Name10tasksANDRetrievalBotania/runeAltar~0Botania/runeAltar~0 Name1
+To operate the altar, drop the ingredients on top, whack it with a wand of the forest, and when it's done drop a livingrock block on top to complete the craft. You will additionally need a mana source, such as a mana spreader pointing at it.1-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.png32271Botania/manaResource-10.pngrewardsItemdreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
+10tasksANDRetrievalBotania/runeAltar-0.pngRunic Altar
+1

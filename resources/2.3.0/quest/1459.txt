@@ -1,1 +1,9 @@
-1459Heavy Rocket FinsEvery rocket needs a few rocket fins. Tier 3 rockets need heavy ones.ANDpreRequGalacticraftMars/item.itemBasicAsteroids~0Quest Name For 14531453rewardsChoiceGalacticraftCore/item.heavyPlating~0Choice Name8GalacticraftMars/item.null~3Choice Name4GalacticraftMars/item.itemBasicAsteroids~0Choice Name2enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalGalacticraftMars/item.null~3GalacticraftMars/item.null~3 Name8GalacticraftMars/item.itemBasicAsteroids~0GalacticraftMars/item.itemBasicAsteroids~0 Name16RetrievalGalacticraftMars/item.itemBasicAsteroids~2GalacticraftMars/item.itemBasicAsteroids~2 Name4
+GalacticraftMars/item.itemBasicAsteroids-2.pngHeavy Rocket FinsEvery rocket needs a few rocket fins. Tier 3 rockets need heavy ones.1-1ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+8GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+4GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+8GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+16RetrievalGalacticraftMars/item.itemBasicAsteroids-2.pngHeavy Rocket Fins
+4

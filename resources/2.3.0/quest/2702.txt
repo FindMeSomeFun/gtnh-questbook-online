@@ -1,1 +1,7 @@
-2702Tier 7 Control ComputerEach rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpreRequdreamcraft/item.HeavyDutyPlateTier7~0Quest Name For 26412641rewardsChoicedreamcraft/item.HeavyDutyPlateTier6~0Choice Name1gregtech/gt.metaitem.01~11129Choice Name4enhancedlootbags/lootbag~43Choice Name1Itemdreamcraft/item.CoinSpaceIV~0Item Name1dreamcraft/item.CoinTechnicianIV~0Item Name1tasksANDRetrievalGalaxySpace/item.RocketControlComputer~7GalaxySpace/item.RocketControlComputer~7 Name1
+GalaxySpace/item.RocketControlComputer-7.pngTier 7 Control ComputerEach rocket needs a Control Computer, appropriate to the tier of the rocket.1-1ANDpre26411dreamcraft/item.HeavyDutyPlateTier7-0.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
+1gregtech/gt.metaitem.01-11129.pngNeutronium Ingot\nNt
+4enhancedlootbags/lootbag-43.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
+1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
+1tasksANDRetrievalGalaxySpace/item.RocketControlComputer-7.pngRocket Control Computer Tier 7
+1

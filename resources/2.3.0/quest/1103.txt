@@ -1,5 +1,9 @@
-1103Cursed EarthYou can kill the powered-up monsters that spawn on the cursed earth, or just sleep and despawn them. Use a shovel with the silk touch enchantment to dig up the cursed earth blocks. You can use these blocks to make a mob spawner, or place one under a vanilla spawner to let it run even when you're not around.
+ExtraUtilities/cursedearthside-0.pngCursed EarthYou can kill the powered-up monsters that spawn on the cursed earth, or just sleep and despawn them. Use a shovel with the silk touch enchantment to dig up the cursed earth blocks. You can use these blocks to make a mob spawner, or place one under a vanilla spawner to let it run even when you're not around.
 
 When setting up a mob spawner in the Nether using Cursed Earth, poor design can cause huge TPS issues.
 
-Make sure the Cursed Earth is not attached to anything from the Nether. For example, you can place it on top of marble, but the marble cannot touch anything in the nether (netherrack, brick, etc), and must be floating in the air. Also, limit the Cursed Earth to 1 chunk max, with 2 block buffer to the chunk edge, including a wall.ANDpreRequExtraUtilities/divisionSigil~0Quest Name For 11011101TConstruct/materials~26Quest Name For 11041104rewardsItemenhancedlootbags/lootbag~9Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5tasksANDRetrievalExtraUtilities/cursedearthside~0ExtraUtilities/cursedearthside~0 Name16
+Make sure the Cursed Earth is not attached to anything from the Nether. For example, you can place it on top of marble, but the marble cannot touch anything in the nether (netherrack, brick, etc), and must be floating in the air. Also, limit the Cursed Earth to 1 chunk max, with 2 block buffer to the chunk edge, including a wall.0-1ANDpre11010ExtraUtilities/divisionSigil-0-activated.png11040TConstruct/materials-26.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5tasksANDRetrievalExtraUtilities/cursedearthside-0.pngCursed Earth
+16

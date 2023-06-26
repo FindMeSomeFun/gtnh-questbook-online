@@ -1,4 +1,4 @@
-546§5§lHello Baron, How's Your Black Gold Today?During your travels you may have seen some huge oil spouts. Now's the time to make a pump and go collect this black gold into tanks. Oil can be burned directly in a combustion generator (onsite to power the pump, perhaps?) or be refined for better fuels and crafting materials. 
+BuildCraftEnergy/blockOil-0.png§5§lHello Baron, How's Your Black Gold Today?During your travels you may have seen some huge oil spouts. Now's the time to make a pump and go collect this black gold into tanks. Oil can be burned directly in a combustion generator (onsite to power the pump, perhaps?) or be refined for better fuels and crafting materials. 
 
 Bring a generator or battery buffer (with full batteries obviously) with you to power the pump. Thanks to the advancement of technology the pump can auto output on top. Stacking multiple pumps makes them work faster. In that case, oil has to be removed from the bottom of the stack using a pump cover or other means like a conduit.
 
@@ -14,4 +14,9 @@ These are GT machines, so remember to protect them (and their power sources!) fr
 4) Ridiculous bio vat nonsense
 5) Crops
 6) Bees
-7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for detailsANDpreRequgregtech/gt.metaitem.01~32610Quest Name For 9393rewardsItemBuildCraftFactory/tankBlock~0Item Name4minecraft/bucket~0Item Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~1140gregtech/gt.blockmachines~1140 Name1RetrievalIC2/blockMiningPipe~0IC2/blockMiningPipe~0 Name64
+7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for details1-1ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemBuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
+4minecraft/bucket-0.pngBucket
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pump\nThe best way to empty Oceans! Outputs on top\n64 EU/operation, 4 sec per bucket, no stuttering\nMaximum pumping area: 21x21\nUse Screwdriver to regulate pumping area\nUse Soft Mallet to disable and retract the pipe\nDisable the bottom pump to retract the pipe!\nUse Soldering Iron to auto retract the pipe when hitting a rock\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1RetrievalIC2/blockMiningPipe-0.pngMining Pipe
+64

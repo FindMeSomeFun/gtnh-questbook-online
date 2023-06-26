@@ -1,1 +1,10 @@
-1265EV GT++ BatteriesWant cheaper EV batteries? Mash your old ones together, and somehow it works!ANDpreRequgregtech/gt.blockmachines~184Quest Name For 12621262rewardsChoicegregtech/gt.metaitem.01~2006Choice Name16gregtech/gt.blockmachines~1426Choice Name16enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~32538gregtech/gt.metaitem.01~32538 Name4IC2/itemPartCircuitAdv~0IC2/itemPartCircuitAdv~0 Name2gregtech/gt.blockmachines~23gregtech/gt.blockmachines~23 Name1gregtech/gt.blockmachines~1428gregtech/gt.blockmachines~1428 Name2Retrievalmiscutils/MU-metaitem.01~32054miscutils/MU-metaitem.01~32054 Name1
+miscutils/MU-metaitem.01-32054-charged.pngEV GT++ BatteriesWant cheaper EV batteries? Mash your old ones together, and somehow it works!0-1ANDpre12620gregtech/gt.blockmachines-184.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dust\nLi\nBurn Time: 6000
+16gregtech/gt.blockmachines-1426.png1x Gold Cable\nMax Voltage: 512 (HV)\nMax Amperage: 3\nLoss/Meter/Ampere: 2 EU-Volt
+16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-32538.pngLarge Lithium Battery\nReusable\n0 / 1,600,000 EU - Voltage: 512\nHV-Tier
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+2gregtech/gt.blockmachines-23.pngHigh Voltage Transformer\nEV -> HV (Use Soft Mallet to invert)\nVoltage IN: 2,048 (EV)\nVoltage OUT: 512 (HV)\nAmperage: 4\nCapacity: 8,704 EU
+1gregtech/gt.blockmachines-1428.png4x Gold Cable\nMax Voltage: 512 (HV)\nMax Amperage: 12\nLoss/Meter/Ampere: 2 EU-Volt
+2Retrievalmiscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Battery\nReusable\n0 / 6,400,000 EU - Voltage: 2048
+1

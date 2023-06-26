@@ -1,1 +1,8 @@
-1172§5§lCheaper Annealed ProductionIt's even faster and cheaper to make annealed copper in the arc furnace than in the electric blast furnace. Annealed copper is a very good material for cables in MV. It only loses 1 EU per block.ANDpreRequgregtech/gt.blockmachines~651Quest Name For 662662rewardsChoicegregtech/gt.metaitem.01~32500Choice Name1gregtech/gt.metaitem.01~2880Choice Name32enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinSmithI~0Item Name3dreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.metaitem.01~11035gregtech/gt.metaitem.01~11035 Name64Retrievalgregtech/gt.metaitem.01~11345gregtech/gt.metaitem.01~11345 Name64
+gregtech/gt.metaitem.01-11345.png§5§lCheaper Annealed ProductionIt's even faster and cheaper to make annealed copper in the arc furnace than in the electric blast furnace. Annealed copper is a very good material for cables in MV. It only loses 1 EU per block.0-1ANDpre6620gregtech/gt.blockmachines-651.pngrewardsChoicegregtech/gt.metaitem.01-32500.pngSmall Battery Hull\nAn empty LV Battery Hull
+1gregtech/gt.metaitem.01-2880.pngRubber Pulp\nC\u2085H\u2088
+32enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.metaitem.01-11035.pngCopper Ingot\nCu
+64Retrievalgregtech/gt.metaitem.01-11345.pngAnnealed Copper Ingot\nCu
+64

@@ -1,5 +1,11 @@
-1606Sweet ToothSugarcane or Reed not keeping up with your sugary needs? Sugar beets give 8 sugar per beet. Potatoes or carrots should easily give you sugar beets.
+berriespp/foodBerries-1.pngSweet ToothSugarcane or Reed not keeping up with your sugary needs? Sugar beets give 8 sugar per beet. Potatoes or carrots should easily give you sugar beets.
 
 Hmm, now I want some candy. Give me some sugar from your beets. I'll share some with you.
 
-§3Electrolyze the sugar into O2 for an easy source.ANDpreRequminecraft/reeds~0Quest Name For 16001600rewardsItemMagicBees/jellyBabies~0Item Name64harvestcraft/honeycombchocolatebarItem~0Item Name64enhancedlootbags/lootbag~51Item Name1tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name1berriespp/foodBerries~1berriespp/foodBerries~1 Name8Retrievalminecraft/sugar~0minecraft/sugar~0 Name64
+§3Electrolyze the sugar into O2 for an easy source.0-1ANDpre16000minecraft/reeds-0.pngrewardsItemMagicBees/jellyBabies-0.pngHandful of Jelly Babies\nMagicBees:jellyBabies\nDiminishing returns start after\neating any food 10 more times
+64harvestcraft/honeycombchocolatebarItem-0.pngHoneycomb Chocolate Bar\nharvestcraft:honeycombchocolatebarItem\nDiminishing returns start after\neating any food 10 more times
+64enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+1tasksANDRetrievalIC2/itemCropSeed-0.pngSugar Beet Seeds\nGr 0\nGa 0\nRe 0
+1berriespp/foodBerries-1.pngSugar Beet\nberriespp:foodBerries\nA sweet beet, commonly found in France, Germany, Russia and China.\nIndustrial Sugar!\nDiminishing returns start after\neating any food 10 more times
+8Consumeminecraft/sugar-0.pngSugar
+64

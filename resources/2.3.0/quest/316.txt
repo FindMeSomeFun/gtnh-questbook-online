@@ -1,1 +1,5 @@
-316Infused ClothBy combining ichor with enchanted fabric, you've created something that could be compared to mithril. Light as wool, but durable like steel. Also, it conducts magic energy like nothing else you've seen before. This seems to be an excellent material for a new type of armor.ANDpreRequThaumicTinkerer/kamiResource~0Quest Name For 309309rewardsChoiceThaumicTinkerer/kamiResource~1Choice Name2ThaumicTinkerer/kamiResource~2Choice Name2Itemdreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalThaumicTinkerer/kamiResource~1ThaumicTinkerer/kamiResource~1 Name5
+ThaumicTinkerer/kamiResource-1.pngInfused ClothBy combining ichor with enchanted fabric, you've created something that could be compared to mithril. Light as wool, but durable like steel. Also, it conducts magic energy like nothing else you've seen before. This seems to be an excellent material for a new type of armor.0-1ANDpre3091ThaumicTinkerer/kamiResource-0.pngrewardsChoiceThaumicTinkerer/kamiResource-1.pngIchorcloth
+2ThaumicTinkerer/kamiResource-2.pngIchorium
+2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/kamiResource-1.pngIchorcloth
+5

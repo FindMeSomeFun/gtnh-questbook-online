@@ -1,3 +1,16 @@
-1439Permanent Oxygen SystemsYou decided to have a longer stay on the moon and look for a permanent oxygen setup to refill your outdoor gear and building a small Base.
+thaumcraftneiplugin/Aspect-0-aer.pngPermanent Oxygen SystemsYou decided to have a longer stay on the moon and look for a permanent oxygen setup to refill your outdoor gear and building a small Base.
 
-Don't forget to bring repair stuff for your tools and armor! Dream 2018!ANDpreRequGalacticraftMars/item.canisterPartialLOX~1Quest Name For 13711371GalacticraftCore/tile.distributor~0Quest Name For 14401440rewardsItemenhancedlootbags/lootbag~6Item Name1GalacticraftCore/item.oxygenTankLightFull~0Item Name1Itemdreamcraft/item.CoinSpaceII~0Item Name1dreamcraft/item.CoinSurvivorII~0Item Name1tasksANDRetrievalminecraft/cobblestone~0minecraft/cobblestone~0 Name128minecraft/glass~0minecraft/glass~0 Name64GalacticraftCore/tile.oxygenCollector~0GalacticraftCore/tile.oxygenCollector~0 Name1GalacticraftCore/tile.oxygenCompressor~0GalacticraftCore/tile.oxygenCompressor~0 Name1GalacticraftCore/tile.distributor~0GalacticraftCore/tile.distributor~0 Name1GalacticraftCore/tile.oxygenPipe~0GalacticraftCore/tile.oxygenPipe~0 Name10minecraft/leaves~0minecraft/leaves~0 Name64minecraft/log~0minecraft/log~0 Name16gregtech/gt.metaitem.01~32538gregtech/gt.metaitem.01~32538 Name2
+Don't forget to bring repair stuff for your tools and armor! Dream 2018!0-1ANDpre13710GalacticraftMars/item.canisterPartialLOX-1.png14400GalacticraftCore/tile.distributor-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1GalacticraftCore/item.oxygenTankLightFull-0.pngLight Oxygen Tank\nOxygen Remaining: 1000
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1tasksANDRetrievalminecraft/cobblestone-0.pngCobblestone
+128minecraft/glass-0.pngGlass\nGlass-Tier: HV
+64GalacticraftCore/tile.oxygenCollector-0.pngOxygen Collector\nPower required: 30 EU /s
+1GalacticraftCore/tile.oxygenCompressor-0.pngOxygen Compressor\nPower required: 45 EU /s
+1GalacticraftCore/tile.distributor-0.pngOxygen Bubble Distributor\nPower required: 30 EU /s
+1GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+10minecraft/leaves-0.pngOak Leaves
+64minecraft/log-0.pngOak Wood\nBurn Time: 300
+16gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery\nReusable\n1,600,000 / 1,600,000 EU - Voltage: 512\nHV-Tier
+2

@@ -1,1 +1,4 @@
-1918§5§lToo Much Fluid??Impossible! If you really think you have so much fluid that you want to just get rid of it, make a fluid trashcan. You can route as much excess creosote or whatever into it that you want. ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797rewardsItemenhancedlootbags/lootbag~4Item Name1dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalExtraUtilities/trashcan~1ExtraUtilities/trashcan~1 Name1
+ExtraUtilities/trashcan-1.png§5§lToo Much Fluid??Impossible! If you really think you have so much fluid that you want to just get rid of it, make a fluid trashcan. You can route as much excess creosote or whatever into it that you want. 0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalExtraUtilities/trashcan-1.pngTrash Can
+1

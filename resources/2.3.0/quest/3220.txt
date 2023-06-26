@@ -1,3 +1,8 @@
-3220The roots of magicIf you're familiar with Botania, you will notice that the overworld is noticeably void of magical flowers and mushrooms. Such pretty expressions of magic sadly require you to have leveled up on your magical skills. For now you will have to make do with what the world has to offer.
+Botania/grassSeeds-0.pngThe roots of magicIf you're familiar with Botania, you will notice that the overworld is noticeably void of magical flowers and mushrooms. Such pretty expressions of magic sadly require you to have leveled up on your magical skills. For now you will have to make do with what the world has to offer.
 
-Look in deep caves in the Twilight Forest at low Y-levels for glimmering mushrooms. These are your starting ingredient and can be used instead of flower petals. Beware, unlike flowers you can't grow more just yet, so be careful what you use them for.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemdreamcraft/item.CoinFlowerI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5ChoiceBotania/mushroom~0Choice Name8enhancedlootbags/lootbag~36Choice Name1tasksANDRetrievalBotania/mushroom~0Botania/mushroom~0 Name1
+Look in deep caves in the Twilight Forest at low Y-levels for glimmering mushrooms. These are your starting ingredient and can be used instead of flower petals. Beware, unlike flowers you can't grow more just yet, so be careful what you use them for.1-1ANDpre2251minecraft/end_portal-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5ChoiceBotania/mushroom-0.pngWhite Shimmering Mushroom\nMay work as an Infusion Stabilizer
+8enhancedlootbags/lootbag-36.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalBotania/mushroom-0.pngWhite Shimmering Mushroom\nMay work as an Infusion Stabilizer
+1

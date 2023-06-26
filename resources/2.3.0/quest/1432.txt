@@ -1,3 +1,14 @@
-1432Mars LanderThe Mars lander is required for a soft landing. Put the Moon lander on a Parachute and surround it with airbags - that will do the trick. You hope.
+GalaxySpace/item.ModuleLander2-0.pngMars LanderThe Mars lander is required for a soft landing. Put the Moon lander on a Parachute and surround it with airbags - that will do the trick. You hope.
 
-Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents with a hopper underneath. To prevent this, make sure to wait until you come to a full and complete stop, like when at a stop sign. Everyone does that, right?ANDpreRequGalacticraftMars/item.null~3Quest Name For 14271427rewardsChoiceGalacticraftCore/item.basicItem~6Choice Name8GalacticraftCore/item.basicItem~9Choice Name8GalacticraftCore/item.basicItem~11Choice Name8enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSpaceII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalGalaxySpace/item.ModuleLander~0GalaxySpace/item.ModuleLander~0 Name1GalacticraftCore/item.parachute~0GalacticraftCore/item.parachute~0 Name1GalacticraftCore/item.canvas~0GalacticraftCore/item.canvas~0 Name3gregtech/gt.metaitem.01~29086gregtech/gt.metaitem.01~29086 Name4RetrievalGalaxySpace/item.ModuleLander2~0GalaxySpace/item.ModuleLander2~0 Name1
+Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents with a hopper underneath. To prevent this, make sure to wait until you come to a full and complete stop, like when at a stop sign. Everyone does that, right?1-1ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
+8GalacticraftCore/item.basicItem-9.pngCompressed Steel
+8GalacticraftCore/item.basicItem-11.pngCompressed Iron
+8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalGalaxySpace/item.ModuleLander-0.pngLander Tier 1\nRocket Module
+1GalacticraftCore/item.parachute-0.pngParachute
+1GalacticraftCore/item.canvas-0.pngCanvas
+3gregtech/gt.metaitem.01-29086.pngGold Foil\nAu
+4RetrievalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2\nRocket Module
+1

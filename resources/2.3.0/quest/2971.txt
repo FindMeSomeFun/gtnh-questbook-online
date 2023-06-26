@@ -1,4 +1,4 @@
-2971Infinite Energy StorageYou shouldn't click on links from strangers! Although this sounds like clickbait it is true. From a certain point of view.
+gregtech/gt.blockmachines-17000.pngInfinite Energy StorageYou shouldn't click on links from strangers! Although this sounds like clickbait it is true. From a certain point of view.
 
 Use the (potential) force! And store energy that way. Simply construct a dam and floor vast areas with water. You may add energy to your storage by pumping more water into it or just drain it back into energy whenever you need. This works especially well with fluctuating energy sources like wind, water, and solar. Or you dump excess energy into it so you can use it another time. The capacity is huge and the choice is yours.
 
@@ -13,4 +13,13 @@ Of course, there is also a normal GUI (simple right-click). It shows you the ene
 
 If you have any further questions, find missing information, or have suggestions please do not hesitate to post on the official GT New Horizons Discord. Please add '@SinTh0r4s' to your post to make sure I’ll see it.
 
-§4A warning though: there have been a lot of mentions of bugs and even world corruptions caused by the Hydro Dam. Use at your own risk. If you have more detailed information, please report these problems on the GTNH github.ANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsChoicegregtech/gt.blockmachines~5133Choice Name16gregtech/gt.integrated_circuit~2Choice Name1enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~17000gregtech/gt.blockmachines~17000 Name1Optionalgregtech/gt.blockmachines~51gregtech/gt.blockmachines~51 Name1gregtech/gt.blockmachines~61gregtech/gt.blockmachines~61 Name1Optionalgregtech/gt.blockconcretes~8gregtech/gt.blockconcretes~8 Name89Optionalstructurelib/item.structurelib.constructableTrigger~0structurelib/item.structurelib.constructableTrigger~0 Name1
+§4A warning though: there have been a lot of mentions of bugs and even world corruptions caused by the Hydro Dam. Use at your own risk. If you have more detailed information, please report these problems on the GTNH github.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
+16gregtech/gt.integrated_circuit-2.pngProgrammed Circuit\nConfiguration: == 2\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-17000.pngHydro Dam\nHydro Dam Controller\nController Block for the Hydro Dam\nInput is pressurized water from Hydro Pumps\nOutput is pressurized water for Hydro Turbines\nRequires an Input and Output Hatch on the front!\nTo see the structure, use a TecTech Blueprint on the Controller!
+1Optionalgregtech/gt.blockmachines-51.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 16,000L
+1gregtech/gt.blockmachines-61.pngOutput Hatch\nFluid Output for Multiblocks\nCapacity: 16,000L\nRight click with screwdriver to restrict output\nCan be restricted to put out Items and/or Steam/No Steam/1 specific Fluid\nRestricted Output Hatches are given priority for Multiblock Fluid output
+1Optionalgregtech/gt.blockconcretes-8.pngLight Concrete\nYou can walk faster on this Block
+89Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector\nTriggers Constructable Interface\nShows multiblock construction schematic,\nuse on the multiblock controller.\n(Sneak use on controller to build)\nQuantity of schematics in item stack affects tier/mode/type
+1

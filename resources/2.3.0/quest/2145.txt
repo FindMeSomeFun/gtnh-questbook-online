@@ -1,4 +1,4 @@
-2145§1§lE_TOO_MANY_KEYSERROR: Too many keys to fit a 104 key keyboard.
+Thaumcraft/ArcaneDoorKey-0.png§1§lE_TOO_MANY_KEYSERROR: Too many keys to fit a 104 key keyboard.
 
 There are lots of keybinds in this modpack, to avoid conflicts most of them are unbinded by default and only those available from the start of the game are binded.
 Here is a list of what some of them do :
@@ -32,4 +32,5 @@ Waila - Shows informations of what you are looking at
 NUMPAD1 - show/hide the Waila HUD
 NUMPAD3 - shows how to craft what you are looking at
 NUMPAD4 - shows the crafting usages of the thing you are looking at
-ANDpreRequminecraft/wheat~0Quest Name For 00rewardstasksANDCheckboxcheckbox  
+0-1ANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

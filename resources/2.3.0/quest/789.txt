@@ -1,1 +1,8 @@
-789Energy CrystalsMake energium out of ruby and redstone dusts in the MV mixer. Then use the autoclave to make Energy Crystals. Energy crystals can store 1 million EU and work as an HV battery.ANDpreRequgregtech/gt.blockmachines~573Quest Name For 769769rewardsChoiceenhancedlootbags/lootbag~6Choice Name1gregtech/gt.metaitem.01~24501Choice Name1gregtech/gt.metaitem.01~24502Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalIC2/itemDust2~2IC2/itemDust2~2 Name36RetrievalIC2/itemBatCrystal~26IC2/itemBatCrystal~26 Name4
+IC2/itemBatCrystal-1-charged.pngEnergy CrystalsMake energium out of ruby and redstone dusts in the MV mixer. Then use the autoclave to make Energy Crystals. Energy crystals can store 1 million EU and work as an HV battery.0-1ANDpre7691gregtech/gt.blockmachines-573.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-24501.pngEmerald Lens\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
+1gregtech/gt.metaitem.01-24502.pngRuby Lens\nCrAl\u2082O\u2083
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalIC2/itemDust2-2.pngEnergium Dust
+36RetrievalIC2/itemBatCrystal-26.pngEnergy Crystal\nDurability: 1 / 27
+4

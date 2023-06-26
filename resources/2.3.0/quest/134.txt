@@ -1,3 +1,12 @@
-134§6§lConduitsProbably the most awesome way to transport just about anything in multiple different ways. Get some conduits of each type. Higher tiers of each (except item) exist.
+EnderIO/itemPowerConduit-0.png§6§lConduitsProbably the most awesome way to transport just about anything in multiple different ways. Get some conduits of each type. Higher tiers of each (except item) exist.
 
-§3There's also ME conduits for when you can do that.ANDpreRequEnderIO/blockEnderIo~0Quest Name For 128128rewardsChoiceEnderIO/itemItemConduit~0Choice Name4EnderIO/itemLiquidConduit~0Choice Name4EnderIO/itemRedstoneConduit~0Choice Name4EnderIO/itemPowerConduit~0Choice Name4Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalEnderIO/itemItemConduit~0EnderIO/itemItemConduit~0 Name8EnderIO/itemLiquidConduit~0EnderIO/itemLiquidConduit~0 Name8EnderIO/itemPowerConduit~0EnderIO/itemPowerConduit~0 Name8EnderIO/itemRedstoneConduit~0EnderIO/itemRedstoneConduit~0 Name8
+§3There's also ME conduits for when you can do that.0-1ANDpre1280EnderIO/blockEnderIo-0.pngrewardsChoiceEnderIO/itemItemConduit-0.pngItem Conduit
+4EnderIO/itemLiquidConduit-0.pngFluid Conduit
+4EnderIO/itemRedstoneConduit-0.pngRedstone Conduit
+4EnderIO/itemPowerConduit-0.pngEnergy Conduit\nMax Output 640 RF/t
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalEnderIO/itemItemConduit-0.pngItem Conduit
+8EnderIO/itemLiquidConduit-0.pngFluid Conduit
+8EnderIO/itemPowerConduit-0.pngEnergy Conduit\nMax Output 640 RF/t
+8EnderIO/itemRedstoneConduit-0.pngRedstone Conduit
+8

@@ -1,5 +1,20 @@
-1404§6§lMV Superconductors (128 EU/t)How about lossless 128 EU Wires? Pentacadmiummagnesiumhexaoxide is a superconductor wire and will transfer your energy without any loss. Every Voltage going forward has a superconductor wire with zero loss.
+gregtech/gt.blockmachines-2320.png§6§lMV Superconductors (128 EU/t)How about lossless 128 EU Wires? Pentacadmiummagnesiumhexaoxide is a superconductor wire and will transfer your energy without any loss. Every Voltage going forward has a superconductor wire with zero loss.
 
 Mix Cadmium, Magnesium and Oxygen in an MV mixer. Next, the base dust needs an EBF with Kanthal Coils to be smelted. A vacuum freezer is also required to cool it down. Make some MV Superconductor Base Wires and use an Assembler to combine these wires with Helium, Stainless Steel pipes and HV pumps to get your 128 eu/t superconductor wires.
 
-§3Whether these are worth it to save a little power or not is up to you of course. Also note that although they're wires, you aren't hurt by coming into contact with them.ANDpreRequgregtech/gt.blockcasings5~1Quest Name For 7878gregtech/gt.blockmachines~1002Quest Name For 8181gregtech/gt.metaitem.01~11306Quest Name For 753753rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinChemistI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~2055gregtech/gt.metaitem.01~2055 Name5gregtech/gt.metaitem.01~2018gregtech/gt.metaitem.01~2018 Name1gregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name6Optionalgregtech/gt.metaitem.01~2987gregtech/gt.metaitem.01~2987 Name12Optionalgregtech/gt.metaitem.01~11987gregtech/gt.metaitem.01~11987 Name12Optionalgregtech/gt.blockmachines~2200gregtech/gt.blockmachines~2200 Name24Optionalgregtech/gt.blockmachines~2200gregtech/gt.blockmachines~2200 Name24gregtech/gt.blockmachines~5140gregtech/gt.blockmachines~5140 Name16gregtech/gt.metaitem.01~32611gregtech/gt.metaitem.01~32611 Name8gregtech/gt.metaitem.01~30004gregtech/gt.metaitem.01~30004 Name16Retrievalgregtech/gt.blockmachines~2320gregtech/gt.blockmachines~2320 Name24
+§3Whether these are worth it to save a little power or not is up to you of course. Also note that although they're wires, you aren't hurt by coming into contact with them.0-1ANDpre781gregtech/gt.blockcasings5-1.png811gregtech/gt.blockmachines-1002.png7531gregtech/gt.metaitem.01-11306.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-2055.pngCadmium Dust\nCd
+5gregtech/gt.metaitem.01-2018.pngMagnesium Dust\nMg
+1gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+6Optionalgregtech/gt.metaitem.01-2987.pngSuperconductor Base MV Dust\nCd\u2085MgO\u2086
+12Optionalgregtech/gt.metaitem.01-11987.pngSuperconductor Base MV Ingot\nCd\u2085MgO\u2086
+12Optionalgregtech/gt.blockmachines-2200.png1x Superconductor Base MV Wire\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+24Optionalgregtech/gt.blockmachines-2200.png1x Superconductor Base MV Wire\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+24gregtech/gt.blockmachines-5140.pngTiny Stainless Steel Fluid Pipe\nFluid Capacity: 1,200 L/sec\nHeat Limit: 3,000 K
+16gregtech/gt.metaitem.01-32611.pngElectric Pump\n128 L/t (2,560 L/s) as Cover
+8gregtech/gt.metaitem.01-30004.pngHelium Cell\nHe
+16Retrievalgregtech/gt.blockmachines-2320.png1x Superconductor MV Wire\nMax Voltage: 128 (MV)\nMax Amperage: 4\nLoss/Meter/Ampere: 0 EU-Volt
+24

@@ -1,3 +1,12 @@
-659§6§lDiamond SpearAt MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.
+battlegear2/spear.diamond-0.png§6§lDiamond SpearAt MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.
 
-This spear has superior durability.ANDpreRequgregtech/gt.blockmachines~282Quest Name For 740740rewardsChoiceminecraft/spawn_egg~56Choice Name1minecraft/spawn_egg~61Choice Name1enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDOptionalTGregworks/tGregToolPartArrowHead~1594TGregworks/tGregToolPartArrowHead~1594 Name1gregtech/gt.metaitem.01~27306gregtech/gt.metaitem.01~27306 Name2battlegear2/spear.wood~0battlegear2/spear.wood~0 Name1Craftingbattlegear2/spear.diamond~0battlegear2/spear.diamond~0 Name1
+This spear has superior durability.0-1ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-56.pngSpawn Ghast
+1minecraft/spawn_egg-61.pngSpawn Blaze
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDOptionalTGregworks/tGregToolPartArrowHead-1594.pngDiamond Arrow Head\nAttack: 2 Hearts\nDurability: 960\nBreak Chance: 90%\nWeight: 76.8\nParts can be replaced
+1gregtech/gt.metaitem.01-27306.pngStainless Steel Screw\nFe\u2086CrMnNi
+2battlegear2/spear.wood-0.pngWooden Spear\n+3 Mounted Damage\n+2 Attack Damage\n+1 Reach\nDurability: 59/59\nBurn Time: 200
+1Craftingbattlegear2/spear.diamond-0.pngDiamond Spear\n+3 Mounted Damage\n+5 Attack Damage\n+4 Reach\nDurability: 1561/1561
+1

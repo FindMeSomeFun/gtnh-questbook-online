@@ -1,1 +1,14 @@
-1710§c§lCrystalprocessor MainframeThe Crystalprocessor Mainframe is the first UV circuit you can make.ANDpreRequgregtech/gt.metaitem.03~32090Quest Name For 17091709gregtech/gt.blockmachines~2400Quest Name For 17111711rewardsChoicegregtech/gt.metaitem.03~32039Choice Name64gregtech/gt.metaitem.03~32104Choice Name4enhancedlootbags/lootbag~41Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.blockmachines~4115gregtech/gt.blockmachines~4115 Name12gregtech/gt.metaitem.03~32090gregtech/gt.metaitem.03~32090 Name2gregtech/gt.metaitem.03~32183gregtech/gt.metaitem.03~32183 Name48gregtech/gt.metaitem.03~32027gregtech/gt.metaitem.03~32027 Name64gregtech/gt.metaitem.03~32039gregtech/gt.metaitem.03~32039 Name64gregtech/gt.blockmachines~2400gregtech/gt.blockmachines~2400 Name64Retrievalgregtech/gt.metaitem.03~32091gregtech/gt.metaitem.03~32091 Name1Optionalbartworks/gt.bwMetaGeneratedItem0~1bartworks/gt.bwMetaGeneratedItem0~1 Name1Retrievalbartworks/gt.bwMetaGeneratedItem0~0bartworks/gt.bwMetaGeneratedItem0~0 Name1
+gregtech/gt.metaitem.03-32091.png§c§lCrystalprocessor MainframeThe Crystalprocessor Mainframe is the first UV circuit you can make.1-1ANDpre17091gregtech/gt.metaitem.03-32090.png17111gregtech/gt.blockmachines-2400.pngrewardsChoicegregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+64gregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
+4enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box\nJust something you can put covers on.
+12gregtech/gt.metaitem.03-32090.pngUltimate Crystalcomputer\nAn Ultimate Circuit\nZPM-Tier
+2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor\nAdvanced Electronic Component
+48gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor\nAdvanced Electronic Component
+64gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+64gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire\nMax Voltage: 32,768 (LuV)\nMax Amperage: 16\nLoss/Meter/Ampere: 0 EU-Volt
+64Retrievalgregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe\nA Super Circuit\nUV-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit\nA Sliced Circuit\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint\nAn Imprint for a Circuit\nAdded by BartWorks
+1

@@ -1,3 +1,9 @@
-1526§9§k§r§9§m§l§r§m§n§o§r§9§lBest Crossbow?Energetic alloy has proven to be an amazing material.  It's light weight and high stiffness makes it perfect for a crossbow limb. It is slightly slower to draw but still has amazing stopping power with its very high bolt speed. Durability is much improved over a carbon limb. 
+TGregworks/tGregToolPartCrossbowLimb-1635.png§9§k§r§9§m§l§r§m§n§o§r§9§lBest Crossbow?Energetic alloy has proven to be an amazing material.  It's light weight and high stiffness makes it perfect for a crossbow limb. It is slightly slower to draw but still has amazing stopping power with its very high bolt speed. Durability is much improved over a carbon limb. 
 
-The material would also make an excellent bolt body. Perhaps you will find a suitable tip to match?ANDpreRequgregtech/gt.metaitem.01~11366Quest Name For 990990rewardsItemminecraft/spawn_egg~54Item Name1minecraft/spawn_egg~51Item Name1minecraft/spawn_egg~52Item Name1Itemenhancedlootbags/lootbag~6Item Name1dreamcraft/item.CoinSmithI~0Item Name5tasksANDRetrievalTGregworks/tGregToolPartCrossbowLimb~1635TGregworks/tGregToolPartCrossbowLimb~1635 Name1
+The material would also make an excellent bolt body. Perhaps you will find a suitable tip to match?0-1ANDpre9901gregtech/gt.metaitem.01-11366.pngrewardsItemminecraft/spawn_egg-54.pngSpawn Zombie
+1minecraft/spawn_egg-51.pngSpawn Skeleton
+1minecraft/spawn_egg-52.pngSpawn Spider
+1Itemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5tasksANDRetrievalTGregworks/tGregToolPartCrossbowLimb-1635.pngEnergetic Alloy Crossbow Limb\nDurability: 1805\nDraw Speed: 1s\nArrow Speed: 4.6\nParts can be replaced
+1

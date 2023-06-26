@@ -1,1 +1,4 @@
-2918§b§lEven Betterer Magnetic RodsLike before, you're going to need better rods for your motors next tier. Build this to make your Magnetic Samarium Rods.ANDpreRequgregtech/gt.blockmachines~15Quest Name For 213213rewardsItemgregtech/gt.metaitem.01~23069Item Name4Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.blockmachines~555gregtech/gt.blockmachines~555 Name1
+gregtech/gt.blockmachines-555.png§b§lEven Betterer Magnetic RodsLike before, you're going to need better rods for your motors next tier. Build this to make your Magnetic Samarium Rods.1-1ANDpre2131gregtech/gt.blockmachines-15.pngrewardsItemgregtech/gt.metaitem.01-23069.pngSamarium Rod\nSm
+4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalgregtech/gt.blockmachines-555.pngAdvanced Polarizer IV\nBipolarising your Magnets\nVoltage IN: 8,192 (IV)\nCapacity: 524,288 EU
+1

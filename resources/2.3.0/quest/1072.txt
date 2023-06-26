@@ -1,5 +1,18 @@
-1072Moon ArrivalI have a small present for you: a Talisman of Remedium which is very useful to persevere during the dark nights with all these monsters.
+witchery/mooncharm-0.pngMoon ArrivalI have a small present for you: a Talisman of Remedium which is very useful to persevere during the dark nights with all these monsters.
 
 First you have to prove you can survive on the moon by yourself. After mining some moon turf, dirt, and rock, you can have it.
 
-Make sure you check back in the HV questline for necessary ores you should gather while here.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810rewardsItemenhancedlootbags/lootbag~6Item Name1ThaumicTinkerer/cleansingTalisman~0Item Name1Itemdreamcraft/item.CoinSpaceII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1tasksANDRetrievalminecraft/quartz~0minecraft/quartz~0 Name32minecraft/coal~0minecraft/coal~0 Name4minecraft/glowstone_dust~0minecraft/glowstone_dust~0 Name4minecraft/ghast_tear~0minecraft/ghast_tear~0 Name2minecraft/ender_eye~0minecraft/ender_eye~0 Name1LocationDIM28DIM28 Name RetrievalGalacticraftCore/tile.moonBlock~5GalacticraftCore/tile.moonBlock~5 Name512GalacticraftCore/tile.moonBlock~3GalacticraftCore/tile.moonBlock~3 Name512GalacticraftCore/tile.moonBlock~4GalacticraftCore/tile.moonBlock~4 Name512
+Make sure you check back in the HV questline for necessary ores you should gather while here.0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1ThaumicTinkerer/cleansingTalisman-0.pngTalisman of Remedium\nInactive
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1tasksANDConsumeminecraft/quartz-0.pngNether Quartz
+32minecraft/coal-0.pngCoal\nBurn Time: 1600
+4minecraft/glowstone_dust-0.pngGlowstone Dust
+4minecraft/ghast_tear-0.pngGhast Tear
+2minecraft/ender_eye-0.pngEye of Ender
+1LocationDIM/28-.pngMoon
+1ConsumeGalacticraftCore/tile.moonBlock-5.pngMoon Turf
+512GalacticraftCore/tile.moonBlock-3.pngMoon Dirt
+512GalacticraftCore/tile.moonBlock-4.pngMoon Rock
+512

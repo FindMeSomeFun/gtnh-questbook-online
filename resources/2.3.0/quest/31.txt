@@ -1,3 +1,8 @@
-31§2§lTinTin ingots can be created by smelting Tin, Cassiterite, or Cassiterite Sand ore. Tin and Cassiterite ores are only found at high altitudes, but Cassiterite Sand ore is plentiful near the surface.
+gregtech/gt.metaitem.01-11057.png§2§lTinTin ingots can be created by smelting Tin, Cassiterite, or Cassiterite Sand ore. Tin and Cassiterite ores are only found at high altitudes, but Cassiterite Sand ore is plentiful near the surface.
 
-§5§4Tip: If you get lucky and find a high altitude Tin/Cassiterite vein, save one of the Cassiterite ore to find a Mica vein later on using the ore finder wand.ANDpreRequTConstruct/pickaxe~0Quest Name For 474474rewardsChoiceNatura/berryMedley~0Choice Name4harvestcraft/strawberrypieItem~0Choice Name1enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10tasksANDRetrievalgregtech/gt.metaitem.01~11057gregtech/gt.metaitem.01~11057 Name16
+§5§4Tip: If you get lucky and find a high altitude Tin/Cassiterite vein, save one of the Cassiterite ore to find a Mica vein later on using the ore finder wand.1-1ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceNatura/berryMedley-0.pngBerry Medley\nNatura:berryMedley\nAn irresistable combination of berries\nDiminishing returns start after\neating any food 10 more times
+4harvestcraft/strawberrypieItem-0.pngStrawberry Pie\nharvestcraft:strawberrypieItem\nDiminishing returns start after\neating any food 10 more times
+1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10tasksANDRetrievalgregtech/gt.metaitem.01-11057.pngTin Ingot\nSn
+16

@@ -1,1 +1,11 @@
-495§3§lOoo, Shiny! (Not Platinum!)To make your first macerator you need two diamonds, and to enter the Twilight Forest you need one. Finding a diamond vein would help you a lot. Go and look for one at Y 5-20.ANDpreRequminecraft/piston~0Quest Name For 4949rewardsItemgregtech/gt.metaitem.02~32234Item Name2gregtech/gt.metaitem.02~32232Item Name2enhancedlootbags/lootbag~2Item Name1ChoiceIC2/itemPlates~2Choice Name5gregtech/gt.metaitem.01~17032Choice Name5Itemdreamcraft/item.CoinAdventure~0Item Name10dreamcraft/item.CoinDarkWizard~0Item Name10tasksANDRetrievalgregtech/gt.blockores~500gregtech/gt.blockores~500 Name16gregtech/gt.blockores~865gregtech/gt.blockores~865 Name16gregtech/gt.blockores~535gregtech/gt.blockores~535 Name16
+minecraft/diamond-0.png§3§lOoo, Shiny! (Not Platinum!)To make your first macerator you need two diamonds, and to enter the Twilight Forest you need one. Finding a diamond vein would help you a lot. Go and look for one at Y 5-20.0-1ANDpre491minecraft/piston-0.pngrewardsItemgregtech/gt.metaitem.02-32234.pngSteak Sandwich\ngregtech:gt.metaitem.02\nNot a ''Steam Sandwich''\nDiminishing returns start after\neating any food 10 more times
+2gregtech/gt.metaitem.02-32232.pngCheese Sandwich\ngregtech:gt.metaitem.02\nSay Cheese!\nDiminishing returns start after\neating any food 10 more times
+2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1ChoiceIC2/itemPlates-2.pngBronze Plate
+5gregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+5Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+10tasksANDRetrievalgregtech/gt.blockores-500.pngDiamond Ore\nC
+16gregtech/gt.blockores-865.pngGraphite Ore\nC
+16gregtech/gt.blockores-535.pngCoal Ore\nC
+16

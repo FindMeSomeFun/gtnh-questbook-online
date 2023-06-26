@@ -1,2 +1,11 @@
-657§2§lStone spearUpgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.
-This spear has better durability than the wooden one.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636battlegear2/spear.wood~0Quest Name For 450450rewardsChoiceminecraft/spawn_egg~51Choice Name1minecraft/spawn_egg~50Choice Name1enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name5dreamcraft/item.CoinSurvivor~0Item Name5tasksANDOptionalTConstruct/arrowhead~1TConstruct/arrowhead~1 Name1gregtech/gt.metaitem.01~27032gregtech/gt.metaitem.01~27032 Name2battlegear2/spear.wood~0battlegear2/spear.wood~0 Name1Craftingbattlegear2/spear.stone~0battlegear2/spear.stone~0 Name1
+battlegear2/spear.stone-0.png§2§lStone spearUpgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.
+This spear has better durability than the wooden one.0-1ANDpre361gregtech/gt.metatool.01-16.png4500battlegear2/spear.wood-0.pngrewardsChoiceminecraft/spawn_egg-51.pngSpawn Skeleton
+1minecraft/spawn_egg-50.pngSpawn Creeper
+1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+5tasksANDOptionalTConstruct/arrowhead-1.pngStone Arrowhead\nCan only be used to make casts,\ncannot be used to make a tool
+1gregtech/gt.metaitem.01-27032.pngIron Screw\nFe
+2battlegear2/spear.wood-0.pngWooden Spear\n+3 Mounted Damage\n+2 Attack Damage\n+1 Reach\nDurability: 59/59\nBurn Time: 200
+1Craftingbattlegear2/spear.stone-0.pngStone Spear\n+3 Mounted Damage\n+3 Attack Damage\n+2 Reach\nDurability: 131/131
+1

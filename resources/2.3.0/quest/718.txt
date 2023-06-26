@@ -1,4 +1,4 @@
-718Moron's Manual to Fecund FarmsIf you ever wanted to know how crop breeding works you are in the right place. Get some crops (the sticks) and some seeds from farming with a hoe or mattock. You can also place some plants and berries directly on crop sticks. Good plants to start with are flowers, wheat, cactus and sugarcane. 
+IC2/blockCrop-0.pngMoron's Manual to Fecund FarmsIf you ever wanted to know how crop breeding works you are in the right place. Get some crops (the sticks) and some seeds from farming with a hoe or mattock. You can also place some plants and berries directly on crop sticks. Good plants to start with are flowers, wheat, cactus and sugarcane. 
 
 Make a plot of farmland with your tool and place water in the middle. For now, make 3x1 plots, separated by a row of dirt or cobble. You want to be able to see the center of each column of 3x1 plots all at once, like this:
 FFFdddFFF
@@ -26,4 +26,14 @@ Note that the more crops next to the double crop stick the faster new plants wil
 
 Don't leave new crops in these intensive fields. Pull them out and hopefully get a seedbag. Put low stat seeds in production fields that don't require babysitting. Keep the high stat seeds for more crossing. 
 
-Crossing happens when 2 or more almost mature crops are next to a double cropstick. There is a high chance of getting the same species as the parents. The rest of the time will be a mutation. More details in the IC2 cropnalyzer quest.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoiceIC2/blockCrop~0Choice Name64minecraft/carrot~0Choice Name16minecraft/dye~3Choice Name16enhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalIC2/blockCrop~0IC2/blockCrop~0 Name16Retrievalminecraft/wheat_seeds~0minecraft/wheat_seeds~0 Name2minecraft/reeds~0minecraft/reeds~0 Name2minecraft/carrot~0minecraft/carrot~0 Name2minecraft/potato~0minecraft/potato~0 Name2
+Crossing happens when 2 or more almost mature crops are next to a double cropstick. There is a high chance of getting the same species as the parents. The rest of the time will be a mutation. More details in the IC2 cropnalyzer quest.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceIC2/blockCrop-0.pngCrop
+64minecraft/carrot-0.pngCarrot\nminecraft:carrot\nDiminishing returns start after\neating any food 10 more times
+16minecraft/dye-3.pngCocoa Beans
+16enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDRetrievalIC2/blockCrop-0.pngCrop
+16Retrievalminecraft/wheat_seeds-0.pngSeeds
+2minecraft/reeds-0.pngSugar Canes\nBurn Time: 50
+2minecraft/carrot-0.pngCarrot\nminecraft:carrot\nDiminishing returns start after\neating any food 10 more times
+2minecraft/potato-0.pngPotato\nminecraft:potato\nDiminishing returns start after\neating any food 10 more times
+2

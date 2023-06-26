@@ -1,1 +1,6 @@
-325Unleashed the Power - ShovelTo make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpreRequThaumicTinkerer/ichorShovel~0Quest Name For 323323rewardsItemenhancedlootbags/lootbag~12Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinSmithII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalThaumicTinkerer/ichorShovelGem~0ThaumicTinkerer/ichorShovelGem~0 Name1
+ThaumicTinkerer/ichorShovelGem-0.pngUnleashed the Power - ShovelTo make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!0-1ANDpre3230ThaumicTinkerer/ichorShovel-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/ichorShovelGem-0.pngAwakened Ichorium Shovel\nBlock Mode\n+6 Attack Damage
+1

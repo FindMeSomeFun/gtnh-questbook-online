@@ -1,3 +1,8 @@
-2036Forge of the GodsThe Volcanus Advanced EBF will process items faster than you can believe. You'll need a constant supply of Pyrotheum to use it. And coils.
+gregtech/gt.blockmachines-963.pngForge of the GodsThe Volcanus Advanced EBF will process items faster than you can believe. You'll need a constant supply of Pyrotheum to use it. And coils.
 
-§3This multi is IV, but uses 2 ZPM circuits.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416gregtech/gt.metaitem.03~32088Quest Name For 17071707rewardsItemenhancedlootbags/lootbag~8Item Name1gregtech/gt.metaitem.01~2843Item Name64tasksANDRetrievalgregtech/gt.blockmachines~963gregtech/gt.blockmachines~963 Name1miscutils/gtplusplus.blockcasings.3~11miscutils/gtplusplus.blockcasings.3~11 Name1gregtech/gt.blockmachines~968gregtech/gt.blockmachines~968 Name1
+§3This multi is IV, but uses 2 ZPM circuits.0-1ANDpre14161gregtech/gt.blockmachines-810.png17071gregtech/gt.metaitem.03-32088.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-2843.pngPyrotheum Dust\nC(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)(CSMa)
+64tasksANDRetrievalgregtech/gt.blockmachines-963.pngVolcanus\nMachine Type: Blast Furnace\nFactory Grade Advanced Blast Furnace\nSpeed: +120% | EU Usage: 90% | Parallel: 8\nConsumes 10L of Blazing Pyrotheum per second during operation\nConstructed exactly the same as a normal EBF\nCauses: 500 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/gtplusplus.blockcasings.3-11.pngVolcanus Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.blockmachines-968.pngPyrotheum Heating Vent\nFluid Input for Multiblocks\nCapacity: 128000L\nAccepted Fluid: Blazing Pyrotheum\nAdded by: Alkalus - [GT++]
+1

@@ -1,3 +1,12 @@
-1127§3§lReinforced X? UnbreakableWith your steel tool you are able to mine obsidian. You can make the Reinforcement which gives a reinforced modifier which increases the durability of your tool. Reinforced level X makes a tool unbreakable.
+TConstruct/materials-43.png§3§lReinforced X? UnbreakableWith your steel tool you are able to mine obsidian. You can make the Reinforcement which gives a reinforced modifier which increases the durability of your tool. Reinforced level X makes a tool unbreakable.
 
-§3PS: In many cases this is not worth it, since the tools don't degrade that fast, it doesn't cost much to repair, and you get better materials (with higher durability) to make them out of reasonably fast. Plus, by the time you got it to unbreakable, you'd be auto-mining everything with a miner anyway. Just use redstone, or maybe luck/silky. However, there are a few very nice uses cases like lumber axes and tools for automation setups.ANDpreRequTConstruct/pickaxeHead~16Quest Name For 596596rewardsChoiceminecraft/obsidian~0Choice Name16TConstruct/toolRod~6Choice Name1gregtech/gt.metaitem.01~11305Choice Name4enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalTConstruct/metalPattern~16TConstruct/metalPattern~16 Name1RetrievalTConstruct/heavyPlate~6TConstruct/heavyPlate~6 Name1RetrievalTConstruct/materials~43TConstruct/materials~43 Name1
+§3PS: In many cases this is not worth it, since the tools don't degrade that fast, it doesn't cost much to repair, and you get better materials (with higher durability) to make them out of reasonably fast. Plus, by the time you got it to unbreakable, you'd be auto-mining everything with a miner anyway. Just use redstone, or maybe luck/silky. However, there are a few very nice uses cases like lumber axes and tools for automation setups.0-1ANDpre5960TConstruct/pickaxeHead-16.pngrewardsChoiceminecraft/obsidian-0.pngObsidian
+16TConstruct/toolRod-6.pngObsidian Tool Rod\nReinforced III\nDurability Modifier: 0.8x\nParts can be replaced
+1gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalTConstruct/metalPattern-16.pngLarge Plate Cast\nMaterial Cost: 8
+1RetrievalTConstruct/heavyPlate-6.pngObsidian Large Plate\nReinforced III\nDurability: 67\nMining Speed: 6.5\nAttack: 1 Heart\nParts can be replaced
+1RetrievalTConstruct/materials-43.pngReinforcement\nTool Modifier: Reinforced
+1

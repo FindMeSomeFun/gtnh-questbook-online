@@ -1,1 +1,6 @@
-943§9§lPerforming Chemical Experiments at HV LevelHigh tier chemical recipes like ammonia need an HV chemical reactor.ANDpreRequgregtech/gt.metaitem.01~32652Quest Name For 12311231rewardsChoiceenhancedlootbags/lootbag~6Choice Name1gregtech/gt.blockmachines~5683Choice Name4IC2/itemPartCircuitAdv~0Choice Name2Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~423gregtech/gt.blockmachines~423 Name1
+gregtech/gt.blockmachines-423.png§9§lPerforming Chemical Experiments at HV LevelHigh tier chemical recipes like ammonia need an HV chemical reactor.1-1ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.blockmachines-5683.pngLarge PTFE Fluid Pipe\nFluid Capacity: 19,200 L/sec\nHeat Limit: 600 K
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-423.pngAdvanced Chemical Reactor II\nLetting Chemicals react with each other\nVoltage IN: 512 (HV)\nCapacity: 32,768 EU
+1

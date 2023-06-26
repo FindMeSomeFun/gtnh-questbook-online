@@ -1,4 +1,4 @@
-1116Breed some cultivated beesCommon Princess and Foresty Drone can be bred to cultivated bees. 
+Forestry/beeQueenGE-0-Cultivated.pngBreed some cultivated beesCommon Princess and Foresty Drone can be bred to cultivated bees. 
 
 Cultivated bees have the shorest lifespan - this means they make great princesses to breed with your newly bred drones. The queen will die quickly, quickly giving genetic material to work with. Make sure the traits you want are kept!
 
@@ -8,4 +8,14 @@ Cultivated Bees produce Honey Combs every 0.9 minutes. Note that production time
 
 Make sure your cultivated bees are pure with a Beealyzer or GT scanner.
 
-The main bee breeding quests will require pure bees but you can use Ignoble or Pristine princesses.ANDpreRequForestry/beeQueenGE~0Quest Name For 11171117rewardsItemenhancedlootbags/lootbag~25Item Name1Forestry/honeyDrop~0Item Name32Forestry/beeCombs~0Item Name32Itemdreamcraft/item.CoinBees~0Item Name25tasksANDOptionalForestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1Forestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1Forestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1RetrievalForestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1
+The main bee breeding quests will require pure bees but you can use Ignoble or Pristine princesses.0-1ANDpre11170Forestry/beeQueenGE-0-Common.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Forestry/honeyDrop-0.pngHoney Drop
+32Forestry/beeCombs-0.pngHoney Comb
+32Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDOptionalForestry/beeDroneGE-0-Common.pngCommon Drone
+1Forestry/beePrincessGE-0-Common.pngCommon Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Forest.pngForest Drone
+1Forestry/beePrincessGE-0-Forest.pngForest Princess\nPristine Stock
+1RetrievalForestry/beePrincessGE-0-Cultivated.pngCultivated Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
+1

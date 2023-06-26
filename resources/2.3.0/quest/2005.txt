@@ -1,7 +1,8 @@
-2005Learning Curve? Where We're Going There Are No CurvesOnly dangerous cliffs to fly off. TecTech can be the source of adventures, scary and satisfying. 
+structurelib/item.structurelib.constructableTrigger-0.pngLearning Curve? Where We're Going There Are No CurvesOnly dangerous cliffs to fly off. TecTech can be the source of adventures, scary and satisfying. 
 
 Thanks to Piky/Scripted for giving you some guardrails to stay on the road. Scripted/Piky shed blood over these quests for you. Now it's your turn!
 
 For additional details on TecTech, check out the wiki at https://github.com/Technus/TecTech/wiki
 
-You'll probably recieve better help in Discord, though.ANDpreRequgregtech/gt.blockmachines~17Quest Name For 26102610rewardstasksANDCheckboxcheckbox  
+You'll probably recieve better help in Discord, though.1-1ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

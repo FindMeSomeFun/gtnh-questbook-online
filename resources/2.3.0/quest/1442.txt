@@ -1,1 +1,11 @@
-1442Compressed Steel ArmorThe compressed steel armor has more durability than the steel armor.ANDpreRequgregtech/gt.blockmachines~1001Quest Name For 8080IC2/itemArmorAlloyChestplate~0Quest Name For 692692rewardsChoiceminecraft/tnt~0Choice Name16GalacticraftCore/item.basicItem~9Choice Name4enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDOptionalGalacticraftCore/item.basicItem~9GalacticraftCore/item.basicItem~9 Name24CraftingGalacticraftCore/item.steel_helmet~0GalacticraftCore/item.steel_helmet~0 Name1GalacticraftCore/item.steel_chestplate~0GalacticraftCore/item.steel_chestplate~0 Name1GalacticraftCore/item.steel_leggings~0GalacticraftCore/item.steel_leggings~0 Name1GalacticraftCore/item.steel_boots~0GalacticraftCore/item.steel_boots~0 Name1
+Railcraft/armor.steel.plate-0.pngCompressed Steel ArmorThe compressed steel armor has more durability than the steel armor.0-1ANDpre801gregtech/gt.blockmachines-1001.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceminecraft/tnt-0.pngTNT
+16GalacticraftCore/item.basicItem-9.pngCompressed Steel
+4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
+24CraftingGalacticraftCore/item.steel_helmet-0.pngHeavy Duty Helmet\nProtection: 3\nDurability: 330/330
+1GalacticraftCore/item.steel_chestplate-0.pngHeavy Duty Chestplate\nProtection: 8\nDurability: 480/480
+1GalacticraftCore/item.steel_leggings-0.pngHeavy Duty Leggings\nProtection: 6\nDurability: 450/450
+1GalacticraftCore/item.steel_boots-0.pngHeavy Duty Boots\nProtection: 3\nDurability: 390/390
+1

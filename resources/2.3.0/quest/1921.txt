@@ -1,7 +1,12 @@
-1921§9§lSeparating MoleculesDid you know that you used to be able to get Tungstate out of Lava? As well as Silver, Tantalum and Copper? Well, now you can't, because Nerfs. Nerfing (making it harder) is the GTNH way of life. Even the Everburn Urn (how you probably get lava) used to not have coils in the recipe.
+gregtech/gt.blockmachines-363.png§9§lSeparating MoleculesDid you know that you used to be able to get Tungstate out of Lava? As well as Silver, Tantalum and Copper? Well, now you can't, because Nerfs. Nerfing (making it harder) is the GTNH way of life. Even the Everburn Urn (how you probably get lava) used to not have coils in the recipe.
 
 It's not all bad though, you can still get stuff, it's just not as good: Silicon Dioxide, Magnesia, Quicklime, Gold Nuggets, Sapphire Dust, and Tantalite.
 
 Pahoehoe Lava (from putting normal Lava through the LHE) gets you: Copper, Tin, Silver, Phosphorus, Scheelite, and Bauxite.
 
-So that's why a quest for an HV Centrifuge is here, too good for the Lava recipe, not good enough for the Pahoehoe one. Try centrifuging Endstone Dust from your crops or Ender Goo instead if you need Tungsten.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsItemIC2/itemCellEmpty~2Item Name64bartworks/gt.bwMetaGeneratedgemExquisite~20Item Name8Itemenhancedlootbags/lootbag~6Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~363gregtech/gt.blockmachines~363 Name1
+So that's why a quest for an HV Centrifuge is here, too good for the Lava recipe, not good enough for the Pahoehoe one. Try centrifuging Endstone Dust from your crops or Ender Goo instead if you need Tungsten.0-1ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemIC2/itemCellEmpty-2.pngLava Cell\nBurn Time: 20000
+64bartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt\nNaCl\nAdded by BartWorks
+8Itemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-363.pngTurbo Centrifuge\nSeparating Molecules\nVoltage IN: 512 (HV)\nCapacity: 32,768 EU
+1

@@ -1,1 +1,6 @@
-1828L.E.S.U. Upgrade - EV TierClose to 8 Stacks of LESU Casings, this upgrade enables EV Voltage on your LESU. It's easy until now.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176IC2/itemPlates~8Quest Name For 18271827rewardsItemenhancedlootbags/lootbag~7Item Name1ThaumicHorizons/focusIllumination~12Item Name1thaumicbases/genericSlab~7Item Name1dreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDRetrievalbartworks/GT_LESU_CASING~0bartworks/GT_LESU_CASING~0 Name477
+thaumicbases/genericSlab-7.pngL.E.S.U. Upgrade - EV TierClose to 8 Stacks of LESU Casings, this upgrade enables EV Voltage on your LESU. It's easy until now.0-1ANDpre1761gregtech/gt.blockmachines-14.png18270IC2/itemPlates-8.pngrewardsItemenhancedlootbags/lootbag-7-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1ThaumicHorizons/focusIllumination-12.pngWand Focus: Illumination\nVis per cast\n Aer x 1\n Ignis x 1
+1thaumicbases/genericSlab-7.pngAncient Lapis Lazuli Slab\nMay work as an Infusion Stabilizer
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
+477

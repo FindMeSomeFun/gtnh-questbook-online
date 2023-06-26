@@ -1,7 +1,15 @@
-2985§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Not Prepared... But They AreBuilding a smeltery from ground up can be really tedious and time consuming. How about go borrow one from the locals? They will surely be happy to share it with an unfriendly adventurer that just dismantlled their bricked railway station.
+StevesCarts/CartModule-23.png§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Not Prepared... But They AreBuilding a smeltery from ground up can be really tedious and time consuming. How about go borrow one from the locals? They will surely be happy to share it with an unfriendly adventurer that just dismantlled their bricked railway station.
 
 The villager are too dumb that they spent all their seared bricks without adding a few key components like faucets or drains. You still need to craft some smeltry bricks yourselves... 
 
 Totally not useful tip: if you hold off building this long enough, you will be able to break down seared brick blocks into seared brick items with a forge hammer or extractor.
 
-§3Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.XORpreRequminecraft/stone~0Quest Name For 1818minecraft/wooden_shovel~0Quest Name For 30313031rewardstasksANDRetrievalTConstruct/SearedBlock~1TConstruct/SearedBlock~1 Name2TConstruct/LavaTank~0TConstruct/LavaTank~0 Name1TConstruct/Smeltery~0TConstruct/Smeltery~0 Name1TConstruct/CastingChannel~0TConstruct/CastingChannel~0 Name2TConstruct/SearedBlock~0TConstruct/SearedBlock~0 Name1TConstruct/SearedBlock~2TConstruct/SearedBlock~2 Name1TConstruct/Smeltery~1TConstruct/Smeltery~1 Name2Checkboxcheckbox  
+§3Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.0-1XORpre181minecraft/stone-0.png30310minecraft/wooden_shovel-0.pngrewardstasksANDRetrievalTConstruct/SearedBlock-1.pngSeared Faucet\nThis Smeltery is leaking\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+2TConstruct/LavaTank-0.pngSeared Tank\nHeart of the Smeltery\nKeeps any fluids it has when harvested\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+1TConstruct/Smeltery-0.pngSmeltery Controller\nBrain of the Smeltery\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+1TConstruct/CastingChannel-0.pngCasting Channel\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+2TConstruct/SearedBlock-0.pngCasting Table\nBasic Smeltery equipment\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+1TConstruct/SearedBlock-2.pngCasting Basin\nFor the ambitious Smeltery\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+1TConstruct/Smeltery-1.pngSmeltery Drain\nWorks both as input and output for\nfluids in the Smeltery
+2Checkboxcheckbox-.pngCheckbox
+1

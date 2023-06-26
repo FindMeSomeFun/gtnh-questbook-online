@@ -1,5 +1,6 @@
-3205Reactors are Expensive!Your first t1 Fusion Reactor is one of the biggest walls to overcome throughout this pack's progression. It's very unlikely you can afford to just build another one right after, so you will have to manage several reactions with that single one.
+miscutils/itemGenericToken-0.pngReactors are Expensive!Your first t1 Fusion Reactor is one of the biggest walls to overcome throughout this pack's progression. It's very unlikely you can afford to just build another one right after, so you will have to manage several reactions with that single one.
 
 The new fusion condition is that you will have to pay a cost of EU and time every time you switch the recipe that's being crafted. Assuming you're using fusion power, the production of Europium and any other material should be batched between your usual rows of power generation. Perhaps you're overproducing power? In that case, you can use the pause to fuse some useful materials.
 
-In time, you will be able to afford and use multiple fusion reactors. For not, this isn't the case.ORpreRequmiscutils/particleIon~62Quest Name For 31623162gregtech/gt.metaitem.01~31004Quest Name For 31633163rewardstasksANDCheckboxcheckbox  
+In time, you will be able to afford and use multiple fusion reactors. For not, this isn't the case.0-1ORpre31620miscutils/particleIon-62.png31630gregtech/gt.metaitem.01-31004.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

@@ -1,1 +1,10 @@
-1658§a§lDraconium EggThe next step is to add draconium and ender goo to the ender egg to get a draconium egg.ANDpreRequdreamcraft/item.EnderEgg~0Quest Name For 16571657rewardsItemminecraft/spawn_egg~301Item Name1minecraft/spawn_egg~25Item Name1enhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1dreamcraft/item.CoinChemistII~0Item Name1tasksANDOptionaldreamcraft/item.EnderEgg~0dreamcraft/item.EnderEgg~0 Name1DraconicEvolution/draconiumDust~0DraconicEvolution/draconiumDust~0 Name64gregtech/gt.metaitem.98~4gregtech/gt.metaitem.98~4 Name1Retrievaldreamcraft/item.DraconiumEgg~0dreamcraft/item.DraconiumEgg~0 Name1
+dreamcraft/item.DraconiumEgg-0.png§a§lDraconium EggThe next step is to add draconium and ender goo to the ender egg to get a draconium egg.0-1ANDpre16570dreamcraft/item.EnderEgg-0.pngrewardsItemminecraft/spawn_egg-301.pngSpawn Jungle Spider
+1minecraft/spawn_egg-25.pngSpawn Wither Cat
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionaldreamcraft/item.EnderEgg-0.pngEnder Egg
+1DraconicEvolution/draconiumDust-0.pngDraconium Dust
+64gregtech/gt.metaitem.98-4.pngEnder Goo Cell
+1Retrievaldreamcraft/item.DraconiumEgg-0.pngEnriched Draconium Egg
+1

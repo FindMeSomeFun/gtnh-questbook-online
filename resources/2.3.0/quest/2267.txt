@@ -1,4 +1,4 @@
-2267A Travel CompanionLonely? The Traveling Trunk is a simple companion, giving you some extra space. With upgrades (one per trunk) it can offer you some nice advantages. Like other golems, you can pick it up with the Golemancer's Bell. It's brain is pretty small though, so it can easily get stuck. You can order it to stay in one spot via the GUI. It will attempt to teleport to you, as long as the chunk is still loaded. It can also follow you into different dimensions.
+Thaumcraft/TrunkSpawner-0.pngA Travel CompanionLonely? The Traveling Trunk is a simple companion, giving you some extra space. With upgrades (one per trunk) it can offer you some nice advantages. Like other golems, you can pick it up with the Golemancer's Bell. It's brain is pretty small though, so it can easily get stuck. You can order it to stay in one spot via the GUI. It will attempt to teleport to you, as long as the chunk is still loaded. It can also follow you into different dimensions.
 
 They will heal slowly on their own, or faster if you right-click on them with any food, including rotten meat. Keep away from lava.
 
@@ -8,4 +8,13 @@ Earth: 1 more row of item slots
 Fire: Attacks hostile mobs, setting them on fire
 Water: Nearly invulnerable. In SMP, can only be opened or picked up by player who placed it.
 Entropy: Sucks in loose items nearby if it has room
-Order: Can be picked up with its contents, and nested in other inventories. Don't be stupid about this.ANDpreRequThaumcraft/ItemGolemPlacer~1Quest Name For 292292rewardsItemThaumcraft/ItemLootBag~1Item Name1enhancedlootbags/lootbag~10Item Name1ChoiceThaumcraft/ItemGolemUpgrade~0Choice Name1Thaumcraft/ItemGolemUpgrade~1Choice Name1Thaumcraft/ItemGolemUpgrade~2Choice Name1Thaumcraft/ItemGolemUpgrade~3Choice Name1Thaumcraft/ItemGolemUpgrade~4Choice Name1Thaumcraft/ItemGolemUpgrade~5Choice Name1tasksANDRetrievalThaumcraft/TrunkSpawner~0Thaumcraft/TrunkSpawner~0 Name1
+Order: Can be picked up with its contents, and nested in other inventories. Don't be stupid about this.0-1ANDpre2920Thaumcraft/ItemGolemPlacer-1.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1enhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Air\nImproves Speed
+1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Earth\nImproves Strength
+1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fire\nImproves Damage, Capacity
+1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Water\nImproves Senses, Range
+1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Order\nImproves Organization, Intellect
+1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy\nImproves Defenses, Reasoning
+1tasksANDRetrievalThaumcraft/TrunkSpawner-0.pngTraveling Trunk
+1

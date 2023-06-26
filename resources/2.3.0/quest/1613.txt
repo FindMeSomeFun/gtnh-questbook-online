@@ -1,5 +1,15 @@
-1613§5§lSource of NickelYour Electric Blast Furnace needs Nickel. Now that you've reached the Twilight Forest, it's time to get some. The Garnierite vein that contains it is located at Y 10-40. In MV, you'll need tons of Nickel for Cupronickel, so stock up.
+gregtech/gt.blockores-906.png§5§lSource of NickelYour Electric Blast Furnace needs Nickel. Now that you've reached the Twilight Forest, it's time to get some. The Garnierite vein that contains it is located at Y 10-40. In MV, you'll need tons of Nickel for Cupronickel, so stock up.
 
 You can get some Cobalt out of Cobaltite through the side processes such as washing or thermal centrifuging. To electrolyze it, you'll need an MV electrolyzer though. Or you can EBF it after your EBF is done. Remember that the Sulfur Dioxide you get is based on your muffler tier. This is probably easier than searching in the Nether for Cobalt.
 
-§3You can also find small quantities of Pentlandite ore in the Overworld if you care.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemharvestcraft/epicbaconItem~0Item Name1harvestcraft/supremepizzaItem~0Item Name1Choicegregtech/gt.metaitem.01~11305Choice Name8gregtech/gt.metaitem.01~11300Choice Name16enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name15tasksANDRetrievalgregtech/gt.blockores~906gregtech/gt.blockores~906 Name64gregtech/gt.blockores~34gregtech/gt.blockores~34 Name64gregtech/gt.blockores~827gregtech/gt.blockores~827 Name64gregtech/gt.blockores~909gregtech/gt.blockores~909 Name64
+§3You can also find small quantities of Pentlandite ore in the Overworld if you care.0-1ANDpre2251minecraft/end_portal-0.pngrewardsItemharvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem\nDiminishing returns start after\neating any food 10 more times
+1Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+8gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
+16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+15tasksANDRetrievalgregtech/gt.blockores-906.pngGarnierite Ore\nNiO
+64gregtech/gt.blockores-34.pngNickel Ore\nNi
+64gregtech/gt.blockores-827.pngCobaltite Ore\nCoAsS
+64gregtech/gt.blockores-909.pngPentlandite Ore\nNi\u2089S\u2088
+64

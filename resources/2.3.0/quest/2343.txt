@@ -1,1 +1,12 @@
-2343Quartz SphereA Quartz Sphere is a component used in the production of a Crystal Ball and the Seer Stone for summoning coven witches.ANDpreRequwitchery/ingredient~93Quest Name For 23422342rewardsChoiceminecraft/obsidian~0Choice Name16witchery/ingredient~40Choice Name2enhancedlootbags/lootbag~54Choice Name1Itemdreamcraft/item.CoinCookII~0Item Name1dreamcraft/item.CoinChemistII~0Item Name1dreamcraft/item.CoinWitchII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~24890gregtech/gt.metaitem.01~24890 Name1gregtech/gt.metaitem.01~17522gregtech/gt.metaitem.01~17522 Name4gregtech/gt.metaitem.01~17523gregtech/gt.metaitem.01~17523 Name2gregtech/gt.metaitem.01~17516gregtech/gt.metaitem.01~17516 Name2Retrievalwitchery/ingredient~92witchery/ingredient~92 Name1
+witchery/ingredient-92.pngQuartz SphereA Quartz Sphere is a component used in the production of a Crystal Ball and the Seer Stone for summoning coven witches.0-1ANDpre23420witchery/ingredient-93.pngrewardsChoiceminecraft/obsidian-0.pngObsidian
+16witchery/ingredient-40.pngRedstone Soup
+2enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-24890.pngGlass Lens\nSiO\u2082
+1gregtech/gt.metaitem.01-17522.pngNether Quartz Plate\nSiO\u2082
+4gregtech/gt.metaitem.01-17523.pngQuartzite Plate\nSiO\u2082
+2gregtech/gt.metaitem.01-17516.pngCertus Quartz Plate\nSiO\u2082
+2Retrievalwitchery/ingredient-92.pngQuartz Sphere
+1

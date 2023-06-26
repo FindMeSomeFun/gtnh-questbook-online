@@ -1,4 +1,4 @@
-2715General Purpose Fermenting BacteriaSo if you looked in NEI and tried to figure out how to make this, you were probably confused by the fact that you use the fluid it produces to make it. This is where NEI is lying to you. Like the previous recipe, NEI doesn't show it correctly (they should be around the same page in NEI, they both also appear to produce Sterilized Petri Dishes, (even if that's not true) and both use unique Modules).
+bartworks/BioLabParts-0.pngGeneral Purpose Fermenting BacteriaSo if you looked in NEI and tried to figure out how to make this, you were probably confused by the fact that you use the fluid it produces to make it. This is where NEI is lying to you. Like the previous recipe, NEI doesn't show it correctly (they should be around the same page in NEI, they both also appear to produce Sterilized Petri Dishes, (even if that's not true) and both use unique Modules).
 
 In order to make this, you'll need to make the Rotten Flesh Bacteria culture, get the DNA Sample, and then get the Data Orb. It changes it's name to beta-Lactamase, that's normal.
 
@@ -8,4 +8,23 @@ Then you need to use the recipe to combine the information from the Data Orbs an
 
 Lastly, use the Rotten Flesh Bacteria culture, the Common Yeast Plasmid, Penicillin (make it by centrifuging Common Yeast Fluid), and Distilled Water. You want the Transformation Module for this. It's a 100% chance.
 
-You'll want to use the normal recipe to make more cultures, since it also becomes beta-Lactamase once you turn it into a DNA Sample.ANDpreRequbartworks/BioLabModules~4Quest Name For 27142714rewardstasksANDRetrievalbartworks/BioLabParts~0bartworks/BioLabParts~0 Name1bartworks/BioLabParts~1bartworks/BioLabParts~1 Name1gregtech/gt.metaitem.01~32707gregtech/gt.metaitem.01~32707 Name1Retrievalbartworks/BioLabParts~0bartworks/BioLabParts~0 Name1bartworks/BioLabParts~1bartworks/BioLabParts~1 Name1gregtech/gt.metaitem.01~32707gregtech/gt.metaitem.01~32707 Name1Retrievalgregtech/gt.metaitem.98~10gregtech/gt.metaitem.98~10 Name1bartworks/BioLabParts~2bartworks/BioLabParts~2 Name1gregtech/gt.metaitem.01~32707gregtech/gt.metaitem.01~32707 Name1gregtech/gt.metaitem.01~32707gregtech/gt.metaitem.01~32707 Name1gregtech/gt.metaitem.98~16gregtech/gt.metaitem.98~16 Name1Retrievalbartworks/BioLabModules~2bartworks/BioLabModules~2 Name1Retrievalbartworks/BioLabParts~2bartworks/BioLabParts~2 Name1Retrievalbartworks/BioLabParts~0bartworks/BioLabParts~0 Name1bartworks/BioLabParts~2bartworks/BioLabParts~2 Name1gregtech/gt.metaitem.98~12gregtech/gt.metaitem.98~12 Name1IC2/itemCellEmpty~12IC2/itemCellEmpty~12 Name1Retrievalbartworks/BioLabModules~3bartworks/BioLabModules~3 Name1Retrievalbartworks/BioLabParts~0bartworks/BioLabParts~0 Name1
+You'll want to use the normal recipe to make more cultures, since it also becomes beta-Lactamase once you turn it into a DNA Sample.0-1ANDpre27140bartworks/BioLabModules-4.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
+1bartworks/BioLabParts-1.pngDNA Sample Flask\nA DNA Flask containing: beta-Lactamase\nAdded by BartWorks
+1gregtech/gt.metaitem.01-32707.pngData Orb\nA High Capacity Data Storage\nDNA Sample\nbeta-Lactamase
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Saccharomyces cerevisiae (Common Yeast)\nAdded by BartWorks
+1bartworks/BioLabParts-1.pngDNA Sample Flask\nA DNA Flask containing: Saccharomyces cerevisiae (Common Yeast)\nAdded by BartWorks
+1gregtech/gt.metaitem.01-32707.pngData Orb\nA High Capacity Data Storage\nDNA Sample\nSaccharomyces cerevisiae
+1Retrievalgregtech/gt.metaitem.98-10.pngEnzyme Solution Cell
+1bartworks/BioLabParts-2.pngPlasmid Sample Flask\nAn empty Plasmid Cell.\nAdded by BartWorks
+1gregtech/gt.metaitem.01-32707.pngData Orb\nA High Capacity Data Storage\nDNA Sample\nSaccharomyces cerevisiae
+1gregtech/gt.metaitem.01-32707.pngData Orb\nA High Capacity Data Storage\nDNA Sample\nbeta-Lactamase
+1gregtech/gt.metaitem.98-16.pngLiquid DNA Cell
+1Retrievalbartworks/BioLabModules-2.pngPlasmid Synthesis Module\nA Module used to change the BioLab''s working Mode\nAdded by BartWorks
+1Retrievalbartworks/BioLabParts-2.pngPlasmid Sample Flask\nA Plasmid Cell containing: Saccharomyces cerevisiae (Common Yeast)\nAdded by BartWorks
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
+1bartworks/BioLabParts-2.pngPlasmid Sample Flask\nA Plasmid Cell containing: Saccharomyces cerevisiae (Common Yeast)\nAdded by BartWorks
+1gregtech/gt.metaitem.98-12.pngPenicillin Cell
+1IC2/itemCellEmpty-12.pngDistilled Water Cell
+1Retrievalbartworks/BioLabModules-3.pngTransformation Module\nA Module used to change the BioLab''s working Mode\nAdded by BartWorks
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Saccharomyces escherichia (General Purpose Fermenting Bacteria)\nAdded by BartWorks
+1

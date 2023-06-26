@@ -1,1 +1,3 @@
-2939§6§lOopsIf you failed to meet the NKE as NEI requested, you can recycle something useful in this place.ANDpreRequgregtech/gt.blockmachines~32013Quest Name For 29362936rewardsItembartworks/gt.bwMetaGenerateddust~10054Item Name1tasksANDRetrievalGoodGenerator/radioactiveWaste~0GoodGenerator/radioactiveWaste~0 Name64
+GoodGenerator/radioactiveWaste-0.png§6§lOopsIf you failed to meet the NKE as NEI requested, you can recycle something useful in this place.060000ANDpre29361gregtech/gt.blockmachines-32013.pngrewardsItembartworks/gt.bwMetaGenerateddust-10054.pngNaquadah Oxide Mixture Dust\n??NqTiGaAd??\nAdded by Good Generator via BartWorks
+1tasksANDConsumeGoodGenerator/radioactiveWaste-0.pngRadioactive Waste
+64

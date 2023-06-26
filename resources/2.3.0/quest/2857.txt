@@ -1,1 +1,4 @@
-2857Magic Mirror Glass?This glass seems useful for several things, including, perhaps, teleportation of items or essentia?ANDpreRequThaumcraft/ItemLootBag~1Quest Name For 260260rewardsItemThaumcraft/ItemResource~10Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/ItemResource~10Thaumcraft/ItemResource~10 Name1
+Thaumcraft/ItemResource-10.pngMagic Mirror Glass?This glass seems useful for several things, including, perhaps, teleportation of items or essentia?0-1ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemThaumcraft/ItemResource-10.pngMirrored Glass
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/ItemResource-10.pngMirrored Glass
+1

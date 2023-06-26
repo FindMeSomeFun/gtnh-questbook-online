@@ -1,3 +1,10 @@
-1748Arithmetic Logic CircuitsThe Arithmetic Logic Circuits are used in numerous parts;  mostly in groups of 8-16, up to 64.
+OpenComputers/item-27.pngArithmetic Logic CircuitsThe Arithmetic Logic Circuits are used in numerous parts;  mostly in groups of 8-16, up to 64.
    
-So be sure to make plenty.ANDpreRequOpenComputers/item~48Quest Name For 17451745rewardsChoiceOpenComputers/item~27Choice Name4OpenComputers/item~24Choice Name1Itemenhancedlootbags/lootbag~45Item Name1miscutils/itemGenericToken~0Item Name1tasksANDOptionalgregtech/gt.metaitem.03~32037gregtech/gt.metaitem.03~32037 Name64gregtech/gt.metaitem.03~32106gregtech/gt.metaitem.03~32106 Name4RetrievalOpenComputers/item~27OpenComputers/item~27 Name4
+So be sure to make plenty.0-1ANDpre17450OpenComputers/item-48.pngrewardsChoiceOpenComputers/item-27.pngArithmetic Logic Unit
+4OpenComputers/item-24.pngMicrochip
+1Itemenhancedlootbags/lootbag-45.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+1tasksANDOptionalgregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit\nIntegrated Circuit
+64gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+4RetrievalOpenComputers/item-27.pngArithmetic Logic Unit
+4

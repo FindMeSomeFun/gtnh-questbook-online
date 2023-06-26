@@ -1,5 +1,6 @@
-2655Supercomputers and WaterThe Wetware Supercomputer is a UV Circuit.
+gregtech/gt.metaitem.03-32094.pngSupercomputers and WaterThe Wetware Supercomputer is a UV Circuit.
 
 You'll need a TecTech Research Station and Quantum Computer to make the Wetware Mainframe circuit, so make those before continuing.
 
-§3If you can't see the quests, go back to ZPM and do the TT ones there you skipped.ANDpreRequgregtech/gt.metaitem.03~32093Quest Name For 26542654rewardstasksANDRetrievalgregtech/gt.metaitem.03~32094gregtech/gt.metaitem.03~32094 Name1
+§3If you can't see the quests, go back to ZPM and do the TT ones there you skipped.1-1ANDpre26541gregtech/gt.metaitem.03-32093.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32094.pngWetware Supercomputer\nA Super Circuit\nUV-Tier
+1

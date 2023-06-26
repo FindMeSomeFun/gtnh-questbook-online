@@ -1,1 +1,10 @@
-1719§b§lPower of the Sun 1x1 EVPut those 2048 EU panels on a block to make them placeable in the world.ANDpreRequgregtech/gt.metaitem.01~32755Quest Name For 16721672rewardsChoicegregtech/gt.metaitem.03~32034Choice Name4gregtech/gt.metaitem.01~2316Choice Name16enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~32755gregtech/gt.metaitem.01~32755 Name1gregtech/gt.metaitem.01~32540gregtech/gt.metaitem.01~32540 Name1gregtech/gt.metaitem.01~32653gregtech/gt.metaitem.01~32653 Name1gregtech/gt.blockmachines~14gregtech/gt.blockmachines~14 Name1RetrievalAdvancedSolarPanel/BlockAdvSolarPanel~3AdvancedSolarPanel/BlockAdvSolarPanel~3 Name1
+AdvancedSolarPanel/BlockAdvSolarPanel-3.png§b§lPower of the Sun 1x1 EVPut those 2048 EU panels on a block to make them placeable in the world.0-1ANDpre16720gregtech/gt.metaitem.01-32755.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
+4gregtech/gt.metaitem.01-2316.pngTungstensteel Dust\n(Fe\u2085\u2080C)W
+16enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-32755.pngSolar Panel\nExtreme Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery\nReusable\n0 / 6,400,000 EU - Voltage: 2048\nEV-Tier
+1gregtech/gt.metaitem.01-32653.pngRobot Arm\n1 stack every 1/5 sec (as Cover)\nGrabs from and inserts into specific slots
+1gregtech/gt.blockmachines-14.pngEV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 102,912 EU
+1RetrievalAdvancedSolarPanel/BlockAdvSolarPanel-3.pngQuantum Solar Panel
+1

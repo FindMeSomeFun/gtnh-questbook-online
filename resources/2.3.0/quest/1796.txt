@@ -1,4 +1,4 @@
-1796§5§lBetter Gallium and Arsenic SourcesThere are a couple of ways to increase your Gallium.
+gregtech/gt.metaitem.01-2037.png§5§lBetter Gallium and Arsenic SourcesThere are a couple of ways to increase your Gallium.
 
 1. Breed Zinc Bees and react the Gallium Combs with Hydrochloric Acid. The bee is not too deep in the breeding progression and the processing only requires LV.
 
@@ -12,4 +12,5 @@
 
 6. Duplicate nugget with Thaumcraft. This requires §lTaboo§r researches, so you might not want to do this.
 
-For Arsenic, Cobaltite ore in the Twilight Forest is a great source. It can be multiplied 4x by the IC2 crop Nickelback.ANDpreRequgregtech/gt.metaitem.03~32190Quest Name For 836836rewardstasksANDCheckboxcheckbox  
+For Arsenic, Cobaltite ore in the Twilight Forest is a great source. It can be multiplied 4x by the IC2 crop Nickelback.0-1ANDpre8361gregtech/gt.metaitem.03-32190.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

@@ -1,3 +1,7 @@
-1938Some Handy UsesThe TiCon chisel doesn't have a lot of uses, but here a couple of interesting ones. Use NEI to see other options for more decorations. You can also slab these blocks if you want something monsters cannot spawn on.
+TConstruct/SpeedSlab-4.pngSome Handy UsesThe TiCon chisel doesn't have a lot of uses, but here a couple of interesting ones. Use NEI to see other options for more decorations. You can also slab these blocks if you want something monsters cannot spawn on.
 
-Brownstone roads are slightly faster than rough brownstone.ANDpreRequTConstruct/metalPattern~13Quest Name For 19361936rewardsItemminecraft/lava_bucket~0Item Name1tasksANDRetrievalTConstruct/SpeedBlock~1TConstruct/SpeedBlock~1 Name1TConstruct/decoration.multibrick~10TConstruct/decoration.multibrick~10 Name1TConstruct/decoration.multibrick~8TConstruct/decoration.multibrick~8 Name1
+Brownstone roads are slightly faster than rough brownstone.0-1ANDpre19360TConstruct/metalPattern-13.pngrewardsItemminecraft/lava_bucket-0.pngLava Bucket\nBurn Time: 20000\nYou need Gloves for it?
+1tasksANDRetrievalTConstruct/SpeedBlock-1.pngBrownstone Road\nYou run pretty fast on it
+1TConstruct/decoration.multibrick-10.pngSlime Brick\nBouncy!
+1TConstruct/decoration.multibrick-8.pngRedstone Brick\nEmits Redstone signal up to\n4 blocks away
+1

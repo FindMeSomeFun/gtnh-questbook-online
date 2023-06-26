@@ -1,1 +1,10 @@
-2723Super Large Oxygen TanksThe Super Heavy oxygen tank is an oxygen storage tank that can hold up to 8000 units of air.ANDpreRequGalacticraftMars/item.itemTier3Rocket~0Quest Name For 14541454gregtech/gt.metaitem.01~2084Quest Name For 23212321rewardsChoiceGalacticraftCore/tile.oxygenPipe~0Choice Name32GalacticraftMars/item.itemBasicAsteroids~6Choice Name16dreamcraft/item.WaferTier3~0Choice Name1enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGalacticraftCore/tile.oxygenPipe~0GalacticraftCore/tile.oxygenPipe~0 Name2dreamcraft/item.TitaniumDualCompressedPlates~0dreamcraft/item.TitaniumDualCompressedPlates~0 Name14gregtech/gt.metaitem.01~32411gregtech/gt.metaitem.01~32411 Name2RetrievalGalacticraftCore/item.oxygenTankSuperHeavyFull~4000GalacticraftCore/item.oxygenTankSuperHeavyFull~4000 Name2
+GalacticraftCore/item.oxygenTankSuperHeavyFull-0.pngSuper Large Oxygen TanksThe Super Heavy oxygen tank is an oxygen storage tank that can hold up to 8000 units of air.0-1ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+32GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+16dreamcraft/item.WaferTier3-0.pngWafer Tier 3
+1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+2dreamcraft/item.TitaniumDualCompressedPlates-0.pngCompressed Dual Titanium Plates
+14gregtech/gt.metaitem.01-32411.pngLarge Iridium Fluid Cell\nNo Fluids Contained\n0L / 8,192,000L
+2RetrievalGalacticraftCore/item.oxygenTankSuperHeavyFull-4000.pngSuper Heavy Oxygen Tank\nOxygen Remaining: 4000\nDurability: 4000 / 8000
+2

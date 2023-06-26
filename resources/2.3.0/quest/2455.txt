@@ -1,1 +1,4 @@
-2455Unlimited LPMaking this will give you unlimited LP. But you still need blood for crafting, OK? (Look into Cry of the Eternal soul ritual for a way around this)ANDpreRequForbiddenMagic/EldritchOrb~0Quest Name For 700700gregtech/gt.blockmachines~15300Quest Name For 25952595rewardsItemenhancedlootbags/lootbag~18Item Name10Itemdreamcraft/item.CoinBloodIV~0Item Name1tasksANDRetrievalAvaritia/Orb_Armok~0Avaritia/Orb_Armok~0 Name1
+Avaritia/Orb_Armok-0.pngUnlimited LPMaking this will give you unlimited LP. But you still need blood for crafting, OK? (Look into Cry of the Eternal soul ritual for a way around this)0-1ANDpre7000ForbiddenMagic/EldritchOrb-0.png25950gregtech/gt.blockmachines-15300.pngrewardsItemenhancedlootbags/lootbag-18-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+10Itemdreamcraft/item.CoinBloodIV-0.pngCoin "The Vampire 10K"
+1tasksANDRetrievalAvaritia/Orb_Armok-0.pngBlood Orb of Armok\nStores unlimited Life Essence while held
+1

@@ -1,5 +1,15 @@
-230Your First WandYou're sure that this place will give you all the answers you're looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.
+Thaumcraft/WandCasting-0.pngYour First WandYou're sure that this place will give you all the answers you're looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.
 
 If you haven't started on defeating the TF bosses yet, you'll need to do so to proceed. All wands require some kind of TF boss drop, with better wands needing later boss's drops. Once you've defeated them once, you can buy a spawn egg (only usable in the TF) or use the trophy+salis mundus to make more of the drop.
 
-§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemminecraft/spawn_egg~98Item Name2Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDOptionalForestry/oakStick~0Forestry/oakStick~0 Name1OptionalThaumcraft/WandCap~0Thaumcraft/WandCap~0 Name2OptionalTwilightForest/item.nagaScale~0TwilightForest/item.nagaScale~0 Name2Optionalgregtech/gt.metaitem.01~27019gregtech/gt.metaitem.01~27019 Name4RetrievalThaumcraft/WandCasting~0Thaumcraft/WandCasting~0 Name1
+§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.1-1ANDpre2251minecraft/end_portal-0.pngrewardsItemminecraft/spawn_egg-98.pngSpawn Ocelot
+2Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDOptionalForestry/oakStick-0.pngImpregnated Stick
+1OptionalThaumcraft/WandCap-0.pngIron Cap
+2OptionalTwilightForest/item.nagaScale-0.pngNaga Scale
+2Optionalgregtech/gt.metaitem.01-27019.pngAluminium Screw\nAl
+4RetrievalThaumcraft/WandCasting-0.pngIron Capped Wooden Wand\nCapacity 25 (110% avg vis cost)\n0 | 0 | 0 | 0 | 0 | 0
+1

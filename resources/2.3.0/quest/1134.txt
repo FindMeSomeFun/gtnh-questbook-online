@@ -1,1 +1,7 @@
-1134§5§lLV Advanced Steam BoilerThe LV GT++ Steam Boiler is the next machine you can build to produce steam more efficiently than with the High Pressure Boiler. It won't use fuel up unless it starts to run low on steam, so it's very efficient.ANDpreRequgregtech/gt.metaitem.01~11089Quest Name For 608608rewardsChoiceIC2/itemPartCircuit~0Choice Name2gregtech/gt.metaitem.01~11089Choice Name16gregtech/gt.metaitem.01~11305Choice Name8enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~753gregtech/gt.blockmachines~753 Name1
+gregtech/gt.blockmachines-753.png§5§lLV Advanced Steam BoilerThe LV GT++ Steam Boiler is the next machine you can build to produce steam more efficiently than with the High Pressure Boiler. It won't use fuel up unless it starts to run low on steam, so it's very efficient.0-1ANDpre6081gregtech/gt.metaitem.01-11089.pngrewardsChoiceIC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
+2gregtech/gt.metaitem.01-11089.pngLead Ingot\nPb
+16gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-753.pngAdvanced Boiler [LV]\nProduces 750L of Steam per second\nProduces 35 pollution/sec\nConsumes fuel only when temperature is less than 100C\nFuel with burn time greater than 500 is more efficient.\nDoesn''t explode if there''s no water\nAdded by: Alkalus - [GT++]
+1

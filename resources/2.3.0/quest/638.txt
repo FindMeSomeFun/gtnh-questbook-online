@@ -1,1 +1,7 @@
-638Tasty ToastSmelt your bread again and you get some toast! It gives you more nutrition points, and unlocks more culinary potential!ANDpreRequminecraft/carrot~0Quest Name For 77minecraft/bread~0Quest Name For 636636rewardsChoiceminecraft/egg~0Choice Name4minecraft/pumpkin~0Choice Name2minecraft/sugar~0Choice Name4enhancedlootbags/lootbag~28Choice Name1Itemdreamcraft/item.CoinCook~0Item Name15tasksANDRetrievalharvestcraft/toastItem~0harvestcraft/toastItem~0 Name1
+harvestcraft/toastItem-0.pngTasty ToastSmelt your bread again and you get some toast! It gives you more nutrition points, and unlocks more culinary potential!0-1ANDpre71minecraft/carrot-0.png6360minecraft/bread-0.pngrewardsChoiceminecraft/egg-0.pngEgg
+4minecraft/pumpkin-0.pngPumpkin
+2minecraft/sugar-0.pngSugar
+4enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+15tasksANDRetrievalharvestcraft/toastItem-0.pngToast\nharvestcraft:toastItem\nDiminishing returns start after\neating any food 10 more times
+1

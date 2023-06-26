@@ -1,5 +1,12 @@
-225Searching for AnswersLast night you had a dream. A dimension, so strange and different, almost... magical? Like the saplings you found. You decided to go there and look for answers.
+minecraft/end_portal-0.pngSearching for AnswersLast night you had a dream. A dimension, so strange and different, almost... magical? Like the saplings you found. You decided to go there and look for answers.
 
 First, place water in a 2x2 grid, with 12 flowers surrounding it. Then toss in a portal crystal to open it up. And no, a diamond is not enough.
 
-§3You should be able to use any vanilla flower.ANDpreRequThaumcraft/blockCustomPlant~1Quest Name For 1414gregtech/gt.blockmachines~1120Quest Name For 8888rewardsChoiceTConstruct/materials~26Choice Name1Thaumcraft/ItemLootBag~0Choice Name1enhancedlootbags/lootbag~9Choice Name1Itemdreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievaldreamcraft/item.TwilightCrystal~0dreamcraft/item.TwilightCrystal~0 Name1LocationDIM7DIM7 Name 
+§3You should be able to use any vanilla flower.1-1ANDpre141Thaumcraft/blockCustomPlant-1.png881gregtech/gt.blockmachines-1120.pngrewardsChoiceTConstruct/materials-26.pngSilky Jewel\nTool Modifier: Silky
+1Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievaldreamcraft/item.TwilightCrystal-0.pngQuick and Dirty Portal Generator
+1LocationDIM/7-.pngTwilight Forest
+1

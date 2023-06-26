@@ -1,3 +1,6 @@
-514Blank Gene SamplesTo get the various traits from a bee, you need a lot of power, labware and an empty gene sample. You don't need a lot of those, as you can just throw them in a furnace to remove remaining DNA of traits you don't need or want. 
+gendustry/GeneSampleBlank-0.pngBlank Gene SamplesTo get the various traits from a bee, you need a lot of power, labware and an empty gene sample. You don't need a lot of those, as you can just throw them in a furnace to remove remaining DNA of traits you don't need or want. 
 
-In the meantime you can start working with the Genetics mod, since we all know Gendustry is too easy... Genetics is used for bees, trees, and Botany flowers so it gets its own quest tab. Gendustry is really good for bees, but will require top tier equipment.ANDpreRequgregtech/gt.blockmachines~15Quest Name For 213213Forestry/apiculture~0Quest Name For 507507rewardsItemenhancedlootbags/lootbag~25Item Name1dreamcraft/item.CoinBeesI~0Item Name5tasksANDRetrievalgendustry/GeneSampleBlank~0gendustry/GeneSampleBlank~0 Name256
+In the meantime you can start working with the Genetics mod, since we all know Gendustry is too easy... Genetics is used for bees, trees, and Botany flowers so it gets its own quest tab. Gendustry is really good for bees, but will require top tier equipment.0-1ANDpre2131gregtech/gt.blockmachines-15.png5070Forestry/apiculture-0.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5tasksANDRetrievalgendustry/GeneSampleBlank-0.pngBlank Gene Sample
+256

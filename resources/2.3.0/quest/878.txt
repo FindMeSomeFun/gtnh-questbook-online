@@ -1,1 +1,13 @@
-878Magic Staff CoreA staff requires an extra step for crafting: Two (matching) wand cores must be combined with a primal charm, and crystal clusters to produce a staff core. (While the recipes are all similar, each type of staff core requires a separate research topic to be learned.) ANDpreRequgregtech/gt.metaitem.01~27366Quest Name For 266266rewardsItemThaumcraft/WandRod~0Item Name2Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDOptionalThaumcraft/ItemResource~15Thaumcraft/ItemResource~15 Name1Thaumcraft/blockCrystal~0Thaumcraft/blockCrystal~0 Name1Thaumcraft/blockCrystal~1Thaumcraft/blockCrystal~1 Name1Thaumcraft/blockCrystal~2Thaumcraft/blockCrystal~2 Name1Thaumcraft/blockCrystal~3Thaumcraft/blockCrystal~3 Name1Thaumcraft/blockCrystal~4Thaumcraft/blockCrystal~4 Name1Thaumcraft/blockCrystal~5Thaumcraft/blockCrystal~5 Name1Thaumcraft/WandRod~0Thaumcraft/WandRod~0 Name2RetrievalThaumcraft/WandRod~50Thaumcraft/WandRod~50 Name1
+Thaumcraft/WandRod-50.pngMagic Staff CoreA staff requires an extra step for crafting: Two (matching) wand cores must be combined with a primal charm, and crystal clusters to produce a staff core. (While the recipes are all similar, each type of staff core requires a separate research topic to be learned.) 0-1ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemThaumcraft/WandRod-0.pngGreatwood Rod
+2Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDOptionalThaumcraft/ItemResource-15.pngPrimal Charm\nYou think you hear whispering
+1Thaumcraft/blockCrystal-0.pngAir Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/WandRod-0.pngGreatwood Rod
+2RetrievalThaumcraft/WandRod-50.pngGreatwood Staff Core
+1

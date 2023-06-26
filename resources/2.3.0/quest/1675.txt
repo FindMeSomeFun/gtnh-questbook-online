@@ -1,7 +1,16 @@
-1675§a§lGlass FiberGlass Fiber is used in Fiber Reinforced Boards for circuits. §3For next tier. Go left for this tier's circuits.§r
+gregtech/gt.metaitem.03-32021.png§a§lGlass FiberGlass Fiber is used in Fiber Reinforced Boards for circuits. §3For next tier. Go left for this tier's circuits.§r
 
 Borax can be extracted out of Salt ores. Electrolyze it to get Boron and mix it with Glass dust to get Borosilicate Glass Dust.
 
 The ingots can be turned into glass fiber in the wiremill or extruder.
 
-You can also use borosilicate to make higher tier glass for higher tier SB recipes, or for the blocks for the multis that need it.ANDpreRequgregtech/gt.metaitem.01~17470Quest Name For 12241224rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~2941gregtech/gt.metaitem.01~2941 Name23Optionalgregtech/gt.metaitem.01~2009gregtech/gt.metaitem.01~2009 Name1gregtech/gt.metaitem.01~2890gregtech/gt.metaitem.01~2890 Name7Optionalgregtech/gt.metaitem.01~2611gregtech/gt.metaitem.01~2611 Name8Optionalgregtech/gt.metaitem.01~11611gregtech/gt.metaitem.01~11611 Name2Retrievalgregtech/gt.metaitem.03~32021gregtech/gt.metaitem.03~32021 Name16
+You can also use borosilicate to make higher tier glass for higher tier SB recipes, or for the blocks for the multis that need it.1-1ANDpre12241gregtech/gt.metaitem.01-17470.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-2941.pngBorax Dust\nNa\u2082B\u2084O\u2087(H\u2082O)\u2081\u2080
+23Optionalgregtech/gt.metaitem.01-2009.pngBoron Dust\nB
+1gregtech/gt.metaitem.01-2890.pngGlass Dust\nSiO\u2082
+7Optionalgregtech/gt.metaitem.01-2611.pngBorosilicate Glass Dust\nB(SiO\u2082)\u2087
+8Optionalgregtech/gt.metaitem.01-11611.pngBorosilicate Glass Bar\nB(SiO\u2082)\u2087
+2Retrievalgregtech/gt.metaitem.03-32021.pngGlass Fiber\nB(SiO\u2082)\u2087
+16

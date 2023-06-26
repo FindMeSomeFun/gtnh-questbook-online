@@ -1,1 +1,11 @@
-1444Compressed Titan ArmorThe compressed titan armor has more durability than the compressed steel armor.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 162162Railcraft/armor.steel.plate~0Quest Name For 14421442rewardsChoiceIC2/blockITNT~0Choice Name32GalacticraftMars/item.itemBasicAsteroids~6Choice Name4enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids~6GalacticraftMars/item.itemBasicAsteroids~6 Name24RetrievalGalacticraftMars/item.titanium_helmet~0GalacticraftMars/item.titanium_helmet~0 Name1GalacticraftMars/item.titanium_chestplate~0GalacticraftMars/item.titanium_chestplate~0 Name1GalacticraftMars/item.titanium_leggings~0GalacticraftMars/item.titanium_leggings~0 Name1GalacticraftMars/item.titanium_boots~0GalacticraftMars/item.titanium_boots~0 Name1
+GalacticraftMars/item.titanium_chestplate-0.pngCompressed Titan ArmorThe compressed titan armor has more durability than the compressed steel armor.0-1ANDpre1621GalacticraftCore/item.spaceship-0.png14420Railcraft/armor.steel.plate-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+32GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+24RetrievalGalacticraftMars/item.titanium_helmet-0.pngTitanium Helmet\nProtection: 5\nDurability: 286/286
+1GalacticraftMars/item.titanium_chestplate-0.pngTitanium Chestplate\nProtection: 10\nDurability: 416/416
+1GalacticraftMars/item.titanium_leggings-0.pngTitanium Leggings\nProtection: 7\nDurability: 390/390
+1GalacticraftMars/item.titanium_boots-0.pngTitanium Boots\nProtection: 5\nDurability: 338/338
+1

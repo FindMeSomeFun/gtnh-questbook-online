@@ -1,1 +1,5 @@
-1682§c§lAccelerating Things IIIIf Speed upgrade II is too slow craft a speed upgrade III.ANDpreRequExtraUtilities/enderQuarryUpgrade~7Quest Name For 16811681rewardsItemenhancedlootbags/lootbag~41Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalExtraUtilities/enderQuarryUpgrade~8ExtraUtilities/enderQuarryUpgrade~8 Name1
+ExtraUtilities/enderQuarryUpgrade-8.png§c§lAccelerating Things IIIIf Speed upgrade II is too slow craft a speed upgrade III.0-1ANDpre16810ExtraUtilities/enderQuarryUpgrade-7.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalExtraUtilities/enderQuarryUpgrade-8.pngEnder Quarry Speed III Upgrade\nPower Drain Multiplier: x2
+1

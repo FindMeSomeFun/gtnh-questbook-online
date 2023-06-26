@@ -1,1 +1,13 @@
-1250§a§lNanoprocessor AssemblyThe Nanoprocessor Assembly is an EV circuit.ANDpreRequgregtech/gt.metaitem.03~32082Quest Name For 12481248rewardsChoicegregtech/gt.metaitem.03~32102Choice Name2gregtech/gt.metaitem.03~32014Choice Name4gregtech/gt.metaitem.03~32018Choice Name4enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.03~32102gregtech/gt.metaitem.03~32102 Name1gregtech/gt.metaitem.03~32082gregtech/gt.metaitem.03~32082 Name2gregtech/gt.metaitem.03~32182gregtech/gt.metaitem.03~32182 Name8gregtech/gt.metaitem.03~32020gregtech/gt.metaitem.03~32020 Name8gregtech/gt.metaitem.03~32039gregtech/gt.metaitem.03~32039 Name8gregtech/gt.metaitem.02~19303gregtech/gt.metaitem.02~19303 Name16Retrievalgregtech/gt.metaitem.03~32083gregtech/gt.metaitem.03~32083 Name1
+gregtech/gt.metaitem.03-32083.png§a§lNanoprocessor AssemblyThe Nanoprocessor Assembly is an EV circuit.1-1ANDpre12481gregtech/gt.metaitem.03-32082.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
+2gregtech/gt.metaitem.03-32014.pngSmall Coil\nBasic Electronic Component
+4gregtech/gt.metaitem.03-32018.pngSMD Transistor\nElectronic Component
+4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
+1gregtech/gt.metaitem.03-32082.pngNanoprocessor\nAn Advanced Circuit\nHV-Tier
+2gregtech/gt.metaitem.03-32182.pngSMD Inductor\nElectronic Component
+8gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+8gregtech/gt.metaitem.02-19303.pngFine Electrum Wire\nAgAu
+16Retrievalgregtech/gt.metaitem.03-32083.pngNanoprocessor Assembly\nAn Extreme Circuit\nEV-Tier
+1

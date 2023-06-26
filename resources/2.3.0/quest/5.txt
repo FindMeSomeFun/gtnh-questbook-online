@@ -1,3 +1,12 @@
-5§1§lToolsNow that you've got a shelter and a crafting table, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)
+gregtech/gt.metatool.01-2-Flint-Wood.png§1§lToolsNow that you've got a shelter and a crafting table, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)
 
-§3You should probably make the shovel first so you can get gravel for the rest more easily.ANDpreReququestbook/ItemQuestBook~0Quest Name For 44rewardsChoiceminecraft/flint~0Choice Name10minecraft/cookie~0Choice Name1enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name5dreamcraft/item.CoinTechnician~0Item Name5tasksANDCraftinggregtech/gt.metatool.01~4gregtech/gt.metatool.01~4 Name1gregtech/gt.metatool.01~2gregtech/gt.metatool.01~2 Name1gregtech/gt.metatool.01~6gregtech/gt.metatool.01~6 Name1gregtech/gt.metatool.01~8gregtech/gt.metatool.01~8 Name1
+§3You should probably make the shovel first so you can get gravel for the rest more easily.1-1ANDpre41questbook/ItemQuestBook-0.pngrewardsChoiceminecraft/flint-0.pngFlint
+10minecraft/cookie-0.pngCookie\nminecraft:cookie\nDiminishing returns start after\neating any food 10 more times
+1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDCraftinggregtech/gt.metatool.01-4-Flint-Wood.pngShovel\nDurability: 6,400 / 6,400\nFlint lvl 1\nAttack Damage: 2.5\nMining Speed: 2.5
+1gregtech/gt.metatool.01-2-Flint-Wood.pngPickaxe\nDurability: 12,800 / 12,800\nFlint lvl 1\nAttack Damage: 2.5\nMining Speed: 2.5
+1gregtech/gt.metatool.01-6-Flint-Wood.pngAxe\nDurability: 12,800 / 12,800\nFlint lvl 1\nAttack Damage: 4.0\nMining Speed: 5.0\nFire Aspect I
+1gregtech/gt.metatool.01-8-Flint-Wood.pngHoe\nDurability: 12,800 / 12,800\nFlint lvl 1\nAttack Damage: 2.75\nMining Speed: 2.5\nCan till Dirt
+1

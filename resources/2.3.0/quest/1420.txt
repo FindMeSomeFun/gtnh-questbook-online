@@ -1,3 +1,19 @@
-1420§9§lShake That Booty......out of the purified ores. Anyways, a Large Sifter will increase your sifting speed significantly. What will you do with all these gems??
+gregtech/gt.blockmachines-840.png§9§lShake That Booty......out of the purified ores. Anyways, a Large Sifter will increase your sifting speed significantly. What will you do with all these gems??
 
-§3You need one more casing if you don't want to use 2 energy hatches.ORpreRequgregtech/gt.blockmachines~643Quest Name For 15211521rewardsChoiceminecraft/diamond_ore~0Choice Name64gregtech/gt.blockores~502Choice Name64gregtech/gt.blockores~501Choice Name64gregtech/gt.blockores~503Choice Name64gregtech/gt.blockores~514Choice Name64gregtech/gt.blockores~542Choice Name64gregtech/gt.blockores~543Choice Name64gregtech/gt.blockores~541Choice Name64gregtech/gt.blockores~540Choice Name64gregtech/gt.blockores~545Choice Name64gregtech/gt.blockores~544Choice Name64enhancedlootbags/lootbag~6Choice Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalmiscutils/gtplusplus.blockcasings.2~6miscutils/gtplusplus.blockcasings.2~6 Name18Optionalmiscutils/gtplusplus.blockcasings.2~5miscutils/gtplusplus.blockcasings.2~5 Name47Retrievalgregtech/gt.blockmachines~840gregtech/gt.blockmachines~840 Name1
+§3You need one more casing if you don't want to use 2 energy hatches.0-1ORpre15210gregtech/gt.blockmachines-643.pngrewardsChoiceminecraft/diamond_ore-0.pngDiamond Ore
+64gregtech/gt.blockores-502.pngRuby Ore\nCrAl\u2082O\u2083
+64gregtech/gt.blockores-501.pngEmerald Ore\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
+64gregtech/gt.blockores-503.pngSapphire Ore\nAl\u2082O\u2083
+64gregtech/gt.blockores-514.pngAmber Ore\nC\u2081\u2080H\u2081\u2080O\u2081\u2086
+64gregtech/gt.blockores-542.pngTerra Infused Stone
+64gregtech/gt.blockores-543.pngAqua Infused Stone
+64gregtech/gt.blockores-541.pngIgnis Infused Stone
+64gregtech/gt.blockores-540.pngAer Infused Stone
+64gregtech/gt.blockores-545.pngOrdo Infused Stone
+64gregtech/gt.blockores-544.pngPerditio Infused Stone
+64enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalmiscutils/gtplusplus.blockcasings.2-6.pngLarge Sieve Grate\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+18Optionalmiscutils/gtplusplus.blockcasings.2-5.pngIndustrial Sieve Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+47Retrievalgregtech/gt.blockmachines-840.pngLarge Sifter Control Block\nMachine Type: Sifter\nController Block for the Industrial Sifter\n400% faster than single-block machines of the same voltage\nOnly uses 75% of the EU/t normally required\nProcesses four items per voltage tier\nCauses: 40 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1

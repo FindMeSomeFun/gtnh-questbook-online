@@ -1,4 +1,4 @@
-677MinecartAfter you craft your first cart the journey can begin...
+minecraft/minecart-0.pngMinecartAfter you craft your first cart the journey can begin...
 
 Well, not really. You will need some kind of tracks first.
 
@@ -6,4 +6,14 @@ Well, not really. You will need some kind of tracks first.
 
 §c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with blocks to prevent carts from disappearing.
 
-Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoicegregtech/gt.metaitem.01~32100Choice Name2Railcraft/track~736Choice Name8enhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~23032gregtech/gt.metaitem.01~23032 Name2gregtech/gt.metaitem.01~28032gregtech/gt.metaitem.01~28032 Name4Optionalgregtech/gt.metaitem.01~32100gregtech/gt.metaitem.01~32100 Name2Optionalgregtech/gt.metaitem.01~17032gregtech/gt.metaitem.01~17032 Name3Craftingminecraft/minecart~0minecraft/minecart~0 Name1
+Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metaitem.01-32100.pngIron Minecart Wheels\nTo get things rolling
+2Railcraft/track-736-slow.pngWooden Track\n30% of the speed of normal track
+8enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Rod\nFe
+2gregtech/gt.metaitem.01-28032.pngIron Ring\nFe
+4Optionalgregtech/gt.metaitem.01-32100.pngIron Minecart Wheels\nTo get things rolling
+2Optionalgregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+3Craftingminecraft/minecart-0.pngMinecart
+1

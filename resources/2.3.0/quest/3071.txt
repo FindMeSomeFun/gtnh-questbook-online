@@ -1,1 +1,6 @@
-3071§6§lCooling KanthalHot Kanthal ingots can be cooled down in an MV Chemical Bath.ANDpreRequgregtech/gt.metaitem.01~32611Quest Name For 893893gregtech/gt.metaitem.01~32631Quest Name For 895895rewardsItemenhancedlootbags/lootbag~5Item Name1IC2/itemCellEmpty~9Item Name16Itemdreamcraft/item.CoinTechnician~0Item Name25dreamcraft/item.CoinChemist~0Item Name25tasksANDRetrievalgregtech/gt.blockmachines~542gregtech/gt.blockmachines~542 Name1
+gregtech/gt.blockmachines-542.png§6§lCooling KanthalHot Kanthal ingots can be cooled down in an MV Chemical Bath.1-1ANDpre8931gregtech/gt.metaitem.01-32611.png8951gregtech/gt.metaitem.01-32631.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1IC2/itemCellEmpty-9.pngCoolant Cell
+16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalgregtech/gt.blockmachines-542.pngAdvanced Chemical Bath\nBathing Ores in Chemicals to separate them\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

@@ -1,7 +1,11 @@
-190§a§lAppropriate PowerWhether you used magic, steam, oil or biogas for power until now, you will run into problems as you advance to higher tiers. So you'll need to upgrade your power grid, at least for your EBF(s). So let's start with something more powerful: A nuclear reactor!
+IC2/blockGenerator-5.png§a§lAppropriate PowerWhether you used magic, steam, oil or biogas for power until now, you will run into problems as you advance to higher tiers. So you'll need to upgrade your power grid, at least for your EBF(s). So let's start with something more powerful: A nuclear reactor!
 
 If you want to know how they work, refer to The Internet or the Reactor Planner at https://github.com/MauveCloud/Ic2ExpReactorPlanner/releases
 
 Note: The EU multiplier is set to 10x in this pack. That means your nuclear reactor is 10 times more efficient. Make sure to set the planner to GTNH mode under advanced. Also, the base numbers (before 10xing) can be seen on the hover text for all the components.
 
-If you just want to use them, go to https://gtnh.miraheze.org/wiki/Nuclear_Reactors for reactor designs. The Thorium 1920 EU one is probably best for now.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsItemIC2NuclearControl/blockNuclearControlMain~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalIC2/blockGenerator~5IC2/blockGenerator~5 Name1IC2/itemFuelRod~0IC2/itemFuelRod~0 Name4
+If you just want to use them, go to https://gtnh.miraheze.org/wiki/Nuclear_Reactors for reactor designs. The Thorium 1920 EU one is probably best for now.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemIC2NuclearControl/blockNuclearControlMain-0.pngThermal Monitor
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalIC2/blockGenerator-5.pngNuclear Reactor\nPower Output: 1-8196 EU/t max
+1IC2/itemFuelRod-0.pngFuel Rod
+4

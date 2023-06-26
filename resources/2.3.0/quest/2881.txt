@@ -1,3 +1,7 @@
-2881§b§lHeat it Up!You can make Hot Tetroxide Solution in either the fluid heater or cracker, but the cracker gives twice as much, so use that.
+bartworks/gt.bwMetaGeneratedcell-67.png§b§lHeat it Up!You can make Hot Tetroxide Solution in either the fluid heater or cracker, but the cracker gives twice as much, so use that.
 
-You only get 2/9 buckets of Steam from 2 steps ago when automating, so use a fluid heater to get the rest.ANDpreRequbartworks/gt.bwMetaGeneratedcell~68Quest Name For 23142314rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~68bartworks/gt.bwMetaGeneratedcell~68 Name9gregtech/gt.metaitem.98~0gregtech/gt.metaitem.98~0 Name9Retrievalbartworks/gt.bwMetaGeneratedcell~67bartworks/gt.bwMetaGeneratedcell~67 Name18
+You only get 2/9 buckets of Steam from 2 steps ago when automating, so use a fluid heater to get the rest.1-1ANDpre23141bartworks/gt.bwMetaGeneratedcell-68.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-68.pngRuthenium Tetroxide Solution Cell\n???\nAdded by BartWorks
+9gregtech/gt.metaitem.98-0.pngSteam Cell
+9Retrievalbartworks/gt.bwMetaGeneratedcell-67.pngHot Ruthenium Tetroxide Solution Cell\n???\nAdded by BartWorks
+18

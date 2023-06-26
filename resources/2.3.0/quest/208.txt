@@ -1,1 +1,6 @@
-208§a§lProtect Your Base: Tier 4The small parts for the powerful turrets.ANDpreRequopenmodularturrets/fenceTierFour~0Quest Name For 211211rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalopenmodularturrets/chamberTierFour~0openmodularturrets/chamberTierFour~0 Name2openmodularturrets/barrelTierFour~0openmodularturrets/barrelTierFour~0 Name2openmodularturrets/sensorTierFourItem~0openmodularturrets/sensorTierFourItem~0 Name2
+openmodularturrets/chamberTierFour-0.png§a§lProtect Your Base: Tier 4The small parts for the powerful turrets.0-1ANDpre2110openmodularturrets/fenceTierFour-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalopenmodularturrets/chamberTierFour-0.pngChamber
+2openmodularturrets/barrelTierFour-0.pngBarrel
+2openmodularturrets/sensorTierFourItem-0.pngSensor
+2

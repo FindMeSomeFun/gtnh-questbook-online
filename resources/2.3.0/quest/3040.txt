@@ -1,4 +1,4 @@
-3040Where Do I Build the Dyson Swarm?If you read the Dyson Swarm Ground Unit's tooltip carfeully (which you should), you might have noticed, that it mentions a "dimension-dependent factor". The dimension you build the Dyson Swarm multiblock in can greatly affect the real power output.
+minecraft/writable_book-0.pngWhere Do I Build the Dyson Swarm?If you read the Dyson Swarm Ground Unit's tooltip carfeully (which you should), you might have noticed, that it mentions a "dimension-dependent factor". The dimension you build the Dyson Swarm multiblock in can greatly affect the real power output.
 
 §lSorted by factor (descending):§r
 §a231% - Barnarda C
@@ -28,4 +28,5 @@
 16% - Pluto, Kuiper Belt
 15% - Makemake, Haumea
 1% - Garden, Mining and Void Worlds
-§40% - All other dimensionsANDpreRequgregtech/gt.blockmachines~14001Quest Name For 30393039rewardstasksANDCheckboxcheckbox  
+§40% - All other dimensions0-1ANDpre30390gregtech/gt.blockmachines-14001.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

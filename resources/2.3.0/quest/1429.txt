@@ -1,1 +1,16 @@
-1429Rocket Tier 2After hours of hard work and tons of stacks of iTNT your second rocket is finally ready. But before you can go to Mars you need to craft a few more things.ANDpreRequGalaxySpace/item.RocketControlComputer~2Quest Name For 14281428GalacticraftCore/item.engine~1Quest Name For 14311431GalaxySpace/item.ModuleLander2~0Quest Name For 14321432rewardsChoiceIC2/blockITNT~0Choice Name64GalacticraftCore/item.heavyPlating~0Choice Name4enhancedlootbags/lootbag~23Choice Name1enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSpaceII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGalacticraftCore/item.noseCone~0GalacticraftCore/item.noseCone~0 Name1GalacticraftMars/item.null~3GalacticraftMars/item.null~3 Name10GalacticraftCore/item.rocketFins~0GalacticraftCore/item.rocketFins~0 Name4GalacticraftCore/item.engine~1GalacticraftCore/item.engine~1 Name2GalacticraftCore/item.engine~0GalacticraftCore/item.engine~0 Name2OptionalGalaxySpace/item.RocketControlComputer~2GalaxySpace/item.RocketControlComputer~2 Name1GalaxySpace/item.ModuleLander2~0GalaxySpace/item.ModuleLander2~0 Name1GalaxySpace/item.ModuleSmallFuelCanister~0GalaxySpace/item.ModuleSmallFuelCanister~0 Name3RetrievalGalacticraftMars/item.spaceshipTier2~0GalacticraftMars/item.spaceshipTier2~0 Name1
+GalacticraftMars/item.spaceshipTier2-0.pngRocket Tier 2After hours of hard work and tons of stacks of iTNT your second rocket is finally ready. But before you can go to Mars you need to craft a few more things.1-1ANDpre14281GalaxySpace/item.RocketControlComputer-2.png14311GalacticraftCore/item.engine-1.png14321GalaxySpace/item.ModuleLander2-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+64GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+4enhancedlootbags/lootbag-23.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGalacticraftCore/item.noseCone-0.pngNose Cone
+1GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+10GalacticraftCore/item.rocketFins-0.pngRocket Fins
+4GalacticraftCore/item.engine-1.pngTier 1 Booster
+2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+2OptionalGalaxySpace/item.RocketControlComputer-2.pngRocket Control Computer Tier 2
+1GalaxySpace/item.ModuleLander2-0.pngLander Tier 2\nRocket Module
+1GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister\nRocket Module
+3RetrievalGalacticraftMars/item.spaceshipTier2-0.pngTier 2 Rocket
+1

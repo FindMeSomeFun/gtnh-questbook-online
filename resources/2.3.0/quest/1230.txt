@@ -1,1 +1,9 @@
-1230§a§lBisphenol ATo get Bisphenol A you need to combine Phenol, Acetone and HCl in a chemical reactor.ANDpreRequgregtech/gt.metaitem.01~30687Quest Name For 12291229rewardsChoicegregtech/gt.metaitem.03~32106Choice Name8IC2/itemCellEmpty~0Choice Name64enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinChemistII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~30672gregtech/gt.metaitem.01~30672 Name18gregtech/gt.metaitem.01~30683gregtech/gt.metaitem.01~30683 Name18gregtech/gt.metaitem.01~30687gregtech/gt.metaitem.01~30687 Name36Retrievalgregtech/gt.metaitem.01~30669gregtech/gt.metaitem.01~30669 Name18
+gregtech/gt.metaitem.01-30669.png§a§lBisphenol ATo get Bisphenol A you need to combine Phenol, Acetone and HCl in a chemical reactor.1-1ANDpre12291gregtech/gt.metaitem.01-30687.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+8IC2/itemCellEmpty-0.pngEmpty Cell
+64enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-30672.pngAcetone Cell\nC\u2083H\u2086O
+18gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+18gregtech/gt.metaitem.01-30687.pngPhenol Cell\nC\u2086H\u2086O
+36Retrievalgregtech/gt.metaitem.01-30669.pngBisphenol A Cell\nC\u2081\u2085H\u2081\u2086O\u2082
+18

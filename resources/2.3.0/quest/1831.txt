@@ -1,3 +1,6 @@
-1831§2§lCircle Shapes Give Me ComfortTo build a Windmill you will need a Dispenser, but that item is locked behind the next Tier. Go and find one in a Witchery Circle. They look like small versions of Stonehenge.
+minecraft/dispenser-0.png§2§lCircle Shapes Give Me ComfortTo build a Windmill you will need a Dispenser, but that item is locked behind the next Tier. Go and find one in a Witchery Circle. They look like small versions of Stonehenge.
 
-Look for the main quest in Multiblock Goals.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsItemdreamcraft/item.CoinAdventureI~0Item Name1gregtech/gt.metaitem.02~31032Item Name1tasksANDRetrievalminecraft/dispenser~0minecraft/dispenser~0 Name1
+Look for the main quest in Multiblock Goals.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+1gregtech/gt.metaitem.02-31032.pngIron Gear\nFe
+1tasksANDRetrievalminecraft/dispenser-0.pngDispenser
+1

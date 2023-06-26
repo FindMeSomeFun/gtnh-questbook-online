@@ -1,1 +1,5 @@
-3078Trigger: Obtain SunnariumNo DescriptionANDpreRequrewardstasksORRetrievalgregtech/gt.metaitem.01~2318gregtech/gt.metaitem.01~2318 Name1Retrievalgregtech/gt.metaitem.01~318gregtech/gt.metaitem.01~318 Name1RetrievalAdvancedSolarPanel/asp_crafting_items~0AdvancedSolarPanel/asp_crafting_items~0 Name1RetrievalAdvancedSolarPanel/asp_crafting_items~9AdvancedSolarPanel/asp_crafting_items~9 Name1
+minecraft/nether_star-0.pngTrigger: Obtain SunnariumNo Description0-1ANDprerewardstasksORRetrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dust\nSu
+1Retrievalgregtech/gt.metaitem.01-318.pngTiny Pile of Sunnarium Dust\nSu
+1RetrievalAdvancedSolarPanel/asp_crafting_items-0.pngSunnarium
+1RetrievalAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
+1

@@ -1,5 +1,16 @@
-581A Series of TubesBefore you can craft your first farm block you need apatite tubes. Make some apatite rods first with a lathe, then use a forge hammer to join them into long apatite rods. You need golden bolts and a red alloy plate.
+Forestry/thermionicTubes-10.pngA Series of TubesBefore you can craft your first farm block you need apatite tubes. Make some apatite rods first with a lathe, then use a forge hammer to join them into long apatite rods. You need golden bolts and a red alloy plate.
 
 Put some glass or sand into your thermionic fabricator and make your first tubes.
 
-§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?ANDpreRequgregtech/gt.metaitem.01~8530Quest Name For 588588rewardsChoiceForestry/thermionicTubes~0Choice Name2Forestry/thermionicTubes~1Choice Name2Forestry/thermionicTubes~2Choice Name2enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinForestry~0Item Name25tasksANDOptionalgregtech/gt.metaitem.02~22530gregtech/gt.metaitem.02~22530 Name2gregtech/gt.metaitem.01~26086gregtech/gt.metaitem.01~26086 Name2gregtech/gt.metaitem.01~17308gregtech/gt.metaitem.01~17308 Name1gregtech/gt.metaitem.02~19035gregtech/gt.metaitem.02~19035 Name2minecraft/glass~0minecraft/glass~0 Name2RetrievalForestry/thermionicTubes~10Forestry/thermionicTubes~10 Name2
+§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?0-1ANDpre5880gregtech/gt.metaitem.01-8530.pngrewardsChoiceForestry/thermionicTubes-0.pngCopper Electron Tube
+2Forestry/thermionicTubes-1.pngTin Electron Tube
+2Forestry/thermionicTubes-2.pngBronze Electron Tube
+2enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+25tasksANDOptionalgregtech/gt.metaitem.02-22530.pngLong Apatite Rod\nCa\u2085(PO\u2084)\u2083Cl
+2gregtech/gt.metaitem.01-26086.pngGold Bolt\nAu
+2gregtech/gt.metaitem.01-17308.pngRed Alloy Plate\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+1gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
+2minecraft/glass-0.pngGlass\nGlass-Tier: HV
+2RetrievalForestry/thermionicTubes-10.pngApatine Electron Tube
+2

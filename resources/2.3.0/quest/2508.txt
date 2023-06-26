@@ -1,1 +1,5 @@
-2508AE Spatial StorageThe main part of 128^3 spatial cells.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~33Quest Name For 25072507rewardsItemdreamcraft/item.PulsatingSpatialCoreChip~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2dreamcraft/item.CoinAdventureII~0Item Name2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial~34appliedenergistics2/item.ItemMultiMaterial~34 Name1
+appliedenergistics2/item.ItemMultiMaterial-34.pngAE Spatial StorageThe main part of 128^3 spatial cells.0-1ANDpre25070appliedenergistics2/item.ItemMultiMaterial-33.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-34.png128\u00b3 Spatial Component
+1

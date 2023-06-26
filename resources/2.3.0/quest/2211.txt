@@ -1,4 +1,4 @@
-2211Basic Bee StatsThere are a couple of basic bees that have good stats you will want to breed into your breeding stock.
+minecraft/book-0.pngBasic Bee StatsThere are a couple of basic bees that have good stats you will want to breed into your breeding stock.
 
 Cave Dwelling - Rocky - This lets you put the bee housing underneath or inside. Handy for putting a chest on top for products.
 
@@ -8,4 +8,5 @@ Rain Tolerant - Water - Keep producing even when it is raining.
 
 High Fertility - Wintry - For breeding purposes, you want the maximum number of drones produced.
 
-Reminder - Specialty products from bees require Jubilant state. That means the bee is in its §lNATURAL§r preferred climate. So it must not be in a biome it can tolerate due to temp/humidity improvements. For example, a Salt bee needs Warm/Normal climate. Even if it has +- humidity and temp, it will not produce its Salt comb unless it is in a Warm/Normal climate. Use Alveary upgrades to make sure it is in its preferred temp/humidity.ANDpreRequminecraft/book~0Quest Name For 22092209rewardstasksANDCheckboxcheckbox  
+Reminder - Specialty products from bees require Jubilant state. That means the bee is in its §lNATURAL§r preferred climate. So it must not be in a biome it can tolerate due to temp/humidity improvements. For example, a Salt bee needs Warm/Normal climate. Even if it has +- humidity and temp, it will not produce its Salt comb unless it is in a Warm/Normal climate. Use Alveary upgrades to make sure it is in its preferred temp/humidity.0-1ANDpre22090minecraft/book-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

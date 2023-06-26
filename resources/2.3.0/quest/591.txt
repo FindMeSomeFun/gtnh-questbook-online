@@ -1,1 +1,13 @@
-591Multifarm: ControlYou can control which fields of your farm work by applying a redstone signal to the control block. You can either shut down the whole farm by applying a redstone signal from top or below or you can disable a specific side by applying a redstone signal on the matching side of the control block.ANDpreRequForestry/ffarm~0Quest Name For 582582rewardsChoiceForestry/thermionicTubes~10Choice Name4Forestry/thermionicTubes~1Choice Name4Forestry/thermionicTubes~11Choice Name4enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDOptionalForestry/ffarm~0Forestry/ffarm~0 Name2IC2/itemPartCircuit~0IC2/itemPartCircuit~0 Name2gregtech/gt.metaitem.01~32600gregtech/gt.metaitem.01~32600 Name1gregtech/gt.blockmachines~1246gregtech/gt.blockmachines~1246 Name1gregtech/gt.metaitem.02~31305gregtech/gt.metaitem.02~31305 Name1Forestry/thermionicTubes~4Forestry/thermionicTubes~4 Name4RetrievalForestry/ffarm~5Forestry/ffarm~5 Name2
+Forestry/ffarm-5.pngMultifarm: ControlYou can control which fields of your farm work by applying a redstone signal to the control block. You can either shut down the whole farm by applying a redstone signal from top or below or you can disable a specific side by applying a redstone signal on the matching side of the control block.0-1ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
+4Forestry/thermionicTubes-1.pngTin Electron Tube
+4Forestry/thermionicTubes-11.pngLapis Electron Tube
+4enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDOptionalForestry/ffarm-0.pngFarm Block\nStone Bricks
+2IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1gregtech/gt.blockmachines-1246.png1x Tin Cable\nMax Voltage: 32 (LV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
+1gregtech/gt.metaitem.02-31305.pngSteel Gear\nFe\u2085\u2080C
+1Forestry/thermionicTubes-4.pngGolden Electron Tube
+4RetrievalForestry/ffarm-5.pngFarm Control\nStone Bricks
+2

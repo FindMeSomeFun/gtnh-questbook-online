@@ -1,1 +1,4 @@
-476§6§lNaquadah Coil UpgradeTo process more advanced materials like naquadah alloy you need more than 6300K. Upgrade your EBF to 7200k to increase the heat.ANDpreRequgregtech/gt.blockcasings5~4Quest Name For 475475rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinTechnicianIII~0Item Name2tasksANDRetrievalgregtech/gt.blockcasings5~5gregtech/gt.blockcasings5~5 Name16
+gregtech/gt.blockcasings5-5.png§6§lNaquadah Coil UpgradeTo process more advanced materials like naquadah alloy you need more than 6300K. Upgrade your EBF to 7200k to increase the heat.1-1ANDpre4751gregtech/gt.blockcasings5-4.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+2tasksANDRetrievalgregtech/gt.blockcasings5-5.pngNaquadah Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 7201 Kelvin
+16

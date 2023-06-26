@@ -1,3 +1,9 @@
-1078Ur-GhastSummon an Ur-Ghast.
+TwilightForest/item.tfspawnegg-217.pngUr-GhastSummon an Ur-Ghast.
 
-§3Only works in the Twilight Forest dim.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemTwilightForest/item.tfspawnegg~217Item Name1tasksANDRetrievaldreamcraft/item.CoinSurvivorII~0dreamcraft/item.CoinSurvivorII~0 Name3dreamcraft/item.CoinDarkWizardII~0dreamcraft/item.CoinDarkWizardII~0 Name1dreamcraft/item.CoinDarkWizardI~0dreamcraft/item.CoinDarkWizardI~0 Name5RetrievalTwilightForest/tile.TFTowerStone~1TwilightForest/tile.TFTowerStone~1 Name1TwilightForest/item.phantomHelm~0TwilightForest/item.phantomHelm~0 Name1
+§3Only works in the Twilight Forest dim.01200000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-217.pngSpawn Ur-ghast
+1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5RetrievalTwilightForest/tile.TFTowerStone-1.pngEncased Towerwood\nBurn Time: 300
+1TwilightForest/item.phantomHelm-0.pngPhantom Helm\nProtection: 3\nDurability: 330/330
+1

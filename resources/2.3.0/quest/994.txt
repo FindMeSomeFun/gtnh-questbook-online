@@ -1,3 +1,16 @@
-994The CentrifugeThe Forestry Centrifuge is able to centrifuge up to 9 items out of bee combs. It uses RF energy.
+Forestry/factory-2.pngThe CentrifugeThe Forestry Centrifuge is able to centrifuge up to 9 items out of bee combs. It uses RF energy.
 
-Latter bee combs need the GT one though, so keep that in mind.ANDpreRequForestry/sturdyMachine~0Quest Name For 577577rewardsChoicegregtech/gt.metaitem.01~11034Choice Name8minecraft/redstone~0Choice Name16Forestry/waxCapsule~0Choice Name32enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15dreamcraft/item.CoinBees~0Item Name15dreamcraft/item.CoinForestry~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~17310gregtech/gt.metaitem.01~17310 Name2gregtech/gt.metaitem.01~32600gregtech/gt.metaitem.01~32600 Name2dreamcraft/item.SteelBars~0dreamcraft/item.SteelBars~0 Name2gregtech/gt.metaitem.02~20305gregtech/gt.metaitem.02~20305 Name2Forestry/sturdyMachine~0Forestry/sturdyMachine~0 Name1RetrievalForestry/factory~2Forestry/factory~2 Name1
+Latter bee combs need the GT one though, so keep that in mind.0-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11034.pngNickel Ingot\nNi
+8minecraft/redstone-0.pngRedstone
+16Forestry/waxCapsule-0.pngWax Capsule
+32enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15dreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-17310.pngCupronickel Plate\nCuNi
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+2dreamcraft/item.SteelBars-0.pngSteel Bars
+2gregtech/gt.metaitem.02-20305.pngSmall Steel Gear\nFe\u2085\u2080C
+2Forestry/sturdyMachine-0.pngSturdy Casing
+1RetrievalForestry/factory-2.pngCentrifuge
+1

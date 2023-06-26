@@ -1,5 +1,21 @@
-2352Essence AltarThis little enchanting table like-block doesn't do much on its own, but has two other separate paths that can be taken (the third has no uses currently) to accomplish different tasks.
+HardcoreEnderExpansion/essence_altar-0.pngEssence AltarThis little enchanting table like-block doesn't do much on its own, but has two other separate paths that can be taken (the third has no uses currently) to accomplish different tasks.
 
 It is up to you where and how you want your personal Essence Altar to be upgraded. Firstly and more importantly, the Dragon Essence Altar is needed, but if you play on a public server, this stuff can be difficult to come by without external help.
 
-Here's some to get you started.ANDpreRequHardcoreEnderExpansion/obsidian_special_glow~1Quest Name For 23492349rewardsItemHardcoreEnderExpansion/essence~0Item Name16enhancedlootbags/lootbag~57Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1HardcoreEnderExpansion/knowledge_note~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~17500gregtech/gt.metaitem.01~17500 Name5minecraft/ender_eye~0minecraft/ender_eye~0 Name4OptionalHardcoreEnderExpansion/altar_nexus~0HardcoreEnderExpansion/altar_nexus~0 Name1minecraft/bookshelf~0minecraft/bookshelf~0 Name2Thaumcraft/ItemResource~1Thaumcraft/ItemResource~1 Name1Thaumcraft/ItemResource~0Thaumcraft/ItemResource~0 Name1minecraft/leather~0minecraft/leather~0 Name1IC2/itemDensePlates~7IC2/itemDensePlates~7 Name2TConstruct/MetalBlock~10TConstruct/MetalBlock~10 Name1RetrievalHardcoreEnderExpansion/essence_altar~0HardcoreEnderExpansion/essence_altar~0 Name1
+Here's some to get you started.0-1ANDpre23490HardcoreEnderExpansion/obsidian_special_glow-1.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
+16enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+1tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+5minecraft/ender_eye-0.pngEye of Ender
+4OptionalHardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
+1minecraft/bookshelf-0.pngBookshelf\nEnchantment Power: 1.0\nBurn Time: 300
+2Thaumcraft/ItemResource-1.pngNitor
+1Thaumcraft/ItemResource-0.pngAlumentum\nBurn Time: 8000
+1minecraft/leather-0.pngLeather
+1IC2/itemDensePlates-7.pngDense Obsidian Plate
+2TConstruct/MetalBlock-10.pngBlock of Solid Ender\nUsable for Beacon bases
+1RetrievalHardcoreEnderExpansion/essence_altar-0.pngBasic Essence Altar
+1

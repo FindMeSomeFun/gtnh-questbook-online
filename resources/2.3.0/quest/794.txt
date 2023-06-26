@@ -1,1 +1,13 @@
-794§6§lIntegrated CircuitIn order to make HV machines, you need HV circuits. The first one you can make is the Advanced Circuit from IC2. You'll need to make LV circuits to make MV circuits to make the HV circuits. Yay for recursive crafting! Start with the LV Integrated Logic Circuit. And no, you can't use the IC2 Electronic Circuits.ANDpreRequgregtech/gt.blockmachines~1180Quest Name For 795795gregtech/gt.metaitem.03~32038Quest Name For 837837rewardsChoicegregtech/gt.metaitem.03~32100Choice Name4gregtech/gt.metaitem.03~32039Choice Name2gregtech/gt.metaitem.01~32715Choice Name2enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.03~32100gregtech/gt.metaitem.03~32100 Name16gregtech/gt.metaitem.03~32037gregtech/gt.metaitem.03~32037 Name16gregtech/gt.metaitem.01~32716gregtech/gt.metaitem.01~32716 Name32gregtech/gt.metaitem.01~32715gregtech/gt.metaitem.01~32715 Name32gregtech/gt.metaitem.02~19035gregtech/gt.metaitem.02~19035 Name32gregtech/gt.metaitem.01~26057gregtech/gt.metaitem.01~26057 Name32Retrievalgregtech/gt.metaitem.01~32701gregtech/gt.metaitem.01~32701 Name16
+gregtech/gt.metaitem.01-32701.png§6§lIntegrated CircuitIn order to make HV machines, you need HV circuits. The first one you can make is the Advanced Circuit from IC2. You'll need to make LV circuits to make MV circuits to make the HV circuits. Yay for recursive crafting! Start with the LV Integrated Logic Circuit. And no, you can't use the IC2 Electronic Circuits.1-1ANDpre7951gregtech/gt.blockmachines-1180.png8371gregtech/gt.metaitem.03-32038.pngrewardsChoicegregtech/gt.metaitem.03-32100.pngCircuit Board\nA basic Circuit Board
+4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+2gregtech/gt.metaitem.01-32715.pngDiode\nBasic Electronic Component
+2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.03-32100.pngCircuit Board\nA basic Circuit Board
+16gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit\nIntegrated Circuit
+16gregtech/gt.metaitem.01-32716.pngResistor\nBasic Electronic Component
+32gregtech/gt.metaitem.01-32715.pngDiode\nBasic Electronic Component
+32gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
+32gregtech/gt.metaitem.01-26057.pngTin Bolt\nSn
+32Retrievalgregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit\nA Basic Circuit\nLV-Tier
+16

@@ -1,1 +1,5 @@
-1100Enchanting Table 1.0Finally, with your new wand with 50 stored vis you're able to build your own enchantment table. The recipe can be found on the GTNH Tab in the Thaumonomicon.ANDpreRequThaumcraft/WandCasting~9Quest Name For 237237Thaumcraft/ItemResource~1Quest Name For 255255Thaumcraft/ItemResource~0Quest Name For 256256rewardsItemminecraft/bookshelf~0Item Name8enhancedlootbags/lootbag~9Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalminecraft/enchanting_table~0minecraft/enchanting_table~0 Name1
+minecraft/enchanting_table-0.pngEnchanting Table 1.0Finally, with your new wand with 50 stored vis you're able to build your own enchantment table. The recipe can be found on the GTNH Tab in the Thaumonomicon.0-1ANDpre2371Thaumcraft/WandCasting-9.png2551Thaumcraft/ItemResource-1.png2561Thaumcraft/ItemResource-0.pngrewardsItemminecraft/bookshelf-0.pngBookshelf\nEnchantment Power: 1.0\nBurn Time: 300
+8enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalminecraft/enchanting_table-0.pngEnchantment Table
+1

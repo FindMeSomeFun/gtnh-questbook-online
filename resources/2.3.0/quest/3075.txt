@@ -1,1 +1,10 @@
-3075Armor MoldsWhy use plates when you can make your armor pieces out of molten metal?ANDpreRequgregtech/gt.blockmachines~140Quest Name For 7676rewardsChoicegregtech/gt.metaitem.01~11305Choice Name16minecraft/bucket~0Choice Name8minecraft/lava_bucket~0Choice Name4enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinSurvivor~0Item Name15tasksANDRetrievaldreamcraft/item.MoldHelmet~0dreamcraft/item.MoldHelmet~0 Name1dreamcraft/item.MoldChestplate~0dreamcraft/item.MoldChestplate~0 Name1dreamcraft/item.MoldLeggings~0dreamcraft/item.MoldLeggings~0 Name1dreamcraft/item.MoldBoots~0dreamcraft/item.MoldBoots~0 Name1
+dreamcraft/item.MoldChestplate-0.pngArmor MoldsWhy use plates when you can make your armor pieces out of molten metal?0-1ANDpre761gregtech/gt.blockmachines-140.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+16minecraft/bucket-0.pngBucket
+8minecraft/lava_bucket-0.pngLava Bucket\nBurn Time: 20000\nYou need Gloves for it?
+4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+15tasksANDRetrievaldreamcraft/item.MoldHelmet-0.pngMold
+1dreamcraft/item.MoldChestplate-0.pngMold
+1dreamcraft/item.MoldLeggings-0.pngMold
+1dreamcraft/item.MoldBoots-0.pngMold
+1

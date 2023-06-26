@@ -1,3 +1,11 @@
-1873§6§lPolyvinyl ChloridePolyvinyl Chloride is PVC which can be used for the PVC Pipes. You need Vinyl Chloride and Oxygen to make it. You'll also want it for SMD capacitors later.
+gregtech/gt.metaitem.99-649.png§6§lPolyvinyl ChloridePolyvinyl Chloride is PVC which can be used for the PVC Pipes. You need Vinyl Chloride and Oxygen to make it. You'll also want it for SMD capacitors later.
 
-Do the recipe twice if you want to clean out your reactor, or three times if used the eight second recipe.ANDpreRequgregtech/gt.metaitem.01~30650Quest Name For 18721872rewardsChoicegregtech/gt.blockmachines~1341Choice Name8gregtech/gt.metaitem.01~30023Choice Name16gregtech/gt.metaitem.01~30013Choice Name32enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25tasksANDOptionalgregtech/gt.metaitem.01~30650gregtech/gt.metaitem.01~30650 Name6gregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name41Retrievalgregtech/gt.metaitem.99~649gregtech/gt.metaitem.99~649 Name61
+Do the recipe twice if you want to clean out your reactor, or three times if used the eight second recipe.0-1ANDpre18720gregtech/gt.metaitem.01-30650.pngrewardsChoicegregtech/gt.blockmachines-1341.png2x Cupronickel Wire\nMax Voltage: 128 (MV)\nMax Amperage: 4\nLoss/Meter/Ampere: 6 EU-Volt
+8gregtech/gt.metaitem.01-30023.pngChlorine Cell\nCl
+16gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-30650.pngVinyl Chloride Cell\nC\u2082H\u2083Cl
+6gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+41Retrievalgregtech/gt.metaitem.99-649.pngMolten Polyvinyl Chloride Cell\nC\u2082H\u2083Cl
+61

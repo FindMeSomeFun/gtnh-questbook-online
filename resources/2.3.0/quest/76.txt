@@ -1,4 +1,4 @@
-76§6§lTime to Get Some SteelYou need steel? Uhh... fine. Let's get busy...
+gregtech/gt.blockmachines-140.png§6§lTime to Get Some SteelYou need steel? Uhh... fine. Let's get busy...
 
 Hint: The bricked blast furnace can share walls with other ones, just like most GT multi blocks. How will this affect the air quality though...
 
@@ -6,4 +6,29 @@ Hint: The bricked blast furnace can share walls with other ones, just like most 
 
 If you spawn near a biome with Hardened Clay you can macerate it to get the clay dust you need. You can also use brick blocks from Villages to get brick dust in the macerator.
 
-Crafting the Worktable from Forestry can make it easier as you can use all the buckets for crafting in one click.ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemRailcraft/fuel.coke~0Item Name32enhancedlootbags/lootbag~2Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name50ChoiceTConstruct/oreBerries~5Choice Name10TConstruct/oreBerries~0Choice Name10TConstruct/oreBerries~1Choice Name10tasksANDOptionalminecraft/clay_ball~0minecraft/clay_ball~0 Name1008minecraft/cobblestone~0minecraft/cobblestone~0 Name24minecraft/flint~0minecraft/flint~0 Name12Optionalgregtech/gt.metaitem.01~17032gregtech/gt.metaitem.01~17032 Name28minecraft/furnace~0minecraft/furnace~0 Name4OptionalIC2/blockMachine~1IC2/blockMachine~1 Name4Optionalgregtech/gt.metaitem.01~2823gregtech/gt.metaitem.01~2823 Name72gregtech/gt.metaitem.01~2805gregtech/gt.metaitem.01~2805 Name144gregtech/gt.metaitem.01~2299gregtech/gt.metaitem.01~2299 Name36gregtech/gt.metaitem.01~2939gregtech/gt.metaitem.01~2939 Name36Optionaldreamcraft/item.UnfiredClayBrick~0dreamcraft/item.UnfiredClayBrick~0 Name1Optionalminecraft/brick~0minecraft/brick~0 Name1Optionalgregtech/gt.metaitem.01~2625gregtech/gt.metaitem.01~2625 Name1gregtech/gt.metaitem.01~2805gregtech/gt.metaitem.01~2805 Name1Optionalgregtech/gt.metaitem.01~32110gregtech/gt.metaitem.01~32110 Name1Optionalgregtech/gt.metaitem.01~32111gregtech/gt.metaitem.01~32111 Name1Optionalgregtech/gt.metaitem.01~2934gregtech/gt.metaitem.01~2934 Name72Optionalgregtech/gt.blockcasings4~15gregtech/gt.blockcasings4~15 Name36Retrievalgregtech/gt.blockmachines~140gregtech/gt.blockmachines~140 Name1
+Crafting the Worktable from Forestry can make it easier as you can use all the buckets for crafting in one click.1-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+32enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+50ChoiceTConstruct/oreBerries-5.pngConcentrated Essence Berry\nTastes like Creeper\nCan be placed on a empty IC2 Crop.
+10TConstruct/oreBerries-0.pngIron Oreberry\nSweet Irony\nCan be placed on a empty IC2 Crop.
+10TConstruct/oreBerries-1.pngGold Oreberry\nPure Luster\nCan be placed on a empty IC2 Crop.
+10tasksANDOptionalminecraft/clay_ball-0.pngClay
+1008minecraft/cobblestone-0.pngCobblestone
+24minecraft/flint-0.pngFlint
+12Optionalgregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+28minecraft/furnace-0.pngFurnace
+4OptionalIC2/blockMachine-1.pngIron Furnace
+4Optionalgregtech/gt.metaitem.01-2823.pngCalcite Dust\nCaCO\u2083
+72gregtech/gt.metaitem.01-2805.pngClay Dust\nNa\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
+144gregtech/gt.metaitem.01-2299.pngStone Dust
+36gregtech/gt.metaitem.01-2939.pngQuartz Sand\n??
+36Optionaldreamcraft/item.UnfiredClayBrick-0.pngUnfired Clay Brick
+1Optionalminecraft/brick-0.pngBrick
+1Optionalgregtech/gt.metaitem.01-2625.pngBrick Dust\nAl\u2084Si\u2083O\u2086
+1gregtech/gt.metaitem.01-2805.pngClay Dust\nNa\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
+1Optionalgregtech/gt.metaitem.01-32110.pngCompressed Fireclay\nBrick-shaped
+1Optionalgregtech/gt.metaitem.01-32111.pngFirebrick\nHeat resistant
+1Optionalgregtech/gt.metaitem.01-2934.pngGypsum Dust\nCaSO\u2084(H\u2082O)\u2082
+72Optionalgregtech/gt.blockcasings4-15.pngFirebricks\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+36Retrievalgregtech/gt.blockmachines-140.pngBricked Blast Furnace\nMachine Type: Blast Furnace\nController Block for the Bricked Blast Furnace\nUsable for Steel and general Pyrometallurgy\nHas a useful interface, unlike other gregtech multis\nCauses: 200 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1

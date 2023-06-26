@@ -1,5 +1,9 @@
-1666§c§b§lArgonTo process some of the new ingots you will find, you need argon. Your first source will come from air, in small amounts. Unlike centrifuging Compressed Air Cells, you'll need to turn the Air into Liquid Air first in a Vacuum Freezer so you can centrifuge it more efficiently.
+gregtech/gt.metaitem.01-30024.png§c§b§lArgonTo process some of the new ingots you will find, you need argon. Your first source will come from air, in small amounts. Unlike centrifuging Compressed Air Cells, you'll need to turn the Air into Liquid Air first in a Vacuum Freezer so you can centrifuge it more efficiently.
 
 You can make the Air Intake Hatch instead of using a Compresser PA, it's way better.
 
-Don't bother with the DT recipe unless you need the other fluids from it, it's not nearly as good as centrifuging. You also need the Liquid Air Fluid Hatch (only works with Liquid Air!) and Giant Output Hatch when you want to do that.ANDpreRequgregtech/gt.metaitem.01~11372Quest Name For 14911491rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~30024gregtech/gt.metaitem.01~30024 Name16
+Don't bother with the DT recipe unless you need the other fluids from it, it's not nearly as good as centrifuging. You also need the Liquid Air Fluid Hatch (only works with Liquid Air!) and Giant Output Hatch when you want to do that.1-1ANDpre14911gregtech/gt.metaitem.01-11372.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDRetrievalgregtech/gt.metaitem.01-30024.pngArgon Cell\nAr
+16

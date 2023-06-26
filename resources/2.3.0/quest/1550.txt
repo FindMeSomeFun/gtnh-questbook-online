@@ -1,3 +1,7 @@
-1550More Seed TypesThis fancy addon allows your cart to plant/harvest more seed types. If you have an MV+ centrifuge you might want to look at glowflowers for some free redstone and gold.
+StevesCarts/CartModule-105.pngMore Seed TypesThis fancy addon allows your cart to plant/harvest more seed types. If you have an MV+ centrifuge you might want to look at glowflowers for some free redstone and gold.
 
-§3You can't harvest IC2 crops with carts, so give up on that.ANDpreRequStevesCarts/CartModule~14Quest Name For 109109rewardsItemenhancedlootbags/lootbag~4Item Name1minecraft/dye~15Item Name64Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDRetrievalStevesCarts/CartModule~105StevesCarts/CartModule~105 Name1
+§3You can't harvest IC2 crops with carts, so give up on that.0-1ANDpre1090StevesCarts/CartModule-14.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1minecraft/dye-15.pngBone Meal
+64Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDRetrievalStevesCarts/CartModule-105.pngExotic Seed Module [GT++]\nModular cost: 20\nType: Addon
+1

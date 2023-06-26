@@ -1,1 +1,7 @@
-2719For All the Artists Out ThereThese are the Creative components. Depending on what it is, there's also T2 and T3 components too.ANDpreRequgregtech/gt.metaitem.03~32091Quest Name For 17101710universalsingularities/universal.bigReactors.singularity~1Quest Name For 17471747rewardstasksANDRetrievalOpenComputers/item~103OpenComputers/item~103 Name1OpenComputers/item~69OpenComputers/item~69 Name1RetrievalOpenComputers/item~90OpenComputers/item~90 Name1OpenComputers/item~91OpenComputers/item~91 Name1RetrievalOpenComputers/item~93OpenComputers/item~93 Name1RetrievalOpenComputers/item~114OpenComputers/item~114 Name1
+OpenComputers/item-103.pngFor All the Artists Out ThereThese are the Creative components. Depending on what it is, there's also T2 and T3 components too.0-1ANDpre17101gregtech/gt.metaitem.03-32091.png17470universalsingularities/universal.bigReactors.singularity-1.pngrewardstasksANDRetrievalOpenComputers/item-103.pngAccelerated Processing Unit\nTier 3
+1OpenComputers/item-69.pngServer
+1RetrievalOpenComputers/item-90.pngMicrocontroller Case\nTier 4
+1OpenComputers/item-91.pngDrone Case\nTier 4
+1RetrievalOpenComputers/item-93.pngTablet Case\nTier 4
+1RetrievalOpenComputers/item-114.pngComponent Bus\nTier 3
+1

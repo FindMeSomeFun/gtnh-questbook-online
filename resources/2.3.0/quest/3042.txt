@@ -1,5 +1,6 @@
-3042§6§lDissolution TankBasically a mixing machine purposely made for dilution.
+gregtech/gt.blockmachines-10501.png§6§lDissolution TankBasically a mixing machine purposely made for dilution.
 
 You'll need to take care in providing the inputs at the required ratios, else you'll get no output.
 
-Anyway, this plays a large part in the lanthanide line so craft it up.ANDpreRequgregtech/gt.blockmachines~214Quest Name For 14061406gregtech/gt.blockmachines~10500Quest Name For 30413041rewardstasksANDRetrievalgregtech/gt.blockmachines~10501gregtech/gt.blockmachines~10501 Name1
+Anyway, this plays a large part in the lanthanide line so craft it up.1-1ANDpre14061gregtech/gt.blockmachines-214.png30411gregtech/gt.blockmachines-10500.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10501.pngDissolution Tank\nMachine Type: Dissolution Tank\nController block for the Dissolution Tank\nInput Water and Fluid, output Fluid\nYou must input the Fluids at the correct Ratio\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GTNH: Lanthanides
+1

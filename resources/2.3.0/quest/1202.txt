@@ -1,3 +1,8 @@
-1202I Put Fusion in Your Fusion so you Can Fusion While You FusionTo make Oganesson for your Void Miners, you'll need to make Californium, to make that, you'll need Beryllium and Plutonium 239, all in the Reactor.
+bartworks/gt.bwMetaGeneratedcell-38.pngI Put Fusion in Your Fusion so you Can Fusion While You FusionTo make Oganesson for your Void Miners, you'll need to make Californium, to make that, you'll need Beryllium and Plutonium 239, all in the Reactor.
 
-Seriously consider replicating it after the first cell.ANDpreRequgregtech/gt.blockmachines~1195Quest Name For 11981198rewardstasksANDOptionalgregtech/gt.metaitem.99~8gregtech/gt.metaitem.99~8 Name1gregtech/gt.metaitem.99~100gregtech/gt.metaitem.99~100 Name1Optionalbartworks/gt.bwMetaGeneratedcellMolten~39bartworks/gt.bwMetaGeneratedcellMolten~39 Name1bartworks/gt.bwMetaGeneratedcellMolten~40bartworks/gt.bwMetaGeneratedcellMolten~40 Name1Retrievalbartworks/gt.bwMetaGeneratedcell~38bartworks/gt.bwMetaGeneratedcell~38 Name1
+Seriously consider replicating it after the first cell.0-1ANDpre11981gregtech/gt.blockmachines-1195.pngrewardstasksANDOptionalgregtech/gt.metaitem.99-8.pngMolten Beryllium Cell\nBe
+1gregtech/gt.metaitem.99-100.pngMolten Plutonium 239 Cell\nPu
+1Optionalbartworks/gt.bwMetaGeneratedcellMolten-39.pngMolten Californium Cell\nCf\nAdded by BartWorks
+1bartworks/gt.bwMetaGeneratedcellMolten-40.pngMolten Calcium Cell\nCa\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedcell-38.pngOganesson Cell\nOg\nAdded by BartWorks
+1

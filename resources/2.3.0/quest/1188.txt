@@ -1,5 +1,13 @@
-1188The Transcontinental Railroad - Creeper-ProofRailroads in the nether are dangerous. The reinforced tracks are blast proof. Hopefully you're blast proof too?
+Railcraft/track-0-reinforced.pngThe Transcontinental Railroad - Creeper-ProofRailroads in the nether are dangerous. The reinforced tracks are blast proof. Hopefully you're blast proof too?
 
 You can move 25% faster than with normal tracks.
 
-NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.ANDpreRequgregtech/gt.metaitem.01~11306Quest Name For 753753minecraft/rail~0Quest Name For 866866rewardsChoiceRailcraft/track~0Choice Name16Railcraft/part.rail~4Choice Name32Railcraft/part.railbed~1Choice Name32enhancedlootbags/lootbag~33Choice Name1Itemdreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalRailcraft/track~0Railcraft/track~0 Name64RetrievalRailcraft/track~0Railcraft/track~0 Name16
+NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.0-1ANDpre7531gregtech/gt.metaitem.01-11306.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-0-reinforced.pngReinforced Track\n125% of the speed of normal track\nExplosion resistant
+16Railcraft/part.rail-4.pngReinforced Rail
+32Railcraft/part.railbed-1.pngStone Railbed
+32enhancedlootbags/lootbag-33.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalRailcraft/track-0-reinforced.pngReinforced Track\n125% of the speed of normal track\nExplosion resistant
+64RetrievalRailcraft/track-0-reinforced-boost.pngReinforced Booster Track\n125% of the speed of normal track\nExplosion resistant\n- Apply Redstone to enable -
+16

@@ -1,4 +1,4 @@
-2684RP-1 Rocket FuelOne option to fuel your T1 and T2 rocket is RP-1 Rocket Fuel. First, you'll need either Diesel or Coal Tar. Coal Tar is the better option on the long run, since you'll need the other products of distilling it to make other rocket fuels, but for now you can use Diesel.§3
+miscutils/RocketFuelMixB-0.pngRP-1 Rocket FuelOne option to fuel your T1 and T2 rocket is RP-1 Rocket Fuel. First, you'll need either Diesel or Coal Tar. Coal Tar is the better option on the long run, since you'll need the other products of distilling it to make other rocket fuels, but for now you can use Diesel.§3
 
 If you're using Diesel, you need 20 cells, if using Coal Tar, you need 30. Unless you use a DT, in which case it doesn't divide evenly anymore :(§r
 
@@ -10,4 +10,10 @@ Since there is no oxygen in space, you will also need an oxidizer. But since the
 
 §3If you're confused about how to use/make the Chemical Plant, refer to the manual with the same name.
 
-§2PS: You can also use Rocket Fuels for power in Rocket Engines, or the Rocketdyne F-1A Engine multi.ANDpreRequGalacticraftCore/item.fuelCanisterPartial~1Quest Name For 827827rewardsItemmiscutils/RocketFuelMixB~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalmiscutils/Kerosene~0miscutils/Kerosene~0 Name12Optionalmiscutils/RP1Fuel~0miscutils/RP1Fuel~0 Name9gregtech/gt.metaitem.01~30493gregtech/gt.metaitem.01~30493 Name36Retrievalmiscutils/RocketFuelMixB~0miscutils/RocketFuelMixB~0 Name27
+§2PS: You can also use Rocket Fuels for power in Rocket Engines, or the Rocketdyne F-1A Engine multi.1-1ANDpre8271GalacticraftCore/item.fuelCanisterPartial-1.pngrewardsItemmiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell\nCan be used as rocket fuel up to tier 2
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalmiscutils/Kerosene-0.pngKerosene Cell
+12Optionalmiscutils/RP1Fuel-0.pngRP-1 Cell
+9gregtech/gt.metaitem.01-30493.pngLiquid Oxygen Cell\nO
+36Retrievalmiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell\nCan be used as rocket fuel up to tier 2
+27

@@ -1,1 +1,4 @@
-608§2§3§5§lA Lead About Lead That Leads to LeadThe next step of making batteries is to collect some lead. Look at the lead quest in the novice thaumaturgy tab for more info.ANDpreRequgregtech/gt.blockores~1840Quest Name For 597597rewardsItemharvestcraft/mixedsaladItem~0Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.metaitem.01~11089gregtech/gt.metaitem.01~11089 Name32
+gregtech/gt.metaitem.01-11089.png§2§3§5§lA Lead About Lead That Leads to LeadThe next step of making batteries is to collect some lead. Look at the lead quest in the novice thaumaturgy tab for more info.1-1ANDpre5971gregtech/gt.blockores-1840.pngrewardsItemharvestcraft/mixedsaladItem-0.pngMixed Salad\nharvestcraft:mixedsaladItem\nDiminishing returns start after\neating any food 10 more times
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.metaitem.01-11089.pngLead Ingot\nPb
+32

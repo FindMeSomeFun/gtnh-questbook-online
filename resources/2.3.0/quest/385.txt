@@ -1,4 +1,4 @@
-385A Few More Things...Ok, I think I have everything I need to assemble the device. Can you assist me with some additional materials? I need to update some of my machines, as these exotic components you got me damaged some of them already. Don't worry, I have a list here.
+gregtech/gt.blockmachines-17.pngA Few More Things...Ok, I think I have everything I need to assemble the device. Can you assist me with some additional materials? I need to update some of my machines, as these exotic components you got me damaged some of them already. Don't worry, I have a list here.
 
 Some of my circuits burned to a crisp while I was trying to measure the conductivity of these soul and life shards. I need better ones.
 
@@ -6,4 +6,10 @@ Good lord, these mysterious crystals have eaten away my diamond grinding head! H
 
 Do you see that pile of Rhodium and Palladium over there? No? Neither do I. Because the machine was VAPORIZED! Good that you gave me 2 singularities, the first one... Well... Just get me a better casing, would you?
 
-It seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?ANDpreRequharvestcraft/supremepizzaItem~0Quest Name For 376376GalaxySpace/item.UnknowCrystal~0Quest Name For 381381AWWayofTime/bloodMagicBaseItems~28Quest Name For 382382TaintedMagic/ItemMaterial~5Quest Name For 383383appliedenergistics2/item.ItemMultiMaterial~47Quest Name For 384384rewardsItemenhancedlootbags/lootbag~42Item Name2Itemdreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.03~32088gregtech/gt.metaitem.03~32088 Name10Retrievalgregtech/gt.metaitem.01~32723gregtech/gt.metaitem.01~32723 Name1Retrievalgregtech/gt.blockmachines~17gregtech/gt.blockmachines~17 Name1Retrievalgregtech/gt.metaitem.01~32675gregtech/gt.metaitem.01~32675 Name2
+It seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?0-1ANDpre3760harvestcraft/supremepizzaItem-0.png3810GalaxySpace/item.UnknowCrystal-0.png3820AWWayofTime/bloodMagicBaseItems-28.png3830TaintedMagic/ItemMaterial-5.png3840appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-42.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDConsumegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe\nAn Ultimate Circuit\nZPM-Tier
+10Consumegregtech/gt.metaitem.01-32723.pngTungsten Grinding Head
+1Consumegregtech/gt.blockmachines-17.pngZPM Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 131,072 (ZPM)\nVoltage OUT: 131,072 (ZPM)\nCapacity: 6,554,112 EU
+1Consumegregtech/gt.metaitem.01-32675.pngField Generator
+2

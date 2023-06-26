@@ -1,1 +1,7 @@
-1351Quantum GogglesAs you continue to progress, you notice that your black goggles don't match your nice white and shiny armor. You decide to get a pair of white ones.ANDpreRequIC2/itemArmorQuantumHelmet~1Quest Name For 803803EMT/NanosuitGogglesRevealing~1Quest Name For 13501350rewardsItemdreamcraft/item.CoinDarkWizardII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5ChoiceThaumcraft/ItemLootBag~2Choice Name5enhancedlootbags/lootbag~11Choice Name1enhancedlootbags/lootbag~8Choice Name1tasksANDRetrievalEMT/QuantumGogglesRevealing~32767EMT/QuantumGogglesRevealing~32767 Name1
+EMT/QuantumGogglesRevealing-1-charged.pngQuantum GogglesAs you continue to progress, you notice that your black goggles don't match your nice white and shiny armor. You decide to get a pair of white ones.0-1ANDpre8030IC2/itemArmorQuantumHelmet-1-charged.png13500EMT/NanosuitGogglesRevealing-1-charged.pngrewardsItemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5ChoiceThaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+5enhancedlootbags/lootbag-11.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalEMT/QuantumGogglesRevealing-32767.pngQuantum Goggles of Revealing\nPower Tier: 4\nVis Discount: 7%\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1

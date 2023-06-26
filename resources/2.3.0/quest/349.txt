@@ -1,1 +1,13 @@
-349Be a Vampire; Dress Like a Fancy PersonSometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.ANDpreRequwitchery/ingredient~9Quest Name For 342342rewardsItemwitchery/vampirehat~0Item Name1witchery/vampirecoat~0Item Name1witchery/vampirelegs~0Item Name1witchery/vampireboots~0Item Name1enhancedlootbags/lootbag~54Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinAdventureII~0Item Name2dreamcraft/item.CoinWitchII~0Item Name2dreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalwitchery/quiverofmog~0witchery/quiverofmog~0 Name1witchery/gurdleofgulg~0witchery/gurdleofgulg~0 Name1witchery/babashat~0witchery/babashat~0 Name1
+witchery/vampirehat-0.pngBe a Vampire; Dress Like a Fancy PersonSometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.0-1ANDpre3420witchery/ingredient-9.pngrewardsItemwitchery/vampirehat-0.pngVampire Top Hat\nSet bonuses:\n2 pieces - Faster drinking\n3 pieces - Fire resistance\n3 pieces - Mesmerize boost\n4 pieces - Extended fire resistance\nProtection: 1\nDurability: 165/165
+1witchery/vampirecoat-0.pngVampire Dress Coat\nSet bonuses:\n2 pieces - Faster drinking\n3 pieces - Fire resistance\n3 pieces - Mesmerize boost\n4 pieces - Extended fire resistance\nProtection: 3\nDurability: 240/240
+1witchery/vampirelegs-0.pngVampire Trousers\nSet bonuses:\n2 pieces - Faster drinking\n3 pieces - Fire resistance\n3 pieces - Mesmerize boost\n4 pieces - Extended fire resistance\nProtection: 2\nDurability: 225/225
+1witchery/vampireboots-0.pngVampire Oxford Boots\nSet bonuses:\n2 pieces - Faster drinking\n3 pieces - Fire resistance\n3 pieces - Mesmerize boost\n4 pieces - Extended fire resistance\nProtection: 1\nDurability: 195/195
+1enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalwitchery/quiverofmog-0.pngMog''s Quiver\nLimitless fast arrows that obliterate airborne targets.\nBecome tougher when close to a player with Gulg''s Gurdle.\nProtection: 3\nDurability: 240/240
+1witchery/gurdleofgulg-0.pngGulg''s Gurdle\nSmash enemies into the air with your bare fists.\nBecome tougher when close to a player with Mog''s Quiver.\nProtection: 2\nDurability: 225/225
+1witchery/babashat-0.pngBaba Yaga''s Hat\nInfused players have a chance to be\nteleported instead of taking a hit\n+25% chance of second brew\n+25% chance of third brew\nProtection: 1\nDurability: 55/55
+1

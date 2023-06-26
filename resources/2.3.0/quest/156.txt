@@ -1,1 +1,6 @@
-156§6§lProtect Your Base: Tier 2Slightly better protection. Now with a real gun. No more wasting food.ANDpreRequopenmodularturrets/fenceTierTwo~0Quest Name For 155155rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalopenmodularturrets/chamberTierTwo~0openmodularturrets/chamberTierTwo~0 Name1openmodularturrets/barrelTierTwo~0openmodularturrets/barrelTierTwo~0 Name1openmodularturrets/sensorTierTwoItem~0openmodularturrets/sensorTierTwoItem~0 Name1
+openmodularturrets/chamberTierTwo-0.png§6§lProtect Your Base: Tier 2Slightly better protection. Now with a real gun. No more wasting food.0-1ANDpre1550openmodularturrets/fenceTierTwo-0.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalopenmodularturrets/chamberTierTwo-0.pngChamber
+1openmodularturrets/barrelTierTwo-0.pngBarrel
+1openmodularturrets/sensorTierTwoItem-0.pngSensor
+1

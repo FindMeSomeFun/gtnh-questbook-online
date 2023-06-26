@@ -1,3 +1,16 @@
-2975§6§lI need a drink. And more Chrome.The most efficient way to process Ruby Ore. Better than electrolysis.
+harvestcraft/cranberryjuiceItem-0.png§6§lI need a drink. And more Chrome.The most efficient way to process Ruby Ore. Better than electrolysis.
 
-§3Check out NEI for similar processes based on Sapphire and Green Sapphire.ANDpreRequgregtech/gt.blockmachines~582Quest Name For 751751gregtech/gt.metaitem.01~2685Quest Name For 849849gregtech/gt.blockmachines~362Quest Name For 13221322rewardsChoiceenhancedlootbags/lootbag~5Choice Name1gregtech/gt.metaitem.01~30417Choice Name1harvestcraft/cranberryjuiceItem~0Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25tasksANDOptionalgregtech/gt.metaitem.01~5502gregtech/gt.metaitem.01~5502 Name1gregtech/gt.metaitem.01~3502gregtech/gt.metaitem.01~3502 Name1gregtech/gt.metaitem.01~6502gregtech/gt.metaitem.01~6502 Name1gregtech/gt.metaitem.01~4502gregtech/gt.metaitem.01~4502 Name1Retrievalgregtech/gt.metaitem.01~685gregtech/gt.metaitem.01~685 Name1gregtech/gt.metaitem.01~30683gregtech/gt.metaitem.01~30683 Name1Retrievalgregtech/gt.metaitem.01~30417gregtech/gt.metaitem.01~30417 Name1Retrievalgregtech/gt.metaitem.01~2698gregtech/gt.metaitem.01~2698 Name3gregtech/gt.metaitem.01~2030gregtech/gt.metaitem.01~2030 Name1
+§3Check out NEI for similar processes based on Sapphire and Green Sapphire.0-1ANDpre7511gregtech/gt.blockmachines-582.png8490gregtech/gt.metaitem.01-2685.png13220gregtech/gt.blockmachines-362.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-30417.pngRuby Juice Cell
+1harvestcraft/cranberryjuiceItem-0.pngCranberry Juice\nharvestcraft:cranberryjuiceItem\nDiminishing returns start after\neating any food 10 more times
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-5502.pngCrushed Ruby Ore\nCrAl\u2082O\u2083
+1gregtech/gt.metaitem.01-3502.pngImpure Pile of Ruby Dust\nCrAl\u2082O\u2083\nThrow into Cauldron to get clean Dust
+1gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore\nCrAl\u2082O\u2083
+1gregtech/gt.metaitem.01-4502.pngPurified Pile of Ruby Dust\nCrAl\u2082O\u2083\nThrow into Cauldron to get clean Dust
+1Retrievalgregtech/gt.metaitem.01-685.pngTiny Pile of Sodium Hydroxide Dust\nNaOH
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+1Retrievalgregtech/gt.metaitem.01-30417.pngRuby Juice Cell
+1Retrievalgregtech/gt.metaitem.01-2698.pngAluminium Hydroxide Dust\nAl(OH)\u2083
+3gregtech/gt.metaitem.01-2030.pngChrome Dust\nCr
+1

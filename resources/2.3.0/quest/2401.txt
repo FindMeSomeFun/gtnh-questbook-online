@@ -1,3 +1,7 @@
-2401Monastic BeesNormally you find Monastic drones by trading with Beekeeper villagers. If you haven't been lucky yet, your villages are all dead, or if your server owners are cruel and disable villages, you can buy some here.
+Forestry/beeDroneGE-0-Monastic.pngMonastic BeesNormally you find Monastic drones by trading with Beekeeper villagers. If you haven't been lucky yet, your villages are all dead, or if your server owners are cruel and disable villages, you can buy some here.
 
-§3It's expensive to encourage you to try looking really hard, and to try and heal zombie villagers. Good luck!ANDpreRequForestry/beeQueenGE~0Quest Name For 11211121rewardsItemForestry/beeDroneGE~0Item Name1tasksANDRetrievaldreamcraft/item.CoinBeesI~0dreamcraft/item.CoinBeesI~0 Name10minecraft/emerald_block~0minecraft/emerald_block~0 Name4Forestry/royalJelly~0Forestry/royalJelly~0 Name32
+§3It's expensive to encourage you to try looking really hard, and to try and heal zombie villagers. Good luck!048000ANDpre11210Forestry/beeQueenGE-0-Imperial.pngrewardsItemForestry/beeDroneGE-0-Monastic.pngMonastic Drone
+1tasksANDConsumedreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+10minecraft/emerald_block-0.pngBlock of Emerald
+4Forestry/royalJelly-0.pngRoyal Jelly
+32

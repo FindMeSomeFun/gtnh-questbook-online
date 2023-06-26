@@ -1,1 +1,6 @@
-223§b§lRailguns, What ElseMassive power, and a wonderful sound when they fire. I recommend to use upgrades to increase range and damage.ANDpreRequopenmodularturrets/baseTierFourBlock~0Quest Name For 221221rewardsChoiceopenmodularturrets/ferroSlug~0Choice Name16enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalopenmodularturrets/railGunTurret~0openmodularturrets/railGunTurret~0 Name1
+openmodularturrets/railGunTurret-0.png§b§lRailguns, What ElseMassive power, and a wonderful sound when they fire. I recommend to use upgrades to increase range and damage.0-1ANDpre2210openmodularturrets/baseTierFourBlock-0.pngrewardsChoiceopenmodularturrets/ferroSlug-0.pngAmmo - Ferro-Magnetic Slug
+16enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalopenmodularturrets/railGunTurret-0.pngRail Gun Turret\n--Info--\nTier: 5\nRange (in blocks): 30\nAccuracy: Pin Point\nAmmo Type: Ferro-Magnetic Slugs\nBase Minimum Tier: Tier 5 Turret Base\n--Damage Output--\nProjectile Damage: 100.0 Hearts\nAOE Radius: 0\nShots/s: 0.2\nEnergy usage per shot: 25000 RF\nBFG.\nGlass-Tier: HV
+1

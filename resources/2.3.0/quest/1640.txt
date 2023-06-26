@@ -1,3 +1,9 @@
-1640Dealing with H2SNow let's convert all that H2S into sulfuric acid. Hook up a chemical reactor to electricity, water and interface pipe. Put inside an item responder chip set to accept H2S cells and extract empty cells. Distill that diluted sulfuric acid in distillery and store it in super tank.
+gregtech/gt.metaitem.01-30460.pngDealing with H2SNow let's convert all that H2S into sulfuric acid. Hook up a chemical reactor to electricity, water and interface pipe. Put inside an item responder chip set to accept H2S cells and extract empty cells. Distill that diluted sulfuric acid in distillery and store it in super tank.
 
-Congratulations. You now have a completely automatic desulfuring of oil, automatic production of hydrogen and oxygen and you also store all that sulfuric acid.ANDpreRequgregtech/gt.metaitem.01~30737Quest Name For 16391639rewardstasksANDRetrievalgregtech/gt.blockmachines~531gregtech/gt.blockmachines~531 Name1gregtech/gt.blockmachines~421gregtech/gt.blockmachines~421 Name1gregtech/gt.blockmachines~130gregtech/gt.blockmachines~130 Name1ProjRedTransportation/projectred.transportation.routingchip~0ProjRedTransportation/projectred.transportation.routingchip~0 Name1ProjRedTransportation/projectred.transportation.routingchip~4ProjRedTransportation/projectred.transportation.routingchip~4 Name1ProjRedTransportation/projectred.transportation.pipe~2ProjRedTransportation/projectred.transportation.pipe~2 Name1
+Congratulations. You now have a completely automatic desulfuring of oil, automatic production of hydrogen and oxygen and you also store all that sulfuric acid.0-1ANDpre16390gregtech/gt.metaitem.01-30737.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-531.pngBasic Distillery\nExtracting the most relevant Parts of Fluids\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1gregtech/gt.blockmachines-421.pngBasic Chemical Reactor\nLetting Chemicals react with each other\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1gregtech/gt.blockmachines-130.pngSuper Tank I\nStores 4,000,000L of fluid\nWill keep its contents when harvested
+1ProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
+1ProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
+1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+1

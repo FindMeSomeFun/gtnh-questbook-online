@@ -1,5 +1,16 @@
-1854Just Like Mom Used to MakeJelly sandwiches are a great food source with decent saturation and are easy to make. Almost any fruit can be converted to jelly with sugar and a saucepan. There are a few different nut butters available. Peanuts can be found in Ground Gardens in forest, mountain, or taiga style biomes. Cashews are trees located in jungles or swamps. Chestnuts can be found in warmer forests. Pistachios can be found in jungles. Many of these saplings are also available for trade from villagers.
+harvestcraft/applejellysandwichItem-0.pngJust Like Mom Used to MakeJelly sandwiches are a great food source with decent saturation and are easy to make. Almost any fruit can be converted to jelly with sugar and a saucepan. There are a few different nut butters available. Peanuts can be found in Ground Gardens in forest, mountain, or taiga style biomes. Cashews are trees located in jungles or swamps. Chestnuts can be found in warmer forests. Pistachios can be found in jungles. Many of these saplings are also available for trade from villagers.
 
 Use a Forestry Worktable to keep all your recipes together in one spot for easy crafting.
 
-Some sandwiches have better saturation than others, so be sure to check before buying that sapling!ANDpreRequminecraft/bread~0Quest Name For 636636harvestcraft/potItem~0Quest Name For 665665rewardsItemharvestcraft/cherryjellysandwichItem~0Item Name1harvestcraft/blackberryjellysandwichItem~0Item Name1harvestcraft/raspberryjellysandwichItem~0Item Name1harvestcraft/blueberryjellysandwichItem~0Item Name1harvestcraft/watermelonjellysandwichItem~0Item Name1tasksANDOptionalminecraft/apple~0minecraft/apple~0 Name4minecraft/sugar~0minecraft/sugar~0 Name4harvestcraft/saucepanItem~0harvestcraft/saucepanItem~0 Name1Optionalharvestcraft/applejellyItem~0harvestcraft/applejellyItem~0 Name4minecraft/bread~0minecraft/bread~0 Name4Retrievalharvestcraft/applejellysandwichItem~0harvestcraft/applejellysandwichItem~0 Name4
+Some sandwiches have better saturation than others, so be sure to check before buying that sapling!0-1ANDpre6360minecraft/bread-0.png6650harvestcraft/potItem-0.pngrewardsItemharvestcraft/cherryjellysandwichItem-0.pngCherry Jelly Sandwich\nharvestcraft:cherryjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/blackberryjellysandwichItem-0.pngBlackberry Jelly Sandwich\nharvestcraft:blackberryjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/raspberryjellysandwichItem-0.pngRaspberry Jelly Sandwich\nharvestcraft:raspberryjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/blueberryjellysandwichItem-0.pngBlueberry Jelly Sandwich\nharvestcraft:blueberryjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/watermelonjellysandwichItem-0.pngWatermelon Jelly Sandwich\nharvestcraft:watermelonjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+1tasksANDOptionalminecraft/apple-0.pngApple\nminecraft:apple\nDiminishing returns start after\neating any food 10 more times
+4minecraft/sugar-0.pngSugar
+4harvestcraft/saucepanItem-0.pngSaucepan
+1Optionalharvestcraft/applejellyItem-0.pngApple Jelly\nharvestcraft:applejellyItem\nDiminishing returns start after\neating any food 10 more times
+4minecraft/bread-0.pngBread\nminecraft:bread\nDiminishing returns start after\neating any food 10 more times
+4Retrievalharvestcraft/applejellysandwichItem-0.pngApple Jelly Sandwich\nharvestcraft:applejellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+4

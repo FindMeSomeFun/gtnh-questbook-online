@@ -1,3 +1,14 @@
-1687§c§lCrystal ChipsTo make these chips you need Europium, as well as an HV Autoclave in the Asteroids dimension (or on your space station) to achieve "low gravity".
+gregtech/gt.metaitem.03-32070.png§c§lCrystal ChipsTo make these chips you need Europium, as well as an HV Autoclave in the Asteroids dimension (or on your space station) to achieve "low gravity".
 
-§3Alternatively you can use an LPF anywhere, but not a PA.ANDpreRequgregtech/gt.blockmetal3~3Quest Name For 12131213gregtech/gt.blockmachines~1185Quest Name For 16831683gregtech/gt.blockmachines~10930Quest Name For 16891689rewardsChoicegregtech/gt.metaitem.03~32074Choice Name4gregtech/gt.metaitem.99~70Choice Name2enhancedlootbags/lootbag~41Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.02~30501gregtech/gt.metaitem.02~30501 Name64gregtech/gt.metaitem.99~70gregtech/gt.metaitem.99~70 Name8Optionalgregtech/gt.metaitem.03~32069gregtech/gt.metaitem.03~32069 Name1Optionalgregtech/gt.metaitem.01~17501gregtech/gt.metaitem.01~17501 Name1gregtech/gt.metaitem.03~32069gregtech/gt.metaitem.03~32069 Name1Optionalgregtech/gt.metaitem.01~32713gregtech/gt.metaitem.01~32713 Name1Retrievalgregtech/gt.metaitem.03~32070gregtech/gt.metaitem.03~32070 Name1
+§3Alternatively you can use an LPF anywhere, but not a PA.1-1ANDpre12131gregtech/gt.blockmetal3-3.png16831gregtech/gt.blockmachines-1185.png16891gregtech/gt.blockmachines-10930.pngrewardsChoicegregtech/gt.metaitem.03-32074.pngRaw Crystal Chip Parts\nRaw Crystal Processor Parts
+4gregtech/gt.metaitem.99-70.pngMolten Europium Cell\nEu
+2enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.02-30501.pngExquisite Emerald\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
+64gregtech/gt.metaitem.99-70.pngMolten Europium Cell\nEu
+8Optionalgregtech/gt.metaitem.03-32069.pngRaw Crystal Chip\nRaw Crystal Processor
+1Optionalgregtech/gt.metaitem.01-17501.pngEmerald Plate\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
+1gregtech/gt.metaitem.03-32069.pngRaw Crystal Chip\nRaw Crystal Processor
+1Optionalgregtech/gt.metaitem.01-32713.pngEngraved Crystal Chip\nNeeded for Circuits
+1Retrievalgregtech/gt.metaitem.03-32070.pngCrystal Processing Unit\nCrystal CPU
+1

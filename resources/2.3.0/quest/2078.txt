@@ -1,1 +1,5 @@
-2078Time to Kill (Silverfish)Be wary, they like to disguise and clone themselves in stone-related blocks! (Applies to Vanilla blocks only) Can be found within dungeons and hills. Can also be found in Drowning Creeper spawned cobblestone blocks.ANDpreRequgregtech/gt.metatool.01~0Quest Name For 1111rewardsItembetterquesting/extra_life~2Item Name1dreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinChemistII~0Item Name1tasksANDHuntSilverfishSilverfish Name15
+OpenBlocks/trophy-0-Silverfish.pngTime to Kill (Silverfish)Be wary, they like to disguise and clone themselves in stone-related blocks! (Applies to Vanilla blocks only) Can be found within dungeons and hills. Can also be found in Drowning Creeper spawned cobblestone blocks.0432000ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDHuntmobs/Silverfish-.pngSilverfish
+15

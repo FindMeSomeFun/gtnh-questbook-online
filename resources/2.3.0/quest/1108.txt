@@ -1,1 +1,8 @@
-1108§3§lThe Cool GuyFeeling lonely? Located far away from a snow biome? Craft a Snow Golem, and perhaps challenge him to a snow ball fight.ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemminecraft/snowball~0Item Name1Choiceminecraft/snow~0Choice Name4enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinDarkWizard~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalminecraft/pumpkin~0minecraft/pumpkin~0 Name1minecraft/snow~0minecraft/snow~0 Name2
+minecraft/snowball-0.png§3§lThe Cool GuyFeeling lonely? Located far away from a snow biome? Craft a Snow Golem, and perhaps challenge him to a snow ball fight.0-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/snowball-0.pngSnowball
+1Choiceminecraft/snow-0.pngSnow
+4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalminecraft/pumpkin-0.pngPumpkin
+1minecraft/snow-0.pngSnow
+2

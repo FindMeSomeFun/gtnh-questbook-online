@@ -1,5 +1,12 @@
-1726Rocket Tier 5After a month of hard work and ten thousand stacks of iTNT your fifth rocket is finally ready.
+GalaxySpace/item.Tier5Rocket-0.pngRocket Tier 5After a month of hard work and ten thousand stacks of iTNT your fifth rocket is finally ready.
 
 You need to use CN3H7O3 (Purple) Rocket Fuel or better to fuel it.
 
-§3If you started on an older version of GTNH and still have some Monomethylhydrazine Fuel Mix, you can also use that as rocket fuel! But you can't make any more of it, so better look into CN3H7O3 anyway.ANDpreRequGalaxySpace/item.RocketControlComputer~5Quest Name For 17251725dreamcraft/item.HeavyDutyNoseConeTier3~0Quest Name For 17271727dreamcraft/item.HeavyDutyRocketEngineTier3~0Quest Name For 17281728dreamcraft/item.HeavyDutyRocketFinsTier3~0Quest Name For 17291729dreamcraft/item.LargeFuelCanister~0Quest Name For 17301730rewardsChoiceIC2/blockITNT~0Choice Name256dreamcraft/item.HeavyDutyPlateTier4~0Choice Name4enhancedlootbags/lootbag~24Choice Name2enhancedlootbags/lootbag~41Choice Name2Itemdreamcraft/item.CoinSpaceIII~0Item Name5dreamcraft/item.CoinTechnicianIII~0Item Name5tasksANDRetrievalGalaxySpace/item.Tier5Rocket~0GalaxySpace/item.Tier5Rocket~0 Name1
+§3If you started on an older version of GTNH and still have some Monomethylhydrazine Fuel Mix, you can also use that as rocket fuel! But you can't make any more of it, so better look into CN3H7O3 anyway.1-1ANDpre17251GalaxySpace/item.RocketControlComputer-5.png17271dreamcraft/item.HeavyDutyNoseConeTier3-0.png17281dreamcraft/item.HeavyDutyRocketEngineTier3-0.png17291dreamcraft/item.HeavyDutyRocketFinsTier3-0.png17301dreamcraft/item.LargeFuelCanister-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+256dreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
+4enhancedlootbags/lootbag-24.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+2Itemdreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
+5dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+5tasksANDRetrievalGalaxySpace/item.Tier5Rocket-0.pngTier 5 Rocket
+1

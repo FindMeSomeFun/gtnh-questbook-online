@@ -1,185 +1,127 @@
 body {
-	background-color: #000;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px ;
+	font-size: 24px ;
 }
 
-h2 {
-	margin: 0px;
+#main {
+	text-align: center;
+	width: 1900px;
 }
 
-#questLineImg, #questLines > div > img, #theme-btn > label > img {
-	width: 32px;
-	height: 32px;
-}
-
-#questLineName, #header > span, #questLines > div > span {
-	position: relative;
-	top: -10px;
+#main > div {
+	background-color: #444;
+	margin: 30px;
+	padding: 20px;
 }
 
 .dark {
-	background-color: #333;
+	background-color: #000;
 	color: #ddd;
 }
 
 .light {
-	background-color: #ddd;
+	background-color: #888;
 	color: #333;
 }
 
-#header {
-	position: fixed;
-	top: 0px;
-	height: 60px;
-	width: 100%;
-	z-index: 1000;
+#main.light > div {
+	background-color: #fff;
 }
 
-#main {
-	width: 1900px;
-	margin: 65px auto;
+#main.light > span {
+	color: #fff;
 }
+
+#welcome > h1 {
+	margin: 0px 30px;
+}
+
+/* Header */
 
 #versions {
-	height: 35px;
+	height: 83px;
 }
 
-#welcome {
-	text-align: center;
-	font-size: 24px;
-	padding: 20px;
-}
-
-#welcome > img {
-	width: 645px;
-	height: 500px;
-}
-
-#questLineDesc {
-	text-align: center;
-}
-
-.quest {
-	position: absolute;
-	background-color: #880;
-}
-
-.quest > img, .tasks > div > div > div > img {
-	width: 100%; 
-	height: 100%;
-}
-
-.questPre {
-	position: relative;
-	display: inline-block;
-	background-color: #880;
-	width: 64px;
+#versions > div,
+#questLines > div {
+	border: 1px solid #888;
+	width: 99%;
 	height: 64px;
-}
-
-.icon64 {
-	width: 64px;
-	height: 64px;
-}
-
-#questLineTree {
-	position: relative;
-	margin: 50px;
-	border: 5px solid #088;
-}
-
-.questInfo {
-	background-color: #444;
-	text-align: center;
-}
-
-.questInfo > span, .questInfo > div {
-	display: inline-block;
-	width: 49%;
-	vertical-align: top;
-}
-
-.questInfo > span > h2 {
-	position: relative;
-	top: -10px;
-}
-
-.questInfo > span > h2 > div {
-	position: relative;
-	top: 24px;
-}
-
-.tasks {
-	text-align: left;
-	border-left: 3px solid #888;
-}
-
-.rewards {
-	text-align: right;
-	border-right: 3px solid #888;
-}
-
-.rewards > p,
-.rewards > div,
-.tasks > p,
-.tasks > div {
-	padding: 0px 25px;
-}
-
-.rewards > div > div > div,
-.tasks > div > div > div {
-	position: relative;
-	display: inline-block;
-	vertical-align: top;
-}
-
-/* Theme toggle */
-#theme-btn {
-	display: inline;
-	padding: 0px 0px 0px 50px;
-}
-
-input[type=checkbox] {
-	display:none;
-}
- 
-input[type=checkbox] + label {
-    filter: invert(100%);
-	height: 32px;
-	width: 32px;
-	display: inline-block;
-}
-input[type=checkbox]:checked + label {
-    filter: invert(0%);
-}
-
-/* Dropdown list */
-.dropbtn {
 	background-color: transparent;
-	min-width: 305px;
-	font-size: 16px;
-	border: 3px solid #888;
-	border-radius: 5px;
+	color: #ddd;
+}
+
+#versions > div > img,
+#versions > div > span,
+#questLines > div > img,
+#questLines > div > span {
+	position: relative;
+	z-index: -1;
+}
+
+#versions > div:hover,
+#questLines > div:hover,
+.dropbtn:hover,
+.quest:hover,
+.questPre:hover,
+.hide:hover,
+.remove:hover,
+.pin:hover,
+label:hover {
+	background-color: rgba(128, 128, 128, 0.4);
 	cursor: pointer;
 }
 
-.dropbtn:hover {
+#versionsDiv.dropbtn {
+	width: 205px;
+}
+
+#versions.dropdown-content {
+	min-height: 265px;
+	min-width: 200px;
+}
+
+.dropbtn > img {
+	position: relative;
+	top: 4px;
+}
+
+.dropbtn > span {
+	position: relative;
+	font-size: 32px;
+	top: -17px;
+}
+
+.version > span,
+.questLine > span {
+	position: relative;
+	font-size: 32px;
+	top: -20px;
+}
+
+/* Dropdown list */
+
+.dropbtn {
+	background-color: transparent;
+	width: 560px;
+	border: 5px solid #888;
+	border-radius: 15px;
+	cursor: pointer;
 }
 
 .dropdown {
 	position: relative;
-	padding: 10px 50px 0px 10px;
+	padding: 10px 30px;
 	display: inline-block;
 }
 
 .dropdown-content {
-	border: 3px solid #888;
+	border: 5px solid #888;
 	display: none;
 	position: absolute;
 	background-color: #333;
-	min-width: 300px;
-	max-height: 850px;
+	min-width: 550px;
+	max-height: 860px;
 	overflow: auto;
 	z-index: 1000;
 }
@@ -188,20 +130,146 @@ input[type=checkbox]:checked + label {
 	display: block;
 }
 
-#questLines > div {
-	border: 1px solid #888;
-	width: 99%;
-	height: 32px;
+/* Theme toggle */
+
+#theme-btn {
+	display: inline;
+	padding: 0px 30px;
+}
+
+input[type=checkbox] {
+	display:none;
+}
+ 
+input[type=checkbox] + label {
+    filter: invert(100%);
+	display: inline-block;
+	position: relative;
+	top: 4px;
+}
+
+input[type=checkbox]:checked + label {
+    filter: invert(0%);
+}
+
+.icon {
+	width: 64px;
+	height: 64px;
+}
+
+#questLineDesc {
+	display: inline-block;
+	width: 75%;
+}
+
+.quest {
+	position: absolute;
+	background-size: 100%;
+	background-color: #aaa;
+}
+
+.questPre {
+	background-color: #aaa;
+}
+
+.quest-main {
+	border: 4px solid red;
+	border-radius: 10px;
+}
+
+.quest-optional {
+	border: 4px solid green;
+	border-radius: 10px;
+}
+
+.selected {
+	border-width: 10px;
+	border-style: double;
+}
+
+.max {
+	width: 100%; 
+	height: 100%;
+}
+
+.inline {
+	position: relative;
+	display: inline-block;
+}
+
+#questLineTree {
 	background-color: transparent;
-	color: #ddd;
+	position: relative;
 }
 
-#questLines > div > img, #questLines > div > span {
-	z-index: -1;
+.questInfo {
+	text-align: left;
+	background-color: #444;
+	margin: 30px;
+	padding: 0px 30px 30px 30px;
 }
 
-#questLines > div:hover,
-.quest:hover {
-	background-color: rgba(144, 144, 144, 0.4);
+.half {
+	display: inline-block;
+	width: 49.8%;
+	vertical-align: top;
+}
+
+.top {
+	vertical-align: top;
+}
+
+.questInfo > div > div > div > span,
+.questInfo > div > div > div > div > span {
+	position: relative;
+	bottom: 25px;
+}
+
+.tasks {
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	margin: 0px 10px;
+}
+
+.tasks > div > div > div {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.title {
+	padding: 0px 0px 0px 10px;
+	font-size: 30px;
+}
+
+.sub-title {
+	padding: 0px 0px 0px 10px;
+}
+
+.text {
+	white-space: pre-wrap;
+}
+
+.btn {
+	background-color: transparent;
+	width: 100px;
+	border: 5px solid #888;
+	border-radius: 15px;
 	cursor: pointer;
+	text-align: center;
+	padding: 13px;
+}
+
+.hide {
+	margin: 0px 30px;
+}
+
+.float-right {
+	float: right;
+}
+
+.pad-top {
+	padding: 10px 0px 0px 0px;
 }

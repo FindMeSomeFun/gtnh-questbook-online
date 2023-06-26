@@ -1,1 +1,6 @@
-1757Not Your Average PlatterWe'll need these for our hard drives.ANDpreRequOpenComputers/item~48Quest Name For 17451745rewardsItemOpenComputers/item~19Item Name2miscutils/itemGenericToken~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~24890gregtech/gt.metaitem.01~24890 Name2gregtech/gt.metaitem.01~29019gregtech/gt.metaitem.01~29019 Name8RetrievalOpenComputers/item~19OpenComputers/item~19 Name2
+OpenComputers/item-19.pngNot Your Average PlatterWe'll need these for our hard drives.0-1ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/item-19.pngDisk Platter
+2miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+1tasksANDOptionalgregtech/gt.metaitem.01-24890.pngGlass Lens\nSiO\u2082
+2gregtech/gt.metaitem.01-29019.pngAluminium Foil\nAl
+8RetrievalOpenComputers/item-19.pngDisk Platter
+2

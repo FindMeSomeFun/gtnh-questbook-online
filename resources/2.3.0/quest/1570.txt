@@ -1,7 +1,14 @@
-1570Tormented TwineTormented Twine is spun from Disturbed Cotton using a Spinning Wheel. It is an ingredient used to make Dream Catchers.
+witchery/ingredient-101.pngTormented TwineTormented Twine is spun from Disturbed Cotton using a Spinning Wheel. It is an ingredient used to make Dream Catchers.
 
 It is made in a Spinning Wheel using Disturbed Cotton, Blood Burned String and Reek of Misfortune.
 
 §4You need a T2 BM Blood Altar to make the string, so go over to the BM tab if you want to continue and haven't done that yet.
 
-§rAn Altar must be nearby to power the spinning wheel.ANDpreRequwitchery/spinningwheel~0Quest Name For 335335rewardsItemwitchery/ingredient~99Item Name4Itemdreamcraft/item.CoinWitchII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDOptionalBloodArsenal/blood_burned_string~0BloodArsenal/blood_burned_string~0 Name3witchery/ingredient~35witchery/ingredient~35 Name3witchery/ingredient~99witchery/ingredient~99 Name12Retrievalwitchery/ingredient~101witchery/ingredient~101 Name3
+§rAn Altar must be nearby to power the spinning wheel.0-1ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/ingredient-99.pngDisturbed Cotton
+4Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDOptionalBloodArsenal/blood_burned_string-0.pngBlood Burned String
+3witchery/ingredient-35.pngReek of Misfortune
+3witchery/ingredient-99.pngDisturbed Cotton
+12Retrievalwitchery/ingredient-101.pngTormented Twine
+3

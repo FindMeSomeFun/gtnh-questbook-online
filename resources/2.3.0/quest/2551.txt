@@ -1,1 +1,13 @@
-2551Time to Kill (Scorching Lens)They live on a fiery island in the end and spit at you with fireballs. Better run for your life.ANDpreRequHardcoreEnderExpansion/fire_shard~0Quest Name For 23602360rewardsItembetterquesting/extra_life~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5Choicedreamcraft/item.RuneOfPowerFragment~0Choice Name3dreamcraft/item.RuneOfAgilityFragment~0Choice Name3dreamcraft/item.RuneOfVigorFragment~0Choice Name3dreamcraft/item.RuneOfDefenseFragment~0Choice Name3dreamcraft/item.RuneOfMagicFragment~0Choice Name3dreamcraft/item.RuneOfVoidFragment~0Choice Name1tasksANDHuntHardcoreEnderExpansion.ScorchedLensHardcoreEnderExpansion.ScorchedLens Name25
+HardcoreEnderExpansion/spawn_eggs-6.pngTime to Kill (Scorching Lens)They live on a fiery island in the end and spit at you with fireballs. Better run for your life.0864000ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItembetterquesting/extra_life-1.pngHalf Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5Choicedreamcraft/item.RuneOfPowerFragment-0.pngRune of Power Fragment
+3dreamcraft/item.RuneOfAgilityFragment-0.pngRune of Agility Fragment
+3dreamcraft/item.RuneOfVigorFragment-0.pngRune of Vigor Fragment
+3dreamcraft/item.RuneOfDefenseFragment-0.pngRune of Defense Fragment
+3dreamcraft/item.RuneOfMagicFragment-0.pngRune of Magic Fragment
+3dreamcraft/item.RuneOfVoidFragment-0.pngRune of Void Fragment
+1tasksANDHuntmobs/HardcoreEnderExpansion-ScorchedLens-.pngScorched Lens
+25

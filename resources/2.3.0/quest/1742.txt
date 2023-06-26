@@ -1,5 +1,15 @@
-1742§6§lHelium 3 and Saltwater on MoonThe Moon is rich in Helium 3 because the Sun has been embedding it in the upper layer of moon by the solar wind over billions of years. 
+gregtech/gt.metaitem.01-30005.png§6§lHelium 3 and Saltwater on MoonThe Moon is rich in Helium 3 because the Sun has been embedding it in the upper layer of moon by the solar wind over billions of years. 
 
 Salt water is also available in smaller quantities. you can get chlorine out of it. You will want plenty of chlorine for processing Rutile to get Titanium. 
 
-There are more planets and moons with gas and fluids underneath the surface. Bring along a multiblock fluid drill to recover these fluids.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810rewardsChoiceenhancedlootbags/lootbag~6Choice Name1EnderIO/blockTank~1Choice Name4gregtech/gt.metaitem.01~32708Choice Name4gregtech/gt.blockreinforced~5Choice Name64gregtech/gt.metaitem.01~17306Choice Name16Itemdreamcraft/item.CoinSpaceI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~30005gregtech/gt.metaitem.01~30005 Name64gregtech/gt.metaitem.01~30692gregtech/gt.metaitem.01~30692 Name64
+There are more planets and moons with gas and fluids underneath the surface. Bring along a multiblock fluid drill to recover these fluids.0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/blockTank-1.pngPressurized Fluid Tank
+4gregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
+4gregtech/gt.blockreinforced-5.pngPowderbarrel
+64gregtech/gt.metaitem.01-17306.pngStainless Steel Plate\nFe\u2086CrMnNi
+16Itemdreamcraft/item.CoinSpaceI-0.pngCoin "The Space Invaders 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-30005.pngHelium-3 Cell\nHe-3
+64gregtech/gt.metaitem.01-30692.pngSalt Water Cell
+64

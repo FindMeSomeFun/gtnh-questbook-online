@@ -1,1 +1,10 @@
-1021§6§r§6§k§r§6§lSodium PersulfateSodium Persulfate can be made in the electrolyzer out of sodium bisulfate dust. Sodium bisulfate is made out of sulfuric acid and salt in the chemical reactor.You can etch your board with it.ANDpreRequgregtech/gt.metaitem.01~17874Quest Name For 750750rewardsChoicegregtech/gt.metaitem.01~30693Choice Name8gregtech/gt.metaitem.01~30013Choice Name8enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~30720gregtech/gt.metaitem.01~30720 Name2gregtech/gt.metaitem.01~2817gregtech/gt.metaitem.01~2817 Name4Optionalgregtech/gt.metaitem.01~2630gregtech/gt.metaitem.01~2630 Name14Retrievalgregtech/gt.metaitem.01~30718gregtech/gt.metaitem.01~30718 Name1
+gregtech/gt.metaitem.01-30718.png§6§r§6§k§r§6§lSodium PersulfateSodium Persulfate can be made in the electrolyzer out of sodium bisulfate dust. Sodium bisulfate is made out of sulfuric acid and salt in the chemical reactor.You can etch your board with it.1-1ANDpre7501gregtech/gt.metaitem.01-17874.pngrewardsChoicegregtech/gt.metaitem.01-30693.pngIron III Chloride Cell\nCl\u2083Fe
+8gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
+2gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
+4Optionalgregtech/gt.metaitem.01-2630.pngSodium Bisulfate Dust\nNaHSO\u2084
+14Retrievalgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell\nNa\u2082S\u2082O\u2088
+1

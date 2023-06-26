@@ -1,5 +1,12 @@
-14§1§lWhat's That...?You've seen a lot of trees, but there are a few that look really special. You are sure that these trees are much more than just wood to build your home with or used to get charcoal. You're sure that these will be Very Important soon™.
+Thaumcraft/blockCustomPlant-1.png§1§lWhat's That...?You've seen a lot of trees, but there are a few that look really special. You are sure that these trees are much more than just wood to build your home with or used to get charcoal. You're sure that these will be Very Important soon™.
 
 The best place to find them is in a Magical Forest, but if you can't find one you can try a Garden or Cherry Wood Grove. Or just randomly everywhere.
 
-§3If you have trouble finding them, you can go to "Coins, Coins, Coins" tab and buy them.ANDpreRequminecraft/bed~0Quest Name For 1313rewardsItemenhancedlootbags/lootbag~1Item Name1Itemdreamcraft/item.CoinAdventure~0Item Name10dreamcraft/item.CoinDarkWizard~0Item Name10tasksANDRetrievalThaumcraft/blockCustomPlant~1Thaumcraft/blockCustomPlant~1 Name1Thaumcraft/blockMagicalLog~1Thaumcraft/blockMagicalLog~1 Name5RetrievalThaumcraft/blockCustomPlant~0Thaumcraft/blockCustomPlant~0 Name1Thaumcraft/blockMagicalLog~0Thaumcraft/blockMagicalLog~0 Name5
+§3If you have trouble finding them, you can go to "Coins, Coins, Coins" tab and buy them.1-1ANDpre131minecraft/bed-0.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+10tasksANDRetrievalThaumcraft/blockCustomPlant-1.pngSilverwood Sapling
+1Thaumcraft/blockMagicalLog-1.pngSilverwood Log\nBurn Time: 300
+5RetrievalThaumcraft/blockCustomPlant-0.pngGreatwood Sapling
+1Thaumcraft/blockMagicalLog-0.pngGreatwood Log\nBurn Time: 400
+5

@@ -1,4 +1,4 @@
-2563§6§lSievert for the VatSome Vat recipes require a certain Sievert (radioactivity) value. So attach this Radio Hatch to your Vat to input radioactive material!
+dreamcraft/dreamcraft_EnrichedBacterialSludge-0.png§6§lSievert for the VatSome Vat recipes require a certain Sievert (radioactivity) value. So attach this Radio Hatch to your Vat to input radioactive material!
 
 The Radio Hatch holds rods/long rods of radioactive material and uses them to produce Sievert. The input item determines the Sievert value and how long it lasts. Items stored in the hatch will be used continuously even if machine not active, so make sure you want to craft something before putting items in.
 
@@ -17,4 +17,6 @@ Naquadah             130sv   14.5s
 Enriched Naquadah 140sv   10.5s
 Naquadria            150sv     8s
 
-There are more radioactive materials than these, but these are the main ones.ANDpreRequgregtech/gt.blockores~4873Quest Name For 12431243gregtech/gt.blockmachines~12712Quest Name For 25612561rewardsItemgregtech/gt.metaitem.01~23098Item Name1tasksANDRetrievalgregtech/gt.blockmachines~12713gregtech/gt.blockmachines~12713 Name1
+There are more radioactive materials than these, but these are the main ones.0-1ANDpre12430gregtech/gt.blockores-4873.png25611gregtech/gt.blockmachines-12712.pngrewardsItemgregtech/gt.metaitem.01-23098.pngUranium 238 Rod\nU
+1tasksANDRetrievalgregtech/gt.blockmachines-12713.pngHV Radio Hatch\nRadioactive Item Chamber for Multiblocks\nCapacity: 1 kg\nUse a screwdriver to set the containment level\nAdded by bartimaeusnek via BartWorks
+1

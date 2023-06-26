@@ -1,6 +1,11 @@
-199§a§lQuit Exhaling DustsThe QED is used to make only a few things, so I'll just list them here:
+ExtraUtilities/endConstructor-0.png§a§lQuit Exhaling DustsThe QED is used to make only a few things, so I'll just list them here:
 
 Magnum Torch: Prevent mob spawns.
 Ender Quarry, and the Ender-Markers that go with it: Quarry up the landscape, so you can get planet blocks, dirt, etc, unlike miners.
 Ender-Thermic Pump: For nether lava pumping with less lag.
-Transfer Node Energy/Hyper-Energy: Transfers RF, so. useless.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsItemExtraUtilities/endConstructor~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalExtraUtilities/endConstructor~0ExtraUtilities/endConstructor~0 Name1ExtraUtilities/endConstructor~2ExtraUtilities/endConstructor~2 Name3
+Transfer Node Energy/Hyper-Energy: Transfers RF, so. useless.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemExtraUtilities/endConstructor-2.pngEnder-Flux Crystal
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalExtraUtilities/endConstructor-0.pngQED\nNow: Quite Expensive Device
+1ExtraUtilities/endConstructor-2.pngEnder-Flux Crystal
+3

@@ -1,7 +1,18 @@
-649Coal Steam JetpackYour coal jetpack needs coal and water to produce steam. After a short warm-up period you can go and take it for a ride. Keep in mind you will need your glider to make a soft landing.
+adventurebackpack/coalJetpack-0.pngCoal Steam JetpackYour coal jetpack needs coal and water to produce steam. After a short warm-up period you can go and take it for a ride. Keep in mind you will need your glider to make a soft landing.
 
 Put your jetpack on your back and hit Shift and the adventure backpack's action-key to start it.
 
 Max flying height for this jetpack is Y-185.
 
-Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103rewardsChoiceRailcraft/fuel.coke~0Choice Name16gregtech/gt.blockmachines~5130Choice Name3enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalRailcraft/machine.beta~5Railcraft/machine.beta~5 Name1adventurebackpack/backpackComponent~2adventurebackpack/backpackComponent~2 Name2gregtech/gt.blockmachines~5130gregtech/gt.blockmachines~5130 Name2gregtech/gt.metaitem.01~17019gregtech/gt.metaitem.01~17019 Name2gregtech/gt.metaitem.01~27305gregtech/gt.metaitem.01~27305 Name1gregtech/gt.metaitem.01~32601gregtech/gt.metaitem.01~32601 Name1Retrievaladventurebackpack/coalJetpack~0adventurebackpack/coalJetpack~0 Name1
+Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.0-1ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsChoiceRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+16gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pipe\nFluid Capacity: 800 L/sec\nHeat Limit: 2,500 K
+3enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalRailcraft/machine.beta-5.pngSolid Fueled Boiler Firebox\nMulti-Block: Variable Size, Bottom Layer\nDimensions: 1x1, 2x2, 3x3\nMobs cannot Spawn on this Block
+1adventurebackpack/backpackComponent-2.pngBackpack Tank
+2gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pipe\nFluid Capacity: 800 L/sec\nHeat Limit: 2,500 K
+2gregtech/gt.metaitem.01-17019.pngAluminium Plate\nAl
+2gregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
+1gregtech/gt.metaitem.01-32601.pngElectric Motor
+1Retrievaladventurebackpack/coalJetpack-0.pngCoal Jetpack
+1

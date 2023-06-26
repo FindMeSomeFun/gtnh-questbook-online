@@ -1,3 +1,20 @@
-833Purge Your WarpThe warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.
+WarpTheory/item.warptheory.cleanser-0.pngPurge Your WarpThe warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.
 
-§3PS: You need an LuV-powered EBF for the osmiridium.ANDpreRequThaumcraft/ItemResource~17Quest Name For 285285rewardsItemWarpTheory/item.warptheory.cleanser~0Item Name1tasksANDRetrievalminecraft/nether_star~0minecraft/nether_star~0 Name3minecraft/ghast_tear~0minecraft/ghast_tear~0 Name2appliedenergistics2/item.ItemMultiMaterial~11appliedenergistics2/item.ItemMultiMaterial~11 Name2appliedenergistics2/item.ItemMultiMaterial~10appliedenergistics2/item.ItemMultiMaterial~10 Name2gregtech/gt.metaitem.01~24500gregtech/gt.metaitem.01~24500 Name2Thaumcraft/ItemResource~14Thaumcraft/ItemResource~14 Name1Retrievalgregtech/gt.metaitem.01~11317gregtech/gt.metaitem.01~11317 Name1Thaumcraft/ItemResource~16Thaumcraft/ItemResource~16 Name2gregtech/gt.metaitem.02~29500gregtech/gt.metaitem.02~29500 Name4ThaumicTinkerer/kamiResource~6ThaumicTinkerer/kamiResource~6 Name2ThaumicTinkerer/kamiResource~7ThaumicTinkerer/kamiResource~7 Name2minecraft/ender_eye~0minecraft/ender_eye~0 Name2RetrievalThaumcraft/ItemEssence~1Thaumcraft/ItemEssence~1 Name4Thaumcraft/ItemEssence~1Thaumcraft/ItemEssence~1 Name4Thaumcraft/ItemEssence~1Thaumcraft/ItemEssence~1 Name2Thaumcraft/ItemEssence~1Thaumcraft/ItemEssence~1 Name2
+§3PS: You need an LuV-powered EBF for the osmiridium.012096000ANDpre2851Thaumcraft/ItemResource-17.pngrewardsItemWarpTheory/item.warptheory.cleanser-0.pngPure Tear\nCrunchy
+1tasksANDConsumeminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+3minecraft/ghast_tear-0.pngGhast Tear
+2appliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal
+2appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
+2gregtech/gt.metaitem.01-24500.pngDiamond Lens\nC
+2Thaumcraft/ItemResource-14.pngSalis Mundus
+1Consumegregtech/gt.metaitem.01-11317.pngOsmiridium Ingot\nIr\u2083Os
+1Thaumcraft/ItemResource-16.pngVoid metal Ingot
+2gregtech/gt.metaitem.02-29500.pngFlawless Diamond\nC
+4ThaumicTinkerer/kamiResource-6.pngNether Shard
+2ThaumicTinkerer/kamiResource-7.pngEnder Shard
+2minecraft/ender_eye-0.pngEye of Ender
+2ConsumeThaumcraft/ItemEssence-1-alienis.pngPhial of Essentia\nAlienis x 8
+4Thaumcraft/ItemEssence-1-permutatio.pngPhial of Essentia\nPermutatio x 8
+4Thaumcraft/ItemEssence-1-praecantatio.pngPhial of Essentia\nPraecantatio x 8
+2Thaumcraft/ItemEssence-1-sano.pngPhial of Essentia\nSano x 8
+2

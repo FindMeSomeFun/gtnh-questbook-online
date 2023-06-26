@@ -1,1 +1,8 @@
-286"Armor"This new metal, it's so... appealing. You feel comfortable while holding it, so why not get yourself some armor? What could go wrong? It will surely protect you.ANDpreRequThaumcraft/blockEssentiaReservoir~0Quest Name For 287287rewardsItemThaumcraft/ItemLootBag~1Item Name4Itemdreamcraft/item.CoinSurvivorII~0Item Name1dreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/ItemHelmetVoidFortress~0Thaumcraft/ItemHelmetVoidFortress~0 Name1Thaumcraft/ItemChestplateVoidFortress~0Thaumcraft/ItemChestplateVoidFortress~0 Name1Thaumcraft/ItemLeggingsVoidFortress~0Thaumcraft/ItemLeggingsVoidFortress~0 Name1
+Thaumcraft/ItemHelmetVoidFortress-0.png"Armor"This new metal, it's so... appealing. You feel comfortable while holding it, so why not get yourself some armor? What could go wrong? It will surely protect you.1-1ANDpre2871Thaumcraft/blockEssentiaReservoir-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+4Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalThaumcraft/ItemHelmetVoidFortress-0.pngVoid Thaumaturge Hood\nVis discount: 5%\nWarping 2\nProtection: 3\nDurability: 110/110
+1Thaumcraft/ItemChestplateVoidFortress-0.pngVoid Thaumaturge Robe\nVis discount: 5%\nWarping 2\nProtection: 7\nDurability: 160/160
+1Thaumcraft/ItemLeggingsVoidFortress-0.pngVoid Thaumaturge Leggings\nVis discount: 5%\nWarping 2\nProtection: 6\nDurability: 150/150
+1

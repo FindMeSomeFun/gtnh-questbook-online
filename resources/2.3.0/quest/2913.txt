@@ -1,1 +1,3 @@
-2913Sticky MatterCan't find any Rubber Trees? Can't build a water tank? Too lazy to make a tree tap?  Buy a stack of sticky resin for some coins.ANDpreRequminecraft/iron_ingot~0Quest Name For 3737rewardsItemIC2/itemHarz~0Item Name64tasksANDRetrievaldreamcraft/item.CoinAdventure~0dreamcraft/item.CoinAdventure~0 Name50
+IC2/itemHarz-0.pngSticky MatterCan't find any Rubber Trees? Can't build a water tank? Too lazy to make a tree tap?  Buy a stack of sticky resin for some coins.018000ANDpre371minecraft/iron_ingot-0.pngrewardsItemIC2/itemHarz-0.pngSticky Resin
+64tasksANDConsumedreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+50

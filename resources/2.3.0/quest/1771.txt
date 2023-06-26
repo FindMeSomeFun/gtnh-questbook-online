@@ -1,1 +1,3 @@
-1771Purchase CablesI'll sell you 16 cables for two bitcoins.ANDpreRequmiscutils/itemGenericToken~0Quest Name For 17651765rewardsItemOpenComputers/cable~32767Item Name16tasksANDRetrievalmiscutils/itemGenericToken~0miscutils/itemGenericToken~0 Name2
+OpenComputers/cable-32767.pngPurchase CablesI'll sell you 16 cables for two bitcoins.072000ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/cable-32767.pngCable\nA cheap way of connecting blocks. \nHold [NONE] for material costs.
+16tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+2

@@ -1,1 +1,5 @@
-109Cart Modules: FarmingUnfortunately, the basic farmer can't farm anything besides wheat, carrots and potatoes. It's not expensive at all, and probably the cheapest solution to give your automated food production a nice boost.ANDpreRequStevesCarts/CartModule~38Quest Name For 111111rewardsItemStevesCarts/ModuleComponents~9Item Name2Itemdreamcraft/item.CoinFarmer~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalStevesCarts/CartModule~14StevesCarts/CartModule~14 Name1
+StevesCarts/CartModule-14.pngCart Modules: FarmingUnfortunately, the basic farmer can't farm anything besides wheat, carrots and potatoes. It's not expensive at all, and probably the cheapest solution to give your automated food production a nice boost.0-1ANDpre1110StevesCarts/CartModule-38.pngrewardsItemStevesCarts/ModuleComponents-9.pngSimple PCB
+2Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalStevesCarts/CartModule-14.pngBasic Farmer\nModular cost: 36\nDurability: 100%\nType: Tool
+1

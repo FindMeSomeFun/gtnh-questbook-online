@@ -1,7 +1,11 @@
-502A New HomeNow that you've destroyed the poor bees' homes, you should build them a new one. The humble Bee House will not let your bees mutate into new species. But you'll need the combs anyways for better housing. The production rate isn't too bad, but they cannot be automated.
+Forestry/apiculture-2.pngA New HomeNow that you've destroyed the poor bees' homes, you should build them a new one. The humble Bee House will not let your bees mutate into new species. But you'll need the combs anyways for better housing. The production rate isn't too bad, but they cannot be automated.
 
 One tip - Put some vanilla saplings near the Bee Houses. Bee Houses give a natural boost of 3x to pollination vs better housing. The bees will pollinate them and you might get lucky and start getting some Forestry tree crossbreeding. Stick with Oak and Birch trees, they'll give you a nice mix of starter Forestry trees.
 
 Of course, if you do this without taking precautions, you may find yourself swarmed by laggy butterflies...
 
-You may also notice that bees with the 'flower' type flower spread flowers. This can be used to get, say, lavender, among others. If you don't like them spreading them everywhere, replace the dirt/grass blocks, remove the trait, or reduce the pollination speed/territory.ANDpreRequForestry/frameUntreated~0Quest Name For 11121112rewardsItemenhancedlootbags/lootbag~25Item Name1Forestry/beeCombs~4Item Name1Itemdreamcraft/item.CoinBees~0Item Name25tasksANDRetrievalForestry/apiculture~2Forestry/apiculture~2 Name1
+You may also notice that bees with the 'flower' type flower spread flowers. This can be used to get, say, lavender, among others. If you don't like them spreading them everywhere, replace the dirt/grass blocks, remove the trait, or reduce the pollination speed/territory.0-1ANDpre11120Forestry/frameUntreated-0.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Forestry/beeCombs-4.pngFrozen Comb
+1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDRetrievalForestry/apiculture-2.pngBee House
+1

@@ -1,5 +1,9 @@
-1396Wand Focus Dark MatterWand Focus: Dark Matter allows the player to cast the projectiles Eldritch Guardians cast. Can be upgraded with Potency, Frugal, Sanity, Diffusion and Corrosive. For each projectile cast the player will get Temporary Warp. This will not happen if the focus is enchanted with Sanity. Enchanting the focus with Diffusion will change its firing mode from single projectiles to short-range black gas which acts as a flamethrower.
+TaintedMagic/ItemFocusEldritch-0.pngWand Focus Dark MatterWand Focus: Dark Matter allows the player to cast the projectiles Eldritch Guardians cast. Can be upgraded with Potency, Frugal, Sanity, Diffusion and Corrosive. For each projectile cast the player will get Temporary Warp. This will not happen if the focus is enchanted with Sanity. Enchanting the focus with Diffusion will change its firing mode from single projectiles to short-range black gas which acts as a flamethrower.
 
 Each cast costs 0.2 Ignis + 0.2 Perditio. With Corrosive each cast will cost additionally 0.2 Aqua + 0.3 Ignis
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/ItemEldritchObject~3Quest Name For 284284Thaumcraft/FocusPortableHole~0Quest Name For 13781378rewardsItemenhancedlootbags/lootbag~11Item Name1Thaumcraft/ItemLootBag~2Item Name2Itemdreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalTaintedMagic/ItemFocusEldritch~0TaintedMagic/ItemFocusEldritch~0 Name1
+This focus can be upgraded at the Focal Manipulator.0-1ANDpre2841Thaumcraft/ItemEldritchObject-3.png13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalTaintedMagic/ItemFocusEldritch-0.pngWand Focus: Dark Matter\nVis per cast\n Aer x 1.5\n Ignis x 2.5\n Perditio x 2.5\n150 Attack Damage (When Equipped)\nStaff gives x1.5 Damage
+1

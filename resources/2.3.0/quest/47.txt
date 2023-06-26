@@ -1,1 +1,5 @@
-47§3§lUpgrade: High Speed AlloysLike most machines, there is a more advanced version of the alloy smelter. Keep in mind that this machine uses a lot of steam, so you better get some more boilers first.ANDpreRequgregtech/gt.blockmachines~118Quest Name For 4646gregtech/gt.blockmachines~140Quest Name For 7676gregtech/gt.metaitem.01~11304Quest Name For 948948rewardsChoicegregtech/gt.metaitem.01~11304Choice Name3enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDCraftinggregtech/gt.blockmachines~119gregtech/gt.blockmachines~119 Name1
+gregtech/gt.blockmachines-119.png§3§lUpgrade: High Speed AlloysLike most machines, there is a more advanced version of the alloy smelter. Keep in mind that this machine uses a lot of steam, so you better get some more boilers first.0-1ANDpre461gregtech/gt.blockmachines-118.png761gregtech/gt.blockmachines-140.png9481gregtech/gt.metaitem.01-11304.pngrewardsChoicegregtech/gt.metaitem.01-11304.pngWrought Iron Ingot\nFe
+3enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDCraftinggregtech/gt.blockmachines-119.pngHigh Pressure Alloy Smelter\nCombination Smelter
+1

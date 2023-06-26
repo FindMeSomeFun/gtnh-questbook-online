@@ -1,1 +1,10 @@
-857§9§lFormaldehydeCombining Oxygen and Methanol along with a Formaldehyde Catalyst in a Chemical Plant produces some Formaldehyde.ANDpreRequmiscutils/item.BasicGenericChemItem~13Quest Name For 23952395rewardsChoicegregtech/gt.metaitem.01~30673Choice Name8IC2/itemCellEmpty~0Choice Name16enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5tasksANDOptionalmiscutils/item.BasicGenericChemItem~13miscutils/item.BasicGenericChemItem~13 Name1gregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name32gregtech/gt.metaitem.01~30673gregtech/gt.metaitem.01~30673 Name32Optionalmiscutils/Formaldehyde~0miscutils/Formaldehyde~0 Name32Checkboxcheckbox  
+miscutils/Formaldehyde-0.png§9§lFormaldehydeCombining Oxygen and Methanol along with a Formaldehyde Catalyst in a Chemical Plant produces some Formaldehyde.0-1ANDpre23950miscutils/item.BasicGenericChemItem-13.pngrewardsChoicegregtech/gt.metaitem.01-30673.pngMethanol Cell\nCH\u2084O
+8IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalmiscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst\nActive Reaction Agent\n50 / 50
+1gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+32gregtech/gt.metaitem.01-30673.pngMethanol Cell\nCH\u2084O
+32Optionalmiscutils/Formaldehyde-0.pngFormaldehyde Cell
+32Checkboxcheckbox-.pngCheckbox
+1

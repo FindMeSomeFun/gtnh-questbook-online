@@ -1,1 +1,5 @@
-1478§6§lYou're Gonna Hate This in MV Too #5The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc.ANDpreRequgregtech/gt.metaitem.01~32601Quest Name For 18671867rewardsItemminecraft/ender_pearl~0Item Name8enhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~32681gregtech/gt.metaitem.01~32681 Name1
+gregtech/gt.metaitem.01-32681.png§6§lYou're Gonna Hate This in MV Too #5The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc.1-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-32681.pngEmitter
+1

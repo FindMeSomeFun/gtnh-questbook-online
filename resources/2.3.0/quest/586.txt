@@ -1,1 +1,4 @@
-586§3§lWelcome to ForestryWant to make some automated farms or work with tree or bee breeding? Want the Forestry Worktable for easier recipe access? Then this is the right chapter for you. You'll need a bookshelf to unlock it, better rev up that compressor.ANDpreRequminecraft/book~0Quest Name For 10081008rewardsItemForestry/honeyedSlice~0Item Name2Itemdreamcraft/item.CoinForestry~0Item Name30tasksANDRetrievalminecraft/bookshelf~0minecraft/bookshelf~0 Name1
+minecraft/bookshelf-0.png§3§lWelcome to ForestryWant to make some automated farms or work with tree or bee breeding? Want the Forestry Worktable for easier recipe access? Then this is the right chapter for you. You'll need a bookshelf to unlock it, better rev up that compressor.1-1ANDpre10081minecraft/book-0.pngrewardsItemForestry/honeyedSlice-0.pngHoneyed Slice\nForestry:honeyedSlice\nDiminishing returns start after\neating any food 10 more times
+2Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+30tasksANDRetrievalminecraft/bookshelf-0.pngBookshelf\nEnchantment Power: 1.0\nBurn Time: 300
+1

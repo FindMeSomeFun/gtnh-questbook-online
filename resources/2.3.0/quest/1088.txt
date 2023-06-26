@@ -1,1 +1,11 @@
-1088Fried EggsSo easy, skillet and an egg.... fried egg.ANDpreRequharvestcraft/potItem~0Quest Name For 665665rewardsChoiceharvestcraft/butterItem~0Choice Name4minecraft/egg~0Choice Name4gregtech/gt.metaitem.01~2817Choice Name4harvestcraft/flourItem~0Choice Name8enhancedlootbags/lootbag~29Choice Name1Itemdreamcraft/item.CoinCook~0Item Name15dreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalharvestcraft/skilletItem~0harvestcraft/skilletItem~0 Name1minecraft/egg~0minecraft/egg~0 Name4Retrievalharvestcraft/friedeggItem~0harvestcraft/friedeggItem~0 Name4
+harvestcraft/friedeggItem-0.pngFried EggsSo easy, skillet and an egg.... fried egg.0-1ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceharvestcraft/butterItem-0.pngButter
+4minecraft/egg-0.pngEgg
+4gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
+4harvestcraft/flourItem-0.pngFlour
+8enhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalharvestcraft/skilletItem-0.pngSkillet
+1minecraft/egg-0.pngEgg
+4Retrievalharvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem\nDiminishing returns start after\neating any food 10 more times
+4

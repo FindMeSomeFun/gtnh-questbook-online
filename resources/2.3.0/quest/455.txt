@@ -1,1 +1,2 @@
-455Trigger Unknown CrystalTriggered by finding a "Mysterious Crystal".ANDpreRequGalaxySpace/enceladusblocks~2Quest Name For 377377rewardstasksANDRetrievalGalaxySpace/item.UnknowCrystal~0GalaxySpace/item.UnknowCrystal~0 Name1
+minecraft/lever-0.pngTrigger Unknown CrystalTriggered by finding a "Mysterious Crystal".0-1ANDpre3770GalaxySpace/enceladusblocks-2.pngrewardstasksANDRetrievalGalaxySpace/item.UnknowCrystal-0.pngUnknown Crystal Shard
+1

@@ -1,4 +1,4 @@
-2333§2§lHow to Open Your Wooden Doors?Wooden doors make your House safer. Let's craft some wooden Pressure plates and Buttons to open these Doors.
+minecraft/wooden_pressure_plate-0.png§2§lHow to Open Your Wooden Doors?Wooden doors make your House safer. Let's craft some wooden Pressure plates and Buttons to open these Doors.
 
 Doors will open when they receive a redstone signal, and close again after it stops. If you place the plates on either side of a door, it will open when you step on it. Or a monster does. Double doors will open together.
 
@@ -8,4 +8,15 @@ You'll need to use Oak for this quest. Purchase some saplings from the Coins tab
 
 Buttons will emit one for about 2s before resetting.
 
-Levers will emit a signal until switched back off. ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636minecraft/wooden_door~0Quest Name For 17901790rewardsChoiceenhancedlootbags/lootbag~1Choice Name1minecraft/wooden_door~0Choice Name1minecraft/wooden_button~0Choice Name8minecraft/wooden_pressure_plate~0Choice Name4Itemdreamcraft/item.CoinSmith~0Item Name5dreamcraft/item.CoinTechnician~0Item Name5tasksANDOptionalminecraft/wooden_slab~0minecraft/wooden_slab~0 Name5gregtech/gt.metaitem.01~27809gregtech/gt.metaitem.01~27809 Name20gregtech/gt.metaitem.02~24032gregtech/gt.metaitem.02~24032 Name5Retrievalminecraft/wooden_pressure_plate~0minecraft/wooden_pressure_plate~0 Name10Retrievalminecraft/wooden_button~0minecraft/wooden_button~0 Name10
+Levers will emit a signal until switched back off. 0-1ANDpre361gregtech/gt.metatool.01-16.png17900minecraft/wooden_door-0.pngrewardsChoiceenhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1minecraft/wooden_door-0.pngWooden Door\nBurn Time: 600
+1minecraft/wooden_button-0.pngButton\nBurn Time: 150
+8minecraft/wooden_pressure_plate-0.pngPressure Plate\nBurn Time: 75
+4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab\nBurn Time: 150
+5gregtech/gt.metaitem.01-27809.pngWood Screw
+20gregtech/gt.metaitem.02-24032.pngIron Spring\nFe
+5Retrievalminecraft/wooden_pressure_plate-0.pngPressure Plate\nBurn Time: 75
+10Retrievalminecraft/wooden_button-0.pngButton\nBurn Time: 150
+10

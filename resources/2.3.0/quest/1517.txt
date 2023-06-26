@@ -1,1 +1,5 @@
-1517§9§lNeed a Place For All Those Ores?How about a compressed chest from Avaritia? This 243 slot chest will hold it's contents when broken, so no need for a slow-inducing dolly!ANDpreRequgregtech/gt.blockmachines~681Quest Name For 932932rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5dreamcraft/item.CoinSmithI~0Item Name5tasksANDRetrievalavaritiaddons/CompressedChest~0avaritiaddons/CompressedChest~0 Name1
+avaritiaddons/CompressedChest-0.png§9§lNeed a Place For All Those Ores?How about a compressed chest from Avaritia? This 243 slot chest will hold it's contents when broken, so no need for a slow-inducing dolly!0-1ANDpre9320gregtech/gt.blockmachines-681.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5tasksANDRetrievalavaritiaddons/CompressedChest-0.pngCompressed Chest\n0 of 243\nBurn Time: 300
+1

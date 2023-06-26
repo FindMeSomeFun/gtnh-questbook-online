@@ -1,1 +1,4 @@
-2957Nuclear Based Fuel (U)Provides 12,960EU/t output lasting 5s per mB.ANDpreRequbartworks/gt.bwMetaGeneratedcell~10007Quest Name For 29562956rewardsChoicebartworks/gt.bwMetaGeneratedcell~10003Choice Name2bartworks/gt.bwMetaGeneratedcell~10002Choice Name4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell~10003bartworks/gt.bwMetaGeneratedcell~10003 Name1
+bartworks/gt.bwMetaGeneratedcell-10003.pngNuclear Based Fuel (U)Provides 12,960EU/t output lasting 5s per mB.0-1ANDpre29560bartworks/gt.bwMetaGeneratedcell-10007.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10003.pngUranium Based Liquid Fuel\n*(U\u2083\u2086K\u2088Qt\u2084Rn)*\nAdded by Good Generator via BartWorks
+2bartworks/gt.bwMetaGeneratedcell-10002.pngUranium Based Liquid Fuel Cell\nU\u2083\u2086K\u2088Qt\u2084Rn\nAdded by Good Generator via BartWorks
+4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10003.pngUranium Based Liquid Fuel\n*(U\u2083\u2086K\u2088Qt\u2084Rn)*\nAdded by Good Generator via BartWorks
+1

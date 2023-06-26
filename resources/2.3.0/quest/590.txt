@@ -1,5 +1,17 @@
-590Multifarm: ValveMost farms require water for hydration purposes. Although you can do it manually by supplying it through liquid containers (such as cans), you can also automate the process by using farm valves.
+Forestry/ffarm-4.pngMultifarm: ValveMost farms require water for hydration purposes. Although you can do it manually by supplying it through liquid containers (such as cans), you can also automate the process by using farm valves.
 
 By connecting fluid pipes into the farm valve and supplying water, you can automatically fill the farm's water tank.
 
-If it hasn't rained for a while, the required water will go up, up to 1500%. Use an Everfull Urn, or Reservoir (RIO) for serious water needs.ANDpreRequForestry/ffarm~0Quest Name For 582582rewardsChoiceForestry/thermionicTubes~10Choice Name4Forestry/thermionicTubes~11Choice Name4Forestry/thermionicTubes~3Choice Name4enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDOptionalForestry/ffarm~0Forestry/ffarm~0 Name1gregtech/gt.metaitem.01~32610gregtech/gt.metaitem.01~32610 Name2gregtech/gt.metaitem.01~32600gregtech/gt.metaitem.01~32600 Name1gregtech/gt.metaitem.01~28880gregtech/gt.metaitem.01~28880 Name1Forestry/thermionicTubes~11Forestry/thermionicTubes~11 Name4gregtech/gt.metaitem.02~31305gregtech/gt.metaitem.02~31305 Name1RetrievalForestry/ffarm~4Forestry/ffarm~4 Name2
+If it hasn't rained for a while, the required water will go up, up to 1500%. Use an Everfull Urn, or Reservoir (RIO) for serious water needs.0-1ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
+4Forestry/thermionicTubes-11.pngLapis Electron Tube
+4Forestry/thermionicTubes-3.pngIron Electron Tube
+4enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDOptionalForestry/ffarm-0.pngFarm Block\nStone Bricks
+1gregtech/gt.metaitem.01-32610.pngElectric Pump\n32 L/t (640 L/s) as Cover
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1gregtech/gt.metaitem.01-28880.pngRubber Ring\nC\u2085H\u2088
+1Forestry/thermionicTubes-11.pngLapis Electron Tube
+4gregtech/gt.metaitem.02-31305.pngSteel Gear\nFe\u2085\u2080C
+1RetrievalForestry/ffarm-4.pngFarm Valve\nStone Bricks
+2

@@ -1,3 +1,8 @@
-23§2§lSomething to Carry LiquidsYou tried to move water with your bare hands, which didn't work at all. Luckily, you remember how to make a bucket out of clay dust.
+IguanaTweaksTConstruct/clayBucketUnfired-0.png§2§lSomething to Carry LiquidsYou tried to move water with your bare hands, which didn't work at all. Luckily, you remember how to make a bucket out of clay dust.
 
-Put it in a mortar to get small clay dust which can be crafted to clay dust.ANDpreRequgregtech/gt.metatool.01~24Quest Name For 1919minecraft/clay_ball~0Quest Name For 2121rewardsChoiceharvestcraft/peanutbuttercookiesItem~0Choice Name4harvestcraft/raisincookiesItem~0Choice Name4Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDCraftingIguanaTweaksTConstruct/clayBucketUnfired~0IguanaTweaksTConstruct/clayBucketUnfired~0 Name1RetrievalIguanaTweaksTConstruct/clayBucketFired~0IguanaTweaksTConstruct/clayBucketFired~0 Name1
+Put it in a mortar to get small clay dust which can be crafted to clay dust.1-1ANDpre191gregtech/gt.metatool.01-24.png211minecraft/clay_ball-0.pngrewardsChoiceharvestcraft/peanutbuttercookiesItem-0.pngPeanut Butter Cookies\nharvestcraft:peanutbuttercookiesItem\nDiminishing returns start after\neating any food 10 more times
+4harvestcraft/raisincookiesItem-0.pngRaisin Cookies\nharvestcraft:raisincookiesItem\nDiminishing returns start after\neating any food 10 more times
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDCraftingIguanaTweaksTConstruct/clayBucketUnfired-0.pngUnfired Clay Bucket
+1RetrievalIguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucket
+1

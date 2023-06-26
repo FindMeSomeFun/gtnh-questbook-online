@@ -1,1 +1,5 @@
-1594Spinning Your DreamsYou need the spinning wheel for the fanciful thread to finally make the Potion of Flowing Spirit.ANDpreRequdreamcraft/item.CoinWitchII~0Quest Name For 338338rewardsItemwitchery/spinningwheel~0Item Name1tasksANDRetrievalwitchery/spinningwheel~0witchery/spinningwheel~0 Name1LocationDIM55DIM55 Name Retrievaldreamcraft/item.CoinWitchII~0dreamcraft/item.CoinWitchII~0 Name5
+witchery/spinningwheel-0.pngSpinning Your DreamsYou need the spinning wheel for the fanciful thread to finally make the Potion of Flowing Spirit.0-1ANDpre3380dreamcraft/item.CoinWitchII-0.pngrewardsItemwitchery/spinningwheel-0.pngSpinning Wheel\nBurn Time: 300
+1tasksANDConsumewitchery/spinningwheel-0.pngSpinning Wheel\nBurn Time: 300
+1LocationDIM/55-.pngSpirit World
+1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5

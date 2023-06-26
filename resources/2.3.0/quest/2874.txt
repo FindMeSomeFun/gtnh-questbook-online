@@ -1,4 +1,4 @@
-2874§1§lLoading the ChunksIn this, like many packs, you'll want to have things in your base keep running while you're off exploring. §3(Though admittedly once you reach midgame you'll spend almost no time off-base, you'll still want to make sure everything is still chunkloaded just in case to prevent machine explosions, especially for multiblocks)§r
+dreamcraft/item.CoinChunkloaderTierI-0.png§1§lLoading the ChunksIn this, like many packs, you'll want to have things in your base keep running while you're off exploring. §3(Though admittedly once you reach midgame you'll spend almost no time off-base, you'll still want to make sure everything is still chunkloaded just in case to prevent machine explosions, especially for multiblocks)§r
 
 In order to have things keep running, you need to have the chunks loaded. You can do this in a few ways.
 
@@ -10,4 +10,6 @@ In order to have things keep running, you need to have the chunks loaded. You ca
 
 4) Use Chunkloader from GT++. You need EU instead of Ender Pearls.
 
-5) Use one of the blocks that chunkloads itself. If you do this on a server, expect the admins to possibly get very mad with you if it's not something you're allowed to do. Same for vanilla methods.ANDpreRequminecraft/wheat~0Quest Name For 00rewardsItemminecraft/cookie~0Item Name1tasksANDCheckboxcheckbox  
+5) Use one of the blocks that chunkloads itself. If you do this on a server, expect the admins to possibly get very mad with you if it's not something you're allowed to do. Same for vanilla methods.0-1ANDpre01minecraft/wheat-0.pngrewardsItemminecraft/cookie-0.pngCookie\nminecraft:cookie\nDiminishing returns start after\neating any food 10 more times
+1tasksANDCheckboxcheckbox-.pngCheckbox
+1

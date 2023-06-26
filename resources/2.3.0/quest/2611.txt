@@ -1,1 +1,6 @@
-2611You Cant Get Enough of This Pt 1 in ZPMYou know what to do.ANDpreRequgregtech/gt.blockmachines~17Quest Name For 26102610rewardstasksANDRetrievalgregtech/gt.metaitem.01~32607gregtech/gt.metaitem.01~32607 Name1gregtech/gt.metaitem.01~32646gregtech/gt.metaitem.01~32646 Name1gregtech/gt.metaitem.01~32636gregtech/gt.metaitem.01~32636 Name1gregtech/gt.metaitem.01~32616gregtech/gt.metaitem.01~32616 Name1gregtech/gt.metaitem.01~32656gregtech/gt.metaitem.01~32656 Name1
+gregtech/gt.metaitem.01-32656.pngYou Cant Get Enough of This Pt 1 in ZPMYou know what to do.1-1ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32607.pngElectric Motor
+1gregtech/gt.metaitem.01-32646.pngElectric Piston
+1gregtech/gt.metaitem.01-32636.pngConveyor Module\n4 stacks every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32616.pngElectric Pump\n131,072 L/t (2,621,440 L/s) as Cover
+1gregtech/gt.metaitem.01-32656.pngRobot Arm\nCannot be used as a Cover
+1

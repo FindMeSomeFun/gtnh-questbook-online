@@ -1,1 +1,2 @@
-2811§9§lKinetic Water Power LuVThis is the LuV version.ANDpreRequgregtech/gt.metaitem.01~32655Quest Name For 14891489compactkineticgenerators/BlockCkg~5Quest Name For 28092809rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~6compactkineticgenerators/BlockCkg~6 Name1
+compactkineticgenerators/BlockCkg-6.png§9§lKinetic Water Power LuVThis is the LuV version.0-1ANDpre14891gregtech/gt.metaitem.01-32655.png28090compactkineticgenerators/BlockCkg-5.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-6.pngHigh Kinetic Water Generator\nPower Output: 0-64.0x KU/t max
+1

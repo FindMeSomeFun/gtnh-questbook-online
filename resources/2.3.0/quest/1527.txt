@@ -1,3 +1,8 @@
-1527§6§lCaging a Demon - Wither Killing ChamberEver wanted to trap a wither but the only option was non movable bedrock? Now that you've made dark steel you can get reinforced obsidian which is wither-proof. Useful for manual killing and even automation once you get a powered spawner supplying you with wither skeleton skulls.
+EnderIO/blockReinforcedObsidian-0.png§6§lCaging a Demon - Wither Killing ChamberEver wanted to trap a wither but the only option was non movable bedrock? Now that you've made dark steel you can get reinforced obsidian which is wither-proof. Useful for manual killing and even automation once you get a powered spawner supplying you with wither skeleton skulls.
 
-§3Hint: Unlike vanilla obsidian, reinforced obsidian CAN be moved by pistons which might come in handy.ANDpreRequEnderIO/itemAlloy~6Quest Name For 138138rewardsChoiceenhancedlootbags/lootbag~5Choice Name1minecraft/skull~1Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name3dreamcraft/item.CoinSmithI~0Item Name2tasksANDRetrievalEnderIO/blockReinforcedObsidian~0EnderIO/blockReinforcedObsidian~0 Name32
+§3Hint: Unlike vanilla obsidian, reinforced obsidian CAN be moved by pistons which might come in handy.0-1ANDpre1380EnderIO/itemAlloy-6.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1minecraft/skull-1.pngWither Skeleton Skull\nMay work as an Infusion Stabilizer\nApplicable up to: 07-Cobalt
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+3dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+2tasksANDRetrievalEnderIO/blockReinforcedObsidian-0.pngReinforced Obsidian\nWither Proof
+32

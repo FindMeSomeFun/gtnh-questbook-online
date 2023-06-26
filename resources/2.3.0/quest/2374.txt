@@ -1,4 +1,4 @@
-2374Infestation RemedyInfestation Remedy is a drinkable item used to shorten effects of the Infestation.
+HardcoreEnderExpansion/infestation_remedy-0.pngInfestation RemedyInfestation Remedy is a drinkable item used to shorten effects of the Infestation.
 
 Obtaining:
 The Infestation Remedy is brewed in an Enhanced Brewing Stand, using Silverfish Blood as the brewing ingredient and an Awkward Potion.
@@ -6,4 +6,12 @@ The Infestation Remedy is brewed in an Enhanced Brewing Stand, using Silverfish 
 Usage:
 When drank, the remedy will shorten each of the Infestation effects by 150 to 180 seconds.
 
-You can make splash potions with gunpowder and 3 more End Powder as well.ANDpreRequHardcoreEnderExpansion/enhanced_brewing_stand~0Quest Name For 23542354HardcoreEnderExpansion/silverfish_blood~0Quest Name For 23732373rewardsItemHardcoreEnderExpansion/silverfish_blood~0Item Name4enhancedlootbags/lootbag~58Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2dreamcraft/item.CoinChemistII~0Item Name2tasksANDOptionalminecraft/potion~16minecraft/potion~16 Name3HardcoreEnderExpansion/silverfish_blood~0HardcoreEnderExpansion/silverfish_blood~0 Name1HardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name16RetrievalHardcoreEnderExpansion/infestation_remedy~0HardcoreEnderExpansion/infestation_remedy~0 Name3
+You can make splash potions with gunpowder and 3 more End Powder as well.0-1ANDpre23540HardcoreEnderExpansion/enhanced_brewing_stand-0.png23730HardcoreEnderExpansion/silverfish_blood-0.pngrewardsItemHardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+4enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2tasksANDOptionalminecraft/potion-16.pngAwkward Potion\nNo Effects
+3HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+16RetrievalHardcoreEnderExpansion/infestation_remedy-0.pngInfestation Remedy
+3

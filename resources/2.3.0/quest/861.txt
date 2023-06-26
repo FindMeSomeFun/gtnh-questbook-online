@@ -1,1 +1,6 @@
-861§a§lTungstensteelTungstensteel is needed in all machines for the next tier. Can you get enough to advance?ANDpreRequgregtech/gt.blockcasings5~3Quest Name For 8686gregtech/gt.blockores~4841Quest Name For 18911891rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.metaitem.01~11316gregtech/gt.metaitem.01~11316 Name64
+gregtech/gt.metaitem.01-11316.png§a§lTungstensteelTungstensteel is needed in all machines for the next tier. Can you get enough to advance?1-1ANDpre861gregtech/gt.blockcasings5-3.png18911gregtech/gt.blockores-4841.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalgregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+64

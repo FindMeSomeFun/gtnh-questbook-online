@@ -1,5 +1,14 @@
-1156§3§lWooden BoltsYour crossbow need some ammo to shoot with. Let's craft some wooden bolts. For now, you can put either iron, alumite, or steel on the tip of your bolts using the Smeltery. For higher tier bolts and tips you will need to pump metals into a Fluid Solidifier with the correct tool rod inserted.
+TConstruct/BoltAmmo-0-188.png§3§lWooden BoltsYour crossbow need some ammo to shoot with. Let's craft some wooden bolts. For now, you can put either iron, alumite, or steel on the tip of your bolts using the Smeltery. For higher tier bolts and tips you will need to pump metals into a Fluid Solidifier with the correct tool rod inserted.
 
 §4For upgrades
 §3Nether Quartz - More damage
-Moss - Self-Repair (unlock in GTNH Thaumcraft tab)ANDpreRequTConstruct/Crossbow~0Quest Name For 11511151rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalTConstruct/woodPattern~1TConstruct/woodPattern~1 Name1TConstruct/woodPattern~24TConstruct/woodPattern~24 Name1OptionalTConstruct/toolRod~0TConstruct/toolRod~0 Name1TConstruct/fletching~0TConstruct/fletching~0 Name1OptionalTConstruct/BoltPart~0TConstruct/BoltPart~0 Name1RetrievalTConstruct/BoltAmmo~0TConstruct/BoltAmmo~0 Name1
+Moss - Self-Repair (unlock in GTNH Thaumcraft tab)0-1ANDpre11510TConstruct/Crossbow-0-38.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalTConstruct/woodPattern-1.pngTool Rod Pattern\nMaterial Cost: 0.5
+1TConstruct/woodPattern-24.pngFletching Pattern\nMaterial Cost: 1
+1OptionalTConstruct/toolRod-0.pngWooden Tool Rod\nDurability Modifier: 1x\nParts can be replaced
+1TConstruct/fletching-0.pngFeather Fletching\nDurability: 1x\nBreak Chance: 5%\nAccuracy: 95%\nParts can be replaced
+1OptionalTConstruct/BoltPart-0-2.pngWooden Bolt\nDurability: 38\nBreak Chance: 50%\nWeight: 0.69\nParts can be replaced
+1RetrievalTConstruct/BoltAmmo-0-188.pngIron Bolts\nReinforced I\nTool Level: 01-Abused\n+3 Attack Damage
+1

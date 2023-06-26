@@ -1,1 +1,7 @@
-2979§5§6§l§5§lAluminium TankIf you make some Double Aluminium Plates, you can make a new 96,000L single block tank.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103rewardsItemirontank/diamondEmeraldUpgrade~0Item Name1enhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~18019gregtech/gt.metaitem.01~18019 Name1BuildCraftFactory/tankBlock~0BuildCraftFactory/tankBlock~0 Name1Retrievalirontank/emeraldTank~0irontank/emeraldTank~0 Name1
+irontank/emeraldTank-0.png§5§6§l§5§lAluminium TankIf you make some Double Aluminium Plates, you can make a new 96,000L single block tank.0-1ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemirontank/diamondEmeraldUpgrade-0.pngDiamond to Aluminium Tank Upgrade
+1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-18019.pngDouble Aluminium Plate\nAl
+1BuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
+1Retrievalirontank/emeraldTank-0.pngAluminium Tank\nGlass-Tier: HV\nStores up to 96 Buckets of one Liquid Not portable, use a dolly
+1

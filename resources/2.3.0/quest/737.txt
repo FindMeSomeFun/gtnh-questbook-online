@@ -1,4 +1,4 @@
-737Can u eat those?No you can't eat them but you can add them to your routed pipes. Without chips routed pipes can't do anything on their own, chips also have a GUI to configure them which can be opened by right clicking. 
+ProjRedCore/projectred.core.drawplate-44.pngCan u eat those?No you can't eat them but you can add them to your routed pipes. Without chips routed pipes can't do anything on their own, chips also have a GUI to configure them which can be opened by right clicking. 
 There are 8 types of chips:
 
 -Item extractor chip can be used to send items from its inventory to responder, dynamic responder, terminator and overflow responder chips in a pipe network. 
@@ -17,4 +17,9 @@ There are 8 types of chips:
 
 -Item crafting chips craft things. 
 
--Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.ANDpreRequProjRedTransportation/projectred.transportation.routingchip~0Quest Name For 127127rewardsChoiceIC2/itemPartCircuit~0Choice Name2ProjRedCore/projectred.core.part~0Choice Name2enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedCore/projectred.core.part~44ProjRedCore/projectred.core.part~44 Name4
+-Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.0-1ANDpre1270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceIC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
+2ProjRedCore/projectred.core.part-0.pngCircuit Plate
+2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
+4

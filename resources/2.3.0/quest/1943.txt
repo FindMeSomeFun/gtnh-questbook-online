@@ -1,1 +1,11 @@
-1943Fun Party BlocksThere's also some really funky blocks available. ANDpreRequchisel/obsidianChisel~0Quest Name For 19351935rewardsItemIC2/itemCellEmpty~2Item Name4tasksANDRetrievalchisel/warningSign~6chisel/warningSign~6 Name1chisel/obsidian_snakestone~1chisel/obsidian_snakestone~1 Name1chisel/jackolantern16~0chisel/jackolantern16~0 Name1Retrievalchisel/technical3~0chisel/technical3~0 Name9chisel/laboratoryblock~0chisel/laboratoryblock~0 Name1chisel/hexPlating~0chisel/hexPlating~0 Name1Retrievalchisel/futura~3chisel/futura~3 Name1chisel/futura~4chisel/futura~4 Name1chisel/futuraCircuit~1chisel/futuraCircuit~1 Name1
+chisel/futura-3.pngFun Party BlocksThere's also some really funky blocks available. 0-1ANDpre19350chisel/obsidianChisel-0.pngrewardsItemIC2/itemCellEmpty-2.pngLava Cell\nBurn Time: 20000
+4tasksANDRetrievalchisel/warningSign-6.pngWarning Sign\nDanger of Falling\nMobs cannot Spawn on this Block
+1chisel/obsidian_snakestone-1.pngObsidian Snakestone
+1chisel/jackolantern16-0.pngJack o''Lantern
+1Retrievalchisel/technical3-0.pngIndustrial Technical Block\nI''m a big fan of this massive fan!\nMobs cannot Spawn on this Block
+9chisel/laboratoryblock-0.pngLaboratory Block\nWall Panel\nMobs cannot Spawn on this Block
+1chisel/hexPlating-0.pngHex Plating\nBlack Plating\nMobs cannot Spawn on this Block
+1Retrievalchisel/futura-3.pngFutura Block\nPoptart Rainbow\nMobs cannot Spawn on this Block
+1chisel/futura-4.pngFutura Block\nPurple Applied Labyrinthic Neon Lines\nMobs cannot Spawn on this Block
+1chisel/futuraCircuit-1.pngFutura Circuit\nRed\nMobs cannot Spawn on this Block
+1

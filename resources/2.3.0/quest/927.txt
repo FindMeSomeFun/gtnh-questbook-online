@@ -1,1 +1,8 @@
-927Blood Altar Tier 4If you want to make tier 4 slates you need a Tier 4 altar. This can be made like the tier 3 altar with pillars out of void-blood-soaked stones four blocks high and a blood brick on top of the pillars.ANDpreRequThaumcraft/ItemResource~17Quest Name For 285285AWWayofTime/magicianBloodOrb~0Quest Name For 424424AWWayofTime/weakBloodShard~0Quest Name For 430430rewardsItemAWWayofTime/speedRune~0Item Name8Itemdreamcraft/item.CoinBloodII~0Item Name5tasksANDOptionalAWWayofTime/ritualStone~0AWWayofTime/ritualStone~0 Name4AWWayofTime/weakBloodShard~0AWWayofTime/weakBloodShard~0 Name1thaumicbases/voidBlock~0thaumicbases/voidBlock~0 Name16RetrievalAWWayofTime/largeBloodStoneBrick~0AWWayofTime/largeBloodStoneBrick~0 Name4dreamcraft/tile.BloodyVoid~0dreamcraft/tile.BloodyVoid~0 Name16
+dreamcraft/tile.BloodyVoid-0.pngBlood Altar Tier 4If you want to make tier 4 slates you need a Tier 4 altar. This can be made like the tier 3 altar with pillars out of void-blood-soaked stones four blocks high and a blood brick on top of the pillars.1-1ANDpre2851Thaumcraft/ItemResource-17.png4241AWWayofTime/magicianBloodOrb-0.png4301AWWayofTime/weakBloodShard-0.pngrewardsItemAWWayofTime/speedRune-0.pngSpeed Rune
+8Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+5tasksANDOptionalAWWayofTime/ritualStone-0.pngRitual Stone
+4AWWayofTime/weakBloodShard-0.pngWeak Blood Shard
+1thaumicbases/voidBlock-0.pngVoid metal Block\nMay work as an Infusion Stabilizer
+16RetrievalAWWayofTime/largeBloodStoneBrick-0.pngLarge Bloodstone Brick
+4dreamcraft/tile.BloodyVoid-0.pngBlood-Soaked Void Block\nUsed for Blood Altar Tier 4 Pillars
+16

@@ -1,1 +1,5 @@
-202§c§lAccelerating ThingsIf an ender quarry won't satisfy your needs for MOOORE. A speed upgrade is required.ANDpreRequExtraUtilities/enderQuarry~0Quest Name For 201201rewardsItemenhancedlootbags/lootbag~41Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalExtraUtilities/enderQuarryUpgrade~6ExtraUtilities/enderQuarryUpgrade~6 Name1
+ExtraUtilities/enderQuarryUpgrade-6.png§c§lAccelerating ThingsIf an ender quarry won't satisfy your needs for MOOORE. A speed upgrade is required.0-1ANDpre2010ExtraUtilities/enderQuarry-0.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalExtraUtilities/enderQuarryUpgrade-6.pngEnder Quarry Speed I Upgrade\nPower Drain Multiplier: x1
+1

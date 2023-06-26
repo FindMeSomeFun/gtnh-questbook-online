@@ -1,4 +1,4 @@
-2829More Advanced ReactorsFluid Nukes, Vac Nukes and Wrench Reactors (lol), are more advanced versions of the normal one.
+IC2/blockreactorvessel-0.pngMore Advanced ReactorsFluid Nukes, Vac Nukes and Wrench Reactors (lol), are more advanced versions of the normal one.
 
 Fluid means you build it differently (with the parts on the right, it's a 5x5 cube surrounding the normal one), with the goal of producing as much hot coolant (cycle in non-hot) as possible, to use that to produce power. It doesn't produce power on it's own, but more overall. Send it to the LHE to get SH steam out of it, then go through a HP steam turbine, then a normal steam turbine.
 
@@ -10,4 +10,12 @@ If you still don't know what a MOX one is, it produces more power the higher the
 
 A breeder reactor is when you setup a reactor to get an item out of it rather than power, like Lutetium from Thorium, Plutonium from MOX, etc. Look at the depleted x fuel rod list in NEI or on the wiki to see more.
 
-§3Since Fluid Nukes are liable to explode if you run out of coolant, make sure you setup a cutoff tied to the temperature or amount of coolant with redstone.ANDpreRequIC2/blockGenerator~5Quest Name For 190190gregtech/gt.blockmachines~1154Quest Name For 19051905rewardsItembartworks/gt.bwMetaGeneratedgemExquisite~20Item Name16IC2/itemCellEmpty~9Item Name16Itemenhancedlootbags/lootbag~7Item Name1tasksANDRetrievalIC2/blockReactorAccessHatch~0IC2/blockReactorAccessHatch~0 Name1IC2/blockReactorRedstonePort~0IC2/blockReactorRedstonePort~0 Name1IC2/blockReactorFluidPort~0IC2/blockReactorFluidPort~0 Name2IC2/blockreactorvessel~0IC2/blockreactorvessel~0 Name94RetrievalIC2/itemCellEmpty~9IC2/itemCellEmpty~9 Name16
+§3Since Fluid Nukes are liable to explode if you run out of coolant, make sure you setup a cutoff tied to the temperature or amount of coolant with redstone.0-1ANDpre1900IC2/blockGenerator-5.png19050gregtech/gt.blockmachines-1154.pngrewardsItembartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt\nNaCl\nAdded by BartWorks
+16IC2/itemCellEmpty-9.pngCoolant Cell
+16Itemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalIC2/blockReactorAccessHatch-0.pngReactor Access Hatch
+1IC2/blockReactorRedstonePort-0.pngReactor Redstone Port
+1IC2/blockReactorFluidPort-0.pngReactor Fluid Port
+2IC2/blockreactorvessel-0.pngReactor Pressure Vessel
+94RetrievalIC2/itemCellEmpty-9.pngCoolant Cell
+16

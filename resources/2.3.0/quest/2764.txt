@@ -1,5 +1,10 @@
-2764§4§3§lA Steam Tier Multi? Unpossible!It's a larger version of the steam macerator. It only works 8 at a time, but is faster.
+gregtech/gt.blockmachines-31041.png§4§3§lA Steam Tier Multi? Unpossible!It's a larger version of the steam macerator. It only works 8 at a time, but is faster.
 
 Note that this multi requires §4§lVery Specific§r I/O blocks, don't mess it up.
 
-ANDpreRequgregtech/gt.blockmachines~817Quest Name For 890890rewardstasksANDOptionalgregtech/gt.blockcasings~10gregtech/gt.blockcasings~10 Name22gregtech/gt.blockmachines~31046gregtech/gt.blockmachines~31046 Name1gregtech/gt.blockmachines~31047gregtech/gt.blockmachines~31047 Name1gregtech/gt.blockmachines~31040gregtech/gt.blockmachines~31040 Name1Retrievalgregtech/gt.blockmachines~31041gregtech/gt.blockmachines~31041 Name1
+0-1ANDpre8900gregtech/gt.blockmachines-817.pngrewardstasksANDOptionalgregtech/gt.blockcasings-10.pngBronze Plated Bricks\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+22gregtech/gt.blockmachines-31046.pngInput Bus\nItem Input for Steam Multiblocks\nShift + right click with screwdriver to toggle automatic item shuffling\nCapacity: 4 stacks\nDoes not work with non-steam multiblocks\nAdded by: Alkalus - [GT++]
+1gregtech/gt.blockmachines-31047.pngOutput Bus\nItem Output for Steam Multiblocks\nCapacity: 4 stacks\nDoes not work with non-steam multiblocks\nAdded by: Alkalus - [GT++]
+1gregtech/gt.blockmachines-31040.pngSteam Hatch\nFluid Input for Steam Multiblocks\nCapacity: 64000L\nAccepted Fluid: Steam\nAdded by: Alkalus - [GT++]
+1Retrievalgregtech/gt.blockmachines-31041.pngSteam Grinder\nMachine Type: Macerator\nController Block for the Steam Macerator\nMacerates 8 ores at a time\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1

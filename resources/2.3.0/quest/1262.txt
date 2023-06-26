@@ -1,3 +1,12 @@
-1262EV Battery BufferIt's EV, ok?
+gregtech/gt.blockmachines-184.pngEV Battery BufferIt's EV, ok?
 
-§3Complete one task.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsChoicegregtech/gt.metaitem.01~11306Choice Name8gregtech/gt.metaitem.01~17874Choice Name8gregtech/gt.metaitem.01~11028Choice Name4enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksORRetrievalgregtech/gt.blockmachines~164gregtech/gt.blockmachines~164 Name1Retrievalgregtech/gt.blockmachines~174gregtech/gt.blockmachines~174 Name1Retrievalgregtech/gt.blockmachines~184gregtech/gt.blockmachines~184 Name1Retrievalgregtech/gt.blockmachines~194gregtech/gt.blockmachines~194 Name1
+§3Complete one task.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+8gregtech/gt.metaitem.01-17874.pngPolyethylene Sheet\nCH\u2082
+8gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksORRetrievalgregtech/gt.blockmachines-164.pngExtreme Voltage Battery Buffer\n1 Slots\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 131,072 EU
+1Retrievalgregtech/gt.blockmachines-174.pngExtreme Voltage Battery Buffer\n4 Slots\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 524,288 EU
+1Retrievalgregtech/gt.blockmachines-184.pngExtreme Voltage Battery Buffer\n9 Slots\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 1,179,648 EU
+1Retrievalgregtech/gt.blockmachines-194.pngExtreme Voltage Battery Buffer\n16 Slots\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 2,097,152 EU
+1

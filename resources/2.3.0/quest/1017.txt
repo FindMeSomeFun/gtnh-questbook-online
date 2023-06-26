@@ -1,1 +1,13 @@
-1017§9§lProcessor AssemblyThis is the second step to making EV and IV circuits.ANDpreRequgregtech/gt.metaitem.03~32014Quest Name For 10191019rewardsChoicegregtech/gt.metaitem.03~32106Choice Name4gregtech/gt.metaitem.03~32039Choice Name1gregtech/gt.metaitem.03~32020Choice Name4enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.03~32106gregtech/gt.metaitem.03~32106 Name1gregtech/gt.metaitem.03~32080gregtech/gt.metaitem.03~32080 Name2gregtech/gt.metaitem.03~32014gregtech/gt.metaitem.03~32014 Name4gregtech/gt.metaitem.03~32039gregtech/gt.metaitem.03~32039 Name4gregtech/gt.metaitem.02~19308gregtech/gt.metaitem.02~19308 Name8gregtech/gt.metaitem.01~32718gregtech/gt.metaitem.01~32718 Name8Retrievalgregtech/gt.metaitem.01~32703gregtech/gt.metaitem.01~32703 Name1
+gregtech/gt.metaitem.01-32703.png§9§lProcessor AssemblyThis is the second step to making EV and IV circuits.1-1ANDpre10191gregtech/gt.metaitem.03-32014.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+1gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
+4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+1gregtech/gt.metaitem.03-32080.pngIntegrated Processor\nA Good Circuit\nMV-Tier
+2gregtech/gt.metaitem.03-32014.pngSmall Coil\nBasic Electronic Component
+4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+4gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wire\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+8gregtech/gt.metaitem.01-32718.pngCapacitor\nElectronic Component
+8Retrievalgregtech/gt.metaitem.01-32703.pngProcessor Assembly\nAn Advanced Circuit\nHV-Tier
+1

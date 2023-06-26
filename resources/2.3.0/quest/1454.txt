@@ -1,5 +1,12 @@
-1454Rocket Tier 3After days of hard work and a hundred tons of stacks of iTNT your third rocket is finally ready.
+GalacticraftMars/item.itemTier3Rocket-0.pngRocket Tier 3After days of hard work and a hundred tons of stacks of iTNT your third rocket is finally ready.
 
 You need to use Dense Hydrazine Rocket Fuel or better to fuel it.
 
-§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.ANDpreRequGalaxySpace/item.RocketControlComputer~3Quest Name For 14481448GalaxySpace/item.ModuleLander3~0Quest Name For 14561456GalacticraftMars/item.heavyNoseCone~0Quest Name For 14571457GalacticraftMars/item.itemBasicAsteroids~1Quest Name For 14581458GalacticraftMars/item.itemBasicAsteroids~2Quest Name For 14591459dreamcraft/item.MediumFuelCanister~0Quest Name For 14601460rewardsChoiceIC2/blockITNT~0Choice Name96GalacticraftMars/item.null~3Choice Name4enhancedlootbags/lootbag~24Choice Name1enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinSpaceIII~0Item Name1dreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDRetrievalGalacticraftMars/item.itemTier3Rocket~0GalacticraftMars/item.itemTier3Rocket~0 Name1
+§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.1-1ANDpre14481GalaxySpace/item.RocketControlComputer-3.png14561GalaxySpace/item.ModuleLander3-0.png14571GalacticraftMars/item.heavyNoseCone-0.png14581GalacticraftMars/item.itemBasicAsteroids-1.png14591GalacticraftMars/item.itemBasicAsteroids-2.png14601dreamcraft/item.MediumFuelCanister-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+96GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+4enhancedlootbags/lootbag-24.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDRetrievalGalacticraftMars/item.itemTier3Rocket-0.pngTier 3 Rocket
+1

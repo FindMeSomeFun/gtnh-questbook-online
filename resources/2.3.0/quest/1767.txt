@@ -1,1 +1,3 @@
-1767Purchase Tier 1 Wireless Network CardI'll sell you a Tier 1 Wireless Network Card for 12 Bitcoins.ANDpreRequmiscutils/itemGenericToken~0Quest Name For 17651765rewardsItemOpenComputers/item~113Item Name1tasksANDRetrievalmiscutils/itemGenericToken~0miscutils/itemGenericToken~0 Name12
+OpenComputers/item-113.pngPurchase Tier 1 Wireless Network CardI'll sell you a Tier 1 Wireless Network Card for 12 Bitcoins.072000ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-113.pngWireless Network Card\nTier 1
+1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+12

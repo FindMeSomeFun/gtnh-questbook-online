@@ -1,5 +1,9 @@
-2040Industrial Coke OvenSwimming in logs? Turn those logs into clean burning charcoal! The Industrial Coke Oven is a 3x3x3 multiblock that runs much faster than those gigangic Pyrolyse Ovens. With one of these, you can replace several of those, since it does up to 24x parallels.
+gregtech/gt.blockmachines-791.pngIndustrial Coke OvenSwimming in logs? Turn those logs into clean burning charcoal! The Industrial Coke Oven is a 3x3x3 multiblock that runs much faster than those gigangic Pyrolyse Ovens. With one of these, you can replace several of those, since it does up to 24x parallels.
 
 You'll be able to effectively retire the Pyros from now on, unless there's some very fast recipe that they can keep up with. To turn Wood into Charcoal, for example, this ICO can keep up with an entire farm as long as you provide it enough Nitrogen for the job!
 
-§3This multi is EV and doesn't actually need the ABS.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDRetrievalgregtech/gt.blockmachines~791gregtech/gt.blockmachines~791 Name1miscutils/miscutils.blockcasings~1miscutils/miscutils.blockcasings~1 Name1miscutils/miscutils.blockcasings~3miscutils/miscutils.blockcasings~3 Name1
+§3This multi is EV and doesn't actually need the ABS.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.blockmachines-791.pngIndustrial Coke Oven\nMachine Type: Coke Oven\nProcesses Logs and Coal into Charcoal and Coal Coke.\nController Block for the Industrial Coke Oven\nGain 4% energy discount per voltage tier\nProcess 12x materials with Heat Resistant Casings\nOr 24x materials with Heat Proof Casings\nCauses: 80 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/miscutils.blockcasings-1.pngStructural Coke Oven Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1miscutils/miscutils.blockcasings-3.pngHeat Proof Coke Oven Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

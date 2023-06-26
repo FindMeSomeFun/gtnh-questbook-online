@@ -1,3 +1,15 @@
-667TrainspottingThe wooden tracks can be made without any machine. Functionally equivalent to normal rails, but with a lower maximum speed (for safety reasons).
+Railcraft/track-736-slow.pngTrainspottingThe wooden tracks can be made without any machine. Functionally equivalent to normal rails, but with a lower maximum speed (for safety reasons).
 
-Hint: You can use your wooden rails for Steve's carts farms.ANDpreRequminecraft/minecart~0Quest Name For 677677rewardsChoiceRailcraft/track~736Choice Name16Railcraft/part.railbed~0Choice Name16enhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalminecraft/wooden_slab~0minecraft/wooden_slab~0 Name60OptionalRailcraft/part.tie~0Railcraft/part.tie~0 Name20Optionalminecraft/stick~0minecraft/stick~0 Name4gregtech/gt.metaitem.01~23032gregtech/gt.metaitem.01~23032 Name4OptionalRailcraft/part.rail~2Railcraft/part.rail~2 Name8OptionalRailcraft/part.railbed~0Railcraft/part.railbed~0 Name4CraftingRailcraft/track~736Railcraft/track~736 Name64
+Hint: You can use your wooden rails for Steve's carts farms.0-1ANDpre6770minecraft/minecart-0.pngrewardsChoiceRailcraft/track-736-slow.pngWooden Track\n30% of the speed of normal track
+16Railcraft/part.railbed-0.pngWooden Railbed
+16enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab\nBurn Time: 150
+60OptionalRailcraft/part.tie-0.pngWooden Tie
+20Optionalminecraft/stick-0.pngStick\nBurn Time: 100
+4gregtech/gt.metaitem.01-23032.pngIron Rod\nFe
+4OptionalRailcraft/part.rail-2.pngWooden Rail
+8OptionalRailcraft/part.railbed-0.pngWooden Railbed
+4CraftingRailcraft/track-736-slow.pngWooden Track\n30% of the speed of normal track
+64

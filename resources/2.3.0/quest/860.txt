@@ -1,1 +1,8 @@
-860§9§lTitanium, FinallyYou just need to cool down those ingots in your Vacuum Freezer and you'll get your first Titanium.ANDpreRequgregtech/gt.blockmachines~1002Quest Name For 8181gregtech/gt.metaitem.01~2375Quest Name For 10121012rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinSpaceII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1dreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~12028gregtech/gt.metaitem.01~12028 Name16Retrievalgregtech/gt.metaitem.01~11028gregtech/gt.metaitem.01~11028 Name16
+gregtech/gt.metaitem.01-11028.png§9§lTitanium, FinallyYou just need to cool down those ingots in your Vacuum Freezer and you'll get your first Titanium.1-1ANDpre811gregtech/gt.blockmachines-1002.png10121gregtech/gt.metaitem.01-2375.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-12028.pngHot Titanium Ingot\nTi
+16Retrievalgregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+16

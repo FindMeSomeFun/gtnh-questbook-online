@@ -1,3 +1,16 @@
-654Advanced Nano ChestplateCombining the advanced electric jetpack and nanosuit yields you the advanced nano chestplate. Now you have the protection of the chestplate combined with the freedom of movement of the jetpack.
+GraviSuite/advNanoChestPlate-1-charged.pngAdvanced Nano ChestplateCombining the advanced electric jetpack and nanosuit yields you the advanced nano chestplate. Now you have the protection of the chestplate combined with the freedom of movement of the jetpack.
 
-§3Works like the AEJ.ANDpreRequGraviSuite/advJetpack~1Quest Name For 653653IC2/itemArmorNanoChestplate~1Quest Name For 779779rewardsChoicegregtech/gt.metaitem.03~32086Choice Name1gregtech/gt.metaitem.01~32604Choice Name1enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalGraviSuite/advJetpack~32767GraviSuite/advJetpack~32767 Name1IC2/itemArmorNanoChestplate~32767IC2/itemArmorNanoChestplate~32767 Name1IC2/itemPartAlloy~0IC2/itemPartAlloy~0 Name2gregtech/gt.metaitem.01~17316gregtech/gt.metaitem.01~17316 Name2gregtech/gt.blockmachines~1644gregtech/gt.blockmachines~1644 Name2gregtech/gt.metaitem.03~32086gregtech/gt.metaitem.03~32086 Name1RetrievalGraviSuite/advNanoChestPlate~32767GraviSuite/advNanoChestPlate~32767 Name1
+§3Works like the AEJ.0-1ANDpre6530GraviSuite/advJetpack-1-charged.png7790IC2/itemArmorNanoChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly\nAn Elite Circuit\nIV-Tier
+1gregtech/gt.metaitem.01-32604.pngElectric Motor
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalGraviSuite/advJetpack-32767.pngAdvanced Electric Jetpack\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1IC2/itemPartAlloy-0.pngAdvanced Alloy
+2gregtech/gt.metaitem.01-17316.pngTungstensteel Plate\n(Fe\u2085\u2080C)W
+2gregtech/gt.blockmachines-1644.png12x Platinum Wire\nMax Voltage: 8,192 (IV)\nMax Amperage: 24\nLoss/Meter/Ampere: 2 EU-Volt
+2gregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly\nAn Elite Circuit\nIV-Tier
+1RetrievalGraviSuite/advNanoChestPlate-32767.pngAdvanced NanoChestPlate\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1

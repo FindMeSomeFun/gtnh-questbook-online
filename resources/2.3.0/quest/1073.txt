@@ -1,5 +1,9 @@
-1073NagaSummon a Naga.
+TwilightForest/item.tfspawnegg-182.pngNagaSummon a Naga.
 
 §3Only works in the Twilight Forest dim.
 
-The name of the nagastone is messed up, this is a side effect of allowing any meta #.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemTwilightForest/item.tfspawnegg~182Item Name1tasksANDRetrievaldreamcraft/item.CoinSurvivorI~0dreamcraft/item.CoinSurvivorI~0 Name5dreamcraft/item.CoinDarkWizard~0dreamcraft/item.CoinDarkWizard~0 Name25RetrievalTwilightForest/tile.TFNagastone~32767TwilightForest/tile.TFNagastone~32767 Name1
+The name of the nagastone is messed up, this is a side effect of allowing any meta #.0720000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-182.pngSpawn Naga
+1tasksANDConsumedreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25RetrievalTwilightForest/tile.TFNagastone-32767.pngNagastone
+1

@@ -1,1 +1,4 @@
-173§9§lTier 3 BaseMore storage, more power, and a lot more slots for possible upgrades.ANDpreRequopenmodularturrets/chamberTierThree~0Quest Name For 172172rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalopenmodularturrets/baseTierTwoBlock~0openmodularturrets/baseTierTwoBlock~0 Name2
+openmodularturrets/baseTierTwoBlock-0.png§9§lTier 3 BaseMore storage, more power, and a lot more slots for possible upgrades.0-1ANDpre1720openmodularturrets/chamberTierThree-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalopenmodularturrets/baseTierTwoBlock-0.pngTurret Base\n--Energy--\nMax capacity: 150000\nMax IO: 500\n--Extras--\n2x Addon slots\n1x Upgrade slots\nI said good day sir!
+2

@@ -1,1 +1,4 @@
-3262Magic Blue DustYou'll need mana powder to proceed. Make four to start out with.ANDpreRequBotania/spreader~0Quest Name For 32533253rewardsItemminecraft/glowstone_dust~0Item Name16dreamcraft/item.CoinFlowerI~0Item Name10tasksANDRetrievalBotania/manaResource~23Botania/manaResource~23 Name4
+Botania/manaResource-23.pngMagic Blue DustYou'll need mana powder to proceed. Make four to start out with.1-1ANDpre32531Botania/spreader-0.pngrewardsItemminecraft/glowstone_dust-0.pngGlowstone Dust
+16dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
+10tasksANDRetrievalBotania/manaResource-23.pngMana Powder
+4

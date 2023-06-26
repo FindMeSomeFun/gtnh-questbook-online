@@ -1,3 +1,32 @@
-997Dark Steel Armor Advanced UpgradesYour Dark Steel armor can be upgraded in various ways by combining it with various other items. You will need an anvil and a lot of XP.
+EnderIO/item.darkSteel_chestplate-0-upgraded.pngDark Steel Armor Advanced UpgradesYour Dark Steel armor can be upgraded in various ways by combining it with various other items. You will need an anvil and a lot of XP.
 
-Make sure when making the potions to only do three at a time, so the NBT data matches.ANDpreRequEnderIO/item.darkSteel_chestplate~0Quest Name For 991991rewardsChoiceEnderIO/blockSolarPanel~1Choice Name2EnderIO/itemBasicCapacitor~2Choice Name8EnderIO/blockCapBank~3Choice Name1minecraft/potion~8262Choice Name16minecraft/potion~8258Choice Name16enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinSmithI~0Item Name5tasksANDOptionalEnderIO/itemBasicCapacitor~0EnderIO/itemBasicCapacitor~0 Name4EnderIO/itemBasicCapacitor~1EnderIO/itemBasicCapacitor~1 Name4EnderIO/itemBasicCapacitor~2EnderIO/itemBasicCapacitor~2 Name4OptionalForestry/apiaristHelmet~0Forestry/apiaristHelmet~0 Name1Forestry/apiaristChest~0Forestry/apiaristChest~0 Name1Forestry/apiaristLegs~0Forestry/apiaristLegs~0 Name1Forestry/apiaristBoots~0Forestry/apiaristBoots~0 Name1Optionalminecraft/potion~8194minecraft/potion~8194 Name3minecraft/potion~8198minecraft/potion~8198 Name1Optionalminecraft/waterlily~0minecraft/waterlily~0 Name1minecraft/piston~0minecraft/piston~0 Name3OptionalEnderIO/blockSolarPanel~0EnderIO/blockSolarPanel~0 Name1EnderIO/blockSolarPanel~1EnderIO/blockSolarPanel~1 Name1OptionalThaumcraft/ItemGoggles~0Thaumcraft/ItemGoggles~0 Name1Forestry/naturalistHelmet~0Forestry/naturalistHelmet~0 Name1OptionalEnderIO/itemGliderWing~1EnderIO/itemGliderWing~1 Name1minecraft/noteblock~0minecraft/noteblock~0 Name1RetrievalEnderIO/item.darkSteel_helmet~0EnderIO/item.darkSteel_helmet~0 Name1EnderIO/item.darkSteel_chestplate~0EnderIO/item.darkSteel_chestplate~0 Name1EnderIO/item.darkSteel_leggings~0EnderIO/item.darkSteel_leggings~0 Name1EnderIO/item.darkSteel_boots~0EnderIO/item.darkSteel_boots~0 Name1
+Make sure when making the potions to only do three at a time, so the NBT data matches.0-1ANDpre9910EnderIO/item.darkSteel_chestplate-0.pngrewardsChoiceEnderIO/blockSolarPanel-1.pngAdvanced Photovoltaic Cell\nSolar Power!
+2EnderIO/itemBasicCapacitor-2.pngOctadic Capacitor\nMachine Upgrade
+8EnderIO/blockCapBank-3.pngVibrant Capacitor Bank\n0/25,000,000 RF
+1minecraft/potion-8262.pngPotion of Night Vision\nNight Vision (8:00)
+16minecraft/potion-8258.pngPotion of Swiftness\nSpeed (8:00)\nWhen Applied:\n+20% Speed
+16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5tasksANDOptionalEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+4EnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor\nMachine Upgrade
+4EnderIO/itemBasicCapacitor-2.pngOctadic Capacitor\nMachine Upgrade
+4OptionalForestry/apiaristHelmet-0.pngApiarist''s Hat\nProtection: 1\nDurability: 100/100
+1Forestry/apiaristChest-0.pngApiarist''s Shirt\nProtection: 3\nDurability: 100/100
+1Forestry/apiaristLegs-0.pngApiarist''s Pants\nProtection: 2\nDurability: 100/100
+1Forestry/apiaristBoots-0.pngApiarist''s Shoes\nProtection: 1\nDurability: 100/100
+1Optionalminecraft/potion-8194.pngPotion of Swiftness\nSpeed (3:00)\nWhen Applied:\n+20% Speed
+3minecraft/potion-8198.pngPotion of Night Vision\nNight Vision (3:00)
+1Optionalminecraft/waterlily-0.pngLily Pad
+1minecraft/piston-0.pngPiston
+3OptionalEnderIO/blockSolarPanel-0.pngPhotovoltaic Cell\nSolar Power!
+1EnderIO/blockSolarPanel-1.pngAdvanced Photovoltaic Cell\nSolar Power!
+1OptionalThaumcraft/ItemGoggles-0.pngGoggles of Revealing\nVis discount: 5%\nProtection: 1\nDurability: 350/350
+1Forestry/naturalistHelmet-0.pngSpectacles\nProtection: 1\nDurability: 100/100
+1OptionalEnderIO/itemGliderWing-1.pngGlider Wings
+1minecraft/noteblock-0.pngNote Block\nBurn Time: 300
+1RetrievalEnderIO/item.darkSteel_helmet-0-upgraded.pngDark Helm\nProtection: 2\nDurability: 385/385\nEmpowered IV\nSound Locator\nNight Vision\nSolar II\nRevealing\nNaturalist''s Eye\nApiarist''s Hat
+1EnderIO/item.darkSteel_chestplate-0-upgraded.pngDark Plate\nProtection: 6\nDurability: 560/560\nEmpowered IV\nGlider\nApiarist''s Shirt
+1EnderIO/item.darkSteel_leggings-0-upgraded.pngDark Leggings\nProtection: 5\nDurability: 525/525\nEmpowered IV\nSpeed III\nApiarist''s Pants
+1EnderIO/item.darkSteel_boots-0-upgraded.pngDark Boots\nProtection: 2\nDurability: 455/455\nEmpowered IV\nJump III\nFlippers\nApiarist''s Shoes
+1

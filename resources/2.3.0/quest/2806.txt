@@ -1,1 +1,2 @@
-2806§9§lKinetic Power ZPMThis is the ZPM version.ANDpreRequgregtech/gt.metaitem.01~32656Quest Name For 26112611gregtech/gt.metaitem.01~11129Quest Name For 26692669compactkineticgenerators/BlockCkg~10Quest Name For 28052805rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~11compactkineticgenerators/BlockCkg~11 Name1
+compactkineticgenerators/BlockCkg-11.png§9§lKinetic Power ZPMThis is the ZPM version.0-1ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28050compactkineticgenerators/BlockCkg-10.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-11.pngExtreme Kinetic Generator\nPower Output: 0-131072 EU/t max\nCapacity: 40m EU 
+1

@@ -1,4 +1,4 @@
-2831Covering UpThis quest goes over all of the covers, just in case you forgot or they weren't mentioned. If they have their own quest, look at it for more info. You can put them on basically any GT block, pipe, machine, tank, etc. Though that doesn't consider whether it will work right or be useful. Shift-Right-Click will open a GUI for many of them. For covers that you can adjust the amount of, clicking the left side with a screwdriver goes down, and right goes up. All covers block rain on the side they're attached to. Generally you can adjust covers with a screwdriver, whether they have a GUI or not. You can remove them with a crowbar if you forgot.
+gregtech/gt.metaitem.02-32470.pngCovering UpThis quest goes over all of the covers, just in case you forgot or they weren't mentioned. If they have their own quest, look at it for more info. You can put them on basically any GT block, pipe, machine, tank, etc. Though that doesn't consider whether it will work right or be useful. Shift-Right-Click will open a GUI for many of them. For covers that you can adjust the amount of, clicking the left side with a screwdriver goes down, and right goes up. All covers block rain on the side they're attached to. Generally you can adjust covers with a screwdriver, whether they have a GUI or not. You can remove them with a crowbar if you forgot.
 
 §9§lFluid-Related Covers:§r
 Pump: Transfers fluids at the speed specified on the tooltip.
@@ -60,4 +60,5 @@ Planks/Plates/Foils: Blocks I/O on that side. Use a screwdriver to set allowed t
 
 Computer Monitor: Adds a visual look. Useless, but sorta fancy.
 
-Lens: Visual only. Useless.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardstasksANDCheckboxcheckbox  
+Lens: Visual only. Useless.0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

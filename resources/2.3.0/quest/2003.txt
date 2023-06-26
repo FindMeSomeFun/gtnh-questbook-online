@@ -1,1 +1,3 @@
-2003Transforming Cable CamouflageTransforming Cable Camouflage allows you to change the collision box of the cable, so you can turn it into a door or whatever.ANDpreRequStevesFactoryManager/BlockCableCamouflageName~1Quest Name For 20022002rewardsItemStevesFactoryManager/BlockCableCamouflageName~2Item Name2tasksANDRetrievalStevesFactoryManager/BlockCableCamouflageName~2StevesFactoryManager/BlockCableCamouflageName~2 Name2
+StevesFactoryManager/BlockCableCamouflageName-2.pngTransforming Cable CamouflageTransforming Cable Camouflage allows you to change the collision box of the cable, so you can turn it into a door or whatever.0-1ANDpre20020StevesFactoryManager/BlockCableCamouflageName-1.pngrewardsItemStevesFactoryManager/BlockCableCamouflageName-2.pngTransforming Cable Camouflage
+2tasksANDRetrievalStevesFactoryManager/BlockCableCamouflageName-2.pngTransforming Cable Camouflage
+2

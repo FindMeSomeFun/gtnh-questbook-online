@@ -1,1 +1,10 @@
-797Advanced Heat ExchangerThe night vision goggles need advanced heat exchangers to work.ANDpreRequgregtech/gt.metaitem.01~11306Quest Name For 753753gregtech/gt.metaitem.01~32701Quest Name For 794794rewardsChoiceIC2/itemPartCircuitAdv~0Choice Name1dreamcraft/item.ReinforcedGlassLense~0Choice Name2enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~17526gregtech/gt.metaitem.01~17526 Name8gregtech/gt.metaitem.01~17500gregtech/gt.metaitem.01~17500 Name2gregtech/gt.metaitem.01~32704gregtech/gt.metaitem.01~32704 Name4IC2/reactorHeatSwitch~1IC2/reactorHeatSwitch~1 Name4RetrievalIC2/reactorHeatSwitchDiamond~1IC2/reactorHeatSwitchDiamond~1 Name2
+IC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat ExchangerThe night vision goggles need advanced heat exchangers to work.0-1ANDpre7531gregtech/gt.metaitem.01-11306.png7941gregtech/gt.metaitem.01-32701.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+1dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
+2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-17526.pngLapis Plate\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+8gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+2gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+4IC2/reactorHeatSwitch-1.pngHeat Exchanger
+4RetrievalIC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat Exchanger
+2

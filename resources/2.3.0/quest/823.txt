@@ -1,1 +1,6 @@
-823Oxygen MaskThe oxygen mask is part of the system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.ANDpreRequgregtech/gt.blockmachines~1180Quest Name For 795795GalacticraftCore/tile.rocketWorkbench~0Quest Name For 27442744rewardsChoiceIC2/blockAlloyGlass~0Choice Name8gregtech/gt.metaitem.01~17880Choice Name16enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/item.oxygenMask~0GalacticraftCore/item.oxygenMask~0 Name1
+GalacticraftCore/item.oxygenMask-0.pngOxygen MaskThe oxygen mask is part of the system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.1-1ANDpre7951gregtech/gt.blockmachines-1180.png27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardsChoiceIC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
+8gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalGalacticraftCore/item.oxygenMask-0.pngOxygen Mask
+1

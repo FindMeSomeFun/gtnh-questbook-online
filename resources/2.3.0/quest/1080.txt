@@ -1,3 +1,8 @@
-1080Snow QueenSummon a Snow Queen.
+TwilightForest/item.tfspawnegg-231.pngSnow QueenSummon a Snow Queen.
 
-§3Only works in the Twilight Forest dim.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemTwilightForest/item.tfspawnegg~231Item Name1tasksANDRetrievaldreamcraft/item.CoinSurvivorIII~0dreamcraft/item.CoinSurvivorIII~0 Name1dreamcraft/item.CoinDarkWizardII~0dreamcraft/item.CoinDarkWizardII~0 Name5RetrievalTwilightForest/item.alphaFur~0TwilightForest/item.alphaFur~0 Name1TwilightForest/tile.AuroraPillar~0TwilightForest/tile.AuroraPillar~0 Name1
+§3Only works in the Twilight Forest dim.01440000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-231.pngSpawn Snow Queen
+1tasksANDConsumedreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5RetrievalTwilightForest/item.alphaFur-0.pngAlpha Yeti Fur
+1TwilightForest/tile.AuroraPillar-0.pngAurora Pillar
+1

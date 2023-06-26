@@ -1,3 +1,4 @@
-3282KevlarThere is a new material that can be used for some high tier crafts. The production line is long and tedious but you should know how to use NEI by now, right?
+gregtech/gt.metaitem.01-17765.pngKevlarThere is a new material that can be used for some high tier crafts. The production line is long and tedious but you should know how to use NEI by now, right?
 
-§3Hint: If you don't feel like automating a 52 step chemical line, you could also have a look at the Kevlar bee and the new QFT if you are sufficiently high tier.ANDpreRequgregtech/gt.blockmachines~18Quest Name For 26132613rewardstasksANDRetrievalgregtech/gt.metaitem.01~17765gregtech/gt.metaitem.01~17765 Name1
+§3Hint: If you don't feel like automating a 52 step chemical line, you could also have a look at the Kevlar bee and the new QFT if you are sufficiently high tier.0-1ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-17765.pngKevlar Plate
+1

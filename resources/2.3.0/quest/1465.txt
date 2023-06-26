@@ -1,3 +1,10 @@
-1465AirlocksAn airlock is an airtight door used to provide a passage between enclosed rooms and between an enclosed room and outer space. It is made from Air Lock Frames and one Air Lock Controller.
+GalacticraftCore/tile.airLockFrame-1.pngAirlocksAn airlock is an airtight door used to provide a passage between enclosed rooms and between an enclosed room and outer space. It is made from Air Lock Frames and one Air Lock Controller.
 
-The airlock will keep air inside the room while it is closed. But when the airlock is open, the room is no longer sealed and oxygen gear must be worn until the airlock is closed. In environments with extreme temperatures, Thermal Padding must also be worn.ANDpreRequGalacticraftCore/tile.sealer~0Quest Name For 14671467rewardsChoiceGalacticraftCore/tile.oxygenPipe~0Choice Name32GalacticraftMars/item.null~5Choice Name8GalacticraftCore/item.basicItem~14Choice Name2enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalGalacticraftCore/tile.airLockFrame~1GalacticraftCore/tile.airLockFrame~1 Name2GalacticraftCore/tile.airLockFrame~0GalacticraftCore/tile.airLockFrame~0 Name10
+The airlock will keep air inside the room while it is closed. But when the airlock is open, the room is no longer sealed and oxygen gear must be worn until the airlock is closed. In environments with extreme temperatures, Thermal Padding must also be worn.0-1ANDpre14670GalacticraftCore/tile.sealer-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+32GalacticraftMars/item.null-5.pngCompressed Desh
+8GalacticraftCore/item.basicItem-14.pngAdvanced Wafer
+2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalGalacticraftCore/tile.airLockFrame-1.pngAir Lock Controller
+2GalacticraftCore/tile.airLockFrame-0.pngAir Lock Frame
+10

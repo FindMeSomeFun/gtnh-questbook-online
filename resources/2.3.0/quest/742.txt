@@ -1,3 +1,10 @@
-742§3§lOne Block Mining is so Old SchoolBy making a hammer you are now able to mine a shaft of 3x3 blocks. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. You'll need a hammer head, two large plates and a large rod for your hammer.  Be careful in the Nether or you could be boiled in lava very quickly.
+TConstruct/hammer-0-3509.png§3§lOne Block Mining is so Old SchoolBy making a hammer you are now able to mine a shaft of 3x3 blocks. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. You'll need a hammer head, two large plates and a large rod for your hammer.  Be careful in the Nether or you could be boiled in lava very quickly.
 
-§6The quest should accept the tool whatever materials you used.ANDpreRequTConstruct/ToolForgeBlock~0Quest Name For 741741rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalTConstruct/metalPattern~21TConstruct/metalPattern~21 Name1TConstruct/metalPattern~16TConstruct/metalPattern~16 Name1TConstruct/metalPattern~14TConstruct/metalPattern~14 Name1RetrievalTConstruct/hammer~0TConstruct/hammer~0 Name1
+§6The quest should accept the tool whatever materials you used.0-1ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalTConstruct/metalPattern-21.pngHammer Head Cast\nMaterial Cost: 8
+1TConstruct/metalPattern-16.pngLarge Plate Cast\nMaterial Cost: 8
+1TConstruct/metalPattern-14.pngTough Rod Cast\nMaterial Cost: 3
+1RetrievalTConstruct/hammer-0-3509.pngHammer\nReinforced II\nMining Level: 04-Redstone\nTool Level: 01-Abused\n+6 Attack Damage
+1

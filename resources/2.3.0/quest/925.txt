@@ -1,1 +1,9 @@
-925Killing: EvolvedI guess you're good at killing things, huh? And if you got this far, maybe making things too? If you want to §oreally§r prove yourself though, head on over to the Endgame Goals tab.ANDpreRequTwilightForest/item.trophy~4Quest Name For 906906TwilightForest/item.lampOfCinders~0Quest Name For 908908minecraft/nether_star~0Quest Name For 916916witchery/wolfhead~0Quest Name For 924924rewardsChoiceThaumcraft/BlockJarNodeItem~0Choice Name1TConstruct/creativeModifier~0Choice Name16ProjRedFabrication/projectred.fabrication.icchip~1Choice Name4miscutils/GTPP.bauble.fireprotection.0.name~0Choice Name1tasksANDRetrievaldreamcraft/item.CoinDarkWizardIII~0dreamcraft/item.CoinDarkWizardIII~0 Name10dreamcraft/item.CoinAdventureIII~0dreamcraft/item.CoinAdventureIII~0 Name10dreamcraft/item.CoinSurvivorIII~0dreamcraft/item.CoinSurvivorIII~0 Name10dreamcraft/item.CoinTechnicianIII~0dreamcraft/item.CoinTechnicianIII~0 Name10
+JABBA/upgradeCore-10.pngKilling: EvolvedI guess you're good at killing things, huh? And if you got this far, maybe making things too? If you want to §oreally§r prove yourself though, head on over to the Endgame Goals tab.0-1ANDpre9060TwilightForest/item.trophy-4.png9080TwilightForest/item.lampOfCinders-0.png9160minecraft/nether_star-0.png9241witchery/wolfhead-0.pngrewardsChoiceThaumcraft/BlockJarNodeItem-0-instrumentum.pngNode in a Jar\nNormal, Bright\nInstrumentum x 1000\nThis! Is OP
+1TConstruct/creativeModifier-0.pngCreative Tool Modifier\nTool Modifier: Creative
+16ProjRedFabrication/projectred.fabrication.icchip-1.pngCreative Mode IC Chip\nCreative-mode only chip.\nInstant and free prints.\nRightclick to add IC Gate to inventory.
+4miscutils/GTPP.bauble.fireprotection.0.name-0.pngSupreme Pizza Gloves
+1tasksANDConsumedreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+10dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
+10dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+10dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+10

@@ -1,1 +1,7 @@
-1586Dream DistilleryYou probably want a Distillery too.ANDpreRequdreamcraft/item.CoinWitchII~0Quest Name For 338338rewardsItemwitchery/distilleryidle~0Item Name1witchery/ingredient~27Item Name64tasksANDRetrievalwitchery/distilleryidle~0witchery/distilleryidle~0 Name1witchery/ingredient~27witchery/ingredient~27 Name64LocationDIM55DIM55 Name Retrievaldreamcraft/item.CoinWitchII~0dreamcraft/item.CoinWitchII~0 Name5
+witchery/distilleryidle-0.pngDream DistilleryYou probably want a Distillery too.00ANDpre3380dreamcraft/item.CoinWitchII-0.pngrewardsItemwitchery/distilleryidle-0.pngDistillery
+1witchery/ingredient-27.pngClay Jar
+64tasksANDConsumewitchery/distilleryidle-0.pngDistillery
+1witchery/ingredient-27.pngClay Jar
+64LocationDIM/55-.pngSpirit World
+1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5

@@ -1,1 +1,8 @@
-842§6§lMethane GasMethane gas has a burn value of 104,000 EU per cell and can be burned in the gas turbine.ANDpreRequgregtech/gt.metaitem.01~30691Quest Name For 736736rewardsChoicegregtech/gt.blockmachines~1366Choice Name8gregtech/gt.metaitem.01~30691Choice Name16gregtech/gt.blockmachines~5132Choice Name4enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~30691gregtech/gt.metaitem.01~30691 Name64Retrievalgregtech/gt.metaitem.01~30715gregtech/gt.metaitem.01~30715 Name64
+gregtech/gt.metaitem.01-30715.png§6§lMethane GasMethane gas has a burn value of 104,000 EU per cell and can be burned in the gas turbine.0-1ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+8gregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
+16gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,500 K
+4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
+64Retrievalgregtech/gt.metaitem.01-30715.pngMethane Cell\nCH\u2084
+64

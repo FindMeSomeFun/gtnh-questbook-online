@@ -1,3 +1,9 @@
-730§6§lBio FuelsYou've been using steam, creosote, and possibly oil plus their byproducts to generate power. It's time to start making bio diesel. The first step is to make plant balls out of organic materials. You can use wheat, sugarcane, apples, saplings or, well, practially anything. Indigo blossoms are 4:1 and unlike the rest of the IC2 crops with the same ratio, not really useful for anything else. Realistically, you'll probably just use saplings though, since you'll want/need a tree farm anyway.
+minecraft/wheat-0.png§6§lBio FuelsYou've been using steam, creosote, and possibly oil plus their byproducts to generate power. It's time to start making bio diesel. The first step is to make plant balls out of organic materials. You can use wheat, sugarcane, apples, saplings or, well, practially anything. Indigo blossoms are 4:1 and unlike the rest of the IC2 crops with the same ratio, not really useful for anything else. Realistically, you'll probably just use saplings though, since you'll want/need a tree farm anyway.
 
-Be sure you have a Forestry multifarm, Steve's Carts Farm, IC2 Crop Sticks with a harvester, or whatever, because you need plenty of biomaterials for constant bio diesel production.ANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemminecraft/wheat_seeds~0Item Name32Forestry/fertilizerCompound~0Item Name32Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDRetrievalminecraft/reeds~0minecraft/reeds~0 Name64minecraft/apple~0minecraft/apple~0 Name64minecraft/wheat~0minecraft/wheat~0 Name64
+Be sure you have a Forestry multifarm, Steve's Carts Farm, IC2 Crop Sticks with a harvester, or whatever, because you need plenty of biomaterials for constant bio diesel production.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemminecraft/wheat_seeds-0.pngSeeds
+32Forestry/fertilizerCompound-0.pngFertilizer
+32Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDRetrievalminecraft/reeds-0.pngSugar Canes\nBurn Time: 50
+64minecraft/apple-0.pngApple\nminecraft:apple\nDiminishing returns start after\neating any food 10 more times
+64minecraft/wheat-0.pngWheat
+64

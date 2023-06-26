@@ -1,7 +1,17 @@
-1117Breed some common beesTo cross breed bees you need two different species of bees. One drone and one princess from different world-gen hives (Meadows and Forestry as an example)
+Forestry/beeQueenGE-0-Common.pngBreed some common beesTo cross breed bees you need two different species of bees. One drone and one princess from different world-gen hives (Meadows and Forestry as an example)
 
 Bee Houses do not allow crossbreeding. You need an Apiary to crossbreed them to a new species. Certain frames will help this process. Shortening their lifespan means faster crosses. Increasing Mutation rate means getting mutations and thus rare bees quicker.
 
 Common Bees produce Honey Combs every 2.2 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time. 
 
-Make sure your bees are pure by checking their genetics with a Beealyzer or GT scanner.ANDpreRequgregtech/gt.metatool.01~28Quest Name For 500500rewardsItemenhancedlootbags/lootbag~25Item Name1Forestry/honeyDrop~0Item Name16Forestry/beeCombs~0Item Name16Itemdreamcraft/item.CoinBees~0Item Name25tasksANDOptionalForestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1Forestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1Forestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1RetrievalForestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1
+Make sure your bees are pure by checking their genetics with a Beealyzer or GT scanner.0-1ANDpre5000gregtech/gt.metatool.01-28.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Forestry/honeyDrop-0.pngHoney Drop
+16Forestry/beeCombs-0.pngHoney Comb
+16Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDOptionalForestry/beeDroneGE-0-Meadows.pngMeadows Drone
+1Forestry/beePrincessGE-0-Meadows.pngMeadows Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Forest.pngForest Drone
+1Forestry/beePrincessGE-0-Forest.pngForest Princess\nPristine Stock
+1RetrievalForestry/beePrincessGE-0-Common.pngCommon Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Common.pngCommon Drone
+1

@@ -1,3 +1,10 @@
-2685Coal Tar DistillingIn order to distill Coal Tar, you need to get some first. To do so, run Charcoal, Lignite, Coal, or Coal Coke though either the Industrial Coke Oven or the Pyrolyse Oven.
+miscutils/CoalTar-0.pngCoal Tar DistillingIn order to distill Coal Tar, you need to get some first. To do so, run Charcoal, Lignite, Coal, or Coal Coke though either the Industrial Coke Oven or the Pyrolyse Oven.
 
-Since you need multiple products, use a Distillery Tower to get them all. Everything other than Naphtha is used to make Rocket Fuels.ANDpreRequgregtech/gt.blockmachines~1126Quest Name For 768768miscutils/RocketFuelMixB~0Quest Name For 26842684rewardstasksANDOptionalmiscutils/CoalTar~0miscutils/CoalTar~0 Name24Optionalmiscutils/CoalTarOil~0miscutils/CoalTarOil~0 Name10gregtech/gt.metaitem.01~30739gregtech/gt.metaitem.01~30739 Name2miscutils/Ethylbenzene~0miscutils/Ethylbenzene~0 Name3miscutils/Anthracene~0miscutils/Anthracene~0 Name1miscutils/Kerosene~0miscutils/Kerosene~0 Name8Checkboxcheckbox  
+Since you need multiple products, use a Distillery Tower to get them all. Everything other than Naphtha is used to make Rocket Fuels.0-1ANDpre7680gregtech/gt.blockmachines-1126.png26841miscutils/RocketFuelMixB-0.pngrewardstasksANDOptionalmiscutils/CoalTar-0.pngCoal Tar Cell
+24Optionalmiscutils/CoalTarOil-0.pngCoal Tar Oil Cell
+10gregtech/gt.metaitem.01-30739.pngNaphtha Cell
+2miscutils/Ethylbenzene-0.pngEthylbenzene Cell
+3miscutils/Anthracene-0.pngAnthracene Cell
+1miscutils/Kerosene-0.pngKerosene Cell
+8Checkboxcheckbox-.pngCheckbox
+1

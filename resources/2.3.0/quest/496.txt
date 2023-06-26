@@ -1,3 +1,10 @@
-496§3§lHow to Make RubberMaking rubber is now more complicated - you need raw rubber and sulfur. Finding a sulfur vein in the Nether seems like a good idea, doesn't it? Found on Y 5-20. Later on you can get sulfur from chemicals like hydrogren sulfide or pyrite.
+IC2/itemDust-13.png§3§lHow to Make RubberMaking rubber is now more complicated - you need raw rubber and sulfur. Finding a sulfur vein in the Nether seems like a good idea, doesn't it? Found on Y 5-20. Later on you can get sulfur from chemicals like hydrogren sulfide or pyrite.
 
-§4Sphalerite will be important later for gallium and zinc. Save it until you can fully process it in LV.ANDpreRequgregtech/gt.blockmachines~109Quest Name For 5151minecraft/portal~0Quest Name For 479479rewardsItemharvestcraft/peaandhamsoupItem~0Item Name4Choiceenhancedlootbags/lootbag~2Choice Name1Natura/barleyFood~6Choice Name8Itemdreamcraft/item.CoinAdventure~0Item Name15tasksANDRetrievalgregtech/gt.blockores~1022gregtech/gt.blockores~1022 Name32gregtech/gt.blockores~1834gregtech/gt.blockores~1834 Name32gregtech/gt.blockores~1839gregtech/gt.blockores~1839 Name32
+§4Sphalerite will be important later for gallium and zinc. Save it until you can fully process it in LV.1-1ANDpre511gregtech/gt.blockmachines-109.png4791minecraft/portal-0.pngrewardsItemharvestcraft/peaandhamsoupItem-0.pngPea and Ham Soup\nharvestcraft:peaandhamsoupItem\nDiminishing returns start after\neating any food 10 more times
+4Choiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Natura/barleyFood-6.pngImp Leather\nResist the heat of the Nether
+8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+15tasksANDRetrievalgregtech/gt.blockores-1022.pngSulfur Ore\nS
+32gregtech/gt.blockores-1834.pngPyrite Ore\nFeS\u2082
+32gregtech/gt.blockores-1839.pngSphalerite Ore\nZnS
+32

@@ -1,1 +1,4 @@
-1045Sodium PersulfateWant some sodium persulfate? Buy some!ANDpreRequgregtech/gt.metaitem.01~30718Quest Name For 10211021gregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemgregtech/gt.metaitem.01~30718Item Name16tasksANDRetrievalIC2/itemCellEmpty~0IC2/itemCellEmpty~0 Name16dreamcraft/item.CoinChemistI~0dreamcraft/item.CoinChemistI~0 Name7
+gregtech/gt.metaitem.01-30629.pngSodium PersulfateWant some sodium persulfate? Buy some!048000ANDpre10211gregtech/gt.metaitem.01-30718.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell\nNa\u2082S\u2082O\u2088
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+7

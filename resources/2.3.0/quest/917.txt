@@ -1,1 +1,4 @@
-917Secret: The Trade For LifeYou have been busy my friend. I have something for you. Give me your hearts, and I will magically enhance them so you can actually use them.ANDpreRequminecraft/lever~0Quest Name For 456456rewardsItemTConstruct/heartCanister~2Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalbetterquesting/extra_life~0betterquesting/extra_life~0 Name4
+TConstruct/heartCanister-2.pngSecret: The Trade For LifeYou have been busy my friend. I have something for you. Give me your hearts, and I will magically enhance them so you can actually use them.00ANDpre4560minecraft/lever-0.pngrewardsItemTConstruct/heartCanister-2.pngRed Heart Canister\nAccessory\nPermanent health increase\nPart of high-level Heart Canisters\nCan be eaten to restore 30 hearts
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDConsumebetterquesting/extra_life-0.pngExtra Life
+4

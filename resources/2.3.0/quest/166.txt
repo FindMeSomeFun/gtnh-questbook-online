@@ -1,1 +1,5 @@
-166§6§lA New Alloy, SoulariumThere are some... "Darker" uses for machines. Stuff that might be considered "magic". Anyway, for that you need a new alloy: Soularium.ANDpreRequgregtech/gt.blockmachines~212Quest Name For 15981598rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinChemistI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~11379gregtech/gt.metaitem.01~11379 Name16
+gregtech/gt.metaitem.01-11379.png§6§lA New Alloy, SoulariumThere are some... "Darker" uses for machines. Stuff that might be considered "magic". Anyway, for that you need a new alloy: Soularium.0-1ANDpre15981gregtech/gt.blockmachines-212.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-11379.pngSoularium Ingot\n?AuC
+16

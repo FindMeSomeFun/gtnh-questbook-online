@@ -1,1 +1,7 @@
-822Oxygen GearOxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.ANDpreRequGalacticraftCore/item.oxygenMask~0Quest Name For 823823rewardsChoiceIC2/blockAlloyGlass~0Choice Name8GalacticraftCore/item.airFan~0Choice Name1GalacticraftCore/item.airVent~0Choice Name1enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalGalacticraftCore/item.oxygenGear~0GalacticraftCore/item.oxygenGear~0 Name1
+GalacticraftCore/item.oxygenGear-0.pngOxygen GearOxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.1-1ANDpre8231GalacticraftCore/item.oxygenMask-0.pngrewardsChoiceIC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
+8GalacticraftCore/item.airFan-0.pngOxygen Fan
+1GalacticraftCore/item.airVent-0.pngOxygen Vent
+1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalGalacticraftCore/item.oxygenGear-0.pngOxygen Gear
+1

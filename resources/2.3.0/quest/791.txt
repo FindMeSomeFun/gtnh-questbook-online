@@ -1,1 +1,7 @@
-791§6§lMV Precision Laser EngraverAdvanced circuits need an MV precision laser engraver. Let's craft one.ANDpreRequgregtech/gt.metaitem.03~32033Quest Name For 792792gregtech/gt.metaitem.01~32681Quest Name For 14781478rewardsChoicegregtech/gt.metaitem.01~24500Choice Name1gregtech/gt.metaitem.01~24502Choice Name1gregtech/gt.metaitem.01~24501Choice Name1enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~592gregtech/gt.blockmachines~592 Name1
+gregtech/gt.blockmachines-592.png§6§lMV Precision Laser EngraverAdvanced circuits need an MV precision laser engraver. Let's craft one.1-1ANDpre7921gregtech/gt.metaitem.03-32033.png14781gregtech/gt.metaitem.01-32681.pngrewardsChoicegregtech/gt.metaitem.01-24500.pngDiamond Lens\nC
+1gregtech/gt.metaitem.01-24502.pngRuby Lens\nCrAl\u2082O\u2083
+1gregtech/gt.metaitem.01-24501.pngEmerald Lens\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-592.pngAdvanced Precision Laser Engraver\nDon''t look directly at the Laser\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

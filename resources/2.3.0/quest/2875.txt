@@ -1,1 +1,3 @@
-2875Trigger:Loot GameFind a loot game roomANDpreRequrewardstasksORRetrievallootgames/LootGamesDungeonWall~32767lootgames/LootGamesDungeonWall~32767 Name1Retrievallootgames/LootGamesDungeonLight~32767lootgames/LootGamesDungeonLight~32767 Name1
+minecraft/nether_star-0.pngTrigger:Loot GameFind a loot game room0-1ANDprerewardstasksORRetrievallootgames/LootGamesDungeonWall-32767.pngDungeon Wall\nMobs can't spawn on this block.
+1Retrievallootgames/LootGamesDungeonLight-32767.pngDungeon Lamp\nMobs can't spawn on this block.\nGlass-Tier: HV
+1

@@ -1,4 +1,4 @@
-2680§c§lMutating Things is CoolWhen making Raw Crystal Chips, you have two other options if using Europium constantly is too expensive for you: Bacterial Sludge, and Mutagen.
+gregtech/gt.metaitem.98-2.png§c§lMutating Things is CoolWhen making Raw Crystal Chips, you have two other options if using Europium constantly is too expensive for you: Bacterial Sludge, and Mutagen.
 
 Mutagen is obviously better than the sludge, but how do you get it? I'll teach you how.
 
@@ -10,4 +10,10 @@ Once you have your culture you can use it in the vat along with some of the dust
 
 If you want to get more Bacterial Sudge more easily, you can use the vat to make that too! The culture is much easier to make.
 
-§3Mutagen is also used for Gendustry, so if you want to do that, make a bunch.ANDpreRequGalacticraftMars/tile.sludge~0Quest Name For 14691469gregtech/gt.metaitem.03~32070Quest Name For 16871687gregtech/gt.blockmachines~12712Quest Name For 25612561gregtech/gt.blockmachines~12699Quest Name For 25662566gregtech/gt.metaitem.01~2398Quest Name For 26092609rewardstasksANDOptionalgregtech/gt.metaitem.98~1gregtech/gt.metaitem.98~1 Name105gregtech/gt.metaitem.01~2098gregtech/gt.metaitem.01~2098 Name140Optionalgregtech/gt.metaitem.98~2gregtech/gt.metaitem.98~2 Name1gregtech/gt.metaitem.01~2398gregtech/gt.metaitem.01~2398 Name16Optionalbartworks/BioLabParts~0bartworks/BioLabParts~0 Name1Retrievalgregtech/gt.metaitem.98~2gregtech/gt.metaitem.98~2 Name10
+§3Mutagen is also used for Gendustry, so if you want to do that, make a bunch.0-1ANDpre14690GalacticraftMars/tile.sludge-0.png16871gregtech/gt.metaitem.03-32070.png25611gregtech/gt.blockmachines-12712.png25661gregtech/gt.blockmachines-12699.png26090gregtech/gt.metaitem.01-2398.pngrewardstasksANDOptionalgregtech/gt.metaitem.98-1.pngBacterial Sludge Cell
+105gregtech/gt.metaitem.01-2098.pngUranium 238 Dust\nU
+140Optionalgregtech/gt.metaitem.98-2.pngMutagen Cell
+1gregtech/gt.metaitem.01-2398.pngMysterious Crystal Dust
+16Optionalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Mutagen Bacteria a Spatio (Mutagen Bacteria a Spatio)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
+1Retrievalgregtech/gt.metaitem.98-2.pngMutagen Cell
+10

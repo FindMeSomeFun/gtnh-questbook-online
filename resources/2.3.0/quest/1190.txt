@@ -1,1 +1,10 @@
-1190Electric Feeder UnitTo get your tracks electrified you need an electric feeding unit, shunting wires and some support frames. You can use an MFE or a transformer to get GT energy into the feeder unit.ANDpreRequRailcraft/track~0Quest Name For 11891189rewardsChoiceRailcraft/track~32363Choice Name2Railcraft/track~0Choice Name2minecraft/detector_rail~0Choice Name2enhancedlootbags/lootbag~33Choice Name1Itemdreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalRailcraft/machine.epsilon~0Railcraft/machine.epsilon~0 Name1RetrievalRailcraft/machine.delta~0Railcraft/machine.delta~0 Name8Railcraft/frame~0Railcraft/frame~0 Name4
+Railcraft/machine.epsilon-0.pngElectric Feeder UnitTo get your tracks electrified you need an electric feeding unit, shunting wires and some support frames. You can use an MFE or a transformer to get GT energy into the feeder unit.0-1ANDpre11890Railcraft/track-0-electric.pngrewardsChoiceRailcraft/track-32363-buffer-stop.pngBuffer Stop Track\nEnd of the Line\n- Hit with Crowbar to change direction -
+2Railcraft/track-0-gated-oneway.pngGated One-Way Track\nIts a one-way gate\n- Apply Redstone to open -
+2minecraft/detector_rail-0.pngDetector Track
+2enhancedlootbags/lootbag-33.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalRailcraft/machine.epsilon-0.pngElectric Feeder Unit\nConverts IndustrialCraft\nElectricity to Railcraft Charge\nMobs cannot Spawn on this Block
+1RetrievalRailcraft/machine.delta-0.pngElectric Shunting Wire\nConnect Electric Track across gaps\nPlace under Track using Wire Support Frames\nMobs cannot Spawn on this Block
+8Railcraft/frame-0.pngWire Support Frame\nUse to place Track on Shunting Wire\nMobs cannot Spawn on this Block\nGlass-Tier: HV
+4

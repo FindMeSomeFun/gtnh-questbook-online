@@ -1,4 +1,4 @@
-2415Bringing the Biome to YouSo maybe you can't find a swamp or tropical forest for your crops or bees, or maybe they're too far away so they're inconvenient to get to, or maybe your base is in a colder climate and you have to deal with the howls of direwolves constantly. Instead of packing up all your stuff and moving somewhere else, why not try changing the biome? There are a couple different ways to do so in this modpack:
+witchery/ingredient-106.pngBringing the Biome to YouSo maybe you can't find a swamp or tropical forest for your crops or bees, or maybe they're too far away so they're inconvenient to get to, or maybe your base is in a colder climate and you have to deal with the howls of direwolves constantly. Instead of packing up all your stuff and moving somewhere else, why not try changing the biome? There are a couple different ways to do so in this modpack:
 
 Use the Arcane Terrestrial Reformer from Witching Gadgets
 -Requires EV Circuits, Tungstensteel, Rocket Tier III
@@ -39,4 +39,5 @@ Use the Rite of Shifting Seasons from Witchery
 
 If you want to know how to use the Witchery methods, please go to the Look to the edges tab to continue.
 
-PSA: The IC2&Galacticraft Terraformers only change the surface, not the biome itself.ORpreRequNatura/N Crops~0Quest Name For 721721Forestry/habitatLocator~0Quest Name For 15111511rewardstasksANDCheckboxcheckbox  
+PSA: The IC2&Galacticraft Terraformers only change the surface, not the biome itself.0-1ORpre7210Natura/N Crops-0.png15110Forestry/habitatLocator-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

@@ -1,1 +1,6 @@
-2868ElderberryYou can breed an Elderberry by combining Common Alder and Aspen.ANDpreRequForestry/sapling~0Quest Name For 28672867rewardsItemdreamcraft/item.CoinForestry~0Item Name15enhancedlootbags/lootbag~19Item Name1tasksANDOptionalForestry/sapling~0Forestry/sapling~0 Name1Forestry/sapling~0Forestry/sapling~0 Name1RetrievalForestry/sapling~0Forestry/sapling~0 Name1
+Forestry/sapling-0-elder.pngElderberryYou can breed an Elderberry by combining Common Alder and Aspen.0-1ANDpre28670Forestry/sapling-0-aspen.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-alder.pngCommon Alder Sapling\nBurn Time: 100
+1Forestry/sapling-0-aspen.pngAspen Sapling\nBurn Time: 100
+1RetrievalForestry/sapling-0-elder.pngElderberry Sapling\nBurn Time: 100
+1

@@ -1,1 +1,10 @@
-1727Heavy Duty Nose Cone Tier 3Every rocket needs a nose cone. Tier 5 rocket needs a heavy nose cone tier 3.ANDpreRequdreamcraft/item.HeavyDutyPlateTier5~0Quest Name For 17241724rewardsChoicedreamcraft/item.LedoxCompressedPlate~0Choice Name8GalacticraftMars/item.itemBasicAsteroids~6Choice Name8dreamcraft/item.QuantinumCompressedPlate~0Choice Name16enhancedlootbags/lootbag~41Choice Name1Itemdreamcraft/item.CoinTechnicianIII~0Item Name2tasksANDOptionalGalacticraftMars/item.heavyNoseCone~0GalacticraftMars/item.heavyNoseCone~0 Name1dreamcraft/item.HeavyDutyPlateTier5~0dreamcraft/item.HeavyDutyPlateTier5~0 Name4gregtech/gt.metaitem.01~27316gregtech/gt.metaitem.01~27316 Name2Retrievaldreamcraft/item.HeavyDutyNoseConeTier3~0dreamcraft/item.HeavyDutyNoseConeTier3~0 Name1
+dreamcraft/item.HeavyDutyNoseConeTier3-0.pngHeavy Duty Nose Cone Tier 3Every rocket needs a nose cone. Tier 5 rocket needs a heavy nose cone tier 3.1-1ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoicedreamcraft/item.LedoxCompressedPlate-0.pngCompressed Ledox Plate
+8GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+8dreamcraft/item.QuantinumCompressedPlate-0.pngCompressed Quantium Plate
+16enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+2tasksANDOptionalGalacticraftMars/item.heavyNoseCone-0.pngHeavy Nose Cone
+1dreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5
+4gregtech/gt.metaitem.01-27316.pngTungstensteel Screw\n(Fe\u2085\u2080C)W
+2Retrievaldreamcraft/item.HeavyDutyNoseConeTier3-0.pngHeavy Duty Nose Cone Tier 3
+1

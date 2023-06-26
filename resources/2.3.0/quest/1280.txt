@@ -1,1 +1,6 @@
-1280The industrial wayMaking rum can be automated, but you need to follow this industrial way for it.ANDpreRequgregtech/gt.blockmachines~501Quest Name For 12741274minecraft/reeds~0Quest Name For 12771277rewardsItemenhancedlootbags/lootbag~29Item Name1dreamcraft/item.CoinCookI~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.02~32109gregtech/gt.metaitem.02~32109 Name1Fluidpotion.freedpotion.freed Name1000Fluidpotion.swhinepotion.swhine Name1000
+berriespp/BppPotions-4.pngThe industrial wayMaking rum can be automated, but you need to follow this industrial way for it.0-1ANDpre12740gregtech/gt.blockmachines-501.png12770minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+1tasksANDRetrievalgregtech/gt.metaitem.02-32109.pngReed Water\ngregtech:gt.metaitem.02\nI guess this tastes better when fermented\nDiminishing returns start after\neating any food 10 more times
+1Fluidfluids/potion-freed-.pngFermented Reedwater
+1000Fluidfluids/potion-swhine-.pngSugar Whine
+1000

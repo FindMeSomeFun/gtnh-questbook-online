@@ -1,1 +1,3 @@
-2597Stargate CommandOkay so if you actually want to use the stargate you'll need these to power it and dial it up.ANDpreRequSGCraft/ic2Capacitor~0Quest Name For 25942594rewardstasksANDRetrievalSGCraft/rfPowerUnit~0SGCraft/rfPowerUnit~0 Name1SGCraft/ocInterface~0SGCraft/ocInterface~0 Name1
+SGCraft/stargateController-0.pngStargate CommandOkay so if you actually want to use the stargate you'll need these to power it and dial it up.1-1ANDpre25941SGCraft/ic2Capacitor-0.pngrewardstasksANDRetrievalSGCraft/rfPowerUnit-0.pngRF Stargate Power Unit
+1SGCraft/ocInterface-0.pngOpenComputers Stargate Interface
+1

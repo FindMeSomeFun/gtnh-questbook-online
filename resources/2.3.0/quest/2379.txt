@@ -1,4 +1,4 @@
-2379Infused Brewing StandA Brewing Stand with one or more special effects (enhancements).
+HardcoreEnderExpansion/enhanced_brewing_stand-0.pngInfused Brewing StandA Brewing Stand with one or more special effects (enhancements).
 
 You can upgrade your Enhanced Brewing Stand with End Powder to modify it like other HEE items. 
 
@@ -12,4 +12,14 @@ Speed (Igneous Rock)
 Increases the speed of the Brewing Stand.
 
 Cost (Emerald)
-Reduces the cost of End Powder used in a brewing cycle.ANDpreRequHardcoreEnderExpansion/enhanced_brewing_stand~0Quest Name For 23542354rewardsItemHardcoreEnderExpansion/essence~0Item Name32enhancedlootbags/lootbag~58Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2HardcoreEnderExpansion/knowledge_note~0Item Name2tasksANDRetrievalHardcoreEnderExpansion/enhanced_brewing_stand~0HardcoreEnderExpansion/enhanced_brewing_stand~0 Name1RetrievalHardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name6HardcoreEnderExpansion/endoplasm~0HardcoreEnderExpansion/endoplasm~0 Name5HardcoreEnderExpansion/igneous_rock~0HardcoreEnderExpansion/igneous_rock~0 Name5minecraft/emerald~0minecraft/emerald~0 Name5
+Reduces the cost of End Powder used in a brewing cycle.0-1ANDpre23540HardcoreEnderExpansion/enhanced_brewing_stand-0.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
+32enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n55 Knowledge Points
+2tasksANDRetrievalHardcoreEnderExpansion/enhanced_brewing_stand-0.pngEnhanced Brewing Stand
+1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+6HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+5HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock\nBurn Time: 8000
+5minecraft/emerald-0.pngEmerald
+5

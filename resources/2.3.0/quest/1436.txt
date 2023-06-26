@@ -1,1 +1,9 @@
-1436Fueling Your BuggyThe moon buggy needs fuel to work. Build a 3x3 fueling pad, connect it with a fuel loader, and place the buggy on top.ANDpreRequGalacticraftCore/item.buggy~0Quest Name For 14341434rewardsChoiceIC2/itemPartAlloy~0Choice Name4gregtech/gt.metaitem.01~11306Choice Name8enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalGalacticraftCore/item.basicItem~9GalacticraftCore/item.basicItem~9 Name9IC2/itemPartAlloy~0IC2/itemPartAlloy~0 Name9Railcraft/cube~2Railcraft/cube~2 Name9RetrievalGalacticraftCore/tile.landingPad~1GalacticraftCore/tile.landingPad~1 Name9
+GalacticraftCore/tile.landingPad-1.pngFueling Your BuggyThe moon buggy needs fuel to work. Build a 3x3 fueling pad, connect it with a fuel loader, and place the buggy on top.0-1ANDpre14340GalacticraftCore/item.buggy-0.pngrewardsChoiceIC2/itemPartAlloy-0.pngAdvanced Alloy
+4gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
+9IC2/itemPartAlloy-0.pngAdvanced Alloy
+9Railcraft/cube-2.pngBlock of Steel\nMobs cannot Spawn on this Block
+9RetrievalGalacticraftCore/tile.landingPad-1.pngBuggy Fueling Pad
+9

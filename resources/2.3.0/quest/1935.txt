@@ -1,8 +1,10 @@
-1935A Better ChiselIf you want to decorate your base, you're going to need a better chisel.
+chisel/obsidianChisel-0.pngA Better ChiselIf you want to decorate your base, you're going to need a better chisel.
 
 Normal: 256
 Obsidian: 512
 Diamond: 2560
 Bedrockium: 32767
 
-They obviously get harder to make the longer they last.ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemminecraft/diamond~0Item Name2tasksANDRetrievalchisel/obsidianChisel~0chisel/obsidianChisel~0 Name1
+They obviously get harder to make the longer they last.0-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+2tasksANDRetrievalchisel/obsidianChisel-0.pngObsidian Chisel\nRight-Click to open GUI\nLeft click to chisel blocks in world\nCan target a block by leaving it in the inventory\nHas multiple modes for chiseling.\n+4 Attack Damage\nChisel from Chisel Mod
+1

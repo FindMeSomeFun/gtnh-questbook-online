@@ -1,1 +1,3 @@
-3036Trigger:Naqline SkipNo DescriptionANDpreRequrewardsQuestcompletionEnderIO/blockEnderIo~0Quest Name2941tasksANDRetrievalgregtech/gt.metaitem.01~2324gregtech/gt.metaitem.01~2324 Name64
+gregtech/gt.metaitem.01-2324.pngTrigger:Naqline SkipNo Description0-1ANDprerewardsQuestcompletiongregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+2941tasksANDRetrievalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+64

@@ -1,4 +1,4 @@
-948§3§lBetter Than IronBut not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.
+gregtech/gt.metaitem.01-11304.png§3§lBetter Than IronBut not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.
 
 To make wrought iron, you need a tinkers smelter to melt some iron ingots down and cast nuggets; or use an ingot and a saw to get your nuggets. Now put these in a furnace to get wrought iron nuggets. With the compressor, you can compress the nuggets into ingots.
 
@@ -6,4 +6,11 @@ To make wrought iron, you need a tinkers smelter to melt some iron ingots down a
 
 Later on, you can use an arc furnace to make wrought iron ingots directly.
 
-ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565rewardsItemgregtech/gt.metatool.01~12Item Name1gregtech/gt.metatool.01~16Item Name1gregtech/gt.metaitem.02~32243Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~9032gregtech/gt.metaitem.01~9032 Name63Optionalgregtech/gt.metaitem.01~9304gregtech/gt.metaitem.01~9304 Name63Retrievalgregtech/gt.metaitem.01~11304gregtech/gt.metaitem.01~11304 Name7
+1-1ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metatool.01-12-WroughtIron-Wood.pngHammer\nDurability: 38,400 / 38,400\nWrought Iron lvl 2\nAttack Damage: 5.0\nMining Speed: 4.5\nCrushes Ores instead of harvesting them\nUsable for Prospecting\nSharpness II
+1gregtech/gt.metatool.01-16-WroughtIron-WroughtIron.pngWrench\nDurability: 38,400 / 38,400\nWrought Iron lvl 2\nAttack Damage: 5.0\nMining Speed: 6.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
+1gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich\ngregtech:gt.metaitem.02\nFor Men! (and manly Women)\nDiminishing returns start after\neating any food 10 more times
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-9032.pngIron Nugget\nFe
+63Optionalgregtech/gt.metaitem.01-9304.pngWrought Iron Nugget\nFe
+63Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot\nFe
+7

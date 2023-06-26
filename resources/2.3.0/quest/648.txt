@@ -1,3 +1,11 @@
-648Refill Your JetpackGREAT.... you now have an empty jetpack. You need 25 electrotine dust to completely fill it. Let's craft an electrotine generator and a charging bench to use the power of electrotine. 
+ProjRedCore/projectred.core.part-56.pngRefill Your JetpackGREAT.... you now have an empty jetpack. You need 25 electrotine dust to completely fill it. Let's craft an electrotine generator and a charging bench to use the power of electrotine. 
 
-You will very quickly discover that, while it is fast and cheap, it's empty in the blink of an eye. Despite this, it is useful in combination with the hang glider to get into the air and to get away from hairy situations.ANDpreRequProjRedExpansion/projectred.expansion.jetpack~0Quest Name For 647647rewardsChoiceProjRedCore/projectred.core.part~56Choice Name64ProjRedExpansion/projectred.expansion.solar_panel~0Choice Name1enhancedlootbags/lootbag~4Choice Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalProjRedExpansion/projectred.expansion.machine1~1ProjRedExpansion/projectred.expansion.machine1~1 Name1ProjRedExpansion/projectred.expansion.machine2~6ProjRedExpansion/projectred.expansion.machine2~6 Name1ProjRedCore/projectred.core.part~56ProjRedCore/projectred.core.part~56 Name25RetrievalProjRedExpansion/projectred.expansion.jetpack~0ProjRedExpansion/projectred.expansion.jetpack~0 Name1
+You will very quickly discover that, while it is fast and cheap, it's empty in the blink of an eye. Despite this, it is useful in combination with the hang glider to get into the air and to get away from hairy situations.0-1ANDpre6470ProjRedExpansion/projectred.expansion.jetpack-0.pngrewardsChoiceProjRedCore/projectred.core.part-56.pngElectrotine
+64ProjRedExpansion/projectred.expansion.solar_panel-0.pngSolar Panel
+1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalProjRedExpansion/projectred.expansion.machine1-1.pngElectrotine Generator
+1ProjRedExpansion/projectred.expansion.machine2-6.pngCharging Bench
+1ProjRedCore/projectred.core.part-56.pngElectrotine
+25RetrievalProjRedExpansion/projectred.expansion.jetpack-0.pngJetpack\nProtection: 8\nDurability: 6400/6400
+1

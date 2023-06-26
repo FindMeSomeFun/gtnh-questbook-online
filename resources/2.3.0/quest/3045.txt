@@ -1,5 +1,9 @@
-3045§b§lZirconia-Hafnia BlendThis process is a little involved so I'll guide you through it. First, centrifuge the dust you got from the dissolution tank.
+bartworks/gt.bwMetaGenerateddust-11011.png§b§lZirconia-Hafnia BlendThis process is a little involved so I'll guide you through it. First, centrifuge the dust you got from the dissolution tank.
 
 Because Hafnium and Zirconium are refractory metals, like Titanium and Zirconium,
 they have very similar process to it and each other. 
-ANDpreRequbartworks/gt.bwMetaGeneratedcell~11015Quest Name For 30443044rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGenerateddust~11011bartworks/gt.bwMetaGenerateddust~11011 Name1Retrievalbartworks/gt.bwMetaGenerateddust~11002bartworks/gt.bwMetaGenerateddust~11002 Name1bartworks/gt.bwMetaGenerateddust~11008bartworks/gt.bwMetaGenerateddust~11008 Name1
+0-1ANDpre30441bartworks/gt.bwMetaGeneratedcell-11015.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11011.pngHafnia-Zirconia Blend Dust\n??HfZr??\nAdded by GTNH: Lanthanides via BartWorks
+1Retrievalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dust\nHfO\u2082\nAdded by GTNH: Lanthanides via BartWorks
+1bartworks/gt.bwMetaGenerateddust-11008.pngZirconia Dust\nZrO\u2082\nAdded by GTNH: Lanthanides via BartWorks
+1

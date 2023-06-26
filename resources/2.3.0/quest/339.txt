@@ -1,1 +1,11 @@
-339Circle MagicFor circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.ANDpreRequwitchery/distilleryidle~0Quest Name For 15711571rewardsChoicewitchery/ingredient~67Choice Name10witchery/ingredient~29Choice Name5enhancedlootbags/lootbag~54Choice Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinWitchII~0Item Name1tasksANDRetrievalwitchery/chalkritual~0witchery/chalkritual~0 Name1witchery/chalkheart~0witchery/chalkheart~0 Name1witchery/chalkinfernal~0witchery/chalkinfernal~0 Name1witchery/chalkotherwhere~0witchery/chalkotherwhere~0 Name1witchery/circletalisman~0witchery/circletalisman~0 Name1
+witchery/chalkritual-0.pngCircle MagicFor circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.0-1ANDpre15710witchery/distilleryidle-0.pngrewardsChoicewitchery/ingredient-67.pngEnder Dew
+10witchery/ingredient-29.pngDiamond Vapor
+5enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDRetrievalwitchery/chalkritual-0.pngRitual Chalk
+1witchery/chalkheart-0.pngGolden Chalk
+1witchery/chalkinfernal-0.pngInfernal Chalk
+1witchery/chalkotherwhere-0.pngOtherwhere Chalk
+1witchery/circletalisman-0.pngCircle Talisman
+1

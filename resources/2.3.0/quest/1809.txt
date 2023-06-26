@@ -1,1 +1,4 @@
-1809Renewable OilOil from crops? Makes as much sense as oil from bees!ANDpreRequminecraft/coal~0Quest Name For 19271927rewardsItemgregtech/gt.metaitem.01~30707Item Name64enhancedlootbags/lootbag~51Item Name2tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name1
+gendustry/HoneyDrop-2000.pngRenewable OilOil from crops? Makes as much sense as oil from bees!0-1ANDpre19270minecraft/coal-0.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
+64enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+2tasksANDRetrievalIC2/itemCropSeed-0.pngOilberries Seeds\nGr 0\nGa 0\nRe 0
+1

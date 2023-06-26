@@ -1,7 +1,12 @@
-266More Energetic ScrewsThose stainless steel screws don't work on these rods. Due to the huge amounts of vis those wands can carry, the screws somehow "melt" away. I need a material that can handle these energies. I should try energetic alloy next.
+gregtech/gt.metaitem.01-27366.pngMore Energetic ScrewsThose stainless steel screws don't work on these rods. Due to the huge amounts of vis those wands can carry, the screws somehow "melt" away. I need a material that can handle these energies. I should try energetic alloy next.
 
 §3If you are struggling to make the next wand in this step or one of the next, you should try to get more discount on your gear.
 
 Also look at the various caps, the better ones are more expensive to craft but give discounts or other benefits. In many situations you might need to start with cheap ones and only make the better caps later.
 
-You can also improve your wand with augmentations.ORpreRequThaumcraft/WandRod~1Quest Name For 264264Thaumcraft/WandRod~4Quest Name For 267267Thaumcraft/WandRod~5Quest Name For 268268Thaumcraft/WandRod~6Quest Name For 269269Thaumcraft/WandRod~3Quest Name For 270270Thaumcraft/WandRod~7Quest Name For 271271ThaumicExploration/transmutationCore~0Quest Name For 32083208rewardsItemThaumcraft/ItemLootBag~1Item Name1gregtech/gt.metaitem.01~27366Item Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~27366gregtech/gt.metaitem.01~27366 Name4
+You can also improve your wand with augmentations.1-1ORpre2640Thaumcraft/WandRod-1.png2670Thaumcraft/WandRod-4.png2680Thaumcraft/WandRod-5.png2690Thaumcraft/WandRod-6.png2700Thaumcraft/WandRod-3.png2710Thaumcraft/WandRod-7.png32080ThaumicExploration/transmutationCore-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+4

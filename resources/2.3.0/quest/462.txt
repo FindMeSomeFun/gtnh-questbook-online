@@ -1,1 +1,3 @@
-462Wyvern CoreWyverns are rare dragons that can walk on two legs. More powerful for sure. Researching your Draconic Core, you found a way to improve it. The Wyvern Core.ANDpreRequDraconicEvolution/draconicCore~0Quest Name For 464464gregtech/gt.metaitem.03~32120Quest Name For 26652665rewardstasksANDRetrievalEMT/EMTItems~17EMT/EMTItems~17 Name1RetrievalDraconicEvolution/wyvernCore~0DraconicEvolution/wyvernCore~0 Name1
+DraconicEvolution/wyvernCore-0.pngWyvern CoreWyverns are rare dragons that can walk on two legs. More powerful for sure. Researching your Draconic Core, you found a way to improve it. The Wyvern Core.0-1ANDpre4640DraconicEvolution/draconicCore-0.png26651gregtech/gt.metaitem.03-32120.pngrewardstasksANDRetrievalEMT/EMTItems-17.pngWyvern Core Schematic
+1RetrievalDraconicEvolution/wyvernCore-0.pngWyvern Core
+1

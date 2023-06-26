@@ -1,1 +1,7 @@
-636First Handmade BreadBaking your dough in a Furnace makes some tasty bread. Your first bread!ANDpreRequminecraft/carrot~0Quest Name For 77gregtech/gt.metaitem.02~32559Quest Name For 637637rewardsChoicegregtech/gt.metatool.01~34Choice Name1gregtech/gt.metatool.01~24Choice Name1gregtech/gt.metatool.01~46Choice Name1enhancedlootbags/lootbag~28Choice Name1Itemdreamcraft/item.CoinCook~0Item Name15tasksANDRetrievalminecraft/bread~0minecraft/bread~0 Name8
+minecraft/bread-0.pngFirst Handmade BreadBaking your dough in a Furnace makes some tasty bread. Your first bread!0-1ANDpre71minecraft/carrot-0.png6370gregtech/gt.metaitem.02-32559.pngrewardsChoicegregtech/gt.metatool.01-34-Steel-Steel.pngKnife\nDurability: 51,200 / 51,200\nSteel lvl 3\nAttack Damage: 3.0\nMining Speed: 3.0\nSharpness II
+1gregtech/gt.metatool.01-24-Steel-Stone.pngMortar\nDurability: 51,200 / 51,200\nSteel lvl 3\nAttack Damage: 5.0\nMining Speed: 6.0
+1gregtech/gt.metatool.01-46-Aluminium-Aluminium.pngRolling Pin\nDurability: 12,800 / 12,800\nAluminium lvl 2\nAttack Damage: 4.0\nMining Speed: 10.0
+1enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+15tasksANDRetrievalminecraft/bread-0.pngBread\nminecraft:bread\nDiminishing returns start after\neating any food 10 more times
+8

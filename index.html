@@ -6,42 +6,48 @@
 		<title>GTNH BetterQuesting Wiki</title>
 	</head> 
 	<body class="switch-theme dark">
-		<div class="switch-theme dark" id="header">
-			<div class="dropdown">
-				<button onclick="showList()" class="dropbtn switch-theme dark">
-					<img id="questLineImg" src="./resources/image/gtnh.png"> <span id="questLineName"> Select A QuestLine</span>
-				</button>
-				<div id="questLines" class="dropdown-content">
+		<div class="switch-theme dark" id="main">
+			<div>
+				<div class="dropdown">
+					<button onclick="showList('versions')" class="dropbtn switch-theme dark"  id="versionsDiv">
+						<input id="version" type="hidden" value="" /><img src="./resources/image/gtnh.png"> <span id="showVersion"> 2.3.0</span>
+					</button>
+					<div id="versions" class="dropdown-content"></div>
+				</div>
+				<div class="dropdown">
+					<button onclick="showList('questLines')" class="dropbtn switch-theme dark">
+						<img id="questLineImg" src="./resources/image/gtnh.png"><span id="questLineName">Select A QuestLin</span>
+					</button>
+					<div id="questLines" class="dropdown-content"></div>
+				</div>
+				
+				<div id="theme-btn">
+					<input type="checkbox" id="lights-on"/>
+					<label class="icon" onclick="switchTheme()"><img src="./resources/image/sun.png"></img></label>
 				</div>
 			</div>
 			
-			<span>
-				<label>Version:</label>
-				<select id="versions"> </select>
-			</span>
-			
-			<div id="theme-btn">
-				<input type="checkbox" id="lights-on"/>
-				<label onclick="switchTheme()"><img src="./resources/image/sun.png"></img></label> 
-			</div>
-		</div>
-		<div id="main">
-			<div id="questLineDesc">
+			<div id="welcome" style="text-align: center; font-size: 28px;">
+				<br /><h1>Welcome to</h1><br />
+				<img style="width: 645px; height: 500px;" src="./resources/image/title.png"></img><br />
+				<h1>GregTech: New Horizons</h1><br />
+				<h1>QuestBook Wiki Page</h1><br />
 			</div>
 			
-			<div class="switch-theme dark">
-				<div id="questLineTree">
-					<div id="welcome">
-						<h1>Welcome to</h1>
-						<img src="./resources/image/title.png"></img>
-						<h1>GregTech New Horizons</h1>
-						<h1>QuestBook Wiki Page</h1>
-					</div>
+			<div>
+				<div id="questLineDesc"></div>
+			</div>
+			
+			<div>
+				<div>
+					<div id="questLineTree"></div>
 				</div>
 			</div>
-			
-			<div class="questInfo" id="questInfo">
-			</div>
+			<span id="questInfoView">Quest Info</span>
+			<div class="questInfo" id="questInfo"></div>
+			<span id="preInfoView">Pre Quest Info</span>
+			<div class="questInfo" id="preQuestInfo"></div>
+			<span>Pinned Quests</span>
 		</div>
 	</body>
 	<script type="text/javascript" src="./resources/code.js"></script>

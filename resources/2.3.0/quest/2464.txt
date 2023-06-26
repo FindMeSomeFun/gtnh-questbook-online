@@ -1,1 +1,4 @@
-2464256k ComponentThey work the same as the previous ones, but hold more once you make it into something.ANDpreRequdreamcraft/item.EngineeringProcessorItemEmeraldCore~0Quest Name For 24632463rewardsItemdreamcraft/item.EmeraldAdvancedCoreChip~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name4tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial~57appliedenergistics2/item.ItemMultiMaterial~57 Name1
+appliedenergistics2/item.ItemMultiMaterial-57.png256k ComponentThey work the same as the previous ones, but hold more once you make it into something.0-1ANDpre24630dreamcraft/item.EngineeringProcessorItemEmeraldCore-0.pngrewardsItemdreamcraft/item.EmeraldAdvancedCoreChip-0.pngItem Circuit Tier III
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+4tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-57.png256k ME Storage Component
+1

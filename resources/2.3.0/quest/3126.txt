@@ -1,5 +1,8 @@
-3126Sodium HydroxideThe Biodiesel needs a bit of powder magic. In reality, this powder is another chemical that this chain uses, Sodium Hydroxide, NaOH. The bad part is that you can't continue without making this, but there's a boon to this: you only need a little bit of it, around 1 dust to make 45 buckets of Biodiesel. 
+gregtech/gt.metaitem.01-2685.pngSodium HydroxideThe Biodiesel needs a bit of powder magic. In reality, this powder is another chemical that this chain uses, Sodium Hydroxide, NaOH. The bad part is that you can't continue without making this, but there's a boon to this: you only need a little bit of it, around 1 dust to make 45 buckets of Biodiesel. 
 
 Unlike in the other steps, you can probably get away with batch crafting this instead of automating it, and still have consistent power from this fuel line. One stack of this dust is enough to make more than 100 million EU's worth of power, as long as the other fluids are automated. Given that, you can forget about it for a long time, but not forever. If you choose to not automate it yet, make sure you check it from time to time.
 
-(This can be automated from Salt Water, which can be automated from Tearstalks, a specific IC2 crop. You get Chlorine and Hydrogen as well.)ANDpreRequgregtech/gt.metaitem.02~32557Quest Name For 30993099rewardsItemenhancedlootbags/lootbag~5Item Name1dreamcraft/item.CoinChemistI~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~2685gregtech/gt.metaitem.01~2685 Name16
+(This can be automated from Salt Water, which can be automated from Tearstalks, a specific IC2 crop. You get Chlorine and Hydrogen as well.)0-1ANDpre30990gregtech/gt.metaitem.02-32557.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+1tasksANDRetrievalgregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust\nNaOH
+16

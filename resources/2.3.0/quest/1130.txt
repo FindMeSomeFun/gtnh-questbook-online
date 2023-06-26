@@ -1,3 +1,9 @@
-1130§2§3§e§4§3§lExtra ModifierIf you don't have an extra modifier on your tool you can easily add one. A gold block and a diamond are all you need.
+TConstruct/creativeModifier-0.png§2§3§e§4§3§lExtra ModifierIf you don't have an extra modifier on your tool you can easily add one. A gold block and a diamond are all you need.
 
-You can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454minecraft/diamond~0Quest Name For 495495rewardsItemgregtech/gt.blockores~86Item Name16gregtech/gt.metaitem.01~11300Item Name8harvestcraft/leafyfishsandwichItem~0Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalminecraft/gold_block~0minecraft/gold_block~0 Name1minecraft/diamond~0minecraft/diamond~0 Name1
+You can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.0-1ANDpre541gregtech/gt.blockmachines-115.png4950minecraft/diamond-0.pngrewardsItemgregtech/gt.blockores-86.pngGold Ore\nAu
+16gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
+8harvestcraft/leafyfishsandwichItem-0.pngLeafy Fish Sandwich\nharvestcraft:leafyfishsandwichItem\nDiminishing returns start after\neating any food 10 more times
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalminecraft/gold_block-0.pngBlock of Gold
+1minecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1

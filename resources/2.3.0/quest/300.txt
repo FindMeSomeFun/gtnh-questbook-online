@@ -1,3 +1,7 @@
-300Cleaning the GooAs you do more and more infusions, you're getting tired of removing all the flux that's generated. The shovel of the purifier will help you cleaning up flux, and is a must-have.
+ForbiddenMagic/TaintShovel-0.pngCleaning the GooAs you do more and more infusions, you're getting tired of removing all the flux that's generated. The shovel of the purifier will help you cleaning up flux, and is a must-have.
 
-§3Actually this is pretty useless, if you have any concept of what you're doing.ANDpreRequThaumcraft/blockTube~7Quest Name For 295295rewardsItemenhancedlootbags/lootbag~10Item Name1Itemdreamcraft/item.CoinFarmerI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalForbiddenMagic/TaintShovel~0ForbiddenMagic/TaintShovel~0 Name1
+§3Actually this is pretty useless, if you have any concept of what you're doing.0-1ANDpre2950Thaumcraft/blockTube-7.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalForbiddenMagic/TaintShovel-0.pngShovel of the Purifier\n+4 Attack Damage\nDurability: 1500/1500
+1

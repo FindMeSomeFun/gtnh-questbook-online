@@ -1,1 +1,5 @@
-2313§b§lRemoving Sludge From the IridiumSeperating Iridium from the Sludge is quite easy. Just heat it in the Blast Furnace and you're done with this step. The Sludge can be centrifuged into Gold and SiO2.ANDpreRequbartworks/gt.bwMetaGeneratedcell~72Quest Name For 23122312rewardsItemgregtech/gt.metaitem.01~32008Item Name64tasksANDOptionalbartworks/gt.bwMetaGenerateddust~70bartworks/gt.bwMetaGenerateddust~70 Name1Retrievalbartworks/gt.bwMetaGenerateddust~73bartworks/gt.bwMetaGenerateddust~73 Name1bartworks/gt.bwMetaGenerateddust~71bartworks/gt.bwMetaGenerateddust~71 Name1
+bartworks/gt.bwMetaGenerateddust-73.png§b§lRemoving Sludge From the IridiumSeperating Iridium from the Sludge is quite easy. Just heat it in the Blast Furnace and you're done with this step. The Sludge can be centrifuged into Gold and SiO2.1-1ANDpre23121bartworks/gt.bwMetaGeneratedcell-72.pngrewardsItemgregtech/gt.metaitem.01-32008.pngAncient Gold Coin\nFound in ancient Ruins
+64tasksANDOptionalbartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dust\n??Ir??\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGenerateddust-73.pngIridium Dioxide Dust\nIrO\u2082\nAdded by BartWorks
+1bartworks/gt.bwMetaGenerateddust-71.pngSludge Dust Residue Dust\n(SiO\u2082)\u2083Au\u2082\nAdded by BartWorks
+1

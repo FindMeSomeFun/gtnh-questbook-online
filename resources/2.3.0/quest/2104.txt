@@ -1,1 +1,11 @@
-2104Tools for the GeneticistYou'll need various tools and supplies before you start manipulating genetic material.ANDpreRequGenetics/misc~0Quest Name For 20812081rewardsItemGenetics/misc~7Item Name8Genetics/misc~1Item Name16Genetics/misc~2Item Name16EnderIO/itemPowerConduit~0Item Name8tasksANDRetrievalGenetics/misc~1Genetics/misc~1 Name16Genetics/misc~2Genetics/misc~2 Name16Genetics/misc~5Genetics/misc~5 Name2Genetics/misc~6Genetics/misc~6 Name2Genetics/misc~7Genetics/misc~7 Name1Genetics/misc~8Genetics/misc~8 Name4
+Genetics/misc-6.pngTools for the GeneticistYou'll need various tools and supplies before you start manipulating genetic material.0-1ANDpre20810Genetics/misc-0.pngrewardsItemGenetics/misc-7.pngEmpty Serum Array
+8Genetics/misc-1.pngDNA Dye
+16Genetics/misc-2.pngFluorescent Dye
+16EnderIO/itemPowerConduit-0.pngEnergy Conduit\nMax Output 640 RF/t
+8tasksANDRetrievalGenetics/misc-1.pngDNA Dye
+16Genetics/misc-2.pngFluorescent Dye
+16Genetics/misc-5.pngBlank Sequence
+2Genetics/misc-6.pngEmpty Serum Vial
+2Genetics/misc-7.pngEmpty Serum Array
+1Genetics/misc-8.pngGlass Cylinder
+4

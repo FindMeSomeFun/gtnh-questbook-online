@@ -1,7 +1,16 @@
-1179§6§lEBF InfoYou can use a scanner to manually check how your EBF works, or you can make an information panel from nuclear control and always see the status. Make a GT sensor kit and use it on the EBF controller. Place the the sensor card in your info panel. Enable it with a redstone signal.
+IC2NuclearControl/blockNuclearControlMain-4.png§6§lEBF InfoYou can use a scanner to manually check how your EBF works, or you can make an information panel from nuclear control and always see the status. Make a GT sensor kit and use it on the EBF controller. Place the the sensor card in your info panel. Enable it with a redstone signal.
 
 The GregTech sensor card can monitor GregTech machines like the EBF, Turbines, and Pyrolyse ovens. This is handy for keeping an eye on maintenance issues for multiblocks.
 
 If you want to put the panels far from the machines they are monitoring, you will need range upgrades.
 
-§3There's also a more advanced version.ANDpreRequgregtech/gt.blockmachines~1000Quest Name For 7777gregtech/gt.metaitem.01~11019Quest Name For 103103rewardsChoicegregtech/gt.metaitem.01~17880Choice Name9IC2/itemPartCarbonMesh~0Choice Name9gregtech/gt.metaitem.01~30726Choice Name4enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalIC2NuclearControl/blockNuclearControlMain~4IC2NuclearControl/blockNuclearControlMain~4 Name1IC2NuclearControl/blockNuclearControlMain~5IC2NuclearControl/blockNuclearControlMain~5 Name1Retrievalgregtech/gt.metaitem.01~32763gregtech/gt.metaitem.01~32763 Name1Retrievalminecraft/lever~0minecraft/lever~0 Name1
+§3There's also a more advanced version.0-1ANDpre771gregtech/gt.blockmachines-1000.png1031gregtech/gt.metaitem.01-11019.pngrewardsChoicegregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+9IC2/itemPartCarbonMesh-0.pngRaw Carbon Mesh
+9gregtech/gt.metaitem.01-30726.pngRefined Glue Cell\nNo Horses were harmed for the Production
+4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalIC2NuclearControl/blockNuclearControlMain-4.pngIndustrial Information Panel
+1IC2NuclearControl/blockNuclearControlMain-5.pngInformation Panel Extender
+1Retrievalgregtech/gt.metaitem.01-32763.pngGregTech Sensor Kit\nUsed to display Information using the Mod Nuclear Control
+1Retrievalminecraft/lever-0.pngLever
+1

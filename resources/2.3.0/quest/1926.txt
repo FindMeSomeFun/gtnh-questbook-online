@@ -1,5 +1,11 @@
-1926§2§lA Quicker Way to Get AroundAre you ready for a longer trip? With your new lunch box, saddle, lead and of course a horse, we can start a small journey. Be sure to make paths over water, horses don't like going through deep water. If you get unseated in deep water, you can try getting on repeatedly and moving a small distance each time, this may be faster for small rivers. You can also try jumping over the deep parts if it isn't that big.
+minecraft/saddle-0.png§2§lA Quicker Way to Get AroundAre you ready for a longer trip? With your new lunch box, saddle, lead and of course a horse, we can start a small journey. Be sure to make paths over water, horses don't like going through deep water. If you get unseated in deep water, you can try getting on repeatedly and moving a small distance each time, this may be faster for small rivers. You can also try jumping over the deep parts if it isn't that big.
 
 If you are playing single player or a local server, horses make a great way to get around. On nonlocal servers they can cause problems and desync if you have poor internet, or if the server doesn't have good TPS. Like all the official servers.
 
-You can tie the lead to your horse and the fence to get it to stick around while you investigate something.ANDpreRequBackpack/tannedLeather~0Quest Name For 486486rewardsItemminecraft/spawn_egg~100Item Name1Itemenhancedlootbags/lootbag~2Item Name1dreamcraft/item.CoinAdventure~0Item Name3tasksANDRetrievalminecraft/saddle~0minecraft/saddle~0 Name1minecraft/lead~0minecraft/lead~0 Name1minecraft/fence~0minecraft/fence~0 Name1
+You can tie the lead to your horse and the fence to get it to stick around while you investigate something.0-1ANDpre4860Backpack/tannedLeather-0.pngrewardsItemminecraft/spawn_egg-100.pngSpawn Horse
+1Itemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+3tasksANDRetrievalminecraft/saddle-0.pngSaddle
+1minecraft/lead-0.pngLead
+1minecraft/fence-0.pngFence\nBurn Time: 300
+1

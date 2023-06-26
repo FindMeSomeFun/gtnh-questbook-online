@@ -1,3 +1,6 @@
-758MV Battery HullsBetter machines need better batteries. Let's make some MV battery hulls for new batteries.
+gregtech/gt.metaitem.01-32501.pngMV Battery HullsBetter machines need better batteries. Let's make some MV battery hulls for new batteries.
 
-It's up to you what kind of battery to make, but realistically you'll probably make Sodium or Lithium.ANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~32501gregtech/gt.metaitem.01~32501 Name4
+It's up to you what kind of battery to make, but realistically you'll probably make Sodium or Lithium.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-32501.pngMedium Battery Hull\nAn empty MV Battery Hull
+4

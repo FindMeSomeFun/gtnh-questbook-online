@@ -1,1 +1,15 @@
-405The Power of InfinityYou've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.ANDpreRequwitchery/babashat~0Quest Name For 398398witchery/hornofthehunt~0Quest Name For 399399minecraft/dragon_egg~0Quest Name For 400400witchery/leonardsurn~0Quest Name For 401401witchery/ingredient~141Quest Name For 402402witchery/quiverofmog~0Quest Name For 403403witchery/ingredient~23Quest Name For 404404TConstruct/slime.gel~0Quest Name For 21112111rewardsItemwitchery/infinityegg~0Item Name1Itemdreamcraft/item.CoinSurvivorIV~0Item Name1dreamcraft/item.CoinDarkWizardIV~0Item Name1dreamcraft/item.CoinAdventureIV~0Item Name1tasksANDRetrievalminecraft/dragon_egg~0minecraft/dragon_egg~0 Name1Retrievalwitchery/chalkheart~0witchery/chalkheart~0 Name1witchery/chalkinfernal~0witchery/chalkinfernal~0 Name1witchery/chalkritual~0witchery/chalkritual~0 Name1witchery/chalkotherwhere~0witchery/chalkotherwhere~0 Name1Retrievalwitchery/ingredient~64witchery/ingredient~64 Name1witchery/ingredient~45witchery/ingredient~45 Name8witchery/ingredient~80witchery/ingredient~80 Name4witchery/ingredient~23witchery/ingredient~23 Name4RetrievalThaumcraft/ItemEldritchObject~3Thaumcraft/ItemEldritchObject~3 Name1
+witchery/infinityegg-0.pngThe Power of InfinityYou've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.0-1ANDpre3980witchery/babashat-0.png3990witchery/hornofthehunt-0.png4000minecraft/dragon_egg-0.png4010witchery/leonardsurn-0.png4020witchery/ingredient-141.png4030witchery/quiverofmog-0.png4040witchery/ingredient-23.png21110TConstruct/slime.gel-0.pngrewardsItemwitchery/infinityegg-0.pngInfinity Egg
+1Itemdreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K"
+1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
+1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
+1tasksANDConsumeminecraft/dragon_egg-0.pngDragon Egg
+1Consumewitchery/chalkheart-0.pngGolden Chalk
+1witchery/chalkinfernal-0.pngInfernal Chalk
+1witchery/chalkritual-0.pngRitual Chalk
+1witchery/chalkotherwhere-0.pngOtherwhere Chalk
+1Consumewitchery/ingredient-64.pngNecromantic Stone
+1witchery/ingredient-45.pngInfernal Animus
+8witchery/ingredient-80.pngDemonic Blood
+4witchery/ingredient-23.pngDemon Heart
+4ConsumeThaumcraft/ItemEldritchObject-3.pngPrimordial Pearl\nThe very fabric of magic seems \nto buckle each time it pulses.
+1

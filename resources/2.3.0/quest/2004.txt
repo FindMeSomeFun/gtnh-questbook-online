@@ -1,1 +1,3 @@
-2004Advanced Inventory RelayAn Advanced Inventory Relay can add/remove items from a player's inventory.ANDpreRequStevesFactoryManager/BlockCableRelayName~0Quest Name For 20012001rewardsItemStevesFactoryManager/BlockCableRelayName~8Item Name2tasksANDRetrievalStevesFactoryManager/BlockCableRelayName~8StevesFactoryManager/BlockCableRelayName~8 Name1
+StevesFactoryManager/BlockCableRelayName-8.pngAdvanced Inventory RelayAn Advanced Inventory Relay can add/remove items from a player's inventory.0-1ANDpre20010StevesFactoryManager/BlockCableRelayName-0.pngrewardsItemStevesFactoryManager/BlockCableRelayName-8.pngAdvanced Inventory Relay
+2tasksANDRetrievalStevesFactoryManager/BlockCableRelayName-8.pngAdvanced Inventory Relay
+1

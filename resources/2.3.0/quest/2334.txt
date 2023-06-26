@@ -1,6 +1,15 @@
-2334Demonic ContractA Demonic Contract is written on parchment made from the resurrected flesh of the dead. The contract is signed in the blood of the individual to whom it pertains.
+witchery/ingredient-140.pngDemonic ContractA Demonic Contract is written on parchment made from the resurrected flesh of the dead. The contract is signed in the blood of the individual to whom it pertains.
 
 A plain demonic contract is used to make a deal with Flame Imps. The basic contract is crafted with a Taglock Kit containing the blood of the witch (or warlock).
 
 When performing Imp Magic, a plain contract is first crafted with reagents pertaining to the spell effect, and then signed in the blood of the target by crafting it with a Taglock Kit containing the targets blood.
-ANDpreRequwitchery/taglockkit~0Quest Name For 23352335rewardsChoicewitchery/ingredient~163Choice Name16minecraft/paper~0Choice Name64enhancedlootbags/lootbag~53Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5tasksANDOptionalminecraft/paper~0minecraft/paper~0 Name4minecraft/string~0minecraft/string~0 Name4witchery/ingredient~163witchery/ingredient~163 Name1Retrievalwitchery/ingredient~140witchery/ingredient~140 Name1
+0-1ANDpre23350witchery/taglockkit-0.pngrewardsChoicewitchery/ingredient-163.pngWarm Blood
+16minecraft/paper-0.pngPaper
+64enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5tasksANDOptionalminecraft/paper-0.pngPaper
+4minecraft/string-0.pngString
+4witchery/ingredient-163.pngWarm Blood
+1Retrievalwitchery/ingredient-140.pngDemonic Contract
+1

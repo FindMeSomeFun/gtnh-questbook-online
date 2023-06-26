@@ -1,8 +1,9 @@
-2802Radioisotope Thermoelectric GeneratorRuns for a reaaaally long time. Outputs an amount based on the fuel pellet given.
+gregtech/gt.blockmachines-869.pngRadioisotope Thermoelectric GeneratorRuns for a reaaaally long time. Outputs an amount based on the fuel pellet given.
 
 241Am: 16 EU, 69875 days
 90Sr: 30 EU, 62640 days
 238Pu: 64 EU, 42982 days
 210Po: 480 EU, 34560 days
 
-Honestly, it's super not worth it. Especially considering you need to make a Cyclotron to make the fuel. And it's not even guaranteed!ANDpreRequgregtech/gt.metaitem.03~32088Quest Name For 17071707gregtech/gt.blockmachines~828Quest Name For 27612761IC2/blockGenerator~6Quest Name For 28012801rewardstasksANDRetrievalgregtech/gt.blockmachines~869gregtech/gt.blockmachines~869 Name1
+Honestly, it's super not worth it. Especially considering you need to make a Cyclotron to make the fuel. And it's not even guaranteed!0-1ANDpre17071gregtech/gt.metaitem.03-32088.png27611gregtech/gt.blockmachines-828.png28010IC2/blockGenerator-6.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-869.pngRadioisotope Thermoelectric Generator\nRequires RTG Pellets\nFuel is measured in minecraft days (Check with Scanner)\nRTG changes output voltage depending on fuel\nGenerates power at 100% Efficiency per tick\nOutput Voltage: 0 EU/t\nAdded by: Alkalus - [GT++]\nCapacity: 41,472 EU
+1

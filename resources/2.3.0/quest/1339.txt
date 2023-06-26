@@ -1,1 +1,5 @@
-1339Essentia Generator: IgnisSo, you got rid of the Potentia, maybe you don't want Ignis, but Potentia? Get this one to be able to burn Ignis.ANDpreRequEMT/EssentiaGenerators~0Quest Name For 13331333rewardsChoiceenhancedlootbags/lootbag~10Choice Name1enhancedlootbags/lootbag~4Choice Name1Thaumcraft/ItemEssence~1Choice Name8tasksANDRetrievalEMT/EssentiaGenerators~1EMT/EssentiaGenerators~1 Name1
+EMT/EssentiaGenerators-1.pngEssentia Generator: IgnisSo, you got rid of the Potentia, maybe you don't want Ignis, but Potentia? Get this one to be able to burn Ignis.0-1ANDpre13330EMT/EssentiaGenerators-0.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemEssence-1-ignis.pngPhial of Essentia\nIgnis x 8
+8tasksANDRetrievalEMT/EssentiaGenerators-1.pngIgnis Generator
+1

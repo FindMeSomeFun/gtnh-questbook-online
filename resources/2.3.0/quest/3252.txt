@@ -1,5 +1,13 @@
-3252What are all these flowers even for?If you've never used Botania before, you may be wondering about the purpose of all this effort. This isn't a simple question to answer, but one thing you can do that's quite useful right now is making yourself some manasteel.
+Botania/manaResource-0.pngWhat are all these flowers even for?If you've never used Botania before, you may be wondering about the purpose of all this effort. This isn't a simple question to answer, but one thing you can do that's quite useful right now is making yourself some manasteel.
 
 Among its many uses, manasteel has one of the best, if not simply §othe§o §rbest, durabilities of materials available at LV, so it's perfect for all of your crafting tools.
 
-If you have a particular dislike of Tinker's Construct, manasteel is a great material to make a Gregtech pickaxe out of too.ANDpreRequBotania/pool~2Quest Name For 32233223rewardsChoicegregtech/gt.metatool.01~16Choice Name1gregtech/gt.metatool.01~22Choice Name1gregtech/gt.metatool.01~12Choice Name1gregtech/gt.metatool.01~10Choice Name1gregtech/gt.metatool.01~18Choice Name1Itemdreamcraft/item.CoinFlowerI~0Item Name15Botania/manaResource~0Item Name4tasksANDRetrievalBotania/manaResource~0Botania/manaResource~0 Name16
+If you have a particular dislike of Tinker's Construct, manasteel is a great material to make a Gregtech pickaxe out of too.1-1ANDpre32231Botania/pool-2.pngrewardsChoicegregtech/gt.metatool.01-16-Manasteel-Manasteel.pngWrench\nDurability: 512,000 / 512,000\nManasteel lvl 4\nAttack Damage: 7.0\nMining Speed: 8.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
+1gregtech/gt.metatool.01-22-Manasteel-Wood.pngScrewdriver\nDurability: 512,000 / 512,000\nManasteel lvl 4\nAttack Damage: 5.5\nMining Speed: 8.0\nAdjusts Covers and Machines
+1gregtech/gt.metatool.01-12-Manasteel-Wood.pngHammer\nDurability: 512,000 / 512,000\nManasteel lvl 4\nAttack Damage: 7.0\nMining Speed: 6.0\nCrushes Ores instead of harvesting them\nUsable for Prospecting
+1gregtech/gt.metatool.01-10-Manasteel-Wood.pngSaw\nDurability: 512,000 / 512,000\nManasteel lvl 4\nAttack Damage: 5.75\nMining Speed: 8.0\nCan also harvest Ice
+1gregtech/gt.metatool.01-18-Manasteel-Wood.pngFile\nDurability: 512,000 / 512,000\nManasteel lvl 4\nAttack Damage: 5.5\nMining Speed: 8.0
+1Itemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
+15Botania/manaResource-0.pngManasteel Ingot
+4tasksANDRetrievalBotania/manaResource-0.pngManasteel Ingot
+16

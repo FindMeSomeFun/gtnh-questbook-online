@@ -1,4 +1,4 @@
-132§6§lSimple RF Power: LiquidsThis generator requires both water as coolant, and a burnable liquid as fuel. The amount of power it produces depends on the type of liquid used.
+EnderIO/blockCombustionGenerator-0.png§6§lSimple RF Power: LiquidsThis generator requires both water as coolant, and a burnable liquid as fuel. The amount of power it produces depends on the type of liquid used.
 
 Fuel           Burn Time (ticks/mb)    Power Output (RF/tick)    Power Output (RF/mb) 
 Oil                5                          30                               150
@@ -7,4 +7,8 @@ Ethanol        15                          40                               600
 Fire Water    15                          80                              1200
 Diesel/Fuel   25                          60                              1500
 
-§3Rocket Fuel is disabled.ANDpreRequEnderIO/blockTank~0Quest Name For 130130rewardsChoiceEnderIO/itemBasicCapacitor~0Choice Name1enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalEnderIO/blockCombustionGenerator~0EnderIO/blockCombustionGenerator~0 Name1
+§3Rocket Fuel is disabled.0-1ANDpre1300EnderIO/blockTank-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalEnderIO/blockCombustionGenerator-0.pngCombustion Generator
+1

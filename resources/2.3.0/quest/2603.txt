@@ -1,7 +1,9 @@
-2603§c§lFetching TelluriumFor Tellurium, you can do it these ways:
+gregtech/gt.metaitem.01-2059.png§c§lFetching TelluriumFor Tellurium, you can do it these ways:
 
 1) EBF Crushed Lead Ore for 2 Tellurium Nuggets
 2) If you have old worldgen, you can get it from Temagamite practically anywhere (it was broken so it currently doesn't generate), or Mercury if it's been fixed
 3) Make Rare Earth (III) out of Rare Earth using the strongest of acids and get it from Alburnite
 4) Toxic Everglades again
-5) Once you have a Void Miner, you can place it in the Overworld to obtain Tellurium.ANDpreRequdreamcraft/item.OvenGlove~0Quest Name For 26002600rewardstasksANDOptionalgregtech/gt.metaitem.01~2059gregtech/gt.metaitem.01~2059 Name15Retrievalbartworks/gt.bwMetaGenerateddust~31bartworks/gt.bwMetaGenerateddust~31 Name24
+5) Once you have a Void Miner, you can place it in the Overworld to obtain Tellurium.1-1ANDpre26001dreamcraft/item.OvenGlove-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2059.pngTellurium Dust\nTe
+15Retrievalbartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust\nBi\u2082Te\u2083\nAdded by BartWorks
+24

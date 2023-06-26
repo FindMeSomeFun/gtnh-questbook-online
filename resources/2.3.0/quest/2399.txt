@@ -1,5 +1,7 @@
-2399§3§lI Know His Name!The Name Remover is a simple utility machine that can strip off incorrect or useless NBT data. Only works on GT items?
+gregtech/gt.blockmachines-12070.png§3§lI Know His Name!The Name Remover is a simple utility machine that can strip off incorrect or useless NBT data. Only works on GT items?
 
 §3Was more useful before NBT disassembly data was removed, but good riddance I (and basically everyone) say.
 
-Lead is plenty on Twilight Forest. Or if you desperate, small ores can be found in Nether.ANDpreRequgregtech/gt.metaitem.01~17880Quest Name For 536536gregtech/gt.metaitem.01~11304Quest Name For 948948rewardsItemgregtech/gt.metaitem.01~2817Item Name16tasksANDCraftinggregtech/gt.blockmachines~12070gregtech/gt.blockmachines~12070 Name1
+Lead is plenty on Twilight Forest. Or if you desperate, small ores can be found in Nether.0-1ANDpre5360gregtech/gt.metaitem.01-17880.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemgregtech/gt.metaitem.01-2817.pngSalt\nNaCl
+16tasksANDCraftinggregtech/gt.blockmachines-12070.pngName Remover\nRemoves various NBT tags.\n \nFirst Slot\nThe item you want to strip of NBT\n \nSecond Slot\nOne of the following circuits:\nCircuit 1:  Attempt to fix broken ores by removing the Display Name tag\nCircuit 2:  Remove GT Disassembler tags\nCircuit 3:  Remove Railcraft stacking tag\nCircuit 4:  Remove Anvil repair tag\nCircuit 5:  Remove Dye from Leather armor\nCircuit 6:  Remove Spray color from GT items\n \nNo Circuit: Remove all of the above
+1

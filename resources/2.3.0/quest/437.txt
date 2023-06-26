@@ -1,1 +1,9 @@
-437A true blood-mageBloodmagic is fine, so is Thaumcraft. Why not combine both worlds?ANDpreRequAWWayofTime/masterStone~0Quest Name For 433433rewardsItemThaumcraft/ItemResource~2Item Name16Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinBloodII~0Item Name2tasksANDRetrievalAWWayofTime/sanguineHelmet~0AWWayofTime/sanguineHelmet~0 Name1AWWayofTime/sanguineRobe~0AWWayofTime/sanguineRobe~0 Name1AWWayofTime/sanguinePants~0AWWayofTime/sanguinePants~0 Name1AWWayofTime/sanguineBoots~0AWWayofTime/sanguineBoots~0 Name1
+AWWayofTime/sanguineHelmet-0.pngA true blood-mageBloodmagic is fine, so is Thaumcraft. Why not combine both worlds?0-1ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemThaumcraft/ItemResource-2.pngThaumium Ingot
+16Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/sanguineHelmet-0.pngSanguine Helmet\nA pair of goggles imbued with power\nVis discount: 6%\nProtection: 3\nDurability: 1000/1000
+1AWWayofTime/sanguineRobe-0.pngSanguine Robes\nRobes imbued with forbidden power\nVis discount: 3%\nProtection: 8\nDurability: 1000/1000
+1AWWayofTime/sanguinePants-0.pngSanguine Leggings\nRobes imbued with forbidden power\nVis discount: 3%\nProtection: 6\nDurability: 1000/1000
+1AWWayofTime/sanguineBoots-0.pngSanguine Boots\nRobes imbued with forbidden power\nVis discount: 2%\nProtection: 3\nDurability: 1000/1000
+1

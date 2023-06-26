@@ -1,1 +1,10 @@
-1656§a§lEgg MutationAfter you've gotten some mutagen try soaking your Big Egg in it along with some U-238.ANDpreRequdreamcraft/item.TheBigEgg~0Quest Name For 16551655rewardsItemminecraft/spawn_egg~61Item Name1minecraft/spawn_egg~56Item Name1enhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1dreamcraft/item.CoinChemistII~0Item Name1tasksANDOptionaldreamcraft/item.TheBigEgg~0dreamcraft/item.TheBigEgg~0 Name1IC2/itemUran238~0IC2/itemUran238~0 Name64gregtech/gt.metaitem.98~2gregtech/gt.metaitem.98~2 Name1Retrievaldreamcraft/item.MutatedEgg~0dreamcraft/item.MutatedEgg~0 Name1
+dreamcraft/item.MutatedEgg-0.png§a§lEgg MutationAfter you've gotten some mutagen try soaking your Big Egg in it along with some U-238.0-1ANDpre16550dreamcraft/item.TheBigEgg-0.pngrewardsItemminecraft/spawn_egg-61.pngSpawn Blaze
+1minecraft/spawn_egg-56.pngSpawn Ghast
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionaldreamcraft/item.TheBigEgg-0.pngThe Big Egg
+1IC2/itemUran238-0.pngUranium 238
+64gregtech/gt.metaitem.98-2.pngMutagen Cell
+1Retrievaldreamcraft/item.MutatedEgg-0.pngMutated Egg
+1

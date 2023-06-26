@@ -1,3 +1,7 @@
-1941My Ancient EnemyThe one place Chisel is weak is in stairs. It would be nice to have more variety, but later I'll show you how to make any block into a custom stair.
+chisel/marble_stairs.4-0.pngMy Ancient EnemyThe one place Chisel is weak is in stairs. It would be nice to have more variety, but later I'll show you how to make any block into a custom stair.
 
-You can also search NEI for "stairs" to find stairs from other mods.ANDpreRequchisel/obsidianChisel~0Quest Name For 19351935rewardsItemminecraft/lava_bucket~0Item Name1tasksANDRetrievalchisel/packedice_stairs.0~0chisel/packedice_stairs.0~0 Name1chisel/marble_stairs.1~8chisel/marble_stairs.1~8 Name1chisel/limestone_stairs.0~0chisel/limestone_stairs.0~0 Name1
+You can also search NEI for "stairs" to find stairs from other mods.0-1ANDpre19350chisel/obsidianChisel-0.pngrewardsItemminecraft/lava_bucket-0.pngLava Bucket\nBurn Time: 20000\nYou need Gloves for it?
+1tasksANDRetrievalchisel/packedice_stairs.0-0.pngPacked Ice Stairs\nPacked Ice Stairs\nMobs cannot Spawn on this Block
+1chisel/marble_stairs.1-8.pngMarble Stairs\nOrnate Marble Panel Stairs\nMobs cannot Spawn on this Block
+1chisel/limestone_stairs.0-0.pngLimestone Stairs\nLimestone Stairs\nMobs cannot Spawn on this Block
+1

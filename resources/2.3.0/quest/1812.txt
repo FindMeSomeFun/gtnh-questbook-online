@@ -1,5 +1,10 @@
-1812§9§lTeflon DonTo make PTFE, aka Teflon, you only need a few steps.  
+gregtech/gt.metaitem.01-30667.png§9§lTeflon DonTo make PTFE, aka Teflon, you only need a few steps.  
 
 The first one is hydrofluoric acid. If you haven't reached the moon yet, the best sources for fluorine might be cryolite. Other options are mining calcite or sandstone for a chance at fluorite ore, and centrifuging stone dust or black granite dust for biotite. You can also get small amounts from Lepidolite in salt veins and Mica. Mix it with some hydrogen to get hydrofluoric acid.
 
-If you have reached the moon, you can also process Bastnasite ore.ANDpreRequgregtech/gt.blockmachines~423Quest Name For 943943rewardsItemgregtech/gt.metaitem.01~2848Item Name110Itemdreamcraft/item.CoinChemistII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~30001gregtech/gt.metaitem.01~30001 Name48gregtech/gt.metaitem.01~30014gregtech/gt.metaitem.01~30014 Name48Retrievalgregtech/gt.metaitem.01~30667gregtech/gt.metaitem.01~30667 Name48
+If you have reached the moon, you can also process Bastnasite ore.1-1ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemgregtech/gt.metaitem.01-2848.pngBiotite Dust\nKMg\u2083Al\u2083F\u2082Si\u2083O\u2081\u2080
+110Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
+48gregtech/gt.metaitem.01-30014.pngFluorine Cell\nF
+48Retrievalgregtech/gt.metaitem.01-30667.pngHydrofluoric Acid Cell\nHF
+48

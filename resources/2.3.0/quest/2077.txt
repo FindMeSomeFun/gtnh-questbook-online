@@ -1,1 +1,5 @@
-2077Time to Kill (Slime)Sticky and bouncy! Now in many variations. Say hello to my little friend, Lemon Slice!ANDpreRequgregtech/gt.metatool.01~0Quest Name For 1111rewardsItembetterquesting/extra_life~2Item Name1dreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinChemistI~0Item Name5tasksANDHuntSlimeSlime Name40
+minecraft/slime_ball-0.pngTime to Kill (Slime)Sticky and bouncy! Now in many variations. Say hello to my little friend, Lemon Slice!0432000ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDHuntmobs/Slime-.pngSlime
+40

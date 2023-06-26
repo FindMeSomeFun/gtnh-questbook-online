@@ -1,3 +1,4 @@
-375Power, So Much Power!If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.
+gregtech/gt.metaitem.01-32599.pngPower, So Much Power!If only I could harness it... Well, hello there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You'll be well rewarded.
 
-§3The quests to get items will trigger the next part once you hold the item in question.ANDpreRequgregtech/gt.blockmachines~17Quest Name For 26102610rewardstasksANDCheckboxcheckbox  
+§3The quests to get items will trigger the next part once you hold the item in question.0-1ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

@@ -1,5 +1,6 @@
-2621UHV Superconductors (2,097,152 EU/t)Above this ther also are UEV, UIV, UMV, UXV, and MAX wires. UEV even has superconductors. You can use UHV superconductors, or use a super cheap material and accept some losses to move your power around. Aside from other options like sending it through an AE tunnel or making power on site again.
+gregtech/gt.blockmachines-2020.pngUHV Superconductors (2,097,152 EU/t)Above this ther also are UEV, UIV, UMV, UXV, and MAX wires. UEV even has superconductors. You can use UHV superconductors, or use a super cheap material and accept some losses to move your power around. Aside from other options like sending it through an AE tunnel or making power on site again.
 
 What, the UHV superconductor? Didn't you already make that?
 
-§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.ANDpreRequgregtech/gt.blockmachines~19Quest Name For 26162616rewardstasksANDRetrievalgregtech/gt.blockmachines~2020gregtech/gt.blockmachines~2020 Name24
+§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.1-1ANDpre26161gregtech/gt.blockmachines-19.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2020.png1x Superconductor UHV Wire\nMax Voltage: 2,097,152 (UHV)\nMax Amperage: 48\nLoss/Meter/Ampere: 0 EU-Volt
+24

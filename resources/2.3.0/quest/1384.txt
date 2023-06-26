@@ -1,3 +1,7 @@
-1384Wand Focus Efreet's FlameThe Wand Focus: Efreet's Flame is a Wand Focus that smelts blocks like a Furnace would when pointed and fired at them. It shoots a beam similar to the Wand Focus: Excavation. Each usage consumes 0.45 Ignis and 0.12 Perditio
+ThaumicTinkerer/focusSmelt-0.pngWand Focus Efreet's FlameThe Wand Focus: Efreet's Flame is a Wand Focus that smelts blocks like a Furnace would when pointed and fired at them. It shoots a beam similar to the Wand Focus: Excavation. Each usage consumes 0.45 Ignis and 0.12 Perditio
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockTable~15Quest Name For 227227Thaumcraft/FocusFire~0Quest Name For 13721372Thaumcraft/FocusExcavation~0Quest Name For 13731373rewardsItemenhancedlootbags/lootbag~9Item Name1Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumicTinkerer/focusSmelt~0ThaumicTinkerer/focusSmelt~0 Name1
+This focus can be upgraded at the Focal Manipulator.0-1ANDpre2271Thaumcraft/blockTable-15.png13720Thaumcraft/FocusFire-0.png13730Thaumcraft/FocusExcavation-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumicTinkerer/focusSmelt-0.pngWand Focus: Efreet''s Flame\nVis per cast\n Ignis x 0.45\n Perditio x 0.12
+1

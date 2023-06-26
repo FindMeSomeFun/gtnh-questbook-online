@@ -1,1 +1,6 @@
-3049§b§lEBF TimeFor the next step in the process, just EBF your solution with some magnesium.ANDpreRequbartworks/gt.bwMetaGenerateddust~11003Quest Name For 30473047rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~11004bartworks/gt.bwMetaGeneratedcell~11004 Name1gregtech/gt.metaitem.01~2018gregtech/gt.metaitem.01~2018 Name2Retrievalbartworks/gt.bwMetaGenerateddust~11001bartworks/gt.bwMetaGenerateddust~11001 Name1gregtech/gt.metaitem.01~2377gregtech/gt.metaitem.01~2377 Name2
+bartworks/gt.bwMetaGenerateddust-11001.png§b§lEBF TimeFor the next step in the process, just EBF your solution with some magnesium.0-1ANDpre30470bartworks/gt.bwMetaGenerateddust-11003.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11004.pngHafnium Tetrachloride Solution Cell\nHfCl\u2084\nAdded by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2018.pngMagnesium Dust\nMg
+2Retrievalbartworks/gt.bwMetaGenerateddust-11001.pngLow-Purity Hafnium Dust\n??Hf??\nAdded by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust\nMgCl\u2082
+2

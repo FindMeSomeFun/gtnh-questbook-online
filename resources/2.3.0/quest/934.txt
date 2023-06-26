@@ -1,1 +1,12 @@
-934§6§lPower of the Sun ULVThe next solar panel you can make is the ULV one. It generates 8 EU/t.ANDpreRequgregtech/gt.metaitem.01~32750Quest Name For 933933rewardsChoicegregtech/gt.metaitem.03~32033Choice Name2gregtech/gt.metaitem.01~2019Choice Name32enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalgregtech/gt.metaitem.01~32750gregtech/gt.metaitem.01~32750 Name2gregtech/gt.metaitem.03~32033gregtech/gt.metaitem.03~32033 Name1gregtech/gt.metaitem.01~32702gregtech/gt.metaitem.01~32702 Name2gregtech/gt.metaitem.01~17980gregtech/gt.metaitem.01~17980 Name1dreamcraft/item.ReinforcedAluminiumIronPlate~0dreamcraft/item.ReinforcedAluminiumIronPlate~0 Name1gregtech/gt.blockmachines~1240gregtech/gt.blockmachines~1240 Name2Retrievalgregtech/gt.metaitem.01~32751gregtech/gt.metaitem.01~32751 Name1
+gregtech/gt.metaitem.01-32751.png§6§lPower of the Sun ULVThe next solar panel you can make is the ULV one. It generates 8 EU/t.0-1ANDpre9330gregtech/gt.metaitem.01-32750.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer\nRaw Circuit
+2gregtech/gt.metaitem.01-2019.pngAluminium Dust\nAl
+32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-32750.pngSolar Panel\nMay the Sun be with you (Needs cleaning with right click)
+2gregtech/gt.metaitem.03-32033.pngWafer\nRaw Circuit
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
+2gregtech/gt.metaitem.01-17980.pngGallium Arsenide Plate\nAsGa
+1dreamcraft/item.ReinforcedAluminiumIronPlate-0.pngReinforced Aluminium-Iron Plate
+1gregtech/gt.blockmachines-1240.png1x Tin Wire\nMax Voltage: 32 (LV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+2Retrievalgregtech/gt.metaitem.01-32751.pngSolar Panel\n8 Volt Solar Panel (Needs cleaning with right click)
+1

@@ -1,4 +1,4 @@
-2695Serious UpgradesSo if you thought 'hey, the purple stuff wasn't that bad, why not make the green?', well, first of all, you may need professional help. Second, you're going to need to be in ZPM to make the casings you need, full stop. You need a ZPM ABS for the components, so come back once you've made a ZPM Energy Hatch.
+miscutils/gtplusplus.blockspecialcasings.2-2.pngSerious UpgradesSo if you thought 'hey, the purple stuff wasn't that bad, why not make the green?', well, first of all, you may need professional help. Second, you're going to need to be in ZPM to make the casings you need, full stop. You need a ZPM ABS for the components, so come back once you've made a ZPM Energy Hatch.
 
 You can probably figure most of it out on your own, but keep in mind that some of the materials need to be created in the ABS, solidified, macerated, and then used in another ABS recipe. Examples are: Hastelloy-N and Inconel-792.
 
@@ -6,4 +6,5 @@ Laurenium is also like this, and also inclues Rhenium and Dysprosium. Rhenium us
 
 Have fun with that!
 
-§3You'll almost certainly need more than this, but the exact amount, as always, depends on your hatches and busses.ANDpreRequgregtech/gt.blockmachines~17Quest Name For 26102610rewardstasksANDRetrievalmiscutils/gtplusplus.blockspecialcasings.2~2miscutils/gtplusplus.blockspecialcasings.2~2 Name70
+§3You'll almost certainly need more than this, but the exact amount, as always, depends on your hatches and busses.1-1ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDRetrievalmiscutils/gtplusplus.blockspecialcasings.2-2.pngVigorous Laurenium Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+70

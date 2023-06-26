@@ -1,3 +1,13 @@
-1677§a§lEmpty Fiber Reinforced Glass BoardFiber Reinforced circuit boards require fiber-reinforced epoxid resin sheets, aluminium foil, and sulfuric acid to make an empty board. By adding energetic alloy foil and Iron(III) Chloride or Sodium Persulfate you can craft a More Advanced Circuit Board.
+gregtech/gt.metaitem.03-32103.png§a§lEmpty Fiber Reinforced Glass BoardFiber Reinforced circuit boards require fiber-reinforced epoxid resin sheets, aluminium foil, and sulfuric acid to make an empty board. By adding energetic alloy foil and Iron(III) Chloride or Sodium Persulfate you can craft a More Advanced Circuit Board.
 
-§3If you don't want to make Lapotronic Energy Orbs for PAs, the rest of this questline is in IV.ANDpreRequgregtech/gt.metaitem.01~17610Quest Name For 16761676rewardsChoicegregtech/gt.metaitem.01~29366Choice Name16gregtech/gt.metaitem.01~17610Choice Name5enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinChemistII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~17610gregtech/gt.metaitem.01~17610 Name15gregtech/gt.metaitem.01~29019gregtech/gt.metaitem.01~29019 Name180Optionalgregtech/gt.metaitem.01~29366gregtech/gt.metaitem.01~29366 Name180gregtech/gt.metaitem.01~32720gregtech/gt.metaitem.01~32720 Name15Retrievalgregtech/gt.metaitem.03~32103gregtech/gt.metaitem.03~32103 Name15
+§3If you don't want to make Lapotronic Energy Orbs for PAs, the rest of this questline is in IV.1-1ANDpre16761gregtech/gt.metaitem.01-17610.pngrewardsChoicegregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+16gregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
+5enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
+15gregtech/gt.metaitem.01-29019.pngAluminium Foil\nAl
+180Optionalgregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+180gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board\nAn Extreme Board
+15Retrievalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+15

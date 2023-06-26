@@ -1,3 +1,11 @@
-850§6§lEthenoneHopefully you saved some sulfuric acid. If not, make some more. Together with acetic acid you can make ethenone.
+gregtech/gt.metaitem.01-30641.png§6§lEthenoneHopefully you saved some sulfuric acid. If not, make some more. Together with acetic acid you can make ethenone.
 
-Save the ethenone for HV, you'll need it to make tetranitromethane for cetane boosted diesel.ANDpreRequgregtech/gt.metaitem.01~30670Quest Name For 852852gregtech/gt.blockmachines~422Quest Name For 17441744rewardsChoicegregtech/gt.metaitem.01~30691Choice Name12enhancedlootbags/lootbag~5Choice Name1gregtech/gt.integrated_circuit~0Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~30720gregtech/gt.metaitem.01~30720 Name3gregtech/gt.metaitem.01~30670gregtech/gt.metaitem.01~30670 Name3Retrievalgregtech/gt.metaitem.01~30641gregtech/gt.metaitem.01~30641 Name3
+Save the ethenone for HV, you'll need it to make tetranitromethane for cetane boosted diesel.0-1ANDpre8520gregtech/gt.metaitem.01-30670.png17440gregtech/gt.blockmachines-422.pngrewardsChoicegregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
+12enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.integrated_circuit-0.pngProgrammed Circuit\nConfiguration: == 0\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
+3gregtech/gt.metaitem.01-30670.pngAcetic Acid Cell\nC\u2082H\u2084O\u2082
+3Retrievalgregtech/gt.metaitem.01-30641.pngEthenone Cell\nC\u2082H\u2082O
+3

@@ -1,3 +1,10 @@
-3222Pure DaisyThe first magical flower you are able to make is the Pure Daisy. This flower can slowly enchant nearby stone and logs into basic Botania ingredients.
+Botania/specialFlower-0-puredaisy.pngPure DaisyThe first magical flower you are able to make is the Pure Daisy. This flower can slowly enchant nearby stone and logs into basic Botania ingredients.
 
-After placing the flower down, you can use put down stone and wood in the 8 tiles around it, and after a certain time they will be converted.ANDpreRequBotania/altar~0Quest Name For 32213221rewardsItemdreamcraft/item.CoinFlowerI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5tasksANDOptionalBotania/mushroom~0Botania/mushroom~0 Name1minecraft/red_flower~6minecraft/red_flower~6 Name3RetrievalBotania/specialFlower~0Botania/specialFlower~0 Name1RetrievalBotania/livingrock~0Botania/livingrock~0 Name8Botania/livingwood~0Botania/livingwood~0 Name8
+After placing the flower down, you can use put down stone and wood in the 8 tiles around it, and after a certain time they will be converted.1-1ANDpre32211Botania/altar-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5tasksANDOptionalBotania/mushroom-0.pngWhite Shimmering Mushroom\nMay work as an Infusion Stabilizer
+1minecraft/red_flower-6.pngWhite Tulip
+3RetrievalBotania/specialFlower-0-puredaisy.pngPure Daisy\nMiscellaneous Flower\nWhat color do you want to be?
+1RetrievalBotania/livingrock-0.pngLivingrock\nMobs cannot Spawn on this Block
+8Botania/livingwood-0.pngLivingwood\nMobs cannot Spawn on this Block\nBurn Time: 300
+8

@@ -1,1 +1,11 @@
-577Forestry core blockThis sturdy casing is the basis for almost all machines in Forestry, essentially being the forestry equivalent of a machine casing.ANDpreRequgregtech/gt.blockmachines~11Quest Name For 7373Forestry/factory2~2Quest Name For 576576rewardsItemForestry/apiculture~2Item Name2Choicegregtech/gt.metaitem.02~18300Choice Name4gregtech/gt.metaitem.01~17305Choice Name8enhancedlootbags/lootbag~19Choice Name1minecraft/bookshelf~0Choice Name5Itemdreamcraft/item.CoinForestry~0Item Name15tasksANDOptionalgregtech/gt.metaitem.02~18300gregtech/gt.metaitem.02~18300 Name8gregtech/gt.metaitem.01~27305gregtech/gt.metaitem.01~27305 Name8gregtech/gt.blockcasings~1gregtech/gt.blockcasings~1 Name2RetrievalForestry/sturdyMachine~0Forestry/sturdyMachine~0 Name2
+Forestry/sturdyMachine-0.pngForestry core blockThis sturdy casing is the basis for almost all machines in Forestry, essentially being the forestry equivalent of a machine casing.0-1ANDpre731gregtech/gt.blockmachines-11.png5760Forestry/factory2-2.pngrewardsItemForestry/apiculture-2.pngBee House
+2Choicegregtech/gt.metaitem.02-18300.pngBronze Casing\nSnCu\u2083
+4gregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
+8enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1minecraft/bookshelf-0.pngBookshelf\nEnchantment Power: 1.0\nBurn Time: 300
+5Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDOptionalgregtech/gt.metaitem.02-18300.pngBronze Casing\nSnCu\u2083
+8gregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
+8gregtech/gt.blockcasings-1.pngLV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+2RetrievalForestry/sturdyMachine-0.pngSturdy Casing
+2

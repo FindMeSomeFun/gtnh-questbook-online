@@ -1,5 +1,12 @@
-1290Imma Chargin' My...Charged certus quartz is one of the basic components for a lot of AE recipes. Just mix some certus quartz and redstone dust to get charged certus quartz dust.
+appliedenergistics2/item.ItemMultiMaterial-1.pngImma Chargin' My...Charged certus quartz is one of the basic components for a lot of AE recipes. Just mix some certus quartz and redstone dust to get charged certus quartz dust.
 
 Use the autoclave to make crystals. Or if you have lots of sodium, you can use the chemical reactor recipe. You can also make the charger to go directly from crystal to charged crystal, but it's not very fast. The charger can connect directly to a GT cable or a fluix cable from the bottom.
 
-§3Note that some recipies only have a chance of producting a charged crystal, which is true of many of these.ANDpreRequgregtech/gt.blockmachines~421Quest Name For 543543minecraft/quartz_ore~0Quest Name For 11661166rewardsChoicegregtech/gt.blockores~1516Choice Name8gregtech/gt.blockores~810Choice Name8Itemdreamcraft/item.CoinChemistII~0Item Name1tasksANDOptionalminecraft/redstone~0minecraft/redstone~0 Name32gregtech/gt.metaitem.01~2516gregtech/gt.metaitem.01~2516 Name32Optionaldreamcraft/item.ChargedCertusQuartzDust~0dreamcraft/item.ChargedCertusQuartzDust~0 Name32Retrievalappliedenergistics2/item.ItemMultiMaterial~1appliedenergistics2/item.ItemMultiMaterial~1 Name32
+§3Note that some recipies only have a chance of producting a charged crystal, which is true of many of these.1-1ANDpre5431gregtech/gt.blockmachines-421.png11660minecraft/quartz_ore-0.pngrewardsChoicegregtech/gt.blockores-1516.pngCertus Quartz Ore\nSiO\u2082
+8gregtech/gt.blockores-810.pngRedstone Ore\nSi(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
+8Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionalminecraft/redstone-0.pngRedstone
+32gregtech/gt.metaitem.01-2516.pngCertus Quartz Dust\nSiO\u2082
+32Optionaldreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
+32Retrievalappliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
+32

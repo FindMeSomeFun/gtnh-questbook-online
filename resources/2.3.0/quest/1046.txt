@@ -1,1 +1,3 @@
-1046Pyrochlore OreCan't find Pyrochlore ore because of old worldgen? Buy some Ores.ANDpreRequminecraft/bookshelf~0Quest Name For 586586rewardsItemgregtech/gt.blockores~607Item Name64tasksANDRetrievaldreamcraft/item.CoinAdventure~0dreamcraft/item.CoinAdventure~0 Name20
+gregtech/gt.blockores-607.pngPyrochlore OreCan't find Pyrochlore ore because of old worldgen? Buy some Ores.024000ANDpre5861minecraft/bookshelf-0.pngrewardsItemgregtech/gt.blockores-607.pngPyrochlore Ore\nCa\u2082Nb\u2082O\u2087
+64tasksANDConsumedreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+20

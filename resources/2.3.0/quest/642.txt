@@ -1,1 +1,5 @@
-642§5§lSulfuric GasAnother distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell.ANDpreRequgregtech/gt.blockmachines~531Quest Name For 547547rewardsChoicegregtech/gt.metaitem.01~30012Choice Name8enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name15tasksANDRetrievalgregtech/gt.metaitem.01~30734gregtech/gt.metaitem.01~30734 Name16
+gregtech/gt.metaitem.01-30734.png§5§lSulfuric GasAnother distillate for your gas turbine you can make out of oil is sulfuric gas with a burn value of 25,000 EU per cell.0-1ANDpre5471gregtech/gt.blockmachines-531.pngrewardsChoicegregtech/gt.metaitem.01-30012.pngNitrogen Cell\nN
+8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-30734.pngSulfuric Gas Cell
+16

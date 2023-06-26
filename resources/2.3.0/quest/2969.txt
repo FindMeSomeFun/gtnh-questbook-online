@@ -1,1 +1,3 @@
-2969§6§lAdept CellYou can mix different cells in the same generator. It will increase the efficiency.ANDpreRequgregtech/gt.blockmachines~32002Quest Name For 29682968rewardsItemenhancedlootbags/lootbag~10Item Name1tasksANDRetrievalGoodGenerator/essentiaCell~1GoodGenerator/essentiaCell~1 Name25
+GoodGenerator/essentiaCell-1.png§6§lAdept CellYou can mix different cells in the same generator. It will increase the efficiency.0-1ANDpre29680gregtech/gt.blockmachines-32002.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDRetrievalGoodGenerator/essentiaCell-1.pngAdept Essentia Diffusion Cell\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nHatch Tier: IV
+25

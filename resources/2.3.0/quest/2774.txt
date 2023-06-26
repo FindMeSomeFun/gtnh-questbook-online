@@ -1,1 +1,2 @@
-2774§lPower of the Sun at LuV LevelThe LuV solar panel generates 32768 EU/t.ANDpreRequgregtech/gt.metaitem.01~32756Quest Name For 17201720gregtech/gt.metaitem.03~32095Quest Name For 26562656rewardstasksANDRetrievalgregtech/gt.metaitem.01~32757gregtech/gt.metaitem.01~32757 Name1
+gregtech/gt.metaitem.01-32757.png§lPower of the Sun at LuV LevelThe LuV solar panel generates 32768 EU/t.0-1ANDpre17200gregtech/gt.metaitem.01-32756.png26561gregtech/gt.metaitem.03-32095.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32757.pngSolar Panel\nLudicrous Solar Panel (Needs cleaning with right click)
+1

@@ -1,5 +1,8 @@
-2761Do I Really Need to Make This?Oh wait, yes, you actually need this now! That was supposed to be a rhetorical question!
+gregtech/gt.blockmachines-828.pngDo I Really Need to Make This?Oh wait, yes, you actually need this now! That was supposed to be a rhetorical question!
 
 The main thing you will probably get out of it is the Quantum Anomaly.
 
-§3This multi is LuV. But you don't need it until UHV.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416gregtech/gt.blockmachines~16Quest Name For 14931493rewardstasksANDRetrievalgregtech/gt.blockmachines~828gregtech/gt.blockmachines~828 Name1miscutils/gtplusplus.blockcasings.2~9miscutils/gtplusplus.blockcasings.2~9 Name32miscutils/gtplusplus.blockcasings.2~10miscutils/gtplusplus.blockcasings.2~10 Name1
+§3This multi is LuV. But you don't need it until UHV.1-1ANDpre14161gregtech/gt.blockmachines-810.png14931gregtech/gt.blockmachines-16.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-828.pngCOMET - Compact Cyclotron\nMachine Type: Particle Accelerator\nSuper Magnetic Speed Shooter\n-----------------------------------------\nParticles are accelerated over 186 revolutions to 80% light speed\nCan produce a continuous beam current of 2.2 mA at 590 MeV\nWhich will be extracted from the Isochronous Cyclotron\n-----------------------------------------\nConsists of the same layout as a Fusion Reactor\nAny external casing can be a hatch/bus, unlike Fusion\nCyclotron Machine Casings around Cyclotron Coil Blocks\nAll Hatches must be IV or better\nCauses: 200 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]\nCapacity: 1,800,000,000 EU
+1miscutils/gtplusplus.blockcasings.2-9.pngCyclotron Coil\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+32miscutils/gtplusplus.blockcasings.2-10.pngCyclotron Outer Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

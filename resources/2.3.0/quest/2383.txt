@@ -1,4 +1,4 @@
-2383Curse MasterCurse of Teleportation
+HardcoreEnderExpansion/curse-9.pngCurse MasterCurse of Teleportation
 Teleport Entities around randomly.
 
 Curse of Confusion
@@ -31,4 +31,41 @@ Adds reflection damage to a mob.
 Curse of Loss
 Items will removed out of your inventory and get destroyed or fall on the ground.
 
-ANDpreRequHardcoreEnderExpansion/curse~0Quest Name For 23762376rewardsChoiceHardcoreEnderExpansion/endoplasm~0Choice Name64HardcoreEnderExpansion/essence~0Choice Name512HardcoreEnderExpansion/silverfish_blood~0Choice Name64HardcoreEnderExpansion/arcane_shard~0Choice Name64HardcoreEnderExpansion/living_matter~0Choice Name32enhancedlootbags/lootbag~58Choice Name4Itemdreamcraft/item.CoinChemistIII~0Item Name1dreamcraft/item.CoinDarkWizardIII~0Item Name1HardcoreEnderExpansion/knowledge_note~0Item Name10tasksANDRetrievalHardcoreEnderExpansion/living_matter~0HardcoreEnderExpansion/living_matter~0 Name11HardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name44RetrievalHardcoreEnderExpansion/curse~0HardcoreEnderExpansion/curse~0 Name4HardcoreEnderExpansion/curse~1HardcoreEnderExpansion/curse~1 Name4HardcoreEnderExpansion/curse~2HardcoreEnderExpansion/curse~2 Name4HardcoreEnderExpansion/curse~3HardcoreEnderExpansion/curse~3 Name4HardcoreEnderExpansion/curse~4HardcoreEnderExpansion/curse~4 Name4HardcoreEnderExpansion/curse~5HardcoreEnderExpansion/curse~5 Name4HardcoreEnderExpansion/curse~6HardcoreEnderExpansion/curse~6 Name4HardcoreEnderExpansion/curse~7HardcoreEnderExpansion/curse~7 Name4HardcoreEnderExpansion/curse~8HardcoreEnderExpansion/curse~8 Name4HardcoreEnderExpansion/curse~9HardcoreEnderExpansion/curse~9 Name4HardcoreEnderExpansion/curse~10HardcoreEnderExpansion/curse~10 Name4RetrievalHardcoreEnderExpansion/stardust~0HardcoreEnderExpansion/stardust~0 Name11gregtech/gt.metaitem.01~2807gregtech/gt.metaitem.01~2807 Name11HardcoreEnderExpansion/arcane_shard~0HardcoreEnderExpansion/arcane_shard~0 Name11gregtech/gt.metaitem.01~506gregtech/gt.metaitem.01~506 Name11RetrievalHardcoreEnderExpansion/curse~256HardcoreEnderExpansion/curse~256 Name1HardcoreEnderExpansion/curse~257HardcoreEnderExpansion/curse~257 Name1HardcoreEnderExpansion/curse~258HardcoreEnderExpansion/curse~258 Name1HardcoreEnderExpansion/curse~259HardcoreEnderExpansion/curse~259 Name1HardcoreEnderExpansion/curse~260HardcoreEnderExpansion/curse~260 Name1HardcoreEnderExpansion/curse~261HardcoreEnderExpansion/curse~261 Name1HardcoreEnderExpansion/curse~262HardcoreEnderExpansion/curse~262 Name1HardcoreEnderExpansion/curse~263HardcoreEnderExpansion/curse~263 Name1HardcoreEnderExpansion/curse~264HardcoreEnderExpansion/curse~264 Name1HardcoreEnderExpansion/curse~265HardcoreEnderExpansion/curse~265 Name1HardcoreEnderExpansion/curse~266HardcoreEnderExpansion/curse~266 Name1
+0-1ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+64HardcoreEnderExpansion/essence-0.pngDragon Essence
+512HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+64HardcoreEnderExpansion/living_matter-0.pngLiving Matter
+32enhancedlootbags/lootbag-58-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+4Itemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+10tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
+11HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+44RetrievalHardcoreEnderExpansion/curse-0.pngCurse of Teleportation
+4HardcoreEnderExpansion/curse-1.pngCurse of Confusion
+4HardcoreEnderExpansion/curse-2.pngCurse of Tranquility
+4HardcoreEnderExpansion/curse-3.pngCurse of Slowness
+4HardcoreEnderExpansion/curse-4.pngCurse of Weakness
+4HardcoreEnderExpansion/curse-5.pngCurse of Blindness
+4HardcoreEnderExpansion/curse-6.pngCurse of Death
+4HardcoreEnderExpansion/curse-7.pngCurse of Decay
+4HardcoreEnderExpansion/curse-8.pngCurse of Vampire
+4HardcoreEnderExpansion/curse-9.pngCurse of Rebound
+4HardcoreEnderExpansion/curse-10.pngCurse of Loss
+4RetrievalHardcoreEnderExpansion/stardust-0.pngStardust
+11gregtech/gt.metaitem.01-2807.pngNetherrack Dust
+11HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+11gregtech/gt.metaitem.01-506.pngTiny Pile of Nether Star Dust
+11RetrievalHardcoreEnderExpansion/curse-256.pngCurse of Teleportation\nEternal
+1HardcoreEnderExpansion/curse-257.pngCurse of Confusion\nEternal
+1HardcoreEnderExpansion/curse-258.pngCurse of Tranquility\nEternal
+1HardcoreEnderExpansion/curse-259.pngCurse of Slowness\nEternal
+1HardcoreEnderExpansion/curse-260.pngCurse of Weakness\nEternal
+1HardcoreEnderExpansion/curse-261.pngCurse of Blindness\nEternal
+1HardcoreEnderExpansion/curse-262.pngCurse of Death\nEternal
+1HardcoreEnderExpansion/curse-263.pngCurse of Decay\nEternal
+1HardcoreEnderExpansion/curse-264.pngCurse of Vampire\nEternal
+1HardcoreEnderExpansion/curse-265.pngCurse of Rebound\nEternal
+1HardcoreEnderExpansion/curse-266.pngCurse of Loss\nEternal
+1

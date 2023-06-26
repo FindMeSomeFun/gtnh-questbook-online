@@ -1,4 +1,4 @@
-1503§6§lNobody Wants an Explosion......right? So when building multiblocks, make sure you
+minecraft/fireworks-0.png§6§lNobody Wants an Explosion......right? So when building multiblocks, make sure you
 
 1. Don't cross chunk boundaries with the multiblock.
 
@@ -8,4 +8,6 @@ Also, if you haven't discovered it yet, Electric machines don't like getting rai
 
 Good luck.
 
-§3BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.ANDpreRequminecraft/bed~0Quest Name For 1313rewardsItemminecraft/fireworks~0Item Name1tasksANDCheckboxcheckbox  
+§3BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.1-1ANDpre131minecraft/bed-0.pngrewardsItemminecraft/fireworks-0.pngFirework Rocket
+1tasksANDCheckboxcheckbox-.pngCheckbox
+1

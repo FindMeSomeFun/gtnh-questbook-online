@@ -1,5 +1,28 @@
-601Building Made EasyPlacing blocks by hand can be tedious. Wouldn't it be nice to be able to place blocks like "Another 9 here"? Well, good news. Get yourself some of the various building blocks, and I shall reward you with something nice.
+ExtraUtilities/builderswand-0.pngBuilding Made EasyPlacing blocks by hand can be tedious. Wouldn't it be nice to be able to place blocks like "Another 9 here"? Well, good news. Get yourself some of the various building blocks, and I shall reward you with something nice.
 
 You could also just craft it (or the better one) with unstable ingots yourself, too.
 
-You can upgrade to the various other BBWs too.ANDpreRequgregtech/gt.blockmachines~100Quest Name For 4444rewardsItemExtraUtilities/builderswand~0Item Name1tasksANDRetrievalchisel/rebel~0chisel/rebel~0 Name16chisel/laboratoryblock~0chisel/laboratoryblock~0 Name16chisel/holystone~0chisel/holystone~0 Name16chisel/grimstone~0chisel/grimstone~0 Name16chisel/hexPlating~0chisel/hexPlating~0 Name16chisel/fantasyblock2~0chisel/fantasyblock2~0 Name16chisel/fantasyblock~0chisel/fantasyblock~0 Name16chisel/factoryblock~0chisel/factoryblock~0 Name16chisel/concrete~0chisel/concrete~0 Name16chisel/technical~0chisel/technical~0 Name16chisel/tyrian~0chisel/tyrian~0 Name16chisel/waterstone~0chisel/waterstone~0 Name16chisel/voidstone2~0chisel/voidstone2~0 Name16chisel/templeblock~0chisel/templeblock~0 Name16chisel/valentines~0chisel/valentines~0 Name16chisel/voidstone~0chisel/voidstone~0 Name16chisel/warningSign~0chisel/warningSign~0 Name16Retrievalchisel/diamond_block~12chisel/diamond_block~12 Name1chisel/emerald_block~5chisel/emerald_block~5 Name1chisel/lapis_block~8chisel/lapis_block~8 Name1chisel/redstone_block~9chisel/redstone_block~9 Name1chisel/gold_block~6chisel/gold_block~6 Name1
+You can upgrade to the various other BBWs too.0-1ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemExtraUtilities/builderswand-0.pngBuilder''s Wand
+1tasksANDConsumechisel/rebel-0.pngRebellious Block\ntile.rebel.0.desc\nMobs cannot Spawn on this Block
+16chisel/laboratoryblock-0.pngLaboratory Block\nWall Panel\nMobs cannot Spawn on this Block
+16chisel/holystone-0.pngHolystone\nHolystone\nMobs cannot Spawn on this Block
+16chisel/grimstone-0.pngGrimstone\nGrimstone\nMobs cannot Spawn on this Block
+16chisel/hexPlating-0.pngHex Plating\nBlack Plating\nMobs cannot Spawn on this Block
+16chisel/fantasyblock2-0.pngFantasy Block\nFantasy Brick\nMobs cannot Spawn on this Block
+16chisel/fantasyblock-0.pngPurpled Fantasy Block\nPurpled Fantasy Brick\nMobs cannot Spawn on this Block
+16chisel/factoryblock-0.pngFactory Block\nRusty Metal Plate with Dotted Pattern\nMobs cannot Spawn on this Block
+16chisel/concrete-0.pngConcrete\nConcrete\nMobs cannot Spawn on this Block
+16chisel/technical-0.pngTechnical Block\nScaffold\nMobs cannot Spawn on this Block
+16chisel/tyrian-0.pngTyrian\nFuturistic Armor Plating Block\nMobs cannot Spawn on this Block
+16chisel/waterstone-0.pngWaterstone\nWaterstone Bricks\nMobs cannot Spawn on this Block
+16chisel/voidstone2-0.pngEnergised Voidstone\nRaw Voidstone\nMobs cannot Spawn on this Block
+16chisel/templeblock-0.pngTemple Block\nTemple Cobblestone\nMobs cannot Spawn on this Block
+16chisel/valentines-0.pngValentines Block\nValentines Bricks\nMobs cannot Spawn on this Block\nBurn Time: 300
+16chisel/voidstone-0.pngVoidstone\nRaw Voidstone\nMobs cannot Spawn on this Block
+16chisel/warningSign-0.pngWarning Sign\nRadiation\nMobs cannot Spawn on this Block
+16Consumechisel/diamond_block-12.pngDiamond Block\nDiamond Block with Ornate Layer\nMobs cannot Spawn on this Block
+1chisel/emerald_block-5.pngEmerald Block\nEmerald with Ornate Layer\nMobs cannot Spawn on this Block
+1chisel/lapis_block-8.pngLapis Block\nLapis with Ornate Layer\nMobs cannot Spawn on this Block
+1chisel/redstone_block-9.pngRedstone Block\nOrnate Redstone Tiles\nMobs cannot Spawn on this Block
+1chisel/gold_block-6.pngGold Block\nGolden Coin Stack Heads-down\nMobs cannot Spawn on this Block
+1

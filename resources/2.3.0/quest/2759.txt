@@ -1,5 +1,8 @@
-2759I Want SOLIDS not LIQUIDS!For when your ABS isn't the right machine. Also uses coils.
+gregtech/gt.blockmachines-31023.pngI Want SOLIDS not LIQUIDS!For when your ABS isn't the right machine. Also uses coils.
 
 Note that this is a multiblock version of the alloy smelter, not a solid version of the alloy blast smelter.
 
-§3This multi is IV.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardstasksANDRetrievalgregtech/gt.blockmachines~31023gregtech/gt.blockmachines~31023 Name1miscutils/gtplusplus.blocktieredcasings.1~4miscutils/gtplusplus.blocktieredcasings.1~4 Name8miscutils/gtplusplus.blockcasings.3~1miscutils/gtplusplus.blockcasings.3~1 Name1
+§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-31023.pngZyngen\nMachine Type: Alloy Smelter\nController Block for the Industrial Alloy Smelter\nGains one parallel per voltage tier\nGains one multiplier per coil tier\nParallel = Tier * Coil Tier\nGains 5% speed bonus per coil tier\nCauses: 300 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/gtplusplus.blocktieredcasings.1-4.pngIntegral Encasement V\nTier: EV\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+8miscutils/gtplusplus.blockcasings.3-1.pngInconel Reinforced Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

@@ -1,1 +1,4 @@
-2327§b§lAlmost Done With RhodiumPlace your solution in your Chemical Reactor to heat it while it spins. That way you get a dust out of your Solution, 100% lump free!ANDpreRequbartworks/gt.bwMetaGeneratedcell~86Quest Name For 23072307rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~86bartworks/gt.bwMetaGeneratedcell~86 Name1Retrievalbartworks/gt.bwMetaGenerateddust~87bartworks/gt.bwMetaGenerateddust~87 Name1
+bartworks/gt.bwMetaGenerateddust-87.png§b§lAlmost Done With RhodiumPlace your solution in your Chemical Reactor to heat it while it spins. That way you get a dust out of your Solution, 100% lump free!1-1ANDpre23071bartworks/gt.bwMetaGeneratedcell-86.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-86.pngRhodium Filter Cake Solution Cell\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGenerateddust-87.pngReprecipitated Rhodium Dust\nRh\u2082NH\u2084\nAdded by BartWorks
+1

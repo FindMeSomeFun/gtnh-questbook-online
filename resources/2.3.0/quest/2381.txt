@@ -1,4 +1,4 @@
-2381Enderpearl EnchantmentsEnhanced Ender Pearls are a special version of vanilla Ender Pearls with one or more special effects (enhancements).
+HardcoreEnderExpansion/enhanced_ender_pearl-0.pngEnderpearl EnchantmentsEnhanced Ender Pearls are a special version of vanilla Ender Pearls with one or more special effects (enhancements).
 
 The way to make enhanced pearls is to right click with End Powder in your hand to modify your ender pearl. You can continue adding as many effects to one pearl as you want.
 
@@ -30,4 +30,19 @@ Riding (Lead)
 The thrower will "ride" the pearl to its destination. During the ride, if another pearl with this effect is thrown, the previous pearl will destroy itself and deal fall damage (unless No fall damage effect is applied).
 
 Trivia:
-The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.ANDpreRequHardcoreEnderExpansion/end_powder_ore~0Quest Name For 23502350rewardsChoiceminecraft/ender_pearl~0Choice Name16HardcoreEnderExpansion/end_powder~0Choice Name32enhancedlootbags/lootbag~57Choice Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinSmithII~0Item Name1HardcoreEnderExpansion/knowledge_note~0Item Name1tasksANDRetrievalminecraft/ender_pearl~0minecraft/ender_pearl~0 Name7Retrievalminecraft/wool~0minecraft/wool~0 Name1minecraft/feather~0minecraft/feather~0 Name1minecraft/string~0minecraft/string~0 Name1minecraft/gold_nugget~0minecraft/gold_nugget~0 Name1minecraft/gunpowder~0minecraft/gunpowder~0 Name1minecraft/snowball~0minecraft/snowball~0 Name1minecraft/lead~0minecraft/lead~0 Name1RetrievalHardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name14
+The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.0-1ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+16HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+32enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+1tasksANDRetrievalminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+7Retrievalminecraft/wool-0.pngWool
+1minecraft/feather-0.pngFeather
+1minecraft/string-0.pngString
+1minecraft/gold_nugget-0.pngGold Nugget
+1minecraft/gunpowder-0.pngGunpowder
+1minecraft/snowball-0.pngSnowball
+1minecraft/lead-0.pngLead
+1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+14

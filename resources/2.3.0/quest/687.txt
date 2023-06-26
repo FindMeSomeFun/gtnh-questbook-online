@@ -1,1 +1,11 @@
-687Bronze armorBronze armor has the same abilities as iron armor. Same durability, same protection and same enchantment capability.ANDpreRequminecraft/iron_ingot~0Quest Name For 3737rewardsChoicegregtech/gt.metaitem.01~17300Choice Name8gregtech/gt.metaitem.01~17032Choice Name8enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinSurvivor~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~17300gregtech/gt.metaitem.01~17300 Name24CraftingIC2/itemArmorBronzeHelmet~0IC2/itemArmorBronzeHelmet~0 Name1IC2/itemArmorBronzeChestplate~0IC2/itemArmorBronzeChestplate~0 Name1IC2/itemArmorBronzeLegs~0IC2/itemArmorBronzeLegs~0 Name1IC2/itemArmorBronzeBoots~0IC2/itemArmorBronzeBoots~0 Name1
+IC2/itemArmorBronzeChestplate-0.pngBronze armorBronze armor has the same abilities as iron armor. Same durability, same protection and same enchantment capability.0-1ANDpre371minecraft/iron_ingot-0.pngrewardsChoicegregtech/gt.metaitem.01-17300.pngBronze Plate\nSnCu\u2083
+8gregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+8enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate\nSnCu\u2083
+24CraftingIC2/itemArmorBronzeHelmet-0.pngBronze Helmet\nProtection: 2\nDurability: 165/165
+1IC2/itemArmorBronzeChestplate-0.pngBronze Chestplate\nProtection: 6\nDurability: 240/240
+1IC2/itemArmorBronzeLegs-0.pngBronze Leggings\nProtection: 5\nDurability: 225/225
+1IC2/itemArmorBronzeBoots-0.pngBronze Boots\nProtection: 2\nDurability: 195/195
+1

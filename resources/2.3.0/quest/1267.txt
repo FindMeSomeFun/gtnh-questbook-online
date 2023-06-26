@@ -1,1 +1,4 @@
-1267Medium Voltage TransformerThese work the same as the LV ones, but 1 tier higher.ANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.blockmachines~22gregtech/gt.blockmachines~22 Name1
+gregtech/gt.blockmachines-22.pngMedium Voltage TransformerThese work the same as the LV ones, but 1 tier higher.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.blockmachines-22.pngMedium Voltage Transformer\nHV -> MV (Use Soft Mallet to invert)\nVoltage IN: 512 (HV)\nVoltage OUT: 128 (MV)\nAmperage: 4\nCapacity: 2,560 EU
+1

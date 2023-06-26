@@ -1,1 +1,4 @@
-1210Cart Modules: Thermal EngineYour cart needs power, obviously. A cart can be powered via coal, solar or lava. Why not power your cart with lava?ANDpreRequStevesCarts/CartModule~38Quest Name For 111111rewardsItemIC2/itemCellEmpty~2Item Name16Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalStevesCarts/CartModule~69StevesCarts/CartModule~69 Name1
+StevesCarts/CartModule-69.pngCart Modules: Thermal EngineYour cart needs power, obviously. A cart can be powered via coal, solar or lava. Why not power your cart with lava?0-1ANDpre1110StevesCarts/CartModule-38.pngrewardsItemIC2/itemCellEmpty-2.pngLava Cell\nBurn Time: 20000
+16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalStevesCarts/CartModule-69.pngThermal Engine\nModular cost: 28\nType: Engine
+1

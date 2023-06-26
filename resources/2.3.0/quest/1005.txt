@@ -1,5 +1,14 @@
-1005§a§lIndiumAt EV you're able to make Indium. Indium cannot be found in Ore form §3(except in super small amounts on Ross)§r.
+gregtech/gt.metaitem.01-2056.png§a§lIndiumAt EV you're able to make Indium. Indium cannot be found in Ore form §3(except in super small amounts on Ross)§r.
 
 First you need to make Indium concentrate out of purified galena and sphalerite ore, then mix in some aluminium to get Indium. Indium is used in large amounts later on, automate this ASAP.
 
-You also get lead, zinc, silver, sulfur, and water back from the lead-zinc solution. So it's not like you don't get the materials from the ores at all, just less of them.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsItemmiscutils/MU-metaitem.01~32054Item Name1enhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~6839gregtech/gt.metaitem.01~6839 Name9gregtech/gt.metaitem.01~6830gregtech/gt.metaitem.01~6830 Name27gregtech/gt.metaitem.01~30720gregtech/gt.metaitem.01~30720 Name36Optionalgregtech/gt.metaitem.01~2019gregtech/gt.metaitem.01~2019 Name36Retrievalgregtech/gt.metaitem.01~2056gregtech/gt.metaitem.01~2056 Name1
+You also get lead, zinc, silver, sulfur, and water back from the lead-zinc solution. So it's not like you don't get the materials from the ores at all, just less of them.1-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemmiscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Battery\nReusable\n0 / 6,400,000 EU - Voltage: 2048
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-6839.pngPurified Sphalerite Ore\nZnS
+9gregtech/gt.metaitem.01-6830.pngPurified Galena Ore\nPbS
+27gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
+36Optionalgregtech/gt.metaitem.01-2019.pngAluminium Dust\nAl
+36Retrievalgregtech/gt.metaitem.01-2056.pngIndium Dust\nIn
+1

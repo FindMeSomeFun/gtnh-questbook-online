@@ -1,1 +1,4 @@
-1358EU->VISThis device allows you to charge your wands using EU, but it costs 10kEU per Vis restored.ANDpreRequGalacticraftMars/item.itemTier3Rocket~0Quest Name For 215215Thaumcraft/blockCosmeticSolid~7Quest Name For 238238EMT/EssentiaGenerators~0Quest Name For 13331333rewardsItemdreamcraft/item.CoinTechnicianII~0Item Name1Thaumcraft/WandRod~52Item Name1tasksANDRetrievalEMT/EMTMachines~0EMT/EMTMachines~0 Name1
+EMT/EMTMachines-0.pngEU->VISThis device allows you to charge your wands using EU, but it costs 10kEU per Vis restored.0-1ANDpre2151GalacticraftMars/item.itemTier3Rocket-0.png2381Thaumcraft/blockCosmeticSolid-7.png13330EMT/EssentiaGenerators-0.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1Thaumcraft/WandRod-52.pngSilverwood Staff Core
+1tasksANDRetrievalEMT/EMTMachines-0.pngIndustrial Wand Charging Station
+1

@@ -1,1 +1,4 @@
-101§5§lMjolnir!!!Not really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow, use this hammer.ANDpreRequgregtech/gt.metaitem.01~32640Quest Name For 9595rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~611gregtech/gt.blockmachines~611 Name1
+gregtech/gt.blockmachines-611.png§5§lMjolnir!!!Not really required, but it is a lot faster than the steam one and it can be automated. If you feel like ore washing is too slow, use this hammer.0-1ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-611.pngBasic Forge Hammer\nStop, Hammertime!\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1

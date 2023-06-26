@@ -1,5 +1,10 @@
-3047§b§lHafnium LineThere is a key difference with hafnium here, however. Follow this miniline to hear more.
+bartworks/gt.bwMetaGenerateddust-11003.png§b§lHafnium LineThere is a key difference with hafnium here, however. Follow this miniline to hear more.
 
 First off you'll need to react your hafnia with some hydrochloric acid.
 
-And, like with zirconium, you'll need the solution rather than the dust.ANDpreRequbartworks/gt.bwMetaGenerateddust~11011Quest Name For 30453045rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGenerateddust~11002bartworks/gt.bwMetaGenerateddust~11002 Name1gregtech/gt.metaitem.01~30683gregtech/gt.metaitem.01~30683 Name4Optionalbartworks/gt.bwMetaGenerateddust~11003bartworks/gt.bwMetaGenerateddust~11003 Name1Retrievalbartworks/gt.bwMetaGeneratedcell~11004bartworks/gt.bwMetaGeneratedcell~11004 Name1
+And, like with zirconium, you'll need the solution rather than the dust.0-1ANDpre30450bartworks/gt.bwMetaGenerateddust-11011.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dust\nHfO\u2082\nAdded by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+4Optionalbartworks/gt.bwMetaGenerateddust-11003.pngHafnium Tetrachloride Dust\nHfCl\u2084\nAdded by GTNH: Lanthanides via BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedcell-11004.pngHafnium Tetrachloride Solution Cell\nHfCl\u2084\nAdded by GTNH: Lanthanides via BartWorks
+1

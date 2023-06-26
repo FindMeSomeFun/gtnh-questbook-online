@@ -1,4 +1,4 @@
-1121Breed some imperial beesCross breeding noble and majestic bees can result in imperial bees.
+Forestry/beeQueenGE-0-Imperial.pngBreed some imperial beesCross breeding noble and majestic bees can result in imperial bees.
 
 These bees produce a Regeneration buff in their active area.  You can probably find a use for this in case of...accidents.
 
@@ -6,4 +6,16 @@ Imperial bees produce dripping combs every 3.8 minutes and royal jelly every 5.1
 
 Royal jelly is needed in making scented paneling for an Alveary - the third tier bee housing.
 
-You can now start working towards the Master Registry in the How to Be(e) tab.ANDpreRequForestry/beeQueenGE~0Quest Name For 11201120rewardsItemenhancedlootbags/lootbag~25Item Name1Forestry/beePrincessGE~0Item Name1Forestry/beeDroneGE~0Item Name4Forestry/beeCombs~5Item Name32Forestry/honeyDrop~0Item Name64Itemdreamcraft/item.CoinBeesI~0Item Name5tasksANDOptionalForestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1Forestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1RetrievalForestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1
+You can now start working towards the Master Registry in the How to Be(e) tab.0-1ANDpre11200Forestry/beeQueenGE-0-Majestic.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Forestry/beePrincessGE-0-ocean.pngOcean Princess\nPristine Stock
+1Forestry/beeDroneGE-0-ocean.pngOcean Drone
+4Forestry/beeCombs-5.pngDripping Comb
+32Forestry/honeyDrop-0.pngHoney Drop
+64Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5tasksANDOptionalForestry/beePrincessGE-0-Noble.pngNoble Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Noble.pngNoble Drone
+1Forestry/beePrincessGE-0-Majestic.pngMajestic Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Majestic.pngMajestic Drone
+1RetrievalForestry/beePrincessGE-0-Imperial.pngImperial Princess\nPristine Stock
+1Forestry/beeDroneGE-0-Imperial.pngImperial Drone
+1

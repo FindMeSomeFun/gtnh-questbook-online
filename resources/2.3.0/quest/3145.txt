@@ -1,4 +1,4 @@
-3145Basis for All ReactorsNuclear energy is first available in EV. However, it comes in all shapes and forms, and it can be hard to choose one kind of setup to use amongst all of those that are available. To start this questbook page, this first quest will be a summary of how nuclear power can be produced, and when it is available. Other quests down the line will have more details about each specific setup, but this is an overview of all of them.
+IC2/blockGenerator-5.pngBasis for All ReactorsNuclear energy is first available in EV. However, it comes in all shapes and forms, and it can be hard to choose one kind of setup to use amongst all of those that are available. To start this questbook page, this first quest will be a summary of how nuclear power can be produced, and when it is available. Other quests down the line will have more details about each specific setup, but this is an overview of all of them.
 
 TL;DR: Nuke < Fluid Nuke < Vacuum Nuke < LFTR = THTR = Naq Reactor < Fusion < Compact Fusion for power, per reactor. For breeding, Nuke < LFTR = Naq Reactor < HTGR in terms of breeding speed and outputs, with fusion being required to make some materials.
 
@@ -12,4 +12,5 @@ Another kind of nuclear reactor is the Good Generators Naquadah Reactor, which c
 
 From then on, it's fusion power. The infamous GregTech Fusion Reactors work by fusing two elements into a new one, which is often a required step for progression, but they also turn the power they require into exponentially more in the way of plasma. Helium and Tin Plasma are some of the most used for power, and putting them into Plasma Turbines is an excellent source of power for lategame, in ZPM to UEV and so on. There are 4 tiers to the regular Fusion Reactors, but there is also compact fusion and some other kinks to fusion that you might explore later on.
 
-This page will mostly serve to guide you into making a choice between all of these possibilities. It's pretty much guaranteed that you'll use at least 2-3 of these setups, so try to get comfortable with these quest descriptions.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardstasksANDCheckboxcheckbox  
+This page will mostly serve to guide you into making a choice between all of these possibilities. It's pretty much guaranteed that you'll use at least 2-3 of these setups, so try to get comfortable with these quest descriptions.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

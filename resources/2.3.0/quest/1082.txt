@@ -1,3 +1,10 @@
-1082MV Battery BuffersYou'll probably want MV battery buffers as well.
+gregtech/gt.blockmachines-162.pngMV Battery BuffersYou'll probably want MV battery buffers as well.
 
-§3You only need to complete one task.ANDpreRequgregtech/gt.metaitem.01~32528Quest Name For 10831083rewardsItemgregtech/gt.metaitem.01~11019Item Name8enhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksORRetrievalgregtech/gt.blockmachines~162gregtech/gt.blockmachines~162 Name1Retrievalgregtech/gt.blockmachines~172gregtech/gt.blockmachines~172 Name1Retrievalgregtech/gt.blockmachines~182gregtech/gt.blockmachines~182 Name1Retrievalgregtech/gt.blockmachines~192gregtech/gt.blockmachines~192 Name1
+§3You only need to complete one task.0-1ANDpre10830gregtech/gt.metaitem.01-32528.pngrewardsItemgregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
+8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksORRetrievalgregtech/gt.blockmachines-162.pngMedium Voltage Battery Buffer\n1 Slots\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nCapacity: 8,192 EU
+1Retrievalgregtech/gt.blockmachines-172.pngMedium Voltage Battery Buffer\n4 Slots\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nCapacity: 32,768 EU
+1Retrievalgregtech/gt.blockmachines-182.pngMedium Voltage Battery Buffer\n9 Slots\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nCapacity: 73,728 EU
+1Retrievalgregtech/gt.blockmachines-192.pngMedium Voltage Battery Buffer\n16 Slots\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nCapacity: 131,072 EU
+1

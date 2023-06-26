@@ -1,6 +1,7 @@
-1637Storing the FluidsFirst we should make a place to store all the fluids we'll use.
+gregtech/gt.blockmachines-130.pngStoring the FluidsFirst we should make a place to store all the fluids we'll use.
 
 If you're interested what they'll be used for:
 1 for oxygen
 1 for hydrogen
-1 for sulfuric acidANDpreRequgregtech/gt.blockmachines~531Quest Name For 547547BuildCraftEnergy/bucketOil~0Quest Name For 16361636rewardstasksANDRetrievalgregtech/gt.blockmachines~130gregtech/gt.blockmachines~130 Name3
+1 for sulfuric acid0-1ANDpre5471gregtech/gt.blockmachines-531.png16360BuildCraftEnergy/bucketOil-0.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-130.pngSuper Tank I\nStores 4,000,000L of fluid\nWill keep its contents when harvested
+3

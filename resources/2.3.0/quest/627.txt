@@ -1,1 +1,7 @@
-627Grain BaitCrafting some nice grain bait for your animal trap.ANDpreRequharvestcraft/animaltrap~0Quest Name For 631631minecraft/wheat~0Quest Name For 634634rewardsChoiceharvestcraft/fishtrapbaitItem~0Choice Name4harvestcraft/fruitbaitItem~0Choice Name4harvestcraft/grainbaitItem~0Choice Name4enhancedlootbags/lootbag~28Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDCraftingharvestcraft/grainbaitItem~0harvestcraft/grainbaitItem~0 Name16
+harvestcraft/grainbaitItem-0.pngGrain BaitCrafting some nice grain bait for your animal trap.0-1ANDpre6310harvestcraft/animaltrap-0.png6340minecraft/wheat-0.pngrewardsChoiceharvestcraft/fishtrapbaitItem-0.pngFish Trap Bait
+4harvestcraft/fruitbaitItem-0.pngFruit Bait
+4harvestcraft/grainbaitItem-0.pngGrain Bait
+4enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDCraftingharvestcraft/grainbaitItem-0.pngGrain Bait
+16

@@ -1,3 +1,11 @@
-1106Blub Blub Blub.....The brewing stand is really important for brewing the various potions like night vision, healing, haste and jump. Toxic potions or splash potions can be created too. You'll also need it to make a brewery.
+minecraft/brewing_stand-0.pngBlub Blub Blub.....The brewing stand is really important for brewing the various potions like night vision, healing, haste and jump. Toxic potions or splash potions can be created too. You'll also need it to make a brewery.
 
-With your basic wand you can finally create one. The recipes can be found on the GTNH page in the Thaumonomicon.ANDpreRequThaumcraft/WandCasting~0Quest Name For 230230rewardsItemenhancedlootbags/lootbag~9Item Name1minecraft/glowstone_dust~0Item Name16minecraft/redstone~0Item Name16minecraft/nether_wart~0Item Name16minecraft/potion~0Item Name16Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinChemistI~0Item Name5tasksANDRetrievalminecraft/brewing_stand~0minecraft/brewing_stand~0 Name1
+With your basic wand you can finally create one. The recipes can be found on the GTNH page in the Thaumonomicon.1-1ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1minecraft/glowstone_dust-0.pngGlowstone Dust
+16minecraft/redstone-0.pngRedstone
+16minecraft/nether_wart-0.pngNether Wart
+16minecraft/potion-0.pngWater Bottle
+16Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalminecraft/brewing_stand-0.pngBrewing Stand
+1

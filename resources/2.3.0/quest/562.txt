@@ -1,3 +1,11 @@
-562§6§lHigh-Pressure Boiler TankAfter you make steel you are able to craft a high pressure boiler tank. The upgraded version increases the temperature and produces more steam than the low pressure version. It will take longer to warm up, so make sure to keep it well fed!
+Railcraft/machine.beta-4.png§6§lHigh-Pressure Boiler TankAfter you make steel you are able to craft a high pressure boiler tank. The upgraded version increases the temperature and produces more steam than the low pressure version. It will take longer to warm up, so make sure to keep it well fed!
 
-Extract steam by attaching a pipe to the boiler tank.ORpreRequRailcraft/machine.beta~5Quest Name For 560560Railcraft/machine.beta~6Quest Name For 561561rewardsItemharvestcraft/meatfeastpizzaItem~0Item Name2gregtech/gt.metaitem.02~32240Item Name2Choicegregtech/gt.metaitem.01~17305Choice Name2enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~27305gregtech/gt.metaitem.01~27305 Name2gregtech/gt.metaitem.02~18305gregtech/gt.metaitem.02~18305 Name6CraftingRailcraft/machine.beta~4Railcraft/machine.beta~4 Name1
+Extract steam by attaching a pipe to the boiler tank.0-1ORpre5600Railcraft/machine.beta-5.png5610Railcraft/machine.beta-6.pngrewardsItemharvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza\nharvestcraft:meatfeastpizzaItem\nDiminishing returns start after\neating any food 10 more times
+2gregtech/gt.metaitem.02-32240.pngBaguettes\ngregtech:gt.metaitem.02\nPre Sliced\nDiminishing returns start after\neating any food 10 more times
+2Choicegregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
+2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
+2gregtech/gt.metaitem.02-18305.pngSteel Casing\nFe\u2085\u2080C
+6CraftingRailcraft/machine.beta-4.pngHigh Pressure Boiler Tank\nMulti-Block: Variable Size, Above Firebox\nDimensions: 1x1x1, 2x2x2, 2x3x2,\n3x2x3, 3x3x3, 3x4x3\nProduces up to 40L of Steam per tick\nMobs cannot Spawn on this Block
+1

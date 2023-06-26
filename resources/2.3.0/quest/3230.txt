@@ -1,1 +1,7 @@
-3230AlfheimLegends speak of a portal to a different realm filled with green energy.ANDpreRequBotania/manaResource~4Quest Name For 32293229rewardsItemdreamcraft/item.CoinFlowerIII~0Item Name2tasksANDRetrievalBotania/pylon~1Botania/pylon~1 Name2Botania/livingwood~5Botania/livingwood~5 Name3Botania/alfheimPortal~0Botania/alfheimPortal~0 Name1Botania/livingwood~0Botania/livingwood~0 Name8Botania/pool~0Botania/pool~0 Name2
+Botania/pylon-1.pngAlfheimLegends speak of a portal to a different realm filled with green energy.1-1ANDpre32291Botania/manaResource-4.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000"
+2tasksANDRetrievalBotania/pylon-1.pngNatura Pylon\nMay work as an Infusion Stabilizer\nEnchantment Power: 8.0
+2Botania/livingwood-5.pngGlimmering Livingwood\nMobs cannot Spawn on this Block\nBurn Time: 300
+3Botania/alfheimPortal-0.pngElven Gateway Core\nBurn Time: 300
+1Botania/livingwood-0.pngLivingwood\nMobs cannot Spawn on this Block\nBurn Time: 300
+8Botania/pool-0.pngMana Pool
+2

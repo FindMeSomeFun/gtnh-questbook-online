@@ -1,5 +1,8 @@
-2402§2§lGot a Flat Tire?The crowbar is the GT tool used to remove a cover off of a machine, pipe, or wire. Covers can be decorative, functional like pumps and conveyors, or for safety, like putting a wooden plank over your steam pipes so they don't burn you.
+gregtech/gt.metatool.01-20-Neutronium-Neutronium.png§2§lGot a Flat Tire?The crowbar is the GT tool used to remove a cover off of a machine, pipe, or wire. Covers can be decorative, functional like pumps and conveyors, or for safety, like putting a wooden plank over your steam pipes so they don't burn you.
 
 Sorry, it only comes in blue!
 
-§3Yes, there are also red crowbars. But they are from railcraft and generally inferior. Better ignore them.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsItemdreamcraft/item.CoinTechnician~0Item Name5harvestcraft/friedriceItem~0Item Name3tasksANDCraftinggregtech/gt.metatool.01~20gregtech/gt.metatool.01~20 Name1
+§3Yes, there are also red crowbars. But they are from railcraft and generally inferior. Better ignore them.1-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5harvestcraft/friedriceItem-0.pngFried Rice\nharvestcraft:friedriceItem\nDiminishing returns start after\neating any food 10 more times
+3tasksANDCraftinggregtech/gt.metatool.01-20-Iron-Iron.pngCrowbar\nDurability: 25,600 / 25,600\nIron lvl 2\nAttack Damage: 4.0\nMining Speed: 6.0\nDismounts Covers and Rotates Rails\nSharpness I
+1

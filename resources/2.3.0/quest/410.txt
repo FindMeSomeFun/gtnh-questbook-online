@@ -1,5 +1,9 @@
-410Alchemy With BloodNot like "blood alchemy". You probably will need more than one later, but for now one is sufficient.
+AWWayofTime/blockWritingTable-0.pngAlchemy With BloodNot like "blood alchemy". You probably will need more than one later, but for now one is sufficient.
 
 Place an orb in the slot to start crafting, using LP from your network. You'll need higher tier orbs to craft more complicated items.
 
-If the LP in your network falls to 0 while you're working with this alchemy, you will get a permanent Nausea debuff until it is increased again.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 238238AWWayofTime/blankSlate~0Quest Name For 407407rewardsItemenhancedlootbags/lootbag~16Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name1dreamcraft/item.CoinBloodII~0Item Name1tasksANDRetrievalAWWayofTime/blockWritingTable~0AWWayofTime/blockWritingTable~0 Name1
+If the LP in your network falls to 0 while you're working with this alchemy, you will get a permanent Nausea debuff until it is increased again.1-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.png4071AWWayofTime/blankSlate-0.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+1tasksANDRetrievalAWWayofTime/blockWritingTable-0.pngAlchemic Chemistry Set\nBurn Time: 300
+1

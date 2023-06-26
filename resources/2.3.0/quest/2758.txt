@@ -1,3 +1,7 @@
-2758Let me fabricate a new universe...This multi is dedicated to producing UUM and Scrap. It is one of the hardest GT++ multis to craft, but you will be able to replicate many things if you get it working.
+gregtech/gt.blockmachines-799.pngLet me fabricate a new universe...This multi is dedicated to producing UUM and Scrap. It is one of the hardest GT++ multis to craft, but you will be able to replicate many things if you get it working.
 
-§3This multi is UV.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416gregtech/gt.blockmachines~18Quest Name For 26132613rewardstasksANDRetrievalgregtech/gt.blockmachines~799gregtech/gt.blockmachines~799 Name1miscutils/miscutils.blockcasings~8miscutils/miscutils.blockcasings~8 Name9miscutils/gtplusplus.blockcasings.3~15miscutils/gtplusplus.blockcasings.3~15 Name24miscutils/miscutils.blockcasings~9miscutils/miscutils.blockcasings~9 Name1
+§3This multi is UV.0-1ANDpre14161gregtech/gt.blockmachines-810.png26131gregtech/gt.blockmachines-18.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-799.pngMatter Fabrication CPU\nMachine Type: Mass Fabricator / Recycler\nController Block for the Matter Fabricator\nSpeed: +0% | EU Usage: 80%\nParallel: Scrap = 64 | UU = 8 * Tier\nProduces UU-A, UU-M & Scrap\nChange mode with screwdriver\nCauses: 40 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/miscutils.blockcasings-8.pngMatter Generation Coil\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+9miscutils/gtplusplus.blockcasings.3-15.pngContainment Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+24miscutils/miscutils.blockcasings-9.pngMatter Fabricator Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

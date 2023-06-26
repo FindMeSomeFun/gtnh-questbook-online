@@ -1,3 +1,9 @@
-1301Annihilation and FormationFormation Core - a component which can convert energy back into matter.
+appliedenergistics2/item.ItemMultiMaterial-44.pngAnnihilation and FormationFormation Core - a component which can convert energy back into matter.
 Annihilation Core - a component which can convert matter into energy.
-Gates all network I/O.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~12Quest Name For 12961296rewardsChoiceappliedenergistics2/item.ItemMultiMaterial~1Choice Name16appliedenergistics2/item.ItemMultiMaterial~10Choice Name16enhancedlootbags/lootbag~37Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial~44appliedenergistics2/item.ItemMultiMaterial~44 Name16appliedenergistics2/item.ItemMultiMaterial~43appliedenergistics2/item.ItemMultiMaterial~43 Name16
+Gates all network I/O.1-1ANDpre12961appliedenergistics2/item.ItemMultiMaterial-12.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
+16appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
+16enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-44.pngAnnihilation Core
+16appliedenergistics2/item.ItemMultiMaterial-43.pngFormation Core
+16

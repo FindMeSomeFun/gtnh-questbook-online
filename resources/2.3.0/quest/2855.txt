@@ -1,1 +1,4 @@
-2855Essentia TransmissionWhat if... you could send essentia from a different location to your infusion matrix? You could finally get rid of all those jars around your altar.ANDpreRequThaumcraft/ItemResource~10Quest Name For 28572857rewardsItemThaumcraft/blockMirror~6Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/blockMirror~6Thaumcraft/blockMirror~6 Name1
+Thaumcraft/blockMirror-6.pngEssentia TransmissionWhat if... you could send essentia from a different location to your infusion matrix? You could finally get rid of all those jars around your altar.0-1ANDpre28570Thaumcraft/ItemResource-10.pngrewardsItemThaumcraft/blockMirror-6.pngEssentia Mirror\nGlass-Tier: HV
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/blockMirror-6.pngEssentia Mirror\nGlass-Tier: HV
+1

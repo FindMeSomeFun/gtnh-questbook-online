@@ -1,1 +1,2 @@
-2804§9§lKinetic Power IVThis is the IV version.ANDpreRequgregtech/gt.metaitem.01~2084Quest Name For 23212321compactkineticgenerators/BlockCkg~8Quest Name For 28032803rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~9compactkineticgenerators/BlockCkg~9 Name1
+compactkineticgenerators/BlockCkg-9.png§9§lKinetic Power IVThis is the IV version.0-1ANDpre23211gregtech/gt.metaitem.01-2084.png28030compactkineticgenerators/BlockCkg-8.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-9.pngMedium Kinetic Generator\nPower Output: 0-8192 EU/t max\nCapacity: 4m EU
+1

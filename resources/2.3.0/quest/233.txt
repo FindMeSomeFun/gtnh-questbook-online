@@ -1,1 +1,9 @@
-233Getting ShardsNow that you've found all six types of infused stone, you need to break those up in order to get the shards. The easiest way to do that, is to throw these stones in your Forge Hammer. Later when you have a Sifter, you can sift purified ores for more shards. An autoclave can turn shard dust into a shard. Maybe there's a magical way to do the same thing?ANDpreRequgregtech/gt.blockores~541Quest Name For 229229rewardsItemThaumcraft/ItemLootBag~0Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/ItemShard~1Thaumcraft/ItemShard~1 Name16Thaumcraft/ItemShard~2Thaumcraft/ItemShard~2 Name16Thaumcraft/ItemShard~3Thaumcraft/ItemShard~3 Name16Thaumcraft/ItemShard~0Thaumcraft/ItemShard~0 Name16Thaumcraft/ItemShard~5Thaumcraft/ItemShard~5 Name16Thaumcraft/ItemShard~4Thaumcraft/ItemShard~4 Name16
+Thaumcraft/ItemShard-1.pngGetting ShardsNow that you've found all six types of infused stone, you need to break those up in order to get the shards. The easiest way to do that, is to throw these stones in your Forge Hammer. Later when you have a Sifter, you can sift purified ores for more shards. An autoclave can turn shard dust into a shard. Maybe there's a magical way to do the same thing?1-1ANDpre2291gregtech/gt.blockores-541.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/ItemShard-1.pngFire Shard
+16Thaumcraft/ItemShard-2.pngWater Shard
+16Thaumcraft/ItemShard-3.pngEarth Shard
+16Thaumcraft/ItemShard-0.pngAir Shard
+16Thaumcraft/ItemShard-5.pngEntropy Shard
+16Thaumcraft/ItemShard-4.pngOrder Shard
+16

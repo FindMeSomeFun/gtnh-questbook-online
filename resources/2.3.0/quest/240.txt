@@ -1,3 +1,8 @@
-240Essentia CookingIn order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.
+Thaumcraft/blockStoneDevice-0.pngEssentia CookingIn order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.
 
-Make sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.ANDpreRequThaumcraft/blockCosmeticSolid~7Quest Name For 239239Thaumcraft/blockMetalDevice~1Quest Name For 254254Thaumcraft/ItemResource~1Quest Name For 255255rewardsChoiceThaumcraft/blockJar~0Choice Name5enhancedlootbags/lootbag~9Choice Name1Itemdreamcraft/item.CoinCookI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/blockStoneDevice~0Thaumcraft/blockStoneDevice~0 Name1
+Make sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.1-1ANDpre2391Thaumcraft/blockCosmeticSolid-7.png2541Thaumcraft/blockMetalDevice-1.png2551Thaumcraft/ItemResource-1.pngrewardsChoiceThaumcraft/blockJar-0.pngWarded Jar\nGlass-Tier: HV
+5enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/blockStoneDevice-0.pngAlchemical Furnace
+1

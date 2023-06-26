@@ -1,1 +1,9 @@
-3237Nearly there...So close.ANDpreRequgregtech/gt.metaitem.01~32415Quest Name For 32393239dreamcraft/item.PikoCircuit~0Quest Name For 32423242rewardstasksANDRetrievalgregtech/gt.metaitem.01~32017gregtech/gt.metaitem.01~32017 Name1gregtech/gt.metaitem.01~32021gregtech/gt.metaitem.01~32021 Name1gregtech/gt.metaitem.01~32025gregtech/gt.metaitem.01~32025 Name1gregtech/gt.metaitem.01~32029gregtech/gt.metaitem.01~32029 Name1gregtech/gt.metaitem.01~32033gregtech/gt.metaitem.01~32033 Name1gregtech/gt.metaitem.01~32037gregtech/gt.metaitem.01~32037 Name1gregtech/gt.metaitem.01~32041gregtech/gt.metaitem.01~32041 Name1gregtech/gt.metaitem.01~32045gregtech/gt.metaitem.01~32045 Name1
+gregtech/gt.metaitem.01-32017.pngNearly there...So close.1-1ANDpre32391gregtech/gt.metaitem.01-32415.png32421dreamcraft/item.PikoCircuit-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32017.pngElectric Motor
+1gregtech/gt.metaitem.01-32021.pngElectric Piston
+1gregtech/gt.metaitem.01-32025.pngElectric Pump\nCannot be used as a Cover
+1gregtech/gt.metaitem.01-32029.pngConveyor Module\nCannot be used as a Cover
+1gregtech/gt.metaitem.01-32033.pngRobot Arm\nCannot be used as a Cover
+1gregtech/gt.metaitem.01-32037.pngEmitter
+1gregtech/gt.metaitem.01-32041.pngSensor
+1gregtech/gt.metaitem.01-32045.pngField Generator
+1

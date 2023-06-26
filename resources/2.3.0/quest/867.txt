@@ -1,3 +1,12 @@
-867§3§lLapis, Lazurite, Sodalite, CalciteIn order to make your bricked blast furnace you need to find a lapis vein containing calcite.
+minecraft/lapis_block-0.png§3§lLapis, Lazurite, Sodalite, CalciteIn order to make your bricked blast furnace you need to find a lapis vein containing calcite.
 
-You can find the vein in the overworld at Y 20-50.ANDpreRequgregtech/gt.blockmachines~106Quest Name For 5050rewardsItemgregtech/gt.metaitem.02~32243Item Name1gregtech/gt.metaitem.02~32244Item Name1enhancedlootbags/lootbag~2Item Name1Choicegregtech/gt.metaitem.01~2823Choice Name16gregtech/gt.metaitem.01~2934Choice Name16Itemdreamcraft/item.CoinAdventure~0Item Name10tasksANDRetrievalgregtech/gt.blockores~526gregtech/gt.blockores~526 Name16gregtech/gt.blockores~524gregtech/gt.blockores~524 Name16gregtech/gt.blockores~823gregtech/gt.blockores~823 Name32
+You can find the vein in the overworld at Y 20-50.0-1ANDpre501gregtech/gt.blockmachines-106.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich\ngregtech:gt.metaitem.02\nFor Men! (and manly Women)\nDiminishing returns start after\neating any food 10 more times
+1gregtech/gt.metaitem.02-32244.pngLarge Steak Sandwich\ngregtech:gt.metaitem.02\nYes, I once accidentially called it ''Steam Sandwich''\nDiminishing returns start after\neating any food 10 more times
+1enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Choicegregtech/gt.metaitem.01-2823.pngCalcite Dust\nCaCO\u2083
+16gregtech/gt.metaitem.01-2934.pngGypsum Dust\nCaSO\u2084(H\u2082O)\u2082
+16Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10tasksANDRetrievalgregtech/gt.blockores-526.pngLapis Ore\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+16gregtech/gt.blockores-524.pngLazurite Ore\nAl\u2086Si\u2086Ca\u2088Na\u2088
+16gregtech/gt.blockores-823.pngCalcite Ore\nCaCO\u2083
+32

@@ -1,1 +1,10 @@
-937§a§lPower of the Sun 1x1 LVPut those 32 EU panels on a block to make them placeable in the world. Use an MV assembler to combine the panel with an LV hull, a battery, and a robot arm. Now this panel will clean itself!ANDpreRequgregtech/gt.metaitem.01~32752Quest Name For 936936rewardsChoicegregtech/gt.metaitem.03~32034Choice Name2gregtech/gt.metaitem.01~2028Choice Name16enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalgregtech/gt.metaitem.01~32752gregtech/gt.metaitem.01~32752 Name1gregtech/gt.metaitem.01~32518gregtech/gt.metaitem.01~32518 Name1gregtech/gt.metaitem.01~32650gregtech/gt.metaitem.01~32650 Name1gregtech/gt.blockmachines~11gregtech/gt.blockmachines~11 Name1RetrievalAdvancedSolarPanel/BlockAdvSolarPanel~0AdvancedSolarPanel/BlockAdvSolarPanel~0 Name1
+AdvancedSolarPanel/BlockAdvSolarPanel-0.png§a§lPower of the Sun 1x1 LVPut those 32 EU panels on a block to make them placeable in the world. Use an MV assembler to combine the panel with an LV hull, a battery, and a robot arm. Now this panel will clean itself!0-1ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
+2gregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
+16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-32752.pngSolar Panel\nLow Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.01-32518.pngSmall Lithium Battery\nReusable\n0 / 100,000 EU - Voltage: 32\nLV-Tier
+1gregtech/gt.metaitem.01-32650.pngRobot Arm\n1 stack every 20 secs (as Cover)\nGrabs from and inserts into specific slots
+1gregtech/gt.blockmachines-11.pngLV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 32 (LV)\nVoltage OUT: 32 (LV)\nCapacity: 2,112 EU
+1RetrievalAdvancedSolarPanel/BlockAdvSolarPanel-0.pngAdvanced Solar Panel
+1

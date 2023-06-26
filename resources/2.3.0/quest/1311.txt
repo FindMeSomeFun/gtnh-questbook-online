@@ -1,7 +1,12 @@
-1311AE Tier 1 Item StorageThe main processor for 1K and 4K cells.
+dreamcraft/item.LogicProcessorItemGoldCore-0.pngAE Tier 1 Item StorageThe main processor for 1K and 4K cells.
 
 As an alternative to storing items in ME, you can use a storage bus connected to other blocks.  A common tactic is to connect to a bank of Compressed Chests or even a Drawer Controller in this way. This can help reduce the power requirements in your AE system.
 
 §cNote that using external storage like this can significantly harm server performance and may be banned on some servers!
 
-Super and Quantum chests do not have TPS issues.§rANDpreRequappliedenergistics2/item.ItemMultiMaterial~22Quest Name For 183183rewardsChoiceappliedenergistics2/item.ItemMultiMaterial~22Choice Name2dreamcraft/item.GoldCoreChip~0Choice Name2enhancedlootbags/lootbag~37Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievaldreamcraft/item.LogicProcessorItemGoldCore~0dreamcraft/item.LogicProcessorItemGoldCore~0 Name4
+Super and Quantum chests do not have TPS issues.§r1-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-22.pngLogic Processor
+2dreamcraft/item.GoldCoreChip-0.pngItem Circuit Tier I
+2enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievaldreamcraft/item.LogicProcessorItemGoldCore-0.pngItem Processor Tier I
+4

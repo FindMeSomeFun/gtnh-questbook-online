@@ -1,7 +1,9 @@
-3235Power in the EtherThese new hatches allow you to wirelessly send, store and receive energy from any location in any dimension. They can be placed in any existing multi block structure and will function as normal energy/dynamo hatches. A dynamo hatch will consume EU and store it in a global network linked to your user. The wireless network can store a total of 2^(2^31) EU, far exceeding even a max tier LSC.
+gregtech/gt.blockmachines-346.pngPower in the EtherThese new hatches allow you to wirelessly send, store and receive energy from any location in any dimension. They can be placed in any existing multi block structure and will function as normal energy/dynamo hatches. A dynamo hatch will consume EU and store it in a global network linked to your user. The wireless network can store a total of 2^(2^31) EU, far exceeding even a max tier LSC.
 
 You can share a wireless network with others by adding them to your network with /gt global_energy_join user1 user2. This will make user1 use user2's energy when interacting with the global network. You can leave a network at any time by doing /gt global_energy_join your_name your_name. 
 
 You cannot connect wires to these blocks. These are also designed to be highly lag efficient, meaning EU is added at large intervals to prevent needless calculations from occurring. This will also save you some TPS lag from vast wire networks.
 
-§3If your calculator is giving up, 2^(2^31) is a number with 646,456,994 digits.ANDpreRequgregtech/gt.metaitem.01~11588Quest Name For 32403240rewardstasksANDRetrievalgregtech/gt.blockmachines~287gregtech/gt.blockmachines~287 Name1gregtech/gt.blockmachines~206gregtech/gt.blockmachines~206 Name1
+§3If your calculator is giving up, 2^(2^31) is a number with 646,456,994 digits.0-1ANDpre32401gregtech/gt.metaitem.01-11588.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-287.pngULV Wireless Energy Dynamo\nStores energy globally in a network, up to 2^(2^31) EU.\nDoes not connect to wires. This block accepts EU into the network.\nAuthor: Colen\nAmperage: 2\nCapacity: 64,000 EU
+1gregtech/gt.blockmachines-206.pngULV Wireless Energy Hatch\nStores energy globally in a network, up to 2^(2^31) EU.\nDoes not connect to wires. This block withdraws EU from the network.\nAuthor: Colen\nVoltage IN: 8 (ULV)\nCapacity: 64,000 EU
+1

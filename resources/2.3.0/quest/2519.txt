@@ -1,1 +1,4 @@
-2519Illuminated PanelsAll terminals are made from these. You'll probably want several.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~1Quest Name For 12901290rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart~180appliedenergistics2/item.ItemMultiPart~180 Name1
+appliedenergistics2/item.ItemMultiPart-180.pngIlluminated PanelsAll terminals are made from these. You'll probably want several.1-1ANDpre12901appliedenergistics2/item.ItemMultiMaterial-1.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-180.pngIlluminated Panel
+1

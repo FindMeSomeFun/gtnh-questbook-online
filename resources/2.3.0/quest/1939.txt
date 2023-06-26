@@ -1,1 +1,2 @@
-1939Chisel All the ThingsIf, for some reason, you need to chisel a large number of items, the autochisel is what you want.ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797chisel/obsidianChisel~0Quest Name For 19351935rewardstasksANDRetrievalchisel/autoChisel~0chisel/autoChisel~0 Name1
+chisel/autoChisel-0.pngChisel All the ThingsIf, for some reason, you need to chisel a large number of items, the autochisel is what you want.0-1ANDpre971gregtech/gt.blockmachines-211.png19350chisel/obsidianChisel-0.pngrewardstasksANDRetrievalchisel/autoChisel-0.pngAuto Chisel
+1

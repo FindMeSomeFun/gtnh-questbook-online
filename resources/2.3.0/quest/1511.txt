@@ -1,1 +1,2 @@
-1511Humid and Warm?Stop guessing what the humidity and temperature are for your biome. Use the habitat locator to get a reading on your current climate.ANDpreRequForestry/apiculture~2Quest Name For 502502rewardstasksANDRetrievalForestry/habitatLocator~0Forestry/habitatLocator~0 Name1
+Forestry/habitatLocator-0.pngHumid and Warm?Stop guessing what the humidity and temperature are for your biome. Use the habitat locator to get a reading on your current climate.0-1ANDpre5020Forestry/apiculture-2.pngrewardstasksANDRetrievalForestry/habitatLocator-0.pngHabitat Locator\nCurrent Biome: Lavender Fields\nTemperature: Normal\nHumidity: Normal
+1

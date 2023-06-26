@@ -1,6 +1,15 @@
-1782Traveller's Goggles UpgradesNightvision is very useful. If you combine your Goggles with a night vision potion (3:00, make sure to make 3 at a time), a golden carrot, and a lighter inside the Tinkers Crafting Station you get Night Vison Goggles. Place the Goggles in the Center of the Crafting Station.
+TConstruct/travelGoggles-0.pngTraveller's Goggles UpgradesNightvision is very useful. If you combine your Goggles with a night vision potion (3:00, make sure to make 3 at a time), a golden carrot, and a lighter inside the Tinkers Crafting Station you get Night Vison Goggles. Place the Goggles in the Center of the Crafting Station.
 
 Hint:
 Autorepair can be added to the goggles as well.
 
-Every Armor has 3 slots for modofication.ANDpreRequTConstruct/travelVest~0Quest Name For 17811781rewardsChoiceTConstruct/materials~6Choice Name1minecraft/potion~8198Choice Name2enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalTConstruct/travelGoggles~0TConstruct/travelGoggles~0 Name1minecraft/flint_and_steel~0minecraft/flint_and_steel~0 Name1minecraft/golden_carrot~0minecraft/golden_carrot~0 Name1minecraft/potion~8198minecraft/potion~8198 Name1
+Every Armor has 3 slots for modofication.0-1ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceTConstruct/materials-6.pngBall of Moss\nTool Modifier: Auto-Repair
+1minecraft/potion-8198.pngPotion of Night Vision\nNight Vision (3:00)
+2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDRetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles\nAbility: Zoom with NONE\nToggle Abilities: NONE\nProtection: 4%\nProtection: 2\nDurability: 1035/1035
+1minecraft/flint_and_steel-0.pngFlint and Steel
+1minecraft/golden_carrot-0.pngGolden Carrot\nminecraft:golden_carrot\nDiminishing returns start after\neating any food 10 more times
+1minecraft/potion-8198.pngPotion of Night Vision\nNight Vision (3:00)
+1

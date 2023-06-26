@@ -1,7 +1,12 @@
-2545Providing Essentia on DemandThe Essentia and Infusion Providers both do basically the same thing, send essentia to a device that requests it for crafting.
+thaumicenergistics/thaumicenergistics.block.essentia.provider-0.pngProviding Essentia on DemandThe Essentia and Infusion Providers both do basically the same thing, send essentia to a device that requests it for crafting.
 
 The Essentia Provider needs to be next to the device, it's mostly for the Thaumatorium. Since it's effectively a magic ME Interface, you can also use it instead of an Essentia Import Bus next to your Alembics or the Advanced Alchemical Furnace.
 
 The Infusion Provider is for devices that draw essentia through the air, like the Runic Matrix (infusion) or Overchanting Table. It doesn't need to be next to the device.
 
-They both obviously need the essentia they request to be accessible by the network to work.ANDpreRequthaumicenergistics/material~0Quest Name For 25122512rewardsItemenhancedlootbags/lootbag~38Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2dreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.essentia.provider~0thaumicenergistics/thaumicenergistics.block.essentia.provider~0 Name1thaumicenergistics/thaumicenergistics.block.infusion.provider~0thaumicenergistics/thaumicenergistics.block.infusion.provider~0 Name1
+They both obviously need the essentia they request to be accessible by the network to work.0-1ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.essentia.provider-0.pngEssentia Provider
+1thaumicenergistics/thaumicenergistics.block.infusion.provider-0.pngInfusion Provider
+1

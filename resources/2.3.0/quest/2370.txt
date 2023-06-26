@@ -1,4 +1,4 @@
-2370Scorching PickaxeThe Scorching Pickaxe is a special type of pickaxe that smelts blocks and applies fortune effect to ores.
+HardcoreEnderExpansion/schorching_pickaxe-0.pngScorching PickaxeThe Scorching Pickaxe is a special type of pickaxe that smelts blocks and applies fortune effect to ores.
 
 It only works on smeltable blocks and ores. Blocks that smelt into items are affected by fortune, including for example Iron Ore and Cactus.
 
@@ -6,4 +6,12 @@ Compatible blocks are also mined much faster.
 
 GT Ores are not affected. You can find Vanilla Ores in the Twilight Forest inside Hollow Hills.
 
-§3So basically, it's useless.ANDpreRequHardcoreEnderExpansion/fire_shard~0Quest Name For 23602360rewardsItemHardcoreEnderExpansion/fire_shard~0Item Name32enhancedlootbags/lootbag~58Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2HardcoreEnderExpansion/knowledge_note~0Item Name1tasksANDOptionalminecraft/golden_pickaxe~0minecraft/golden_pickaxe~0 Name1HardcoreEnderExpansion/fire_shard~0HardcoreEnderExpansion/fire_shard~0 Name8RetrievalHardcoreEnderExpansion/schorching_pickaxe~0HardcoreEnderExpansion/schorching_pickaxe~0 Name1
+§3So basically, it's useless.0-1ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItemHardcoreEnderExpansion/fire_shard-0.pngInfernium
+32enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n65 Knowledge Points
+1tasksANDOptionalminecraft/golden_pickaxe-0.pngGolden Pickaxe\n+2 Attack Damage\nDurability: 24/24\nThis tool cannot mine anything!\nIt can only be used for crafting
+1HardcoreEnderExpansion/fire_shard-0.pngInfernium
+8RetrievalHardcoreEnderExpansion/schorching_pickaxe-0.pngScorching Pickaxe
+1

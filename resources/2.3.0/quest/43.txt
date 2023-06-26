@@ -1,1 +1,5 @@
-43§2§lCotton, Cotton and More CottonYou've found out that cotton is very useful, it can be used to make string, wool, and some other useful items too. Make a small cotton plantation to get tons of it.ANDpreRequminecraft/leather~0Quest Name For 4242rewardsItemNatura/barley.seed~1Item Name10Itemdreamcraft/item.CoinFarmer~0Item Name10tasksANDRetrievalNatura/barleyFood~3Natura/barleyFood~3 Name5minecraft/string~0minecraft/string~0 Name3
+Natura/barleyFood-3.png§2§lCotton, Cotton and More CottonYou've found out that cotton is very useful, it can be used to make string, wool, and some other useful items too. Make a small cotton plantation to get tons of it.1-1ANDpre421minecraft/leather-0.pngrewardsItemNatura/barley.seed-1.pngCotton Seeds\nThe source of all string and wool
+10Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+10tasksANDRetrievalNatura/barleyFood-3.pngCotton\nThe source of all string and wool
+5minecraft/string-0.pngString
+3

@@ -1,1 +1,18 @@
-809Dire Crafting TableThe Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.ANDpreRequGalacticraftCore/item.basicItem~14Quest Name For 831831rewardsChoiceminecraft/nether_star~0Choice Name1witchery/ingredient~130Choice Name1enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalminecraft/crafting_table~0minecraft/crafting_table~0 Name81OptionalAvaritia/Triple_Craft~0Avaritia/Triple_Craft~0 Name1Optionalgregtech/gt.metaitem.01~17500gregtech/gt.metaitem.01~17500 Name144dreamcraft/item.StainlessSteelBars~0dreamcraft/item.StainlessSteelBars~0 Name36Optionalminecraft/nether_star~0minecraft/nether_star~0 Name18Avaritia/Resource~0Avaritia/Resource~0 Name36OptionalAvaritia/Resource~1Avaritia/Resource~1 Name9OptionalAvaritia/Crystal_Matrix~0Avaritia/Crystal_Matrix~0 Name1OptionalGalacticraftCore/item.basicItem~14GalacticraftCore/item.basicItem~14 Name2gregtech/gt.metaitem.01~32642gregtech/gt.metaitem.01~32642 Name2gregtech/gt.metaitem.01~32652gregtech/gt.metaitem.01~32652 Name2gregtech/gt.metaitem.01~32705gregtech/gt.metaitem.01~32705 Name1RetrievalAvaritia/Dire_Crafting~0Avaritia/Dire_Crafting~0 Name1
+Avaritia/Dire_Crafting-0.pngDire Crafting TableThe Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.0-1ANDpre8310GalacticraftCore/item.basicItem-14.pngrewardsChoiceminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+1witchery/ingredient-130.pngNull Catalyst
+1enhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalminecraft/crafting_table-0.pngCrafting Table\nBurn Time: 300
+81OptionalAvaritia/Triple_Craft-0.pngDouble Compressed Crafting Table\nBurn Time: 300
+1Optionalgregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+144dreamcraft/item.StainlessSteelBars-0.pngStainless Steel Bars
+36Optionalminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+18Avaritia/Resource-0.pngDiamond Lattice
+36OptionalAvaritia/Resource-1.pngCrystal Matrix Ingot\nThis isn''t even its final form.
+9OptionalAvaritia/Crystal_Matrix-0.pngCrystal Matrix
+1OptionalGalacticraftCore/item.basicItem-14.pngAdvanced Wafer
+2gregtech/gt.metaitem.01-32642.pngElectric Piston
+2gregtech/gt.metaitem.01-32652.pngRobot Arm\n1 stack every 1 sec (as Cover)\nGrabs from and inserts into specific slots
+2gregtech/gt.metaitem.01-32705.pngMainframe\nAn Elite Circuit\nIV-Tier
+1RetrievalAvaritia/Dire_Crafting-0.pngDire Crafting Table
+1

@@ -1,3 +1,8 @@
-18016k Item Storage CellMiddle tier storage cell, which can contain 16,384 bytes of storage. 16,384 bytes of storage can hold 2,032 stacks of a single item, or 1,040 stacks, while holding 63 different items. The 16k storage cell uses 128 bytes of data to store a single type.
+appliedenergistics2/item.ItemBasicStorageCell.16k-0.png16k Item Storage CellMiddle tier storage cell, which can contain 16,384 bytes of storage. 16,384 bytes of storage can hold 2,032 stacks of a single item, or 1,040 stacks, while holding 63 different items. The 16k storage cell uses 128 bytes of data to store a single type.
 
-When placed inside a drive or chest will consume 1.5 ae/t.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~37Quest Name For 12531253rewardsChoicegregtech/gt.metaitem.01~11028Choice Name8gregtech/gt.metaitem.01~11306Choice Name16enhancedlootbags/lootbag~38Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalappliedenergistics2/item.ItemBasicStorageCell.16k~0appliedenergistics2/item.ItemBasicStorageCell.16k~0 Name1
+When placed inside a drive or chest will consume 1.5 ae/t.0-1ANDpre12530appliedenergistics2/item.ItemMultiMaterial-37.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+8gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+16enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalappliedenergistics2/item.ItemBasicStorageCell.16k-0.png16k ME Storage Cell\n0 of 16,384 Bytes Used\n0 of 63 Types
+1

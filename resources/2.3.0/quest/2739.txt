@@ -1,3 +1,6 @@
-2739Fire is CoolWant some more of those fire jets or smoking blocks from TF? Buy some!
+TwilightForest/tile.TFFireJet-8.pngFire is CoolWant some more of those fire jets or smoking blocks from TF? Buy some!
 
-§3You can also make them into redstone controlled versions too!ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemTwilightForest/tile.TFFireJet~8Item Name1TwilightForest/tile.TFFireJet~0Item Name1tasksANDRetrievaldreamcraft/item.CoinAdventureI~0dreamcraft/item.CoinAdventureI~0 Name1
+§3You can also make them into redstone controlled versions too!012000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/tile.TFFireJet-8.pngFire Jet
+1TwilightForest/tile.TFFireJet-0.pngSmoking block
+1tasksANDConsumedreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+1

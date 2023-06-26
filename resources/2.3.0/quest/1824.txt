@@ -1,1 +1,4 @@
-1824§9§lRock Cutter LVThe Rock Cutter is an unbreakable and Silk-touched Mining Device. It will enable you to mine blocks without damaging them, like glass or stone, while it is charged. Uh, Woo?ANDpreRequgregtech/gt.metaitem.01~11028Quest Name For 860860rewardsItemgregtech/gt.metaitem.01~11028Item Name4dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalbartworks/item.GT_Rockcutter_Item_LV~37bartworks/item.GT_Rockcutter_Item_LV~37 Name1
+bartworks/item.GT_Rockcutter_Item_LV-37.png§9§lRock Cutter LVThe Rock Cutter is an unbreakable and Silk-touched Mining Device. It will enable you to mine blocks without damaging them, like glass or stone, while it is charged. Uh, Woo?0-1ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardsItemgregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+4dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalbartworks/item.GT_Rockcutter_Item_LV-37.pngRockcutter LV\nTier: LV\nAdded by BartWorks\n+5 Attack Damage\nDurability: 0 / 37\nDurability: 0/37
+1

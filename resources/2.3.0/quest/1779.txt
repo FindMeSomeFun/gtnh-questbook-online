@@ -1,5 +1,18 @@
-1779Step AssistantThe Piston Boots are a bouncy pair of shoes for adventurers.
+adventurebackpack/pistonBoots-0.pngStep AssistantThe Piston Boots are a bouncy pair of shoes for adventurers.
 
 It functions as a piece of armor for the foot slot that gives a fun jump boost! They let the wearer jump up to THREE blocks in height and increase run speed. They also grant a Step Up enchantment to allow the wearer to step up a single block without jumping while sprinting. You can repair them with leather using an anvil.
 
-Basically, make them ASAP.ANDpreRequminecraft/piston~0Quest Name For 4949Backpack/tannedLeather~0Quest Name For 486486rewardsChoiceBackpack/tannedLeather~0Choice Name2minecraft/piston~0Choice Name2gregtech/gt.metaitem.01~17880Choice Name2gregtech/gt.metaitem.01~11300Choice Name4enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinSurvivor~0Item Name10tasksANDOptionalminecraft/leather_boots~0minecraft/leather_boots~0 Name1Backpack/tannedLeather~0Backpack/tannedLeather~0 Name2gregtech/gt.metaitem.01~17880gregtech/gt.metaitem.01~17880 Name2minecraft/piston~0minecraft/piston~0 Name2gregtech/gt.metaitem.01~27300gregtech/gt.metaitem.01~27300 Name1Retrievaladventurebackpack/pistonBoots~0adventurebackpack/pistonBoots~0 Name1
+Basically, make them ASAP.0-1ANDpre491minecraft/piston-0.png4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leather
+2minecraft/piston-0.pngPiston
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+2gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
+4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalminecraft/leather_boots-0.pngLeather Boots\nProtection: 1\nDurability: 65/65
+1Backpack/tannedLeather-0.pngTanned Leather
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+2minecraft/piston-0.pngPiston
+2gregtech/gt.metaitem.01-27300.pngBronze Screw\nSnCu\u2083
+1Retrievaladventurebackpack/pistonBoots-0.pngPiston Boots\nProtection: 2\nDurability: 250/250
+1

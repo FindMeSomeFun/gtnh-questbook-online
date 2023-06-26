@@ -1,7 +1,9 @@
-1864§2§lNo Self-Healing Tools Here...YetExperienced players might be surprised by finding the Tinker's Construct Ball of Moss in NEI resulting in not showing required ingredients. 
+TConstruct/materials-6.png§2§lNo Self-Healing Tools Here...YetExperienced players might be surprised by finding the Tinker's Construct Ball of Moss in NEI resulting in not showing required ingredients. 
 
 In this pack you have to first gain expertise in Thaumcraft to craft it. Go and become a dangerous wizard and you'll gain the power needed to craft the Ball of Moss and make your tools heal themselves. Of course, you need to get to the Twilight Forest and get some aluminium ingots before you can begin. The Ball of Moss is in the GTNH tab of the Thauminomicon, and requires infusion.
 
 Have a beer to prepare for your long journey.
 
-§3If you really want to see recipe now, you can go to Mod Options > Thamcraft NEI Additions > Config > general > showLockedRecipes and set to true. Note that this is disabled by default... for reasons.ANDpreRequTConstruct/pickaxe~0Quest Name For 3838rewardsItemgregtech/gt.metaitem.02~32119Item Name2tasksANDCheckboxcheckbox  
+§3If you really want to see recipe now, you can go to Mod Options > Thamcraft NEI Additions > Config > general > showLockedRecipes and set to true. Note that this is disabled by default... for reasons.0-1ANDpre381TConstruct/pickaxe-0-356.pngrewardsItemgregtech/gt.metaitem.02-32119.pngBeer\ngregtech:gt.metaitem.02\nGood old Beer\nDiminishing returns start after\neating any food 10 more times
+2tasksANDCheckboxcheckbox-.pngCheckbox
+1

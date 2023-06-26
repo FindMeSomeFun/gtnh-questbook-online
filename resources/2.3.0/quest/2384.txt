@@ -1,1 +1,32 @@
-2384Charm MasterYou think you're charming? Craft all these Charms to be the true Master of Charms.ANDpreRequHardcoreEnderExpansion/charm_pouch~0Quest Name For 23682368rewardsChoiceHardcoreEnderExpansion/rune~0Choice Name16HardcoreEnderExpansion/rune~1Choice Name16HardcoreEnderExpansion/rune~2Choice Name16HardcoreEnderExpansion/rune~3Choice Name16HardcoreEnderExpansion/rune~4Choice Name16HardcoreEnderExpansion/rune~5Choice Name16enhancedlootbags/lootbag~58Choice Name5HardcoreEnderExpansion/charm~55Choice Name4Itemdreamcraft/item.CoinDarkWizardIII~0Item Name1dreamcraft/item.CoinSmithIII~0Item Name1tasksANDRetrievalHardcoreEnderExpansion/charm_pouch~0HardcoreEnderExpansion/charm_pouch~0 Name1RetrievalHardcoreEnderExpansion/charm~2HardcoreEnderExpansion/charm~2 Name1HardcoreEnderExpansion/charm~5HardcoreEnderExpansion/charm~5 Name1HardcoreEnderExpansion/charm~8HardcoreEnderExpansion/charm~8 Name1HardcoreEnderExpansion/charm~11HardcoreEnderExpansion/charm~11 Name1HardcoreEnderExpansion/charm~14HardcoreEnderExpansion/charm~14 Name1HardcoreEnderExpansion/charm~18HardcoreEnderExpansion/charm~18 Name1HardcoreEnderExpansion/charm~21HardcoreEnderExpansion/charm~21 Name1HardcoreEnderExpansion/charm~24HardcoreEnderExpansion/charm~24 Name1HardcoreEnderExpansion/charm~73HardcoreEnderExpansion/charm~73 Name1HardcoreEnderExpansion/charm~27HardcoreEnderExpansion/charm~27 Name1RetrievalHardcoreEnderExpansion/charm~30HardcoreEnderExpansion/charm~30 Name1HardcoreEnderExpansion/charm~36HardcoreEnderExpansion/charm~36 Name1HardcoreEnderExpansion/charm~43HardcoreEnderExpansion/charm~43 Name1HardcoreEnderExpansion/charm~76HardcoreEnderExpansion/charm~76 Name1HardcoreEnderExpansion/charm~50HardcoreEnderExpansion/charm~50 Name1HardcoreEnderExpansion/charm~53HardcoreEnderExpansion/charm~53 Name1HardcoreEnderExpansion/charm~56HardcoreEnderExpansion/charm~56 Name1HardcoreEnderExpansion/charm~64HardcoreEnderExpansion/charm~64 Name1HardcoreEnderExpansion/charm~70HardcoreEnderExpansion/charm~70 Name1HardcoreEnderExpansion/charm~79HardcoreEnderExpansion/charm~79 Name1
+HardcoreEnderExpansion/charm-2.pngCharm MasterYou think you're charming? Craft all these Charms to be the true Master of Charms.0-1ANDpre23680HardcoreEnderExpansion/charm_pouch-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Power
+16HardcoreEnderExpansion/rune-1.pngRune of Agility
+16HardcoreEnderExpansion/rune-2.pngRune of Vigor
+16HardcoreEnderExpansion/rune-3.pngRune of Defense
+16HardcoreEnderExpansion/rune-4.pngRune of Magic
+16HardcoreEnderExpansion/rune-5.pngRune of Void
+16enhancedlootbags/lootbag-58-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+5HardcoreEnderExpansion/charm-55.pngCharm of Critical Strike\n10% chance to deal 200% critical damage
+4Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1dreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
+1tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouch\nInactive
+1RetrievalHardcoreEnderExpansion/charm-2.pngCharm of Power\n+60% damage
+1HardcoreEnderExpansion/charm-5.pngCharm of Agility\n+40% speed
+1HardcoreEnderExpansion/charm-8.pngCharm of Vigor\n+55% health regeneration speed
+1HardcoreEnderExpansion/charm-11.pngCharm of Defense\n-30% damage taken
+1HardcoreEnderExpansion/charm-14.pngCharm of Magic\n+30% experience
+1HardcoreEnderExpansion/charm-18.pngCharm of Equality\n+8% damage\n+5% speed\n+6% health regeneration speed\n-3% damage taken\n+3% experience
+1HardcoreEnderExpansion/charm-21.pngCharm of Blocking\n-45% damage taken when blocking
+1HardcoreEnderExpansion/charm-24.pngCharm of Blocking Reflection\n-20% damage taken and 20% reflected when blocking
+1HardcoreEnderExpansion/charm-73.pngCharm of Blocking Repulsion\n-20% damage taken and 2x knockback repulsed
+1HardcoreEnderExpansion/charm-27.pngCharm of Digestive Recover\n2 health per 1 hunger bar
+1RetrievalHardcoreEnderExpansion/charm-30.pngCharm of Life Steal\n2 health gained per 10 health dealt\nThis charm will not stack effects with other charms of this type!
+1HardcoreEnderExpansion/charm-36.pngCharm of Damage Redirection\n30% damage redirected to 1 nearby creature(s)
+1HardcoreEnderExpansion/charm-43.pngCharm of Magic Penetration\n32% of dealt damage penetrates armor using magic
+1HardcoreEnderExpansion/charm-76.pngCharm of Magic Defense\n-70% magic damage taken
+1HardcoreEnderExpansion/charm-50.pngCharm of Falling Protection\n+6 blocks
+1HardcoreEnderExpansion/charm-53.pngCharm of Haste\n+25% dig speed
+1HardcoreEnderExpansion/charm-56.pngCharm of Critical Strike\n10% chance to deal 260% critical damage
+1HardcoreEnderExpansion/charm-64.pngCharm of Second Durability\n44% chance to recover 12% durability
+1HardcoreEnderExpansion/charm-70.pngCharm of Slaughter Impact\n100% damage dealt in 6 radius on kill
+1HardcoreEnderExpansion/charm-79.pngCharm of Last Resort\nTeleports 12 blocks away from finishing hit with cooldown of 10 seconds\nThis charm will not stack effects with other charms of this type!
+1

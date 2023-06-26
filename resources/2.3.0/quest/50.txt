@@ -1,5 +1,8 @@
-50§3§lMacerator v1.0!Finally you are able to make a device that will replace your mortar. However, the "no-durability" feature of this device comes with a cost: You need 2 diamonds for the grinding heads.
+gregtech/gt.blockmachines-106.png§3§lMacerator v1.0!Finally you are able to make a device that will replace your mortar. However, the "no-durability" feature of this device comes with a cost: You need 2 diamonds for the grinding heads.
 
 The macerator will double your ore output. Put ores through it instead of smelting directly.
 
-NOTE: Remember, don't block the output port and don't stand behind it.ANDpreRequTConstruct/pickaxe~0Quest Name For 3838minecraft/piston~0Quest Name For 4949rewardsItemharvestcraft/jellybeansItem~0Item Name3Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDCraftinggregtech/gt.blockmachines~106gregtech/gt.blockmachines~106 Name1
+NOTE: Remember, don't block the output port and don't stand behind it.1-1ANDpre381TConstruct/pickaxe-0-356.png491minecraft/piston-0.pngrewardsItemharvestcraft/jellybeansItem-0.pngJellybeans\nharvestcraft:jellybeansItem\nDiminishing returns start after\neating any food 10 more times
+3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDCraftinggregtech/gt.blockmachines-106.pngSteam Macerator\nMacerating your Ores
+1

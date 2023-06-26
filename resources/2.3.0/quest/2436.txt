@@ -1,1 +1,4 @@
-2436Lead Ore exchangeYou can exchange your Stack of GT Lead Ore for IC2 Lead Ore.ANDpreRequgregtech/gt.blockores~830Quest Name For 610610rewardsItemIC2/blockOreLead~0Item Name64tasksANDRetrievaldreamcraft/item.CoinSmith~0dreamcraft/item.CoinSmith~0 Name50gregtech/gt.blockores~89gregtech/gt.blockores~89 Name64
+IC2/blockOreLead-0.pngLead Ore exchangeYou can exchange your Stack of GT Lead Ore for IC2 Lead Ore.024000ANDpre6101gregtech/gt.blockores-830.pngrewardsItemIC2/blockOreLead-0.pngLead Ore
+64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+50gregtech/gt.blockores-89.pngLead Ore\nPb
+64

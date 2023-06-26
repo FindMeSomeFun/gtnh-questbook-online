@@ -1,1 +1,4 @@
-215§b§lOn Your Way to Asteroids and Other Rocket Tier 3 DIMsThere's some good stuff in the asteroids, so you should stop by. Especially for the naquadah.ANDpreRequgregtech/gt.blockmachines~15Quest Name For 213213GalacticraftMars/item.itemTier3Rocket~0Quest Name For 14541454rewardsItemdreamcraft/item.CoinSpaceII~0Item Name5dreamcraft/item.CoinAdventureII~0Item Name5tasksANDCheckboxcheckbox  
+GalacticraftMars/item.itemTier3Rocket-0.png§b§lOn Your Way to Asteroids and Other Rocket Tier 3 DIMsThere's some good stuff in the asteroids, so you should stop by. Especially for the naquadah.1-1ANDpre2131gregtech/gt.blockmachines-15.png14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsItemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+5tasksANDCheckboxcheckbox-.pngCheckbox
+1

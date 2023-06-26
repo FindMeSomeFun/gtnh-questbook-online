@@ -1,1 +1,13 @@
-2286Master RegistryThe master beekeeper needs a master registry. Make sure you don't get any tears in your apiaries as you collect all the requirements!ANDpreRequForestry/beeQueenGE~0Quest Name For 11211121rewardsItemGenetics/masterRegistry~0Item Name1tasksANDRetrievalForestry/beeCombs~15Forestry/beeCombs~15 Name64Forestry/beeCombs~4Forestry/beeCombs~4 Name64Forestry/beeCombs~6Forestry/beeCombs~6 Name64MagicBees/comb~0MagicBees/comb~0 Name128RetrievalForestry/beeCombs~7Forestry/beeCombs~7 Name64MagicBees/comb~1MagicBees/comb~1 Name64ExtraBees/honeyComb~6ExtraBees/honeyComb~6 Name64Forestry/beeCombs~0Forestry/beeCombs~0 Name128RetrievalForestry/royalJelly~0Forestry/royalJelly~0 Name64Forestry/pollen~0Forestry/pollen~0 Name64Forestry/pollen~1Forestry/pollen~1 Name64
+Genetics/masterRegistry-0.pngMaster RegistryThe master beekeeper needs a master registry. Make sure you don't get any tears in your apiaries as you collect all the requirements!0-1ANDpre11210Forestry/beeQueenGE-0-Imperial.pngrewardsItemGenetics/masterRegistry-0.pngMaster Registry
+1tasksANDConsumeForestry/beeCombs-15.pngMossy Comb
+64Forestry/beeCombs-4.pngFrozen Comb
+64Forestry/beeCombs-6.pngSilky Comb
+64MagicBees/comb-0.pngMundane Comb
+128ConsumeForestry/beeCombs-7.pngParched Comb
+64MagicBees/comb-1.pngMolten Comb
+64ExtraBees/honeyComb-6.pngDamp Comb
+64Forestry/beeCombs-0.pngHoney Comb
+128ConsumeForestry/royalJelly-0.pngRoyal Jelly
+64Forestry/pollen-0.pngPollen Cluster
+64Forestry/pollen-1.pngCrystalline Pollen Cluster
+64

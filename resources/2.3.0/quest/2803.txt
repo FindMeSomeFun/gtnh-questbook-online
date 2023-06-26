@@ -1,1 +1,6 @@
-2803§9§lKinetic Power EVThis is the EV version, it works the same.ANDpreRequgregtech/gt.metaitem.01~11316Quest Name For 861861IC2/blockGenerator~9Quest Name For 11371137rewardsChoiceenhancedlootbags/lootbag~7Choice Name1gregtech/gt.metaitem.01~32704Choice Name4gregtech/gt.metaitem.01~32603Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalcompactkineticgenerators/BlockCkg~8compactkineticgenerators/BlockCkg~8 Name1
+compactkineticgenerators/BlockCkg-8.png§9§lKinetic Power EVThis is the EV version, it works the same.0-1ANDpre8611gregtech/gt.metaitem.01-11316.png11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+4gregtech/gt.metaitem.01-32603.pngElectric Motor
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalcompactkineticgenerators/BlockCkg-8.pngLow Kinetic Generator\nPower Output: 0-2048 EU/t max\nCapacity: 1m EU
+1

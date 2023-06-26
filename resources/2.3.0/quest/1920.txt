@@ -1,8 +1,11 @@
-1920You Can't Tell Them Apart Either?Many plants look the same. Someday you'll be able to use a machine to tell them apart+more, but for now you can make a simple Plant Lens to at least identify species.
+berriespp/itemLens-0.pngYou Can't Tell Them Apart Either?Many plants look the same. Someday you'll be able to use a machine to tell them apart+more, but for now you can make a simple Plant Lens to at least identify species.
 
 After using it you can tell the following:
 Species
 Crop tier
 Whether it can grow (some crops have requirements)
 Whether you can harvest it
-Growth stage, and progress to the nextANDpreRequIC2/blockCrop~0Quest Name For 718718rewardsItemIC2/itemCropSeed~0Item Name1dreamcraft/item.CoinFarmer~0Item Name10tasksANDRetrievalberriespp/itemLens~0berriespp/itemLens~0 Name1
+Growth stage, and progress to the next0-1ANDpre7180IC2/blockCrop-0.pngrewardsItemIC2/itemCropSeed-0.pngZomplant Seeds\nGr 1\nGa 1\nRe 1
+1dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+10tasksANDRetrievalberriespp/itemLens-0.pngPlant Lens\nA Simple Lens to determine Crop Species\nIndestructible.
+1

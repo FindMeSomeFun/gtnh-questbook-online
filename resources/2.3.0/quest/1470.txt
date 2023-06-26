@@ -1,4 +1,4 @@
-1470Cavernous VineCavernous Vine is a poisonous plant that grows naturally in the Mars underground. It grows from the ceiling down to the floor in the huge caves flooded with Bacterial Sludge, emits light and can trap mobs in it.
+GalacticraftMars/tile.cavernVines-0.pngCavernous VineCavernous Vine is a poisonous plant that grows naturally in the Mars underground. It grows from the ceiling down to the floor in the huge caves flooded with Bacterial Sludge, emits light and can trap mobs in it.
 
 Any mob that touches this plant will be poisoned, dragged up and lose health down to 1 health point (half a heart) while trapped in this plant. Mobs that are immune to poison, like Zombies and Skeletons, will not lose health.
 
@@ -8,4 +8,5 @@ Cavernous vines can be broken by hand without taking damage or being poisoned bu
 
 Once obtained, they can be replanted elsewhere and regrow, like cactus.
 
-§3That said, they're still useless.ANDpreRequGalacticraftMars/tile.sludge~0Quest Name For 14691469rewardstasksANDCheckboxcheckbox  
+§3That said, they're still useless.0-1ANDpre14690GalacticraftMars/tile.sludge-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

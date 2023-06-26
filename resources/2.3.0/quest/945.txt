@@ -1,1 +1,10 @@
-945§2§lChad - A Better Way to Make PaperMaking paper out of wood pulp and water can be tedious and difficult. Why not use a mortar to grind the sugar cane in to chad and press it with two stone slabs to paper? Later on you can use the chemical bath for a even better ratio.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoicegregtech/gt.metaitem.01~11335Choice Name4minecraft/stone_slab~0Choice Name64enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name5tasksANDRetrievalgregtech/gt.metatool.01~24gregtech/gt.metatool.01~24 Name1minecraft/reeds~0minecraft/reeds~0 Name45Craftingminecraft/stone_slab~0minecraft/stone_slab~0 Name20Craftinggregtech/gt.metaitem.01~2879gregtech/gt.metaitem.01~2879 Name30Craftingminecraft/paper~0minecraft/paper~0 Name20
+gregtech/gt.metaitem.01-2879.png§2§lChad - A Better Way to Make PaperMaking paper out of wood pulp and water can be tedious and difficult. Why not use a mortar to grind the sugar cane in to chad and press it with two stone slabs to paper? Later on you can use the chemical bath for a even better ratio.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot\nFe\u2085\u2080C
+4minecraft/stone_slab-0.pngStone Slab
+64enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDRetrievalgregtech/gt.metatool.01-24.pngMortar\nDurability: 0 / 0\nNULL lvl 0\nAttack Damage: 2.0\nMining Speed: 1.0
+1minecraft/reeds-0.pngSugar Canes\nBurn Time: 50
+45Craftingminecraft/stone_slab-0.pngStone Slab
+20Craftinggregtech/gt.metaitem.01-2879.pngChad
+30Craftingminecraft/paper-0.pngPaper
+20

@@ -1,7 +1,14 @@
-3019High Octane GasolineGasoline is a regular fuel, as I'm sure you know. Nothing special about it, it's the same as Diesel but with a different density, for different engines. In real life, it's incredibly useful for the average person, but in GTNH it's mostly replaced by Diesel. However, that is about to change.
+gregtech/gt.metaitem.01-30998.pngHigh Octane GasolineGasoline is a regular fuel, as I'm sure you know. Nothing special about it, it's the same as Diesel but with a different density, for different engines. In real life, it's incredibly useful for the average person, but in GTNH it's mostly replaced by Diesel. However, that is about to change.
 
 This step is by far the most complicated one in the entire chain, but you already automated all the additives you need, so this is just a matter of mixing. This is the EV step, the final step, so put your chemicals together. Add Octane to help the fuel resist compression after putting in the explosive Toluene, mix in the nitrous to juice it up and finish by controlling it with Anti-Knock Agent. Mix this all with Gasoline and you have HOG, the most powerful diesel fuel in the game.
 
 There is more progression to the oil processing, and more quests from here, but this is it for fuel improvements. What is left for you is unlocking, and building even better generators that can take full advantage of how powerful HOG is. Nuclear Power is likely to be your next step in power, as diesels cannot last forever, but you can still continue through this path.
 
-Oh, and congratulations! You have earned this reward.ANDpreRequgregtech/gt.metaitem.01~30994Quest Name For 30153015gregtech/gt.metaitem.01~30993Quest Name For 30163016gregtech/gt.metaitem.01~30995Quest Name For 30173017gregtech/gt.metaitem.01~30997Quest Name For 30183018rewardsItemgregtech/gt.blockmachines~5153Item Name6gregtech/gt.metaitem.01~11085Item Name8gregtech/gt.metaitem.01~11316Item Name2enhancedlootbags/lootbag~7Item Name2dreamcraft/item.CoinChemistIII~0Item Name1dreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~30998gregtech/gt.metaitem.01~30998 Name256
+Oh, and congratulations! You have earned this reward.0-1ANDpre30150gregtech/gt.metaitem.01-30994.png30160gregtech/gt.metaitem.01-30993.png30170gregtech/gt.metaitem.01-30995.png30180gregtech/gt.metaitem.01-30997.pngrewardsItemgregtech/gt.blockmachines-5153.pngLarge Titanium Fluid Pipe\nFluid Capacity: 19,200 L/sec\nHeat Limit: 5,000 K
+6gregtech/gt.metaitem.01-11085.pngPlatinum Ingot\nPt
+8gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+2enhancedlootbags/lootbag-7-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+2dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDRetrievalgregtech/gt.metaitem.01-30998.pngHigh Octane Gasoline Cell
+256

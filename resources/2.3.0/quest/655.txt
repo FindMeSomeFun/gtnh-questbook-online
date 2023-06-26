@@ -1,3 +1,22 @@
-655Gravi SuitThe gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.
+GraviSuite/graviChestPlate-1-charged.pngGravi SuitThe gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.
 
-Or read a wiki or something.ANDpreRequgregtech/gt.metaitem.01~11329Quest Name For 26582658IC2/itemArmorQuantumChestplate~1Quest Name For 31433143rewardsChoicegregtech/gt.metaitem.03~32088Choice Name2gregtech/gt.metaitem.01~32607Choice Name2enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinSmithIII~0Item Name1dreamcraft/item.CoinSurvivorIII~0Item Name1dreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDOptionalIC2/itemArmorQuantumChestplate~32767IC2/itemArmorQuantumChestplate~32767 Name1GraviSuite/ultimateLappack~32767GraviSuite/ultimateLappack~32767 Name1gregtech/gt.blockmachines~26gregtech/gt.blockmachines~26 Name1GraviSuite/itemSimpleItem~3GraviSuite/itemSimpleItem~3 Name2GraviSuite/itemSimpleItem~2GraviSuite/itemSimpleItem~2 Name2GraviSuite/itemSimpleItem~1GraviSuite/itemSimpleItem~1 Name6gregtech/gt.metaitem.03~32088gregtech/gt.metaitem.03~32088 Name2gregtech/gt.metaitem.01~22328gregtech/gt.metaitem.01~22328 Name2gregtech/gt.metaitem.01~32599gregtech/gt.metaitem.01~32599 Name1gregtech/gt.metaitem.01~32674gregtech/gt.metaitem.01~32674 Name2gregtech/gt.metaitem.01~32607gregtech/gt.metaitem.01~32607 Name2gregtech/gt.metaitem.01~27328gregtech/gt.metaitem.01~27328 Name4RetrievalGraviSuite/graviChestPlate~32767GraviSuite/graviChestPlate~32767 Name1
+Or read a wiki or something.0-1ANDpre26581gregtech/gt.metaitem.01-11329.png31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe\nAn Ultimate Circuit\nZPM-Tier
+2gregtech/gt.metaitem.01-32607.pngElectric Motor
+2enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
+1dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDOptionalIC2/itemArmorQuantumChestplate-32767.pngQuantumSuit Bodyarmor\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1GraviSuite/ultimateLappack-32767.pngUltimate Lappack\nPower supply: disabled\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1gregtech/gt.blockmachines-26.pngLudicrous Transformer\nZPM -> LuV (Use Soft Mallet to invert)\nVoltage IN: 131,072 (ZPM)\nVoltage OUT: 32,768 (LuV)\nAmperage: 4\nCapacity: 524,800 EU
+1GraviSuite/itemSimpleItem-3.pngGravitation Engine
+2GraviSuite/itemSimpleItem-2.pngCooling Core
+2GraviSuite/itemSimpleItem-1.pngSuperconductor
+6gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe\nAn Ultimate Circuit\nZPM-Tier
+2gregtech/gt.metaitem.01-22328.pngDense Duranium Plate\nDu
+2gregtech/gt.metaitem.01-32599.pngLapotronic Energy Orb Cluster\nReusable battery\n0 / 1,000,000,000 EU - Voltage: 32768\nLuV-Tier
+1gregtech/gt.metaitem.01-32674.pngField Generator
+2gregtech/gt.metaitem.01-32607.pngElectric Motor
+2gregtech/gt.metaitem.01-27328.pngDuranium Screw\nDu
+4RetrievalGraviSuite/graviChestPlate-32767.pngGraviChestPlate\nGravitation engine: off\nLevitation mode: off\nQuantumShield: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1

@@ -1,5 +1,10 @@
-81§6§lAt the End of......the universe everything freezes eventually. But waiting for the heat death of the universe might take too long. Therefore we present you the vacuum freezer. It should be good enough to cool your hot stuff.
+gregtech/gt.blockmachines-1002.png§6§lAt the End of......the universe everything freezes eventually. But waiting for the heat death of the universe might take too long. Therefore we present you the vacuum freezer. It should be good enough to cool your hot stuff.
 
 Ingots that go through the EBF above a certain temperature will come out as hot ingots that need to be cooled.
 
-You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.ANDpreRequgregtech/gt.blockmachines~1172Quest Name For 940940gregtech/gt.metaitem.01~32704Quest Name For 10141014rewardsItemharvestcraft/neapolitanicecreamItem~0Item Name4enhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~1002gregtech/gt.blockmachines~1002 Name1Optionalgregtech/gt.blockcasings2~1gregtech/gt.blockcasings2~1 Name22
+You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.1-1ANDpre9401gregtech/gt.blockmachines-1172.png10141gregtech/gt.metaitem.01-32704.pngrewardsItemharvestcraft/neapolitanicecreamItem-0.pngNeapolitan Ice Cream\nharvestcraft:neapolitanicecreamItem\nDiminishing returns start after\neating any food 10 more times
+4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-1002.pngVacuum Freezer\nMachine Type: Vacuum Freezer\nController Block for the Vacuum Freezer\nCools hot ingots and cells\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1Optionalgregtech/gt.blockcasings2-1.pngFrost Proof Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+22

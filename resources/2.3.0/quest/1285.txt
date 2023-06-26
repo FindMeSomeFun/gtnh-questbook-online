@@ -1,5 +1,18 @@
-1285§5§lDiamond SpikesDiamond Spikes damages mobs (or you!) that touch any side of it other than the bottom. With 7 attack damage, the Spike does as much damage as a Diamond Sword. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block. Most explosions won't destroy the Spike because it has a very high blast resistance.
+ExtraUtilities/spike_base_diamond-0.png§5§lDiamond SpikesDiamond Spikes damages mobs (or you!) that touch any side of it other than the bottom. With 7 attack damage, the Spike does as much damage as a Diamond Sword. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block. Most explosions won't destroy the Spike because it has a very high blast resistance.
 
 These can also be enchanted with all the enchantments a regular diamond sword would receive. This includes Looting and Sharpness, which function exactly as it does on a sword. Interestingly, mobs killed by the Diamond Spike will return experience as if killed by the player.
 
-There are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.ANDpreRequgregtech/gt.blockmachines~291Quest Name For 9898minecraft/diamond~0Quest Name For 495495rewardsItemharvestcraft/heartybreakfastItem~0Item Name2harvestcraft/epicbaconItem~0Item Name2enhancedlootbags/lootbag~4Item Name1Choiceminecraft/diamond~0Choice Name9gregtech/gt.metaitem.01~17305Choice Name12Itemdreamcraft/item.CoinTechnician~0Item Name15dreamcraft/item.CoinSurvivor~0Item Name15tasksANDOptionalminecraft/stick~0minecraft/stick~0 Name1gregtech/gt.metaitem.01~27500gregtech/gt.metaitem.01~27500 Name2gregtech/gt.metaitem.01~17500gregtech/gt.metaitem.01~17500 Name5minecraft/diamond_block~0minecraft/diamond_block~0 Name1Optionalminecraft/diamond_sword~0minecraft/diamond_sword~0 Name1RetrievalExtraUtilities/spike_base_diamond~0ExtraUtilities/spike_base_diamond~0 Name2
+There are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.0-1ANDpre981gregtech/gt.blockmachines-291.png4950minecraft/diamond-0.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem\nDiminishing returns start after\neating any food 10 more times
+2harvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem\nDiminishing returns start after\neating any food 10 more times
+2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Choiceminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+9gregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
+12Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+15tasksANDOptionalminecraft/stick-0.pngStick\nBurn Time: 100
+1gregtech/gt.metaitem.01-27500.pngDiamond Screw\nC
+2gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+5minecraft/diamond_block-0.pngBlock of Diamond\nBurn Time: 1024000
+1Optionalminecraft/diamond_sword-0.pngDiamond Sword\n+7 Attack Damage\nDurability: 768/768
+1RetrievalExtraUtilities/spike_base_diamond-0.pngDiamond Spike\n+7 Attack Damage
+2

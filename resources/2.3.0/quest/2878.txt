@@ -1,1 +1,8 @@
-2878§b§lPalladiumLastly, add Formic Acid to Reprecipated Palladium to get pure Palladium, along with other stuff you can reuse.ANDpreRequbartworks/gt.bwMetaGeneratedcell~58Quest Name For 23092309gregtech/gt.metaitem.01~2052Quest Name For 23102310rewardsItemTGregworks/tGregToolPartLargePlate~1514Item Name2tasksANDOptionalbartworks/gt.bwMetaGenerateddust~54bartworks/gt.bwMetaGenerateddust~54 Name4bartworks/gt.bwMetaGeneratedcell~58bartworks/gt.bwMetaGeneratedcell~58 Name4Retrievalgregtech/gt.metaitem.01~2052gregtech/gt.metaitem.01~2052 Name2gregtech/gt.metaitem.01~30659gregtech/gt.metaitem.01~30659 Name4gregtech/gt.metaitem.01~30677gregtech/gt.metaitem.01~30677 Name1IC2/itemCellEmpty~1IC2/itemCellEmpty~1 Name1
+gregtech/gt.metaitem.01-2052.png§b§lPalladiumLastly, add Formic Acid to Reprecipated Palladium to get pure Palladium, along with other stuff you can reuse.1-1ANDpre23091bartworks/gt.bwMetaGeneratedcell-58.png23101gregtech/gt.metaitem.01-2052.pngrewardsItemTGregworks/tGregToolPartLargePlate-1514.pngPalladium Large Plate\nDurability: 2200\nMining Speed: 18\nAttack: 16 Hearts\nParts can be replaced
+2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-54.pngReprecipitated Palladium Dust\nPd\u2082NH\u2084\nAdded by BartWorks
+4bartworks/gt.bwMetaGeneratedcell-58.pngFormic Acid Cell\nCH\u2082O\u2082\nAdded by BartWorks
+4Retrievalgregtech/gt.metaitem.01-2052.pngPalladium Dust\nPd
+2gregtech/gt.metaitem.01-30659.pngAmmonia Cell\nNH\u2083
+4gregtech/gt.metaitem.01-30677.pngEthylene Cell\nC\u2082H\u2084
+1IC2/itemCellEmpty-1.pngWater Cell
+1

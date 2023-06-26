@@ -1,5 +1,14 @@
-1235§9§lLV MicroprocessorThe Microprocessor is the highest tier version of the LV circuit, getting you 2 per recipe.
+gregtech/gt.metaitem.03-32078.png§9§lLV MicroprocessorThe Microprocessor is the highest tier version of the LV circuit, getting you 2 per recipe.
 
 In addition to what's listed, you'll need 2 Resistors, Transistors, and Capcitors, SMD or non-SMD.
 
-This advanced circuit type needs a cleanroom.ANDpreRequgregtech/gt.blockmachines~1172Quest Name For 940940gregtech/gt.metaitem.03~32106Quest Name For 10151015gregtech/gt.blockmachines~1181Quest Name For 12211221rewardsChoicegregtech/gt.metaitem.03~32106Choice Name2gregtech/gt.metaitem.03~32045Choice Name1gregtech/gt.metaitem.03~32020Choice Name2enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.03~32106gregtech/gt.metaitem.03~32106 Name1gregtech/gt.metaitem.03~32045gregtech/gt.metaitem.03~32045 Name1gregtech/gt.metaitem.02~19035gregtech/gt.metaitem.02~19035 Name2Retrievalgregtech/gt.metaitem.03~32078gregtech/gt.metaitem.03~32078 Name2
+This advanced circuit type needs a cleanroom.0-1ANDpre9401gregtech/gt.blockmachines-1172.png10151gregtech/gt.metaitem.03-32106.png12211gregtech/gt.blockmachines-1181.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+2gregtech/gt.metaitem.03-32045.pngCentral Processing Unit\nIntegrated Circuit
+1gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
+2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+1gregtech/gt.metaitem.03-32045.pngCentral Processing Unit\nIntegrated Circuit
+1gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
+2Retrievalgregtech/gt.metaitem.03-32078.pngMicroprocessor\nA Basic Circuit\nLV-Tier
+2

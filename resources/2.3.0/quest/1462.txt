@@ -1,5 +1,18 @@
-1462Thermal ClothThermal Padding is a set of garments made out of an advanced insulating material. The garments are able to keep a player from freezing to death in the cold environments of Outer Space. They are also able to keep the player from suffering heat exhaustion in an overly hot environment.
+GalacticraftMars/item.thermalPadding-1.pngThermal ClothThermal Padding is a set of garments made out of an advanced insulating material. The garments are able to keep a player from freezing to death in the cold environments of Outer Space. They are also able to keep the player from suffering heat exhaustion in an overly hot environment.
 
 The temperature indicator on the Life Support HUD will show if the player is becoming too hot or too cold - as the temperature approaches dangerous levels, an "Invalid Thermal Protection" warning will be shown. On Mars and the Asteroids, simply wearing a full set of Thermal Padding should be enough to fix this.
 
-§3You'll also need some Silicon Rubber.ANDpreRequGalacticraftMars/item.null~3Quest Name For 14271427rewardsChoicegregtech/gt.metaitem.01~11019Choice Name64gregtech/gt.metaitem.01~11340Choice Name32enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSmithIII~0Item Name1dreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDOptionalharvestcraft/wovencottonItem~0harvestcraft/wovencottonItem~0 Name192gregtech/gt.metaitem.01~29019gregtech/gt.metaitem.01~29019 Name192dreamcraft/item.MeteoricIronString~0dreamcraft/item.MeteoricIronString~0 Name216OptionalGalacticraftMars/item.itemBasicAsteroids~7GalacticraftMars/item.itemBasicAsteroids~7 Name24RetrievalGalacticraftMars/item.thermalPadding~0GalacticraftMars/item.thermalPadding~0 Name1GalacticraftMars/item.thermalPadding~1GalacticraftMars/item.thermalPadding~1 Name1GalacticraftMars/item.thermalPadding~2GalacticraftMars/item.thermalPadding~2 Name1GalacticraftMars/item.thermalPadding~3GalacticraftMars/item.thermalPadding~3 Name1
+§3You'll also need some Silicon Rubber.1-1ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
+64gregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
+32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDOptionalharvestcraft/wovencottonItem-0.pngWoven Cotton
+192gregtech/gt.metaitem.01-29019.pngAluminium Foil\nAl
+192dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
+216OptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Cloth
+24RetrievalGalacticraftMars/item.thermalPadding-0.pngThermal Padding Helm
+1GalacticraftMars/item.thermalPadding-1.pngThermal Padding Chestpiece
+1GalacticraftMars/item.thermalPadding-2.pngThermal Padding Leggings
+1GalacticraftMars/item.thermalPadding-3.pngThermal Padding Boots
+1

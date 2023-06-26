@@ -1,1 +1,7 @@
-2328§b§lRhodiumThis is the last step for Rhodium. You also get some Chlorine and Ammonia back.ANDpreRequbartworks/gt.bwMetaGenerateddust~87Quest Name For 23272327rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDOptionalbartworks/gt.bwMetaGenerateddust~87bartworks/gt.bwMetaGenerateddust~87 Name1gregtech/gt.metaitem.01~30683gregtech/gt.metaitem.01~30683 Name1Retrievalbartworks/gt.bwMetaGenerateddust~78bartworks/gt.bwMetaGenerateddust~78 Name1gregtech/gt.metaitem.01~30023gregtech/gt.metaitem.01~30023 Name1gregtech/gt.metaitem.01~30659gregtech/gt.metaitem.01~30659 Name1
+bartworks/gt.bwMetaGenerateddust-78.png§b§lRhodiumThis is the last step for Rhodium. You also get some Chlorine and Ammonia back.1-1ANDpre23271bartworks/gt.bwMetaGenerateddust-87.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-87.pngReprecipitated Rhodium Dust\nRh\u2082NH\u2084\nAdded by BartWorks
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+1Retrievalbartworks/gt.bwMetaGenerateddust-78.pngRhodium Dust\nRh\nAdded by BartWorks
+1gregtech/gt.metaitem.01-30023.pngChlorine Cell\nCl
+1gregtech/gt.metaitem.01-30659.pngAmmonia Cell\nNH\u2083
+1

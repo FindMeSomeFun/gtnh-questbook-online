@@ -1,1 +1,7 @@
-2075Time to Kill (Hellhound)Aggressive and can apply fire, although not a fast enemy either. Recommendation, avoid melee combat and offerings of bones.ANDpreRequminecraft/portal~0Quest Name For 479479rewardsItembetterquesting/extra_life~2Item Name1dreamcraft/item.CoinDarkWizardI~0Item Name3dreamcraft/item.CoinSurvivorI~0Item Name3dreamcraft/item.CoinAdventureI~0Item Name3dreamcraft/item.CoinTechnicianI~0Item Name3tasksANDHuntwitchery.hellhoundwitchery.hellhound Name15
+witchery/wolfhead-1.pngTime to Kill (Hellhound)Aggressive and can apply fire, although not a fast enemy either. Recommendation, avoid melee combat and offerings of bones.0432000ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+3dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+3dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDHuntmobs/witchery-hellhound-.pngHell Hound
+15

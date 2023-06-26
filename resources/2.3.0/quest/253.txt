@@ -1,1 +1,5 @@
-253Turning Liquids Into EssentiaWhat a simple idea. So many people waste tons of buckets just to get aqua from water, or sano from milk. Why didn't they just dissolve the liquid itself? Idiots...ANDpreRequThaumcraft/blockStoneDevice~0Quest Name For 240240Thaumcraft/blockMetalDevice~1Quest Name For 254254rewardsItemenhancedlootbags/lootbag~9Item Name1Itemdreamcraft/item.CoinCook~0Item Name25dreamcraft/item.CoinDarkWizard~0Item Name25tasksANDRetrievalAutomagy/blockBoiler~0Automagy/blockBoiler~0 Name1
+Automagy/blockBoiler-0.pngTurning Liquids Into EssentiaWhat a simple idea. So many people waste tons of buckets just to get aqua from water, or sano from milk. Why didn't they just dissolve the liquid itself? Idiots...0-1ANDpre2401Thaumcraft/blockStoneDevice-0.png2541Thaumcraft/blockMetalDevice-1.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25tasksANDRetrievalAutomagy/blockBoiler-0.pngAlchemical Boiler
+1

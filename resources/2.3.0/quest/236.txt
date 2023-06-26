@@ -1,1 +1,6 @@
-236A More Powerful "Scale"The naga scales are weak, they can only hold a very limited amount of vis. You need a better, more powerful component to store vis in your wand. You've heard rumors about an evil wizard in the Twilight Forest. Maybe he has... something... that can be used?ANDpreRequThaumcraft/WandRod~0Quest Name For 234234rewardsItemThaumcraft/ItemLootBag~0Item Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievaldreamcraft/item.LichBone~0dreamcraft/item.LichBone~0 Name4
+dreamcraft/item.LichBone-0.pngA More Powerful "Scale"The naga scales are weak, they can only hold a very limited amount of vis. You need a better, more powerful component to store vis in your wand. You've heard rumors about an evil wizard in the Twilight Forest. Maybe he has... something... that can be used?1-1ANDpre2341Thaumcraft/WandRod-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievaldreamcraft/item.LichBone-0.pngLich Bone
+4

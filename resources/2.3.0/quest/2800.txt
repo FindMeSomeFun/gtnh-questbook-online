@@ -1,1 +1,2 @@
-2800Geothermal Power LuVThis is the LuV version. Even if you use it with an Everburn Urn, would it even be useful?ANDpreRequgregtech/gt.metaitem.03~32095Quest Name For 26562656rewardstasksANDRetrievalgregtech/gt.blockmachines~832gregtech/gt.blockmachines~832 Name1
+gregtech/gt.blockmachines-832.pngGeothermal Power LuVThis is the LuV version. Even if you use it with an Everburn Urn, would it even be useful?0-1ANDpre26561gregtech/gt.metaitem.03-32095.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-832.pngVulcan Geothermal Engine\nRequires Pahoehoe Lava or Normal Lava as Fuel\nGenerates power at 58% Efficiency per tick\nCauses 100 Pollution per second\nAdded by: Alkalus - [GT++]\nVoltage OUT: 32,768 (LuV)\nCapacity: 2,621,952 EU
+1

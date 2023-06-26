@@ -1,4 +1,4 @@
-768§6§lYou Smell Like a Distillery!This bad boy will tremendously boost the byproducts of your cracked fuel or pyrolyse oven. This way you can make industrial TNT, polyethylene, polytetrafluoroethylene and other plastics more efficiently. You'll also need this for the platline.
+gregtech/gt.blockmachines-1126.png§6§lYou Smell Like a Distillery!This bad boy will tremendously boost the byproducts of your cracked fuel or pyrolyse oven. This way you can make industrial TNT, polyethylene, polytetrafluoroethylene and other plastics more efficiently. You'll also need this for the platline.
 
 You'll need to make EV circuits in a cleanroom to build this machine.
 
@@ -6,4 +6,11 @@ For hatches, you can choose your own tier. 1 MV energy does most of the useful r
 
 You will need 1 input hatch, and at least 5 output hatches. An output bus will capture any solid outputs.
 
-§3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsChoicegregtech/gt.metaitem.01~30741Choice Name16gregtech/gt.metaitem.01~30740Choice Name32enhancedlootbags/lootbag~6Choice Name2Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.blockcasings4~1gregtech/gt.blockcasings4~1 Name40gregtech/gt.blockmachines~90gregtech/gt.blockmachines~90 Name1Retrievalgregtech/gt.blockmachines~1126gregtech/gt.blockmachines~1126 Name1
+§3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!0-1ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoicegregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+16gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
+32enhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+40gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
+1Retrievalgregtech/gt.blockmachines-1126.pngDistillation Tower\nMachine Type: Distillery\nController block for the Distillation Tower\nFluids are only put out at the correct height\nThe correct height equals the slot number in the NEI recipe\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1

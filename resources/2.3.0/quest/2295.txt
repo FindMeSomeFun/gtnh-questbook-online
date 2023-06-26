@@ -1,3 +1,9 @@
-2295§9§lGetting Your First PlatinumEfficient Platinum processing is quite complicated. But for now, we can just smelt it directly into nuggets. This might not be the most efficient route to take, but it is enough for what we want to do next.
+gregtech/gt.metaitem.01-9085.png§9§lGetting Your First PlatinumEfficient Platinum processing is quite complicated. But for now, we can just smelt it directly into nuggets. This might not be the most efficient route to take, but it is enough for what we want to do next.
 
-At this tier, your best source of Platinum is Nickel ores from the Twilight Forest, or maybe Endstone Dust if you've managed to survive the End already.ANDpreRequgregtech/gt.blockcasings5~1Quest Name For 7878gregtech/gt.blockmachines~13Quest Name For 160160rewardsChoicebartworks/gt.bwMetaGenerateddust~47Choice Name9gregtech/gt.metaitem.01~9085Choice Name5enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinSmithII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGenerateddust~47bartworks/gt.bwMetaGenerateddust~47 Name27Retrievalgregtech/gt.metaitem.01~9085gregtech/gt.metaitem.01~9085 Name18
+At this tier, your best source of Platinum is Nickel ores from the Twilight Forest, or maybe Endstone Dust if you've managed to survive the End already.1-1ANDpre781gregtech/gt.blockcasings5-1.png1601gregtech/gt.blockmachines-13.pngrewardsChoicebartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust\n??PtPdIrOsRhRu??\nAdded by BartWorks
+9gregtech/gt.metaitem.01-9085.pngPlatinum Nugget\nPt
+5enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust\n??PtPdIrOsRhRu??\nAdded by BartWorks
+27Retrievalgregtech/gt.metaitem.01-9085.pngPlatinum Nugget\nPt
+18

@@ -1,1 +1,3 @@
-54§4§3§lCompressing StuffThis rather simple device does a very important job: compression. It's main function is to press 9 ingots into a block, but it's also useful for a variety of recipes, for example making firm tofu.ANDpreRequminecraft/piston~0Quest Name For 4949rewardsItemdreamcraft/item.CoinTechnician~0Item Name15tasksANDCraftinggregtech/gt.blockmachines~115gregtech/gt.blockmachines~115 Name1
+gregtech/gt.blockmachines-115.png§4§3§lCompressing StuffThis rather simple device does a very important job: compression. It's main function is to press 9 ingots into a block, but it's also useful for a variety of recipes, for example making firm tofu.1-1ANDpre491minecraft/piston-0.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDCraftinggregtech/gt.blockmachines-115.pngSteam Compressor\nCompressing Items
+1

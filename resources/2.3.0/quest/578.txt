@@ -1,5 +1,18 @@
-578The CarpenterThe carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.
+Forestry/factory-1.pngThe CarpenterThe carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.
 
 The carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
 
-§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.ANDpreRequForestry/sturdyMachine~0Quest Name For 577577rewardsChoiceminecraft/glass~0Choice Name16minecraft/redstone~0Choice Name10gregtech/gt.metaitem.01~30712Choice Name8enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15dreamcraft/item.CoinForestry~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~17310gregtech/gt.metaitem.01~17310 Name2gregtech/gt.metaitem.01~32650gregtech/gt.metaitem.01~32650 Name2gregtech/gt.metaitem.01~32600gregtech/gt.metaitem.01~32600 Name1gregtech/gt.metaitem.02~20305gregtech/gt.metaitem.02~20305 Name2BuildCraftFactory/tankBlock~0BuildCraftFactory/tankBlock~0 Name1Forestry/sturdyMachine~0Forestry/sturdyMachine~0 Name1RetrievalForestry/factory~1Forestry/factory~1 Name1
+§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.0-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceminecraft/glass-0.pngGlass\nGlass-Tier: HV
+16minecraft/redstone-0.pngRedstone
+10gregtech/gt.metaitem.01-30712.pngCreosote Cell
+8enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-17310.pngCupronickel Plate\nCuNi
+2gregtech/gt.metaitem.01-32650.pngRobot Arm\n1 stack every 20 secs (as Cover)\nGrabs from and inserts into specific slots
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1gregtech/gt.metaitem.02-20305.pngSmall Steel Gear\nFe\u2085\u2080C
+2BuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
+1Forestry/sturdyMachine-0.pngSturdy Casing
+1RetrievalForestry/factory-1.pngCarpenter
+1

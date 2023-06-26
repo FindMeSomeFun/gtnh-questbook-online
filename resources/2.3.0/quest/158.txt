@@ -1,1 +1,6 @@
-158§6§lSometimes, a Bullet Will DoThey hit hard. You have been warned.ANDpreRequopenmodularturrets/baseTierOneBlock~0Quest Name For 157157rewardsChoiceenhancedlootbags/lootbag~5Choice Name1openmodularturrets/bulletCraftable~0Choice Name32Itemdreamcraft/item.CoinSurvivor~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalopenmodularturrets/machineGunTurret~0openmodularturrets/machineGunTurret~0 Name1
+openmodularturrets/machineGunTurret-0.png§6§lSometimes, a Bullet Will DoThey hit hard. You have been warned.0-1ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1openmodularturrets/bulletCraftable-0.pngAmmo - Bullet
+32Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalopenmodularturrets/machineGunTurret-0.pngGun Turret\n--Info--\nTier: 2\nRange (in blocks): 18\nAccuracy: Medium\nAmmo Type: Bullet\nBase Minimum Tier: Tier 2 Turret Base\n--Damage Output--\nProjectile Damage: 2.5 Hearts\nAOE Radius: 0\nShots/s: 2.5\nEnergy usage per shot: 100 RF\nTRRRAA!! TRRAATRRAA!!\nGlass-Tier: HV
+1

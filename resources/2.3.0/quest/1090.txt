@@ -1,7 +1,12 @@
-1090§5§lTime to Dry Out the NetherPumps can do more than pump oil and water. You can go to the nether and pump lava from the huge lava lakes too.
+minecraft/flowing_lava-0.png§5§lTime to Dry Out the NetherPumps can do more than pump oil and water. You can go to the nether and pump lava from the huge lava lakes too.
 
 Once you reach HV, lava can be centrifuged for Silicon Dioxide, Magnesia, Quicklime, Gold, Sapphire, and Tantalite. You can get Silicon, Magnesium, Calcium, Gold, Aluminium, Manganese, Tantalum, and Oxygen out of them.
 
 This is a good use for your LV pumps once you upgrade to MV pumps for oil. If you get into Thaumcraft or Blood Magic, there are ways to produce lava with magic unlimitedly and easily too.
 
-§3You'll want either ULV tanks and cells, or BC tanks and a dolly to transport your lava.ANDpreRequBuildCraftEnergy/blockOil~0Quest Name For 546546JABBA/mover~0Quest Name For 625625rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~1140gregtech/gt.blockmachines~1140 Name1RetrievalIC2/blockMiningPipe~0IC2/blockMiningPipe~0 Name16LocationDIM-1DIM-1 Name 
+§3You'll want either ULV tanks and cells, or BC tanks and a dolly to transport your lava.0-1ANDpre5461BuildCraftEnergy/blockOil-0.png6250JABBA/mover-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pump\nThe best way to empty Oceans! Outputs on top\n64 EU/operation, 4 sec per bucket, no stuttering\nMaximum pumping area: 21x21\nUse Screwdriver to regulate pumping area\nUse Soft Mallet to disable and retract the pipe\nDisable the bottom pump to retract the pipe!\nUse Soldering Iron to auto retract the pipe when hitting a rock\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1RetrievalIC2/blockMiningPipe-0.pngMining Pipe
+16LocationDIM/-1-.pngNether
+1

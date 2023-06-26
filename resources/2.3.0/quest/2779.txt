@@ -1,3 +1,4 @@
-2779Pocket Plasma EVAssuming you don't want to setup something crazy every time you move your miners, you'll need some kind of SB to power them. This is one of the good options. You can just teleport the fuel instead.
+gregtech/gt.blockmachines-1196.pngPocket Plasma EVAssuming you don't want to setup something crazy every time you move your miners, you'll need some kind of SB to power them. This is one of the good options. You can just teleport the fuel instead.
 
-§3You may note that the efficiency goes §oup§3 rather than down as it goes up in tiers. Enjoy this small comfort, the multis are still way better.ANDpreRequgregtech/gt.blockmachines~1193Quest Name For 12121212rewardstasksANDRetrievalgregtech/gt.blockmachines~1196gregtech/gt.blockmachines~1196 Name1
+§3You may note that the efficiency goes §oup§3 rather than down as it goes up in tiers. Enjoy this small comfort, the multis are still way better.0-1ANDpre12121gregtech/gt.blockmachines-1193.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-1196.pngPlasma Generator Mark I\nPlasma into energy\nFuel Efficiency: 50%\nVoltage OUT: 2,048 (EV)\nCapacity: 164,352 EU
+1

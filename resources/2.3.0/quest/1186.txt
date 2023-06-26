@@ -1,1 +1,8 @@
-1186Boost Your SpeedIf you decide to not use a locomotive and drive with one or two carts only, you can use some booster tracks. Activate them with a lever or a redstone torch. You can also use them to slow down, especially when doing corners!ANDpreRequminecraft/rail~0Quest Name For 866866rewardsChoiceminecraft/rail~0Choice Name64Railcraft/part.rail~0Choice Name32minecraft/redstone_torch~0Choice Name64enhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalminecraft/golden_rail~0minecraft/golden_rail~0 Name16
+minecraft/golden_rail-0.pngBoost Your SpeedIf you decide to not use a locomotive and drive with one or two carts only, you can use some booster tracks. Activate them with a lever or a redstone torch. You can also use them to slow down, especially when doing corners!0-1ANDpre8660minecraft/rail-0.pngrewardsChoiceminecraft/rail-0.pngTrack
+64Railcraft/part.rail-0.pngStandard Rail
+32minecraft/redstone_torch-0.pngRedstone Torch
+64enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalminecraft/golden_rail-0.pngBooster Track
+16

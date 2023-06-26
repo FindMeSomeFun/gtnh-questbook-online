@@ -1,4 +1,4 @@
-1541Analyze Your CropsThe cropnalyzer is a powered tool used to analyze IC2 crop seedbags. Charge it by placing it in an MV machine; recommended to put an MV battery in it as well to keep it full. To fully analyze a seed bag, you will need to put it through the cropnalyzer four times. If the crop is already planted, it is better to analyze it with the portable scanner instead of breaking it just to scan it - you have a chance of losing the seed every time you break it.
+IC2/itemCropnalyzer-1-charged.pngAnalyze Your CropsThe cropnalyzer is a powered tool used to analyze IC2 crop seedbags. Charge it by placing it in an MV machine; recommended to put an MV battery in it as well to keep it full. To fully analyze a seed bag, you will need to put it through the cropnalyzer four times. If the crop is already planted, it is better to analyze it with the portable scanner instead of breaking it just to scan it - you have a chance of losing the seed every time you break it.
 
 The cropnalyzer also has a feature called the IC2 Crop Calculator, where you can find the mix of outputs of breeding together any crops. To access the calculator, hit the IC2 side inventory key while holding the cropnalyzer.  You can select any crops available and discover what plants have decent percentages of a result. And no, you can't do the reverse, search for the crops.zip on discord for that (it doesn't have micadia though).
 
@@ -8,4 +8,11 @@ When trying to get a specific crop, you generally want to maximize its percentag
 
 Use the crops guide at https://tinyurl.com/GTNH-Crops for more details.
 
-A large field of stickreeds has a good chance at making lots of valuable crosses. This is because it's decently high tier (they randomly mutate to tiers nearby mostly), and it's really fast, so you can get it to a high stat fast, which you should probably do first. Mutations are random, you can get transformium from stickreed, so keep that in mind. You do tend to get similar crops, so if you want metals, get the metal crops for example. Go to the wiki or spreadsheet (not up to date) to see the attributes that govern similarity.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103Natura/N Crops~0Quest Name For 721721rewardsChoiceIC2/itemCropSeed~0Choice Name4IC2/blockCrop~0Choice Name32enhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name30dreamcraft/item.CoinFarmer~0Item Name30gregtech/gt.metaitem.01~32529Item Name1tasksANDRetrievalIC2/itemCropnalyzer~32767IC2/itemCropnalyzer~32767 Name1
+A large field of stickreeds has a good chance at making lots of valuable crosses. This is because it's decently high tier (they randomly mutate to tiers nearby mostly), and it's really fast, so you can get it to a high stat fast, which you should probably do first. Mutations are random, you can get transformium from stickreed, so keep that in mind. You do tend to get similar crops, so if you want metals, get the metal crops for example. Go to the wiki or spreadsheet (not up to date) to see the attributes that govern similarity.0-1ANDpre1031gregtech/gt.metaitem.01-11019.png7210Natura/N Crops-0.pngrewardsChoiceIC2/itemCropSeed-0.pngGlowflower Seeds\nGr 1\nGa 1\nRe 1
+4IC2/blockCrop-0.pngCrop
+32enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+30dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+30gregtech/gt.metaitem.01-32529.pngMedium Sodium Battery\nReusable\n200,000 / 200,000 EU - Voltage: 128\nMV-Tier
+1tasksANDRetrievalIC2/itemCropnalyzer-32767.pngCropnalyzer\nDurability: 1 / 27
+1

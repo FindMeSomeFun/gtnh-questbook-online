@@ -1,1 +1,5 @@
-2152Who Would Use This Garbage??Truly the fuel of idiots!ANDpreRequgregtech/gt.metaitem.01~8538Quest Name For 2929rewardsItemminecraft/coal_ore~0Item Name64tasksANDRetrievalgregtech/gt.metaitem.01~8538gregtech/gt.metaitem.01~8538 Name64gregtech/gt.metaitem.01~2538gregtech/gt.metaitem.01~2538 Name64dreamcraft/item.CoinAdventure~0dreamcraft/item.CoinAdventure~0 Name65
+minecraft/coal-0.pngWho Would Use This Garbage??Truly the fuel of idiots!06000ANDpre290gregtech/gt.metaitem.01-8538.pngrewardsItemminecraft/coal_ore-0.pngCoal Ore
+64tasksANDConsumegregtech/gt.metaitem.01-8538.pngLignite Coal\nC\u2083(H\u2082O)\nBurn Time: 1200
+64gregtech/gt.metaitem.01-2538.pngLignite Coal Dust\nC\u2083(H\u2082O)\nBurn Time: 1200
+64dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+65

@@ -1,1 +1,4 @@
-1275Fake JagermeisterJagermeister is a common drink in Germany, why don't you grab a bottle? This one seems to be a cheap fake tho...ANDpreRequgregtech/gt.metaitem.02~32105Quest Name For 12781278rewardsItemenhancedlootbags/lootbag~30Item Name1dreamcraft/item.CoinCookII~0Item Name1tasksANDRetrievalberriespp/BppPotions~9berriespp/BppPotions~9 Name1
+berriespp/BppPotions-9.pngFake JagermeisterJagermeister is a common drink in Germany, why don't you grab a bottle? This one seems to be a cheap fake tho...0-1ANDpre12780gregtech/gt.metaitem.02-32105.pngrewardsItemenhancedlootbags/lootbag-30-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+1tasksANDRetrievalberriespp/BppPotions-9.pngBottled Fake J\u00e4germeister\nDas ist des J\u00e4gers'' Eherenschild,\ndass er besch\u00fctzt und hegt sein Wild,\nweidm\u00e4nnisch jagt, wie sich''s geh\u00f6rt,\nden Sch\u00f6pfer im Gesch\u00f6pfe ehrt.\nIt smells like fake J\u00e4germeister...
+1

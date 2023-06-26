@@ -1,1 +1,8 @@
-147H8N4C2O4 (Green) Rocket FuelThis is the final Rocket Fuel. With this, you can go anywhere. If you have the right rocket, of course.ANDpreRequgregtech/gt.metaitem.01~30654Quest Name For 856856miscutils/NitrogenTetroxide~0Quest Name For 22932293miscutils/gtplusplus.blockspecialcasings.2~2Quest Name For 26952695rewardsChoicegregtech/gt.metaitem.01~30654Choice Name1IC2/itemCellEmpty~0Choice Name16enhancedlootbags/lootbag~42Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~30654gregtech/gt.metaitem.01~30654 Name2miscutils/NitrogenTetroxide~0miscutils/NitrogenTetroxide~0 Name2Retrievalmiscutils/RocketFuelMixA~0miscutils/RocketFuelMixA~0 Name5
+miscutils/RocketFuelMixA-0.pngH8N4C2O4 (Green) Rocket FuelThis is the final Rocket Fuel. With this, you can go anywhere. If you have the right rocket, of course.1-1ANDpre8560gregtech/gt.metaitem.01-30654.png22930miscutils/NitrogenTetroxide-0.png26951miscutils/gtplusplus.blockspecialcasings.2-2.pngrewardsChoicegregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell\nC\u2082H\u2088N\u2082
+1IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-42.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell\nC\u2082H\u2088N\u2082
+2miscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cell
+2Retrievalmiscutils/RocketFuelMixA-0.pngH8N4C2O4 Rocket Fuel Cell\nCan be used as rocket fuel for all tiers
+5

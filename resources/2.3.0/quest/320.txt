@@ -1,1 +1,6 @@
-320IchoriumBy combining ichor with some void metal and osmiridium, the metal turned into something new; Something extremely durable but also soft. Its magic conductivity is incredible!ANDpreRequThaumicTinkerer/kamiResource~0Quest Name For 309309rewardsChoiceThaumicTinkerer/kamiResource~1Choice Name2ThaumicTinkerer/kamiResource~2Choice Name2Itemdreamcraft/item.CoinSmithII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalThaumicTinkerer/kamiResource~2ThaumicTinkerer/kamiResource~2 Name5
+ThaumicTinkerer/kamiResource-2.pngIchoriumBy combining ichor with some void metal and osmiridium, the metal turned into something new; Something extremely durable but also soft. Its magic conductivity is incredible!1-1ANDpre3091ThaumicTinkerer/kamiResource-0.pngrewardsChoiceThaumicTinkerer/kamiResource-1.pngIchorcloth
+2ThaumicTinkerer/kamiResource-2.pngIchorium
+2Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/kamiResource-2.pngIchorium
+5

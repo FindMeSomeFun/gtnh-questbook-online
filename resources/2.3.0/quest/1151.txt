@@ -1,4 +1,4 @@
-1151§3§lWooden CrossbowNow you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
+TConstruct/Crossbow-0-38.png§3§lWooden CrossbowNow you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
 
 Assemble the bow yourself on your tool forge.
 
@@ -7,4 +7,16 @@ Assemble the bow yourself on your tool forge.
 Lapis - Fortune on kills
 Moss - Self-repair (this is not visible in NEI until you unlock it in the GTNH Thaumcraft tab)
 
-§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.ANDpreRequTConstruct/ToolForgeBlock~0Quest Name For 741741rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalTConstruct/Pattern~1TConstruct/Pattern~1 Name1TConstruct/Pattern~2TConstruct/Pattern~2 Name1TConstruct/woodPattern~15TConstruct/woodPattern~15 Name1TConstruct/woodPattern~23TConstruct/woodPattern~23 Name1RetrievalTConstruct/CrossbowLimbPart~0TConstruct/CrossbowLimbPart~0 Name1TConstruct/CrossbowBodyPart~0TConstruct/CrossbowBodyPart~0 Name1TConstruct/toughBinding~6TConstruct/toughBinding~6 Name1TConstruct/bowstring~0TConstruct/bowstring~0 Name1RetrievalTConstruct/Crossbow~0TConstruct/Crossbow~0 Name1
+§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.0-1ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalTConstruct/Pattern-1.pngCrossbow Limb Pattern\nMaterial Cost: 4
+1TConstruct/Pattern-2.pngCrossbow Body Pattern\nMaterial Cost: 5
+1TConstruct/woodPattern-15.pngTough Binding Pattern\nMaterial Cost: 3
+1TConstruct/woodPattern-23.pngBowstring Pattern\nMaterial Cost: 3
+1RetrievalTConstruct/CrossbowLimbPart-0.pngWooden Crossbow Limb\nDurability: 38\nDraw Speed: 0.9s\nArrow Speed: 3\nParts can be replaced
+1TConstruct/CrossbowBodyPart-0.pngWooden Crossbow Body\nDurability: 38\nDraw Speed: 0.9s\nArrow Speed: 3\nParts can be replaced
+1TConstruct/toughBinding-6.pngObsidian Tough Binding\nReinforced III\nDurability Modifier: 0.8x\nParts can be replaced
+1TConstruct/bowstring-0.pngBowstring\nDraw Speed: 1x\nDurability: 1x\nArrow Speed: 1x\nParts can be replaced
+1RetrievalTConstruct/Crossbow-0-38.pngWooden Crossbow\nReinforced III\nTool Level: 01-Abused\nIron Bolts
+1

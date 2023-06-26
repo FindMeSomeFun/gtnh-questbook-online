@@ -1,3 +1,8 @@
-2599§4§c§lLuV Energy HatchIf you want to upgrade your multis (and make the Fusion Reactor) you'll need to make these. You'll need a ton of wafers for Fusion, so step up your Indium game if you haven't already.
+gregtech/gt.blockmachines-46.png§4§c§lLuV Energy HatchIf you want to upgrade your multis (and make the Fusion Reactor) you'll need to make these. You'll need a ton of wafers for Fusion, so step up your Indium game if you haven't already.
 
-You need an LuV Cutting Machine, or an OC'd multi.ANDpreRequgregtech/gt.blockmachines~2400Quest Name For 17111711gregtech/gt.blockmachines~10780Quest Name For 17221722rewardstasksANDOptionalgregtech/gt.metaitem.03~32052gregtech/gt.metaitem.03~32052 Name1gregtech/gt.metaitem.01~2981gregtech/gt.metaitem.01~2981 Name8Optionalgregtech/gt.metaitem.03~32058gregtech/gt.metaitem.03~32058 Name1gregtech/gt.metaitem.03~32059gregtech/gt.metaitem.03~32059 Name2Retrievalgregtech/gt.blockmachines~46gregtech/gt.blockmachines~46 Name1
+You need an LuV Cutting Machine, or an OC'd multi.1-1ANDpre17111gregtech/gt.blockmachines-2400.png17221gregtech/gt.blockmachines-10780.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32052.pngHPIC Wafer\nRaw Circuit
+1gregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust\nInGaP
+8Optionalgregtech/gt.metaitem.03-32058.pngUHPIC Wafer\nRaw Circuit
+1gregtech/gt.metaitem.03-32059.pngUltra High Power IC\nUltra High Power Circuit
+2Retrievalgregtech/gt.blockmachines-46.pngLuV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 32,768 (LuV)\nCapacity: 262,656 EU
+1

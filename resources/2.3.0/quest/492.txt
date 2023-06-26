@@ -1,1 +1,13 @@
-492§2§lSheep HairdresserKilling sheep to get the wool is so inefficient. Making some shears would make sense if you need more wool.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoicegregtech/gt.metatool.01~12Choice Name1gregtech/gt.metatool.01~18Choice Name1gregtech/gt.metatool.01~22Choice Name1gregtech/gt.metatool.01~10Choice Name1gregtech/gt.metatool.01~16Choice Name1enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~17032gregtech/gt.metaitem.01~17032 Name2gregtech/gt.metaitem.01~28032gregtech/gt.metaitem.01~28032 Name1gregtech/gt.metaitem.01~27032gregtech/gt.metaitem.01~27032 Name1minecraft/stick~0minecraft/stick~0 Name2Retrievalminecraft/shears~0minecraft/shears~0 Name1
+OpenBlocks/trophy-0-Sheep.png§2§lSheep HairdresserKilling sheep to get the wool is so inefficient. Making some shears would make sense if you need more wool.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metatool.01-12-DamascusSteel-Wood.pngHammer\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 6.0\nMining Speed: 6.0\nCrushes Ores instead of harvesting them\nUsable for Prospecting\nSharpness V
+1gregtech/gt.metatool.01-18-DamascusSteel-Wood.pngFile\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 4.5\nMining Speed: 8.0
+1gregtech/gt.metatool.01-22-DamascusSteel-Wood.pngScrewdriver\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 4.5\nMining Speed: 8.0\nAdjusts Covers and Machines
+1gregtech/gt.metatool.01-10-DamascusSteel-Wood.pngSaw\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 4.75\nMining Speed: 8.0\nCan also harvest Ice
+1gregtech/gt.metatool.01-16-DamascusSteel-DamascusSteel.pngWrench\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 6.0\nMining Speed: 8.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
+1enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+2gregtech/gt.metaitem.01-28032.pngIron Ring\nFe
+1gregtech/gt.metaitem.01-27032.pngIron Screw\nFe
+1minecraft/stick-0.pngStick\nBurn Time: 100
+2Retrievalminecraft/shears-0.pngShears
+1

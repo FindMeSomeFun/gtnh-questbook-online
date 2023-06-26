@@ -1,3 +1,12 @@
-779Carbon SkinYou can stop worrying about some mobs for now. This will help you survive a bit and will give you some of that SWAG. Your journey doesn't stop here traveller, as quantum armor awaits you!
+IC2/itemArmorNanoChestplate-1-charged.pngCarbon SkinYou can stop worrying about some mobs for now. This will help you survive a bit and will give you some of that SWAG. Your journey doesn't stop here traveller, as quantum armor awaits you!
 
-§3PS: The nano suit also acts as hazmat gear.ANDpreRequdreamcraft/item.CarbonPartChestplate~0Quest Name For 775775IC2/itemNightvisionGoggles~1Quest Name For 776776dreamcraft/item.NanoCrystal~0Quest Name For 790790rewardsChoiceenhancedlootbags/lootbag~6Choice Name3IC2/itemPartCarbonPlate~0Choice Name24Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalIC2/itemArmorNanoHelmet~32767IC2/itemArmorNanoHelmet~32767 Name1IC2/itemArmorNanoChestplate~32767IC2/itemArmorNanoChestplate~32767 Name1IC2/itemArmorNanoLegs~32767IC2/itemArmorNanoLegs~32767 Name1IC2/itemArmorNanoBoots~32767IC2/itemArmorNanoBoots~32767 Name1
+§3PS: The nano suit also acts as hazmat gear.0-1ANDpre7750dreamcraft/item.CarbonPartChestplate-0.png7760IC2/itemNightvisionGoggles-1-charged.png7900dreamcraft/item.NanoCrystal-0.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+3IC2/itemPartCarbonPlate-0.pngCarbon Plate
+24Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalIC2/itemArmorNanoHelmet-32767.pngNanoSuit Helmet\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1IC2/itemArmorNanoLegs-32767.pngNanoSuit Leggings\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
+1IC2/itemArmorNanoBoots-32767.pngNanoSuit Boots\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1

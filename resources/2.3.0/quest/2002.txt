@@ -1,1 +1,3 @@
-2002Double Sided Cable CamouflageDouble sided cable camouflage blocks allows setting the inside face of the cable block, allowing you to imitate glass.ANDpreRequStevesFactoryManager/BlockCableCamouflageName~0Quest Name For 20002000rewardsItemStevesFactoryManager/BlockCableCamouflageName~1Item Name2tasksANDRetrievalStevesFactoryManager/BlockCableCamouflageName~1StevesFactoryManager/BlockCableCamouflageName~1 Name2
+StevesFactoryManager/BlockCableCamouflageName-1.pngDouble Sided Cable CamouflageDouble sided cable camouflage blocks allows setting the inside face of the cable block, allowing you to imitate glass.0-1ANDpre20000StevesFactoryManager/BlockCableCamouflageName-0.pngrewardsItemStevesFactoryManager/BlockCableCamouflageName-1.pngDouble Sided Cable Camouflage
+2tasksANDRetrievalStevesFactoryManager/BlockCableCamouflageName-1.pngDouble Sided Cable Camouflage
+2

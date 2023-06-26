@@ -1,1 +1,8 @@
-69§3§lWire-WrapPlacing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulfur, you should work on getting some insulating rubber bars.ANDpreRequIC2/itemDust~13Quest Name For 496496rewardsItemharvestcraft/onionsoupItem~0Item Name2Choiceenhancedlootbags/lootbag~2Choice Name1IC2/itemHarz~0Choice Name4Itemdreamcraft/item.CoinChemist~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~2896gregtech/gt.metaitem.01~2896 Name120gregtech/gt.metaitem.01~2022gregtech/gt.metaitem.01~2022 Name40Retrievalgregtech/gt.metaitem.01~11880gregtech/gt.metaitem.01~11880 Name40
+gregtech/gt.metaitem.01-11880.png§3§lWire-WrapPlacing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulfur, you should work on getting some insulating rubber bars.1-1ANDpre4961IC2/itemDust-13.pngrewardsItemharvestcraft/onionsoupItem-0.pngOnion Soup\nharvestcraft:onionsoupItem\nDiminishing returns start after\neating any food 10 more times
+2Choiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1IC2/itemHarz-0.pngSticky Resin
+4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-2896.pngRaw Rubber Dust\nC\u2085H\u2088
+120gregtech/gt.metaitem.01-2022.pngSulfur Dust\nS\nBurn Time: 1600
+40Retrievalgregtech/gt.metaitem.01-11880.pngRubber Bar\nC\u2085H\u2088
+40

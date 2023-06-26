@@ -1,1 +1,6 @@
-2134CocoboloThe Cocobolo is a nice tall tree, perfect for mating into your other trees to maximize their yield. Breed it by mating Desert Acacia with Dark Oak.ANDpreRequForestry/sapling~0Quest Name For 21332133rewardsItemdreamcraft/item.CoinForestry~0Item Name30enhancedlootbags/lootbag~19Item Name1tasksANDOptionalForestry/sapling~0Forestry/sapling~0 Name1Forestry/sapling~0Forestry/sapling~0 Name1RetrievalForestry/sapling~0Forestry/sapling~0 Name1
+Forestry/sapling-0-Cocobolo.pngCocoboloThe Cocobolo is a nice tall tree, perfect for mating into your other trees to maximize their yield. Breed it by mating Desert Acacia with Dark Oak.0-1ANDpre21330Forestry/sapling-0-Acacia.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+30enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-Acacia.pngDesert Acacia Sapling\nBurn Time: 100
+1Forestry/sapling-0-DarkOak.pngDark Oak Sapling\nBurn Time: 100
+1RetrievalForestry/sapling-0-Cocobolo.pngCocobolo Sapling\nBurn Time: 100
+1

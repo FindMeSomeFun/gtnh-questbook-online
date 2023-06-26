@@ -1,4 +1,4 @@
-3104Pyrolyse OvenSome setups really demand space in your base to work properly. You might have thought that when you finished the Coke Oven automation, but there's also an option in this tier that respects that need for speed by just being a gigantic multiblock: the Pyrolyse Oven.
+gregtech/gt.blockmachines-1159.pngPyrolyse OvenSome setups really demand space in your base to work properly. You might have thought that when you finished the Coke Oven automation, but there's also an option in this tier that respects that need for speed by just being a gigantic multiblock: the Pyrolyse Oven.
 
 In essence, it's the original GregTech large-scale wood processor. It is a massive structure, probably bigger than any other multi you've build before, but it uses simple materials like bronze and steel. If you're able to just throw stacks of those at a controller, you can put this behemoth together and enjoy an alternative to the Advanced Coke Oven that has some extra benefits. Unlike any of the other ovens, this one runs on EU, so you need to route your power back here to process the wood you're feeding it. 
 
@@ -6,4 +6,10 @@ What makes the Pyro valuable? It outputs a fluid alongside the Charcoal, which y
 
 However, the Pyro uses coils in a similar way to the EBF, and those coils affect the time each recipe takes: if you're using Cupronickel Coils, the recipe time is actually 2x what NEI says! This might be too slow for your needs, so make sure you check how much Charcoal you're getting from here. Kanthal Coils are available in MV, using the IC2 Coolant instead of the Vacuum Freezer.
 
-You can also boost your Pyro by providing Nitrogen. There are separate recipes for that in NEI.ANDpreRequgregtech/gt.metaitem.01~30686Quest Name For 30983098rewardsChoiceenhancedlootbags/lootbag~5Choice Name2gregtech/gt.metaitem.01~32641Choice Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name3dreamcraft/item.CoinChemistI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~1159gregtech/gt.blockmachines~1159 Name1dreamcraft/gt.blockcasingsNH~2dreamcraft/gt.blockcasingsNH~2 Name60
+You can also boost your Pyro by providing Nitrogen. There are separate recipes for that in NEI.0-1ANDpre30980gregtech/gt.metaitem.01-30686.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+2gregtech/gt.metaitem.01-32641.pngElectric Piston
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven\nMachine Type: Coke Oven\nController block for the Pyrolyse Oven\nIndustrial Charcoal producer\nProcessing speed scales linearly with Coil tier:\nCuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.\nEU/t is not affected by Coil tier\nCauses: 300 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1dreamcraft/gt.blockcasingsNH-2.pngPyrolyse Oven Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+60

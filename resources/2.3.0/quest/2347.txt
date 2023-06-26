@@ -1,4 +1,4 @@
-2347Flame ImpFlame Imps are demons strongly associated with fiery magic.
+minecraft/spawn_egg-6413.pngFlame ImpFlame Imps are demons strongly associated with fiery magic.
 
 Not as physically strong as their dimmer cousins, Flame Imps are mischievous creatures who are very easily swayed with the promise of personal gain. They may even be bound into the service of a witch (or warlock) if the offer is good enough.
 
@@ -21,4 +21,20 @@ A Flame imp may also occasionally give a gift in return for being given valuable
 
 A very well treated Flame Imp may even yield knowledge to summon a Lord of Torment.
 
-ANDpreRequwitchery/ingredient~29Quest Name For 15741574witchery/ingredient~140Quest Name For 23342334rewardsChoicewitchery/ingredient~23Choice Name1witchery/ingredient~38Choice Name2witchery/chalkinfernal~0Choice Name1witchery/chalkheart~0Choice Name1enhancedlootbags/lootbag~54Choice Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinWitchII~0Item Name2dreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalwitchery/ingredient~38witchery/ingredient~38 Name1witchery/ingredient~80witchery/ingredient~80 Name1minecraft/ender_pearl~0minecraft/ender_pearl~0 Name1witchery/ingredient~10witchery/ingredient~10 Name1Retrievalwitchery/ingredient~140witchery/ingredient~140 Name1witchery/taglockkit~0witchery/taglockkit~0 Name1Retrievalminecraft/diamond~0minecraft/diamond~0 Name16Retrievalwitchery/ingredient~141witchery/ingredient~141 Name1
+0-1ANDpre15740witchery/ingredient-29.png23340witchery/ingredient-140.pngrewardsChoicewitchery/ingredient-23.pngDemon Heart
+1witchery/ingredient-38.pngRefined Evil
+2witchery/chalkinfernal-0.pngInfernal Chalk
+1witchery/chalkheart-0.pngGolden Chalk
+1enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalwitchery/ingredient-38.pngRefined Evil
+1witchery/ingredient-80.pngDemonic Blood
+1minecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1witchery/ingredient-10.pngAttuned Stone
+1Retrievalwitchery/ingredient-140.pngDemonic Contract
+1witchery/taglockkit-0.pngTaglock Kit\nNot bound
+1Retrievalminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+16Retrievalwitchery/ingredient-141.pngTorment\nRead this text in a circle\nof standing stones. Beware its\nexplosive entrance.
+1

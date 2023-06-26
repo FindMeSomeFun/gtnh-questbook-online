@@ -1,1 +1,13 @@
-1839"Oh, Magic" ArmorIronwood Armor is a magic armor with some special enchants. The Helm gives aqua afinity, the shoes feather falling, the plate and the legs extra protection.ORpreRequTwilightForest/item.ironwoodIngot~0Quest Name For 11581158TwilightForest/item.liveRoot~0Quest Name For 19301930rewardsChoiceTwilightForest/item.ironwoodSword~0Choice Name1TwilightForest/item.ironwoodAxe~0Choice Name1TwilightForest/item.ironwoodShovel~0Choice Name1enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinDarkWizard~0Item Name25dreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDOptionalgregtech/gt.metaitem.01~17338gregtech/gt.metaitem.01~17338 Name24CraftingTwilightForest/item.ironwoodHelm~0TwilightForest/item.ironwoodHelm~0 Name1TwilightForest/item.ironwoodPlate~0TwilightForest/item.ironwoodPlate~0 Name1TwilightForest/item.ironwoodLegs~0TwilightForest/item.ironwoodLegs~0 Name1TwilightForest/item.ironwoodBoots~0TwilightForest/item.ironwoodBoots~0 Name1
+TwilightForest/item.ironwoodPlate-0-enchanted.png"Oh, Magic" ArmorIronwood Armor is a magic armor with some special enchants. The Helm gives aqua afinity, the shoes feather falling, the plate and the legs extra protection.0-1ORpre11580TwilightForest/item.ironwoodIngot-0.png19300TwilightForest/item.liveRoot-0.pngrewardsChoiceTwilightForest/item.ironwoodSword-0-enchanted.pngIronwood Sword\nKnockback I\n+6 Attack Damage\nDurability: 512/512
+1TwilightForest/item.ironwoodAxe-0-enchanted.pngIronwood Axe\nFortune I\n+5 Attack Damage\nDurability: 512/512
+1TwilightForest/item.ironwoodShovel-0-enchanted.pngIronwood Shovel\nUnbreaking I\n+3 Attack Damage\nDurability: 512/512
+1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-17338.pngIronwood Plate\nFe\u2089((COH)\u2083Ma)\u2089Au
+24CraftingTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Helm\nAqua Affinity I\nProtection: 2\nDurability: 220/220
+1TwilightForest/item.ironwoodPlate-0-enchanted.pngIronwood Plate\nProtection I\nProtection: 7\nDurability: 320/320
+1TwilightForest/item.ironwoodLegs-0-enchanted.pngIronwood Legs\nProtection I\nProtection: 5\nDurability: 300/300
+1TwilightForest/item.ironwoodBoots-0-enchanted.pngIronwood Boots\nFeather Falling I\nProtection: 2\nDurability: 260/260
+1

@@ -1,5 +1,13 @@
-2535Singular Singularities Signify SomethingQuest names are hard sometimes, ok? To make a Singularity (for the Quantum Network Bridge), you'll need to dump 512,000 items into the Matter Condenser set to Singularity Mode, while using a 64k component or higher.
+appliedenergistics2/item.ItemMultiMaterial-47.pngSingular Singularities Signify SomethingQuest names are hard sometimes, ok? To make a Singularity (for the Quantum Network Bridge), you'll need to dump 512,000 items into the Matter Condenser set to Singularity Mode, while using a 64k component or higher.
 
 Then put the Singularity and Enderpearl Dust on the ground and use an explosion (Tiny TNT works well) to create two Quantum Entangled Singularities.
 
-QESs are each a unique pair.ANDpreRequappliedenergistics2/tile.BlockController~0Quest Name For 21372137rewardsItemenhancedlootbags/lootbag~38Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalappliedenergistics2/tile.BlockCondenser~0appliedenergistics2/tile.BlockCondenser~0 Name1appliedenergistics2/item.ItemMultiMaterial~38appliedenergistics2/item.ItemMultiMaterial~38 Name1Optionalappliedenergistics2/item.ItemMultiMaterial~47appliedenergistics2/item.ItemMultiMaterial~47 Name1gregtech/gt.metaitem.01~2532gregtech/gt.metaitem.01~2532 Name1appliedenergistics2/tile.BlockTinyTNT~0appliedenergistics2/tile.BlockTinyTNT~0 Name1Retrievalappliedenergistics2/item.ItemMultiMaterial~48appliedenergistics2/item.ItemMultiMaterial~48 Name2
+QESs are each a unique pair.0-1ANDpre21371appliedenergistics2/tile.BlockController-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalappliedenergistics2/tile.BlockCondenser-0.pngMatter Condenser
+1appliedenergistics2/item.ItemMultiMaterial-38.png64k ME Storage Component
+1Optionalappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
+1gregtech/gt.metaitem.01-2532.pngEnderpearl Dust\nBeK\u2084N\u2085Ma\u2086
+1appliedenergistics2/tile.BlockTinyTNT-0.pngTiny TNT
+1Retrievalappliedenergistics2/item.ItemMultiMaterial-48.pngQuantum Entangled Singularity
+2

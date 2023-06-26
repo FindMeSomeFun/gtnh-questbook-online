@@ -1,3 +1,8 @@
-435Bound Tools: ShovelEver wanted to clear out a large piece of terrain with dirt, gravel and sand? Why not let demons do it? This shovel, imbued with the soul of a demon will unleash the power by your will. But be warned: The demon you're about to summon with this is thirsty, and it costs a lot of LP to make use of it, so make sure your LP pool is full!
+AWWayofTime/boundShovel-0.pngBound Tools: ShovelEver wanted to clear out a large piece of terrain with dirt, gravel and sand? Why not let demons do it? This shovel, imbued with the soul of a demon will unleash the power by your will. But be warned: The demon you're about to summon with this is thirsty, and it costs a lot of LP to make use of it, so make sure your LP pool is full!
 
-§3Will not dig beneath you.ANDpreRequAWWayofTime/masterStone~0Quest Name For 433433rewardsItemenhancedlootbags/lootbag~17Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinBloodII~0Item Name2tasksANDRetrievalAWWayofTime/boundShovel~0AWWayofTime/boundShovel~0 Name1
+§3Will not dig beneath you.0-1ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/boundShovel-0.pngBound Shovel\nNo, not that type of spade.\n+9 Attack Damage\nDurability: 1000/1000
+1

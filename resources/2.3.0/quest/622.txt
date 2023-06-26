@@ -1,5 +1,13 @@
-622§5§lHow to Get Sodium and LithiumSalt ore mixes can be found in the Overworld between Y 50-70.
+gregtech/gt.blockores-817.png§5§lHow to Get Sodium and LithiumSalt ore mixes can be found in the Overworld between Y 50-70.
 
 Salt isn't only used to get sodium, it's an important ingredient in many pam's harvestcraft food recipes.
 
-Lepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.ANDpreRequgregtech/gt.metaitem.01~32500Quest Name For 609609rewardsChoiceharvestcraft/baconmushroomburgerItem~0Choice Name1harvestcraft/saltedsunflowerseedsItem~0Choice Name5enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinAdventureI~0Item Name3tasksANDRetrievalgregtech/gt.blockores~817gregtech/gt.blockores~817 Name32gregtech/gt.blockores~944gregtech/gt.blockores~944 Name16gregtech/gt.blockores~920gregtech/gt.blockores~920 Name32gregtech/gt.blockores~907gregtech/gt.blockores~907 Name32
+Lepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.1-1ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burger\nharvestcraft:baconmushroomburgerItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/saltedsunflowerseedsItem-0.pngSalted Sunflower Seeds\nharvestcraft:saltedsunflowerseedsItem\nDiminishing returns start after\neating any food 10 more times
+5enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+3tasksANDRetrievalgregtech/gt.blockores-817.pngSalt Ore\nNaCl
+32gregtech/gt.blockores-944.pngRock Salt Ore\nKCl
+16gregtech/gt.blockores-920.pngSpodumene Ore\nLiAlSi\u2082O\u2086
+32gregtech/gt.blockores-907.pngLepidolite Ore\nKLi\u2083Al\u2084F\u2082O\u2081\u2080
+32

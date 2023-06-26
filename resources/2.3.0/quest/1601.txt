@@ -1,7 +1,18 @@
-1601Metals From the EarthWith higher tier crops you can even increase your ore production. Mixing some of these fibers and leaves with crushed ores can quadruple your output, and some can even be converted directly to dust. Later you can mix these materials to make purified ore with some UU matter.
+gregtech/gt.metaitem.02-32530.pngMetals From the EarthWith higher tier crops you can even increase your ore production. Mixing some of these fibers and leaves with crushed ores can quadruple your output, and some can even be converted directly to dust. Later you can mix these materials to make purified ore with some UU matter.
 
 Show me your ability to get these metal crops and I'll give you some more fertilizer and some decent stat seedbags of rarer crops. Good source crops are essence berries or any of the oreberries.
 
 You will need the proper oreblock beneath the crop to reach 100 percent maturity. For best growing conditions use dirt in between the oreblock and the crop.
 
-For Ferru and Aurelia you will have to use a block of metal instead of a GT oreblock - a vanilla oreblock automined from the Twilight Forest will however work. You can also buy some from the coins tab. WAILA will tell you if the crop will accept the block you are using.ANDpreRequminecraft/reeds~0Quest Name For 16001600rewardsItemIC2/itemFertilizer~0Item Name256IC2/itemCropSeed~0Item Name1IC2/itemCropSeed~0Item Name1IC2/itemCropSeed~0Item Name1enhancedlootbags/lootbag~51Item Name1tasksANDRetrievalgregtech/gt.metaitem.02~32530gregtech/gt.metaitem.02~32530 Name9gregtech/gt.metaitem.02~32500gregtech/gt.metaitem.02~32500 Name9gregtech/gt.metaitem.02~32527gregtech/gt.metaitem.02~32527 Name9gregtech/gt.metaitem.02~32540gregtech/gt.metaitem.02~32540 Name9gregtech/gt.metaitem.02~32528gregtech/gt.metaitem.02~32528 Name9gregtech/gt.metaitem.02~32503gregtech/gt.metaitem.02~32503 Name9
+For Ferru and Aurelia you will have to use a block of metal instead of a GT oreblock - a vanilla oreblock automined from the Twilight Forest will however work. You can also buy some from the coins tab. WAILA will tell you if the crop will accept the block you are using.0-1ANDpre16000minecraft/reeds-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilizer
+256IC2/itemCropSeed-0.pngAurelia Seeds\nGr 10\nGa 10\nRe 10
+1IC2/itemCropSeed-0.pngArgentia Seeds\nGr 10\nGa 10\nRe 10
+1IC2/itemCropSeed-0.pngPyrolusium Seeds\nGr 10\nGa 10\nRe 10
+1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalgregtech/gt.metaitem.02-32530.pngCoppon Fiber\nORANGE WOOOOOOOL!!!
+9gregtech/gt.metaitem.02-32500.pngPlumbilia Leaf\nSource of Lead
+9gregtech/gt.metaitem.02-32527.pngNickelback Leaf\nSource of Nickel
+9gregtech/gt.metaitem.02-32540.pngTine Twig\nSource of Tin\nBurn Time: 100
+9gregtech/gt.metaitem.02-32528.pngGalvania Leaf\nSource of Zinc
+9gregtech/gt.metaitem.02-32503.pngFerru Leaf\nSource of Iron
+9

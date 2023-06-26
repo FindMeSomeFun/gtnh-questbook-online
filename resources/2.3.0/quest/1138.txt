@@ -1,4 +1,4 @@
-1138§9§lKinetic Wind Power HVThe Kinetic Wind Generator generates energy from wind power which varies randomly, although certain factors can change this.
+IC2/blockKineticGenerator-0.png§9§lKinetic Wind Power HVThe Kinetic Wind Generator generates energy from wind power which varies randomly, although certain factors can change this.
 
 Unlike the Windmill, the Kinetic Wind Generator will require maintenance in the form of Rotors. These are needed to run the Kinetic Wind Generator.
 Once a Rotor is placed inside the GUI, the block is given sufficient space, and the current wind level is adequate for the current rotor, the Kinetic Wind Generator will begin to generate Kinetic Energy. 
@@ -8,4 +8,17 @@ This can be converted into EU by using a Kinetic Generator attached to the corre
 About Wind
 First off, the wind strength of a particular area is affected by 3 factors: Height, Weather, and Chance. The higher up in the world you are, the higher the wind level. Below y64, there is never enough wind to be used, and KWG's will not function at all. Weather will also give boosts; Rainy weather will give a 20% boost to normal wind levels, and stormy weather will give a 50% boost. The final factor of chance makes the wind strength vary randomly, however there is a limited range of variation.
 
-The easiest way to check the current wind level in an area is by using a Windmeter. Wind is strongest at around Y160, towards the build limit of Y255 there is very little wind, hence no point attempting to run Windmills that high. While inconvenient, the Wind Generator can run anywhere.ANDpreRequIC2/blockGenerator~9Quest Name For 11371137rewardsChoiceenhancedlootbags/lootbag~6Choice Name1IC2/itemRecipePart~12Choice Name2gregtech/gt.metaitem.02~21306Choice Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.blockcasings2~3gregtech/gt.blockcasings2~3 Name1gregtech/gt.metaitem.02~18306gregtech/gt.metaitem.02~18306 Name4gregtech/gt.metaitem.02~20028gregtech/gt.metaitem.02~20028 Name2IC2/itemRecipePart~12IC2/itemRecipePart~12 Name4gregtech/gt.metaitem.01~32704gregtech/gt.metaitem.01~32704 Name2gregtech/gt.metaitem.01~18306gregtech/gt.metaitem.01~18306 Name8gregtech/gt.blockmachines~1646gregtech/gt.blockmachines~1646 Name2gregtech/gt.metaitem.01~32602gregtech/gt.metaitem.01~32602 Name2RetrievalIC2/blockKineticGenerator~0IC2/blockKineticGenerator~0 Name1
+The easiest way to check the current wind level in an area is by using a Windmeter. Wind is strongest at around Y160, towards the build limit of Y255 there is very little wind, hence no point attempting to run Windmills that high. While inconvenient, the Wind Generator can run anywhere.0-1ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1IC2/itemRecipePart-12.pngShaft
+2gregtech/gt.metaitem.02-21306.pngStainless Steel Rotor\nFe\u2086CrMnNi
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
+4gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear\nTi
+2IC2/itemRecipePart-12.pngShaft
+4gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate\nFe\u2086CrMnNi
+8gregtech/gt.blockmachines-1646.png1x Platinum Cable\nMax Voltage: 8,192 (IV)\nMax Amperage: 2\nLoss/Meter/Ampere: 1 EU-Volt
+2gregtech/gt.metaitem.01-32602.pngElectric Motor
+2RetrievalIC2/blockKineticGenerator-0.pngKinetic Wind Generator\nPower Output: 0-x KU/t max
+1

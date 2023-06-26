@@ -1,7 +1,14 @@
-3037Space PumpingYou might have already wondered: There are these enormous gas planets in the solar system - isn't there a way to "harvest" them? Indeed there is. By constructing the "Planetary Gas Siphon" multiblock, you are able to pump from the infinite supply of gas found on Jupiter, Saturn, Uranus and Neptune. You just need to build a space station around a gas planet to get near enough to be able to reach the gas without falling into it.
+gregtech/gt.blockmachines-14002.pngSpace PumpingYou might have already wondered: There are these enormous gas planets in the solar system - isn't there a way to "harvest" them? Indeed there is. By constructing the "Planetary Gas Siphon" multiblock, you are able to pump from the infinite supply of gas found on Jupiter, Saturn, Uranus and Neptune. You just need to build a space station around a gas planet to get near enough to be able to reach the gas without falling into it.
 
 By pumping on different depths, you are able to extract different gases. The depth is controlled by a Programmed Circuit. You need to supply 64 * depth Mining Pipes to be able to rach the selected depth.
 
 While operational, the multiblock needs d*4^(t+2) EU/t (t is the space station's tier and d is the depth).
 
-You can find an overview of what you can pump where in the Tips and Tricks chapter.ANDpreRequGalaxySpace/item.Icon~37Quest Name For 10671067GalaxySpace/item.Tier4Rocket~0Quest Name For 15351535rewardsChoiceenhancedlootbags/lootbag~24Choice Name1enhancedlootbags/lootbag~8Choice Name1IC2/blockMiningPipe~0Choice Name256Itemdreamcraft/item.CoinSpaceII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5dreamcraft/item.CoinAdventureII~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~14002gregtech/gt.blockmachines~14002 Name1
+You can find an overview of what you can pump where in the Tips and Tricks chapter.0-1ANDpre10670GalaxySpace/item.Icon-37.png15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceenhancedlootbags/lootbag-24.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1IC2/blockMiningPipe-0.pngMining Pipe
+256Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+5tasksANDRetrievalgregtech/gt.blockmachines-14002.pngPlanetary Gas Siphon\nMachine Type: Pump\nIt''s time to SUCC!\nBuild on an Space Station orbiting a Gas Planet\nRequires a Programmed Circuit set to the depth you want to pump from (1 - 4)\nRequires 64x depth Mining Pipes\nEU/t: d*4^(t+2), t is the Space Station''s tier and d the depth\nCan load the chunk it is in (toggle using a Soldering Iron)\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GalaxySpace\nAuthor: glowredman
+1

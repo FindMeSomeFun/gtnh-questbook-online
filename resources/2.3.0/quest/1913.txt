@@ -1,5 +1,11 @@
-1913§6§lGut-Enough For You? Bet You Thought Newspapers Were Dead!The Typesetting Table and Printing Press will allow you to duplicate books, including enchanted books. The process is kinda complicated, so check out the Bibliocraft mod wiki page. You'll need to use XP to duplicate enchanted books, so now would be a good time to figure out how to collect large amounts...
+BiblioCraft/Printing Press-0.png§6§lGut-Enough For You? Bet You Thought Newspapers Were Dead!The Typesetting Table and Printing Press will allow you to duplicate books, including enchanted books. The process is kinda complicated, so check out the Bibliocraft mod wiki page. You'll need to use XP to duplicate enchanted books, so now would be a good time to figure out how to collect large amounts...
 
 To duplicate a Fortune III book you may need 40+ levels. Note that the wiki mentions black dye but only vanilla ink sacs will work.
 
-§3You'll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop.ANDpreRequgregtech/gt.metaitem.01~32601Quest Name For 18671867rewardsItemminecraft/experience_bottle~0Item Name8Itemdreamcraft/item.CoinTechnicianII~0Item Name1enhancedlootbags/lootbag~5Item Name1tasksANDRetrievalBiblioCraft/item.BiblioChase~0BiblioCraft/item.BiblioChase~0 Name1BiblioCraft/Typesetting Machine~0BiblioCraft/Typesetting Machine~0 Name1BiblioCraft/Printing Press~0BiblioCraft/Printing Press~0 Name1
+§3You'll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop.0-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemminecraft/experience_bottle-0.pngBottle o'' Enchanting
+8Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalBiblioCraft/item.BiblioChase-0.pngPrint Press Chase
+1BiblioCraft/Typesetting Machine-0.pngTypesetting Table\nBurn Time: 300
+1BiblioCraft/Printing Press-0.pngPrinting Press
+1

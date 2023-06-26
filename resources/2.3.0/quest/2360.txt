@@ -1,6 +1,20 @@
-2360Visit the Fiery IslandA Fire-oriented biome with huge mountains and a large amount of caves and ores. Apart from default ores, this biome also has common Igneous Rock ore. There are 2 variations of the biome - Scorching and Mine.
+HardcoreEnderExpansion/fire_shard-0.pngVisit the Fiery IslandA Fire-oriented biome with huge mountains and a large amount of caves and ores. Apart from default ores, this biome also has common Igneous Rock ore. There are 2 variations of the biome - Scorching and Mine.
 
 The Scorching variation has large blobs of cinder, streams and pools of Lava and Lilyfires. This is the only place where Fire Golems and Scorching Lenses spawn. Each island can contain a Dungeon Puzzle.
 
 The Mine variation spawns Haunted Miners, which protect Resource Pits (holes with ores from the End and Lava) and long patches of Overworld ores. Not all Overworld ores are present in a single island, usually one or two random ores are missing.
-ANDpreRequHardcoreEnderExpansion/biome_compass~0Quest Name For 23552355rewardsItemHardcoreEnderExpansion/fire_shard~0Item Name8enhancedlootbags/lootbag~57Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinSurvivorII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1HardcoreEnderExpansion/knowledge_note~0Item Name1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain~1HardcoreEnderExpansion/end_stone_terrain~1 Name4RetrievalHardcoreEnderExpansion/cinder~0HardcoreEnderExpansion/cinder~0 Name4HardcoreEnderExpansion/igneous_rock_ore~0HardcoreEnderExpansion/igneous_rock_ore~0 Name4HardcoreEnderExpansion/crossed_decoration~11HardcoreEnderExpansion/crossed_decoration~11 Name2HardcoreEnderExpansion/crossed_decoration~6HardcoreEnderExpansion/crossed_decoration~6 Name2RetrievalHardcoreEnderExpansion/fire_shard~0HardcoreEnderExpansion/fire_shard~0 Name8HardcoreEnderExpansion/igneous_rock~0HardcoreEnderExpansion/igneous_rock~0 Name16HardcoreEnderExpansion/instability_orb~0HardcoreEnderExpansion/instability_orb~0 Name8
+0-1ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemHardcoreEnderExpansion/fire_shard-0.pngInfernium
+8enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n65 Knowledge Points
+1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-1.pngBurned End Stone
+4RetrievalHardcoreEnderExpansion/cinder-0.pngCinder
+4HardcoreEnderExpansion/igneous_rock_ore-0.pngIgneous Rock Ore
+4HardcoreEnderExpansion/crossed_decoration-11.pngFlameweed
+2HardcoreEnderExpansion/crossed_decoration-6.pngLilyfire
+2RetrievalHardcoreEnderExpansion/fire_shard-0.pngInfernium
+8HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock\nBurn Time: 8000
+16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
+8

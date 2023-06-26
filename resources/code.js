@@ -1,4 +1,4 @@
-const repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
+var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
 var availableVersions = [];
 var fallbackVersion = '';
 var questLineId = '';
@@ -8,35 +8,44 @@ readTextFile(repo + 'resources/versions.txt', 'versions');
 readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
 
 // Parse URL parameters because regular way does not work on https://htmlpreview.github.io/
-const parts = window.location.href.split('?');
-const newParams = parts[parts.length - 1].split('&');
+var parts = window.location.href.split('?');
+var newParams = parts[parts.length - 1].split('&');
 for (var i = 0; i < newParams.length; i++) {
 	var param = newParams[i].split('=');
-	if (param[0] == 'light') {				// Set theme
+	if (param[0].toLowerCase() == 'light') {			// Set theme
 		if (param[1] == '1') {
 			switchTheme();
 		}
-	} else if (param[0] == 'version') {		// Set version
-		var index = availableVersions.indexOf(param[1]);
-		if (index < 0) {
+	} else if (param[0].toLowerCase() == 'version') {	// Set version
+		if (!availableVersions.includes(param[1])) {
 			alert('Version ' + param[1] + ' does not exist, fallback to ' + fallbackVersion);
-			index = availableVersions.indexOf(fallbackVersion);
+			document.getElementById('version').value = fallbackVersion;
+			document.getElementById('showVersion').innerHTML = fallbackVersion;
+		} else {
+			document.getElementById('version').value = param[1];
+			document.getElementById('showVersion').innerHTML = param[1];
 		}
-		document.getElementById('versions').options[index].selected = 'selected';
 	}
 }
 
-readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLines.txt', 'questLines');
+readTextFile(repo + 'resources/' + document.getElementById('version').value + '/questLines.txt', 'questLines');
 
 for (var i = 0; i < newParams.length; i++) {
 	var param = newParams[i].split('=');
-	if (param[0] == 'questLineId') {	// Set questLine
+	if (param[0].toLowerCase() == 'questlineid') {	// Set questLine
 		loadQuestLineTree(param[1]);
 		var qstLine = document.getElementById('questLines');
 		document.getElementById('questLineImg').src = qstLine.children[param[1]].children[1].src;
 		document.getElementById('questLineName').textContent = qstLine.children[param[1]].children[2].textContent;
-	} else if (param[0] == 'questId') {		// Set quest
-		loadQuest(param[1]);
+	} else if (param[0].toLowerCase() == 'questid') {
+		loadQuest(param[1], 'questInfo');
+	} else if (param[0].toLowerCase() == 'prequestid') {
+		loadQuest(param[1], 'preQuestInfo');
+	} else if (param[0].toLowerCase() == 'pinned') {
+		var quests = param[1].split(',');
+		for (var i = 0; i < quests.length; i++) {
+			loadQuest(quests[i], 'pinned');
+		}
 	}
 }
 
@@ -63,17 +72,22 @@ function populateElement(text, id) {
 	if (id == 'versions') {
 		for (var i = 0; i < data.length; i++) {
 			availableVersions.push(data[i]);
-			element.innerHTML += '<option value="' + data[i]  + '">' + data[i] + '</option>';
+			element.innerHTML += '<div class="version"><input type="hidden" value="' + data[i] + '" /><img src="./resources/image/gtnh.png"><span>' + data[i] + '</span></div>';
 		}
 	} else if (id == 'fallbackVersion') {
 		fallbackVersion = data[0];
+		document.getElementById('version').value = data[0];
+		document.getElementById('showVersion').textContent = data[0];
 	} else if (id == 'questLines') {
 		var j = 0;
 		for (var i = 0; i < data.length; i++) {
-			element.innerHTML += '<div class="questLine"> <input type="hidden" value="' + j + '" /><img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"> <span> ' + data[i] + '</span> </div>';
+			element.innerHTML += '<div class="questLine icon"><input type="hidden" value="' + j + '" /><img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"><span> ' + data[i] + '</span></div>';
 			j++;
 		}
 	} else if (id == 'questLineTree') {
+		if(document.getElementById('welcome')) {
+			document.getElementById('welcome').remove();
+		}
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
@@ -84,97 +98,115 @@ function populateElement(text, id) {
 			var y = data[i++];
 			var iconSize = data[i++];
 			var questIcon = data[i];
-			element.innerHTML += '<div class="quest" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"> <input type="hidden" value="' + questId + '" /> <img class="openQuest" src="./resources/image/item/' + questIcon + '.png" alt="No Image"> </img> </div>';
-		}
-	} else if (id == 'questInfo') {
-		element.innerHTML = '<span> <h1> Id: ' + data[0] + ' - ' + data[1] + '</h1> </span>';
-		var desc = data[2];
-		var logic = data[3];
-		var i = 5;
-		var elementString = '';
-		elementString += '<span> <h2>Pre-Requisites: ';
-		if (data[5] == 'rewards') {
-			elementString += 'NONE </h2> </span>';
-		} else {
-			for (; i < data.length; i++) {
-				var icon = data[i++];
-				var name = data[i++];
-				var number = data[i];
-				elementString += '<div class="questPre"> <input type="hidden" value="' + number + '"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div>';
-				if (data[i + 1] == 'rewards') {
-					elementString += '</h2> </span>';
-					i = i + 1;
-					break;
-				} else {
-					elementString += ' ' + logic + ' ';
-				}
+			var elementString = '<div class="quest';
+			if (i % 2 == 1) {
+				elementString += ' quest-main';
+			} else {
+				elementString += ' quest-optional';
 			}
+			element.innerHTML += elementString + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><input type="hidden" value="' + questId + '" /><img class="openQuest max" src="./resources/image/item/' + questIcon + '.png" alt="No Image"></img></div>';
 		}
-		element.innerHTML += elementString;
-		elementString = '<p> ' + desc + ' </p> <div class="rewards"> <p> Rewards: </p> <div> <p> ';
-		var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
-		i++;	// jump over 'rewards' string
-		if (data[i] == 'tasks') {
-			elementString += 'NONE </p> </div>';
-		} else {
-			for (; i < data.length; i++) {
-				var type = data[i++];
-				elementString += type + ' Reward </p> ';
-				for (; i < data.length; i++) {
-					if (data[i] == 'tasks') {
-						elementString += '</div>';
-						break;
-					}
-					var icon = data[i++];
-					var name = data[i++];
-					var number = data[i++];
-					elementString += '<div> <div> <div> ' + name + ' </div> <div> x ' + number + '</div> </div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> </div>';
-					if (rewardTypes.includes(data[i--])) {
-						break;
-					}
-				}
-				if (data[i] == 'tasks') {
-					break;
-				}
-			}
-		}
-		elementString += '</div>';
-		element.innerHTML += elementString;
-		var taskNo = 1;
-		elementString = '<div class="tasks"> <p> Tasks: </p> ';
-		var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid'];
-		logic = data[i++];
-		i++;	// jump over 'tasks' string
-		for (; i < data.length; i++) {
-			var type = data[i++];
-			elementString += '<div> <p> ' + taskNo++ + '. ' + type + ' Task </p> ';
-			for (; i < data.length; i++) {
-				var icon = data[i++];
-				var name = data[i++];
-				var number = data[i++];
-//alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
-				elementString += '<div> <div class="icon64"> <img src="./resources/image/item/' + icon + '.png" alt="No Image"> </div> <div> <div> ' + name + ' </div> <div> 0 / ' + number + ' </div> </div> </div>';
-				if (taskTypes.includes(data[i--])) {
-					elementString += '</div>';
-					break;
-				}
-			}
-		}
-		element.innerHTML += elementString;
+	} else if (id == 'questInfo' || id == 'preQuestInfo') {
+		element.innerHTML = loadQuestData(data, id);
+	} else if (id == 'pinned') {
+		document.getElementById('main').innerHTML += '<div class="questInfo pinned">' + loadQuestData(data, id) + '</div>';
 	}
 }
 
-function loadQuestLineTree(questLineId) {
-	readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/questLine/' + questLineId + '.txt', 'questLineTree');
+function loadQuestData(data, id) {
+	fullElementString = '<div style="height: 64px;"><div class="inline icon"><img src="./resources/image/item/Minecraft/Bed~0.png" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + data[0] + ' - ' + data[1] + '</div><div class="sub-title">QuestLine: Getting Around Without Dying</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>None</div><div class="inline top btn hide">Hide</div>';
+	if (id == 'pinned') {
+		fullElementString += '<div class="inline top btn remove">Remove</div></div></div>';
+	} else {
+		fullElementString += '<div class="inline top btn pin">Pin</div></div></div>';
+		
+	}
+	
+	var desc = data[2];
+	var logic = data[3];
+	var i = 5;
+	var elementString = '<div class="pad-top"><div class="half"><div><span>Pre-Requisites: ';
+	if (data[5] == 'rewards') {
+		elementString += 'NONE </span><div class="inline icon"></div></div>';
+	} else {
+		for (; i < data.length; i++) {
+			var icon = data[i++];
+			var name = data[i++];
+			var number = data[i];
+			elementString += '</span><div class="questPre icon inline quest-main"><input type="hidden" value="' + number + '"><img class="openPre max" src="./resources/image/item/' + icon + '.png" alt="No Image"></div>';
+			if (data[i + 1] == 'rewards') {
+				elementString += '</div>';
+				i = i + 1;
+				break;
+			} else {
+				elementString += ' <span>' + logic + '</span> ';
+			}
+		}
+	}
+	fullElementString += elementString;
+	elementString = ' <div class="text">' + desc + '</div></div><div class="half"><div class="tasks"><p>Rewards:</p><div>';
+	var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
+	i++;	// jump over 'rewards' string
+	if (data[i] == 'tasks') {
+		elementString += '<p> NONE </p></div>';
+	} else {
+		for (; i < data.length; i++) {
+			var type = data[i++];
+			elementString += '<p>' + type + ' Reward </p> ';
+			for (; i < data.length; i++) {
+				if (data[i] == 'tasks') {
+					elementString += '</div>';
+					break;
+				}
+				var icon = data[i++];
+				var name = data[i++];
+				var number = data[i++];
+				elementString += '<div><div class="icon"><img src="./resources/image/item/' + icon + '.png" alt="No Image"></div><div class="text">' + name + '\nx ' + number + '</div></div>';
+				if (rewardTypes.includes(data[i--])) {
+					break;
+				}
+			}
+			if (data[i] == 'tasks') {
+				break;
+			}
+		}
+	}
+	fullElementString += elementString + '</div>';
+	var taskNo = 1;
+	elementString = '<div class="tasks"><p> Tasks: </p> ';
+	var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid', 'Consume'];
+	logic = data[i++];
+	i++;	// jump over 'tasks' string
+	for (; i < data.length; i++) {
+		var type = data[i++];
+		elementString += '<div><p> ' + taskNo++ + '. ' + type + ' Task </p> ';
+		for (; i < data.length; i++) {
+			var icon = data[i++];
+			var name = data[i++];
+			var number = data[i++];
+//alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
+			elementString += '<div><div class="icon"><img src="./resources/image/item/' + icon + '.png" alt="No Image"></div><div class="text">' + name + '\n0 / ' + number + '</div></div>';
+			if (taskTypes.includes(data[i--])) {
+				elementString += '</div>';
+				break;
+			}
+		}
+	}
+	fullElementString += elementString + '</div></div></div>';
+	return fullElementString;
 }
 
-function loadQuest(questId) {
-	readTextFile(repo + 'resources/' + document.getElementById('versions').value + '/quest/' + questId + '.txt', 'questInfo');
+function loadQuestLineTree(questLineId) {
+	readTextFile(repo + 'resources/' + document.getElementById('version').value + '/questLine/' + questLineId + '.txt', 'questLineTree');
+}
+
+function loadQuest(questId, elemId) {
+	readTextFile(repo + 'resources/' + document.getElementById('version').value + '/quest/' + questId + '.txt', elemId);
 }
 
 /* Dropdown List with Images */
-function showList() {
-	document.getElementById('questLines').classList.toggle('show');
+function showList(id) {
+	document.getElementById(id).classList.toggle('show');
 }
 
 window.onclick = function(event) {
@@ -189,8 +221,41 @@ window.onclick = function(event) {
 			}
 		}
 		loadQuestLineTree(event.target.children[0].value);
+	} else if (event.target.matches('.version')) {
+		document.getElementById('version').textContent = event.target.children[2].textContent;
+		var dropdowns = document.getElementsByClassName('dropdown-content');
+		for (var i = 0; i < dropdowns.length; i++) {
+			var openDropdown = dropdowns[i];
+			if (openDropdown.classList.contains('show')) {
+				openDropdown.classList.remove('show');
+			}
+		}
+		alert('change version: ' + event.target.children[0].value);
 	} else if (event.target.matches('.openQuest')) {
-		loadQuest(event.target.previousElementSibling.value);
+		var elems = document.getElementsByClassName('selected')
+		for (var i = 0; i < elems.length; i++) {
+			elems[i].classList.toggle('selected');
+		}
+		event.target.parentNode.classList.toggle('selected');
+		loadQuest(event.target.previousElementSibling.value, 'questInfo');
+		document.getElementById('questInfoView').scrollIntoView();
+	} else if (event.target.matches('.openPre')) {
+		loadQuest(event.target.previousElementSibling.value, 'preQuestInfo');
+		document.getElementById('preInfoView').scrollIntoView();
+	} else if (event.target.matches('.hide')) {
+		var elem = event.target.parentNode.parentNode.nextElementSibling;
+		if (elem.style.display == '') {
+			elem.style.display = 'none';
+			event.target.textContent = 'Show'
+		} else {
+			elem.style.display = '';
+			event.target.textContent = 'Hide'
+		}
+	} else if (event.target.matches('.remove')) {
+		event.target.parentNode.parentNode.parentNode.remove();
+	} else if (event.target.matches('.pin')) {
+		var copy = event.target.parentNode.parentNode.parentNode.innerHTML;
+		document.getElementById('main').innerHTML += '<div class="questInfo pinned">' + copy.replace('pin">Pin', 'remove">Remove') + '</div>';
 	}
 }
 

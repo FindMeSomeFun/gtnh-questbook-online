@@ -1,7 +1,19 @@
-661§5§lBow, Arrows and QuiverWow, your first handmade §oehm§r machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. 
+minecraft/bow-0.png§5§lBow, Arrows and QuiverWow, your first handmade §oehm§r machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. 
 
 To place arrows in the quiver, put the quiver and the stack of arrows in a crafting grid. Make sure the Gameplay key Special is deconflicted. By default it is Z. When you have the bow selected, use Z to swap arrow slots in the quiver.
 
 While it seems like these might be worthless, these arrows do have special uses. You really want to share a cookie with friends, don't you?
 
-Let's go hunt a bit.ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797rewardsItembattlegear2/mb.arrow~0Item Name10battlegear2/mb.arrow~6Item Name10battlegear2/mb.arrow~2Item Name10battlegear2/mb.arrow~5Item Name10battlegear2/mb.arrow~3Item Name10battlegear2/mb.arrow~1Item Name10battlegear2/mb.arrow~4Item Name10Itemdreamcraft/item.CoinSmith~0Item Name15dreamcraft/item.CoinSurvivor~0Item Name15tasksANDRetrievalminecraft/bow~0minecraft/bow~0 Name1Retrievalbattlegear2/quiver~0battlegear2/quiver~0 Name1Retrievalminecraft/arrow~0minecraft/arrow~0 Name64
+Let's go hunt a bit.0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItembattlegear2/mb.arrow-0.pngHoly Torch Arrow\nIt helps you face the darkness\nPut a torch where it falls
+10battlegear2/mb.arrow-6.pngPoison Arrow\nExpensive, heh ?\nDeals Wither effect
+10battlegear2/mb.arrow-2.pngExplosive Arrow\nPacks some explosive power\nExplosion strength depends on arrow critical hit
+10battlegear2/mb.arrow-5.pngPiercing Arrow\nUncommon cutting ability\nShears sheeps with style
+10battlegear2/mb.arrow-3.pngEnder Arrow\nThis Ender Eye seems in pain...\nInstant travel or block transportation
+10battlegear2/mb.arrow-1.pngIce Packed Arrow\nEffective against hot creatures like blazes and lava monsters\nIs effective against creatures immune to fire
+10battlegear2/mb.arrow-4.pngFlaming Arrow\nFlint and Steel ? No need\nSet mobs, players and blocks on fire
+10Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+15tasksANDRetrievalminecraft/bow-0.pngBow\nDurability: 384/384
+1Retrievalbattlegear2/quiver-0.pngQuiver\nArrows\n 0: Empty\n 1: Empty\n 2: Empty\n 3: Empty
+1Retrievalminecraft/arrow-0.pngArrow
+64

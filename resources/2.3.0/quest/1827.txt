@@ -1,1 +1,6 @@
-1827L.E.S.U. Upgrade - HV TierThe HV Tier upgrade first needs over a Stack of Casings. More Casings, more Energy, more Capacity.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160minecraft/dye~4Quest Name For 18261826rewardsItemenhancedlootbags/lootbag~6Item Name1gregtech/gt.metaitem.01~32438Item Name1gregtech/gt.metaitem.01~17526Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalbartworks/GT_LESU_CASING~0bartworks/GT_LESU_CASING~0 Name96
+IC2/itemPlates-8.pngL.E.S.U. Upgrade - HV TierThe HV Tier upgrade first needs over a Stack of Casings. More Casings, more Energy, more Capacity.0-1ANDpre1601gregtech/gt.blockmachines-13.png18260minecraft/dye-4.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32438.pngSpray Can\nFull\nCan Color things in Blue\nRemaining Uses: 512\nNot usable when stacked!
+1gregtech/gt.metaitem.01-17526.pngLapis Plate\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
+96

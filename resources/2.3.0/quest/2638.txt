@@ -1,3 +1,8 @@
-2638Cheaper IV CircuitsThe Crystal SoC will allow you to make Crystalprocessors cheaper.
+gregtech/gt.metaitem.03-32089.pngCheaper IV CircuitsThe Crystal SoC will allow you to make Crystalprocessors cheaper.
 
-Unfortunately, this is the last SoC.ANDpreRequgregtech/gt.blockmachines~48Quest Name For 26282628rewardstasksANDOptionalbartworks/gt.bwMetaGeneratedItem0~32753bartworks/gt.bwMetaGeneratedItem0~32753 Name1bartworks/gt.bwMetaGeneratedItem0~32717bartworks/gt.bwMetaGeneratedItem0~32717 Name1gregtech/gt.blockmachines~1722gregtech/gt.blockmachines~1722 Name8gregtech/gt.metaitem.01~26358gregtech/gt.metaitem.01~26358 Name64Retrievalgregtech/gt.metaitem.03~32089gregtech/gt.metaitem.03~32089 Name16
+Unfortunately, this is the last SoC.0-1ANDpre26281gregtech/gt.blockmachines-48.pngrewardstasksANDOptionalbartworks/gt.bwMetaGeneratedItem0-32753.pngWrap of Elite Circuit Boards\nA elite Circuit Board\nAdded by BartWorks
+1bartworks/gt.bwMetaGeneratedItem0-32717.pngWrap of Crystal SoCs\nCrystal System on a Chip\nAdded by BartWorks
+1gregtech/gt.blockmachines-1722.png4x Niobium-Titanium Wire\nMax Voltage: 32,768 (LuV)\nMax Amperage: 16\nLoss/Meter/Ampere: 4 EU-Volt
+8gregtech/gt.metaitem.01-26358.pngYttrium Barium Cuprate Bolt\nYBa\u2082Cu\u2083O\u2087
+64Retrievalgregtech/gt.metaitem.03-32089.pngCrystalprocessor\nAn Elite Circuit\nIV-Tier
+16

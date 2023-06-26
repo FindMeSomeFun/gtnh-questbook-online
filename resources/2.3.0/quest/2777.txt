@@ -1,1 +1,2 @@
-2777§lPower of the Sun at UV LevelThe UV solar panel generates 524288 EU/t.ANDpreRequAvaritia/Resource~6Quest Name For 26752675gregtech/gt.metaitem.01~32758Quest Name For 27762776rewardstasksANDRetrievalgregtech/gt.metaitem.01~32759gregtech/gt.metaitem.01~32759 Name1
+gregtech/gt.metaitem.01-32759.png§lPower of the Sun at UV LevelThe UV solar panel generates 524288 EU/t.0-1ANDpre26751Avaritia/Resource-6.png27760gregtech/gt.metaitem.01-32758.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32759.pngSolar Panel\nUltimate Solar Panel (Needs cleaning with right click)
+1

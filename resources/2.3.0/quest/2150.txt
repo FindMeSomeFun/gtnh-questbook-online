@@ -1,5 +1,8 @@
-2150One BILLION EUIf you want a stationary battery, you can make an AFSU capable of storing up to 1 billion EU and charging items. You can pick it up with a wrench, but you'll lose a percentage of the stored EU. Make sure you right-click, not left-click. Left-clicking will cause it to lose all stored EU.
+AFSU/AFSU-0.pngOne BILLION EUIf you want a stationary battery, you can make an AFSU capable of storing up to 1 billion EU and charging items. You can pick it up with a wrench, but you'll lose a percentage of the stored EU. Make sure you right-click, not left-click. Left-clicking will cause it to lose all stored EU.
 
 As an alternative, if you can afford them, try the GT++ Energy Buffers. They are more expensive and cannot charge items, but store more, don't lose any EU, and can be configured from 1-16A. See the GT++ tab for details.
 
-§3These can apparently draw infinite amps, so maybe use a diode or something if you like having the power on.ANDpreRequgregtech/gt.metaitem.01~32597Quest Name For 21492149rewardsItemIC2/itemBatLamaCrystal~26Item Name4tasksANDOptionalAFSU/ALC~0AFSU/ALC~0 Name1RetrievalAFSU/AFSU~0AFSU/AFSU~0 Name1
+§3These can apparently draw infinite amps, so maybe use a diode or something if you like having the power on.0-1ANDpre21490gregtech/gt.metaitem.01-32597.pngrewardsItemIC2/itemBatLamaCrystal-26.pngLapotron Crystal\nDurability: 1 / 27
+4tasksANDOptionalAFSU/ALC-0.pngAFB
+1RetrievalAFSU/AFSU-0.pngAFSU\nOutput: 8192EU/t Capacity: 1b EU\nStore: 0 EU
+1

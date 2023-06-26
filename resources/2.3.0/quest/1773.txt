@@ -1,1 +1,3 @@
-1773Purchase Tier 1 Hard DriveI'll sell you a Tier 1 Hard Drive for eight Bitcoins.ANDpreRequmiscutils/itemGenericToken~0Quest Name For 17651765rewardsItemOpenComputers/item~5Item Name1tasksANDRetrievalmiscutils/itemGenericToken~0miscutils/itemGenericToken~0 Name8
+OpenComputers/item-5.pngPurchase Tier 1 Hard DriveI'll sell you a Tier 1 Hard Drive for eight Bitcoins.072000ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-5.pngHard Disk Drive\nTier 1
+1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+8

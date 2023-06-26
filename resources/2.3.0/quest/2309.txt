@@ -1,3 +1,11 @@
-2309§b§lAnother Acid to Worry About!Formic Acid, also known as methanoic acid, is an organic acid. We'll need it for the final Palladium step, so dont be shy, make tons of it! The Sodium Sulfate can be recycled.
+bartworks/gt.bwMetaGeneratedcell-58.png§b§lAnother Acid to Worry About!Formic Acid, also known as methanoic acid, is an organic acid. We'll need it for the final Palladium step, so dont be shy, make tons of it! The Sodium Sulfate can be recycled.
 
-Make Sodium Formate, then the Formic Acid.ANDpreRequbartworks/gt.bwMetaGenerateddust~55Quest Name For 23082308rewardsItemdreamcraft/item.CoinChemistII~0Item Name5IC2/itemCellEmpty~0Item Name16tasksANDOptionalgregtech/gt.metaitem.01~30674gregtech/gt.metaitem.01~30674 Name4gregtech/gt.metaitem.01~2685gregtech/gt.metaitem.01~2685 Name12Optionalbartworks/gt.bwMetaGeneratedcell~56bartworks/gt.bwMetaGeneratedcell~56 Name4gregtech/gt.metaitem.01~30720gregtech/gt.metaitem.01~30720 Name2Retrievalbartworks/gt.bwMetaGeneratedcell~58bartworks/gt.bwMetaGeneratedcell~58 Name4bartworks/gt.bwMetaGenerateddust~57bartworks/gt.bwMetaGenerateddust~57 Name14
+Make Sodium Formate, then the Formic Acid.1-1ANDpre23081bartworks/gt.bwMetaGenerateddust-55.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5IC2/itemCellEmpty-0.pngEmpty Cell
+16tasksANDOptionalgregtech/gt.metaitem.01-30674.pngCarbon Monoxide Cell\nCO
+4gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust\nNaOH
+12Optionalbartworks/gt.bwMetaGeneratedcell-56.pngSodium Formate Cell\nHCOONa\nAdded by BartWorks
+4gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
+2Retrievalbartworks/gt.bwMetaGeneratedcell-58.pngFormic Acid Cell\nCH\u2082O\u2082\nAdded by BartWorks
+4bartworks/gt.bwMetaGenerateddust-57.pngSodium Sulfate Dust\nNa\u2082SO\u2084\nAdded by BartWorks
+14

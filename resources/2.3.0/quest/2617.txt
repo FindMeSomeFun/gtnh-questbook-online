@@ -1,1 +1,6 @@
-2617Harder, Better, Faster, Stronger... Pt 1 in UHVYou can play other games you know?ANDpreRequgregtech/gt.blockmachines~19Quest Name For 26162616rewardstasksANDRetrievalgregtech/gt.metaitem.01~32596gregtech/gt.metaitem.01~32596 Name1gregtech/gt.metaitem.01~32648gregtech/gt.metaitem.01~32648 Name1gregtech/gt.metaitem.01~32638gregtech/gt.metaitem.01~32638 Name1gregtech/gt.metaitem.01~32618gregtech/gt.metaitem.01~32618 Name1gregtech/gt.metaitem.01~32658gregtech/gt.metaitem.01~32658 Name1
+gregtech/gt.metaitem.01-32658.pngHarder, Better, Faster, Stronger... Pt 1 in UHVYou can play other games you know?1-1ANDpre26161gregtech/gt.blockmachines-19.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32596.pngElectric Motor
+1gregtech/gt.metaitem.01-32648.pngElectric Piston
+1gregtech/gt.metaitem.01-32638.pngConveyor Module\n16 stacks every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32618.pngElectric Pump\n1,048,576 L/t (20,971,520 L/s) as Cover
+1gregtech/gt.metaitem.01-32658.pngRobot Arm\nCannot be used as a Cover
+1

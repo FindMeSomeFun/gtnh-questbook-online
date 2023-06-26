@@ -1,1 +1,3 @@
-1768Purchase Tier 1 MemoryI'll sell you a pair of Tier 1 Memory Chips for four Bitcoins.ANDpreRequmiscutils/itemGenericToken~0Quest Name For 17651765rewardsItemOpenComputers/item~1Item Name2tasksANDRetrievalmiscutils/itemGenericToken~0miscutils/itemGenericToken~0 Name4
+OpenComputers/item-1.pngPurchase Tier 1 MemoryI'll sell you a pair of Tier 1 Memory Chips for four Bitcoins.072000ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-1.pngMemory\nTier 1
+2tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+4

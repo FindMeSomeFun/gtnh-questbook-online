@@ -1,5 +1,13 @@
-498§2§lXP Usage?!Exploring some dungeons or fighting mobs probably gave you a lot of XP. Better use it to get iron, copper, tin or other useful dusts before you die during the next fight.
+OpenBlocks/filledbucket-0.png§2§lXP Usage?!Exploring some dungeons or fighting mobs probably gave you a lot of XP. Better use it to get iron, copper, tin or other useful dusts before you die during the next fight.
 
 Place your tank on the ground and a drain on top. Now you can fill it with XP.
 
-By the way, you discovered that while the seared tank doesn't hold much, it doesn't lose contents when broken, and full tanks can stack. I wonder if that information is useful...ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636TConstruct/Smeltery~0Quest Name For 7474rewardsItemminecraft/experience_bottle~0Item Name6minecraft/bucket~0Item Name1OpenBlocks/infoBook~0Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name5dreamcraft/item.CoinDarkWizard~0Item Name5tasksANDRetrievalTConstruct/LavaTank~0TConstruct/LavaTank~0 Name1OpenBlocks/xpdrain~0OpenBlocks/xpdrain~0 Name1minecraft/bucket~0minecraft/bucket~0 Name2
+By the way, you discovered that while the seared tank doesn't hold much, it doesn't lose contents when broken, and full tanks can stack. I wonder if that information is useful...0-1ANDpre361gregtech/gt.metatool.01-16.png740TConstruct/Smeltery-0.pngrewardsItemminecraft/experience_bottle-0.pngBottle o'' Enchanting
+6minecraft/bucket-0.pngBucket
+1OpenBlocks/infoBook-0.pngWorld Domination with OpenBlocks
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+5tasksANDRetrievalTConstruct/LavaTank-0.pngSeared Tank\nHeart of the Smeltery\nKeeps any fluids it has when harvested\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+1OpenBlocks/xpdrain-0.pngXP Drain\nGlass-Tier: HV
+1minecraft/bucket-0.pngBucket
+2

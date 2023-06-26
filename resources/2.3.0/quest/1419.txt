@@ -1,6 +1,10 @@
-1419Who Cares About a Little Cancer......when it means you don't have to strip naked to recharge your nanosuit? 
+gregtech/gt.blockmachines-892.pngWho Cares About a Little Cancer......when it means you don't have to strip naked to recharge your nanosuit? 
 The Wireless Charger will keep your armor and tools charged up without having to put them into a battery buffer. 
 
 It will charge armor and tools at the tier and below.
 
-You didn't want kids anyways...ANDpreRequIC2/itemArmorNanoChestplate~1Quest Name For 779779gregtech/gt.metaitem.01~32724Quest Name For 12471247rewardsChoicegregtech/gt.metaitem.01~32538Choice Name1enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~892gregtech/gt.blockmachines~892 Name1
+You didn't want kids anyways...0-1ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png12471gregtech/gt.metaitem.01-32724.pngrewardsChoicegregtech/gt.metaitem.01-32538.pngLarge Lithium Battery\nReusable\n1,600,000 / 1,600,000 EU - Voltage: 512\nHV-Tier
+1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-892.pngWireless Charger MK III\nHopefully won''t give you cancer.\nCan be locked to the owner by sneaking with a screwdriver\nCan also be locked with a lock upgrade\n3 Modes, Long-Range, Local and Mixed.\nLong-Range: Can supply 2A of power to a single player up to 2048m away.\nLocal: Can supply several Amps to each player within 60m.\nMixed: Provides both 2A of long range and 1A per player locally.\nMixed mode is more conservative of power and as a result only\nGets half the distances each singular mode gets.\nAdded by: Alkalus - [GT++]\nVoltage IN: 512 (HV)\nCapacity: 65,536 EU
+1

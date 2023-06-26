@@ -1,1 +1,8 @@
-1592Offerings in Your DreamsFor all your offerings you'll need an altar too. The spinning wheel needs it also.ANDpreRequdreamcraft/item.CoinWitchII~0Quest Name For 338338rewardsItemwitchery/altar~0Item Name6witchery/ingredient~0Item Name1witchery/arthana~0Item Name1tasksANDRetrievalwitchery/altar~0witchery/altar~0 Name6witchery/ingredient~0witchery/ingredient~0 Name1LocationDIM55DIM55 Name Retrievaldreamcraft/item.CoinWitchII~0dreamcraft/item.CoinWitchII~0 Name5
+witchery/altar-0.pngOfferings in Your DreamsFor all your offerings you'll need an altar too. The spinning wheel needs it also.0-1ANDpre3380dreamcraft/item.CoinWitchII-0.pngrewardsItemwitchery/altar-0.pngAltar
+6witchery/ingredient-0.pngCandelabra
+1witchery/arthana-0.pngArthana\n+4 Attack Damage\nDurability: 250/250
+1tasksANDConsumewitchery/altar-0.pngAltar
+6witchery/ingredient-0.pngCandelabra
+1LocationDIM/55-.pngSpirit World
+1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5

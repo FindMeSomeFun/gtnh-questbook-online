@@ -1,3 +1,6 @@
-3077§c§lMolecular Transformer, finally!If you're reading this before LuV and want to know how to make Sunnarium, check out EV or IV quests.
+gregtech/gt.blockmachines-31072.png§c§lMolecular Transformer, finally!If you're reading this before LuV and want to know how to make Sunnarium, check out EV or IV quests.
 
-§3Yes, this multi is somewhat buggy.ANDpreRequgregtech/gt.blockmachines~46Quest Name For 25992599rewardsItemenhancedlootbags/lootbag~41Item Name1Itemdreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~31072gregtech/gt.blockmachines~31072 Name1
+§3Yes, this multi is somewhat buggy.0-1ANDpre25991gregtech/gt.blockmachines-46.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDRetrievalgregtech/gt.blockmachines-31072.pngMolecular Transformer\nMachine Type: Molecular Transformer\nChanges the structure of items to produce new ones\nMaximum 1x of each bus/hatch.\nCauses: 1000 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1

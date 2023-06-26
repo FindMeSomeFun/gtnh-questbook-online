@@ -1,5 +1,21 @@
-1405§9§lHV Superconductors (512 EU/t)How about lossless 512 EU Wires? Titaniumonabariumdecacoppereikosaoxide is a superconductor wire and will transfer your energy without any loss. 
+gregtech/gt.blockmachines-2340.png§9§lHV Superconductors (512 EU/t)How about lossless 512 EU Wires? Titaniumonabariumdecacoppereikosaoxide is a superconductor wire and will transfer your energy without any loss. 
 
 You'll need Nichrome Coils and an HV Assembler.
 
-§3Whether these are worth it to save a little power or not is up to you of course.ANDpreRequgregtech/gt.blockcasings5~2Quest Name For 7979gregtech/gt.metaitem.01~11028Quest Name For 860860rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinChemistII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~2028gregtech/gt.metaitem.01~2028 Name1gregtech/gt.metaitem.01~2063gregtech/gt.metaitem.01~2063 Name9gregtech/gt.metaitem.01~2035gregtech/gt.metaitem.01~2035 Name10gregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name20Optionalgregtech/gt.metaitem.01~2988gregtech/gt.metaitem.01~2988 Name40Optionalgregtech/gt.metaitem.01~11988gregtech/gt.metaitem.01~11988 Name24Optionalgregtech/gt.blockmachines~2220gregtech/gt.blockmachines~2220 Name48Optionalgregtech/gt.blockmachines~2220gregtech/gt.blockmachines~2220 Name48gregtech/gt.blockmachines~5150gregtech/gt.blockmachines~5150 Name32gregtech/gt.metaitem.01~32612gregtech/gt.metaitem.01~32612 Name8gregtech/gt.metaitem.01~30004gregtech/gt.metaitem.01~30004 Name32Retrievalgregtech/gt.blockmachines~2340gregtech/gt.blockmachines~2340 Name48
+§3Whether these are worth it to save a little power or not is up to you of course.0-1ANDpre791gregtech/gt.blockcasings5-2.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
+1gregtech/gt.metaitem.01-2063.pngBarium Dust\nBa
+9gregtech/gt.metaitem.01-2035.pngCopper Dust\nCu
+10gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+20Optionalgregtech/gt.metaitem.01-2988.pngSuperconductor Base HV Dust\nTiBa\u2089Cu\u2081\u2080O\u2082\u2080
+40Optionalgregtech/gt.metaitem.01-11988.pngSuperconductor Base HV Ingot\nTiBa\u2089Cu\u2081\u2080O\u2082\u2080
+24Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 2\nLoss/Meter/Ampere: 8 EU-Volt
+48Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 2\nLoss/Meter/Ampere: 8 EU-Volt
+48gregtech/gt.blockmachines-5150.pngTiny Titanium Fluid Pipe\nFluid Capacity: 1,600 L/sec\nHeat Limit: 5,000 K
+32gregtech/gt.metaitem.01-32612.pngElectric Pump\n512 L/t (10,240 L/s) as Cover
+8gregtech/gt.metaitem.01-30004.pngHelium Cell\nHe
+32Retrievalgregtech/gt.blockmachines-2340.png1x Superconductor HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 6\nLoss/Meter/Ampere: 0 EU-Volt
+48

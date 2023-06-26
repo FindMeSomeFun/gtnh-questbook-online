@@ -1,5 +1,10 @@
-3275Liquid Cooling TowerI have started to hit the limit of the multiblock without overclocking it, so I decided to give it a liquid cooler to cool down the mechanism. This will allow it to overclock like every other multi with 2xSpeed 4xEU/t.
+IC2/upgradeModule-0.pngLiquid Cooling TowerI have started to hit the limit of the multiblock without overclocking it, so I decided to give it a liquid cooler to cool down the mechanism. This will allow it to overclock like every other multi with 2xSpeed 4xEU/t.
 
 I will need to provide some distilled water to its hatch to avoid blockage in the pipes.
 
-§3The Liquid Cooling Tower allows the Multiblock to have 2/4 OC at the cost of 10/s of distilled water when running. The hatch is placed in the center of the Liquid Cooling Tower.ANDpreRequAvaritia/Resource~6Quest Name For 26752675gregtech/gt.blockmachines~356Quest Name For 32733273rewardstasksANDRetrievalgregtech/gt.blockmachines~4431gregtech/gt.blockmachines~4431 Name1gregtech/gt.blockcasings8~10gregtech/gt.blockcasings8~10 Name1gregtech/gt.blockcasings8~12gregtech/gt.blockcasings8~12 Name1gregtech/gt.blockcasings8~4gregtech/gt.blockcasings8~4 Name1gregtech/gt.blockcasings2~15gregtech/gt.blockcasings2~15 Name1
+§3The Liquid Cooling Tower allows the Multiblock to have 2/4 OC at the cost of 10/s of distilled water when running. The hatch is placed in the center of the Liquid Cooling Tower.0-1ANDpre26751Avaritia/Resource-6.png32730gregtech/gt.blockmachines-356.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-4431.pngDamascus Steel Frame Box\nJust something you can put covers on.
+1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.blockcasings8-4.pngExtreme Engine Intake Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

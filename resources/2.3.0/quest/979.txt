@@ -1,1 +1,4 @@
-979HydrogenWant some hydrogen? Buy some!ANDpreRequgregtech/gt.metaitem.01~30001Quest Name For 550550gregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemgregtech/gt.metaitem.01~30001Item Name16tasksANDRetrievalIC2/itemCellEmpty~0IC2/itemCellEmpty~0 Name16dreamcraft/item.CoinChemist~0dreamcraft/item.CoinChemist~0 Name25
+gregtech/gt.metaitem.01-30001.pngHydrogenWant some hydrogen? Buy some!012000ANDpre5501gregtech/gt.metaitem.01-30001.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25

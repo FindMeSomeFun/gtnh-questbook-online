@@ -1,1 +1,8 @@
-887A Wizard's Staff Has a Knob on the EndJoin the core with two wand caps, a twilight forest mob drop, and screws just as for making a wand. A staff cannot be used for crafting, but holds 2.5x as much vis as a corresponding wand. It can even serve as a backup weapon for melee. While it cannot receive weapon enchantments, its damage is decent, and it does not take damage with use (no durability bar).ANDpreRequThaumcraft/WandRod~50Quest Name For 878878rewardsItemThaumcraft/WandRod~2Item Name2Thaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalThaumcraft/WandRod~50Thaumcraft/WandRod~50 Name1Thaumcraft/WandCap~0Thaumcraft/WandCap~0 Name2dreamcraft/item.LichBone~0dreamcraft/item.LichBone~0 Name2gregtech/gt.metaitem.01~27366gregtech/gt.metaitem.01~27366 Name4
+Thaumcraft/WandCasting-8.pngA Wizard's Staff Has a Knob on the EndJoin the core with two wand caps, a twilight forest mob drop, and screws just as for making a wand. A staff cannot be used for crafting, but holds 2.5x as much vis as a corresponding wand. It can even serve as a backup weapon for melee. While it cannot receive weapon enchantments, its damage is decent, and it does not take damage with use (no durability bar).0-1ANDpre8780Thaumcraft/WandRod-50.pngrewardsItemThaumcraft/WandRod-2.pngSilverwood Rod
+2Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalThaumcraft/WandRod-50.pngGreatwood Staff Core
+1Thaumcraft/WandCap-0.pngIron Cap
+2dreamcraft/item.LichBone-0.pngLich Bone
+2gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+4

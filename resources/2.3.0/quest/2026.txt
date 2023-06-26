@@ -1,4 +1,4 @@
-2026§3§lA Better Way to Find ItemsNEI has a built in search feature for finding an item stored in an inventory nearby. A Stockroom Catalog can give you a list of everything stored in your inventories.
+BiblioCraft/item.StockroomCatalog-0.png§3§lA Better Way to Find ItemsNEI has a built in search feature for finding an item stored in an inventory nearby. A Stockroom Catalog can give you a list of everything stored in your inventories.
  
 Sneak right-click a block with an inventory (a chest, bookcase, barrel, anything with an inventory) to add that inventory to the list of inventories for the catalog to keep track of.
 
@@ -18,4 +18,6 @@ Click on the small chest icons on the right hand side of each listing to open th
 
 If you want, you can craft a waypoint compass and use that to point you towards the chest. Since we have JourneyMaps and NEI, it's not really necessary.
 
-§4The Catalog seems to be a bit broken though and doesn't work well with GT items.ANDpreRequminecraft/book~0Quest Name For 10081008rewardsItemminecraft/chest~0Item Name16tasksANDRetrievalBiblioCraft/item.StockroomCatalog~0BiblioCraft/item.StockroomCatalog~0 Name1
+§4The Catalog seems to be a bit broken though and doesn't work well with GT items.0-1ANDpre10081minecraft/book-0.pngrewardsItemminecraft/chest-0.pngChest\nBurn Time: 300
+16tasksANDRetrievalBiblioCraft/item.StockroomCatalog-0.pngStockroom Catalog
+1

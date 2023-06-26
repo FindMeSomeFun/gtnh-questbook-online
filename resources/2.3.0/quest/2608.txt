@@ -1,3 +1,8 @@
-2608§c§lAdvanced SMDsTo craft circuits from the crystalprocessor series and beyond, you'll need these.
+gregtech/gt.metaitem.03-32025.png§c§lAdvanced SMDsTo craft circuits from the crystalprocessor series and beyond, you'll need these.
 
-If you use these to make a circuit tier lower than Crystal, it'll use 1/4 the amount compared to normal SMDs, and half the required time.ANDpreRequgregtech/gt.metaitem.03~32070Quest Name For 16871687rewardstasksANDRetrievalgregtech/gt.metaitem.03~32027gregtech/gt.metaitem.03~32027 Name32gregtech/gt.metaitem.03~32025gregtech/gt.metaitem.03~32025 Name64gregtech/gt.metaitem.03~32024gregtech/gt.metaitem.03~32024 Name32gregtech/gt.metaitem.03~32026gregtech/gt.metaitem.03~32026 Name32gregtech/gt.metaitem.03~32183gregtech/gt.metaitem.03~32183 Name64
+If you use these to make a circuit tier lower than Crystal, it'll use 1/4 the amount compared to normal SMDs, and half the required time.1-1ANDpre16871gregtech/gt.metaitem.03-32070.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor\nAdvanced Electronic Component
+32gregtech/gt.metaitem.03-32025.pngAdvanced SMD Diode\nAdvanced Electronic Component
+64gregtech/gt.metaitem.03-32024.pngAdvanced SMD Resistor\nAdvanced Electronic Component
+32gregtech/gt.metaitem.03-32026.pngAdvanced SMD Transistor\nAdvanced Electronic Component
+32gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor\nAdvanced Electronic Component
+64

@@ -1,1 +1,3 @@
-1780Olive SaplingsOlive trees can't be found in the overworld, so buy one with coins.ANDpreRequharvestcraft/pamappleSapling~0Quest Name For 440440rewardsItemharvestcraft/pamoliveSapling~0Item Name1tasksANDRetrievaldreamcraft/item.CoinForestry~0dreamcraft/item.CoinForestry~0 Name5
+harvestcraft/pamoliveSapling-0.pngOlive SaplingsOlive trees can't be found in the overworld, so buy one with coins.024000ANDpre4400harvestcraft/pamappleSapling-0.pngrewardsItemharvestcraft/pamoliveSapling-0.pngOlive Sapling
+1tasksANDConsumedreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+5

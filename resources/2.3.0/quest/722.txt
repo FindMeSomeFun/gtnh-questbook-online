@@ -1,1 +1,6 @@
-722Speed Up Your Plant GrowthTo speed up the growth process a bit you can use a fertilizer. You will note, however, that bone meal no longer works. A bit of ash, apatite or calcite mixed with some water in a chemical reactor will give you the fertilizer you need. Apply by hand.ANDpreRequgregtech/gt.blockmachines~421Quest Name For 543543IC2/itemCropSeed~0Quest Name For 719719rewardsChoiceIC2/blockCrop~0Choice Name32minecraft/diamond_hoe~0Choice Name1enhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalIC2/itemFertilizer~0IC2/itemFertilizer~0 Name16
+IC2/itemFertilizer-0.pngSpeed Up Your Plant GrowthTo speed up the growth process a bit you can use a fertilizer. You will note, however, that bone meal no longer works. A bit of ash, apatite or calcite mixed with some water in a chemical reactor will give you the fertilizer you need. Apply by hand.0-1ANDpre5431gregtech/gt.blockmachines-421.png7190IC2/itemCropSeed-0.pngrewardsChoiceIC2/blockCrop-0.pngCrop
+32minecraft/diamond_hoe-0.pngDiamond Hoe\nDurability: 768/768
+1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDRetrievalIC2/itemFertilizer-0.pngFertilizer
+16

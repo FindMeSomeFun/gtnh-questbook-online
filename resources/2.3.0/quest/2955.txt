@@ -1,1 +1,4 @@
-2955Naquadria IngotSmelt it with magnesium dust in an EBF.ANDpreRequbartworks/gt.bwMetaGenerateddust~10078Quest Name For 29532953rewardsItemdreamcraft/item.CoinChemistIV~0Item Name1gregtech/gt.metaitem.01~11327Item Name16tasksANDRetrievalgregtech/gt.metaitem.01~11327gregtech/gt.metaitem.01~11327 Name1
+gregtech/gt.metaitem.01-11327.pngNaquadria IngotSmelt it with magnesium dust in an EBF.1-1ANDpre29531bartworks/gt.bwMetaGenerateddust-10078.pngrewardsItemdreamcraft/item.CoinChemistIV-0.pngCoin "The Chemist 10K"
+1gregtech/gt.metaitem.01-11327.pngNaquadria Ingot\nNq*
+16tasksANDRetrievalgregtech/gt.metaitem.01-11327.pngNaquadria Ingot\nNq*
+1

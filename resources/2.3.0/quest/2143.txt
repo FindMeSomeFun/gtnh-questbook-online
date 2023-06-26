@@ -1,4 +1,4 @@
-2143§5§lChoices, ChoicesNeed a map on fuel choices? Well, we don't have that but we have suggestions. You can use Steam up to IV, but beyond MV it gets pretty painful. 
+BiblioCraft/BiblioLamp-0.png§5§lChoices, ChoicesNeed a map on fuel choices? Well, we don't have that but we have suggestions. You can use Steam up to IV, but beyond MV it gets pretty painful. 
 
 In LV you can start refining oil for either Light Fuel for a Combustion Generator or Refinery Gas for a Gas Turbine. 
 
@@ -10,4 +10,5 @@ EV introduces the Large Gas Turbine, Large Steam Turbine, Large HP Steam Turbine
 
 You can also make Nukes, or Wind and Water Kinetics.
 
-For low-power operations, or dedicated players willing to setup autocrafting, you can begin using Solar Panels at MV.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardstasksANDCheckboxcheckbox  
+For low-power operations, or dedicated players willing to setup autocrafting, you can begin using Solar Panels at MV.0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

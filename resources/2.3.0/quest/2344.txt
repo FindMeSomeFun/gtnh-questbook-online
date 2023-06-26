@@ -1,4 +1,4 @@
-2344Seer Stone or Summon the WitchesA Seer Stone is a variation of a Crystal Ball, that allows witches to communicate with one another over great distances. It is mostly used by one witch to summon other members of their coven either to help out in a fight, or to help perform a ritual. The seer stone may also be used on another player to reveal if they are afflicted by a curse.
+witchery/ingredient-94.pngSeer Stone or Summon the WitchesA Seer Stone is a variation of a Crystal Ball, that allows witches to communicate with one another over great distances. It is mostly used by one witch to summon other members of their coven either to help out in a fight, or to help perform a ritual. The seer stone may also be used on another player to reveal if they are afflicted by a curse.
 
 To summon a coven witch for aid, use the Seer Stone while held. Holding for longer summons more coven members.
 
@@ -8,4 +8,14 @@ To call the entire coven to perform a rite, start the rite normally while holdin
 
 To determine if another player is cursed, to find out if they have a coven or familiar, and how much time they can manifest for, use the Seer Stone on them when they are within 3 blocks distance. Sneak-using the stone will show the same information for the bearer of the Stone.
 
-A Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstance Oil using a Rite of Infusion.ANDpreRequwitchery/ingredient~92Quest Name For 23432343rewardsChoiceExtraUtilities/golden_lasso~0Choice Name4witchery/ingredient~40Choice Name2enhancedlootbags/lootbag~54Choice Name1Itemdreamcraft/item.CoinCookII~0Item Name1dreamcraft/item.CoinChemistII~0Item Name1dreamcraft/item.CoinWitchII~0Item Name1tasksANDOptionalwitchery/ingredient~92witchery/ingredient~92 Name1minecraft/obsidian~0minecraft/obsidian~0 Name1witchery/ingredient~93witchery/ingredient~93 Name1Retrievalwitchery/ingredient~94witchery/ingredient~94 Name1
+A Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstance Oil using a Rite of Infusion.0-1ANDpre23430witchery/ingredient-92.pngrewardsChoiceExtraUtilities/golden_lasso-0.pngGolden Lasso
+4witchery/ingredient-40.pngRedstone Soup
+2enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDOptionalwitchery/ingredient-92.pngQuartz Sphere
+1minecraft/obsidian-0.pngObsidian
+1witchery/ingredient-93.pngHappenstance Oil
+1Retrievalwitchery/ingredient-94.pngSeer Stone
+1

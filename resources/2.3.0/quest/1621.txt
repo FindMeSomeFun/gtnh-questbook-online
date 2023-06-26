@@ -1,4 +1,4 @@
-1621§c§lFluid TP for Magic-HatersHate magic (and fluid P2P), but still want to TP fluids? TT has your back with the Ender Fluid Link Cover!
+tectech/item.tm.enderfluidlinkcover-0.png§c§lFluid TP for Magic-HatersHate magic (and fluid P2P), but still want to TP fluids? TT has your back with the Ender Fluid Link Cover!
 
 Place one on a tank and open the GUI.
 Color: Links to same color.
@@ -11,4 +11,5 @@ Export: Send to attached tank.
 
 You can use multiple as inputs and/or outputs. It runs at 8000L/t.
 
-You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.ANDpreRequgregtech/gt.metaitem.01~32695Quest Name For 14901490rewardstasksANDRetrievaltectech/item.tm.enderfluidlinkcover~0tectech/item.tm.enderfluidlinkcover~0 Name2
+You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.0-1ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardstasksANDRetrievaltectech/item.tm.enderfluidlinkcover-0.pngEnder Fluid Link Cover\nTecTech: Theta Movement\nEnder-Fluid-Enables Machines!\nUse on any side of a fluid tank to link it to the Ender\nEnder Tanks so are laggy -Bot from the Chads of NH
+2

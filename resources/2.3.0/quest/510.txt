@@ -1,1 +1,4 @@
-510DiamondwareAlso known as labware. Be prepared. In order to do serious bee-work, you need stacks of diamonds. I'm not joking, stacks! Better start working on that diamond bee!ANDpreRequgendustry/GeneTemplate~0Quest Name For 515515rewardsItemdreamcraft/item.CoinBeesI~0Item Name5enhancedlootbags/lootbag~25Item Name1tasksANDRetrievalgendustry/Labware~0gendustry/Labware~0 Name256
+gendustry/Labware-0.pngDiamondwareAlso known as labware. Be prepared. In order to do serious bee-work, you need stacks of diamonds. I'm not joking, stacks! Better start working on that diamond bee!0-1ANDpre5150gendustry/GeneTemplate-0.pngrewardsItemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5enhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalgendustry/Labware-0.pngGenetics Labware
+256

@@ -1,7 +1,10 @@
-2029Bask in the currentsThe best source for hundreds of thousands of glass for...something?  I dunno, think of something interesting and impress me!
+gregtech/gt.blockmachines-862.pngBask in the currentsThe best source for hundreds of thousands of glass for...something?  I dunno, think of something interesting and impress me!
 
 The "effective" voltage for the High Current Arc furnace is one tier lower than the energy hatch. For example, with an MV tier energy hatch, it will do LV tier arc furnace recipes.
 
 This machine also does plasma arc furnace recipes.
 
-§3This multi is LuV. It also uses Thorium 232 and is generally a huge pain to make, considering how not useful it is.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416gregtech/gt.blockmachines~16Quest Name For 14931493rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDRetrievalgregtech/gt.blockmachines~862gregtech/gt.blockmachines~862 Name1miscutils/gtplusplus.blockcasings.4~3miscutils/gtplusplus.blockcasings.4~3 Name1
+§3This multi is LuV. It also uses Thorium 232 and is generally a huge pain to make, considering how not useful it is.0-1ANDpre14161gregtech/gt.blockmachines-810.png14931gregtech/gt.blockmachines-16.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.blockmachines-862.pngHigh Current Industrial Arc Furnace\nMachine Type: (Plasma/Electric) Arc Furnace\nController Block for Industrial Arc Furnace\n250% faster than using single block machines of the same voltage\nProcesses 8 items per voltage tier * W/L\nMax Size required to process Plasma recipes\nCauses: 2400 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/gtplusplus.blockcasings.4-3.pngTempered Arc Furnace Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

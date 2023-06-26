@@ -1,1 +1,6 @@
-1350Nano GogglesThe #1 product for spies and wanna-be-spies. Nano-Goggles. Don't you want one of these too? But they are sold out? Craft some!ANDpreRequIC2/itemArmorNanoChestplate~1Quest Name For 779779EMT/ElectricGogglesRevealing~1Quest Name For 13491349rewardsItemdreamcraft/item.CoinTechnicianII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1enhancedlootbags/lootbag~5Item Name1enhancedlootbags/lootbag~10Item Name1tasksANDRetrievalEMT/NanosuitGogglesRevealing~32767EMT/NanosuitGogglesRevealing~32767 Name1
+EMT/NanosuitGogglesRevealing-1-charged.pngNano GogglesThe #1 product for spies and wanna-be-spies. Nano-Goggles. Don't you want one of these too? But they are sold out? Craft some!0-1ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png13490EMT/ElectricGogglesRevealing-1-charged.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalEMT/NanosuitGogglesRevealing-32767.pngNanosuit Goggles of Revealing\nPower Tier: 3\nVis Discount: 6%\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1

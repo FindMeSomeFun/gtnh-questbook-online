@@ -1,5 +1,16 @@
-1089Hearty BreakfastNow let's combine all the things together and make a healthy and delicious breakfast.
+harvestcraft/heartybreakfastItem-0.pngHearty BreakfastNow let's combine all the things together and make a healthy and delicious breakfast.
 
 Some cooked meat, potato cakes, toast, fried egg and a tasty juice provide you with a very nourishing meal.
 
-You can use any cooked meat and any fruit juice here.ANDpreRequharvestcraft/toastItem~0Quest Name For 638638harvestcraft/strawberryjuiceItem~0Quest Name For 10861086harvestcraft/potatocakesItem~0Quest Name For 10871087harvestcraft/friedeggItem~0Quest Name For 10881088rewardsChoiceharvestcraft/friedeggItem~0Choice Name4harvestcraft/potatocakesItem~0Choice Name4harvestcraft/toastItem~0Choice Name4enhancedlootbags/lootbag~29Choice Name1Itemdreamcraft/item.CoinCook~0Item Name50tasksANDOptionalminecraft/cooked_porkchop~0minecraft/cooked_porkchop~0 Name1harvestcraft/potatocakesItem~0harvestcraft/potatocakesItem~0 Name1harvestcraft/friedeggItem~0harvestcraft/friedeggItem~0 Name1harvestcraft/toastItem~0harvestcraft/toastItem~0 Name1harvestcraft/applejuiceItem~0harvestcraft/applejuiceItem~0 Name1Retrievalharvestcraft/heartybreakfastItem~0harvestcraft/heartybreakfastItem~0 Name1
+You can use any cooked meat and any fruit juice here.0-1ANDpre6380harvestcraft/toastItem-0.png10860harvestcraft/strawberryjuiceItem-0.png10870harvestcraft/potatocakesItem-0.png10880harvestcraft/friedeggItem-0.pngrewardsChoiceharvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem\nDiminishing returns start after\neating any food 10 more times
+4harvestcraft/potatocakesItem-0.pngPotato Cakes\nharvestcraft:potatocakesItem\nDiminishing returns start after\neating any food 10 more times
+4harvestcraft/toastItem-0.pngToast\nharvestcraft:toastItem\nDiminishing returns start after\neating any food 10 more times
+4enhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+50tasksANDOptionalminecraft/cooked_porkchop-0.pngCooked Porkchop\nminecraft:cooked_porkchop\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/potatocakesItem-0.pngPotato Cakes\nharvestcraft:potatocakesItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/toastItem-0.pngToast\nharvestcraft:toastItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/applejuiceItem-0.pngApple Juice\nharvestcraft:applejuiceItem\nDiminishing returns start after\neating any food 10 more times
+1Retrievalharvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem\nDiminishing returns start after\neating any food 10 more times
+1

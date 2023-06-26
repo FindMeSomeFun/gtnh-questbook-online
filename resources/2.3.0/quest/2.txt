@@ -1,3 +1,8 @@
-2§1§lSticks 'n StonesThis book has a built-in reading light, lucky you! You can read about quests while you're waiting for the night to be over, but for now, you may want to get the basics done. If it isn't dark already, go out and collect some gravel and wood. Keep in mind that you need food, so look for Pam's Harvestcraft gardens. (And save some of the vegetables for seeds!)
+minecraft/gravel-0.png§1§lSticks 'n StonesThis book has a built-in reading light, lucky you! You can read about quests while you're waiting for the night to be over, but for now, you may want to get the basics done. If it isn't dark already, go out and collect some gravel and wood. Keep in mind that you need food, so look for Pam's Harvestcraft gardens. (And save some of the vegetables for seeds!)
 
-§3If you haven't already, make sure to read the info quests linked from the first quest when you can, they have important info!ANDpreRequminecraft/wheat~0Quest Name For 00rewardsItemminecraft/torch~0Item Name1Itemdreamcraft/item.CoinSurvivor~0Item Name5tasksANDRetrievalminecraft/gravel~0minecraft/gravel~0 Name9minecraft/log~0minecraft/log~0 Name5Retrievalminecraft/log~0minecraft/log~0 Name2
+§3If you haven't already, make sure to read the info quests linked from the first quest when you can, they have important info!1-1ANDpre01minecraft/wheat-0.pngrewardsItemminecraft/torch-0.pngTorch
+1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+5tasksANDRetrievalminecraft/gravel-0.pngGravel
+9minecraft/log-0.pngOak Wood\nBurn Time: 300
+5Consumeminecraft/log-0.pngOak Wood\nBurn Time: 300
+2

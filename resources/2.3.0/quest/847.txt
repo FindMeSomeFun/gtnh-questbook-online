@@ -1,6 +1,12 @@
-847§6§lEthyleneYou can make ethylene several different ways
+gregtech/gt.metaitem.01-30677.png§6§lEthyleneYou can make ethylene several different ways
 
 - Ethanol and sulfuric acid in a Chemical Reactor 
 - Ethanol in a Chemical Dehydrator
 - Distilling various gases (i.e. wood gas) in a Distillery
-- Cracking Naphtha, fuels or refinery gas with hydrogen or steam in the Chemical Reactor will work too. Check NEI or the Game Mechanics Spreadsheet at http://bit.ly/gtnh-datasheets for detailsORpreRequgregtech/gt.blockmachines~12Quest Name For 11481148gregtech/gt.blockmachines~422Quest Name For 17441744rewardsChoiceIC2/itemBiochaff~0Choice Name32IC2/itemCellEmpty~0Choice Name64gregtech/gt.metaitem.01~2874Choice Name8enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~30677gregtech/gt.metaitem.01~30677 Name4
+- Cracking Naphtha, fuels or refinery gas with hydrogen or steam in the Chemical Reactor will work too. Check NEI or the Game Mechanics Spreadsheet at http://bit.ly/gtnh-datasheets for details1-1ORpre11481gregtech/gt.blockmachines-12.png17440gregtech/gt.blockmachines-422.pngrewardsChoiceIC2/itemBiochaff-0.pngBio Chaff
+32IC2/itemCellEmpty-0.pngEmpty Cell
+64gregtech/gt.metaitem.01-2874.pngPolyethylene Pulp\nCH\u2082
+8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-30677.pngEthylene Cell\nC\u2082H\u2084
+4

@@ -1,1 +1,5 @@
-112Cart Modules: Wood CutterThe basic wood cutter will break after a while, but you never have to replace it. It can easily be repaired with diamonds.ANDpreRequStevesCarts/CartModule~38Quest Name For 111111rewardsItemminecraft/diamond~0Item Name1Itemdreamcraft/item.CoinForestry~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalStevesCarts/CartModule~15StevesCarts/CartModule~15 Name1
+StevesCarts/CartModule-15.pngCart Modules: Wood CutterThe basic wood cutter will break after a while, but you never have to replace it. It can easily be repaired with diamonds.0-1ANDpre1110StevesCarts/CartModule-38.pngrewardsItemminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalStevesCarts/CartModule-15.pngBasic Wood Cutter\nModular cost: 34\nDurability: 100%\nType: Tool
+1

@@ -1,1 +1,7 @@
-919Creeper: EvolvedNot that regular creepers are nasty enough, no. There is an evolved creeper boss! He is your key (Well he HAS a key...) to reach the next tier of planets (Asteroid Belt, Ceres, Io, Europa, Ganymede, Callisto).ANDpreRequminecraft/skull~0Quest Name For 918918rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1tasksANDLocationDIM29DIM29 Name HuntGalacticraftMars.CreeperBossGalacticraftMars.CreeperBoss Name1
+minecraft/skull-4.pngCreeper: EvolvedNot that regular creepers are nasty enough, no. There is an evolved creeper boss! He is your key (Well he HAS a key...) to reach the next tier of planets (Asteroid Belt, Ceres, Io, Europa, Ganymede, Callisto).11728000ANDpre9181minecraft/skull-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1tasksANDLocationDIM/29-.pngMars
+1Huntmobs/GalacticraftMars-CreeperBoss-.pngCreeper Boss
+1

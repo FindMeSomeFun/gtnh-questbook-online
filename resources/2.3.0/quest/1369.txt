@@ -1,3 +1,8 @@
-1369Where'd I Put That Amber?Every Thaumcraft Infused Stone vein has a bit of amber ore in it. I'm sure you have a bunch by now.
+Thaumcraft/ItemResource-6.pngWhere'd I Put That Amber?Every Thaumcraft Infused Stone vein has a bit of amber ore in it. I'm sure you have a bunch by now.
 
-§3BTW, GT tools made of amber have silk touch, if you wanted that for something, hint, hint.ANDpreRequThaumcraft/ItemResource~1Quest Name For 255255rewardsItemThaumcraft/ItemResource~1Item Name1enhancedlootbags/lootbag~9Item Name1Itemdreamcraft/item.CoinAdventure~0Item Name25dreamcraft/item.CoinDarkWizard~0Item Name25tasksANDRetrievalThaumcraft/ItemResource~6Thaumcraft/ItemResource~6 Name16
+§3BTW, GT tools made of amber have silk touch, if you wanted that for something, hint, hint.0-1ANDpre2551Thaumcraft/ItemResource-1.pngrewardsItemThaumcraft/ItemResource-1.pngNitor
+1enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25tasksANDRetrievalThaumcraft/ItemResource-6.pngAmber
+16

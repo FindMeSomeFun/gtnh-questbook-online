@@ -1,3 +1,8 @@
-1813§9§lChloroformThe next step is to mix methane and chlorine to make chloroform. Make sure you have your circuit set correctly.
+gregtech/gt.metaitem.01-30668.png§9§lChloroformThe next step is to mix methane and chlorine to make chloroform. Make sure you have your circuit set correctly.
 
-Now is probably a good time to look at stockpiling chlorine. Look for salt ores, or lapis veins. You can also make salt water with ghast tears. Better get started with IC2 crops, you'll need a lot of chlorine later!ANDpreRequgregtech/gt.metaitem.01~30667Quest Name For 18121812rewardsItemgregtech/gt.blockores~944Item Name64Itemdreamcraft/item.CoinChemistII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~30715gregtech/gt.metaitem.01~30715 Name24gregtech/gt.metaitem.01~30023gregtech/gt.metaitem.01~30023 Name144Retrievalgregtech/gt.metaitem.01~30668gregtech/gt.metaitem.01~30668 Name24
+Now is probably a good time to look at stockpiling chlorine. Look for salt ores, or lapis veins. You can also make salt water with ghast tears. Better get started with IC2 crops, you'll need a lot of chlorine later!1-1ANDpre18121gregtech/gt.metaitem.01-30667.pngrewardsItemgregtech/gt.blockores-944.pngRock Salt Ore\nKCl
+64Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-30715.pngMethane Cell\nCH\u2084
+24gregtech/gt.metaitem.01-30023.pngChlorine Cell\nCl
+144Retrievalgregtech/gt.metaitem.01-30668.pngChloroform Cell\nCHCl\u2083
+24

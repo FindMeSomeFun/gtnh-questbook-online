@@ -1,1 +1,15 @@
-1597More Power Now!The Dream Weaver of Intensity has two effects, firstly it will add a very short night vision effect (or blindness if corrupted by a nightmare) to a player when they wake up from a good nights sleep. Secondly, it will intensify all other nearby dream weavers so that they have either a stronger (but shorter lasting) effect or their duration is increased.ANDpreRequwitchery/ingredient~96Quest Name For 15841584rewardsItemwitchery/somniancotton~0Item Name8witchery/ingredient~99Item Name8enhancedlootbags/lootbag~55Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinWitchII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDOptionalwitchery/ingredient~101witchery/ingredient~101 Name1witchery/ingredient~100witchery/ingredient~100 Name2minecraft/item_frame~0minecraft/item_frame~0 Name1minecraft/feather~0minecraft/feather~0 Name2witchery/ingredient~96witchery/ingredient~96 Name1witchery/ingredient~95witchery/ingredient~95 Name1witchery/ingredient~29witchery/ingredient~29 Name1Retrievalwitchery/ingredient~104witchery/ingredient~104 Name1
+witchery/ingredient-5.pngMore Power Now!The Dream Weaver of Intensity has two effects, firstly it will add a very short night vision effect (or blindness if corrupted by a nightmare) to a player when they wake up from a good nights sleep. Secondly, it will intensify all other nearby dream weavers so that they have either a stronger (but shorter lasting) effect or their duration is increased.0-1ANDpre15840witchery/ingredient-96.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+8witchery/ingredient-99.pngDisturbed Cotton
+8enhancedlootbags/lootbag-55.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
+1witchery/ingredient-100.pngFanciful Thread
+2minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2witchery/ingredient-96.pngBrew of Flowing Spirit
+1witchery/ingredient-95.pngBrew of Sleeping
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-104.pngDream Weaver of Intensity
+1

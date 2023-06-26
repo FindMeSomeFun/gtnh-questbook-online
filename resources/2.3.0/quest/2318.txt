@@ -1,1 +1,7 @@
-2318§b§lRutheniumThe final step to get Ruthenium is to react it with Hydrochloric Acid and you're done. You also get some Chlorine and Water.ANDpreRequbartworks/gt.bwMetaGenerateddust~66Quest Name For 28842884rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGenerateddust~66bartworks/gt.bwMetaGenerateddust~66 Name14gregtech/gt.metaitem.01~30683gregtech/gt.metaitem.01~30683 Name84Retrievalbartworks/gt.bwMetaGenerateddust~64bartworks/gt.bwMetaGenerateddust~64 Name14gregtech/gt.metaitem.01~30023gregtech/gt.metaitem.01~30023 Name84IC2/itemCellEmpty~1IC2/itemCellEmpty~1 Name28
+bartworks/gt.bwMetaGenerateddust-64.png§b§lRutheniumThe final step to get Ruthenium is to react it with Hydrochloric Acid and you're done. You also get some Chlorine and Water.1-1ANDpre28841bartworks/gt.bwMetaGenerateddust-66.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-66.pngRuthenium Tetroxide Dust\nRuO\u2084\nAdded by BartWorks
+14gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+84Retrievalbartworks/gt.bwMetaGenerateddust-64.pngRuthenium Dust\nRu\nAdded by BartWorks
+14gregtech/gt.metaitem.01-30023.pngChlorine Cell\nCl
+84IC2/itemCellEmpty-1.pngWater Cell
+28

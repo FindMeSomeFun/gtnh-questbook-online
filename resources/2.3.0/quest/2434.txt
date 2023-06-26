@@ -1,1 +1,4 @@
-2434Tin Ore exchangeYou can exchange your Stack of GT Tin Ore for IC2 Tin Ore.ANDpreRequgregtech/gt.metaitem.01~11057Quest Name For 3131rewardsItemIC2/blockOreTin~0Item Name64tasksANDRetrievaldreamcraft/item.CoinSmith~0dreamcraft/item.CoinSmith~0 Name50gregtech/gt.blockores~57gregtech/gt.blockores~57 Name64
+IC2/blockOreTin-0.pngTin Ore exchangeYou can exchange your Stack of GT Tin Ore for IC2 Tin Ore.024000ANDpre311gregtech/gt.metaitem.01-11057.pngrewardsItemIC2/blockOreTin-0.pngTin Ore
+64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+50gregtech/gt.blockores-57.pngTin Ore\nSn
+64

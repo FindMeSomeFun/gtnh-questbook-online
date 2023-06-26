@@ -1,1 +1,4 @@
-3268Obligatory Lava PowerThe thermalily consumes lava, but it's not quite as simple as just constantly replenishing a lava pool. There's a cooldown that you'll have to account for. Even so, it's a fairly easy flower to automate if you have a good lava source.ANDpreRequBotania/rune~2Quest Name For 32633263rewardsItemIC2/itemCellEmpty~2Item Name12dreamcraft/item.CoinFlowerII~0Item Name5tasksANDRetrievalBotania/specialFlower~0Botania/specialFlower~0 Name1
+Botania/specialFlower-0-thermalily.pngObligatory Lava PowerThe thermalily consumes lava, but it's not quite as simple as just constantly replenishing a lava pool. There's a cooldown that you'll have to account for. Even so, it's a fairly easy flower to automate if you have a good lava source.0-1ANDpre32631Botania/rune-2.pngrewardsItemIC2/itemCellEmpty-2.pngLava Cell\nBurn Time: 20000
+12dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
+5tasksANDRetrievalBotania/specialFlower-0-thermalily.pngThermalily\nGenerating Flower\nA Scarlet Rose indeed
+1

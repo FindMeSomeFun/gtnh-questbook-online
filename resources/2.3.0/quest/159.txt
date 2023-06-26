@@ -1,1 +1,6 @@
-159§6§lBurn Them. Burn Them All!Hmmm, crispy bacon. What would happen if you enable neutral mobs as targeting...?ANDpreRequopenmodularturrets/baseTierOneBlock~0Quest Name For 157157rewardsChoiceenhancedlootbags/lootbag~5Choice Name1openmodularturrets/blazingClayCraftable~0Choice Name16Itemdreamcraft/item.CoinSurvivor~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalopenmodularturrets/incendiaryTurret~0openmodularturrets/incendiaryTurret~0 Name1
+openmodularturrets/incendiaryTurret-0.png§6§lBurn Them. Burn Them All!Hmmm, crispy bacon. What would happen if you enable neutral mobs as targeting...?0-1ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1openmodularturrets/blazingClayCraftable-0.pngAmmo - Blazing Clay
+16Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalopenmodularturrets/incendiaryTurret-0.pngIncendiary Turret\n--Info--\nTier: 2\nRange (in blocks): 12\nAccuracy: Medium\nAmmo Type: Blazing Clay\nBase Minimum Tier: Tier 2 Turret Base\n--Damage Output--\nProjectile Damage: 2.5 Hearts\nAOE Radius: 5\nShots/s: 0.8\nEnergy usage per shot: 250 RF\nFlaming Disjuncture.\nGlass-Tier: HV
+1

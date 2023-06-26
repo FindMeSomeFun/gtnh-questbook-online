@@ -1,3 +1,8 @@
-990§9§lEnergetic AlloyEnergetic alloy is a new alloy from EnderIO made out of gold, conductive iron and black steel dust. Double-layer capacitors need it, as does the HV energy hatch.
+gregtech/gt.metaitem.01-11366.png§9§lEnergetic AlloyEnergetic alloy is a new alloy from EnderIO made out of gold, conductive iron and black steel dust. Double-layer capacitors need it, as does the HV energy hatch.
 
-§3The direct mixer recipe has 7 ingredients, so you need an EV mixer or a multiblock to use it. You have to use the other one for now.ANDpreRequgregtech/gt.blockcasings5~1Quest Name For 7878gregtech/gt.blockmachines~13Quest Name For 160160rewardsItemenhancedlootbags/lootbag~6Item Name1EnderIO/itemBasicCapacitor~0Item Name16Itemdreamcraft/item.CoinChemistI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~11366gregtech/gt.metaitem.01~11366 Name16
+§3The direct mixer recipe has 7 ingredients, so you need an EV mixer or a multiblock to use it. You have to use the other one for now.1-1ANDpre781gregtech/gt.blockcasings5-1.png1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+16Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-11366.pngEnergetic Alloy Ingot\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+16

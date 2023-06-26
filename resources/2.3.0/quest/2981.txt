@@ -1,4 +1,4 @@
-2981§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§lAir-FilterElectric Air Filter
+gregtech/gt.blockmachines-12020.png§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§lAir-FilterElectric Air Filter
 
 This wonderful multiblock comes in 3 versions:§9 §rT1 for LV, T2 for late HV and T3 for IV.
 
@@ -27,4 +27,17 @@ To cycle between the modes, right click on the controller with a screwdriver.
 
 To know if an Absorption Filter is present and how many remaining cycles there are, use an portable scanner on the controller.
 
-§9§rA pollution cycle lasts 10s, and the cleaning is done every second.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsChoiceenhancedlootbags/lootbag~4Choice Name3gregtech/gt.metaitem.01~32764Choice Name1dreamcraft/item.AdsorptionFilter~0Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name75tasksANDRetrievalgregtech/gt.blockmachines~12020gregtech/gt.blockmachines~12020 Name1Optionaldreamcraft/gt.blockcasingsNH~1dreamcraft/gt.blockcasingsNH~1 Name8dreamcraft/gt.blockcasingsNH~0dreamcraft/gt.blockcasingsNH~0 Name13Optionalgregtech/gt.blockmachines~71gregtech/gt.blockmachines~71 Name1gregtech/gt.blockmachines~81gregtech/gt.blockmachines~81 Name1Optionalgregtech/gt.blockmachines~90gregtech/gt.blockmachines~90 Name1gregtech/gt.blockmachines~91gregtech/gt.blockmachines~91 Name8Optionalgregtech/gt.blockmachines~41gregtech/gt.blockmachines~41 Name1Optionalgregtech/gt.metatool.01~170gregtech/gt.metatool.01~170 Name1
+§9§rA pollution cycle lasts 10s, and the cleaning is done every second.1-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+3gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84\nIf you can''t fix it with this, use more of it!
+1dreamcraft/item.AdsorptionFilter-0.pngAbsorption Filter
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+75tasksANDRetrievalgregtech/gt.blockmachines-12020.pngElectric Air Filter T1\nMachine Type: Air Filter\nController block for the Electric Air Filter T1\nNeeds a Turbine in the controller\nAdd Absorption Filter in input bus to double efficiency (30 uses per item)\nMachine tier = Maximum effective Muffler tier\nCan process 3x3 chunks\nEach muffler reduce pollution by 30.0 * bonusMultiTier * turbineEff * multiEff * Floor(2.5^effectiveTier) every second\nThe value of bonusMultiTier for this controller is: 1.0\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GTNH Coremod
+1Optionaldreamcraft/gt.blockcasingsNH-1.pngAir Filter Vent Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+8dreamcraft/gt.blockcasingsNH-0.pngAir Filter Turbine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+13Optionalgregtech/gt.blockmachines-71.pngInput Bus\nItem Input for Multiblocks\nShift + right click with screwdriver to turn Sort mode on/off\nCapacity: 4 stacks
+1gregtech/gt.blockmachines-81.pngOutput Bus\nItem Output for Multiblocks\nCapacity: 4 stacks
+1Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-91.pngMuffler Hatch\nOutputs the Pollution (Might cause ... things)\nDO NOT OBSTRUCT THE OUTPUT!\nReduces Pollution to 100%\nRecovers 0% of CO2/CO/SO2
+8Optionalgregtech/gt.blockmachines-41.pngLV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 32 (LV)\nCapacity: 768 EU
+1Optionalgregtech/gt.metatool.01-170.pngSmall Turbine\nDurability: 0 / 0\nNULL lvl 0\nTurbine Efficiency: 50.0%\nOptimal Steam flow: 50 L/t\nEnergy from Optimal Steam Flow: 12 EU/t\nTurbine Efficiency (Loose): 45%\nOptimal Steam flow (Loose): 200 L/t\nEnergy from Optimal Steam Flow (Loose): 45 EU/t\n(Superheated Steam EU values are 2x those of Steam)\nEnergy from Optimal Gas Flow: 25 EU/t\nEnergy from Optimal Plasma Flow: 1,050 EU/t\nOverflow Efficiency Tier: 1\nTurbine Rotors for your power station\n(EU/t values include efficiency and are not 100% accurate)
+1

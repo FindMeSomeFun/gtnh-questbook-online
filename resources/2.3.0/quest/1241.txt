@@ -1,3 +1,11 @@
-1241§a§lRadon LoopRadon is needed for EV emitters and sensors.
+gregtech/gt.metaitem.01-30093.png§a§lRadon LoopRadon is needed for EV emitters and sensors.
 
-If you can get some Plutonium 239 and Uranium 238, you can use the LCR recipe and just keep cycling the Plutonium around to get more.ANDpreRequgregtech/gt.blockmachines~544Quest Name For 12521252rewardsChoicegregtech/gt.metaitem.01~11028Choice Name8gregtech/gt.metaitem.03~32106Choice Name16enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~11100gregtech/gt.metaitem.01~11100 Name8gregtech/gt.metaitem.01~98gregtech/gt.metaitem.01~98 Name40IC2/itemCellEmpty~5IC2/itemCellEmpty~5 Name20Retrievalgregtech/gt.metaitem.01~30093gregtech/gt.metaitem.01~30093 Name4
+If you can get some Plutonium 239 and Uranium 238, you can use the LCR recipe and just keep cycling the Plutonium around to get more.0-1ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-11100.pngPlutonium 239 Ingot\nPu
+8gregtech/gt.metaitem.01-98.pngTiny Pile of Uranium 238 Dust\nU
+40IC2/itemCellEmpty-5.pngCompressed Air Cell
+20Retrievalgregtech/gt.metaitem.01-30093.pngRadon Cell\nRn
+4

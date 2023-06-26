@@ -1,3 +1,12 @@
-1068Are You Prepared?Are you prepared for the Moon?
+minecraft/book-0-enchanted.pngAre You Prepared?Are you prepared for the Moon?
 
-If you die on the moon you will be returned to earth without your stuff. A Soulbind enchantment will keep an item with you when you die.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810rewardsChoiceminecraft/book~0Choice Name1GalacticraftCore/item.basicItem~9Choice Name16enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinSpaceII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalEnderIO/blockEnchanter~0EnderIO/blockEnchanter~0 Name1EnderIO/itemMaterial~8EnderIO/itemMaterial~8 Name1minecraft/writable_book~0minecraft/writable_book~0 Name1Retrievalminecraft/enchanted_book~0minecraft/enchanted_book~0 Name1
+If you die on the moon you will be returned to earth without your stuff. A Soulbind enchantment will keep an item with you when you die.0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceminecraft/book-0-enchanted.pngBook\nLast Stand II
+1GalacticraftCore/item.basicItem-9.pngCompressed Steel
+16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalEnderIO/blockEnchanter-0.pngEnchanter
+1EnderIO/itemMaterial-8.pngEnder Crystal
+1minecraft/writable_book-0.pngBook and Quill
+1Retrievalminecraft/enchanted_book-0.pngEnchanted Book\nSoulbound I\n  - When the player dies the item/tool/armor will be kept in the inventory and not drop on the ground.\nHold the Sneak key for Enchantment Description
+1

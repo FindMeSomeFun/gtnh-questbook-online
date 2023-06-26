@@ -1,5 +1,18 @@
-1197Fusion Reactor MKII - Bigger, Better, FusorNow that you have some Europium, put it to use by making a mkII reactor. 
+gregtech/gt.blockmachines-1194.pngFusion Reactor MKII - Bigger, Better, FusorNow that you have some Europium, put it to use by making a mkII reactor. 
 
 This one will require the same block placement, but replaces LuV casings with fusion machine casings, superconducting coil blocks with fusion coil blocks, and uses ZPM tier hatches. 
 
-This reactor can handle recipes up to 320M EU at startup. In addition, if you perform a mkI recipe on a mkII, you will overclock it. Fusion overclocking is different than normal GT. It will take 2x the power, but the recipe will go 2x faster.ANDpreRequgregtech/gt.blockmetal3~3Quest Name For 12131213gregtech/gt.metaitem.01~32676Quest Name For 26222622gregtech/gt.blockmachines~47Quest Name For 26272627gregtech/gt.metaitem.03~32162Quest Name For 26312631rewardsChoicegregtech/gt.metaitem.03~32091Choice Name4gregtech/gt.metaitem.01~32607Choice Name4gregtech/gt.metaitem.01~32616Choice Name2gregtech/gt.metaitem.01~32636Choice Name2gregtech/gt.metaitem.01~32646Choice Name2gregtech/gt.blockmachines~2420Choice Name64Itemdreamcraft/item.CoinTechnicianIII~0Item Name2tasksANDOptionalgregtech/gt.blockmachines~47gregtech/gt.blockmachines~47 Name1gregtech/gt.blockmachines~67gregtech/gt.blockmachines~67 Name1gregtech/gt.blockmachines~57gregtech/gt.blockmachines~57 Name2Optionalgregtech/gt.blockcasings4~6gregtech/gt.blockcasings4~6 Name32gregtech/gt.blockcasings4~7gregtech/gt.blockcasings4~7 Name32Retrievalgregtech/gt.blockmachines~1194gregtech/gt.blockmachines~1194 Name1
+This reactor can handle recipes up to 320M EU at startup. In addition, if you perform a mkI recipe on a mkII, you will overclock it. Fusion overclocking is different than normal GT. It will take 2x the power, but the recipe will go 2x faster.1-1ANDpre12131gregtech/gt.blockmetal3-3.png26221gregtech/gt.metaitem.01-32676.png26271gregtech/gt.blockmachines-47.png26311gregtech/gt.metaitem.03-32162.pngrewardsChoicegregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe\nA Super Circuit\nUV-Tier
+4gregtech/gt.metaitem.01-32607.pngElectric Motor
+4gregtech/gt.metaitem.01-32616.pngElectric Pump\n131,072 L/t (2,621,440 L/s) as Cover
+2gregtech/gt.metaitem.01-32636.pngConveyor Module\n4 stacks every 1/20 sec (as Cover)
+2gregtech/gt.metaitem.01-32646.pngElectric Piston
+2gregtech/gt.blockmachines-2420.png1x Superconductor ZPM Wire\nMax Voltage: 131,072 (ZPM)\nMax Amperage: 24\nLoss/Meter/Ampere: 0 EU-Volt
+64Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+2tasksANDOptionalgregtech/gt.blockmachines-47.pngZPM Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 131,072 (ZPM)\nCapacity: 1,049,088 EU
+1gregtech/gt.blockmachines-67.pngOutput Hatch\nFluid Output for Multiblocks\nCapacity: 1,024,000L\nRight click with screwdriver to restrict output\nCan be restricted to put out Items and/or Steam/No Steam/1 specific Fluid\nRestricted Output Hatches are given priority for Multiblock Fluid output
+1gregtech/gt.blockmachines-57.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 1,024,000L
+2Optionalgregtech/gt.blockcasings4-6.pngFusion Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+32gregtech/gt.blockcasings4-7.pngFusion Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+32Retrievalgregtech/gt.blockmachines-1194.pngFusion Control Computer Mark II\nMachine Type: Fusion Reactor\nIt''s over 9000!!!\nController block for the Fusion Reactor Mk II\n8192EU/t and 20M EU capacity per Energy Hatch\nIf the recipe has a startup cost greater than the\nnumber of energy hatches * cap, you can''t do it\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1

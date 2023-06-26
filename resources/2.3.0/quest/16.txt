@@ -1,3 +1,6 @@
-16§4§3§lBetter Tank... Iron TankStoring more than 16 buckets of fluid in one tank? Sure! Just make an iron tank or upgrade the Buildcraft tank.
+irontank/ironTank-0.png§4§3§lBetter Tank... Iron TankStoring more than 16 buckets of fluid in one tank? Sure! Just make an iron tank or upgrade the Buildcraft tank.
 
-Diamond tanks carry up to 64 buckets and obsidian ones are blast proof. There's even more past that, but you should probably use GT tanks or large cells instead.ANDpreRequBuildCraftFactory/tankBlock~0Quest Name For 8484rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalirontank/ironTank~0irontank/ironTank~0 Name1
+Diamond tanks carry up to 64 buckets and obsidian ones are blast proof. There's even more past that, but you should probably use GT tanks or large cells instead.0-1ANDpre840BuildCraftFactory/tankBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalirontank/ironTank-0.pngIron Tank\nGlass-Tier: HV\nStores up to 32 Buckets of one Liquid Not portable, use a dolly
+1

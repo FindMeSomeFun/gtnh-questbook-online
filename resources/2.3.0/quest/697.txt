@@ -1,3 +1,12 @@
-697§6§l2x SteelSteel production is so slow. If you got enough bricks and clay, build a second BBF. Build it attached to the first one, so they can share a wall and you will save some bricks, clay and concrete.
+gregtech/gt.metaitem.01-13305.png§6§l2x SteelSteel production is so slow. If you got enough bricks and clay, build a second BBF. Build it attached to the first one, so they can share a wall and you will save some bricks, clay and concrete.
 
-§4Note that this will generate twice as much pollution in total - consider moving them further away.ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565gregtech/gt.blockmachines~140Quest Name For 7676rewardsItemRailcraft/fuel.coke~0Item Name64enhancedlootbags/lootbag~2Item Name1Choicegregtech/gt.metaitem.01~11880Choice Name8gregtech/gt.metaitem.01~11300Choice Name16gregtech/gt.metaitem.01~11305Choice Name8Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~11305gregtech/gt.metaitem.01~11305 Name64Retrievalgregtech/gt.blockcasings4~15gregtech/gt.blockcasings4~15 Name24Retrievalgregtech/gt.blockmachines~140gregtech/gt.blockmachines~140 Name1
+§4Note that this will generate twice as much pollution in total - consider moving them further away.0-1ANDpre651gregtech/gt.metaitem.01-11305.png761gregtech/gt.blockmachines-140.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+64enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Choicegregtech/gt.metaitem.01-11880.pngRubber Bar\nC\u2085H\u2088
+8gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
+16gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+64Retrievalgregtech/gt.blockcasings4-15.pngFirebricks\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+24Retrievalgregtech/gt.blockmachines-140.pngBricked Blast Furnace\nMachine Type: Blast Furnace\nController Block for the Bricked Blast Furnace\nUsable for Steel and general Pyrometallurgy\nHas a useful interface, unlike other gregtech multis\nCauses: 200 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1

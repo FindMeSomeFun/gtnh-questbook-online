@@ -1,1 +1,6 @@
-1259Filling TanksExport bus for fluids only.ANDpreRequappliedenergistics2/item.ItemMultiPart~260Quest Name For 13061306rewardsChoicegregtech/gt.metaitem.01~17811Choice Name16gregtech/gt.metaitem.01~17526Choice Name16enhancedlootbags/lootbag~37Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalae2fc/part_fluid_export~0ae2fc/part_fluid_export~0 Name2
+ae2fc/part_fluid_export-0.pngFilling TanksExport bus for fluids only.0-1ANDpre13061appliedenergistics2/item.ItemMultiPart-260.pngrewardsChoicegregtech/gt.metaitem.01-17811.pngGlowstone Plate
+16gregtech/gt.metaitem.01-17526.pngLapis Plate\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+16enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalae2fc/part_fluid_export-0.pngME Fluid Export Bus
+2

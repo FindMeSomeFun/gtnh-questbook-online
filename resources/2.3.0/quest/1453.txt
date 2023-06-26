@@ -1,1 +1,12 @@
-1453Tier 3 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 38 tier 3 heavy duty plates out of tier 2 plates and desh plates.ANDpreRequGalacticraftMars/tile.mars~7Quest Name For 14461446rewardsChoiceGalacticraftMars/item.null~3Choice Name8gregtech/gt.metaitem.01~17884Choice Name32IC2/blockITNT~0Choice Name64enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSpaceII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGalacticraftMars/item.null~3GalacticraftMars/item.null~3 Name38gregtech/gt.metaitem.01~17884gregtech/gt.metaitem.01~17884 Name152gregtech/gt.metaitem.01~11085gregtech/gt.metaitem.01~11085 Name19Optionalgregtech/gt.metaitem.01~32464gregtech/gt.metaitem.01~32464 Name38RetrievalGalacticraftMars/item.itemBasicAsteroids~0GalacticraftMars/item.itemBasicAsteroids~0 Name38
+GalacticraftMars/item.itemBasicAsteroids-0.pngTier 3 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 38 tier 3 heavy duty plates out of tier 2 plates and desh plates.1-1ANDpre14461GalacticraftMars/tile.mars-7.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+8gregtech/gt.metaitem.01-17884.pngDesh Plate\nDe
+32IC2/blockITNT-0.pngIndustrial TNT
+64enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+38gregtech/gt.metaitem.01-17884.pngDesh Plate\nDe
+152gregtech/gt.metaitem.01-11085.pngPlatinum Ingot\nPt
+19Optionalgregtech/gt.metaitem.01-32464.pngHeavy Duty Alloy Ingot T3\nUsed to make Heavy Duty Plates T3
+38RetrievalGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+38

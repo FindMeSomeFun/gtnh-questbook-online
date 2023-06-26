@@ -1,4 +1,4 @@
-1115Moron's Guide to Better TreesForestry trees have a variety of attributes.  Once you get a tree with a useful attribute, you can breed that attribute into other tree species. This way you can get an ultimate tree that combines all the attributes you want - including the type of fruit! you can also extract the genes with Gendustry if you can make the machines.
+minecraft/book-0.pngMoron's Guide to Better TreesForestry trees have a variety of attributes.  Once you get a tree with a useful attribute, you can breed that attribute into other tree species. This way you can get an ultimate tree that combines all the attributes you want - including the type of fruit! you can also extract the genes with Gendustry if you can make the machines.
 
 IT IS RECOMMENDED YOU DO YOUR FORESTRY TREE BREEDING IN AN ENCLOSED AREA, OR UNDERGROUND. BUTTERFLIES ARE A KNOWN LAG SOURCE.
 
@@ -85,4 +85,5 @@ Use a forestry Multifarm so you don't have to break the leaf block to get the fr
 
 §bFamily§r: Tells you what family of the fruit listed under the Fruits trait is: Pomes, Prunes, Nuts or Jungle.
 
-§4When breeding these trees for quests, you will need to breed the species "pure", not a hybrid. Fortunately, that's much easier for trees. You should probably save the crossbreeding 'till after you get all the good ones.ORpreRequminecraft/sapling~4Quest Name For 21232123rewardstasksANDCheckboxcheckbox  
+§4When breeding these trees for quests, you will need to breed the species "pure", not a hybrid. Fortunately, that's much easier for trees. You should probably save the crossbreeding 'till after you get all the good ones.0-1ORpre21230minecraft/sapling-4.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

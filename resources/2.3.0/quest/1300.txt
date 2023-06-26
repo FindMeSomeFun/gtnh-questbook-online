@@ -1,5 +1,10 @@
-1300ME in the EtherAfter you link up the wireless terminal in the ME security terminal, it grants portable access to the ME network. Put it into a charger to recharge it.
+appliedenergistics2/item.ToolWirelessTerminal-0-1600000.pngME in the EtherAfter you link up the wireless terminal in the ME security terminal, it grants portable access to the ME network. Put it into a charger to recharge it.
 
 Holds 1.6m AE in its battery and drains 1 AE/t for each block you are away from the nearest ME wireless access point.
 
-Charge your Wireless Terminals (and the successors) with an EIO Wireless Charger if you don't want to wait a century for them to charge.ANDpreRequappliedenergistics2/tile.BlockSecurity~0Quest Name For 12981298appliedenergistics2/tile.BlockDenseEnergyCell~0Quest Name For 12991299rewardsChoicegregtech/gt.metaitem.01~11028Choice Name16gregtech/gt.metaitem.01~11306Choice Name32enhancedlootbags/lootbag~38Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalappliedenergistics2/item.ToolWirelessTerminal~0appliedenergistics2/item.ToolWirelessTerminal~0 Name1
+Charge your Wireless Terminals (and the successors) with an EIO Wireless Charger if you don't want to wait a century for them to charge.0-1ANDpre12980appliedenergistics2/tile.BlockSecurity-0.png12990appliedenergistics2/tile.BlockDenseEnergyCell-0-1600000.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+16gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+32enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalappliedenergistics2/item.ToolWirelessTerminal-0.pngWireless Terminal\nStored Energy: 0 AE -  0% \nAppEng.GuiITooltip.Unlinked\nDurability: 32 / 32
+1

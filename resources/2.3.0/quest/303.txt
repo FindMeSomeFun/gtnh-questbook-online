@@ -1,1 +1,5 @@
-303Pushing the LimitsRegular enchantments have a limit, like III for Fortune. Utilizing magic, you should be able to bypass that limitation, at least a tiny bit; Eventually creating enchantments like Fortune IV. It comes with limitations, but your book shall tell you more about those.ANDpreRequThaumicTinkerer/enchanter~0Quest Name For 304304rewardsChoiceThaumcraft/ItemResource~14Choice Name16Thaumcraft/ItemLootBag~2Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalthaumicbases/overchanter~0thaumicbases/overchanter~0 Name1
+thaumicbases/overchanter-0.pngPushing the LimitsRegular enchantments have a limit, like III for Fortune. Utilizing magic, you should be able to bypass that limitation, at least a tiny bit; Eventually creating enchantments like Fortune IV. It comes with limitations, but your book shall tell you more about those.0-1ANDpre3040ThaumicTinkerer/enchanter-0.pngrewardsChoiceThaumcraft/ItemResource-14.pngSalis Mundus
+16Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalthaumicbases/overchanter-0.pngOverchanting Table
+1

@@ -1,3 +1,10 @@
-1430Recycle Your Rocket and Save the EnvironmentWhy not recycle your old Tier 1 rocket to get componets for your new tier 2 rocket? Put your old rocket in an arc furnace or plasma arc furnace to get back lots of materials.
+minecraft/red_flower-0.pngRecycle Your Rocket and Save the EnvironmentWhy not recycle your old Tier 1 rocket to get componets for your new tier 2 rocket? Put your old rocket in an arc furnace or plasma arc furnace to get back lots of materials.
 
-Make sure you don't need it anymore first!ANDpreRequgregtech/gt.blockmachines~1001Quest Name For 8080GalacticraftCore/tile.moonBlock~14Quest Name For 14331433rewardsChoiceGalacticraftCore/item.heavyPlating~0Choice Name1gregtech/gt.metaitem.01~11306Choice Name8IC2/blockITNT~0Choice Name16enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.metaitem.01~32462gregtech/gt.metaitem.01~32462 Name36gregtech/gt.metaitem.01~11305gregtech/gt.metaitem.01~11305 Name64
+Make sure you don't need it anymore first!0-1ANDpre801gregtech/gt.blockmachines-1001.png14331GalacticraftCore/tile.moonBlock-14.pngrewardsChoiceGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+1gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+8IC2/blockITNT-0.pngIndustrial TNT
+16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalgregtech/gt.metaitem.01-32462.pngHeavy Duty Alloy Ingot T1\nUsed to make Heavy Duty Plates T1
+36gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+64

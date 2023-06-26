@@ -1,3 +1,8 @@
-26902-EthylanthrahydroquinoneTo make this complicated sounding chemical, combine the similarly named 2-Ethylanthraquinone and Hydrogen along with an Orange Catalyst in the Chemical Plant.
+miscutils/2Ethylanthrahydroquinone-0.png2-EthylanthrahydroquinoneTo make this complicated sounding chemical, combine the similarly named 2-Ethylanthraquinone and Hydrogen along with an Orange Catalyst in the Chemical Plant.
 
-§3You need Palladium to make the Catalyst, so keep that in mind.ANDpreRequgregtech/gt.metaitem.01~2052Quest Name For 23102310miscutils/2Ethylanthraquinone~0Quest Name For 26912691rewardstasksANDOptionalmiscutils/2Ethylanthraquinone~0miscutils/2Ethylanthraquinone~0 Name5gregtech/gt.metaitem.01~30001gregtech/gt.metaitem.01~30001 Name10miscutils/item.BasicGenericChemItem~3miscutils/item.BasicGenericChemItem~3 Name1Optionalmiscutils/2Ethylanthrahydroquinone~0miscutils/2Ethylanthrahydroquinone~0 Name5Checkboxcheckbox  
+§3You need Palladium to make the Catalyst, so keep that in mind.0-1ANDpre23101gregtech/gt.metaitem.01-2052.png26910miscutils/2Ethylanthraquinone-0.pngrewardstasksANDOptionalmiscutils/2Ethylanthraquinone-0.png2-Ethylanthraquinone Cell
+5gregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
+10miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst\nActive Reaction Agent\n50 / 50
+1Optionalmiscutils/2Ethylanthrahydroquinone-0.png2-Ethylanthrahydroquinone Cell
+5Checkboxcheckbox-.pngCheckbox
+1

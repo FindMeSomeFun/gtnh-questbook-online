@@ -1,1 +1,6 @@
-2807§9§lKinetic Water Power EVThis is the EV version, it works the same.ANDpreRequgregtech/gt.metaitem.01~11316Quest Name For 861861IC2/blockKineticGenerator~4Quest Name For 11391139rewardsChoiceenhancedlootbags/lootbag~7Choice Name1gregtech/gt.metaitem.01~32704Choice Name4gregtech/gt.metaitem.01~32603Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalcompactkineticgenerators/BlockCkg~4compactkineticgenerators/BlockCkg~4 Name1
+compactkineticgenerators/BlockCkg-4.png§9§lKinetic Water Power EVThis is the EV version, it works the same.0-1ANDpre8611gregtech/gt.metaitem.01-11316.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+4gregtech/gt.metaitem.01-32603.pngElectric Motor
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalcompactkineticgenerators/BlockCkg-4.pngLow Kinetic Water Generator\nPower Output: 0-4.0x KU/t max
+1

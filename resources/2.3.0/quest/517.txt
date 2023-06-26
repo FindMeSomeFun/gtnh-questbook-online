@@ -1,1 +1,4 @@
-517Arnie's BlenderThey say breakfast is the most important meal of the day. This machine turns raw meat into liquid protein, which is used to create bees from scratch. Which has §oabsolutely§  nothing§r to do with breakfast.ANDpreRequgendustry/Labware~0Quest Name For 510510rewardsItemenhancedlootbags/lootbag~27Item Name1Itemdreamcraft/item.CoinBeesII~0Item Name1tasksANDRetrievalgendustry/Liquifier~0gendustry/Liquifier~0 Name1
+gendustry/Liquifier-0.pngArnie's BlenderThey say breakfast is the most important meal of the day. This machine turns raw meat into liquid protein, which is used to create bees from scratch. Which has §oabsolutely§  nothing§r to do with breakfast.0-1ANDpre5100gendustry/Labware-0.pngrewardsItemenhancedlootbags/lootbag-27.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
+1tasksANDRetrievalgendustry/Liquifier-0.pngProtein Liquifier
+1

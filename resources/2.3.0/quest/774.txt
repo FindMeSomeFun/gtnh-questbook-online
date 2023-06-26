@@ -1,8 +1,15 @@
-774§6§lBio Organic MeshIf you want to save the environment you can autoclave 16 plantballs to get raw bio fiber with the following liquids:
+dreamcraft/item.BioOrganicMesh-0.png§6§lBio Organic MeshIf you want to save the environment you can autoclave 16 plantballs to get raw bio fiber with the following liquids:
 
 Biomass        33% chance
 Methanol       50% chance
 Fuel            90% chance
 Nitro-diesel 100% chance
 
-§rHowever, making carbon plates this way will require an electric blast furnace.ANDpreRequIC2/itemFuelPlantBall~0Quest Name For 731731gregtech/gt.blockmachines~571Quest Name For 771771rewardsChoicegregtech/gt.metaitem.01~30708Choice Name8gregtech/gt.metaitem.01~30709Choice Name4enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25dreamcraft/item.CoinFarmer~0Item Name25tasksANDOptionaldreamcraft/item.RawBioFiber~0dreamcraft/item.RawBioFiber~0 Name48Retrievaldreamcraft/item.BioOrganicMesh~0dreamcraft/item.BioOrganicMesh~0 Name24
+§rHowever, making carbon plates this way will require an electric blast furnace.0-1ANDpre7310IC2/itemFuelPlantBall-0.png7710gregtech/gt.blockmachines-571.pngrewardsChoicegregtech/gt.metaitem.01-30708.pngDiesel Cell
+8gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
+4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDOptionaldreamcraft/item.RawBioFiber-0.pngRaw Bio Fiber
+48Retrievaldreamcraft/item.BioOrganicMesh-0.pngBio Organic Mesh
+24

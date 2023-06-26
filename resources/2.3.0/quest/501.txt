@@ -1,1 +1,6 @@
-501Go Find Some BeesThe next thing to do: Find a few bee hives around the world. There are 11 mundane bees that can be found, of which 8 are located in the Overworld. Any kind of bee will work for this quest.ANDpreRequgregtech/gt.metatool.01~28Quest Name For 500500rewardsItemenhancedlootbags/lootbag~25Item Name1Forestry/beeCombs~0Item Name8Itemdreamcraft/item.CoinBees~0Item Name25tasksANDRetrievalForestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1Forestry/beeDroneGE~0Forestry/beeDroneGE~0 Name1
+Forestry/beePrincessGE-0-Forest.pngGo Find Some BeesThe next thing to do: Find a few bee hives around the world. There are 11 mundane bees that can be found, of which 8 are located in the Overworld. Any kind of bee will work for this quest.0-1ANDpre5000gregtech/gt.metatool.01-28.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Forestry/beeCombs-0.pngHoney Comb
+8Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDRetrievalForestry/beePrincessGE-0.pngPrincess
+1Forestry/beeDroneGE-0.pngDrone
+1

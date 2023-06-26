@@ -1,4 +1,4 @@
-2030Bate Bate ChocolateAbuela, will you teach us the chocolate song?
+gregtech/gt.blockmachines-811.pngBate Bate ChocolateAbuela, will you teach us the chocolate song?
 Con mucho gusto
 Will you sing the chocolate song with us?
 Great, sing along with Abuela!
@@ -11,4 +11,8 @@ Bate bate chocolate
 Mix your chocolate, chocolate
 Mix your chocolate, chocolate
 Bate bate chocolate
-Bate bate chocolateANDpreRequgregtech/gt.blockmachines~585Quest Name For 14101410gregtech/gt.blockmachines~810Quest Name For 14161416rewardsItemenhancedlootbags/lootbag~8Item Name1gregtech/gt.metaitem.02~32213Item Name64tasksANDRetrievalgregtech/gt.blockmachines~811gregtech/gt.blockmachines~811 Name1miscutils/gtplusplus.blockcasings.3~2miscutils/gtplusplus.blockcasings.3~2 Name1
+Bate bate chocolate0-1ANDpre14101gregtech/gt.blockmachines-585.png14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.02-32213.pngChocolate Dough\ngregtech:gt.metaitem.02\nI said don''t eat the Dough!\nDiminishing returns start after\neating any food 10 more times
+64tasksANDRetrievalgregtech/gt.blockmachines-811.pngIndustrial Mixing Machine\nMachine Type: Mixer\nController Block for the Industrial Mixer\n250% faster than using single block machines of the same voltage\nProcesses eight recipes per voltage tier\nCauses: 800 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/gtplusplus.blockcasings.3-2.pngMulti-Use Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

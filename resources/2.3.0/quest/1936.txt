@@ -1,1 +1,3 @@
-1936The Right Tool for the JobTinker's Construct has their own chisel tool variant, for converting Tinker blocks into different types. Not a lot of uses, but if you check NEI you can see what you can do.ANDpreRequTConstruct/SpeedBlock~0Quest Name For 19371937rewardsItemTConstruct/GravelOre~4Item Name4tasksANDRetrievalTConstruct/metalPattern~13TConstruct/metalPattern~13 Name1
+TConstruct/metalPattern-13.pngThe Right Tool for the JobTinker's Construct has their own chisel tool variant, for converting Tinker blocks into different types. Not a lot of uses, but if you check NEI you can see what you can do.0-1ANDpre19370TConstruct/SpeedBlock-0.pngrewardsItemTConstruct/GravelOre-4.pngAluminum Gravel Ore
+4tasksANDRetrievalTConstruct/metalPattern-13.pngChisel Head Cast\nMaterial Cost: 0.5
+1

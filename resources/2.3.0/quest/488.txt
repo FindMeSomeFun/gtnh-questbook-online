@@ -1,1 +1,12 @@
-488§2§lYou Need Them All!There are many more backpacks: Hunter, builder, forester...ANDpreRequForestry/diggerBag~0Quest Name For 487487rewardsItemminecraft/leather_helmet~0Item Name1minecraft/leather_chestplate~0Item Name1minecraft/leather_leggings~0Item Name1minecraft/leather_boots~0Item Name1Choiceenhancedlootbags/lootbag~1Choice Name2Backpack/tannedLeather~0Choice Name2harvestcraft/wovencottonItem~0Choice Name8Itemdreamcraft/item.CoinTechnician~0Item Name5tasksANDCraftingForestry/foresterBag~0Forestry/foresterBag~0 Name1CraftingForestry/hunterBag~0Forestry/hunterBag~0 Name1CraftingForestry/builderBag~0Forestry/builderBag~0 Name1
+Forestry/foresterBag-0.png§2§lYou Need Them All!There are many more backpacks: Hunter, builder, forester...0-1ANDpre4870Forestry/diggerBag-0.pngrewardsItemminecraft/leather_helmet-0.pngLeather Cap\nProtection: 1\nDurability: 55/55
+1minecraft/leather_chestplate-0.pngLeather Tunic\nProtection: 3\nDurability: 80/80
+1minecraft/leather_leggings-0.pngLeather Pants\nProtection: 2\nDurability: 75/75
+1minecraft/leather_boots-0.pngLeather Boots\nProtection: 1\nDurability: 65/65
+1Choiceenhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Backpack/tannedLeather-0.pngTanned Leather
+2harvestcraft/wovencottonItem-0.pngWoven Cotton
+8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDCraftingForestry/foresterBag-0.pngForester''s Backpack\n0/15 Slots
+1CraftingForestry/hunterBag-0.pngHunter''s Backpack\n0/15 Slots
+1CraftingForestry/builderBag-0.pngBuilder''s Backpack\n0/15 Slots
+1

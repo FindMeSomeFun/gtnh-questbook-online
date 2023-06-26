@@ -1,4 +1,4 @@
-651Electric JetpackYour first electrical jetpack. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode while holding down the jump key. When descending, remember to shut off hover mode or else you'll drain your jetpack.
+IC2/itemArmorJetpackElectric-1-charged.pngElectric JetpackYour first electrical jetpack. You need to hit the IC2 mode-switch key to toggle between normal mode and hover mode while holding down the jump key. When descending, remember to shut off hover mode or else you'll drain your jetpack.
 
 The only limitation is that you can't fly higher than Y-185.
 
@@ -6,4 +6,16 @@ For charging on the go, you can craft a charging crystal from ic2 charging compo
 
 Later on GT++ charging packs are belts that can charge everything in your inventory including armor. Check NEI for the recipe.
 
-Finally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!ANDpreRequgregtech/gt.blockmachines~1001Quest Name For 8080gregtech/gt.blockmachines~13Quest Name For 160160rewardsChoiceIC2/itemPartCircuitAdv~0Choice Name2gregtech/gt.metaitem.01~32602Choice Name1enhancedlootbags/lootbag~6Choice Name1IC2/itemBatChargeRE~1Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalIC2/itemArmorBatpack~27IC2/itemArmorBatpack~27 Name1gregtech/gt.metaitem.02~18306gregtech/gt.metaitem.02~18306 Name2gregtech/gt.metaitem.01~32602gregtech/gt.metaitem.01~32602 Name2GraviSuite/itemSimpleItem~6GraviSuite/itemSimpleItem~6 Name2IC2/itemPartCircuitAdv~0IC2/itemPartCircuitAdv~0 Name1gregtech/gt.blockmachines~1382gregtech/gt.blockmachines~1382 Name1RetrievalIC2/itemArmorJetpackElectric~32767IC2/itemArmorJetpackElectric~32767 Name1
+Finally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!0-1ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+2gregtech/gt.metaitem.01-32602.pngElectric Motor
+1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1IC2/itemBatChargeRE-1-charged.pngCharging RE Battery\nEnabled\nDurability: 26 / 27
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalIC2/itemArmorBatpack-27.pngBatPack\nPower Tier: 1\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
+2gregtech/gt.metaitem.01-32602.pngElectric Motor
+2GraviSuite/itemSimpleItem-6.pngEngine Booster
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+1gregtech/gt.blockmachines-1382.png4x Annealed Copper Wire\nMax Voltage: 128 (MV)\nMax Amperage: 4\nLoss/Meter/Ampere: 2 EU-Volt
+1RetrievalIC2/itemArmorJetpackElectric-32767.pngElectric Jetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1

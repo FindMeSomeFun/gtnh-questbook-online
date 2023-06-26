@@ -1,7 +1,16 @@
-1740§6§lDo You Hear That Engine Revving?Your old and trusty combustion engines don't quite cut it anymore, not to mention they're polluting the place. If you want to keep burning liquids, you need to build a better engine. This multiblock can produce 1A of EV voltage by default and 3A if you supply it with oxygen. However, this power doesn't come for free - you need to supply the machine with small amounts of lubricant constantly (and oxygen if you want to boost both its efficiency and output).
+gregtech/gt.blockmachines-1171.png§6§lDo You Hear That Engine Revving?Your old and trusty combustion engines don't quite cut it anymore, not to mention they're polluting the place. If you want to keep burning liquids, you need to build a better engine. This multiblock can produce 1A of EV voltage by default and 3A if you supply it with oxygen. However, this power doesn't come for free - you need to supply the machine with small amounts of lubricant constantly (and oxygen if you want to boost both its efficiency and output).
 
 You will also require 3 Input Hatches, a Muffler, and a Dynamo Hatch. Their tiers are up to you.
 
 Cetane Boosted Diesel and High Octane Gasoline (HOG) are excellent fuel sources for this engine.
 
-You will need to keep the area in front of the engine clear so it can pull enough air - not even torches.ANDpreRequgregtech/gt.metaitem.01~11028Quest Name For 860860gregtech/gt.metaitem.01~32653Quest Name For 12451245rewardsItemgregtech/gt.metaitem.01~11028Item Name24enhancedlootbags/lootbag~7Item Name3gregtech/gt.metaitem.01~30998Item Name64Itemdreamcraft/item.CoinTechnicianII~0Item Name7tasksANDOptionalgregtech/gt.blockcasings2~4gregtech/gt.blockcasings2~4 Name2gregtech/gt.blockcasings4~13gregtech/gt.blockcasings4~13 Name8gregtech/gt.blockcasings4~2gregtech/gt.blockcasings4~2 Name19gregtech/gt.blockmachines~90gregtech/gt.blockmachines~90 Name1Retrievalgregtech/gt.blockmachines~1171gregtech/gt.blockmachines~1171 Name1
+You will need to keep the area in front of the engine clear so it can pull enough air - not even torches.0-1ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+24enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+3gregtech/gt.metaitem.01-30998.pngHigh Octane Gasoline Cell
+64Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+7tasksANDOptionalgregtech/gt.blockcasings2-4.pngTitanium Gear Box Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+2gregtech/gt.blockcasings4-13.pngEngine Intake Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+8gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+19gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
+1Retrievalgregtech/gt.blockmachines-1171.pngCombustion Engine\nMachine Type: Combustion Generator\nController block for the Large Combustion Engine\nSupply Diesel Fuels and 1000L of Lubricant per hour to run\nSupply 40L/s of Oxygen to boost output (optional)\nDefault: Produces 2048EU/t at 100% fuel efficiency\nBoosted: Produces 6144EU/t at 150% fuel efficiency\nYou need to wait for it to reach 300% to output full power\nCauses: 480 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1

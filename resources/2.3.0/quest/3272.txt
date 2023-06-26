@@ -1,3 +1,19 @@
-3272Ignore the Glint in Their EyesWell this is a bad idea, but since when has that stopped you before, golems with brains, what could go wrong?
+Thaumcraft/ItemGolemPlacer-7-advanced.pngIgnore the Glint in Their EyesWell this is a bad idea, but since when has that stopped you before, golems with brains, what could go wrong?
 
-§2§b§3You only need to complete one task.ANDpreRequThaumcraft/ItemGolemPlacer~7Quest Name For 294294rewardsItemenhancedlootbags/lootbag~10Item Name1dreamcraft/item.CoinDarkWizardI~0Item Name5ChoiceThaumcraft/ItemGolemUpgrade~0Choice Name1Thaumcraft/ItemGolemUpgrade~1Choice Name1Thaumcraft/ItemGolemUpgrade~2Choice Name1Thaumcraft/ItemGolemUpgrade~3Choice Name1Thaumcraft/ItemGolemUpgrade~4Choice Name1Thaumcraft/ItemGolemUpgrade~5Choice Name1tasksORRetrievalThaumcraft/ItemGolemPlacer~0Thaumcraft/ItemGolemPlacer~0 Name1RetrievalThaumcraft/ItemGolemPlacer~1Thaumcraft/ItemGolemPlacer~1 Name1RetrievalThaumcraft/ItemGolemPlacer~2Thaumcraft/ItemGolemPlacer~2 Name1RetrievalThaumcraft/ItemGolemPlacer~3Thaumcraft/ItemGolemPlacer~3 Name1RetrievalThaumcraft/ItemGolemPlacer~4Thaumcraft/ItemGolemPlacer~4 Name1RetrievalThaumcraft/ItemGolemPlacer~5Thaumcraft/ItemGolemPlacer~5 Name1RetrievalThaumcraft/ItemGolemPlacer~6Thaumcraft/ItemGolemPlacer~6 Name1RetrievalThaumcraft/ItemGolemPlacer~7Thaumcraft/ItemGolemPlacer~7 Name1
+§2§b§3You only need to complete one task.0-1ANDpre2940Thaumcraft/ItemGolemPlacer-7.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Air\nImproves Speed
+1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Earth\nImproves Strength
+1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fire\nImproves Damage, Capacity
+1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Water\nImproves Senses, Range
+1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Order\nImproves Organization, Intellect
+1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy\nImproves Defenses, Reasoning
+1tasksORRetrievalThaumcraft/ItemGolemPlacer-0-advanced.pngStraw Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-1-advanced.pngWood Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-2-advanced.pngTallow Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-3-advanced.pngClay Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-4-advanced.pngFlesh Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-5-advanced.pngStone Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-6-advanced.pngIron Golem\nAdvanced
+1RetrievalThaumcraft/ItemGolemPlacer-7-advanced.pngThaumium Golem\nAdvanced
+1

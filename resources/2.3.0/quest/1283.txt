@@ -1,3 +1,6 @@
-1283Honey for sugar.Since honey contains a lot of sugar, it might be a good idea to get some honey.
+BiomesOPlenty/jarFilled-0.pngHoney for sugar.Since honey contains a lot of sugar, it might be a good idea to get some honey.
 
-§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect and consume it.ANDpreRequBiomesOPlenty/hive~3Quest Name For 12841284rewardsItemForestry/honeyedSlice~0Item Name8tasksORFluidfor.honeyfor.honey Name1000Fluidhoneyhoney Name1000
+§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect and consume it.0-1ANDpre12840BiomesOPlenty/hive-3.pngrewardsItemForestry/honeyedSlice-0.pngHoneyed Slice\nForestry:honeyedSlice\nDiminishing returns start after\neating any food 10 more times
+8tasksORFluidfluids/for-honey-.pngHoney
+1000Fluidfluids/honey-.pngHoney
+1000

@@ -1,4 +1,13 @@
-1753What Did the Data Say to the CPU?Cache me outside.
+OpenComputers/item-29.pngWhat Did the Data Say to the CPU?Cache me outside.
 
 Your CPU will essentially be how fast your computer processes data. 
-A stronger CPU = A faster computer.ANDpreRequOpenComputers/item~54Quest Name For 17591759rewardsChoiceOpenComputers/item~28Choice Name2enhancedlootbags/lootbag~46Choice Name1OpenComputers/item~33Choice Name4Itemmiscutils/itemGenericToken~0Item Name2tasksANDOptionalOpenComputers/item~27OpenComputers/item~27 Name8OpenComputers/item~28OpenComputers/item~28 Name1gregtech/gt.metaitem.01~32702gregtech/gt.metaitem.01~32702 Name1gregtech/gt.metaitem.02~18019gregtech/gt.metaitem.02~18019 Name1RetrievalOpenComputers/item~29OpenComputers/item~29 Name1
+A stronger CPU = A faster computer.0-1ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-28.pngControl Unit
+2enhancedlootbags/lootbag-46.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1OpenComputers/item-33.pngCard Base
+4Itemmiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+2tasksANDOptionalOpenComputers/item-27.pngArithmetic Logic Unit
+8OpenComputers/item-28.pngControl Unit
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
+1gregtech/gt.metaitem.02-18019.pngAluminium Casing\nAl
+1RetrievalOpenComputers/item-29.pngCentral Processing Unit\nTier 1
+1

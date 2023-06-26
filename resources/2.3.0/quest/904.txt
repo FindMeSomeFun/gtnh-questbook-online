@@ -1,1 +1,6 @@
-904Who Ya Gonna Call?Phantom Busters! Or wait... Ah whatever. They drop good armor by the way.ANDpreRequTwilightForest/item.trophy~0Quest Name For 900900rewardsItemThaumcraft/ItemLootBag~1Item Name2Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5dreamcraft/item.CoinAdventureII~0Item Name5tasksANDHuntTwilightForest.Knight PhantomTwilightForest.Knight Phantom Name1
+TwilightForest/item.phantomHelm-0.pngWho Ya Gonna Call?Phantom Busters! Or wait... Ah whatever. They drop good armor by the way.0864000ANDpre9000TwilightForest/item.trophy-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+2Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+5tasksANDHuntmobs/TwilightForest-Knight Phantom-.pngKnight Phantom
+1

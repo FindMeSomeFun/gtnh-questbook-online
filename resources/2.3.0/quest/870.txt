@@ -1,3 +1,9 @@
-870§6§lSmelt All the Things...Smelting up to nine items at once sound nice? With a bit of steel you can make a railcraft Steam Oven. 2x2x2
+Railcraft/machine.alpha-3.png§6§lSmelt All the Things...Smelting up to nine items at once sound nice? With a bit of steel you can make a railcraft Steam Oven. 2x2x2
 
-Hint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.ANDpreRequgregtech/gt.metaitem.01~11305Quest Name For 6565rewardsItemenhancedlootbags/lootbag~2Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalgregtech/gt.blockmachines~104gregtech/gt.blockmachines~104 Name2Railcraft/machine.beta~4Railcraft/machine.beta~4 Name8gregtech/gt.blockcasings3~14gregtech/gt.blockcasings3~14 Name8RetrievalRailcraft/machine.alpha~3Railcraft/machine.alpha~3 Name8
+Hint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.0-1ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalgregtech/gt.blockmachines-104.pngHigh Pressure Furnace\nSmelting things with compressed Steam
+2Railcraft/machine.beta-4.pngHigh Pressure Boiler Tank\nMulti-Block: Variable Size, Above Firebox\nDimensions: 1x1x1, 2x2x2, 2x3x2,\n3x2x3, 3x3x3, 3x4x3\nProduces up to 40L of Steam per tick\nMobs cannot Spawn on this Block
+8gregtech/gt.blockcasings3-14.pngSteel Firebox Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+8RetrievalRailcraft/machine.alpha-3.pngSteam Oven\nMulti-Block: 2x2x2\nMobs cannot Spawn on this Block
+8

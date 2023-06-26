@@ -1,1 +1,5 @@
-2315§b§lClass, Concentrate!Your Acidic Osmium solution is way too weak to precipitate out Osmium. Go and distill it in a DT to get a more concentrated variant of it.ANDpreRequbartworks/gt.bwMetaGeneratedcell~72Quest Name For 23122312rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~72bartworks/gt.bwMetaGeneratedcell~72 Name10Retrievalbartworks/gt.bwMetaGeneratedcell~74bartworks/gt.bwMetaGeneratedcell~74 Name1IC2/itemCellEmpty~1IC2/itemCellEmpty~1 Name9
+bartworks/gt.bwMetaGeneratedcell-74.png§b§lClass, Concentrate!Your Acidic Osmium solution is way too weak to precipitate out Osmium. Go and distill it in a DT to get a more concentrated variant of it.1-1ANDpre23121bartworks/gt.bwMetaGeneratedcell-72.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-72.pngAcidic Osmium Solution Cell\n???\nAdded by BartWorks
+10Retrievalbartworks/gt.bwMetaGeneratedcell-74.pngOsmium Solution Cell\n???\nAdded by BartWorks
+1IC2/itemCellEmpty-1.pngWater Cell
+9

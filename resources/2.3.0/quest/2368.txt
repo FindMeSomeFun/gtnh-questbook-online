@@ -1,4 +1,4 @@
-2368CharmsCharms are player enchantments, used and crafted in the Charm Pouch.
+HardcoreEnderExpansion/charm_pouch-0.pngCharmsCharms are player enchantments, used and crafted in the Charm Pouch.
 If you are lucky you may find a pouch in the Dungeons.
 
 This magical pouch allows creating, holding and activating Charms.
@@ -6,4 +6,13 @@ This magical pouch allows creating, holding and activating Charms.
 Sneaking and using the pouch activates or deactives the Charms.
 
 Only one pouch can be active at a time.
-ANDpreRequHardcoreEnderExpansion/rune~0Quest Name For 23672367rewardsChoiceHardcoreEnderExpansion/charm~2Choice Name1HardcoreEnderExpansion/charm~11Choice Name1HardcoreEnderExpansion/charm~8Choice Name1HardcoreEnderExpansion/charm~18Choice Name1HardcoreEnderExpansion/charm~5Choice Name1enhancedlootbags/lootbag~58Choice Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name5dreamcraft/item.CoinSmithII~0Item Name5tasksANDRetrievalHardcoreEnderExpansion/charm_pouch~0HardcoreEnderExpansion/charm_pouch~0 Name1
+0-1ANDpre23670HardcoreEnderExpansion/rune-0.pngrewardsChoiceHardcoreEnderExpansion/charm-2.pngCharm of Power\n+60% damage
+1HardcoreEnderExpansion/charm-11.pngCharm of Defense\n-30% damage taken
+1HardcoreEnderExpansion/charm-8.pngCharm of Vigor\n+55% health regeneration speed
+1HardcoreEnderExpansion/charm-18.pngCharm of Equality\n+8% damage\n+5% speed\n+6% health regeneration speed\n-3% damage taken\n+3% experience
+1HardcoreEnderExpansion/charm-5.pngCharm of Agility\n+40% speed
+1enhancedlootbags/lootbag-58-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouch\nInactive
+1

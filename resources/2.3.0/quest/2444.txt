@@ -1,4 +1,4 @@
-2444§5§lLong Distance Fluid PipelineWouldn't it be great if you could transport your oil from a far away oil spout or oil field by pipes to your base?
+gregtech/gt.blockmachines-2700.png§5§lLong Distance Fluid PipelineWouldn't it be great if you could transport your oil from a far away oil spout or oil field by pipes to your base?
 
 This is not a problem anymore. Connect your setup on the start and end point with a Long Distance Fluid Pipeline block. Inbetween use the associated pipe blocks - the total distance between endpoints must be more than 64 blocks apart (4 or more chunks). There can only be one start and end point per pipeline.
 
@@ -10,4 +10,9 @@ Now you only need to chunkload the start and end points and the fluid will be "t
 
 Of course, later on you'll probably use ender tanks to §oactually§r teleport the fluid, especially from other dims.
 
-This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpreRequBuildCraftEnergy/blockOil~0Quest Name For 546546rewardsItemgregtech/gt.metaitem.01~32610Item Name2irontank/goldTank~0Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~2700gregtech/gt.blockmachines~2700 Name2Retrievalgregtech/gt.block.longdistancepipe~0gregtech/gt.block.longdistancepipe~0 Name64
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.0-1ANDpre5461BuildCraftEnergy/blockOil-0.pngrewardsItemgregtech/gt.metaitem.01-32610.pngElectric Pump\n32 L/t (640 L/s) as Cover
+2irontank/goldTank-0.pngGold Tank\nGlass-Tier: HV\nStores up to 48 Buckets of one Liquid Not portable, use a dolly
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-2700.pngLong Distance Fluid Pipeline\nSends fluids over long distances
+2Retrievalgregtech/gt.block.longdistancepipe-0.pngLong Distance Fluid Pipeline Pipe\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+64

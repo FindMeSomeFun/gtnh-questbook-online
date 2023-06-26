@@ -1,7 +1,9 @@
-1497§2§lDigging DeeperNow that you know where to dig, dig all the way down to bedrock to find if there is a vein located there.
+minecraft/gold_ore-0.png§2§lDigging DeeperNow that you know where to dig, dig all the way down to bedrock to find if there is a vein located there.
 
 Now, what if you know what you want but not where to find it? Our fancy bartimaeusnek developer has added a nifty feature to NEI that shows you where to find ores! Simply look for the oreblock in NEI, and click on it for info on where to find that ore.
 
 There are many types of ores, even just for getting one material like Iron. So don't stick to only one type.
 
-You can also search small ores, but not all of them are used.ANDpreRequminecraft/iron_ore~0Quest Name For 14961496rewardsXP LevelslevelUpXP Levels1tasksANDCheckboxcheckbox  
+You can also search small ores, but not all of them are used.1-1ANDpre14961minecraft/iron_ore-0.pngrewardsXP Levelsminecraft/experience_bottle-0.pngBottle o'' Enchanting
+1tasksANDCheckboxcheckbox-.pngCheckbox
+1

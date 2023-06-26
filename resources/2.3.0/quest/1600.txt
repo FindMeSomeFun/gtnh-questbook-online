@@ -1,5 +1,10 @@
-1600Reed and ResinOne of the first useful crops you'll get is Stickreed. It's fast growing, and can produce sticky resin and sugarcane (harvest before it reaches full maturity). It's also great for crossing with other crops to raise their stats. One of the best strategies is to get these to around 20/31/10, then breed out from there. Most people will say 23/31/10, but 24+ act like weeds, so it's better to have some wiggle room.
+minecraft/reeds-0.pngReed and ResinOne of the first useful crops you'll get is Stickreed. It's fast growing, and can produce sticky resin and sugarcane (harvest before it reaches full maturity). It's also great for crossing with other crops to raise their stats. One of the best strategies is to get these to around 20/31/10, then breed out from there. Most people will say 23/31/10, but 24+ act like weeds, so it's better to have some wiggle room.
 
 I'll trade you some fertilizer for 2 stacks of each.
 
-§3PS, you don't really need rubber trees if you can get these.ANDpreRequNatura/N Crops~0Quest Name For 721721rewardsItemIC2/itemFertilizer~0Item Name256enhancedlootbags/lootbag~51Item Name1tasksANDRetrievalminecraft/reeds~0minecraft/reeds~0 Name128IC2/itemHarz~0IC2/itemHarz~0 Name128RetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name1
+§3PS, you don't really need rubber trees if you can get these.0-1ANDpre7210Natura/N Crops-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilizer
+256enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1tasksANDConsumeminecraft/reeds-0.pngSugar Canes\nBurn Time: 50
+128IC2/itemHarz-0.pngSticky Resin
+128RetrievalIC2/itemCropSeed-0.pngStickreed Seeds\nGr 0\nGa 0\nRe 0
+1

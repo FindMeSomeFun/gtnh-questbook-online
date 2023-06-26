@@ -1,4 +1,7 @@
-2031Play doh for big girls and boysI never wanna grow up, I wanna play with my mega extrusion machine.
+gregtech/gt.blockmachines-859.pngPlay doh for big girls and boysI never wanna grow up, I wanna play with my mega extrusion machine.
 And in case you didn't read the description in NEI: You can use multiple input busses with a different extruder shape in each and then throw the items to extrude into the bus with the appropriate shape.
 
-§3This multi is IV.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDRetrievalgregtech/gt.blockmachines~859gregtech/gt.blockmachines~859 Name1miscutils/gtplusplus.blockcasings.3~1miscutils/gtplusplus.blockcasings.3~1 Name1
+§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.blockmachines-859.pngIndustrial Extrusion Machine\nMachine Type: Extruder\nController Block for the Material Extruder\n250% faster than using single block machines of the same voltage\nProcesses four items per voltage tier\nExtrusion Shape for recipe goes in the Input Bus\nEach Input Bus can have a different shape!\nYou can use several input buses per multiblock\nCauses: 1000 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/gtplusplus.blockcasings.3-1.pngInconel Reinforced Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

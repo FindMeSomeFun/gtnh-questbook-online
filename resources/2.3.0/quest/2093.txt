@@ -1,4 +1,4 @@
-2093A Stim a Day Keeps the Doctor AwakeSupporting circuit boards that can hold 4 electron tubes, the Electrical Stimulator provides a variety of functions. All numbers are in percent:
+ExtraBees/alveary-4.pngA Stim a Day Keeps the Doctor AwakeSupporting circuit boards that can hold 4 electron tubes, the Electrical Stimulator provides a variety of functions. All numbers are in percent:
 
 Iron ET - Production: 150 (Max 500)
 Diamantine ET - Production: 250 (Max 1000)
@@ -10,4 +10,7 @@ Golden ET - Mutation rate: 150 (Max 500)
 Tin ET - Territory: 40 (Min 10) Prod: 90 (Min 50)
 Bronze ET - Territory: 150 (Max 500)
 
-Genetic Decay is also increased by 50% for all of them. This affects how long until ignoble bees die off, so don't worry about it if your bees are pristine.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemForestry/thermionicTubes~3Item Name8Itemenhancedlootbags/lootbag~26Item Name1tasksANDRetrievalExtraBees/alveary~4ExtraBees/alveary~4 Name1
+Genetic Decay is also increased by 50% for all of them. This affects how long until ignoble bees die off, so don't worry about it if your bees are pristine.0-1ANDpre11230Forestry/alveary-0.pngrewardsItemForestry/thermionicTubes-3.pngIron Electron Tube
+8Itemenhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalExtraBees/alveary-4.pngElectrical Stimulator
+1

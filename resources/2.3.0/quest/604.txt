@@ -1,5 +1,11 @@
-604§6§lRF BatteriesBasic Capacitor Banks are RF batteries which can store the RF power you generate. You can put many blocks together to enlarge your total battery capacity - they will merge into one battery.
+EnderIO/blockCapBank-1-charged.png§6§lRF BatteriesBasic Capacitor Banks are RF batteries which can store the RF power you generate. You can put many blocks together to enlarge your total battery capacity - they will merge into one battery.
 
 You can also change the mode of each face using your wire cutters or yeta wrench instead of the GUI. One option is a nice display of input and output RF, but it has to be taller than it is wide.
 
-These are great for interfacing with RF machines. GT wires will convert to RF, but they send a full amp packet no matter what. EnderIO machines properly accept it, but others like Genetics do not and waste most of the packet, so consider using them with any RF machine if it looks like you need it.ANDpreRequEnderIO/itemMachinePart~0Quest Name For 129129rewardsChoiceenhancedlootbags/lootbag~5Choice Name1EnderIO/itemBasicCapacitor~0Choice Name8Itemdreamcraft/item.CoinDarkWizard~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalEnderIO/itemBasicCapacitor~0EnderIO/itemBasicCapacitor~0 Name16RetrievalEnderIO/blockCapBank~1EnderIO/blockCapBank~1 Name4
+These are great for interfacing with RF machines. GT wires will convert to RF, but they send a full amp packet no matter what. EnderIO machines properly accept it, but others like Genetics do not and waste most of the packet, so consider using them with any RF machine if it looks like you need it.0-1ANDpre1290EnderIO/itemMachinePart-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+8Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+16RetrievalEnderIO/blockCapBank-1.pngBasic Capacitor Bank\n0/1,000,000 RF
+4

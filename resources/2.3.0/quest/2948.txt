@@ -1,4 +1,4 @@
-2948Large Naquadah ReactorThe multi block version of the naquadah reactor, but it is completely different from the single block ones.
+gregtech/gt.blockmachines-12732.pngLarge Naquadah ReactorThe multi block version of the naquadah reactor, but it is completely different from the single block ones.
 
 It uses liquid naquadah or excited nuclear liquid as fuel, and outputs the depleted fuel. You can see the liquid fuel infomation in NEI.
 
@@ -20,4 +20,10 @@ Note: It will consume more fuel to match the output power, unlike coolant which 
 
 It also supports §9Tec§1Tech§r's Multi-Amp Dynamo hatches and laser hatches.
 
-§3PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.ANDpreRequgregtech/gt.metaitem.01~32676Quest Name For 26222622rewardsItembartworks/gt.bwMetaGeneratedcell~10041Item Name2tasksANDOptionalgregtech/gt.blockcasings3~12gregtech/gt.blockcasings3~12 Name77gregtech/gt.blockcasings2~15gregtech/gt.blockcasings2~15 Name6GoodGenerator/MAR_Casing~0GoodGenerator/MAR_Casing~0 Name48GoodGenerator/radiationProtectionSteelFrame~0GoodGenerator/radiationProtectionSteelFrame~0 Name36Retrievalgregtech/gt.blockmachines~12732gregtech/gt.blockmachines~12732 Name1
+§3PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.0-1ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell\nAdded by Good Generator via BartWorks
+2tasksANDOptionalgregtech/gt.blockcasings3-12.pngRadiation Proof Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+77gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+6GoodGenerator/MAR_Casing-0.pngField Restriction Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+48GoodGenerator/radiationProtectionSteelFrame-0.pngRadiation Proof Steel Frame Box\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+36Retrievalgregtech/gt.blockmachines-12732.pngLarge Naquadah Reactor\nMachine Type: Naquadah Reactor\nController block for the Naquadah Reactor\nEnvironmental Friendly!\nGenerate power with the High-energy liquid.\nConsume liquid air 2400 L/s to keep running, otherwise it will void your fuel.\nInput liquid nuclear fuel or liquid naquadah fuel.\nThe reactor will explode when there are more than ONE types of fuel in the hatch!\nConsume coolant 1000 L/s to increase the efficiency:\nIC2 Coolant 105%, Super Coolant 150%, Cryotheum 275%\nConsume excited liquid to increase the output power:\nmolten caesium | 2x power | 180 L/s \nmolten uranium-235 | 3x power | 180 L/s\nmolten naquadah | 4x power | 20 L/s\nmolten Atomic Separation Catalyst | 16x power | 20 L/s\nThe structure is too complex!\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Good Generator
+1

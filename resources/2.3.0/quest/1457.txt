@@ -1,1 +1,10 @@
-1457Heavy Rocket Nose ConeEvery rocket needs a nose cone. Tier 3 rocket needs a heavy nose cone.ANDpreRequGalacticraftMars/item.itemBasicAsteroids~0Quest Name For 14531453rewardsChoiceGalacticraftMars/item.null~5Choice Name8GalacticraftMars/item.itemBasicAsteroids~6Choice Name8GalacticraftCore/item.meteoricIronIngot~1Choice Name8enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGalacticraftCore/item.noseCone~0GalacticraftCore/item.noseCone~0 Name1GalacticraftMars/item.itemBasicAsteroids~0GalacticraftMars/item.itemBasicAsteroids~0 Name4gregtech/gt.metaitem.01~27028gregtech/gt.metaitem.01~27028 Name2RetrievalGalacticraftMars/item.heavyNoseCone~0GalacticraftMars/item.heavyNoseCone~0 Name1
+GalacticraftMars/item.heavyNoseCone-0.pngHeavy Rocket Nose ConeEvery rocket needs a nose cone. Tier 3 rocket needs a heavy nose cone.1-1ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
+8GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+8GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
+8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGalacticraftCore/item.noseCone-0.pngNose Cone
+1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+4gregtech/gt.metaitem.01-27028.pngTitanium Screw\nTi
+2RetrievalGalacticraftMars/item.heavyNoseCone-0.pngHeavy Nose Cone
+1

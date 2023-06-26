@@ -1,3 +1,8 @@
-2883§b§lWhy, Bart, Why?Take your Hot Ruthenium Tetroxide Solution and distill it in a DT to get Ruthenium Tetroxide. Also, Salt and Water.
+bartworks/gt.bwMetaGeneratedcell-66.png§b§lWhy, Bart, Why?Take your Hot Ruthenium Tetroxide Solution and distill it in a DT to get Ruthenium Tetroxide. Also, Salt and Water.
 
-The amounts in this step are quite annoying unfortunately. You need to run it 5 times to get whole cell amounts.ANDpreRequbartworks/gt.bwMetaGeneratedcell~67Quest Name For 28812881rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~67bartworks/gt.bwMetaGeneratedcell~67 Name18Retrievalbartworks/gt.bwMetaGeneratedcell~66bartworks/gt.bwMetaGeneratedcell~66 Name14gregtech/gt.metaitem.01~2817gregtech/gt.metaitem.01~2817 Name12IC2/itemCellEmpty~1IC2/itemCellEmpty~1 Name3
+The amounts in this step are quite annoying unfortunately. You need to run it 5 times to get whole cell amounts.1-1ANDpre28811bartworks/gt.bwMetaGeneratedcell-67.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-67.pngHot Ruthenium Tetroxide Solution Cell\n???\nAdded by BartWorks
+18Retrievalbartworks/gt.bwMetaGeneratedcell-66.pngRuthenium Tetroxide Cell\nRuO\u2084\nAdded by BartWorks
+14gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
+12IC2/itemCellEmpty-1.pngWater Cell
+3

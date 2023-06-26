@@ -1,3 +1,8 @@
-1623Let's Get Some PipesFirst we're gonna need some pipes to connect everything. Do not use these pipes in junctions or the items will choose which path to go at random and you don't want that.
+ProjRedTransportation/projectred.transportation.pipe-0.pngLet's Get Some PipesFirst we're gonna need some pipes to connect everything. Do not use these pipes in junctions or the items will choose which path to go at random and you don't want that.
 
-§3Keep in mind PR automation is laggy, so don't use it more than the minimum you can get away with on servers, wait until AE2 for that. In SP, do what you want, but keep in mind that AE2 is way more powerful.ANDpreRequgregtech/gt.metaitem.01~32702Quest Name For 717717rewardsChoiceminecraft/glass_pane~0Choice Name16gregtech/gt.metaitem.02~22032Choice Name8enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe~0ProjRedTransportation/projectred.transportation.pipe~0 Name8
+§3Keep in mind PR automation is laggy, so don't use it more than the minimum you can get away with on servers, wait until AE2 for that. In SP, do what you want, but keep in mind that AE2 is way more powerful.0-1ANDpre7171gregtech/gt.metaitem.01-32702.pngrewardsChoiceminecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+16gregtech/gt.metaitem.02-22032.pngLong Iron Rod\nFe
+8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
+8

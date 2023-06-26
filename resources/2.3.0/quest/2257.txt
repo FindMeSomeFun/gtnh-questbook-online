@@ -1,3 +1,8 @@
-2257CoconutCoconut is King for seedoil production - 300L per nut. Breed them from Brazil Nut and Balsa.
+Forestry/sapling-0-coconut.pngCoconutCoconut is King for seedoil production - 300L per nut. Breed them from Brazil Nut and Balsa.
 
-§eCoconut and Seed Oil Get!ANDpreRequForestry/sapling~0Quest Name For 21262126Forestry/sapling~0Quest Name For 22562256rewardsItemdreamcraft/item.CoinForestry~0Item Name15enhancedlootbags/lootbag~19Item Name1tasksANDOptionalForestry/sapling~0Forestry/sapling~0 Name1Forestry/sapling~0Forestry/sapling~0 Name1RetrievalForestry/sapling~0Forestry/sapling~0 Name1
+§eCoconut and Seed Oil Get!0-1ANDpre21260Forestry/sapling-0-Balsa.png22560Forestry/sapling-0-brazilnut.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-Balsa.pngBalsa Sapling\nBurn Time: 100
+1Forestry/sapling-0-brazilnut.pngBrazil Nut Sapling\nBurn Time: 100
+1RetrievalForestry/sapling-0-coconut.pngCoconut Sapling\nBurn Time: 100
+1

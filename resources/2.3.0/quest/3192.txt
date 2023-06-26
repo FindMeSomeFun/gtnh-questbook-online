@@ -1,8 +1,10 @@
-3192Infinite TurbinesSome turbine materials are not available for you, either because you don't have the material itself or because the Dynamo Hatch in the turbine cannot handle the power output from plasma. It will be a different story in UHV, when you can once again quadruple the max output of each turbine, and also unlock Infinity as an option for turbines.
+eternalsingularity/combined_singularity-1.pngInfinite TurbinesSome turbine materials are not available for you, either because you don't have the material itself or because the Dynamo Hatch in the turbine cannot handle the power output from plasma. It will be a different story in UHV, when you can once again quadruple the max output of each turbine, and also unlock Infinity as an option for turbines.
 
 Large Infinity 270% 4,354,560 EU/t
 Large Infinity Catalyst 200% 806,400 EU/t
 
 Yes, that's basically it. You can use any material from the previous turbine quests, but when you make the t8 rocket and can mine Infinity Catalyst, these are the two options. Obviously, Infinity is much better, but also much more expensive. If you stick with fusion, you will need several of those to push through the endgame. Remember that you can input plasma beyond the optimal flow, and get more out of each turbine at the cost of fuel efficiency.
 
-Make a normal or buffered UHV dynamo to complete the quest.ANDpreRequGoodGenerator/compactFusionCoil~0Quest Name For 31883188rewardstasksORRetrievalgregtech/gt.blockmachines~39gregtech/gt.blockmachines~39 Name1Retrievalgregtech/gt.blockmachines~908gregtech/gt.blockmachines~908 Name1
+Make a normal or buffered UHV dynamo to complete the quest.0-1ANDpre31880GoodGenerator/compactFusionCoil-0.pngrewardstasksORRetrievalgregtech/gt.blockmachines-39.pngUHV Dynamo Hatch\nGenerating electric Energy from Multiblocks\nPuts out up to 1 Amp\nVoltage OUT: 2,097,152 (UHV)\nCapacity: 16,777,728 EU
+1Retrievalgregtech/gt.blockmachines-908.pngUHV Dynamo Hatch [Buffered]\nDynamo with internal storage and additional Amp capacity\nDoes not accept more than 8388608EU/t as input\nAdded by: Alkalus - [GT++]\nVoltage OUT: 2,097,152 (UHV)\nAmperage: 4\nCapacity: 17,179,869,696 EU
+1

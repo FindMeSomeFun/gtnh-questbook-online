@@ -1,3 +1,9 @@
-1226§6§lGlycerolGlycerol is a byproduct of making bio diesel, but it's really useful too. It's used to make epoxid in EV, and for making dynamite, I guess. both TNT and iTNT are better though.
+gregtech/gt.metaitem.01-30629.png§6§lGlycerolGlycerol is a byproduct of making bio diesel, but it's really useful too. It's used to make epoxid in EV, and for making dynamite, I guess. both TNT and iTNT are better though.
 
-§3PS: You don't actually need dynamite, and epoxid can be made another way, if you don't want to make bio diesel forever/at all.ANDpreRequgregtech/gt.metaitem.01~30627Quest Name For 845845rewardsChoicegregtech/gt.metaitem.01~2685Choice Name4gregtech/gt.metaitem.01~30713Choice Name16IC2/itemCellEmpty~0Choice Name32enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~30629gregtech/gt.metaitem.01~30629 Name20
+§3PS: You don't actually need dynamite, and epoxid can be made another way, if you don't want to make bio diesel forever/at all.0-1ANDpre8450gregtech/gt.metaitem.01-30627.pngrewardsChoicegregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust\nNaOH
+4gregtech/gt.metaitem.01-30713.pngSeed Oil Cell
+16IC2/itemCellEmpty-0.pngEmpty Cell
+32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-30629.pngGlycerol Cell\nC\u2083H\u2088O\u2083
+20

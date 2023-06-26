@@ -1,2 +1,5 @@
-99Bzzz... Whoom... (Defunct do not complete)Making some flawless crystals requires a precision laser engraver.
-At MV level the precision laser engraver becomes more important.ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797gregtech/gt.metaitem.01~32680Quest Name For 529529rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.blockmachines~591gregtech/gt.blockmachines~591 Name1
+gregtech/gt.blockmachines-591.pngBzzz... Whoom... (Defunct do not complete)Making some flawless crystals requires a precision laser engraver.
+At MV level the precision laser engraver becomes more important.0-1ANDpre971gregtech/gt.blockmachines-211.png5291gregtech/gt.metaitem.01-32680.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDConsumegregtech/gt.blockmachines-591.pngBasic Precision Laser Engraver\nDon''t look directly at the Laser\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1

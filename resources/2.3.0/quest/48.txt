@@ -1,3 +1,8 @@
-48§3§lA Very Important AlloyThe most important alloy (until you reach a higher tier) is undoubtedly red alloy. Fortunately, you have an alloy smelter, so grab some redstone and combine it with copper to get yourself a handful of that. 
+gregtech/gt.metaitem.01-11308.png§3§lA Very Important AlloyThe most important alloy (until you reach a higher tier) is undoubtedly red alloy. Fortunately, you have an alloy smelter, so grab some redstone and combine it with copper to get yourself a handful of that. 
 
-Don't confuse your bronze with your copper or else you'll be scratching your head.ANDpreRequgregtech/gt.blockmachines~118Quest Name For 4646rewardsChoiceenhancedlootbags/lootbag~2Choice Name1gregtech/gt.metaitem.01~11308Choice Name4Itemdreamcraft/item.CoinSmith~0Item Name15dreamcraft/item.CoinChemist~0Item Name15tasksANDRetrievalgregtech/gt.metaitem.01~11308gregtech/gt.metaitem.01~11308 Name14
+Don't confuse your bronze with your copper or else you'll be scratching your head.1-1ANDpre461gregtech/gt.blockmachines-118.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-11308.pngRed Alloy Ingot\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-11308.pngRed Alloy Ingot\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+14

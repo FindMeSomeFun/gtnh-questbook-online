@@ -1,4 +1,4 @@
-3039Dyson Swarm Ground UnitThe Dyson Swarm Ground Unit multiblock is basically a solar panel, you just insert Dyson Swarm Modules (how many depends on how much energy you want) and get energy out. There are some complications though:
+gregtech/gt.blockmachines-14001.pngDyson Swarm Ground UnitThe Dyson Swarm Ground Unit multiblock is basically a solar panel, you just insert Dyson Swarm Modules (how many depends on how much energy you want) and get energy out. There are some complications though:
 - Each second, n of m Modules are destroyed according to this formula: n=X*0.0001*m^1.05, where X is a normally distributed random number between 0 and 2 with mean 1.
 - Needs 1000 L/s of Gelid Cryotheum.
 - Requires n computation per tick according to this formula: n=0.1*m^1.075-128, where m is the amount of modules. As you can see, you get 128 computation for free! Isn't that nice?
@@ -7,4 +7,24 @@
 
 §cNote: §rThe amount of each part on the right is only the minimum, depending on how many Dynamo Hatches, Input Busses, Input Hatches and Optical Slave Connectors you use, you may need more Energy Receiver Base Casings, Module Deployment Unit Base Casings or Control Center Base Casings.
 
-§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)ANDpreRequgregtech/gt.blockmachines~2020Quest Name For 26212621bartworks/BioLabParts~0Quest Name For 27172717GalaxySpace/item.DysonSwarmParts~3Quest Name For 30383038rewardsChoiceenhancedlootbags/lootbag~43Choice Name4GalaxySpace/item.DysonSwarmParts~0Choice Name256Itemdreamcraft/item.CoinTechnicianIV~0Item Name5dreamcraft/item.CoinSpaceIV~0Item Name1tasksANDOptionalGalaxySpace/dysonswarmparts~0GalaxySpace/dysonswarmparts~0 Name53GalaxySpace/dysonswarmparts~1GalaxySpace/dysonswarmparts~1 Name81GalaxySpace/dysonswarmparts~2GalaxySpace/dysonswarmparts~2 Name62GalaxySpace/dysonswarmparts~3GalaxySpace/dysonswarmparts~3 Name1GalaxySpace/dysonswarmparts~4GalaxySpace/dysonswarmparts~4 Name32GalaxySpace/dysonswarmparts~5GalaxySpace/dysonswarmparts~5 Name115GalaxySpace/dysonswarmparts~6GalaxySpace/dysonswarmparts~6 Name20GalaxySpace/dysonswarmparts~7GalaxySpace/dysonswarmparts~7 Name12GalaxySpace/dysonswarmparts~8GalaxySpace/dysonswarmparts~8 Name128GalaxySpace/dysonswarmparts~9GalaxySpace/dysonswarmparts~9 Name255gregtech/gt.blockcasings5~8gregtech/gt.blockcasings5~8 Name9gregtech/gt.blockcasings6~10gregtech/gt.blockcasings6~10 Name1gregtech/gt.blockmachines~4124gregtech/gt.blockmachines~4124 Name16gregtech/gt.blockmachines~4470gregtech/gt.blockmachines~4470 Name23gregtech/gt.blockmachines~5081gregtech/gt.blockmachines~5081 Name64Retrievalgregtech/gt.blockmachines~14001gregtech/gt.blockmachines~14001 Name1
+§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)0-1ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+4GalaxySpace/item.DysonSwarmParts-0.pngDyson Swarm Module
+256Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
+5dreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
+1tasksANDOptionalGalaxySpace/dysonswarmparts-0.pngDyson Swarm Energy Receiver Base Casing
+53GalaxySpace/dysonswarmparts-1.pngDyson Swarm Energy Receiver Dish Block
+81GalaxySpace/dysonswarmparts-2.pngDyson Swarm Module Deployment Unit Base Casing
+62GalaxySpace/dysonswarmparts-3.pngDyson Swarm Module Deployment Unit Core
+1GalaxySpace/dysonswarmparts-4.pngDyson Swarm Module Deployment Unit Superconducting Magnet
+32GalaxySpace/dysonswarmparts-5.pngDyson Swarm Control Center Base Casing
+115GalaxySpace/dysonswarmparts-6.pngDyson Swarm Control Center Primary Windings
+20GalaxySpace/dysonswarmparts-7.pngDyson Swarm Control Center Secondary Windings
+12GalaxySpace/dysonswarmparts-8.pngDyson Swarm Control Center Toroid Casing
+128GalaxySpace/dysonswarmparts-9.pngUltra High Strength Concrete Floor\nBlast Resistance: 1500
+255gregtech/gt.blockcasings5-8.pngAwakened Draconium Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 10801 Kelvin
+9gregtech/gt.blockcasings6-10.pngHermetic Casing X\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.blockmachines-4124.pngTitanium Frame Box\nJust something you can put covers on.
+16gregtech/gt.blockmachines-4470.pngHSS-S Frame Box\nJust something you can put covers on.
+23gregtech/gt.blockmachines-5081.pngSuperconductor Base UHV Frame Box\nJust something you can put covers on.
+64Retrievalgregtech/gt.blockmachines-14001.pngDyson Swarm Ground Unit\nMachine Type: Dyson Swarm\nBasically solar panels.\nController Block for the Dyson Swarm Command Center\nPut Dyson Swarm Modules in the Input Bus(ses) to send them to the next star.\nOutputs 10,000,000*f EU/t, where f is a dimension-dependent factor.\nEach second, n of m Dyson Swarm Modules are destroyed according to this formula:\n Each hour, n of m modules are destroyed according to this formula: n = (2 * 0.001) / (exp(-0.0001* (m - 1))+exp(0.001 * cps)), where cps is computation per second.\nRequires 3,600,000L/h of Gelid Cryotheum.\nR-Click with a Plunger to extract as many Modules to your inventory as possible.\nSneaking will dump the rest on the ground.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GalaxySpace\nAuthor: glowredman
+1

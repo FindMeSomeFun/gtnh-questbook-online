@@ -1,7 +1,13 @@
-3090§6§lPrecise AssemblerPrecise Assembler has two modes: Precise mode and Normal mode.
+gregtech/gt.blockmachines-32018.png§6§lPrecise AssemblerPrecise Assembler has two modes: Precise mode and Normal mode.
 
 Precise mode is used to make some of the advanced components from Good Generator mod.
 
 Normal mode works as multiblock version of Assembler.
 
-§3You can't skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.ANDpreRequgregtech/gt.metaitem.01~2084Quest Name For 23212321gregtech/gt.blockmachines~45Quest Name For 28302830gregtech/gt.metaitem.01~2052Quest Name For 28782878rewardsItemenhancedlootbags/lootbag~8Item Name1tasksANDOptionalGoodGenerator/preciseUnitCasing~0GoodGenerator/preciseUnitCasing~0 Name42gregtech/gt.blockcasings~5gregtech/gt.blockcasings~5 Name21gregtech/gt.blockmachines~4412gregtech/gt.blockmachines~4412 Name12IC2/blockAlloyGlass~0IC2/blockAlloyGlass~0 Name42Retrievalgregtech/gt.blockmachines~32018gregtech/gt.blockmachines~32018 Name1
+§3You can't skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.1-1ANDpre23211gregtech/gt.metaitem.01-2084.png28301gregtech/gt.blockmachines-45.png28781gregtech/gt.metaitem.01-2052.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDOptionalGoodGenerator/preciseUnitCasing-0.pngPrecise Electronic Unit Casing MK-I\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+42gregtech/gt.blockcasings-5.pngIV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+21gregtech/gt.blockmachines-4412.pngTungstensteel Frame Box\nJust something you can put covers on.
+12IC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
+42Retrievalgregtech/gt.blockmachines-32018.pngPrecise Auto-Assembler MT-3662\nMachine Type: Precise Assembler/Assembler\nController block for the Precise Assembler\nThe error is no more than 7nm.\nCan assemble precise component in Precise Mode.\nCan work like a normal assembler in Normal Mode.\nUse screwdriver to change mode.\nMachine Casing and Energy Hatch limits the voltage tier the machine can work on.\nUHV Machine Casing will unlock all voltage, but you still need good Energy Hatch.\nPrecise Electronic Unit Casing won''t limit recipe in Normal Mode.\nBut gives more parallel with more advanced one.\nIt is 100% faster in Normal Mode.\nMK-I = 32x, MK-II = 64x, MK-III = 128x\nCauses: 780 pollution per second\nThe structure is too complex!\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Good Generator
+1

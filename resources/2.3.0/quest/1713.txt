@@ -1,1 +1,7 @@
-1713§9§lSimple SoC - System on a ChipSoCs or System on a Chips are used to make circuits more easily. In this case, you can use Simple SoCs to make ULV circuits more easily.ANDpreRequgregtech/gt.blockmachines~1181Quest Name For 12211221rewardsChoicegregtech/gt.metaitem.01~24514Choice Name1gregtech/gt.metaitem.01~24540Choice Name1enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalgregtech/gt.metaitem.03~32060gregtech/gt.metaitem.03~32060 Name1Retrievalgregtech/gt.metaitem.03~32061gregtech/gt.metaitem.03~32061 Name6
+gregtech/gt.metaitem.03-32061.png§9§lSimple SoC - System on a ChipSoCs or System on a Chips are used to make circuits more easily. In this case, you can use Simple SoCs to make ULV circuits more easily.0-1ANDpre12211gregtech/gt.blockmachines-1181.pngrewardsChoicegregtech/gt.metaitem.01-24514.pngAmber Lens\nC\u2081\u2080H\u2081\u2080O\u2081\u2086
+1gregtech/gt.metaitem.01-24540.pngAer Lens
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalgregtech/gt.metaitem.03-32060.pngSimple SoC Wafer\nRaw Primitive Circuit
+1Retrievalgregtech/gt.metaitem.03-32061.pngSimple SoC\nSimple System on a Chip
+6

@@ -1,3 +1,6 @@
-126§6§lElectrolyzing All the ThingsCollected a lot of dusts you can't do anything with since you started with macerating, washing and centrifuging ores? It's finally time to get all the useful materials out of them.
+gregtech/gt.blockmachines-372.png§6§lElectrolyzing All the ThingsCollected a lot of dusts you can't do anything with since you started with macerating, washing and centrifuging ores? It's finally time to get all the useful materials out of them.
 
-This machine is §overy §o§rimportant for your MV progression. If you find a biome with tons of Stained or Hardened Clay, you can process it here, plus some other machines, into Sodium, Lithium, Silicon, Aluminium and Oxygen!ANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~372gregtech/gt.blockmachines~372 Name1
+This machine is §overy §o§rimportant for your MV progression. If you find a biome with tons of Stained or Hardened Clay, you can process it here, plus some other machines, into Sodium, Lithium, Silicon, Aluminium and Oxygen!1-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-372.pngAdvanced Electrolyzer\nElectrolyzing Molecules\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

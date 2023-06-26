@@ -1,5 +1,9 @@
-3007Ammonia SourceOne of the components of Tetranitromethane is Nitric Acid, which is made from Nitrogen Dioxide, and this from Nitrogen Oxide, which is ultimately created from Ammonia. You can do a small Chemical Reactor chain to do this line of recipes, but the better option is to make an LCR and use the circuit 24 recipe to turn Ammonia and Oxygen directly into Nitric Acid.
+gregtech/gt.metaitem.01-30653.pngAmmonia SourceOne of the components of Tetranitromethane is Nitric Acid, which is made from Nitrogen Dioxide, and this from Nitrogen Oxide, which is ultimately created from Ammonia. You can do a small Chemical Reactor chain to do this line of recipes, but the better option is to make an LCR and use the circuit 24 recipe to turn Ammonia and Oxygen directly into Nitric Acid.
 
 You'll still need to automate Ammonia, though, and there are two main ways of doing this. One of the options is to create it directly from Nitrogen and Hydrogen, but this recipe consumes a lot of EU. The other option is to switch to the biological side of things and get it from the DT recipe of Fermented Biomass, but this requires a whole another setup with sapling automation, a Pyrolyse Oven and some other machines, so don't do it unless you're interested in getting the other outputs of that recipe. It, however, might be a good option if you don't have those yet. Either way, automate your Ammonia.
 
-ANDpreRequgregtech/gt.blockmachines~1112Quest Name For 30033003rewardsItemgregtech/gt.metaitem.01~30659Item Name10gregtech/gt.metaitem.01~30653Item Name10dreamcraft/item.CoinChemistII~0Item Name10tasksANDRetrievalgregtech/gt.metaitem.01~30653gregtech/gt.metaitem.01~30653 Name64
+0-1ANDpre30030gregtech/gt.blockmachines-1112.pngrewardsItemgregtech/gt.metaitem.01-30659.pngAmmonia Cell\nNH\u2083
+10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell\nHNO\u2083
+10dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+10tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell\nHNO\u2083
+64

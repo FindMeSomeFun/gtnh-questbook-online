@@ -1,4 +1,4 @@
-755§6§lBetter Than Duct TapeUsing a soldering iron tool to remove the "burned out circuits" message is cheaper than duct tape. 
+gregtech/gt.metatool.01-160-Iron-Rubber.png§6§lBetter Than Duct TapeUsing a soldering iron tool to remove the "burned out circuits" message is cheaper than duct tape. 
 
 The soldering iron requires one soldering material item and 10,000 EU. Valid soldering materials are fine wires, rods, and ingots made from either tin, lead, or soldering alloy. The soldering iron will consume the first such material it finds in the player's inventory. Since you'll likely have more than enough, Fine Wires of Soldering Alloy are probably best.
 
@@ -16,4 +16,8 @@ Possible problems                Tool to fix
 "Something is stuck."            Soft Mallet 
 "Platings are dented."           Hammer 
 "Circuitry burned out."    Soldering Iron 
-"That doesn't belong there."   CrowbarANDpreRequgregtech/gt.blockmachines~1000Quest Name For 7777gregtech/gt.metaitem.01~32500Quest Name For 609609rewardsChoiceenhancedlootbags/lootbag~4Choice Name3gregtech/gt.metaitem.02~19314Choice Name64Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metatool.01~160gregtech/gt.metatool.01~160 Name1
+"That doesn't belong there."   Crowbar0-1ANDpre771gregtech/gt.blockmachines-1000.png6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+3gregtech/gt.metaitem.02-19314.pngFine Soldering Alloy Wire\nSn\u2089Sb
+64Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metatool.01-160.pngSoldering Iron\nDurability: 0 / 0\nNULL lvl 0\nAttack Damage: 1.5\nMining Speed: 1.0\nFixes burned out Circuits. Needs soldering materials in inventory.
+1

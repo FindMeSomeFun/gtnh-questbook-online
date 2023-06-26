@@ -1,1 +1,5 @@
-2255Keep Calm and Bee OnThis frame will let your bees last longer, and also increase the territory to help with tree breeding.ANDpreRequExtraBees/hiveFrame.cocoa~0Quest Name For 15141514rewardsItemForestry/apiculture~0Item Name8Itemdreamcraft/item.CoinBeesII~0Item Name2enhancedlootbags/lootbag~26Item Name1tasksANDRetrievalmiscutils/frameArborists~0miscutils/frameArborists~0 Name1
+miscutils/frameArborists-0.pngKeep Calm and Bee OnThis frame will let your bees last longer, and also increase the territory to help with tree breeding.0-1ANDpre15140ExtraBees/hiveFrame.cocoa-0.pngrewardsItemForestry/apiculture-0.pngApiary
+8Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
+2enhancedlootbags/lootbag-26-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDRetrievalmiscutils/frameArborists-0.pngArborist Frame\nWho need Bees when you can have Trees?
+1

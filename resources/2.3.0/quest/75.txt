@@ -1,3 +1,12 @@
-75§6§lThe Water DilemmaFinite water is a problem. But fear not, there are solutions! I shall guide you to a steady supply of water. The Railcraft water siding tanks provides enough water to last the early game.
+Railcraft/machine.alpha-14.png§6§lThe Water DilemmaFinite water is a problem. But fear not, there are solutions! I shall guide you to a steady supply of water. The Railcraft water siding tanks provides enough water to last the early game.
 
-The humidity of a biome is very important and will increase the base fill rate. If it is raining, the tank will fill much quicker. One block of the water siding tank must see sky for the maximum output. The best part is that you don't need a pump to extract water. Tanks and pipes placed next to it will be autofilled by the water siding tank.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsItemgregtech/gt.blockmachines~5101Item Name10enhancedlootbags/lootbag~2Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name50tasksANDRetrievalIC2/blockRubSapling~0IC2/blockRubSapling~0 Name1CraftingIC2/itemTreetap~0IC2/itemTreetap~0 Name1OptionalIC2/itemHarz~0IC2/itemHarz~0 Name26Optionalgregtech/gt.metaitem.01~23032gregtech/gt.metaitem.01~23032 Name52Optionalminecraft/planks~0minecraft/planks~0 Name130CraftingRailcraft/machine.alpha~14Railcraft/machine.alpha~14 Name26
+The humidity of a biome is very important and will increase the base fill rate. If it is raining, the tank will fill much quicker. One block of the water siding tank must see sky for the maximum output. The best part is that you don't need a pump to extract water. Tanks and pipes placed next to it will be autofilled by the water siding tank.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemgregtech/gt.blockmachines-5101.pngSmall Wooden Fluid Pipe\nFluid Capacity: 200 L/sec\nHeat Limit: 350 K
+10enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+50tasksANDRetrievalIC2/blockRubSapling-0.pngRubber Tree Sapling\nBurn Time: 80
+1CraftingIC2/itemTreetap-0.pngTreetap
+1OptionalIC2/itemHarz-0.pngSticky Resin
+26Optionalgregtech/gt.metaitem.01-23032.pngIron Rod\nFe
+52Optionalminecraft/planks-0.pngOak Wood Planks\nBurn Time: 300
+130CraftingRailcraft/machine.alpha-14.pngWater Tank Siding\nMulti-Block: 3x3x3 (Hollow)\nMobs cannot Spawn on this Block
+26

@@ -1,5 +1,12 @@
-1426Find Some Meteoric IronTo reach tier two planets like Mars or its moons, Phobos and Deimos you need a better rocket. Your next goal is Tier two rocket plates which need Meteoric Iron. 
+gregtech/gt.blockores-340.pngFind Some Meteoric IronTo reach tier two planets like Mars or its moons, Phobos and Deimos you need a better rocket. Your next goal is Tier two rocket plates which need Meteoric Iron. 
 
 You will find small meteoric iron ore under the surface. Use an HV miner or multiblock miner to get extra fortune on small ores. Small meteoric iron is only from Y 50-70, so try to find tall hills.
 
-You can also just mine the fallen meteors on the surface. Use your ears to listen to their impacts.ANDpreRequGalacticraftCore/tile.moonBlock~14Quest Name For 14331433rewardsItemenhancedlootbags/lootbag~6Item Name1GalacticraftCore/item.oxygenTankLightFull~0Item Name1Itemdreamcraft/item.CoinSpaceII~0Item Name2dreamcraft/item.CoinAdventureII~0Item Name2tasksORRetrievalgregtech/gt.metaitem.01~5340gregtech/gt.metaitem.01~5340 Name32Retrievalgregtech/gt.metaitem.01~3340gregtech/gt.metaitem.01~3340 Name32RetrievalGalacticraftCore/item.meteoricIronRaw~0GalacticraftCore/item.meteoricIronRaw~0 Name16
+You can also just mine the fallen meteors on the surface. Use your ears to listen to their impacts.1-1ANDpre14331GalacticraftCore/tile.moonBlock-14.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1GalacticraftCore/item.oxygenTankLightFull-0.pngLight Oxygen Tank\nOxygen Remaining: 1000
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2tasksORRetrievalgregtech/gt.metaitem.01-5340.pngCrushed Meteoric Iron Ore\nSpFe
+32Retrievalgregtech/gt.metaitem.01-3340.pngImpure Pile of Meteoric Iron Dust\nSpFe\nThrow into Cauldron to get clean Dust
+32RetrievalGalacticraftCore/item.meteoricIronRaw-0.pngRaw Meteoric Iron
+16

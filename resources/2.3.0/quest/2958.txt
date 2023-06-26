@@ -1,1 +1,4 @@
-2958Nuclear Based Fuel (Pu)Provides 32,400EU/t output lasting 7.5s per mB.ANDpreRequbartworks/gt.bwMetaGeneratedcell~10003Quest Name For 29572957rewardsChoicebartworks/gt.bwMetaGeneratedcell~10011Choice Name2bartworks/gt.bwMetaGeneratedcell~10010Choice Name4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell~10011bartworks/gt.bwMetaGeneratedcell~10011 Name1
+bartworks/gt.bwMetaGeneratedcell-10011.pngNuclear Based Fuel (Pu)Provides 32,400EU/t output lasting 7.5s per mB.0-1ANDpre29570bartworks/gt.bwMetaGeneratedcell-10003.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10011.pngPlutonium Based Liquid Fuel\n*(Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082)*\nAdded by Good Generator via BartWorks
+2bartworks/gt.bwMetaGeneratedcell-10010.pngPlutonium Based Liquid Fuel Cell\nPu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082\nAdded by Good Generator via BartWorks
+4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10011.pngPlutonium Based Liquid Fuel\n*(Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082)*\nAdded by Good Generator via BartWorks
+1

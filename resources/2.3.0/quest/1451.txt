@@ -1,1 +1,12 @@
-1451Astro Miner BaseTo construct the dock, place 8 Astro Miner Base blocks in a cube, 2 blocks high, 2 blocks wide and 2 blocks deep. When the last of the base blocks is placed, it should automatically convert into an Astro Miner Base.ANDpreRequGalacticraftMars/item.itemAstroMiner~0Quest Name For 14501450rewardsChoiceGalacticraftMars/item.itemBasicAsteroids~8Choice Name4gregtech/gt.metaitem.01~11081Choice Name8enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.blockmachines~4177gregtech/gt.blockmachines~4177 Name2GalacticraftMars/item.itemBasicAsteroids~6GalacticraftMars/item.itemBasicAsteroids~6 Name4GalacticraftMars/item.null~5GalacticraftMars/item.null~5 Name4GalacticraftMars/item.itemBasicAsteroids~8GalacticraftMars/item.itemBasicAsteroids~8 Name4IronChest/BlockIronChest~4IronChest/BlockIronChest~4 Name2GalacticraftCore/tile.machineTiered~0GalacticraftCore/tile.machineTiered~0 Name2RetrievalGalacticraftMars/tile.minerBase~0GalacticraftMars/tile.minerBase~0 Name8
+GalacticraftMars/tile.minerBase-0.pngAstro Miner BaseTo construct the dock, place 8 Astro Miner Base blocks in a cube, 2 blocks high, 2 blocks wide and 2 blocks deep. When the last of the base blocks is placed, it should automatically convert into an Astro Miner Base.0-1ANDpre14500GalacticraftMars/item.itemAstroMiner-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-8.pngBeam Core
+4gregtech/gt.metaitem.01-11081.pngTungsten Ingot\nW
+8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.blockmachines-4177.pngTungsten Frame Box\nJust something you can put covers on.
+2GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+4GalacticraftMars/item.null-5.pngCompressed Desh
+4GalacticraftMars/item.itemBasicAsteroids-8.pngBeam Core
+4IronChest/BlockIronChest-4.pngSteel Chest\n8*9 Inventory - 72 Slots
+2GalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
+2RetrievalGalacticraftMars/tile.minerBase-0.pngAstro Miner Base
+8

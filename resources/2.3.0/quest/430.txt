@@ -1,1 +1,7 @@
-430Getting Soul ShardsEnable your sword by Shift right-clicking and slay some enemies! Collect as many shards as possible. You will need a ton of them...ANDpreRequAWWayofTime/energySword~0Quest Name For 432432rewardsChoiceAWWayofTime/blankSlate~0Choice Name16AWWayofTime/reinforcedSlate~0Choice Name8AWWayofTime/imbuedSlate~0Choice Name4enhancedlootbags/lootbag~17Choice Name1Itemdreamcraft/item.CoinBloodII~0Item Name5tasksANDRetrievalAWWayofTime/weakBloodShard~0AWWayofTime/weakBloodShard~0 Name17
+AWWayofTime/weakBloodShard-0.pngGetting Soul ShardsEnable your sword by Shift right-clicking and slay some enemies! Collect as many shards as possible. You will need a ton of them...1-1ANDpre4321AWWayofTime/energySword-0.pngrewardsChoiceAWWayofTime/blankSlate-0.pngBlank Slate\nInfused stone inside of\na blood altar
+16AWWayofTime/reinforcedSlate-0.pngReinforced Slate\nInfused stone inside of\na blood altar
+8AWWayofTime/imbuedSlate-0.pngImbued Slate\nInfused stone inside of\na blood altar
+4enhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+5tasksANDRetrievalAWWayofTime/weakBloodShard-0.pngWeak Blood Shard
+17

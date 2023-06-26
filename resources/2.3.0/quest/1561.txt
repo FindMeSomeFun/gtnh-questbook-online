@@ -1,3 +1,14 @@
-1561Purified MilkPurified Milk is an antidote in a similar way to normal milk, although it only has a chance of working and will only remove a single status effect. It is advantageous because it can stack to 64 items.
+witchery/ingredient-105.pngPurified MilkPurified Milk is an antidote in a similar way to normal milk, although it only has a chance of working and will only remove a single status effect. It is advantageous because it can stack to 64 items.
 
-Purified Milk is an ingredient in the Brew of Sleeping.ANDpreRequwitchery/ingredient~36Quest Name For 15591559rewardsItemwitchery/ingredient~31Item Name2witchery/ingredient~34Item Name2witchery/ingredient~36Item Name2enhancedlootbags/lootbag~52Item Name1Itemdreamcraft/item.CoinCook~0Item Name25dreamcraft/item.CoinWitch~0Item Name25dreamcraft/item.CoinDarkWizard~0Item Name25tasksANDOptionalminecraft/milk_bucket~0minecraft/milk_bucket~0 Name1witchery/ingredient~36witchery/ingredient~36 Name1witchery/ingredient~27witchery/ingredient~27 Name3Retrievalwitchery/ingredient~105witchery/ingredient~105 Name3
+Purified Milk is an ingredient in the Brew of Sleeping.0-1ANDpre15590witchery/ingredient-36.pngrewardsItemwitchery/ingredient-31.pngExhale of the Horned One
+2witchery/ingredient-34.pngWhiff of Magic
+2witchery/ingredient-36.pngOdour of Purity
+2enhancedlootbags/lootbag-52.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25tasksANDOptionalminecraft/milk_bucket-0.pngMilk
+1witchery/ingredient-36.pngOdour of Purity
+1witchery/ingredient-27.pngClay Jar
+3Retrievalwitchery/ingredient-105.pngPurified Milk
+3

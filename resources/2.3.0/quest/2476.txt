@@ -1,1 +1,4 @@
-2476AE Tier 4 Item StorageThe main processor for 4096k and 16384k cells. You'll need to be in LuV for these.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~58Quest Name For 24652465rewardsItemdreamcraft/item.EmeraldHighAdvancedCoreChip~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name8tasksANDRetrievaldreamcraft/item.EngineeringProcessorItemAdvEmeraldCore~0dreamcraft/item.EngineeringProcessorItemAdvEmeraldCore~0 Name1
+dreamcraft/item.EngineeringProcessorItemAdvEmeraldCore-0.pngAE Tier 4 Item StorageThe main processor for 4096k and 16384k cells. You'll need to be in LuV for these.0-1ANDpre24650appliedenergistics2/item.ItemMultiMaterial-58.pngrewardsItemdreamcraft/item.EmeraldHighAdvancedCoreChip-0.pngItem Circuit Tier IV
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+8tasksANDRetrievaldreamcraft/item.EngineeringProcessorItemAdvEmeraldCore-0.pngItem Processor Tier IV
+1

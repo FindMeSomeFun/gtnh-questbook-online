@@ -1,1 +1,4 @@
-2792Acid TripThis is the HV version. Will people really use this? Each stack of Redstone Dust is worth around 580k EU, so look at your storage and see what you have.ANDpreRequgregtech/gt.blockmachines~423Quest Name For 943943rewardsItemenhancedlootbags/lootbag~6Item Name1dreamcraft/item.CoinChemistI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~12727gregtech/gt.blockmachines~12727 Name1
+gregtech/gt.blockmachines-12727.pngAcid TripThis is the HV version. Will people really use this? Each stack of Redstone Dust is worth around 580k EU, so look at your storage and see what you have.0-1ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-12727.pngAcid Generator HV\nAn Acid Generator\nCreates Power from Chemical Energy Potentials.\nVoltage: 512\nEfficiency: 91\nAmperage OUT: 1\nAdded by bartimaeusnek via BartWorks\nVoltage OUT: 512 (HV)\nCapacity: 41,472 EU
+1

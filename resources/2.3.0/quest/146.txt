@@ -1,1 +1,5 @@
-146§9§lTorture DeviceWhen the subjects don't want to cooperate.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160gregtech/gt.metaitem.01~11379Quest Name For 166166rewardsChoiceEnderIO/itemMachinePart~0Choice Name1enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalEnderIO/blockSliceAndSplice~0EnderIO/blockSliceAndSplice~0 Name1
+EnderIO/blockSliceAndSplice-0.png§9§lTorture DeviceWhen the subjects don't want to cooperate.0-1ANDpre1601gregtech/gt.blockmachines-13.png1660gregtech/gt.metaitem.01-11379.pngrewardsChoiceEnderIO/itemMachinePart-0.pngMachine Chassis
+1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalEnderIO/blockSliceAndSplice-0.pngSlice''N''Splice
+1

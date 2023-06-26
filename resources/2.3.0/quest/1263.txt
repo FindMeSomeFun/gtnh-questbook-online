@@ -1,1 +1,10 @@
-1263§a§lBlue SteelSunnarium batteries are made out of blue steel: a mixture of steel, black steel, brass and rose gold.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176rewardsChoicegregtech/gt.metaitem.01~17874Choice Name8gregtech/gt.metaitem.01~11028Choice Name4enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinChemistII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~2305gregtech/gt.metaitem.01~2305 Name2gregtech/gt.metaitem.01~2334gregtech/gt.metaitem.01~2334 Name4gregtech/gt.metaitem.01~2301gregtech/gt.metaitem.01~2301 Name1gregtech/gt.metaitem.01~2351gregtech/gt.metaitem.01~2351 Name1Retrievalgregtech/gt.metaitem.01~11349gregtech/gt.metaitem.01~11349 Name8
+gregtech/gt.metaitem.01-11349.png§a§lBlue SteelSunnarium batteries are made out of blue steel: a mixture of steel, black steel, brass and rose gold.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Sheet\nCH\u2082
+8gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-2305.pngSteel Dust\nFe\u2085\u2080C
+2gregtech/gt.metaitem.01-2334.pngBlack Steel Dust\nNi(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083
+4gregtech/gt.metaitem.01-2301.pngBrass Dust\nZnCu\u2083
+1gregtech/gt.metaitem.01-2351.pngRose Gold Dust\nCuAu\u2084
+1Retrievalgregtech/gt.metaitem.01-11349.pngBlue Steel Ingot\n(CuAu\u2084)(ZnCu\u2083)(Fe\u2085\u2080C)\u2082(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)\u2084
+8

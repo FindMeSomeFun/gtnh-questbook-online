@@ -1,5 +1,13 @@
-2424Finally Binding a FamiliarNow that you have Toads and Owls, you can choose between them and Cats to bind. Why didn't we just bind a Cat earlier? Well, you'll need them both soon anyways, and who doesn't love choices? To carry out the Rite of Binding (P6, Circle Magic), you'll need to distill some Demonic Blood. Do that now, and collect the rest of the items needed.
+ForbiddenMagic/SubCollar-0.pngFinally Binding a FamiliarNow that you have Toads and Owls, you can choose between them and Cats to bind. Why didn't we just bind a Cat earlier? Well, you'll need them both soon anyways, and who doesn't love choices? To carry out the Rite of Binding (P6, Circle Magic), you'll need to distill some Demonic Blood. Do that now, and collect the rest of the items needed.
 
 After collecting the items, bind your familiar using them. Make sure you have enough Altar Power. Remember that each has different benefits. See the official wiki for details. You may receive a tiny portion of damage your familiar receives (and vice-versa), so park it somewhere safe. Also note that if it dies, so will you (Supposedly). You can resummon it if it dies or was dismissed previously (like if you died). If you're in hardcore mode and don't want to risk having it around, it can be dismissed by right-clicking while sneaking when it's sitting.
 
-Now go murder a few of your new friends and tear of their Owlet's Wings, and cut off their Toe of Frog. Remember to use an Arthana. The next step needs a Seer's Stone.ANDpreRequwitchery/ingredient~89Quest Name For 24232423rewardsItemenhancedlootbags/lootbag~54Item Name1Itemdreamcraft/item.CoinWitchII~0Item Name1tasksANDRetrievalwitchery/ingredient~37witchery/ingredient~37 Name1witchery/ingredient~36witchery/ingredient~36 Name1witchery/ingredient~34witchery/ingredient~34 Name1minecraft/diamond~0minecraft/diamond~0 Name1witchery/ingredient~80witchery/ingredient~80 Name1Huntwitchery.toadwitchery.toad Name1Huntwitchery.owlwitchery.owl Name1
+Now go murder a few of your new friends and tear of their Owlet's Wings, and cut off their Toe of Frog. Remember to use an Arthana. The next step needs a Seer's Stone.0-1ANDpre24230witchery/ingredient-89.pngrewardsItemenhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDRetrievalwitchery/ingredient-37.pngTear of the Goddess
+1witchery/ingredient-36.pngOdour of Purity
+1witchery/ingredient-34.pngWhiff of Magic
+1minecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1witchery/ingredient-80.pngDemonic Blood
+1Huntmobs/witchery-toad-.pngToad1Huntmobs/witchery-owl-.pngOwl
+1

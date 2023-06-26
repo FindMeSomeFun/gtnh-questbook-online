@@ -1,1 +1,4 @@
-1934Cotton and StringWith some farmer coins I'll trade you cotton and string. Perfect for making tanned leather!ANDpreRequBackpack/tannedLeather~0Quest Name For 486486rewardsItemminecraft/string~0Item Name30Natura/barleyFood~3Item Name24tasksANDRetrievaldreamcraft/item.CoinFarmer~0dreamcraft/item.CoinFarmer~0 Name30
+harvestcraft/wovencottonItem-0.pngCotton and StringWith some farmer coins I'll trade you cotton and string. Perfect for making tanned leather!024000ANDpre4860Backpack/tannedLeather-0.pngrewardsItemminecraft/string-0.pngString
+30Natura/barleyFood-3.pngCotton\nThe source of all string and wool
+24tasksANDConsumedreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+30

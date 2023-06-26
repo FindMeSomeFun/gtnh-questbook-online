@@ -1,1 +1,4 @@
-955PistonWant some pistons? Buy some!ANDpreRequminecraft/piston~0Quest Name For 4949rewardsChoiceminecraft/piston~0Choice Name2minecraft/sticky_piston~0Choice Name2tasksANDRetrievaldreamcraft/item.CoinTechnician~0dreamcraft/item.CoinTechnician~0 Name20
+minecraft/piston-0.pngPistonWant some pistons? Buy some!06000ANDpre491minecraft/piston-0.pngrewardsChoiceminecraft/piston-0.pngPiston
+2minecraft/sticky_piston-0.pngSticky Piston
+2tasksANDConsumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+20

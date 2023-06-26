@@ -1,1 +1,11 @@
-1649Books Are For Nerds......And sexy male librarians. And also smart witches who want to learn their way around. Craft the first group of Witchery books, or find them in a village.ANDpreRequwitchery/witchesovenidle~0Quest Name For 332332witchery/cauldron~0Quest Name For 334334rewardsChoiceminecraft/book~0Choice Name16witchery/ingredient~21Choice Name16enhancedlootbags/lootbag~52Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5tasksANDRetrievalwitchery/ingredient~81witchery/ingredient~81 Name1witchery/ingredient~106witchery/ingredient~106 Name1witchery/ingredient~127witchery/ingredient~127 Name1witchery/ingredient~46witchery/ingredient~46 Name1witchery/cauldronbook~0witchery/cauldronbook~0 Name1
+witchery/ingredient-106.pngBooks Are For Nerds......And sexy male librarians. And also smart witches who want to learn their way around. Craft the first group of Witchery books, or find them in a village.0-1ANDpre3320witchery/witchesovenidle-0.png3340witchery/cauldron-0.pngrewardsChoiceminecraft/book-0.pngBook
+16witchery/ingredient-21.pngBelladonna Flower
+16enhancedlootbags/lootbag-52.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5tasksANDRetrievalwitchery/ingredient-81.pngWitchcraft: Herbology
+1witchery/ingredient-106.pngBook of Biomes
+1witchery/ingredient-127.pngWitchcraft: Conjuration & Fetishes
+1witchery/ingredient-46.pngWitchcraft: Collecting Fumes
+1witchery/cauldronbook-0.pngWitches'' Brews\nThe definitive guide to cauldrons and potion brewing.
+1

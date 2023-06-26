@@ -1,5 +1,7 @@
-1966Mo' Hammers Mo' ProblemsYes indeed, time for another type of hammer. The master carpentry hammer will allow you to rotate the blocks from the various workers.
+ExtraTrees/hammer-0.pngMo' Hammers Mo' ProblemsYes indeed, time for another type of hammer. The master carpentry hammer will allow you to rotate the blocks from the various workers.
 
 Sneak to rotate the blocks vertically.
 
-Why is the lower tier hammer the master hammer? Who knows??ORpreRequExtraTrees/machine~4Quest Name For 19631963ExtraTrees/machine~3Quest Name For 19651965ExtraTrees/machine~1Quest Name For 19681968rewardsItemExtraTrees/durableHammer~0Item Name1tasksANDRetrievalExtraTrees/hammer~0ExtraTrees/hammer~0 Name1
+Why is the lower tier hammer the master hammer? Who knows??0-1ORpre19630ExtraTrees/machine-4.png19650ExtraTrees/machine-3.png19680ExtraTrees/machine-1.pngrewardsItemExtraTrees/durableHammer-0.pngCarpentry Hammer
+1tasksANDRetrievalExtraTrees/hammer-0.pngMaster Carpentry Hammer
+1

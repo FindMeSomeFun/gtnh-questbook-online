@@ -1,4 +1,4 @@
-2091Upgrading the AlvearyThese basic upgrades to the Alveary make it more powerful. 
+ExtraBees/alveary-1.pngUpgrading the AlvearyThese basic upgrades to the Alveary make it more powerful. 
 
 Frame Housing - Automation-enabled frame slot for the Alveary. Uses §55 durability§r every bee tick (27s). If it runs out on that tick, it has no effect.
 Aveary Stabilizer - Prevents the bees from mutating into another species. Ideal for breeding traits into a line.
@@ -9,4 +9,12 @@ Swarmer - Creates additional Ignoble queens in hives around the Alveary. These a
 
 §3Note that all upgrade blocks must be in the bottom 2 layers. The center block also cannot be an upgrade block, though the bottom center can.
 
-§4When using power, the transmission block will suck down entire amps to fill a tiny amount. Use the EIO capacitors or something similar to prevent this.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemForestry/alveary~0Item Name8enhancedlootbags/lootbag~26Item Name1tasksANDRetrievalExtraBees/alveary~1ExtraBees/alveary~1 Name1Forestry/alveary~6Forestry/alveary~6 Name1ExtraBees/alveary~6ExtraBees/alveary~6 Name1ExtraBees/alveary~5ExtraBees/alveary~5 Name1Forestry/alveary~7Forestry/alveary~7 Name1Forestry/alveary~2Forestry/alveary~2 Name1
+§4When using power, the transmission block will suck down entire amps to fill a tiny amount. Use the EIO capacitors or something similar to prevent this.0-1ANDpre11230Forestry/alveary-0.pngrewardsItemForestry/alveary-0.pngAlveary
+8enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalExtraBees/alveary-1.pngFrame Housing
+1Forestry/alveary-6.pngAlveary Stabiliser
+1ExtraBees/alveary-6.pngAlveary Transmission
+1ExtraBees/alveary-5.pngHatchery
+1Forestry/alveary-7.pngAlveary Sieve
+1Forestry/alveary-2.pngSwarmer
+1

@@ -1,4 +1,4 @@
-2397Playing With the Big Boys, ChemicallyThis facility will process certain chemical recipes you'll need later on, like Rocket Fuels. Keep in mind that recipes can only be made after meeting the required Chemical Plant tier.
+gregtech/gt.blockmachines-998.pngPlaying With the Big Boys, ChemicallyThis facility will process certain chemical recipes you'll need later on, like Rocket Fuels. Keep in mind that recipes can only be made after meeting the required Chemical Plant tier.
 
 It will need a minecart load of resources, so start mining!
 
@@ -27,4 +27,6 @@ Tungstensteel
 
 All coils from Cupronickel to Eternal are valid. Each one increases speed by +50%, starting at 50% speed for Cupronickel.
 
-§3Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!ANDpreRequgregtech/gt.blockmachines~423Quest Name For 943943rewardsItemenhancedlootbags/lootbag~6Item Name1tasksANDRetrievalgregtech/gt.blockmachines~998gregtech/gt.blockmachines~998 Name1
+§3Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!1-1ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.blockmachines-998.pngExxonMobil Chemical Plant\nMachine Type: Chemical Plant\nController Block for the Chemical Plant\nHeavy Industry, now right at your doorstep!\nPlease read the user manual for more information on construction and usage\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1

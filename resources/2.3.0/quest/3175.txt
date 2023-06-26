@@ -1,4 +1,4 @@
-3175MOX NukesUpon gathering more Plutonium, you can try building a MOX nuke, the most powerful of the basic nukes. It is a 6-chamber, like usual, and it takes U238 as before, but it outputs close to 6820 EU/t while only using 5 quad rods instead of 7. How is this possible? The answer is... MOX.
+gregtech/gt.reactorMOXQuad-0.pngMOX NukesUpon gathering more Plutonium, you can try building a MOX nuke, the most powerful of the basic nukes. It is a 6-chamber, like usual, and it takes U238 as before, but it outputs close to 6820 EU/t while only using 5 quad rods instead of 7. How is this possible? The answer is... MOX.
 
 MOX means mixed-oxide, which is the name given to the mix of Uranium and Plutonium. In here, rods with this fuel are special in the sense that they don't output a specific amount of EU/t from the usual nuke mechanics. On top of those, it also reacts to the heat of the reactor, generating more energy the hotter it is. To compensate, these rods last only half the time that the Uranium fuel rods do, but their total EU is higher if they are active in very hot reactors. This imposes an obvious problem - hot reactors are not good for your base.
 
@@ -35,4 +35,9 @@ P - Reactor Plating (1 needed)
 3000-6825 EU/t
 
 (This setup is the most efficient per Advanced Heat Vent)
-ANDpreRequmiscutils/itemDustPlutonium239~0Quest Name For 31723172rewardstasksANDOptionalIC2/reactorVentDiamond~1IC2/reactorVentDiamond~1 Name26IC2/reactorHeatSwitchSpread~1IC2/reactorHeatSwitchSpread~1 Name6IC2/reactorVentSpread~0IC2/reactorVentSpread~0 Name16gregtech/gt.reactorMOXQuad~0gregtech/gt.reactorMOXQuad~0 Name5Retrievalgregtech/gt.reactorMOXQuad~0gregtech/gt.reactorMOXQuad~0 Name1
+0-1ANDpre31720miscutils/itemDustPlutonium239-0.pngrewardstasksANDOptionalIC2/reactorVentDiamond-1.pngAdvanced Heat Vent
+26IC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
+6IC2/reactorVentSpread-0.pngComponent Heat Vent
+16gregtech/gt.reactorMOXQuad-0.pngQuad Fuel Rod\n100 / 100\nDurability: 10,000/10,000
+5Retrievalgregtech/gt.reactorMOXQuad-0.pngQuad Fuel Rod\n100 / 100\nDurability: 10,000/10,000
+1

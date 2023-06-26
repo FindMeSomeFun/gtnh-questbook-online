@@ -1,3 +1,12 @@
-440§1§lOak Trees Are Not Apple TreesOak trees which give apples? Who the hell added this to minecraft? You found a way of combining an oak sapling and an apple to get an apple tree sapling. Try to plant one to get a permanent source of food.
+harvestcraft/pamappleSapling-0.png§1§lOak Trees Are Not Apple TreesOak trees which give apples? Who the hell added this to minecraft? You found a way of combining an oak sapling and an apple to get an apple tree sapling. Try to plant one to get a permanent source of food.
 
-Once you complete this quest, check out the rest of the Quest Tabs. A new one, "Coins, Coins, Coins", has unlocked. You'll want to look through all the quest tabs to make sure something new hasn't unlocked somewhere else occasionally. There are lots of tabs, so be sure to scroll down!ANDpreReququestbook/ItemQuestBook~0Quest Name For 44rewardsChoiceharvestcraft/pampearSapling~0Choice Name1harvestcraft/pamcherrySapling~0Choice Name1harvestcraft/pamorangeSapling~0Choice Name1harvestcraft/pamwalnutSapling~0Choice Name1Itemdreamcraft/item.CoinForestry~0Item Name2dreamcraft/item.CoinFarmer~0Item Name2tasksANDOptionalminecraft/sapling~0minecraft/sapling~0 Name1minecraft/apple~0minecraft/apple~0 Name1Craftingharvestcraft/pamappleSapling~0harvestcraft/pamappleSapling~0 Name1
+Once you complete this quest, check out the rest of the Quest Tabs. A new one, "Coins, Coins, Coins", has unlocked. You'll want to look through all the quest tabs to make sure something new hasn't unlocked somewhere else occasionally. There are lots of tabs, so be sure to scroll down!0-1ANDpre41questbook/ItemQuestBook-0.pngrewardsChoiceharvestcraft/pampearSapling-0.pngPear Sapling
+1harvestcraft/pamcherrySapling-0.pngCherry Sapling
+1harvestcraft/pamorangeSapling-0.pngOrange Sapling
+1harvestcraft/pamwalnutSapling-0.pngWalnut Sapling
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+2tasksANDOptionalminecraft/sapling-0.pngOak Sapling\nBurn Time: 100
+1minecraft/apple-0.pngApple\nminecraft:apple\nDiminishing returns start after\neating any food 10 more times
+1Craftingharvestcraft/pamappleSapling-0.pngApple Sapling
+1

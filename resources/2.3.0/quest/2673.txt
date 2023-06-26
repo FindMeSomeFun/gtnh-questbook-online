@@ -1,6 +1,7 @@
-2673Neutrons From SpaceNow let's make Cosmic Neutronium, a material that is used in a lot of late game stuff.
+Avaritia/Resource-4.pngNeutrons From SpaceNow let's make Cosmic Neutronium, a material that is used in a lot of late game stuff.
 Centrifuge Black Plutonium to get a Pile of Neutrons. It can then be compressed to Cosmic Neutronium Nuggets in an Implosion Compressor.
 
 Compress the nuggets again to make a Cosmic Neutronium Ingot.
 
-§3Avaritia's Neutronium and GT Cosmic Neutronium are oredicted together, it's not the same as normal GT Neutronium. It goes back to being called SpNt if you craft it into something, like a plate.ANDpreRequgregtech/gt.blockmachines~18Quest Name For 26132613rewardstasksANDRetrievalAvaritia/Resource~4Avaritia/Resource~4 Name1
+§3Avaritia's Neutronium and GT Cosmic Neutronium are oredicted together, it's not the same as normal GT Neutronium. It goes back to being called SpNt if you craft it into something, like a plate.1-1ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDRetrievalAvaritia/Resource-4.pngCosmic Neutronium Ingot\nThe dense heart of a star in convenient ingot form.
+1

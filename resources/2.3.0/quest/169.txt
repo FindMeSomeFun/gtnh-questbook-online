@@ -1,4 +1,4 @@
-169§9§lThe Creation of LifeBy utilizing large amounts of energy, you're able to reactivate those broken spawners you may have found in the past. If you haven't, you should get one of them now.
+EnderIO/blockPoweredSpawner-0.png§9§lThe Creation of LifeBy utilizing large amounts of energy, you're able to reactivate those broken spawners you may have found in the past. If you haven't, you should get one of them now.
 
 If the broken spawner isn't of the type of mob you want to spawn, you'll need to do some extra work. Capture one in a soul vial, then use that and the broken spawner in the soul binder to change the type. This takes forever, and also levels.
 
@@ -6,4 +6,11 @@ Combine a BS with your Powered Spawner in an anvil to set the type for it to spa
 
 If you set it to capture mode, you can make souls of a specific mob without any danger.
 
-§3Please try to use as few as possible on servers, mobs are laggy. Use crops if possible.ANDpreRequEnderIO/itemMaterial~6Quest Name For 141141EnderIO/blockSoulBinder~0Quest Name For 165165rewardsChoiceenhancedlootbags/lootbag~6Choice Name1EnderIO/itemBasicCapacitor~0Choice Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5tasksANDRetrievalEnderIO/itemBrokenSpawner~0EnderIO/itemBrokenSpawner~0 Name1RetrievalEnderIO/blockPoweredSpawner~0EnderIO/blockPoweredSpawner~0 Name1
+§3Please try to use as few as possible on servers, mobs are laggy. Use crops if possible.0-1ANDpre1410EnderIO/itemMaterial-6.png1650EnderIO/blockSoulBinder-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5tasksANDRetrievalEnderIO/itemBrokenSpawner-0.pngBroken Spawner
+1RetrievalEnderIO/blockPoweredSpawner-0.pngPowered Spawner\nEmpty
+1

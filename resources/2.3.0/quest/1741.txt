@@ -1,5 +1,23 @@
-1741§3§lNice Nether TreesThere are a few very useful Nether trees out there which gives resources like Redstone, Gunpowder, Bonemeal or Fertilizer.
+Natura/Natura.netherfood-0.png§3§lNice Nether TreesThere are a few very useful Nether trees out there which gives resources like Redstone, Gunpowder, Bonemeal or Fertilizer.
 
 Go and get a few trees like Bloodwood, Fusewood, Darkwood or Ghostwood out of the Nether.
 
-These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.ANDpreRequIC2/itemDust~13Quest Name For 496496rewardsChoiceenhancedlootbags/lootbag~2Choice Name1EnderIO/itemAlloy~6Choice Name4Itemdreamcraft/item.CoinTechnician~0Item Name25dreamcraft/item.CoinAdventure~0Item Name25tasksANDRetrievalNatura/floraleavesnocolor~1Natura/floraleavesnocolor~1 Name16Natura/florasapling~4Natura/florasapling~4 Name4Natura/tree~2Natura/tree~2 Name8RetrievalNatura/floraleavesnocolor~2Natura/floraleavesnocolor~2 Name16Natura/bloodwood~0Natura/bloodwood~0 Name8Natura/bloodwood~15Natura/bloodwood~15 Name8Natura/florasapling~5Natura/florasapling~5 Name4RetrievalNatura/Dark Tree~0Natura/Dark Tree~0 Name8Natura/florasapling~6Natura/florasapling~6 Name4Natura/Dark Leaves~0Natura/Dark Leaves~0 Name16Natura/Natura.netherfood~0Natura/Natura.netherfood~0 Name1RetrievalNatura/Dark Tree~1Natura/Dark Tree~1 Name8Natura/Dark Leaves~3Natura/Dark Leaves~3 Name16Natura/florasapling~7Natura/florasapling~7 Name4
+These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.0-1ANDpre4961IC2/itemDust-13.pngrewardsChoiceenhancedlootbags/lootbag-2-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1EnderIO/itemAlloy-6.pngDark Steel\n((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25tasksANDRetrievalNatura/floraleavesnocolor-1.pngGhostwood Leaves\nNether Tree\nPale as a ghost
+16Natura/florasapling-4.pngGhostwood Sapling\nPale as a ghost\nBurn Time: 100
+4Natura/tree-2.pngGhostwood\nNether Tree\nPale as a ghost\nBurn Time: 300
+8RetrievalNatura/floraleavesnocolor-2.pngBloodleaves\nNether Tree\nFire-resistant leaves
+16Natura/bloodwood-0.pngBloodwood\nFire-resistant tree\nBurn Time: 300
+8Natura/bloodwood-15.pngBloodwood\nFire-resistant tree\nBurn Time: 300
+8Natura/florasapling-5.pngBlood Sapling\nLava-resistant\nGrows on the ceiling\nBurn Time: 100
+4RetrievalNatura/Dark Tree-0.pngDarkwood\nNether Tree\nBurn Time: 300
+8Natura/florasapling-6.pngDarkwood Sapling\nProduces chalky apples\nBurn Time: 100
+4Natura/Dark Leaves-0.pngDarkwood Leaves\nNether Tree
+16Natura/Natura.netherfood-0.pngPotash Apple\nNatura:Natura.netherfood\nTastes a bit like chalk\nDiminishing returns start after\neating any food 10 more times
+1RetrievalNatura/Dark Tree-1.pngFusewood\nNether Tree\nExplosive Personality\nBurn Time: 300
+8Natura/Dark Leaves-3.pngFusewood Leaves\nNether Tree\nExplosive Personality
+16Natura/florasapling-7.pngFusewood Sapling\nExplosive Personality\nBurn Time: 100
+4

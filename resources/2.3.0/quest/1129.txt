@@ -1,1 +1,5 @@
-1129§2§lRedstone? Haste!Mining and digging can be soooo slow. Get some redstone on your pick, shovel or axe to make it faster. You can use the Crafting Station to upgrade your tool 8 dust at a time. Later when you get a compressor you can use blocks to do 9 per block.ANDpreRequgregtech/gt.metaitem.01~5810Quest Name For 535535rewardsChoiceenhancedlootbags/lootbag~2Choice Name1TConstruct/toolRod~7Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalminecraft/redstone~0minecraft/redstone~0 Name128
+minecraft/redstone-0.png§2§lRedstone? Haste!Mining and digging can be soooo slow. Get some redstone on your pick, shovel or axe to make it faster. You can use the Crafting Station to upgrade your tool 8 dust at a time. Later when you get a compressor you can use blocks to do 9 per block.0-1ANDpre5351gregtech/gt.metaitem.01-5810.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1TConstruct/toolRod-7.pngNetherrack Tool Rod\nStonebound [Modifier: 1]\nDurability Modifier: 1.2x\nParts can be replaced
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalminecraft/redstone-0.pngRedstone
+128

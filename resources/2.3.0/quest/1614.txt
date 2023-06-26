@@ -1,3 +1,6 @@
-1614§6§lChemical DehydratorDehydrate your grapes to raisins. Or make some Styrene, Benzene or Ethylene at MV. Either way, this device is a nice to have.
+gregtech/gt.blockmachines-911.png§6§lChemical DehydratorDehydrate your grapes to raisins. Or make some Styrene, Benzene or Ethylene at MV. Either way, this device is a nice to have.
 
-It also does the Drying Rack recipes as well.ANDpreRequgregtech/gt.metaitem.01~32651Quest Name For 897897rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.blockmachines~911gregtech/gt.blockmachines~911 Name1
+It also does the Drying Rack recipes as well.0-1ANDpre8971gregtech/gt.metaitem.01-32651.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.blockmachines-911.pngBasic Dehydrator I\nThis dehydrates your Grapes into Raisins.\nAdded by: Alkalus - [GT++]\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

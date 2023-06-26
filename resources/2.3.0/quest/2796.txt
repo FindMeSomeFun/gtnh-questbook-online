@@ -1,1 +1,3 @@
-2796Portable Clean Energy ZPMThis is the ZPM version. It uses Naquadria now.ANDpreRequgregtech/gt.metaitem.01~32676Quest Name For 26222622rewardsItemgregtech/gt.metaitem.01~26327Item Name16tasksANDRetrievalgregtech/gt.blockmachines~1188gregtech/gt.blockmachines~1188 Name1
+gregtech/gt.blockmachines-1188.pngPortable Clean Energy ZPMThis is the ZPM version. It uses Naquadria now.0-1ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItemgregtech/gt.metaitem.01-26327.pngNaquadria Bolt\nNq*
+16tasksANDRetrievalgregtech/gt.blockmachines-1188.pngNaquadah Reactor Mark IV\nRequires Naquadria Bolts\nFuel Efficiency: 200%\nVoltage OUT: 131,072 (ZPM)\nCapacity: 10,486,272 EU
+1

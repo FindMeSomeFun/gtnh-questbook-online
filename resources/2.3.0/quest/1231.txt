@@ -1,1 +1,9 @@
-1231§9§lYou're Gonna Hate This 1-4 in HVPumps, pistons, conveyor modules and robot arms are the most needed machine parts in HV. Go and craft one of each.ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsItemgregtech/gt.metaitem.01~11303Item Name8gregtech/gt.metaitem.01~11306Item Name4enhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~32612gregtech/gt.metaitem.01~32612 Name1gregtech/gt.metaitem.01~32642gregtech/gt.metaitem.01~32642 Name1gregtech/gt.metaitem.01~32632gregtech/gt.metaitem.01~32632 Name1gregtech/gt.metaitem.01~32652gregtech/gt.metaitem.01~32652 Name1
+gregtech/gt.metaitem.01-32652.png§9§lYou're Gonna Hate This 1-4 in HVPumps, pistons, conveyor modules and robot arms are the most needed machine parts in HV. Go and craft one of each.1-1ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-11303.pngElectrum Ingot\nAgAu
+8gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.metaitem.01-32612.pngElectric Pump\n512 L/t (10,240 L/s) as Cover
+1gregtech/gt.metaitem.01-32642.pngElectric Piston
+1gregtech/gt.metaitem.01-32632.pngConveyor Module\n1 stack every 1 sec (as Cover)
+1gregtech/gt.metaitem.01-32652.pngRobot Arm\n1 stack every 1 sec (as Cover)\nGrabs from and inserts into specific slots
+1

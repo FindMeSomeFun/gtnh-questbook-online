@@ -1,4 +1,4 @@
-1433Moon DungeonWhile looking around for meteoric iron you might find a moon dungeon. The entrance looks like a deep hole. Go and kill the Boss Monster. It will drop the key for the chest in the next room with the schematics for tier 2 rockets.
+GalacticraftCore/tile.moonBlock-14.pngMoon DungeonWhile looking around for meteoric iron you might find a moon dungeon. The entrance looks like a deep hole. Go and kill the Boss Monster. It will drop the key for the chest in the next room with the schematics for tier 2 rockets.
 
 Kill the Boss Monster again in a different dungeon if you want an extra tier 2 schematic to exchange for a moon buggy schematic.
 
@@ -6,4 +6,12 @@ Place the schematic in the NASA Worbench and unlock it on the last tab. This wil
 
 §3If you've made the chip in an older version, you can turn it back into a schematic in a PLE.
 
-All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810GalacticraftCore/tile.landingPad~0Quest Name For 820820GalacticraftCore/tile.fuelLoader~0Quest Name For 821821GalacticraftCore/tile.oxygenCompressor~0Quest Name For 829829rewardsChoicegregtech/gt.metaitem.01~11340Choice Name16gregtech/gt.metaitem.01~11028Choice Name8enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinAdventureII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalGalacticraftCore/tile.moonBlock~14GalacticraftCore/tile.moonBlock~14 Name1RetrievalGalacticraftCore/item.key~0GalacticraftCore/item.key~0 Name1RetrievalGalacticraftCore/item.schematic~1GalacticraftCore/item.schematic~1 Name1
+All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.1-1ANDpre8101GalacticraftCore/item.spaceship-0.png8201GalacticraftCore/tile.landingPad-0.png8211GalacticraftCore/tile.fuelLoader-0.png8291GalacticraftCore/tile.oxygenCompressor-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalGalacticraftCore/tile.moonBlock-14.pngMoon Dungeon Brick
+1RetrievalGalacticraftCore/item.key-0.pngTier 1 Dungeon Key
+1RetrievalGalacticraftCore/item.schematic-1.pngNASA Workbench Schematic\nTier 2 Rocket
+1

@@ -1,1 +1,11 @@
-66§3§lTime For Some LogicGood news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!ANDpreRequgregtech/gt.blockmachines~1360Quest Name For 6767gregtech/gt.metaitem.01~32307Quest Name For 871871rewardsItemharvestcraft/turkeycookedItem~0Item Name2Choicegregtech/gt.metaitem.01~32700Choice Name2enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.blockmachines~1360gregtech/gt.blockmachines~1360 Name6gregtech/gt.metaitem.01~26308gregtech/gt.metaitem.01~26308 Name2gregtech/gt.metaitem.01~23305gregtech/gt.metaitem.01~23305 Name4gregtech/gt.metaitem.02~19035gregtech/gt.metaitem.02~19035 Name4gregtech/gt.metaitem.03~32012gregtech/gt.metaitem.03~32012 Name2Craftinggregtech/gt.metaitem.01~32700gregtech/gt.metaitem.01~32700 Name2
+gregtech/gt.metaitem.01-32700.png§3§lTime For Some LogicGood news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!1-1ANDpre671gregtech/gt.blockmachines-1360.png8711gregtech/gt.metaitem.01-32307.pngrewardsItemharvestcraft/turkeycookedItem-0.pngCooked Turkey\nharvestcraft:turkeycookedItem\nDiminishing returns start after\neating any food 10 more times
+2Choicegregtech/gt.metaitem.01-32700.pngVacuum Tube\nA very simple Circuit\nULV-Tier
+2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 4 EU-Volt
+6gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+2gregtech/gt.metaitem.01-23305.pngSteel Rod\nFe\u2085\u2080C
+4gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
+4gregtech/gt.metaitem.03-32012.pngGlass Tube
+2Craftinggregtech/gt.metaitem.01-32700.pngVacuum Tube\nA very simple Circuit\nULV-Tier
+2

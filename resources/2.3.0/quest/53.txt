@@ -1,1 +1,4 @@
-53§3§lHammer time v2Using 6 ingots to craft a hammer seems pretty wasteful, as this tool has durability. How nice would it be to have a machine that does the same but without having durability and using three ingots to make two plates? Guess what, there is one! And you should totally get one.ANDpreRequminecraft/anvil~0Quest Name For 694694rewardsItemminecraft/iron_ingot~0Item Name6Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDCraftinggregtech/gt.blockmachines~112gregtech/gt.blockmachines~112 Name1
+gregtech/gt.blockmachines-112.png§3§lHammer time v2Using 6 ingots to craft a hammer seems pretty wasteful, as this tool has durability. How nice would it be to have a machine that does the same but without having durability and using three ingots to make two plates? Guess what, there is one! And you should totally get one.0-1ANDpre6940minecraft/anvil-0.pngrewardsItemminecraft/iron_ingot-0.pngIron Ingot
+6Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDCraftinggregtech/gt.blockmachines-112.pngSteam Forge Hammer\nForge Hammer
+1

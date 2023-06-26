@@ -1,5 +1,8 @@
-2303§b§lPalladium ProcessingPalladium is a rather useful Platinum Group Metal, necessary to make all machines in LuV.
+bartworks/gt.bwMetaGeneratedcell-52.png§b§lPalladium ProcessingPalladium is a rather useful Platinum Group Metal, necessary to make all machines in LuV.
 
 This questline will help you figure out how to process it properly.
 
-First, process some of your Palladium Enriched Ammonia to Palladium Salt Dust.ANDpreRequgregtech/gt.blockmachines~425Quest Name For 16961696rewardsItemTGregworks/tGregToolPartLargeSwordBlade~1514Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~52bartworks/gt.bwMetaGeneratedcell~52 Name18Retrievalbartworks/gt.bwMetaGenerateddust~55bartworks/gt.bwMetaGenerateddust~55 Name9
+First, process some of your Palladium Enriched Ammonia to Palladium Salt Dust.1-1ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemTGregworks/tGregToolPartLargeSwordBlade-1514.pngPalladium Large Sword Blade\nAttack: 16 Hearts\nDurability: 2200\nParts can be replaced
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell\n?Pd\nAdded by BartWorks
+18Retrievalbartworks/gt.bwMetaGenerateddust-55.pngPalladium Salt Dust\nAdded by BartWorks
+9

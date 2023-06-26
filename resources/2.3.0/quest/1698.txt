@@ -1,1 +1,8 @@
-1698§b§lDiphenyl IsophtalateMix Sulfuric Acid, Phthalic acid and Phenol to get Diphenyl Isophtalate. An IV Chemical Reactor is needed.ANDpreRequgregtech/gt.metaitem.01~30687Quest Name For 16991699gregtech/gt.metaitem.01~30595Quest Name For 17001700rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~30720gregtech/gt.metaitem.01~30720 Name18gregtech/gt.metaitem.01~30595gregtech/gt.metaitem.01~30595 Name18gregtech/gt.metaitem.01~30687gregtech/gt.metaitem.01~30687 Name36Retrievalgregtech/gt.metaitem.01~30598gregtech/gt.metaitem.01~30598 Name18
+gregtech/gt.metaitem.01-30598.png§b§lDiphenyl IsophtalateMix Sulfuric Acid, Phthalic acid and Phenol to get Diphenyl Isophtalate. An IV Chemical Reactor is needed.1-1ANDpre16991gregtech/gt.metaitem.01-30687.png17001gregtech/gt.metaitem.01-30595.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
+18gregtech/gt.metaitem.01-30595.pngPhthalic Acid Cell\nC\u2088H\u2086O\u2084
+18gregtech/gt.metaitem.01-30687.pngPhenol Cell\nC\u2086H\u2086O
+36Retrievalgregtech/gt.metaitem.01-30598.pngDiphenyl Isophtalate Cell\nC\u2082\u2080H\u2081\u2084O\u2084
+18

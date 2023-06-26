@@ -1,5 +1,8 @@
-1914§6§lDo You Feel Unlucky?Well not any more! With some emeralds and a blank book, I'll give you a Fortune I book you can use in your printing press. Once you've duplicated it, you can combine the 2 Fortune I books in an anvil to get a Fortune II. Duplicate the Fortune II books to get a Fortune III! 
+minecraft/enchanted_book-0.png§6§lDo You Feel Unlucky?Well not any more! With some emeralds and a blank book, I'll give you a Fortune I book you can use in your printing press. Once you've duplicated it, you can combine the 2 Fortune I books in an anvil to get a Fortune II. Duplicate the Fortune II books to get a Fortune III! 
 
 With a Fortune III book and a tier-specific item you can remove the trash item rewards from your loot bags. More good stuff!
 
-Soulbound is another good enchantment, it will keep an enchanted item in your inventory in case of death.ANDpreRequBiblioCraft/Printing Press~0Quest Name For 19131913rewardsItemminecraft/enchanted_book~0Item Name1tasksANDRetrievalminecraft/emerald~0minecraft/emerald~0 Name64minecraft/book~0minecraft/book~0 Name8
+Soulbound is another good enchantment, it will keep an enchanted item in your inventory in case of death.0-1ANDpre19130BiblioCraft/Printing Press-0.pngrewardsItemminecraft/enchanted_book-0.pngEnchanted Book\nFortune I\nHold the Sneak key for Enchantment Description
+1tasksANDConsumeminecraft/emerald-0.pngEmerald
+64minecraft/book-0.pngBook
+8

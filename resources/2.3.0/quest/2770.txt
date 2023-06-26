@@ -1,4 +1,4 @@
-2770Min-Maxing CropsBreed stickreed until it's around 20/31/10, then create other crops with it, they inherit the stats. Crossbreeding with the ones you got on the way to raise their stats is also good.
+thaumcraftneiplugin/Aspect-0-messis.pngMin-Maxing CropsBreed stickreed until it's around 20/31/10, then create other crops with it, they inherit the stats. Crossbreeding with the ones you got on the way to raise their stats is also good.
 
 Setup camp in a swamp/jungle type biome around Y130, or use the biome changing methods to make one. This is way faster when breeding crops, not just growing them for drops.
 
@@ -16,4 +16,5 @@ Use WAs in TE mode to accelerate crops if you need it. Mostly useful for breedin
 
 As you tier up, you can create 31/31/0 crops with the machines and UUM. It's up to you whether it's worth it though.
 
-Go do bees if you want something higher than EV tier materials.ANDpreRequgregtech/gt.blockmachines~12501Quest Name For 27292729rewardstasksANDCheckboxcheckbox  
+Go do bees if you want something higher than EV tier materials.0-1ANDpre27290gregtech/gt.blockmachines-12501.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

@@ -1,1 +1,13 @@
-1706§b§lMaster QuantumcomputerThe Master Quantumcomputer is an LuV Circuit.ANDpreRequgregtech/gt.metaitem.03~32086Quest Name For 17051705rewardsChoicegregtech/gt.metaitem.03~32103Choice Name2gregtech/gt.metaitem.03~32016Choice Name32gregtech/gt.metaitem.03~32043Choice Name8enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.03~32103gregtech/gt.metaitem.03~32103 Name2gregtech/gt.metaitem.03~32086gregtech/gt.metaitem.03~32086 Name4gregtech/gt.metaitem.03~32043gregtech/gt.metaitem.03~32043 Name8gregtech/gt.metaitem.03~32039gregtech/gt.metaitem.03~32039 Name32gregtech/gt.metaitem.03~32016gregtech/gt.metaitem.03~32016 Name16gregtech/gt.metaitem.02~19085gregtech/gt.metaitem.02~19085 Name96Retrievalgregtech/gt.metaitem.03~32087gregtech/gt.metaitem.03~32087 Name2
+gregtech/gt.metaitem.03-32087.png§b§lMaster QuantumcomputerThe Master Quantumcomputer is an LuV Circuit.1-1ANDpre17051gregtech/gt.metaitem.03-32086.pngrewardsChoicegregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+2gregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
+32gregtech/gt.metaitem.03-32043.pngNOR Memory Chip\nIntegrated Circuit
+8enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+2gregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly\nAn Elite Circuit\nIV-Tier
+4gregtech/gt.metaitem.03-32043.pngNOR Memory Chip\nIntegrated Circuit
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+32gregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
+16gregtech/gt.metaitem.02-19085.pngFine Platinum Wire\nPt
+96Retrievalgregtech/gt.metaitem.03-32087.pngMaster Quantumcomputer\nA Master Circuit\nLuV-Tier
+2

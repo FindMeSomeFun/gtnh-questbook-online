@@ -1,3 +1,8 @@
-2340ChaliceThe chalice is an upgrade for an altar that improves the maximum amount of power an altar can hold. The chalice will increase the maximum power by 1x the base power rate.
+witchery/ingredient-1.pngChaliceThe chalice is an upgrade for an altar that improves the maximum amount of power an altar can hold. The chalice will increase the maximum power by 1x the base power rate.
 
-The chalice upgrades to the Filled Chalice. Only one chalice upgrade will have an effect on an altar.ANDpreRequwitchery/altar~0Quest Name For 333333rewardsChoicewitchery/ingredient~40Choice Name1enhancedlootbags/lootbag~53Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5tasksANDRetrievalwitchery/ingredient~1witchery/ingredient~1 Name1
+The chalice upgrades to the Filled Chalice. Only one chalice upgrade will have an effect on an altar.0-1ANDpre3330witchery/altar-0.pngrewardsChoicewitchery/ingredient-40.pngRedstone Soup
+1enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5tasksANDRetrievalwitchery/ingredient-1.pngChalice
+1

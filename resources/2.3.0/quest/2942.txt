@@ -1,1 +1,3 @@
-2942§c§lNaquadah DustYou can directly get naquadah dust in a chemical reactor.ANDpreRequbartworks/gt.bwMetaGenerateddust~10063Quest Name For 29412941rewardsItemgregtech/gt.metaitem.01~2324Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~2324gregtech/gt.metaitem.01~2324 Name1
+gregtech/gt.metaitem.01-2324.png§c§lNaquadah DustYou can directly get naquadah dust in a chemical reactor.0-1ANDpre29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardsItemgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+1tasksANDRetrievalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+1

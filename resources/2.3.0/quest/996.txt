@@ -1,1 +1,12 @@
-996Apiarist's ClothIf you have collected 24 woven silk you can make a complete Apiarist's suit to be protected from bee stings and other bad bee effects. You can also use the suit parts to upgrade your EnderIO Dark Steel Armor to have the same effect.ANDpreRequForestry/factory~1Quest Name For 578578Forestry/craftingMaterial~3Quest Name For 995995rewardsChoiceForestry/beeQueenGE~0Choice Name1ExtraBees/hiveFrame.cocoa~0Choice Name4enhancedlootbags/lootbag~26Choice Name1Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinBeesI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5tasksANDOptionalForestry/craftingMaterial~3Forestry/craftingMaterial~3 Name24RetrievalForestry/apiaristHelmet~0Forestry/apiaristHelmet~0 Name1Forestry/apiaristChest~0Forestry/apiaristChest~0 Name1Forestry/apiaristLegs~0Forestry/apiaristLegs~0 Name1Forestry/apiaristBoots~0Forestry/apiaristBoots~0 Name1
+Forestry/apiaristHelmet-0.pngApiarist's ClothIf you have collected 24 woven silk you can make a complete Apiarist's suit to be protected from bee stings and other bad bee effects. You can also use the suit parts to upgrade your EnderIO Dark Steel Armor to have the same effect.0-1ANDpre5780Forestry/factory-1.png9950Forestry/craftingMaterial-3.pngrewardsChoiceForestry/beeQueenGE-0-Cultivated.pngCultivated Queen\nPristine Stock
+1ExtraBees/hiveFrame.cocoa-0.pngChocolate Frame
+4enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5tasksANDOptionalForestry/craftingMaterial-3.pngWoven Silk
+24RetrievalForestry/apiaristHelmet-0.pngApiarist''s Hat\nProtection: 1\nDurability: 100/100
+1Forestry/apiaristChest-0.pngApiarist''s Shirt\nProtection: 3\nDurability: 100/100
+1Forestry/apiaristLegs-0.pngApiarist''s Pants\nProtection: 2\nDurability: 100/100
+1Forestry/apiaristBoots-0.pngApiarist''s Shoes\nProtection: 1\nDurability: 100/100
+1

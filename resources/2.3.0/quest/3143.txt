@@ -1,1 +1,16 @@
-3143Quantum ChestplateYou can make a Quantum Chestplate as well. You can fly with it, but the hover mode is not great and it is a lot slower than the Advanced NanoChestPlate because it doesn't have a boost mode. What you really want is the GraviChestPlate but that is ZPM-tier. Alternatively you can make a magic infused chestplate.ANDpreRequIC2/itemArmorQuantumHelmet~1Quest Name For 803803rewardsChoicegregtech/gt.metaitem.01~32604Choice Name2IC2/itemPartIridium~0Choice Name4enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGraviSuite/advNanoChestPlate~32767GraviSuite/advNanoChestPlate~32767 Name1dreamcraft/item.IridiumAlloyItemCasing~0dreamcraft/item.IridiumAlloyItemCasing~0 Name8Optionaldreamcraft/item.QuantumPartChestplate~0dreamcraft/item.QuantumPartChestplate~0 Name1dreamcraft/item.QuantumCrystal~0dreamcraft/item.QuantumCrystal~0 Name1gregtech/gt.metaitem.01~32706gregtech/gt.metaitem.01~32706 Name2gregtech/gt.blockmachines~1662gregtech/gt.blockmachines~1662 Name6gregtech/gt.metaitem.01~32597gregtech/gt.metaitem.01~32597 Name1gregtech/gt.metaitem.01~32673gregtech/gt.metaitem.01~32673 Name3gregtech/gt.metaitem.01~32604gregtech/gt.metaitem.01~32604 Name2gregtech/gt.metaitem.01~27316gregtech/gt.metaitem.01~27316 Name4RetrievalIC2/itemArmorQuantumChestplate~32767IC2/itemArmorQuantumChestplate~32767 Name1
+IC2/itemArmorQuantumChestplate-1-charged.pngQuantum ChestplateYou can make a Quantum Chestplate as well. You can fly with it, but the hover mode is not great and it is a lot slower than the Advanced NanoChestPlate because it doesn't have a boost mode. What you really want is the GraviChestPlate but that is ZPM-tier. Alternatively you can make a magic infused chestplate.0-1ANDpre8030IC2/itemArmorQuantumHelmet-1-charged.pngrewardsChoicegregtech/gt.metaitem.01-32604.pngElectric Motor
+2IC2/itemPartIridium-0.pngIridium Reinforced Plate
+4enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGraviSuite/advNanoChestPlate-32767.pngAdvanced NanoChestPlate\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1dreamcraft/item.IridiumAlloyItemCasing-0.pngIridium Alloy Item Casing
+8Optionaldreamcraft/item.QuantumPartChestplate-0.pngQuantum Parts "Chestplate"\nDon''t try to wear this, you can''t
+1dreamcraft/item.QuantumCrystal-0.pngQuantum Crystal
+1gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe\nA Master Circuit\nLuV-Tier
+2gregtech/gt.blockmachines-1662.png4x Tungstensteel Wire\nMax Voltage: 8,192 (IV)\nMax Amperage: 12\nLoss/Meter/Ampere: 4 EU-Volt
+6gregtech/gt.metaitem.01-32597.pngLapotronic Energy Orb\nReusable battery\n0 / 100,000,000 EU - Voltage: 8192\nIV-Tier
+1gregtech/gt.metaitem.01-32673.pngField Generator
+3gregtech/gt.metaitem.01-32604.pngElectric Motor
+2gregtech/gt.metaitem.01-27316.pngTungstensteel Screw\n(Fe\u2085\u2080C)W
+4RetrievalIC2/itemArmorQuantumChestplate-32767-charged.pngQuantumSuit Bodyarmor\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1

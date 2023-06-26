@@ -1,1 +1,11 @@
-683Wet Dirt Armor?If you don't have any armor, "mud armor" is better than nothing. Mud can be found in some wet biomes, or crafted from dirt and water.ANDpreRequgregtech/gt.metatool.01~2Quest Name For 55rewardsChoiceBiomesOPlenty/mudball~0Choice Name64minecraft/log~0Choice Name32enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name2dreamcraft/item.CoinSurvivor~0Item Name2tasksANDOptionalBiomesOPlenty/mudball~0BiomesOPlenty/mudball~0 Name24CraftingBiomesOPlenty/helmetMud~0BiomesOPlenty/helmetMud~0 Name1BiomesOPlenty/chestplateMud~0BiomesOPlenty/chestplateMud~0 Name1BiomesOPlenty/leggingsMud~0BiomesOPlenty/leggingsMud~0 Name1BiomesOPlenty/bootsMud~0BiomesOPlenty/bootsMud~0 Name1
+BiomesOPlenty/chestplateMud-0.pngWet Dirt Armor?If you don't have any armor, "mud armor" is better than nothing. Mud can be found in some wet biomes, or crafted from dirt and water.0-1ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsChoiceBiomesOPlenty/mudball-0.pngMud Ball
+64minecraft/log-0.pngOak Wood\nBurn Time: 300
+32enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+2tasksANDOptionalBiomesOPlenty/mudball-0.pngMud Ball
+24CraftingBiomesOPlenty/helmetMud-0.pngMuddy Helmet\nProtection: 1\nDurability: 22/22
+1BiomesOPlenty/chestplateMud-0.pngMuddy Chestplate\nProtection: 1\nDurability: 32/32
+1BiomesOPlenty/leggingsMud-0.pngMuddy Leggings\nProtection: 1\nDurability: 30/30
+1BiomesOPlenty/bootsMud-0.pngMuddy Boots\nProtection: 1\nDurability: 26/26
+1

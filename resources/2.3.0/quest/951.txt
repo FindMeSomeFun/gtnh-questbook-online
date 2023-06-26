@@ -1,3 +1,10 @@
-951§6§lFluid SolidifierUse molds to make plates, sticks, bolts and many more item parts in the fluid solidifier.
+gregtech/gt.blockmachines-522.png§6§lFluid SolidifierUse molds to make plates, sticks, bolts and many more item parts in the fluid solidifier.
 
-Molds are != to Extruder shapes. You're gonna need 2 sets. If they're too expensive, just make the most important ones for now.ORpreRequgregtech/gt.metaitem.01~32611Quest Name For 893893rewardsChoiceIC2/itemCellEmpty~0Choice Name16gregtech/gt.integrated_circuit~0Choice Name1gregtech/gt.blockmachines~5132Choice Name2enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~32301gregtech/gt.metaitem.01~32301 Name1Retrievalgregtech/gt.blockmachines~522gregtech/gt.blockmachines~522 Name1
+Molds are != to Extruder shapes. You're gonna need 2 sets. If they're too expensive, just make the most important ones for now.1-1ORpre8931gregtech/gt.metaitem.01-32611.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
+16gregtech/gt.integrated_circuit-0.pngProgrammed Circuit\nConfiguration: == 0\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
+1gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,500 K
+2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-32301.pngMold\nMold for making Plates
+1Retrievalgregtech/gt.blockmachines-522.pngAdvanced Fluid Solidifier\nCools Fluids down to form Solids\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

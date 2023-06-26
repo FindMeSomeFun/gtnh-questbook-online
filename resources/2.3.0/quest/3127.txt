@@ -1,5 +1,7 @@
-3127Upgrading Your BenzeneHaving moved another tier, you have unlocked another fuel upgrade! Luckily for you, it uses simple inputs, although the place in which you craft it is more expensive than usual. This time around, the bigger expense is by far the processing multiblock, and you will need several stacks of Titanium to put it together. 
+gregtech/gt.blockcasings4-2.pngUpgrading Your BenzeneHaving moved another tier, you have unlocked another fuel upgrade! Luckily for you, it uses simple inputs, although the place in which you craft it is more expensive than usual. This time around, the bigger expense is by far the processing multiblock, and you will need several stacks of Titanium to put it together. 
 
 Given as much, this is not a task for the very start of EV. It's recommended that you automate your Titanium processing line before you attempt this, because the Chemical Plant is going to grind your manual patience otherwise. If you already have a lot of that, everything else should be much simpler.
 
-(You will need a lot more than a stack. This is just to get you started.)ORpreRequgregtech/gt.blockmachines~14Quest Name For 176176gregtech/gt.metaitem.01~30675Quest Name For 31143114rewardsItemgregtech/gt.blockcasings4~2Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~11028gregtech/gt.metaitem.01~11028 Name64
+(You will need a lot more than a stack. This is just to get you started.)0-1ORpre1761gregtech/gt.blockmachines-14.png31140gregtech/gt.metaitem.01-30675.pngrewardsItemgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1tasksANDRetrievalgregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+64

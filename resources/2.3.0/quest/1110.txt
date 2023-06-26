@@ -1,3 +1,7 @@
-1110Purge All Your WarpDid you ever have a dream where you could purge all your warp with no bad side effects? This purification talisman will let your dreams come true. It gets rid of it a little at a time, so no effects!
+WarpTheory/item.warptheory.amulet-0.pngPurge All Your WarpDid you ever have a dream where you could purge all your warp with no bad side effects? This purification talisman will let your dreams come true. It gets rid of it a little at a time, so no effects!
 
-Don't forget to wear it.ANDpreRequWarpTheory/item.warptheory.cleanser~0Quest Name For 11091109rewardsItemenhancedlootbags/lootbag~12Item Name1Thaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalWarpTheory/item.warptheory.amulet~0WarpTheory/item.warptheory.amulet~0 Name1
+Don't forget to wear it.0-1ANDpre11091WarpTheory/item.warptheory.cleanser-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalWarpTheory/item.warptheory.amulet-0.pngPurification Talisman\nPurges Warp
+1

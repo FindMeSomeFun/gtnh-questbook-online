@@ -1,3 +1,6 @@
-2789Putting the 'Semi' Back Into Generators MVIf you're still burning Creosote for power, you can get MV amps out of it with these machines. It won't last long, and definitely isn't a good main power source, but it'll give you some EU for your trouble.
+gregtech/gt.blockmachines-838.pngPutting the 'Semi' Back Into Generators MVIf you're still burning Creosote for power, you can get MV amps out of it with these machines. It won't last long, and definitely isn't a good main power source, but it'll give you some EU for your trouble.
 
-Alternatively, Heavy Fuel? It has the same EU per bucket as Benzene, 360k, and is the only semifluid with more than 100k per bucket. If you have it, and are not consuming enough for Diesel, you can use it this way.ANDpreRequgregtech/gt.metaitem.01~32641Quest Name For 896896rewardsItemgregtech/gt.metaitem.01~30741Item Name4Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~838gregtech/gt.blockmachines~838 Name1
+Alternatively, Heavy Fuel? It has the same EU per bucket as Benzene, 360k, and is the only semifluid with more than 100k per bucket. If you have it, and are not consuming enough for Diesel, you can use it this way.0-1ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-838.pngAdvanced Semi-Fluid Generator\nRequires semi-fluid Fuel\nProduces 160 pollution/sec\nFuel Efficiency: 90%\nAdded by: Alkalus - [GT++]\nVoltage OUT: 128 (MV)\nCapacity: 10,752 EU
+1

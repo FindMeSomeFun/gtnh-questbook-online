@@ -1,4 +1,4 @@
-2047§5§lCircuit ProgrammingSome machines have a very, very large number of recipes. To avoid conflicts many recipes have programmed circuits to ensure you get the right one. These programmed circuits are not consumed.
+gregtech/gt.integrated_circuit-1.png§5§lCircuit ProgrammingSome machines have a very, very large number of recipes. To avoid conflicts many recipes have programmed circuits to ensure you get the right one. These programmed circuits are not consumed.
 
 In this modpack, all singleblock GT machines now come with an icon on the bottom right in the GUI that represent a ghost circuit. Click it or scroll to choose the number you need. If you do that you don't have to insert a physical circuit. This is going to be your main option for all single block machines. This option is now also available for input busses of multiblocks which you will get to in later tiers.
 
@@ -13,4 +13,10 @@ There are a few places throughout the modpack where you still need the physical 
 4) Use the GT++ Circuit Programmer block. It isn't portable and only available in MV. But it allows for automation.
 
 
-§3As you can now use the ghost circuits for almost everything, the tasks here are now optional and you can just click the checkmark once you understand how programmed circuits work.ANDpreRequgregtech/gt.blockmachines~221Quest Name For 105105rewardsItemenhancedlootbags/lootbag~4Item Name1tasksANDOptionalgregtech/gt.integrated_circuit~0gregtech/gt.integrated_circuit~0 Name1Optionalbartworks/gt.BWCircuitProgrammer~0bartworks/gt.BWCircuitProgrammer~0 Name1Optionalmiscutils/blockCircuitProgrammer~0miscutils/blockCircuitProgrammer~0 Name1Optionalgregtech/gt.integrated_circuit~1gregtech/gt.integrated_circuit~1 Name1Checkboxcheckbox  
+§3As you can now use the ghost circuits for almost everything, the tasks here are now optional and you can just click the checkmark once you understand how programmed circuits work.0-1ANDpre1051gregtech/gt.blockmachines-221.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDOptionalgregtech/gt.integrated_circuit-0.pngProgrammed Circuit\nConfiguration: == 0\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
+1Optionalbartworks/gt.BWCircuitProgrammer-0.pngCircuit Programmer\nPrograms Integrated Circuits\nTier: 1\nHas Circuit inside? No\nAdded by BartWorks
+1Optionalmiscutils/blockCircuitProgrammer-0.pngCircuit Programmer
+1Optionalgregtech/gt.integrated_circuit-1.pngProgrammed Circuit\nConfiguration: == 1\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
+1Checkboxcheckbox-.pngCheckbox
+1

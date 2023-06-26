@@ -1,5 +1,12 @@
-3012Improved Oil CrackerHave you built an Oil Cracker? Have you checked its coils? This multi gets a significant discount to EU/t when upgrading the coils, but it caps at HSS-S, at a maximum of 50% discount. If you are still using low-tier coils, this is a great time to upgrade them to Nichrome and enjoy a 30% discount. You could also do TPV.
+gregtech/gt.blockcasings5-2.pngImproved Oil CrackerHave you built an Oil Cracker? Have you checked its coils? This multi gets a significant discount to EU/t when upgrading the coils, but it caps at HSS-S, at a maximum of 50% discount. If you are still using low-tier coils, this is a great time to upgrade them to Nichrome and enjoy a 30% discount. You could also do TPV.
 
 By the way, you can wall-share Oil Crackers, just like DTs, LCRs and many other multis, and doing this will save on the amount of coils you need!
 
-§3You only need to do one of the two tasks.ANDpreRequgregtech/gt.blockmachines~142Quest Name For 30103010rewardsItemIC2/itemCellEmpty~0Item Name64gregtech/gt.metaitem.01~30001Item Name16IC2/itemCellEmpty~14Item Name16enhancedlootbags/lootbag~7Item Name1dreamcraft/item.CoinChemistII~0Item Name10tasksORRetrievalgregtech/gt.blockcasings5~2gregtech/gt.blockcasings5~2 Name16Retrievalgregtech/gt.blockcasings5~3gregtech/gt.blockcasings5~3 Name16
+§3You only need to do one of the two tasks.0-1ANDpre30100gregtech/gt.blockmachines-142.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
+64gregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
+16IC2/itemCellEmpty-14.pngSteam Cell
+16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+10tasksORRetrievalgregtech/gt.blockcasings5-2.pngNichrome Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 3601 Kelvin
+16Retrievalgregtech/gt.blockcasings5-3.pngTPV-Alloy Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 4501 Kelvin
+16

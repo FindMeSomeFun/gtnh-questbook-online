@@ -1,5 +1,21 @@
-862§2§lYour First BowSince vanilla bows are only craftable in the assembling machine and mobs don't drop them very often you should make a Tinkers bow.
+TConstruct/ShortBow-0-57.png§2§lYour First BowSince vanilla bows are only craftable in the assembling machine and mobs don't drop them very often you should make a Tinkers bow.
 
 Wood would be the best material for now. Craft the bow limbs out of wood and the bow string out of strings. The arrow that has the most durability is bone, so craft the stick out of bone. It is much lighter but less durable than a regular arrow. Use a flint tip to make it repairable with flint.
 
-§4You can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.ANDpreRequTConstruct/ToolStationBlock~1Quest Name For 3333rewardsItemminecraft/bone~0Item Name10TConstruct/blankPattern~0Item Name2Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDOptionalminecraft/string~0minecraft/string~0 Name3minecraft/flint~0minecraft/flint~0 Name1minecraft/feather~0minecraft/feather~0 Name1minecraft/planks~0minecraft/planks~0 Name3minecraft/bone~0minecraft/bone~0 Name1RetrievalTConstruct/arrowhead~3TConstruct/arrowhead~3 Name1TConstruct/toolRod~5TConstruct/toolRod~5 Name1TConstruct/fletching~0TConstruct/fletching~0 Name1TConstruct/BowLimbPart~0TConstruct/BowLimbPart~0 Name2TConstruct/bowstring~0TConstruct/bowstring~0 Name1RetrievalTConstruct/ShortBow~0TConstruct/ShortBow~0 Name1TConstruct/ArrowAmmo~0TConstruct/ArrowAmmo~0 Name1
+§4You can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.0-1ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemminecraft/bone-0.pngBone
+10TConstruct/blankPattern-0.pngBlank Pattern
+2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalminecraft/string-0.pngString
+3minecraft/flint-0.pngFlint
+1minecraft/feather-0.pngFeather
+1minecraft/planks-0.pngOak Wood Planks\nBurn Time: 300
+3minecraft/bone-0.pngBone
+1RetrievalTConstruct/arrowhead-3.pngFlint Arrowhead\nAttack: 1 Heart\nDurability: 113\nBreak Chance: 100%\nWeight: 1.33\nParts can be replaced
+1TConstruct/toolRod-5.pngBone Tool Rod\nDurability Modifier: 1.08x\nParts can be replaced
+1TConstruct/fletching-0.pngFeather Fletching\nDurability: 1x\nBreak Chance: 5%\nAccuracy: 95%\nParts can be replaced
+1TConstruct/BowLimbPart-0.pngWooden Bow Limb\nDurability: 38\nDraw Speed: 0.9s\nArrow Speed: 3\nParts can be replaced
+2TConstruct/bowstring-0.pngBowstring\nDraw Speed: 1x\nDurability: 1x\nArrow Speed: 1x\nParts can be replaced
+1RetrievalTConstruct/ShortBow-0-57.pngWooden Shortbow\nTool Level: 01-Abused\nArrow
+1TConstruct/ArrowAmmo-0-107.pngFlint Arrows\nTool Level: 01-Abused\n+2 Attack Damage
+1

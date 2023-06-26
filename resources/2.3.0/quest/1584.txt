@@ -1,5 +1,18 @@
-1584Brew of Flowing SpiritThe Brew of Flowing Spirit captures the essence of the Spirit World in liquid form. It can only be brewed in the Spirit World!
+witchery/ingredient-96.pngBrew of Flowing SpiritThe Brew of Flowing Spirit captures the essence of the Spirit World in liquid form. It can only be brewed in the Spirit World!
 
 The Brew can be thrown at the ground and the liquid will burst out (the source block can later be picked up in a bucket). Standing in the liquid will have a minor healing effect for most creatures. Demonic or undead creatures will be weakened. Nightmares standing in the liquid will lose their invulnerability effect!
 
-Having a pool of flowing spirit near a Dream Weaver of Nightmares will decrease the chance of a nightmare by 10 percent for each source block (up to 3).ANDpreRequwitchery/altar~0Quest Name For 15921592witchery/kettle~0Quest Name For 15931593witchery/ingredient~100Quest Name For 15951595rewardsItemwitchery/somniancotton~0Item Name32enhancedlootbags/lootbag~55Item Name1Itemdreamcraft/item.CoinWitchII~0Item Name5dreamcraft/item.CoinCookII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDLocationDIM55DIM55 Name Optionalwitchery/ingredient~100witchery/ingredient~100 Name1witchery/spanishmoss~0witchery/spanishmoss~0 Name1witchery/ingredient~69witchery/ingredient~69 Name1witchery/ingredient~22witchery/ingredient~22 Name1witchery/glintweed~0witchery/glintweed~0 Name1witchery/ingredient~24witchery/ingredient~24 Name1Retrievalwitchery/ingredient~96witchery/ingredient~96 Name3
+Having a pool of flowing spirit near a Dream Weaver of Nightmares will decrease the chance of a nightmare by 10 percent for each source block (up to 3).0-1ANDpre15920witchery/altar-0.png15930witchery/kettle-0.png15950witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+32enhancedlootbags/lootbag-55.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDLocationDIM/55-.pngSpirit World
+1Optionalwitchery/ingredient-100.pngFanciful Thread
+1witchery/spanishmoss-0.pngSpanish Moss
+1witchery/ingredient-69.pngWater Artichoke Globe
+1witchery/ingredient-22.pngMandrake Root
+1witchery/glintweed-0.pngGlint Weed
+1witchery/ingredient-24.pngWool of Bat
+1Retrievalwitchery/ingredient-96.pngBrew of Flowing Spirit
+3

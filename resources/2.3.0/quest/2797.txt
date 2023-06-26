@@ -1,1 +1,3 @@
-2797Portable Clean Energy UVThis is the UV version.ANDpreRequgregtech/gt.metaitem.01~32677Quest Name For 26232623rewardsItemgregtech/gt.metaitem.01~23327Item Name16tasksANDRetrievalgregtech/gt.blockmachines~1189gregtech/gt.blockmachines~1189 Name1
+gregtech/gt.blockmachines-1189.pngPortable Clean Energy UVThis is the UV version.0-1ANDpre26231gregtech/gt.metaitem.01-32677.pngrewardsItemgregtech/gt.metaitem.01-23327.pngNaquadria Rod\nNq*
+16tasksANDRetrievalgregtech/gt.blockmachines-1189.pngNaquadah Reactor Mark V\nRequires Naquadria Rods\nFuel Efficiency: 250%\nVoltage OUT: 524,288 (UV)\nCapacity: 41,943,552 EU
+1

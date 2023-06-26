@@ -1,7 +1,19 @@
-589Multifarm: HatchYou can supply and extract items from the farm by using farm hatches that are connected to pipe systems. 
+Forestry/ffarm-3.pngMultifarm: HatchYou can supply and extract items from the farm by using farm hatches that are connected to pipe systems. 
 
 Supplying items
 The farm hatch is clever enough to know which item goes where. If an item isn't appropriate for the farm's configuration, the hatch will simply reject it.
 
 Extracting items
-Any item that is harvested by the Multifarm is automatically ejected by the farm hatches into inventories or pipes. Pipes can be used to extract from other sides. You may need more than one, or a better conveyor if it isn't extracting fast enough for you.ANDpreRequForestry/ffarm~0Quest Name For 582582rewardsChoiceForestry/thermionicTubes~11Choice Name4Forestry/thermionicTubes~10Choice Name4Forestry/thermionicTubes~9Choice Name4enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDOptionalForestry/ffarm~0Forestry/ffarm~0 Name1gregtech/gt.metaitem.01~32630gregtech/gt.metaitem.01~32630 Name2gregtech/gt.metaitem.01~32600gregtech/gt.metaitem.01~32600 Name1minecraft/hopper~0minecraft/hopper~0 Name1gregtech/gt.metaitem.02~31305gregtech/gt.metaitem.02~31305 Name1Forestry/thermionicTubes~1Forestry/thermionicTubes~1 Name4RetrievalForestry/ffarm~3Forestry/ffarm~3 Name2
+Any item that is harvested by the Multifarm is automatically ejected by the farm hatches into inventories or pipes. Pipes can be used to extract from other sides. You may need more than one, or a better conveyor if it isn't extracting fast enough for you.0-1ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-11.pngLapis Electron Tube
+4Forestry/thermionicTubes-10.pngApatine Electron Tube
+4Forestry/thermionicTubes-9.pngEmerald Electron Tube
+4enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDOptionalForestry/ffarm-0.pngFarm Block\nStone Bricks
+1gregtech/gt.metaitem.01-32630.pngConveyor Module\n1 stack every 20 secs (as Cover)
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1minecraft/hopper-0.pngHopper
+1gregtech/gt.metaitem.02-31305.pngSteel Gear\nFe\u2085\u2080C
+1Forestry/thermionicTubes-1.pngTin Electron Tube
+4RetrievalForestry/ffarm-3.pngFarm Hatch\nStone Bricks
+2

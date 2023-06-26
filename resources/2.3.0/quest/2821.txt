@@ -1,1 +1,5 @@
-2821Toss Your Magic Junk in Here HVThe HV Version.ANDpreRequminecraft/beacon~0Quest Name For 11021102gregtech/gt.metaitem.01~32671Quest Name For 18801880rewardsItemThaumcraft/ItemShard~6Item Name24Itemdreamcraft/item.CoinTechnicianII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~1125gregtech/gt.blockmachines~1125 Name1
+gregtech/gt.blockmachines-1125.pngToss Your Magic Junk in Here HVThe HV Version.0-1ANDpre11020minecraft/beacon-0.png18800gregtech/gt.metaitem.01-32671.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
+24Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-1125.pngMaster Magic Energy Converter\nPut your strange stuff in here\nFuel Efficiency: 85%\nVoltage OUT: 512 (HV)\nCapacity: 41,472 EU
+1

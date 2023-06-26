@@ -1,7 +1,11 @@
-2530Spring CleaningSo, when you first started AE, maybe you dumped a bunch of your items into 1k drives, but now you want to clean them up, or empty them to reuse them in making higher tier ones. The ME IO Port will allow you to fill or empty your drives by connecting to the rest of the network.
+appliedenergistics2/tile.BlockCellWorkbench-0.pngSpring CleaningSo, when you first started AE, maybe you dumped a bunch of your items into 1k drives, but now you want to clean them up, or empty them to reuse them in making higher tier ones. The ME IO Port will allow you to fill or empty your drives by connecting to the rest of the network.
 
 You can use the Cell Workbench to format your drives, so they'll only contain the stuff you want. Remember, more item types mean less space overall. You can set them to lapis for example, then put them in the ME IO Port with the transfer direction to the drive to fill it with only that item. Don't put in an unformatted drive while using storage drawers to store tons of stuff! If you want to move your stuff around, put in new drives, then empty old ones, or disconnect your storage drawers temporarily.
 
 You can use the Workbench to format fluid drives too, and even use cells instead of buckets.
 
-Cell Workbenches do not connect to the network, so they don't need a channel.ANDpreRequappliedenergistics2/tile.BlockDrive~0Quest Name For 12921292rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/tile.BlockIOPort~0appliedenergistics2/tile.BlockIOPort~0 Name1appliedenergistics2/tile.BlockCellWorkbench~0appliedenergistics2/tile.BlockCellWorkbench~0 Name1
+Cell Workbenches do not connect to the network, so they don't need a channel.0-1ANDpre12921appliedenergistics2/tile.BlockDrive-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/tile.BlockIOPort-0.pngME IO Port
+1appliedenergistics2/tile.BlockCellWorkbench-0.pngCell Workbench
+1

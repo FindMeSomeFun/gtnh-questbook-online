@@ -1,4 +1,4 @@
-44§3§lWelcome to Tier 0.5, Steam!Welcome, and well done so far! This tier is all about your first machines, getting more stuff from your ores and making bronze ingots in a more efficient manner.
+gregtech/gt.blockmachines-100.png§3§lWelcome to Tier 0.5, Steam!Welcome, and well done so far! This tier is all about your first machines, getting more stuff from your ores and making bronze ingots in a more efficient manner.
 
 For water, check out the Water Siding Tank multiblock in the Multiblock goals tab.
 
@@ -6,4 +6,9 @@ To connect up your boilers, be sure to provide water from the bottom, they'll ac
 
 Steam will come out from the sides. Remember, steam is hot! It will destroy wooden pipes. And it can burn you if you walk on bronze pipes full of steam.  Cover them with wooden planks or paper. Or just don't walk on/next to them.
 
-And no, you can't automate it. Make an electric one if you want to do that.ANDpreRequgregtech/gt.blockmachines~100Quest Name For 4040rewardsItemRailcraft/fuel.coke~0Item Name2minecraft/coal~0Item Name2minecraft/coal~1Item Name2gregtech/gt.metaitem.01~8538Item Name2tasksANDRetrievalgregtech/gt.blockmachines~100gregtech/gt.blockmachines~100 Name1
+And no, you can't automate it. Make an electric one if you want to do that.1-1ANDpre401gregtech/gt.blockmachines-100.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+2minecraft/coal-0.pngCoal\nBurn Time: 1600
+2minecraft/coal-1.pngCharcoal\nBurn Time: 1600
+2gregtech/gt.metaitem.01-8538.pngLignite Coal\nC\u2083(H\u2082O)\nBurn Time: 1200
+2tasksANDRetrievalgregtech/gt.blockmachines-100.pngSmall Coal Boiler\nAn early way to get Steam Power\nProduces 120L of Steam per second\nCauses 20 Pollution per second
+1

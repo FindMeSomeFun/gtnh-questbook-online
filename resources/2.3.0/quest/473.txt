@@ -1,1 +1,10 @@
-473§2§lMaking a Better SwordNow it's time to make your first tinkers sword. First you have to make a blade, a type of guard, and tool rod cast forms. Melt some bronze in the smeltery and cast your tool parts. Tadaa... your first tinkers sword. There are 4 types of guard, changing them gets you a different sword type, see the tinker's book for details.ANDpreRequTConstruct/pickaxe~0Quest Name For 3838TConstruct/Smeltery~0Quest Name For 7474rewardsChoiceTConstruct/materials~14Choice Name4enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name5dreamcraft/item.CoinSurvivor~0Item Name5dreamcraft/item.CoinTechnician~0Item Name5tasksANDOptionalTConstruct/metalPattern~5TConstruct/metalPattern~5 Name1TConstruct/metalPattern~1TConstruct/metalPattern~1 Name1RetrievalTConstruct/swordBlade~14TConstruct/swordBlade~14 Name1TConstruct/toolRod~14TConstruct/toolRod~14 Name1
+TConstruct/broadsword-0-427.png§2§lMaking a Better SwordNow it's time to make your first tinkers sword. First you have to make a blade, a type of guard, and tool rod cast forms. Melt some bronze in the smeltery and cast your tool parts. Tadaa... your first tinkers sword. There are 4 types of guard, changing them gets you a different sword type, see the tinker's book for details.0-1ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsChoiceTConstruct/materials-14.pngAluminum Brass Ingot
+4enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDOptionalTConstruct/metalPattern-5.pngSword Blade Cast\nMaterial Cost: 1
+1TConstruct/metalPattern-1.pngTool Rod Cast\nMaterial Cost: 0.5
+1RetrievalTConstruct/swordBlade-14.pngBronze Sword Blade\nReinforced I\nAttack: 1.5 Hearts\nDurability: 285\nParts can be replaced
+1TConstruct/toolRod-14.pngBronze Tool Rod\nReinforced I\nDurability Modifier: 1.25x\nParts can be replaced
+1

@@ -1,3 +1,5 @@
-1507§4§3§lMaking a List, Checking it TwiceAs your base grows, you're going to have a dozen different long term goals each with many steps. Build a clipboard to keep track of what you need to do.
+BiblioCraft/item.BiblioClipboard-0.png§4§3§lMaking a List, Checking it TwiceAs your base grows, you're going to have a dozen different long term goals each with many steps. Build a clipboard to keep track of what you need to do.
 
-§4Hint: You can put the clipboard on a wall using Shift-Rightclick. ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItemdreamcraft/item.CoinSmith~0Item Name10tasksANDRetrievalBiblioCraft/item.BiblioClipboard~0BiblioCraft/item.BiblioClipboard~0 Name1
+§4Hint: You can put the clipboard on a wall using Shift-Rightclick. 0-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10tasksANDRetrievalBiblioCraft/item.BiblioClipboard-0.pngClipboard
+1

@@ -1,5 +1,6 @@
-3164Optional Tier 1 FusionOsmium - from Helium and Tungsten. Osmium from the platline is quite power-hungry, which this recipe won't solve, but it will at least help you past the terrible output rate of Osmium. You can get it faster from here as long as you can keep supplying Tungsten and power.
+dreamcraft/item.MedalBuilder-0.pngOptional Tier 1 FusionOsmium - from Helium and Tungsten. Osmium from the platline is quite power-hungry, which this recipe won't solve, but it will at least help you past the terrible output rate of Osmium. You can get it faster from here as long as you can keep supplying Tungsten and power.
 
 Sunnarium - from Helium + Glowstone. If you've had difficulty in getting lots of Sunnarium after the Molecular Transformer nerf, you can try this for your Solar Panels and other things. Glowing Coral processing with UUM is recommended, though.
 
-Boron - from Lithium and Helium. If you haven't automated this yet, for Borosilicate Glass for example, this is one way to do it. You will need lots of glass for the Mega Blast Furnace and other big multis of the kind, so it's not a useless recipe.ANDpreRequmiscutils/particleIon~62Quest Name For 31623162rewardstasksANDCheckboxcheckbox  
+Boron - from Lithium and Helium. If you haven't automated this yet, for Borosilicate Glass for example, this is one way to do it. You will need lots of glass for the Mega Blast Furnace and other big multis of the kind, so it's not a useless recipe.0-1ANDpre31620miscutils/particleIon-62.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

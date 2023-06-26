@@ -1,5 +1,6 @@
-457Energy InfuserThe Energy Infuser is the tech answer to the Thaumic Restorer for repairing items and also acts a charger.
+gregtech/gt.blockmachines-15350.pngEnergy InfuserThe Energy Infuser is the tech answer to the Thaumic Restorer for repairing items and also acts a charger.
 
 When fed with energy it is able to charge any item that is fed into its Input Bus. Fully charged items will be placed in the Output Bus. The items will be fed with the amount of energy provided by the used Energy Hatch.
 
-Apart from its charging capabilities the Energy Infuser can repair items when provided with UU-Matter and energy. However, GregTech tools can not be repaired. When repairing the machine consumes 1L UU-Matter and 1000 EU per repaired durability point.ANDpreRequtectech/gt.blockcasingsTT~0Quest Name For 20062006rewardstasksANDRetrievalgregtech/gt.blockmachines~15350gregtech/gt.blockmachines~15350 Name1
+Apart from its charging capabilities the Energy Infuser can repair items when provided with UU-Matter and energy. However, GregTech tools can not be repaired. When repairing the machine consumes 1L UU-Matter and 1000 EU per repaired durability point.0-1ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-15350.pngEnergy Infuser\nMachine Type: Energy Infuser\nController block of the Energy Infuser\nCan be used to charge items (lossless)\nCan be fed with UU-Matter to repair items\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: TecTech: Interdimensional
+1

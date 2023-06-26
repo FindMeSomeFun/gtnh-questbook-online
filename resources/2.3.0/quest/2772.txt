@@ -1,7 +1,13 @@
-2772BEGONE, LAG! Also, BatsLag = Butterflies in this case, since they like to pile up just outside of chunk loading range. Also, they're annoying since they convert regular trees into more forestry ones, one leaf block at a time. Which causes more of the buggers to spawn. Fortunately, the settings we use prevent too many from being present at once, but still, they're annoying.
+miscutils/blockPestKiller-0.pngBEGONE, LAG! Also, BatsLag = Butterflies in this case, since they like to pile up just outside of chunk loading range. Also, they're annoying since they convert regular trees into more forestry ones, one leaf block at a time. Which causes more of the buggers to spawn. Fortunately, the settings we use prevent too many from being present at once, but still, they're annoying.
 
 The solution to this is to kill them. Also, the bats. Stupid Thaumcraft warp. Use the (potentially unfinished) Pest Killer to do so.
 
 Notes: Hydrogen Cyanide has a recipe now. Both it and Formaldehyde require a Chemical Plant. It doesn't appear to use any of the Formaldehyde up though. The range is apparently 5x5 chunks, not blocks. It also only runs once every 30s or so?
 
-§3PS: If you experience problems using it (more than already mentioned), raise a ticket on github.ANDpreRequForestry/sapling~0Quest Name For 21222122gregtech/gt.blockmachines~998Quest Name For 23972397rewardsItemwitchery/ingredient~24Item Name8miscutils/Formaldehyde~0Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name1dreamcraft/item.CoinBeesII~0Item Name1tasksANDRetrievalmiscutils/blockPestKiller~0miscutils/blockPestKiller~0 Name1miscutils/Formaldehyde~0miscutils/Formaldehyde~0 Name1
+§3PS: If you experience problems using it (more than already mentioned), raise a ticket on github.0-1ANDpre21220Forestry/sapling-0-Oak.png23971gregtech/gt.blockmachines-998.pngrewardsItemwitchery/ingredient-24.pngWool of Bat
+8miscutils/Formaldehyde-0.pngFormaldehyde Cell
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
+1tasksANDRetrievalmiscutils/blockPestKiller-0.pngPest Killer\nKills Forestry Butterflies, Bats and other pests\nUse either Formaldehyde or Hydrogen cyanide\nBe weary of your neighbours\nBurn Time: 300
+1miscutils/Formaldehyde-0.pngFormaldehyde Cell
+1

@@ -1,3 +1,14 @@
-1427Tier 2 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 11 tier 2 heavy duty plates out of tier 1 plates and meteoric iron plates.
+GalacticraftMars/item.null-3.pngTier 2 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 11 tier 2 heavy duty plates out of tier 1 plates and meteoric iron plates.
 
-You'll need to make a couple of tungstensteel ingots to make these plates. You can process end stone or end stone dust, or macerate moon blocks to get some.ANDpreRequgregtech/gt.blockores~340Quest Name For 14261426GalacticraftCore/tile.moonBlock~14Quest Name For 14331433rewardsChoiceGalacticraftCore/item.heavyPlating~0Choice Name1gregtech/gt.metaitem.01~17340Choice Name16IC2/blockITNT~0Choice Name32enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSpaceII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalGalacticraftCore/item.heavyPlating~0GalacticraftCore/item.heavyPlating~0 Name11gregtech/gt.metaitem.01~17340gregtech/gt.metaitem.01~17340 Name22gregtech/gt.metaitem.01~11316gregtech/gt.metaitem.01~11316 Name6Optionalgregtech/gt.metaitem.01~32463gregtech/gt.metaitem.01~32463 Name11RetrievalGalacticraftMars/item.null~3GalacticraftMars/item.null~3 Name11
+You'll need to make a couple of tungstensteel ingots to make these plates. You can process end stone or end stone dust, or macerate moon blocks to get some.1-1ANDpre14261gregtech/gt.blockores-340.png14331GalacticraftCore/tile.moonBlock-14.pngrewardsChoiceGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+1gregtech/gt.metaitem.01-17340.pngMeteoric Iron Plate\nSpFe
+16IC2/blockITNT-0.pngIndustrial TNT
+32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+11gregtech/gt.metaitem.01-17340.pngMeteoric Iron Plate\nSpFe
+22gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+6Optionalgregtech/gt.metaitem.01-32463.pngHeavy Duty Alloy Ingot T2\nUsed to make Heavy Duty Plates T2
+11RetrievalGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+11

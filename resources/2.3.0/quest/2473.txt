@@ -1,1 +1,4 @@
-24731024k Crafting StorageComponent of the crafting CPU which provides 1,048,576 bytes of storage for crafting.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~58Quest Name For 24652465rewardsItemdreamcraft/item.EmeraldAdvancedCoreChip~0Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name4tasksANDRetrievalappliedenergistics2/tile.BlockAdvancedCraftingStorage~1appliedenergistics2/tile.BlockAdvancedCraftingStorage~1 Name1
+appliedenergistics2/tile.BlockAdvancedCraftingStorage-1.png1024k Crafting StorageComponent of the crafting CPU which provides 1,048,576 bytes of storage for crafting.0-1ANDpre24650appliedenergistics2/item.ItemMultiMaterial-58.pngrewardsItemdreamcraft/item.EmeraldAdvancedCoreChip-0.pngItem Circuit Tier III
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+4tasksANDRetrievalappliedenergistics2/tile.BlockAdvancedCraftingStorage-1.png1024k Crafting Storage
+1

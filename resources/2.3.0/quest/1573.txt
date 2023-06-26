@@ -1,1 +1,10 @@
-1573Oil of VitriolOil of Vitriol is an ingredient produced in a distillery by using Foul Fume and Quicklime.ANDpreRequwitchery/distilleryidle~0Quest Name For 15711571rewardsItemwitchery/ingredient~24Item Name2witchery/ingredient~27Item Name16Itemdreamcraft/item.CoinCookII~0Item Name1dreamcraft/item.CoinWitchII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1tasksANDOptionalwitchery/ingredient~28witchery/ingredient~28 Name16witchery/ingredient~16witchery/ingredient~16 Name16witchery/ingredient~27witchery/ingredient~27 Name16Retrievalwitchery/ingredient~30witchery/ingredient~30 Name16
+witchery/ingredient-30.pngOil of VitriolOil of Vitriol is an ingredient produced in a distillery by using Foul Fume and Quicklime.0-1ANDpre15710witchery/distilleryidle-0.pngrewardsItemwitchery/ingredient-24.pngWool of Bat
+2witchery/ingredient-27.pngClay Jar
+16Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDOptionalwitchery/ingredient-28.pngFoul Fume
+16witchery/ingredient-16.pngQuicklime
+16witchery/ingredient-27.pngClay Jar
+16Retrievalwitchery/ingredient-30.pngOil of Vitriol
+16

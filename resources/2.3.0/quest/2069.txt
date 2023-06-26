@@ -1,3 +1,10 @@
-2069§6§lHot Hot Hot!Once you build your vacuum freezer, you're going to have to carry around hot ingots all the time (assuming you don't automate it). Your old gloves are falling apart, and take up both hands. I think there's a way to glue them together so you can carry hot items with just one hand. Give me some parts and I'll do it for you.
+miscutils/GTPP.bauble.fireprotection.0.name-0.png§6§lHot Hot Hot!Once you build your vacuum freezer, you're going to have to carry around hot ingots all the time (assuming you don't automate it). Your old gloves are falling apart, and take up both hands. I think there's a way to glue them together so you can carry hot items with just one hand. Give me some parts and I'll do it for you.
 
-§3PS: The particle effect is active all the time, so if you don't like that, don't do this quest or don't wear them.ANDpreRequgregtech/gt.blockmachines~1002Quest Name For 8181rewardsItemmiscutils/GTPP.bauble.fireprotection.0.name~0Item Name1tasksANDRetrievaldreamcraft/item.OvenGlove~0dreamcraft/item.OvenGlove~0 Name1dreamcraft/item.OvenGlove~1dreamcraft/item.OvenGlove~1 Name1Natura/barleyFood~7Natura/barleyFood~7 Name8Thaumcraft/ItemResource~7Thaumcraft/ItemResource~7 Name8Natura/barleyFood~6Natura/barleyFood~6 Name8dreamcraft/item.MicaInsulatorFoil~0dreamcraft/item.MicaInsulatorFoil~0 Name8
+§3PS: The particle effect is active all the time, so if you don't like that, don't do this quest or don't wear them.0-1ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemmiscutils/GTPP.bauble.fireprotection.0.name-0.pngSupreme Pizza Gloves
+1tasksANDRetrievaldreamcraft/item.OvenGlove-0.pngCake Glove\nProtecting your fingers since 1890\nDurability: 1000/1000\nPut both Gloves in the Baubles Ring Slot
+1dreamcraft/item.OvenGlove-1.pngLava Glove\nProtecting your fingers since 1890\nDurability: 1000/1000\nPut both Gloves in the Baubles Ring Slot
+1Natura/barleyFood-7.pngFlamestring\nSomewhat more durable than string
+8Thaumcraft/ItemResource-7.pngEnchanted Fabric
+8Natura/barleyFood-6.pngImp Leather\nResist the heat of the Nether
+8dreamcraft/item.MicaInsulatorFoil-0.pngMica Insulator Foil
+8

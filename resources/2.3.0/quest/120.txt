@@ -1,1 +1,6 @@
-120§5§lProtect Your Base: Tier 1One needs proper protection for ones home. So why not get some turrets for safety? At the moment, 2 Turrets are available: "Potato" and "disposable item". I assume you can guess what they do and how they work...ANDpreRequopenmodularturrets/fenceTierOne~0Quest Name For 121121rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalopenmodularturrets/sensorTierOneItem~0openmodularturrets/sensorTierOneItem~0 Name2openmodularturrets/barrelTierOne~0openmodularturrets/barrelTierOne~0 Name3openmodularturrets/chamberTierOne~0openmodularturrets/chamberTierOne~0 Name2
+openmodularturrets/chamberTierOne-0.png§5§lProtect Your Base: Tier 1One needs proper protection for ones home. So why not get some turrets for safety? At the moment, 2 Turrets are available: "Potato" and "disposable item". I assume you can guess what they do and how they work...0-1ANDpre1210openmodularturrets/fenceTierOne-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalopenmodularturrets/sensorTierOneItem-0.pngSensor
+2openmodularturrets/barrelTierOne-0.pngBarrel
+3openmodularturrets/chamberTierOne-0.pngChamber
+2

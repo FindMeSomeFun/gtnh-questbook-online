@@ -1,1 +1,3 @@
-1026Electrum RodsWant some electrum rods? Buy some!ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160rewardsItemgregtech/gt.metaitem.01~23303Item Name16tasksANDRetrievaldreamcraft/item.CoinTechnicianI~0dreamcraft/item.CoinTechnicianI~0 Name16
+gregtech/gt.metaitem.01-23303.pngElectrum RodsWant some electrum rods? Buy some!048000ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-23303.pngElectrum Rod\nAgAu
+16tasksANDConsumedreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+16

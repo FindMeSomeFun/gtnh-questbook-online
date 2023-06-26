@@ -1,5 +1,20 @@
-2409§6§lEven Rarer EarthsRare Earth processing may have been ignored, but you believe your new Dehydrator can finally make it worthwhile. First, you need to use some Sulfuric Acid to melt off any impurities in a Chemical Bath, leaving you with Crushed Rare Earth (I). After that you need to process it like a normal ore until you get Rare Earth (I) Dust.
+miscutils/itemDustRareEarthI-0.png§6§lEven Rarer EarthsRare Earth processing may have been ignored, but you believe your new Dehydrator can finally make it worthwhile. First, you need to use some Sulfuric Acid to melt off any impurities in a Chemical Bath, leaving you with Crushed Rare Earth (I). After that you need to process it like a normal ore until you get Rare Earth (I) Dust.
 
 After running the Dust through your Dehydrator, you get a number of strange materials, only some of which you recognize. But if you run these materials through an Electrolyzer or through the Dehydrator again, you may get some use out of them. Some of them may take quite a few to do so, but you §o§o§r§h§ohave§r been stockpiling, right? You'll need 204 Rare Earth.
 
-You believe if you had more powerful acids and machines, you could extract even more valuable materials out of the Rare Earth.ANDpreRequgregtech/gt.blockmachines~911Quest Name For 16141614rewardsChoiceenhancedlootbags/lootbag~5Choice Name2gregtech/gt.metaitem.01~2891Choice Name64miscutils/itemDustRareEarthI~0Choice Name32Itemdreamcraft/item.CoinChemistII~0Item Name1dreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalmiscutils/itemDustGreenockite~0miscutils/itemDustGreenockite~0 Name1miscutils/itemDustLanthaniteCe~0miscutils/itemDustLanthaniteCe~0 Name11miscutils/itemDustAgarditeCd~0miscutils/itemDustAgarditeCd~0 Name45miscutils/itemDustYttrialite~0miscutils/itemDustYttrialite~0 Name13gregtech/gt.metaitem.01~2522gregtech/gt.metaitem.01~2522 Name1gregtech/gt.metaitem.01~2830gregtech/gt.metaitem.01~2830 Name2gregtech/gt.metaitem.01~2855gregtech/gt.metaitem.01~2855 Name4miscutils/itemDustCryoliteF~0miscutils/itemDustCryoliteF~0 Name10gregtech/gt.metaitem.01~2045gregtech/gt.metaitem.01~2045 Name1
+You believe if you had more powerful acids and machines, you could extract even more valuable materials out of the Rare Earth.0-1ANDpre16140gregtech/gt.blockmachines-911.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2gregtech/gt.metaitem.01-2891.pngRare Earth
+64miscutils/itemDustRareEarthI-0.pngRare Earth\n??????\nHold Ctrl to show additional info.
+32Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalmiscutils/itemDustGreenockite-0.pngGreenockite Dust\nCdS\nHold Ctrl to show additional info.
+1miscutils/itemDustLanthaniteCe-0.pngLanthanite\nCe\u2082O\u2083Ca\u2083H\u2082O\nHold Ctrl to show additional info.
+11miscutils/itemDustAgarditeCd-0.pngAgardite\nCdCaCu\u2087As\u2084O\u2082\u2081H\u2081\u2081\nHold Ctrl to show additional info.
+45miscutils/itemDustYttrialite-0.pngYttrialite Dust\nY\u2082Th\u2082Si\u2082O\u2087\nHold Ctrl to show additional info.
+13gregtech/gt.metaitem.01-2522.pngNether Quartz Dust\nSiO\u2082
+1gregtech/gt.metaitem.01-2830.pngGalena Dust\nPbS
+2gregtech/gt.metaitem.01-2855.pngChalcopyrite Dust\nCuFeS\u2082
+4miscutils/itemDustCryoliteF-0.pngCryolite\nNa\u2083AlF\u2086\nHold Ctrl to show additional info.
+10gregtech/gt.metaitem.01-2045.pngYttrium Dust\nY
+1

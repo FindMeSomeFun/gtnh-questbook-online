@@ -1,5 +1,26 @@
-740§6§lExtrude All the ThingsNow that you've hit MV tier, it's time to get a better ratio when making rods, pipes, wires, plates and many more parts. Most extruder recipes use more than 32 EU/t so you need an MV extruder. After crafting the machine you need extruder shapes for the different types of parts you will want to make.
+gregtech/gt.blockmachines-282.png§6§lExtrude All the ThingsNow that you've hit MV tier, it's time to get a better ratio when making rods, pipes, wires, plates and many more parts. Most extruder recipes use more than 32 EU/t so you need an MV extruder. After crafting the machine you need extruder shapes for the different types of parts you will want to make.
 
 There are a few more shapes than the ones listed here. Makes sure to have a look.
 
-§3Most of the Tinkers Gregworks tool parts are made in the extruder. They also have long extrusion times to balance out their usefulness.ANDpreRequgregtech/gt.metaitem.01~32641Quest Name For 896896rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5Questcompletiongregtech/gt.metatool.01~2Quest Name673tasksANDRetrievalgregtech/gt.metaitem.01~32351gregtech/gt.metaitem.01~32351 Name1gregtech/gt.metaitem.01~32350gregtech/gt.metaitem.01~32350 Name1gregtech/gt.metaitem.01~32352gregtech/gt.metaitem.01~32352 Name1gregtech/gt.metaitem.01~32353gregtech/gt.metaitem.01~32353 Name1gregtech/gt.metaitem.01~32356gregtech/gt.metaitem.01~32356 Name1gregtech/gt.metaitem.01~32358gregtech/gt.metaitem.01~32358 Name1gregtech/gt.metaitem.01~32359gregtech/gt.metaitem.01~32359 Name1gregtech/gt.metaitem.01~32360gregtech/gt.metaitem.01~32360 Name1gregtech/gt.metaitem.01~32361gregtech/gt.metaitem.01~32361 Name1gregtech/gt.metaitem.01~32362gregtech/gt.metaitem.01~32362 Name1gregtech/gt.metaitem.01~32357gregtech/gt.metaitem.01~32357 Name1gregtech/gt.metaitem.01~32354gregtech/gt.metaitem.01~32354 Name1gregtech/gt.metaitem.01~32372gregtech/gt.metaitem.01~32372 Name1gregtech/gt.metaitem.01~32375gregtech/gt.metaitem.01~32375 Name1gregtech/gt.metaitem.01~32374gregtech/gt.metaitem.01~32374 Name1gregtech/gt.metaitem.01~32373gregtech/gt.metaitem.01~32373 Name1gregtech/gt.metaitem.01~32376gregtech/gt.metaitem.01~32376 Name1Retrievalgregtech/gt.blockmachines~282gregtech/gt.blockmachines~282 Name1
+§3Most of the Tinkers Gregworks tool parts are made in the extruder. They also have long extrusion times to balance out their usefulness.1-1ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5Questcompletiongregtech/gt.blockmachines-282.pngAdvanced Extruder\nUniversal Machine for Metal Working\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+673tasksANDRetrievalgregtech/gt.metaitem.01-32351.pngExtruder Shape\nExtruder Shape for making Rods
+1gregtech/gt.metaitem.01-32350.pngExtruder Shape\nExtruder Shape for making Plates
+1gregtech/gt.metaitem.01-32352.pngExtruder Shape\nExtruder Shape for making Bolts
+1gregtech/gt.metaitem.01-32353.pngExtruder Shape\nExtruder Shape for making Rings
+1gregtech/gt.metaitem.01-32356.pngExtruder Shape\nExtruder Shape for making Wires
+1gregtech/gt.metaitem.01-32358.pngExtruder Shape\nExtruder Shape for making tiny Pipes
+1gregtech/gt.metaitem.01-32359.pngExtruder Shape\nExtruder Shape for making small Pipes
+1gregtech/gt.metaitem.01-32360.pngExtruder Shape\nExtruder Shape for making Pipes
+1gregtech/gt.metaitem.01-32361.pngExtruder Shape\nExtruder Shape for making large Pipes
+1gregtech/gt.metaitem.01-32362.pngExtruder Shape\nExtruder Shape for making full Block Pipes
+1gregtech/gt.metaitem.01-32357.pngExtruder Shape\nExtruder Shape for making Item Casings
+1gregtech/gt.metaitem.01-32354.pngExtruder Shape\nExtruder Shape for making Cells
+1gregtech/gt.metaitem.01-32372.pngExtruder Shape\nExtruder Shape for making Gears
+1gregtech/gt.metaitem.01-32375.pngExtruder Shape\nExtruder Shape for a Small Gear
+1gregtech/gt.metaitem.01-32374.pngExtruder Shape\nExtruder Shape for a Rotor
+1gregtech/gt.metaitem.01-32373.pngExtruder Shape\nExtruder Shape for making Bottles
+1gregtech/gt.metaitem.01-32376.pngExtruder Shape\nExtruder Shape for a Turbine Blade
+1Retrievalgregtech/gt.blockmachines-282.pngAdvanced Extruder\nUniversal Machine for Metal Working\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

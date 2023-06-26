@@ -1,4 +1,4 @@
-1794Crop StatsWith the portable scanner, you can get the crop's stats and environmental info while it is still in the ground by right clicking it. It also stays scanned after getting the seed. Look for the portable scanner quest after the EBF in Multiblock Goals. About those stats:
+gregtech/gt.metaitem.01-32762.pngCrop StatsWith the portable scanner, you can get the crop's stats and environmental info while it is still in the ground by right clicking it. It also stays scanned after getting the seed. Look for the portable scanner quest after the EBF in Multiblock Goals. About those stats:
 
 §aGrowth§r:
 How fast it grows, with higher = faster. Specifically, it increases the growth points your crop gets per growth tick. If it gets to 24+, your crop acts like a weed, so most people say to stay at 23 or less. However, it will only weed other crops under certain conditions.
@@ -9,4 +9,7 @@ How fast it grows, with higher = faster. Specifically, it increases the growth p
 Influences chances of how many drops you get, and whether you get any at all. 31 is the best for sure.
 
 §eResistance§r:
-This stat is responsible for a couple of crops' properties: chances for getting a seed while punching crop, resistance of your crop to trampling (jumping on it), decreases chance of crop dying due to lack of enviromental stats, and resistance of crop to weed spread. It also reduces mutation chance as it goes up (apparently). Aim for around 10 for balance.ANDpreRequIC2/itemCropnalyzer~1Quest Name For 15411541rewardsItemIC2/itemCropSeed~0Item Name1enhancedlootbags/lootbag~51Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~32762gregtech/gt.metaitem.01~32762 Name1
+This stat is responsible for a couple of crops' properties: chances for getting a seed while punching crop, resistance of your crop to trampling (jumping on it), decreases chance of crop dying due to lack of enviromental stats, and resistance of crop to weed spread. It also reduces mutation chance as it goes up (apparently). Aim for around 10 for balance.0-1ANDpre15410IC2/itemCropnalyzer-1-charged.pngrewardsItemIC2/itemCropSeed-0.pngNickelback Seeds\nGr 5\nGa 5\nRe 5
+1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalgregtech/gt.metaitem.01-32762.pngPortable Scanner\nTricorder\n400,000 / 400,000 EU - Voltage: 128\nCan scan Blocks in World
+1

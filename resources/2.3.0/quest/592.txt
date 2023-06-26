@@ -1,4 +1,4 @@
-592Multifarm: GearboxTo power your farm and have it automatically harvest crops, you will need at least one farm gearbox to supply power. You can use either RF or EU. If you use EU, make sure to use a cable to allow conversion. Farm operations can be hastened with additional gearboxes.
+Forestry/ffarm-2.pngMultifarm: GearboxTo power your farm and have it automatically harvest crops, you will need at least one farm gearbox to supply power. You can use either RF or EU. If you use EU, make sure to use a cable to allow conversion. Farm operations can be hastened with additional gearboxes.
 
 Testing has shown that splitting the amps to 4 gearboxes (4A ULV) works better than sending 1A LV to 4 gearboxes.
 
@@ -10,4 +10,14 @@ Sending more power to the same gearbox doesn't work. If it can get to max RF cap
 
 In addition, you lose 2 EU from the the energy emitting device for every A of ULV (which is only 8 to begin with), so it's not nearly as efficient as using LV or higher. Just keep in mind that more A to more gearboxes is better than to the same one.
 
-Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.ANDpreRequForestry/ffarm~0Quest Name For 582582rewardsChoiceForestry/thermionicTubes~2Choice Name4Forestry/thermionicTubes~0Choice Name4Forestry/thermionicTubes~1Choice Name4enhancedlootbags/lootbag~19Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name25tasksANDOptionalForestry/ffarm~0Forestry/ffarm~0 Name1gregtech/gt.metaitem.02~31305gregtech/gt.metaitem.02~31305 Name4Forestry/thermionicTubes~2Forestry/thermionicTubes~2 Name4gregtech/gt.metaitem.01~32600gregtech/gt.metaitem.01~32600 Name1RetrievalForestry/ffarm~2Forestry/ffarm~2 Name2
+Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.0-1ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-2.pngBronze Electron Tube
+4Forestry/thermionicTubes-0.pngCopper Electron Tube
+4Forestry/thermionicTubes-1.pngTin Electron Tube
+4enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDOptionalForestry/ffarm-0.pngFarm Block\nStone Bricks
+1gregtech/gt.metaitem.02-31305.pngSteel Gear\nFe\u2085\u2080C
+4Forestry/thermionicTubes-2.pngBronze Electron Tube
+4gregtech/gt.metaitem.01-32600.pngElectric Motor
+1RetrievalForestry/ffarm-2.pngFarm Gearbox\nStone Bricks
+2

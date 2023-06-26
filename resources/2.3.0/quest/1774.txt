@@ -1,1 +1,3 @@
-1774Purchase Floppy DiskI'll sell you a Floppy Disk for a Bitcoins.ANDpreRequmiscutils/itemGenericToken~0Quest Name For 17651765rewardsItemOpenComputers/item~4Item Name1tasksANDRetrievalmiscutils/itemGenericToken~0miscutils/itemGenericToken~0 Name1
+OpenComputers/item-4.pngPurchase Floppy DiskI'll sell you a Floppy Disk for a Bitcoins.072000ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-4.pngFloppy Disk\nHold [NONE] for material costs.
+1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+1

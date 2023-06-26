@@ -1,4 +1,4 @@
-1371LOX and Bagels§cNOTE: You cannot directly refill your tanks in a crafting grid anymore!§r
+GalacticraftMars/item.canisterPartialLOX-1.pngLOX and Bagels§cNOTE: You cannot directly refill your tanks in a crafting grid anymore!§r
 
 The LOX canister is an alternate solution to refilling your oxygen tanks.
 
@@ -8,4 +8,12 @@ To refill your oxygen tanks just put the tank and the LOX canister in the oxygen
 
 Each LOX canister can fill 4 Heavy Oxygen Tanks, 6 Medium Oxygen Tanks, or 12 Light Oxygen Tanks.
 
-So much Greggy!ANDpreRequGalacticraftCore/tile.fuelLoader~0Quest Name For 821821rewardsChoiceGalacticraftCore/item.oilCanisterPartial~1001Choice Name2GalacticraftCore/tile.oxygenPipe~0Choice Name16GalacticraftCore/item.oxygenTankLightFull~900Choice Name1enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalgregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name1OptionalGalacticraftCore/item.oilCanisterPartial~1001GalacticraftCore/item.oilCanisterPartial~1001 Name1RetrievalGalacticraftMars/item.canisterPartialLOX~1GalacticraftMars/item.canisterPartialLOX~1 Name1
+So much Greggy!0-1ANDpre8211GalacticraftCore/tile.fuelLoader-0.pngrewardsChoiceGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister\nDurability: 0 / 1001
+2GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+16GalacticraftCore/item.oxygenTankLightFull-900.pngLight Oxygen Tank\nOxygen Remaining: 100\nDurability: 100 / 1000
+1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+1OptionalGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister\nDurability: 0 / 1001
+1RetrievalGalacticraftMars/item.canisterPartialLOX-1.pngFilled Canister of Liquid Oxygen\nLOX: 1000\nDurability: 1000 / 1001
+1

@@ -1,3 +1,7 @@
-753§6§lStainless Steel EBF processingStainless Steel ingots are made in the Electric Blast Furnace at a temperature of 1700K.
+gregtech/gt.metaitem.01-11306.png§6§lStainless Steel EBF processingStainless Steel ingots are made in the Electric Blast Furnace at a temperature of 1700K.
 
-It takes 85 seconds at 480 EU/t or 60 seconds at 480 EU/t by adding Oxygen gas. Always add a gas if you can, you're saving tons of power by doing so, and you're gonna need a TON of SS. The Cracker, Large Steam Turbine, and Distillery Tower all need huge amounts of SS. A single DT uses several stacks, and you're gonna want more than just one.ORpreRequgregtech/gt.metaitem.01~2306Quest Name For 749749gregtech/gt.blockmachines~42Quest Name For 754754rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~11306gregtech/gt.metaitem.01~11306 Name64
+It takes 85 seconds at 480 EU/t or 60 seconds at 480 EU/t by adding Oxygen gas. Always add a gas if you can, you're saving tons of power by doing so, and you're gonna need a TON of SS. The Cracker, Large Steam Turbine, and Distillery Tower all need huge amounts of SS. A single DT uses several stacks, and you're gonna want more than just one.1-1ORpre7491gregtech/gt.metaitem.01-2306.png7541gregtech/gt.blockmachines-42.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+64

@@ -1,1 +1,4 @@
-1892FluorineWant some fluorine? Buy some!ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176gregtech/gt.metaitem.01~30667Quest Name For 18121812rewardsItemgregtech/gt.metaitem.01~30014Item Name16tasksANDRetrievalIC2/itemCellEmpty~0IC2/itemCellEmpty~0 Name16dreamcraft/item.CoinChemistI~0dreamcraft/item.CoinChemistI~0 Name10
+gregtech/gt.metaitem.01-30014.pngFluorineWant some fluorine? Buy some!012000ANDpre1761gregtech/gt.blockmachines-14.png18121gregtech/gt.metaitem.01-30667.pngrewardsItemgregtech/gt.metaitem.01-30014.pngFluorine Cell\nF
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+10

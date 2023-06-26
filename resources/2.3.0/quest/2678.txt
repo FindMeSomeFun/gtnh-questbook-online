@@ -1,5 +1,6 @@
-2678Paint-by-NumbersIf you want to color all those fancy cables and such, you'll want to use the humble Paintbrush. To uncolor them, use a bucket of water.
+BuildCraftCore/paintbrush-0-2.pngPaint-by-NumbersIf you want to color all those fancy cables and such, you'll want to use the humble Paintbrush. To uncolor them, use a bucket of water.
 
 Alternatively, you can also use the IC2 Painter, GT Spray Can, or the AE2 Color Applicator.
 
-§3The buildcraft paintbrush can now color many cables or pipes in a row with just a single click!ANDpreRequstructurelib/item.structurelib.constructableTrigger~0Quest Name For 20052005rewardstasksANDRetrievalBuildCraftCore/paintbrush~0BuildCraftCore/paintbrush~0 Name1
+§3The buildcraft paintbrush can now color many cables or pipes in a row with just a single click!0-1ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDRetrievalBuildCraftCore/paintbrush-0.pngPaintbrush
+1

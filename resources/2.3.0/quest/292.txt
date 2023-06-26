@@ -1,1 +1,8 @@
-292Slightly BetterWood is somewhat better than straw. They are still to be considered weak, but an ideal little cutie for farms.ANDpreRequThaumcraft/ItemGolemPlacer~0Quest Name For 291291rewardsChoiceThaumcraft/ItemGolemPlacer~0Choice Name1enhancedlootbags/lootbag~10Choice Name1Thaumcraft/ItemGolemCore~100Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/ItemGolemPlacer~1Thaumcraft/ItemGolemPlacer~1 Name1RetrievalThaumcraft/ItemGolemCore~3Thaumcraft/ItemGolemCore~3 Name1Thaumcraft/ItemGolemCore~7Thaumcraft/ItemGolemCore~7 Name1
+Thaumcraft/ItemGolemPlacer-1.pngSlightly BetterWood is somewhat better than straw. They are still to be considered weak, but an ideal little cutie for farms.0-1ANDpre2910Thaumcraft/ItemGolemPlacer-0.pngrewardsChoiceThaumcraft/ItemGolemPlacer-0.pngStraw Golem
+1enhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core\nBlank
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/ItemGolemPlacer-1.pngWood Golem
+1RetrievalThaumcraft/ItemGolemCore-3.pngGolem Animation Core\nHarvest
+1Thaumcraft/ItemGolemCore-7.pngGolem Animation Core\nChop
+1

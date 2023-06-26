@@ -1,1 +1,6 @@
-1665§b§lHSS-SNow that you have HSS-G, it's time to make HSS-S. This new alloy is an important part of a lot of LuV recipes.ANDpreRequgregtech/gt.metaitem.01~11372Quest Name For 14911491gregtech/gt.metaitem.01~2083Quest Name For 23172317gregtech/gt.metaitem.01~2084Quest Name For 23212321rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.metaitem.01~11374gregtech/gt.metaitem.01~11374 Name24
+gregtech/gt.metaitem.01-11374.png§b§lHSS-SNow that you have HSS-G, it's time to make HSS-S. This new alloy is an important part of a lot of LuV recipes.1-1ANDpre14911gregtech/gt.metaitem.01-11372.png23171gregtech/gt.metaitem.01-2083.png23211gregtech/gt.metaitem.01-2084.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalgregtech/gt.metaitem.01-11374.pngHSS-S Ingot\n(((Fe\u2085\u2080C)W)\u2085CrMo\u2082V)\u2086Ir\u2082Os
+24

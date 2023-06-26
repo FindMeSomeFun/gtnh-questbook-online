@@ -1,1 +1,11 @@
-632A Fisherman's FriendHave you ever tried to catch a fish with your bare hands? It's time to craft a fishing rod and get some fish the easy way. Cast your fishing rod in some water and wait until the bobber dips below the surface. Then reel back in your line and hopefully you caught yourself something nice.ANDpreRequgregtech/gt.metatool.01~26Quest Name For 493493rewardsChoiceminecraft/fish~3Choice Name5harvestcraft/jellyfishrawItem~0Choice Name5harvestcraft/catfishrawItem~0Choice Name5enhancedlootbags/lootbag~28Choice Name1Itemdreamcraft/item.CoinSurvivor~0Item Name15dreamcraft/item.CoinFarmer~0Item Name15tasksANDOptionalgregtech/gt.metaitem.02~22809gregtech/gt.metaitem.02~22809 Name3gregtech/gt.metaitem.01~28032gregtech/gt.metaitem.01~28032 Name1minecraft/string~0minecraft/string~0 Name1Craftingminecraft/fishing_rod~0minecraft/fishing_rod~0 Name1
+minecraft/fishing_rod-0.pngA Fisherman's FriendHave you ever tried to catch a fish with your bare hands? It's time to craft a fishing rod and get some fish the easy way. Cast your fishing rod in some water and wait until the bobber dips below the surface. Then reel back in your line and hopefully you caught yourself something nice.0-1ANDpre4931gregtech/gt.metatool.01-26.pngrewardsChoiceminecraft/fish-3.pngPufferfish\nminecraft:fish\nDiminishing returns start after\neating any food 10 more times
+5harvestcraft/jellyfishrawItem-0.pngRaw Jellyfish\nharvestcraft:jellyfishrawItem\nDiminishing returns start after\neating any food 10 more times
+5harvestcraft/catfishrawItem-0.pngRaw Catfish\nharvestcraft:catfishrawItem\nDiminishing returns start after\neating any food 10 more times
+5enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDOptionalgregtech/gt.metaitem.02-22809.pngLong Wood Stick
+3gregtech/gt.metaitem.01-28032.pngIron Ring\nFe
+1minecraft/string-0.pngString
+1Craftingminecraft/fishing_rod-0.pngFishing Rod
+1

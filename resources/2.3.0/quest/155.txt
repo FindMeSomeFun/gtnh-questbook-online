@@ -1,1 +1,6 @@
-155§6§lHarder, Stronger, FasterNo, actually not faster. But more durable than tier 1.ANDpreRequgregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinSurvivor~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalopenmodularturrets/fenceTierTwo~0openmodularturrets/fenceTierTwo~0 Name4openmodularturrets/hardWallTierTwo~0openmodularturrets/hardWallTierTwo~0 Name4
+openmodularturrets/fenceTierTwo-0.png§6§lHarder, Stronger, FasterNo, actually not faster. But more durable than tier 1.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalopenmodularturrets/fenceTierTwo-0.pngFence\nHardness: 20 - Blast Resistance: 20
+4openmodularturrets/hardWallTierTwo-0.pngHard Wall\nHardness: 20 - Blast Resistance: 20
+4

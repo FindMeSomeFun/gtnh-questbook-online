@@ -1,1 +1,6 @@
-314Unleashed the Power - RobeTo make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpreRequThaumicTinkerer/ichorclothChest~0Quest Name For 315315ThaumicTinkerer/kamiResource~2Quest Name For 320320rewardsItemenhancedlootbags/lootbag~13Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinSmithII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalThaumicTinkerer/ichorclothChestGem~0ThaumicTinkerer/ichorclothChestGem~0 Name1
+ThaumicTinkerer/ichorclothChestGem-0.pngUnleashed the Power - RobeTo make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!0-1ANDpre3150ThaumicTinkerer/ichorclothChest-0.png3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-13.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/ichorclothChestGem-0.pngRobes of the Stratosphere\nVis discount: 10%\nProvides SpaceSuit capability.\nProvides full hazmat protection.\nWarping 3\nProtection: 8
+1

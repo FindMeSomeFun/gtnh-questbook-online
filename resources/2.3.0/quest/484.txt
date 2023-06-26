@@ -1,3 +1,9 @@
-484§1§lCan You Hear the Carrots Grow?Tired of waiting since your carrots grow sooooo slow?
+minecraft/dye-15.png§1§lCan You Hear the Carrots Grow?Tired of waiting since your carrots grow sooooo slow?
 
-Well I've got an idea, bone meal will help you grow food in seconds. So, chop down some trees and I will trade you some bone meal.ANDpreRequminecraft/wheat_seeds~0Quest Name For 66rewardsItemminecraft/dye~15Item Name10Choicegregtech/gt.metatool.01~6Choice Name1minecraft/torch~0Choice Name5minecraft/dye~15Choice Name3tasksANDRetrievalminecraft/log~0minecraft/log~0 Name64Retrievalminecraft/log~0minecraft/log~0 Name10
+Well I've got an idea, bone meal will help you grow food in seconds. So, chop down some trees and I will trade you some bone meal.0-1ANDpre61minecraft/wheat_seeds-0.pngrewardsItemminecraft/dye-15.pngBone Meal
+10Choicegregtech/gt.metatool.01-6-Flint-Wood.pngAxe\nDurability: 6,400 / 6,400\nFlint lvl 1\nAttack Damage: 4.0\nMining Speed: 5.0\nFire Aspect I
+1minecraft/torch-0.pngTorch
+5minecraft/dye-15.pngBone Meal
+3tasksANDRetrievalminecraft/log-0.pngOak Wood\nBurn Time: 300
+64Consumeminecraft/log-0.pngOak Wood\nBurn Time: 300
+10

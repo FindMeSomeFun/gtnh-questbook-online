@@ -1,3 +1,14 @@
-1888§4§3§lRepairing Your Hazmat SuitBe careful when wearing your hazmat suit all the time. The duarbility is not very high. Even just falling a few blocks will damage the boots quickly.
+IC2/itemArmorHazmatChestplate-64.png§4§3§lRepairing Your Hazmat SuitBe careful when wearing your hazmat suit all the time. The duarbility is not very high. Even just falling a few blocks will damage the boots quickly.
 
-You can repair your suit long before you can craft a new one in late LV Age, using some rubber sheets and a glue bucket.ANDpreRequdreamcraft/dreamcraft_Pollution~0Quest Name For 534534rewardsItemgregtech/gt.metaitem.01~17880Item Name8minecraft/bucket~0Item Name2Choicegregtech/gt.metaitem.01~11335Choice Name4enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10tasksANDRetrievalTConstruct/buckets~25TConstruct/buckets~25 Name4gregtech/gt.metaitem.01~17880gregtech/gt.metaitem.01~17880 Name21RetrievalIC2/itemArmorHazmatHelmet~0IC2/itemArmorHazmatHelmet~0 Name1IC2/itemArmorHazmatChestplate~0IC2/itemArmorHazmatChestplate~0 Name1IC2/itemArmorHazmatLeggings~0IC2/itemArmorHazmatLeggings~0 Name1IC2/itemArmorRubBoots~0IC2/itemArmorRubBoots~0 Name1
+You can repair your suit long before you can craft a new one in late LV Age, using some rubber sheets and a glue bucket.0-1ANDpre5340dreamcraft/dreamcraft_Pollution-0.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+8minecraft/bucket-0.pngBucket
+2Choicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot\nFe\u2085\u2080C
+4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10tasksANDRetrievalTConstruct/buckets-25.pngSticky Glue Bucket
+4gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+21RetrievalIC2/itemArmorHazmatHelmet-0.pngScuba Helmet\nProvides full hazmat protection.\nProtection: 3\nDurability: 64/64
+1IC2/itemArmorHazmatChestplate-0.pngHazmat Suit\nProvides full hazmat protection.\nProtection: 8\nDurability: 64/64
+1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Leggings\nProvides full hazmat protection.\nProtection: 6\nDurability: 64/64
+1IC2/itemArmorRubBoots-0.pngRubber Boots\nProvides full hazmat protection.\nProtection: 3\nDurability: 64/64
+1

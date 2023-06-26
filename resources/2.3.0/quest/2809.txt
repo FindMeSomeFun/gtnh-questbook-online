@@ -1,1 +1,2 @@
-2809§9§lKinetic Water Power IVThis is the IV version.ANDpreRequgregtech/gt.metaitem.01~2084Quest Name For 23212321compactkineticgenerators/BlockCkg~4Quest Name For 28072807rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~5compactkineticgenerators/BlockCkg~5 Name1
+compactkineticgenerators/BlockCkg-5.png§9§lKinetic Water Power IVThis is the IV version.0-1ANDpre23211gregtech/gt.metaitem.01-2084.png28070compactkineticgenerators/BlockCkg-4.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-5.pngMedium Kinetic Water Generator\nPower Output: 0-16.0x KU/t max
+1

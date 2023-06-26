@@ -1,1 +1,10 @@
-863§2§lBronze JavelinThe bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.ANDpreRequTConstruct/pickaxe~0Quest Name For 3838TConstruct/Smeltery~0Quest Name For 7474rewardsItemgregtech/gt.metaitem.02~32241Item Name1TConstruct/materials~14Item Name2Itemdreamcraft/item.CoinSmith~0Item Name5dreamcraft/item.CoinTechnician~0Item Name5tasksANDOptionalTConstruct/metalPattern~25TConstruct/metalPattern~25 Name1TConstruct/metalPattern~14TConstruct/metalPattern~14 Name1RetrievalTConstruct/arrowhead~14TConstruct/arrowhead~14 Name1TConstruct/toughRod~14TConstruct/toughRod~14 Name2RetrievalTConstruct/Javelin~0TConstruct/Javelin~0 Name1
+TConstruct/Javelin-0-35.png§2§lBronze JavelinThe bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.0-1ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich\ngregtech:gt.metaitem.02\nJust not worth it\nDiminishing returns start after\neating any food 10 more times
+1TConstruct/materials-14.pngAluminum Brass Ingot
+2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDOptionalTConstruct/metalPattern-25.pngArrowhead Cast\nMaterial Cost: 1
+1TConstruct/metalPattern-14.pngTough Rod Cast\nMaterial Cost: 3
+1RetrievalTConstruct/arrowhead-14.pngBronze Arrowhead\nAttack: 1.5 Hearts\nDurability: 285\nBreak Chance: 120%\nWeight: 3.2\nParts can be replaced
+1TConstruct/toughRod-14.pngBronze Tough Rod\nReinforced I\nDurability Modifier: 1.25x\nParts can be replaced
+2RetrievalTConstruct/Javelin-0-35.pngBronze Javelin\nReinforced I\nTool Level: 01-Abused\n+6 Attack Damage
+1

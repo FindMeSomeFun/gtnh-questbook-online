@@ -1,5 +1,12 @@
-610Lead, Galena, Silver and CryoliteYou can't find Lead in the Overworld or the Nether. So it's time to explore the mysterious Twilight Forest a bit and find a Galena vein at Y 5-40.
+gregtech/gt.blockores-830.pngLead, Galena, Silver and CryoliteYou can't find Lead in the Overworld or the Nether. So it's time to explore the mysterious Twilight Forest a bit and find a Galena vein at Y 5-40.
 
 You can get Lead, Silver, Cryolite for Aluminium production and Galena (more lead) in the vein.
 
-§3There's some Silver in small ores in the OW and Nether, but this is a better source.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemThaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalgregtech/gt.blockores~830gregtech/gt.blockores~830 Name32gregtech/gt.blockores~89gregtech/gt.blockores~89 Name32gregtech/gt.blockores~54gregtech/gt.blockores~54 Name32gregtech/gt.blockores~699gregtech/gt.blockores~699 Name16
+§3There's some Silver in small ores in the OW and Nether, but this is a better source.1-1ANDpre2251minecraft/end_portal-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalgregtech/gt.blockores-830.pngGalena Ore\nPbS
+32gregtech/gt.blockores-89.pngLead Ore\nPb
+32gregtech/gt.blockores-54.pngSilver Ore\nAg
+32gregtech/gt.blockores-699.pngCryolite Ore\nNa\u2083AlF\u2086
+16

@@ -1,1 +1,7 @@
-2840Time to Kill (Skeleton Druid)The druid skeleton is always infernal so watch out. It can be found in little huts all over the Twilight Forest.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItembetterquesting/extra_life~2Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDHuntTwilightForest.Skeleton DruidTwilightForest.Skeleton Druid Name10
+minecraft/golden_hoe-0.pngTime to Kill (Skeleton Druid)The druid skeleton is always infernal so watch out. It can be found in little huts all over the Twilight Forest.0432000ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDHuntmobs/TwilightForest-Skeleton Druid-.pngSkeleton Druid
+10

@@ -1,5 +1,13 @@
-743§3§lCutting a Tree log by log is so Old SchoolBy making a lumber axe you are now able to cut down the entire tree in one hit. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. Don't forget your backpack when you are cutting a sacred oak tree down.
+TConstruct/lumberaxe-0-2193.png§3§lCutting a Tree log by log is so Old SchoolBy making a lumber axe you are now able to cut down the entire tree in one hit. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. Don't forget your backpack when you are cutting a sacred oak tree down.
 
 §6The quest should accept the tool whatever materials you used.
 
-§3Protip: Make one out of netherrack, the lower the mining speed, the less XP needed to level up. Use the modifier slots to add reinforced. Once you've got it leveled up enough, change the parts out for better (and faster) ones. You can't use auto-smelt, so don't bother with that.ANDpreRequTConstruct/ToolForgeBlock~0Quest Name For 741741rewardsItemenhancedlootbags/lootbag~2Item Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalTConstruct/metalPattern~17TConstruct/metalPattern~17 Name1TConstruct/metalPattern~16TConstruct/metalPattern~16 Name1TConstruct/metalPattern~15TConstruct/metalPattern~15 Name1TConstruct/metalPattern~14TConstruct/metalPattern~14 Name1RetrievalTConstruct/lumberaxe~0TConstruct/lumberaxe~0 Name1
+§3Protip: Make one out of netherrack, the lower the mining speed, the less XP needed to level up. Use the modifier slots to add reinforced. Once you've got it leveled up enough, change the parts out for better (and faster) ones. You can't use auto-smelt, so don't bother with that.0-1ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalTConstruct/metalPattern-17.pngBroadaxe Head Cast\nMaterial Cost: 8
+1TConstruct/metalPattern-16.pngLarge Plate Cast\nMaterial Cost: 8
+1TConstruct/metalPattern-15.pngTough Binding Cast\nMaterial Cost: 3
+1TConstruct/metalPattern-14.pngTough Rod Cast\nMaterial Cost: 3
+1RetrievalTConstruct/lumberaxe-0-2193.pngLumber Axe\nReinforced II\nTool Level: 01-Abused\n+4 Attack Damage
+1

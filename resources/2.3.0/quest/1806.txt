@@ -1,1 +1,6 @@
-1806GlowstoneThere are a couple of different glowstone crops - glowflower, glowing earth coral, and glowshrooms. Nether wart is a great source of these.ANDpreRequgregtech/gt.metatool.01~40Quest Name For 16071607rewardsItemminecraft/glowstone~0Item Name64enhancedlootbags/lootbag~51Item Name1tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name1IC2/itemCropSeed~0IC2/itemCropSeed~0 Name1IC2/itemCropSeed~0IC2/itemCropSeed~0 Name1
+minecraft/glowstone_dust-0.pngGlowstoneThere are a couple of different glowstone crops - glowflower, glowing earth coral, and glowshrooms. Nether wart is a great source of these.0-1ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemminecraft/glowstone-0.pngGlowstone\nGlass-Tier: HV
+64enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngGlowshroom Seeds\nGr 0\nGa 0\nRe 0
+1IC2/itemCropSeed-0.pngGlowing Earth Coral Seeds\nGr 0\nGa 0\nRe 0
+1IC2/itemCropSeed-0.pngGlowflower Seeds\nGr 0\nGa 0\nRe 0
+1

@@ -1,3 +1,13 @@
-652Fueled JetpackThis jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.
+IC2/itemArmorJetpack-1.pngFueled JetpackThis jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.
 
-Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.ANDpreRequgregtech/gt.blockmachines~1001Quest Name For 8080gregtech/gt.blockmachines~13Quest Name For 160160gregtech/gt.blockmachines~1111Quest Name For 18701870rewardsChoiceIC2/itemCellEmpty~7Choice Name30enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.02~18306gregtech/gt.metaitem.02~18306 Name2BuildCraftFactory/tankBlock~0BuildCraftFactory/tankBlock~0 Name2IC2/reactorCoolantSix~1IC2/reactorCoolantSix~1 Name1adventurebackpack/backpackComponent~5adventurebackpack/backpackComponent~5 Name1GraviSuite/itemSimpleItem~6GraviSuite/itemSimpleItem~6 Name2IC2/itemPartCircuitAdv~0IC2/itemPartCircuitAdv~0 Name1RetrievalIC2/itemArmorJetpack~32767IC2/itemArmorJetpack~32767 Name1
+Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.0-1ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.png18700gregtech/gt.blockmachines-1111.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
+30enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
+2BuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
+2IC2/reactorCoolantSix-1.png60k Coolant Cell
+1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
+1GraviSuite/itemSimpleItem-6.pngEngine Booster
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+1RetrievalIC2/itemArmorJetpack-32767.pngJetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1

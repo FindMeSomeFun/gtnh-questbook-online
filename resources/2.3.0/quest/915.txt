@@ -1,3 +1,10 @@
-915Time to Kill (Enderman)Uh, fancy teleport pearls. You need them. All of them. Now!
+EnderIO/blockEndermanSkull-0.pngTime to Kill (Enderman)Uh, fancy teleport pearls. You need them. All of them. Now!
 
-§3PS: Top is regular enderman, bottom is special mob's version. Complete one set. Blame SM for their method of creating new endermen types for this. HEE ones like angry don't count. ANDpreRequgregtech/gt.metatool.01~0Quest Name For 1111rewardsItembetterquesting/extra_life~2Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksORHuntEndermanEnderman Name4HuntSpecialMobs.SpecialEndermanSpecialMobs.SpecialEnderman Name6
+§3PS: Top is regular enderman, bottom is special mob's version. Complete one set. Blame SM for their method of creating new endermen types for this. HEE ones like angry don't count. 0432000ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksORHuntmobs/Enderman-.pngEnderman
+4Huntmobs/SpecialMobs-SpecialEnderman-.pngSpecial Enderman
+6

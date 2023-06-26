@@ -1,5 +1,11 @@
-2321§b§lIridiumAdd Calcium to Iridium Chloride to finally get pure Iridium.
+gregtech/gt.metaitem.01-2084.png§b§lIridiumAdd Calcium to Iridium Chloride to finally get pure Iridium.
 
 You can run the Metallic Sludge through a centrifuge to get nickel and copper, while the Calcium Chloride needs to be solidified in a fluid solidifier before it can be electrolyzed for calcium and chlorine.
 
-BTW, this step is only EV, the only part that is, so you could do it earlier if you really wanted to.ANDpreRequbartworks/gt.bwMetaGenerateddust~76Quest Name For 23192319rewardsItemgregtech/gt.metaitem.01~2084Item Name1tasksANDOptionalbartworks/gt.bwMetaGenerateddust~76bartworks/gt.bwMetaGenerateddust~76 Name1gregtech/gt.metaitem.01~2026gregtech/gt.metaitem.01~2026 Name3Retrievalgregtech/gt.metaitem.01~2084gregtech/gt.metaitem.01~2084 Name1bartworks/gt.bwMetaGenerateddust~77bartworks/gt.bwMetaGenerateddust~77 Name1bartworks/gt.bwMetaGeneratedcell~63bartworks/gt.bwMetaGeneratedcell~63 Name3
+BTW, this step is only EV, the only part that is, so you could do it earlier if you really wanted to.1-1ANDpre23191bartworks/gt.bwMetaGenerateddust-76.pngrewardsItemgregtech/gt.metaitem.01-2084.pngIridium Dust\nIr
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-76.pngIridium Chloride Dust\nIrCl\u2083\nAdded by BartWorks
+1gregtech/gt.metaitem.01-2026.pngCalcium Dust\nCa
+3Retrievalgregtech/gt.metaitem.01-2084.pngIridium Dust\nIr
+1bartworks/gt.bwMetaGenerateddust-77.pngMetallic Sludge Dust Residue Dust\nNiCu\nAdded by BartWorks
+1bartworks/gt.bwMetaGeneratedcell-63.pngCalcium Chloride Cell\nCaCl\u2082\nAdded by BartWorks
+3

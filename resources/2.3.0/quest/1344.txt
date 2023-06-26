@@ -1,1 +1,4 @@
-1344Angel WingsSince you have access to better materials than cardboard now, you wanted to make wings. Angel wings.ANDpreRequThaumcraft/ItemResource~2Quest Name For 11771177rewardsItemdreamcraft/item.CoinDarkWizardI~0Item Name1Thaumcraft/ItemLootBag~1Item Name1tasksANDRetrievalEMT/ThaumiumWing~0EMT/ThaumiumWing~0 Name1
+EMT/ThaumiumWing-0.pngAngel WingsSince you have access to better materials than cardboard now, you wanted to make wings. Angel wings.0-1ANDpre11771Thaumcraft/ItemResource-2.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1tasksANDRetrievalEMT/ThaumiumWing-0.pngThaumium Reinforced Wings\nVis Discount: 4%\nProtection: 6\nDurability: 250/250
+1

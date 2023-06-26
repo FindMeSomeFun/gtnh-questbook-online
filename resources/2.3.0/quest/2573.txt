@@ -1,1 +1,2 @@
-2573Stargate Ring BlockYou'll need 8 of these to construct a full stargate.ANDpreRequSGCraft/stargateController~0Quest Name For 25972597rewardstasksANDRetrievalSGCraft/stargateRing~0SGCraft/stargateRing~0 Name8
+SGCraft/stargateRing-0.pngStargate Ring BlockYou'll need 8 of these to construct a full stargate.1-1ANDpre25971SGCraft/stargateController-0.pngrewardstasksANDRetrievalSGCraft/stargateRing-0.pngStargate Ring Block
+8

@@ -1,1 +1,14 @@
-1708§c§lCrystalprocessor AssemblyThe Crystal Processor Assembly is a LuV Circuit.ANDpreRequgregtech/gt.metaitem.03~32089Quest Name For 16861686rewardsChoicegregtech/gt.metaitem.02~19360Choice Name32gregtech/gt.metaitem.03~32104Choice Name4enhancedlootbags/lootbag~41Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.03~32104gregtech/gt.metaitem.03~32104 Name6gregtech/gt.metaitem.03~32089gregtech/gt.metaitem.03~32089 Name2gregtech/gt.metaitem.03~32183gregtech/gt.metaitem.03~32183 Name36gregtech/gt.metaitem.03~32027gregtech/gt.metaitem.03~32027 Name48gregtech/gt.metaitem.03~32039gregtech/gt.metaitem.03~32039 Name64gregtech/gt.metaitem.02~19360gregtech/gt.metaitem.02~19360 Name64Retrievalgregtech/gt.metaitem.03~32096gregtech/gt.metaitem.03~32096 Name1Optionalbartworks/gt.bwMetaGeneratedItem0~1bartworks/gt.bwMetaGeneratedItem0~1 Name1Retrievalbartworks/gt.bwMetaGeneratedItem0~0bartworks/gt.bwMetaGeneratedItem0~0 Name1
+gregtech/gt.metaitem.03-32096.png§c§lCrystalprocessor AssemblyThe Crystal Processor Assembly is a LuV Circuit.1-1ANDpre16861gregtech/gt.metaitem.03-32089.pngrewardsChoicegregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
+32gregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
+4enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
+6gregtech/gt.metaitem.03-32089.pngCrystalprocessor\nAn Elite Circuit\nIV-Tier
+2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor\nAdvanced Electronic Component
+36gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor\nAdvanced Electronic Component
+48gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
+64gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
+64Retrievalgregtech/gt.metaitem.03-32096.pngCrystalprocessor Assembly\nA Master Circuit\nLuV-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit\nA Sliced Circuit\nAdded by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint\nAn Imprint for a Circuit\nAdded by BartWorks
+1

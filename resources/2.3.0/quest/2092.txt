@@ -1,4 +1,4 @@
-2092Busy Bees Buzzing BoldlyThese upgrades can significantly increase your production rate by keeping your bees from stopping production due to the environment.
+ExtraBees/alveary-3.pngBusy Bees Buzzing BoldlyThese upgrades can significantly increase your production rate by keeping your bees from stopping production due to the environment.
 
 Rain Shield - Can work through the rain
 Lighting - Can work day and night
@@ -8,4 +8,11 @@ Alveary Hygroregulator[sic] - Has two modes, water and lava
 Lava - Temp+10%, Humidity-20%
 Water - Temp010%, Humidity+20%
 
-Unfortunately, there's no way to make them like caves with a block.ANDpreRequForestry/alveary~0Quest Name For 11231123rewardsItemForestry/alveary~0Item Name1enhancedlootbags/lootbag~26Item Name1tasksANDRetrievalExtraBees/alveary~2ExtraBees/alveary~2 Name1ExtraBees/alveary~3ExtraBees/alveary~3 Name1Forestry/alveary~4Forestry/alveary~4 Name1Forestry/alveary~3Forestry/alveary~3 Name1Forestry/alveary~5Forestry/alveary~5 Name1
+Unfortunately, there's no way to make them like caves with a block.0-1ANDpre11230Forestry/alveary-0.pngrewardsItemForestry/alveary-0.pngAlveary
+1enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalExtraBees/alveary-2.pngRain Shield
+1ExtraBees/alveary-3.pngAlveary Lighting
+1Forestry/alveary-4.pngAlveary Heater
+1Forestry/alveary-3.pngAlveary Fan
+1Forestry/alveary-5.pngAlveary Hygroregulator
+1

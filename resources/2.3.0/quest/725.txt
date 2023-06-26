@@ -1,7 +1,15 @@
-725Flower PowerGrowing dyes on crops sticks? Try to plant some flowers. If you cross breed Rose and Dandelion flowers maybe you'll get a new flower and new dyes with different colors.
+minecraft/red_flower-0.pngFlower PowerGrowing dyes on crops sticks? Try to plant some flowers. If you cross breed Rose and Dandelion flowers maybe you'll get a new flower and new dyes with different colors.
 
 You will need to plant 4 vanilla flowers to get them on a cropstick. They also don't plant unless they are in bright light.
 
 To get "Rose Seeds" place poppies. Honestly there's several flowers you can use, though.
 
-§3If you actually want these for dyes, go make the rainbow cactus instead.ANDpreRequIC2/blockCrop~0Quest Name For 718718rewardsChoiceIC2/itemCropSeed~0Choice Name1IC2/itemCropSeed~0Choice Name1enhancedlootbags/lootbag~51Choice Name1Itemdreamcraft/item.CoinFarmer~0Item Name15tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name2IC2/itemCropSeed~0IC2/itemCropSeed~0 Name2Retrievalminecraft/dye~1minecraft/dye~1 Name32minecraft/dye~11minecraft/dye~11 Name32
+§3If you actually want these for dyes, go make the rainbow cactus instead.0-1ANDpre7180IC2/blockCrop-0.pngrewardsChoiceIC2/itemCropSeed-0.pngBlackthorn Seeds\nGr 1\nGa 1\nRe 1
+1IC2/itemCropSeed-0.pngCyazint Seeds\nGr 1\nGa 1\nRe 1
+1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDRetrievalIC2/itemCropSeed-0.pngRose Seeds\nGr 0\nGa 0\nRe 0
+2IC2/itemCropSeed-0.pngDandelion Seeds\nGr 0\nGa 0\nRe 0
+2Retrievalminecraft/dye-1.pngRose Red
+32minecraft/dye-11.pngDandelion Yellow
+32

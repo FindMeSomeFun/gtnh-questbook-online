@@ -1,1 +1,8 @@
-2842Time to Kill (Redcap)The Redcap is a goblin carries an Iron Pickaxe, wears Iron Boots, and constantly giggles to itself. They are found lurking in Hollow Hills, as well as occasionally appearing in the Goblin Knight Stronghold. ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItembetterquesting/extra_life~2Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDHuntTwilightForest.RedcapTwilightForest.Redcap Name10HuntTwilightForest.Redcap SapperTwilightForest.Redcap Sapper Name1
+minecraft/iron_pickaxe-0.pngTime to Kill (Redcap)The Redcap is a goblin carries an Iron Pickaxe, wears Iron Boots, and constantly giggles to itself. They are found lurking in Hollow Hills, as well as occasionally appearing in the Goblin Knight Stronghold. 0432000ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDHuntmobs/TwilightForest-Redcap-.pngRedcap
+10Huntmobs/TwilightForest-Redcap Sapper-.pngRedcap Sapper
+1

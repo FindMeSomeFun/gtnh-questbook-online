@@ -1,1 +1,7 @@
-2841Time to Kill (Kobold)Kobold spawners can be found in Hollow Hills. It will spawn almost anywhere that is dark within the Twilight Forest dimension and tends to spawn in large groups. ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItembetterquesting/extra_life~2Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDHuntTwilightForest.Twilight KoboldTwilightForest.Twilight Kobold Name20
+Thaumcraft/ItemLootBag-2.pngTime to Kill (Kobold)Kobold spawners can be found in Hollow Hills. It will spawn almost anywhere that is dark within the Twilight Forest dimension and tends to spawn in large groups. 0432000ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDHuntmobs/TwilightForest-Twilight Kobold-.pngTwilight Kobold
+20

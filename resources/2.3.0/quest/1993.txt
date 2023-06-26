@@ -1,1 +1,6 @@
-1993Charge BufferA Charge Buffer augmentation to your wand allows it to hold 25 percent more vis.ORpreRequThaumicMachina/wandAugmentationCore~0Quest Name For 19921992rewardsItemenhancedlootbags/lootbag~10Item Name1tasksANDRetrievalThaumicMachina/wandAugmentationCore~0ThaumicMachina/wandAugmentationCore~0 Name1Thaumcraft/blockMagicalLog~1Thaumcraft/blockMagicalLog~1 Name1Thaumcraft/ItemResource~14Thaumcraft/ItemResource~14 Name1Thaumcraft/ItemResource~15Thaumcraft/ItemResource~15 Name1
+ThaumicMachina/wandAugmentationCore-0.pngCharge BufferA Charge Buffer augmentation to your wand allows it to hold 25 percent more vis.0-1ORpre19920ThaumicMachina/wandAugmentationCore-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Core
+1Thaumcraft/blockMagicalLog-1.pngSilverwood Log\nBurn Time: 300
+1Thaumcraft/ItemResource-14.pngSalis Mundus
+1Thaumcraft/ItemResource-15.pngPrimal Charm\nYou think you hear whispering
+1

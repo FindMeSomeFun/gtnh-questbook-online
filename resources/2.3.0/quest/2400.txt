@@ -1,1 +1,5 @@
-2400Steadfast BeesNormally you find Steadfast drones in dungeon loot chests. If you haven't been lucky yet, they're all picked over, or if your server owners are cruel and disable dungeons, you can buy some here.ANDpreRequForestry/beeQueenGE~0Quest Name For 11211121rewardsItemForestry/beeDroneGE~0Item Name1tasksANDRetrievaldreamcraft/item.CoinBeesI~0dreamcraft/item.CoinBeesI~0 Name10minecraft/emerald_block~0minecraft/emerald_block~0 Name4Forestry/royalJelly~0Forestry/royalJelly~0 Name32
+Forestry/beeDroneGE-0-Steadfast.pngSteadfast BeesNormally you find Steadfast drones in dungeon loot chests. If you haven't been lucky yet, they're all picked over, or if your server owners are cruel and disable dungeons, you can buy some here.048000ANDpre11210Forestry/beeQueenGE-0-Imperial.pngrewardsItemForestry/beeDroneGE-0-Steadfast.pngSteadfast Drone
+1tasksANDConsumedreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+10minecraft/emerald_block-0.pngBlock of Emerald
+4Forestry/royalJelly-0.pngRoyal Jelly
+32

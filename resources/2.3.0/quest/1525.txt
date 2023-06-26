@@ -1,3 +1,8 @@
-1525§a§lBest Bolts?That meteoric iron you found on the moon, when sent through the EBF, turns into this amazing meteoric steel, able to keep a fine edge. Put some on an Energetic Alloy tool rod to make an awesome bolt. Your next bolt you'll have to figure out yourself.
+TConstruct/BoltPart-1635-1573.png§a§lBest Bolts?That meteoric iron you found on the moon, when sent through the EBF, turns into this amazing meteoric steel, able to keep a fine edge. Put some on an Energetic Alloy tool rod to make an awesome bolt. Your next bolt you'll have to figure out yourself.
 
-Use whatever fletching you want.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 162162gregtech/gt.metaitem.01~11366Quest Name For 990990rewardsItemminecraft/spawn_egg~56Item Name1dreamcraft/item.CoinSmithII~0Item Name1tasksANDOptionalTGregworks/tGregToolPartToolRod~1635TGregworks/tGregToolPartToolRod~1635 Name1Optionalgregtech/gt.metaitem.01~11341gregtech/gt.metaitem.01~11341 Name1RetrievalTConstruct/BoltPart~1635TConstruct/BoltPart~1635 Name1
+Use whatever fletching you want.0-1ANDpre1621GalacticraftCore/item.spaceship-0.png9901gregtech/gt.metaitem.01-11366.pngrewardsItemminecraft/spawn_egg-56.pngSpawn Ghast
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1tasksANDOptionalTGregworks/tGregToolPartToolRod-1635.pngEnergetic Alloy Tool Rod\nDurability Modifier: 2.5x\nParts can be replaced
+1Optionalgregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingot\nSpFe\u2085\u2080C
+1RetrievalTConstruct/BoltPart-1635-1573.pngEnergetic Alloy Bolt\nDurability: 1805\nBreak Chance: 0.9%\nWeight: 0.11\nParts can be replaced
+1

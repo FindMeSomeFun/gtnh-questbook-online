@@ -1,1 +1,7 @@
-921Ghast: EvolvedFluffy, fluffier, ghasts! And also big crybabies. This one hides in a dungeon on IO, and holds the key for Tier 5 planets.ANDpreRequadventurebackpack/adventureBackpack~4Quest Name For 920920rewardsItemenhancedlootbags/lootbag~8Item Name2Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5dreamcraft/item.CoinAdventureII~0Item Name5tasksANDLocationDIM36DIM36 Name HuntGalacticraftCore.EvolvedBossGhastGalacticraftCore.EvolvedBossGhast Name1
+BiomesOPlenty/misc-10.pngGhast: EvolvedFluffy, fluffier, ghasts! And also big crybabies. This one hides in a dungeon on IO, and holds the key for Tier 5 planets.11728000ANDpre9201adventurebackpack/adventureBackpack-4.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+5tasksANDLocationDIM/36-.pngIo
+1Huntmobs/GalacticraftCore-EvolvedBossGhast-.pngEvolved Boss Ghast
+1

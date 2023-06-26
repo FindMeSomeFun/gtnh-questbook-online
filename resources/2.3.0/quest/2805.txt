@@ -1,1 +1,2 @@
-2805§9§lKinetic Power LuVThis is the LuV version.ANDpreRequgregtech/gt.metaitem.01~32655Quest Name For 14891489compactkineticgenerators/BlockCkg~9Quest Name For 28042804rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~10compactkineticgenerators/BlockCkg~10 Name1
+compactkineticgenerators/BlockCkg-10.png§9§lKinetic Power LuVThis is the LuV version.0-1ANDpre14891gregtech/gt.metaitem.01-32655.png28040compactkineticgenerators/BlockCkg-9.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-10.pngHigh Kinetic Generator\nPower Output: 0-32768 EU/t max\nCapacity: 10m EU
+1

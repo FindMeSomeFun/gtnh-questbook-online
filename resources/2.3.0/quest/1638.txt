@@ -1,4 +1,4 @@
-1638Electrolyzing WaterNow let's automate electrolyzing water into oxygen and hydrogen. You'll need hydrogen for tons of stuff including desulfurization, obtaining tungsten, and nitric acid production. Oxygen is also useful as I'm sure you noticed when making steel.
+minecraft/flowing_water-0.pngElectrolyzing WaterNow let's automate electrolyzing water into oxygen and hydrogen. You'll need hydrogen for tons of stuff including desulfurization, obtaining tungsten, and nitric acid production. Oxygen is also useful as I'm sure you noticed when making steel.
 
 How to set it up:
 
@@ -8,4 +8,9 @@ For the electrolyzer put in item stock keeper set to keep 2 empty cells stored. 
 
 Now for the oxygen storage put it item responder chip set to accept oxygen cells and extractor set to extract empty cells.
 
-Now put some empty cells inside your default storage chest and don't forget to have a broadcaster there.ANDpreRequgregtech/gt.blockmachines~130Quest Name For 16371637rewardstasksANDRetrievalgregtech/gt.blockmachines~371gregtech/gt.blockmachines~371 Name1ProjRedTransportation/projectred.transportation.routingchip~4ProjRedTransportation/projectred.transportation.routingchip~4 Name2ProjRedTransportation/projectred.transportation.routingchip~6ProjRedTransportation/projectred.transportation.routingchip~6 Name1ProjRedTransportation/projectred.transportation.routingchip~0ProjRedTransportation/projectred.transportation.routingchip~0 Name1ProjRedTransportation/projectred.transportation.pipe~2ProjRedTransportation/projectred.transportation.pipe~2 Name3
+Now put some empty cells inside your default storage chest and don't forget to have a broadcaster there.0-1ANDpre16370gregtech/gt.blockmachines-130.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-371.pngBasic Electrolyzer\nElectrolyzing Molecules\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1ProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
+2ProjRedTransportation/projectred.transportation.routingchip-6.pngItem Stock Keeper chip
+1ProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
+1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+3

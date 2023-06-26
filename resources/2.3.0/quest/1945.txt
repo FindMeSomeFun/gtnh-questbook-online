@@ -1,3 +1,5 @@
-1945Basic Builder's WandThe only thing going for the stone builder's wand is that it's cheap. It doesn't offer much in special modes, and doesn't last long either. But you can make a lot!
+betterbuilderswands/wandStone-0.pngBasic Builder's WandThe only thing going for the stone builder's wand is that it's cheap. It doesn't offer much in special modes, and doesn't last long either. But you can make a lot!
 
-To use, right click on a block while holding more of that block in your inventory. An outline will show you what it will do.ANDpreRequgregtech/gt.blockmachines~115Quest Name For 5454rewardsItembetterbuilderswands/wandStone~0Item Name4tasksANDRetrievalbetterbuilderswands/wandStone~0betterbuilderswands/wandStone~0 Name1
+To use, right click on a block while holding more of that block in your inventory. An outline will show you what it will do.0-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItembetterbuilderswands/wandStone-0.pngStone Wand\nMode: Horizontal\nFluid: Stop\nMax 5 blocks
+4tasksANDRetrievalbetterbuilderswands/wandStone-0.pngStone Wand\nMode: Horizontal\nFluid: Stop\nMax 5 blocks
+1

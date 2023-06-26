@@ -1,1 +1,5 @@
-3063§b§lNitration Time... AgainYou'll need to add even more nitric acid to be able to deal with the dust further. ANDpreRequbartworks/gt.bwMetaGenerateddust~11024Quest Name For 30623062rewardsItemdreamcraft/item.CoinChemistIII~0Item Name2tasksANDOptionalbartworks/gt.bwMetaGenerateddust~11024bartworks/gt.bwMetaGenerateddust~11024 Name2gregtech/gt.metaitem.01~30653gregtech/gt.metaitem.01~30653 Name1Retrievalbartworks/gt.bwMetaGeneratedcell~11017bartworks/gt.bwMetaGeneratedcell~11017 Name2
+bartworks/gt.bwMetaGeneratedcell-11017.png§b§lNitration Time... AgainYou'll need to add even more nitric acid to be able to deal with the dust further. 1-1ANDpre30621bartworks/gt.bwMetaGenerateddust-11024.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11024.pngDried Monazite Rare Earth Concentrate Dust\n????\nAdded by GTNH: Lanthanides via BartWorks
+2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell\nHNO\u2083
+1Retrievalbartworks/gt.bwMetaGeneratedcell-11017.pngNitrogenated Monazite Rare Earth Concentrate Cell\n??LaNd??\nAdded by GTNH: Lanthanides via BartWorks
+2

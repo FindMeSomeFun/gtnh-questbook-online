@@ -1,5 +1,16 @@
-2606§c§lRNG is Definitely Good Game DesignOnce you've collected all the materials, you'll need to make Magneto Resonatic Dust and Circuit Compound Mk3 in a Mixer.
+bartworks/gt.bwMetaGeneratedItem0-3.png§c§lRNG is Definitely Good Game DesignOnce you've collected all the materials, you'll need to make Magneto Resonatic Dust and Circuit Compound Mk3 in a Mixer.
 
 Combine these in the Forming Press to make Raw Imprint Supporting Boards.
 
-You then craft those into Imprint Supporting Boards in an Autoclave in a Cleanroom with Soldering Alloy. Unfortunately, there's only a 75% chance of succeeding, so I had you collect extra materials. You can use the leftovers for your next imprint.ANDpreRequgregtech/gt.metaitem.01~2059Quest Name For 26032603bartworks/gt.bwMetaGenerateddust~4Quest Name For 26042604bartworks/gt.bwMetaGeneratedgemExquisite~35Quest Name For 26052605rewardstasksANDOptionalgregtech/gt.metaitem.01~2355gregtech/gt.metaitem.01~2355 Name2bartworks/gt.bwMetaGenerateddust~4bartworks/gt.bwMetaGenerateddust~4 Name2bartworks/gt.bwMetaGenerateddust~35bartworks/gt.bwMetaGenerateddust~35 Name6bartworks/gt.bwMetaGenerateddust~31bartworks/gt.bwMetaGenerateddust~31 Name8bartworks/gt.bwMetaGenerateddust~36bartworks/gt.bwMetaGenerateddust~36 Name18Optionalgregtech/gt.metaitem.01~2981gregtech/gt.metaitem.01~2981 Name12bartworks/gt.bwMetaGenerateddust~31bartworks/gt.bwMetaGenerateddust~31 Name24bartworks/gt.bwMetaGenerateddust~33bartworks/gt.bwMetaGenerateddust~33 Name36bartworks/gt.bwMetaGenerateddust~34bartworks/gt.bwMetaGenerateddust~34 Name72Optionalbartworks/gt.bwMetaGeneratedItem0~2bartworks/gt.bwMetaGeneratedItem0~2 Name18Retrievalbartworks/gt.bwMetaGeneratedItem0~3bartworks/gt.bwMetaGeneratedItem0~3 Name8
+You then craft those into Imprint Supporting Boards in an Autoclave in a Cleanroom with Soldering Alloy. Unfortunately, there's only a 75% chance of succeeding, so I had you collect extra materials. You can use the leftovers for your next imprint.1-1ANDpre26031gregtech/gt.metaitem.01-2059.png26041bartworks/gt.bwMetaGenerateddust-4.png26051bartworks/gt.bwMetaGeneratedgemExquisite-35.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2355.pngMagnetic Steel Dust\nFe\u2085\u2080C
+2bartworks/gt.bwMetaGenerateddust-4.pngCubic Zirconia Dust\nZrO\u2082\nAdded by BartWorks\nCheck Flawed Crystal recipe in EBF
+2bartworks/gt.bwMetaGenerateddust-35.pngPrasiolite Dust\nSi\u2085O\u2081\u2080Fe\nAdded by BartWorks
+6bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust\nBi\u2082Te\u2083\nAdded by BartWorks
+8bartworks/gt.bwMetaGenerateddust-36.pngMagneto Resonatic Dust\n(Si\u2085O\u2081\u2080Fe)\u2083(Bi\u2082Te\u2083)\u2084ZrO\u2082Fe\u2085\u2080C\nAdded by BartWorks
+18Optionalgregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust\nInGaP
+12bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust\nBi\u2082Te\u2083\nAdded by BartWorks
+24bartworks/gt.bwMetaGenerateddust-33.pngDibismuthhydroborat Dust\nBi\u2082BH\nAdded by BartWorks
+36bartworks/gt.bwMetaGenerateddust-34.pngCircuit Compound MK3 Dust\nInGaP(Bi\u2082BH)\u2083(Bi\u2082Te\u2083)\u2082\nAdded by BartWorks
+72Optionalbartworks/gt.bwMetaGeneratedItem0-2.pngRaw Imprint supporting Board\nA Raw Board needed for Circuit Imprints\nAdded by BartWorks
+18Retrievalbartworks/gt.bwMetaGeneratedItem0-3.pngImprint supporting Board\nA Board needed for Circuit Imprints\nAdded by BartWorks
+8

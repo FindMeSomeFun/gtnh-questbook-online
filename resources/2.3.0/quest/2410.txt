@@ -1,4 +1,4 @@
-2410Journey to the Center of the EarthAfter acquiring your new pickaxe and clearing away a mountain or two, you wonder if maybe you should go...§odeeper§r. After trying it out on some Bedrock, you see a way down into the very depths of the planet. After exploring this new realm you make a note that it is:
+minecraft/bedrock-0.pngJourney to the Center of the EarthAfter acquiring your new pickaxe and clearing away a mountain or two, you wonder if maybe you should go...§odeeper§r. After trying it out on some Bedrock, you see a way down into the very depths of the planet. After exploring this new realm you make a note that it is:
 
 A) Seemingly empty of life
 B) Full of Bedrock you need to clear away with your new pickaxe
@@ -9,4 +9,16 @@ F) After leaving you wake up on the surface somewhere nearby, your lack of memor
 
 Among the ore samples you seem to have brought back with you, you find a number of "basic" and "intermediate" ores and gems, as well as a few you don't recognize! Perhaps a return trip is in order?  
 
-Also, you seem to smell like cheese for some reason?ANDpreRequThaumicTinkerer/ichorPickGem~0Quest Name For 327327rewardsItemgregtech/gt.metaitem.01~9032Item Name1gregtech/gt.metaitem.01~9089Item Name1gregtech/gt.metaitem.01~2500Item Name1appliedenergistics2/item.ItemCrystalSeed~600Item Name1GalacticraftCore/item.basicItem~2Item Name1GalacticraftMars/item.null~0Item Name1Automagy/shardSliver~5Item Name1ItemIC2/blockMiningPipe~0Item Name64IC2/blockMiningPipe~0Item Name64IC2/blockMiningPipe~0Item Name64IC2/blockMiningPipe~0Item Name64tasksANDLocationDIM60DIM60 Name 
+Also, you seem to smell like cheese for some reason?0-1ANDpre3270ThaumicTinkerer/ichorPickGem-0.pngrewardsItemgregtech/gt.metaitem.01-9032.pngIron Nugget\nFe
+1gregtech/gt.metaitem.01-9089.pngLead Nugget\nPb
+1gregtech/gt.metaitem.01-2500.pngDiamond Dust\nC\nBurn Time: 102400
+1appliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed\nThis item won''t de-spawn.\n0.0%
+1GalacticraftCore/item.basicItem-2.pngRaw Silicon
+1GalacticraftMars/item.null-0.pngUnrefined Desh
+1Automagy/shardSliver-5.pngSliver of Entropy
+1ItemIC2/blockMiningPipe-0.pngYou know what to do, right?
+64IC2/blockMiningPipe-0.pngMining Pipe
+64IC2/blockMiningPipe-0.pngMining Pipe
+64IC2/blockMiningPipe-0.pngMining Pipe
+64tasksANDLocationDIM/60-.pngBedrock Dimension
+1

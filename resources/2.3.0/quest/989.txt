@@ -1,1 +1,5 @@
-989§a§9§lVibrant AlloyVibrant alloy is a high tier EnderIO alloy made out of ender eye, energetic alloy and chrome dust.ANDpreRequgregtech/gt.blockcasings5~2Quest Name For 7979gregtech/gt.blockmachines~1002Quest Name For 8181gregtech/gt.metaitem.01~11366Quest Name For 990990rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinSmithI~0Item Name5dreamcraft/item.CoinChemistI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~11367gregtech/gt.metaitem.01~11367 Name16
+gregtech/gt.metaitem.01-11367.png§a§9§lVibrant AlloyVibrant alloy is a high tier EnderIO alloy made out of ender eye, energetic alloy and chrome dust.0-1ANDpre791gregtech/gt.blockcasings5-2.png811gregtech/gt.blockmachines-1002.png9901gregtech/gt.metaitem.01-11366.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-11367.pngVibrant Alloy Ingot\n((((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083))((BeK\u2084N\u2085Ma\u2086)(CSMa))Cr
+16

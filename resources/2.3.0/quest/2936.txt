@@ -1,4 +1,4 @@
-2936§6§lNeutron ActivatorYou will need machine to process the naquadah in future.
+gregtech/gt.blockmachines-32013.png§6§lNeutron ActivatorYou will need machine to process the naquadah in future.
 
 This machine is different from most mulits. It needs to use §4Neutron Accelerator§r this special hatch instead of energy hatch to keep it running.
 
@@ -8,4 +8,11 @@ When all Neutron Accelerator§rs aren't running, NKE will decrease 72keV/s.
 
 Neutron Activator will explode when NKE is over 1200MeV.
 
-§3The more height/speed casings you have, the more inefficient the eu->eV conversion becomes, so you then need more power. The maths is as follows: Multiply recipe time by 0.9 for each height above 4 and multiply eV you get from your input power by 0.95 for each height above 4.ANDpreRequgregtech/gt.blockmachines~32018Quest Name For 30903090rewardsItemenhancedlootbags/lootbag~8Item Name2Itemdreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDOptionalgregtech/gt.blockcasings2~6gregtech/gt.blockcasings2~6 Name18IC2/blockAlloyGlass~0IC2/blockAlloyGlass~0 Name32gregtech/gt.blockmachines~4401gregtech/gt.blockmachines~4401 Name16GoodGenerator/speedingPipe~0GoodGenerator/speedingPipe~0 Name4Retrievalgregtech/gt.blockmachines~32013gregtech/gt.blockmachines~32013 Name1
+§3The more height/speed casings you have, the more inefficient the eu->eV conversion becomes, so you then need more power. The maths is as follows: Multiply recipe time by 0.9 for each height above 4 and multiply eV you get from your input power by 0.95 for each height above 4.1-1ANDpre30901gregtech/gt.blockmachines-32018.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDOptionalgregtech/gt.blockcasings2-6.pngProcessor Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+18IC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
+32gregtech/gt.blockmachines-4401.pngSteel Frame Box\nJust something you can put covers on.
+16GoodGenerator/speedingPipe-0.pngSpeeding Pipe Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+4Retrievalgregtech/gt.blockmachines-32013.pngNeutron Activator\nMachine Type: Neutron Activator\nController block for the Neutron Activator\nSuperluminal-velocity Motion.\nThe minimum height of the Speeding Pipe Casing is 4.\nPer extra Speeding Pipe Casing will give time discount.\nBut it will reduce the Neutron Accelerator efficiency.\nYou need to input energy to the Neutron Accelerator to get it running.\nIt will output correct products with Specific Neutron Kinetic Energy.\nOtherwise it will output trash.\nThe Neutron Kinetic Energy will decrease 72KeV/s when no Neutron Accelerator is running.\nIt will explode when the Neutron Kinetic Energy is over 1200MeV.\nInputting Graphite/Beryllium dust can reduce 10MeV per dust immediately.\nThe structure is too complex!\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Good Generator
+1

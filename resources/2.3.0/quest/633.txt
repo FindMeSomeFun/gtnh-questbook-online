@@ -1,1 +1,7 @@
-633Fish TrappingFishing can be very boring. Why not to automate it with a fish trap?ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636minecraft/fishing_rod~0Quest Name For 632632rewardsItemminecraft/fishing_rod~0Item Name1minecraft/furnace~0Item Name1minecraft/coal~0Item Name4Itemdreamcraft/item.CoinTechnician~0Item Name15dreamcraft/item.CoinFarmer~0Item Name15tasksANDCraftingharvestcraft/fishtrap~0harvestcraft/fishtrap~0 Name1
+harvestcraft/fishtrap-0.pngFish TrappingFishing can be very boring. Why not to automate it with a fish trap?0-1ANDpre361gregtech/gt.metatool.01-16.png6320minecraft/fishing_rod-0.pngrewardsItemminecraft/fishing_rod-0.pngFishing Rod
+1minecraft/furnace-0.pngFurnace
+1minecraft/coal-0.pngCoal\nBurn Time: 1600
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDCraftingharvestcraft/fishtrap-0.pngFish Trap\nBurn Time: 300
+1

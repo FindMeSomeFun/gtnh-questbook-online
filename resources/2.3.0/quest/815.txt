@@ -1,1 +1,12 @@
-815Rocket EngineEvery rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.ANDpreRequGalacticraftCore/item.heavyPlating~0Quest Name For 812812rewardsChoiceGalacticraftCore/item.basicItem~6Choice Name8GalacticraftCore/item.basicItem~7Choice Name8GalacticraftCore/item.basicItem~11Choice Name8enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalGalacticraftCore/item.oilCanisterPartial~1001GalacticraftCore/item.oilCanisterPartial~1001 Name2gregtech/gt.metaitem.01~32731gregtech/gt.metaitem.01~32731 Name2gregtech/gt.blockcasings3~14gregtech/gt.blockcasings3~14 Name2GalaxySpace/item.CompressedSDHD120~0GalaxySpace/item.CompressedSDHD120~0 Name4GalacticraftCore/item.heavyPlating~0GalacticraftCore/item.heavyPlating~0 Name8RetrievalGalacticraftCore/item.engine~0GalacticraftCore/item.engine~0 Name2
+GalacticraftCore/item.engine-0.pngRocket EngineEvery rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.1-1ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
+8GalacticraftCore/item.basicItem-7.pngCompressed Tin
+8GalacticraftCore/item.basicItem-11.pngCompressed Iron
+8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister\nDurability: 0 / 1001
+2gregtech/gt.metaitem.01-32731.pngActivity Detector Cover\nGives out Activity as Redstone
+2gregtech/gt.blockcasings3-14.pngSteel Firebox Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+2GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
+4GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+8RetrievalGalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+2

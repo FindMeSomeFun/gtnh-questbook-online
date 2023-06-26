@@ -1,1 +1,10 @@
-1458Heavy Rocket EngineEvery rocket needs a rocket engine. A heavy one is needed in the tier 3 rocket.ANDpreRequGalacticraftMars/item.itemBasicAsteroids~0Quest Name For 14531453rewardsChoiceGalacticraftMars/item.null~5Choice Name8GalacticraftMars/item.itemBasicAsteroids~6Choice Name8GalacticraftCore/item.meteoricIronIngot~1Choice Name1enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids~0GalacticraftMars/item.itemBasicAsteroids~0 Name5GalacticraftCore/item.engine~1GalacticraftCore/item.engine~1 Name2GalacticraftCore/item.engine~0GalacticraftCore/item.engine~0 Name2RetrievalGalacticraftMars/item.itemBasicAsteroids~1GalacticraftMars/item.itemBasicAsteroids~1 Name1
+GalacticraftMars/item.itemBasicAsteroids-1.pngHeavy Rocket EngineEvery rocket needs a rocket engine. A heavy one is needed in the tier 3 rocket.1-1ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
+8GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
+8GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+5GalacticraftCore/item.engine-1.pngTier 1 Booster
+2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+2RetrievalGalacticraftMars/item.itemBasicAsteroids-1.pngHeavy Rocket Engine
+1

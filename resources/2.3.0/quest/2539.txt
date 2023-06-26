@@ -1,4 +1,4 @@
-2539Deck of CardsThese cards add additional functionality to certain devices or fixtures. They specify what devices they work on in the tooltip.
+appliedenergistics2/item.ItemMultiMaterial-30.pngDeck of CardsThese cards add additional functionality to certain devices or fixtures. They specify what devices they work on in the tooltip.
 
 The Redstone Card adds redstone interactivity to the devices it can be used on, with the following options:
 Always active, active with or without redstone signal, activate once per pulse.
@@ -16,4 +16,14 @@ The Acceleration Card makes the device/fixture work faster. You'll probably want
 
 The Inverter Card allows you to invert the item filter of certain fixtures.
 
-The Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. If you just want it to be fuzzy for nbt, set to Match Any. If it is set to 99%, it will work on anything that is damaged. You can use the Inverter Card to reverse this.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~22Quest Name For 183183rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalappliedenergistics2/item.ItemMultiMaterial~25appliedenergistics2/item.ItemMultiMaterial~25 Name3appliedenergistics2/item.ItemMultiMaterial~28appliedenergistics2/item.ItemMultiMaterial~28 Name3Retrievalappliedenergistics2/item.ItemMultiMaterial~26appliedenergistics2/item.ItemMultiMaterial~26 Name1appliedenergistics2/item.ItemMultiMaterial~27appliedenergistics2/item.ItemMultiMaterial~27 Name1appliedenergistics2/item.ItemMultiMaterial~53appliedenergistics2/item.ItemMultiMaterial~53 Name1appliedenergistics2/item.ItemMultiMaterial~30appliedenergistics2/item.ItemMultiMaterial~30 Name1appliedenergistics2/item.ItemMultiMaterial~31appliedenergistics2/item.ItemMultiMaterial~31 Name1appliedenergistics2/item.ItemMultiMaterial~29appliedenergistics2/item.ItemMultiMaterial~29 Name1
+The Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. If you just want it to be fuzzy for nbt, set to Match Any. If it is set to 99%, it will work on anything that is damaged. You can use the Inverter Card to reverse this.0-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalappliedenergistics2/item.ItemMultiMaterial-25.pngBasic Card
+3appliedenergistics2/item.ItemMultiMaterial-28.pngAdvanced Card
+3Retrievalappliedenergistics2/item.ItemMultiMaterial-26.pngRedstone Card\nME Essentia Import/Export Bus\nME Fluid Export Bus\nME Fluid Export/Import Bus\nME Fluid Import Bus\nME IO Port\nME Import/Export Bus\nextracells.gas.IO
+1appliedenergistics2/item.ItemMultiMaterial-27.pngCapacity Card\nME Fluid Export/Import Bus (2)\nextracells.gas.IO (2)\nME Essentia Import/Export Bus (2)\nME Fluid Import Bus (2)\nME Fluid Export Bus (2)\nME Import/Export Bus (2)\nME Formation Plane (5)\nME Fluid Storage Bus (5)\nME Storage Bus (5)
+1appliedenergistics2/item.ItemMultiMaterial-53.pngCrafting Card\nME Dual Interface\nME Essentia Import/Export Bus\nME Export Bus\nME Fluid Export Bus\nME Interface\nME Level Emitter\nP2P Tunnel - ME Interface
+1appliedenergistics2/item.ItemMultiMaterial-30.pngAcceleration Card\nextracells.gas.IO (2)\nME Essentia Import/Export Bus (2)\nME Fluid Export/Import Bus (2)\nInscriber (3)\nME IO Port (3)\nCrystal Growth Chamber (3)\nME Import/Export Bus (4)\nME Fluid Export Bus (4)\nMatter Cannon (4)\nME Fluid Import Bus (4)\nArcane Assembler (4)\nAdvanced Inscriber (5)\nMolecular Assembler (5)
+1appliedenergistics2/item.ItemMultiMaterial-31.pngInverter Card\nEssentia Storage Bus\nME Fluid Storage Bus\nME Formation Plane\nME Gas Storage Bus\nME Storage Bus\nME Storage Cells\nMatter Cannon\nView Cell\nVoid ME Storage Cell
+1appliedenergistics2/item.ItemMultiMaterial-29.pngFuzzy Card\nME Formation Plane\nME Import/Export Bus\nME Level Emitter\nME Storage Bus\nME Storage Cells\nMatter Cannon\nView Cell\nVoid ME Storage Cell
+1

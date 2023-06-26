@@ -1,4 +1,4 @@
-2555Underground FluidsSo you're probably wondering what all the underground fluids are, so here's a list. They're sorted by rocket tier and planet. Any Dims not listed have none.
+gregtech/gt.metaitem.01-32619.pngUnderground FluidsSo you're probably wondering what all the underground fluids are, so here's a list. They're sorted by rocket tier and planet. Any Dims not listed have none.
 
 §cThis list is subject to change due to balancing at any time!§r
 
@@ -119,4 +119,5 @@ Molten Tin 15 400
 Tau Ceti E
 Distilled Water 100 10000
 Hydrogen 50 700
-Very Heavy Oil 100 200ANDpreRequgregtech/gt.blockmachines~1157Quest Name For 765765rewardstasksANDCheckboxcheckbox  
+Very Heavy Oil 100 2000-1ANDpre7650gregtech/gt.blockmachines-1157.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

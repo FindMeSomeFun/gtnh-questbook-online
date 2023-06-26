@@ -1,7 +1,12 @@
-3070§6§lWay Three: Pyrolyse Oven§0§r§r§6§rBy using the Pyrolyse Oven, you are able to reap the rewards of coil speed increases.
+gregtech/gt.blockmachines-1159.png§6§lWay Three: Pyrolyse Oven§0§r§r§6§rBy using the Pyrolyse Oven, you are able to reap the rewards of coil speed increases.
 
 You can also side-step the need for a Fermenter. Check out NEI to see which way suits you best. The GT++ Industrial Coke Oven will allow you to do this as well.
 
 (You only have to submit one of these)
 
-ANDpreRequIC2/itemBiochaff~0Quest Name For 733733rewardsChoicegregtech/gt.blockmachines~1366Choice Name4gregtech/gt.metaitem.03~32079Choice Name2enhancedlootbags/lootbag~5Choice Name1tasksORRetrievalgregtech/gt.blockmachines~1159gregtech/gt.blockmachines~1159 Name1Retrievalgregtech/gt.blockmachines~791gregtech/gt.blockmachines~791 Name1
+0-1ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+4gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit\nGood Circuit\nMV-Tier
+2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksORRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven\nMachine Type: Coke Oven\nController block for the Pyrolyse Oven\nIndustrial Charcoal producer\nProcessing speed scales linearly with Coil tier:\nCuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.\nEU/t is not affected by Coil tier\nCauses: 300 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1Retrievalgregtech/gt.blockmachines-791.pngIndustrial Coke Oven\nMachine Type: Coke Oven\nProcesses Logs and Coal into Charcoal and Coal Coke.\nController Block for the Industrial Coke Oven\nGain 4% energy discount per voltage tier\nProcess 12x materials with Heat Resistant Casings\nOr 24x materials with Heat Proof Casings\nCauses: 80 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1

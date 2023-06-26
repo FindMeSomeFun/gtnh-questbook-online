@@ -1,3 +1,7 @@
-644§5§lMethaneDistilling some "refinery gases" gives you some methane gas. There are many more (and probably better) ways to get methane.
+gregtech/gt.metaitem.01-30673.png§5§lMethaneDistilling some "refinery gases" gives you some methane gas. There are many more (and probably better) ways to get methane.
 
-You will need this in later tiers, for PTFE as an example.ANDpreRequgregtech/gt.metaitem.01~30735Quest Name For 643643rewardsChoicegregtech/gt.metaitem.01~30709Choice Name8enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name15tasksANDRetrievalgregtech/gt.metaitem.01~30715gregtech/gt.metaitem.01~30715 Name32
+You will need this in later tiers, for PTFE as an example.0-1ANDpre6430gregtech/gt.metaitem.01-30735.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
+8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-30715.pngMethane Cell\nCH\u2084
+32

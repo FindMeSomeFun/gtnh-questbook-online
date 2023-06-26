@@ -1,5 +1,12 @@
-613Reusable Battery: SodiumSodium, cadmium, and lithium batteries are rechargeable batteries. They're crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.
+gregtech/gt.metaitem.01-32519.pngReusable Battery: SodiumSodium, cadmium, and lithium batteries are rechargeable batteries. They're crafted without stored energy, but can be charged in any gregtech machine. If unneeded, they can be placed in an extractor and converted back into small battery hulls, but their contents are lost.
 
 If placed in a machine, it will fill up if there's excess power, and drain if the machine can't get enough. Handy for high-EU machines you don't want to choke.
 
-§3Sodium is the one that stores the least EU of the 3 rechargable batteries, but is definitely the easiest to get.ANDpreRequgregtech/gt.metaitem.01~32500Quest Name For 609609gregtech/gt.blockmachines~231Quest Name For 624624rewardsChoicegregtech/gt.metaitem.01~2017Choice Name2gregtech/gt.metaitem.01~2315Choice Name4gregtech/gt.blockmachines~1246Choice Name4enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name15dreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalgregtech/gt.metaitem.01~32519gregtech/gt.metaitem.01~32519 Name1
+§3Sodium is the one that stores the least EU of the 3 rechargable batteries, but is definitely the easiest to get.0-1ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2017.pngSodium Dust\nNa\nBurn Time: 400
+2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dust\nPb\u2084Sb
+4gregtech/gt.blockmachines-1246.png1x Tin Cable\nMax Voltage: 32 (LV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
+4enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-32519.pngSmall Sodium Battery\nReusable\n0 / 50,000 EU - Voltage: 32\nLV-Tier
+1

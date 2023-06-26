@@ -1,5 +1,10 @@
-2607§c§lNaquadah AlloyIn order to make a Fusion Reactor you're going to need some Naquadah Alloy.
+gregtech/gt.metaitem.01-11325.png§c§lNaquadah AlloyIn order to make a Fusion Reactor you're going to need some Naquadah Alloy.
 
 First, pop on by Mercury and collect some Deep Iron from small ores if you haven't already, and get Trinium out of it.
 
-You'll also need Naquadah coils, and LuV Energy Hatches.ANDpreRequgregtech/gt.blockcasings5~5Quest Name For 476476gregtech/gt.blockmachines~46Quest Name For 25992599bartworks/gt.bwMetaGenerateddust~10063Quest Name For 29412941rewardstasksANDOptionalgregtech/gt.metaitem.01~2324gregtech/gt.metaitem.01~2324 Name18gregtech/gt.metaitem.01~2868gregtech/gt.metaitem.01~2868 Name9gregtech/gt.metaitem.01~2010gregtech/gt.metaitem.01~2010 Name9Optionalgregtech/gt.metaitem.01~2325gregtech/gt.metaitem.01~2325 Name36Retrievalgregtech/gt.metaitem.01~11325gregtech/gt.metaitem.01~11325 Name36
+You'll also need Naquadah coils, and LuV Energy Hatches.1-1ANDpre4761gregtech/gt.blockcasings5-5.png25991gregtech/gt.blockmachines-46.png29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+18gregtech/gt.metaitem.01-2868.pngTrinium Dust\nKe
+9gregtech/gt.metaitem.01-2010.pngCarbon Dust\nC
+9Optionalgregtech/gt.metaitem.01-2325.pngNaquadah Alloy Dust\nNq\u2082KeC
+36Retrievalgregtech/gt.metaitem.01-11325.pngNaquadah Alloy Ingot\nNq\u2082KeC
+36

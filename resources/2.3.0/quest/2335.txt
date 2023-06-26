@@ -1,4 +1,4 @@
-2335Taglock KitTaglock Kits are used to collect taglocks from other players or creatures. Taglocks, such as locks of hair, fingernail clippings or blood, are used in various recipes to create a link between the creature and the magic.
+witchery/taglockkit-0.pngTaglock KitTaglock Kits are used to collect taglocks from other players or creatures. Taglocks, such as locks of hair, fingernail clippings or blood, are used in various recipes to create a link between the creature and the magic.
 
 Use a taglock kit on a creature, or the used bed of a player, to collect some taglocks from that being. Repeated use on the same bed will cycle taglocks for each player who has used that bed. The kit can also be used on a Leech Chest to collect taglocks from users who have opened the chest or on a Blood Rose to collect the taglock of the player that walked over it.
 
@@ -9,4 +9,12 @@ Collecting taglocks by using the kit on a player has a chance of failing and inf
 Taglocks can only be collected from players who are logged into the same world.
 
 Taglock kits are made by crafting a Glass Bottle with a Bone Needle.
-ANDpreRequwitchery/altar~0Quest Name For 333333rewardsChoicewitchery/ingredient~163Choice Name4minecraft/glass_bottle~0Choice Name64enhancedlootbags/lootbag~53Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinWitchI~0Item Name5tasksANDOptionalwitchery/ingredient~7witchery/ingredient~7 Name16minecraft/glass_bottle~0minecraft/glass_bottle~0 Name16Retrievalwitchery/taglockkit~0witchery/taglockkit~0 Name16
+0-1ANDpre3330witchery/altar-0.pngrewardsChoicewitchery/ingredient-163.pngWarm Blood
+4minecraft/glass_bottle-0.pngGlass Bottle
+64enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5tasksANDOptionalwitchery/ingredient-7.pngBone Needle
+16minecraft/glass_bottle-0.pngGlass Bottle
+16Retrievalwitchery/taglockkit-0.pngTaglock Kit\nNot bound
+16

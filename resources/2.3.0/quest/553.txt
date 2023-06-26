@@ -1,1 +1,6 @@
-553§6§lDiesel FuelIf you get an MV mixer, you can mix your light and heavy fuel together to give diesel. At 480,000 per cell, this turns 1,525,000 EU into 2,880,000, not accounting for how much you spent to get it, so it's definitely worth it.ANDpreRequgregtech/gt.metaitem.01~30740Quest Name For 549549gregtech/gt.metaitem.01~30741Quest Name For 552552gregtech/gt.blockmachines~582Quest Name For 751751rewardsChoicegregtech/gt.metaitem.01~30709Choice Name8enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~30708gregtech/gt.metaitem.01~30708 Name48
+gregtech/gt.metaitem.01-30708.png§6§lDiesel FuelIf you get an MV mixer, you can mix your light and heavy fuel together to give diesel. At 480,000 per cell, this turns 1,525,000 EU into 2,880,000, not accounting for how much you spent to get it, so it's definitely worth it.0-1ANDpre5490gregtech/gt.metaitem.01-30740.png5520gregtech/gt.metaitem.01-30741.png7511gregtech/gt.blockmachines-582.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
+8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-30708.pngDiesel Cell
+48

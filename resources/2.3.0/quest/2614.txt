@@ -1,1 +1,6 @@
-2614Admit it, You Love This Pt 1 in UVAre you okay? Playing this much might not be healthy you know?ANDpreRequgregtech/gt.blockmachines~18Quest Name For 26132613rewardstasksANDRetrievalgregtech/gt.metaitem.01~32608gregtech/gt.metaitem.01~32608 Name1gregtech/gt.metaitem.01~32647gregtech/gt.metaitem.01~32647 Name1gregtech/gt.metaitem.01~32637gregtech/gt.metaitem.01~32637 Name1gregtech/gt.metaitem.01~32617gregtech/gt.metaitem.01~32617 Name1gregtech/gt.metaitem.01~32657gregtech/gt.metaitem.01~32657 Name1
+gregtech/gt.metaitem.01-32657.pngAdmit it, You Love This Pt 1 in UVAre you okay? Playing this much might not be healthy you know?1-1ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32608.pngElectric Motor
+1gregtech/gt.metaitem.01-32647.pngElectric Piston
+1gregtech/gt.metaitem.01-32637.pngConveyor Module\n8 stacks every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32617.pngElectric Pump\n524,288 L/t (10,485,760 L/s) as Cover
+1gregtech/gt.metaitem.01-32657.pngRobot Arm\nCannot be used as a Cover
+1

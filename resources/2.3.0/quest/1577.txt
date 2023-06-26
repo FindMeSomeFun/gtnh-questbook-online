@@ -1,4 +1,4 @@
-1577Wake Me Up LaterIn the daytime you can find a few wispy cotton, which are needed for futher progression. There's no mobs in the Dream version, so hang out if you like.
+witchery/somniancotton-0.pngWake Me Up LaterIn the daytime you can find a few wispy cotton, which are needed for futher progression. There's no mobs in the Dream version, so hang out if you like.
 
 It can be collected and replanted, but will only spread if planted in the Spirit World, on Dirt or Grass that is next to a pool of Flowing Spirit.
 
@@ -6,4 +6,9 @@ Planting Wispy Cotton nearby when using a Brew of Sleeping near to a Dream Weave
 
 Wispy Cotton will remain in a players inventory when they return from the Spirit World.
 
-ANDpreRequminecraft/end_portal~0Quest Name For 15761576rewardsItemminecraft/potion~8229Item Name1Itemdreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinWitchII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1tasksANDRetrievalwitchery/somniancotton~0witchery/somniancotton~0 Name16
+0-1ANDpre15760minecraft/end_portal-0.pngrewardsItemminecraft/potion-8229.pngPotion of Healing\nInstant Health II
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1tasksANDRetrievalwitchery/somniancotton-0.pngWispy Cotton
+16

@@ -1,1 +1,5 @@
-640§5§lLPGCentrifuging Butane or Propane gives you LPG with a burn value of 320,000 EU, the same as naphtha.ANDpreRequgregtech/gt.metaitem.01~30644Quest Name For 840840rewardsChoiceIC2/itemCellEmpty~7Choice Name16enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name15tasksANDRetrievalgregtech/gt.metaitem.01~30742gregtech/gt.metaitem.01~30742 Name66
+gregtech/gt.metaitem.01-30742.png§5§lLPGCentrifuging Butane or Propane gives you LPG with a burn value of 320,000 EU, the same as naphtha.0-1ANDpre8400gregtech/gt.metaitem.01-30644.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
+16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-30742.pngLPG Cell
+66

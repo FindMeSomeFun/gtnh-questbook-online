@@ -1,3 +1,9 @@
-1533§b§lCallisto TripCallisto Ice is a material you need for Tier 4 Rockets. Look for it at Y 40-60. You can also find platinum series and radioactive ores here.
+gregtech/gt.blockores-389.png§b§lCallisto TripCallisto Ice is a material you need for Tier 4 Rockets. Look for it at Y 40-60. You can also find platinum series and radioactive ores here.
 
-§3You can also find Mytryl and Ledox here as small ores.ANDpreRequGalacticraftMars/item.itemTier3Rocket~0Quest Name For 215215rewardsItemenhancedlootbags/lootbag~24Item Name1enhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinSpaceII~0Item Name5dreamcraft/item.CoinAdventureII~0Item Name5tasksORRetrievalgregtech/gt.blockores~389gregtech/gt.blockores~389 Name64Retrievalgregtech/gt.metaitem.01~5389gregtech/gt.metaitem.01~5389 Name192
+§3You can also find Mytryl and Ledox here as small ores.1-1ANDpre2151GalacticraftMars/item.itemTier3Rocket-0.pngrewardsItemenhancedlootbags/lootbag-24.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+5tasksORRetrievalgregtech/gt.blockores-389.pngCallisto Ice Ore\nSpH\u2082O
+64Retrievalgregtech/gt.metaitem.01-5389.pngCrushed Callisto Ice Ore\nSpH\u2082O
+192

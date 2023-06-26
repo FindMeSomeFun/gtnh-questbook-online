@@ -1,1 +1,11 @@
-1234§a§lEmpty Expoxid BoardEpoxid circuit boards require an epoxid plate, gold foil and sulfuric acid to make an empty board. By adding electrum foil and Iron(III) Chloride or Sodium Persulfate you can craft an Advanced Circuit Board.ANDpreRequgregtech/gt.metaitem.01~17470Quest Name For 12241224rewardsChoicegregtech/gt.metaitem.01~29303Choice Name8gregtech/gt.metaitem.01~17470Choice Name4enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinChemistII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~17470gregtech/gt.metaitem.01~17470 Name1gregtech/gt.metaitem.01~29086gregtech/gt.metaitem.01~29086 Name8Optionalgregtech/gt.metaitem.01~29303gregtech/gt.metaitem.01~29303 Name8gregtech/gt.metaitem.01~32711gregtech/gt.metaitem.01~32711 Name1Retrievalgregtech/gt.metaitem.03~32102gregtech/gt.metaitem.03~32102 Name1
+gregtech/gt.metaitem.03-32102.png§a§lEmpty Expoxid BoardEpoxid circuit boards require an epoxid plate, gold foil and sulfuric acid to make an empty board. By adding electrum foil and Iron(III) Chloride or Sodium Persulfate you can craft an Advanced Circuit Board.1-1ANDpre12241gregtech/gt.metaitem.01-17470.pngrewardsChoicegregtech/gt.metaitem.01-29303.pngElectrum Foil\nAgAu
+8gregtech/gt.metaitem.01-17470.pngEpoxid Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
+4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
+1gregtech/gt.metaitem.01-29086.pngGold Foil\nAu
+8Optionalgregtech/gt.metaitem.01-29303.pngElectrum Foil\nAgAu
+8gregtech/gt.metaitem.01-32711.pngEpoxy Circuit Board\nAn Advanced Board
+1Retrievalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
+1

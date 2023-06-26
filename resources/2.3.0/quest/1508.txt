@@ -1,7 +1,10 @@
-1508§2§lA Better Crafting TableTired of your stuff falling out of your crafting table every time you walk away?  This fancy table from Tinker's Construct has slots to hold the items in your recipe. 
+TConstruct/CraftingStation-0.png§2§lA Better Crafting TableTired of your stuff falling out of your crafting table every time you walk away?  This fancy table from Tinker's Construct has slots to hold the items in your recipe. 
 
 You can also use it to upgrade tools with 8 modifiers at a time. Very handy for additional speed or looting!
 
 When it's placed next to a vanilla chest, it will even show the chest's inventory in the crafting window. Single or double vanilla chests only please.
 
-Cut it again for a sleek, low profile version.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsItemdreamcraft/item.CoinSmith~0Item Name10Itemharvestcraft/plumjellysandwichItem~0Item Name4tasksANDRetrievalTConstruct/CraftingStation~0TConstruct/CraftingStation~0 Name1
+Cut it again for a sleek, low profile version.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10Itemharvestcraft/plumjellysandwichItem-0.pngPlum Jelly Sandwich\nharvestcraft:plumjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+4tasksANDRetrievalTConstruct/CraftingStation-0.pngCrafting Station\nBurn Time: 300
+1

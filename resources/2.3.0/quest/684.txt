@@ -1,1 +1,11 @@
-684Wooden ArmorIf you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that.ANDpreRequgregtech/gt.metatool.01~14Quest Name For 444444rewardsChoiceminecraft/log~0Choice Name32BiomesOPlenty/mudball~0Choice Name24enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name2dreamcraft/item.CoinSurvivor~0Item Name2tasksANDOptionalminecraft/log~0minecraft/log~0 Name24CraftingTConstruct/helmetWood~0TConstruct/helmetWood~0 Name1TConstruct/chestplateWood~0TConstruct/chestplateWood~0 Name1TConstruct/leggingsWood~0TConstruct/leggingsWood~0 Name1TConstruct/bootsWood~0TConstruct/bootsWood~0 Name1
+TConstruct/chestplateWood-0.pngWooden ArmorIf you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that.0-1ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.pngrewardsChoiceminecraft/log-0.pngOak Wood\nBurn Time: 300
+32BiomesOPlenty/mudball-0.pngMud Ball
+24enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+2tasksANDOptionalminecraft/log-0.pngOak Wood\nBurn Time: 300
+24CraftingTConstruct/helmetWood-0.pngWooden Helmet\nProtection: 1\nDurability: 22/22
+1TConstruct/chestplateWood-0.pngWooden Chestplate\nProtection: 2\nDurability: 32/32
+1TConstruct/leggingsWood-0.pngWooden Leggings\nProtection: 2\nDurability: 30/30
+1TConstruct/bootsWood-0.pngWooden Boots\nProtection: 1\nDurability: 26/26
+1

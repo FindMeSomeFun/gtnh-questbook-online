@@ -1,1 +1,6 @@
-322Unbreakable PickaxeA pickaxe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...ANDpreRequThaumicTinkerer/kamiResource~2Quest Name For 320320rewardsItemThaumcraft/ItemLootBag~2Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinSmithII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalThaumicTinkerer/ichorPick~0ThaumicTinkerer/ichorPick~0 Name1
+ThaumicTinkerer/ichorPick-0.pngUnbreakable PickaxeA pickaxe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...0-1ANDpre3201ThaumicTinkerer/kamiResource-2.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/ichorPick-0.pngIchorium Pickaxe\nThaumicTinkerer:ichorPick\n+7 Attack Damage
+1

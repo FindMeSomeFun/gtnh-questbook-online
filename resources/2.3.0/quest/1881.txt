@@ -1,1 +1,3 @@
-1881Clay for PenniesHard to find that clay? Have a stack for some coins.ANDpreRequminecraft/clay_ball~0Quest Name For 2121rewardsItemminecraft/clay_ball~0Item Name64tasksANDRetrievaldreamcraft/item.CoinAdventure~0dreamcraft/item.CoinAdventure~0 Name25
+minecraft/clay_ball-0.pngClay for PenniesHard to find that clay? Have a stack for some coins.06000ANDpre211minecraft/clay_ball-0.pngrewardsItemminecraft/clay_ball-0.pngClay
+64tasksANDConsumedreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25

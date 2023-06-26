@@ -1,1 +1,6 @@
-347Bloodlust: Wool of BatIn case you just can't get it to drop.ANDpreRequwitchery/spinningwheel~0Quest Name For 335335rewardsItemwitchery/ingredient~24Item Name1enhancedlootbags/lootbag~54Item Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDHuntwitchery.hellhoundwitchery.hellhound Name10
+witchery/ingredient-24.pngBloodlust: Wool of BatIn case you just can't get it to drop.0-1ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/ingredient-24.pngWool of Bat
+1enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDHuntmobs/witchery-hellhound-.pngHell Hound
+10

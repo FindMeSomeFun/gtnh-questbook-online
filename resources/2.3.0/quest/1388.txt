@@ -1,3 +1,7 @@
-1388Wand Focus DistortionThe Wand Focus: Distortion can be equipped on any wand.  It protects the caster from "ordinary" projectiles such as arrows, snowballs, and potions. The focus can be enabled by cycling through the foci currently in the player's inventory, which is done with the F-key. The focus consumes 0.04 Aer and 0.08 Ordo per tick from the Vis stored in the wand while in use.
+ThaumicTinkerer/focusDeflect-0.pngWand Focus DistortionThe Wand Focus: Distortion can be equipped on any wand.  It protects the caster from "ordinary" projectiles such as arrows, snowballs, and potions. The focus can be enabled by cycling through the foci currently in the player's inventory, which is done with the F-key. The focus consumes 0.04 Aer and 0.08 Ordo per tick from the Vis stored in the wand while in use.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumicTinkerer/focusFlight~0Quest Name For 13871387rewardsItemenhancedlootbags/lootbag~9Item Name1Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumicTinkerer/focusDeflect~0ThaumicTinkerer/focusDeflect~0 Name1
+This focus can be upgraded at the Focal Manipulator.0-1ANDpre13870ThaumicTinkerer/focusFlight-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumicTinkerer/focusDeflect-0.pngWand Focus: Distortion\nVis per tick\n Aer x 0.04\n Ordo x 0.08
+1

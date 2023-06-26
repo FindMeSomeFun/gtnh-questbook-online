@@ -1,3 +1,11 @@
-2122Speak For the TreesYou'll need to find a bunch of vanilla trees to start your breeding program. To convert them directly to Forestry trees, you can use a Treealyzer - but you'll need a carpenter and aluminium from MV for that. Alternatively, you can just grow a bunch of vanilla trees and surround them by good pollination bees in bee housing. Spectacles will help you see the fertilized leaves to harvest with your Grafter or Branch Cutter.
+Forestry/sapling-0-Oak.pngSpeak For the TreesYou'll need to find a bunch of vanilla trees to start your breeding program. To convert them directly to Forestry trees, you can use a Treealyzer - but you'll need a carpenter and aluminium from MV for that. Alternatively, you can just grow a bunch of vanilla trees and surround them by good pollination bees in bee housing. Spectacles will help you see the fertilized leaves to harvest with your Grafter or Branch Cutter.
 
-Completing the quests will require scanned trees, but you can progress on breeding while waiting for your GT Scanner or Treealyzer to be made.ANDpreRequForestry/grafter~0Quest Name For 20842084rewardsItemdreamcraft/item.CoinForestry~0Item Name15enhancedlootbags/lootbag~19Item Name1tasksANDRetrievalForestry/sapling~0Forestry/sapling~0 Name4Forestry/sapling~0Forestry/sapling~0 Name4Forestry/sapling~0Forestry/sapling~0 Name4Forestry/sapling~0Forestry/sapling~0 Name4Forestry/sapling~0Forestry/sapling~0 Name4Forestry/sapling~0Forestry/sapling~0 Name4
+Completing the quests will require scanned trees, but you can progress on breeding while waiting for your GT Scanner or Treealyzer to be made.0-1ANDpre20840Forestry/grafter-0.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalForestry/sapling-0-Oak.pngApple Oak Sapling\nBurn Time: 100
+4Forestry/sapling-0-DarkOak.pngDark Oak Sapling\nBurn Time: 100
+4Forestry/sapling-0-AcaciaVanilla.pngAcacia Sapling\nBurn Time: 100
+4Forestry/sapling-0-Birch.pngSilver Birch Sapling\nBurn Time: 100
+4Forestry/sapling-0-Spruce.pngRed Spruce Sapling\nBurn Time: 100
+4Forestry/sapling-0-Jungle.pngJungle Sapling\nBurn Time: 100
+4

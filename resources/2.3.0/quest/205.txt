@@ -1,3 +1,15 @@
-205Cargo Rocket: For the FunNo need to fly to distant planets on your own, just to grab ores.
+GalacticraftMars/item.spaceshipTier2-13.pngCargo Rocket: For the FunNo need to fly to distant planets on your own, just to grab ores.
 
-§3Usefulness level: Doubtful.ANDpreRequGalacticraftMars/item.spaceshipTier2~0Quest Name For 186186GalacticraftMars/item.schematic~1Quest Name For 14491449GalacticraftMars/tile.marsMachine~8Quest Name For 14521452rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinSpaceII~0Item Name2dreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalGalaxySpace/item.RocketControlComputer~101GalaxySpace/item.RocketControlComputer~101 Name1GalacticraftCore/item.noseCone~0GalacticraftCore/item.noseCone~0 Name1GalacticraftCore/item.basicItem~14GalacticraftCore/item.basicItem~14 Name1GalacticraftMars/item.null~3GalacticraftMars/item.null~3 Name8GalacticraftCore/item.rocketFins~0GalacticraftCore/item.rocketFins~0 Name2GalaxySpace/item.ModuleSmallFuelCanister~0GalaxySpace/item.ModuleSmallFuelCanister~0 Name3IronChest/BlockIronChest~3IronChest/BlockIronChest~3 Name1GalacticraftCore/item.engine~0GalacticraftCore/item.engine~0 Name1RetrievalGalacticraftMars/item.spaceshipTier2~11GalacticraftMars/item.spaceshipTier2~11 Name1
+§3Usefulness level: Doubtful.0-1ANDpre1861GalacticraftMars/item.spaceshipTier2-0.png14490GalacticraftMars/item.schematic-1.png14520GalacticraftMars/tile.marsMachine-8.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalGalaxySpace/item.RocketControlComputer-101.pngCargo Rocket Control Computer
+1GalacticraftCore/item.noseCone-0.pngNose Cone
+1GalacticraftCore/item.basicItem-14.pngAdvanced Wafer
+1GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+8GalacticraftCore/item.rocketFins-0.pngRocket Fins
+2GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister\nRocket Module
+3IronChest/BlockIronChest-3.pngCopper Chest\n5*9 Inventory - 45 Slots
+1GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+1RetrievalGalacticraftMars/item.spaceshipTier2-11.pngCargo Rocket\nStorage Space: 18\nRequires Launch Controller
+1

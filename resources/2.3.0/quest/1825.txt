@@ -1,1 +1,6 @@
-1825L.E.S.U. Upgrade - LV TierAdding this much Cells anywhere to your LESU will upgrade it from ULV to LV.ANDpreRequgregtech/gt.blockmachines~12600Quest Name For 18201820rewardsItemIC2/itemDustSmall~9Item Name1dreamcraft/item.CoinTechnician~0Item Name1enhancedlootbags/lootbag~4Item Name1IC2/itemToolPainterBlue~0Item Name1tasksANDRetrievalbartworks/GT_LESU_CASING~0bartworks/GT_LESU_CASING~0 Name8
+IC2/itemDustSmall-9.pngL.E.S.U. Upgrade - LV TierAdding this much Cells anywhere to your LESU will upgrade it from ULV to LV.0-1ANDpre18200gregtech/gt.blockmachines-12600.pngrewardsItemIC2/itemDustSmall-9.pngTiny Pile of Lapis Dust
+1dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+1enhancedlootbags/lootbag-4-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1IC2/itemToolPainterBlue-0.pngBlue Painter\nLapis Lazuli
+1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
+8

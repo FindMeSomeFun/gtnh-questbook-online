@@ -1,1 +1,10 @@
-646§5§lElectrotine BatteryThe electrotine battery is exclusively used in project red machines and the jetpack. Electrotine is made by mixing redstone and electrum dust in a mixer, or mined from the Nether.ANDpreRequgregtech/gt.blockmachines~231Quest Name For 624624rewardsChoiceProjRedCore/projectred.core.part~56Choice Name24gregtech/gt.metaitem.01~17811Choice Name6gregtech/gt.metaitem.01~17500Choice Name4enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name15dreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalProjRedCore/projectred.core.part~56ProjRedCore/projectred.core.part~56 Name6gregtech/gt.metaitem.01~32500gregtech/gt.metaitem.01~32500 Name1RetrievalProjRedExpansion/projectred.expansion.emptybattery~0ProjRedExpansion/projectred.expansion.emptybattery~0 Name1
+ProjRedExpansion/projectred.expansion.battery-0.png§5§lElectrotine BatteryThe electrotine battery is exclusively used in project red machines and the jetpack. Electrotine is made by mixing redstone and electrum dust in a mixer, or mined from the Nether.0-1ANDpre6240gregtech/gt.blockmachines-231.pngrewardsChoiceProjRedCore/projectred.core.part-56.pngElectrotine
+24gregtech/gt.metaitem.01-17811.pngGlowstone Plate
+6gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+4enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalProjRedCore/projectred.core.part-56.pngElectrotine
+6gregtech/gt.metaitem.01-32500.pngSmall Battery Hull\nAn empty LV Battery Hull
+1RetrievalProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
+1

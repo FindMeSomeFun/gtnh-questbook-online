@@ -1,3 +1,12 @@
-1182Fluid Loader and UnloaderIf you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.
+Railcraft/machine.gamma-4.pngFluid Loader and UnloaderIf you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.
 
-§3PS: You can also use the long-distance pipeline.ANDpreRequminecraft/rail~0Quest Name For 866866rewardsChoicegregtech/gt.blockmachines~5103Choice Name128gregtech/gt.metaitem.01~32610Choice Name1minecraft/rail~0Choice Name64enhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalRailcraft/machine.gamma~4Railcraft/machine.gamma~4 Name1Railcraft/machine.gamma~5Railcraft/machine.gamma~5 Name1RetrievalRailcraft/track~20176Railcraft/track~20176 Name2
+§3PS: You can also use the long-distance pipeline.0-1ANDpre8660minecraft/rail-0.pngrewardsChoicegregtech/gt.blockmachines-5103.pngLarge Wooden Fluid Pipe\nFluid Capacity: 1,200 L/sec\nHeat Limit: 350 K
+128gregtech/gt.metaitem.01-32610.pngElectric Pump\n32 L/t (640 L/s) as Cover
+1minecraft/rail-0.pngTrack
+64enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalRailcraft/machine.gamma-4.pngFluid Loader\nLoads Fluids into Carts\n- Place 1-2 blocks above Track -\nMobs cannot Spawn on this Block
+1Railcraft/machine.gamma-5.pngFluid Unloader\nUnloads Fluids from Carts\n- Place under Track -\nMobs cannot Spawn on this Block
+1RetrievalRailcraft/track-20176-locking.pngLocking Track\nStops and holds carts\n- Hit with Crowbar to change mode -\n- Apply Redstone to enable -
+2

@@ -1,8 +1,14 @@
-3076§b§lGlowing MatterAnother way to get Sunnarium! Just throw stacks of Glowing Coral and a tiny bit of UU-Matter in an autoclave and hope for the best.
+BiomesOPlenty/coral1-15.png§b§lGlowing MatterAnother way to get Sunnarium! Just throw stacks of Glowing Coral and a tiny bit of UU-Matter in an autoclave and hope for the best.
 
 You can either use an IC2 crop farm, or have any type of Glowstone farm and combine it with a GT++ Algae Farm.
 
 A farm for Glowing Coral or Glowstone should also help you mass produce other resources like Gold, Redstone, Mercury, etc.
 
 
-§3The Large Processing Factory can speed things up, but is also rather expensive to make.ANDpreRequgregtech/gt.blockmachines~15Quest Name For 213213rewardsChoiceAdvancedSolarPanel/asp_crafting_items~0Choice Name1enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalBiomesOPlenty/coral1~15BiomesOPlenty/coral1~15 Name32OptionalIC2/itemCellEmpty~3IC2/itemCellEmpty~3 Name1Retrievalgregtech/gt.metaitem.01~2318gregtech/gt.metaitem.01~2318 Name4
+§3The Large Processing Factory can speed things up, but is also rather expensive to make.0-1ANDpre2131gregtech/gt.blockmachines-15.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-0.pngSunnarium
+1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalBiomesOPlenty/coral1-15.pngGlowing Coral
+32OptionalIC2/itemCellEmpty-3.pngUuMatter Cell
+1Retrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dust\nSu
+4

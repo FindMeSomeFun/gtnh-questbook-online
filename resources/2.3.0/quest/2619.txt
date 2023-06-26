@@ -1,1 +1,2 @@
-2619ZPM Superconductors (131,072 EU/t)You can figure out how to make them yourself, right?ANDpreRequgregtech/gt.blockmachines~17Quest Name For 26102610rewardstasksANDRetrievalgregtech/gt.blockmachines~2420gregtech/gt.blockmachines~2420 Name64
+gregtech/gt.blockmachines-2420.pngZPM Superconductors (131,072 EU/t)You can figure out how to make them yourself, right?1-1ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2420.png1x Superconductor ZPM Wire\nMax Voltage: 131,072 (ZPM)\nMax Amperage: 24\nLoss/Meter/Ampere: 0 EU-Volt
+64

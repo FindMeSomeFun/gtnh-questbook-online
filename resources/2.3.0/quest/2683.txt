@@ -1,4 +1,4 @@
-2683Configuring TecTech MultiblocksMany TecTech multis can be customized by adjusting certain internal numbers called parameters. You no longer need a separate block to do so, you can now directly adjust them in the GUI.
+gregtech/gt.blockmachines-15420.pngConfiguring TecTech MultiblocksMany TecTech multis can be customized by adjusting certain internal numbers called parameters. You no longer need a separate block to do so, you can now directly adjust them in the GUI.
 
 If there are lit up sections in the parameters part of the multi interface (see the TecTech Multiblocks quest), you can configure the multi, otherwise there is nothing to do.
 
@@ -8,4 +8,5 @@ First we need to understand the parameter naming, like ID:0:1:I. The first numbe
 
 Inputs are something that is either set or is a default. Outputs give information that the machine sends to you, that indicates things. (like heat or Computation)
 
-§3You might still want to use the Parametrizer in block form if you want to copy and paste the settings.ANDpreRequstructurelib/item.structurelib.constructableTrigger~0Quest Name For 20052005rewardstasksANDCheckboxcheckbox  
+§3You might still want to use the Parametrizer in block form if you want to copy and paste the settings.0-1ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

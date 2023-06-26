@@ -1,1 +1,3 @@
-2067Everything Fuzzy? Try Some LensesNow that you have Goggles of Revealing, Thaumic Horizons offers various lenses with handy uses. This one will grant night vision. Try out some of the others.ANDpreRequThaumcraft/ItemGoggles~0Quest Name For 19981998rewardsItemThaumicHorizons/lensCase~0Item Name1tasksANDRetrievalThaumicHorizons/lensFire~0ThaumicHorizons/lensFire~0 Name1
+ThaumicHorizons/lensFire-0.pngEverything Fuzzy? Try Some LensesNow that you have Goggles of Revealing, Thaumic Horizons offers various lenses with handy uses. This one will grant night vision. Try out some of the others.0-1ANDpre19981Thaumcraft/ItemGoggles-0.pngrewardsItemThaumicHorizons/lensCase-0.pngLens Case
+1tasksANDRetrievalThaumicHorizons/lensFire-0.pngIllumine Lens
+1

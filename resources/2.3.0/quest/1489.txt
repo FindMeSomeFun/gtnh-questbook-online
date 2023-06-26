@@ -1,1 +1,9 @@
-1489§c§lNow You're Really Gonna Hate This 1-4 in LuVPumps, pistons, conveyor modules and robot arms are the most needed machine parts in LuV. Go and craft one of each with your new Assembly Line.ANDpreRequgregtech/gt.blockmachines~16Quest Name For 14931493gregtech/gt.metaitem.01~11374Quest Name For 16651665bartworks/gt.bwMetaGeneratedingot~90Quest Name For 23302330rewardsItemgregtech/gt.metaitem.01~11316Item Name32bartworks/gt.bwMetaGeneratedingot~88Item Name8enhancedlootbags/lootbag~41Item Name1Itemdreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~32615gregtech/gt.metaitem.01~32615 Name1gregtech/gt.metaitem.01~32645gregtech/gt.metaitem.01~32645 Name1gregtech/gt.metaitem.01~32635gregtech/gt.metaitem.01~32635 Name1gregtech/gt.metaitem.01~32655gregtech/gt.metaitem.01~32655 Name1
+gregtech/gt.metaitem.01-32655.png§c§lNow You're Really Gonna Hate This 1-4 in LuVPumps, pistons, conveyor modules and robot arms are the most needed machine parts in LuV. Go and craft one of each with your new Assembly Line.1-1ANDpre14931gregtech/gt.blockmachines-16.png16651gregtech/gt.metaitem.01-11374.png23301bartworks/gt.bwMetaGeneratedingot-90.pngrewardsItemgregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+32bartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot\nPd\u2083Rh\nAdded by BartWorks
+8enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDRetrievalgregtech/gt.metaitem.01-32615.pngElectric Pump\n32,768 L/t (655,360 L/s) as Cover
+1gregtech/gt.metaitem.01-32645.pngElectric Piston
+1gregtech/gt.metaitem.01-32635.pngConveyor Module\n2 stacks every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32655.pngRobot Arm\nCannot be used as a Cover
+1

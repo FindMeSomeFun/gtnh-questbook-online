@@ -1,1 +1,8 @@
-243Crystal ClustersYou, as a Thaumaturge, like shiny things. And what could be more shiny than a cluster made of those shards? You totally should get one of each.ANDpreRequThaumcraft/ItemShard~6Quest Name For 242242rewardsItemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/blockCrystal~0Thaumcraft/blockCrystal~0 Name1Thaumcraft/blockCrystal~1Thaumcraft/blockCrystal~1 Name1Thaumcraft/blockCrystal~2Thaumcraft/blockCrystal~2 Name1Thaumcraft/blockCrystal~3Thaumcraft/blockCrystal~3 Name1Thaumcraft/blockCrystal~4Thaumcraft/blockCrystal~4 Name1Thaumcraft/blockCrystal~5Thaumcraft/blockCrystal~5 Name1
+Thaumcraft/blockCrystal-6.pngCrystal ClustersYou, as a Thaumaturge, like shiny things. And what could be more shiny than a cluster made of those shards? You totally should get one of each.1-1ANDpre2421Thaumcraft/ItemShard-6.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/blockCrystal-0.pngAir Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+1

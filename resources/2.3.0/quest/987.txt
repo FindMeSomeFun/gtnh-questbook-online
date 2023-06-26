@@ -1,3 +1,9 @@
-987§9§lUpgraded RF BatteriesCapacitor Banks are upgraded RF batteries which can store the RF power you generate.
+EnderIO/blockCapBank-2-charged.png§9§lUpgraded RF BatteriesCapacitor Banks are upgraded RF batteries which can store the RF power you generate.
 
-BTW, you can also use capacitors to upgrade your EnderIO machines. They'll use more power, but also work faster.ANDpreRequEnderIO/blockCapBank~1Quest Name For 604604gregtech/gt.metaitem.01~11366Quest Name For 990990rewardsChoiceenhancedlootbags/lootbag~5Choice Name1EnderIO/itemBasicCapacitor~1Choice Name8Itemdreamcraft/item.CoinDarkWizardI~0Item Name5dreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalEnderIO/itemBasicCapacitor~1EnderIO/itemBasicCapacitor~1 Name8RetrievalEnderIO/blockCapBank~2EnderIO/blockCapBank~2 Name2
+BTW, you can also use capacitors to upgrade your EnderIO machines. They'll use more power, but also work faster.0-1ANDpre6040EnderIO/blockCapBank-1-charged.png9901gregtech/gt.metaitem.01-11366.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor\nMachine Upgrade
+8Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalEnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor\nMachine Upgrade
+8RetrievalEnderIO/blockCapBank-2.pngCapacitor Bank\n0/5,000,000 RF
+2

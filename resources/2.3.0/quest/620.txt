@@ -1,1 +1,5 @@
-620§5§lIC2 BatteryA few recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you'll get an RE-Battery.ANDpreRequgregtech/gt.blockmachines~431Quest Name For 617617rewardsItemminecraft/redstone~0Item Name32minecraft/bread~0Item Name4Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalIC2/itemBatREDischarged~0IC2/itemBatREDischarged~0 Name1
+IC2/itemBatRE-1-charged.png§5§lIC2 BatteryA few recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you'll get an RE-Battery.0-1ANDpre6170gregtech/gt.blockmachines-431.pngrewardsItemminecraft/redstone-0.pngRedstone
+32minecraft/bread-0.pngBread\nminecraft:bread\nDiminishing returns start after\neating any food 10 more times
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalIC2/itemBatREDischarged-0.pngRE-Battery
+1

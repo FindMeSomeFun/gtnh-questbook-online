@@ -1,7 +1,20 @@
-1139§9§lKinetic Water Power HVThe Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.
+IC2/blockKineticGenerator-4.png§9§lKinetic Water Power HVThe Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.
 
 If the Kinetic Water Generator's Rotor isn't entirely submerged in water, it will alert you there is "no room for the rotor". If the Kinetic Water Generator isn't placed in a river, ocean or deep ocean biome, it will alert you it "must be placed in a river or ocean biome". Check the Game Mechanics spreadsheet on Discord for a list of biomes and their tags.
 
 While inconvenient, the Water Generator runs more consistently.
 
-§4You can use Witchery (for example) to convert biomes.ANDpreRequIC2/blockGenerator~9Quest Name For 11371137rewardsChoiceenhancedlootbags/lootbag~6Choice Name1gregtech/gt.metaitem.02~18306Choice Name4gregtech/gt.metaitem.01~32602Choice Name2Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDOptionalgregtech/gt.blockcasings2~3gregtech/gt.blockcasings2~3 Name1gregtech/gt.metaitem.02~18306gregtech/gt.metaitem.02~18306 Name4gregtech/gt.metaitem.01~32612gregtech/gt.metaitem.01~32612 Name2IC2/itemRecipePart~12IC2/itemRecipePart~12 Name4gregtech/gt.metaitem.01~32704gregtech/gt.metaitem.01~32704 Name2gregtech/gt.blockmachines~1646gregtech/gt.blockmachines~1646 Name2gregtech/gt.metaitem.01~18306gregtech/gt.metaitem.01~18306 Name8gregtech/gt.metaitem.02~20028gregtech/gt.metaitem.02~20028 Name2RetrievalIC2/blockKineticGenerator~4IC2/blockKineticGenerator~4 Name1
+§4You can use Witchery (for example) to convert biomes.0-1ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
+4gregtech/gt.metaitem.01-32602.pngElectric Motor
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
+4gregtech/gt.metaitem.01-32612.pngElectric Pump\n512 L/t (10,240 L/s) as Cover
+2IC2/itemRecipePart-12.pngShaft
+4gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+2gregtech/gt.blockmachines-1646.png1x Platinum Cable\nMax Voltage: 8,192 (IV)\nMax Amperage: 2\nLoss/Meter/Ampere: 1 EU-Volt
+2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate\nFe\u2086CrMnNi
+8gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear\nTi
+2RetrievalIC2/blockKineticGenerator-4.pngKinetic Water Generator\nPower Output: 0-x KU/t max
+1

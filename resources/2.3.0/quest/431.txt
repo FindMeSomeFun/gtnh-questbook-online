@@ -1,1 +1,10 @@
-431Bound ArmorTime to assemble your armor. You need to build the pattern with blocks as you would craft the armor in a crafting table. The soul forge must connect to the structure on at least 2 sides. Then, right click the forge block with an empty hand to craft the armor piece.ANDpreRequAWWayofTime/bloodSocket~0Quest Name For 429429rewardsItemAWWayofTime/armourInhibitor~0Item Name1enhancedlootbags/lootbag~17Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinBloodII~0Item Name2tasksANDRetrievalAWWayofTime/boundHelmet~0AWWayofTime/boundHelmet~0 Name1AWWayofTime/boundPlate~0AWWayofTime/boundPlate~0 Name1AWWayofTime/boundLeggings~0AWWayofTime/boundLeggings~0 Name1AWWayofTime/boundBoots~0AWWayofTime/boundBoots~0 Name1
+AWWayofTime/boundHelmet-0.pngBound ArmorTime to assemble your armor. You need to build the pattern with blocks as you would craft the armor in a crafting table. The soul forge must connect to the structure on at least 2 sides. Then, right click the forge block with an empty hand to craft the armor piece.0-1ANDpre4290AWWayofTime/bloodSocket-0.pngrewardsItemAWWayofTime/armourInhibitor-0.pngArmour Inhibitor\nUsed to suppress a soul''s\nunnatural abilities.
+1enhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/boundHelmet-0.pngBound Helmet\nDevilish Protection\nProtection: 2\nDurability: 1000/1000
+1AWWayofTime/boundPlate-0.pngBound Plate\nDevilish Protection\nProtection: 5\nDurability: 1000/1000
+1AWWayofTime/boundLeggings-0.pngBound Leggings\nDevilish Protection\nProtection: 3\nDurability: 1000/1000
+1AWWayofTime/boundBoots-0.pngBound Boots\nDevilish Protection\nProtection: 1\nDurability: 1000/1000
+1

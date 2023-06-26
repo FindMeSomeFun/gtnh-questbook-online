@@ -1,1 +1,3 @@
-1860Need Some Wool?Buy some wool with coins.ANDpreRequgregtech/gt.metatool.01~0Quest Name For 1111rewardsItemminecraft/wool~0Item Name20tasksANDRetrievaldreamcraft/item.CoinSurvivor~0dreamcraft/item.CoinSurvivor~0 Name20
+minecraft/wool-0.pngNeed Some Wool?Buy some wool with coins.012000ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemminecraft/wool-0.pngWool
+20tasksANDConsumedreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+20

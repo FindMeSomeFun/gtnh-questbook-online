@@ -1,1 +1,9 @@
-626§5§lPortable Mob Spawners..? Cool!Do you want to move a spawner around and build a cool mob farm? That will be no problem if you get the diamond dolly. You can move 6 spawners before the durability runs out, which is probably more than you'll need right now.ANDpreRequgregtech/gt.blockmachines~291Quest Name For 9898gregtech/gt.blockmachines~251Quest Name For 102102minecraft/diamond~0Quest Name For 495495minecraft/nether_star~0Quest Name For 916916rewardsItemminecraft/diamond~0Item Name2enhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~32101gregtech/gt.metaitem.01~32101 Name2gregtech/gt.metaitem.01~23500gregtech/gt.metaitem.01~23500 Name3gregtech/gt.metaitem.01~25874gregtech/gt.metaitem.01~25874 Name2gregtech/gt.metaitem.01~17506gregtech/gt.metaitem.01~17506 Name1RetrievalJABBA/moverDiamond~0JABBA/moverDiamond~0 Name1
+JABBA/moverDiamond-0.png§5§lPortable Mob Spawners..? Cool!Do you want to move a spawner around and build a cool mob farm? That will be no problem if you get the diamond dolly. You can move 6 spawners before the durability runs out, which is probably more than you'll need right now.0-1ANDpre981gregtech/gt.blockmachines-291.png1021gregtech/gt.blockmachines-251.png4950minecraft/diamond-0.png9160minecraft/nether_star-0.pngrewardsItemminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-32101.pngSteel Minecart Wheels\nTo get things rolling
+2gregtech/gt.metaitem.01-23500.pngDiamond Rod\nC
+3gregtech/gt.metaitem.01-25874.pngPolyethylene Round\nCH\u2082
+2gregtech/gt.metaitem.01-17506.pngNether Star Plate
+1RetrievalJABBA/moverDiamond-0.pngDiamond dolly\n< Empty >
+1

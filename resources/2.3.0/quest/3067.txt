@@ -1,1 +1,7 @@
-3067§b§lCompounding With OxalateCombining your cerium chloride with oxalate yields you cerium oxalate. This can then be heated (in your EBF(s), of course) to get §oanother §rcerium oxide.ANDpreRequbartworks/gt.bwMetaGeneratedcell~10013Quest Name For 30683068rewardsItemdreamcraft/item.CoinChemistIII~0Item Name2tasksANDOptionalbartworks/gt.bwMetaGenerateddust~11026bartworks/gt.bwMetaGenerateddust~11026 Name2bartworks/gt.bwMetaGeneratedcell~10013bartworks/gt.bwMetaGeneratedcell~10013 Name3Optionalbartworks/gt.bwMetaGenerateddust~11027bartworks/gt.bwMetaGenerateddust~11027 Name1gregtech/gt.metaitem.01~30683gregtech/gt.metaitem.01~30683 Name6Retrievalbartworks/gt.bwMetaGenerateddust~11028bartworks/gt.bwMetaGenerateddust~11028 Name1
+bartworks/gt.bwMetaGenerateddust-11027.png§b§lCompounding With OxalateCombining your cerium chloride with oxalate yields you cerium oxalate. This can then be heated (in your EBF(s), of course) to get §oanother §rcerium oxide.1-1ANDpre30681bartworks/gt.bwMetaGeneratedcell-10013.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11026.pngCerium Chloride Dust\nCeCl\u2083\nAdded by GTNH: Lanthanides via BartWorks
+2bartworks/gt.bwMetaGeneratedcell-10013.pngOxalate Cell\nH\u2082C\u2082O\u2084\nAdded by Good Generator via BartWorks
+3Optionalbartworks/gt.bwMetaGenerateddust-11027.pngCerium Oxalate Dust\nCe\u2082(C\u2082O\u2084)\u2083\nAdded by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+6Retrievalbartworks/gt.bwMetaGenerateddust-11028.pngCerium\nCe\u2082O\u2083\nAdded by GTNH: Lanthanides via BartWorks
+1

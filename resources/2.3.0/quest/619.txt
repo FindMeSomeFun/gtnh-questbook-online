@@ -1,7 +1,10 @@
-619Battery BufferBatteries work pretty much the same in a battery buffer as in a regular machine's battery slot. Battery buffers are used to buffer power to stabilize output.
+gregtech/gt.blockmachines-161.pngBattery BufferBatteries work pretty much the same in a battery buffer as in a regular machine's battery slot. Battery buffers are used to buffer power to stabilize output.
 
 They come in different sizes: 1, 4, 9(!) and 16 slots. They can draw 2A and output 1A per battery inserted - watch your wire amperage! Cables come in 1x, 2x, 4x, 8x, 12x, and 16x, with tin transferring 1A per size. Make sure not to mess up, or your cable will melt, becoming a fire, and possibly an explosion.
 
 Remember that there's loss when outputting EU from any GT machine, so putting 4 4-slot ones in a row loses 8 power compared to 2 from 1 16-slot one. And this is for every amp too.
 
-§3You can import batteries into one, but ONLY empty acid batteries can be exported from one. No, you can't get around this.ORpreRequgregtech/gt.metaitem.01~32511Quest Name For 611611gregtech/gt.metaitem.01~32510Quest Name For 612612gregtech/gt.metaitem.01~32519Quest Name For 613613gregtech/gt.metaitem.01~32517Quest Name For 614614gregtech/gt.metaitem.01~32518Quest Name For 615615rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~171gregtech/gt.blockmachines~171 Name1
+§3You can import batteries into one, but ONLY empty acid batteries can be exported from one. No, you can't get around this.0-1ORpre6110gregtech/gt.metaitem.01-32511.png6120gregtech/gt.metaitem.01-32510.png6130gregtech/gt.metaitem.01-32519.png6140gregtech/gt.metaitem.01-32517.png6150gregtech/gt.metaitem.01-32518.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-171.pngLow Voltage Battery Buffer\n4 Slots\nVoltage IN: 32 (LV)\nVoltage OUT: 32 (LV)\nCapacity: 8,192 EU
+1

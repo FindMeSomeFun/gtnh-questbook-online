@@ -1,1 +1,2 @@
-2814§9§lKinetic Wind Power ZPMThis is the ZPM version.ANDpreRequgregtech/gt.metaitem.01~32656Quest Name For 26112611gregtech/gt.metaitem.01~11129Quest Name For 26692669compactkineticgenerators/BlockCkg~2Quest Name For 28122812rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~3compactkineticgenerators/BlockCkg~3 Name1
+compactkineticgenerators/BlockCkg-3.png§9§lKinetic Wind Power ZPMThis is the ZPM version.0-1ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28120compactkineticgenerators/BlockCkg-2.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-3.pngExtreme Kinetic Wind Generator\nPower Output: 0-256.0x KU/t max
+1

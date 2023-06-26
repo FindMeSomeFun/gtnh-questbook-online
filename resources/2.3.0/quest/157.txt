@@ -1,1 +1,4 @@
-157§6§lTier 2 Turret BaseNothing to see here. Proceed...ANDpreRequopenmodularturrets/chamberTierTwo~0Quest Name For 156156rewardsItemenhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalopenmodularturrets/baseTierOneBlock~0openmodularturrets/baseTierOneBlock~0 Name2
+openmodularturrets/baseTierOneBlock-0.png§6§lTier 2 Turret BaseNothing to see here. Proceed...0-1ANDpre1560openmodularturrets/chamberTierTwo-0.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalopenmodularturrets/baseTierOneBlock-0.pngTurret Base\n--Energy--\nMax capacity: 50000\nMax IO: 100\n--Extras--\n2x Addon slots\n1x Upgrade slots\nI said good day sir!
+2

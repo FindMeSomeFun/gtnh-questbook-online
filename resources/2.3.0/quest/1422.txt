@@ -1,3 +1,10 @@
-1422The rocks in the washer......go round and round, all the live long day. A large orewashing plant gets your rocks nice and clean. You can switch between Ore Washer and Chemical Bath modes with a screwdriver.
+gregtech/gt.blockmachines-850.pngThe rocks in the washer......go round and round, all the live long day. A large orewashing plant gets your rocks nice and clean. You can switch between Ore Washer and Chemical Bath modes with a screwdriver.
 
-§3This multi is IV.ANDpreRequgregtech/gt.blockmachines~810Quest Name For 14161416rewardsChoiceenhancedlootbags/lootbag~8Choice Name1gregtech/gt.blockores~944Choice Name64gregtech/gt.blockores~810Choice Name64gregtech/gt.blockores~526Choice Name64Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDRetrievalgregtech/gt.blockmachines~850gregtech/gt.blockmachines~850 Name1miscutils/gtplusplus.blockcasings.2~4miscutils/gtplusplus.blockcasings.2~4 Name1
+§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.blockores-944.pngRock Salt Ore\nKCl
+64gregtech/gt.blockores-810.pngRedstone Ore\nSi(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
+64gregtech/gt.blockores-526.pngLapis Ore\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+64Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalgregtech/gt.blockmachines-850.pngOre Washing Plant\nMachine Type: Ore Washer, Simple Washer, Chemical Bath\nController Block for the Industrial Wash Plant\nCan be configured with a screwdriver to also do Simple Washer and process Chemical Bathing\n400% faster than using single block machines of the same voltage\nProcesses four item per voltage tier\nAlways requires an Input Hatch full of water to refill structure\nNeed to be filled with water.\nWill automatically fill water from input hatch.\nCauses: 100 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1miscutils/gtplusplus.blockcasings.2-4.pngWash Plant Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1

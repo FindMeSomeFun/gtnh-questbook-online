@@ -1,4 +1,4 @@
-3250AE2 Fluid CraftingWell well well, what do we have here? Flasks are redundant now? NO WAY! 
+ae2fc/fluid_discretizer-0.pngAE2 Fluid CraftingWell well well, what do we have here? Flasks are redundant now? NO WAY! 
 Anyway, while you can listen to those who swear flasks are *the shit* and *the only way* you can automate fluid crafting and the AL, you can use this powerful addon backported by GlodBlock with some help by other devs.
 
 Now, what do you need to get that juicy stuff working?
@@ -24,4 +24,11 @@ Automating the Assembling Line is easy. It follows the typical flask setup but r
 https://gtnh.miraheze.org/wiki/AE2FC
 
 §3The Extra Cells mod is now deprecated. Makes sure to convert any old components and cells to AE2 and AE2FC.
-ANDpreRequdreamcraft/item.EngineeringProcessorFluidDiamondCore~0Quest Name For 24772477rewardsItemae2fc/fluid_storage16~0Item Name1ae2fc/part_fluid_import~0Item Name1ae2fc/part_fluid_export~0Item Name1tasksANDRetrievalae2fc/fluid_discretizer~0ae2fc/fluid_discretizer~0 Name1ae2fc/fluid_interface~0ae2fc/fluid_interface~0 Name1ae2fc/part_fluid_pattern_terminal~0ae2fc/part_fluid_pattern_terminal~0 Name1ae2fc/ingredient_buffer~0ae2fc/ingredient_buffer~0 Name1
+0-1ANDpre24770dreamcraft/item.EngineeringProcessorFluidDiamondCore-0.pngrewardsItemae2fc/fluid_storage16-0.png16k ME Fluid Storage Cell\n0 of 16,384 Bytes Used\n0 of 1 Types\n> Hold Ctrl for more information
+1ae2fc/part_fluid_import-0.pngME Fluid Import Bus
+1ae2fc/part_fluid_export-0.pngME Fluid Export Bus
+1tasksANDRetrievalae2fc/fluid_discretizer-0.pngFluid Discretizer
+1ae2fc/fluid_interface-0.pngME Dual Interface
+1ae2fc/part_fluid_pattern_terminal-0.pngME Fluid Pattern Terminal
+1ae2fc/ingredient_buffer-0.pngIngredient Buffer
+1

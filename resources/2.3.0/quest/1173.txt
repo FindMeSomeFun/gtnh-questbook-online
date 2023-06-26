@@ -1,1 +1,3 @@
-1173Wrought Iron IngotsWant some wrought iron ingots? Buy some!ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsItemgregtech/gt.metaitem.01~11304Item Name16tasksANDRetrievaldreamcraft/item.CoinSmith~0dreamcraft/item.CoinSmith~0 Name30
+gregtech/gt.metaitem.01-11304.pngWrought Iron IngotsWant some wrought iron ingots? Buy some!072000ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot\nFe
+16tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+30

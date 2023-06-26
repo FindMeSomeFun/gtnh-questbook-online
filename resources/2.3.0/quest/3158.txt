@@ -1,5 +1,6 @@
-3158Focus On Power GenerationEach side of this branch will focus on one of the two halves of nuclear fission outputs. This side will focus on generating power from the reactors available here, which is probably why you're here in the first place.
+gregtech/gt.metaitem.01-32597.pngFocus On Power GenerationEach side of this branch will focus on one of the two halves of nuclear fission outputs. This side will focus on generating power from the reactors available here, which is probably why you're here in the first place.
 
 These setups share one purpose: when they were created, they were meant to bridge the gap between IC2 nukes and fusion, because there was really nothing else worth using beyond fluid nukes if there were no backups available, or redstone automation was too unreliable for vacuum nukes. Not only is there a full 2-tier gap of one single powergen until fusion, but there's also a required power input in order to begin a fusion reaction in the first place. This is both boring and difficult to push through, especially with the Assembly Line in the middle, so here we are.
 
-The first setup you can put together is the LFTR chain, although only one half of it is available in IV. As such, that is where we will start.ANDpreRequgregtech/gt.blockmachines~835Quest Name For 31503150rewardstasksANDCheckboxcheckbox  
+The first setup you can put together is the LFTR chain, although only one half of it is available in IV. As such, that is where we will start.0-1ANDpre31500gregtech/gt.blockmachines-835.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

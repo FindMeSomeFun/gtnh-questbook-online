@@ -1,1 +1,10 @@
-1593Kettle for the Spirit WorldA kettle is needed in the spirit world too.ANDpreRequdreamcraft/item.CoinWitchII~0Quest Name For 338338rewardsItemwitchery/kettle~0Item Name1minecraft/netherrack~0Item Name1minecraft/glass_bottle~0Item Name16minecraft/flint_and_steel~0Item Name1tasksANDRetrievalminecraft/netherrack~0minecraft/netherrack~0 Name1minecraft/flint_and_steel~0minecraft/flint_and_steel~0 Name1witchery/kettle~0witchery/kettle~0 Name1LocationDIM55DIM55 Name Retrievaldreamcraft/item.CoinWitchII~0dreamcraft/item.CoinWitchII~0 Name5
+witchery/kettle-0.pngKettle for the Spirit WorldA kettle is needed in the spirit world too.0-1ANDpre3380dreamcraft/item.CoinWitchII-0.pngrewardsItemwitchery/kettle-0.pngKettle
+1minecraft/netherrack-0.pngNetherrack
+1minecraft/glass_bottle-0.pngGlass Bottle
+16minecraft/flint_and_steel-0.pngFlint and Steel
+1tasksANDConsumeminecraft/netherrack-0.pngNetherrack
+1minecraft/flint_and_steel-0.pngFlint and Steel
+1witchery/kettle-0.pngKettle
+1LocationDIM/55-.pngSpirit World
+1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5

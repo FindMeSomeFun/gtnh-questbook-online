@@ -1,1 +1,4 @@
-1977Glowstone & Chisel torches, space ratedWhen travelling off-world, you want the best in torches. Torches that will work in no-oxygen environments like the Moon. For that, you need glowstone torches. You can chisel these torches into a variety of torch types, also proven to work in deep space. ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797rewardsItemchisel/torch8~0Item Name64tasksANDRetrievalGalacticraftCore/tile.glowstoneTorch~0GalacticraftCore/tile.glowstoneTorch~0 Name1chisel/torch4~0chisel/torch4~0 Name1
+chisel/torch6-0.pngGlowstone & Chisel torches, space ratedWhen travelling off-world, you want the best in torches. Torches that will work in no-oxygen environments like the Moon. For that, you need glowstone torches. You can chisel these torches into a variety of torch types, also proven to work in deep space. 0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemchisel/torch8-0.pngTorch
+64tasksANDRetrievalGalacticraftCore/tile.glowstoneTorch-0.pngGlowstone Torch
+1chisel/torch4-0.pngTorch
+1

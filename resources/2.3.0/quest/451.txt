@@ -1,1 +1,2 @@
-451Trigger LoCTriggered by having a "Lamp of Cinders" in your inventory.ANDpreRequTwilightForest/item.trophy~4Quest Name For 906906rewardstasksANDRetrievalTwilightForest/item.lampOfCinders~0TwilightForest/item.lampOfCinders~0 Name1
+minecraft/lever-0.pngTrigger LoCTriggered by having a "Lamp of Cinders" in your inventory.0-1ANDpre9060TwilightForest/item.trophy-4.pngrewardstasksANDRetrievalTwilightForest/item.lampOfCinders-0.pngLamp of Cinders
+1

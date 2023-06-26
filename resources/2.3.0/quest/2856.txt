@@ -1,4 +1,4 @@
-2856§6§lAdvanced MB ConstructionThe ability to rotate MBs and view a structure hologram has been sto-§oborrowed§r from §9Tec§1Tech§r, giving you greater freedom to build the way you want! §5(until we nerf wallsharing at least)§r
+structurelib/item.structurelib.constructableTrigger-0.png§6§lAdvanced MB ConstructionThe ability to rotate MBs and view a structure hologram has been sto-§oborrowed§r from §9Tec§1Tech§r, giving you greater freedom to build the way you want! §5(until we nerf wallsharing at least)§r
 
 Unlike TT, you can use a normal wrench for this, just aim at the front center of a controller (or one of the other sides if you want to. You just need to aim for the part of the grid with the mark) and right click or shift-right-click. The first rotates it clockwise, the latter flips it. If you want to change the facing of the controller itself, do that the normal way.
 
@@ -8,4 +8,9 @@ Use a Multiblock Structure Hologram Projector or MSHP to visualize the structure
 
 While it's now possible to build a sideways EBF, or even build one into the floor, not everything can be rotated. Exceptions include: LSC, Charcoal Pile Igniter, BBF, DT, Miners, Industial Washing Plant, Algae Farm, Bacterial Vat, DEHP, the MVF can, but the MBF cannot.
 
-§3PS: We did get permission, that was just a little joke.ANDpreRequgregtech/gt.blockmachines~1000Quest Name For 7777rewardsChoiceenhancedlootbags/lootbag~4Choice Name1gregtech/gt.metatool.01~16Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metatool.01~16gregtech/gt.metatool.01~16 Name1structurelib/item.structurelib.constructableTrigger~0structurelib/item.structurelib.constructableTrigger~0 Name1
+§3PS: We did get permission, that was just a little joke.0-1ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metatool.01-16-Cobalt-Cobalt.pngWrench\nDurability: 51,200 / 51,200\nCobalt lvl 3\nAttack Damage: 6.0\nMining Speed: 8.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.metatool.01-16.pngWrench\nDurability: 0 / 0\nNULL lvl 0\nAttack Damage: 3.0\nMining Speed: 1.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
+1structurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector\nTriggers Constructable Interface\nShows multiblock construction schematic,\nuse on the multiblock controller.\n(Sneak use on controller to build)\nQuantity of schematics in item stack affects tier/mode/type
+1

@@ -1,7 +1,12 @@
-213§1§b§l§1§2§3§4§5§4§6§7§8§9§a§b§c§d§e§c§b§lTier 5 (IV)IV-Level. You will need Tungstensteel for machines. Suggested planets and moons to visit: Mars, Phobos, Deimos. 
+gregtech/gt.blockmachines-15.png§1§b§l§1§2§3§4§5§4§6§7§8§9§a§b§c§d§e§c§b§lTier 5 (IV)IV-Level. You will need Tungstensteel for machines. Suggested planets and moons to visit: Mars, Phobos, Deimos. 
 
 Make sure to get a set of TPV coils for your EBF.
 
 You should've learned "how to GregTech" by now. If not, go clean up the machine craters in your base...
 
-Many GT++ multiblock machines unlock at this tier. Make sure you have an Alloy Blast Smelter ready to go and check the GT++ tab.ANDpreRequgregtech/gt.blockmachines~14Quest Name For 176176gregtech/gt.metaitem.01~2819Quest Name For 394394gregtech/gt.metaitem.01~11316Quest Name For 861861gregtech/gt.metaitem.01~32705Quest Name For 12251225rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinAdventureII~0Item Name5dreamcraft/item.CoinSpaceII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDRetrievalgregtech/gt.blockmachines~15gregtech/gt.blockmachines~15 Name1
+Many GT++ multiblock machines unlock at this tier. Make sure you have an Alloy Blast Smelter ready to go and check the GT++ tab.1-1ANDpre1761gregtech/gt.blockmachines-14.png3941gregtech/gt.metaitem.01-2819.png8611gregtech/gt.metaitem.01-11316.png12251gregtech/gt.metaitem.01-32705.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+5dreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDRetrievalgregtech/gt.blockmachines-15.pngIV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 8,192 (IV)\nVoltage OUT: 8,192 (IV)\nCapacity: 410,112 EU
+1

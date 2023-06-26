@@ -1,1 +1,3 @@
-2943§c§lNaquadah IngotIf you want ingots, you can smelt it in EBF with carbon.ANDpreRequbartworks/gt.bwMetaGenerateddust~10063Quest Name For 29412941rewardsItemgregtech/gt.metaitem.01~11324Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~11324gregtech/gt.metaitem.01~11324 Name1
+gregtech/gt.metaitem.01-11324.png§c§lNaquadah IngotIf you want ingots, you can smelt it in EBF with carbon.0-1ANDpre29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardsItemgregtech/gt.metaitem.01-11324.pngNaquadah Ingot\nNq
+1tasksANDRetrievalgregtech/gt.metaitem.01-11324.pngNaquadah Ingot\nNq
+1

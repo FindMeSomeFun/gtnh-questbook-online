@@ -1,1 +1,8 @@
-2528I'll Send Wireless Signals Where I Want, Thank YouThis block provides unlimited AE for your network.ANDpreRequappliedenergistics2/tile.BlockDenseEnergyCell~0Quest Name For 12991299gregtech/gt.blockmachines~15300Quest Name For 25952595rewardsItemappliedenergistics2/tile.BlockDenseEnergyCell~0Item Name36dreamcraft/item.EngineeringProcessorItemAdvEmeraldCore~0Item Name12Avaritia/Resource_Block~0Item Name1enhancedlootbags/lootbag~38Item Name20Itemdreamcraft/item.CoinTechnicianIV~0Item Name1dreamcraft/item.CoinSmithIV~0Item Name1tasksANDRetrievalappliedenergistics2/tile.BlockCreativeEnergyCell~0appliedenergistics2/tile.BlockCreativeEnergyCell~0 Name1
+appliedenergistics2/tile.BlockCreativeEnergyCell-0.pngI'll Send Wireless Signals Where I Want, Thank YouThis block provides unlimited AE for your network.0-1ANDpre12990appliedenergistics2/tile.BlockDenseEnergyCell-0-1600000.png25950gregtech/gt.blockmachines-15300.pngrewardsItemappliedenergistics2/tile.BlockDenseEnergyCell-0.pngDense Energy Cell\nStored Energy: 0 AE -  0% 
+36dreamcraft/item.EngineeringProcessorItemAdvEmeraldCore-0.pngItem Processor Tier IV
+12Avaritia/Resource_Block-0.pngCosmic Neutronium Block
+1enhancedlootbags/lootbag-38-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+20Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
+1dreamcraft/item.CoinSmithIV-0.pngCoin "Blacksmith 10K"
+1tasksANDRetrievalappliedenergistics2/tile.BlockCreativeEnergyCell-0.pngNeutronium Energy Cell\nInfinite Energy
+1

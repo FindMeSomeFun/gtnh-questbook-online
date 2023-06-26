@@ -1,1 +1,9 @@
-1181Minecart with Tank, Workbench or FurnaceWant to transport oil or other fluids, have a portable crafting table or a portable chest? Then you need to craft some minecarts with tanks, chests or crafting tables.ANDpreRequminecraft/minecart~0Quest Name For 677677rewardsChoiceRailcraft/cart.cargo~0Choice Name1minecraft/minecart~0Choice Name1enhancedlootbags/lootbag~32Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name10dreamcraft/item.CoinTechnician~0Item Name10tasksANDRetrievalRailcraft/cart.tank~0Railcraft/cart.tank~0 Name1RetrievalRailcraft/cart.work~0Railcraft/cart.work~0 Name1Retrievalminecraft/chest_minecart~0minecraft/chest_minecart~0 Name1
+Railcraft/cart.tank-0.pngMinecart with Tank, Workbench or FurnaceWant to transport oil or other fluids, have a portable crafting table or a portable chest? Then you need to craft some minecarts with tanks, chests or crafting tables.0-1ANDpre6770minecraft/minecart-0.pngrewardsChoiceRailcraft/cart.cargo-0.pngCargo Cart
+1minecraft/minecart-0.pngMinecart
+1enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalRailcraft/cart.tank-0.pngTank Cart
+1RetrievalRailcraft/cart.work-0.pngWork Cart
+1Retrievalminecraft/chest_minecart-0.pngChest Cart
+1

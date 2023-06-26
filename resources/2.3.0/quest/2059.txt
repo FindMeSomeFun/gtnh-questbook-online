@@ -1,1 +1,2 @@
-2059KnightmetalKnightmetal ingots are loot taken from Goblin Knight Strongholds. They can be made into Diamond-tier armor. You can take Armor Shards dropped by helmet crabs and turn them into Knightmetal ingots.ANDpreRequTwilightForest/item.steeleafIngot~0Quest Name For 11591159rewardstasksANDRetrievalTwilightForest/item.armorShards~0TwilightForest/item.armorShards~0 Name9
+TwilightForest/item.shardCluster-0.pngKnightmetalKnightmetal ingots are loot taken from Goblin Knight Strongholds. They can be made into Diamond-tier armor. You can take Armor Shards dropped by helmet crabs and turn them into Knightmetal ingots.0-1ANDpre11590TwilightForest/item.steeleafIngot-0.pngrewardstasksANDRetrievalTwilightForest/item.armorShards-0.pngArmor Shard
+9

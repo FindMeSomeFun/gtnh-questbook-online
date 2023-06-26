@@ -1,1 +1,11 @@
-856§9§l1,1-DimethylhydrazineTo make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.ANDpreRequmiscutils/Formaldehyde~0Quest Name For 857857rewardsChoicegregtech/gt.metaitem.01~30655Choice Name2IC2/itemCellEmpty~0Choice Name16enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5tasksANDOptionalmiscutils/Hydrazine~0miscutils/Hydrazine~0 Name2miscutils/Formaldehyde~0miscutils/Formaldehyde~0 Name2gregtech/gt.metaitem.01~30001gregtech/gt.metaitem.01~30001 Name4miscutils/item.BasicGenericChemItem~13miscutils/item.BasicGenericChemItem~13 Name1Optionalgregtech/gt.metaitem.01~30654gregtech/gt.metaitem.01~30654 Name2Checkboxcheckbox  
+gregtech/gt.metaitem.01-30654.png§9§l1,1-DimethylhydrazineTo make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.0-1ANDpre8570miscutils/Formaldehyde-0.pngrewardsChoicegregtech/gt.metaitem.01-30655.pngChloramine Cell\nNH\u2082Cl
+2IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalmiscutils/Hydrazine-0.pnghydrazine Cell
+2miscutils/Formaldehyde-0.pngFormaldehyde Cell
+2gregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
+4miscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst\nActive Reaction Agent\n50 / 50
+1Optionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell\nC\u2082H\u2088N\u2082
+2Checkboxcheckbox-.pngCheckbox
+1

@@ -1,1 +1,9 @@
-1095§2§lEven More Compact StorageIf you found enough gold you can upgrade your chest to make it an even bigger inventory of 9x9. You can just build a new chest or upgrade the iron chest with a wood to gold chest upgrade item. You can use an assembler to make them a little cheaper too if you have one.ANDpreRequIronChest/BlockIronChest~0Quest Name For 10851085rewardsChoiceIronChest/ironGoldUpgrade~0Choice Name1minecraft/gold_ingot~0Choice Name8enhancedlootbags/lootbag~2Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~18086gregtech/gt.metaitem.01~18086 Name4gregtech/gt.metaitem.01~27086gregtech/gt.metaitem.01~27086 Name2minecraft/chest~0minecraft/chest~0 Name1RetrievalIronChest/BlockIronChest~1IronChest/BlockIronChest~1 Name1
+IronChest/BlockIronChest-1.png§2§lEven More Compact StorageIf you found enough gold you can upgrade your chest to make it an even bigger inventory of 9x9. You can just build a new chest or upgrade the iron chest with a wood to gold chest upgrade item. You can use an assembler to make them a little cheaper too if you have one.0-1ANDpre10850IronChest/BlockIronChest-0.pngrewardsChoiceIronChest/ironGoldUpgrade-0.pngIron to Gold Chest Upgrade
+1minecraft/gold_ingot-0.pngGold Ingot
+8enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDOptionalgregtech/gt.metaitem.01-18086.pngDouble Gold Plate\nAu
+4gregtech/gt.metaitem.01-27086.pngGold Screw\nAu
+2minecraft/chest-0.pngChest\nBurn Time: 300
+1RetrievalIronChest/BlockIronChest-1.pngGold Chest\n9*9 Inventory - 81 Slots
+1

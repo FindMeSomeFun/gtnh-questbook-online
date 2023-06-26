@@ -1,3 +1,8 @@
-434Bound Tools: PickaxeMining never was easier. Just right-click with this tool and all the stone is gone! Like all bound tools, this uses a massive amount of LP.
+AWWayofTime/boundPickaxe-0.pngBound Tools: PickaxeMining never was easier. Just right-click with this tool and all the stone is gone! Like all bound tools, this uses a massive amount of LP.
 
-§3Watch out for falling into lava!ANDpreRequAWWayofTime/masterStone~0Quest Name For 433433rewardsItemenhancedlootbags/lootbag~17Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinBloodII~0Item Name2tasksANDRetrievalAWWayofTime/boundPickaxe~0AWWayofTime/boundPickaxe~0 Name1
+§3Watch out for falling into lava!0-1ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/boundPickaxe-0.pngBound Pickaxe\nThe Souls of the Damned\ndo not like stone...\n+10 Attack Damage\nDurability: 1000/1000
+1

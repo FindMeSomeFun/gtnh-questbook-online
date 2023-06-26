@@ -1,1 +1,4 @@
-701AscendedYou feel empowered, light, almost like a ghost.ANDpreRequdreamcraft/tile.BloodyIchorium~0Quest Name For 929929gregtech/gt.metaitem.01~2084Quest Name For 23212321rewardsItemenhancedlootbags/lootbag~18Item Name2Itemdreamcraft/item.CoinBloodII~0Item Name5tasksANDRetrievalAWWayofTime/transcendentBloodOrb~0AWWayofTime/transcendentBloodOrb~0 Name1
+AWWayofTime/transcendentBloodOrb-0.pngAscendedYou feel empowered, light, almost like a ghost.0-1ANDpre9291dreamcraft/tile.BloodyIchorium-0.png23211gregtech/gt.metaitem.01-2084.pngrewardsItemenhancedlootbags/lootbag-18.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+5tasksANDRetrievalAWWayofTime/transcendentBloodOrb-0.pngTranscendent Blood Orb\nStores raw Life Essence
+1

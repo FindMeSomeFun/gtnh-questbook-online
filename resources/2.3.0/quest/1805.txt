@@ -1,5 +1,10 @@
-1805StonelilliesStone lillies allow you to get dusts without having to look for granites, basalt, or marble. A great renewable way to get calcite, fluorine, or bulk aluminium (and a tiny bit of uranium).
+gregtech/gt.blockgranites-8.pngStonelilliesStone lillies allow you to get dusts without having to look for granites, basalt, or marble. A great renewable way to get calcite, fluorine, or bulk aluminium (and a tiny bit of uranium).
 
 These require the original block directly beneath them to grow properly.
 
-There is also a Grey stonelilly for stone dust (who needs more of that??) and a Yellow stonelilly for sand or Endstone dust. Handy for the clever chemist!ANDpreRequgregtech/gt.metatool.01~40Quest Name For 16071607rewardsItemIC2/itemCropSeed~0Item Name1enhancedlootbags/lootbag~51Item Name1tasksANDRetrievalIC2/itemCropSeed~0IC2/itemCropSeed~0 Name1IC2/itemCropSeed~0IC2/itemCropSeed~0 Name1IC2/itemCropSeed~0IC2/itemCropSeed~0 Name1
+There is also a Grey stonelilly for stone dust (who needs more of that??) and a Yellow stonelilly for sand or Endstone dust. Handy for the clever chemist!0-1ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemIC2/itemCropSeed-0.pngYellow Stonelilly Seeds\nGr 1\nGa 1\nRe 1
+1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngRed Stonelilly Seeds\nGr 0\nGa 0\nRe 0
+1IC2/itemCropSeed-0.pngWhite Stonelilly Seeds\nGr 0\nGa 0\nRe 0
+1IC2/itemCropSeed-0.pngBlack Stonelilly Seeds\nGr 0\nGa 0\nRe 0
+1

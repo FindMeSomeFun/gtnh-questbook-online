@@ -1,7 +1,11 @@
-131§6§lSimple RF power: SolidBy simply burning coal as fuel, this machine produces RF power. Enough for a basic machine setup. This machine will also accept compressed and multiple-compressed blocks. Want to burn something for 250+ days? Also, with double or octadic capacitors the output will increase and efficiency will improve.
+EnderIO/blockStirlingGenerator-0.png§6§lSimple RF power: SolidBy simply burning coal as fuel, this machine produces RF power. Enough for a basic machine setup. This machine will also accept compressed and multiple-compressed blocks. Want to burn something for 250+ days? Also, with double or octadic capacitors the output will increase and efficiency will improve.
 
 GT wiring can convert EU to RF, but not the other way around. Note that with the eNet changes a GT wire network will need at least one GT energy consumer - a machine hull of the matching voltage will work.
 
 Ender IO machines and GT cables and Wires can be left safely out in the rain.
 
-It might be useful for Genetics machines since they consume excessive power when attached to GT wiring - Forestry and EnderIO machines work fine (except for the Thermionic Fabricator). Or use a Capacitor Bank.ANDpreRequEnderIO/itemMachinePart~0Quest Name For 129129rewardsChoiceenhancedlootbags/lootbag~5Choice Name1EnderIO/itemBasicCapacitor~0Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalEnderIO/blockStirlingGenerator~0EnderIO/blockStirlingGenerator~0 Name1
+It might be useful for Genetics machines since they consume excessive power when attached to GT wiring - Forestry and EnderIO machines work fine (except for the Thermionic Fabricator). Or use a Capacitor Bank.0-1ANDpre1290EnderIO/itemMachinePart-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalEnderIO/blockStirlingGenerator-0.pngStirling Generator
+1

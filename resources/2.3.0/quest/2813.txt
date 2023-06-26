@@ -1,1 +1,2 @@
-2813§9§lKinetic Water Power ZPMThis is the ZPM version.ANDpreRequgregtech/gt.metaitem.01~32656Quest Name For 26112611gregtech/gt.metaitem.01~11129Quest Name For 26692669compactkineticgenerators/BlockCkg~6Quest Name For 28112811rewardstasksANDRetrievalcompactkineticgenerators/BlockCkg~7compactkineticgenerators/BlockCkg~7 Name1
+compactkineticgenerators/BlockCkg-7.png§9§lKinetic Water Power ZPMThis is the ZPM version.0-1ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28110compactkineticgenerators/BlockCkg-6.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-7.pngExtreme Kinetic Water Generator\nPower Output: 0-256.0x KU/t max
+1

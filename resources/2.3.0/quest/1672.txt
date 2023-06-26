@@ -1,1 +1,17 @@
-1672§b§lPower of the Sun at EV LevelThe next solar panel you can make is the EV one. It generates 2048 EU/t.ANDpreRequgregtech/gt.metaitem.01~32754Quest Name For 10061006gregtech/gt.metaitem.03~32035Quest Name For 16711671gregtech/gt.metaitem.01~17599Quest Name For 16971697rewardsChoicegregtech/gt.metaitem.03~32035Choice Name4gregtech/gt.metaitem.01~11318Choice Name2enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~20318gregtech/gt.metaitem.01~20318 Name2gregtech/gt.metaitem.01~17362gregtech/gt.metaitem.01~17362 Name4gregtech/gt.metaitem.01~17100gregtech/gt.metaitem.01~17100 Name2Optionalgregtech/gt.metaitem.01~32754gregtech/gt.metaitem.01~32754 Name1gregtech/gt.metaitem.03~32035gregtech/gt.metaitem.03~32035 Name4gregtech/gt.metaitem.03~32051gregtech/gt.metaitem.03~32051 Name2gregtech/gt.metaitem.01~17599gregtech/gt.metaitem.01~17599 Name2gregtech/gt.metaitem.01~19020gregtech/gt.metaitem.01~19020 Name4gregtech/gt.metaitem.01~32706gregtech/gt.metaitem.01~32706 Name4dreamcraft/item.IrradiantReinforcedTungstenSteelPlate~0dreamcraft/item.IrradiantReinforcedTungstenSteelPlate~0 Name2gregtech/gt.blockmachines~2380gregtech/gt.blockmachines~2380 Name6Retrievalgregtech/gt.metaitem.01~32755gregtech/gt.metaitem.01~32755 Name1
+gregtech/gt.metaitem.01-32755.png§b§lPower of the Sun at EV LevelThe next solar panel you can make is the EV one. It generates 2048 EU/t.0-1ANDpre10060gregtech/gt.metaitem.01-32754.png16711gregtech/gt.metaitem.03-32035.png16971gregtech/gt.metaitem.01-17599.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer\nRaw Circuit
+4gregtech/gt.metaitem.01-11318.pngSunnarium Ingot\nSu
+2enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-20318.pngQuadruple Sunnarium Plate\nSu
+2gregtech/gt.metaitem.01-17362.pngKnightmetal Plate\n(Fe\u2085\u2080C)\u2082Ma
+4gregtech/gt.metaitem.01-17100.pngPlutonium 239 Plate\nPu
+2Optionalgregtech/gt.metaitem.01-32754.pngSolar Panel\nHigh Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer\nRaw Circuit
+4gregtech/gt.metaitem.03-32051.pngPower IC\nPower Circuit
+2gregtech/gt.metaitem.01-17599.pngPolybenzimidazole Plate\nC\u2082\u2080N\u2084H\u2081\u2082
+2gregtech/gt.metaitem.01-19020.pngTriple Raw Silicon Plate\nSi
+4gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe\nA Master Circuit\nLuV-Tier
+4dreamcraft/item.IrradiantReinforcedTungstenSteelPlate-0.pngIrradiant Reinforced Tungsten-Steel Plate
+2gregtech/gt.blockmachines-2380.png1x Superconductor IV Wire\nMax Voltage: 8,192 (IV)\nMax Amperage: 12\nLoss/Meter/Ampere: 0 EU-Volt
+6Retrievalgregtech/gt.metaitem.01-32755.pngSolar Panel\nExtreme Solar Panel (Needs cleaning with right click)
+1

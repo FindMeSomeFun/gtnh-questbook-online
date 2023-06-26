@@ -1,1 +1,7 @@
-261An Awesome Magic ConductorThese tears, WOW! I've never felt something so strong. Could it be? Could I make an even more powerful wand with these?ANDpreRequThaumcraft/WandCasting~54Quest Name For 262262rewardsItemThaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinAdventureI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalTwilightForest/item.fieryTears~0TwilightForest/item.fieryTears~0 Name2Retrievalgregtech/gt.metaitem.01~27316gregtech/gt.metaitem.01~27316 Name4
+TwilightForest/item.fieryTears-0.pngAn Awesome Magic ConductorThese tears, WOW! I've never felt something so strong. Could it be? Could I make an even more powerful wand with these?1-1ANDpre2621Thaumcraft/WandCasting-54.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalTwilightForest/item.fieryTears-0.pngFiery Tears
+2Retrievalgregtech/gt.metaitem.01-27316.pngTungstensteel Screw\n(Fe\u2085\u2080C)W
+4

@@ -1,3 +1,19 @@
-3038UHT Resistant Mesh§o*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!§r
+GalaxySpace/item.DysonSwarmParts-3.pngUHT Resistant Mesh§o*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!§r
 
-You should probably automate this if you want to build and use the Dyson Swarm multiblock.ANDpreRequgregtech/gt.metaitem.01~11129Quest Name For 26692669rewardsChoiceenhancedlootbags/lootbag~43Choice Name1GalaxySpace/item.DysonSwarmParts~3Choice Name16Itemdreamcraft/item.CoinTechnicianIII~0Item Name5dreamcraft/item.CoinChemistIII~0Item Name5tasksANDOptionalbartworks/gt.bwMetaGenerateddust~11002bartworks/gt.bwMetaGenerateddust~11002 Name1gregtech/gt.metaitem.01~2010gregtech/gt.metaitem.01~2010 Name1Optionalbartworks/gt.bwMetaGenerateddust~11501bartworks/gt.bwMetaGenerateddust~11501 Name1miscutils/itemDustTantalumCarbide~0miscutils/itemDustTantalumCarbide~0 Name4Optionalbartworks/gt.bwMetaGenerateddust~11502bartworks/gt.bwMetaGenerateddust~11502 Name5Optionalbartworks/gt.bwMetaGeneratednugget~11503bartworks/gt.bwMetaGeneratednugget~11503 Name45Optionalbartworks/gt.bwMetaGenerateddust~11503bartworks/gt.bwMetaGenerateddust~11503 Name5OptionalGalaxySpace/item.DysonSwarmParts~4GalaxySpace/item.DysonSwarmParts~4 Name1GalaxySpace/item.DysonSwarmParts~5GalaxySpace/item.DysonSwarmParts~5 Name1OptionalGalaxySpace/item.DysonSwarmParts~1GalaxySpace/item.DysonSwarmParts~1 Name4GalaxySpace/item.DysonSwarmParts~2GalaxySpace/item.DysonSwarmParts~2 Name4RetrievalGalaxySpace/item.DysonSwarmParts~3GalaxySpace/item.DysonSwarmParts~3 Name1
+You should probably automate this if you want to build and use the Dyson Swarm multiblock.0-1ANDpre26691gregtech/gt.metaitem.01-11129.pngrewardsChoiceenhancedlootbags/lootbag-43.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1GalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mesh
+16Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+5dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+5tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dust\nHfO\u2082\nAdded by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2010.pngCarbon Dust\nC
+1Optionalbartworks/gt.bwMetaGenerateddust-11501.pngHafnium Carbide Dust\nHfC\nAdded by GalaxySpace via BartWorks
+1miscutils/itemDustTantalumCarbide-0.pngTantalum Carbide Dust\nTaC\nHold Ctrl to show additional info.
+4Optionalbartworks/gt.bwMetaGenerateddust-11502.pngTantalum Carbide / Hafnium Carbide Mixture Dust\n(TaC)\u2084HfC\nAdded by GalaxySpace via BartWorks
+5Optionalbartworks/gt.bwMetaGeneratednugget-11503.pngTantalum Hafnium Carbide Nugget\nTa\u2084HfC\u2085\nAdded by GalaxySpace via BartWorks
+45Optionalbartworks/gt.bwMetaGenerateddust-11503.pngTantalum Hafnium Carbide Dust\nTa\u2084HfC\u2085\nAdded by GalaxySpace via BartWorks
+5OptionalGalaxySpace/item.DysonSwarmParts-4.pngTantalum Hafnium Carbide Nanoparticles
+1GalaxySpace/item.DysonSwarmParts-5.pngNeutronium Nanoparticles
+1OptionalGalaxySpace/item.DysonSwarmParts-1.pngTantalum Hafnium Carbide Nanofibers
+4GalaxySpace/item.DysonSwarmParts-2.pngNeutronium Nanofibers
+4RetrievalGalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mesh
+1

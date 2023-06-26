@@ -1,1 +1,6 @@
-278Centi-vis StuffYou totally should get yourself some centi-vis things to transport and use the vis from stabilized nodes.ANDpreRequThaumcraft/blockStoneDevice~11Quest Name For 275275rewardsChoiceThaumcraft/blockMetalDevice~14Choice Name8Thaumcraft/blockMetalDevice~2Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/blockMetalDevice~14Thaumcraft/blockMetalDevice~14 Name1Thaumcraft/blockMetalDevice~2Thaumcraft/blockMetalDevice~2 Name1
+Thaumcraft/blockMetalDevice-14.pngCenti-vis StuffYou totally should get yourself some centi-vis things to transport and use the vis from stabilized nodes.1-1ANDpre2751Thaumcraft/blockStoneDevice-11.pngrewardsChoiceThaumcraft/blockMetalDevice-14.pngVis Relay
+8Thaumcraft/blockMetalDevice-2.pngVis Charge Relay
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/blockMetalDevice-14.pngVis Relay
+1Thaumcraft/blockMetalDevice-2.pngVis Charge Relay
+1

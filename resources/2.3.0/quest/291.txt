@@ -1,1 +1,6 @@
-291Little HelpersA state of the art thaumaturge doesn't do menial work anymore. He has little helpers instead. Golems can and will do all the things for you, just as you command them.ANDpreRequThaumcraft/ItemLootBag~1Quest Name For 260260rewardsChoiceenhancedlootbags/lootbag~10Choice Name1Thaumcraft/ItemGolemCore~100Choice Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/ItemGolemPlacer~0Thaumcraft/ItemGolemPlacer~0 Name1RetrievalThaumcraft/ItemGolemCore~2Thaumcraft/ItemGolemCore~2 Name1
+Thaumcraft/ItemGolemPlacer-0.pngLittle HelpersA state of the art thaumaturge doesn't do menial work anymore. He has little helpers instead. Golems can and will do all the things for you, just as you command them.0-1ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core\nBlank
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/ItemGolemPlacer-0.pngStraw Golem
+1RetrievalThaumcraft/ItemGolemCore-2.pngGolem Animation Core\nGather
+1

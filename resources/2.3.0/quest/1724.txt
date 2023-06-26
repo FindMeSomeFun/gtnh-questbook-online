@@ -1,1 +1,12 @@
-1724Tier 5 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 61 tier 5 heavy duty plates out of tier 4 plates and compressed quantium plates.ANDpreRequgregtech/gt.blockores~391Quest Name For 17171717GalaxySpace/ioblocks~3Quest Name For 17231723rewardsChoicedreamcraft/item.HeavyDutyPlateTier4~0Choice Name8dreamcraft/item.QuantinumCompressedPlate~0Choice Name16IC2/blockITNT~0Choice Name256enhancedlootbags/lootbag~41Choice Name2Itemdreamcraft/item.CoinSpaceIII~0Item Name2dreamcraft/item.CoinTechnicianIII~0Item Name2tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier4~0dreamcraft/item.HeavyDutyPlateTier4~0 Name61dreamcraft/item.QuantinumCompressedPlate~0dreamcraft/item.QuantinumCompressedPlate~0 Name488gregtech/gt.metaitem.01~26070gregtech/gt.metaitem.01~26070 Name488Optionaldreamcraft/item.HeavyDutyAlloyIngotT5~0dreamcraft/item.HeavyDutyAlloyIngotT5~0 Name61Retrievaldreamcraft/item.HeavyDutyPlateTier5~0dreamcraft/item.HeavyDutyPlateTier5~0 Name61
+dreamcraft/item.HeavyDutyPlateTier5-0.pngTier 5 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 61 tier 5 heavy duty plates out of tier 4 plates and compressed quantium plates.1-1ANDpre17170gregtech/gt.blockores-391.png17231GalaxySpace/ioblocks-3.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
+8dreamcraft/item.QuantinumCompressedPlate-0.pngCompressed Quantium Plate
+16IC2/blockITNT-0.pngIndustrial TNT
+256enhancedlootbags/lootbag-41-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+2Itemdreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
+2dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+2tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
+61dreamcraft/item.QuantinumCompressedPlate-0.pngCompressed Quantium Plate
+488gregtech/gt.metaitem.01-26070.pngEuropium Bolt\nEu
+488Optionaldreamcraft/item.HeavyDutyAlloyIngotT5-0.pngHeavy Duty Alloy Ingot T5
+61Retrievaldreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5
+61

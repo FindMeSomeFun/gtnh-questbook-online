@@ -1,1 +1,2 @@
-452Trigger SingularityTriggered by making a singularity.ANDpreRequExtraUtilities/cobblestone_compressed~3Quest Name For 380380rewardstasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial~47appliedenergistics2/item.ItemMultiMaterial~47 Name1
+minecraft/lever-0.pngTrigger SingularityTriggered by making a singularity.0-1ANDpre3800ExtraUtilities/cobblestone_compressed-3.pngrewardstasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
+1

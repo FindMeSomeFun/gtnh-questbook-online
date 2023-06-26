@@ -1,1 +1,11 @@
-1443Compressed Desh ArmorThe compressed desh armor has more durability than the compressed steel armor.ANDpreRequGalacticraftMars/item.spaceshipTier2~0Quest Name For 186186Railcraft/armor.steel.plate~0Quest Name For 14421442rewardsChoiceIC2/blockITNT~0Choice Name32GalacticraftMars/item.null~5Choice Name4enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinSmithII~0Item Name1dreamcraft/item.CoinSurvivorII~0Item Name1tasksANDOptionalGalacticraftMars/item.null~5GalacticraftMars/item.null~5 Name24RetrievalGalacticraftMars/item.deshHelmet~0GalacticraftMars/item.deshHelmet~0 Name1GalacticraftMars/item.deshChestplate~0GalacticraftMars/item.deshChestplate~0 Name1GalacticraftMars/item.deshLeggings~0GalacticraftMars/item.deshLeggings~0 Name1GalacticraftMars/item.deshBoots~0GalacticraftMars/item.deshBoots~0 Name1
+GalacticraftMars/item.deshChestplate-0.pngCompressed Desh ArmorThe compressed desh armor has more durability than the compressed steel armor.0-1ANDpre1861GalacticraftMars/item.spaceshipTier2-0.png14420Railcraft/armor.steel.plate-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+32GalacticraftMars/item.null-5.pngCompressed Desh
+4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1tasksANDOptionalGalacticraftMars/item.null-5.pngCompressed Desh
+24RetrievalGalacticraftMars/item.deshHelmet-0.pngDesh Helmet\nProtection: 4\nDurability: 462/462
+1GalacticraftMars/item.deshChestplate-0.pngDesh Chestplate\nProtection: 9\nDurability: 672/672
+1GalacticraftMars/item.deshLeggings-0.pngDesh Leggings\nProtection: 7\nDurability: 630/630
+1GalacticraftMars/item.deshBoots-0.pngDesh Boots\nProtection: 4\nDurability: 546/546
+1

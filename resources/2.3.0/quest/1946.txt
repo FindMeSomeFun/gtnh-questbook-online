@@ -1,1 +1,3 @@
-1946Low-Tier WandThe Iron wand will last longer than the stone wand, and has a few modes. ANDpreRequbetterbuilderswands/wandStone~0Quest Name For 19451945rewardsItembetterbuilderswands/wandIron~0Item Name2tasksANDRetrievalbetterbuilderswands/wandIron~0betterbuilderswands/wandIron~0 Name1
+betterbuilderswands/wandIron-0.pngLow-Tier WandThe Iron wand will last longer than the stone wand, and has a few modes. 0-1ANDpre19450betterbuilderswands/wandStone-0.pngrewardsItembetterbuilderswands/wandIron-0.pngIron Wand\nMode: Horizontal\nFluid: Stop\nMax 9 blocks
+2tasksANDRetrievalbetterbuilderswands/wandIron-0.pngIron Wand\nMode: Horizontal\nFluid: Stop\nMax 9 blocks
+1

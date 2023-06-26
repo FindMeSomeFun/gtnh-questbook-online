@@ -1,1 +1,9 @@
-128§6§lIO, IO, It's Off to EnderIO We GoYou've probably used EnderIO before. It's quite useful for a lot of things. But the recipes are different and it's not as useful for some things like ore processing. Let's go through what it has to offer. Note that the other half is in HV.ANDpreRequgregtech/gt.metaitem.01~32601Quest Name For 18671867rewardsChoicegregtech/gt.metaitem.01~11369Choice Name4gregtech/gt.metaitem.01~11378Choice Name4gregtech/gt.metaitem.01~11365Choice Name4Itemdreamcraft/item.CoinChemist~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.metaitem.01~11365gregtech/gt.metaitem.01~11365 Name8Retrievalgregtech/gt.metaitem.01~11369gregtech/gt.metaitem.01~11369 Name8Retrievalgregtech/gt.metaitem.01~11378gregtech/gt.metaitem.01~11378 Name8
+EnderIO/blockEnderIo-0.png§6§lIO, IO, It's Off to EnderIO We GoYou've probably used EnderIO before. It's quite useful for a lot of things. But the recipes are different and it's not as useful for some things like ore processing. Let's go through what it has to offer. Note that the other half is in HV.0-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsChoicegregtech/gt.metaitem.01-11369.pngConductive Iron Ingot\n((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg
+4gregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot\nFe(BeK\u2084N\u2085Ma\u2086)((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)
+4gregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot\n(Fe\u2085\u2080C)CSi
+4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot\n(Fe\u2085\u2080C)CSi
+8Retrievalgregtech/gt.metaitem.01-11369.pngConductive Iron Ingot\n((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg
+8Retrievalgregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot\nFe(BeK\u2084N\u2085Ma\u2086)((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)
+8

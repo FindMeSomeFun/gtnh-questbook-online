@@ -1,7 +1,12 @@
-2959Naquadah Fuel RefineryThis insane machine is used to make MkIII and higher tier naquadah fuel.
+gregtech/gt.blockmachines-16999.pngNaquadah Fuel RefineryThis insane machine is used to make MkIII and higher tier naquadah fuel.
 
 It can't be overclocked by increasing the input voltage. The only way to overclock it is to use higher tier coils.
 
 It also supports §9Tec§1Tech§r's Multi-Amp energy hatches and laser hatches.
 
-Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.ANDpreRequgregtech/gt.blockmachines~12732Quest Name For 29482948rewardsItembartworks/gt.bwMetaGeneratedcell~10046Item Name1tasksANDOptionalGoodGenerator/FRF_Casings~0GoodGenerator/FRF_Casings~0 Name104GoodGenerator/FRF_Coil_1~0GoodGenerator/FRF_Coil_1~0 Name32GoodGenerator/fieldRestrictingGlass~0GoodGenerator/fieldRestrictingGlass~0 Name8Retrievalgregtech/gt.blockmachines~16999gregtech/gt.blockmachines~16999 Name1
+Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.0-1ANDpre29480gregtech/gt.blockmachines-12732.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10046.pngNaquadah Based Liquid Fuel MkIII Cell\nAdded by Good Generator via BartWorks
+1tasksANDOptionalGoodGenerator/FRF_Casings-0.pngNaquadah Fuel Refinery Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+104GoodGenerator/FRF_Coil_1-0.pngField Restriction Coil\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+32GoodGenerator/fieldRestrictingGlass-0.pngField Restriction Glass\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+8Retrievalgregtech/gt.blockmachines-16999.pngNaquadah Fuel Refinery\nMachine Type: Naquadah Fuel Refinery\nController block for the Naquadah Fuel Refinery\nBut at what cost?\nProduce the endgame naquadah fuel.\nNeed field restriction coil to control the fatal radiation.\nUse higher tier coil to unlock more fuel and reduce the process time.\nThe structure is too complex!\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Good Generator
+1

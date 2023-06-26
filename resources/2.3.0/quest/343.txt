@@ -1,1 +1,7 @@
-343Bloodlust: Ghast TearIf you can't pin down a ghast but still want to make refined evil.ANDpreRequwitchery/spinningwheel~0Quest Name For 335335rewardsItemminecraft/ghast_tear~0Item Name1Itemdreamcraft/item.CoinWitchI~0Item Name5dreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalwitchery/taglockkit~0witchery/taglockkit~0 Name32TConstruct/strangeFood~1TConstruct/strangeFood~1 Name32witchery/glassgoblet~0witchery/glassgoblet~0 Name1
+minecraft/ghast_tear-0.pngBloodlust: Ghast TearIf you can't pin down a ghast but still want to make refined evil.0-1ANDpre3350witchery/spinningwheel-0.pngrewardsItemminecraft/ghast_tear-0.pngGhast Tear
+1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDConsumewitchery/taglockkit-0.pngTaglock Kit\nNot bound
+32TConstruct/strangeFood-1.pngCoagulated Blood\nTConstruct:strangeFood\nIt seems edible, but somehow\nit''s just not appealing.\nDiminishing returns start after\neating any food 10 more times
+32witchery/glassgoblet-0.pngGlass Goblet
+1

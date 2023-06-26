@@ -1,4 +1,4 @@
-1067Space StationYou can build a space station if you want. You can add up to four spin thrusters to your station to rotate it.
+GalaxySpace/item.Icon-37.pngSpace StationYou can build a space station if you want. You can add up to four spin thrusters to your station to rotate it.
 
 Days on space stations last longer than on the overworld, so you can generate more solar power.
 
@@ -13,4 +13,36 @@ Neptune - T6
 
 §bHint:§r Each task corresponds to one space station (they are in the same order). You need to complete at least one task to complete the quest.
 
-§cNote:§r It is likely that you will loose your rocket when flying back to earth or another space station. Make sure you have an alternative way to return (some form of teleportation) or use another planet/moon as proxy (if you get an error while doing so, you spawn on the planet/moon and can launch your rocket again).ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810rewardsChoiceGalacticraftCore/item.standardWrench~0Choice Name1GalacticraftCore/tile.spinThruster~0Choice Name1enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksORRetrievalGalacticraftCore/tile.gcBlockCore~4GalacticraftCore/tile.gcBlockCore~4 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6IC2/itemPartCircuitAdv~0IC2/itemPartCircuitAdv~0 Name4gregtech/gt.blockmachines~13gregtech/gt.blockmachines~13 Name1RetrievalGalaxySpace/metalsblock~9GalaxySpace/metalsblock~9 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6IC2/itemPartCircuitAdv~0IC2/itemPartCircuitAdv~0 Name4gregtech/gt.blockmachines~13gregtech/gt.blockmachines~13 Name1RetrievalGalaxySpace/metalsblock~5GalaxySpace/metalsblock~5 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6dreamcraft/item.CircuitEV~0dreamcraft/item.CircuitEV~0 Name4gregtech/gt.blockmachines~14gregtech/gt.blockmachines~14 Name1RetrievalGalaxySpace/metalsblock~6GalaxySpace/metalsblock~6 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6dreamcraft/item.CircuitIV~0dreamcraft/item.CircuitIV~0 Name4gregtech/gt.blockmachines~15gregtech/gt.blockmachines~15 Name1RetrievalGalaxySpace/metalsblock~4GalaxySpace/metalsblock~4 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6dreamcraft/item.CircuitLuV~0dreamcraft/item.CircuitLuV~0 Name4gregtech/gt.blockmachines~16gregtech/gt.blockmachines~16 Name1RetrievalGalaxySpace/metalsblock~8GalaxySpace/metalsblock~8 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6dreamcraft/item.CircuitLuV~0dreamcraft/item.CircuitLuV~0 Name4gregtech/gt.blockmachines~16gregtech/gt.blockmachines~16 Name1RetrievalGalaxySpace/metalsblock~1GalaxySpace/metalsblock~1 Name231minecraft/glass_pane~0minecraft/glass_pane~0 Name6dreamcraft/item.CircuitZPM~0dreamcraft/item.CircuitZPM~0 Name4gregtech/gt.blockmachines~17gregtech/gt.blockmachines~17 Name1
+§cNote:§r It is likely that you will loose your rocket when flying back to earth or another space station. Make sure you have an alternative way to return (some form of teleportation) or use another planet/moon as proxy (if you get an error while doing so, you spawn on the planet/moon and can launch your rocket again).0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceGalacticraftCore/item.standardWrench-0.pngStandard Wrench
+1GalacticraftCore/tile.spinThruster-0.pngSpin Thruster
+1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksORRetrievalGalacticraftCore/tile.gcBlockCore-4.pngTin Decoration Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+4gregtech/gt.blockmachines-13.pngHV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 26,112 EU
+1RetrievalGalaxySpace/metalsblock-9.pngDecorative Copper Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+4gregtech/gt.blockmachines-13.pngHV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 26,112 EU
+1RetrievalGalaxySpace/metalsblock-5.pngDecorative Nickel Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6dreamcraft/item.CircuitEV-0.pngAny EV Circuit
+4gregtech/gt.blockmachines-14.pngEV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 102,912 EU
+1RetrievalGalaxySpace/metalsblock-6.pngDecorative Oriharukon Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6dreamcraft/item.CircuitIV-0.pngAny IV Circuit
+4gregtech/gt.blockmachines-15.pngIV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 8,192 (IV)\nVoltage OUT: 8,192 (IV)\nCapacity: 410,112 EU
+1RetrievalGalaxySpace/metalsblock-4.pngDecorative Mithril Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6dreamcraft/item.CircuitLuV-0.pngAny LuV Circuit
+4gregtech/gt.blockmachines-16.pngLuV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 32,768 (LuV)\nVoltage OUT: 32,768 (LuV)\nCapacity: 1,638,912 EU
+1RetrievalGalaxySpace/metalsblock-8.pngDecorative Tungsten Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6dreamcraft/item.CircuitLuV-0.pngAny LuV Circuit
+4gregtech/gt.blockmachines-16.pngLuV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 32,768 (LuV)\nVoltage OUT: 32,768 (LuV)\nCapacity: 1,638,912 EU
+1RetrievalGalaxySpace/metalsblock-1.pngDecorative Adamantite Block
+231minecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
+6dreamcraft/item.CircuitZPM-0.pngAny ZPM Circuit
+4gregtech/gt.blockmachines-17.pngZPM Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 131,072 (ZPM)\nVoltage OUT: 131,072 (ZPM)\nCapacity: 6,554,112 EU
+1

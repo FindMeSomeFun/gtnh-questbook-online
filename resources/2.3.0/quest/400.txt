@@ -1,3 +1,8 @@
-400Kill Ender DragonThe dragon must die. Long enough has he destroyed those precious endstone blocks!
+minecraft/dragon_egg-0.pngKill Ender DragonThe dragon must die. Long enough has he destroyed those precious endstone blocks!
 
-§3PS: Hold shift and whack it with a vanilla sword.ANDpreRequminecraft/end_portal_frame~0Quest Name For 986986rewardsItemenhancedlootbags/lootbag~10Item Name1Itemdreamcraft/item.CoinSurvivorIII~0Item Name1dreamcraft/item.CoinDarkWizardIII~0Item Name1dreamcraft/item.CoinAdventureIII~0Item Name1tasksANDRetrievalminecraft/dragon_egg~0minecraft/dragon_egg~0 Name1
+§3PS: Hold shift and whack it with a vanilla sword.0-1ANDpre9860minecraft/end_portal_frame-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
+1tasksANDRetrievalminecraft/dragon_egg-0.pngDragon Egg
+1

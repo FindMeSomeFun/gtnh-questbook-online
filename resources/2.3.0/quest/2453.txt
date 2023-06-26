@@ -1,1 +1,4 @@
-2453Imperfect Ritual StoneThis stone allows you to create simple rituals, such as changing the time to night, or summoning a thunderstorm.ANDpreRequAWWayofTime/activationCrystal~0Quest Name For 24572457rewardsItemenhancedlootbags/lootbag~17Item Name1Itemdreamcraft/item.CoinBloodII~0Item Name2tasksANDRetrievalAWWayofTime/imperfectRitualStone~0AWWayofTime/imperfectRitualStone~0 Name1
+AWWayofTime/imperfectRitualStone-0.pngImperfect Ritual StoneThis stone allows you to create simple rituals, such as changing the time to night, or summoning a thunderstorm.1-1ANDpre24571AWWayofTime/activationCrystal-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/imperfectRitualStone-0.pngImperfect Ritual Stone
+1

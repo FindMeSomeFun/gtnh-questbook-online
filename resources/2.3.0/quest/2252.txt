@@ -1,2 +1,4 @@
-2252Celebratory
-This fun bee doesn't have any useful products, but it does produce a fun effect - constant fireworks! You can breed the effect into other lines, and the color of the fireworks will match the bee. Make the bees require sky and you can disable the effects by covering them up with a piston. Great for a celebration! Breed them from Austere and Excited.ANDpreRequForestry/beePrincessGE~0Quest Name For 21802180Forestry/beePrincessGE~0Quest Name For 22512251rewardsItemenhancedlootbags/lootbag~26Item Name1tasksANDRetrievalForestry/beePrincessGE~0Forestry/beePrincessGE~0 Name1
+Forestry/beePrincessGE-0-celebratory.pngCelebratory
+This fun bee doesn't have any useful products, but it does produce a fun effect - constant fireworks! You can breed the effect into other lines, and the color of the fireworks will match the bee. Make the bees require sky and you can disable the effects by covering them up with a piston. Great for a celebration! Breed them from Austere and Excited.0-1ANDpre21800Forestry/beePrincessGE-0-Austere.png22510Forestry/beePrincessGE-0-excited.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalForestry/beePrincessGE-0-celebratory.pngCelebratory Princess\nPristine Stock
+1

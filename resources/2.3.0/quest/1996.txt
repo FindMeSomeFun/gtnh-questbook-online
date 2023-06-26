@@ -1,1 +1,5 @@
-1996K-Mart SpecialEvery point of vis is critical, so make yourself some magical robes to help conserve how much you use. Later you can make even better robes. They don't offer much in protection, so remember to change before going to hunt!ANDpreRequThaumcraft/ItemResource~7Quest Name For 19951995rewardsItemThaumcraft/blockCustomPlant~5Item Name4tasksANDRetrievalThaumcraft/ItemChestplateRobe~0Thaumcraft/ItemChestplateRobe~0 Name1Thaumcraft/ItemLeggingsRobe~0Thaumcraft/ItemLeggingsRobe~0 Name1Thaumcraft/ItemBootsRobe~0Thaumcraft/ItemBootsRobe~0 Name1
+Thaumcraft/ItemChestplateRobe-0.pngK-Mart SpecialEvery point of vis is critical, so make yourself some magical robes to help conserve how much you use. Later you can make even better robes. They don't offer much in protection, so remember to change before going to hunt!0-1ANDpre19950Thaumcraft/ItemResource-7.pngrewardsItemThaumcraft/blockCustomPlant-5.pngVishroom
+4tasksANDRetrievalThaumcraft/ItemChestplateRobe-0.pngThaumaturge''s Robe\nVis discount: 2%\nProtection: 3\nDurability: 400/400
+1Thaumcraft/ItemLeggingsRobe-0.pngThaumaturge''s Leggings\nVis discount: 2%\nProtection: 2\nDurability: 375/375
+1Thaumcraft/ItemBootsRobe-0.pngThaumaturge''s Boots\nVis discount: 1%\nProtection: 1\nDurability: 325/325
+1

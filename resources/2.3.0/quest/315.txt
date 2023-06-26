@@ -1,1 +1,7 @@
-315Unbreakable RobeIt will never break. How convenient.ANDpreRequThaumicTinkerer/kamiResource~1Quest Name For 316316rewardsChoiceThaumcraft/ItemLootBag~2Choice Name1enhancedlootbags/lootbag~12Choice Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinSmithII~0Item Name5dreamcraft/item.CoinDarkWizardII~0Item Name5tasksANDRetrievalThaumicTinkerer/ichorclothChest~0ThaumicTinkerer/ichorclothChest~0 Name1
+ThaumicTinkerer/ichorclothChest-0.pngUnbreakable RobeIt will never break. How convenient.0-1ANDpre3160ThaumicTinkerer/kamiResource-1.pngrewardsChoiceThaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+1enhancedlootbags/lootbag-12.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/ichorclothChest-0.pngIchorcloth Robe\nVis discount: 6%\nWarping 3\nProtection: 8
+1

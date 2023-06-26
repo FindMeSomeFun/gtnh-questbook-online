@@ -1,4 +1,4 @@
-1832§6§lGrinding With WindThe Windmill is a grinder that uses the force of wind to macerate Items and Blocks. You will only get one crushed Ore from it sometimes. However it does give a bonus when you try to macerate other things. That bonus depends on the item inserted, for example Netherrack has a chance to give two instead of one dust and Wheat will always give one and a quarter flour.
+bartworks/BW_PaperRotor-0.png§6§lGrinding With WindThe Windmill is a grinder that uses the force of wind to macerate Items and Blocks. You will only get one crushed Ore from it sometimes. However it does give a bonus when you try to macerate other things. That bonus depends on the item inserted, for example Netherrack has a chance to give two instead of one dust and Wheat will always give one and a quarter flour.
 
 The dispensers replace a clay block in the walls. Put anything you like in the interior - a bed, stairs, torches, etc.
 
@@ -18,4 +18,20 @@ Macerates 16 items at a time.
 
 High wind speeds will decrease output.
 
-The durability will decrease according to the wind speed.ORpreRequgregtech/gt.metaitem.01~11308Quest Name For 4848minecraft/dispenser~0Quest Name For 18311831rewardsItemdreamcraft/item.CoinTechnicianI~0Item Name1gregtech/gt.metaitem.02~31032Item Name1Choiceminecraft/leather~0Choice Name12minecraft/carpet~0Choice Name6minecraft/paper~0Choice Name3tasksANDRetrievalminecraft/brick_block~0minecraft/brick_block~0 Name44minecraft/planks~0minecraft/planks~0 Name100minecraft/wooden_door~0minecraft/wooden_door~0 Name1minecraft/dispenser~0minecraft/dispenser~0 Name1minecraft/hardened_clay~0minecraft/hardened_clay~0 Name45Retrievalgregtech/gt.metaitem.02~31032gregtech/gt.metaitem.02~31032 Name4minecraft/hopper~0minecraft/hopper~0 Name1gregtech/gt.metaitem.01~28032gregtech/gt.metaitem.01~28032 Name4bartworks/craftingParts~2bartworks/craftingParts~2 Name1Retrievalbartworks/BWRotorBlock~0bartworks/BWRotorBlock~0 Name1gregtech/gt.blockmachines~12698gregtech/gt.blockmachines~12698 Name1
+The durability will decrease according to the wind speed.0-1ORpre481gregtech/gt.metaitem.01-11308.png18310minecraft/dispenser-0.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1gregtech/gt.metaitem.02-31032.pngIron Gear\nFe
+1Choiceminecraft/leather-0.pngLeather
+12minecraft/carpet-0.pngCarpet
+6minecraft/paper-0.pngPaper
+3tasksANDRetrievalminecraft/brick_block-0.pngBricks
+44minecraft/planks-0.pngOak Wood Planks\nBurn Time: 300
+100minecraft/wooden_door-0.pngWooden Door\nBurn Time: 600
+1minecraft/dispenser-0.pngDispenser
+1minecraft/hardened_clay-0.pngHardened Clay
+45Retrievalgregtech/gt.metaitem.02-31032.pngIron Gear\nFe
+4minecraft/hopper-0.pngHopper
+1gregtech/gt.metaitem.01-28032.pngIron Ring\nFe
+4bartworks/craftingParts-2.pngGrindstone\nAdded by BartWorks
+1Retrievalbartworks/BWRotorBlock-0.pngPrimitive Kinetic Shaftbox\nMobs cannot Spawn on this Block\nAdded by BartWorks\nBurn Time: 300
+1gregtech/gt.blockmachines-12698.pngWindmill\nMachine Type: Windmill\nController block for the Windmill\nA primitive Grinder powered by Kinetic energy\nSpeed and output will be affected by wind speed, recipe and rotor\nPlease use the Primitive Rotor\nMacerates 16 items at a time\nThe structure is too complex!\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: BartWorks
+1

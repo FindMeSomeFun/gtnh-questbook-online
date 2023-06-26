@@ -1,5 +1,11 @@
-1070Magic FeatherIn order to understand where you are, and where you §owant§r to be, you'll need a map. This is a magical place, so why not a magical map? The main part is a Magic Map Focus.
+TwilightForest/item.magicMapFocus-0.pngMagic FeatherIn order to understand where you are, and where you §owant§r to be, you'll need a map. This is a magical place, so why not a magical map? The main part is a Magic Map Focus.
 
 First, go find some Raven feathers. You can get them by killing Ravens. They like to hang out near the obsidian pillars.
 
-Then you need some Torchberries (found underground) and some Glowstone dust.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemdreamcraft/item.CoinDarkWizard~0Item Name25dreamcraft/item.CoinAdventure~0Item Name25tasksANDOptionalTwilightForest/item.tfFeather~0TwilightForest/item.tfFeather~0 Name1TwilightForest/item.torchberries~0TwilightForest/item.torchberries~0 Name1minecraft/glowstone_dust~0minecraft/glowstone_dust~0 Name1RetrievalTwilightForest/item.magicMapFocus~0TwilightForest/item.magicMapFocus~0 Name1
+Then you need some Torchberries (found underground) and some Glowstone dust.0-1ANDpre2251minecraft/end_portal-0.pngrewardsItemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25tasksANDOptionalTwilightForest/item.tfFeather-0.pngRaven''s Feather
+1TwilightForest/item.torchberries-0.pngTorchberries
+1minecraft/glowstone_dust-0.pngGlowstone Dust
+1RetrievalTwilightForest/item.magicMapFocus-0.pngMagic Map Focus
+1

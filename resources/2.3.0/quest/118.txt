@@ -1,1 +1,4 @@
-118§5§lBasic Monster PreventionMonsters spawning in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there's a good way to prevent them from spawning at all.ANDpreRequgregtech/gt.blockmachines~211Quest Name For 9797rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinDarkWizard~0Item Name15tasksANDRetrievalExtraUtilities/chandelier~0ExtraUtilities/chandelier~0 Name1
+ExtraUtilities/chandelier-0.png§5§lBasic Monster PreventionMonsters spawning in or near your base can be annoying. Especially if you happen to get infernal creepers. Luckily, there's a good way to prevent them from spawning at all.0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+15tasksANDRetrievalExtraUtilities/chandelier-0.pngChandelier
+1

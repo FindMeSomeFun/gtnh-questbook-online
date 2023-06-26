@@ -1,5 +1,8 @@
-2088IncubatorThis is a crafting machine that heats items and liquids to a temperature that encourages bacterial growth. 
+Genetics/labMachine-2.pngIncubatorThis is a crafting machine that heats items and liquids to a temperature that encourages bacterial growth. 
 
 The first step of incubation is the creation of Liquid Growth Medium, which is made from incubating Water and Growth Medium. This is subsequently incubated with Wheat to give Bacteria. This solution of bacteria can then be incubated a third time with Sugar to give Enzyme. This is an important compound used in other machines.
 
-The best way to create enzyme is therefore to chain three incubators together, for each step of the process.ANDpreRequGenetics/misc~0Quest Name For 20812081rewardsItemGenetics/labMachine~2Item Name1enhancedlootbags/lootbag~26Item Name1tasksANDRetrievalGenetics/labMachine~2Genetics/labMachine~2 Name2
+The best way to create enzyme is therefore to chain three incubators together, for each step of the process.0-1ANDpre20810Genetics/misc-0.pngrewardsItemGenetics/labMachine-2.pngIncubator
+1enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalGenetics/labMachine-2.pngIncubator
+2

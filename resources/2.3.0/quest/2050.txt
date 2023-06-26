@@ -1,1 +1,3 @@
-2050Greedy ChestThe Greedy Chest from Automagy looks to have some interesting uses. It also gates a pretty important device for a magician...ANDpreRequThaumcraft/blockTable~15Quest Name For 227227rewardsItemThaumcraft/ItemLootBag~0Item Name1tasksANDRetrievalAutomagy/blockGreedyChest~0Automagy/blockGreedyChest~0 Name1
+Automagy/blockGreedyChest-0.pngGreedy ChestThe Greedy Chest from Automagy looks to have some interesting uses. It also gates a pretty important device for a magician...0-1ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1tasksANDRetrievalAutomagy/blockGreedyChest-0.pngGreedy Chest\nBurn Time: 300
+1

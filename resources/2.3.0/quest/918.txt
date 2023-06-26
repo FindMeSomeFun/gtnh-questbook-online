@@ -1,1 +1,7 @@
-918Skeleton: EvolvedIn order to advance to a higher tier and reach Mars, Deimos and Phobos, you need to make yourself a better rocket. There are rumors that an Evolved Skeleton hiding out on the Moon has the schematics of such a device.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 162162rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name1dreamcraft/item.CoinDarkWizardII~0Item Name1dreamcraft/item.CoinAdventureII~0Item Name1tasksANDLocationDIM28DIM28 Name HuntGalacticraftCore.EvolvedSkeletonBossGalacticraftCore.EvolvedSkeletonBoss Name1
+minecraft/skull-0.pngSkeleton: EvolvedIn order to advance to a higher tier and reach Mars, Deimos and Phobos, you need to make yourself a better rocket. There are rumors that an Evolved Skeleton hiding out on the Moon has the schematics of such a device.11728000ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1tasksANDLocationDIM/28-.pngMoon
+1Huntmobs/GalacticraftCore-EvolvedSkeletonBoss-.pngEvolved Skeleton Boss
+1

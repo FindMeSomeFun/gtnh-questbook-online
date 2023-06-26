@@ -1,3 +1,10 @@
-1486Glowing MarshmallowNext step is heating up your Marshmallow in a Electric Blast Furnace at 4500K with some radon gas and making it glow.
+dreamcraft/item.GlowingMarshmallow-0.pngGlowing MarshmallowNext step is heating up your Marshmallow in a Electric Blast Furnace at 4500K with some radon gas and making it glow.
 
-Now you'll get a Paralysis II effect in addition to the others.ANDpreRequdreamcraft/item.UncookedSlush~0Quest Name For 14841484rewardsChoicegregtech/gt.metaitem.01~6098Choice Name64enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2dreamcraft/item.CoinCookII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~30093gregtech/gt.metaitem.01~30093 Name1dreamcraft/item.UncookedSlush~0dreamcraft/item.UncookedSlush~0 Name1Retrievaldreamcraft/item.GlowingMarshmallow~0dreamcraft/item.GlowingMarshmallow~0 Name1
+Now you'll get a Paralysis II effect in addition to the others.0-1ANDpre14840dreamcraft/item.UncookedSlush-0.pngrewardsChoicegregtech/gt.metaitem.01-6098.pngPurified Uranium 238 Ore\nU
+64enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-30093.pngRadon Cell\nRn
+1dreamcraft/item.UncookedSlush-0.pngUncooked Slush\nHeating up makes food better?
+1Retrievaldreamcraft/item.GlowingMarshmallow-0.pngGlowing Marshmallow\nIs it me or it just gained pixels from all that heat.
+1

@@ -1,3 +1,6 @@
-624§5§lBasic CannerThe canning machine is used to fill batteries, fill cells with stuff (usually dust, not used that often), or to fill tin cans with any kind of food (HV+).
+gregtech/gt.blockmachines-231.png§5§lBasic CannerThe canning machine is used to fill batteries, fill cells with stuff (usually dust, not used that often), or to fill tin cans with any kind of food (HV+).
 
-At LV-HV tier you can make batteries with sodium, cadmium, or lithium.ANDpreRequgregtech/gt.metaitem.01~32500Quest Name For 609609rewardsItemenhancedlootbags/lootbag~4Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name3tasksANDRetrievalgregtech/gt.blockmachines~231gregtech/gt.blockmachines~231 Name1
+At LV-HV tier you can make batteries with sodium, cadmium, or lithium.0-1ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-231.pngBasic Canning Machine\nUnmobile Food Canning Machine GTA4\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1

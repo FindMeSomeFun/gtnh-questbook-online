@@ -1,4 +1,4 @@
-1292Storing Your ME DataA block designed to do one thing, store storage cells. This block holds 10 storage cells so you can tightly pack your storage into a very small space. ME drives show their contents and the storage cell status on the front of the drive face.
+appliedenergistics2/tile.BlockDrive-0.pngStoring Your ME DataA block designed to do one thing, store storage cells. This block holds 10 storage cells so you can tightly pack your storage into a very small space. ME drives show their contents and the storage cell status on the front of the drive face.
 
 Red - Indicates the storage cell is full.
 Orange - Indicates the storage cell cannot hold any more types, but it can store more items.
@@ -7,4 +7,9 @@ Black - Indicates there is no channel, or power is offline.
 
 It's important to note, that without an ME Network this block does nothing. It's only useful when combined with a way to input, and output items, and requires 2 AE/t power to function, and additional power for each storage cell stored inside it.
 
-About Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.ANDpreRequappliedenergistics2/item.ItemMultiMaterial~22Quest Name For 183183appliedenergistics2/item.ItemMultiPart~16Quest Name For 184184rewardsChoicegregtech/gt.metaitem.01~11085Choice Name16gregtech/gt.metaitem.01~11028Choice Name16enhancedlootbags/lootbag~37Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalappliedenergistics2/tile.BlockDrive~0appliedenergistics2/tile.BlockDrive~0 Name1
+About Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.1-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.png1841appliedenergistics2/item.ItemMultiPart-16.pngrewardsChoicegregtech/gt.metaitem.01-11085.pngPlatinum Ingot\nPt
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+16enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/tile.BlockDrive-0.pngME Drive\nDo not move chests with AE drives; It may corrupt your profile. No refunds!
+1

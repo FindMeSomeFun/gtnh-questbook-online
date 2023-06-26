@@ -1,4 +1,4 @@
-3283Space ElevatorThe Space Elevator is a modular structure. It can be equipped with Space Elevator modules, which then can take on different tasks. 
+gregtech/gt.blockmachines-14003.pngSpace ElevatorThe Space Elevator is a modular structure. It can be equipped with Space Elevator modules, which then can take on different tasks. 
 
 Initially, your Space Elevator has 6 module slots that can be used. You can later upgrade that to up to 12 with Mk-II and Mk-III motors. The motor tier also determines the module tier that you can use. The I/O is not shared between modules, each module only sees their own I/O slots. Energy is only provided to the central structure of the Space Elevator and then automatically distributed to all modules.
 
@@ -10,4 +10,5 @@ NEI also has an overview of all the ores you can obtain with a Space Mining Modu
 
 The space elevator also lets you travel to other planets. It doesn't get you back though and there is no documentation. So best find out yourself how it works.
 
-The mining module also got a cycle mode. In static mode it will hold its distance while in cycle mode it will change its distance after each recipe check (and you can configure the range and step size of that).ANDpreRequgregtech/gt.metaitem.01~32677Quest Name For 26232623dreamcraft/item.HeavyDutyPlateTier7~0Quest Name For 26412641rewardstasksANDRetrievalgregtech/gt.blockmachines~14003gregtech/gt.blockmachines~14003 Name1
+The mining module also got a cycle mode. In static mode it will hold its distance while in cycle mode it will change its distance after each recipe check (and you can configure the range and step size of that).0-1ANDpre26231gregtech/gt.metaitem.01-32677.png26411dreamcraft/item.HeavyDutyPlateTier7-0.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-14003.pngSpace Elevator\nMachine Type: Space Elevator\nController block for the Space Elevator\nElevates to space\nCan be equipped with up to 12 Space Elevator Modules\nMotor tier limits module tier and amount of possible modules\nEach module has their own space for IO, except energy\nEnergy is supplied to this controller and gets distributed\nStarting from MK-III Motors the structure can be expanded to fit 24 modules.\nThe structure is too complex!\nAuthor: minecraft7771\nCheck controller GUI for all Contributors\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GalaxySpace
+1

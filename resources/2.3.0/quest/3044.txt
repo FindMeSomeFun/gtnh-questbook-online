@@ -1,5 +1,9 @@
-3044§b§lWatery MudThat mud on its own is far too concentrated, so you'll need to dilute it with water in the Dissolution Tank.
+bartworks/gt.bwMetaGeneratedcell-11015.png§b§lWatery MudThat mud on its own is far too concentrated, so you'll need to dilute it with water in the Dissolution Tank.
 
 Fun fact, the saltpeter in the recipe was only added due to a problem with recipe search!
 
-You also get some Zirconium and Hafnium from this. You'll probably need both later on, so definitely don't void any.ANDpreRequgregtech/gt.metaitem.01~8520Quest Name For 30433043rewardsItemdreamcraft/item.CoinChemistIII~0Item Name1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell~11014bartworks/gt.bwMetaGeneratedcell~11014 Name12gregtech/gt.metaitem.01~2836gregtech/gt.metaitem.01~2836 Name12Retrievalbartworks/gt.bwMetaGeneratedcell~11015bartworks/gt.bwMetaGeneratedcell~11015 Name132
+You also get some Zirconium and Hafnium from this. You'll probably need both later on, so definitely don't void any.1-1ANDpre30431gregtech/gt.metaitem.01-8520.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11014.pngMuddy Monazite Rare Earth Solution Cell\n??LaNdZr??\nAdded by GTNH: Lanthanides via BartWorks
+12gregtech/gt.metaitem.01-2836.pngSaltpeter Dust\nKNO\u2083
+12Retrievalbartworks/gt.bwMetaGeneratedcell-11015.pngDiluted Monazite Rare Earth Mud Cell\n??LaNdHf??\nAdded by GTNH: Lanthanides via BartWorks
+132

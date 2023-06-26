@@ -1,1 +1,3 @@
-1193Gold BerriesAnd a few gold berries for cash.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsItemTConstruct/oreBerries~1Item Name10tasksANDRetrievaldreamcraft/item.CoinFarmer~0dreamcraft/item.CoinFarmer~0 Name30
+TConstruct/oreBerries-1.pngGold BerriesAnd a few gold berries for cash.0864000ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemTConstruct/oreBerries-1.pngGold Oreberry\nPure Luster\nCan be placed on a empty IC2 Crop.
+10tasksANDConsumedreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+30

@@ -1,5 +1,11 @@
-2849§5§lFaster Steam TransportationDo you think that steam fluid transport is far too slow? Your LV pumps got you down, doing only 640L/s? Then it's time to make the 32 times faster LV steam valves!
+gregtech/gt.metaitem.01-32620.png§5§lFaster Steam TransportationDo you think that steam fluid transport is far too slow? Your LV pumps got you down, doing only 640L/s? Then it's time to make the 32 times faster LV steam valves!
 
 They only work with steam and are just as fast as the valve on a Railcraft tank (if you put it on the bottom side).
 
-§6§4§3There's also MV, HV, EV and IV versions.ANDpreRequgregtech/gt.metaitem.01~32610Quest Name For 9393rewardsChoicegregtech/gt.metaitem.01~32600Choice Name2gregtech/gt.metaitem.01~17880Choice Name16gregtech/gt.metaitem.01~11305Choice Name8Itemdreamcraft/item.CoinTechnicianI~0Item Name3enhancedlootbags/lootbag~4Item Name1tasksANDRetrievalgregtech/gt.metaitem.01~32620gregtech/gt.metaitem.01~32620 Name1
+§6§4§3There's also MV, HV, EV and IV versions.0-1ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsChoicegregtech/gt.metaitem.01-32600.pngElectric Motor
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+16gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.metaitem.01-32620.pngSteam Valve\n1,024 L/t (20,480 L/s) as Cover
+1

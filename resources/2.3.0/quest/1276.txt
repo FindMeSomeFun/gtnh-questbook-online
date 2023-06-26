@@ -1,1 +1,5 @@
-1276Korn and DoppelkornKorn is german for wheat. That's why this special alcoholic brew is named like this. Doppelkorn means double-wheat.ANDpreRequgregtech/gt.blockmachines~531Quest Name For 547547gregtech/gt.metaitem.02~32115Quest Name For 12721272rewardsItemenhancedlootbags/lootbag~29Item Name1dreamcraft/item.CoinCookI~0Item Name1tasksANDRetrievalberriespp/BppPotions~1berriespp/BppPotions~1 Name1berriespp/BppPotions~2berriespp/BppPotions~2 Name1
+berriespp/BppPotions-2.pngKorn and DoppelkornKorn is german for wheat. That's why this special alcoholic brew is named like this. Doppelkorn means double-wheat.0-1ANDpre5471gregtech/gt.blockmachines-531.png12720gregtech/gt.metaitem.02-32115.pngrewardsItemenhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+1tasksANDRetrievalberriespp/BppPotions-1.pngBottled Korn\nKorn? Eww, you''ll get a headache!
+1berriespp/BppPotions-2.pngBottled Doppelkorn\nDoppelkorn? German Vodka!
+1

@@ -1,5 +1,12 @@
-3073§6§lCoolantMake your first coolant out of water or distilled water and lapis dust in an mv mixer.
+IC2/itemCellEmpty-9.png§6§lCoolantMake your first coolant out of water or distilled water and lapis dust in an mv mixer.
 
 Using distilled water lets you save on lapis while also speeding up the process by a lot.
 
-§3If you don't use distilled water, you will need a lot more than 64 lapis dust.ANDpreRequgregtech/gt.blockmachines~582Quest Name For 751751gregtech/gt.blockmachines~542Quest Name For 30713071rewardsChoiceIC2/itemCellEmpty~0Choice Name32enhancedlootbags/lootbag~5Choice Name1Itemdreamcraft/item.CoinChemist~0Item Name25dreamcraft/item.CoinTechnician~0Item Name25tasksANDOptionalIC2/itemCellEmpty~12IC2/itemCellEmpty~12 Name64gregtech/gt.metaitem.01~2526gregtech/gt.metaitem.01~2526 Name64RetrievalIC2/itemCellEmpty~9IC2/itemCellEmpty~9 Name64
+§3If you don't use distilled water, you will need a lot more than 64 lapis dust.1-1ANDpre7511gregtech/gt.blockmachines-582.png30711gregtech/gt.blockmachines-542.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
+32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalIC2/itemCellEmpty-12.pngDistilled Water Cell
+64gregtech/gt.metaitem.01-2526.pngLapis Dust\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+64RetrievalIC2/itemCellEmpty-9.pngCoolant Cell
+64

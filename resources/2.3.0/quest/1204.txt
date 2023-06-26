@@ -1,1 +1,4 @@
-1204§1§lCrafting TimeIt's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!ANDpreRequminecraft/flint~0Quest Name For 11rewardsItemminecraft/apple~0Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name5tasksANDCraftingminecraft/crafting_table~0minecraft/crafting_table~0 Name1
+minecraft/crafting_table-0.png§1§lCrafting TimeIt's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!1-1ANDpre11minecraft/flint-0.pngrewardsItemminecraft/apple-0.pngApple\nminecraft:apple\nDiminishing returns start after\neating any food 10 more times
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDCraftingminecraft/crafting_table-0.pngCrafting Table\nBurn Time: 300
+1

@@ -1,1 +1,2 @@
-2781Pocket Plasma LuVThis is the LuV version.ANDpreRequgregtech/gt.metaitem.01~11103Quest Name For 11991199gregtech/gt.blockmachines~1193Quest Name For 12121212rewardstasksANDRetrievalgregtech/gt.blockmachines~1198gregtech/gt.blockmachines~1198 Name1
+gregtech/gt.blockmachines-1198.pngPocket Plasma LuVThis is the LuV version.0-1ANDpre11991gregtech/gt.metaitem.01-11103.png12121gregtech/gt.blockmachines-1193.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-1198.pngPlasma Generator Mark III\nPlasma into energy\nFuel Efficiency: 70%\nVoltage OUT: 32,768 (LuV)\nCapacity: 2,621,952 EU
+1

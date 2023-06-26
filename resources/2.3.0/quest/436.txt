@@ -1,1 +1,6 @@
-436Bound Tools: AxeUpon right clicking while activated, this axe will clear out any wood within a large area. Be warned: This uses a huge amount of LP. You might suffer from sudden death...ANDpreRequAWWayofTime/masterStone~0Quest Name For 433433rewardsItemenhancedlootbags/lootbag~17Item Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name2dreamcraft/item.CoinSmithII~0Item Name2dreamcraft/item.CoinBloodII~0Item Name2tasksANDRetrievalAWWayofTime/boundAxe~0AWWayofTime/boundAxe~0 Name1
+AWWayofTime/boundAxe-0.pngBound Tools: AxeUpon right clicking while activated, this axe will clear out any wood within a large area. Be warned: This uses a huge amount of LP. You might suffer from sudden death...0-1ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/boundAxe-0.pngBound Axe\nAxe me about my puns!\n+11 Attack Damage\nDurability: 1000/1000
+1

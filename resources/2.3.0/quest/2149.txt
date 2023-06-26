@@ -1,3 +1,11 @@
-2149Lapotronic Energy OrbThe Lapotronic Energy Orb is the IV tier battery item. It can store 100M EU.
+gregtech/gt.metaitem.01-32597.pngLapotronic Energy OrbThe Lapotronic Energy Orb is the IV tier battery item. It can store 100M EU.
 
-§3Hint: Until IV, use them to make some PAs. They're very useful.ANDpreRequgregtech/gt.metaitem.03~32103Quest Name For 16771677gregtech/gt.metaitem.01~32714Quest Name For 21482148rewardsItemgregtech/gt.metaitem.03~32103Item Name16tasksANDOptionalgregtech/gt.metaitem.03~32103gregtech/gt.metaitem.03~32103 Name1gregtech/gt.metaitem.03~32051gregtech/gt.metaitem.03~32051 Name4gregtech/gt.metaitem.01~32714gregtech/gt.metaitem.01~32714 Name24gregtech/gt.metaitem.03~32055gregtech/gt.metaitem.03~32055 Name2gregtech/gt.metaitem.02~19085gregtech/gt.metaitem.02~19085 Name16gregtech/gt.metaitem.01~17085gregtech/gt.metaitem.01~17085 Name8Retrievalgregtech/gt.metaitem.01~32597gregtech/gt.metaitem.01~32597 Name1
+§3Hint: Until IV, use them to make some PAs. They're very useful.0-1ANDpre16771gregtech/gt.metaitem.03-32103.png21480gregtech/gt.metaitem.01-32714.pngrewardsItemgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+16tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+1gregtech/gt.metaitem.03-32051.pngPower IC\nPower Circuit
+4gregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip\nNeeded for Circuits
+24gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit\nPower Circuit
+2gregtech/gt.metaitem.02-19085.pngFine Platinum Wire\nPt
+16gregtech/gt.metaitem.01-17085.pngPlatinum Plate\nPt
+8Retrievalgregtech/gt.metaitem.01-32597.pngLapotronic Energy Orb\nReusable battery\n0 / 100,000,000 EU - Voltage: 8192\nIV-Tier
+1

@@ -1,5 +1,10 @@
-1626ChipsNow you need to make some chips to use in those interface pipes. These ones do not do anything but are needed as a material for crafting the others.
+ProjRedCore/projectred.core.part-44.pngChipsNow you need to make some chips to use in those interface pipes. These ones do not do anything but are needed as a material for crafting the others.
 
 Now would be a good time to look into IC2 crops to get all the dyes you will need for your advanced chips.
 
-§3If NEI's bookmarks are blocking you on the left, you can turn it off (O) until that gets fixed.ANDpreRequProjRedTransportation/projectred.transportation.pipe~2Quest Name For 16251625rewardsChoiceProjRedCore/projectred.core.part~0Choice Name8IC2/itemPartCircuit~0Choice Name4enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalProjRedCore/projectred.core.part~44ProjRedCore/projectred.core.part~44 Name8
+§3If NEI's bookmarks are blocking you on the left, you can turn it off (O) until that gets fixed.0-1ANDpre16250ProjRedTransportation/projectred.transportation.pipe-2.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
+8IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
+4enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
+8

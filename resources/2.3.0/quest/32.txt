@@ -1,1 +1,5 @@
-32§2§lBook PartsAfter you found a way to move water around, you had another brilliant idea: Paper! Paper is no longer made with sugarcane, you'll need wood pulp instead. You'll need a lot of wood to craft wood pulp, so better grab your axe and go chop some trees.ANDpreRequIguanaTweaksTConstruct/clayBucketUnfired~0Quest Name For 2323rewardsItemTConstruct/blankPattern~0Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name10tasksANDCraftinggregtech/gt.metaitem.01~2809gregtech/gt.metaitem.01~2809 Name64Craftingminecraft/paper~0minecraft/paper~0 Name16
+minecraft/paper-0.png§2§lBook PartsAfter you found a way to move water around, you had another brilliant idea: Paper! Paper is no longer made with sugarcane, you'll need wood pulp instead. You'll need a lot of wood to craft wood pulp, so better grab your axe and go chop some trees.1-1ANDpre231IguanaTweaksTConstruct/clayBucketUnfired-0.pngrewardsItemTConstruct/blankPattern-0.pngBlank Pattern
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDCraftinggregtech/gt.metaitem.01-2809.pngWood Pulp\nBurn Time: 100
+64Craftingminecraft/paper-0.pngPaper
+16

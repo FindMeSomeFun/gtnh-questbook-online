@@ -1,5 +1,11 @@
-2543Wireless 3.0This upgrade allows unlimited range. You don't even need a Wireless Access Point!
+ae2wct/infinityBoosterCard-0.pngWireless 3.0This upgrade allows unlimited range. You don't even need a Wireless Access Point!
 
 §4Extremely buggy, unfortunately. May randomly disappear, or fall out of the terminal at any time.
 
-§3Many bugs were fixed. Maybe its better now?ANDpreRequae2wct/wirelessCraftingTerminal~0Quest Name For 25422542gregtech/gt.blockmachines~15300Quest Name For 25952595rewardsItemappliedenergistics2/item.ItemMultiMaterial~58Item Name4ae2fc/fluid_part~5Item Name4enhancedlootbags/lootbag~38Item Name2Itemdreamcraft/item.CoinTechnicianIV~0Item Name1dreamcraft/item.CoinSmithIV~0Item Name1tasksANDRetrievalae2wct/infinityBoosterCard~0ae2wct/infinityBoosterCard~0 Name1
+§3Many bugs were fixed. Maybe its better now?0-1ANDpre25420ae2wct/wirelessCraftingTerminal-0-6400000.png25950gregtech/gt.blockmachines-15300.pngrewardsItemappliedenergistics2/item.ItemMultiMaterial-58.png1024k ME Storage Component
+4ae2fc/fluid_part-5.png1024k ME Fluid Storage Component
+4enhancedlootbags/lootbag-38-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+2Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
+1dreamcraft/item.CoinSmithIV-0.pngCoin "Blacksmith 10K"
+1tasksANDRetrievalae2wct/infinityBoosterCard-0.pngInfinity Booster Card
+1

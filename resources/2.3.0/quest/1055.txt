@@ -1,3 +1,7 @@
-1055Did You Want to Know Your Warp Level?After a few forbidden researches your warp level has increased a bit. Do you want to know how much warp you have?
+WarpTheory/item.warptheory.paper-0.pngDid You Want to Know Your Warp Level?After a few forbidden researches your warp level has increased a bit. Do you want to know how much warp you have?
 
-Craft some litmus paper to print out the warp level.ANDpreRequThaumcraft/ItemLootBag~1Quest Name For 260260rewardsItemThaumcraft/ItemResource~14Item Name8Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalWarpTheory/item.warptheory.paper~0WarpTheory/item.warptheory.paper~0 Name2
+Craft some litmus paper to print out the warp level.0-1ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemThaumcraft/ItemResource-14.pngSalis Mundus
+8Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalWarpTheory/item.warptheory.paper-0.pngArcane Litmus Paper\nReacts to Warp
+2

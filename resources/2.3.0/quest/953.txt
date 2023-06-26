@@ -1,3 +1,7 @@
-953§6§lStainless Steel PipesStainless steel pipes are much better than steel pipes. Like all high tier pipes (Titanium, Tungstensteel etc) you need a better wrench to deconstruct the pipes.
+gregtech/gt.blockmachines-5143.png§6§lStainless Steel PipesStainless steel pipes are much better than steel pipes. Like all high tier pipes (Titanium, Tungstensteel etc) you need a better wrench to deconstruct the pipes.
 
-§3If you don't need these, just recycle them to get the materials back. Not everything needs ginormous pipes or high heat tolerance.ANDpreRequgregtech/gt.metaitem.01~11306Quest Name For 753753rewardsItemgregtech/gt.metatool.01~16Item Name1enhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnician~0Item Name25tasksANDRetrievalgregtech/gt.blockmachines~5143gregtech/gt.blockmachines~5143 Name16
+§3If you don't need these, just recycle them to get the materials back. Not everything needs ginormous pipes or high heat tolerance.0-1ANDpre7531gregtech/gt.metaitem.01-11306.pngrewardsItemgregtech/gt.metatool.01-16-DamascusSteel-DamascusSteel.pngWrench\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 6.0\nMining Speed: 8.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
+1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.blockmachines-5143.pngLarge Stainless Steel Fluid Pipe\nFluid Capacity: 14,400 L/sec\nHeat Limit: 3,000 K
+16

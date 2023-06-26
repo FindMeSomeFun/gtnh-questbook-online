@@ -1,1 +1,7 @@
-489§2§lA Better Lunch BagYour lunch bag is now abused and rather old so it's time to get something better. Let's craft a lunch box which can hold way more food.ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsChoiceharvestcraft/delightedmealItem~0Choice Name5harvestcraft/supremepizzaItem~0Choice Name5harvestcraft/bltItem~0Choice Name5Itemdreamcraft/item.CoinSurvivor~0Item Name5dreamcraft/item.CoinTechnician~0Item Name5tasksANDCraftingSpiceOfLife/lunchbox~0SpiceOfLife/lunchbox~0 Name1
+SpiceOfLife/lunchbox-0.png§2§lA Better Lunch BagYour lunch bag is now abused and rather old so it's time to get something better. Let's craft a lunch box which can hold way more food.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft/delightedmealItem-0.pngDelighted Meal\nharvestcraft:delightedmealItem\nDiminishing returns start after\neating any food 10 more times
+5harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem\nDiminishing returns start after\neating any food 10 more times
+5harvestcraft/bltItem-0.pngBLT\nharvestcraft:bltItem\nDiminishing returns start after\neating any food 10 more times
+5Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDCraftingSpiceOfLife/lunchbox-0.pngLunch Box\nUse while sneaking to open
+1

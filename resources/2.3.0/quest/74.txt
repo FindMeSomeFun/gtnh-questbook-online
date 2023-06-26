@@ -1,7 +1,8 @@
-74§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Now Prepared, Hopefully!No matter where you got this smeltry from, you have one now. Time for some casting!
+TConstruct/Smeltery-0.png§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Now Prepared, Hopefully!No matter where you got this smeltry from, you have one now. Time for some casting!
 
 The aluminium oreberries can be planted on cropsticks, and macerated to get small quantites of aluminium for molds if you can't find aluminium gravel.
 
 Note: The book says a 3x3 base, but you can make a smeltery with a smaller base. Taller/wider smelteries can do more items at one time, conserving fuel.
 
-§3The smeltry does not double ores in GTNH. Later machines will help you there.ORpreRequStevesCarts/CartModule~23Quest Name For 29852985minecraft/wooden_shovel~0Quest Name For 30313031rewardstasksANDCheckboxcheckbox  
+§3The smeltry does not double ores in GTNH. Later machines will help you there.0-1ORpre29850StevesCarts/CartModule-23.png30310minecraft/wooden_shovel-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+1

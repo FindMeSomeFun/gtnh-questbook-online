@@ -1,1 +1,8 @@
-1700§b§lPhthalic AcidTo get Phthalic Acid you need mix Dimethylbenzene, Potassium Dichromate and Oxygen in an EV Chemical Reactor.ANDpreRequgregtech/gt.metaitem.01~30593Quest Name For 17011701gregtech/gt.metaitem.01~2594Quest Name For 17021702rewardsItemenhancedlootbags/lootbag~8Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~30593gregtech/gt.metaitem.01~30593 Name18gregtech/gt.metaitem.01~2594gregtech/gt.metaitem.01~2594 Name2gregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name108Retrievalgregtech/gt.metaitem.01~30595gregtech/gt.metaitem.01~30595 Name18
+gregtech/gt.metaitem.01-30595.png§b§lPhthalic AcidTo get Phthalic Acid you need mix Dimethylbenzene, Potassium Dichromate and Oxygen in an EV Chemical Reactor.1-1ANDpre17011gregtech/gt.metaitem.01-30593.png17021gregtech/gt.metaitem.01-2594.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-30593.png1,2-Dimethylbenzen Cell\nC\u2088H\u2081\u2080
+18gregtech/gt.metaitem.01-2594.pngPotassium Dichromate Dust\nK\u2082Cr\u2082O\u2087
+2gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+108Retrievalgregtech/gt.metaitem.01-30595.pngPhthalic Acid Cell\nC\u2088H\u2086O\u2084
+18

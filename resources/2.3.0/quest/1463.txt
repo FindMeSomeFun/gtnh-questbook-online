@@ -1,7 +1,18 @@
-1463Sleeping in SpaceThe Cryogenic Chamber is used to sleep on other planets and skip long nighttimes. It can be used at any time, even during the daytime, and in any dimension, including the Overworld.
+GalacticraftMars/tile.marsMachine-4.pngSleeping in SpaceThe Cryogenic Chamber is used to sleep on other planets and skip long nighttimes. It can be used at any time, even during the daytime, and in any dimension, including the Overworld.
 
 Using the chamber during the daytime will skip the time to the next sunrise, except on the Asteroids dimension where the Sun is always locked on West.
 
 Once the player has used the Cryogenic Chamber, there is a 300 seconds cool-down time before he can use the chamber again. Breaking and placing back the chamber or trying to use different chamber will not reset the cool-down time, unless by dying.
 
-The chamber does not require energy to work.ANDpreRequGalacticraftMars/item.itemTier3Rocket~0Quest Name For 14541454rewardsChoiceGalacticraftMars/item.itemBasicAsteroids~0Choice Name2GalacticraftMars/item.null~3Choice Name4enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinSurvivorII~0Item Name5dreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalGraviSuite/itemSimpleItem~2GraviSuite/itemSimpleItem~2 Name1CarpentersBlocks/itemCarpentersBed~0CarpentersBlocks/itemCarpentersBed~0 Name1GalacticraftMars/item.itemBasicAsteroids~0GalacticraftMars/item.itemBasicAsteroids~0 Name4GalacticraftMars/item.null~3GalacticraftMars/item.null~3 Name2minecraft/clock~0minecraft/clock~0 Name1RetrievalGalacticraftMars/tile.marsMachine~4GalacticraftMars/tile.marsMachine~4 Name1
+The chamber does not require energy to work.0-1ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+2GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+4enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalGraviSuite/itemSimpleItem-2.pngCooling Core
+1CarpentersBlocks/itemCarpentersBed-0.pngCarpenter''s Bed
+1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+4GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+2minecraft/clock-0.pngClock
+1RetrievalGalacticraftMars/tile.marsMachine-4.pngCryogenic Chamber
+1

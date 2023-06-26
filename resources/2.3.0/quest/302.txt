@@ -1,1 +1,12 @@
-302Useful Plant LifeWhile regular plants are mostly used to make food, you are wondering if you could get some... "more useful" plant life going...ANDpreRequThaumcraft/ItemLootBag~1Quest Name For 260260rewardsItemthaumicbases/redlonSeeds~0Item Name1thaumicbases/lucriteSeeds~0Item Name1thaumicbases/lazulliaSeeds~0Item Name1thaumicbases/rainbowCactus~0Item Name1thaumicbases/knoseSeed~0Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalthaumicbases/redlonSeeds~0thaumicbases/redlonSeeds~0 Name1Retrievalthaumicbases/rainbowCactus~0thaumicbases/rainbowCactus~0 Name1Retrievalthaumicbases/lucriteSeeds~0thaumicbases/lucriteSeeds~0 Name1Retrievalthaumicbases/lazulliaSeeds~0thaumicbases/lazulliaSeeds~0 Name1Retrievalthaumicbases/knoseSeed~0thaumicbases/knoseSeed~0 Name1
+thaumicbases/rainbowCactus-0.pngUseful Plant LifeWhile regular plants are mostly used to make food, you are wondering if you could get some... "more useful" plant life going...0-1ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemthaumicbases/redlonSeeds-0.pngRedlon Seed
+1thaumicbases/lucriteSeeds-0.pngLucrite Seeds
+1thaumicbases/lazulliaSeeds-0.pngLazullia Seeds
+1thaumicbases/rainbowCactus-0.pngRainbow Cacti
+1thaumicbases/knoseSeed-0.pngRosa Mysteria Sprout
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalthaumicbases/redlonSeeds-0.pngRedlon Seed
+1Retrievalthaumicbases/rainbowCactus-0.pngRainbow Cacti
+1Retrievalthaumicbases/lucriteSeeds-0.pngLucrite Seeds
+1Retrievalthaumicbases/lazulliaSeeds-0.pngLazullia Seeds
+1Retrievalthaumicbases/knoseSeed-0.pngRosa Mysteria Sprout
+1

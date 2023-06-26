@@ -1,1 +1,4 @@
-160§9§lTier 3 (HV)Your first hull, as usual...ANDpreRequgregtech/gt.metaitem.01~17874Quest Name For 750750gregtech/gt.metaitem.01~11306Quest Name For 753753IC2/itemPartCircuitAdv~0Quest Name For 838838rewardsItemenhancedlootbags/lootbag~6Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~13gregtech/gt.blockmachines~13 Name1
+gregtech/gt.blockmachines-13.png§9§lTier 3 (HV)Your first hull, as usual...1-1ANDpre7501gregtech/gt.metaitem.01-17874.png7531gregtech/gt.metaitem.01-11306.png8381IC2/itemPartCircuitAdv-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-13.pngHV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 26,112 EU
+1

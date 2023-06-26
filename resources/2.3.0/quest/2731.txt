@@ -1,5 +1,8 @@
-2731Transform and...Stay Put ActuallyActive Transformers will transform power up or down at only a 0.004% power loss, making using several in a row obsolete, if you can afford it. Unfortunately, it's kinda expensive. On the other hand, you can use it to turn your lasers from your laser hatches, which is probably a better use.
+gregtech/gt.blockmachines-15300.pngTransform and...Stay Put ActuallyActive Transformers will transform power up or down at only a 0.004% power loss, making using several in a row obsolete, if you can afford it. Unfortunately, it's kinda expensive. On the other hand, you can use it to turn your lasers from your laser hatches, which is probably a better use.
 
 It doesn't need a Maintenance Hatch, just the I/O Hatches.
 
-§4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!ANDpreRequtectech/gt.blockcasingsTT~0Quest Name For 20062006rewardstasksANDOptionalgregtech/gt.blockcasings~15gregtech/gt.blockcasings~15 Name1tectech/gt.blockcasingsTT~0tectech/gt.blockcasingsTT~0 Name23Retrievalgregtech/gt.blockmachines~15300gregtech/gt.blockmachines~15300 Name1
+§4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!0-1ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionalgregtech/gt.blockcasings-15.pngSuperconducting Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+1tectech/gt.blockcasingsTT-0.pngHigh Power Casing\nTecTech: Elemental Matter\nWell suited for high power applications.\nThe power levels are rising!
+23Retrievalgregtech/gt.blockmachines-15300.pngActive Transformer\nMachine Type: Active Transformer\nController block of the Active Transformer\nCan transform to and from any voltage\nOnly 0.004% power loss, HAYO!\nWill explode if broken while running\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: TecTech: Interdimensional
+1

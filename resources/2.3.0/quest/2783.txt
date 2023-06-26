@@ -1,1 +1,2 @@
-2783Pocket Plasma UVThis is the UV version.ANDpreRequgregtech/gt.blockmachines~1193Quest Name For 12121212gregtech/gt.metaitem.01~32677Quest Name For 26232623rewardstasksANDRetrievalgregtech/gt.blockmachines~10753gregtech/gt.blockmachines~10753 Name1
+gregtech/gt.blockmachines-10753.pngPocket Plasma UVThis is the UV version.0-1ANDpre12121gregtech/gt.blockmachines-1193.png26231gregtech/gt.metaitem.01-32677.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10753.pngUltimate Pocket Sun\nPlasma into energy\nFuel Efficiency: 90%\nVoltage OUT: 524,288 (UV)\nCapacity: 41,943,552 EU
+1

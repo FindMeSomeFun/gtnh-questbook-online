@@ -1,1 +1,16 @@
-998§9§lDark Steel Tool and Weapon Basic UpgradesIn order to upgrade a Dark Steel weapon or tool, you need a vibrant crystal, 10 xp levels, and your trusty anvil.ANDpreRequEnderIO/itemMaterial~6Quest Name For 141141rewardsChoiceEnderIO/itemMaterial~8Choice Name2minecraft/diamond_shovel~0Choice Name1EnderIO/itemBasicCapacitor~0Choice Name4enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinSurvivorI~0Item Name5dreamcraft/item.CoinSmithI~0Item Name5tasksANDOptionalEnderIO/item.darkSteel_sword~0EnderIO/item.darkSteel_sword~0 Name1EnderIO/item.darkSteel_pickaxe~0EnderIO/item.darkSteel_pickaxe~0 Name1EnderIO/item.darkSteel_axe~0EnderIO/item.darkSteel_axe~0 Name1EnderIO/item.darkSteel_shears~0EnderIO/item.darkSteel_shears~0 Name1OptionalEnderIO/itemMaterial~6EnderIO/itemMaterial~6 Name4RetrievalEnderIO/item.darkSteel_sword~0EnderIO/item.darkSteel_sword~0 Name1EnderIO/item.darkSteel_pickaxe~0EnderIO/item.darkSteel_pickaxe~0 Name1EnderIO/item.darkSteel_axe~0EnderIO/item.darkSteel_axe~0 Name1EnderIO/item.darkSteel_shears~0EnderIO/item.darkSteel_shears~0 Name1
+EnderIO/item.darkSteel_sword-0.png§9§lDark Steel Tool and Weapon Basic UpgradesIn order to upgrade a Dark Steel weapon or tool, you need a vibrant crystal, 10 xp levels, and your trusty anvil.0-1ANDpre1410EnderIO/itemMaterial-6.pngrewardsChoiceEnderIO/itemMaterial-8.pngEnder Crystal
+2minecraft/diamond_shovel-0.pngDiamond Shovel\n+4 Attack Damage\nDurability: 768/768\nThis tool cannot mine anything!\nIt can only be used for crafting
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5tasksANDOptionalEnderIO/item.darkSteel_sword-0.pngThe Ender\n+6 Attack Damage\nDurability: 1561/1561
+1EnderIO/item.darkSteel_pickaxe-0.pngDark Pick\nEnderIO:item.darkSteel_pickaxe\n+4 Attack Damage\nDurability: 1561/1561
+1EnderIO/item.darkSteel_axe-0.pngDark Axe\n+5 Attack Damage\nDurability: 1561/1561
+1EnderIO/item.darkSteel_shears-0.pngDark Shears
+1OptionalEnderIO/itemMaterial-6.pngVibrant Crystal
+4RetrievalEnderIO/item.darkSteel_sword-0-upgraded.pngThe Ender\n+6 Attack Damage\nDurability: 1561/1561\nEmpowered
+1EnderIO/item.darkSteel_pickaxe-0-upgraded.pngDark Pick\nEnderIO:item.darkSteel_pickaxe\n+4 Attack Damage\nDurability: 1561/1561\nEmpowered
+1EnderIO/item.darkSteel_axe-0-upgraded.pngDark Axe\n+5 Attack Damage\nDurability: 1561/1561\nEmpowered
+1EnderIO/item.darkSteel_shears-0-upgraded.pngDark Shears\nEmpowered
+1

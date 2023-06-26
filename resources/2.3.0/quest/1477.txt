@@ -1,1 +1,5 @@
-1477§6§lYou're Gonna Hate This in MV Too #6The sixth item you'll need a lot of. For the scanner and the seismic prospector.ANDpreRequgregtech/gt.metaitem.01~32601Quest Name For 18671867rewardsItemgregtech/gt.metaitem.02~29501Item Name8enhancedlootbags/lootbag~5Item Name1Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalgregtech/gt.metaitem.01~32691gregtech/gt.metaitem.01~32691 Name1
+gregtech/gt.metaitem.01-32691.png§6§lYou're Gonna Hate This in MV Too #6The sixth item you'll need a lot of. For the scanner and the seismic prospector.0-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.02-29501.pngFlawless Emerald\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
+8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-32691.pngSensor
+1

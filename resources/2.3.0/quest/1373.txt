@@ -1,5 +1,9 @@
-1373Wand Focus ExcavationThe Wand Focus: Excavation when equipped to a wand, will emit a green beam of light that will mine blocks of any hardness (except for blocks like Bedrock) from a distance.
+Thaumcraft/FocusExcavation-0.pngWand Focus ExcavationThe Wand Focus: Excavation when equipped to a wand, will emit a green beam of light that will mine blocks of any hardness (except for blocks like Bedrock) from a distance.
 
 Its base vis cost is 0.15  terra per tick that it mines a block. It is also used in operating the Arcane Bore.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockTable~15Quest Name For 227227rewardsItemenhancedlootbags/lootbag~9Item Name1Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/FocusExcavation~0Thaumcraft/FocusExcavation~0 Name1
+This focus can be upgraded at the Focal Manipulator.0-1ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/FocusExcavation-0.pngWand Focus: Excavation\nVis per tick\n Terra x 0.15
+1

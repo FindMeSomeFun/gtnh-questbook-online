@@ -1,1 +1,9 @@
-761§6§lPowderbarrelsPowderbarrels are pretty bad in the implosion compressor. They are good for prospecting though. Craft one stack.ANDpreRequgregtech/gt.blockmachines~1001Quest Name For 8080rewardsChoiceminecraft/gunpowder~0Choice Name16StevesCarts/ModuleComponents~43Choice Name16enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name30tasksANDOptionalminecraft/string~0minecraft/string~0 Name64minecraft/gunpowder~0minecraft/gunpowder~0 Name256gregtech/gt.metaitem.01~17809gregtech/gt.metaitem.01~17809 Name256Retrievalgregtech/gt.blockreinforced~5gregtech/gt.blockreinforced~5 Name64
+gregtech/gt.blockreinforced-5.png§6§lPowderbarrelsPowderbarrels are pretty bad in the implosion compressor. They are good for prospecting though. Craft one stack.0-1ANDpre801gregtech/gt.blockmachines-1001.pngrewardsChoiceminecraft/gunpowder-0.pngGunpowder
+16StevesCarts/ModuleComponents-43.pngFuse
+16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+30tasksANDOptionalminecraft/string-0.pngString
+64minecraft/gunpowder-0.pngGunpowder
+256gregtech/gt.metaitem.01-17809.pngWood Plank\nBurn Time: 1600
+256Retrievalgregtech/gt.blockreinforced-5.pngPowderbarrel
+64

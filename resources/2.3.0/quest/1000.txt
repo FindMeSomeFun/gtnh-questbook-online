@@ -1,1 +1,5 @@
-1000§9§lRF Solar PanelIt's possible to power RF machines with a solar panel. It outputs 10 RF/t. Perfect for low use RF machines.ANDpreRequgregtech/gt.metaitem.01~32750Quest Name For 933933gregtech/gt.metaitem.01~11367Quest Name For 989989rewardsItemenhancedlootbags/lootbag~6Item Name1EnderIO/itemBasicCapacitor~0Item Name16Itemdreamcraft/item.CoinTechnicianI~0Item Name5tasksANDRetrievalEnderIO/blockSolarPanel~0EnderIO/blockSolarPanel~0 Name1
+EnderIO/blockSolarPanel-0.png§9§lRF Solar PanelIt's possible to power RF machines with a solar panel. It outputs 10 RF/t. Perfect for low use RF machines.0-1ANDpre9330gregtech/gt.metaitem.01-32750.png9890gregtech/gt.metaitem.01-11367.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalEnderIO/blockSolarPanel-0.pngPhotovoltaic Cell\nSolar Power!
+1

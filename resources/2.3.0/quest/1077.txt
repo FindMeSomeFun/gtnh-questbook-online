@@ -1,3 +1,8 @@
-1077Knight PhantomSummon a Knight Phantom.
+TwilightForest/item.tfspawnegg-224.pngKnight PhantomSummon a Knight Phantom.
 
-§3Only works in the Twilight Forest dim.ANDpreRequminecraft/end_portal~0Quest Name For 225225rewardsItemTwilightForest/item.tfspawnegg~224Item Name1tasksANDRetrievaldreamcraft/item.CoinSurvivorII~0dreamcraft/item.CoinSurvivorII~0 Name2dreamcraft/item.CoinDarkWizardII~0dreamcraft/item.CoinDarkWizardII~0 Name1RetrievalTwilightForest/item.trophy~0TwilightForest/item.trophy~0 Name1TwilightForest/tile.TFUnderBrick~0TwilightForest/tile.TFUnderBrick~0 Name1
+§3Only works in the Twilight Forest dim.01200000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-224.pngSpawn Knight Phantom
+1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1RetrievalTwilightForest/item.trophy-0.pngHydra Trophy
+1TwilightForest/tile.TFUnderBrick-0.pngUnderbrick
+1

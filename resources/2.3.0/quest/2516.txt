@@ -1,3 +1,7 @@
-2516Storing Essentia in Jars? Why, again?So apparently you can attach this to a void/oblivion jar and have it void overflow if you set the priority low. Neat, huh?
+thaumicenergistics/part.base-2.pngStoring Essentia in Jars? Why, again?So apparently you can attach this to a void/oblivion jar and have it void overflow if you set the priority low. Neat, huh?
 
-What? Store essentia in jars? Seriously? I guess you could, if you really wanted to, or if there were new, larger jars...ANDpreRequae2fc/part_fluid_storage_bus~0Quest Name For 13041304rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2dreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalthaumicenergistics/part.base~2thaumicenergistics/part.base~2 Name1
+What? Store essentia in jars? Seriously? I guess you could, if you really wanted to, or if there were new, larger jars...0-1ANDpre13040ae2fc/part_fluid_storage_bus-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalthaumicenergistics/part.base-2.pngEssentia Storage Bus
+1

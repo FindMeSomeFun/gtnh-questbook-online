@@ -1,3 +1,7 @@
-1374Wand Focus ShockThe Wand Focus: Shock when equipped to a wand will shoot a bolt of lightning when the right mouse button is pressed. It homes in slightly to the nearest mob/player from where it is aimed. Its base vis cost is 0.25 air per cast.
+Thaumcraft/FocusShock-0.pngWand Focus ShockThe Wand Focus: Shock when equipped to a wand will shoot a bolt of lightning when the right mouse button is pressed. It homes in slightly to the nearest mob/player from where it is aimed. Its base vis cost is 0.25 air per cast.
 
-This focus can be upgraded at the Focal Manipulator.ANDpreRequThaumcraft/blockTable~15Quest Name For 227227rewardsItemenhancedlootbags/lootbag~9Item Name1Thaumcraft/ItemLootBag~1Item Name1Itemdreamcraft/item.CoinDarkWizardI~0Item Name5tasksANDRetrievalThaumcraft/FocusShock~0Thaumcraft/FocusShock~0 Name1
+This focus can be upgraded at the Focal Manipulator.0-1ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumcraft/FocusShock-0.pngWand Focus: Shock\nVis per cast\n Aer x 0.25
+1

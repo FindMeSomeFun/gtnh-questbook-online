@@ -1,1 +1,6 @@
-1407§a§k§r§a§lEV Laser EngraverAn EV precision laser is required to make quantum crystals.ANDpreRequgregtech/gt.metaitem.01~32693Quest Name For 12461246rewardsChoicegregtech/gt.metaitem.01~11028Choice Name8gregtech/gt.metaitem.01~30093Choice Name2enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~594gregtech/gt.blockmachines~594 Name1
+gregtech/gt.blockmachines-594.png§a§k§r§a§lEV Laser EngraverAn EV precision laser is required to make quantum crystals.0-1ANDpre12461gregtech/gt.metaitem.01-32693.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+8gregtech/gt.metaitem.01-30093.pngRadon Cell\nRn
+2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-594.pngAdvanced Precision Laser Engraver III\nDon''t look directly at the Laser\nVoltage IN: 2,048 (EV)\nCapacity: 131,072 EU
+1

@@ -1,4 +1,4 @@
-2353Find all the Ores in the EndEnd Powder Ore:
+HardcoreEnderExpansion/instability_orb_ore-0.pngFind all the Ores in the EndEnd Powder Ore:
 Generated in the End in between End Stone at every height level. When the ore is mined with any type of pickaxe, it will drop one or two pieces of End Powder.
 
 Endium Ore:
@@ -19,4 +19,16 @@ Generated in the End in the Biome Islands. When the ore is mined with an Advance
 
 Stardust Ore block has different textures on its sides.
 
-Sphalerite: You can macerate it for crushed normal sphalerite,ORpreRequHardcoreEnderExpansion/auricion~0Quest Name For 23562356HardcoreEnderExpansion/arcane_shard~0Quest Name For 23582358HardcoreEnderExpansion/endoplasm~0Quest Name For 23592359HardcoreEnderExpansion/fire_shard~0Quest Name For 23602360rewardsChoiceHardcoreEnderExpansion/sphalerite~1Choice Name32HardcoreEnderExpansion/essence~0Choice Name16enhancedlootbags/lootbag~57Choice Name1Itemdreamcraft/item.CoinAdventureII~0Item Name1dreamcraft/item.CoinSurvivorII~0Item Name1HardcoreEnderExpansion/knowledge_note~0Item Name1tasksANDRetrievalHardcoreEnderExpansion/end_powder~0HardcoreEnderExpansion/end_powder~0 Name64HardcoreEnderExpansion/igneous_rock~0HardcoreEnderExpansion/igneous_rock~0 Name16HardcoreEnderExpansion/instability_orb~0HardcoreEnderExpansion/instability_orb~0 Name16HardcoreEnderExpansion/stardust~0HardcoreEnderExpansion/stardust~0 Name32HardcoreEnderExpansion/endium_ore~0HardcoreEnderExpansion/endium_ore~0 Name16HardcoreEnderExpansion/sphalerite~0HardcoreEnderExpansion/sphalerite~0 Name16
+Sphalerite: You can macerate it for crushed normal sphalerite,0-1ORpre23560HardcoreEnderExpansion/auricion-0.png23580HardcoreEnderExpansion/arcane_shard-0.png23590HardcoreEnderExpansion/endoplasm-0.png23600HardcoreEnderExpansion/fire_shard-0.pngrewardsChoiceHardcoreEnderExpansion/sphalerite-1.pngSphalerite with Stardust
+32HardcoreEnderExpansion/essence-0.pngDragon Essence
+16enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+1tasksANDRetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+64HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock\nBurn Time: 8000
+16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
+16HardcoreEnderExpansion/stardust-0.pngStardust
+32HardcoreEnderExpansion/endium_ore-0.pngEndium Ore
+16HardcoreEnderExpansion/sphalerite-0.pngSphalerite
+16

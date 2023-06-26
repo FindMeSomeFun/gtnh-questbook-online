@@ -1,5 +1,10 @@
-993Silky Combs and PropoliCollect silky combs and extract some silk wisp out of it in order to make some Apiarist's clothes.
+Forestry/beeCombs-6.pngSilky Combs and PropoliCollect silky combs and extract some silk wisp out of it in order to make some Apiarist's clothes.
 
 This can take a very long time, so parallelize!
 
-Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and useful) combs you need a GT centrifuge.ANDpreRequgregtech/gt.blockmachines~361Quest Name For 539539Forestry/beePrincessGE~0Quest Name For 992992rewardsItemenhancedlootbags/lootbag~25Item Name1gregtech/gt.metatool.01~28Item Name1Itemdreamcraft/item.CoinBees~0Item Name25tasksANDOptionalForestry/beeCombs~6Forestry/beeCombs~6 Name370RetrievalForestry/propolis~3Forestry/propolis~3 Name305
+Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and useful) combs you need a GT centrifuge.0-1ANDpre5391gregtech/gt.blockmachines-361.png9920Forestry/beePrincessGE-0-Tropical.pngrewardsItemenhancedlootbags/lootbag-25-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1gregtech/gt.metatool.01-28-DamascusSteel-DamascusSteel.pngScoop\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 4.0\nMining Speed: 8.0\nCatches Butterflies on Leftclick
+1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDOptionalForestry/beeCombs-6.pngSilky Comb
+370RetrievalForestry/propolis-3.pngSilky Propolis
+305

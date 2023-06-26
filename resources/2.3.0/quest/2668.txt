@@ -1,4 +1,4 @@
-2668§6§lSomething From NothingVoid Miners are basically the same thing as regular ones, except that they draw from the whole pool of ores for the dimension without there having to be any nearby. In addition, you can speed them up by supplying Neon, Krypton, Xenon, or Oganesson.
+gregtech/gt.blockmachines-12741.png§6§lSomething From NothingVoid Miners are basically the same thing as regular ones, except that they draw from the whole pool of ores for the dimension without there having to be any nearby. In addition, you can speed them up by supplying Neon, Krypton, Xenon, or Oganesson.
 
 You can get Neon reasonably easily from Bartimaeusnek Ore from Ross 128ba. Krypton and Xenon can be produced from centrifuging fuel rods. All three can be produced from the EV liquid air distillation method. Remember you need the Liquid Air Fluid Hatch to actually put in enough liquid air. If you want all the produced gasses from the first 4 slots, you'll need to use the Giant Output Hatch.
 
@@ -6,4 +6,5 @@ To get Oganesson, you'll need mk3 fusion.
 
 All four fluids can be replicated, so you'll probably end up doing that.
 
-§3If you want the Deep Dark's ores, you HAVE to use a Void Miner.ANDpreRequgregtech/gt.blockmachines~17Quest Name For 26102610gregtech/gt.metaitem.01~11329Quest Name For 26582658rewardstasksANDRetrievalgregtech/gt.blockmachines~12741gregtech/gt.blockmachines~12741 Name1
+§3If you want the Deep Dark's ores, you HAVE to use a Void Miner.0-1ANDpre26101gregtech/gt.blockmachines-17.png26581gregtech/gt.metaitem.01-11329.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-12741.pngVoid Miner I\nMachine Type: Miner\nController Block for the Void Miner LuV\nConsumes 32768EU/t\nCan be supplied with 2L/s of Neon(x4), Krypton(x8), Xenon(x16) or Oganesson(x64) for higher outputs.\nWill output 2 Ores per Second depending on the Dimension it is build in\nPut the Ore into the input bus to set the Whitelist/Blacklist\nUse a screwdriver to toggle Whitelist/Blacklist\nBlacklist or non Whitelist Ore will be VOIDED\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: bartimaeusnek via BartWorks
+1

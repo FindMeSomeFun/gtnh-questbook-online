@@ -1,4 +1,4 @@
-77§r§6§l§5§l§o§l§r§6§lEBF-TimeIn order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.
+gregtech/gt.blockmachines-1000.png§r§6§l§5§l§o§l§r§6§lEBF-TimeIn order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.
 
 Getting the Mica for the heating coils might be a little tricky...but you can use a substitute for the first tier of coils.
 
@@ -17,4 +17,17 @@ As you upgrade your EBF over the course of the game, this heat adjustment will i
 This adjustment does not apply to the Volcanus.
 
 §4If the pollution gets really bad, check in GT++ Multiblocks for a pollution scrubber, or upgrade your Muffler.
-ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsChoiceenhancedlootbags/lootbag~4Choice Name3gregtech/gt.metaitem.01~32764Choice Name1Itemdreamcraft/item.CoinTechnician~0Item Name75tasksANDOptionalgregtech/gt.blockcasings~11gregtech/gt.blockcasings~11 Name11Retrievalgregtech/gt.blockmachines~1000gregtech/gt.blockmachines~1000 Name1Optionalgregtech/gt.blockmachines~71gregtech/gt.blockmachines~71 Name1gregtech/gt.blockmachines~81gregtech/gt.blockmachines~81 Name1gregtech/gt.blockmachines~51gregtech/gt.blockmachines~51 Name1Optionalgregtech/gt.blockmachines~90gregtech/gt.blockmachines~90 Name1gregtech/gt.blockmachines~91gregtech/gt.blockmachines~91 Name1Optionalgregtech/gt.blockmachines~41gregtech/gt.blockmachines~41 Name2Optionalgregtech/gt.blockmachines~1341gregtech/gt.blockmachines~1341 Name128Optionalgregtech/gt.blockcasings5~0gregtech/gt.blockcasings5~0 Name16
+1-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+3gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84\nIf you can''t fix it with this, use more of it!
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+75tasksANDOptionalgregtech/gt.blockcasings-11.pngHeat Proof Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+11Retrievalgregtech/gt.blockmachines-1000.pngElectric Blast Furnace\nMachine Type: Blast Furnace\nController block for the Electric Blast Furnace\nYou can use some fluids to reduce recipe time. Place the circuit in the Input Bus\nEach 900K over the min. Heat required reduces power consumption by 5% (multiplicatively)\nEach 1800K over the min. Heat required grants one perfect overclock\nFor each perfect overclock the EBF will reduce recipe time 4 times (instead of 2) (100% efficiency)\nAdditionally gives +100K for every tier past MV\nCauses: 400 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1Optionalgregtech/gt.blockmachines-71.pngInput Bus\nItem Input for Multiblocks\nShift + right click with screwdriver to turn Sort mode on/off\nCapacity: 4 stacks
+1gregtech/gt.blockmachines-81.pngOutput Bus\nItem Output for Multiblocks\nCapacity: 4 stacks
+1gregtech/gt.blockmachines-51.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 16,000L
+1Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-91.pngMuffler Hatch\nOutputs the Pollution (Might cause ... things)\nDO NOT OBSTRUCT THE OUTPUT!\nReduces Pollution to 100%\nRecovers 0% of CO2/CO/SO2
+1Optionalgregtech/gt.blockmachines-41.pngLV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 32 (LV)\nCapacity: 768 EU
+2Optionalgregtech/gt.blockmachines-1341.png2x Cupronickel Wire\nMax Voltage: 128 (MV)\nMax Amperage: 4\nLoss/Meter/Ampere: 6 EU-Volt
+128Optionalgregtech/gt.blockcasings5-0.pngCupronickel Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 1801 Kelvin
+16

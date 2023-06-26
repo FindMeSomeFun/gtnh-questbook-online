@@ -1,3 +1,12 @@
-858Chef TrainingI need some ingredients to help me train since they don't grow well where I am, could you provide some? I'll give you the results in return.
+harvestcraft/market-0.pngChef TrainingI need some ingredients to help me train since they don't grow well where I am, could you provide some? I'll give you the results in return.
 
-§3You only need to turn in one set each time you complete the quest.ANDpreRequharvestcraft/potItem~0Quest Name For 665665rewardsItemenhancedlootbags/lootbag~28Item Name1tasksORRetrievalharvestcraft/ryeItem~0harvestcraft/ryeItem~0 Name64Retrievalharvestcraft/cornItem~0harvestcraft/cornItem~0 Name64Retrievalharvestcraft/cucumberItem~0harvestcraft/cucumberItem~0 Name64Retrievalharvestcraft/turnipItem~0harvestcraft/turnipItem~0 Name64Retrievalharvestcraft/celeryItem~0harvestcraft/celeryItem~0 Name64Retrievalharvestcraft/beetItem~0harvestcraft/beetItem~0 Name64Retrievalharvestcraft/tomatoItem~0harvestcraft/tomatoItem~0 Name64Retrievalharvestcraft/gingerItem~0harvestcraft/gingerItem~0 Name64
+§3You only need to turn in one set each time you complete the quest.00ANDpre6650harvestcraft/potItem-0.pngrewardsItemenhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1tasksORConsumeharvestcraft/ryeItem-0.pngRye\nharvestcraft:ryeItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/cornItem-0.pngCorn\nharvestcraft:cornItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/cucumberItem-0.pngCucumber\nharvestcraft:cucumberItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/turnipItem-0.pngTurnip\nharvestcraft:turnipItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/celeryItem-0.pngCelery\nharvestcraft:celeryItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/beetItem-0.pngBeet\nharvestcraft:beetItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/tomatoItem-0.pngTomato\nharvestcraft:tomatoItem\nDiminishing returns start after\neating any food 10 more times
+64Consumeharvestcraft/gingerItem-0.pngGinger\nharvestcraft:gingerItem\nDiminishing returns start after\neating any food 10 more times
+64

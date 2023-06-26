@@ -1,1 +1,10 @@
-2293§b§a§9§lNitrogen TetroxideTo make Nitrogen Tetroxide you need to combine some Copper Dust and Nitric Acid along with an Orange Metal Catalyst in a Chemical Plant. It needs Palladium, so make sure you have some.ANDpreRequgregtech/gt.metaitem.01~30653Quest Name For 851851miscutils/RocketFuelMixC~0Quest Name For 26882688gregtech/gt.metaitem.01~2052Quest Name For 28782878rewardsChoicegregtech/gt.metaitem.01~30653Choice Name16IC2/itemCellEmpty~0Choice Name16enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinChemistI~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~2035gregtech/gt.metaitem.01~2035 Name2gregtech/gt.metaitem.01~30653gregtech/gt.metaitem.01~30653 Name4miscutils/item.BasicGenericChemItem~3miscutils/item.BasicGenericChemItem~3 Name1Optionalmiscutils/NitrogenTetroxide~0miscutils/NitrogenTetroxide~0 Name2Checkboxcheckbox  
+miscutils/NitrogenTetroxide-0.png§b§a§9§lNitrogen TetroxideTo make Nitrogen Tetroxide you need to combine some Copper Dust and Nitric Acid along with an Orange Metal Catalyst in a Chemical Plant. It needs Palladium, so make sure you have some.0-1ANDpre8511gregtech/gt.metaitem.01-30653.png26881miscutils/RocketFuelMixC-0.png28781gregtech/gt.metaitem.01-2052.pngrewardsChoicegregtech/gt.metaitem.01-30653.pngNitric Acid Cell\nHNO\u2083
+16IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dust\nCu
+2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell\nHNO\u2083
+4miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst\nActive Reaction Agent\n50 / 50
+1Optionalmiscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cell
+2Checkboxcheckbox-.pngCheckbox
+1

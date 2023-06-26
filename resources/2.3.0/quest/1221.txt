@@ -1,3 +1,8 @@
-1221§9§lAdvanced Circuit AssemblerEV circuits need an MV Circuit Assembler, so make one.
+gregtech/gt.blockmachines-1181.png§9§lAdvanced Circuit AssemblerEV circuits need an MV Circuit Assembler, so make one.
 
-§y§3Shortly after this, all circuit recipes will need a cleanroom, so get started on it!ANDpreRequgregtech/gt.blockmachines~13Quest Name For 160160gregtech/gt.metaitem.01~32681Quest Name For 14781478rewardsChoicegregtech/gt.metaitem.99~874Choice Name8gregtech/gt.metaitem.01~30718Choice Name8enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.blockmachines~1181gregtech/gt.blockmachines~1181 Name1
+§y§3Shortly after this, all circuit recipes will need a cleanroom, so get started on it!1-1ANDpre1601gregtech/gt.blockmachines-13.png14781gregtech/gt.metaitem.01-32681.pngrewardsChoicegregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell\nCH\u2082
+8gregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell\nNa\u2082S\u2082O\u2088
+8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-1181.pngAdvanced Circuit Assembler\nPick-n-Place all over the place\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1

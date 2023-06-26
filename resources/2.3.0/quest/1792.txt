@@ -1,3 +1,5 @@
-1792§5§lI Guess it's an Inkjet?When you use the seismic prospector, you'll need a scanner and a printer to create the books full of tasty ores and delicious fluids.
+gregtech/gt.blockmachines-321.png§5§lI Guess it's an Inkjet?When you use the seismic prospector, you'll need a scanner and a printer to create the books full of tasty ores and delicious fluids.
 
-Use ink sacs in a fluid extractor to get squid ink. Then move it using pipes or cells.ANDpreRequgregtech/gt.blockmachines~2102Quest Name For 767767rewardsItemminecraft/dye~0Item Name16tasksANDRetrievalgregtech/gt.blockmachines~321gregtech/gt.blockmachines~321 Name1
+Use ink sacs in a fluid extractor to get squid ink. Then move it using pipes or cells.0-1ANDpre7670gregtech/gt.blockmachines-2102.pngrewardsItemminecraft/dye-0.pngInk Sac
+16tasksANDRetrievalgregtech/gt.blockmachines-321.pngBasic Printer\nIt can copy Books and paint Stuff\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
+1

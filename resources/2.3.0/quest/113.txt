@@ -1,1 +1,4 @@
-113§5§lBasic Transport PipeThese pipes are rather simple and won't do anything on their own. But in combination with transfer nodes, you'll soon find out how great they are.ANDpreRequgregtech/gt.blockmachines~1120Quest Name For 8888rewardsItemExtraUtilities/pipes~0Item Name4Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDRetrievalExtraUtilities/pipes~0ExtraUtilities/pipes~0 Name8
+ExtraUtilities/pipes-0.png§5§lBasic Transport PipeThese pipes are rather simple and won't do anything on their own. But in combination with transfer nodes, you'll soon find out how great they are.0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemExtraUtilities/pipes-0.pngTransfer Pipe
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalExtraUtilities/pipes-0.pngTransfer Pipe
+8

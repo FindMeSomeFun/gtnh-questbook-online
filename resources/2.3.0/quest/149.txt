@@ -1,1 +1,3 @@
-149§6§lFire WaterToo bad, you can't drink it. When used in the Combustion Generator, it will produce 80 RF/t.ANDpreRequEnderIO/blockVat~0Quest Name For 142142rewardsItemdreamcraft/item.CoinChemist~0Item Name25tasksANDRetrievalEnderIO/bucketFire_water~0EnderIO/bucketFire_water~0 Name1
+EnderIO/bucketFire_water-0.png§6§lFire WaterToo bad, you can't drink it. When used in the Combustion Generator, it will produce 80 RF/t.0-1ANDpre1420EnderIO/blockVat-0.pngrewardsItemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalEnderIO/bucketFire_water-0.pngFire Water Bucket
+1

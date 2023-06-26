@@ -1,4 +1,4 @@
-3074§a§lPower of the Sun from NuclearYour good old singleblock Molecular Transformer is gone. So how to obtain Sunnarium? Well there are couple of ways, but at EV you'll need to radiate Glowstone and convert to Sunnarium.
+gregtech/gt.sunnariumCell-0.png§a§lPower of the Sun from NuclearYour good old singleblock Molecular Transformer is gone. So how to obtain Sunnarium? Well there are couple of ways, but at EV you'll need to radiate Glowstone and convert to Sunnarium.
 
 The Glowstone rod will slowly charge up if you put it next to any fuel rod in your IC2 reactor. The exact charging speed is `(number of rods adjacent) * (floor(hull temperature/3000) + 1)` per second. A dual rod will count as 2 rods and quad fuel rod will count as 4 rods for this purpose. The Glowstone rod will neither emit heat, nor cause other component to emit more heat. You can treat this rod as a reactor plating in the IC2 Reactor Planner.
 
@@ -6,4 +6,10 @@ As you can see, the speed is directly proportional to hull temperature and rods 
 
 erp=bpO50cpsdtJElVqn4hObFJc0tiOE0JpEHYpqTxJHvyezjSKRjUuwgouXzNOlU4a3hFBRygM=
 
-Replace Containment Reactor Plating with actual Glowstone rods and you should be good to go. You can also use fewer reactor chambers by using less plating. Enjoy!ANDpreRequIC2/blockGenerator~5Quest Name For 190190rewardsChoiceAdvancedSolarPanel/asp_crafting_items~9Choice Name1enhancedlootbags/lootbag~7Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDRetrievalgregtech/gt.glowstoneCell~0gregtech/gt.glowstoneCell~0 Name1Retrievalgregtech/gt.sunnariumCell~0gregtech/gt.sunnariumCell~0 Name1Retrievalgregtech/gt.metaitem.01~2318gregtech/gt.metaitem.01~2318 Name1
+Replace Containment Reactor Plating with actual Glowstone rods and you should be good to go. You can also use fewer reactor chambers by using less plating. Enjoy!0-1ANDpre1900IC2/blockGenerator-5.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
+1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.glowstoneCell-0.pngGlowstone Fuel Rod\n10000 / 10000\nSource of sunnarium\nBath with neutron in a hot reactor\nProgress: 0/10,000
+1Retrievalgregtech/gt.sunnariumCell-0.pngSunnarium Fuel Rod\n100 / 100\nDurability: 1/1
+1Retrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dust\nSu
+1

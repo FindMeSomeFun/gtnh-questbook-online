@@ -1,1 +1,10 @@
-1670§b§lNaquadah Doped Monocrystalline SiliconTo make more advanced wafers, you need to make the naquadah dopped monocrystalline silicon first. The process takes 750 seconds and requires silicon solar grade blocks, a naquadah ingot and a gallium arsenice crystal in the Electric Blast Furnace. You can make 64 wafers out of every boule.ANDpreRequgregtech/gt.metaitem.01~11324Quest Name For 16671667rewardsChoicegregtech/gt.blockmetal9~1Choice Name4gregtech/gt.metaitem.01~2324Choice Name8enhancedlootbags/lootbag~8Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name5tasksANDOptionalgregtech/gt.metaitem.01~30024gregtech/gt.metaitem.01~30024 Name32gregtech/gt.blockmetal9~1gregtech/gt.blockmetal9~1 Name64gregtech/gt.metaitem.01~11324gregtech/gt.metaitem.01~11324 Name4gregtech/gt.metaitem.03~32190gregtech/gt.metaitem.03~32190 Name4Retrievalgregtech/gt.metaitem.03~32032gregtech/gt.metaitem.03~32032 Name4
+gregtech/gt.metaitem.03-32032.png§b§lNaquadah Doped Monocrystalline SiliconTo make more advanced wafers, you need to make the naquadah dopped monocrystalline silicon first. The process takes 750 seconds and requires silicon solar grade blocks, a naquadah ingot and a gallium arsenice crystal in the Electric Blast Furnace. You can make 64 wafers out of every boule.1-1ANDpre16671gregtech/gt.metaitem.01-11324.pngrewardsChoicegregtech/gt.blockmetal9-1.pngBlock of Silicon Solar Grade
+4gregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+8enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-30024.pngArgon Cell\nAr
+32gregtech/gt.blockmetal9-1.pngBlock of Silicon Solar Grade
+64gregtech/gt.metaitem.01-11324.pngNaquadah Ingot\nNq
+4gregtech/gt.metaitem.03-32190.pngGallium Arsenide Crystal\nFor making boules
+4Retrievalgregtech/gt.metaitem.03-32032.pngNaquadah doped Monocrystalline Silicon Boule\nRaw Circuit
+4

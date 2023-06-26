@@ -1,1 +1,2 @@
-2625ZPM AssemblerLike previous tiers, you need a same-tier assembler to make the energy hatch. It's also used to make the Naquadah Alloy Coils.ANDpreRequgregtech/gt.metaitem.01~32656Quest Name For 26112611rewardstasksANDRetrievalgregtech/gt.blockmachines~10781gregtech/gt.blockmachines~10781 Name1
+gregtech/gt.blockmachines-10781.pngZPM AssemblerLike previous tiers, you need a same-tier assembler to make the energy hatch. It's also used to make the Naquadah Alloy Coils.1-1ANDpre26111gregtech/gt.metaitem.01-32656.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10781.pngElite Assembling Machine II\nAvengers, Assemble!\nVoltage IN: 131,072 (ZPM)\nCapacity: 8,388,608 EU
+1

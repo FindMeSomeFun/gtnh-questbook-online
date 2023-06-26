@@ -1,1 +1,5 @@
-2513Exporting Essentia From the NetworkDoes exactly what it says. But you probably won't need it much, if at all.ANDpreRequae2fc/part_fluid_export~0Quest Name For 12591259rewardsItemenhancedlootbags/lootbag~37Item Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name2dreamcraft/item.CoinDarkWizardII~0Item Name2tasksANDRetrievalthaumicenergistics/part.base~3thaumicenergistics/part.base~3 Name1
+thaumicenergistics/part.base-3.pngExporting Essentia From the NetworkDoes exactly what it says. But you probably won't need it much, if at all.0-1ANDpre12590ae2fc/part_fluid_export-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalthaumicenergistics/part.base-3.pngEssentia Export Bus
+1

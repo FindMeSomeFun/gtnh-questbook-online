@@ -1,1 +1,7 @@
-2449§a§lPolyphenylene SulfideCombine Dichlorobenzene with Sodium Sulfide and Oxygen to get Polyphenylene Sulfide.ANDpreRequgregtech/gt.metaitem.01~2719Quest Name For 16521652gregtech/gt.metaitem.01~30632Quest Name For 24482448rewardsItemenhancedlootbags/lootbag~7Item Name1Itemdreamcraft/item.CoinChemistII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~30632gregtech/gt.metaitem.01~30632 Name12gregtech/gt.metaitem.01~2719gregtech/gt.metaitem.01~2719 Name36gregtech/gt.metaitem.01~30013gregtech/gt.metaitem.01~30013 Name96Retrievalgregtech/gt.metaitem.01~17631gregtech/gt.metaitem.01~17631 Name125
+gregtech/gt.metaitem.01-17631.png§a§lPolyphenylene SulfideCombine Dichlorobenzene with Sodium Sulfide and Oxygen to get Polyphenylene Sulfide.1-1ANDpre16521gregtech/gt.metaitem.01-2719.png24481gregtech/gt.metaitem.01-30632.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-30632.pngDichlorobenzene Cell\nC\u2086H\u2084Cl\u2082
+12gregtech/gt.metaitem.01-2719.pngSodium Sulfide Dust\nNa\u2082S
+36gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+96Retrievalgregtech/gt.metaitem.01-17631.pngPolyphenylene Sulfide Plate\nC\u2086H\u2084S
+125

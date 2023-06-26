@@ -1,1 +1,9 @@
-139Luke, I'm Your FatherWith that dark steel you got, you may now craft yourself a new set of armor. While pretty basic at first, it can be upgraded later to unlock powerful features.ANDpreRequEnderIO/itemAlloy~6Quest Name For 138138IC2/itemArmorAlloyChestplate~0Quest Name For 692692rewardsChoiceenhancedlootbags/lootbag~5Choice Name1gregtech/gt.metaitem.01~11364Choice Name4Itemdreamcraft/item.CoinSmith~0Item Name25dreamcraft/item.CoinSurvivor~0Item Name25tasksANDRetrievalEnderIO/item.darkSteel_helmet~0EnderIO/item.darkSteel_helmet~0 Name1EnderIO/item.darkSteel_chestplate~0EnderIO/item.darkSteel_chestplate~0 Name1EnderIO/item.darkSteel_leggings~0EnderIO/item.darkSteel_leggings~0 Name1EnderIO/item.darkSteel_boots~0EnderIO/item.darkSteel_boots~0 Name1
+EnderIO/item.darkSteel_helmet-0.pngLuke, I'm Your FatherWith that dark steel you got, you may now craft yourself a new set of armor. While pretty basic at first, it can be upgraded later to unlock powerful features.0-1ANDpre1380EnderIO/itemAlloy-6.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1gregtech/gt.metaitem.01-11364.pngDark Steel Ingot\n((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
+4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDRetrievalEnderIO/item.darkSteel_helmet-0.pngDark Helm\nProtection: 2\nDurability: 385/385
+1EnderIO/item.darkSteel_chestplate-0.pngDark Plate\nProtection: 6\nDurability: 560/560
+1EnderIO/item.darkSteel_leggings-0.pngDark Leggings\nProtection: 5\nDurability: 525/525
+1EnderIO/item.darkSteel_boots-0.pngDark Boots\nProtection: 2\nDurability: 455/455
+1

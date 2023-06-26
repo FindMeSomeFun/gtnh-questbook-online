@@ -1,3 +1,8 @@
-727§1§2§lBetter Than BarrelsWhile barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot).
+StorageDrawers/fullDrawers1-0.png§1§2§lBetter Than BarrelsWhile barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot).
 
-Just watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only access the contents from the front (automation can use any side). ANDpreRequgregtech/gt.metatool.01~16Quest Name For 3636rewardsItemharvestcraft/butteredpotatoItem~0Item Name2Itemdreamcraft/item.CoinTechnician~0Item Name5tasksANDCraftingStorageDrawers/fullDrawers1~0StorageDrawers/fullDrawers1~0 Name4StorageDrawers/fullDrawers2~0StorageDrawers/fullDrawers2~0 Name4StorageDrawers/fullDrawers4~0StorageDrawers/fullDrawers4~0 Name4
+Just watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only access the contents from the front (automation can use any side). 0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemharvestcraft/butteredpotatoItem-0.pngButtered Potato\nharvestcraft:butteredpotatoItem\nDiminishing returns start after\neating any food 10 more times
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDCraftingStorageDrawers/fullDrawers1-0.pngOak Drawer\nHolds 64 stacks per drawer\nBurn Time: 300
+4StorageDrawers/fullDrawers2-0.pngOak Drawers 1x2\nHolds 32 stacks per drawer\nBurn Time: 300
+4StorageDrawers/fullDrawers4-0.pngOak Drawers 2x2\nHolds 16 stacks per drawer\nBurn Time: 300
+4

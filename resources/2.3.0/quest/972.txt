@@ -1,1 +1,4 @@
-972OilWant some oil? Buy some!ANDpreRequBuildCraftEnergy/blockOil~0Quest Name For 546546gregtech/gt.blockmachines~12Quest Name For 11481148rewardsItemgregtech/gt.metaitem.01~30707Item Name16tasksANDRetrievalIC2/itemCellEmpty~0IC2/itemCellEmpty~0 Name16dreamcraft/item.CoinChemistI~0dreamcraft/item.CoinChemistI~0 Name5
+gregtech/gt.metaitem.01-30707.pngOilWant some oil? Buy some!024000ANDpre5461BuildCraftEnergy/blockOil-0.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5

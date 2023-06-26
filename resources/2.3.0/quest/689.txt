@@ -1,1 +1,11 @@
-689"Ooo, Shiny" ArmorDiamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available.ANDpreRequgregtech/gt.blockmachines~251Quest Name For 102102rewardsChoiceTConstruct/diamondApple~0Choice Name1gregtech/gt.metaitem.02~29500Choice Name2enhancedlootbags/lootbag~4Choice Name1Itemdreamcraft/item.CoinSmith~0Item Name10dreamcraft/item.CoinSurvivor~0Item Name10tasksANDOptionalgregtech/gt.metaitem.01~17500gregtech/gt.metaitem.01~17500 Name24Craftingminecraft/diamond_helmet~0minecraft/diamond_helmet~0 Name1minecraft/diamond_chestplate~0minecraft/diamond_chestplate~0 Name1minecraft/diamond_leggings~0minecraft/diamond_leggings~0 Name1minecraft/diamond_boots~0minecraft/diamond_boots~0 Name1
+minecraft/diamond_chestplate-0.png"Ooo, Shiny" ArmorDiamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available.0-1ANDpre1021gregtech/gt.blockmachines-251.pngrewardsChoiceTConstruct/diamondApple-0.pngJeweled Apple\nTConstruct:diamondApple\nDiminishing returns start after\neating any food 10 more times
+1gregtech/gt.metaitem.02-29500.pngFlawless Diamond\nC
+2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+24Craftingminecraft/diamond_helmet-0.pngDiamond Helmet\nProtection: 3\nDurability: 363/363
+1minecraft/diamond_chestplate-0.pngDiamond Chestplate\nProtection: 8\nDurability: 528/528
+1minecraft/diamond_leggings-0.pngDiamond Leggings\nProtection: 6\nDurability: 495/495
+1minecraft/diamond_boots-0.pngDiamond Boots\nProtection: 3\nDurability: 429/429
+1

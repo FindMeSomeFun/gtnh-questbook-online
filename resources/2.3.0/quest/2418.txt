@@ -1,4 +1,4 @@
-2418The Easy Way to Change BiomesSo you want the easy way? Ok, go get this stuff:
+witchery/brewbottle-0-splash.pngThe Easy Way to Change BiomesSo you want the easy way? Ok, go get this stuff:
 Mandrake Root, Nether Wart, Tear of the Goddess, Diamond Vapor, and a Diamond.
 
 Then toss it in the Witch's Cauldron IN ORDER, before also tossing in a page from the Book of Biomes (Extended) (craft it with a piece of paper while on the page of the biome you want), followed by a bit of Gunpowder.
@@ -8,4 +8,16 @@ If it failed, you may not have enough Altar Power, you need 5450 at least. Try p
 
 If you want to have more than a single changed block, then add Glowstone Dust, Blaze Rod and Attuned Stone (Charged) in order to increase the effect (and Altar Power cost slightly) by +1 for each. Do this before adding in the page.
 
-For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. This should tell you what you need to know. For what each of the brews actually does, see the Effects page. Only Effects use Capacity, and you can have multiple.ANDpreRequwitchery/biomenote~0Quest Name For 24172417rewardsItemwitchery/ingredient~22Item Name8minecraft/nether_wart~0Item Name8witchery/ingredient~37Item Name8witchery/ingredient~29Item Name8minecraft/diamond~0Item Name8enhancedlootbags/lootbag~53Item Name1Itemdreamcraft/item.CoinWitchII~0Item Name1tasksANDRetrievalwitchery/ingredient~22witchery/ingredient~22 Name1minecraft/nether_wart~0minecraft/nether_wart~0 Name1witchery/ingredient~37witchery/ingredient~37 Name1witchery/ingredient~29witchery/ingredient~29 Name1minecraft/diamond~0minecraft/diamond~0 Name1
+For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. This should tell you what you need to know. For what each of the brews actually does, see the Effects page. Only Effects use Capacity, and you can have multiple.0-1ANDpre24170witchery/biomenote-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Root
+8minecraft/nether_wart-0.pngNether Wart
+8witchery/ingredient-37.pngTear of the Goddess
+8witchery/ingredient-29.pngDiamond Vapor
+8minecraft/diamond-0.pngDiamond\nBurn Time: 102400
+8enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDRetrievalwitchery/ingredient-22.pngMandrake Root
+1minecraft/nether_wart-0.pngNether Wart
+1witchery/ingredient-37.pngTear of the Goddess
+1witchery/ingredient-29.pngDiamond Vapor
+1minecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1

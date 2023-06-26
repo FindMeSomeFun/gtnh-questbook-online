@@ -1,3 +1,26 @@
-686Leather ArmorKilling some cows will give you enough leather to craft a complete set of leather armor. 
+minecraft/leather_chestplate-0.pngLeather ArmorKilling some cows will give you enough leather to craft a complete set of leather armor. 
 
-Hint: You are able to dye this armor.ORpreRequminecraft/leather~0Quest Name For 4242rewardsChoiceminecraft/dye~0Choice Name8minecraft/dye~1Choice Name8minecraft/dye~2Choice Name8minecraft/dye~3Choice Name8minecraft/dye~4Choice Name8minecraft/dye~5Choice Name8minecraft/dye~6Choice Name8minecraft/dye~7Choice Name8minecraft/dye~8Choice Name8minecraft/dye~9Choice Name8minecraft/dye~10Choice Name8minecraft/dye~11Choice Name8minecraft/dye~12Choice Name8minecraft/dye~13Choice Name8minecraft/dye~14Choice Name8minecraft/dye~15Choice Name8Itemdreamcraft/item.CoinSmith~0Item Name5dreamcraft/item.CoinSurvivor~0Item Name5tasksANDOptionalminecraft/leather~0minecraft/leather~0 Name24Craftingminecraft/leather_helmet~0minecraft/leather_helmet~0 Name1minecraft/leather_chestplate~0minecraft/leather_chestplate~0 Name1minecraft/leather_leggings~0minecraft/leather_leggings~0 Name1minecraft/leather_boots~0minecraft/leather_boots~0 Name1
+Hint: You are able to dye this armor.0-1ORpre421minecraft/leather-0.pngrewardsChoiceminecraft/dye-0.pngInk Sac
+8minecraft/dye-1.pngRose Red
+8minecraft/dye-2.pngCactus Green
+8minecraft/dye-3.pngCocoa Beans
+8minecraft/dye-4.pngLapis Lazuli
+8minecraft/dye-5.pngPurple Dye
+8minecraft/dye-6.pngCyan Dye
+8minecraft/dye-7.pngLight Gray Dye
+8minecraft/dye-8.pngGray Dye
+8minecraft/dye-9.pngPink Dye
+8minecraft/dye-10.pngLime Dye
+8minecraft/dye-11.pngDandelion Yellow
+8minecraft/dye-12.pngLight Blue Dye
+8minecraft/dye-13.pngMagenta Dye
+8minecraft/dye-14.pngOrange Dye
+8minecraft/dye-15.pngBone Meal
+8Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+5tasksANDOptionalminecraft/leather-0.pngLeather
+24Craftingminecraft/leather_helmet-0.pngLeather Cap\nProtection: 1\nDurability: 55/55
+1minecraft/leather_chestplate-0.pngLeather Tunic\nProtection: 3\nDurability: 80/80
+1minecraft/leather_leggings-0.pngLeather Pants\nProtection: 2\nDurability: 75/75
+1minecraft/leather_boots-0.pngLeather Boots\nProtection: 1\nDurability: 65/65
+1

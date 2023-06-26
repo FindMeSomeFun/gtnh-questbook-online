@@ -1,1 +1,12 @@
-1532Tier 4 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 13 tier 4 heavy duty plates out of tier 3 plates and compressed ice plates.ANDpreRequGalaxySpace/ceresblocks~2Quest Name For 15301530gregtech/gt.blockores~389Quest Name For 15331533gregtech/gt.blockores~390Quest Name For 15341534rewardsChoiceGalacticraftMars/item.itemBasicAsteroids~0Choice Name6dreamcraft/item.IceCompressedPlate~0Choice Name12IC2/blockITNT~0Choice Name128enhancedlootbags/lootbag~8Choice Name2Itemdreamcraft/item.CoinSpaceIII~0Item Name1dreamcraft/item.CoinTechnicianIII~0Item Name1tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids~0GalacticraftMars/item.itemBasicAsteroids~0 Name13dreamcraft/item.IceCompressedPlate~0dreamcraft/item.IceCompressedPlate~0 Name78bartworks/gt.bwMetaGeneratedbolt~90bartworks/gt.bwMetaGeneratedbolt~90 Name52Optionaldreamcraft/item.HeavyDutyAlloyIngotT4~0dreamcraft/item.HeavyDutyAlloyIngotT4~0 Name13Retrievaldreamcraft/item.HeavyDutyPlateTier4~0dreamcraft/item.HeavyDutyPlateTier4~0 Name13
+dreamcraft/item.HeavyDutyPlateTier4-0.pngTier 4 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 13 tier 4 heavy duty plates out of tier 3 plates and compressed ice plates.1-1ANDpre15301GalaxySpace/ceresblocks-2.png15331gregtech/gt.blockores-389.png15340gregtech/gt.blockores-390.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+6dreamcraft/item.IceCompressedPlate-0.pngCompressed Ice Plate
+12IC2/blockITNT-0.pngIndustrial TNT
+128enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+2Itemdreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+13dreamcraft/item.IceCompressedPlate-0.pngCompressed Ice Plate
+78bartworks/gt.bwMetaGeneratedbolt-90.pngRuridit Bolt\nRu\u2082Ir\nAdded by BartWorks
+52Optionaldreamcraft/item.HeavyDutyAlloyIngotT4-0.pngHeavy Duty Alloy Ingot T4
+13Retrievaldreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
+13

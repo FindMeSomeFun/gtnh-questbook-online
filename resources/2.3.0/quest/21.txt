@@ -1,1 +1,7 @@
-21§2§lClay: The GatheringWhile bored, you thought that it might be a good idea to take up pottery. You should go and find some clay, the riverbanks should have some.ANDpreRequSpiceOfLife/lunchbag~0Quest Name For 1515rewardsItemminecraft/clay_ball~0Item Name10Choiceminecraft/clay_ball~0Choice Name16gregtech/gt.metaitem.02~32233Choice Name2enhancedlootbags/lootbag~1Choice Name1Itemdreamcraft/item.CoinAdventure~0Item Name10tasksANDRetrievalminecraft/clay_ball~0minecraft/clay_ball~0 Name128
+minecraft/clay_ball-0.png§2§lClay: The GatheringWhile bored, you thought that it might be a good idea to take up pottery. You should go and find some clay, the riverbanks should have some.1-1ANDpre151SpiceOfLife/lunchbag-0.pngrewardsItemminecraft/clay_ball-0.pngClay
+10Choiceminecraft/clay_ball-0.pngClay
+16gregtech/gt.metaitem.02-32233.pngBacon Sandwich\ngregtech:gt.metaitem.02\nThe best Sandwich ever!\nDiminishing returns start after\neating any food 10 more times
+2enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10tasksANDRetrievalminecraft/clay_ball-0.pngClay
+128

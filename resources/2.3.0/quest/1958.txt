@@ -1,5 +1,11 @@
-195880 New Colors to Play WithWhen you plant a vanilla flower, it is already mature. Cut it with a shears to get a germling you can replant to make more. Break the flower to get a mature flower. Turn the flower into pigment using a crafting table.
+Botany/pigment-0.png80 New Colors to Play WithWhen you plant a vanilla flower, it is already mature. Cut it with a shears to get a germling you can replant to make more. Break the flower to get a mature flower. Turn the flower into pigment using a crafting table.
 
 To get crosses, plant flowers next to empty soil blocks. Keep an eye out for weeds. Eventually a small germling will start growing.
 
-Remember, do this underground or in an enclosure or your TPS will regret it.ANDpreRequBotany/misc~7Quest Name For 19561956rewardsChoiceBotany/pigment~1Choice Name8Botany/pigment~2Choice Name8Botany/pigment~11Choice Name8Botany/pigment~75Choice Name8tasksANDRetrievalBotany/pigment~59Botany/pigment~59 Name4Botany/pigment~78Botany/pigment~78 Name4
+Remember, do this underground or in an enclosure or your TPS will regret it.0-1ANDpre19560Botany/misc-7.pngrewardsChoiceBotany/pigment-1.pngPigment\nBlack
+8Botany/pigment-2.pngPigment\nDeep Blue
+8Botany/pigment-11.pngPigment\nDark Green
+8Botany/pigment-75.pngPigment\nMauve
+8tasksANDRetrievalBotany/pigment-59.pngPigment\nRed
+4Botany/pigment-78.pngPigment\nYellow
+4

@@ -1,1 +1,7 @@
-394§a§k§r§a§lGrapheneFor IV motors you will need Graphene. Graphene is a material that is just one atom layer thick. It has very favourable electric properties. To create though you will have to make some Graphene you can use a powerful adhesive to pull a single layer of material away from Graphite.ANDpreRequgregtech/gt.metaitem.01~30567Quest Name For 459459gregtech/gt.blockmachines~214Quest Name For 14061406rewardsItemenhancedlootbags/lootbag~7Item Name1dreamcraft/item.CoinChemistII~0Item Name2tasksANDOptionalgregtech/gt.metaitem.01~2865gregtech/gt.metaitem.01~2865 Name128gregtech/gt.metaitem.03~32034gregtech/gt.metaitem.03~32034 Name64gregtech/gt.metaitem.01~30567gregtech/gt.metaitem.01~30567 Name1Retrievalgregtech/gt.metaitem.01~2819gregtech/gt.metaitem.01~2819 Name128
+gregtech/gt.metaitem.01-2819.png§a§k§r§a§lGrapheneFor IV motors you will need Graphene. Graphene is a material that is just one atom layer thick. It has very favourable electric properties. To create though you will have to make some Graphene you can use a powerful adhesive to pull a single layer of material away from Graphite.1-1ANDpre4591gregtech/gt.metaitem.01-30567.png14061gregtech/gt.blockmachines-214.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-2865.pngGraphite Dust\nC
+128gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
+64gregtech/gt.metaitem.01-30567.pngAdvanced Glue Cell\nA chemically approved glue!
+1Retrievalgregtech/gt.metaitem.01-2819.pngGraphene Dust\nC
+128

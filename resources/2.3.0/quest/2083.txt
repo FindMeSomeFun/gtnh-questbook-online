@@ -1,5 +1,9 @@
-2083Such Pretty Leaves...Now that you have entered MV you can begin breeding Forestry trees the smart way. Start by getting a Treealyzer, and scan the vanilla trees. They will transform into the forestry versions. You will need to gather honey or honeydew drops from bee combs to power the Treealyzer. 
+Forestry/treealyzer-0.pngSuch Pretty Leaves...Now that you have entered MV you can begin breeding Forestry trees the smart way. Start by getting a Treealyzer, and scan the vanilla trees. They will transform into the forestry versions. You will need to gather honey or honeydew drops from bee combs to power the Treealyzer. 
 
 If you want to bulk scan saplings, you can feed them through a GT scanner filled with honey.
 
-You can also try the Genetics mod to modify them. It's on the first bee tab.ANDpreRequgregtech/gt.metaitem.01~11019Quest Name For 103103Forestry/factory~1Quest Name For 578578rewardsItemenhancedlootbags/lootbag~19Item Name1Forestry/honeyDrop~0Item Name64Itemdreamcraft/item.CoinForestry~0Item Name15tasksANDRetrievalForestry/treealyzer~0Forestry/treealyzer~0 Name1
+You can also try the Genetics mod to modify them. It's on the first bee tab.0-1ANDpre1031gregtech/gt.metaitem.01-11019.png5780Forestry/factory-1.pngrewardsItemenhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Forestry/honeyDrop-0.pngHoney Drop
+64Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDRetrievalForestry/treealyzer-0.pngTreealyzer
+1

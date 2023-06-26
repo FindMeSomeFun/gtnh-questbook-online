@@ -1,1 +1,11 @@
-1440Oxygen Bubble DistributerThe Oxygen Bubble Distributor takes oxygen from the Oxygen Collector, and makes an oxygen bubble providing an area to safely breathe in without needing Oxygen Gear. The bubble is a sphere surrounding the distributor and will go through walls (or any block). Alternatively, you can use an Oxygen Sealer (which needs compressed Desh Plates) to contain oxygen inside a room.ANDpreRequGalacticraftCore/item.spaceship~0Quest Name For 810810rewardsChoiceGalacticraftCore/tile.oxygenPipe~0Choice Name6minecraft/leaves~0Choice Name512enhancedlootbags/lootbag~6Choice Name1Itemdreamcraft/item.CoinTechnicianII~0Item Name1tasksANDOptionalGalacticraftCore/item.basicItem~9GalacticraftCore/item.basicItem~9 Name2GalacticraftCore/item.basicItem~8GalacticraftCore/item.basicItem~8 Name2gregtech/gt.metaitem.01~32602gregtech/gt.metaitem.01~32602 Name1GalacticraftCore/item.airVent~0GalacticraftCore/item.airVent~0 Name2GalacticraftCore/item.airFan~0GalacticraftCore/item.airFan~0 Name2RetrievalGalacticraftCore/tile.distributor~0GalacticraftCore/tile.distributor~0 Name1
+GalacticraftCore/tile.distributor-0.pngOxygen Bubble DistributerThe Oxygen Bubble Distributor takes oxygen from the Oxygen Collector, and makes an oxygen bubble providing an area to safely breathe in without needing Oxygen Gear. The bubble is a sphere surrounding the distributor and will go through walls (or any block). Alternatively, you can use an Oxygen Sealer (which needs compressed Desh Plates) to contain oxygen inside a room.0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+6minecraft/leaves-0.pngOak Leaves
+512enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
+2GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
+2gregtech/gt.metaitem.01-32602.pngElectric Motor
+1GalacticraftCore/item.airVent-0.pngOxygen Vent
+2GalacticraftCore/item.airFan-0.pngOxygen Fan
+2RetrievalGalacticraftCore/tile.distributor-0.pngOxygen Bubble Distributor\nPower required: 30 EU /s
+1

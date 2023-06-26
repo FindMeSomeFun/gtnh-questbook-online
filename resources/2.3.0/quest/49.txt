@@ -1,3 +1,15 @@
-49§3§lThe Hell is That?In order to get more machines, you'll need pistons. But not those amateurish ones, you need special ones, and I shall guide you in the making of them.
+minecraft/piston-0.png§3§lThe Hell is That?In order to get more machines, you'll need pistons. But not those amateurish ones, you need special ones, and I shall guide you in the making of them.
 
-§3PS: Infernals can drop them, though you won't get credit for the quest that way.ANDpreRequgregtech/gt.metatool.01~26Quest Name For 493493rewardsItemCarpentersBlocks/blockCarpentersBlock~0Item Name6Choiceminecraft/sticky_piston~0Choice Name2minecraft/piston~0Choice Name2Itemdreamcraft/item.CoinTechnician~0Item Name15tasksANDOptionalgregtech/gt.metaitem.01~23032gregtech/gt.metaitem.01~23032 Name4Optionalgregtech/gt.metaitem.01~17032gregtech/gt.metaitem.01~17032 Name2Optionalgregtech/gt.metaitem.02~20032gregtech/gt.metaitem.02~20032 Name2OptionalCarpentersBlocks/blockCarpentersBlock~0CarpentersBlocks/blockCarpentersBlock~0 Name3Optionalgregtech/gt.metaitem.01~17308gregtech/gt.metaitem.01~17308 Name1Optionalminecraft/cobblestone~0minecraft/cobblestone~0 Name2Optionalminecraft/fence~0minecraft/fence~0 Name1Craftingminecraft/piston~0minecraft/piston~0 Name1
+§3PS: Infernals can drop them, though you won't get credit for the quest that way.1-1ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block\nBurn Time: 300
+6Choiceminecraft/sticky_piston-0.pngSticky Piston
+2minecraft/piston-0.pngPiston
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Rod\nFe
+4Optionalgregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+2Optionalgregtech/gt.metaitem.02-20032.pngSmall Iron Gear\nFe
+2OptionalCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block\nBurn Time: 300
+3Optionalgregtech/gt.metaitem.01-17308.pngRed Alloy Plate\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+1Optionalminecraft/cobblestone-0.pngCobblestone
+2Optionalminecraft/fence-0.pngFence\nBurn Time: 300
+1Craftingminecraft/piston-0.pngPiston
+1
