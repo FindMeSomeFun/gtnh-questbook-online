@@ -4,6 +4,6 @@ Be sure you have a Forestry multifarm, Steve's Carts Farm, IC2 Crop Sticks with 
 32Forestry/fertilizerCompound-0.pngFertilizer
 32Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25tasksANDRetrievalminecraft/reeds-0.pngSugar Canes\nBurn Time: 50
-64minecraft/apple-0.pngApple\nminecraft:apple\nDiminishing returns start after\neating any food 10 more times
+64minecraft/apple-0.pngApple\nminecraft:apple
 64minecraft/wheat-0.pngWheat
 64

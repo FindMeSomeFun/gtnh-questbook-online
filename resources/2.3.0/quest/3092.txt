@@ -4,4 +4,4 @@ Each tier you reach will challenge you with bigger power needs. Not only do the 
 
 As a final note, the power outputs of a fully renewable powergen like this are not as efficient as oil, which is the price to pay for being renewable. You will need a bigger machine setup to achieve the same EU/t output, but it is still very viable and worth it if you are willing to make this compromise. On the other hand, building these wood-related setups will give you some interesting chemicals to use in later crafts, chemicals that oil cannot directly create. You can choose one or the other, or just follow both paths at the same time if you're curious. It's up to you.0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemminecraft/sapling-0.pngOak Sapling\nBurn Time: 100
 4tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

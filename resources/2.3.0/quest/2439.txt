@@ -7,5 +7,5 @@ minecraft/pumpkin_pie-0.pngPumpkin PiePumpkin Pie is a traditional US dessert 
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 15tasksANDOptionalminecraft/pumpkin-0.pngPumpkin
 20minecraft/sugar-0.pngSugar
-30Retrievalminecraft/pumpkin_pie-0.pngPumpkin Pie\nminecraft:pumpkin_pie\nDiminishing returns start after\neating any food 10 more times
+30Retrievalminecraft/pumpkin_pie-0.pngPumpkin Pie\nminecraft:pumpkin_pie
 10

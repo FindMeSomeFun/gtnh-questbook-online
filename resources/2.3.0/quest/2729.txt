@@ -12,4 +12,4 @@ It takes §24 Data Orbs§r, one for each of the types from the CGE, §51000L of 
 
 Lastly is the Crop Replicator:
 It takes an existing crop seedbag, §51000L per crop tier of UUM§r, and §66A§r while running. After finishing, it gives you back two of the same seedbag, duplicating it. This takes twice as much UUM, but less power, it's up to you whether that's worth it.0-1ANDpre7210Natura/N Crops-0.png24150witchery/ingredient-106.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

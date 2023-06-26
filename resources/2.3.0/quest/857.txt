@@ -7,4 +7,4 @@ miscutils/Formaldehyde-0.png§9§lFormaldehydeCombining Oxygen and Methanol al
 32gregtech/gt.metaitem.01-30673.pngMethanol Cell\nCH\u2084O
 32Optionalmiscutils/Formaldehyde-0.pngFormaldehyde Cell
 32Checkboxcheckbox-.pngCheckbox
-1
+

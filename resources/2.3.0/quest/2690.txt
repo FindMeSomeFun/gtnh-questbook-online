@@ -5,4 +5,4 @@ miscutils/2Ethylanthrahydroquinone-0.png2-EthylanthrahydroquinoneTo make this 
 10miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst\nActive Reaction Agent\n50 / 50
 1Optionalmiscutils/2Ethylanthrahydroquinone-0.png2-Ethylanthrahydroquinone Cell
 5Checkboxcheckbox-.pngCheckbox
-1
+

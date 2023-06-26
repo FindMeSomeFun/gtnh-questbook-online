@@ -1,5 +1,5 @@
-gregtech/gt.metaitem.01-11035.png§2§lCopperCopper ingots can be created by smelting copper, chalcopyrite, or malachite ore.1-1ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceharvestcraft/zucchinibreadItem-0.pngZucchini Bread\nharvestcraft:zucchinibreadItem\nDiminishing returns start after\neating any food 10 more times
-1harvestcraft/footlongItem-0.pngFootlong\nharvestcraft:footlongItem\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.metaitem.01-11035.png§2§lCopperCopper ingots can be created by smelting copper, chalcopyrite, or malachite ore.1-1ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceharvestcraft/zucchinibreadItem-0.pngZucchini Bread\nharvestcraft:zucchinibreadItem
+1harvestcraft/footlongItem-0.pngFootlong\nharvestcraft:footlongItem
 1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10tasksANDRetrievalgregtech/gt.metaitem.01-11035.pngCopper Ingot\nCu

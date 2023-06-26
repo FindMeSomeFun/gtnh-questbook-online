@@ -2,8 +2,8 @@ gregtech/gt.metaitem.01-32702.png§4§3§5§lGood CircuitsGood circuits are an
 
 To open MV, you still need to make an EBF and do the Aluminium quest if you haven't already, since §oeverything§r needs aluminium.
 
-§3This quest will also open the Project Red quests, one of the early automation options.1-1ANDpre7471gregtech/gt.metaitem.01-32715.png7481gregtech/gt.metaitem.03-32101.pngrewardsItemgregtech/gt.metaitem.02-32119.pngBeer\ngregtech:gt.metaitem.02\nGood old Beer\nDiminishing returns start after\neating any food 10 more times
-4gregtech/gt.metaitem.02-32102.pngWine\ngregtech:gt.metaitem.02\nOrdinary\nDiminishing returns start after\neating any food 10 more times
+§3This quest will also open the Project Red quests, one of the early automation options.1-1ANDpre7471gregtech/gt.metaitem.01-32715.png7481gregtech/gt.metaitem.03-32101.pngrewardsItemgregtech/gt.metaitem.02-32119.pngBeer\ngregtech:gt.metaitem.02\nGood old Beer
+4gregtech/gt.metaitem.02-32102.pngWine\ngregtech:gt.metaitem.02\nOrdinary
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board\nA good Circuit Board
 2gregtech/gt.metaitem.02-18305.pngSteel Casing\nFe\u2085\u2080C

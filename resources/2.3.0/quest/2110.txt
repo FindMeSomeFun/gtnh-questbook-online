@@ -4,6 +4,6 @@ gregtech/gt.blockmachines-11101.png§6§lSpeeding Up Slow MachinesMany mods do
 
 If you want, you can change the level of acceleration by using a wrench on it. It will go back to the minimum, then increase one tier from there for every usage. It will use that tier's amount of power (and acceleration), increasing as per GT standard of 2x speed (acceleration) and 4x EU per tier.0-1ANDpre8971gregtech/gt.metaitem.01-32651.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
 64gregtech/gt.metaitem.01-30742.pngLPG Cell
-64Itemminecraft/cake-0.pngLemon Cake\nminecraft:cake\nNot everything can be fast...\nDiminishing returns start after\neating any food 10 more times
+64Itemminecraft/cake-0.pngLemon Cake\nminecraft:cake\nNot everything can be fast...
 1tasksANDRetrievalgregtech/gt.blockmachines-11101.pngAdvanced World Accelerator\nAccelerating things (Max Radius: 2 | Max Speed Bonus: x4)\nUse a screwdriver to change mode, sneak to change Radius\nUse a wrench to change speed\nTo accelerate TileEntities, this machine has to be adjacent to it\nNormal mode consumes up to 3 amperage, depending on radius\nTE mode consumes 6 amperage\nVoltage IN: 128 (MV)\nCapacity: 6,912 EU
 1

@@ -3,5 +3,5 @@ TConstruct/slime.gel-0.pngSlime: EvolvedTotally looks like a thaumic slime to 
 2dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 2dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 2tasksANDLocationDIM/47-.pngProteus
-1Huntmobs/GalacticraftCore-EvolvedBossSlime-.pngEvolved Boss Slime
+Huntmobs/GalacticraftCore-EvolvedBossSlime-.pngEvolved Boss Slime
 1

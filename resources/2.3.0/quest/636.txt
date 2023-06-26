@@ -3,5 +3,5 @@ minecraft/bread-0.pngFirst Handmade BreadBaking your dough in a Furnace makes 
 1gregtech/gt.metatool.01-46-Aluminium-Aluminium.pngRolling Pin\nDurability: 12,800 / 12,800\nAluminium lvl 2\nAttack Damage: 4.0\nMining Speed: 10.0
 1enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalminecraft/bread-0.pngBread\nminecraft:bread\nDiminishing returns start after\neating any food 10 more times
+15tasksANDRetrievalminecraft/bread-0.pngBread\nminecraft:bread
 8

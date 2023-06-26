@@ -2,6 +2,6 @@ minecraft/wheat_seeds-0.png§1§lYou Reap...You won't always get food rewards 
 
 To get other wheat, use a hoe on grass away from water. You'll get Witchery seeds too, save those for later. Start planting a cotton field, it's a key early game resource.
 
-§3PS: You can also grab a bunch from villages, and also grow the seeds from Pam's garden food.1-1ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/carrot-0.pngCarrot\nminecraft:carrot\nDiminishing returns start after\neating any food 10 more times
+§3PS: You can also grab a bunch from villages, and also grow the seeds from Pam's garden food.1-1ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/carrot-0.pngCarrot\nminecraft:carrot
 5tasksANDConsumeminecraft/stick-0.pngStick\nBurn Time: 100
 8

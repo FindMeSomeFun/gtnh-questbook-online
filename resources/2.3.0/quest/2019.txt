@@ -8,4 +8,4 @@ Please note that for each loops will require a empty variable to work with. This
 Global vs Local
 Global will keep changes to a variable that are done in the workflow, whereas local keeps anything done local to that part of the workflow.0-1ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockMachineManagerName-0.pngMachine Inventory Manager
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

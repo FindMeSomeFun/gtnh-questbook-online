@@ -13,7 +13,7 @@ Wear a Witches Hat (and/or robes) while brewing to get more brews than just thre
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalminecraft/red_flower-0.pngPoppy
-1minecraft/golden_carrot-0.pngGolden Carrot\nminecraft:golden_carrot\nDiminishing returns start after\neating any food 10 more times
+1minecraft/golden_carrot-0.pngGolden Carrot\nminecraft:golden_carrot
 1minecraft/waterlily-0.pngLily Pad
 1witchery/ingredient-69.pngWater Artichoke Globe
 1minecraft/dye-3.pngCocoa Beans

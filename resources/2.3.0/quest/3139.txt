@@ -8,4 +8,4 @@ Steam loses efficiency quickly if you do this, though. The right way to pull thi
 
 Each setup has their own details, so you will have to work things out and make personal decisions about how you will manage the turbines. Just make sure to not let the EU/t value go beyond the maximum that the dynamo hatch can output, or you will have problems!0-1ANDpre31380gregtech/gt.blockmachines-1023.pngrewardsItemgregtech/gt.metaitem.02-16393.pngOriharukon Turbine Blade\nOh
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

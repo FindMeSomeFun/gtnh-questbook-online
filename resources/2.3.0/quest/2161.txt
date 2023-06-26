@@ -18,4 +18,4 @@ Note that any block that emits EU has loss when doing so: 2 ^ tier. So 2 EU at L
 
 If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.0-1ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemmiscutils/itemHatTinFoil-0.pngTin Foil Hat\nDoomSquirter''s protection against cosmic radiation!\nGeneral paranoia makes the wearer unable to collect xp\nMovement speed is also reduced, to keep you safe\nThis hat may also have other strange powers\nProtection: 1\nDurability: 55/55
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

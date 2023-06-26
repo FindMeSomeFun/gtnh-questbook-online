@@ -9,6 +9,6 @@ minecraft/potion-8198.pngThe Night's Not Dark AnymoreHardcore darkness is a pa
 1minecraft/nether_wart-0.pngNether Wart
 1Optionalminecraft/potion-16.pngAwkward Potion\nNo Effects
 1Optionalminecraft/potion-16.pngAwkward Potion\nNo Effects
-1minecraft/golden_carrot-0.pngGolden Carrot\nminecraft:golden_carrot\nDiminishing returns start after\neating any food 10 more times
+1minecraft/golden_carrot-0.pngGolden Carrot\nminecraft:golden_carrot
 1Retrievalminecraft/potion-8198.pngPotion of Night Vision\nNight Vision (3:00)
 1

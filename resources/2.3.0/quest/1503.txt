@@ -10,4 +10,4 @@ Good luck.
 
 §3BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.1-1ANDpre131minecraft/bed-0.pngrewardsItemminecraft/fireworks-0.pngFirework Rocket
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

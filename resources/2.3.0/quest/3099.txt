@@ -9,7 +9,7 @@ How many options are there, really? There are many, but they can be divided into
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 1tasksANDOptionalgregtech/gt.metaitem.02-32557.pngRape\nTime to oil up!
-32Optionalharvestcraft/peanutItem-0.pngPeanut\nharvestcraft:peanutItem\nDiminishing returns start after\neating any food 10 more times
-32Optionalminecraft/fish-0.pngRaw Fish\nminecraft:fish\nDiminishing returns start after\neating any food 10 more times
+32Optionalharvestcraft/peanutItem-0.pngPeanut\nharvestcraft:peanutItem
+32Optionalminecraft/fish-0.pngRaw Fish\nminecraft:fish
 32Retrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extractor\nExtracting Fluids from Items\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
 1

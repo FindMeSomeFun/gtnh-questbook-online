@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.03-32100.png§3§lCircuit BoardsFor every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.1-1ANDpre661gregtech/gt.metaitem.01-32700.pngrewardsItemminecraft/bread-0.pngBread\nminecraft:bread\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.metaitem.03-32100.png§3§lCircuit BoardsFor every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.1-1ANDpre661gregtech/gt.metaitem.01-32700.pngrewardsItemminecraft/bread-0.pngBread\nminecraft:bread
 2Choicegregtech/gt.metaitem.01-32710.pngCoated Circuit Board\nA Basic Board
 2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

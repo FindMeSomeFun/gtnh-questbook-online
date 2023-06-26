@@ -6,4 +6,4 @@ minecraft/lapis_block-0.pngL.E.S.U. Upgrade - IV Tier24 Stacks of LESU Casings
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
 1536Checkboxcheckbox-.pngCheckbox
-1
+

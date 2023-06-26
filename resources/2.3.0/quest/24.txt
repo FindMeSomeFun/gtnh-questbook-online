@@ -1,6 +1,6 @@
 Railcraft/machine.alpha-7.png§1§2§lGetting (Char)coalIt's time to get yourself some charcoal. For that, we're going to build a coke oven. Good that you just collected a lot of resources! (What a coincidence...)
 
-§3Even though Waila says you can't, you can punch these blocks to get them back if you mess up the placement before you have a metal pickaxe.1-1ANDpre171minecraft/sand-0.png251minecraft/brick-0.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich\ngregtech:gt.metaitem.02\nFor Men! (and manly Women)\nDiminishing returns start after\neating any food 10 more times
+§3Even though Waila says you can't, you can punch these blocks to get them back if you mess up the placement before you have a metal pickaxe.1-1ANDpre171minecraft/sand-0.png251minecraft/brick-0.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich\ngregtech:gt.metaitem.02\nFor Men! (and manly Women)
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDCraftingRailcraft/machine.alpha-7.pngCoke Oven Brick\nMulti-Block: 3x3x3 (Hollow)\nMobs cannot Spawn on this Block
 26

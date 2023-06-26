@@ -2,8 +2,8 @@ gregtech/gt.blockores-906.png§5§lSource of NickelYour Electric Blast Furnace
 
 You can get some Cobalt out of Cobaltite through the side processes such as washing or thermal centrifuging. To electrolyze it, you'll need an MV electrolyzer though. Or you can EBF it after your EBF is done. Remember that the Sulfur Dioxide you get is based on your muffler tier. This is probably easier than searching in the Nether for Cobalt.
 
-§3You can also find small quantities of Pentlandite ore in the Overworld if you care.0-1ANDpre2251minecraft/end_portal-0.pngrewardsItemharvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem\nDiminishing returns start after\neating any food 10 more times
-1harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem\nDiminishing returns start after\neating any food 10 more times
+§3You can also find small quantities of Pentlandite ore in the Overworld if you care.0-1ANDpre2251minecraft/end_portal-0.pngrewardsItemharvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem
+1harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem
 1Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
 8gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
 16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

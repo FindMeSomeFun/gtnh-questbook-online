@@ -3,6 +3,8 @@ var availableVersions = [];
 var fallbackVersion = '';
 var questLineId = '';
 var questId = '';
+var drawLines = {}
+var drawPreLines = {}
 
 readTextFile(repo + 'resources/versions.txt', 'versions');
 readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
@@ -81,13 +83,14 @@ function populateElement(text, id) {
 	} else if (id == 'questLines') {
 		var j = 0;
 		for (var i = 0; i < data.length; i++) {
-			element.innerHTML += '<div class="questLine icon"><input type="hidden" value="' + j + '" /><img src="./resources/image/item/' + data[i++] + '.png" alt="No Image"><span> ' + data[i] + '</span></div>';
+			element.innerHTML += '<div class="questLine icon"><input type="hidden" value="' + j + '" /><img src="./resources/image/' + data[i++] + '" alt="No Image"><span> ' + data[i] + '</span></div>';
 			j++;
 		}
 	} else if (id == 'questLineTree') {
 		if(document.getElementById('welcome')) {
 			document.getElementById('welcome').remove();
 		}
+		//   0-desc, 1-sizeX, 2-sizeY, 3-q[[id, main, icon, x, y, iconSize, pre[id]]]
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
@@ -104,7 +107,7 @@ function populateElement(text, id) {
 			} else {
 				elementString += ' quest-optional';
 			}
-			element.innerHTML += elementString + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><input type="hidden" value="' + questId + '" /><img class="openQuest max" src="./resources/image/item/' + questIcon + '.png" alt="No Image"></img></div>';
+			element.innerHTML += elementString + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><input type="hidden" value="' + questId + '" /><img class="openQuest max" src="./resources/image/' + questIcon + '" alt="No Image"></img></div>';
 		}
 	} else if (id == 'questInfo' || id == 'preQuestInfo') {
 		element.innerHTML = loadQuestData(data, id);
@@ -114,14 +117,14 @@ function populateElement(text, id) {
 }
 
 function loadQuestData(data, id) {
-	fullElementString = '<div style="height: 64px;"><div class="inline icon"><img src="./resources/image/item/Minecraft/Bed~0.png" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + data[0] + ' - ' + data[1] + '</div><div class="sub-title">QuestLine: Getting Around Without Dying</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>None</div><div class="inline top btn hide">Hide</div>';
+	fullElementString = '<div style="height: 64px;"><div class="inline icon"><img src="./resources/image/Minecraft/Bed~0.png" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + data[0] + ' - ' + data[1] + '</div><div class="sub-title">QuestLine: Getting Around Without Dying</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>None</div><div class="inline top btn hide">Hide</div>';
 	if (id == 'pinned') {
 		fullElementString += '<div class="inline top btn remove">Remove</div></div></div>';
 	} else {
 		fullElementString += '<div class="inline top btn pin">Pin</div></div></div>';
 		
 	}
-	
+	//   0-icon, 1-name, 2-desc, 3-main, 4-rTime, 5-questLogic, 6-pre[[id, main, icon]], 7-rewards[type, [[icon, name, number]]], 8-taskLogic, 9-tasks[type, [[icon, name, number]]]
 	var desc = data[2];
 	var logic = data[3];
 	var i = 5;
@@ -133,7 +136,7 @@ function loadQuestData(data, id) {
 			var icon = data[i++];
 			var name = data[i++];
 			var number = data[i];
-			elementString += '</span><div class="questPre icon inline quest-main"><input type="hidden" value="' + number + '"><img class="openPre max" src="./resources/image/item/' + icon + '.png" alt="No Image"></div>';
+			elementString += '</span><div class="questPre icon inline quest-main"><input type="hidden" value="' + number + '"><img class="openPre max" src="./resources/image/' + icon + '" alt="No Image"></div>';
 			if (data[i + 1] == 'rewards') {
 				elementString += '</div>';
 				i = i + 1;
@@ -161,7 +164,7 @@ function loadQuestData(data, id) {
 				var icon = data[i++];
 				var name = data[i++];
 				var number = data[i++];
-				elementString += '<div><div class="icon"><img src="./resources/image/item/' + icon + '.png" alt="No Image"></div><div class="text">' + name + '\nx ' + number + '</div></div>';
+				elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">' + name + '\nx ' + number + '</div></div>';
 				if (rewardTypes.includes(data[i--])) {
 					break;
 				}
@@ -185,7 +188,7 @@ function loadQuestData(data, id) {
 			var name = data[i++];
 			var number = data[i++];
 //alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
-			elementString += '<div><div class="icon"><img src="./resources/image/item/' + icon + '.png" alt="No Image"></div><div class="text">' + name + '\n0 / ' + number + '</div></div>';
+			elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">' + name + '\n0 / ' + number + '</div></div>';
 			if (taskTypes.includes(data[i--])) {
 				elementString += '</div>';
 				break;

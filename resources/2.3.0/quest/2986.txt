@@ -3,4 +3,4 @@ gregtech/gt.blockcasings2-0.pngHere's Some OilWelcome! This is the questline t
 Oil is useful both for generating power, and to automate a lot of chemicals that are important for progression. As you progress, you will be able to get more of it, and get it faster, as well as process it in new ways that improve on the setup that you were using before. It is not a required path for progression in the pack, but it is a very useful one, should you choose to follow it.
 
 The best way to start working with oil is to extract it from the surface. Oil spouts are visible without having to dig down, and they can be interacted with by using a Pump placed above them, alongside a generator that feeds it some power. You can use some of the Oil to generate this power for now.0-1ANDpre881gregtech/gt.blockmachines-1120.png5461BuildCraftEnergy/blockOil-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

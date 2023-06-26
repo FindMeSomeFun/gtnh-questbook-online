@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-107.png§3§lUpgrade: Better MaceratorAn updated version of the steam macerator. Uses more steam, but is almost twice as fast.0-1ANDpre501gregtech/gt.blockmachines-106.png761gregtech/gt.blockmachines-140.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemharvestcraft/softpretzelandmustardItem-0.pngSoft Pretzel and Mustard\nharvestcraft:softpretzelandmustardItem\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.blockmachines-107.png§3§lUpgrade: Better MaceratorAn updated version of the steam macerator. Uses more steam, but is almost twice as fast.0-1ANDpre501gregtech/gt.blockmachines-106.png761gregtech/gt.blockmachines-140.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemharvestcraft/softpretzelandmustardItem-0.pngSoft Pretzel and Mustard\nharvestcraft:softpretzelandmustardItem
 3Choicegregtech/gt.metaitem.01-11304.pngWrought Iron Ingot\nFe
 3enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

@@ -4,4 +4,4 @@ Make sure you use the NEI 'U' command on the gold caps to find the correct GT:NH
 4Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

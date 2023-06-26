@@ -3,4 +3,4 @@ minecraft/clock-0.pngMoon Day and Night timeThe Moon's day-night cycle is 2h 4
 Since the 1st Overworld night is full moon, you can safely land within the 1st 4 Overworld days, and then the next 4 Overworld days are more dangerous since hostile mobs will be able to spawn in the dark, and so on. If you miscount, the moon phases can tell you when it is daytime or nighttime on the moon. Full moon is the start of the moon day, new (or dark) moon is the start of the moon night.
 
 During the nighttime, the environment light levels get very low, allowing hostile mobs to spawn on the surface.0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

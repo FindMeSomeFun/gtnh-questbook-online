@@ -5,6 +5,6 @@ You can also use it to upgrade tools with 8 modifiers at a time. Very handy for 
 When it's placed next to a vanilla chest, it will even show the chest's inventory in the crafting window. Single or double vanilla chests only please.
 
 Cut it again for a sleek, low profile version.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-10Itemharvestcraft/plumjellysandwichItem-0.pngPlum Jelly Sandwich\nharvestcraft:plumjellysandwichItem\nDiminishing returns start after\neating any food 10 more times
+10Itemharvestcraft/plumjellysandwichItem-0.pngPlum Jelly Sandwich\nharvestcraft:plumjellysandwichItem
 4tasksANDRetrievalTConstruct/CraftingStation-0.pngCrafting Station\nBurn Time: 300
 1

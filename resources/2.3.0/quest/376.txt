@@ -1,5 +1,5 @@
 harvestcraft/supremepizzaItem-0.pngI'm HungryWhat... I work a lot! So get me some food please.0-1ANDpre3750gregtech/gt.metaitem.01-32599.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksANDConsumeharvestcraft/creamofavocadosoupItem-0.pngCream of Avocado Soup\nharvestcraft:creamofavocadosoupItem\nDiminishing returns start after\neating any food 10 more times
-1Consumeharvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem\nDiminishing returns start after\neating any food 10 more times
-1Consumeharvestcraft/mintchocolatechipicemcreamItem-0.pngMint Chocolate Chip Ice Cream\nharvestcraft:mintchocolatechipicemcreamItem\nDiminishing returns start after\neating any food 10 more times
+1tasksANDConsumeharvestcraft/creamofavocadosoupItem-0.pngCream of Avocado Soup\nharvestcraft:creamofavocadosoupItem
+1Consumeharvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem
+1Consumeharvestcraft/mintchocolatechipicemcreamItem-0.pngMint Chocolate Chip Ice Cream\nharvestcraft:mintchocolatechipicemcreamItem
 1

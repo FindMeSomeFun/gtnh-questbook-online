@@ -4,5 +4,5 @@ witchery/altar-0.pngOfferings in Your DreamsFor all your offerings you'll need
 1tasksANDConsumewitchery/altar-0.pngAltar
 6witchery/ingredient-0.pngCandelabra
 1LocationDIM/55-.pngSpirit World
-1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5

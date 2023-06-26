@@ -5,4 +5,4 @@ miscutils/Monomethylhydrazine-0.pngMonomethylhydrazineYou'll need this if you 
 2gregtech/gt.metaitem.01-2010.pngCarbon Dust\nC
 2Optionalmiscutils/Monomethylhydrazine-0.pngMonomethylhydrazine Cell
 2Checkboxcheckbox-.pngCheckbox
-1
+

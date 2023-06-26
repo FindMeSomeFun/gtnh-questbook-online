@@ -6,4 +6,4 @@ BTW the other recipe that makes this is used later in the processing chain. You 
 75miscutils/Ethylbenzene-0.pngEthylbenzene Cell
 5Optionalmiscutils/2Ethylanthraquinone-0.png2-Ethylanthraquinone Cell
 5Checkboxcheckbox-.pngCheckbox
-1
+

@@ -7,7 +7,7 @@ Bring forth and slay the following and you shall receive some moderately great l
 128minecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
 32HardcoreEnderExpansion/auricion-0.pngAuricion
 64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Man\nminecraft:fish\nRadioactivity X\nDiminishing returns start after\neating any food 10 more times
+64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Man\nminecraft:fish\nRadioactivity X
 1tasksANDConsumeminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 1024minecraft/ender_eye-0.pngEye of Ender
 512HardcoreEnderExpansion/auricion-0.pngAuricion

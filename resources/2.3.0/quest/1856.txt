@@ -1,5 +1,5 @@
-harvestcraft/blueberrysmoothieItem-0.png§1§lStaying Cool in the HeatIf you happen to be near a snowy biome, you can harvest the snow to make delicious smoothies. They're better than eating the berries directly.0-1ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.png4690Natura/BerryBush-12.pngrewardsItemharvestcraft/melonsmoothieItem-0.pngMelon Smoothie\nharvestcraft:melonsmoothieItem\nDiminishing returns start after\neating any food 10 more times
-4tasksANDOptionalNatura/berry-1.pngBlueberry\nNatura:berry\nSaturating!\nDiminishing returns start after\neating any food 10 more times
+harvestcraft/blueberrysmoothieItem-0.png§1§lStaying Cool in the HeatIf you happen to be near a snowy biome, you can harvest the snow to make delicious smoothies. They're better than eating the berries directly.0-1ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.png4690Natura/BerryBush-12.pngrewardsItemharvestcraft/melonsmoothieItem-0.pngMelon Smoothie\nharvestcraft:melonsmoothieItem
+4tasksANDOptionalNatura/berry-1.pngBlueberry\nNatura:berry\nSaturating!
 4minecraft/snowball-0.pngSnowball
-4Retrievalharvestcraft/blueberrysmoothieItem-0.pngBlueberry Smoothie\nharvestcraft:blueberrysmoothieItem\nDiminishing returns start after\neating any food 10 more times
+4Retrievalharvestcraft/blueberrysmoothieItem-0.pngBlueberry Smoothie\nharvestcraft:blueberrysmoothieItem
 4

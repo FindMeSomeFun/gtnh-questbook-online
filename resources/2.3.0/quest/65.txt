@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-11305.png§3§lBlastoff!It's about time to make some steel. Look in the Multiblock Goals quest tab and build a Bricked Blast Furnace. Return here once you've made at least 8 steel ingots.1-1ANDpre441gregtech/gt.blockmachines-100.png541gregtech/gt.blockmachines-115.pngrewardsItemharvestcraft/breadedporkchopItem-0.pngBreaded Porkchop\nharvestcraft:breadedporkchopItem\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.metaitem.01-11305.png§3§lBlastoff!It's about time to make some steel. Look in the Multiblock Goals quest tab and build a Bricked Blast Furnace. Return here once you've made at least 8 steel ingots.1-1ANDpre441gregtech/gt.blockmachines-100.png541gregtech/gt.blockmachines-115.pngrewardsItemharvestcraft/breadedporkchopItem-0.pngBreaded Porkchop\nharvestcraft:breadedporkchopItem
 3Choiceminecraft/iron_ore-0.pngIron Ore
 5enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

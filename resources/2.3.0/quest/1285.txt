@@ -2,8 +2,8 @@ ExtraUtilities/spike_base_diamond-0.png§5§lDiamond SpikesDiamond Spikes dama
 
 These can also be enchanted with all the enchantments a regular diamond sword would receive. This includes Looting and Sharpness, which function exactly as it does on a sword. Interestingly, mobs killed by the Diamond Spike will return experience as if killed by the player.
 
-There are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.0-1ANDpre981gregtech/gt.blockmachines-291.png4950minecraft/diamond-0.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem\nDiminishing returns start after\neating any food 10 more times
-2harvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem\nDiminishing returns start after\neating any food 10 more times
+There are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.0-1ANDpre981gregtech/gt.blockmachines-291.png4950minecraft/diamond-0.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem
+2harvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem
 2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Choiceminecraft/diamond-0.pngDiamond\nBurn Time: 102400
 9gregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C

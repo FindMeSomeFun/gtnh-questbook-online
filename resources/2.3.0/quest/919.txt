@@ -3,5 +3,5 @@ minecraft/skull-4.pngCreeper: EvolvedNot that regular creepers are nasty enoug
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1tasksANDLocationDIM/29-.pngMars
-1Huntmobs/GalacticraftMars-CreeperBoss-.pngCreeper Boss
+Huntmobs/GalacticraftMars-CreeperBoss-.pngCreeper Boss
 1

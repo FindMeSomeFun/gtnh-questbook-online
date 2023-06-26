@@ -16,7 +16,7 @@ These trees can be planted like normal trees, except for Bloodwood. That has to 
 4RetrievalNatura/Dark Tree-0.pngDarkwood\nNether Tree\nBurn Time: 300
 8Natura/florasapling-6.pngDarkwood Sapling\nProduces chalky apples\nBurn Time: 100
 4Natura/Dark Leaves-0.pngDarkwood Leaves\nNether Tree
-16Natura/Natura.netherfood-0.pngPotash Apple\nNatura:Natura.netherfood\nTastes a bit like chalk\nDiminishing returns start after\neating any food 10 more times
+16Natura/Natura.netherfood-0.pngPotash Apple\nNatura:Natura.netherfood\nTastes a bit like chalk
 1RetrievalNatura/Dark Tree-1.pngFusewood\nNether Tree\nExplosive Personality\nBurn Time: 300
 8Natura/Dark Leaves-3.pngFusewood Leaves\nNether Tree\nExplosive Personality
 16Natura/florasapling-7.pngFusewood Sapling\nExplosive Personality\nBurn Time: 100

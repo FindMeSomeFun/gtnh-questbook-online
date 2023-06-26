@@ -1,8 +1,8 @@
-TConstruct/jerky-5.pngCrispy Rotten FleshRotten Flesh is not really healthy. It doesn't satisfy your hunger. What if you try to dry?0-1ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceTConstruct/jerky-0.pngBeef Jerky\nTConstruct:jerky\nDiminishing returns start after\neating any food 10 more times
-8TConstruct/jerky-1.pngChicken Jerky\nTConstruct:jerky\nDiminishing returns start after\neating any food 10 more times
-8TConstruct/jerky-2.pngBacon Jerky\nTConstruct:jerky\nDiminishing returns start after\neating any food 10 more times
-8TConstruct/jerky-3.pngMutton Jerky\nTConstruct:jerky\nDiminishing returns start after\neating any food 10 more times
-8TConstruct/jerky-4.pngFish Jerky\nTConstruct:jerky\nDiminishing returns start after\neating any food 10 more times
+TConstruct/jerky-5.pngCrispy Rotten FleshRotten Flesh is not really healthy. It doesn't satisfy your hunger. What if you try to dry?0-1ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceTConstruct/jerky-0.pngBeef Jerky\nTConstruct:jerky
+8TConstruct/jerky-1.pngChicken Jerky\nTConstruct:jerky
+8TConstruct/jerky-2.pngBacon Jerky\nTConstruct:jerky
+8TConstruct/jerky-3.pngMutton Jerky\nTConstruct:jerky
+8TConstruct/jerky-4.pngFish Jerky\nTConstruct:jerky
 8Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalTConstruct/jerky-5.pngMonster Jerky\nTConstruct:jerky\nDiminishing returns start after\neating any food 10 more times
+15tasksANDRetrievalTConstruct/jerky-5.pngMonster Jerky\nTConstruct:jerky
 4

@@ -1,4 +1,4 @@
-EnderIO/itemAlloy-6.png§5§6§lCome to the Dark Side......we have cookies.0-1ANDpre1280EnderIO/blockEnderIo-0.pngrewardsItemminecraft/cookie-0.pngCookie\nminecraft:cookie\nDiminishing returns start after\neating any food 10 more times
+EnderIO/itemAlloy-6.png§5§6§lCome to the Dark Side......we have cookies.0-1ANDpre1280EnderIO/blockEnderIo-0.pngrewardsItemminecraft/cookie-0.pngCookie\nminecraft:cookie
 64Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalEnderIO/itemAlloy-6.pngDark Steel\n((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)

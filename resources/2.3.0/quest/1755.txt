@@ -1,4 +1,4 @@
 OpenComputers/wrench-0.pngMy Little ScrenchA screwdriver and wrench in one. Not really a necessary tool, but has some purposes; I suggest referring to your computer manual.0-1ANDpre17590OpenComputers/item-54.pngrewardsItemmiscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
-1harvestcraft/chaiteaItem-0.pngChai Tea\nharvestcraft:chaiteaItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/chaiteaItem-0.pngChai Tea\nharvestcraft:chaiteaItem
 1tasksANDCraftingOpenComputers/wrench-0.pngScrench\nHold [NONE] for material costs.
 1

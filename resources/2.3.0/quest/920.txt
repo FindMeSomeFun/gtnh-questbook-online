@@ -3,5 +3,5 @@ adventurebackpack/adventureBackpack-4.pngBlaze: EvolvedIn order to proceed to 
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2tasksANDLocationDIM/42-.pngCeres
-1Huntmobs/GalacticraftCore-EvolvedBossBlaze-.pngEvolved Boss Blaze
+Huntmobs/GalacticraftCore-EvolvedBossBlaze-.pngEvolved Boss Blaze
 1

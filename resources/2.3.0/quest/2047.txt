@@ -19,4 +19,4 @@ There are a few places throughout the modpack where you still need the physical 
 1Optionalmiscutils/blockCircuitProgrammer-0.pngCircuit Programmer
 1Optionalgregtech/gt.integrated_circuit-1.pngProgrammed Circuit\nConfiguration: == 1\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
 1Checkboxcheckbox-.pngCheckbox
-1
+

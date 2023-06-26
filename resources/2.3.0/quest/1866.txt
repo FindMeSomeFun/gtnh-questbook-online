@@ -7,4 +7,4 @@ Alternatives to aluminium gravel ores are
 
 Once you reach LV, you can get Alumina from processing various ores or EBFing Sapphire. At MV you can electrolyze clay dust or red granite dust. Check NEI for more options.1-1ANDpre4741TConstruct/pickaxe-0-225.pngrewardsItemgregtech/gt.metaitem.01-2019.pngAluminium Dust\nAl
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

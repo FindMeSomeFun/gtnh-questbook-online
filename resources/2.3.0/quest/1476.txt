@@ -3,7 +3,7 @@ gregtech/gt.metatool.01-36-Iron-Iron.png§2§lAll the Finest Cuts of MeatThis 
 §3Note: GT Tool damage is based on tinkers mining level.0-1ANDpre4920OpenBlocks/trophy-0-Sheep.pngrewardsItemminecraft/spawn_egg-54.pngSpawn Zombie
 1minecraft/spawn_egg-50.pngSpawn Creeper
 1minecraft/leather-0.pngLeather
-8Itemminecraft/beef-0.pngRaw Beef\nminecraft:beef\nDiminishing returns start after\neating any food 10 more times
+8Itemminecraft/beef-0.pngRaw Beef\nminecraft:beef
 5Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"

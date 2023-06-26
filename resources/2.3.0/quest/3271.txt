@@ -1,5 +1,5 @@
 witchery/ingredient-102.pngDreams of GoldJust try to dream of gold.0-1ANDpre3380dreamcraft/item.CoinWitchII-0.pngrewardsItemwitchery/ingredient-102.pngGolden Thread
 4tasksANDConsumewitchery/ingredient-102.pngGolden Thread
 4LocationDIM/55-.pngSpirit World
-1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5

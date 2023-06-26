@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-201.png§5§lAlloy SmelterUpgrade your steam alloy smelter to an LV one.0-1ANDpre701gregtech/gt.blockmachines-1120.png881gregtech/gt.blockmachines-1120.pngrewardsItemBiomesOPlenty/food-13.pngBowl of Rice\nBiomesOPlenty:food\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.blockmachines-201.png§5§lAlloy SmelterUpgrade your steam alloy smelter to an LV one.0-1ANDpre701gregtech/gt.blockmachines-1120.png881gregtech/gt.blockmachines-1120.pngrewardsItemBiomesOPlenty/food-13.pngBowl of Rice\nBiomesOPlenty:food
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-201.pngBasic Alloy Smelter\nHighTech combination Smelter\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

@@ -86,4 +86,4 @@ Use a forestry Multifarm so you don't have to break the leaf block to get the fr
 §bFamily§r: Tells you what family of the fruit listed under the Fruits trait is: Pomes, Prunes, Nuts or Jungle.
 
 §4When breeding these trees for quests, you will need to breed the species "pure", not a hybrid. Fortunately, that's much easier for trees. You should probably save the crossbreeding 'till after you get all the good ones.0-1ORpre21230minecraft/sapling-4.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

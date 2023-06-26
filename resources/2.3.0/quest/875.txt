@@ -9,6 +9,6 @@ Make some slime tree farms beside your rubber farm.
 10tasksANDRetrievalTConstruct/CraftedSoil-5.pngBlue Slimedirt
 1TConstruct/slime.gel-1.pngCongealed Green Slime
 1TConstruct/slime.sapling-0.pngSlimy Sapling
-1TConstruct/strangeFood-0.pngGelatinous Slime\nTConstruct:strangeFood\nIt smells terrible, but if you\nhave nothing else to eat...\nDiminishing returns start after\neating any food 10 more times
+1TConstruct/strangeFood-0.pngGelatinous Slime\nTConstruct:strangeFood\nIt smells terrible, but if you\nhave nothing else to eat...
 4TConstruct/slime.gel-2.pngCongealed Purple Slime
 1

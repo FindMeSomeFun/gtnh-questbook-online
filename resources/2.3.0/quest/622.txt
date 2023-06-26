@@ -2,8 +2,8 @@ gregtech/gt.blockores-817.png§5§lHow to Get Sodium and LithiumSalt ore mixes
 
 Salt isn't only used to get sodium, it's an important ingredient in many pam's harvestcraft food recipes.
 
-Lepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.1-1ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burger\nharvestcraft:baconmushroomburgerItem\nDiminishing returns start after\neating any food 10 more times
-1harvestcraft/saltedsunflowerseedsItem-0.pngSalted Sunflower Seeds\nharvestcraft:saltedsunflowerseedsItem\nDiminishing returns start after\neating any food 10 more times
+Lepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.1-1ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burger\nharvestcraft:baconmushroomburgerItem
+1harvestcraft/saltedsunflowerseedsItem-0.pngSalted Sunflower Seeds\nharvestcraft:saltedsunflowerseedsItem
 5enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 3tasksANDRetrievalgregtech/gt.blockores-817.pngSalt Ore\nNaCl

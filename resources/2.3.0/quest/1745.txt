@@ -1,4 +1,4 @@
 OpenComputers/item-48.pngWelcome to OpenComputers!Hello there, my name is Teirdalin and today we shall embark on one of the most exciting and fun mods; OpenComputers! First things first though, you will need some patience to get through this mod, but it will certainly pay off in the end!0-1ANDpre12211gregtech/gt.blockmachines-1181.png15981gregtech/gt.blockmachines-212.pngrewardsItemOpenComputers/item-98.pngOpenComputers Manual\nv1.8.0.13-GTNH
-1gregtech/gt.metaitem.02-32007.pngTea\ngregtech:gt.metaitem.02\nKeep calm and carry on\nDiminishing returns start after\neating any food 10 more times
+1gregtech/gt.metaitem.02-32007.pngTea\ngregtech:gt.metaitem.02\nKeep calm and carry on
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

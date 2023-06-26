@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-582.png§6§lMixing at MV levelMV Mixer is needed to progress toward HV. It also unlocks Diesel, more efficient fuel.1-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.02-32221.pngVeggieburger\ngregtech:gt.metaitem.02\nNo matter how you call this, this is NOT a Burger!\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.blockmachines-582.png§6§lMixing at MV levelMV Mixer is needed to progress toward HV. It also unlocks Diesel, more efficient fuel.1-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.02-32221.pngVeggieburger\ngregtech:gt.metaitem.02\nNo matter how you call this, this is NOT a Burger!
 2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

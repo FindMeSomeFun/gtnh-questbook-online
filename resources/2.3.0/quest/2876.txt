@@ -5,4 +5,4 @@ lootgames/LootGamesMasterBlock-0.png§2§lLoot GamesIt looks like you've found
 §4Make sure that no water/oil is flowing into the room because of worldgen or it will kill you and destroy your grave because of 'cheating'. This is a bug.0-1ANDpre28750minecraft/nether_star-0.pngrewardsItemminecraft/skull-3.pngStupid Oil, I swear...\nMay work as an Infusion Stabilizer
 1gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

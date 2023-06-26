@@ -3,4 +3,4 @@ gregtech/gt.blockcasings4-0.pngThe Era of MultisWhat does this mean, "the era 
 Well, yes, but now it's all multiblocks. There are still singleblock machines for all the tasks they're needed for, but at IV the newer GT++ multis become available, or at least most of them, which can do the same jobs of bending, extruding, extracting, amongst others, but with higher initial investments and many bonuses to their processing. Remember what I said before about higher initial investments being worth it?
 
 That said, there isn't a new oil processing chain in IV, you only improve what you already have. If there was a step in the chain that was running too slow, and you needed to add more machines to it or overclock, it's likely that there is now a multi that can take over that role by itself. Tungstensteel is usually an important part of these things, so get it automated in anticipation of what's to come.0-1ANDpre2131gregtech/gt.blockmachines-15.png5461BuildCraftEnergy/blockOil-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

@@ -4,4 +4,4 @@ There are also other paths for renewable power in this page. They have similar s
 
 Regardless of which path you chose to get power from your Charcoal, you can now sustain an EBF comfortably and get power more efficiently. It's recommended that you move away from steam in the next tier, because you will need to transport too much of it to produce good amounts of MV power. Fortunately, you won't need steam at all!0-1ANDpre30970Railcraft/machine.beta-5.pngrewardsItemgregtech/gt.metaitem.01-32650.pngRobot Arm\n1 stack every 20 secs (as Cover)\nGrabs from and inserts into specific slots
 1tasksANDCheckboxcheckbox-.pngCheckbox
-1
+

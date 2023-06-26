@@ -6,4 +6,4 @@ Avaritia/Singularity-2.pngL.E.S.U. Upgrade - LuV TierTo reach the highest Volt
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 64tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
 6144Checkboxcheckbox-.pngCheckbox
-1
+

@@ -19,12 +19,12 @@ Finally, kill an Iron Golem while it stands within the ritual area to activate t
 1Optionalminecraft/chest-0.pngChest\nBurn Time: 300
 4minecraft/redstone-0.pngRedstone
 40minecraft/string-0.pngString
-40Optionalminecraft/cooked_porkchop-0.pngCooked Porkchop\nminecraft:cooked_porkchop\nDiminishing returns start after\neating any food 10 more times
-1minecraft/cooked_fished-0.pngCooked Fish\nminecraft:cooked_fished\nDiminishing returns start after\neating any food 10 more times
-1minecraft/cooked_beef-0.pngSteak\nminecraft:cooked_beef\nDiminishing returns start after\neating any food 10 more times
-1minecraft/cooked_chicken-0.pngCooked Chicken\nminecraft:cooked_chicken\nDiminishing returns start after\neating any food 10 more times
+40Optionalminecraft/cooked_porkchop-0.pngCooked Porkchop\nminecraft:cooked_porkchop
+1minecraft/cooked_fished-0.pngCooked Fish\nminecraft:cooked_fished
+1minecraft/cooked_beef-0.pngSteak\nminecraft:cooked_beef
+1minecraft/cooked_chicken-0.pngCooked Chicken\nminecraft:cooked_chicken
 1minecraft/dye-2.pngCactus Green
-1minecraft/baked_potato-0.pngBaked Potato\nminecraft:baked_potato\nDiminishing returns start after\neating any food 10 more times
+1minecraft/baked_potato-0.pngBaked Potato\nminecraft:baked_potato
 1minecraft/coal-1.pngCharcoal\nBurn Time: 1600
 1minecraft/iron_ingot-0.pngIron Ingot
 1minecraft/gold_ingot-0.pngGold Ingot
@@ -70,5 +70,5 @@ Finally, kill an Iron Golem while it stands within the ritual area to activate t
 1Optionalminecraft/pumpkin-0.pngPumpkin
 1minecraft/iron_block-0.pngBlock of Iron
 4LocationDIM/1-.pngThe End
-1RetrievalExtraUtilities/divisionSigil-0-activated.pngPseudo-Inversion Sigil\nSTABLE
+RetrievalExtraUtilities/divisionSigil-0-activated.pngPseudo-Inversion Sigil\nSTABLE
 1

@@ -1,11 +1,11 @@
 harvestcraft/potatocakesItem-0.pngPotato CakesPotatoes, onions, butter and a skillet make very tasty potato cakes.0-1ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceminecraft/egg-0.pngEgg
 4minecraft/sugar-0.pngSugar
-4gregtech/gt.metaitem.02-32559.pngDough\ngregtech:gt.metaitem.02\nFor making Breads\nDiminishing returns start after\neating any food 10 more times
+4gregtech/gt.metaitem.02-32559.pngDough\ngregtech:gt.metaitem.02\nFor making Breads
 4enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 15tasksANDOptionalharvestcraft/skilletItem-0.pngSkillet
-1minecraft/potato-0.pngPotato\nminecraft:potato\nDiminishing returns start after\neating any food 10 more times
-4harvestcraft/onionItem-0.pngOnion\nharvestcraft:onionItem\nDiminishing returns start after\neating any food 10 more times
+1minecraft/potato-0.pngPotato\nminecraft:potato
+4harvestcraft/onionItem-0.pngOnion\nharvestcraft:onionItem
 4harvestcraft/butterItem-0.pngButter
-4Retrievalharvestcraft/potatocakesItem-0.pngPotato Cakes\nharvestcraft:potatocakesItem\nDiminishing returns start after\neating any food 10 more times
+4Retrievalharvestcraft/potatocakesItem-0.pngPotato Cakes\nharvestcraft:potatocakesItem
 4

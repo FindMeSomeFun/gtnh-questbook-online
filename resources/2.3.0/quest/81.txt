@@ -2,7 +2,7 @@ gregtech/gt.blockmachines-1002.png§6§lAt the End of......the universe everyt
 
 Ingots that go through the EBF above a certain temperature will come out as hot ingots that need to be cooled.
 
-You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.1-1ANDpre9401gregtech/gt.blockmachines-1172.png10141gregtech/gt.metaitem.01-32704.pngrewardsItemharvestcraft/neapolitanicecreamItem-0.pngNeapolitan Ice Cream\nharvestcraft:neapolitanicecreamItem\nDiminishing returns start after\neating any food 10 more times
+You will need a minimum of 16 frost proof machine casings, the rest depends on your setup.1-1ANDpre9401gregtech/gt.blockmachines-1172.png10141gregtech/gt.metaitem.01-32704.pngrewardsItemharvestcraft/neapolitanicecreamItem-0.pngNeapolitan Ice Cream\nharvestcraft:neapolitanicecreamItem
 4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-1002.pngVacuum Freezer\nMachine Type: Vacuum Freezer\nController Block for the Vacuum Freezer\nCools hot ingots and cells\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech

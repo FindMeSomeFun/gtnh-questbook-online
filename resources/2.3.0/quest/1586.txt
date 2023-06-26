@@ -3,5 +3,5 @@ witchery/distilleryidle-0.pngDream DistilleryYou probably want a Distillery to
 64tasksANDConsumewitchery/distilleryidle-0.pngDistillery
 1witchery/ingredient-27.pngClay Jar
 64LocationDIM/55-.pngSpirit World
-1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5

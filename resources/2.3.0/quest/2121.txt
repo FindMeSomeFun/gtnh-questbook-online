@@ -1,3 +1,3 @@
-gregtech/gt.metatool.01-30.pngBetter Grafter Through TechnologyThe GT Branch Cutter is much better than the forestry grafters.  It can have much higher durability based upon which material you use to create it.0-1ANDpre20840Forestry/grafter-0.pngrewardsItemForestry/fruits-3.pngLemon\nForestry:fruits\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.metatool.01-30.pngBetter Grafter Through TechnologyThe GT Branch Cutter is much better than the forestry grafters.  It can have much higher durability based upon which material you use to create it.0-1ANDpre20840Forestry/grafter-0.pngrewardsItemForestry/fruits-3.pngLemon\nForestry:fruits
 64tasksANDRetrievalgregtech/gt.metatool.01-30.pngBranch Cutter\nDurability: 0 / 0\nNULL lvl 0\nAttack Damage: 2.5\nMining Speed: 0.25
 1

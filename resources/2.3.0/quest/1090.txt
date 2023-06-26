@@ -9,4 +9,4 @@ This is a good use for your LV pumps once you upgrade to MV pumps for oil. If yo
 15tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pump\nThe best way to empty Oceans! Outputs on top\n64 EU/operation, 4 sec per bucket, no stuttering\nMaximum pumping area: 21x21\nUse Screwdriver to regulate pumping area\nUse Soft Mallet to disable and retract the pipe\nDisable the bottom pump to retract the pipe!\nUse Soldering Iron to auto retract the pipe when hitting a rock\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1RetrievalIC2/blockMiningPipe-0.pngMining Pipe
 16LocationDIM/-1-.pngNether
-1
+

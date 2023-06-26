@@ -12,7 +12,7 @@ The witch must drink the brew and then will fall into a deep sleep, leaving thei
 1witchery/ingredient-34.pngWhiff of Magic
 1witchery/ingredient-105.pngPurified Milk
 1witchery/ingredient-78.pngIcy Needle
-1minecraft/cookie-0.pngCookie\nminecraft:cookie\nDiminishing returns start after\neating any food 10 more times
+1minecraft/cookie-0.pngCookie\nminecraft:cookie
 1witchery/ingredient-69.pngWater Artichoke Globe
 1Retrievalwitchery/ingredient-95.pngBrew of Sleeping
 1

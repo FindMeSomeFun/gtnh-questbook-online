@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-8516.png§5§lProcess Some Certus QuartzFor the emitter and the sensor you'll need to get some certus quartz.1-1ORpre881gregtech/gt.blockmachines-1120.png11660minecraft/quartz_ore-0.pngrewardsItemgregtech/gt.metaitem.02-32107.pngMineral Water\ngregtech:gt.metaitem.02\nThe best Stuff you can drink to stay healthy\nDiminishing returns start after\neating any food 10 more times
+gregtech/gt.metaitem.01-8516.png§5§lProcess Some Certus QuartzFor the emitter and the sensor you'll need to get some certus quartz.1-1ORpre881gregtech/gt.blockmachines-1120.png11660minecraft/quartz_ore-0.pngrewardsItemgregtech/gt.metaitem.02-32107.pngMineral Water\ngregtech:gt.metaitem.02\nThe best Stuff you can drink to stay healthy
 5Choiceminecraft/glowstone_dust-0.pngGlowstone Dust
 8minecraft/blaze_powder-0.pngBlaze Powder
 2Natura/barleyFood-7.pngFlamestring\nSomewhat more durable than string

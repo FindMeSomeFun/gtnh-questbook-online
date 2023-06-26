@@ -8,7 +8,7 @@ Later on, you can use an arc furnace to make wrought iron ingots directly.
 
 1-1ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metatool.01-12-WroughtIron-Wood.pngHammer\nDurability: 38,400 / 38,400\nWrought Iron lvl 2\nAttack Damage: 5.0\nMining Speed: 4.5\nCrushes Ores instead of harvesting them\nUsable for Prospecting\nSharpness II
 1gregtech/gt.metatool.01-16-WroughtIron-WroughtIron.pngWrench\nDurability: 38,400 / 38,400\nWrought Iron lvl 2\nAttack Damage: 5.0\nMining Speed: 6.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick
-1gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich\ngregtech:gt.metaitem.02\nFor Men! (and manly Women)\nDiminishing returns start after\neating any food 10 more times
+1gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich\ngregtech:gt.metaitem.02\nFor Men! (and manly Women)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-9032.pngIron Nugget\nFe
 63Optionalgregtech/gt.metaitem.01-9304.pngWrought Iron Nugget\nFe

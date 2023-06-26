@@ -12,12 +12,12 @@ ExtraUtilities/defoliageAxe-0.pngHunger No MoreThe hunger is constantly follow
 8harvestcraft/gourdgarden-0.pngGourd Garden
 8harvestcraft/herbgarden-0.pngHerb Garden
 8harvestcraft/watergarden-0.pngWater Garden
-8Consumeharvestcraft/firmtofuItem-0.pngFirm Tofu\nharvestcraft:firmtofuItem\nDiminishing returns start after\neating any food 10 more times
-128harvestcraft/silkentofuItem-0.pngSilken Tofu\nharvestcraft:silkentofuItem\nDiminishing returns start after\neating any food 10 more times
-128Consumeharvestcraft/delightedmealItem-0.pngDelighted Meal\nharvestcraft:delightedmealItem\nDiminishing returns start after\neating any food 10 more times
-20harvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem\nDiminishing returns start after\neating any food 10 more times
-20harvestcraft/rainbowcurryItem-0.pngRainbow Curry\nharvestcraft:rainbowcurryItem\nDiminishing returns start after\neating any food 10 more times
-20harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem\nDiminishing returns start after\neating any food 10 more times
-20harvestcraft/sausageinbreadItem-0.pngSausage in Bread\nharvestcraft:sausageinbreadItem\nDiminishing returns start after\neating any food 10 more times
-20harvestcraft/beefwellingtonItem-0.pngBeef Wellington\nharvestcraft:beefwellingtonItem\nDiminishing returns start after\neating any food 10 more times
+8Consumeharvestcraft/firmtofuItem-0.pngFirm Tofu\nharvestcraft:firmtofuItem
+128harvestcraft/silkentofuItem-0.pngSilken Tofu\nharvestcraft:silkentofuItem
+128Consumeharvestcraft/delightedmealItem-0.pngDelighted Meal\nharvestcraft:delightedmealItem
+20harvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem
+20harvestcraft/rainbowcurryItem-0.pngRainbow Curry\nharvestcraft:rainbowcurryItem
+20harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem
+20harvestcraft/sausageinbreadItem-0.pngSausage in Bread\nharvestcraft:sausageinbreadItem
+20harvestcraft/beefwellingtonItem-0.pngBeef Wellington\nharvestcraft:beefwellingtonItem
 20

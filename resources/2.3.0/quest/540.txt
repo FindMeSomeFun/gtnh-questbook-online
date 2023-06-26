@@ -1,6 +1,6 @@
 gregtech/gt.metaitem.01-32721.png§5§lA Truly Sharp Saw BladeCombining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine.
 
-§3BTW, this is the only use for cobalt brass in the game, pretty pointless, yeah?1-1ANDpre5411gregtech/gt.metaitem.01-11343.pngrewardsItemharvestcraft/chocolatemilkshakeItem-0.pngChocolate Milkshake\nharvestcraft:chocolatemilkshakeItem\nDiminishing returns start after\neating any food 10 more times
+§3BTW, this is the only use for cobalt brass in the game, pretty pointless, yeah?1-1ANDpre5411gregtech/gt.metaitem.01-11343.pngrewardsItemharvestcraft/chocolatemilkshakeItem-0.pngChocolate Milkshake\nharvestcraft:chocolatemilkshakeItem
 5Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.02-31343.pngCobalt Brass Gear\n(ZnCu\u2083)\u2087AlCo
 1Optionalgregtech/gt.metaitem.01-1500.pngSmall Pile of Diamond Dust\nC\nBurn Time: 25600

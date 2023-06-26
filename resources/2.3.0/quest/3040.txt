@@ -29,4 +29,4 @@ minecraft/writable_book-0.pngWhere Do I Build the Dyson Swarm?If you read the 
 15% - Makemake, Haumea
 1% - Garden, Mining and Void Worlds
 §40% - All other dimensions0-1ANDpre30390gregtech/gt.blockmachines-14001.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

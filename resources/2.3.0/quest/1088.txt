@@ -7,5 +7,5 @@ harvestcraft/friedeggItem-0.pngFried EggsSo easy, skillet and an egg.... fried
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalharvestcraft/skilletItem-0.pngSkillet
 1minecraft/egg-0.pngEgg
-4Retrievalharvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem\nDiminishing returns start after\neating any food 10 more times
+4Retrievalharvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem
 4

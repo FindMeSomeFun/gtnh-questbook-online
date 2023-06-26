@@ -12,8 +12,8 @@ Of course, you can't do any of this on a server.0-1ANDpre7210Natura/N Cro
 32IC2/blockCrop-0.pngCrop
 128enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDRetrievalminecraft/carrot-0.pngCarrot\nminecraft:carrot\nDiminishing returns start after\neating any food 10 more times
-64minecraft/potato-0.pngPotato\nminecraft:potato\nDiminishing returns start after\neating any food 10 more times
+15tasksANDRetrievalminecraft/carrot-0.pngCarrot\nminecraft:carrot
+64minecraft/potato-0.pngPotato\nminecraft:potato
 64minecraft/melon_block-0.pngMelon
 32minecraft/pumpkin-0.pngPumpkin
 32

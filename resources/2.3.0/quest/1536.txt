@@ -2,7 +2,7 @@ RandomThings/ingredient-3.png§3§lI Ain't Afraid of no Ghost!I've found a use
 
 So you can use this to create a moat around your base that drops mobs to the death in various ways, or just to shuttle them off somewhere else. Separate babies from mothers? Use it in a mob farm? Capture pigmen walking into the Overworld from you Nether portal? So many possibilities!0-1ANDpre521minecraft/glass-0.pngrewardsChoiceminecraft/glass-0.pngGlass\nGlass-Tier: HV
 16enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1harvestcraft/stuffedeggplantItem-0.pngStuffed Eggplant\nharvestcraft:stuffedeggplantItem\nDiminishing returns start after\neating any food 10 more times
+1harvestcraft/stuffedeggplantItem-0.pngStuffed Eggplant\nharvestcraft:stuffedeggplantItem
 3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 15tasksANDOptionalRandomThings/ingredient-3.pngEctoplasm

@@ -24,4 +24,4 @@ Control buttons - Buttons might change their behavior and appearance depending o
 
 6) Input slot - Standard functionality.
 0-1ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
-1
+

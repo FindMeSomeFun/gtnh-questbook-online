@@ -2,7 +2,7 @@ minecraft/glass-0.png§3§4§3§lA Clear ViewAre you still living in your dirt
 
 §4Hint: In order to use it for recipes, you have to chisel it.
 
-§3PS: The macerator no longer gives tiny piles, just uncraft a normal pile to get tiny ones. You'll appreciate this once you have a mixer in LV.1-1ANDpre491minecraft/piston-0.pngrewardsItemminecraft/cookie-0.pngCookie\nminecraft:cookie\nDiminishing returns start after\neating any food 10 more times
+§3PS: The macerator no longer gives tiny piles, just uncraft a normal pile to get tiny ones. You'll appreciate this once you have a mixer in LV.1-1ANDpre491minecraft/piston-0.pngrewardsItemminecraft/cookie-0.pngCookie\nminecraft:cookie
 2Choiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1minecraft/glass-0.pngGlass\nGlass-Tier: HV
 5Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

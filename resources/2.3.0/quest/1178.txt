@@ -1,8 +1,8 @@
 IC2/itemTinCanFilled-0.pngFood 2.0Forget everything you know about food and values. With your new canning machine you are able to fill tin cans with very nourishing food. This food can be consumed in milliseconds and makes you full and happy. And you can eat as much as you want without getting tired of the food.
 
-Eating before you are starving restores saturation and conserves cans.0-1ANDpre12890gregtech/gt.blockmachines-223.pngrewardsChoiceminecraft/apple-0.pngApple\nminecraft:apple\nDiminishing returns start after\neating any food 10 more times
-64minecraft/cooked_beef-0.pngSteak\nminecraft:cooked_beef\nDiminishing returns start after\neating any food 10 more times
-32minecraft/golden_apple-0.pngGolden Apple\nminecraft:golden_apple\nDiminishing returns start after\neating any food 10 more times
+Eating before you are starving restores saturation and conserves cans.0-1ANDpre12890gregtech/gt.blockmachines-223.pngrewardsChoiceminecraft/apple-0.pngApple\nminecraft:apple
+64minecraft/cooked_beef-0.pngSteak\nminecraft:cooked_beef
+32minecraft/golden_apple-0.pngGolden Apple\nminecraft:golden_apple
 2enhancedlootbags/lootbag-30.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"

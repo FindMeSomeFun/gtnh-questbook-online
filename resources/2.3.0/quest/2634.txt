@@ -3,4 +3,4 @@ ToxicEverglades/everglades.trigger-0.pngA Vision of the Future (FPS Drop Not In
 The dim itself is filled with GT++ ores. If you want the ore distribution to make sense/be greggy, badger Alk about it.0-1ANDpre26271gregtech/gt.blockmachines-47.pngrewardstasksANDRetrievalToxicEverglades/blockDarkWorldPortalFrame-0.pngContainment Frame\nUse this to access the Toxic Everglades.\nAssembled in the same shape as the Nether Portal.
 10ToxicEverglades/everglades.trigger-0.pngAlkalus Disk [Activated]\nShines the way, towards the far away Everglades.\nThis item produces such a temperature, that you''d hate to use it incorrectly.
 1LocationDIM/227-.pngToxic Everglades
-1
+

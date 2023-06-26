@@ -5,7 +5,7 @@ As before, you can use IC2 crops, regular crops/trees or fishing. For IC2 crops,
 To complete this quest, make a Multifarm, a Farming Station or some Fish Catchers.0-1ORpre1601gregtech/gt.blockmachines-13.png31020gregtech/gt.metaitem.01-30627.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1minecraft/fish-3.pngPufferfish\nminecraft:fish\nDiminishing returns start after\neating any food 10 more times
+1minecraft/fish-3.pngPufferfish\nminecraft:fish
 1tasksANDOptionalForestry/ffarm-0.pngFarm Block\nStone Bricks
 36OptionalEnderIO/blockFarmStation-0.pngFarming Station
 1Optionalmiscutils/blockFishTrap-0.pngFish Catcher\nThis trap catches fish faster if surrounded by more water blocks\nCan also be placed beside upto 4 other fish traps\nRequires at least two faces touching water\n1/1000 chance to produce triple loot.
