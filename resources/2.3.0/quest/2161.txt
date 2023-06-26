@@ -1,4 +1,4 @@
-chisel/warningSign-7.png§3§lSafety FirstFor those new to GregTech, here are some tips and warnings about electricity. 
+2161chisel/warningSign-7.png0§3§lSafety First1-1For those new to GregTech, here are some tips and warnings about electricity. 
 
 Machines don't like being out in the rain, and will start fires nearby. Fires next to a machine have a random chance of an explosion. Also, sending a higher voltage than a machine's tier cause an explosion. Or several, if you pack things together, like many people. Sending more amps than a machine can use doesn't harm anything though.
 
@@ -16,6 +16,6 @@ A single block machine starved of EU will restart progress but not lose the reci
 
 Note that any block that emits EU has loss when doing so: 2 ^ tier. So 2 EU at LV, 4 EU at MV, and so on. Using large numbers of battery buffers in a row is thus very wasteful of your power, and even 1 can prevent usage of an EBF at MV voltage. Of course, if you want to keep your amps topped up, you'll need to place BBs occasionally to 'top up' the amps, though this is less the case the further ingame you get, as the loss becomes less of something to worry about.
 
-If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.0-1ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemmiscutils/itemHatTinFoil-0.pngTin Foil Hat\nDoomSquirter''s protection against cosmic radiation!\nGeneral paranoia makes the wearer unable to collect xp\nMovement speed is also reduced, to keep you safe\nThis hat may also have other strange powers\nProtection: 1\nDurability: 55/55
+If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemmiscutils/itemHatTinFoil-0.pngTin Foil Hat\nDoomSquirter''s protection against cosmic radiation!\nGeneral paranoia makes the wearer unable to collect xp\nMovement speed is also reduced, to keep you safe\nThis hat may also have other strange powers\nProtection: 1\nDurability: 55/55
 1tasksANDCheckboxcheckbox-.pngCheckbox
 

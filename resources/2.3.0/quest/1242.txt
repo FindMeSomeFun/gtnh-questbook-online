@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-424.png§b§a§lEV Chemical ReactorAn EV chemical reactor is required to get some indium or make your radon production much faster. If you already made a large chemical reactor use that instead.
+1242gregtech/gt.blockmachines-424.png0§b§a§lEV Chemical Reactor7-1An EV chemical reactor is required to get some indium or make your radon production much faster. If you already made a large chemical reactor use that instead.
 
-§3Complete either task.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+§3Complete either task.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8minecraft/ender_eye-0.pngEye of Ender
 4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

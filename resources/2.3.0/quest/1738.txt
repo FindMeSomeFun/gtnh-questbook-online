@@ -1,4 +1,4 @@
-openglasses/openglasses-7734.png§2§lWhen All You Have is a Hammer......the whole world looks like a nail.  When looking for good tool materials, see "GregTech Material Tools" tab in NEI. Remember NEI bookmark is your friend.
+1738openglasses/openglasses-7734.png1§2§lWhen All You Have is a Hammer...2-1...the whole world looks like a nail.  When looking for good tool materials, see "GregTech Material Tools" tab in NEI. Remember NEI bookmark is your friend.
 
 The GT tools each have special uses.
 
@@ -14,5 +14,5 @@ Soft mallet - Turning machines on/off.
 
 Hammer - Prospecting for ores in a limited way in front of you, and smashing ore blocks into crushed ores.
 
-§4Tin Pipes need a Steel Wrench to dismantle!!!1-1ANDpre361gregtech/gt.metatool.01-16.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+§4Tin Pipes need a Steel Wrench to dismantle!!!ANDpre361gregtech/gt.metatool.01-16.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

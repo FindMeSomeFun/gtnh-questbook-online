@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-8530.pngFinding ApatiteIt's now time to search for some ores. Apatite is the most important material in Forestry. You can make fertilizer, farm blocks and other things with it. The vein is found between Y 40-60.0-1ANDpre5800Forestry/factory2-0.pngrewardsChoiceenhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+588gregtech/gt.metaitem.01-8530.png0Finding Apatite16-1It's now time to search for some ores. Apatite is the most important material in Forestry. You can make fertilizer, farm blocks and other things with it. The vein is found between Y 40-60.ANDpre5800Forestry/factory2-0.pngrewardsChoiceenhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1harvestcraft/frenchtoastItem-0.pngFrench Toast\nharvestcraft:frenchtoastItem
 1gregtech/gt.metaitem.02-32224.pngChumburger\ngregtech:gt.metaitem.02\nFum is Chum!
 2Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

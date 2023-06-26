@@ -1,8 +1,8 @@
-minecraft/skull-1.png§6§lThere Can Be Only One......so make them lose their heads. 
+1643minecraft/skull-1.png0§6§lThere Can Be Only One...5-1...so make them lose their heads. 
 
 Make yourself a Cleaver with your tool forge and collect some wither skeleton skulls.
 
-§4If you have problems finding wither skeletons, once you get to HV you can put a powered skeleton spawner in the Nether.0-1ANDpre15270EnderIO/blockReinforcedObsidian-0.pngrewardsItemminecraft/skull-1.pngWither Skeleton Skull\nMay work as an Infusion Stabilizer\nApplicable up to: 07-Cobalt
+§4If you have problems finding wither skeletons, once you get to HV you can put a powered skeleton spawner in the Nether.ANDpre15270EnderIO/blockReinforcedObsidian-0.pngrewardsItemminecraft/skull-1.pngWither Skeleton Skull\nMay work as an Infusion Stabilizer\nApplicable up to: 07-Cobalt
 1tasksANDRetrievalTGregworks/tGregToolPartLargeSwordBlade-1650.pngVanadiumsteel Large Sword Blade\nAttack: 7 Hearts\nDurability: 1440\nParts can be replaced
 1Retrievalminecraft/skull-1.pngWither Skeleton Skull\nMay work as an Infusion Stabilizer\nApplicable up to: 07-Cobalt
 3

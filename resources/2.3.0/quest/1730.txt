@@ -1,4 +1,4 @@
-dreamcraft/item.LargeFuelCanister-0.pngLarge Fuel CanistersEvery rocket needs fuel storage canisters. For the tier 5 rocket you need to craft two medium and two large canisters.1-1ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoicedreamcraft/item.QuantinumCompressedPlate-0.pngCompressed Quantium Plate
+1730dreamcraft/item.LargeFuelCanister-0.png1Large Fuel Canisters24-1Every rocket needs fuel storage canisters. For the tier 5 rocket you need to craft two medium and two large canisters.ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoicedreamcraft/item.QuantinumCompressedPlate-0.pngCompressed Quantium Plate
 4dreamcraft/item.LedoxCompressedPlate-0.pngCompressed Ledox Plate
 4enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"

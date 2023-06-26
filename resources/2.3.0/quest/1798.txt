@@ -1,8 +1,8 @@
-minecraft/ghast_tear-0.pngThe Ground is CryingNeed an alternate source of Chlorine? Breed some Tearstalks to get Ghast Tears for making salt water.
+1798minecraft/ghast_tear-0.png0The Ground is Crying13-1Need an alternate source of Chlorine? Breed some Tearstalks to get Ghast Tears for making salt water.
 
 ;-;
 
-Nether warts should yield tearstalks.0-1ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemminecraft/ghast_tear-0.pngGhast Tear
+Nether warts should yield tearstalks.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemminecraft/ghast_tear-0.pngGhast Tear
 64enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1tasksANDRetrievalIC2/itemCropSeed-0.pngTearstalks Seeds\nGr 0\nGa 0\nRe 0
 1

@@ -1,4 +1,4 @@
-appliedenergistics2/tile.BlockDenseEnergyCell-0-1600000.pngDense BoysGiving your network even more stability. Dense energy cells store AE energy up to 1.6 million units. They do not accept power directly but are used to buffer power in an already existing ME Network.0-1ANDpre12911appliedenergistics2/tile.BlockEnergyCell-0-200000.pngrewardsChoicegregtech/gt.metaitem.01-11085.pngPlatinum Ingot\nPt
+1299appliedenergistics2/tile.BlockDenseEnergyCell-0-1600000.png0Dense Boys27-1Giving your network even more stability. Dense energy cells store AE energy up to 1.6 million units. They do not accept power directly but are used to buffer power in an already existing ME Network.ANDpre12911appliedenergistics2/tile.BlockEnergyCell-0-200000.pngrewardsChoicegregtech/gt.metaitem.01-11085.pngPlatinum Ingot\nPt
 16gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 16enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

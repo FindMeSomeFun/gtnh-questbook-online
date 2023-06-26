@@ -1,4 +1,4 @@
-GalacticraftMars/item.canisterPartialLOX-1.pngLOX and Bagels§cNOTE: You cannot directly refill your tanks in a crafting grid anymore!§r
+1371GalacticraftMars/item.canisterPartialLOX-1.png0LOX and Bagels24-1§cNOTE: You cannot directly refill your tanks in a crafting grid anymore!§r
 
 The LOX canister is an alternate solution to refilling your oxygen tanks.
 
@@ -8,7 +8,7 @@ To refill your oxygen tanks just put the tank and the LOX canister in the oxygen
 
 Each LOX canister can fill 4 Heavy Oxygen Tanks, 6 Medium Oxygen Tanks, or 12 Light Oxygen Tanks.
 
-So much Greggy!0-1ANDpre8211GalacticraftCore/tile.fuelLoader-0.pngrewardsChoiceGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister\nDurability: 0 / 1001
+So much Greggy!ANDpre8211GalacticraftCore/tile.fuelLoader-0.pngrewardsChoiceGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister\nDurability: 0 / 1001
 2GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
 16GalacticraftCore/item.oxygenTankLightFull-900.pngLight Oxygen Tank\nOxygen Remaining: 100\nDurability: 100 / 1000
 1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

@@ -1,4 +1,4 @@
-Botania/specialFlower-0-beegonia.pngAccording to all known laws of mana generation......there is no way a bee should be able to produce mana. The beegonia doesn't know this, and will gladly eat up all of your spare drones to help with filling your mana pools.0-1ANDpre32621Botania/manaResource-23.pngrewardsItemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+3270Botania/specialFlower-0-beegonia.png0According to all known laws of mana generation...35-1...there is no way a bee should be able to produce mana. The beegonia doesn't know this, and will gladly eat up all of your spare drones to help with filling your mana pools.ANDpre32621Botania/manaResource-23.pngrewardsItemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 15dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 15tasksANDRetrievalBotania/specialFlower-0-beegonia.pngBeegonia\nWe won''t bee seeing you any more...\n[MagicBees]
 1

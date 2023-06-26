@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-32750.png§6§lPower of the SunNow it's time to invest in some renewable energy. Let's start with solar panels. The basic one only gives 1 EU/t. Most GT machines can use them as covers, and receive power, but only so long as it can see the sun (the top). Be sure to put a glass layer above them in case it rains while you swap panels. You'll still want to keep rain off the sides of the machine hull too.
+933gregtech/gt.metaitem.01-32750.png0§6§lPower of the Sun19-1Now it's time to invest in some renewable energy. Let's start with solar panels. The basic one only gives 1 EU/t. Most GT machines can use them as covers, and receive power, but only so long as it can see the sun (the top). Be sure to put a glass layer above them in case it rains while you swap panels. You'll still want to keep rain off the sides of the machine hull too.
 
-§3The Aluminium Iron plate needs an MV Forming Press.0-1ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust\nSi
+§3The Aluminium Iron plate needs an MV Forming Press.ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust\nSi
 16gregtech/gt.metaitem.01-2019.pngAluminium Dust\nAl
 16enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

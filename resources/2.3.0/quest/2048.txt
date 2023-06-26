@@ -1,4 +1,4 @@
-BiomesOPlenty/moss-0.pngMossGiven up on looking for moss in the Twilight Forest? You can easily grow a crop that will give you the various mosses, perfect for your Tinker's tools. Start with a lilypad.0-1ANDpre16000minecraft/reeds-0.pngrewardsItemIC2/itemCropSeed-0.pngSpanish Moss Seeds\nGr 1\nGa 1\nRe 1
+2048BiomesOPlenty/moss-0.png0Moss13-1Given up on looking for moss in the Twilight Forest? You can easily grow a crop that will give you the various mosses, perfect for your Tinker's tools. Start with a lilypad.ANDpre16000minecraft/reeds-0.pngrewardsItemIC2/itemCropSeed-0.pngSpanish Moss Seeds\nGr 1\nGa 1\nRe 1
 1IC2/itemCropSeed-0.pngEmber Moss Seeds\nGr 1\nGa 1\nRe 1
 1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1tasksANDRetrievalIC2/itemCropSeed-0.pngMoss Seeds\nGr 0\nGa 0\nRe 0

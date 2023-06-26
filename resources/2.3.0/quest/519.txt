@@ -1,6 +1,6 @@
-gendustry/GeneSample-0.pngOnly the Best: TemperatureOn your way to awesome bees, you have to collect only the best traits available.
+519gendustry/GeneSample-0.png0Only the Best: Temperature28-1On your way to awesome bees, you have to collect only the best traits available.
 
-§3None is for testing jubilant state, while 3 is what you'll have on most of the time. You can hit all temp reqs with 3 if you work in a normal temp area. You can go up to 5 if you use the acclimatizer and want nether bees working in an icy area for some reason.0-1ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+§3None is for testing jubilant state, while 3 is what you'll have on most of the time. You can hit all temp reqs with 3 if you work in a normal temp area. You can go up to 5 if you use the acclimatizer and want nether bees working in an icy area for some reason.ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample\nTaken from a Bee\nTemperature tolerance: None
 1gendustry/GeneSample-0.pngGene Sample\nTaken from a Bee\nTemperature tolerance: Both 3

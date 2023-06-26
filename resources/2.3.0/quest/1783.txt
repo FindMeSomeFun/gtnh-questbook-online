@@ -1,10 +1,10 @@
-TConstruct/travelVest-0-upgraded.pngTraveller's Vest UpgradesYour vest can be equipped with a few modification like perfect dodge and stealth.
+1783TConstruct/travelVest-0-upgraded.png0Traveller's Vest Upgrades14-1Your vest can be equipped with a few modification like perfect dodge and stealth.
 Perfect dodge mean you're harder to hit and can be stacked up to 3 times.
 Stealth turns you invisible while sneaking. Place the vest in the center of a Tinker's Crafting Station.
 
 Hint:
 Autorepair can be added to the vest as well.
-Every Armor part has 3 Slots for modification.0-1ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceminecraft/potion-8206.pngPotion of Invisibility\nInvisibility (3:00)
+Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceminecraft/potion-8206.pngPotion of Invisibility\nInvisibility (3:00)
 2minecraft/ender_eye-0.pngEye of Ender
 2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

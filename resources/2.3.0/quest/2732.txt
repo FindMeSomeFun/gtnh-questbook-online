@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-13106.pngThe Third Time's the CharmThe Lapotronic Supercapacitor is an alternative to the Power Sub-Station (or Power Station Control Node as indicated on the controller) and the LESU. It is harder to make, but has its own benefits:
+2732gregtech/gt.blockmachines-13106.png0The Third Time's the Charm20-1The Lapotronic Supercapacitor is an alternative to the Power Sub-Station (or Power Station Control Node as indicated on the controller) and the LESU. It is harder to make, but has its own benefits:
 
 1) It looks cooler
 2) Hatch tier is not limited by the capacitors like cells, so you can use whatever hatch tier you want if you store up power or have the input for it
@@ -17,7 +17,7 @@ For the first, smallest one, you'll need the following, plus an Energy Hatch and
 
 You can use Laser Hatches, that can output very high amperage. You need at least UV Glass to use them. (This is also the case with PSS BTW.)
 
-BTW your LSC can hold between 540M and 8.1B EU using only the EV capacitors. Remember that you need more than half the blocks to be non-empty capacitors for it to be valid.0-1ANDpre8060IC2/itemBatLamaCrystal-1-charged.png12611gregtech/gt.metaitem.01-32706.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+BTW your LSC can hold between 540M and 8.1B EU using only the EV capacitors. Remember that you need more than half the blocks to be non-empty capacitors for it to be valid.ANDpre8060IC2/itemBatLamaCrystal-1-charged.png12611gregtech/gt.metaitem.01-32706.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip\nNeeded for Circuits
 15Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

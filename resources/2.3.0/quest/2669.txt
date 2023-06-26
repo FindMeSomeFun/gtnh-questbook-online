@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-11129.pngWasn't This Only Found in the Center of Neutron Stars?You'll need Neutronium for UV and the T7 rocket, so let's make some.
+2669gregtech/gt.metaitem.01-11129.png1Wasn't This Only Found in the Center of Neutron Stars?10-1You'll need Neutronium for UV and the T7 rocket, so let's make some.
 
-To get Neutronium, go to one of the planets that has the small ores. Then mix it with Helium Plasma to make Raw Neutronium Dust. It can be smelted in a Blast Furnace at 9000K and 491,520 EU/t. This recipe takes a long time and a lot of power. Better make another EBF or Volcanus. Or a few. Or upgrade your Mega Blast Furnace.1-1ANDpre26271gregtech/gt.blockmachines-47.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-11129.pngNeutronium Ingot\nNt
+To get Neutronium, go to one of the planets that has the small ores. Then mix it with Helium Plasma to make Raw Neutronium Dust. It can be smelted in a Blast Furnace at 9000K and 491,520 EU/t. This recipe takes a long time and a lot of power. Better make another EBF or Volcanus. Or a few. Or upgrade your Mega Blast Furnace.ANDpre26271gregtech/gt.blockmachines-47.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-11129.pngNeutronium Ingot\nNt
 16

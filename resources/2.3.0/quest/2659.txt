@@ -1,5 +1,5 @@
-gregtech/gt.metaitem.03-32076.pngI'm Telling You, It's Not Mold!Now let's make Biocells. To make them, you have to heat up your Raw Bio Medium to make Sterilized Bio Medium.
+2659gregtech/gt.metaitem.03-32076.png1I'm Telling You, It's Not Mold!12-1Now let's make Biocells. To make them, you have to heat up your Raw Bio Medium to make Sterilized Bio Medium.
 
-Then you just have to use a Chemical Reactor to make Biocells.1-1ANDpre26571dreamcraft/item.TCetiESeaweedExtract-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30604.pngSterilized Bio Catalyst Medium Cell
+Then you just have to use a Chemical Reactor to make Biocells.ANDpre26571dreamcraft/item.TCetiESeaweedExtract-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30604.pngSterilized Bio Catalyst Medium Cell
 1Retrievalgregtech/gt.metaitem.03-32076.pngBiocells\nMutated Raw inteligence
 1

@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.99-13739.png§9§lSynthetic RubberWant to make the synthetic rubber styrene-butadiene?
+1615gregtech/gt.metaitem.99-13739.png1§9§lSynthetic Rubber6-1Want to make the synthetic rubber styrene-butadiene?
 
 I'll show you a way you can get it. You'll need an Oil Cracker and a Distillation Tower. There are different ways to do it and this quest is only an example of how you can make it.
 
-The first step is to crack your Naphtha with steam.1-1ANDpre9431gregtech/gt.blockmachines-423.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
+The first step is to crack your Naphtha with steam.ANDpre9431gregtech/gt.blockmachines-423.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
 16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30739.pngNaphtha Cell

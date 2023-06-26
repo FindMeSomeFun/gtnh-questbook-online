@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-422.png§6§lChemical Lesson, Part TwoMore advanced recipes need an MV chemical reactor. It also speeds up your existing recipes.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1744gregtech/gt.blockmachines-422.png0§6§lChemical Lesson, Part Two5-1More advanced recipes need an MV chemical reactor. It also speeds up your existing recipes.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-422.pngAdvanced Chemical Reactor\nLetting Chemicals react with each other\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
 1

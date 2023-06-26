@@ -1,10 +1,10 @@
-gregtech/gt.metaitem.03-4010.pngNano Forge Tier 1There must a be a way to make a nano scale robots to work in a machine. Carbon ones can be made in an assembly line, but very inefficiently. There must be a better way.
+3279gregtech/gt.metaitem.03-4010.png0Nano Forge Tier 111-1There must a be a way to make a nano scale robots to work in a machine. Carbon ones can be made in an assembly line, but very inefficiently. There must be a better way.
 
 What about a Nano Forge, able to cut up blocks into nano-thin sheets and then creating the first nanite, which helps create thousands of them in mere seconds.
 
 §3The Nano Forge is a big multiblock requiring lots of power over the course of a couple minutes. It is able to use TT energy hatches (including lasers). The controller must have a carbon nanite to use tier 1 recipes.
 
-Despite what NEI might claim there are no minimum voltages for the Nano Forge recipes. If you want to do a recipe you just have to achieve the raw EU/t required, no matter the voltage.0-1ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4010.pngCarbon Nanites\nC
+Despite what NEI might claim there are no minimum voltages for the Nano Forge recipes. If you want to do a recipe you just have to achieve the raw EU/t required, no matter the voltage.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4010.pngCarbon Nanites\nC
 1Retrievalgregtech/gt.blockmachines-357.pngNano Forge\nMachine Type: Nanite Fabricator\nController block for the Nano Forge\nRequires insane amounts of power to create nanites. Each tier\nthe multi gains a new building next to it. The nanite in the\ncontroller slot controls the tier.\n--------------------------------------------\nRequires a Carbon Nanite to use tier tier 1\nRequires a Neutronium Nanite to use tier 2\nRequires a Transcendent Metal Nanite to use tier 3\n--------------------------------------------\nIf a recipe''s tier is lower than the tier of the Nano Forge\nit gains perfect overclock.\nAuthor: BlueWeabo\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GregTech
 1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 1gregtech/gt.blockmachines-4501.pngStellar Alloy Frame Box\nJust something you can put covers on.

@@ -1,6 +1,6 @@
-ProjRedTransportation/projectred.transportation.routingchip-5.pngItem BroadcasterThe item broadcaster is a chip that tells everything in the pipe system what items it has in the connecting inventory and if another chip needs anything it will send it to them. Right click it to set the items it will transmit. If you leave it empty and set to blacklist it will transmit everything.
+1631ProjRedTransportation/projectred.transportation.routingchip-5.png0Item Broadcaster25-1The item broadcaster is a chip that tells everything in the pipe system what items it has in the connecting inventory and if another chip needs anything it will send it to them. Right click it to set the items it will transmit. If you leave it empty and set to blacklist it will transmit everything.
 
-Definitely use one in combination with an item overflow chip on your default storage chest. That way overflow will end up in the chest, but will be useable by the rest of your system.0-1ANDpre16300ProjRedTransportation/projectred.transportation.routingchip-4.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
+Definitely use one in combination with an item overflow chip on your default storage chest. That way overflow will end up in the chest, but will be useable by the rest of your system.ANDpre16300ProjRedTransportation/projectred.transportation.routingchip-4.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
 2IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
 1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire\nMax Voltage: 8 (ULV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
 8ProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip

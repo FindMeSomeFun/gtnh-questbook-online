@@ -1,8 +1,8 @@
-IC2/blockMachine2-2.pngCrop AutomationThe Crop-Matron is a LV machine that will monitor crops in a 11x11x3 area and automatically apply fertilizer, Weed-EX, and Water as needed. Water can be pumped in directly or use IC2 Universal water cells, normal cells aren't returned when they're used.
+1542IC2/blockMachine2-2.png0Crop Automation13-1The Crop-Matron is a LV machine that will monitor crops in a 11x11x3 area and automatically apply fertilizer, Weed-EX, and Water as needed. Water can be pumped in directly or use IC2 Universal water cells, normal cells aren't returned when they're used.
 
 The Crop-Matron is rainproof, but make sure you cover up your power supply (you might find a fancy way to do this), or use an LV battery.  A Lithium Ion will last about 2 hours. 
 
-Tilled dirt still requires a nearby water block to be hydrated as the Matron will only water the crop, not the soil. Try putting a lily pad on top so it isn't annoying to walk on, or using Garden Soil instead.0-1ANDpre1031gregtech/gt.metaitem.01-11019.png7210Natura/N Crops-0.pngrewardsChoiceIC2/itemWeedEx-0.pngWeed-EX
+Tilled dirt still requires a nearby water block to be hydrated as the Matron will only water the crop, not the soil. Try putting a lily pad on top so it isn't annoying to walk on, or using Garden Soil instead.ANDpre1031gregtech/gt.metaitem.01-11019.png7210Natura/N Crops-0.pngrewardsChoiceIC2/itemWeedEx-0.pngWeed-EX
 16IC2/itemFertilizer-0.pngFertilizer
 16enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

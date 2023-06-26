@@ -1,4 +1,4 @@
-berriespp/itemSpade-0.pngTime for a SpadeThis item is a combined Weeding Trowel, Hoe and Shovel. If you're the type that accidentally does things, only use this when necessary, as it's easy to mess up and use it to harvest/destroy your crops when you wanted to get rid of a weed.
+1270berriespp/itemSpade-0.png0Time for a Spade13-1This item is a combined Weeding Trowel, Hoe and Shovel. If you're the type that accidentally does things, only use this when necessary, as it's easy to mess up and use it to harvest/destroy your crops when you wanted to get rid of a weed.
 
 You can use it to get seeds from crops when they're §9immature§r using §6right-click§r at very low rates. Using §4left-click§r when §9immature§r will result in nothing.
 
@@ -8,7 +8,7 @@ Keep in mind that the higher the tier/stats of the crop, the lower the chances. 
 
 §3The formula is 1+tanh((-1)(X+5((-Re/2)+Gr+Ga)/21)/12); X=0 to 16
 
-Where Re, Gr, Ga are respectively Resistance, Growth and Gain stat of the crop, and X is tier. Don't ask me whether this is for L/R-click, ask bart or look at the code.0-1ANDpre7240IC2/itemWeed-0.png10811gregtech/gt.blockmachines-222.pngrewardsChoiceIC2/itemCropSeed-0.pngWhite Stonelilly Seeds\nGr 1\nGa 1\nRe 1
+Where Re, Gr, Ga are respectively Resistance, Growth and Gain stat of the crop, and X is tier. Don't ask me whether this is for L/R-click, ask bart or look at the code.ANDpre7240IC2/itemWeed-0.png10811gregtech/gt.blockmachines-222.pngrewardsChoiceIC2/itemCropSeed-0.pngWhite Stonelilly Seeds\nGr 1\nGa 1\nRe 1
 1IC2/itemCropSeed-0.pngNether Stonelilly Seeds\nGr 1\nGa 1\nRe 1
 1IC2/itemCropSeed-0.pngBlack Stonelilly Seeds\nGr 1\nGa 1\nRe 1
 1IC2/itemCropSeed-0.pngRed Stonelilly Seeds\nGr 1\nGa 1\nRe 1

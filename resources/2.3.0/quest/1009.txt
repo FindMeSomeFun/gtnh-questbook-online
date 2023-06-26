@@ -1,6 +1,6 @@
-miscutils/blockFishTrap-0.pngFish Trapping 2.0Fishing can be very boring. Why not automate it with a fish trap?
+1009miscutils/blockFishTrap-0.png0Fish Trapping 2.013-1Fishing can be very boring. Why not automate it with a fish trap?
 
-This is fish trap 2.0.0-1ANDpre651gregtech/gt.metaitem.01-11305.png6330harvestcraft/fishtrap-0.pngrewardsItemgregtech/gt.blockmachines-5132.pngSteel Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,500 K
+This is fish trap 2.0.ANDpre651gregtech/gt.metaitem.01-11305.png6330harvestcraft/fishtrap-0.pngrewardsItemgregtech/gt.blockmachines-5132.pngSteel Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,500 K
 8dreamcraft/item.SteelBars-0.pngSteel Bars
 4IronChest/BlockIronChest-4.pngSteel Chest\n8*9 Inventory - 72 Slots
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

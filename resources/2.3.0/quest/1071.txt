@@ -1,10 +1,10 @@
-TwilightForest/item.emptyMagicMap-0.pngMagic MapFor the magic map you need the magic map focus and a paper stack, made from a stack of paper.
+1071TwilightForest/item.emptyMagicMap-0.png0Magic Map311728000For the magic map you need the magic map focus and a paper stack, made from a stack of paper.
 
 It will fill in the area near you, and reveal boss locations. You need to kill these to get access to the rest of the Twilight Forest. Start with the Naga. 
 
 You can see what to do next in the TF achievement tab. There's also quests for the boss kills on the kill all the things tab. You can only get one map every 24 hours, so be careful with it.
 
-§4Only use the map in the Twilight Forest, using the map in any other dimension will lag the server!01728000ANDpre10700TwilightForest/item.magicMapFocus-0.pngrewardsItemTwilightForest/item.emptyMagicMap-0.pngBlank Magic Map
+§4Only use the map in the Twilight Forest, using the map in any other dimension will lag the server!ANDpre10700TwilightForest/item.magicMapFocus-0.pngrewardsItemTwilightForest/item.emptyMagicMap-0.pngBlank Magic Map
 1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25tasksANDConsumeTwilightForest/item.magicMapFocus-0.pngMagic Map Focus

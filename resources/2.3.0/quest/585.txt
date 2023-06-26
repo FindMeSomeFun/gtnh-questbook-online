@@ -1,6 +1,6 @@
-IC2/itemRecipePart-0.pngHeating CoilsYour thermionic fabricator needs heating coils to function. So combine some magnetized (requires polariser) steel rods with some copper wire and make some.
+585IC2/itemRecipePart-0.png0Heating Coils16-1Your thermionic fabricator needs heating coils to function. So combine some magnetized (requires polariser) steel rods with some copper wire and make some.
 
-§3Why is this a separate quest again?0-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.blockmachines-5112.pngCopper Fluid Pipe\nFluid Capacity: 400 L/sec\nHeat Limit: 1,000 K
+§3Why is this a separate quest again?ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.blockmachines-5112.pngCopper Fluid Pipe\nFluid Capacity: 400 L/sec\nHeat Limit: 1,000 K
 2minecraft/piston-0.pngPiston
 1gregtech/gt.blockmachines-1246.png1x Tin Cable\nMax Voltage: 32 (LV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

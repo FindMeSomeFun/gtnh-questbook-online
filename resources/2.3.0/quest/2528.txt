@@ -1,4 +1,4 @@
-appliedenergistics2/tile.BlockCreativeEnergyCell-0.pngI'll Send Wireless Signals Where I Want, Thank YouThis block provides unlimited AE for your network.0-1ANDpre12990appliedenergistics2/tile.BlockDenseEnergyCell-0-1600000.png25950gregtech/gt.blockmachines-15300.pngrewardsItemappliedenergistics2/tile.BlockDenseEnergyCell-0.pngDense Energy Cell\nStored Energy: 0 AE -  0% 
+2528appliedenergistics2/tile.BlockCreativeEnergyCell-0.png0I'll Send Wireless Signals Where I Want, Thank You27-1This block provides unlimited AE for your network.ANDpre12990appliedenergistics2/tile.BlockDenseEnergyCell-0-1600000.png25950gregtech/gt.blockmachines-15300.pngrewardsItemappliedenergistics2/tile.BlockDenseEnergyCell-0.pngDense Energy Cell\nStored Energy: 0 AE -  0% 
 36dreamcraft/item.EngineeringProcessorItemAdvEmeraldCore-0.pngItem Processor Tier IV
 12Avaritia/Resource_Block-0.pngCosmic Neutronium Block
 1enhancedlootbags/lootbag-38-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III

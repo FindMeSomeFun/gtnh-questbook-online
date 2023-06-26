@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-162.pngMV Battery BuffersYou'll probably want MV battery buffers as well.
+1082gregtech/gt.blockmachines-162.png0MV Battery Buffers20-1You'll probably want MV battery buffers as well.
 
-§3You only need to complete one task.0-1ANDpre10830gregtech/gt.metaitem.01-32528.pngrewardsItemgregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
+§3You only need to complete one task.ANDpre10830gregtech/gt.metaitem.01-32528.pngrewardsItemgregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
 8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksORRetrievalgregtech/gt.blockmachines-162.pngMedium Voltage Battery Buffer\n1 Slots\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nCapacity: 8,192 EU

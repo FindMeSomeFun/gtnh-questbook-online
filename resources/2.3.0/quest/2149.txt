@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-32597.pngLapotronic Energy OrbThe Lapotronic Energy Orb is the IV tier battery item. It can store 100M EU.
+2149gregtech/gt.metaitem.01-32597.png0Lapotronic Energy Orb20-1The Lapotronic Energy Orb is the IV tier battery item. It can store 100M EU.
 
-§3Hint: Until IV, use them to make some PAs. They're very useful.0-1ANDpre16771gregtech/gt.metaitem.03-32103.png21480gregtech/gt.metaitem.01-32714.pngrewardsItemgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+§3Hint: Until IV, use them to make some PAs. They're very useful.ANDpre16771gregtech/gt.metaitem.03-32103.png21480gregtech/gt.metaitem.01-32714.pngrewardsItemgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
 16tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
 1gregtech/gt.metaitem.03-32051.pngPower IC\nPower Circuit
 4gregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip\nNeeded for Circuits

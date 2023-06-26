@@ -1,4 +1,4 @@
-StevesCarts/CartModule-42.pngCart modules: DiggingWant to automate digging for ores ? A drill head made out of iron is the cheapest alternative.0-1ANDpre1110StevesCarts/CartModule-38.pngrewardsItemStevesCarts/ModuleComponents-9.pngSimple PCB
+1209StevesCarts/CartModule-42.png0Cart modules: Digging25-1Want to automate digging for ores ? A drill head made out of iron is the cheapest alternative.ANDpre1110StevesCarts/CartModule-38.pngrewardsItemStevesCarts/ModuleComponents-9.pngSimple PCB
 2Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalStevesCarts/CartModule-42.pngIron Drill\nModular cost: 3\nDurability: 100%\nType: Tool

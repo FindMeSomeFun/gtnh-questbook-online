@@ -1,8 +1,8 @@
-gregtech/gt.blockcasings5-11.png§6§lInfinity Coil UpgradeSmelting with the ferocity of the universe itself.
+3217gregtech/gt.blockcasings5-11.png1§6§lInfinity Coil Upgrade38-1Smelting with the ferocity of the universe itself.
 
 This unbelievable material seemed impossible to manipulate into a coil block form, even though its properties made this desirable. It is incredibly stable even at extreme temperatures, but this also made it unable to pack together for coils.
 
 However, the situation changed when you thought about using something more intelligent. By integrating a Wetware or better UHV circuit, the Infinity Coil became a reality, controlled by the ever-watching eyes of the circuitry you've spent months to create. From now on, these eyes will watch over your multiblocks.
 
-Provides 11701 heat. You could upgrade your EBF, though at this point it's more likely to be for your MEBFs or your DTPF.1-1ANDpre18331gregtech/gt.blockcasings5-8.png25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-11.pngInfinity Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 11701 Kelvin
+Provides 11701 heat. You could upgrade your EBF, though at this point it's more likely to be for your MEBFs or your DTPF.ANDpre18331gregtech/gt.blockcasings5-8.png25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-11.pngInfinity Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 11701 Kelvin
 16

@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-12732.pngLarge Naquadah ReactorThe multi block version of the naquadah reactor, but it is completely different from the single block ones.
+2948gregtech/gt.blockmachines-12732.png0Large Naquadah Reactor19-1The multi block version of the naquadah reactor, but it is completely different from the single block ones.
 
 It uses liquid naquadah or excited nuclear liquid as fuel, and outputs the depleted fuel. You can see the liquid fuel infomation in NEI.
 
@@ -20,7 +20,7 @@ Note: It will consume more fuel to match the output power, unlike coolant which 
 
 It also supports §9Tec§1Tech§r's Multi-Amp Dynamo hatches and laser hatches.
 
-§3PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.0-1ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell\nAdded by Good Generator via BartWorks
+§3PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell\nAdded by Good Generator via BartWorks
 2tasksANDOptionalgregtech/gt.blockcasings3-12.pngRadiation Proof Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 77gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 6GoodGenerator/MAR_Casing-0.pngField Restriction Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!

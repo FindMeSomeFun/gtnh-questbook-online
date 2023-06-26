@@ -1,4 +1,4 @@
-ProjRedTransportation/projectred.transportation.routingchip-1.pngRouted PipesThere are six types of routed pipes: 
+738ProjRedTransportation/projectred.transportation.routingchip-1.png0Routed Pipes25-1There are six types of routed pipes: 
 
 -Junction pipe is used to form an intersection that will allow other routed pipes to communicate. 
 
@@ -6,7 +6,7 @@ ProjRedTransportation/projectred.transportation.routingchip-1.pngRouted PipesT
 
 -Request pipe will allow requesting only specific items to be send through pipes.
 
--Firewall pipe can control which items can pass through them.0-1ANDpre1270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
+-Firewall pipe can control which items can pass through them.ANDpre1270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
 4ProjRedCore/projectred.core.part-13.pngInfused Silicon
 2gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
 1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

@@ -1,6 +1,6 @@
-IC2/itemPartCircuitAdv-0.png§6§lAdvanced CircuitsFinally, the HV circuit! To make it, you need good integrated circuits, RAM, an integrated logic circuit, and transistors.
+838IC2/itemPartCircuitAdv-0.png1§6§lAdvanced Circuits5-1Finally, the HV circuit! To make it, you need good integrated circuits, RAM, an integrated logic circuit, and transistors.
 
-By the way, circuits get cheaper to make as you go along, but not till HV.1-1ANDpre7851gregtech/gt.metaitem.01-32717.png7931gregtech/gt.metaitem.03-32079.pngrewardsChoicegregtech/gt.metaitem.01-28308.pngRed Alloy Ring\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+By the way, circuits get cheaper to make as you go along, but not till HV.ANDpre7851gregtech/gt.metaitem.01-32717.png7931gregtech/gt.metaitem.03-32079.pngrewardsChoicegregtech/gt.metaitem.01-28308.pngRed Alloy Ring\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
 2dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
 2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw\nFe\u2086CrMnNi
 4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

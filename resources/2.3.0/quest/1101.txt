@@ -1,10 +1,10 @@
-ExtraUtilities/divisionSigil-0-activated.pngDivision SigilFind a sigil in a chest? Get one from the Wither? You've heard about a ritual to activate it.
+1101ExtraUtilities/divisionSigil-0-activated.png0Division Sigil31-1Find a sigil in a chest? Get one from the Wither? You've heard about a ritual to activate it.
 
 You need an enchantment table, 8 redstone dust, a weapon, and an animal you want to sacrifice. Catching and holding it with a Golden Lasso would be the easiest way. Check in LV for the Golden Lasso quest if you haven't completed it yet.
 
 Place your enchantment table on a grass field and surround it with redstone dust. At midnight, place the animal on or near the table and kill it. You can check with the sigil if it's time yet by right-clicking it on the enchantment table. Of course you also need to have your sigil on you.
 
-Beware! Your actions will have consequences.0-1ANDpre1170ExtraUtilities/golden_lasso-0.png11000minecraft/enchanting_table-0.pngrewardsItemminecraft/torch-0.pngTorch
+Beware! Your actions will have consequences.ANDpre1170ExtraUtilities/golden_lasso-0.png11000minecraft/enchanting_table-0.pngrewardsItemminecraft/torch-0.pngTorch
 16ExtraUtilities/unstableingot-1.pngSemi-stable Nugget
 1enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"

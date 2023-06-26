@@ -1,4 +1,4 @@
-IC2/itemArmorQuantumHelmet-1-charged.pngQuantum ArmorThe quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.0-1ANDpre8020dreamcraft/item.QuantumPartHelmet-0.png8070dreamcraft/item.QuantumCrystal-0.pngrewardsChoicegregtech/gt.metaitem.01-32604.pngElectric Motor
+803IC2/itemArmorQuantumHelmet-1-charged.png0Quantum Armor14-1The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.ANDpre8020dreamcraft/item.QuantumPartHelmet-0.png8070dreamcraft/item.QuantumCrystal-0.pngrewardsChoicegregtech/gt.metaitem.01-32604.pngElectric Motor
 2GraviSuite/itemSimpleItem-2.pngCooling Core
 1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

@@ -1,4 +1,4 @@
-minecraft/bedrock-0.pngJourney to the Center of the EarthAfter acquiring your new pickaxe and clearing away a mountain or two, you wonder if maybe you should go...§odeeper§r. After trying it out on some Bedrock, you see a way down into the very depths of the planet. After exploring this new realm you make a note that it is:
+2410minecraft/bedrock-0.png0Journey to the Center of the Earth33-1After acquiring your new pickaxe and clearing away a mountain or two, you wonder if maybe you should go...§odeeper§r. After trying it out on some Bedrock, you see a way down into the very depths of the planet. After exploring this new realm you make a note that it is:
 
 A) Seemingly empty of life
 B) Full of Bedrock you need to clear away with your new pickaxe
@@ -9,7 +9,7 @@ F) After leaving you wake up on the surface somewhere nearby, your lack of memor
 
 Among the ore samples you seem to have brought back with you, you find a number of "basic" and "intermediate" ores and gems, as well as a few you don't recognize! Perhaps a return trip is in order?  
 
-Also, you seem to smell like cheese for some reason?0-1ANDpre3270ThaumicTinkerer/ichorPickGem-0.pngrewardsItemgregtech/gt.metaitem.01-9032.pngIron Nugget\nFe
+Also, you seem to smell like cheese for some reason?ANDpre3270ThaumicTinkerer/ichorPickGem-0.pngrewardsItemgregtech/gt.metaitem.01-9032.pngIron Nugget\nFe
 1gregtech/gt.metaitem.01-9089.pngLead Nugget\nPb
 1gregtech/gt.metaitem.01-2500.pngDiamond Dust\nC\nBurn Time: 102400
 1appliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed\nThis item won''t de-spawn.\n0.0%

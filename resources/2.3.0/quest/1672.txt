@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32755.png§b§lPower of the Sun at EV LevelThe next solar panel you can make is the EV one. It generates 2048 EU/t.0-1ANDpre10060gregtech/gt.metaitem.01-32754.png16711gregtech/gt.metaitem.03-32035.png16971gregtech/gt.metaitem.01-17599.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer\nRaw Circuit
+1672gregtech/gt.metaitem.01-32755.png0§b§lPower of the Sun at EV Level19-1The next solar panel you can make is the EV one. It generates 2048 EU/t.ANDpre10060gregtech/gt.metaitem.01-32754.png16711gregtech/gt.metaitem.03-32035.png16971gregtech/gt.metaitem.01-17599.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer\nRaw Circuit
 4gregtech/gt.metaitem.01-11318.pngSunnarium Ingot\nSu
 2enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

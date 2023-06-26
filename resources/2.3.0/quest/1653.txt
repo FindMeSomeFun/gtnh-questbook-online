@@ -1,6 +1,6 @@
-ExtraUtilities/trading_post-0.png§5§lAkihabaraTired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.
+1653ExtraUtilities/trading_post-0.png0§5§lAkihabara4-1Tired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.
 
-You'll need an Assembler to finish it up.0-1ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/emerald-0.pngEmerald
+You'll need an Assembler to finish it up.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/emerald-0.pngEmerald
 5Itemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C

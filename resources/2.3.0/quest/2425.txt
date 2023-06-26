@@ -1,4 +1,4 @@
-witchery/ingredient-106.pngGreenhouses on Mountains, Hell on EarthYou're almost there! To actually use the ritual, you need to recruit a coven first. Find some Coven Witches and complete their quests:
+2425witchery/ingredient-106.png0Greenhouses on Mountains, Hell on Earth36-1You're almost there! To actually use the ritual, you need to recruit a coven first. Find some Coven Witches and complete their quests:
 The means to control the dead -> Necromantic Stone
 The beating means to master the infernal dimension -> Demon Heart
 I must perform many curses, bring me the necessary brew -> Brew of the Grotesquex5
@@ -20,7 +20,7 @@ Unfortunately, sometimes after logging out and back in again you may find that i
 Also, if you already have crops in the area, they'll disappear until a block update or relog.
 
 §3PS: To pack your circle back up, you need to bring your altar with you.
-0-1ANDpre23440witchery/ingredient-94.png24240ForbiddenMagic/SubCollar-0.pngrewardsItemenhancedlootbags/lootbag-56.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+ANDpre23440witchery/ingredient-94.png24240ForbiddenMagic/SubCollar-0.pngrewardsItemenhancedlootbags/lootbag-56.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1minecraft/spider_eye-0.pngSpider Eye\nminecraft:spider_eye
 8witchery/ingredient-90.pngToe of Frog
 8witchery/ingredient-24.pngWool of Bat

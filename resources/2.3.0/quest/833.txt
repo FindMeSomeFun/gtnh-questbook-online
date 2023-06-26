@@ -1,6 +1,6 @@
-WarpTheory/item.warptheory.cleanser-0.pngPurge Your WarpThe warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.
+833WarpTheory/item.warptheory.cleanser-0.png0Purge Your Warp3212096000The warp you have accumulated over time is starting to become a problem. Making bath salts to clean off the warp is only a temporary solution. To truly get rid of it, you need something more powerful, a pure tear. If you collect a few things for me, I will give you one. Think wisely about using it, since it's a very long journey to unlock it through research.
 
-§3PS: You need an LuV-powered EBF for the osmiridium.012096000ANDpre2851Thaumcraft/ItemResource-17.pngrewardsItemWarpTheory/item.warptheory.cleanser-0.pngPure Tear\nCrunchy
+§3PS: You need an LuV-powered EBF for the osmiridium.ANDpre2851Thaumcraft/ItemResource-17.pngrewardsItemWarpTheory/item.warptheory.cleanser-0.pngPure Tear\nCrunchy
 1tasksANDConsumeminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
 3minecraft/ghast_tear-0.pngGhast Tear
 2appliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal

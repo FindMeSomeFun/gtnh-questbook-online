@@ -1,6 +1,6 @@
-GalaxySpace/item.ModuleLander2-0.pngMars LanderThe Mars lander is required for a soft landing. Put the Moon lander on a Parachute and surround it with airbags - that will do the trick. You hope.
+1432GalaxySpace/item.ModuleLander2-0.png1Mars Lander24-1The Mars lander is required for a soft landing. Put the Moon lander on a Parachute and surround it with airbags - that will do the trick. You hope.
 
-Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents with a hopper underneath. To prevent this, make sure to wait until you come to a full and complete stop, like when at a stop sign. Everyone does that, right?1-1ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
+Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents with a hopper underneath. To prevent this, make sure to wait until you come to a full and complete stop, like when at a stop sign. Everyone does that, right?ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
 8GalacticraftCore/item.basicItem-9.pngCompressed Steel
 8GalacticraftCore/item.basicItem-11.pngCompressed Iron
 8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

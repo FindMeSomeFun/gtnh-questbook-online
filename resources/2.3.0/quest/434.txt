@@ -1,6 +1,6 @@
-AWWayofTime/boundPickaxe-0.pngBound Tools: PickaxeMining never was easier. Just right-click with this tool and all the stone is gone! Like all bound tools, this uses a massive amount of LP.
+434AWWayofTime/boundPickaxe-0.png0Bound Tools: Pickaxe37-1Mining never was easier. Just right-click with this tool and all the stone is gone! Like all bound tools, this uses a massive amount of LP.
 
-§3Watch out for falling into lava!0-1ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3Watch out for falling into lava!ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"

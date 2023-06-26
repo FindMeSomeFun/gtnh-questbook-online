@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-790.pngI think I'm going to be sickThe Industrial Centrifuge is the solution to those thousands of ore you'll get with the multiblock ore drill.
+2028gregtech/gt.blockmachines-790.png0I think I'm going to be sick18-1The Industrial Centrifuge is the solution to those thousands of ore you'll get with the multiblock ore drill.
 
-§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.blockmachines-790.pngIndustrial Centrifuge\nMachine Type: Centrifuge\nController Block for the Industrial Centrifuge\n125% faster than using single block machines of the same voltage\nDisable animations with a screwdriver\nOnly uses 90% of the EU/t normally required\nProcesses six items per voltage tier\nCauses: 300 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
 1miscutils/miscutils.blockcasings-0.pngCentrifuge Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 1

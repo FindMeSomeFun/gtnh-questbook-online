@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.03-32096.png§c§lCrystalprocessor AssemblyThe Crystal Processor Assembly is a LuV Circuit.1-1ANDpre16861gregtech/gt.metaitem.03-32089.pngrewardsChoicegregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
+1708gregtech/gt.metaitem.03-32096.png1§c§lCrystalprocessor Assembly9-1The Crystal Processor Assembly is a LuV Circuit.ANDpre16861gregtech/gt.metaitem.03-32089.pngrewardsChoicegregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
 32gregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
 4enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

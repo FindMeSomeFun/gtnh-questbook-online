@@ -1,6 +1,6 @@
-dreamcraft/item.EngineeringProcessorEssentiaPulsatingCore-0.pngAE Essentia StorageThe main processor for 1K, 4K, 16k, and 64k essentia cells.
+2495dreamcraft/item.EngineeringProcessorEssentiaPulsatingCore-0.png0AE Essentia Storage27-1The main processor for 1K, 4K, 16k, and 64k essentia cells.
 
-Use your AE network to store all that nasty essentia! Remember, you need to do the research first.0-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemdreamcraft/item.EssentiaCircuit-0.pngEssentia Circuit
+Use your AE network to store all that nasty essentia! Remember, you need to do the research first.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemdreamcraft/item.EssentiaCircuit-0.pngEssentia Circuit
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievaldreamcraft/item.EngineeringProcessorEssentiaPulsatingCore-0.pngEssentia Processor Tier I

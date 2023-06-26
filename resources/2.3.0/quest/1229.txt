@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30687.png§a§lPhenolThe easiest way is to get phenol out of heavy fuel. There are other ways, like getting it out of wood tar from a pyrolyse oven, isopropylbenzene and oxygen, or chlorobenzene and water.1-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+1229gregtech/gt.metaitem.01-30687.png1§a§lPhenol7-1The easiest way is to get phenol out of heavy fuel. There are other ways, like getting it out of wood tar from a pyrolyse oven, isopropylbenzene and oxygen, or chlorobenzene and water.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 16IC2/itemCellEmpty-0.pngEmpty Cell
 64enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"

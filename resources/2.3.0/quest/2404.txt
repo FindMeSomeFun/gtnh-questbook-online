@@ -1,4 +1,4 @@
-minecraft/ender_pearl-0.png§e§d§c§6§lObtaining Ender PearlsYou can hunt endermen the Vanilla way to get a chance at Ender Pearls, you can purchase Endermen spawn eggs, or try your luck in the End. 
+2404minecraft/ender_pearl-0.png0§e§d§c§6§lObtaining Ender Pearls1-1You can hunt endermen the Vanilla way to get a chance at Ender Pearls, you can purchase Endermen spawn eggs, or try your luck in the End. 
 
 Or you can get cruel, and stuff one into a smeltery to melt it down into delicious Liquid Ender and cast pearls from it.
 
@@ -6,7 +6,7 @@ You monster.
 
 Some of the dungeons have Spawner of Enderman, so you can do whatever you want with it.
 
-§cTo prevent endermen from teleporting make sure to cover the smeltery so they don't see the sky. If you manage to put a regenerating endermen in there, tag it so it doesn't despawn, and make sure your smeltery is not in a claimed chunk on a server.0-1ANDpre740TConstruct/Smeltery-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+§cTo prevent endermen from teleporting make sure to cover the smeltery so they don't see the sky. If you manage to put a regenerating endermen in there, tag it so it doesn't despawn, and make sure your smeltery is not in a claimed chunk on a server.ANDpre740TConstruct/Smeltery-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 8enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 20tasksANDRetrievalTConstruct/woodPattern-10.pngPan Pattern\nMaterial Cost: 1

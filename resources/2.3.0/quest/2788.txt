@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-837.pngPutting the 'Semi' Back Into Generators LVYou've probably collected a ton of Creosote and have little to use it on. To fix that, build a Semifluid Generator and use it alongside Steam as a secondary power source! Singleblock generators will only use fuel if there is EU demand, so you might end up with a filled Creosote buffer if you aren't consuming enough EU.
+2788gregtech/gt.blockmachines-837.png0Putting the 'Semi' Back Into Generators LV19-1You've probably collected a ton of Creosote and have little to use it on. To fix that, build a Semifluid Generator and use it alongside Steam as a secondary power source! Singleblock generators will only use fuel if there is EU demand, so you might end up with a filled Creosote buffer if you aren't consuming enough EU.
 
 To extract the Creosote from your Coke Ovens, you can use buckets or cells to do it by hand, or the TiCon Faucet into GT fluid pipes, or an Electric Pump cover from You're Going to Hate This #2.
 
-There are other options to burn Creosote, like the Railcraft Liquid Boilers, but this is much cheaper and easier to set up, while still being efficient with Creosote (6x as efficient as Combustion Generators).0-1ANDpre13240gregtech/gt.blockmachines-512.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+There are other options to burn Creosote, like the Railcraft Liquid Boilers, but this is much cheaper and easier to set up, while still being efficient with Creosote (6x as efficient as Combustion Generators).ANDpre13240gregtech/gt.blockmachines-512.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 20tasksANDRetrievalgregtech/gt.blockmachines-837.pngBasic Semi-Fluid Generator\nRequires semi-fluid Fuel\nProduces 80 pollution/sec\nFuel Efficiency: 95%\nAdded by: Alkalus - [GT++]\nVoltage OUT: 32 (LV)\nCapacity: 3,072 EU
 1

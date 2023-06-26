@@ -1,4 +1,4 @@
-Avaritia/Resource-5.pngCompressing the Core of a StarThe next material is Infinity Catalyst. Infinity Catalyst needs to be compressed with insane amounts of force. The only machine capable of doing that is a Neutronium Compressor. Let's make one.
+2674Avaritia/Resource-5.png1Compressing the Core of a Star12-1The next material is Infinity Catalyst. Infinity Catalyst needs to be compressed with insane amounts of force. The only machine capable of doing that is a Neutronium Compressor. Let's make one.
 
 To make the Catalyst, go to Vega B to get the dust. Then use the Neutronium Compressor to make Infinity Catalyst with 64 of the dust.
 
@@ -6,7 +6,7 @@ You can also do the insane Avaritia recipe to make the Infinity Catalyst, if you
 
 §3The compressor can also be used to make singularities, culiminating in the Eternal Singularity, used in the alternate recipe.
 
-If you want to automate singularity creation you can just click with the middle mouse button to modify the number of items in a pattern beyond the normal limits.1-1ANDpre26141gregtech/gt.metaitem.01-32657.png26481GalaxySpace/item.Tier8Rocket-0.png26731Avaritia/Resource-4.pngrewardstasksANDRetrievalAvaritia/Neutronium_Compressor-0.pngNeutronium Compressor
+If you want to automate singularity creation you can just click with the middle mouse button to modify the number of items in a pattern beyond the normal limits.ANDpre26141gregtech/gt.metaitem.01-32657.png26481GalaxySpace/item.Tier8Rocket-0.png26731Avaritia/Resource-4.pngrewardstasksANDRetrievalAvaritia/Neutronium_Compressor-0.pngNeutronium Compressor
 1Retrievalgregtech/gt.metaitem.01-2394.pngInfinity Catalyst Dust\nIf
 64RetrievalAvaritia/Resource-5.pngInfinity Catalyst\nOne is all and all is one.
 1

@@ -1,8 +1,8 @@
-minecraft/flint_and_steel-0.png§3§lFlint and SteelAfter you make steel you are able to craft flint and steel. I guess you'll want to travel to the Nether as soon as possible but be aware; the Nether is a very dangerous place.
+478minecraft/flint_and_steel-0.png1§3§lFlint and Steel3-1After you make steel you are able to craft flint and steel. I guess you'll want to travel to the Nether as soon as possible but be aware; the Nether is a very dangerous place.
 
 Note: The ball of moss gives a tinker's tool self-repair. But if the tool is completely broken, it won't repair it.
 
-Note that the flint and steel can take a few times to work.1-1ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemminecraft/bow-0.pngBow\nDurability: 384/384
+Note that the flint and steel can take a few times to work.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemminecraft/bow-0.pngBow\nDurability: 384/384
 1minecraft/arrow-0.pngArrow
 32TConstruct/materials-6.pngBall of Moss\nTool Modifier: Auto-Repair
 1Choiceminecraft/obsidian-0.pngObsidian

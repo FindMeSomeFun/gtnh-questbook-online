@@ -1,8 +1,8 @@
-Forestry/beeQueenGE-0-Noble.pngBreed some noble beesCross breeding common and cultivated bees can result in noble bees. 
+1118Forestry/beeQueenGE-0-Noble.png0Breed some noble bees29-1Cross breeding common and cultivated bees can result in noble bees. 
 
 Noble bees produce dripping combs every 3.8 minutes and honeydew. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time. 
 
-You've heard of a drunk beekeeper saying he has perfected a method of creating proven frames using Honeydew and a little magic. It might be worth your time to try experimenting yourself.0-1ANDpre11160Forestry/beeQueenGE-0-Cultivated.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You've heard of a drunk beekeeper saying he has perfected a method of creating proven frames using Honeydew and a little magic. It might be worth your time to try experimenting yourself.ANDpre11160Forestry/beeQueenGE-0-Cultivated.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Forestry/honeyDrop-0.pngHoney Drop
 64Forestry/beeCombs-0.pngHoney Comb
 64Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"

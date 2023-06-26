@@ -1,10 +1,10 @@
-gregtech/gt.blockmachines-451.png§5§6§l§5§lGimme My Stuff Back!At some point, you'll be all, 'Man, arc furnacing or macerating these things to recycle them blows, I barely get any of the materials I used back'. Well, there's a solution, the Disassembler.
+2896gregtech/gt.blockmachines-451.png0§5§6§l§5§lGimme My Stuff Back!4-1At some point, you'll be all, 'Man, arc furnacing or macerating these things to recycle them blows, I barely get any of the materials I used back'. Well, there's a solution, the Disassembler.
 
 Basically, things go in, parts it's made of go out. It needs to be at the same tier or higher though.
 
 It works on hand and assembler crafted items, but it doesn't work on assline stuff (LuV+), or non-GT items. However, for some reason on some items it fails for seemingly no reason. Ask bart why that happens. If there's an oredicted item like a circuit, it should return the least valuable one. You can now recyle your old coils, hatches, machines, etc with impunity!
 
-§3The % chance based on tier is gone now. Also, it's really fast!0-1ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemIC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
+§3The % chance based on tier is gone now. Also, it's really fast!ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemIC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
 2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 2tasksANDRetrievalgregtech/gt.blockmachines-451.pngBasic Disassembler\nDisassembles Machines up to Low Voltage\nCan also disassemble most assembler recipes!\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU

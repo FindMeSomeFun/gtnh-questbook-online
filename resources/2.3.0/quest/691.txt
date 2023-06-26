@@ -1,4 +1,4 @@
-Railcraft/armor.steel.plate-0.pngArmor 2.5The steel armor has more durability than the iron/bronze or chainmail armor.0-1ANDpre651gregtech/gt.metaitem.01-11305.png6850minecraft/iron_chestplate-0.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling II\nHold the Sneak key for Enchantment Description
+691Railcraft/armor.steel.plate-0.png0Armor 2.514-1The steel armor has more durability than the iron/bronze or chainmail armor.ANDpre651gregtech/gt.metaitem.01-11305.png6850minecraft/iron_chestplate-0.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling II\nHold the Sneak key for Enchantment Description
 1minecraft/enchanted_book-0.pngEnchanted Book\nAqua Affinity I\nHold the Sneak key for Enchantment Description
 1minecraft/enchanted_book-0.pngEnchanted Book\nFire Protection II\nHold the Sneak key for Enchantment Description
 1minecraft/enchanted_book-0.pngEnchanted Book\nBlast Protection II\nHold the Sneak key for Enchantment Description

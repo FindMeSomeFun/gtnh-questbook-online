@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-17636.png§1§2§3§4§5§6§7§8§9§lPolystyreneTo make Polystyrene use the chemical reactor to combine oxygen and styrene.
+2565gregtech/gt.metaitem.01-17636.png1§1§2§3§4§5§6§7§8§9§lPolystyrene6-1To make Polystyrene use the chemical reactor to combine oxygen and styrene.
 
-§3There's only one type of machine that uses it, so don't bother making more until you need it.1-1ANDpre16201gregtech/gt.metaitem.01-30637.pngrewardsChoicegregtech/gt.metaitem.01-30637.pngStyrene Cell\nC\u2088H\u2088
+§3There's only one type of machine that uses it, so don't bother making more until you need it.ANDpre16201gregtech/gt.metaitem.01-30637.pngrewardsChoicegregtech/gt.metaitem.01-30637.pngStyrene Cell\nC\u2088H\u2088
 4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30637.pngStyrene Cell\nC\u2088H\u2088

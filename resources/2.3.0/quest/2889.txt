@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-2910.png§a§lTungstate Processing - Step 1In return for the smelting time not being absurd, you now have to put in some effort. First, let's turn our Tungstate into Scheelite. When you can get Scheelite ore, you can just skip this step.
+2889gregtech/gt.metaitem.01-2910.png1§a§lTungstate Processing - Step 17-1In return for the smelting time not being absurd, you now have to put in some effort. First, let's turn our Tungstate into Scheelite. When you can get Scheelite ore, you can just skip this step.
 
-Note that if you're processing Huebnerite or Ferberite from ross128b or 128ba, the first step is slightly different.1-1ANDpre29801gregtech/gt.blockmachines-574.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+Note that if you're processing Huebnerite or Ferberite from ross128b or 128ba, the first step is slightly different.ANDpre29801gregtech/gt.blockmachines-574.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-2841.pngTungstate Dust\nWLi\u2082O\u2084
 21gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust\nNaOH
 6IC2/itemCellEmpty-1.pngWater Cell

@@ -1,3 +1,3 @@
-gregtech/gt.metaitem.01-2324.pngTrigger:Naqline SkipNo Description0-1ANDprerewardsQuestcompletiongregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+3036gregtech/gt.metaitem.01-2324.png0Trigger:Naqline SkipqLine-1No DescriptionANDprerewardsQuestcompletiongregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
 2941tasksANDRetrievalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
 64

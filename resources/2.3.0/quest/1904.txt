@@ -1,5 +1,5 @@
-gregtech/gt.metaitem.01-30004.png§6§lHelium is Not Just for BalloonsHigher tier superconducting wires and energy hatches will require helium. Compressing air and liquifying it requires 1802 compressed air cells to get 1 He cell. It's probably better to get it from end stone dust or monazite from the Moon. Another option is to have a look at your oil processing and see how you can get Helium from there.
+1904gregtech/gt.metaitem.01-30004.png1§6§lHelium is Not Just for Balloons17-1Higher tier superconducting wires and energy hatches will require helium. Compressing air and liquifying it requires 1802 compressed air cells to get 1 He cell. It's probably better to get it from end stone dust or monazite from the Moon. Another option is to have a look at your oil processing and see how you can get Helium from there.
 
-§3PS: If you've progressed far enough in the TF, you can also chip off parts of the snow queen's lair. She won't mind, right?1-1ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemenhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+§3PS: If you've progressed far enough in the TF, you can also chip off parts of the snow queen's lair. She won't mind, right?ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemenhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 3tasksANDRetrievalgregtech/gt.metaitem.01-30004.pngHelium Cell\nHe
 1

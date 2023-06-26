@@ -1,10 +1,10 @@
-StevesCarts/CartModule-23.png§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Not Prepared... But They AreBuilding a smeltery from ground up can be really tedious and time consuming. How about go borrow one from the locals? They will surely be happy to share it with an unfriendly adventurer that just dismantlled their bricked railway station.
+2985StevesCarts/CartModule-23.png0§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Not Prepared... But They Are17-1Building a smeltery from ground up can be really tedious and time consuming. How about go borrow one from the locals? They will surely be happy to share it with an unfriendly adventurer that just dismantlled their bricked railway station.
 
 The villager are too dumb that they spent all their seared bricks without adding a few key components like faucets or drains. You still need to craft some smeltry bricks yourselves... 
 
 Totally not useful tip: if you hold off building this long enough, you will be able to break down seared brick blocks into seared brick items with a forge hammer or extractor.
 
-§3Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.0-1XORpre181minecraft/stone-0.png30310minecraft/wooden_shovel-0.pngrewardstasksANDRetrievalTConstruct/SearedBlock-1.pngSeared Faucet\nThis Smeltery is leaking\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+§3Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.XORpre181minecraft/stone-0.png30310minecraft/wooden_shovel-0.pngrewardstasksANDRetrievalTConstruct/SearedBlock-1.pngSeared Faucet\nThis Smeltery is leaking\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
 2TConstruct/LavaTank-0.pngSeared Tank\nHeart of the Smeltery\nKeeps any fluids it has when harvested\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
 1TConstruct/Smeltery-0.pngSmeltery Controller\nBrain of the Smeltery\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
 1TConstruct/CastingChannel-0.pngCasting Channel\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.

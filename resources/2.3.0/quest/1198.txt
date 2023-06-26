@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-1195.pngUpgrading the ReactorA mark II is nice, but why not make a mark III? 
+1198gregtech/gt.blockmachines-1195.png1Upgrading the Reactor11-1A mark II is nice, but why not make a mark III? 
 
 It will double the power needed per recipe, while cutting the processing time in half. 
 
-This time you will need UV or above hatches, as well as Fusion machine casing MK2s. This reactor can handle recipes up to 640M EU at startup. Each energy hatch is capable of providing up to 8192eu/t per energy hatch for the recipe. The reactor can take as little as 8192eu/t to run.1-1ANDpre26231gregtech/gt.metaitem.01-32677.png26281gregtech/gt.blockmachines-48.png26331gregtech/gt.metaitem.03-32164.pngrewardsChoicegregtech/gt.metaitem.03-32094.pngWetware Supercomputer\nA Super Circuit\nUV-Tier
+This time you will need UV or above hatches, as well as Fusion machine casing MK2s. This reactor can handle recipes up to 640M EU at startup. Each energy hatch is capable of providing up to 8192eu/t per energy hatch for the recipe. The reactor can take as little as 8192eu/t to run.ANDpre26231gregtech/gt.metaitem.01-32677.png26281gregtech/gt.blockmachines-48.png26331gregtech/gt.metaitem.03-32164.pngrewardsChoicegregtech/gt.metaitem.03-32094.pngWetware Supercomputer\nA Super Circuit\nUV-Tier
 4gregtech/gt.metaitem.01-32608.pngElectric Motor
 4gregtech/gt.metaitem.01-32617.pngElectric Pump\n524,288 L/t (10,485,760 L/s) as Cover
 2gregtech/gt.metaitem.01-32637.pngConveyor Module\n8 stacks every 1/20 sec (as Cover)

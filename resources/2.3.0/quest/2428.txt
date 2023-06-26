@@ -1,4 +1,4 @@
-minecraft/coal_ore-0.pngCoal Ore exchangeYou can exchange your Stack of GT Coal Ore for vanilla Coal Ore.024000ANDpre8260minecraft/iron_ore-0.pngrewardsItemminecraft/coal_ore-0.pngCoal Ore
+2428minecraft/coal_ore-0.png0Coal Ore exchange4024000You can exchange your Stack of GT Coal Ore for vanilla Coal Ore.ANDpre8260minecraft/iron_ore-0.pngrewardsItemminecraft/coal_ore-0.pngCoal Ore
 64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 50gregtech/gt.blockores-535.pngCoal Ore\nC
 64

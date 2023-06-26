@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-13101.pngSolid-Oxide Fuel Cell Mk IIt uses Gas fuels to produce power and Steam at the same time, while also generating 0 pollution. If the other generators were being problematic, this is the best solution.
+2827gregtech/gt.blockmachines-13101.png0Solid-Oxide Fuel Cell Mk I19-1It uses Gas fuels to produce power and Steam at the same time, while also generating 0 pollution. If the other generators were being problematic, this is the best solution.
 
 It produces §a4 HV amps per tick§r at a nice fuel efficiency, while consuming 100 L of Oxygen per second. It will heat up over time until it reaches 100% efficiency, at which point it starts outputting Steam as well. You can then use Steam Turbines, singleblocks or multiblocks, to generate even more power.
 
-With these two things combined, it's more powerful than the Large Gas Turbine that you can build at the start. Only when you unlock better materials for that, will it generate more power than the SOFC Mk I.0-1ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30686.pngBenzene Cell\nC\u2086H\u2086
+With these two things combined, it's more powerful than the Large Gas Turbine that you can build at the start. Only when you unlock better materials for that, will it generate more power than the SOFC Mk I.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30686.pngBenzene Cell\nC\u2086H\u2086
 16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalkekztech/kekztech_yszceramicelectrolyteunit_block-0.pngYSZ Ceramic Electrolyte Unit

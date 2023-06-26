@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30706.png§6§lEthanolEthanol has a burn value of 192,000 EU per cell can be used to make bio diesel and other fluids.0-1ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
+844gregtech/gt.metaitem.01-30706.png0§6§lEthanol5-1Ethanol has a burn value of 192,000 EU per cell can be used to make bio diesel and other fluids.ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
 16IC2/itemCellEmpty-0.pngEmpty Cell
 32gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,500 K
 2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

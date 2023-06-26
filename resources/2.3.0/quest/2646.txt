@@ -1,4 +1,4 @@
-GalaxySpace/item.Tier6Rocket-0.pngWhere No One Has Gone BeforeAnother rocket, another set of planets. Get to work already, that's why you made it, right?
+2646GalaxySpace/item.Tier6Rocket-0.png0Where No One Has Gone Before10-1Another rocket, another set of planets. Get to work already, that's why you made it, right?
 
 There's only two new planets this time, Proteus and Triton. They're both moons of Neptune.
 
@@ -8,5 +8,5 @@ You can get Black Plutonium from small ores on Triton.
 
 You should pick up some planet blocks while you're visiting.
 
-The schematic is on Proteus.0-1ANDpre26101gregtech/gt.blockmachines-17.png26401GalaxySpace/item.Tier6Rocket-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+The schematic is on Proteus.ANDpre26101gregtech/gt.blockmachines-17.png26401GalaxySpace/item.Tier6Rocket-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

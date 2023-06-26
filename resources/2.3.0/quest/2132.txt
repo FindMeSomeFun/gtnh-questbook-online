@@ -1,6 +1,6 @@
-Forestry/sapling-0-Plum.pngPlumThe Plum is a great multipurpose tree.  It has High yield and its fruit produces mulch with the highest chance. It also has decent sappiness for biomass production. Breed it by mating Hill Cherry with Lemon.
+2132Forestry/sapling-0-Plum.png0Plum16-1The Plum is a great multipurpose tree.  It has High yield and its fruit produces mulch with the highest chance. It also has decent sappiness for biomass production. Breed it by mating Hill Cherry with Lemon.
 
-§dPlum and Mulch Get!0-1ANDpre21310Forestry/sapling-0-Lemon.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+§dPlum and Mulch Get!ANDpre21310Forestry/sapling-0-Lemon.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDOptionalForestry/sapling-0-Lemon.pngLemon Sapling\nBurn Time: 100
 1Forestry/sapling-0-Cherry.pngHill Cherry Sapling\nBurn Time: 100

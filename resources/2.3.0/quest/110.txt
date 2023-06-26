@@ -1,4 +1,4 @@
-StevesCarts/CartModule-2.pngCart Modules: StorageA basic cart can't hold any items, so you need to attach special chests to it.0-1ANDpre1110StevesCarts/CartModule-38.pngrewardsItemminecraft/rail-0.pngTrack
+110StevesCarts/CartModule-2.png0Cart Modules: Storage25-1A basic cart can't hold any items, so you need to attach special chests to it.ANDpre1110StevesCarts/CartModule-38.pngrewardsItemminecraft/rail-0.pngTrack
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalStevesCarts/CartModule-2.pngSide Chests\nModular cost: 3\nType: Storage
 1

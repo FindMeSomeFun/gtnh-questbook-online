@@ -1,4 +1,4 @@
-minecraft/iron_chestplate-0.pngArmor 2.0Iron armor is much better than the leather armor. Especially when you have to go outside during the night.0-1ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling I\nHold the Sneak key for Enchantment Description
+685minecraft/iron_chestplate-0.png0Armor 2.014-1Iron armor is much better than the leather armor. Especially when you have to go outside during the night.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling I\nHold the Sneak key for Enchantment Description
 1minecraft/enchanted_book-0.pngEnchanted Book\nAqua Affinity I\nHold the Sneak key for Enchantment Description
 1minecraft/enchanted_book-0.pngEnchanted Book\nFire Protection I\nHold the Sneak key for Enchantment Description
 1minecraft/enchanted_book-0.pngEnchanted Book\nBlast Protection I\nHold the Sneak key for Enchantment Description

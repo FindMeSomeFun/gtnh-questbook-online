@@ -1,4 +1,4 @@
-minecraft/skull-1.pngWarp WarningsThaumcraft offers considerable power from its devices and tools. But power comes with a price.... That price is represented by Warp: A corruption of the character's mind and soul, inflicting progressively more dire effects upon them. 
+1778minecraft/skull-1.png1Warp Warnings31-1Thaumcraft offers considerable power from its devices and tools. But power comes with a price.... That price is represented by Warp: A corruption of the character's mind and soul, inflicting progressively more dire effects upon them. 
 
 While the effects of warp can range from annoying to deadly, accumulating enough of it can also grant you access to greater power... at the cost of increasing madness, and attention from dark powers. At least, others may call it madness... but is it truly insanity, when the voices in your head grant useful knowledge?
 
@@ -35,7 +35,7 @@ Warp Theory adds a bunch of new Warp Effects to the Player. Be very careful beca
 175 warp: Snow
 180 warp: Decay
 190 warp: Swamp
-200 warp: Spawn Wither1-1ANDpre2311Thaumcraft/ItemThaumonomicon-0.pngrewardsChoiceWarpTheory/item.warptheory.paper-0.pngArcane Litmus Paper\nReacts to Warp
+200 warp: Spawn WitherANDpre2311Thaumcraft/ItemThaumonomicon-0.pngrewardsChoiceWarpTheory/item.warptheory.paper-0.pngArcane Litmus Paper\nReacts to Warp
 16Thaumcraft/ItemBathSalts-0.pngPurifying Bath Salts
 4Thaumcraft/ItemSanitySoap-0.pngSanitizing Soap
 2Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade

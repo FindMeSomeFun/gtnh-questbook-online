@@ -1,8 +1,8 @@
-Forestry/sapling-0-orchardapple.pngOrchard AppleThe Orchard Apple tree has a couple of nice traits. The Faster maturity trait means it will turn from sapling to tree quickly. The Higher yield is the best yield from any Forestry tree. Breed the Orchard Apple from an Apple Oak and Hill Cherry.
+2101Forestry/sapling-0-orchardapple.png0Orchard Apple16-1The Orchard Apple tree has a couple of nice traits. The Faster maturity trait means it will turn from sapling to tree quickly. The Higher yield is the best yield from any Forestry tree. Breed the Orchard Apple from an Apple Oak and Hill Cherry.
 
 If you want Fastest maturity for quick tree farms, you can breed Golden Raspberry. Try and figure out the breeding chain yourself.
 
-Higher Yield Get!0-1ANDpre21280Forestry/sapling-0-Cherry.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+Higher Yield Get!ANDpre21280Forestry/sapling-0-Cherry.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDRetrievalForestry/sapling-0-orchardapple.pngOrchard Apple Sapling\nBurn Time: 100
 1

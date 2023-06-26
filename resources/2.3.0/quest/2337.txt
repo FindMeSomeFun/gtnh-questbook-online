@@ -1,6 +1,6 @@
-witchery/earmuffs-0.pngMandrake Noise ProtectionWhere would a Herbologist be without a trusty pair of Earmuffs? As soon as it comes time to harvest a crop of Mandrake, the farmer has two choices, either do it at night (and risk the typical nightly terrors), or don a pair of Earmuffs, and harvest away without fear of the Mandrake's screams. Indeed, Earmuffs are so effective at what they do, the wearer is unlikely to hear pretty much anything. This property may have benefits when dealing with Banshees too.
+2337witchery/earmuffs-0.png0Mandrake Noise Protection36-1Where would a Herbologist be without a trusty pair of Earmuffs? As soon as it comes time to harvest a crop of Mandrake, the farmer has two choices, either do it at night (and risk the typical nightly terrors), or don a pair of Earmuffs, and harvest away without fear of the Mandrake's screams. Indeed, Earmuffs are so effective at what they do, the wearer is unlikely to hear pretty much anything. This property may have benefits when dealing with Banshees too.
 
-Earmuffs count as leather armor in terms of protection and durability.0-1ANDpre15600witchery/seedsbelladonna-0.pngrewardsItemBackpack/tannedLeather-0.pngTanned Leather
+Earmuffs count as leather armor in terms of protection and durability.ANDpre15600witchery/seedsbelladonna-0.pngrewardsItemBackpack/tannedLeather-0.pngTanned Leather
 2witchery/ingredient-22.pngMandrake Root
 10Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"

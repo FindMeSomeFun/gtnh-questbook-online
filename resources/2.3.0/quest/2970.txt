@@ -1,3 +1,3 @@
-GoodGenerator/essentiaCell-2.png§6§lMaster CellSame as Adept one, but will higher efficiency.0-1ANDpre29690GoodGenerator/essentiaCell-1.pngrewardsItemenhancedlootbags/lootbag-11-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+2970GoodGenerator/essentiaCell-2.png0§6§lMaster Cell19-1Same as Adept one, but will higher efficiency.ANDpre29690GoodGenerator/essentiaCell-1.pngrewardsItemenhancedlootbags/lootbag-11-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDRetrievalGoodGenerator/essentiaCell-2.pngMaster Essentia Diffusion Cell\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nHatch Tier: LuV
 25

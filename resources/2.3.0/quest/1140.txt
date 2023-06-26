@@ -1,6 +1,6 @@
-miscutils/itemwcarbonrotor-0.png§c§9§lRotorThe Kinetic Wind and Water Generators need Gearbox Rotors to function. They can be added and removed with standard automation. Higher tier rotors will last longer. In addition, the iridium ones don't break. The IC2 ones might bug out for durability loss though. Energetic is probably the best for now, since it can give out a full amp, and more is wasted.
+1140miscutils/itemwcarbonrotor-0.png0§c§9§lRotor19-1The Kinetic Wind and Water Generators need Gearbox Rotors to function. They can be added and removed with standard automation. Higher tier rotors will last longer. In addition, the iridium ones don't break. The IC2 ones might bug out for durability loss though. Energetic is probably the best for now, since it can give out a full amp, and more is wasted.
 
-§3You only need to make one rotor to complete this quest.0-1ORpre11380IC2/blockKineticGenerator-0.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3You only need to make one rotor to complete this quest.ORpre11380IC2/blockKineticGenerator-0.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1miscutils/itemEnergeticRotorBlade-0.pngEnergetic Alloy Rotor Blade\nA part for an advanced Kinetic Rotor
 4IC2/itemRecipePart-9.pngCarbon Rotor Blade
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

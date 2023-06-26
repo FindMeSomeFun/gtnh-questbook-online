@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-2710.pngApplied Greg?ME Buses are combination of technology and...other technology. Don't give me that look, it is, ok? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.
+2877gregtech/gt.blockmachines-2710.png0Applied Greg?27-1ME Buses are combination of technology and...other technology. Don't give me that look, it is, ok? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.
 
-You just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.0-1ANDpre13021appliedenergistics2/item.ItemMultiPart-440.pngrewardsItemgregtech/gt.blockmachines-2710.pngOutput Bus\nItem Output for Multiblocks\nStores directly into ME
+You just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.ANDpre13021appliedenergistics2/item.ItemMultiPart-440.pngrewardsItemgregtech/gt.blockmachines-2710.pngOutput Bus\nItem Output for Multiblocks\nStores directly into ME
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-2711.pngStocking Input Bus\nAdvanced item input for Multiblocks\nRetrieves directly from ME\nKeeps 16 item types in stock
 1gregtech/gt.blockmachines-2710.pngOutput Bus\nItem Output for Multiblocks\nStores directly into ME

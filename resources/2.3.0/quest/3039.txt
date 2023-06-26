@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-14001.pngDyson Swarm Ground UnitThe Dyson Swarm Ground Unit multiblock is basically a solar panel, you just insert Dyson Swarm Modules (how many depends on how much energy you want) and get energy out. There are some complications though:
+3039gregtech/gt.blockmachines-14001.png0Dyson Swarm Ground Unit19-1The Dyson Swarm Ground Unit multiblock is basically a solar panel, you just insert Dyson Swarm Modules (how many depends on how much energy you want) and get energy out. There are some complications though:
 - Each second, n of m Modules are destroyed according to this formula: n=X*0.0001*m^1.05, where X is a normally distributed random number between 0 and 2 with mean 1.
 - Needs 1000 L/s of Gelid Cryotheum.
 - Requires n computation per tick according to this formula: n=0.1*m^1.075-128, where m is the amount of modules. As you can see, you get 128 computation for free! Isn't that nice?
@@ -7,7 +7,7 @@ gregtech/gt.blockmachines-14001.pngDyson Swarm Ground UnitThe Dyson Swarm Grou
 
 §cNote: §rThe amount of each part on the right is only the minimum, depending on how many Dynamo Hatches, Input Busses, Input Hatches and Optical Slave Connectors you use, you may need more Energy Receiver Base Casings, Module Deployment Unit Base Casings or Control Center Base Casings.
 
-§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)0-1ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
 4GalaxySpace/item.DysonSwarmParts-0.pngDyson Swarm Module
 256Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 5dreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"

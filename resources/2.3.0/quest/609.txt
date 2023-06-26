@@ -1,10 +1,10 @@
-gregtech/gt.metaitem.01-32500.png§5§lBattery AlloyMixing antimony and lead in the alloy smelter will give you battery alloy. Combine it with tin cable and voila, there's your small battery hull.
+609gregtech/gt.metaitem.01-32500.png1§5§lBattery Alloy20-1Mixing antimony and lead in the alloy smelter will give you battery alloy. Combine it with tin cable and voila, there's your small battery hull.
 
 Small = LV, Medium = MV, Large = HV. It gets weirder after that.
 
 Note that if you make the battery alloy in the mixer you need to use dusts, but if you use the alloy smelter you can use either.
 
-§3Check out the Storing and Transforming EU Quest Tab for all details about EU power storage.1-1ANDpre5981gregtech/gt.metaitem.01-2058.png6081gregtech/gt.metaitem.01-11089.pngrewardsChoicegregtech/gt.blockores-826.pngCinnabar Ore\nHgS
+§3Check out the Storing and Transforming EU Quest Tab for all details about EU power storage.ANDpre5981gregtech/gt.metaitem.01-2058.png6081gregtech/gt.metaitem.01-11089.pngrewardsChoicegregtech/gt.blockores-826.pngCinnabar Ore\nHgS
 16gregtech/gt.blockores-933.pngGlauconite Ore\nKMg\u2082Al\u2084H\u2082O\u2081\u2082
 16gregtech/gt.blockores-907.pngLepidolite Ore\nKLi\u2083Al\u2084F\u2082O\u2081\u2080
 16gregtech/gt.blockores-839.pngSphalerite Ore\nZnS

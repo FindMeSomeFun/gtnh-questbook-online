@@ -1,4 +1,4 @@
-minecraft/chest-0.png§1§lStorage For DaysNow that you've gotten your tools and are about to go collect a bunch of stuff, it's about time to make some storage for your goods. Take some of your wood, and craft a chest. You will need 4 wood, 4 planks and 1 flint.1-1ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsChoiceminecraft/chest-0.pngChest\nBurn Time: 300
+3minecraft/chest-0.png1§1§lStorage For Days0-1Now that you've gotten your tools and are about to go collect a bunch of stuff, it's about time to make some storage for your goods. Take some of your wood, and craft a chest. You will need 4 wood, 4 planks and 1 flint.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsChoiceminecraft/chest-0.pngChest\nBurn Time: 300
 1harvestcraft/muttoncookedItem-0.pngCooked Mutton\nharvestcraft:muttoncookedItem
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDCraftingminecraft/chest-0.pngChest\nBurn Time: 300

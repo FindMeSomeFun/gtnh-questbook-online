@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-253.png§9§lHV Cutting MachineNOR, NAND and other high tier chips require an HV cutting machine.
+1236gregtech/gt.blockmachines-253.png1§9§lHV Cutting Machine6-1NOR, NAND and other high tier chips require an HV cutting machine.
 
-§3You'll soon find that everything you cut needs a cleanroom, so make sure you start on that.1-1ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoicegregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell\nCH\u2082
+§3You'll soon find that everything you cut needs a cleanroom, so make sure you start on that.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoicegregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell\nCH\u2082
 8gregtech/gt.metaitem.01-2306.pngStainless Steel Dust\nFe\u2086CrMnNi
 16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

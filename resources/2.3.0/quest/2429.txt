@@ -1,4 +1,4 @@
-minecraft/lapis_ore-0.pngLapis Ore exchangeYou can exchange your Stack of GT Lapis Ore for vanilla Lapis Ore.024000ANDpre8670minecraft/lapis_block-0.pngrewardsItemminecraft/lapis_ore-0.pngLapis Lazuli Ore
+2429minecraft/lapis_ore-0.png0Lapis Ore exchange4024000You can exchange your Stack of GT Lapis Ore for vanilla Lapis Ore.ANDpre8670minecraft/lapis_block-0.pngrewardsItemminecraft/lapis_ore-0.pngLapis Lazuli Ore
 64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 50gregtech/gt.blockores-526.pngLapis Ore\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
 64

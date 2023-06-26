@@ -1,10 +1,10 @@
-IC2/blockKineticGenerator-4.png§9§lKinetic Water Power HVThe Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.
+1139IC2/blockKineticGenerator-4.png0§9§lKinetic Water Power HV19-1The Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.
 
 If the Kinetic Water Generator's Rotor isn't entirely submerged in water, it will alert you there is "no room for the rotor". If the Kinetic Water Generator isn't placed in a river, ocean or deep ocean biome, it will alert you it "must be placed in a river or ocean biome". Check the Game Mechanics spreadsheet on Discord for a list of biomes and their tags.
 
 While inconvenient, the Water Generator runs more consistently.
 
-§4You can use Witchery (for example) to convert biomes.0-1ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§4You can use Witchery (for example) to convert biomes.ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
 4gregtech/gt.metaitem.01-32602.pngElectric Motor
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

@@ -1,4 +1,4 @@
-witchery/ingredient-4.pngDigging Faster!The Dream Weaver of Iron Arm will add a mining speed boost to a player when they wake up from a good nights sleep. If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a mining speed slowdown effect to the player.0-1ANDpre15780witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+1580witchery/ingredient-4.png0Digging Faster!36-1The Dream Weaver of Iron Arm will add a mining speed boost to a player when they wake up from a good nights sleep. If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a mining speed slowdown effect to the player.ANDpre15780witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
 4witchery/ingredient-99.pngDisturbed Cotton
 4enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"

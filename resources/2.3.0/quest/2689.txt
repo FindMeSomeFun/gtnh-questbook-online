@@ -1,4 +1,4 @@
-miscutils/PhthalicAcid-0.pngPhtalic Acid ConversionIf you have a bunch of this lying around already (or you think it's easier), you can convert GT Phtalic acid into the GT++ version by running it through a Distillery.0-1ANDpre17001gregtech/gt.metaitem.01-30595.png26841miscutils/RocketFuelMixB-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30595.pngPhthalic Acid Cell\nC\u2088H\u2086O\u2084
+2689miscutils/PhthalicAcid-0.png0Phtalic Acid Conversion24-1If you have a bunch of this lying around already (or you think it's easier), you can convert GT Phtalic acid into the GT++ version by running it through a Distillery.ANDpre17001gregtech/gt.metaitem.01-30595.png26841miscutils/RocketFuelMixB-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30595.pngPhthalic Acid Cell\nC\u2088H\u2086O\u2084
 1Optionalmiscutils/PhthalicAcid-0.pngPhthalic Acid Cell
 1Checkboxcheckbox-.pngCheckbox
 

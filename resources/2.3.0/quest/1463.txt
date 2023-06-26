@@ -1,10 +1,10 @@
-GalacticraftMars/tile.marsMachine-4.pngSleeping in SpaceThe Cryogenic Chamber is used to sleep on other planets and skip long nighttimes. It can be used at any time, even during the daytime, and in any dimension, including the Overworld.
+1463GalacticraftMars/tile.marsMachine-4.png0Sleeping in Space24-1The Cryogenic Chamber is used to sleep on other planets and skip long nighttimes. It can be used at any time, even during the daytime, and in any dimension, including the Overworld.
 
 Using the chamber during the daytime will skip the time to the next sunrise, except on the Asteroids dimension where the Sun is always locked on West.
 
 Once the player has used the Cryogenic Chamber, there is a 300 seconds cool-down time before he can use the chamber again. Breaking and placing back the chamber or trying to use different chamber will not reset the cool-down time, unless by dying.
 
-The chamber does not require energy to work.0-1ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+The chamber does not require energy to work.ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
 2GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
 4enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"

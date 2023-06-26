@@ -1,4 +1,4 @@
-Thaumcraft/blockLootCrate-1.pngThe Dark RealmWe found the way... my precious. We found it! Only need 4 tasty eyes, and some magic to open the door. The secret door, they didn't see it. Hehehe! All the time. It was there... Aaaall the time!1-1ANDpre2801Thaumcraft/ItemEldritchObject-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+279Thaumcraft/blockLootCrate-1.png1The Dark Realm32-1We found the way... my precious. We found it! Only need 4 tasty eyes, and some magic to open the door. The secret door, they didn't see it. Hehehe! All the time. It was there... Aaaall the time!ANDpre2801Thaumcraft/ItemEldritchObject-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

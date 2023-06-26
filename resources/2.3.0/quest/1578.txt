@@ -1,6 +1,6 @@
-witchery/ingredient-100.pngFanciful ThreadFanciful Thread is spun from Wispy Cotton using a Spinning Wheel. It is an ingredient used to make Dream Catchers.
+1578witchery/ingredient-100.png0Fanciful Thread36-1Fanciful Thread is spun from Wispy Cotton using a Spinning Wheel. It is an ingredient used to make Dream Catchers.
 
-It is made in a Spinning Wheel using Wispy Cotton, String and Odour of Purity.0-1ANDpre15770witchery/somniancotton-0.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+It is made in a Spinning Wheel using Wispy Cotton, String and Odour of Purity.ANDpre15770witchery/somniancotton-0.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
 8enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

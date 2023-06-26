@@ -1,4 +1,4 @@
-EnderIO/blockSolarPanel-1.png§9§lRF Solar Panel Tier 2The upgraded RF solar panel is much better. It outputs 40 RF/t.0-1ANDpre10000EnderIO/blockSolarPanel-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1001EnderIO/blockSolarPanel-1.png0§9§lRF Solar Panel Tier 26-1The upgraded RF solar panel is much better. It outputs 40 RF/t.ANDpre10000EnderIO/blockSolarPanel-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1EnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor\nMachine Upgrade
 16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalEnderIO/blockSolarPanel-1.pngAdvanced Photovoltaic Cell\nSolar Power!

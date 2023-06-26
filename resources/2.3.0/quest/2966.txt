@@ -1,3 +1,3 @@
-GoodGenerator/FRF_Coil_3-0.pngTier 3 CoilFor an overclock. Wait, you are going to overclock a UXV recipe?0-1ANDpre29600GoodGenerator/FRF_Coil_2-0.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10048.pngNaquadah Based Liquid Fuel MkIV Cell\nAdded by Good Generator via BartWorks
+2966GoodGenerator/FRF_Coil_3-0.png0Tier 3 Coil19-1For an overclock. Wait, you are going to overclock a UXV recipe?ANDpre29600GoodGenerator/FRF_Coil_2-0.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10048.pngNaquadah Based Liquid Fuel MkIV Cell\nAdded by Good Generator via BartWorks
 2tasksANDRetrievalGoodGenerator/FRF_Coil_3-0.pngUltimate Field Restriction Coil\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 32

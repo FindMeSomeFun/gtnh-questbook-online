@@ -1,6 +1,6 @@
-ae2stuff/Encoder-0.pngMaking Patterns QuickThe Pattern Encoder will allow you to use NEIs shift-click ? button functionality to create a crafting pattern even if you don't have the appropriate items.
+2521ae2stuff/Encoder-0.png0Making Patterns Quick27-1The Pattern Encoder will allow you to use NEIs shift-click ? button functionality to create a crafting pattern even if you don't have the appropriate items.
 
-However, you can also drag the items from NEI to do the same thing, though much slower, because you have to look up each component. This is vastly less useful for processing patterns, since it's always 64 items though.0-1ANDpre13281appliedenergistics2/item.ItemMultiPart-340.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+However, you can also drag the items from NEI to do the same thing, though much slower, because you have to look up each component. This is vastly less useful for processing patterns, since it's always 64 items though.ANDpre13281appliedenergistics2/item.ItemMultiPart-340.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalae2stuff/Encoder-0.pngPattern Encoder
 1

@@ -1,11 +1,11 @@
-naturescompass/NaturesCompass-0.png§5§lBiomes Everywhere, But Not the One You Want?Tired of searching all over the map for that Bamboo Forest or Tropical Rainforest? Desperate for clay dust and need to find a Canyon or Mesa biome? Nature's compass will lead you to the biome you're looking for, if it's within range.
+1510naturescompass/NaturesCompass-0.png0§5§lBiomes Everywhere, But Not the One You Want?4-1Tired of searching all over the map for that Bamboo Forest or Tropical Rainforest? Desperate for clay dust and need to find a Canyon or Mesa biome? Nature's compass will lead you to the biome you're looking for, if it's within range.
 
 Some things to keep in mind:
 1) Biomes from other dims show up on the list, don't bother searching those unless you're in that dim
 2) Radius 10000 means it couldn't find it
 3) You can try again at a different location and you might find it, the range is 10K too. There's also a config setting for those who don't mind the freeze when searching
 4) Artificially created biomes count, so remove them if you want to find a natural one
-5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDRetrievalnaturescompass/NaturesCompass-0.pngNature''s Compass

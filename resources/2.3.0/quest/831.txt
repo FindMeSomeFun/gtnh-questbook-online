@@ -1,4 +1,4 @@
-GalacticraftCore/item.basicItem-14.pngAdvanced WafersThe advanced wafer is used for more advanced machines such as the advanced solar panel or the Avaritia dire crafting table. It is also used in the creation of a space station.0-1ANDpre8321GalacticraftCore/item.basicItem-13.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
+831GalacticraftCore/item.basicItem-14.png0Advanced Wafers24-1The advanced wafer is used for more advanced machines such as the advanced solar panel or the Avaritia dire crafting table. It is also used in the creation of a space station.ANDpre8321GalacticraftCore/item.basicItem-13.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
 4dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
 2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

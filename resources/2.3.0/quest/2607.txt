@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.01-11325.png§c§lNaquadah AlloyIn order to make a Fusion Reactor you're going to need some Naquadah Alloy.
+2607gregtech/gt.metaitem.01-11325.png1§c§lNaquadah Alloy9-1In order to make a Fusion Reactor you're going to need some Naquadah Alloy.
 
 First, pop on by Mercury and collect some Deep Iron from small ores if you haven't already, and get Trinium out of it.
 
-You'll also need Naquadah coils, and LuV Energy Hatches.1-1ANDpre4761gregtech/gt.blockcasings5-5.png25991gregtech/gt.blockmachines-46.png29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+You'll also need Naquadah coils, and LuV Energy Hatches.ANDpre4761gregtech/gt.blockcasings5-5.png25991gregtech/gt.blockmachines-46.png29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
 18gregtech/gt.metaitem.01-2868.pngTrinium Dust\nKe
 9gregtech/gt.metaitem.01-2010.pngCarbon Dust\nC
 9Optionalgregtech/gt.metaitem.01-2325.pngNaquadah Alloy Dust\nNq\u2082KeC

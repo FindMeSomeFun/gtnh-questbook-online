@@ -1,4 +1,4 @@
-GalacticraftCore/item.oxygenTankMedFull-0.pngBigger Oxygen TanksThe Medium oxygen tank is an oxygen storage tank that can hold up to 2000 units of air.0-1ANDpre14261gregtech/gt.blockores-340.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+1437GalacticraftCore/item.oxygenTankMedFull-0.png0Bigger Oxygen Tanks24-1The Medium oxygen tank is an oxygen storage tank that can hold up to 2000 units of air.ANDpre14261gregtech/gt.blockores-340.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
 8GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
 4GalacticraftCore/item.basicItem-13.pngBasic Wafer
 1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

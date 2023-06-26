@@ -1,4 +1,4 @@
-GalaxySpace/item.spacesuit_jetplate-0.pngEVA EquipmentWho wants to trudge around on the surface when you can fly? Upgrade your chestplate with a jetpack and fly around Venus.0-1ANDpre17330GalaxySpace/item.spacesuit_plate-0.pngrewardsItemGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+1732GalaxySpace/item.spacesuit_jetplate-0.png0EVA Equipment24-1Who wants to trudge around on the surface when you can fly? Upgrade your chestplate with a jetpack and fly around Venus.ANDpre17330GalaxySpace/item.spacesuit_plate-0.pngrewardsItemGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
 1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDOptionalGalaxySpace/item.spacesuit_plate-0.pngSpaceSuit Chestplate\nSuit with high Strength. It\nstabilizes atmospheric\nPressure. Also, the Helmet\nallows for longer Times\nunder Water.\nProvides SpaceSuit capability.\nProvides full hazmat protection.\nProtection: 10\nDurability: 480/480

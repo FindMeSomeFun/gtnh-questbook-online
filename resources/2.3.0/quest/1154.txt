@@ -1,4 +1,4 @@
-TConstruct/BoltAmmo-0-705.png§5§lMagnalium Crossbow BoltsMagnalium bolts are much better than your old wooden bolts.
+1154TConstruct/BoltAmmo-0-705.png0§5§lMagnalium Crossbow Bolts14-1Magnalium bolts are much better than your old wooden bolts.
 
 You can use nether quartz on the bolts to make them even better. This requires a free modifier slot.
 
@@ -6,7 +6,7 @@ Experiment with NEI to find other good bolt materials.
 
 To make it, you must use a Fluid Solidifer instead of the Tinker's casting table.
 
-§4You'll need to get the molten iron out of the smeltery and into the fluid solidifier, the GT molten iron won't work.0-1ANDpre11500TConstruct/Crossbow-0-288.png11551gregtech/gt.blockmachines-521.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot\nAi
+§4You'll need to get the molten iron out of the smeltery and into the fluid solidifier, the GT molten iron won't work.ANDpre11500TConstruct/Crossbow-0-288.png11551gregtech/gt.blockmachines-521.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot\nAi
 5enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

@@ -1,8 +1,8 @@
-enhancedlootbags/lootbag-4.pngReward for Desulfurizing AutomationThe greatest reward is having your stuff automated if you've done everything correctly, but here's a reward for making it this far.
+1642enhancedlootbags/lootbag-4.png0Reward for Desulfurizing Automation25-1The greatest reward is having your stuff automated if you've done everything correctly, but here's a reward for making it this far.
 
 Some other setups to look at automating are making polyethylene and nitric acid. 
 
-With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.0-1ANDpre16400gregtech/gt.metaitem.01-30460.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.ANDpre16400gregtech/gt.metaitem.01-30460.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 2dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 8dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 8ChoiceProjRedCore/projectred.core.part-30.pngBlue Illumar

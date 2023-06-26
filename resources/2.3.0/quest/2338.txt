@@ -1,10 +1,10 @@
-witchery/ingredient-82.pngEnt TwigAn Ent Twig will be dropped when an Ent is killed. They are used to make Mutating Sprigs and Mystic Branches. 
+2338witchery/ingredient-82.png0Ent Twig36-1An Ent Twig will be dropped when an Ent is killed. They are used to make Mutating Sprigs and Mystic Branches. 
 
 They will appear occasionally when trees such as Rowan, Hawthorn and Alder are felled in large quantities.
 
 Ents are rather hard to kill by normal means, but they do have a healthy hatred of certain tools for some reason or another.
 
-Twilight Forest Moss Patch and Biomes 'o Plenty moss will drop also.0-1ANDpre15570witchery/witchsapling-0.pngrewardsChoiceminecraft/diamond_axe-0-enchanted.pngDiamond Axe\nSharpness V\nLooting V\nKnockback V\n+12.25 Attack Damage\nDurability: 768/768
+Twilight Forest Moss Patch and Biomes 'o Plenty moss will drop also.ANDpre15570witchery/witchsapling-0.pngrewardsChoiceminecraft/diamond_axe-0-enchanted.pngDiamond Axe\nSharpness V\nLooting V\nKnockback V\n+12.25 Attack Damage\nDurability: 768/768
 1TwilightForest/tile.TFPlant-3.pngMoss Patch
 16enhancedlootbags/lootbag-52.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"

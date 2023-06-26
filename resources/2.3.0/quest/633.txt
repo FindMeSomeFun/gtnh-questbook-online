@@ -1,4 +1,4 @@
-harvestcraft/fishtrap-0.pngFish TrappingFishing can be very boring. Why not to automate it with a fish trap?0-1ANDpre361gregtech/gt.metatool.01-16.png6320minecraft/fishing_rod-0.pngrewardsItemminecraft/fishing_rod-0.pngFishing Rod
+633harvestcraft/fishtrap-0.png0Fish Trapping13-1Fishing can be very boring. Why not to automate it with a fish trap?ANDpre361gregtech/gt.metatool.01-16.png6320minecraft/fishing_rod-0.pngrewardsItemminecraft/fishing_rod-0.pngFishing Rod
 1minecraft/furnace-0.pngFurnace
 1minecraft/coal-0.pngCoal\nBurn Time: 1600
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

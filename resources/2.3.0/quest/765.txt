@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1157.png§6§lTime to Drill for Oil!Pumps are nice but you're going to reach a point where you'll want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you'll need to search for oil using a seismic prospector. You can find raw, light, medium, and heavy oil. There's also a chance to find natural gas.
+765gregtech/gt.blockmachines-1157.png0§6§lTime to Drill for Oil!17-1Pumps are nice but you're going to reach a point where you'll want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you'll need to search for oil using a seismic prospector. You can find raw, light, medium, and heavy oil. There's also a chance to find natural gas.
 
 Higher tiers of power will drill faster. You need to upgrade the energy hatch corresponding to the power tier. 
 
@@ -8,7 +8,7 @@ You need mining pipes in the controller. If you need more than 64, you can use a
 
 These are GT machines, so remember to protect them (and their power sources!) from rain on any side. And set a waypoint with JourneyMaps so you don't forget where you placed it!
 
-Space dims can also have fluids beneath bedrock. For info, check the Tips and Tricks tab.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Space dims can also have fluids beneath bedrock. For info, check the Tips and Tricks tab.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-32601.pngElectric Motor
 2gregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
 2gregtech/gt.metaitem.01-17019.pngAluminium Plate\nAl

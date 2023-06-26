@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-11349.png§a§lBlue SteelSunnarium batteries are made out of blue steel: a mixture of steel, black steel, brass and rose gold.0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Sheet\nCH\u2082
+1263gregtech/gt.metaitem.01-11349.png0§a§lBlue Steel7-1Sunnarium batteries are made out of blue steel: a mixture of steel, black steel, brass and rose gold.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Sheet\nCH\u2082
 8gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"

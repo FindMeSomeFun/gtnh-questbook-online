@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-829.pngEmpty the oceansIf you stuck with fish for bio diesel this long, you can now make the Zhuhai Fishing Port to get cartloads of fish and other byproducts.
+2053gregtech/gt.blockmachines-829.png0Empty the oceans18-1If you stuck with fish for bio diesel this long, you can now make the Zhuhai Fishing Port to get cartloads of fish and other byproducts.
 
-§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.blockmachines-829.pngZhuhai - Fishing Port\nMachine Type: Fish Trap\nController Block for the Fishing Pond\nCan process (Tier + 1) * 2 recipes\nPut a numbered circuit into the input bus.\nCircuit 14 for Fish\nCircuit 15 for Junk\nCircuit 16 for Treasure\nNeed to be filled with water.\nWill automatically fill water from input hatch.\nCauses: 20 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
 1miscutils/gtplusplus.blockcasings.3-0.pngAquatic Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 1

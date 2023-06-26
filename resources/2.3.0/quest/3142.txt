@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-12792.png§6§lFaster Crops§WWelcome to my ted talk, today we talk about the §6§lExtreme Industrial Greenhouse.
+3142gregtech/gt.blockmachines-12792.png0§6§lFaster Crops17-1§WWelcome to my ted talk, today we talk about the §6§lExtreme Industrial Greenhouse.
 §rIt is the most advanced and §l§nLAG FREE§r crop farm that will allow you to supply the amount of tea you need.
 The machine starts at §5EV§r, but to farm IC2 crops you will need at least §dLuV§r power.
 To see the structure, place the controller on ground and use a structure hologram to build.
@@ -36,7 +36,7 @@ The lamps can be inverted.
 The dirt must be tilled.
 If you encounter any issue or have any suggestion please open an issue on github and ping §l@kuba6000§r.
 This MB was created to farm tea because I wanted to.
-0-1ANDpre2131gregtech/gt.blockmachines-15.pngrewardsItemdreamcraft/item.CoinFarmerIII-0.pngCoin "The Farmer 1000"
+ANDpre2131gregtech/gt.blockmachines-15.pngrewardsItemdreamcraft/item.CoinFarmerIII-0.pngCoin "The Farmer 1000"
 10Itemkubatech/kubaitems-3.pngKuba''s Green Tea\nThis item is from\nTurbo Legendary Secret Tea Collection
 1tasksANDRetrievalgregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 76ProjRedIllumination/projectred.illumination.lamp-10.pngPurple Lamp

@@ -1,4 +1,4 @@
-miscutils/bookGT-3.pngGT++ KnowledgeTo become a master at GT++ you will need to craft manuals for certain machines.0-1ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemminecraft/writable_book-0.pngBook and Quill
+2025miscutils/bookGT-3.png0GT++ Knowledge18-1To become a master at GT++ you will need to craft manuals for certain machines.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemminecraft/writable_book-0.pngBook and Quill
 1tasksANDRetrievalmiscutils/bookGT-3.pngMulti-Machine Manual\nAuthor: Alkalus\nPages: 6
 1miscutils/bookGT-1.pngPower Storage & You [Version 0.64]\nAuthor: Alkalus\nPages: 8
 1miscutils/bookGT-0.pngThermal Boiler Manual\nAuthor: GregoriusT\nPages: 16

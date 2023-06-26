@@ -1,6 +1,6 @@
-minecraft/potion-8198.pngThe Night's Not Dark AnymoreHardcore darkness is a pain, but now the night will be bright. Or at least, your perception will be that it is, mobs can still spawn! Be careful, the mobs aren't any weaker.
+1565minecraft/potion-8198.png0The Night's Not Dark Anymore31-1Hardcore darkness is a pain, but now the night will be bright. Or at least, your perception will be that it is, mobs can still spawn! Be careful, the mobs aren't any weaker.
 
-§3BTW, you can make a longer laster potion out of this one. Also, you should probably make them in batches of 3 so you don't waste materials.0-1ANDpre11061minecraft/brewing_stand-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3BTW, you can make a longer laster potion out of this one. Also, you should probably make them in batches of 3 so you don't waste materials.ANDpre11061minecraft/brewing_stand-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1minecraft/nether_wart-0.pngNether Wart
 8minecraft/potion-0.pngWater Bottle
 8Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"

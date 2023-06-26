@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-5918.png§a§f§a§lAdvanced Ilmenite ProcessingGet the most out of your Ilmenite by putting the crushed ore into a EV Chemical Bath with Sulfuric Acid. The acid can even be fully recycled.0-1ANDpre12521gregtech/gt.blockmachines-544.pngrewardsItemgregtech/gt.metaitem.01-5918.pngCrushed Ilmenite Ore\nFeTiO\u2083
+2562gregtech/gt.metaitem.01-5918.png0§a§f§a§lAdvanced Ilmenite Processing7-1Get the most out of your Ilmenite by putting the crushed ore into a EV Chemical Bath with Sulfuric Acid. The acid can even be fully recycled.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsItemgregtech/gt.metaitem.01-5918.pngCrushed Ilmenite Ore\nFeTiO\u2083
 16tasksANDRetrievalgregtech/gt.metaitem.01-5918.pngCrushed Ilmenite Ore\nFeTiO\u2083
 1gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
 1Retrievalgregtech/gt.metaitem.01-2375.pngRutile Dust\nTiO\u2082

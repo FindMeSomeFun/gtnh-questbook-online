@@ -1,4 +1,4 @@
-bartworks/BioLabParts-0.pngFluids for Copying CulturesOk, so let's say you've made some kind of culture, but you want more of it? You only need one per Vat, but they're consumed when making DNA Samples, so you should probably learn how.
+2711bartworks/BioLabParts-0.png0Fluids for Copying Cultures11-1Ok, so let's say you've made some kind of culture, but you want more of it? You only need one per Vat, but they're consumed when making DNA Samples, so you should probably learn how.
 
 To start off, you'll need to get an eColi Culture.
 
@@ -16,7 +16,7 @@ You should expect to need a significant amount of eColi Bacteria Fluid if you pl
 
 §3To search for items related to copying cultures, search for 'culture', 'dna sample', or 'plasmid'. You can't do this for the Data Orbs, you have to check the uses of DNA Samples.
 
-§5A bunch of the fluids have incorrect spelling, don't blame me for it.0-1ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Escherichia koli (eColi Bacteria)\nAdded by BartWorks
+§5A bunch of the fluids have incorrect spelling, don't blame me for it.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Escherichia koli (eColi Bacteria)\nAdded by BartWorks
 1Retrievalgregtech/gt.metaitem.98-11.pngeColi Bacteria Fluid Cell
 1Retrievalgregtech/gt.metaitem.98-16.pngLiquid DNA Cell
 1gregtech/gt.metaitem.98-13.pngFluorescent DNA Cell

@@ -1,4 +1,4 @@
-appliedenergistics2/item.ItemMultiMaterial-38.png64k ComponentLargest vanilla storage component, used to make 64k ME storage cells. Can be recovered from a crafted 64k ME storage cell by fully emptying the storage cell, and shift clicking it in your hand.0-1ANDpre12530appliedenergistics2/item.ItemMultiMaterial-37.pngrewardsChoicedreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
+1256appliedenergistics2/item.ItemMultiMaterial-38.png064k Component27-1Largest vanilla storage component, used to make 64k ME storage cells. Can be recovered from a crafted 64k ME storage cell by fully emptying the storage cell, and shift clicking it in your hand.ANDpre12530appliedenergistics2/item.ItemMultiMaterial-37.pngrewardsChoicedreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
 32dreamcraft/item.EngineeringProcessorItemDiamondCore-0.pngItem Processor Tier II
 1enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

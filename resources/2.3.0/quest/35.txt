@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-2300.png§2§lMaking BronzeNow that you've found copper and tin, you should make yourself some bronze. Use your macer... mortar to grind up some copper and tin ingots, and mix them together!1-1ANDpre301gregtech/gt.metaitem.01-11035.png311gregtech/gt.metaitem.01-11057.pngrewardsItemharvestcraft/curryItem-0.pngCurry Rice\nharvestcraft:curryItem
+35gregtech/gt.metaitem.01-2300.png1§2§lMaking Bronze2-1Now that you've found copper and tin, you should make yourself some bronze. Use your macer... mortar to grind up some copper and tin ingots, and mix them together!ANDpre301gregtech/gt.metaitem.01-11035.png311gregtech/gt.metaitem.01-11057.pngrewardsItemharvestcraft/curryItem-0.pngCurry Rice\nharvestcraft:curryItem
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-2300.pngBronze Dust\nSnCu\u2083

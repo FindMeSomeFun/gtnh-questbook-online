@@ -1,4 +1,4 @@
-bartworks/gt.bwMetaGeneratedcell-75.png§b§lDissolve IrAdding Hydrochloric Adid to Iridium Dioxide yields Acidic Iridium Solution.1-1ANDpre23131bartworks/gt.bwMetaGenerateddust-73.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+2316bartworks/gt.bwMetaGeneratedcell-75.png1§b§lDissolve Ir8-1Adding Hydrochloric Adid to Iridium Dioxide yields Acidic Iridium Solution.ANDpre23131bartworks/gt.bwMetaGenerateddust-73.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-73.pngIridium Dioxide Dust\nIrO\u2082\nAdded by BartWorks
 1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
 1Retrievalbartworks/gt.bwMetaGeneratedcell-75.pngAcidic Iridium Solution Cell\n???\nAdded by BartWorks

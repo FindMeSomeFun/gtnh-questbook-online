@@ -1,3 +1,3 @@
-StevesFactoryManager/BlockCableRelayName-0.pngInventory RelayThe inventory relay can access the inventory of non-stationary entities, such as minecarts.0-1ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableRelayName-0.pngInventory Relay
+2001StevesFactoryManager/BlockCableRelayName-0.png0Inventory Relay26-1The inventory relay can access the inventory of non-stationary entities, such as minecarts.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableRelayName-0.pngInventory Relay
 2tasksANDRetrievalStevesFactoryManager/BlockCableRelayName-0.pngInventory Relay
 1

@@ -1,4 +1,4 @@
-Railcraft/machine.alpha-12.pngAdvanced Coke OvenYour power needs quadrupled since the last tier, and it's likely that you're not getting Charcoal fast enough. Instead of adding even more Coke Ovens, why not build an upgraded version of them?
+3103Railcraft/machine.alpha-12.png0Advanced Coke Oven22-1Your power needs quadrupled since the last tier, and it's likely that you're not getting Charcoal fast enough. Instead of adding even more Coke Ovens, why not build an upgraded version of them?
 
 The caveat is that you won't keep producing Creosote alongside the Charcoal from now on. It makes for decent power in the appropriate generators, and you might have already used it to produce Lubricant. Despite that, you can still get Creosote from processing in the next steps of this questline, so you can still get it if you need it. With that out of the way, let's move on to the Advanced Coke Oven (ACO).
 
@@ -6,7 +6,7 @@ How is it made? The ACO needs a lot more steps than the normal Coke Ovens, steps
 
 The speed of this new one is 1 Charcoal per second, or the equivalent to 90 Coke Ovens. The cost of this is the loss of the Creosote, and also that it needs fuel to work, making it so approaximately 1/16 of your Charcoal is lost in this step. Fortunately, you can automate it with item pipes, and the EnderIO conduits make it even simpler. Input wood, input charcoal, output charcoal.
 
-Make one of these multis to continue. Be warned that you might need more!0-1ANDpre30980gregtech/gt.metaitem.01-30686.pngrewardsChoiceRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
+Make one of these multis to continue. Be warned that you might need more!ANDpre30980gregtech/gt.metaitem.01-30686.pngrewardsChoiceRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
 16enhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"

@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-794.png§a§lRocket Engine IVThis is the IV version. It has 70% efficiency, and produces 500 to 4000 pollution/s.0-1ANDpre14131gregtech/gt.metaitem.01-32654.png26841miscutils/RocketFuelMixB-0.pngrewardsChoicemiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell\nCan be used as rocket fuel up to tier 2
+2784gregtech/gt.blockmachines-794.png0§a§lRocket Engine IV19-1This is the IV version. It has 70% efficiency, and produces 500 to 4000 pollution/s.ANDpre14131gregtech/gt.metaitem.01-32654.png26841miscutils/RocketFuelMixB-0.pngrewardsChoicemiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell\nCan be used as rocket fuel up to tier 2
 16miscutils/RP1Fuel-0.pngRP-1 Cell
 24enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

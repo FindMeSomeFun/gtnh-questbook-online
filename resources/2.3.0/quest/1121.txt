@@ -1,4 +1,4 @@
-Forestry/beeQueenGE-0-Imperial.pngBreed some imperial beesCross breeding noble and majestic bees can result in imperial bees.
+1121Forestry/beeQueenGE-0-Imperial.png0Breed some imperial bees29-1Cross breeding noble and majestic bees can result in imperial bees.
 
 These bees produce a Regeneration buff in their active area.  You can probably find a use for this in case of...accidents.
 
@@ -6,7 +6,7 @@ Imperial bees produce dripping combs every 3.8 minutes and royal jelly every 5.1
 
 Royal jelly is needed in making scented paneling for an Alveary - the third tier bee housing.
 
-You can now start working towards the Master Registry in the How to Be(e) tab.0-1ANDpre11200Forestry/beeQueenGE-0-Majestic.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You can now start working towards the Master Registry in the How to Be(e) tab.ANDpre11200Forestry/beeQueenGE-0-Majestic.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Forestry/beePrincessGE-0-ocean.pngOcean Princess\nPristine Stock
 1Forestry/beeDroneGE-0-ocean.pngOcean Drone
 4Forestry/beeCombs-5.pngDripping Comb

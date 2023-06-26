@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-798.pngSpools and spoolsNeed enough wire to go around the world? Here you go.
+2037gregtech/gt.blockmachines-798.png0Spools and spools18-1Need enough wire to go around the world? Here you go.
 
-§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.blockmachines-798.pngWire Factory Controller\nMachine Type: Wiremill\nController Block for the Industrial Wire Factory\n200% faster than using single block machines of the same voltage\nOnly uses 75% of the EU/t normally required\nProcesses four items per voltage tier\nCauses: 100 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
 1miscutils/miscutils.blockcasings-6.pngWire Factory Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 1

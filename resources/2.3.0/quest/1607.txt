@@ -1,6 +1,6 @@
-gregtech/gt.metatool.01-40.pngSwipe SwipeOnce you get some large fields, collecting the crops can be a real hassle. Make yourself the GT scythe, Sense, to make it 5x5 = 25 times easier.
+1607gregtech/gt.metatool.01-40.png0Swipe Swipe13-1Once you get some large fields, collecting the crops can be a real hassle. Make yourself the GT scythe, Sense, to make it 5x5 = 25 times easier.
 
-§3PS: The sense has been broken in the past, and may harvest more than you expect. Test it carefully.0-1ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+§3PS: The sense has been broken in the past, and may harvest more than you expect. Test it carefully.ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
 3dreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
 10tasksANDRetrievalgregtech/gt.metatool.01-40.pngSense\nDurability: 0 / 0\nNULL lvl 0\nAttack Damage: 3.0\nMining Speed: 1.0\nBecause a Scythe doesn''t make Sense\nRightclick to harvest Crop Sticks
 1

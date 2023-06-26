@@ -1,4 +1,4 @@
-minecraft/golden_rail-0.pngBoost Your SpeedIf you decide to not use a locomotive and drive with one or two carts only, you can use some booster tracks. Activate them with a lever or a redstone torch. You can also use them to slow down, especially when doing corners!0-1ANDpre8660minecraft/rail-0.pngrewardsChoiceminecraft/rail-0.pngTrack
+1186minecraft/golden_rail-0.png0Boost Your Speed14-1If you decide to not use a locomotive and drive with one or two carts only, you can use some booster tracks. Activate them with a lever or a redstone torch. You can also use them to slow down, especially when doing corners!ANDpre8660minecraft/rail-0.pngrewardsChoiceminecraft/rail-0.pngTrack
 64Railcraft/part.rail-0.pngStandard Rail
 32minecraft/redstone_torch-0.pngRedstone Torch
 64enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

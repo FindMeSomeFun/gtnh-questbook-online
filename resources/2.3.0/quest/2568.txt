@@ -1,2 +1,2 @@
-Avaritia/Infinity_Helm-0.pngInfinity HelmetHelmet which provides infinite saturation and removes all negative debuffs.0-1ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalAvaritia/Infinity_Helm-0.pngInfinity Helmet\nVis discount: 20%\nProvides SpaceSuit capability.\nProvides full hazmat protection.\nProtection: 6\nDurability: 109989/109989
+2568Avaritia/Infinity_Helm-0.png0Infinity Helmet38-1Helmet which provides infinite saturation and removes all negative debuffs.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalAvaritia/Infinity_Helm-0.pngInfinity Helmet\nVis discount: 20%\nProvides SpaceSuit capability.\nProvides full hazmat protection.\nProtection: 6\nDurability: 109989/109989
 1

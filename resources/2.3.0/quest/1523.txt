@@ -1,6 +1,6 @@
-ifu/ifu_buildingKit-0.pngCan't Find Those Ores?Having trouble locating some of the basic ores? Trade in some coins for oreblocks to use in the Ore Finder Wand.
+1523ifu/ifu_buildingKit-0.png0Can't Find Those Ores?40144000Having trouble locating some of the basic ores? Trade in some coins for oreblocks to use in the Ore Finder Wand.
 
-If you're clever, you can use one oreblock to find a vein containing another oreblock to use to find another vein. For example, if you choose Redstone, you can use that to find Cinnabar, which can be used to find Thaumcraft Aspect Shard ores in the Twilight Forest. Experiment and find some combos!0144000ANDpre15040ifu/ifu_buildingKit-1.pngrewardsChoicegregtech/gt.blockores-937.pngCassiterite Sand\nSnO\u2082
+If you're clever, you can use one oreblock to find a vein containing another oreblock to use to find another vein. For example, if you choose Redstone, you can use that to find Cinnabar, which can be used to find Thaumcraft Aspect Shard ores in the Twilight Forest. Experiment and find some combos!ANDpre15040ifu/ifu_buildingKit-1.pngrewardsChoicegregtech/gt.blockores-937.pngCassiterite Sand\nSnO\u2082
 1gregtech/gt.blockores-35.pngCopper Ore\nCu
 1gregtech/gt.blockores-870.pngMagnetite Ore\nFe\u2083O\u2084
 1gregtech/gt.blockores-834.pngPyrite Ore\nFeS\u2082

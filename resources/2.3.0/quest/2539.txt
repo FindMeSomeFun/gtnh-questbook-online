@@ -1,4 +1,4 @@
-appliedenergistics2/item.ItemMultiMaterial-30.pngDeck of CardsThese cards add additional functionality to certain devices or fixtures. They specify what devices they work on in the tooltip.
+2539appliedenergistics2/item.ItemMultiMaterial-30.png0Deck of Cards27-1These cards add additional functionality to certain devices or fixtures. They specify what devices they work on in the tooltip.
 
 The Redstone Card adds redstone interactivity to the devices it can be used on, with the following options:
 Always active, active with or without redstone signal, activate once per pulse.
@@ -16,7 +16,7 @@ The Acceleration Card makes the device/fixture work faster. You'll probably want
 
 The Inverter Card allows you to invert the item filter of certain fixtures.
 
-The Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. If you just want it to be fuzzy for nbt, set to Match Any. If it is set to 99%, it will work on anything that is damaged. You can use the Inverter Card to reverse this.0-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+The Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. If you just want it to be fuzzy for nbt, set to Match Any. If it is set to 99%, it will work on anything that is damaged. You can use the Inverter Card to reverse this.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalappliedenergistics2/item.ItemMultiMaterial-25.pngBasic Card
 3appliedenergistics2/item.ItemMultiMaterial-28.pngAdvanced Card

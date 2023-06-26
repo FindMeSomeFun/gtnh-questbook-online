@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32695.png§c§lNow You're Really Gonna Hate This 5 and 6 in LuVSome machines need emitters and sensors, like the analyzer or the circuit assembler.1-1ANDpre14891gregtech/gt.metaitem.01-32655.pngrewardsItemgregtech/gt.metaitem.01-11083.pngOsmium Ingot\nOs
+1490gregtech/gt.metaitem.01-32695.png1§c§lNow You're Really Gonna Hate This 5 and 6 in LuV9-1Some machines need emitters and sensors, like the analyzer or the circuit assembler.ANDpre14891gregtech/gt.metaitem.01-32655.pngrewardsItemgregtech/gt.metaitem.01-11083.pngOsmium Ingot\nOs
 8bartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot\nPd\u2083Rh\nAdded by BartWorks
 4enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"

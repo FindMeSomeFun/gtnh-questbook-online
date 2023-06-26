@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-992.pngBest thing since sliced breadWhen all you have is a machine full of knives, everything starts looking like bread. You can switch between Cutting Machine and Slicing Machine modes with a screwdriver.
+2032gregtech/gt.blockmachines-992.png0Best thing since sliced bread18-1When all you have is a machine full of knives, everything starts looking like bread. You can switch between Cutting Machine and Slicing Machine modes with a screwdriver.
 
 Bluebine 2019!
 
-§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1minecraft/bread-0.pngBread\nminecraft:bread
 64tasksANDRetrievalgregtech/gt.blockmachines-992.pngCutting Factory Controller\nMachine Type: Cutting Machine / Slicing Machine\nController Block for the Industrial Cutting Factory\n200% faster than using single block machines of the same voltage\nOnly uses 75% of the EU/t normally required\nProcesses four items per voltage tier\nCauses: 160 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
 1miscutils/gtplusplus.blockcasings.2-13.pngCutting Factory Frame\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!

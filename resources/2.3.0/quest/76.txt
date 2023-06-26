@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-140.png§6§lTime to Get Some SteelYou need steel? Uhh... fine. Let's get busy...
+76gregtech/gt.blockmachines-140.png1§6§lTime to Get Some Steel17-1You need steel? Uhh... fine. Let's get busy...
 
 Hint: The bricked blast furnace can share walls with other ones, just like most GT multi blocks. How will this affect the air quality though...
 
@@ -6,7 +6,7 @@ Hint: The bricked blast furnace can share walls with other ones, just like most 
 
 If you spawn near a biome with Hardened Clay you can macerate it to get the clay dust you need. You can also use brick blocks from Villages to get brick dust in the macerator.
 
-Crafting the Worktable from Forestry can make it easier as you can use all the buckets for crafting in one click.1-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+Crafting the Worktable from Forestry can make it easier as you can use all the buckets for crafting in one click.ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
 32enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 50ChoiceTConstruct/oreBerries-5.pngConcentrated Essence Berry\nTastes like Creeper\nCan be placed on a empty IC2 Crop.

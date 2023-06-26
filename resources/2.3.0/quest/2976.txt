@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-2037.png§9§lGallium and moreCentrifuge the Bauxite Slag to get the remaining desired products.0-1ANDpre29740gregtech/gt.metaitem.01-2413.pngrewardsChoicegregtech/gt.metaitem.01-2037.pngGallium Dust\nGa
+2976gregtech/gt.metaitem.01-2037.png0§9§lGallium and more6-1Centrifuge the Bauxite Slag to get the remaining desired products.ANDpre29740gregtech/gt.metaitem.01-2413.pngrewardsChoicegregtech/gt.metaitem.01-2037.pngGallium Dust\nGa
 4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-2037.pngGallium Dust\nGa

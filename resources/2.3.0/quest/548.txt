@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30737.png§5§lLight Sulfuric FuelYou can distill your oil into light sulfuric fuel, that has a burn value of 40,000 EU.0-1ANDpre5471gregtech/gt.blockmachines-531.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
+548gregtech/gt.metaitem.01-30737.png0§5§lLight Sulfuric Fuel4-1You can distill your oil into light sulfuric fuel, that has a burn value of 40,000 EU.ANDpre5471gregtech/gt.blockmachines-531.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
 8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3tasksANDRetrievalgregtech/gt.metaitem.01-30737.pngSulfuric Light Fuel Cell

@@ -1,4 +1,4 @@
-miscutils/itemNuggetDragonblood-0.pngDragonbloodFor your first batch of Hypogen you will need some Dragonblood. Maybe you already have some lying around somewhere from killing the dragon a long time ago. You have 2 other options though. Bees and the DE Fusion Crafter.
+3248miscutils/itemNuggetDragonblood-0.png1Dragonblood38-1For your first batch of Hypogen you will need some Dragonblood. Maybe you already have some lying around somewhere from killing the dragon a long time ago. You have 2 other options though. Bees and the DE Fusion Crafter.
 
 For the bee path you have to go very deep into the breeding tree, but maybe you have already done that? Check the Bee Breeding tab either way.
 
@@ -11,5 +11,5 @@ However, you will still need more Dragonblood eventually for UMV superconductors
 
 §3There is actually another way to get Dragonblood which is similar to the DE Fusion Crafter recipes but in the mixer instead. Its even slower and less resource efficient. In particular, the dragon egg does not survive the process. So only use that if you are absolutely trying to avoid magic and bees.
 
-Just a reminder: a fluid task just needs you to have the fluid in some container in your inventory. (cell, universal cell, large cell, volumetric cell, etc.)1-1ANDpre25831gregtech/gt.blockmachines-965.pngrewardstasksANDFluidfluids/molten-dragonblood-.pngMolten Dragonblood
+Just a reminder: a fluid task just needs you to have the fluid in some container in your inventory. (cell, universal cell, large cell, volumetric cell, etc.)ANDpre25831gregtech/gt.blockmachines-965.pngrewardstasksANDFluidfluids/molten-dragonblood-.pngMolten Dragonblood
 576

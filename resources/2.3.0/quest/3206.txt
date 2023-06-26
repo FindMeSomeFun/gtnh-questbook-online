@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-15450.pngEstablishment of FusionFusion is the lategame. It is not the entire lategame, but several tiers are effectively relying on it, even if new ways of generating power are being discovered (developed) over time. Whether you got here through focusing on power or products, you have surely felt the importance of that donut on your base, have you not?
+3206gregtech/gt.blockmachines-15450.png0Establishment of Fusion23-1Fusion is the lategame. It is not the entire lategame, but several tiers are effectively relying on it, even if new ways of generating power are being discovered (developed) over time. Whether you got here through focusing on power or products, you have surely felt the importance of that donut on your base, have you not?
 
 Let's just hope your power storage doesn't run out when you start relying on Mega Blast Furnace processing.
 
-0-1ORpre31640dreamcraft/item.MedalBuilder-0.png31650universalsingularities/universal.draconicEvolution.singularity-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+ORpre31640dreamcraft/item.MedalBuilder-0.png31650universalsingularities/universal.draconicEvolution.singularity-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

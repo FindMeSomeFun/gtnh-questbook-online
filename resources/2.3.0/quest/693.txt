@@ -1,8 +1,8 @@
-appliedenergistics2/tile.BlockSkyStone-0.png§2§lFallen From the SkyYou may have noticed big meteors everywhere, and maybe wondered if they're useful somehow? Well, they are, but not just yet. I'll give you a reward for collecting some now.
+693appliedenergistics2/tile.BlockSkyStone-0.png0§2§lFallen From the Sky2-1You may have noticed big meteors everywhere, and maybe wondered if they're useful somehow? Well, they are, but not just yet. I'll give you a reward for collecting some now.
 
 Inside the meteor you can find a skystone chest containing some processor press plates. Save them for later, you can't do AE2 without them. Though you can also just make them yourself in EV. Plus the chest is nice, and can be placed underneath blocks and still opened.
 
-Hint: If all your surface meteors have been raided, put some skystone in your Ore Finder to find underground ones. Or wait until you can make the compass to find them.0-1ANDpre381TConstruct/pickaxe-0-356.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book\nFortune II\nHold the Sneak key for Enchantment Description
+Hint: If all your surface meteors have been raided, put some skystone in your Ore Finder to find underground ones. Or wait until you can make the compass to find them.ANDpre381TConstruct/pickaxe-0-356.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book\nFortune II\nHold the Sneak key for Enchantment Description
 1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"

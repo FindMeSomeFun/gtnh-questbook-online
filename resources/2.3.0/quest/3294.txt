@@ -1,4 +1,4 @@
-catwalks/scaffold-0.pngCatwalksThe Catwalks Mod adds several cosmetic blocks to deck out your factory.
+3294catwalks/scaffold-0.png0Catwalks15-1The Catwalks Mod adds several cosmetic blocks to deck out your factory.
 
 Scaffolds and Builder's Scaffolds are useful for building up in the air before you get access to flight. They can be climbed like ladders, and break instantly when punched. You will also not fall off of them if you let go of movement keys while climbing. If you right-click the Builder's Scaffold with a solid block, the scaffold will be replaced by that block.
 
@@ -11,7 +11,7 @@ Support Columns are purely decorative. They connect to each other in all directi
 Sturdy Rails let you run minecart tracks across gaps without supports. Right-click the Sturdy Powered Rail with a Blowtorch to power it permanently, you don't need a redstone torch. If you don't have enough distractions already, use them to build a rollercoaster!
 
 The Blowtorch lets you remove railings or even the floor from a catwalk by right-clicking. Use it to make an opening to let you walk onto the catwalk, or if you don't know what an "OSHA violation" is. The same function can be performed by a GT or Forge-compatible wrench, so you don't actually need to make this.
-0-1ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
 16tasksANDOptionalcatwalks/blowtorch-0.pngBlowtorch
 1Retrievalcatwalks/scaffold-0.pngScaffold
 4catwalks/catwalk_unlit-0.pngCatwalk

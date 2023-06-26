@@ -1,4 +1,4 @@
-AWWayofTime/alchemyFlask-0.pngSpecial Potion FlasksRegular glass phials are unable to hold these special potions you want. You need to imbue them with some blood from your altar.0-1ANDpre4091AWWayofTime/AlchemicalWizardrybloodRune-0.png4101AWWayofTime/blockWritingTable-0.pngrewardsItemAWWayofTime/alchemyFlask-0.pngPotion Flask\nSwigs Left: 8/8\nNo Effects
+414AWWayofTime/alchemyFlask-0.png0Special Potion Flasks37-1Regular glass phials are unable to hold these special potions you want. You need to imbue them with some blood from your altar.ANDpre4091AWWayofTime/AlchemicalWizardrybloodRune-0.png4101AWWayofTime/blockWritingTable-0.pngrewardsItemAWWayofTime/alchemyFlask-0.pngPotion Flask\nSwigs Left: 8/8\nNo Effects
 1enhancedlootbags/lootbag-16.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"

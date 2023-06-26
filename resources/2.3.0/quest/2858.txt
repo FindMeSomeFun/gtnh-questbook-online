@@ -1,4 +1,4 @@
-IC2/itemCellEmpty-1.png§5§lMachine Interface Fluid I/OThanks to the tireless work of the devs, you can now use cells to I/O fluids directly from the interface of GT machines. Just click on the fluid while holding a cell or other fluid container item.
+2858IC2/itemCellEmpty-1.png0§5§lMachine Interface Fluid I/O1-1Thanks to the tireless work of the devs, you can now use cells to I/O fluids directly from the interface of GT machines. Just click on the fluid while holding a cell or other fluid container item.
 
 Points to consider:
 1) Left click to attempt filling/emptying all fluid containers held on cursor.
@@ -7,5 +7,5 @@ Points to consider:
 4) Can fill/take less than one cell (1000L or 144L if molten) of fluid if the fluid container supports doing so.
 5) It won't check if it's a valid fluid for the machine/recipe, keep that in mind.
 6) Doesn't work with Crops++ alcohols, feel free to code compatibility for us.
-7) EIO tanks need to be placed and picked up first before they can be used.0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+7) EIO tanks need to be placed and picked up first before they can be used.ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

@@ -1,9 +1,9 @@
-dreamcraft/tile.BronzePlatedReinforcedStone-0.png§a§lNo Boom TomorrowWith a nuke, you can cause some real catastrophic damage to your base. You can either place it 20 chunks away, or surround it with blast proof materials.
+1902dreamcraft/tile.BronzePlatedReinforcedStone-0.png0§a§lNo Boom Tomorrow19-1With a nuke, you can cause some real catastrophic damage to your base. You can either place it 20 chunks away, or surround it with blast proof materials.
 
 Fused Quartz is no good now, forget about it ok? Instead, use the GTNH approved Plated Reinforced Stone series! Or one of the other options I guess, like Warded Glass. You may need multiple layers depending on your reactor, try it out in creative. Remember you must close in the corners - blasts can slip through the cracks. To get power out, do right angle turns on the wires as blasts go in a straight line.
 
 §3There are 6 of them, use NEI.
 
-Okay, okay, you don't have to forget Fused Quartz, I'll give you some. Maybe you can stop rain with it.0-1ANDpre1900IC2/blockGenerator-5.pngrewardsItemEnderIO/blockFusedQuartz-0.pngFused Quartz\nBlast Resistant\nGlass-Tier: HV\nBlast resistance is now 20. DOES NOT PROTECT AGAINST NUKES!
+Okay, okay, you don't have to forget Fused Quartz, I'll give you some. Maybe you can stop rain with it.ANDpre1900IC2/blockGenerator-5.pngrewardsItemEnderIO/blockFusedQuartz-0.pngFused Quartz\nBlast Resistant\nGlass-Tier: HV\nBlast resistance is now 20. DOES NOT PROTECT AGAINST NUKES!
 10tasksANDRetrievaldreamcraft/tile.BronzePlatedReinforcedStone-0.pngBronze Plated Reinforced Stone\nHardness 60 Blast Resistance 200
 1

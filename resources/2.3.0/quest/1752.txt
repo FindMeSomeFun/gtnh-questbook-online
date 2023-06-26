@@ -1,4 +1,4 @@
-OpenComputers/item-28.pngControl UnitsSo controlling! Strangely enough, this part takes an HV circuit to craft; so here's some to make your first computer parts in exchange for MV circuits in their place. Don't spend them all in one place!0-1ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/item-28.pngControl Unit
+1752OpenComputers/item-28.png0Control Units26-1So controlling! Strangely enough, this part takes an HV circuit to craft; so here's some to make your first computer parts in exchange for MV circuits in their place. Don't spend them all in one place!ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/item-28.pngControl Unit
 16Itemenhancedlootbags/lootbag-45.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
 1tasksANDConsumegregtech/gt.metaitem.01-32717.pngTransistor\nBasic Electronic Component

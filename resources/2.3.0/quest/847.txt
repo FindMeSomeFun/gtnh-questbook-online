@@ -1,9 +1,9 @@
-gregtech/gt.metaitem.01-30677.png§6§lEthyleneYou can make ethylene several different ways
+847gregtech/gt.metaitem.01-30677.png1§6§lEthylene5-1You can make ethylene several different ways
 
 - Ethanol and sulfuric acid in a Chemical Reactor 
 - Ethanol in a Chemical Dehydrator
 - Distilling various gases (i.e. wood gas) in a Distillery
-- Cracking Naphtha, fuels or refinery gas with hydrogen or steam in the Chemical Reactor will work too. Check NEI or the Game Mechanics Spreadsheet at http://bit.ly/gtnh-datasheets for details1-1ORpre11481gregtech/gt.blockmachines-12.png17440gregtech/gt.blockmachines-422.pngrewardsChoiceIC2/itemBiochaff-0.pngBio Chaff
+- Cracking Naphtha, fuels or refinery gas with hydrogen or steam in the Chemical Reactor will work too. Check NEI or the Game Mechanics Spreadsheet at http://bit.ly/gtnh-datasheets for detailsORpre11481gregtech/gt.blockmachines-12.png17440gregtech/gt.blockmachines-422.pngrewardsChoiceIC2/itemBiochaff-0.pngBio Chaff
 32IC2/itemCellEmpty-0.pngEmpty Cell
 64gregtech/gt.metaitem.01-2874.pngPolyethylene Pulp\nCH\u2082
 8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

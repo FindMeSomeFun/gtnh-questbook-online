@@ -1,5 +1,5 @@
-OpenBlocks/elevator-0.pngSo Much Nicer Than LaddersElevators are great for fast transportation vertically in your base. Leaving a tinted elevator will stop at the same color elevator. Use some Malisis doors for a nice "real" elevator effect.
-The rotating elevator will turn the player as they go up or down to face a specific direction. Handy if your elevator shaft is on one side at a floor and a different side at another floor.0-1ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoiceOpenBlocks/elevator-0.pngElevator
+1985OpenBlocks/elevator-0.png0So Much Nicer Than Ladders15-1Elevators are great for fast transportation vertically in your base. Leaving a tinted elevator will stop at the same color elevator. Use some Malisis doors for a nice "real" elevator effect.
+The rotating elevator will turn the player as they go up or down to face a specific direction. Handy if your elevator shaft is on one side at a floor and a different side at another floor.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoiceOpenBlocks/elevator-0.pngElevator
 1OpenBlocks/elevator_rotating-0.pngRotating Elevator
 1tasksANDRetrievalOpenBlocks/elevator-0.pngElevator
 1

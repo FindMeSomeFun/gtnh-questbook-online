@@ -1,6 +1,6 @@
-Forestry/factory2-0.pngThermionic FabricatorThe thermionic fabricator is used to craft electron tubes and stained glass. It requires redstone flux (RF) energy to run.
+580Forestry/factory2-0.png0Thermionic Fabricator16-1The thermionic fabricator is used to craft electron tubes and stained glass. It requires redstone flux (RF) energy to run.
 
-It is your first machine made in the carpenter. Once warmed up, it needs to maintain a certain heat level to operate. The amount of power supplied will determine how much heat will be generated. If you do not supply enough power to maintain the current temperature it will slowly drop. It will continuously draw power, so disconnect it if you don't need it.0-1ANDpre5780Forestry/factory-1.png5850IC2/itemRecipePart-0.pngrewardsItemminecraft/glass-0.pngGlass\nGlass-Tier: HV
+It is your first machine made in the carpenter. Once warmed up, it needs to maintain a certain heat level to operate. The amount of power supplied will determine how much heat will be generated. If you do not supply enough power to maintain the current temperature it will slowly drop. It will continuously draw power, so disconnect it if you don't need it.ANDpre5780Forestry/factory-1.png5850IC2/itemRecipePart-0.pngrewardsItemminecraft/glass-0.pngGlass\nGlass-Tier: HV
 16gregtech/gt.metaitem.01-8530.pngApatite\nCa\u2085(PO\u2084)\u2083Cl
 16minecraft/dye-4.pngLapis Lazuli
 16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

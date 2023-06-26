@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-13104.png§6§lTFFTThe TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.
+2765gregtech/gt.blockmachines-13104.png0§6§lTFFT17-1The TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.
 
 With the tier I storage field block, it consumes 31.5 EU/t but only has about 0.315x the storage capacity of a ST I per fluid.
 
@@ -10,5 +10,5 @@ You need 63 of any tier of storage field block, you can mix them too.
 
 §3Remember to turn auto-voiding on.
 
-§4The TFFT was reworked apparently, so this quest might or might not be accurate.0-1ANDpre2131gregtech/gt.blockmachines-15.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-13104.pngT.F.F.T\nMachine Type: Fluid Tank\nHigh-Tech fluid tank that can hold up to 25 different fluids!\nHas 1/25th of the total capacity as capacity for each fluid.\nRight clicking the controller with a screwdriver will turn on excess voiding.\nFluid storage amount and running cost depends on the storage field blocks used.\n-----------------------------------------\nNote on hatch locking:\nUse an Integrated Circuit in the GUI slot to limit which fluid is output.\nThe index of a stored fluid can be obtained through the Tricorder.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: KekzTech
+§4The TFFT was reworked apparently, so this quest might or might not be accurate.ANDpre2131gregtech/gt.blockmachines-15.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-13104.pngT.F.F.T\nMachine Type: Fluid Tank\nHigh-Tech fluid tank that can hold up to 25 different fluids!\nHas 1/25th of the total capacity as capacity for each fluid.\nRight clicking the controller with a screwdriver will turn on excess voiding.\nFluid storage amount and running cost depends on the storage field blocks used.\n-----------------------------------------\nNote on hatch locking:\nUse an Integrated Circuit in the GUI slot to limit which fluid is output.\nThe index of a stored fluid can be obtained through the Tricorder.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: KekzTech
 1

@@ -1,4 +1,4 @@
-universalsingularities/universal.draconicEvolution.singularity-0.pngUV Power Per TurbineOnce you progress enough in ZPM to make ZPM Dynamo Hatches, you can increase each turbine's output to 524,288 EU/t. At this number, you'll be a lot less limited by the turbine material, and it's possible to increase the total power output of one Fusion Reactor considerably. You can cover the total Helium Plasma output from one reactor with 3 Plasma Turbines, if you choose the right materials:
+3165universalsingularities/universal.draconicEvolution.singularity-0.png0UV Power Per Turbine23-1Once you progress enough in ZPM to make ZPM Dynamo Hatches, you can increase each turbine's output to 524,288 EU/t. At this number, you'll be a lot less limited by the turbine material, and it's possible to increase the total power output of one Fusion Reactor considerably. You can cover the total Helium Plasma output from one reactor with 3 Plasma Turbines, if you choose the right materials:
 
 Large High Durability Compound Steel 230% 202,860 EU/t
 Large Atomic Separation Catalyst 200% 399,672 EU/t
@@ -9,6 +9,6 @@ Large Neutronium 160% 241,920 EU/t (very durable)
 
 The power output and final efficiency can vary a lot, based on which turbines you're using. Some of them, like Ichorium and Neutronium, last basically forever, while others will need to be replaced from time to time but offer higher efficiency. If you want to get more power per turbine, to reach closer to the dynamo's limit, you can increase the flow of plasma to the turbine, but be careful! You can't go beyond the dynamo's limit, and you will also lose efficiency as you increase the flow amount. More concrete values for efficiency loss can be found in the Plasma Turbine quest in the LuV page.
 
-Make a normal or buffered ZPM dynamo to complete the quest.0-1ANDpre31630gregtech/gt.metaitem.01-31004.pngrewardstasksORRetrievalgregtech/gt.blockmachines-37.pngZPM Dynamo Hatch\nGenerating electric Energy from Multiblocks\nPuts out up to 1 Amp\nVoltage OUT: 131,072 (ZPM)\nCapacity: 1,049,088 EU
+Make a normal or buffered ZPM dynamo to complete the quest.ANDpre31630gregtech/gt.metaitem.01-31004.pngrewardstasksORRetrievalgregtech/gt.blockmachines-37.pngZPM Dynamo Hatch\nGenerating electric Energy from Multiblocks\nPuts out up to 1 Amp\nVoltage OUT: 131,072 (ZPM)\nCapacity: 1,049,088 EU
 1Retrievalgregtech/gt.blockmachines-906.pngZPM Dynamo Hatch [Buffered]\nDynamo with internal storage and additional Amp capacity\nDoes not accept more than 524288EU/t as input\nAdded by: Alkalus - [GT++]\nVoltage OUT: 131,072 (ZPM)\nAmperage: 4\nCapacity: 1,073,742,336 EU
 1

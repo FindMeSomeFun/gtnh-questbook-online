@@ -1,8 +1,8 @@
-HardcoreEnderExpansion/essence_altar-0.pngEssence AltarThis little enchanting table like-block doesn't do much on its own, but has two other separate paths that can be taken (the third has no uses currently) to accomplish different tasks.
+2352HardcoreEnderExpansion/essence_altar-0.png0Essence Altar30-1This little enchanting table like-block doesn't do much on its own, but has two other separate paths that can be taken (the third has no uses currently) to accomplish different tasks.
 
 It is up to you where and how you want your personal Essence Altar to be upgraded. Firstly and more importantly, the Dragon Essence Altar is needed, but if you play on a public server, this stuff can be difficult to come by without external help.
 
-Here's some to get you started.0-1ANDpre23490HardcoreEnderExpansion/obsidian_special_glow-1.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
+Here's some to get you started.ANDpre23490HardcoreEnderExpansion/obsidian_special_glow-1.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
 16enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

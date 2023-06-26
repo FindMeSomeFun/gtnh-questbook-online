@@ -1,10 +1,10 @@
-bartworks/BW_SimpleWindMeter-0.png§2§lStick a Finger in the AirBut you really do care. Trying to find a good place to locate a windmill? You could just build one and see, or try this fancy windsock.
+1851bartworks/BW_SimpleWindMeter-0.png0§2§lStick a Finger in the Air2-1But you really do care. Trying to find a good place to locate a windmill? You could just build one and see, or try this fancy windsock.
 
 Paper rotors are great in low winds.
 Wool rotors are cheap.
 Leather rotors are durable.
 
-Don't leave the rotors in the windmill when you aren't using it, it will use up durability.0-1ANDpre18310minecraft/dispenser-0.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Don't leave the rotors in the windmill when you aren't using it, it will use up durability.ANDpre18310minecraft/dispenser-0.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1bartworks/craftingParts-5.pngPaper Covered Wood Frame\nAdded by BartWorks
 2bartworks/craftingParts-4.pngWool Covered Wood Frame\nAdded by BartWorks
 2bartworks/craftingParts-3.pngLeather Covered Wood Frame\nAdded by BartWorks

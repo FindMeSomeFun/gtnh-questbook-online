@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-541.png§5§lChemical BathWait, what? You want more byproducts from your ores? A cheaper way to make paper? Well, the chemical bath is perfect for you! 
+1499gregtech/gt.blockmachines-541.png0§5§lChemical Bath4-1Wait, what? You want more byproducts from your ores? A cheaper way to make paper? Well, the chemical bath is perfect for you! 
 
 You'll have to provide liquids like mercury to extract different products like nickel, silver, copper, and platinum (only as PMP) from ores. 
 
-For paper you'll only need some water and wood pulp. Maybe you'll find more uses for it!0-1ANDpre911gregtech/gt.metaitem.01-32630.png931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+For paper you'll only need some water and wood pulp. Maybe you'll find more uses for it!ANDpre911gregtech/gt.metaitem.01-32630.png931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-541.pngBasic Chemical Bath\nBathing Ores in Chemicals to separate them\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

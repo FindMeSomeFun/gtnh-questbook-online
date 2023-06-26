@@ -1,4 +1,4 @@
-TConstruct/bowstring-2.png§5§lFiery BowstringWhy not upgrade your bowstring too? You got some from the last quest, but will need to find some more in the Nether by killing spiders. Craft some fiery bowstring with it.0-1ANDpre11500TConstruct/Crossbow-0-288.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot\nAi
+1152TConstruct/bowstring-2.png0§5§lFiery Bowstring14-1Why not upgrade your bowstring too? You got some from the last quest, but will need to find some more in the Nether by killing spiders. Craft some fiery bowstring with it.ANDpre11500TConstruct/Crossbow-0-288.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot\nAi
 3enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

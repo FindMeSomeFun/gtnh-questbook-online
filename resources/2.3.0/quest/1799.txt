@@ -1,6 +1,6 @@
-minecraft/blaze_rod-0.pngBlazes Too Hard to Kill?Then grow some blazereed to save yourself the trouble.
+1799minecraft/blaze_rod-0.png0Blazes Too Hard to Kill?13-1Then grow some blazereed to save yourself the trouble.
 
-Tearstalks should easily yield blazereed.0-1ANDpre16070gregtech/gt.metatool.01-40.pngrewardsChoiceminecraft/blaze_rod-0.pngBlaze Rod\nBurn Time: 2400
+Tearstalks should easily yield blazereed.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsChoiceminecraft/blaze_rod-0.pngBlaze Rod\nBurn Time: 2400
 2minecraft/blaze_powder-0.pngBlaze Powder
 8Itemenhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1dreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"

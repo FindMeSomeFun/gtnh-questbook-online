@@ -1,8 +1,8 @@
-IC2/itemCellEmpty-9.png§6§lCoolantMake your first coolant out of water or distilled water and lapis dust in an mv mixer.
+3073IC2/itemCellEmpty-9.png1§6§lCoolant5-1Make your first coolant out of water or distilled water and lapis dust in an mv mixer.
 
 Using distilled water lets you save on lapis while also speeding up the process by a lot.
 
-§3If you don't use distilled water, you will need a lot more than 64 lapis dust.1-1ANDpre7511gregtech/gt.blockmachines-582.png30711gregtech/gt.blockmachines-542.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
+§3If you don't use distilled water, you will need a lot more than 64 lapis dust.ANDpre7511gregtech/gt.blockmachines-582.png30711gregtech/gt.blockmachines-542.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
 32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

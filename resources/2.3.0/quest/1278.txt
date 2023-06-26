@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.02-32105.pngVodkaVodka is Russian for "small water". It is a rather high proof alcoholic fluid.0-1ANDpre8931gregtech/gt.metaitem.01-32611.png12720gregtech/gt.metaitem.02-32115.pngrewardsItemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+1278gregtech/gt.metaitem.02-32105.png0Vodka13-1Vodka is Russian for "small water". It is a rather high proof alcoholic fluid.ANDpre8931gregtech/gt.metaitem.01-32611.png12720gregtech/gt.metaitem.02-32115.pngrewardsItemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 1enhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.metaitem.02-32105.pngVodka\ngregtech:gt.metaitem.02\nNot to confuse with Water
 1

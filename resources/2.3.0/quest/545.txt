@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-271.png§3§5§lSuction Device... NiceI hope you're not thinking about what I'm thinking you're thinking about... 
+545gregtech/gt.blockmachines-271.png0§3§5§lSuction Device... Nice4-1I hope you're not thinking about what I'm thinking you're thinking about... 
 
-§3It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to extracting something is a lot better when using EU.0-1ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to extracting something is a lot better when using EU.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-271.pngBasic Extractor\nDejuicer-Device of Doom - D123\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

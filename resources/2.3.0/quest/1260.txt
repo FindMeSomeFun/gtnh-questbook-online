@@ -1,4 +1,4 @@
-appliedenergistics2/tile.BlockCraftingMonitor-0.pngCrafting MonitorComponent of the crafting CPU which displays the top level job and its current progress so you can monitor at a glance how your crafting jobs are progressing.0-1ANDpre13121appliedenergistics2/tile.BlockCraftingUnit-0.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+1260appliedenergistics2/tile.BlockCraftingMonitor-0.png0Crafting Monitor27-1Component of the crafting CPU which displays the top level job and its current progress so you can monitor at a glance how your crafting jobs are progressing.ANDpre13121appliedenergistics2/tile.BlockCraftingUnit-0.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8dreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
 32enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

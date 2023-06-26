@@ -1,4 +1,4 @@
-BiomesOPlenty/chestplateMud-0.pngWet Dirt Armor?If you don't have any armor, "mud armor" is better than nothing. Mud can be found in some wet biomes, or crafted from dirt and water.0-1ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsChoiceBiomesOPlenty/mudball-0.pngMud Ball
+683BiomesOPlenty/chestplateMud-0.png0Wet Dirt Armor?14-1If you don't have any armor, "mud armor" is better than nothing. Mud can be found in some wet biomes, or crafted from dirt and water.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsChoiceBiomesOPlenty/mudball-0.pngMud Ball
 64minecraft/log-0.pngOak Wood\nBurn Time: 300
 32enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

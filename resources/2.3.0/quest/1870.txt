@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-1111.png§6§lDiesel PowerThe MV Combustion Generator burns Light Fuel faster than the LV version, but you can also automate Diesel and burn that instead, since it's even more powerful. It is arguably the easiest and most efficient way to generate lots of power for automation at this stage, and it'll last you a couple more tiers if you upgrade it as you go.
+1870gregtech/gt.blockmachines-1111.png0§6§lDiesel Power19-1The MV Combustion Generator burns Light Fuel faster than the LV version, but you can also automate Diesel and burn that instead, since it's even more powerful. It is arguably the easiest and most efficient way to generate lots of power for automation at this stage, and it'll last you a couple more tiers if you upgrade it as you go.
 
 Additionally, Diesel can be used as fuel for the Copterpack, a good jetpack that makes it much easier to move around, inside and outside of your base. It's heavily recommended that you make one, if you have Diesel.
 
-§3This will also unlock new quests in the Armors and Jetpacks tab.0-1ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
+§3This will also unlock new quests in the Armors and Jetpacks tab.ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
 32gregtech/gt.metaitem.01-30708.pngDiesel Cell
 16gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

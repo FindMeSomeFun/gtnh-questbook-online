@@ -1,4 +1,4 @@
-bartworks/BW_PaperRotor-0.png§6§lGrinding With WindThe Windmill is a grinder that uses the force of wind to macerate Items and Blocks. You will only get one crushed Ore from it sometimes. However it does give a bonus when you try to macerate other things. That bonus depends on the item inserted, for example Netherrack has a chance to give two instead of one dust and Wheat will always give one and a quarter flour.
+1832bartworks/BW_PaperRotor-0.png0§6§lGrinding With Wind17-1The Windmill is a grinder that uses the force of wind to macerate Items and Blocks. You will only get one crushed Ore from it sometimes. However it does give a bonus when you try to macerate other things. That bonus depends on the item inserted, for example Netherrack has a chance to give two instead of one dust and Wheat will always give one and a quarter flour.
 
 The dispensers replace a clay block in the walls. Put anything you like in the interior - a bed, stairs, torches, etc.
 
@@ -18,7 +18,7 @@ Macerates 16 items at a time.
 
 High wind speeds will decrease output.
 
-The durability will decrease according to the wind speed.0-1ORpre481gregtech/gt.metaitem.01-11308.png18310minecraft/dispenser-0.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+The durability will decrease according to the wind speed.ORpre481gregtech/gt.metaitem.01-11308.png18310minecraft/dispenser-0.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 1gregtech/gt.metaitem.02-31032.pngIron Gear\nFe
 1Choiceminecraft/leather-0.pngLeather
 12minecraft/carpet-0.pngCarpet

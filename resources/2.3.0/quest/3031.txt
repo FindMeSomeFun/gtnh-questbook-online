@@ -1,6 +1,6 @@
-minecraft/wooden_shovel-0.png§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Not Prepared!!!It's time for something really big: A smeltery! There's a lot to craft, so better gather some resources... or you could go try complete this with the help of some unhappy NPC friends, but that would void your quest rewards.
+3031minecraft/wooden_shovel-0.png0§6§6§a§9§8§7§6§5§4§3§2§1§0§3§f§k§f§l§6§lYou Are Not Prepared!!!17-1It's time for something really big: A smeltery! There's a lot to craft, so better gather some resources... or you could go try complete this with the help of some unhappy NPC friends, but that would void your quest rewards.
 
-§3Note: This quest is mutually exclusive with the other smeltry quest.0-1XORpre181minecraft/stone-0.png29850StevesCarts/CartModule-23.pngrewardsItemTConstruct/oreBerries-4.pngAluminum Oreberry\nWhite Chocolate\nCan be placed on a empty IC2 Crop.
+§3Note: This quest is mutually exclusive with the other smeltry quest.XORpre181minecraft/stone-0.png29850StevesCarts/CartModule-23.pngrewardsItemTConstruct/oreBerries-4.pngAluminum Oreberry\nWhite Chocolate\nCan be placed on a empty IC2 Crop.
 10enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 50tasksANDOptionalminecraft/sand-0.pngSand

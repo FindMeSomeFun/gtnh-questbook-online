@@ -1,8 +1,8 @@
-StevesCarts/CartModule-38.pngA Simple CartIn order to create or customize your cart you need a hull to attach your desired upgrades to. The wooden one can be used for really simple applications, but to farm wheat or wood, you need at least an iron one.
+111StevesCarts/CartModule-38.png0A Simple Cart25-1In order to create or customize your cart you need a hull to attach your desired upgrades to. The wooden one can be used for really simple applications, but to farm wheat or wood, you need at least an iron one.
 
 §c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with glass (or any solid block) to prevent carts from disappearing.
 
-Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.0-1ANDpre1060StevesCarts/BlockCartAssembler-0.pngrewardsItemminecraft/rail-0.pngTrack
+Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.ANDpre1060StevesCarts/BlockCartAssembler-0.pngrewardsItemminecraft/rail-0.pngTrack
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalStevesCarts/CartModule-38.pngStandard Minecart Hull\nModular capacity: 200\nModule complexity cap: 50\nMax engines count: 3\nMax Addon count: 6\nType: Hull
 1

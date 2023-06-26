@@ -1,4 +1,4 @@
-IC2/blockOreCopper-0.pngCopper Ore exchangeYou can exchange your Stack of GT Copper Ore for IC2 Copper Ore.024000ANDpre8250IC2/blockOreCopper-0.pngrewardsItemIC2/blockOreCopper-0.pngCopper Ore
+2433IC2/blockOreCopper-0.png0Copper Ore exchange4024000You can exchange your Stack of GT Copper Ore for IC2 Copper Ore.ANDpre8250IC2/blockOreCopper-0.pngrewardsItemIC2/blockOreCopper-0.pngCopper Ore
 64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 50gregtech/gt.blockores-35.pngCopper Ore\nCu
 64

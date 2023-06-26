@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32653.png§a§f§a§lYou're Gonna Hate This 1-4 in EVPumps, pistons, conveyor modules and robot arms are the most needed machine parts in EV. Go and craft one of each.1-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
+1245gregtech/gt.metaitem.01-32653.png1§a§f§a§lYou're Gonna Hate This 1-4 in EV7-1Pumps, pistons, conveyor modules and robot arms are the most needed machine parts in EV. Go and craft one of each.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
 32gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

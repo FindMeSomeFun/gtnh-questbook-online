@@ -1,4 +1,4 @@
-GalacticraftMars/item.deshChestplate-0.pngCompressed Desh ArmorThe compressed desh armor has more durability than the compressed steel armor.0-1ANDpre1861GalacticraftMars/item.spaceshipTier2-0.png14420Railcraft/armor.steel.plate-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+1443GalacticraftMars/item.deshChestplate-0.png0Compressed Desh Armor14-1The compressed desh armor has more durability than the compressed steel armor.ANDpre1861GalacticraftMars/item.spaceshipTier2-0.png14420Railcraft/armor.steel.plate-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
 32GalacticraftMars/item.null-5.pngCompressed Desh
 4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

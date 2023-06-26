@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-5591.png§3§lBowl Full of SpaghettiOr at least factories full of item pipes. With these simple item pipes and conveyors you can take items out of one machine and feed them immediately into a second machine.
+1735gregtech/gt.blockmachines-5591.png0§3§lBowl Full of Spaghetti3-1Or at least factories full of item pipes. With these simple item pipes and conveyors you can take items out of one machine and feed them immediately into a second machine.
 
 Later on you can make better item pipes. Search for "item pipe" in NEI for options.
 
-§4You'll need a Steel Wrench to remove them. Don't place them down unless you're sure of the location until you have one.0-1ANDpre12050minecraft/hopper-0.pngrewardsItemharvestcraft/spagettiItem-0.pngSpagetti\nharvestcraft:spagettiItem
+§4You'll need a Steel Wrench to remove them. Don't place them down unless you're sure of the location until you have one.ANDpre12050minecraft/hopper-0.pngrewardsItemharvestcraft/spagettiItem-0.pngSpagetti\nharvestcraft:spagettiItem
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-17057.pngTin Plate\nSn
 12Retrievalgregtech/gt.blockmachines-5590.pngSmall Tin Item Pipe\nItem Capacity: 1 Stacks/4 sec\nRouting Value: 131,072

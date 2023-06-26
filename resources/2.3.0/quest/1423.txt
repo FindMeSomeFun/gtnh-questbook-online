@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-849.pngDancing in circlesSpinning around, getting hot - sounds like a dance. Or a thermal centrifuge.  Build a large thermal refinery to get the most out of your ores.
+1423gregtech/gt.blockmachines-849.png0Dancing in circles18-1Spinning around, getting hot - sounds like a dance. Or a thermal centrifuge.  Build a large thermal refinery to get the most out of your ores.
 
 You can use Noise Hazard Signs instead of Thermal Processing Casings, as long as you have at least 8 Thermal Processing Casings.
 
-§3This multi is IV.§r The muffler goes on the bottom layer.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3This multi is IV.§r The muffler goes on the bottom layer.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.blockores-34.pngNickel Ore\nNi
 64Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalgregtech/gt.blockmachines-849.pngLarge Thermal Refinery\nMachine Type: Thermal Centrifuge\nController Block for the Industrial Thermal Centrifuge\n150% faster than using single block machines of the same voltage\nOnly uses 80% of the EU/t normally required\nProcesses eight items per voltage tier\nCauses: 1000 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]

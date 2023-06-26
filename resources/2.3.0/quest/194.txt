@@ -1,6 +1,6 @@
-IC2NuclearControl/blockNuclearControlMain-4.png§a§lMonitoring Your ReactorIt's important to monitor your reactor (Or just fancy to have a big screen somewhere...). So now that you've gained knowledge about the available fuel rods, you can start to build yourself a power plant. Here is something to help you out.
+194IC2NuclearControl/blockNuclearControlMain-4.png0§a§lMonitoring Your Reactor19-1It's important to monitor your reactor (Or just fancy to have a big screen somewhere...). So now that you've gained knowledge about the available fuel rods, you can start to build yourself a power plant. Here is something to help you out.
 
-Use the sensor kit on the block you want to monitor, then put the sensor card in the display panel. Next select which lines of information you want to display.0-1ANDpre1950IC2/blockReactorChamber-0.pngrewardsItemIC2NuclearControl/blockNuclearControlMain-4.pngIndustrial Information Panel
+Use the sensor kit on the block you want to monitor, then put the sensor card in the display panel. Next select which lines of information you want to display.ANDpre1950IC2/blockReactorChamber-0.pngrewardsItemIC2NuclearControl/blockNuclearControlMain-4.pngIndustrial Information Panel
 1IC2NuclearControl/blockNuclearControlMain-5.pngInformation Panel Extender
 5IC2NuclearControl/ItemRemoteSensorKit-0.pngRemote Sensor Kit
 1IC2NuclearControl/ItemUpgrade-0.pngRange Upgrade

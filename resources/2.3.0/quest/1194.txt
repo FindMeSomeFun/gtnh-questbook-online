@@ -1,3 +1,3 @@
-TConstruct/oreBerries-0.pngIron BerriesAnd a few iron berries for cash.0432000ANDpre761gregtech/gt.blockmachines-140.pngrewardsItemTConstruct/oreBerries-0.pngIron Oreberry\nSweet Irony\nCan be placed on a empty IC2 Crop.
+1194TConstruct/oreBerries-0.png0Iron Berries40432000And a few iron berries for cash.ANDpre761gregtech/gt.blockmachines-140.pngrewardsItemTConstruct/oreBerries-0.pngIron Oreberry\nSweet Irony\nCan be placed on a empty IC2 Crop.
 10tasksANDConsumedreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 20

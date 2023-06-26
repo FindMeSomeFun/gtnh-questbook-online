@@ -1,4 +1,4 @@
-StorageDrawers/halfDrawers2-0.png§2§lCompact DrawersThey are very compact and add some fanciness to your glorious dirt base. 0-1ANDpre7270StorageDrawers/fullDrawers1-0.pngrewardsItemharvestcraft/loadedbakedpotatoItem-0.pngLoaded Baked Potato\nharvestcraft:loadedbakedpotatoItem
+728StorageDrawers/halfDrawers2-0.png0§2§lCompact Drawers2-1They are very compact and add some fanciness to your glorious dirt base. ANDpre7270StorageDrawers/fullDrawers1-0.pngrewardsItemharvestcraft/loadedbakedpotatoItem-0.pngLoaded Baked Potato\nharvestcraft:loadedbakedpotatoItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDCraftingStorageDrawers/halfDrawers2-0.pngCompact Oak Drawers 1x2\nHolds 16 stacks per drawer\nBurn Time: 300
 4StorageDrawers/halfDrawers4-0.pngCompact Oak Drawers 2x2\nHolds 8 stacks per drawer\nBurn Time: 300

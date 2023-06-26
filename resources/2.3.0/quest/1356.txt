@@ -1,4 +1,4 @@
-EMT/itemArmorQuantumChestplate-1-charged.pngAngel Wings - Combine!The last step is to combine the quantum armor with your quantum wings.0-1ANDpre31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1356EMT/itemArmorQuantumChestplate-1-charged.png0Angel Wings - Combine!14-1The last step is to combine the quantum armor with your quantum wings.ANDpre31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2Itemenhancedlootbags/lootbag-12-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book

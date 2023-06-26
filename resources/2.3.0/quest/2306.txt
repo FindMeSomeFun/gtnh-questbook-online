@@ -1,8 +1,8 @@
-bartworks/gt.bwMetaGenerateddust-65.png§b§lSecond Separation - RutheniumFor the next step in the process, we will split up the Ruthenium from the Leach Residue. Remember that you can get it from both Platinum Residue and a little bit more from making Rhodium Sulfate Solution.
+2306bartworks/gt.bwMetaGenerateddust-65.png1§b§lSecond Separation - Ruthenium8-1For the next step in the process, we will split up the Ruthenium from the Leach Residue. Remember that you can get it from both Platinum Residue and a little bit more from making Rhodium Sulfate Solution.
 
 You'll need Saltpeter and Saltwater for this. You can pump saltwater or make it, and mine saltpeter or make it too. Given how much KNO3 you need, you should probably automate making it.
 
-For the steam, you can void it or reuse it for making Hot Ruthenium Tetroxide.1-1ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsChoicegregtech/gt.metaitem.01-2836.pngSaltpeter Dust\nKNO\u2083
+For the steam, you can void it or reuse it for making Hot Ruthenium Tetroxide.ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsChoicegregtech/gt.metaitem.01-2836.pngSaltpeter Dust\nKNO\u2083
 100enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-60.pngLeach Residue Dust\n??IrOsRu??\nAdded by BartWorks
 40gregtech/gt.metaitem.01-2836.pngSaltpeter Dust\nKNO\u2083

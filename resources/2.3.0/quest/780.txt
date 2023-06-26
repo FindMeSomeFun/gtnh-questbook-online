@@ -1,4 +1,4 @@
-dreamcraft/item.BioCarbonPlate-0.png§6§lOrganic WayBio carbon plates are made out of raw carbon mesh. Put it in the electric blast furnace to make carbon plates.0-1ANDpre7740dreamcraft/item.BioOrganicMesh-0.pngrewardsChoiceRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
+780dreamcraft/item.BioCarbonPlate-0.png0§6§lOrganic Way5-1Bio carbon plates are made out of raw carbon mesh. Put it in the electric blast furnace to make carbon plates.ANDpre7740dreamcraft/item.BioOrganicMesh-0.pngrewardsChoiceRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
 8minecraft/coal_block-0.pngBlock of Coal\nBurn Time: 16000
 16enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"

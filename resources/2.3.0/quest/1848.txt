@@ -1,8 +1,8 @@
-RandomThings/spectreHelmet-0.pngArmor of the DeadI've found another use for Ectoplasm - making Spectral Iron. An armor made from it is better than diamond and highly enchantable.
+1848RandomThings/spectreHelmet-0.png0Armor of the Dead14-1I've found another use for Ectoplasm - making Spectral Iron. An armor made from it is better than diamond and highly enchantable.
 
 It also will drop healing orbs that will heal the nearest player when picked up. 
 
-Unfortunately, a side effect is that you'll become partially transparent. Side effect, I mean bonus feature!0-1ANDpre781gregtech/gt.blockcasings5-1.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+Unfortunately, a side effect is that you'll become partially transparent. Side effect, I mean bonus feature!ANDpre781gregtech/gt.blockcasings5-1.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 3dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 3tasksANDRetrievalRandomThings/spectreHelmet-0.pngSpectre Helmet\nProtection: 3\nDurability: 385/385
 1RandomThings/spectreChestplate-0.pngSpectre Chestplate\nProtection: 9\nDurability: 560/560

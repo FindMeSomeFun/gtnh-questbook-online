@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1183.png§b§a§lEV Circuit AssemblerAn EV circuit assembler requires IV Circuits to craft. With this assembler you can make higher tier circuits.1-1ANDpre12461gregtech/gt.metaitem.01-32693.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+1223gregtech/gt.blockmachines-1183.png1§b§a§lEV Circuit Assembler7-1An EV circuit assembler requires IV Circuits to craft. With this assembler you can make higher tier circuits.ANDpre12461gregtech/gt.metaitem.01-32693.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
 16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

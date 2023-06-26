@@ -1,8 +1,8 @@
-Forestry/beeQueenGE-0-Majestic.pngBreed some majestic beesCross breeding noble and cultivated bees can result in majestic bees.
+1120Forestry/beeQueenGE-0-Majestic.png0Breed some majestic bees29-1Cross breeding noble and cultivated bees can result in majestic bees.
 
 If you didn't get it from Wintry bees already, Majestic bees have a very important attribute - high fertility. They will leave 4 drones when they die. This means lots of genetic material for the next generation to work with.
 
-Majestic bees produce dripping combs every 1.5 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.0-1ANDpre11180Forestry/beeQueenGE-0-Noble.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Majestic bees produce dripping combs every 1.5 minutes. Note that production times are an approximation based on the bee's base production speed and the product's rarity. They do not reflect actual production time.ANDpre11180Forestry/beeQueenGE-0-Noble.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Forestry/honeyDrop-0.pngHoney Drop
 64Forestry/honeydew-0.pngHoneydew
 64Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"

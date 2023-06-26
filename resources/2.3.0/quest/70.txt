@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-1120.png§3§lSteam-a-licious!You've almost made it. One last crafting step is required in order to advance to Tier 1. Keep going!
+70gregtech/gt.blockmachines-1120.png1§3§lSteam-a-licious!19-1You've almost made it. One last crafting step is required in order to advance to Tier 1. Keep going!
 
 This Steam Turbine generates electricity from Steam. The power source you've been using is the same, but from this point on you will generate EU, and bring it to your machines via cables, instead of bringing the Steam directly to them. Luckily, electric machines don't need an exhaust port, and they are considerably more efficient than Bronze machines.
 
-At a later point, you will most likely switch from Steam to another fuel, though.1-1ANDpre681IC2/itemPartCircuit-0.png711gregtech/gt.metaitem.01-32600.png721gregtech/gt.metaitem.02-21032.pngrewardsItemharvestcraft/cranberrybarItem-0.pngCranberry Bar\nharvestcraft:cranberrybarItem
+At a later point, you will most likely switch from Steam to another fuel, though.ANDpre681IC2/itemPartCircuit-0.png711gregtech/gt.metaitem.01-32600.png721gregtech/gt.metaitem.02-21032.pngrewardsItemharvestcraft/cranberrybarItem-0.pngCranberry Bar\nharvestcraft:cranberrybarItem
 10enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDCraftinggregtech/gt.blockmachines-1120.pngBasic Steam Turbine\nConverts Steam into EU\nBase rate: 2L of Steam -> 1 EU\nFuel Efficiency: 85%\nConsumes up to 1552L of Steam per second\nVoltage OUT: 32 (LV)\nCapacity: 3,072 EU

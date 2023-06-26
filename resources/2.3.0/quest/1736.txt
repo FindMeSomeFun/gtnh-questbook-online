@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-5602.png§6§lPipes, Pipes EverywhereNow that you're in MV, you'll want to start automating processes. Polyethylene, Oxygen, Nitrogen, Hydrogen, Rubber, Charcoal, etc. Faster item pipes will help with transporting items quicker around your base. For now, use your spiffy new extruder to craft some brass item pipes. 
+1736gregtech/gt.blockmachines-5602.png0§6§lPipes, Pipes Everywhere5-1Now that you're in MV, you'll want to start automating processes. Polyethylene, Oxygen, Nitrogen, Hydrogen, Rubber, Charcoal, etc. Faster item pipes will help with transporting items quicker around your base. For now, use your spiffy new extruder to craft some brass item pipes. 
 
 The reward - restrictive item pipes - allow you to prioritize destinations. Locations on the other side of a restrictive pipe are treated as much further away than locations on the same side of a pipe. Very handy when you want overflow (or non-matching) items to go somewhere else!
 
-For higher tiers, look up "* item pipe" in NEI, or just look at the spreadsheet.0-1ANDpre7401gregtech/gt.blockmachines-282.pngrewardsItemgregtech/gt.blockmachines-5641.pngSmall Restrictive Brass Item Pipe\nItem Capacity: 1 Stacks/2 sec\nRouting Value: 6,553,600
+For higher tiers, look up "* item pipe" in NEI, or just look at the spreadsheet.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsItemgregtech/gt.blockmachines-5641.pngSmall Restrictive Brass Item Pipe\nItem Capacity: 1 Stacks/2 sec\nRouting Value: 6,553,600
 3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-11301.pngBrass Ingot\nZnCu\u2083
 12Retrievalgregtech/gt.blockmachines-5601.pngSmall Brass Item Pipe\nItem Capacity: 1 Stacks/2 sec\nRouting Value: 65,536

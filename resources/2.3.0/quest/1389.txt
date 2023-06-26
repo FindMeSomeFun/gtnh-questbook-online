@@ -1,6 +1,6 @@
-ThaumicTinkerer/focusEnderChest-0.pngWand Focus Ender RiftThe Wand Focus: Ender Rift is a Wand Focus that opens the vanilla Ender Chest remotely when the player right-clicks with it. When used, the focus consumes 0.9 Ordo + 0.9 Perditio
+1389ThaumicTinkerer/focusEnderChest-0.png0Wand Focus Ender Rift34-1The Wand Focus: Ender Rift is a Wand Focus that opens the vanilla Ender Chest remotely when the player right-clicks with it. When used, the focus consumes 0.9 Ordo + 0.9 Perditio
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumicTinkerer/focusEnderChest-0.pngWand Focus: Ender Rift\nVis per cast\n Ordo x 1\n Perditio x 1

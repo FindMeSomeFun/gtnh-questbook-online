@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1129.pngAbsorbing Magic Energy to Produce EU HVThe HV Version.0-1ANDpre18800gregtech/gt.metaitem.01-32671.png28230gregtech/gt.blockmachines-1128.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
+2822gregtech/gt.blockmachines-1129.png0Absorbing Magic Energy to Produce EU HV19-1The HV Version.ANDpre18800gregtech/gt.metaitem.01-32671.png28230gregtech/gt.blockmachines-1128.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
 24Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-1129.pngMaster Magic Energy Absorber\nFeasts on magic close to it:\n- A  Dragon Egg atop\n- 512EU per Ender Crystal in range\n- 55CV/t from an Energised Node\n- 272EU per Essentia Aspect-Value from containers in range\n \nLookup range (Use Screwdriver to change):\nDefault: 8\nMax: 32\n \nFuels on enchantments input:\n- Item: 8500EU per enchant weight \u00d7 level / max\n- Book: 10000EU per enchant weight \u00d7 level / max\n \nEfficiency: 85%\nVoltage OUT: 512 (HV)\nCapacity: 8,192,512 EU

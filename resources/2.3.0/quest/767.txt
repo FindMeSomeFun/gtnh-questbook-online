@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-2102.png§5§lAnalyzing the SoilTired of looking for ores by hand? Want to find underground oil that will last a long time? A seismic prospector will tell you the ores in the surrounding chunks in a (sorta) handy book you can read, and also the underground fluids beneath you. §3PS, it doesn't need to be powered.§r
+767gregtech/gt.blockmachines-2102.png0§5§lAnalyzing the Soil4-1Tired of looking for ores by hand? Want to find underground oil that will last a long time? A seismic prospector will tell you the ores in the surrounding chunks in a (sorta) handy book you can read, and also the underground fluids beneath you. §3PS, it doesn't need to be powered.§r
 
 To determine which kind of fluid (4 types of oil, or natural gas for the OW. See the quest in tips and tricks once you've made an oil drill) there is in the chunk you need to scan the soil by right clicking an Advanced §3(This one doesn't explode the user too on use. Features!)§r Seismic Prospector with 2 Powderbarrels, 4 Glyceryl Trinitate cells, 8 iTNT or 16 TNT. §3(I have no idea why the more expensive ones take more either. Just accept this small kindness.)§r  Make sure you wait a few seconds after placing the prospector before applying the explosives. Otherwise, §4Boom!§r
 
@@ -14,7 +14,7 @@ Ore locations are given as the center of the chunk. Ores that are marginal in th
 
 Each underground fluid field is 8x8 chunks. This starts at 0,0 and continues for 8 chunks east and south, containing 64 chunks. Not all fields have anything in them though. Within the field the amount can vary +/- 25 percent. The amount reported in the book is the minimum and maximum per field across all chunks in the field. The prospector reports on 3x3 fields (as in, 9 fields of 8x8 chunks) at all tiers with the center field where the seismic prospector is located. Fluid extraction rate depends on many factors, check the wiki for details. In general, anything above 300 is really good. The total amount in the chunk is complicated. 
 
-0-1ANDpre5310gregtech/gt.blockmachines-341.pngrewardsItemgregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
+ANDpre5310gregtech/gt.blockmachines-341.pngrewardsItemgregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
 4gregtech/gt.blockreinforced-5.pngPowderbarrel
 64enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

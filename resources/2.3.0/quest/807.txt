@@ -1,4 +1,4 @@
-dreamcraft/item.QuantumCrystal-0.pngQuantum CrystalFor your quantum armor you need some quantum crystals. Place a lapotron crystal in your precision laser to get a quantum crystal. You'll still need to be in IV to make it though.0-1ANDpre8060IC2/itemBatLamaCrystal-1-charged.png14070gregtech/gt.blockmachines-594.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+807dreamcraft/item.QuantumCrystal-0.png0Quantum Crystal20-1For your quantum armor you need some quantum crystals. Place a lapotron crystal in your precision laser to get a quantum crystal. You'll still need to be in IV to make it though.ANDpre8060IC2/itemBatLamaCrystal-1-charged.png14070gregtech/gt.blockmachines-594.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1dreamcraft/item.LapotronDust-0.pngLapotron Dust
 60IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
 4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

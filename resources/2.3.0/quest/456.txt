@@ -1,2 +1,2 @@
-minecraft/lever-0.pngTrigger LifeTriggers the Life Canister Quest after a Wither death.0-1ANDpre9160minecraft/nether_star-0.pngrewardstasksANDHuntmobs/WitherBoss-.pngWitherBoss
+456minecraft/lever-0.png0Trigger LifeqLine-1Triggers the Life Canister Quest after a Wither death.ANDpre9160minecraft/nether_star-0.pngrewardstasksANDHuntmobs/WitherBoss-.pngWitherBoss
 1

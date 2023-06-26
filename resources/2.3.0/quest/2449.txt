@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-17631.png§a§lPolyphenylene SulfideCombine Dichlorobenzene with Sodium Sulfide and Oxygen to get Polyphenylene Sulfide.1-1ANDpre16521gregtech/gt.metaitem.01-2719.png24481gregtech/gt.metaitem.01-30632.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2449gregtech/gt.metaitem.01-17631.png1§a§lPolyphenylene Sulfide7-1Combine Dichlorobenzene with Sodium Sulfide and Oxygen to get Polyphenylene Sulfide.ANDpre16521gregtech/gt.metaitem.01-2719.png24481gregtech/gt.metaitem.01-30632.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-30632.pngDichlorobenzene Cell\nC\u2086H\u2084Cl\u2082
 12gregtech/gt.metaitem.01-2719.pngSodium Sulfide Dust\nNa\u2082S

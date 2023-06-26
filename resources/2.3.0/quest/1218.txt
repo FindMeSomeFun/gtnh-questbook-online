@@ -1,6 +1,6 @@
-Forestry/thermionicTubes-3.pngIron, Golden, Diamantine TubesElectron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.
+1218Forestry/thermionicTubes-3.png0Iron, Golden, Diamantine Tubes16-1Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.
 
-Use a soldering iron to attach an electron tube to a circuit board.0-1ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
+Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
 4Forestry/canSeedOil-0.pngSeed Oil Can
 16enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"

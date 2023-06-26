@@ -1,4 +1,4 @@
-minecraft/end_portal-0.pngThe Spirit World - NightmareThe spirit world is an alternate reality that mirrors the Overworld in topography. When people dream they often end up in the spirit world without realizing it (often appearing as one of its many denizens). Powerful witches can create Brews of Sleeping that allow them to pass their still awake consciousness into the Spirit World, leaving their bodies and gear behind.
+1564minecraft/end_portal-0.png0The Spirit World - Nightmare36-1The spirit world is an alternate reality that mirrors the Overworld in topography. When people dream they often end up in the spirit world without realizing it (often appearing as one of its many denizens). Powerful witches can create Brews of Sleeping that allow them to pass their still awake consciousness into the Spirit World, leaving their bodies and gear behind.
 
 The Spirit World is the only source of Wispy Cotton, Disturbed Cotton, and Mellifluous Hunger - the materials needed to make Dream Weavers. Also Brews of Flowing Spirit can only be made in the Spirit World.
 
@@ -6,6 +6,6 @@ Very few things can pass into, or return from the Spirit World - keep this in mi
 
 Two important things to note: Circle magic does not function in the Spirit World; and Endermen cannot enter the Spirit World.
 
-§3If you got the Dream version instead of nightmare, collect at least 16 Wispy Cotton for later.0-1ANDpre15630witchery/ingredient-95.pngrewardsItemwitchery/ingredient-78.pngIcy Needle
+§3If you got the Dream version instead of nightmare, collect at least 16 Wispy Cotton for later.ANDpre15630witchery/ingredient-95.pngrewardsItemwitchery/ingredient-78.pngIcy Needle
 1tasksANDLocationDIM/55-.pngSpirit World
 

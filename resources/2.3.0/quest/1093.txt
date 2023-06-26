@@ -1,6 +1,6 @@
-minecraft/redstone-0.png§6§lDid You Run Low On Gold or Redstone?Did you run low on redstone and/or gold? It's no problem with a glowstone flower farm. You can centrifuge glowstone dust to redstone and gold dust. Redstone is also a good source of chrome. You'll need tons of gold for HV, so it's a good idea to set this up before then.
+1093minecraft/redstone-0.png0§6§lDid You Run Low On Gold or Redstone?5-1Did you run low on redstone and/or gold? It's no problem with a glowstone flower farm. You can centrifuge glowstone dust to redstone and gold dust. Redstone is also a good source of chrome. You'll need tons of gold for HV, so it's a good idea to set this up before then.
 
-§3There's actually a couple plants that produce glowstone, pick the one you like!0-1ANDpre13220gregtech/gt.blockmachines-362.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+§3There's actually a couple plants that produce glowstone, pick the one you like!ANDpre13220gregtech/gt.blockmachines-362.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
 4gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
 1minecraft/diamond_hoe-0.pngDiamond Hoe\nDurability: 768/768
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

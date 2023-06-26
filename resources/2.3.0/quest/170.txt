@@ -1,4 +1,4 @@
-EnderIO/blockEnchanter-0.png§9§lSpecific EnchantmentsEnchanting books is, just as it is for items, random. And that's annoying if you need a specific enchantment on your tool or armor. Now there's a way to actually select enchantments. For a price, obviously.0-1ANDpre1410EnderIO/itemMaterial-6.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+170EnderIO/blockEnchanter-0.png0§9§lSpecific Enchantments6-1Enchanting books is, just as it is for items, random. And that's annoying if you need a specific enchantment on your tool or armor. Now there's a way to actually select enchantments. For a price, obviously.ANDpre1410EnderIO/itemMaterial-6.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
 2Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

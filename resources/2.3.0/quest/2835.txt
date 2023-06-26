@@ -1,4 +1,4 @@
-harvestcraft/rabbitrawItem-0.pngTime to Kill (Rabbit)Oh, how cute this little rabbit is. Pow! .... oh it's dead?0432000ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+2835harvestcraft/rabbitrawItem-0.png0Time to Kill (Rabbit)39432000Oh, how cute this little rabbit is. Pow! .... oh it's dead?ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
 1Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"

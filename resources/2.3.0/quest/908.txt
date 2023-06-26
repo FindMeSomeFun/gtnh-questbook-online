@@ -1,6 +1,6 @@
-TwilightForest/item.lampOfCinders-0.pngSecret: A Nice....Hey, you! I want that lamp. I have something for you in return. You don't need it anyways, do you?
+908TwilightForest/item.lampOfCinders-0.png0Secret: A Nice....39-1Hey, you! I want that lamp. I have something for you in return. You don't need it anyways, do you?
 
-§3If you want the TF achievement, get that first.0-1ANDpre4510minecraft/lever-0.pngrewardsItemTConstruct/cleaver-0-27.pngPaper Cleaver\nWritable\nAuto-Repair\nTool Level: 01-Abused\n+8 Attack Damage
+§3If you want the TF achievement, get that first.ANDpre4510minecraft/lever-0.pngrewardsItemTConstruct/cleaver-0-27.pngPaper Cleaver\nWritable\nAuto-Repair\nTool Level: 01-Abused\n+8 Attack Damage
 1Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 10tasksANDRetrievalTwilightForest/item.lampOfCinders-0.pngLamp of Cinders
 1ConsumeTwilightForest/item.lampOfCinders-0.pngLamp of Cinders

@@ -1,4 +1,4 @@
-harvestcraft/potatocakesItem-0.pngPotato CakesPotatoes, onions, butter and a skillet make very tasty potato cakes.0-1ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceminecraft/egg-0.pngEgg
+1087harvestcraft/potatocakesItem-0.png0Potato Cakes13-1Potatoes, onions, butter and a skillet make very tasty potato cakes.ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceminecraft/egg-0.pngEgg
 4minecraft/sugar-0.pngSugar
 4gregtech/gt.metaitem.02-32559.pngDough\ngregtech:gt.metaitem.02\nFor making Breads
 4enhancedlootbags/lootbag-28.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

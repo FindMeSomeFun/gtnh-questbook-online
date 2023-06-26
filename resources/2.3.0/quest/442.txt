@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.02-32201.png§1§l"Baked" PotatoesEating raw potatoes isn't that healthy, as you might have noticed. Some potatoes are green and poisonous already. After you get a furnace you can make delicious baked potatoes as another food alternative. Put a baked potato on a stick to make it even more delicious.0-1ANDpre91minecraft/furnace-0.pngrewardsChoiceminecraft/melon-0.pngMelon\nminecraft:melon
+442gregtech/gt.metaitem.02-32201.png0§1§l"Baked" Potatoes0-1Eating raw potatoes isn't that healthy, as you might have noticed. Some potatoes are green and poisonous already. After you get a furnace you can make delicious baked potatoes as another food alternative. Put a baked potato on a stick to make it even more delicious.ANDpre91minecraft/furnace-0.pngrewardsChoiceminecraft/melon-0.pngMelon\nminecraft:melon
 2minecraft/pumpkin-0.pngPumpkin
 2minecraft/stick-0.pngStick\nBurn Time: 100
 9Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"

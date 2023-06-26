@@ -1,10 +1,10 @@
-ProjRedExpansion/projectred.expansion.jetpack-0.pngElectrotine JetpackYour glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.
+647ProjRedExpansion/projectred.expansion.jetpack-0.png0Electrotine Jetpack14-1Your glider gets you to the ground safely but it does not have any method to get up. After you researched electrotine you discovered that it is powerful enough for your first jetpack.
 
 A diamond chestplate surrounded with 4 electrotine batteries is powerful enough to bring you up into the air.
 
 It does not have a hover mode so you better take your glider with you. 
 
-Hint: This jetpack can't fly higher than Y-128.0-1ANDpre6460ProjRedExpansion/projectred.expansion.battery-0.pngrewardsChoiceProjRedCore/projectred.core.part-56.pngElectrotine
+Hint: This jetpack can't fly higher than Y-128.ANDpre6460ProjRedExpansion/projectred.expansion.battery-0.pngrewardsChoiceProjRedCore/projectred.core.part-56.pngElectrotine
 32minecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling II\nHold the Sneak key for Enchantment Description
 1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

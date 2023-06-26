@@ -1,4 +1,4 @@
-ArchitectureCraft/sawbench-0.pngMore Like Ouch-i-tectThe sawbench can turn most full cube blocks into amazing shapes of various kinds.
+1986ArchitectureCraft/sawbench-0.png0More Like Ouch-i-tect15-1The sawbench can turn most full cube blocks into amazing shapes of various kinds.
 
 Right-click with the hammer to rotate 90 degrees. Shift-right-click with the hammer to change the orientation of the "bottom" face.
 
@@ -6,7 +6,7 @@ The Chisel is used to alter the structure of blocks in various ways. Some blocks
 
 Some blocks can have a secondary material applied to them. The secondary material can be removed by right-clicking on the center of the block with a chisel.
 
-You can also right-click on a vanilla Glass, Glass Pane, Glowstone or Ice block with a chisel to harvest the block without breaking it.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemArchitectureCraft/hammer-0.pngArchitect''s Hammer
+You can also right-click on a vanilla Glass, Glass Pane, Glowstone or Ice block with a chisel to harvest the block without breaking it.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemArchitectureCraft/hammer-0.pngArchitect''s Hammer
 1ArchitectureCraft/chisel-0.pngArchitect''s Chisel
 1tasksANDRetrievalArchitectureCraft/sawbench-0.pngArchitect''s Sawbench\nBurn Time: 300
 1

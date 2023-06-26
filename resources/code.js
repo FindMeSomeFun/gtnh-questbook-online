@@ -5,6 +5,8 @@ var questLineId = '';
 var questId = '';
 var drawLines = {}
 var drawPreLines = {}
+var canvas = document.getElementById("canvas");
+var questLines = {};
 
 readTextFile(repo + 'resources/versions.txt', 'versions');
 readTextFile(repo + 'resources/fallbackVersion.txt', 'fallbackVersion');
@@ -52,19 +54,16 @@ for (var i = 0; i < newParams.length; i++) {
 }
 
 function readTextFile(file, id) {
-	var rawFile = new XMLHttpRequest();
-	rawFile.open('GET', file, false);
-	rawFile.onreadystatechange = function ()
-	{
-		if (rawFile.readyState === 4)
-		{
-			if (rawFile.status === 200 || rawFile.status == 0)
-			{
-				populateElement(rawFile.responseText, id)
+	var request = new XMLHttpRequest();
+	request.open('GET', file, false);
+	request.onreadystatechange = function () {
+		if (request.readyState === XMLHttpRequest.DONE) {
+			if (request.status === 200 || request.status == 0) {
+				populateElement(request.responseText, id)
 			}
 		}
 	}
-	rawFile.send();
+	request.send(null);
 }
 
 function populateElement(text, id) {
@@ -84,6 +83,7 @@ function populateElement(text, id) {
 		var j = 0;
 		for (var i = 0; i < data.length; i++) {
 			element.innerHTML += '<div class="questLine icon"><input type="hidden" value="' + j + '" /><img src="./resources/image/' + data[i++] + '" alt="No Image"><span> ' + data[i] + '</span></div>';
+			window.questLines[j] = data[i];
 			j++;
 		}
 	} else if (id == 'questLineTree') {
@@ -94,37 +94,93 @@ function populateElement(text, id) {
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
+		canvas.width = data[1];
+		canvas.height = data[2];
 		element.innerHTML = ""
-		for (var i = 3; i < data.length; i++) {
-			var questId = data[i++];
-			var x = data[i++];
-			var y = data[i++];
-			var iconSize = data[i++];
-			var questIcon = data[i];
+		for (var i = 4; i < data.length; i++) {
+			var id = +data[i++];
+			var main = +data[i++];
+			var icon = data[i++];
+			var x = +data[i++];
+			var y = +data[i++];
+			var iconSize = +data[i];
+			var half = iconSize / 2;
+			var pre = [main, x + half, y + half];
+			// drawLines{'id': main, centerX, centerY}
+			drawLines[id] = pre;
+			pre = []
+			for (i; i < data.length; i++) {
+				if (data[i] == 'q') {
+					// drawPreLines['id': pre[id]]
+					drawPreLines[id] = pre;
+					break;
+				} else {
+					pre.push(+data[i]);
+				}
+			}
 			var elementString = '<div class="quest';
-			if (i % 2 == 1) {
+			if (main == 1) {
 				elementString += ' quest-main';
 			} else {
 				elementString += ' quest-optional';
 			}
-			element.innerHTML += elementString + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><input type="hidden" value="' + questId + '" /><img class="openQuest max" src="./resources/image/' + questIcon + '" alt="No Image"></img></div>';
+			element.innerHTML += elementString + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><input type="hidden" value="' + id + '" /><img class="openQuest max" src="./resources/image/' + icon + '" alt="No Image"></img></div>';
 		}
+/* 		for (var key in window.drawLines) {
+			console.log('dl ', key, ' = ', window.drawLines[key]);
+		} */
+/* 		var ctx = canvas.getContext("2d");
+		var dl =  window.drawLines;
+		var dpl = window.drawPreLines;
+		console.log('dpl: ', dpl[0]);
+		console.log('dpl: ', dpl[0][0][0]);
+		console.log('dl: ', dl[0]);
+		console.log('dl: ', dl[0][0]);
+		console.log('dl: ', dl[0][0][1]);
+		console.log('dl-dpl: ', dl[198][0][1]);
+		 */
+/*   		for (var key in dpl) {
+			console.log('dpl: ', key, ': ', dpl[key]);
+			for (var id in dpl[key][0]) {
+				console.log('dl: ', dpl[key][0][id]);
+				//console.log('dl: ', dl['198']);//, ' x: ', dl[dpl[key][0][id]][0], ' y: ', dl[dpl[key][0][id]][1]);
+			}
+		} */
+		// drawLine(ctx, xy["100"], xy["200"], "red", 1);
+		// drawLine(ctx, xy["200"], xy["300"], "green", 2);
+		// drawLine(ctx, xy["300"], xy["400"], "blue", 3);
 	} else if (id == 'questInfo' || id == 'preQuestInfo') {
 		element.innerHTML = loadQuestData(data, id);
 	} else if (id == 'pinned') {
 		document.getElementById('main').innerHTML += '<div class="questInfo pinned">' + loadQuestData(data, id) + '</div>';
 	}
 }
+		
+function drawLine(ctx, x1, y1, x2, y2, color, width) {
+	ctx.beginPath();
+	ctx.lineWidth = width;
+	ctx.strokeStyle = color;
+	ctx.moveTo(x1, y1);
+	ctx.lineTo(x2, y2);
+	ctx.stroke();
+}
 
-function loadQuestData(data, id) {
-	fullElementString = '<div style="height: 64px;"><div class="inline icon"><img src="./resources/image/Minecraft/Bed~0.png" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + data[0] + ' - ' + data[1] + '</div><div class="sub-title">QuestLine: Getting Around Without Dying</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>None</div><div class="inline top btn hide">Hide</div>';
-	if (id == 'pinned') {
+function loadQuestData(data, eId) {
+	var id = id;
+	var icon = data[0];
+	var name = data[1];
+	var desc = data[2];
+	var main = +data[3];
+	var rTime = +data[4];
+	var qLogic = data[5];
+	fullElementString = '<div style="height: 64px;"><div class="inline icon' + main2 + '"><img src="./resources/image/' + icon1 + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id0 + ' - ' + name3 + '</div><div class="sub-title">QuestLine: ' + questLine4 + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>' + rTime5 + '</div><div class="inline top btn hide">Hide</div>';
+	if (eId == 'pinned') {
 		fullElementString += '<div class="inline top btn remove">Remove</div></div></div>';
 	} else {
 		fullElementString += '<div class="inline top btn pin">Pin</div></div></div>';
 		
 	}
-	//   0-icon, 1-name, 2-desc, 3-main, 4-rTime, 5-questLogic, 6-pre[[id, main, icon]], 7-rewards[type, [[icon, name, number]]], 8-taskLogic, 9-tasks[type, [[icon, name, number]]]
+	//   0-id 1-icon, 2-main, 3-name, 4-questLine, 5-repeatTime, 6-desc, 7-questLogic, 8-pre[[id, main, icon]], 9-rewards[type, [[icon, name, number]]], 10-taskLogic, 11-tasks[type, [[icon, name, number]]]
 	var desc = data[2];
 	var logic = data[3];
 	var i = 5;

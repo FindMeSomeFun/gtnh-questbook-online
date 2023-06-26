@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-381.png§5§lThermal CentrifugeA machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.
+599gregtech/gt.blockmachines-381.png0§5§lThermal Centrifuge4-1A machine to get different byproducts out of your crushed or purified ore dust. It's useful for getting a bit of Gallium out of crushed Zinc Ore for your Diodes needed in good circuits.
 
 When you have IC2 nuclear reactors and want to recycle your depleted fuel rods, it's the only way to do so.
 
@@ -6,7 +6,7 @@ If you can't produce the 2A of LV power for this machine right now, wait until y
 
 In LV, you can obtain the same ore byproducts via different methods. The Thermal Centrifuge only becomes really important in HV when you can combine it with the HV macerator.
 
-§4Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.0-1ANDpre8361gregtech/gt.metaitem.03-32190.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§4Sending MV power to an LV device, even if it uses more than 1A will cause an explosion, so don't do that.ANDpre8361gregtech/gt.metaitem.03-32190.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-381.pngBasic Thermal Centrifuge\nSeparating Ores more precisely\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

@@ -1,4 +1,4 @@
-gregtech/gt.detrav.metatool.01-2-Steel-Steel.png§5§6§lPortable Prospecting ToolNow that you have some tech, you've discovered a way to prospect for ores. This tool only has a chance at finding the ores in a chunk. If you are clever, you can use it to locate ores.
+1482gregtech/gt.detrav.metatool.01-2-Steel-Steel.png0§5§6§lPortable Prospecting Tool5-1Now that you have some tech, you've discovered a way to prospect for ores. This tool only has a chance at finding the ores in a chunk. If you are clever, you can use it to locate ores.
 
 Unfortunately, the tech to make it repairable or rechargeable doesn't work, so you'll have to make a new one each time it breaks. It does work better at higher tiers and lasts longer with better materials.
 
@@ -14,7 +14,7 @@ IV Oriharukon 7x7 - 2649
 
 Each chunk successfully scanned costs 100 durability. Each failed chunk costs 25. The average for MV is ~55 per chunk when scanning a large area. As you can see, the prospectors become better and better with each tier, so craft one whenever you think you need it.
 
-Good luck.0-1ANDpre14770gregtech/gt.metaitem.01-32691.pngrewardsItemgregtech/gt.metaitem.01-32691.pngSensor
+Good luck.ANDpre14770gregtech/gt.metaitem.01-32691.pngrewardsItemgregtech/gt.metaitem.01-32691.pngSensor
 1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
 2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

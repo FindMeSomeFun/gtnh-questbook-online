@@ -1,4 +1,4 @@
-SpiceOfLife/bookfoodjournal-0.png§2§lMore Food, More HeartsSo, food is great, right? But what's even greater is eating tons of it! Too boring and pointless you say? Well, what if I told you you can get extra hearts just by expanding your palate. You get 1 point for every half shank of hunger from a food eaten, and after 50 points, you get 1 extra heart! Now you have a reason to make all those Pam's foods. Of course, each food only contributes it's shank value once, no cheating!
+2737SpiceOfLife/bookfoodjournal-0.png0§2§lMore Food, More Hearts2-1So, food is great, right? But what's even greater is eating tons of it! Too boring and pointless you say? Well, what if I told you you can get extra hearts just by expanding your palate. You get 1 point for every half shank of hunger from a food eaten, and after 50 points, you get 1 extra heart! Now you have a reason to make all those Pam's foods. Of course, each food only contributes it's shank value once, no cheating!
 
 If you want to see what foods you've eaten, you can use the (not) handy Food Journal. Realistically though, you'll want to use NEI to both see foods eaten and not eaten. You can search for 'not yet eaten' to see foods left, and 'assisted' to see foods eaten. You need to have started diminishing returns first to see this.
 
@@ -10,5 +10,5 @@ There are also two commands:
 Will tell you total progress, and progress to next heart.
 
 /foodlist sync <PlayerName>
-Is to sync with the server if it gets out of sync.0-1ANDpre151SpiceOfLife/lunchbag-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Is to sync with the server if it gets out of sync.ANDpre151SpiceOfLife/lunchbag-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

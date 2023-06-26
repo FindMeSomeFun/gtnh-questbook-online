@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30739.pngNaphthaWant some naphtha? Buy some!024000ANDpre6410gregtech/gt.metaitem.01-30739.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30739.pngNaphtha Cell
+974gregtech/gt.metaitem.01-30739.png0Naphtha4024000Want some naphtha? Buy some!ANDpre6410gregtech/gt.metaitem.01-30739.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30739.pngNaphtha Cell
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
 16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5

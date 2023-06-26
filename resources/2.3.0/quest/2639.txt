@@ -1,4 +1,4 @@
-dreamcraft/item.HeavyDutyPlateTier6-0.pngTier 6 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 13 tier 6 heavy duty plates out of tier 5 plates and compressed lead-oriharukon plates.1-1ANDpre26581gregtech/gt.metaitem.01-11329.png27521GalaxySpace/enceladusblocks-2.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5
+2639dreamcraft/item.HeavyDutyPlateTier6-0.png1Tier 6 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 13 tier 6 heavy duty plates out of tier 5 plates and compressed lead-oriharukon plates.ANDpre26581gregtech/gt.metaitem.01-11329.png27521GalaxySpace/enceladusblocks-2.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5
 6dreamcraft/item.LeadOriharukonPlate-0.pngCompressed Lead-Oriharukon Plate
 12IC2/blockITNT-0.pngIndustrial TNT
 384enhancedlootbags/lootbag-42-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III

@@ -1,4 +1,4 @@
-GalacticraftCore/tile.moonBlock-14.pngMoon DungeonWhile looking around for meteoric iron you might find a moon dungeon. The entrance looks like a deep hole. Go and kill the Boss Monster. It will drop the key for the chest in the next room with the schematics for tier 2 rockets.
+1433GalacticraftCore/tile.moonBlock-14.png1Moon Dungeon24-1While looking around for meteoric iron you might find a moon dungeon. The entrance looks like a deep hole. Go and kill the Boss Monster. It will drop the key for the chest in the next room with the schematics for tier 2 rockets.
 
 Kill the Boss Monster again in a different dungeon if you want an extra tier 2 schematic to exchange for a moon buggy schematic.
 
@@ -6,7 +6,7 @@ Place the schematic in the NASA Worbench and unlock it on the last tab. This wil
 
 §3If you've made the chip in an older version, you can turn it back into a schematic in a PLE.
 
-All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.1-1ANDpre8101GalacticraftCore/item.spaceship-0.png8201GalacticraftCore/tile.landingPad-0.png8211GalacticraftCore/tile.fuelLoader-0.png8291GalacticraftCore/tile.oxygenCompressor-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
+All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.ANDpre8101GalacticraftCore/item.spaceship-0.png8201GalacticraftCore/tile.landingPad-0.png8211GalacticraftCore/tile.fuelLoader-0.png8291GalacticraftCore/tile.oxygenCompressor-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
 16gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"

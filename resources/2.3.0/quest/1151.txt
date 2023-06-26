@@ -1,4 +1,4 @@
-TConstruct/Crossbow-0-38.png§3§lWooden CrossbowNow you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
+1151TConstruct/Crossbow-0-38.png0§3§lWooden Crossbow14-1Now you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
 
 Assemble the bow yourself on your tool forge.
 
@@ -7,7 +7,7 @@ Assemble the bow yourself on your tool forge.
 Lapis - Fortune on kills
 Moss - Self-repair (this is not visible in NEI until you unlock it in the GTNH Thaumcraft tab)
 
-§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.0-1ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/Pattern-1.pngCrossbow Limb Pattern\nMaterial Cost: 4

@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30596.png§c§b§l3,3 DichlorobenzidineMixing 2-nitrochlorbenzene with copper dust gives you 3,3 Dichlorobenzidine in an EV Chemical Reactor.1-1ANDpre16931gregtech/gt.metaitem.01-30592.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1694gregtech/gt.metaitem.01-30596.png1§c§b§l3,3 Dichlorobenzidine8-1Mixing 2-nitrochlorbenzene with copper dust gives you 3,3 Dichlorobenzidine in an EV Chemical Reactor.ANDpre16931gregtech/gt.metaitem.01-30592.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-30592.png2-Nitrochlorobenzene Cell\nC\u2086H\u2084ClNO\u2082

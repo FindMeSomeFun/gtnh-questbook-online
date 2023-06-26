@@ -1,6 +1,6 @@
-gregtech/gt.metatool.01-36-Iron-Iron.png§2§lAll the Finest Cuts of MeatThis knife is not going to work for slaughtering the hundreds of animals you will need for food and materials. Make yourself a GregTech Butchery Knife. It stops the explosions, and kills the cows much faster, not to mention has Looting on it. Later when you get Stainless Steel, you can make a new one that will kill cows in one hit.
+1476gregtech/gt.metatool.01-36-Iron-Iron.png0§2§lAll the Finest Cuts of Meat2-1This knife is not going to work for slaughtering the hundreds of animals you will need for food and materials. Make yourself a GregTech Butchery Knife. It stops the explosions, and kills the cows much faster, not to mention has Looting on it. Later when you get Stainless Steel, you can make a new one that will kill cows in one hit.
 
-§3Note: GT Tool damage is based on tinkers mining level.0-1ANDpre4920OpenBlocks/trophy-0-Sheep.pngrewardsItemminecraft/spawn_egg-54.pngSpawn Zombie
+§3Note: GT Tool damage is based on tinkers mining level.ANDpre4920OpenBlocks/trophy-0-Sheep.pngrewardsItemminecraft/spawn_egg-54.pngSpawn Zombie
 1minecraft/spawn_egg-50.pngSpawn Creeper
 1minecraft/leather-0.pngLeather
 8Itemminecraft/beef-0.pngRaw Beef\nminecraft:beef

@@ -1,2 +1,2 @@
-gregtech/gt.metaitem.01-32758.png§lPower of the Sun at ZPM LevelThe ZPM solar panel generates 131072 EU/t.0-1ANDpre26651gregtech/gt.metaitem.03-32120.png27740gregtech/gt.metaitem.01-32757.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32758.pngSolar Panel\nZPM Voltage Solar Panel (Needs cleaning with right click)
+2776gregtech/gt.metaitem.01-32758.png0§lPower of the Sun at ZPM Level19-1The ZPM solar panel generates 131072 EU/t.ANDpre26651gregtech/gt.metaitem.03-32120.png27740gregtech/gt.metaitem.01-32757.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32758.pngSolar Panel\nZPM Voltage Solar Panel (Needs cleaning with right click)
 1

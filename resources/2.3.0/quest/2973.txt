@@ -1,9 +1,9 @@
-gregtech/gt.blockmachines-17019.pngLet if flow, let it floww ...... can't hold it back anymore. It is time to collect the rewards of your hard work. Connect the fluid output hatch from the dam to the fluid input hatch of this turbine and finally enjoy the power! You can pause this multiblock if you cut the fluid input or use a machine controller. Oh, and you will get your water back in the fluid output hatch.
+2973gregtech/gt.blockmachines-17019.png0Let if flow, let it floww ...20-1... can't hold it back anymore. It is time to collect the rewards of your hard work. Connect the fluid output hatch from the dam to the fluid input hatch of this turbine and finally enjoy the power! You can pause this multiblock if you cut the fluid input or use a machine controller. Oh, and you will get your water back in the fluid output hatch.
 
 Congratulations to making it this far! Enjoy your ginormous energy buffer!
 
 If you have any further questions, missing information or suggestions please do not hesitate to post on the official GT New Horizons Discord. Please add '@SinTh0r4s' to your post to make sure I’ll see it.
-0-1ANDpre29710gregtech/gt.blockmachines-17000.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
+ANDpre29710gregtech/gt.blockmachines-17000.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
 16gregtech/gt.metaitem.01-32730.pngMachine Controller Cover\nTurns Machines ON/OFF
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

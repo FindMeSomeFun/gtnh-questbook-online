@@ -1,4 +1,4 @@
-witchery/ingredient-111.pngWormwoodDue to a mod conflict, you can't make Wormwood the normal way. So you can buy some with coins.024000ANDpre23870witchery/ingredient-82.pngrewardsItemwitchery/seedswormwood-0.pngWormwood Seeds
+2388witchery/ingredient-111.png0Wormwood4024000Due to a mod conflict, you can't make Wormwood the normal way. So you can buy some with coins.ANDpre23870witchery/ingredient-82.pngrewardsItemwitchery/seedswormwood-0.pngWormwood Seeds
 4tasksANDConsumedreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 1minecraft/wheat-0.pngWheat
 16witchery/somniancotton-0.pngWispy Cotton

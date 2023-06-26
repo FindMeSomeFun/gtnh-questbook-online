@@ -1,6 +1,6 @@
-AWWayofTime/weakBloodOrb-0.pngPortable Battery...Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood. 
+164AWWayofTime/weakBloodOrb-0.png0Portable Battery...37-1Using this binds it to you (expect to do that a lot), and consumes one heart while depositing 200LP in your 'soul network'. You can draw upon the soul network for anything that needs LP such as Alchemy or Rituals. If you want to automate it, you can put it into your altar for a 1:1 conversion of blood. 
 
-The highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.0-1ANDpre1031gregtech/gt.metaitem.01-11019.png1771AWWayofTime/sacrificialKnife-0.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+The highest tier orb you have bound will be considered the maximum limit to LP in your network, but you'll need to put it into the appropriately tiered altar to keep absorbing blood.ANDpre1031gregtech/gt.metaitem.01-11019.png1771AWWayofTime/sacrificialKnife-0.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"
 5tasksANDRetrievalAWWayofTime/weakBloodOrb-0.pngWeak Blood Orb\nStores raw Life Essence
 1

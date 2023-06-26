@@ -1,8 +1,8 @@
-dreamcraft/dreamcraft_Pollution-0.png§6§lCough Cough - Something Needs to Be Done About the SmellBirds falling out of the sky, fish dead and floating belly up in the rivers, acid rain melting the ground...Time to start picking up the trash and cleaning up the air. Small black steel turbines should be fine for now. You'll need two amps of steady power to keep the scrubber working.
+1417dreamcraft/dreamcraft_Pollution-0.png0§6§lCough Cough - Something Needs to Be Done About the Smell18-1Birds falling out of the sky, fish dead and floating belly up in the rivers, acid rain melting the ground...Time to start picking up the trash and cleaning up the air. Small black steel turbines should be fine for now. You'll need two amps of steady power to keep the scrubber working.
 
 The detector's setting can be changed by clicking on the +/- texture with a screwdriver. Also, in general, better (and larger) turbines work better at cleaning up pollution. The code is too complex to fully explain here, but that's basically it. More EU turbine = more pollution cleaning turbine.
 
-§4This quest covers one method of combating pollution - there are others, including not making as much to begin with.0-1ANDpre14940gregtech/gt.blockmachines-1000.pngrewardsChoicemiscutils/itemAirFilter-0.pngAir Filter [Tier 1]\nAn Air filter for Atmospheric Reconditioning.\n50/50 uses left.
+§4This quest covers one method of combating pollution - there are others, including not making as much to begin with.ANDpre14940gregtech/gt.blockmachines-1000.pngrewardsChoicemiscutils/itemAirFilter-0.pngAir Filter [Tier 1]\nAn Air filter for Atmospheric Reconditioning.\n50/50 uses left.
 2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.blockmachines-756.pngPollution Detection Device\nTells you if you''re living in Gwalior yet.\nRight click to check pollution levels.\nConfigure with screwdriver to set redstone output amount.\nDoes not use power.\nAdded by: Alkalus - [GT++]

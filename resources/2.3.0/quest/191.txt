@@ -1,8 +1,8 @@
-gregtech/gt.reactorUraniumSimple-0.pngStandard Nuclear Fuel: UraniumJust "regular" uranium fuel, nothing special about it. It produces 5x the power, and 4x the heat of thorium, while lasting 2/5 the time.
+191gregtech/gt.reactorUraniumSimple-0.png0Standard Nuclear Fuel: Uranium19-1Just "regular" uranium fuel, nothing special about it. It produces 5x the power, and 4x the heat of thorium, while lasting 2/5 the time.
 
 Most fuel rods are basically this, but slightly modified. You generally get this from Mars and it's moons, but you can get a little from centrifuging thorium if you want.
 
-BTW, one of the reactor types 'pulses' the reactor to turn it off once it gets too hot. You can pack in the rods and then cool it off for a while to get higher efficiency out of each rod. Try it if you like explosions.0-1ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+BTW, one of the reactor types 'pulses' the reactor to turn it off once it gets too hot. You can pack in the rods and then cool it off for a while to get higher efficiency out of each rod. Try it if you like explosions.ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.reactorUraniumSimple-0.pngFuel Rod\n100 / 100\nDurability: 20,000/20,000
 1

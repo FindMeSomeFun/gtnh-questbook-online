@@ -1,3 +1,3 @@
-gregtech/gt.metaitem.03-32152.pngAmericium Doped WafersThese boules are the last ones, and are the most efficient when making wafers out of them.1-1ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32152.pngAmericium doped Monocrystalline Silicon Boule\nRaw Circuit
+2041gregtech/gt.metaitem.03-32152.png1Americium Doped Wafers11-1These boules are the last ones, and are the most efficient when making wafers out of them.ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32152.pngAmericium doped Monocrystalline Silicon Boule\nRaw Circuit
 1Retrievalgregtech/gt.metaitem.03-32153.pngAmericium doped Wafer\nRaw Circuit
 128

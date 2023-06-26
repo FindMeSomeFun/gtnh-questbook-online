@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-32013.png§6§lNeutron ActivatorYou will need machine to process the naquadah in future.
+2936gregtech/gt.blockmachines-32013.png1§6§lNeutron Activator17-1You will need machine to process the naquadah in future.
 
 This machine is different from most mulits. It needs to use §4Neutron Accelerator§r this special hatch instead of energy hatch to keep it running.
 
@@ -8,7 +8,7 @@ When all Neutron Accelerator§rs aren't running, NKE will decrease 72keV/s.
 
 Neutron Activator will explode when NKE is over 1200MeV.
 
-§3The more height/speed casings you have, the more inefficient the eu->eV conversion becomes, so you then need more power. The maths is as follows: Multiply recipe time by 0.9 for each height above 4 and multiply eV you get from your input power by 0.95 for each height above 4.1-1ANDpre30901gregtech/gt.blockmachines-32018.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+§3The more height/speed casings you have, the more inefficient the eu->eV conversion becomes, so you then need more power. The maths is as follows: Multiply recipe time by 0.9 for each height above 4 and multiply eV you get from your input power by 0.95 for each height above 4.ANDpre30901gregtech/gt.blockmachines-32018.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionalgregtech/gt.blockcasings2-6.pngProcessor Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 18IC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV

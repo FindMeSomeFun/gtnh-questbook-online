@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-23.png§9§lSending the Power BackKinetic generator compatibility has been improved so that you no longer need transformers, you can connect directly with a cable. But why not use your transformer to send the power back to base more efficiently, it's a loss of about 57/512EU per A just going from 160 straight down to 63 without it. If you transform up (after going through 1 block of cable to transform it to GT power), you only lose about 57/2048EU per A, much better.
+1145gregtech/gt.blockmachines-23.png0§9§lSending the Power Back19-1Kinetic generator compatibility has been improved so that you no longer need transformers, you can connect directly with a cable. But why not use your transformer to send the power back to base more efficiently, it's a loss of about 57/512EU per A just going from 160 straight down to 63 without it. If you transform up (after going through 1 block of cable to transform it to GT power), you only lose about 57/2048EU per A, much better.
 
-§4IC2 machines don't care about rain, but remember to cover your transformer.0-1ANDpre11400miscutils/itemwcarbonrotor-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§4IC2 machines don't care about rain, but remember to cover your transformer.ANDpre11400miscutils/itemwcarbonrotor-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1IC2/itemDust2-2.pngEnergium Dust
 9gregtech/gt.metaitem.01-32502.pngLarge Battery Hull\nAn empty HV Battery Hull
 1gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi

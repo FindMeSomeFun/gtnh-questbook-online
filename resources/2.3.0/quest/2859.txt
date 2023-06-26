@@ -1,11 +1,11 @@
-BuildCraftCore/engineBlock-2.pngCombustion EngineThe combustion engine combusts things for power like a car engine does. You need water in it if it's over 100 degrees, or it will explode. Don't run out of water! You turn it on with a redstone signal.
+2859BuildCraftCore/engineBlock-2.png0Combustion Engine16-1The combustion engine combusts things for power like a car engine does. You need water in it if it's over 100 degrees, or it will explode. Don't run out of water! You turn it on with a redstone signal.
 
 Your options for fuel are:
 Oil @30RF/t for a total of 150K
 Ethanol @40RF/t for a total of 360K
 Diesel @60RF/t for a total of 1,500K
 
-§3Make sure to use Oil, not raw, light, medium, or heavy oil.0-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cell
+§3Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpre5770Forestry/sturdyMachine-0.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cell
 16Choicegregtech/gt.metaitem.01-30707.pngOil Cell
 16gregtech/gt.metaitem.01-30706.pngEthanol Cell\nC\u2082H\u2086O
 8gregtech/gt.metaitem.01-30708.pngDiesel Cell

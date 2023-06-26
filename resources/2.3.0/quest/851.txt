@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30653.png§9§lNitric AcidNitric acid can be made out of water, oxygen and nitrogen dioxide.1-1ANDpre8461gregtech/gt.metaitem.01-30013.png8531gregtech/gt.metaitem.01-30717.pngrewardsChoiceIC2/itemCellEmpty-1.pngWater Cell
+851gregtech/gt.metaitem.01-30653.png1§9§lNitric Acid6-1Nitric acid can be made out of water, oxygen and nitrogen dioxide.ANDpre8461gregtech/gt.metaitem.01-30013.png8531gregtech/gt.metaitem.01-30717.pngrewardsChoiceIC2/itemCellEmpty-1.pngWater Cell
 8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
 8Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"

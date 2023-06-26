@@ -1,4 +1,4 @@
-thaumicbases/genericSlab-7.pngL.E.S.U. Upgrade - EV TierClose to 8 Stacks of LESU Casings, this upgrade enables EV Voltage on your LESU. It's easy until now.0-1ANDpre1761gregtech/gt.blockmachines-14.png18270IC2/itemPlates-8.pngrewardsItemenhancedlootbags/lootbag-7-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1828thaumicbases/genericSlab-7.png0L.E.S.U. Upgrade - EV Tier20-1Close to 8 Stacks of LESU Casings, this upgrade enables EV Voltage on your LESU. It's easy until now.ANDpre1761gregtech/gt.blockmachines-14.png18270IC2/itemPlates-8.pngrewardsItemenhancedlootbags/lootbag-7-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1ThaumicHorizons/focusIllumination-12.pngWand Focus: Illumination\nVis per cast\n Aer x 1\n Ignis x 1
 1thaumicbases/genericSlab-7.pngAncient Lapis Lazuli Slab\nMay work as an Infusion Stabilizer
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"

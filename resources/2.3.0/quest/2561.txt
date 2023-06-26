@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-12712.png§6§lBacterial VatThe Bacterial Vat is a unique multiblock machine with its own recipes. But it also has advanced versions of many brewery recipes.
+2561gregtech/gt.blockmachines-12712.png1§6§lBacterial Vat17-1The Bacterial Vat is a unique multiblock machine with its own recipes. But it also has advanced versions of many brewery recipes.
 
 The Vat isn't mandatory in this tier, but there are many useful recipes and you'll need it later on, so let's build one!
 
@@ -6,7 +6,7 @@ All recipes require a §cculture§r, some recipes require a specific §cGlass-Ti
 
 §rThe culture is made in a BioLab and §lput in the controller.
 
-§l§rThe Glass-Tier is calculated as LV = Tier 1, so this quest requires you to make tier 3 glass.1-1ANDpre1601gregtech/gt.blockmachines-13.png25661gregtech/gt.blockmachines-12699.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+§l§rThe Glass-Tier is calculated as LV = Tier 1, so this quest requires you to make tier 3 glass.ANDpre1601gregtech/gt.blockmachines-13.png25661gregtech/gt.blockmachines-12699.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalbartworks/BW_GlasBlocks-0.pngBorosilicate Glass Block\nGlass-Tier: HV\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
 32Retrievalgregtech/gt.blockmachines-12712.pngBacterial Vat\nMachine Type: Bacterial Vat\nController block for the Bacterial Vat\nFor maximum efficiency boost keep the Output Hatch always half filled!\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: BartWorks

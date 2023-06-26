@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-12020.png§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§lAir-FilterElectric Air Filter
+2981gregtech/gt.blockmachines-12020.png1§6§6§6§l§r§6§l§5§l§o§l§r§6§A§l§A§6§lAir-Filter17-1Electric Air Filter
 
 This wonderful multiblock comes in 3 versions:§9 §rT1 for LV, T2 for late HV and T3 for IV.
 
@@ -27,7 +27,7 @@ To cycle between the modes, right click on the controller with a screwdriver.
 
 To know if an Absorption Filter is present and how many remaining cycles there are, use an portable scanner on the controller.
 
-§9§rA pollution cycle lasts 10s, and the cleaning is done every second.1-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§9§rA pollution cycle lasts 10s, and the cleaning is done every second.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 3gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84\nIf you can''t fix it with this, use more of it!
 1dreamcraft/item.AdsorptionFilter-0.pngAbsorption Filter
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

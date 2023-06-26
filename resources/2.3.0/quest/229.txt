@@ -1,6 +1,6 @@
-gregtech/gt.blockores-541.pngInfused StonesThis whole place here is filled with magic. No matter where you look at, it's just everywhere. You wonder what happens to regular stone if it's exposed to large amounts of magic for such a long time. Maybe it's time to go mining?
+229gregtech/gt.blockores-541.png1Infused Stones31-1This whole place here is filled with magic. No matter where you look at, it's just everywhere. You wonder what happens to regular stone if it's exposed to large amounts of magic for such a long time. Maybe it's time to go mining?
 
-There are 3 veins. There's amber and cinnabar in each. They aren't super useful, but make sure to keep hold of some at least.1-1ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+There are 3 veins. There's amber and cinnabar in each. They aren't super useful, but make sure to keep hold of some at least.ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
 2Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalgregtech/gt.blockores-543.pngAqua Infused Stone

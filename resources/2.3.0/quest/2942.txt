@@ -1,3 +1,3 @@
-gregtech/gt.metaitem.01-2324.png§c§lNaquadah DustYou can directly get naquadah dust in a chemical reactor.0-1ANDpre29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardsItemgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
+2942gregtech/gt.metaitem.01-2324.png0§c§lNaquadah Dust9-1You can directly get naquadah dust in a chemical reactor.ANDpre29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardsItemgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
 1tasksANDRetrievalgregtech/gt.metaitem.01-2324.pngNaquadah Dust\nNq
 1

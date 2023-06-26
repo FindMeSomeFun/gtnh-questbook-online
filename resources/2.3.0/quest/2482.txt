@@ -1,4 +1,4 @@
-ae2fc/fluid_storage1-0.png1k Fluid Storage CellUnlike the item version, these can only hold 5 types of liquids each. This tier holds 256 buckets if you fill it with a single fluid. If you fill it with 5 different fluids, you can have 51 and 1/5 buckets of each. You'll want to make the fluid terminal to see what you have.0-1ANDpre24780ae2fc/fluid_part-0.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier I
+2482ae2fc/fluid_storage1-0.png01k Fluid Storage Cell27-1Unlike the item version, these can only hold 5 types of liquids each. This tier holds 256 buckets if you fill it with a single fluid. If you fill it with 5 different fluids, you can have 51 and 1/5 buckets of each. You'll want to make the fluid terminal to see what you have.ANDpre24780ae2fc/fluid_part-0.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier I
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalae2fc/fluid_storage1-0.png1k ME Fluid Storage Cell\n0 of 1,024 Bytes Used\n0 of 1 Types\n> Hold Ctrl for more information
 1

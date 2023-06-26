@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32595.pngYou Know the DrillI'm not even sure these have uses but they're blue so that's kinda cool.1-1ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32595.pngElectric Motor
+2590gregtech/gt.metaitem.01-32595.png1You Know the Drill38-1I'm not even sure these have uses but they're blue so that's kinda cool.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32595.pngElectric Motor
 1gregtech/gt.metaitem.01-32619.pngElectric Pump\n2,097,152 L/t (41,943,040 L/s) as Cover
 1gregtech/gt.metaitem.01-32639.pngConveyor Module\n32 stacks every 1/20 sec (as Cover)
 1gregtech/gt.metaitem.01-32649.pngElectric Piston

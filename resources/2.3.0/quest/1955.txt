@@ -1,8 +1,8 @@
-Botany/misc-5.pngPowder PowerBotany uses various powders to enhance soil properties.
+1955Botany/misc-5.png0Powder Power15-1Botany uses various powders to enhance soil properties.
 
 Raise Ph - Ash Powder, Pulp Powder
 Lower Ph - Mulch Powder, Sulphur Powder
-Increase Nutrients - Fertiliser Powder, Compost Powder0-1ANDpre19530minecraft/yellow_flower-0.pngrewardsChoiceBotany/misc-0.pngAsh Powder
+Increase Nutrients - Fertiliser Powder, Compost PowderANDpre19530minecraft/yellow_flower-0.pngrewardsChoiceBotany/misc-0.pngAsh Powder
 64Botany/misc-1.pngPulp Powder
 64Botany/misc-2.pngMulch Powder
 64Botany/misc-3.pngSulphur Powder

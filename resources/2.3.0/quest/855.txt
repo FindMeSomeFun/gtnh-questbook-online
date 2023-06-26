@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30658.png§9§lNitric OxideTo make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.1-1ANDpre8461gregtech/gt.metaitem.01-30013.png8541gregtech/gt.metaitem.01-30659.pngrewardsChoicegregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+855gregtech/gt.metaitem.01-30658.png1§9§lNitric Oxide6-1To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.ANDpre8461gregtech/gt.metaitem.01-30013.png8541gregtech/gt.metaitem.01-30659.pngrewardsChoicegregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
 8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
 16Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"

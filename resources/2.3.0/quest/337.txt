@@ -1,4 +1,4 @@
-witchery/brew.fuel-0.pngDon't Shake it Too MuchUnlike nitroglycerin, this stuff doesn't explode. But you still shouldn't shake it too much...0-1ANDpre3340witchery/cauldron-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Root
+337witchery/brew.fuel-0.png0Don't Shake it Too Much36-1Unlike nitroglycerin, this stuff doesn't explode. But you still shouldn't shake it too much...ANDpre3340witchery/cauldron-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Root
 3witchery/seedsmandrake-0.pngMandrake Seeds
 3enhancedlootbags/lootbag-52.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"

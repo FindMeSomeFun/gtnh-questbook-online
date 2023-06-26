@@ -1,10 +1,10 @@
-Thaumcraft/FocusWarding-0.pngWand Focus WardingThe Wand Focus: Warding can be used to make blocks invincible. To ward a block, right click on it with a wand or staff with this focus on it. This will make the block invincible until it is unwarded by right clicking it again with the wand. If you attempt to ward glass or other non-opaque blocks, it will break the glass instead. There is a block known as warded glass available within the warded arcana research. You cannot ward Tile Entities either. Take note that only the player who warded the block can unward it.
+1377Thaumcraft/FocusWarding-0.png0Wand Focus Warding34-1The Wand Focus: Warding can be used to make blocks invincible. To ward a block, right click on it with a wand or staff with this focus on it. This will make the block invincible until it is unwarded by right clicking it again with the wand. If you attempt to ward glass or other non-opaque blocks, it will break the glass instead. There is a block known as warded glass available within the warded arcana research. You cannot ward Tile Entities either. Take note that only the player who warded the block can unward it.
 
 Warded Blocks are completely indestructible and will produce particle effects similiar to runic shielding when the owner or another player tries to break it. Also, blocks that are affected by gravity (such as sand and gravel) will not fall when warded. Warded blocks cannot be affected by any outside influence such as redstone and pistons. The only way to break the warded block is via the owner right clicking with a wand in hand. Warding a block costs 0.1 aqua, 0.25 ordo and 0.25 terra.
 
 Special Note: Warded blocks emit light.
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumcraft/FocusWarding-0.pngWand Focus: Warding\nVis per cast\n Aqua x 0.1\n Ordo x 0.25\n Terra x 0.25

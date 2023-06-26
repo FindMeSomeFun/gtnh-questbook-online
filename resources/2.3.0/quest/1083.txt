@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-32528.pngMV BatteriesBetter machines need some better batteries. Lithium is the best material to use when making batteries.
+1083gregtech/gt.metaitem.01-32528.png0MV Batteries20-1Better machines need some better batteries. Lithium is the best material to use when making batteries.
 
-§3You only need to complete one task.0-1ANDpre7580gregtech/gt.metaitem.01-32501.pngrewardsItemgregtech/gt.metaitem.01-17315.pngBattery Alloy Plate\nPb\u2084Sb
+§3You only need to complete one task.ANDpre7580gregtech/gt.metaitem.01-32501.pngrewardsItemgregtech/gt.metaitem.01-17315.pngBattery Alloy Plate\nPb\u2084Sb
 8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksORRetrievalgregtech/gt.metaitem.01-32529.pngMedium Sodium Battery\nReusable\n0 / 200,000 EU - Voltage: 128\nMV-Tier

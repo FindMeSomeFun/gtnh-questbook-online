@@ -1,4 +1,4 @@
-TConstruct/jerky-5.pngCrispy Rotten FleshRotten Flesh is not really healthy. It doesn't satisfy your hunger. What if you try to dry?0-1ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceTConstruct/jerky-0.pngBeef Jerky\nTConstruct:jerky
+2898TConstruct/jerky-5.png0Crispy Rotten Flesh13-1Rotten Flesh is not really healthy. It doesn't satisfy your hunger. What if you try to dry?ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceTConstruct/jerky-0.pngBeef Jerky\nTConstruct:jerky
 8TConstruct/jerky-1.pngChicken Jerky\nTConstruct:jerky
 8TConstruct/jerky-2.pngBacon Jerky\nTConstruct:jerky
 8TConstruct/jerky-3.pngMutton Jerky\nTConstruct:jerky

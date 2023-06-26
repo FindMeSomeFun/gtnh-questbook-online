@@ -1,4 +1,4 @@
-IC2/itemBoat-1.pngRubber BoatThe rubber dinghy requires only a few rubber plates. Like the vanilla wooden boat, it will break and dismantle whenever it hits a surface, however instead of returning sticks and planks, it will return a damaged rubber dinghy, which can be re-crafted with two pieces of rubber back into a useable rubber dinghy!0-1ANDpre6660minecraft/boat-0.pngrewardsChoicegregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+668IC2/itemBoat-1.png0Rubber Boat14-1The rubber dinghy requires only a few rubber plates. Like the vanilla wooden boat, it will break and dismantle whenever it hits a surface, however instead of returning sticks and planks, it will return a damaged rubber dinghy, which can be re-crafted with two pieces of rubber back into a useable rubber dinghy!ANDpre6660minecraft/boat-0.pngrewardsChoicegregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
 8minecraft/waterlily-0.pngLily Pad
 16enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

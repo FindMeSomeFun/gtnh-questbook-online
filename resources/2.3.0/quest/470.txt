@@ -1,4 +1,4 @@
-Natura/berryMedley-0.png§1§lBerry MedleyHmmm... what can you do with all those berries? Just eating? You will see that they have a very low saturation level. Let's plant the new berry bushes and mix the berries to make some better food.0-1ANDpre4690Natura/BerryBush-12.pngrewardsItemNatura/BerryBush-3.pngMaloberry Bush\nTasty and yellow-orange\nFound in cold areas
+470Natura/berryMedley-0.png0§1§lBerry Medley0-1Hmmm... what can you do with all those berries? Just eating? You will see that they have a very low saturation level. Let's plant the new berry bushes and mix the berries to make some better food.ANDpre4690Natura/BerryBush-12.pngrewardsItemNatura/BerryBush-3.pngMaloberry Bush\nTasty and yellow-orange\nFound in cold areas
 5Natura/BerryBush-2.pngBlackberry Bush\nSweet and black\nFound in wet areas
 5Natura/BerryBush-1.pngBlueberry Bush\nTart and blue\nFound in temperate areas
 5Natura/BerryBush-0.pngRaspberry Bush\nSweet and red\nFound in warm areas

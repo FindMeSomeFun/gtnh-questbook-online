@@ -1,6 +1,6 @@
-dreamcraft/item.UncookedSlush-0.pngUncooked SlushNext step is to form this slush into the right shape. Use a Mashmallow form and press it with your iv forming press. Remember to sterilize it after using it.
+1484dreamcraft/item.UncookedSlush-0.png0Uncooked Slush13-1Next step is to form this slush into the right shape. Use a Mashmallow form and press it with your iv forming press. Remember to sterilize it after using it.
 
-Be careful, you'll get blindness and hunger II holding it.0-1ANDpre14830dreamcraft/item.MalformedSlush-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+Be careful, you'll get blindness and hunger II holding it.ANDpre14830dreamcraft/item.MalformedSlush-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
 8enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionaldreamcraft/item.MalformedSlush-0.pngMalformed Slush\nI hope you are not going to eat this later.

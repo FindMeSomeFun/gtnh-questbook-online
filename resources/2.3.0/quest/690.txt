@@ -1,4 +1,4 @@
-minecraft/chainmail_chestplate-0.pngFancy ArmorNot really better but fancier. The chain mail armor is made out of steel rings.0-1ANDpre651gregtech/gt.metaitem.01-11305.png6850minecraft/iron_chestplate-0.pngrewardsChoicegregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
+690minecraft/chainmail_chestplate-0.png0Fancy Armor14-1Not really better but fancier. The chain mail armor is made out of steel rings.ANDpre651gregtech/gt.metaitem.01-11305.png6850minecraft/iron_chestplate-0.pngrewardsChoicegregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
 8gregtech/gt.metatool.01-12-DamascusSteel-Wood.pngHammer\nDurability: 128,000 / 128,000\nDamascus Steel lvl 3\nAttack Damage: 6.0\nMining Speed: 6.0\nCrushes Ores instead of harvesting them\nUsable for Prospecting\nSharpness V
 1enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

@@ -1,4 +1,4 @@
-ExtraUtilities/defoliageAxe-0.pngHunger No MoreThe hunger is constantly following you, consuming you, never letting you rest. The world around you is full of nourishing fruits, vegetables and crafted meals. Use them to curb your insatiable hunger.0-1ANDpre131minecraft/bed-0.pngrewardsItemExtraUtilities/defoliageAxe-0.pngHealing Axe\n+6 Attack Damage\nDurability: 1561/1561
+600ExtraUtilities/defoliageAxe-0.png0Hunger No More13-1The hunger is constantly following you, consuming you, never letting you rest. The world around you is full of nourishing fruits, vegetables and crafted meals. Use them to curb your insatiable hunger.ANDpre131minecraft/bed-0.pngrewardsItemExtraUtilities/defoliageAxe-0.pngHealing Axe\n+6 Attack Damage\nDurability: 1561/1561
 1tasksANDConsumeharvestcraft/leafygarden-0.pngLeafy Garden
 8harvestcraft/mushroomgarden-0.pngMushroom Garden
 8harvestcraft/stalkgarden-0.pngStalk Garden

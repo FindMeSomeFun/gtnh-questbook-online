@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-2879.png§2§lChad - A Better Way to Make PaperMaking paper out of wood pulp and water can be tedious and difficult. Why not use a mortar to grind the sugar cane in to chad and press it with two stone slabs to paper? Later on you can use the chemical bath for a even better ratio.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot\nFe\u2085\u2080C
+945gregtech/gt.metaitem.01-2879.png0§2§lChad - A Better Way to Make Paper2-1Making paper out of wood pulp and water can be tedious and difficult. Why not use a mortar to grind the sugar cane in to chad and press it with two stone slabs to paper? Later on you can use the chemical bath for a even better ratio.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot\nFe\u2085\u2080C
 4minecraft/stone_slab-0.pngStone Slab
 64enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

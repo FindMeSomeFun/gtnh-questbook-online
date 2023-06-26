@@ -1,4 +1,4 @@
-IC2/itemToolHoe-1-charged.png§6§l§d§5§lAutomated FarmerYour hoe must be getting worn out by now. Why not craft an electric one which never breaks?0-1ANDpre6200IC2/itemBatRE-1-charged.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+939IC2/itemToolHoe-1-charged.png0§6§l§d§5§lAutomated Farmer4-1Your hoe must be getting worn out by now. Why not craft an electric one which never breaks?ANDpre6200IC2/itemBatRE-1-charged.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
 16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"

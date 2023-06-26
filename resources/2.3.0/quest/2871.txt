@@ -1,4 +1,4 @@
-Forestry/sapling-0-manderin.pngManderineYou can get Manderine by combining Pomelo and Hill Cherry.0-1ANDpre28700Forestry/sapling-0-pomelo.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+2871Forestry/sapling-0-manderin.png0Manderine16-1You can get Manderine by combining Pomelo and Hill Cherry.ANDpre28700Forestry/sapling-0-pomelo.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 30enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDOptionalForestry/sapling-0-pomelo.pngPomelo Sapling\nBurn Time: 100
 1Forestry/sapling-0-Cherry.pngHill Cherry Sapling\nBurn Time: 100

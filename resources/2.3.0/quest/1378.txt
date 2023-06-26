@@ -1,6 +1,6 @@
-Thaumcraft/FocusPortableHole-0.pngWand Focus Portable HoleThe Wand Focus: Portable Hole when equipped to a wand will create a temporary 3x3 hole centered on the targeted block that will go 32 blocks. Some blocks cannot be passed through, such as Bedrock. Its base vis cost is 0.1 aer and 0.1 perditio per cast.
+1378Thaumcraft/FocusPortableHole-0.png0Wand Focus Portable Hole34-1The Wand Focus: Portable Hole when equipped to a wand will create a temporary 3x3 hole centered on the targeted block that will go 32 blocks. Some blocks cannot be passed through, such as Bedrock. Its base vis cost is 0.1 aer and 0.1 perditio per cast.
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumcraft/FocusPortableHole-0.pngWand Focus: Portable Hole\nVis per cast\n Aer x 0.1\n Perditio x 0.1

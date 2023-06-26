@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.03-32083.png§a§lNanoprocessor AssemblyThe Nanoprocessor Assembly is an EV circuit.1-1ANDpre12481gregtech/gt.metaitem.03-32082.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
+1250gregtech/gt.metaitem.03-32083.png1§a§lNanoprocessor Assembly7-1The Nanoprocessor Assembly is an EV circuit.ANDpre12481gregtech/gt.metaitem.03-32082.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
 2gregtech/gt.metaitem.03-32014.pngSmall Coil\nBasic Electronic Component
 4gregtech/gt.metaitem.03-32018.pngSMD Transistor\nElectronic Component
 4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

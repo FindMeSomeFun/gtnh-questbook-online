@@ -1,5 +1,5 @@
-gregtech/gt.metatool.01-12-Diamond-Wood.png§3§lA Fool Fit for a KingOnly the craziest fool would use diamonds to make a tool! Or is it crazy like a fox?
+2140gregtech/gt.metatool.01-12-Diamond-Wood.png0§3§lA Fool Fit for a King3-1Only the craziest fool would use diamonds to make a tool! Or is it crazy like a fox?
 
-§3PS: You can also §oburn them for fuel§r§3 for that extra bit of craziness.0-1ANDpre4950minecraft/diamond-0.pngrewardsItemgregtech/gt.metaitem.02-29500.pngFlawless Diamond\nC
+§3PS: You can also §oburn them for fuel§r§3 for that extra bit of craziness.ANDpre4950minecraft/diamond-0.pngrewardsItemgregtech/gt.metaitem.02-29500.pngFlawless Diamond\nC
 1tasksANDRetrievalgregtech/gt.metatool.01-12-Diamond-Wood.pngHammer\nDurability: 128,000 / 128,000\nDiamond lvl 4\nAttack Damage: 7.0\nMining Speed: 6.0\nCrushes Ores instead of harvesting them\nUsable for Prospecting
 1

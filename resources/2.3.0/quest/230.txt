@@ -1,8 +1,8 @@
-Thaumcraft/WandCasting-0.pngYour First WandYou're sure that this place will give you all the answers you're looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.
+230Thaumcraft/WandCasting-0.png1Your First Wand31-1You're sure that this place will give you all the answers you're looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.
 
 If you haven't started on defeating the TF bosses yet, you'll need to do so to proceed. All wands require some kind of TF boss drop, with better wands needing later boss's drops. Once you've defeated them once, you can buy a spawn egg (only usable in the TF) or use the trophy+salis mundus to make more of the drop.
 
-§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.1-1ANDpre2251minecraft/end_portal-0.pngrewardsItemminecraft/spawn_egg-98.pngSpawn Ocelot
+§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.ANDpre2251minecraft/end_portal-0.pngrewardsItemminecraft/spawn_egg-98.pngSpawn Ocelot
 2Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"

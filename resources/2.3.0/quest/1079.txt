@@ -1,6 +1,6 @@
-TwilightForest/item.tfspawnegg-226.pngYetiSummon a Yeti.
+1079TwilightForest/item.tfspawnegg-226.png0Yeti401440000Summon a Yeti.
 
-§3Only works in the Twilight Forest dim.01440000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-226.pngSpawn Alpha Yeti
+§3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-226.pngSpawn Alpha Yeti
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"

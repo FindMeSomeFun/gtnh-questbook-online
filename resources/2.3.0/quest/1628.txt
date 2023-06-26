@@ -1,8 +1,8 @@
-ProjRedTransportation/projectred.transportation.routingchip-2.pngItem Overflow ChipThis chip stores the items in a connected inventory. It designates a storage for items that have no other place to go. It is strongly recomended to have a default storage for items in every pipe system, otherwise bad stuff can happen. Best used with a large chest (diamond for example).
+1628ProjRedTransportation/projectred.transportation.routingchip-2.png0Item Overflow Chip25-1This chip stores the items in a connected inventory. It designates a storage for items that have no other place to go. It is strongly recomended to have a default storage for items in every pipe system, otherwise bad stuff can happen. Best used with a large chest (diamond for example).
 
 It seems to have some bugs though, so don't craft more than one without testing it first.
 
-You might have to just use a normal item responder and add the items you want routed back to your overflow spot.0-1ANDpre16260ProjRedCore/projectred.core.part-44.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
+You might have to just use a normal item responder and add the items you want routed back to your overflow spot.ANDpre16260ProjRedCore/projectred.core.part-44.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
 2IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
 1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire\nMax Voltage: 8 (ULV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
 8ProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip

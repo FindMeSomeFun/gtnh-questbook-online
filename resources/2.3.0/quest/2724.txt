@@ -1,4 +1,4 @@
-GalacticraftCore/item.oxygenTankUltraHeavyFull-0.pngUltra Large Oxygen TanksThe Ultra Heavy oxygen tank is an oxygen storage tank that can hold up to 16000 units of air.0-1ANDpre15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+2724GalacticraftCore/item.oxygenTankUltraHeavyFull-0.png0Ultra Large Oxygen Tanks24-1The Ultra Heavy oxygen tank is an oxygen storage tank that can hold up to 16000 units of air.ANDpre15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
 64gregtech/gt.metaitem.01-17868.pngTrinium Plate\nKe
 16dreamcraft/item.WaferTier3-0.pngWafer Tier 3
 8enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...

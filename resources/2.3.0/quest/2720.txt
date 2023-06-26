@@ -1,8 +1,8 @@
-BiomesOPlenty/scytheIron-0.png§2§lToo Many LeavesWant to clear out shrubbery but don't want to pull out leaves by hand? Need to find that last log hidden in the middle of a bunch of leaves?
+2720BiomesOPlenty/scytheIron-0.png0§2§lToo Many Leaves2-1Want to clear out shrubbery but don't want to pull out leaves by hand? Need to find that last log hidden in the middle of a bunch of leaves?
 
 Try an Iron Scythe! When used, it clears out a 5x5x5 area of leaves, crops, flowers, or grass. Excellent for tearing through Sacred Oak leaves or dense shrubbery in certain biomes. Later when you have a Cutting Machine you can upgrade to a Diamond Scythe with a 7x7x7 area of effect, or use Amethyst for 9x9x9 to FLEX.
 
-§3The lower tiers break leaves instantly, but don't seem to have the 3x3x3 range for some reason.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.blockores-32.pngIron Ore\nFe
+§3The lower tiers break leaves instantly, but don't seem to have the 3x3x3 range for some reason.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.blockores-32.pngIron Ore\nFe
 4BiomesOPlenty/scytheIron-0.pngIron Scythe
 1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"

@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-261.png§5§lElectric FurnaceIt's, like, faster than a normal one I guess? But uses power.
+1887gregtech/gt.blockmachines-261.png0§5§lElectric Furnace4-1It's, like, faster than a normal one I guess? But uses power.
 
-This quest was suggested by Shawnbyday. 0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This quest was suggested by Shawnbyday. ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-261.pngBasic Electric Furnace\nNot like using a Commodore 64\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

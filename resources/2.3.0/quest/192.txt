@@ -1,8 +1,8 @@
-gregtech/gt.reactorMOXSimple-0.pngTricky Nuclear Fuel: MOXUnder normal conditions, produces the same amount of power as uranium, but MOX produces more power the more you let the reactor heat up. Try to come up with a heat-neutral design as close to the limit as possible to take advantage of this. It lasts 1/2 the time, and produces more heat once the reactor is over 50%. A fuel for all the engineers out there.
+192gregtech/gt.reactorMOXSimple-0.png0Tricky Nuclear Fuel: MOX19-1Under normal conditions, produces the same amount of power as uranium, but MOX produces more power the more you let the reactor heat up. Try to come up with a heat-neutral design as close to the limit as possible to take advantage of this. It lasts 1/2 the time, and produces more heat once the reactor is over 50%. A fuel for all the engineers out there.
 
 §3You'll need to run a uranium reactor for a while to get some plutonium if you don't have another way to get it. Remember that there's more than 1 type!
 
-§4Make sure to test in creative and/or use protection against explosions!0-1ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§4Make sure to test in creative and/or use protection against explosions!ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.reactorMOXSimple-0.pngFuel Rod\n100 / 100\nDurability: 10,000/10,000
 1

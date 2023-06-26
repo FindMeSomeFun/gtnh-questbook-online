@@ -1,8 +1,8 @@
-gregtech/gt.Double_Thoriumcell-0.png§a§lDouble the FunNeed even more power? Why not combine rods? Produces more power (NOT double, it varies per rod type) and more heat (again NOT double) but only uses up one slot. You need more complex designs to handle them, but you were ready for that, right?
+1899gregtech/gt.Double_Thoriumcell-0.png0§a§lDouble the Fun19-1Need even more power? Why not combine rods? Produces more power (NOT double, it varies per rod type) and more heat (again NOT double) but only uses up one slot. You need more complex designs to handle them, but you were ready for that, right?
 
 So how about doubling your doubling to double your double (4x)? Quad rods put out even more power and heat, expect all the other rods to work similarly (for the most part).
 
-§3BTW it's more efficient to go 1->4 rather than 1->2->4 materials-wise.0-1ANDpre1930gregtech/gt.Thoriumcell-0.pngrewardsItemgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod\n100 / 100\nDurability: 50,000/50,000
+§3BTW it's more efficient to go 1->4 rather than 1->2->4 materials-wise.ANDpre1930gregtech/gt.Thoriumcell-0.pngrewardsItemgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod\n100 / 100\nDurability: 50,000/50,000
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.Double_Thoriumcell-0.pngDual Fuel Rod\n100 / 100\nDurability: 50,000/50,000
 1Retrievalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod\n100 / 100\nDurability: 50,000/50,000

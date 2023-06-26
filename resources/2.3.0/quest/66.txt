@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32700.png§3§lTime For Some LogicGood news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!1-1ANDpre671gregtech/gt.blockmachines-1360.png8711gregtech/gt.metaitem.01-32307.pngrewardsItemharvestcraft/turkeycookedItem-0.pngCooked Turkey\nharvestcraft:turkeycookedItem
+66gregtech/gt.metaitem.01-32700.png1§3§lTime For Some Logic3-1Good news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!ANDpre671gregtech/gt.blockmachines-1360.png8711gregtech/gt.metaitem.01-32307.pngrewardsItemharvestcraft/turkeycookedItem-0.pngCooked Turkey\nharvestcraft:turkeycookedItem
 2Choicegregtech/gt.metaitem.01-32700.pngVacuum Tube\nA very simple Circuit\nULV-Tier
 2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

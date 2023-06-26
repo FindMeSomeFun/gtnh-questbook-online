@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-2055.png§5§lCadmiumYou can get Cadmium from Sphalerite (centrifuge or thermal centrifuge). Later on you can use GT++ Ore processing chains to get Cadmium from Rare Earths. I don't care how you get it, just get some Cadmium.0-1ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/beetburgerItem-0.pngBeet Burger\nharvestcraft:beetburgerItem
+623gregtech/gt.metaitem.01-2055.png0§5§lCadmium4-1You can get Cadmium from Sphalerite (centrifuge or thermal centrifuge). Later on you can use GT++ Ore processing chains to get Cadmium from Rare Earths. I don't care how you get it, just get some Cadmium.ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/beetburgerItem-0.pngBeet Burger\nharvestcraft:beetburgerItem
 2harvestcraft/calamaricookedItem-0.pngCooked Calamari\nharvestcraft:calamaricookedItem
 2enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

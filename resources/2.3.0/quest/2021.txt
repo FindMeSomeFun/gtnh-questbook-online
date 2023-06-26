@@ -1,4 +1,4 @@
-EnderStorage/enderChest-4096.pngA Magical TankThis tank always seems to connect to the same dimensional space. I can push fluids into the tank in one dimension, and retrieve them in a totally different dimension!
+2021EnderStorage/enderChest-4096.png0A Magical Tank32-1This tank always seems to connect to the same dimensional space. I can push fluids into the tank in one dimension, and retrieve them in a totally different dimension!
 
 I have discovered a way to assign a location to each tank using dyes applied to the top. Using a diamond makes the tank private, attuned to the user's mind, and will not share fluids with any other player's tanks.
 
@@ -6,7 +6,7 @@ Shift-rightclicking recovers the diamond and makes the tank part of the public t
 
 The dial on front controls the input/output of the tank. When blue is up, the tank accepts fluids. When orange is up, the tank will eject fluids.
 
-§3If you get FPS problems from large numbers of them, try the setting in the config to turn off the fancy render at the bottom.0-1ANDpre2621Thaumcraft/WandCasting-54.pngrewardsItemminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+§3If you get FPS problems from large numbers of them, try the setting in the config to turn off the fancy render at the bottom.ANDpre2621Thaumcraft/WandCasting-54.pngrewardsItemminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
 4minecraft/dye-1.pngRose Red
 1minecraft/dye-11.pngDandelion Yellow
 1tasksANDRetrievalEnderStorage/enderChest-4096.pngEnder Tank

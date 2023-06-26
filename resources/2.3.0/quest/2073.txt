@@ -1,4 +1,4 @@
-witchery/ingredient-24.pngTime to Kill (Bat)...Did you expect a raid boss of some kind? If you count the number of bats you'll encounter and kill, then probably yes.0432000ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemharvestcraft/spamcompressedsaltBlockalt-0.pngCompressed Salt Block
+2073witchery/ingredient-24.png0Time to Kill (Bat)39432000...Did you expect a raid boss of some kind? If you count the number of bats you'll encounter and kill, then probably yes.ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemharvestcraft/spamcompressedsaltBlockalt-0.pngCompressed Salt Block
 8minecraft/fish-3.pngPufferfish\nminecraft:fish
 64dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDHuntmobs/Bat-.pngBat

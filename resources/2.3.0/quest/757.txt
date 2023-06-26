@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.01-2030.png§6§f§6§lRuby ElectrolyzingRuby is a good source for chrome and a little alumina. Once you get low on Ruby, you can centrifuge Redstone to get more.
+757gregtech/gt.metaitem.01-2030.png0§6§f§6§lRuby Electrolyzing5-1Ruby is a good source for chrome and a little alumina. Once you get low on Ruby, you can centrifuge Redstone to get more.
 
 Another good source of alumina and oxygen is red granite dusts. You can get those from red stonelillies. Check out the Fishing Farming Cooking tab for more details about IC2 crops.
 
-Don't be decieved by false ruby ...0-1ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Don't be decieved by false ruby ...ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metaitem.01-2502.pngRuby Dust\nCrAl\u2082O\u2083

@@ -1,4 +1,4 @@
-GalacticraftCore/item.oxygenTankSuperHeavyFull-0.pngSuper Large Oxygen TanksThe Super Heavy oxygen tank is an oxygen storage tank that can hold up to 8000 units of air.0-1ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+2723GalacticraftCore/item.oxygenTankSuperHeavyFull-0.png0Super Large Oxygen Tanks24-1The Super Heavy oxygen tank is an oxygen storage tank that can hold up to 8000 units of air.ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
 32GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
 16dreamcraft/item.WaferTier3-0.pngWafer Tier 3
 1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

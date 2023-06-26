@@ -1,6 +1,6 @@
-GalacticraftCore/tile.treasureChest-0.pngA RewardYou have really come a long way to get here! However, getting to the moon is just the start of your journey, as you'll have access to even more powerful and awesome stuff. You have proven yourself worthy, and mastered the challenges to get here. Congratulations!
+214GalacticraftCore/tile.treasureChest-0.png1A Reward24-1You have really come a long way to get here! However, getting to the moon is just the start of your journey, as you'll have access to even more powerful and awesome stuff. You have proven yourself worthy, and mastered the challenges to get here. Congratulations!
 
-Pick one of the reward quests below.1-1ANDpre14331GalacticraftCore/tile.moonBlock-14.pngrewardsItemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+Pick one of the reward quests below.ANDpre14331GalacticraftCore/tile.moonBlock-14.pngrewardsItemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5dreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDConsumeGalacticraftCore/tile.moonBlock-14.pngMoon Dungeon Brick

@@ -1,4 +1,4 @@
-EMT/EMTSolars-0.pngCompressed Solar LVThe power of the sun x10. This solar panel works like 10 regular ones, but costs only 9. How is this possible? Magic! NOTE: They give out GT EU. NO TRANSFORMER NEEDED!0-1ANDpre2371Thaumcraft/WandCasting-9.png9350IC2/blockGenerator-3.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+1332EMT/EMTSolars-0.png0Compressed Solar LV19-1The power of the sun x10. This solar panel works like 10 regular ones, but costs only 9. How is this possible? Magic! NOTE: They give out GT EU. NO TRANSFORMER NEEDED!ANDpre2371Thaumcraft/WandCasting-9.png9350IC2/blockGenerator-3.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDOptionalIC2/blockGenerator-3.pngSolar Panel\nPower Output: 1 EU/t max
 8dreamcraft/item.ReinforcedAluminiumIronPlate-0.pngReinforced Aluminium-Iron Plate

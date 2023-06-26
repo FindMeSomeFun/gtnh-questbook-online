@@ -1,8 +1,8 @@
-Thaumcraft/ItemGolemPlacer-6.png§4§3§lThe Iron GuyDo you feel lonely? Need some extra protection in your base? Want to keep the pigmen off your back in the Nether? Craft some Iron Golems and the monster problem inside your base will be gone.
+1107Thaumcraft/ItemGolemPlacer-6.png0§4§3§lThe Iron Guy3-1Do you feel lonely? Need some extra protection in your base? Want to keep the pigmen off your back in the Nether? Craft some Iron Golems and the monster problem inside your base will be gone.
 
 They can do good amounts of damage and aggro enemies like the pigmen away from you. They can even take care of that pesky Vampire Pigman.
 
-0-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/red_flower-0.pngPoppy
+ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/red_flower-0.pngPoppy
 1Choiceminecraft/iron_ingot-0.pngIron Ingot
 9enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"

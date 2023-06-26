@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-792.pngBender more bendingWhen you need plates by the thousands. You can switch between Bending Machine and Forming Press modes with a screwdriver.
+2038gregtech/gt.blockmachines-792.png0Bender more bending18-1When you need plates by the thousands. You can switch between Bending Machine and Forming Press modes with a screwdriver.
 
-§3This multi is IV.0-1ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.blockmachines-792.pngIndustrial Material Press\nMachine Type: Bending Machine, Forming Press\nController Block for Advanced Bending & Forming\n500% faster than using single block machines of the same voltage\nProcesses four items per voltage tier\nCircuit for recipe goes in the Input Bus\nEach Input Bus can have a different Circuit/Shape!\nCauses: 480 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
 1miscutils/miscutils.blockcasings-4.pngMaterial Press Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 1

@@ -1,4 +1,4 @@
-miscutils/MU-metaitem.01-32054-charged.pngEV GT++ BatteriesWant cheaper EV batteries? Mash your old ones together, and somehow it works!0-1ANDpre12620gregtech/gt.blockmachines-184.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dust\nLi\nBurn Time: 6000
+1265miscutils/MU-metaitem.01-32054-charged.png0EV GT++ Batteries20-1Want cheaper EV batteries? Mash your old ones together, and somehow it works!ANDpre12620gregtech/gt.blockmachines-184.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dust\nLi\nBurn Time: 6000
 16gregtech/gt.blockmachines-1426.png1x Gold Cable\nMax Voltage: 512 (HV)\nMax Amperage: 3\nLoss/Meter/Ampere: 2 EU-Volt
 16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

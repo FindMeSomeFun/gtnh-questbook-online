@@ -1,4 +1,4 @@
-JABBA/upgradeStructural-0.png§3§lBarrel UpgradesAre your cobblestone or dirt barrels filled to the brim? No problem, upgrade them!0-1ANDpre541gregtech/gt.blockmachines-115.png761gregtech/gt.blockmachines-140.pngrewardsChoiceminecraft/piston-0.pngPiston
+1124JABBA/upgradeStructural-0.png0§3§lBarrel Upgrades3-1Are your cobblestone or dirt barrels filled to the brim? No problem, upgrade them!ANDpre541gregtech/gt.blockmachines-115.png761gregtech/gt.blockmachines-140.pngrewardsChoiceminecraft/piston-0.pngPiston
 2JABBA/barrel-0.pngBetter Barrel
 5enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

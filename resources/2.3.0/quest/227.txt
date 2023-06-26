@@ -1,6 +1,6 @@
-Thaumcraft/blockTable-15.pngA Table to Work OnNow you need something on which to craft magical items. It probably needs to be a little magical itself. Let's see what the book says.
+227Thaumcraft/blockTable-15.png1A Table to Work On31-1Now you need something on which to craft magical items. It probably needs to be a little magical itself. Let's see what the book says.
 
-§3I should probably take this time to read all the stuff in the Thaumonomicon I don't know about while I'm at it, instead of posting on Discord and looking stupid.1-1ANDpre10961Thaumcraft/ItemInkwell-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+§3I should probably take this time to read all the stuff in the Thaumonomicon I don't know about while I'm at it, instead of posting on Discord and looking stupid.ANDpre10961Thaumcraft/ItemInkwell-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalThaumcraft/blockTable-0.pngTable\nBurn Time: 300
 1RetrievalThaumcraft/blockTable-15.pngArcane Worktable\nBurn Time: 300

@@ -1,4 +1,4 @@
-Forestry/engine-2.pngBio Gas EngineProducing RF Power with Lava is possible with the Biogas engine. You need Water, Seedoil, Milk, Sap Cresote or FR Biomass in the other slot. The engine outputs 50RF/t depends on the fluid you put in.
+1215Forestry/engine-2.png0Bio Gas Engine16-1Producing RF Power with Lava is possible with the Biogas engine. You need Water, Seedoil, Milk, Sap Cresote or FR Biomass in the other slot. The engine outputs 50RF/t depends on the fluid you put in.
 
 Fuel /Lava /  Usage Energy Ticks
 Water Constant 10 RF/t 1000
@@ -6,7 +6,7 @@ Fruit Juice Startup/Restart Only 10 RF/t 2500
 Liquid Honey Startup/Restart Only 20 RF/t 2500
 Milk Constant 10 RF/t 10000
 Seed Oil Startup/Restart Only 30 RF/t 2500
-Biomass Startup/Restart Only 50 RF/t 25000-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceForestry/canSeedOil-0.pngSeed Oil Can
+Biomass Startup/Restart Only 50 RF/t 2500ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceForestry/canSeedOil-0.pngSeed Oil Can
 16Railcraft/fluid.creosote.can-0.pngCreosote Can
 16Forestry/canLava-0.pngLava Can
 16Forestry/canBiomass-0.pngBiomass Can

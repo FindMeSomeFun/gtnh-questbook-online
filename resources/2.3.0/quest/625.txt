@@ -1,6 +1,6 @@
-JABBA/mover-0.png§3§lMoving Your Tanks, Chests, and BarrelsWant to move your chests and barrels without spilling all the things (buildcraft™)? No problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far. Non-portable buildcraft and iron tanks can be moved without losing fluids too.
+625JABBA/mover-0.png0§3§lMoving Your Tanks, Chests, and Barrels3-1Want to move your chests and barrels without spilling all the things (buildcraft™)? No problem! Make a dolly and you can carry your full chests, barrels or storage drawers anywhere you want. But be warned, you will get a slowness debuff so hopefully you don't have to travel very far. Non-portable buildcraft and iron tanks can be moved without losing fluids too.
 
-§4PS: Later on you can fly or make a traveller's belt to get around the debuff.0-1ANDpre651gregtech/gt.metaitem.01-11305.png691gregtech/gt.metaitem.01-11880.pngrewardsItemJABBA/barrel-0.pngBetter Barrel
+§4PS: Later on you can fly or make a traveller's belt to get around the debuff.ANDpre651gregtech/gt.metaitem.01-11305.png691gregtech/gt.metaitem.01-11880.pngrewardsItemJABBA/barrel-0.pngBetter Barrel
 5ChoiceJABBA/upgradeStructural-0.pngStructural MK I\nSlots Provided :1
 3JABBA/upgradeStructural-1.pngStructural MK II\nSlots Provided :3
 1StorageDrawersBop/fullDrawers1-5.pngMagic Drawer\nHolds 64 stacks per drawer\nBurn Time: 300

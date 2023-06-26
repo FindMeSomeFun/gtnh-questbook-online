@@ -1,4 +1,4 @@
-GalaxySpace/item.ModuleLander-0.pngMoon LanderThe Moon lander is required for a soft landing. You will need an additional frequency module for hearing things on planets, and a second seat for a Moon buggy you may build later.1-1ANDpre8151GalacticraftCore/item.engine-0.png8171GalacticraftCore/item.buggymat-1.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
+816GalaxySpace/item.ModuleLander-0.png1Moon Lander24-1The Moon lander is required for a soft landing. You will need an additional frequency module for hearing things on planets, and a second seat for a Moon buggy you may build later.ANDpre8151GalacticraftCore/item.engine-0.png8171GalacticraftCore/item.buggymat-1.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
 8GalacticraftCore/item.basicItem-7.pngCompressed Tin
 8GalacticraftCore/item.basicItem-11.pngCompressed Iron
 8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

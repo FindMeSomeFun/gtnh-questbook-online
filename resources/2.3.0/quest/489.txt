@@ -1,4 +1,4 @@
-SpiceOfLife/lunchbox-0.png§2§lA Better Lunch BagYour lunch bag is now abused and rather old so it's time to get something better. Let's craft a lunch box which can hold way more food.0-1ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft/delightedmealItem-0.pngDelighted Meal\nharvestcraft:delightedmealItem
+489SpiceOfLife/lunchbox-0.png0§2§lA Better Lunch Bag2-1Your lunch bag is now abused and rather old so it's time to get something better. Let's craft a lunch box which can hold way more food.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft/delightedmealItem-0.pngDelighted Meal\nharvestcraft:delightedmealItem
 5harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem
 5harvestcraft/bltItem-0.pngBLT\nharvestcraft:bltItem
 5Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"

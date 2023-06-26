@@ -1,4 +1,4 @@
-EnderIO/item.darkSteel_sword-0.png§6§lDark Steel ToolsThere are also tools made of dark steel. Each of them can receive upgrades. Hold shift to get the tooltip which will explain what you need in order to upgrade them.
+140EnderIO/item.darkSteel_sword-0.png0§6§lDark Steel Tools14-1There are also tools made of dark steel. Each of them can receive upgrades. Hold shift to get the tooltip which will explain what you need in order to upgrade them.
 
 These tools can also be enchanted like vanilla tools.
 
@@ -8,7 +8,7 @@ Dark shears can be empowered, and then will shear a large area, including leaves
 
 The axe, once empowered, can be recharged wirelessly while in farming station.
 
-The pick? Well, it can mine cobalt I guess if you haven't gotten a tool capable of that yet. You could keep it around to use for base decorations if your normal pick is too fast, I suppose.0-1ANDpre1380EnderIO/itemAlloy-6.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+The pick? Well, it can mine cobalt I guess if you haven't gotten a tool capable of that yet. You could keep it around to use for base decorations if your normal pick is too fast, I suppose.ANDpre1380EnderIO/itemAlloy-6.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1EnderIO/itemAlloy-6.pngDark Steel\n((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"

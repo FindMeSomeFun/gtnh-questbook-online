@@ -1,4 +1,4 @@
-GalacticraftMars/item.itemBasicAsteroids-0.pngTier 3 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 38 tier 3 heavy duty plates out of tier 2 plates and desh plates.1-1ANDpre14461GalacticraftMars/tile.mars-7.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+1453GalacticraftMars/item.itemBasicAsteroids-0.png1Tier 3 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 38 tier 3 heavy duty plates out of tier 2 plates and desh plates.ANDpre14461GalacticraftMars/tile.mars-7.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
 8gregtech/gt.metaitem.01-17884.pngDesh Plate\nDe
 32IC2/blockITNT-0.pngIndustrial TNT
 64enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

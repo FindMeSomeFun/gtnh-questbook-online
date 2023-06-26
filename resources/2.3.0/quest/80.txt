@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-1001.png§6§lCompress All the ThingsMartin's (DreamMasterXXL) favourite machine. Compress ALL the things! With explosives, of course. Boom today!
+80gregtech/gt.blockmachines-1001.png1§6§lCompress All the Things17-1Martin's (DreamMasterXXL) favourite machine. Compress ALL the things! With explosives, of course. Boom today!
 
-Note: You might want to put this far from your living quarters, the pollution can get high really fast.1-1ANDpre8381IC2/itemPartCircuitAdv-0.png11481gregtech/gt.blockmachines-12.pngrewardsChoiceExtraUtilities/cobblestone_compressed-3.pngQuadruple Compressed Cobblestone\n6,561 Cobblestone
+Note: You might want to put this far from your living quarters, the pollution can get high really fast.ANDpre8381IC2/itemPartCircuitAdv-0.png11481gregtech/gt.blockmachines-12.pngrewardsChoiceExtraUtilities/cobblestone_compressed-3.pngQuadruple Compressed Cobblestone\n6,561 Cobblestone
 1ExtraUtilities/cobblestone_compressed-11.pngQuadruple Compressed Dirt\n6,561 Dirt
 1IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond\nBurn Time: 102400
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

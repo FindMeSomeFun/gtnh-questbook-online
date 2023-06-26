@@ -1,2 +1,2 @@
-minecraft/lever-0.pngTrigger Unknown CrystalTriggered by finding a "Mysterious Crystal".0-1ANDpre3770GalaxySpace/enceladusblocks-2.pngrewardstasksANDRetrievalGalaxySpace/item.UnknowCrystal-0.pngUnknown Crystal Shard
+455minecraft/lever-0.png0Trigger Unknown CrystalqLine-1Triggered by finding a "Mysterious Crystal".ANDpre3770GalaxySpace/enceladusblocks-2.pngrewardstasksANDRetrievalGalaxySpace/item.UnknowCrystal-0.pngUnknown Crystal Shard
 1

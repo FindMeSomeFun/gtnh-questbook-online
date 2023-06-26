@@ -1,4 +1,4 @@
-dreamcraft/item.NanoScubaHelmet-0.pngDon't Try to Dive With ItCombining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.0-1ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicedreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
+799dreamcraft/item.NanoScubaHelmet-0.png0Don't Try to Dive With It14-1Combining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicedreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
 2gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
 16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

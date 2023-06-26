@@ -1,8 +1,8 @@
-HardcoreEnderExpansion/ghost_amulet-1.pngGhost AmuletThe Ghost Amulet (Impure) is an item that can only be obtained by throwing one Emerald, one String and one End Powder into Ender Goo.
+2361HardcoreEnderExpansion/ghost_amulet-1.png0Ghost Amulet30-1The Ghost Amulet (Impure) is an item that can only be obtained by throwing one Emerald, one String and one End Powder into Ender Goo.
 
 Once you have that, you need to do a TC infusion, or maybe the Ender Compendium has a more traditional way to infuse it.
 
-As long as it stays anywhere in the inventory, it protects players from Forest Ghosts, and thus provides a way of acquiring Ectoplasm.0-1ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemenhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+As long as it stays anywhere in the inventory, it protects players from Forest Ghosts, and thus provides a way of acquiring Ectoplasm.ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemenhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"

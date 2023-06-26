@@ -1,6 +1,6 @@
-EnderIO/blockKillerJoe-0.png§9§lAutomated Mob FarmingOf course... zombies love that... disgusting liquid (nutrient distillation). While using a small amount per hit, he will attack everything that is within his range with a weapon you give him. That also includes players, so be careful. Rumors are there might be a weapon that will never break when used in this "machine"...
+151EnderIO/blockKillerJoe-0.png0§9§lAutomated Mob Farming6-1Of course... zombies love that... disgusting liquid (nutrient distillation). While using a small amount per hit, he will attack everything that is within his range with a weapon you give him. That also includes players, so be careful. Rumors are there might be a weapon that will never break when used in this "machine"...
 
-§3BTW you need to be at > 75% to run it.0-1ANDpre1480EnderIO/bucketNutrient_distillation-0.png1650EnderIO/blockSoulBinder-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3BTW you need to be at > 75% to run it.ANDpre1480EnderIO/bucketNutrient_distillation-0.png1650EnderIO/blockSoulBinder-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
 2Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

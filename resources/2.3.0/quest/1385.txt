@@ -1,4 +1,4 @@
-ThaumicTinkerer/focusDislocation-0.pngWand Focus DislocationWand Focus: Dislocation allows the user to take and place any blocks, even Tile Entities and things usually unobtainable, like Aura Nodes, Energized Nodes, Spawners, planted IC2 Crops, and others.
+1385ThaumicTinkerer/focusDislocation-0.png0Wand Focus Dislocation34-1Wand Focus: Dislocation allows the user to take and place any blocks, even Tile Entities and things usually unobtainable, like Aura Nodes, Energized Nodes, Spawners, planted IC2 Crops, and others.
 
 §4Please use responsibly, and don't move things you shouldn't, like door halves, or some multiblock parts, unless you like the idea of world corruption destroying your world. That said, if you've backed up and play SP, do whatever, so long as you don't complain to us about it.§r §4§r
 
@@ -9,7 +9,7 @@ It uses:
 25 Ordo + 25 Perditio + 5 Terra to take any block with tile entities (such as Chest). 
 100 Ordo + 100 Perditio + 20 Terra to take Mob Spawner.
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13750Thaumcraft/FocusTrade-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13750Thaumcraft/FocusTrade-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumicTinkerer/focusDislocation-0.pngWand Focus: Dislocation\nVis per cast\n Ordo x 5\n Perditio x 5\n Terra x 1

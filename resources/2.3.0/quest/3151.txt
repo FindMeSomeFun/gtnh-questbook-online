@@ -1,4 +1,4 @@
-gregtech/gt.Thoriumcell-0.pngThorium as Early PowerThe very first step into nuclear power is done with Thorium in an Industrialcraft2 nuke. This multiblock already has a good amount of information in the questbook, split between the EV and How to Generate Power pages, so you should look at those if you want even more information that might not be written here. For the sake of not repeating everything, this will be more of a summary.
+3151gregtech/gt.Thoriumcell-0.png0Thorium as Early Power23-1The very first step into nuclear power is done with Thorium in an Industrialcraft2 nuke. This multiblock already has a good amount of information in the questbook, split between the EV and How to Generate Power pages, so you should look at those if you want even more information that might not be written here. For the sake of not repeating everything, this will be more of a summary.
 
 Thorium nukes are better for creating other elements, specifically Lutetium, than for power. The best setup needs the maximum amount of chambers, 6, and a lot of components inside the reactor to burn 10 quad Thorium rods and generate 1920 EU/t, close to one EV amp. If you made 4 of these, you would get close to an IV amp, but this becomes very costly between the total 36 chambers and the recursive crafting of the components inside. The good news is that Thorium is a very cheap fuel, easily mined in the Nether, and recyclable in large amounts from depleted fuel rods.
 
@@ -17,7 +17,7 @@ O -> Overclocked Heat Vent (26 needed)
 R -> Quad Fuel Rod of Thorium (10 needed)
 P -> Reactor Plating (6 needed)
 
-You can make this setup, if you wish, but the only required task to continue to the next quest are 10 single Thorium rods. 0-1ANDpre31450IC2/blockGenerator-5.pngrewardstasksANDOptionalIC2/blockGenerator-5.pngNuclear Reactor\nPower Output: 1-8196 EU/t max
+You can make this setup, if you wish, but the only required task to continue to the next quest are 10 single Thorium rods. ANDpre31450IC2/blockGenerator-5.pngrewardstasksANDOptionalIC2/blockGenerator-5.pngNuclear Reactor\nPower Output: 1-8196 EU/t max
 1IC2/blockReactorChamber-0.pngReactor Chamber
 6gregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod\n100 / 100\nDurability: 50,000/50,000
 10Retrievalgregtech/gt.Thoriumcell-0.pngFuel Rod\n100 / 100\nDurability: 50,000/50,000

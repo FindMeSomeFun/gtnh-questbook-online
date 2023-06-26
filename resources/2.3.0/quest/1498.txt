@@ -1,4 +1,4 @@
-minecraft/coal_ore-0.png(DEPRECATED)§2§l A Dimension by Any Other Name...Use this table to decode dimension names
+1498minecraft/coal_ore-0.png0(DEPRECATED)§2§l A Dimension by Any Other Name...qLine-1Use this table to decode dimension names
 
 OW - Overworld
 Ne - Nether
@@ -35,6 +35,6 @@ TE - Tau Ceti E
 Ti - Titan
 Tr - Triton
 VB - Vega B
-Ve - Venus0-1ANDpre32470minecraft/nether_star-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+Ve - VenusANDpre32470minecraft/nether_star-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5tasksANDCheckboxcheckbox-.pngCheckbox
 

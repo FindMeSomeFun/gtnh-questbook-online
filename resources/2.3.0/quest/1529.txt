@@ -1,4 +1,4 @@
-Railcraft/machine.alpha-0.png§9§lChunkloadingWith your HV assembler you can craft a world anchor. So let's make one. It will again load a 3x3 chunk area.
+1529Railcraft/machine.alpha-0.png0§9§lChunkloading6-1With your HV assembler you can craft a world anchor. So let's make one. It will again load a 3x3 chunk area.
 
 You need coins to power the world anchor, it will run a varying amount depending on the coin used. 
 
@@ -8,7 +8,7 @@ You need coins to power the world anchor, it will run a varying amount depending
 
 §4World Anchors§r are always loaded, even after a server reset.
 
-§3Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS high0-1ANDpre7701gregtech/gt.blockmachines-213.pngrewardsItemdreamcraft/item.CoinChunkloaderTierII-0.pngChunkloader Coin Tier II\n24H Chunkloader Coin, 48H in Passive Chunkloader, 96H in Personal Chunkloader
+§3Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS highANDpre7701gregtech/gt.blockmachines-213.pngrewardsItemdreamcraft/item.CoinChunkloaderTierII-0.pngChunkloader Coin Tier II\n24H Chunkloader Coin, 48H in Passive Chunkloader, 96H in Personal Chunkloader
 4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalRailcraft/machine.alpha-0.pngWorld Anchor\n0.00 hours\nMobs cannot Spawn on this Block

@@ -1,8 +1,8 @@
-bartworks/gt.bwMetaGeneratedItem0-3.png§c§lRNG is Definitely Good Game DesignOnce you've collected all the materials, you'll need to make Magneto Resonatic Dust and Circuit Compound Mk3 in a Mixer.
+2606bartworks/gt.bwMetaGeneratedItem0-3.png1§c§lRNG is Definitely Good Game Design9-1Once you've collected all the materials, you'll need to make Magneto Resonatic Dust and Circuit Compound Mk3 in a Mixer.
 
 Combine these in the Forming Press to make Raw Imprint Supporting Boards.
 
-You then craft those into Imprint Supporting Boards in an Autoclave in a Cleanroom with Soldering Alloy. Unfortunately, there's only a 75% chance of succeeding, so I had you collect extra materials. You can use the leftovers for your next imprint.1-1ANDpre26031gregtech/gt.metaitem.01-2059.png26041bartworks/gt.bwMetaGenerateddust-4.png26051bartworks/gt.bwMetaGeneratedgemExquisite-35.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2355.pngMagnetic Steel Dust\nFe\u2085\u2080C
+You then craft those into Imprint Supporting Boards in an Autoclave in a Cleanroom with Soldering Alloy. Unfortunately, there's only a 75% chance of succeeding, so I had you collect extra materials. You can use the leftovers for your next imprint.ANDpre26031gregtech/gt.metaitem.01-2059.png26041bartworks/gt.bwMetaGenerateddust-4.png26051bartworks/gt.bwMetaGeneratedgemExquisite-35.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2355.pngMagnetic Steel Dust\nFe\u2085\u2080C
 2bartworks/gt.bwMetaGenerateddust-4.pngCubic Zirconia Dust\nZrO\u2082\nAdded by BartWorks\nCheck Flawed Crystal recipe in EBF
 2bartworks/gt.bwMetaGenerateddust-35.pngPrasiolite Dust\nSi\u2085O\u2081\u2080Fe\nAdded by BartWorks
 6bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust\nBi\u2082Te\u2083\nAdded by BartWorks

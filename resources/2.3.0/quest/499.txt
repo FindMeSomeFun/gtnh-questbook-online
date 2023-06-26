@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1120.pngDiesel, creosote: Watch them BURN!You have almost made it. One last crafting step is required in order to advance to tier 2. Keep going!1-1ANDpre721gregtech/gt.metaitem.02-21032.pngrewardsItemharvestcraft/cranberrybarItem-0.pngCranberry Bar\nharvestcraft:cranberrybarItem
+499gregtech/gt.blockmachines-1120.png1Diesel, creosote: Watch them BURN!qLine-1You have almost made it. One last crafting step is required in order to advance to tier 2. Keep going!ANDpre721gregtech/gt.metaitem.02-21032.pngrewardsItemharvestcraft/cranberrybarItem-0.pngCranberry Bar\nharvestcraft:cranberrybarItem
 10enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 50tasksANDCraftinggregtech/gt.blockmachines-1110.pngBasic Combustion Generator\nRequires liquid Fuel\nCauses 40 Pollution per second\nFuel Efficiency: 95%\nVoltage OUT: 32 (LV)\nCapacity: 3,072 EU

@@ -1,4 +1,4 @@
-witchery/brewbottle-0-splash.pngThe Easy Way to Change BiomesSo you want the easy way? Ok, go get this stuff:
+2418witchery/brewbottle-0-splash.png0The Easy Way to Change Biomes36-1So you want the easy way? Ok, go get this stuff:
 Mandrake Root, Nether Wart, Tear of the Goddess, Diamond Vapor, and a Diamond.
 
 Then toss it in the Witch's Cauldron IN ORDER, before also tossing in a page from the Book of Biomes (Extended) (craft it with a piece of paper while on the page of the biome you want), followed by a bit of Gunpowder.
@@ -8,7 +8,7 @@ If it failed, you may not have enough Altar Power, you need 5450 at least. Try p
 
 If you want to have more than a single changed block, then add Glowstone Dust, Blaze Rod and Attuned Stone (Charged) in order to increase the effect (and Altar Power cost slightly) by +1 for each. Do this before adding in the page.
 
-For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. This should tell you what you need to know. For what each of the brews actually does, see the Effects page. Only Effects use Capacity, and you can have multiple.0-1ANDpre24170witchery/biomenote-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Root
+For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. This should tell you what you need to know. For what each of the brews actually does, see the Effects page. Only Effects use Capacity, and you can have multiple.ANDpre24170witchery/biomenote-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Root
 8minecraft/nether_wart-0.pngNether Wart
 8witchery/ingredient-37.pngTear of the Goddess
 8witchery/ingredient-29.pngDiamond Vapor

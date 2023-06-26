@@ -1,4 +1,4 @@
-witchery/ingredient-14.pngMutate Your SaplingsMutandis is a mutagen that is used by witches and warlocks to mutate plants into other species. Simply use Mutandis on small plants, grass, flowers, saplings, etc. and it will be randomly converted to another plant. Mutandis cannot mutate multi-stage plants like wheat and cactus.
+1555witchery/ingredient-14.png0Mutate Your Saplings36-1Mutandis is a mutagen that is used by witches and warlocks to mutate plants into other species. Simply use Mutandis on small plants, grass, flowers, saplings, etc. and it will be randomly converted to another plant. Mutandis cannot mutate multi-stage plants like wheat and cactus.
 
 Mutating plants is the only way to acquire Rowan, Hawthorn and Alder saplings.
 
@@ -8,7 +8,7 @@ Some recipes require Mutandis as an ingredient.
 
 Mutandis can be upgraded to Mutandis Extremis to have an effect on a wider variety of plants.
 
-Mutandis is made in a Witches' Cauldron using Mandrake Root, Exhale of the Horned One and an Egg.0-1ANDpre3340witchery/cauldron-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
+Mutandis is made in a Witches' Cauldron using Mandrake Root, Exhale of the Horned One and an Egg.ANDpre3340witchery/cauldron-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
 16witchery/ingredient-27.pngClay Jar
 16Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"

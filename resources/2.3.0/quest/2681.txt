@@ -1,8 +1,8 @@
-GalaxySpace/tcetiedandelions-0.pngIndustrial Scale Seaweed ProductionSo you probably noticed that the amount of seaweed you'll need to make Bio circuits is kind of...intense. Collecting them yourself is a huge pain, and who wants to program robots? Plus servers. Fortunately, there's now a way to make seaweed.
+2681GalaxySpace/tcetiedandelions-0.png0Industrial Scale Seaweed Production12-1So you probably noticed that the amount of seaweed you'll need to make Bio circuits is kind of...intense. Collecting them yourself is a huge pain, and who wants to program robots? Plus servers. Fortunately, there's now a way to make seaweed.
 
 The first thing you need is...Seaweed! Use that with Unknown Water you pumped from the same planet to make the culture. Expect this to take a while, as the chances are super low. You'll also need the max tier Bio Lab.
 
-Once you have the culture you can make SeaweedBroth, by combining it with UnknownNutrientAgar and some other stuff. This can then be made into seaweed.0-1ANDpre26571dreamcraft/item.TCetiESeaweedExtract-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-12704.pngUV Bio Lab\nThe BioLab, a Multi-Use Bioengineering Station\nAdded by bartimaeusnek via BartWorks\nVoltage IN: 524,288 (UV)\nCapacity: 33,554,432 EU
+Once you have the culture you can make SeaweedBroth, by combining it with UnknownNutrientAgar and some other stuff. This can then be made into seaweed.ANDpre26571dreamcraft/item.TCetiESeaweedExtract-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-12704.pngUV Bio Lab\nThe BioLab, a Multi-Use Bioengineering Station\nAdded by bartimaeusnek via BartWorks\nVoltage IN: 524,288 (UV)\nCapacity: 33,554,432 EU
 1Optionalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: TCetiEis Fucus Serratus (TCetiEis Fucus Serratus)\nAdded by BartWorks
 1gregtech/gt.metaitem.98-7.pngUnknown Nutrient Agar Cell
 1Optionalgregtech/gt.metaitem.98-8.pngSeaweed Broth Cell

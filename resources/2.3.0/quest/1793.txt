@@ -1,7 +1,7 @@
-Ztones/cleanDirt-0.pngBetter(?) DirtWith an Assembler and some seedoil, you can turn dirt and sand into Garden Soil.  This optimal soil does not require water nearby and crops do not break when you fall on it.  It can turn into dirt if you run on it, so be careful. You might want to investigate the Slow Building Ring in Building Better Bases.
+1793Ztones/cleanDirt-0.png0Better(?) Dirt13-1With an Assembler and some seedoil, you can turn dirt and sand into Garden Soil.  This optimal soil does not require water nearby and crops do not break when you fall on it.  It can turn into dirt if you run on it, so be careful. You might want to investigate the Slow Building Ring in Building Better Bases.
 
 Unlike watered farmland, it doesn't contribute to the humidity stat or speed up IC2 crops though, so don't bother when min-maxing.
 
-Same thing for enchanted earth, lamp of growth, sprinklers, etc.0-1ANDpre7190IC2/itemCropSeed-0.pngrewardsItemZtones/cleanDirt-0.pngGarden Soil
+Same thing for enchanted earth, lamp of growth, sprinklers, etc.ANDpre7190IC2/itemCropSeed-0.pngrewardsItemZtones/cleanDirt-0.pngGarden Soil
 48tasksANDRetrievalZtones/cleanDirt-0.pngGarden Soil
 16

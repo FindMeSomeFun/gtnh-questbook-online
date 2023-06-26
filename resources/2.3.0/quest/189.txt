@@ -1,8 +1,8 @@
-IC2/itemArmorHazmatHelmet-0.png§a§lHEV Mark III Protective SystemSome items will give you a Radiation debuff without protection. How long it lasts depends on the item. Some items will give you an enormous or unlimited time debuff timer, which effectively kills you because there's no way to get rid of it.
+189IC2/itemArmorHazmatHelmet-0.png0§a§lHEV Mark III Protective System7-1Some items will give you a Radiation debuff without protection. How long it lasts depends on the item. Some items will give you an enormous or unlimited time debuff timer, which effectively kills you because there's no way to get rid of it.
 
 Other items will give you a general sickness with many debuffs, but not Radiation. That can be removed the normal ways, Milk, Terrawart, Aqua bees, etc.
 
-If you wear a Hazmat suit (and rubber boots!) you are not affected by radioactive effects at all. Same for some other armors that list hazmat protection.0-1ANDpre1900IC2/blockGenerator-5.pngrewardsItemIC2/itemArmorRubBoots-0.pngRubber Boots\nProvides full hazmat protection.\nProtection: 3\nDurability: 64/64
+If you wear a Hazmat suit (and rubber boots!) you are not affected by radioactive effects at all. Same for some other armors that list hazmat protection.ANDpre1900IC2/blockGenerator-5.pngrewardsItemIC2/itemArmorRubBoots-0.pngRubber Boots\nProvides full hazmat protection.\nProtection: 3\nDurability: 64/64
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalIC2/itemArmorHazmatHelmet-0.pngScuba Helmet\nProvides full hazmat protection.\nProtection: 3\nDurability: 64/64
 1IC2/itemArmorHazmatChestplate-0.pngHazmat Suit\nProvides full hazmat protection.\nProtection: 8\nDurability: 64/64

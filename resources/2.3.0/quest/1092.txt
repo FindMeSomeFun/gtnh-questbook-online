@@ -1,4 +1,4 @@
-harvestthenether/glowFlower-0.png§3§lNew Source of GlowstoneFind some glowflowers in the Nether and plant them in the Overworld. You will never need to go to the Nether and harvest glowstone again.0-1ANDpre4791minecraft/portal-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1092harvestthenether/glowFlower-0.png0§3§lNew Source of Glowstone3-1Find some glowflowers in the Nether and plant them in the Overworld. You will never need to go to the Nether and harvest glowstone again.ANDpre4791minecraft/portal-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1minecraft/dye-15.pngBone Meal
 32Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalharvestthenether/glowFlower-0.pngGlow Flower

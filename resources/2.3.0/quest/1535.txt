@@ -1,8 +1,8 @@
-GalaxySpace/item.Tier4Rocket-0.pngRocket Tier 4After weeks of hard work and a thousand stacks of iTNT your fourth rocket is finally ready.
+1535GalaxySpace/item.Tier4Rocket-0.png1Rocket Tier 424-1After weeks of hard work and a thousand stacks of iTNT your fourth rocket is finally ready.
 
 You need to use Dense Hydrazine Rocket Fuel.
 
-§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.1-1ANDpre15311GalaxySpace/item.RocketControlComputer-4.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.ANDpre15311GalaxySpace/item.RocketControlComputer-4.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
 128GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
 4enhancedlootbags/lootbag-24.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 2enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...

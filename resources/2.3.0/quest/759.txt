@@ -1,9 +1,9 @@
-gregtech/gt.metaitem.99-874.png§6§lMolten PolyethylenePolyethylene is made out of ethylene and oxygen in a chemical reactor. Molten Polyethylene cells hold 144L, perfect for 1 ingot or plate. 
+759gregtech/gt.metaitem.99-874.png1§6§lMolten Polyethylene5-1Polyethylene is made out of ethylene and oxygen in a chemical reactor. Molten Polyethylene cells hold 144L, perfect for 1 ingot or plate. 
 If you want precise amounts, you can use a Volumetric Flask once you electrolyze some Boron from Borax.
 
 You §omay§r have started getting damaged from holding the cells. If you have, put your glove baubles back on. All Molten cells cause damage and store 144L. Mostly, Molten cells come from metal-type materials, or stuff that was melted. Excuse me, §oFluid Extracted§r, whatever that's supposed to mean.
 
-Notice some leftovers? Try using the plunger, or if you have the materials, you can use 12 ethylene cells and 84 oxygen cells to make exactly 125 cells of polyethylene.1-1ANDpre8461gregtech/gt.metaitem.01-30013.png8471gregtech/gt.metaitem.01-30677.pngrewardsChoicegregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+Notice some leftovers? Try using the plunger, or if you have the materials, you can use 12 ethylene cells and 84 oxygen cells to make exactly 125 cells of polyethylene.ANDpre8461gregtech/gt.metaitem.01-30013.png8471gregtech/gt.metaitem.01-30677.pngrewardsChoicegregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
 8IC2/itemCellEmpty-0.pngEmpty Cell
 32gregtech/gt.metaitem.01-30677.pngEthylene Cell\nC\u2082H\u2084
 4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

@@ -1,4 +1,4 @@
-Thaumcraft/WandRod-50.pngMagic Staff CoreA staff requires an extra step for crafting: Two (matching) wand cores must be combined with a primal charm, and crystal clusters to produce a staff core. (While the recipes are all similar, each type of staff core requires a separate research topic to be learned.) 0-1ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemThaumcraft/WandRod-0.pngGreatwood Rod
+878Thaumcraft/WandRod-50.png0Magic Staff Core32-1A staff requires an extra step for crafting: Two (matching) wand cores must be combined with a primal charm, and crystal clusters to produce a staff core. (While the recipes are all similar, each type of staff core requires a separate research topic to be learned.) ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemThaumcraft/WandRod-0.pngGreatwood Rod
 2Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalThaumcraft/ItemResource-15.pngPrimal Charm\nYou think you hear whispering

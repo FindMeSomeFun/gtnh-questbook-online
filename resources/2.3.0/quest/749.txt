@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.01-2306.png§6§lAre You Prepared For HV?Stainless steel will be the tier material for HV. Use a MV mixer to produce the dust.
+749gregtech/gt.metaitem.01-2306.png1§6§lAre You Prepared For HV?5-1Stainless steel will be the tier material for HV. Use a MV mixer to produce the dust.
 
 Manganese can be acquired as ore byproducts from spessartine, pyrolusite and tantalite ore. You can also pull them apart to get even more. Alternatively you can take apart Red Garnet dusts. If you get desperate, you can buy some ore from the Coins tab.
 
-Chrome can be centrifuged out of ruby dust. You can get ruby dust from redstone if the ruby in redstone veins isn't enough.1-1ANDpre7511gregtech/gt.blockmachines-582.pngrewardsItemgregtech/gt.metaitem.02-32224.pngChumburger\ngregtech:gt.metaitem.02\nFum is Chum!
+Chrome can be centrifuged out of ruby dust. You can get ruby dust from redstone if the ruby in redstone veins isn't enough.ANDpre7511gregtech/gt.blockmachines-582.pngrewardsItemgregtech/gt.metaitem.02-32224.pngChumburger\ngregtech:gt.metaitem.02\nFum is Chum!
 2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

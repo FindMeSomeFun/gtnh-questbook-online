@@ -1,6 +1,6 @@
-EnderIO/itemSoulVessel-0.png§6§lA Soul VesselThe Soul Vial is used later in HV Ender IO machines. For now though you may find it convenient to deal with....troublesome mobs. The Soul Vial is reuseable. Just right-click any living entity to steal its soul. Right click again to release it in the environment.
+168EnderIO/itemSoulVessel-0.png0§6§lA Soul Vessel5-1The Soul Vial is used later in HV Ender IO machines. For now though you may find it convenient to deal with....troublesome mobs. The Soul Vial is reuseable. Just right-click any living entity to steal its soul. Right click again to release it in the environment.
 
-The possibilities swirl in your head...0-1ANDpre1660gregtech/gt.metaitem.01-11379.pngrewardsChoiceEnderIO/itemSoulVessel-0-full.pngSoul Vial\nTainted Creeper\nHealth: 26.0/26.0
+The possibilities swirl in your head...ANDpre1660gregtech/gt.metaitem.01-11379.pngrewardsChoiceEnderIO/itemSoulVessel-0-full.pngSoul Vial\nTainted Creeper\nHealth: 26.0/26.0
 1EnderIO/itemSoulVessel-0-full.pngSoul Vial\nTainted Chicken\nHealth: 6.0/6.0
 1EnderIO/itemSoulVessel-0-full.pngSoul Vial\nTainted Cow\nHealth: 36.0/36.0
 1EnderIO/itemSoulVessel-0-full.pngSoul Vial\nTainted Villager\nHealth: 26.0/26.0

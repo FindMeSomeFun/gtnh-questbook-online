@@ -1,6 +1,6 @@
-bartworks/gt.bwMetaGeneratedcell-10007.pngNuclear Based Fuel (Th)Cheapest one, with 2,200EU/t output lasting 25s per mB.
+2956bartworks/gt.bwMetaGeneratedcell-10007.png0Nuclear Based Fuel (Th)19-1Cheapest one, with 2,200EU/t output lasting 25s per mB.
 
-It is also the source of praseodymium, which will be used for naquadah fuel.0-1ANDpre29480gregtech/gt.blockmachines-12732.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10007.pngThorium Based Liquid Fuel\n*(Th\u2084\u2083\u2082Li\u2084D\u2082Hg)*\nAdded by Good Generator via BartWorks
+It is also the source of praseodymium, which will be used for naquadah fuel.ANDpre29480gregtech/gt.blockmachines-12732.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10007.pngThorium Based Liquid Fuel\n*(Th\u2084\u2083\u2082Li\u2084D\u2082Hg)*\nAdded by Good Generator via BartWorks
 2bartworks/gt.bwMetaGeneratedcell-10006.pngThorium Based Liquid Fuel Cell\nTh\u2084\u2083\u2082Li\u2084D\u2082Hg\nAdded by Good Generator via BartWorks
 4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10007.pngThorium Based Liquid Fuel\n*(Th\u2084\u2083\u2082Li\u2084D\u2082Hg)*\nAdded by Good Generator via BartWorks
 1

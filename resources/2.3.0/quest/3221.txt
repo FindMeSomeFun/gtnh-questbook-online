@@ -1,8 +1,8 @@
-Botania/altar-0.pngFlower graftingThe first item you want to make is the Petal Apothecary. A mushroom is needed to anoint it and give it its restorative properties.
+3221Botania/altar-0.png1Flower grafting35-1The first item you want to make is the Petal Apothecary. A mushroom is needed to anoint it and give it its restorative properties.
 
 To operate it, fill it with a bucket of water to keep the plants hydrated. After that you can add the ingredients by dropping them on top.
 
-Each craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.1-1ANDpre32201Botania/grassSeeds-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
+Each craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.ANDpre32201Botania/grassSeeds-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
 2gregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
 2minecraft/cauldron-0.pngCauldron

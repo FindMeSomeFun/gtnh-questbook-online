@@ -1,4 +1,4 @@
-OpenBlocks/fan-0.png§6§lAll We Are is Dust in the WindLooking for an alternative to flowing water for your mobfarm? Use a fan to blow mobs or items where you want. Apply a redstone signal to activate.0-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1850OpenBlocks/fan-0.png0§6§lAll We Are is Dust in the Wind5-1Looking for an alternative to flowing water for your mobfarm? Use a fan to blow mobs or items where you want. Apply a redstone signal to activate.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3enhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDRetrievalOpenBlocks/fan-0.pngFan
 1

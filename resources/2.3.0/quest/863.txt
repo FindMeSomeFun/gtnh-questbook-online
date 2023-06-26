@@ -1,4 +1,4 @@
-TConstruct/Javelin-0-35.png§2§lBronze JavelinThe bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.0-1ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich\ngregtech:gt.metaitem.02\nJust not worth it
+863TConstruct/Javelin-0-35.png0§2§lBronze Javelin14-1The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich\ngregtech:gt.metaitem.02\nJust not worth it
 1TConstruct/materials-14.pngAluminum Brass Ingot
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

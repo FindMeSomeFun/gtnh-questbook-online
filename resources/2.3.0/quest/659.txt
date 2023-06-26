@@ -1,6 +1,6 @@
-battlegear2/spear.diamond-0.png§6§lDiamond SpearAt MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.
+659battlegear2/spear.diamond-0.png0§6§lDiamond Spear14-1At MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.
 
-This spear has superior durability.0-1ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-56.pngSpawn Ghast
+This spear has superior durability.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-56.pngSpawn Ghast
 1minecraft/spawn_egg-61.pngSpawn Blaze
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

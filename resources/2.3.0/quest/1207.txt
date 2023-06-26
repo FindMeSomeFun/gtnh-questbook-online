@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30741.pngHeavy FuelWant some heavy fuel? Buy some!024000ANDpre5520gregtech/gt.metaitem.01-30741.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+1207gregtech/gt.metaitem.01-30741.png0Heavy Fuel4024000Want some heavy fuel? Buy some!ANDpre5520gregtech/gt.metaitem.01-30741.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
 16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5

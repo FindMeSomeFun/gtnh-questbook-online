@@ -1,7 +1,7 @@
-TConstruct/slime.gel-2.png§3§lSlime Island JourneyRubber trees are not the only source for raw rubber. Go and find a slime island high in the sky. Slime balls and slime leaves give raw rubber too.
+875TConstruct/slime.gel-2.png0§3§lSlime Island Journey3-1Rubber trees are not the only source for raw rubber. Go and find a slime island high in the sky. Slime balls and slime leaves give raw rubber too.
 Make some slime tree farms beside your rubber farm.
 
-§3Liquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag.0-1ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemminecraft/iron_sword-0.pngIron Sword\n+6 Attack Damage\nDurability: 256/256
+§3Liquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemminecraft/iron_sword-0.pngIron Sword\n+6 Attack Damage\nDurability: 256/256
 1Choiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1minecraft/ladder-0.pngLadder\nBurn Time: 100
 64Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"

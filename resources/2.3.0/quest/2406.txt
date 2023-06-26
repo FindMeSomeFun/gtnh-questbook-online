@@ -1,4 +1,4 @@
-Automagy/enchantedPaper-2.png§1§lNumbers in the Corner?What's with the numbers in the corner? Well that's In-Game Info, a handy mod that gives you necessary information for GregTech: New Horizons.
+2406Automagy/enchantedPaper-2.png0§1§lNumbers in the Corner?1-1What's with the numbers in the corner? Well that's In-Game Info, a handy mod that gives you necessary information for GregTech: New Horizons.
 
 The most important info is whether or not you are in an ore chunk. Later quests will explain what that means.
 
@@ -18,5 +18,5 @@ Another useful display is Extra Utilities' TPS meter. It gives you the instantan
 
 Toggle the display with
 
-§l/xu_tps0-1ANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+§l/xu_tpsANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

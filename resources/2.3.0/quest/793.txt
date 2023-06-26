@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.03-32079.png§6§lGood Integrated CircuitsBy the way, did you ever try looking at the oredict for circuits? You can tell what tier they are from that. They go: Primitive (ULV), Basic (LV), Good (MV), Advanced (HV), etc. Now make your Good Integrated Circuits.1-1ANDpre7941gregtech/gt.metaitem.01-32701.pngrewardsChoicegregtech/gt.metaitem.03-32101.pngGood Circuit Board\nA good Circuit Board
+793gregtech/gt.metaitem.03-32079.png1§6§lGood Integrated Circuits5-1By the way, did you ever try looking at the oredict for circuits? You can tell what tier they are from that. They go: Primitive (ULV), Basic (LV), Good (MV), Advanced (HV), etc. Now make your Good Integrated Circuits.ANDpre7941gregtech/gt.metaitem.01-32701.pngrewardsChoicegregtech/gt.metaitem.03-32101.pngGood Circuit Board\nA good Circuit Board
 2gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit\nA Basic Circuit\nLV-Tier
 1gregtech/gt.metaitem.01-32716.pngResistor\nBasic Electronic Component
 4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

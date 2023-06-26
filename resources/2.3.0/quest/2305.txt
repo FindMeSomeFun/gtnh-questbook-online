@@ -1,10 +1,10 @@
-bartworks/gt.bwMetaGeneratedcell-61.png§b§lFirst Separation - RhodiumThe Platinum Group processing line (AKA Platline) is a multi-step complicated process. Because of it's complexity, and how much you need, you should have a processing line running all the time. You should be able to comprehend it better after doing these quests. Or maybe you set it up already, and you're siphoning off some of the results? Either way.
+2305bartworks/gt.bwMetaGeneratedcell-61.png1§b§lFirst Separation - Rhodium8-1The Platinum Group processing line (AKA Platline) is a multi-step complicated process. Because of it's complexity, and how much you need, you should have a processing line running all the time. You should be able to comprehend it better after doing these quests. Or maybe you set it up already, and you're siphoning off some of the results? Either way.
 
 As a first step in getting Rhodium, Ruthenium, Iridium, and Osmium, we will split apart the Rhodium from the other metals in an EBF with the Potassium Disulfate you made previously.
 
 The amounts for this step are pretty annoying, blame Bart for that.
 
-§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.1-1ANDpre23041bartworks/gt.bwMetaGeneratedcellMolten-59.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.ANDpre23041bartworks/gt.bwMetaGeneratedcellMolten-59.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-49.pngPlatinum Residue Dust\n??IrOsRhRu??\nAdded by BartWorks
 31bartworks/gt.bwMetaGeneratedcellMolten-59.pngMolten Potassium Disulfate Cell\nK\u2082S\u2082O\u2087\nAdded by BartWorks

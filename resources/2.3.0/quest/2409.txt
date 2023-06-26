@@ -1,8 +1,8 @@
-miscutils/itemDustRareEarthI-0.png§6§lEven Rarer EarthsRare Earth processing may have been ignored, but you believe your new Dehydrator can finally make it worthwhile. First, you need to use some Sulfuric Acid to melt off any impurities in a Chemical Bath, leaving you with Crushed Rare Earth (I). After that you need to process it like a normal ore until you get Rare Earth (I) Dust.
+2409miscutils/itemDustRareEarthI-0.png0§6§lEven Rarer Earths5-1Rare Earth processing may have been ignored, but you believe your new Dehydrator can finally make it worthwhile. First, you need to use some Sulfuric Acid to melt off any impurities in a Chemical Bath, leaving you with Crushed Rare Earth (I). After that you need to process it like a normal ore until you get Rare Earth (I) Dust.
 
 After running the Dust through your Dehydrator, you get a number of strange materials, only some of which you recognize. But if you run these materials through an Electrolyzer or through the Dehydrator again, you may get some use out of them. Some of them may take quite a few to do so, but you §o§o§r§h§ohave§r been stockpiling, right? You'll need 204 Rare Earth.
 
-You believe if you had more powerful acids and machines, you could extract even more valuable materials out of the Rare Earth.0-1ANDpre16140gregtech/gt.blockmachines-911.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You believe if you had more powerful acids and machines, you could extract even more valuable materials out of the Rare Earth.ANDpre16140gregtech/gt.blockmachines-911.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 2gregtech/gt.metaitem.01-2891.pngRare Earth
 64miscutils/itemDustRareEarthI-0.pngRare Earth\n??????\nHold Ctrl to show additional info.
 32Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"

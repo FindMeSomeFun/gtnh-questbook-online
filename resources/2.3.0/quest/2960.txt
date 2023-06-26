@@ -1,3 +1,3 @@
-GoodGenerator/FRF_Coil_2-0.pngTier 2 CoilIt will unlock MkIV and MkV fuel.0-1ANDpre29590gregtech/gt.blockmachines-16999.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10048.pngNaquadah Based Liquid Fuel MkIV Cell\nAdded by Good Generator via BartWorks
+2960GoodGenerator/FRF_Coil_2-0.png0Tier 2 Coil19-1It will unlock MkIV and MkV fuel.ANDpre29590gregtech/gt.blockmachines-16999.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10048.pngNaquadah Based Liquid Fuel MkIV Cell\nAdded by Good Generator via BartWorks
 1tasksANDRetrievalGoodGenerator/FRF_Coil_2-0.pngAdvanced Field Restriction Coil\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 32

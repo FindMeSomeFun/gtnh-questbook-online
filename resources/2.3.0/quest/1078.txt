@@ -1,6 +1,6 @@
-TwilightForest/item.tfspawnegg-217.pngUr-GhastSummon an Ur-Ghast.
+1078TwilightForest/item.tfspawnegg-217.png0Ur-Ghast401200000Summon an Ur-Ghast.
 
-§3Only works in the Twilight Forest dim.01200000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-217.pngSpawn Ur-ghast
+§3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-217.pngSpawn Ur-ghast
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"

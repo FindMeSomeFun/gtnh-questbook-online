@@ -1,4 +1,4 @@
-IC2/reactorUraniumSimple-1.pngUranium Basic NukesThe big brother to the Thorium nuke, the Uranium nuke. The biggest setup you can put together for a single IC2 Nuclear Reactor uses 7 Quad Uranium Rods, or 28 single rods. This amounts to almost 3 stacks of Uranium 238 (U238), a difficult amount to get from Thorium but much easier to get from the green ores found in Phobos. The setup is very similar to the previous one, but with some important differences. What are they?
+3169IC2/reactorUraniumSimple-1.png0Uranium Basic Nukes23-1The big brother to the Thorium nuke, the Uranium nuke. The biggest setup you can put together for a single IC2 Nuclear Reactor uses 7 Quad Uranium Rods, or 28 single rods. This amounts to almost 3 stacks of Uranium 238 (U238), a difficult amount to get from Thorium but much easier to get from the green ores found in Phobos. The setup is very similar to the previous one, but with some important differences. What are they?
 
 The first one is the fuel. These fuel rods use a mixture of U238 and a bit of U235, which is rarer. To get U235, you can gamble on the chance of getting the dust from processing some of the related ores, which might be good enough, but it's also possible to use Thaumcraft to convert 9 nuggets of U238 to 7 nuggets of U235, without needing a lot of Thaumcraft progress. Assembling this fuel and putting it into rods gets it ready to be used for power, with more EU/t but less burn time compared to Thorium, 50000 seconds for Thorium compared to 20000 seconds for Uranium.
 
@@ -17,7 +17,7 @@ O -> Overclocked Heat Vent (28 needed)
 R -> Quad Fuel Rod of Uranium (7 needed)
 P -> Reactor Plating (7 needed)
 
-When the fuel rods get repleted, you can reprocess them to get 3/4 of the U235 back, and also a bit of Plutonium.0-1ANDpre31680gregtech/gt.metaitem.01-2098.pngrewardstasksANDOptionalIC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
+When the fuel rods get repleted, you can reprocess them to get 3/4 of the U235 back, and also a bit of Plutonium.ANDpre31680gregtech/gt.metaitem.01-2098.pngrewardstasksANDOptionalIC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
 1IC2/reactorVentSpread-0.pngComponent Heat Vent
 11IC2/reactorVentGold-1.pngOverclocked Heat Vent
 28gregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod\n100 / 100\nDurability: 20,000/20,000

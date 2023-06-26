@@ -1,4 +1,4 @@
-dreamcraft/item.Tier2Booster-0.pngBooster Tier 2The distance between Planets and Moons is much larger now so the rocket needs bigger boosters to reach it.1-1ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoicegregtech/gt.metaitem.01-11374.pngHSS-S Ingot\n(((Fe\u2085\u2080C)W)\u2085CrMo\u2082V)\u2086Ir\u2082Os
+1731dreamcraft/item.Tier2Booster-0.png1Booster Tier 224-1The distance between Planets and Moons is much larger now so the rocket needs bigger boosters to reach it.ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoicegregtech/gt.metaitem.01-11374.pngHSS-S Ingot\n(((Fe\u2085\u2080C)W)\u2085CrMo\u2082V)\u2086Ir\u2082Os
 32gregtech/gt.metaitem.01-11030.pngChrome Ingot\nCr
 16enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"

@@ -1,4 +1,4 @@
-irontank/diamondTank-0.png§5§lDiamond Tanks... Ooo, ShinyAfter you build a cutting machine you can make some diamond plates for your new 64,000L single block tank.0-1ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1091irontank/diamondTank-0.png0§5§lDiamond Tanks... Ooo, Shiny4-1After you build a cutting machine you can make some diamond plates for your new 64,000L single block tank.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/diamond-0.pngDiamond\nBurn Time: 102400
 4enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate\nC

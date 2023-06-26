@@ -1,8 +1,8 @@
-lootgames/LootGamesMasterBlock-0.png§2§lLoot GamesIt looks like you've found a secret room hidden...not so deep within the earth. Pretty close to the surface, actually. You can find these all over the place, and have a chance at sweet sweet loot if you're good at simon says. It counts the highest level you completed, so you can get fail the other rounds on purpose to go faster if you don't think you can do better. BTW, cheaters go to minecraft hell, where all the blocks have hardness -1.
+2876lootgames/LootGamesMasterBlock-0.png0§2§lLoot Games2-1It looks like you've found a secret room hidden...not so deep within the earth. Pretty close to the surface, actually. You can find these all over the place, and have a chance at sweet sweet loot if you're good at simon says. It counts the highest level you completed, so you can get fail the other rounds on purpose to go faster if you don't think you can do better. BTW, cheaters go to minecraft hell, where all the blocks have hardness -1.
 
 §3If you fail with Minesweeper, it blows up. Be sure to make room for escape!
 
-§4Make sure that no water/oil is flowing into the room because of worldgen or it will kill you and destroy your grave because of 'cheating'. This is a bug.0-1ANDpre28750minecraft/nether_star-0.pngrewardsItemminecraft/skull-3.pngStupid Oil, I swear...\nMay work as an Infusion Stabilizer
+§4Make sure that no water/oil is flowing into the room because of worldgen or it will kill you and destroy your grave because of 'cheating'. This is a bug.ANDpre28750minecraft/nether_star-0.pngrewardsItemminecraft/skull-3.pngStupid Oil, I swear...\nMay work as an Infusion Stabilizer
 1gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
 1tasksANDCheckboxcheckbox-.pngCheckbox
 

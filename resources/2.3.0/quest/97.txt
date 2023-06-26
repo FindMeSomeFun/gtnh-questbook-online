@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-211.png§5§lAvengers, Assemble!An absolute must have for fans of the movie. Oh, and to make all the things, of course. There's a number of recipes that take less materials to make in the assembler, or can only be made with it, so make it ASAP!
+97gregtech/gt.blockmachines-211.png1§5§lAvengers, Assemble!4-1An absolute must have for fans of the movie. Oh, and to make all the things, of course. There's a number of recipes that take less materials to make in the assembler, or can only be made with it, so make it ASAP!
 
 §3You can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.
 
-If you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.1-1ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+If you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-211.pngBasic Assembling Machine\nAvengers, Assemble!\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

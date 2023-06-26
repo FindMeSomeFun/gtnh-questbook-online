@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-12501.pngGenetically Modifying Your PlantsThere are 3 machines crucial to doing this. You'll also need bucketloads of power, and the same (literally) of UUM.
+2729gregtech/gt.blockmachines-12501.png0Genetically Modifying Your Plants13-1There are 3 machines crucial to doing this. You'll also need bucketloads of power, and the same (literally) of UUM.
 
 All 3 can only work on crops up to a certain tier, determined by the tier of the machine you made and the crop you're working with. Basically, it's (crop tier+2)/2, rounded up. So an LV machine can work on T1 crops, but an MV one can work on T3.
 
@@ -11,5 +11,5 @@ Second is the Crop Synthesizer:
 It takes §24 Data Orbs§r, one for each of the types from the CGE, §51000L of UUM per crop tier/2§r (this is not rounded), and §616A§r while running. It will create a new crop seedbag with the desired stats.
 
 Lastly is the Crop Replicator:
-It takes an existing crop seedbag, §51000L per crop tier of UUM§r, and §66A§r while running. After finishing, it gives you back two of the same seedbag, duplicating it. This takes twice as much UUM, but less power, it's up to you whether that's worth it.0-1ANDpre7210Natura/N Crops-0.png24150witchery/ingredient-106.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+It takes an existing crop seedbag, §51000L per crop tier of UUM§r, and §66A§r while running. After finishing, it gives you back two of the same seedbag, duplicating it. This takes twice as much UUM, but less power, it's up to you whether that's worth it.ANDpre7210Natura/N Crops-0.png24150witchery/ingredient-106.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

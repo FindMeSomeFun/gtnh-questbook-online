@@ -1,4 +1,4 @@
-GalacticraftMars/tile.slimelingEgg-2.pngSlimelingThe Slimeling is a utility mob that spawns from Slimeling Eggs found on the surface of Mars. It shares some features from vanilla wolves and mules: it can be tamed and attacks mobs that threaten its owners, and can be equipped with a special chest to transport items.
+1471GalacticraftMars/tile.slimelingEgg-2.png0Slimeling24-1The Slimeling is a utility mob that spawns from Slimeling Eggs found on the surface of Mars. It shares some features from vanilla wolves and mules: it can be tamed and attacks mobs that threaten its owners, and can be equipped with a special chest to transport items.
 
 As an allied mob, Slimelings will actively help and follow the player-owner and will attempt to protect them. They can also have a neutral behavior, that is, they can attack if provoked or hurt by non-owners.
 
@@ -13,7 +13,7 @@ Wooden door
 
 Slimelings can be equipped by their owners with a Slimeling Inventory Bag to transport items.
 
-To complete this quest get any one of the eggs - note you may need a Heavy Duty Pickaxe.0-1ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.null-4.pngSlimeling Inventory Bag
+To complete this quest get any one of the eggs - note you may need a Heavy Duty Pickaxe.ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.null-4.pngSlimeling Inventory Bag
 1minecraft/boat-0.pngBoat
 8minecraft/cooked_fished-0.pngCooked Fish\nminecraft:cooked_fished
 8minecraft/gunpowder-0.pngGunpowder

@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-594.png§a§k§r§a§lEV Laser EngraverAn EV precision laser is required to make quantum crystals.0-1ANDpre12461gregtech/gt.metaitem.01-32693.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
+1407gregtech/gt.blockmachines-594.png0§a§k§r§a§lEV Laser Engraver7-1An EV precision laser is required to make quantum crystals.ANDpre12461gregtech/gt.metaitem.01-32693.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8gregtech/gt.metaitem.01-30093.pngRadon Cell\nRn
 2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

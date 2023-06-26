@@ -1,4 +1,4 @@
-Thaumcraft/blockStoneDevice-12.pngBathing in a Spa. Automated Warp RemovalBathing in a spa will automate the process of temporarily removing warp effects. Take the bath salt with you into the spa.0-1ANDpre10970Thaumcraft/ItemBathSalts-0.pngrewardsItemThaumcraft/ItemBathSalts-0.pngPurifying Bath Salts
+1098Thaumcraft/blockStoneDevice-12.png0Bathing in a Spa. Automated Warp Removal32-1Bathing in a spa will automate the process of temporarily removing warp effects. Take the bath salt with you into the spa.ANDpre10970Thaumcraft/ItemBathSalts-0.pngrewardsItemThaumcraft/ItemBathSalts-0.pngPurifying Bath Salts
 2Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockStoneDevice-12.pngArcane Spa

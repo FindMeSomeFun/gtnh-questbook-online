@@ -1,10 +1,10 @@
-minecraft/bow-0.png§5§lBow, Arrows and QuiverWow, your first handmade §oehm§r machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. 
+661minecraft/bow-0.png0§5§lBow, Arrows and Quiver14-1Wow, your first handmade §oehm§r machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. 
 
 To place arrows in the quiver, put the quiver and the stack of arrows in a crafting grid. Make sure the Gameplay key Special is deconflicted. By default it is Z. When you have the bow selected, use Z to swap arrow slots in the quiver.
 
 While it seems like these might be worthless, these arrows do have special uses. You really want to share a cookie with friends, don't you?
 
-Let's go hunt a bit.0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItembattlegear2/mb.arrow-0.pngHoly Torch Arrow\nIt helps you face the darkness\nPut a torch where it falls
+Let's go hunt a bit.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItembattlegear2/mb.arrow-0.pngHoly Torch Arrow\nIt helps you face the darkness\nPut a torch where it falls
 10battlegear2/mb.arrow-6.pngPoison Arrow\nExpensive, heh ?\nDeals Wither effect
 10battlegear2/mb.arrow-2.pngExplosive Arrow\nPacks some explosive power\nExplosion strength depends on arrow critical hit
 10battlegear2/mb.arrow-5.pngPiercing Arrow\nUncommon cutting ability\nShears sheeps with style

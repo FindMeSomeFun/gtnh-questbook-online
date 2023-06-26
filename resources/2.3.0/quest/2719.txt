@@ -1,4 +1,4 @@
-OpenComputers/item-103.pngFor All the Artists Out ThereThese are the Creative components. Depending on what it is, there's also T2 and T3 components too.0-1ANDpre17101gregtech/gt.metaitem.03-32091.png17470universalsingularities/universal.bigReactors.singularity-1.pngrewardstasksANDRetrievalOpenComputers/item-103.pngAccelerated Processing Unit\nTier 3
+2719OpenComputers/item-103.png0For All the Artists Out There26-1These are the Creative components. Depending on what it is, there's also T2 and T3 components too.ANDpre17101gregtech/gt.metaitem.03-32091.png17470universalsingularities/universal.bigReactors.singularity-1.pngrewardstasksANDRetrievalOpenComputers/item-103.pngAccelerated Processing Unit\nTier 3
 1OpenComputers/item-69.pngServer
 1RetrievalOpenComputers/item-90.pngMicrocontroller Case\nTier 4
 1OpenComputers/item-91.pngDrone Case\nTier 4

@@ -1,6 +1,6 @@
-minecraft/book-0-enchanted.pngAre You Prepared?Are you prepared for the Moon?
+1068minecraft/book-0-enchanted.png0Are You Prepared?24-1Are you prepared for the Moon?
 
-If you die on the moon you will be returned to earth without your stuff. A Soulbind enchantment will keep an item with you when you die.0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceminecraft/book-0-enchanted.pngBook\nLast Stand II
+If you die on the moon you will be returned to earth without your stuff. A Soulbind enchantment will keep an item with you when you die.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceminecraft/book-0-enchanted.pngBook\nLast Stand II
 1GalacticraftCore/item.basicItem-9.pngCompressed Steel
 16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"

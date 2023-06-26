@@ -1,4 +1,4 @@
-appliedenergistics2/item.ItemSpatialStorageCell.128Cubed-0.pngAE Spatial StorageContains up to a 128^3 area inside it. This is 2,097,152 blocks. Teleport a village to the Moon to make them suffer!0-1ANDpre25080appliedenergistics2/item.ItemMultiMaterial-34.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
+2511appliedenergistics2/item.ItemSpatialStorageCell.128Cubed-0.png0AE Spatial Storage27-1Contains up to a 128^3 area inside it. This is 2,097,152 blocks. Teleport a village to the Moon to make them suffer!ANDpre25080appliedenergistics2/item.ItemMultiMaterial-34.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2tasksANDRetrievalappliedenergistics2/item.ItemSpatialStorageCell.128Cubed-0.png128\u00b3 Spatial Storage Cell

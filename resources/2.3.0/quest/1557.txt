@@ -1,11 +1,11 @@
-witchery/witchsapling-0.pngMutated SaplingsThese saplings can initially be acquired only by using Mutandis on a valid block, such as a sapling, grass, etc.
+1557witchery/witchsapling-0.png0Mutated Saplings36-1These saplings can initially be acquired only by using Mutandis on a valid block, such as a sapling, grass, etc.
 
 You can cook them in the oven for unique fume types:
 Rowan: Whiff of Magic
 Hawthorn: Odour of Purity
 Alder: Reek of Misfortune
 
-Rowan trees drop Rowan Berries, and you'll need to get some Alder Wood for your altar.0-1ANDpre15550witchery/ingredient-14.pngrewardsItemwitchery/ingredient-14.pngMutandis
+Rowan trees drop Rowan Berries, and you'll need to get some Alder Wood for your altar.ANDpre15550witchery/ingredient-14.pngrewardsItemwitchery/ingredient-14.pngMutandis
 16witchery/ingredient-27.pngClay Jar
 16Itemdreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"

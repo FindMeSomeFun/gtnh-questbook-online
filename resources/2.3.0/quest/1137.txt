@@ -1,8 +1,8 @@
-IC2/blockGenerator-9.png§9§lKinetic Power HVThe Kinetic Generator will transform mechanical energy into electricity. The EU output depends on the KU input. It is most commonly used together with a Kinetic Wind Generator or Kinetic Water Generator. The Kinetic Steam Generator only has one tier, so your should probably use a Steam Turbine instead.
+1137IC2/blockGenerator-9.png0§9§lKinetic Power HV19-1The Kinetic Generator will transform mechanical energy into electricity. The EU output depends on the KU input. It is most commonly used together with a Kinetic Wind Generator or Kinetic Water Generator. The Kinetic Steam Generator only has one tier, so your should probably use a Steam Turbine instead.
 
 When placing a kinetic generator, any time, the "input" side is the side facing you.  So you will place the kinetic generator, then the wind/water/steam gen, and then place a rotor inside. Power can be drawn from any side of the kinetic generator, up to the rated amount per side. 
 
-WARNING: Breaking a kinetic generator improperly will not return the generator.  Use a GT wrench, and right-CLICK it.  It should drop immediately.  Try again if it just changed directions. 0-1ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+WARNING: Breaking a kinetic generator improperly will not return the generator.  Use a GT wrench, and right-CLICK it.  It should drop immediately.  Try again if it just changed directions. ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
 2gregtech/gt.metaitem.01-32602.pngElectric Motor
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

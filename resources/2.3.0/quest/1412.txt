@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1170.png§6§lAssembling LineThe Assembling Line (or 'Assline') is an important machine for high tier components in LuV tier and above for making Motors, Pistons, Robot Arms, Pumps and many more.
+1412gregtech/gt.blockmachines-1170.png1§6§lAssembling Line17-1The Assembling Line (or 'Assline') is an important machine for high tier components in LuV tier and above for making Motors, Pistons, Robot Arms, Pumps and many more.
 
 The multiblock can be 5-16 blocks long. The minimum length required depends on the number of components and fluids required by the recipe it's crafting. A length of 11 blocks will fit 80 percent of all recipes in GTNH.
 
@@ -16,7 +16,7 @@ For more details on using the Assembly Line, check out the wiki page https://tin
 
 §3BTW the input busses are ULV to help with your automating, if you don't want to automate it, you can use higher tier ones, unlike the CAL.
 
-You can have up to 16 input busses. If you use the full 16 you should put the output bus to the side.1-1ANDpre17071gregtech/gt.metaitem.03-32088.png18901gregtech/gt.blockmachines-215.pngrewardsItemminecraft/paper-0.pngPaper
+You can have up to 16 input busses. If you use the full 16 you should put the output bus to the side.ANDpre17071gregtech/gt.metaitem.03-32088.png18901gregtech/gt.blockmachines-215.pngrewardsItemminecraft/paper-0.pngPaper
 64gregtech/gt.metaitem.98-6.pngSquid Ink Cell
 64gregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
 4enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book

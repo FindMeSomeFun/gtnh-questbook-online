@@ -1,4 +1,4 @@
-HardcoreEnderExpansion/rune-0.pngRunesThere are 6 types of Runes found in the Ravaged Dungeons on the Infested Islands.
+2367HardcoreEnderExpansion/rune-0.png0Runes30-1There are 6 types of Runes found in the Ravaged Dungeons on the Infested Islands.
 
 Power
 Vigor
@@ -11,7 +11,7 @@ The Void rune is less common than other types.
 
 Runes are used to create Charms, and are crafted in a Charm Pouch.
 
-Basic Runes increase attributes, such as strength, speed or health. Void Rune (gray) gives the Louse one of special and extremely dangerous abilities.0-1ANDpre23590HardcoreEnderExpansion/endoplasm-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Power
+Basic Runes increase attributes, such as strength, speed or health. Void Rune (gray) gives the Louse one of special and extremely dangerous abilities.ANDpre23590HardcoreEnderExpansion/endoplasm-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Power
 1HardcoreEnderExpansion/rune-2.pngRune of Vigor
 1HardcoreEnderExpansion/rune-4.pngRune of Magic
 1HardcoreEnderExpansion/rune-3.pngRune of Defense

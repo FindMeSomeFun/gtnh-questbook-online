@@ -1,4 +1,4 @@
-GalaxySpace/item.Tier7Rocket-0.pngAll Good Things...So you've built your T7 rocket. Great, there's only one more left. Until then, the new places you can visit are: Haumea, the Kuiper Belt, Makemake, and Pluto.
+2647GalaxySpace/item.Tier7Rocket-0.png0All Good Things...11-1So you've built your T7 rocket. Great, there's only one more left. Until then, the new places you can visit are: Haumea, the Kuiper Belt, Makemake, and Pluto.
 
 Pluto is just before the Kuiper Belt, and Haumea and Makemake are just after.
 
@@ -6,5 +6,5 @@ The new veins are Black Plutonium, Garnet, Red Garnet. The ores are: Black Pluto
  
 Don't forget the planet blocks!
  
-The last schematic is on Pluto. This is also the last dungeon.0-1ANDpre26131gregtech/gt.blockmachines-18.png26421GalaxySpace/item.Tier7Rocket-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+The last schematic is on Pluto. This is also the last dungeon.ANDpre26131gregtech/gt.blockmachines-18.png26421GalaxySpace/item.Tier7Rocket-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

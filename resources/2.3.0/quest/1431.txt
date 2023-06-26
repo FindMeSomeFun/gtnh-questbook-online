@@ -1,4 +1,4 @@
-GalacticraftCore/item.engine-1.pngBoosterThe distance between Mars and Earth is much larger than to the Moon, so the rocket needs boosters to reach it.1-1ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
+1431GalacticraftCore/item.engine-1.png1Booster24-1The distance between Mars and Earth is much larger than to the Moon, so the rocket needs boosters to reach it.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
 16gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

@@ -1,6 +1,6 @@
-chisel/warningSign-0.pngMax Danger NukesWere you courageous enough to build a vac nuke? If so, are you courageous enough to do it in a MOX setup, with high heat?
+3202chisel/warningSign-0.png0Max Danger Nukes23-1Were you courageous enough to build a vac nuke? If so, are you courageous enough to do it in a MOX setup, with high heat?
 
 Yes, this is possible, and extremely powerful. However, all the risks you signed up for are exponentially increased, since MOX nukes keep getting better and better the closer the nuke's temperature is to the critical point. This sort of automation is more complicated than almost any other, and I honestly don't have any specific guidelines for you. 
 
-If you manage this, do share it on the Discord. I bet people will be surprised.0-1ORpre31670gregtech/gt.blockmachines-1002.png31720miscutils/itemDustPlutonium239-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+If you manage this, do share it on the Discord. I bet people will be surprised.ORpre31670gregtech/gt.blockmachines-1002.png31720miscutils/itemDustPlutonium239-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

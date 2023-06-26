@@ -1,4 +1,4 @@
-GalacticraftCore/item.oxygenGear-0.pngOxygen GearOxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.1-1ANDpre8231GalacticraftCore/item.oxygenMask-0.pngrewardsChoiceIC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
+822GalacticraftCore/item.oxygenGear-0.png1Oxygen Gear24-1Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.ANDpre8231GalacticraftCore/item.oxygenMask-0.pngrewardsChoiceIC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
 8GalacticraftCore/item.airFan-0.pngOxygen Fan
 1GalacticraftCore/item.airVent-0.pngOxygen Vent
 1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

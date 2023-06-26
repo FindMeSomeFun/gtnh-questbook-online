@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-30012.png§5§lN Like Nitrogen... Hide, the Alphabet Strikes Again!You can get some nitrogen by centrifuging... air. This process takes a long time, especially at LV tier.
+555gregtech/gt.metaitem.01-30012.png1§5§lN Like Nitrogen... Hide, the Alphabet Strikes Again!4-1You can get some nitrogen by centrifuging... air. This process takes a long time, especially at LV tier.
 
-You get that air from compressed air cells, which are gotten from running cells through a compressor. Each one contains 2000L, unlike a normal cell that contains 1000L.1-1ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemIC2/itemCellEmpty-5.pngCompressed Air Cell
+You get that air from compressed air cells, which are gotten from running cells through a compressor. Each one contains 2000L, unlike a normal cell that contains 1000L.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemIC2/itemCellEmpty-5.pngCompressed Air Cell
 8Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-30012.pngNitrogen Cell\nN
 10

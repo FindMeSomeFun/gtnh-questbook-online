@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-532.png§6§lMake a better DistilleryTo produce methanol and ethanol much faster, craft a mv distillery.0-1ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
+3069gregtech/gt.blockmachines-532.png0§6§lMake a better Distillery5-1To produce methanol and ethanol much faster, craft a mv distillery.ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
 16gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
 2gregtech/gt.metaitem.01-32601.pngElectric Motor
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

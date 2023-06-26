@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.03-32088.png§b§lQuantumprocessor MainframeThe Quantumprocessor Mainframe is the first ZPM circuit you can make.1-1ANDpre17061gregtech/gt.metaitem.03-32087.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box\nJust something you can put covers on.
+1707gregtech/gt.metaitem.03-32088.png1§b§lQuantumprocessor Mainframe8-1The Quantumprocessor Mainframe is the first ZPM circuit you can make.ANDpre17061gregtech/gt.metaitem.03-32087.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box\nJust something you can put covers on.
 64gregtech/gt.metaitem.03-32182.pngSMD Inductor\nElectronic Component
 32gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
 32enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

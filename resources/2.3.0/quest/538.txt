@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-391.png§5§lBasic Ore WasherMacerating ores usually doubles the output. If you want MOOOOOOORE, craft an ore washer and wash out some rare materials.
+538gregtech/gt.blockmachines-391.png0§5§lBasic Ore Washer4-1Macerating ores usually doubles the output. If you want MOOOOOOORE, craft an ore washer and wash out some rare materials.
 
 Note that these both use water, and are painfully slow.
 
-§3PS, use crushed ore.0-1ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3PS, use crushed ore.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-391.pngBasic Ore Washing Plant\nGetting more Byproducts from your Ores\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

@@ -1,8 +1,8 @@
-gregtech/gt.blockcasings5-12.png§6§lHypogen Coil UpgradeForged from the blood of an ageless dragon, and melded together by the power of fusion beyond what you thought was the reality. No natural element, or combination of elements, could match up to this glowing orange material, not even the Awakened Draconium you got your hands on before.
+3218gregtech/gt.blockcasings5-12.png1§6§lHypogen Coil Upgrade38-1Forged from the blood of an ageless dragon, and melded together by the power of fusion beyond what you thought was the reality. No natural element, or combination of elements, could match up to this glowing orange material, not even the Awakened Draconium you got your hands on before.
 
 What truly happened inside that Mk4 Fusion Reactor? What §ois§o§r this material? Its dust pulsates visibly, at different rates depending on the size of the dust itself. Hypogen approaches a state of complete balance as it approaches the block size, and it is obvious to you what needs to be done with it.
 
 It absorbs and radiates energy without any effort, but it would be stupid to attempt making coils out of this without assistance. Wetware wasn't good enough anymore, and only the most advanced living circuit could withstand the erratic behavior Hypogen demonstrates.
 
-Provides 12601K heat. Almost certainly, this will end up on your DTPF.1-1ANDpre25841miscutils/itemIngotHypogen-0.png32171gregtech/gt.blockcasings5-11.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-12.pngHypogen Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 12601 Kelvin
+Provides 12601K heat. Almost certainly, this will end up on your DTPF.ANDpre25841miscutils/itemIngotHypogen-0.png32171gregtech/gt.blockcasings5-11.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-12.pngHypogen Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 12601 Kelvin
 16

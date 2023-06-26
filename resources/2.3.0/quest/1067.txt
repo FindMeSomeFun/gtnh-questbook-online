@@ -1,4 +1,4 @@
-GalaxySpace/item.Icon-37.pngSpace StationYou can build a space station if you want. You can add up to four spin thrusters to your station to rotate it.
+1067GalaxySpace/item.Icon-37.png0Space Station24-1You can build a space station if you want. You can add up to four spin thrusters to your station to rotate it.
 
 Days on space stations last longer than on the overworld, so you can generate more solar power.
 
@@ -13,7 +13,7 @@ Neptune - T6
 
 §bHint:§r Each task corresponds to one space station (they are in the same order). You need to complete at least one task to complete the quest.
 
-§cNote:§r It is likely that you will loose your rocket when flying back to earth or another space station. Make sure you have an alternative way to return (some form of teleportation) or use another planet/moon as proxy (if you get an error while doing so, you spawn on the planet/moon and can launch your rocket again).0-1ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceGalacticraftCore/item.standardWrench-0.pngStandard Wrench
+§cNote:§r It is likely that you will loose your rocket when flying back to earth or another space station. Make sure you have an alternative way to return (some form of teleportation) or use another planet/moon as proxy (if you get an error while doing so, you spawn on the planet/moon and can launch your rocket again).ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceGalacticraftCore/item.standardWrench-0.pngStandard Wrench
 1GalacticraftCore/tile.spinThruster-0.pngSpin Thruster
 1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

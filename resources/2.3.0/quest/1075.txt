@@ -1,6 +1,6 @@
-TwilightForest/item.tfspawnegg-205.pngMinoshroomSummon a Minoshroom.
+1075TwilightForest/item.tfspawnegg-205.png0Minoshroom40960000Summon a Minoshroom.
 
-§3Only works in the Twilight Forest dim.0960000ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-205.pngSpawn Minoshroom
+§3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-205.pngSpawn Minoshroom
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 1RetrievalTwilightForest/item.trophy-2.pngLich Trophy

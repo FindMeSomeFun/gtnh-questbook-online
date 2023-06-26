@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-641.png§5§lSifting MachineDo you need flawless or exquisite diamonds, emeralds, rubies or other gems? Or, interested in getting more flint, coal, or whatnot out of your ore? Well then it's time for you to make a Sifting Machine.
+869gregtech/gt.blockmachines-641.png0§5§lSifting Machine4-1Do you need flawless or exquisite diamonds, emeralds, rubies or other gems? Or, interested in getting more flint, coal, or whatnot out of your ore? Well then it's time for you to make a Sifting Machine.
 
 You can find small Zinc ores (look in NEI) or you can search the Nether for Sphalerite.
 
-The Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.0-1ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsChoicegregtech/gt.metaitem.01-6500.pngPurified Diamond Ore\nC
+The Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsChoicegregtech/gt.metaitem.01-6500.pngPurified Diamond Ore\nC
 64gregtech/gt.metaitem.01-6501.pngPurified Emerald Ore\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
 64gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore\nCrAl\u2082O\u2083
 64gregtech/gt.metaitem.01-6535.pngPurified Coal Ore\nC

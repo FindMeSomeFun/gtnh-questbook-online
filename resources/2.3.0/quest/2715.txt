@@ -1,4 +1,4 @@
-bartworks/BioLabParts-0.pngGeneral Purpose Fermenting BacteriaSo if you looked in NEI and tried to figure out how to make this, you were probably confused by the fact that you use the fluid it produces to make it. This is where NEI is lying to you. Like the previous recipe, NEI doesn't show it correctly (they should be around the same page in NEI, they both also appear to produce Sterilized Petri Dishes, (even if that's not true) and both use unique Modules).
+2715bartworks/BioLabParts-0.png0General Purpose Fermenting Bacteria11-1So if you looked in NEI and tried to figure out how to make this, you were probably confused by the fact that you use the fluid it produces to make it. This is where NEI is lying to you. Like the previous recipe, NEI doesn't show it correctly (they should be around the same page in NEI, they both also appear to produce Sterilized Petri Dishes, (even if that's not true) and both use unique Modules).
 
 In order to make this, you'll need to make the Rotten Flesh Bacteria culture, get the DNA Sample, and then get the Data Orb. It changes it's name to beta-Lactamase, that's normal.
 
@@ -8,7 +8,7 @@ Then you need to use the recipe to combine the information from the Data Orbs an
 
 Lastly, use the Rotten Flesh Bacteria culture, the Common Yeast Plasmid, Penicillin (make it by centrifuging Common Yeast Fluid), and Distilled Water. You want the Transformation Module for this. It's a 100% chance.
 
-You'll want to use the normal recipe to make more cultures, since it also becomes beta-Lactamase once you turn it into a DNA Sample.0-1ANDpre27140bartworks/BioLabModules-4.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
+You'll want to use the normal recipe to make more cultures, since it also becomes beta-Lactamase once you turn it into a DNA Sample.ANDpre27140bartworks/BioLabModules-4.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
 1bartworks/BioLabParts-1.pngDNA Sample Flask\nA DNA Flask containing: beta-Lactamase\nAdded by BartWorks
 1gregtech/gt.metaitem.01-32707.pngData Orb\nA High Capacity Data Storage\nDNA Sample\nbeta-Lactamase
 1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Saccharomyces cerevisiae (Common Yeast)\nAdded by BartWorks

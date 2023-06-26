@@ -1,4 +1,4 @@
-bartworks/BioLabParts-0.pngThis is Not How You Make CheeseIn order to make Wetware circuits, you'll need Sterilized Growth Medium and Stemcells, so let's get started on those, ok?
+2651bartworks/BioLabParts-0.png1This is Not How You Make Cheese11-1In order to make Wetware circuits, you'll need Sterilized Growth Medium and Stemcells, so let's get started on those, ok?
 
 To get anywhere, first you need Bacteria. You can get this through the vat or the brewing machine. Vat way is more efficient, but you need culture for it so you first need to do brewing way. Vat needs Bismuth rods for radiation and EV-tier glass. There are also 3 recipes, so you can use a higher tier one later if you like.
 
@@ -8,7 +8,7 @@ Agar has a more complicated processing chain, but it's nothing compared to Plati
 
 Use some of the Bacteria to create an Ova Evolutionis culture (15% chance), and then use that in the vat's controller to make Raw Growth Medium. You'll need IV-tier glass, and Uranium rods. There are also higher tier recipes.
 
-§3Cultures are not consumed when used in the vat.1-1ANDpre25611gregtech/gt.blockmachines-12712.png25661gregtech/gt.blockmachines-12699.png26351gregtech/gt.blockmachines-1186.pngrewardstasksANDOptionalgregtech/gt.metaitem.98-15.pngBacteria Cell
+§3Cultures are not consumed when used in the vat.ANDpre25611gregtech/gt.blockmachines-12712.png25661gregtech/gt.blockmachines-12699.png26351gregtech/gt.blockmachines-1186.pngrewardstasksANDOptionalgregtech/gt.metaitem.98-15.pngBacteria Cell
 1Optionaldreamcraft/GTNHBioItems-2.pngAgar\nAdded by BartWorks
 1bartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Ova Evolutionis (Ova Evolutionis)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
 1Retrievalgregtech/gt.metaitem.01-30608.pngRaw Growth Catalyst Medium Cell

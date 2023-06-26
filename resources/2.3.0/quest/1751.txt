@@ -1,10 +1,10 @@
-OpenComputers/item-8.pngWoah, Rad Graphics!See the digital world.
+1751OpenComputers/item-8.png0Woah, Rad Graphics!26-1See the digital world.
 
 Your graphics card allows the computer to draw text and other things to the screen. 
 
 The better graphics card you use the higher resolution, and better features can be drawn.
 
-You also need a higher tier monitor to display colors or to get touchscreen compatability, but that's something to worry about for another day.0-1ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-1.pngMemory\nTier 1
+You also need a higher tier monitor to display colors or to get touchscreen compatability, but that's something to worry about for another day.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-1.pngMemory\nTier 1
 2OpenComputers/item-8.pngGraphics Card\nTier 1
 1enhancedlootbags/lootbag-46.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1ItemOpenComputers/screen2-0.pngScreen\nHold [NONE] for material costs.

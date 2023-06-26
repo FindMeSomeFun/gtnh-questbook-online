@@ -1,6 +1,6 @@
-witchery/ingredient-28.pngFoul FumeA foul fume (commonly known as sulfur dioxide) is an ingredient used in many recipes. It is acquired with a random chance when cooking vanilla food items (such as bread or raw meats) or jungle saplings in an oven.
+1575witchery/ingredient-28.png0Foul Fume36-1A foul fume (commonly known as sulfur dioxide) is an ingredient used in many recipes. It is acquired with a random chance when cooking vanilla food items (such as bread or raw meats) or jungle saplings in an oven.
 
-§4Food and Wood burning in the oven is currently broken, use saplings instead.0-1ANDpre15560witchery/ingredient-32.pngrewardsItemwitchery/ingredient-27.pngClay Jar
+§4Food and Wood burning in the oven is currently broken, use saplings instead.ANDpre15560witchery/ingredient-32.pngrewardsItemwitchery/ingredient-27.pngClay Jar
 8enhancedlootbags/lootbag-52.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"

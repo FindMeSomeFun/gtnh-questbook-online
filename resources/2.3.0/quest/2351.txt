@@ -1,9 +1,9 @@
-HardcoreEnderExpansion/essence_altar-1.pngEssence Altar Dragon InfusedTo create a Dragon Essence Altar, a player has to use Dragon Essence on the Basic Essence Altar (right-click the altar with the Essence).
+2351HardcoreEnderExpansion/essence_altar-1.png0Essence Altar Dragon Infused30-1To create a Dragon Essence Altar, a player has to use Dragon Essence on the Basic Essence Altar (right-click the altar with the Essence).
 
 After that, the Altar will request 8 random items to be fed into it. 
 Dragon Essence Altar may request the following items: Obsidian, Stone Bricks, Map, Book, Bookshelf, Iron Fence, End Stone, Ender Pearl, Eye of Ender, Enderman Head.
 
-After this you can store more Essense inside the Altar.0-1ANDpre23520HardcoreEnderExpansion/essence_altar-0.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
+After this you can store more Essense inside the Altar.ANDpre23520HardcoreEnderExpansion/essence_altar-0.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
 16enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

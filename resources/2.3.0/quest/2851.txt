@@ -1,5 +1,5 @@
-minecraft/flowing_lava-0.pngTime to Kill (Lava Monster)They are everywhere where there is lava and they shoot at you with fireballs. 
-From the air with a bow and arrow or crossbow they're easy targets.0432000ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+2851minecraft/flowing_lava-0.png0Time to Kill (Lava Monster)39432000They are everywhere where there is lava and they shoot at you with fireballs. 
+From the air with a bow and arrow or crossbow they're easy targets.ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 3dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 3dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"

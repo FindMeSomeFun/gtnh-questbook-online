@@ -1,4 +1,4 @@
-EnderIO/itemMachinePart-0.png§6§lMachine ChassisAll EnderIO machines still require the basic chassis, and it's almost the same recipe as before; Except that you need plates instead of ingots. But that shouldn't be a problem at all...0-1ORpre18350gregtech/gt.blockores-921.png24260gregtech/gt.blockores-1080.pngrewardsChoiceEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+129EnderIO/itemMachinePart-0.png0§6§lMachine Chassis5-1All EnderIO machines still require the basic chassis, and it's almost the same recipe as before; Except that you need plates instead of ingots. But that shouldn't be a problem at all...ORpre18350gregtech/gt.blockores-921.png24260gregtech/gt.blockores-1080.pngrewardsChoiceEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
 2EnderIO/itemMachinePart-0.pngMachine Chassis
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalEnderIO/itemBasicCapacitor-0.pngBasic Capacitor

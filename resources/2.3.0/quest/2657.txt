@@ -1,4 +1,4 @@
-dreamcraft/item.TCetiESeaweedExtract-0.pngIt's Not Going Bad, I Swear!To make your next tier of circuits (Bio Circuits), you need to make Raw Bio Medium. There are three ways of making it.
+2657dreamcraft/item.TCetiESeaweedExtract-0.png1It's Not Going Bad, I Swear!12-1To make your next tier of circuits (Bio Circuits), you need to make Raw Bio Medium. There are three ways of making it.
 
 The first one requires Stemcells, Unknown Crystal and T-Ceti Seaweed Extract at LuV voltage and 94 Sievert (Plutonium level) in a Bacterial Vat. It makes Raw Bio Medium at 4:1 ratio.
 
@@ -6,7 +6,7 @@ The second one is basically the first one, but it requires Infinity Catalyst ins
 
 The third one is the most efficient, but it requires Biocells (which you don't have yet), and 4 dust of Infinity Catalyst at UV voltage and 150 Sievert (Naquadria level) in a Bacterial Vat. It makes Raw Bio Medium at 1:2 ratio.
 
-§3The second and third ways use a different culture.1-1ANDpre26481GalaxySpace/item.Tier8Rocket-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30608.pngRaw Growth Catalyst Medium Cell
+§3The second and third ways use a different culture.ANDpre26481GalaxySpace/item.Tier8Rocket-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30608.pngRaw Growth Catalyst Medium Cell
 1Optionaldreamcraft/item.TCetiESeaweedExtract-0.pngTCetiE-Seaweed Extract
 1bartworks/BioLabParts-0.pngPetri Dish with a Culture\nA Petri Dish containing: Derivantur Cellula Evolutionis (Derivantur Cellula Evolutionis)\nThis is a weak culture, it can not be bred in the Bacterial Vat!\nAdded by BartWorks
 1Retrievalgregtech/gt.metaitem.01-30603.pngRaw Bio Catalyst Medium Cell

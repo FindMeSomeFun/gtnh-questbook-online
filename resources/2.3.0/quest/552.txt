@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-30741.png§5§lHeavy FuelBy adding Hydrogen to sulfuric Heavy Fuel in a Chemical Reactor you can produce Heavy Fuel, with a burn value of 240,000 EU per cell! Aside from this, it's also required for Diesel, in MV, which is a better fuel, and it can also be distilled into three very useful fluids: Benzene, Toluene and Phenol.
+552gregtech/gt.metaitem.01-30741.png0§5§lHeavy Fuel4-1By adding Hydrogen to sulfuric Heavy Fuel in a Chemical Reactor you can produce Heavy Fuel, with a burn value of 240,000 EU per cell! Aside from this, it's also required for Diesel, in MV, which is a better fuel, and it can also be distilled into three very useful fluids: Benzene, Toluene and Phenol.
 
-It's honestly not especially efficient to make Heavy Fuel out of regular Oil. You should try to get Heavy Oil to make it, like from Oilsands Ore in MV once you can. Then use it to make Diesel.0-1ANDpre5431gregtech/gt.blockmachines-421.png5501gregtech/gt.metaitem.01-30001.png5510gregtech/gt.metaitem.01-30738.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
+It's honestly not especially efficient to make Heavy Fuel out of regular Oil. You should try to get Heavy Oil to make it, like from Oilsands Ore in MV once you can. Then use it to make Diesel.ANDpre5431gregtech/gt.blockmachines-421.png5501gregtech/gt.metaitem.01-30001.png5510gregtech/gt.metaitem.01-30738.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
 8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3tasksANDRetrievalgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell

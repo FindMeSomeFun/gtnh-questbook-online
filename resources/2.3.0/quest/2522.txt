@@ -1,4 +1,4 @@
-appliedenergistics2/item.ItemMultiPart-400.pngVisualizing How Much Your StuffThe ME Storage Monitor allows you to visualize how much of an item you have. For example you can tell if you're running low on circuitsand should make more, or how a long crafting process is proceeding. There are a couple of ways to use them.
+2522appliedenergistics2/item.ItemMultiPart-400.png0Visualizing How Much Your Stuff27-1The ME Storage Monitor allows you to visualize how much of an item you have. For example you can tell if you're running low on circuitsand should make more, or how a long crafting process is proceeding. There are a couple of ways to use them.
 
 Rightclick with item: Will display the current level of that item if not locked.
 Rightclick with empty hand: Will reset the display if not locked.
@@ -9,7 +9,7 @@ The ME Conversion Monitor is the upgraded version of the ME Storage Monitor. It 
 
 Shift-right-clicking with item: Attempts to insert the item stack into the network. This works even if it's not the displayed item!
 Shift-double-right-clicking: Attempts to insert all item stacks of the type displayed into the network.
-Right-clicking (while locked): Attempts to pull out a stack of the item displayed.0-1ANDpre25191appliedenergistics2/item.ItemMultiPart-180.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+Right-clicking (while locked): Attempts to pull out a stack of the item displayed.ANDpre25191appliedenergistics2/item.ItemMultiPart-180.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-400.pngME Storage Monitor
 1appliedenergistics2/item.ItemMultiPart-420.pngME Conversion Monitor

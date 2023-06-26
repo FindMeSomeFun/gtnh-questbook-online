@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-12729.pngDeep Earth Heating PumpThis allows you to skip the Fluid Reactor part of a FR setup, by heating the coolant with geothermal energy.
+2766gregtech/gt.blockmachines-12729.png0Deep Earth Heating Pump19-1This allows you to skip the Fluid Reactor part of a FR setup, by heating the coolant with geothermal energy.
 
-It's basically free power, but so is using an everburn urn with the LHE, so whatever. This is insanely expensive, so keep that in mind!0-1ANDpre14121gregtech/gt.blockmachines-1170.png16801gregtech/gt.metaitem.01-32675.png19050gregtech/gt.blockmachines-1154.pngrewardstasksANDOptionalgregtech/gt.blockmachines-4177.pngTungsten Frame Box\nJust something you can put covers on.
+It's basically free power, but so is using an everburn urn with the LHE, so whatever. This is insanely expensive, so keep that in mind!ANDpre14121gregtech/gt.blockmachines-1170.png16801gregtech/gt.metaitem.01-32675.png19050gregtech/gt.blockmachines-1154.pngrewardstasksANDOptionalgregtech/gt.blockmachines-4177.pngTungsten Frame Box\nJust something you can put covers on.
 15gregtech/gt.blockcasings-11.pngHeat Proof Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 1Retrievalgregtech/gt.blockmachines-12729.pngDeep Earth Heating Pump\nMachine Type: Geothermal Heat Pump\nConsumes 512EU/t\nHas 4 Modes, use the Screwdriver to change them:\n0 Idle, 1 & 2 Coolant Heating Mode (no Difference between them), 3 Retract\nExplodes when it runs out of Coolant\nHeats up 960L/s Coolant(minus 10% per Maintenance Problem)\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: bartimaeusnek via BartWorks
 1

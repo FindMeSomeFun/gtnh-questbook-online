@@ -1,4 +1,4 @@
-GalacticraftCore/item.fuelCanisterPartial-1.pngRocket FuelFor every flight the rocket needs some fuel. So refine some fuel for your rocket.
+827GalacticraftCore/item.fuelCanisterPartial-1.png1Rocket Fuel24-1For every flight the rocket needs some fuel. So refine some fuel for your rocket.
 
 For your T1/2 rockets you have 2 options. You can either use Cetane-Boosted Diesel or make RP-1 rocket fuel. We will have a look at RP-1 rocket fuel in the next quest.
 
@@ -6,5 +6,5 @@ You'll need something with more oomph for the later rockets.
 
 For the moon, a full rocket leaving from the OW should have enough fuel left to make it back. But you might want to take extra just in case.
 
-Rocket Fuel usage is not based on either the destination or the type of fuel used, but instead the rocket itself, with higher tiers both storing more fuel, and consuming less. Also, the gravity of the planet affects how much fuel is used, with lower gravity locations using less fuel to launch.1-1ANDpre27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Rocket Fuel usage is not based on either the destination or the type of fuel used, but instead the rocket itself, with higher tiers both storing more fuel, and consuming less. Also, the gravity of the planet affects how much fuel is used, with lower gravity locations using less fuel to launch.ANDpre27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

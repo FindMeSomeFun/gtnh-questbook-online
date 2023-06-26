@@ -1,8 +1,8 @@
-Thaumcraft/blockMetalDevice-0.pngNot For SoupAt least not for edible soup, but for essentia slurry. Get yourself a cauldron and give it a solid whack with your wand. Place some netherrack 2 blocks under the crucible and set it on fire with some flint and steel. Lastly you need to fill it with water. This one works with pipes, so you can automate that.
+241Thaumcraft/blockMetalDevice-0.png1Not For Soup31-1At least not for edible soup, but for essentia slurry. Get yourself a cauldron and give it a solid whack with your wand. Place some netherrack 2 blocks under the crucible and set it on fire with some flint and steel. Lastly you need to fill it with water. This one works with pipes, so you can automate that.
 
 Now you can do crucible recipes!
 
-Just don't put in too much or, well, Bad Things will happen.1-1ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemminecraft/netherrack-0.pngNetherrack
+Just don't put in too much or, well, Bad Things will happen.ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemminecraft/netherrack-0.pngNetherrack
 1minecraft/flint_and_steel-0.pngFlint and Steel
 1Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"

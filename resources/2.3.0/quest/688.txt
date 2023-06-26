@@ -1,4 +1,4 @@
-minecraft/golden_chestplate-0.png"Nice to Have" ArmorThe gold armor is a "nice to have" armor. The durability is very low but you look expensive when you wear it.0-1ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/golden_apple-0.pngGolden Apple\nminecraft:golden_apple
+688minecraft/golden_chestplate-0.png0"Nice to Have" Armor14-1The gold armor is a "nice to have" armor. The durability is very low but you look expensive when you wear it.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/golden_apple-0.pngGolden Apple\nminecraft:golden_apple
 4minecraft/golden_apple-1.pngGolden Apple\nminecraft:golden_apple
 1enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

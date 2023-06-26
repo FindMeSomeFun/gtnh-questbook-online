@@ -1,3 +1,3 @@
-appliedenergistics2/tile.BlockCraftingUnit-2.pngCo-Processing x4Your crafting CPU is massive and still can't keep up? Don't worry, we have a custom solution for that!0-1ANDpre13260appliedenergistics2/tile.BlockCraftingUnit-1.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+393appliedenergistics2/tile.BlockCraftingUnit-2.png0Co-Processing x427-1Your crafting CPU is massive and still can't keep up? Don't worry, we have a custom solution for that!ANDpre13260appliedenergistics2/tile.BlockCraftingUnit-1.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 4tasksANDRetrievalappliedenergistics2/tile.BlockCraftingUnit-2.pngQuad Core Co-Processing Unit
 1

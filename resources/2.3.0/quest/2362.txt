@@ -1,5 +1,5 @@
-HardcoreEnderExpansion/blank_gem-0.pngBlank GemThe Blank Gem is used solely to create higher level Gems.
-0-1ANDpre23530HardcoreEnderExpansion/instability_orb_ore-0.pngrewardsChoicegregtech/gt.metaitem.98-4.pngEnder Goo Cell
+2362HardcoreEnderExpansion/blank_gem-0.png0Blank Gem30-1The Blank Gem is used solely to create higher level Gems.
+ANDpre23530HardcoreEnderExpansion/instability_orb_ore-0.pngrewardsChoicegregtech/gt.metaitem.98-4.pngEnder Goo Cell
 16HardcoreEnderExpansion/essence-0.pngDragon Essence
 8HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
 4HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard

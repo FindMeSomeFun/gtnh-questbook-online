@@ -1,6 +1,6 @@
-RandomThings/dropFilter-1.png§5§lThrowing Out the TrashAlready have barrels full of cobblestone? The voiding drop filter can be setup to automatically void any item on pickup. Cobble, dirt, arrows, saplings, etc. It's handy for when you don't have much room for junk.
+1863RandomThings/dropFilter-1.png0§5§lThrowing Out the Trash4-1Already have barrels full of cobblestone? The voiding drop filter can be setup to automatically void any item on pickup. Cobble, dirt, arrows, saplings, etc. It's handy for when you don't have much room for junk.
 
-To use, rightclick the item filter you get as a reward. Put the things you want voided in the item filter list by clicking in there with them. Esc, then rightclick the voiding drop filter, and put the item filter inside.0-1ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemberriespp/BppPotions-8.pngReal Bottled J\u00e4germeister!\nDas ist des J\u00e4gers'' Eherenschild,\ndass er besch\u00fctzt und hegt sein Wild,\nweidm\u00e4nnisch jagt, wie sich''s geh\u00f6rt,\nden Sch\u00f6pfer im Gesch\u00f6pfe ehrt.\nIt will give 1h potioneffects!
+To use, rightclick the item filter you get as a reward. Put the things you want voided in the item filter list by clicking in there with them. Esc, then rightclick the voiding drop filter, and put the item filter inside.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemberriespp/BppPotions-8.pngReal Bottled J\u00e4germeister!\nDas ist des J\u00e4gers'' Eherenschild,\ndass er besch\u00fctzt und hegt sein Wild,\nweidm\u00e4nnisch jagt, wie sich''s geh\u00f6rt,\nden Sch\u00f6pfer im Gesch\u00f6pfe ehrt.\nIt will give 1h potioneffects!
 1RandomThings/filter-1.pngItem Filter
 1tasksANDRetrievalRandomThings/dropFilter-1.pngVoiding Drop Filter
 1

@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-46.png§4§c§lLuV Energy HatchIf you want to upgrade your multis (and make the Fusion Reactor) you'll need to make these. You'll need a ton of wafers for Fusion, so step up your Indium game if you haven't already.
+2599gregtech/gt.blockmachines-46.png1§4§c§lLuV Energy Hatch9-1If you want to upgrade your multis (and make the Fusion Reactor) you'll need to make these. You'll need a ton of wafers for Fusion, so step up your Indium game if you haven't already.
 
-You need an LuV Cutting Machine, or an OC'd multi.1-1ANDpre17111gregtech/gt.blockmachines-2400.png17221gregtech/gt.blockmachines-10780.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32052.pngHPIC Wafer\nRaw Circuit
+You need an LuV Cutting Machine, or an OC'd multi.ANDpre17111gregtech/gt.blockmachines-2400.png17221gregtech/gt.blockmachines-10780.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32052.pngHPIC Wafer\nRaw Circuit
 1gregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust\nInGaP
 8Optionalgregtech/gt.metaitem.03-32058.pngUHPIC Wafer\nRaw Circuit
 1gregtech/gt.metaitem.03-32059.pngUltra High Power IC\nUltra High Power Circuit

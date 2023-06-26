@@ -1,10 +1,10 @@
-GoodGenerator/rodCompressedUranium4-0.pngHigh Density Vacuum NukesThrow more U238 at it!
+3171GoodGenerator/rodCompressedUranium4-0.png0High Density Vacuum Nukes23-1Throw more U238 at it!
 
 If you ever though that a vacuum nuke doesn't burn through Uranium fast enough, this one is for you. High Density Uranium, or HDU, outputs twice the EU of the regular Uranium rods, and lasts for 70000 seconds instead of 20000. The heat output, like mentioned before, is the same, so the actual effect of using these rods in a vacuum nuke setup is that your final EU/t per nuke is multiplied by 2, and rods will need to be replaced less often, but the U238 consumption per cycle is a lot higher.
 
 This also helps if you aren't automating the fuel rod input, since each one lasts longer. It's better if it's automated, but there's no danger of explosions if this part is done manually, so it's technically safe, as long as your EU buffer doesn't start complaining from lack of input.
 
-As the last step before using The Core, you have High Density Plutonium. This HDP has MOX-like behavior, so it can output even more EU/t than HDU, up to several LuV amps per nuke, but you need to keep it running at high temperatures, which means even more risk! There is no such thing as too much safety, if you try to put one of these together.0-1ANDpre31700miscutils/particleBase-24.pngrewardstasksANDOptionalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod\nDurability: 70000/70000\nHas the same heat output as uranium
+As the last step before using The Core, you have High Density Plutonium. This HDP has MOX-like behavior, so it can output even more EU/t than HDU, up to several LuV amps per nuke, but you need to keep it running at high temperatures, which means even more risk! There is no such thing as too much safety, if you try to put one of these together.ANDpre31700miscutils/particleBase-24.pngrewardstasksANDOptionalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod\nDurability: 70000/70000\nHas the same heat output as uranium
 10GoodGenerator/rodCompressedPlutonium4-0.pngQuad Fuel Rod\nDurability: 30000/30000\nHas the same heat output as uranium\nHas Mox Behaviour
 10RetrievalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod\nDurability: 70000/70000\nHas the same heat output as uranium
 1

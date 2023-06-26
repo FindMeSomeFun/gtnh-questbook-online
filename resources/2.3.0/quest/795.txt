@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-1180.png§5§lBasic Circuit AssemblerAdvanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine. 
+795gregtech/gt.blockmachines-1180.png1§5§lBasic Circuit Assembler4-1Advanced (HV) circuits require an LV circuit assembling machine. Basic (LV) and Good (MV) ones can also be made much more efficiently with this machine. 
 
-However, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!1-1ANDpre921gregtech/gt.metaitem.01-32650.png5291gregtech/gt.metaitem.01-32680.png7171gregtech/gt.metaitem.01-32702.pngrewardsChoicegregtech/gt.metaitem.01-11303.pngElectrum Ingot\nAgAu
+However, all circuit assemblers need higher tier circuits than the other machines of their tier. This means you have to use MV circuits instead of the LV ones you've been using until now. I know you want it, so make it already!ANDpre921gregtech/gt.metaitem.01-32650.png5291gregtech/gt.metaitem.01-32680.png7171gregtech/gt.metaitem.01-32702.pngrewardsChoicegregtech/gt.metaitem.01-11303.pngElectrum Ingot\nAgAu
 4gregtech/gt.metaitem.01-11345.pngAnnealed Copper Ingot\nCu
 4enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

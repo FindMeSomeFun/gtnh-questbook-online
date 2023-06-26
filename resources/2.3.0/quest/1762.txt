@@ -1,8 +1,8 @@
-OpenComputers/keyboard-0.pngI Love Pressing the F5 Key.It's so refreshing.
+1762OpenComputers/keyboard-0.png0I Love Pressing the F5 Key.26-1It's so refreshing.
 
 Place a keyboard facing a screen, or stuck to the back of a screen to make it able to interact with a computer.
 
-Absolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.0-1ANDpre17590OpenComputers/item-54.pngrewardsChoicegregtech/gt.metaitem.01-32740.pngComputer Monitor Cover\nDisplays Data and GUI
+Absolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.ANDpre17590OpenComputers/item-54.pngrewardsChoicegregtech/gt.metaitem.01-32740.pngComputer Monitor Cover\nDisplays Data and GUI
 2enhancedlootbags/lootbag-46.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemharvestcraft/colasodaItem-0.pngCola Soda\nharvestcraft:colasodaItem
 1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web

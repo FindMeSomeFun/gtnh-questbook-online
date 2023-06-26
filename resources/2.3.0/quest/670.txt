@@ -1,8 +1,8 @@
-IC2/itemBoat-0.pngCarbon Fiber BoatUnlike all other boats, this amazing carbon fiber canoe is COMPLETELY INDESTRUCTIBLE!* This means that you can smash it into as many beaches, lily pads and alligators as you like, the carbon fiber canoe won't take a scratch!
+670IC2/itemBoat-0.png0Carbon Fiber Boat14-1Unlike all other boats, this amazing carbon fiber canoe is COMPLETELY INDESTRUCTIBLE!* This means that you can smash it into as many beaches, lily pads and alligators as you like, the carbon fiber canoe won't take a scratch!
 
 Warning: We are not held responsible for any damage caused by riding the carbon fiber canoe into a lava lake or the Void.
 
-*Therefore, warranty is NOT included.0-1ANDpre6720dreamcraft/item.ExtruderShapeBoat-0.png6730gregtech/gt.blockmachines-281.pngrewardsChoiceharvestcraft/fishtrap-0.pngFish Trap\nBurn Time: 300
+*Therefore, warranty is NOT included.ANDpre6720dreamcraft/item.ExtruderShapeBoat-0.png6730gregtech/gt.blockmachines-281.pngrewardsChoiceharvestcraft/fishtrap-0.pngFish Trap\nBurn Time: 300
 1minecraft/waterlily-0.pngLily Pad
 32enhancedlootbags/lootbag-33.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

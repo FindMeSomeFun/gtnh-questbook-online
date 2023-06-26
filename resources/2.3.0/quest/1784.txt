@@ -1,11 +1,11 @@
-TConstruct/travelWings-0-upgraded.pngTraveller's Wings UpgradesYour wings can be equiped with a few modifications such as feather falling and double jump. Place the wings in the center of a Crafting Station.
+1784TConstruct/travelWings-0-upgraded.png0Traveller's Wings Upgrades14-1Your wings can be equiped with a few modifications such as feather falling and double jump. Place the wings in the center of a Crafting Station.
 
 Feather Fall allows you to glide down slowly in air.
 Double Jump means you jump while in the air to jump again.
 
 Hint:
 Autorepair can be added to the wings as well.
-Every Armor part has 3 Slots for modification.0-1ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceminecraft/piston-0.pngPiston
+Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceminecraft/piston-0.pngPiston
 4minecraft/ghast_tear-0.pngGhast Tear
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"

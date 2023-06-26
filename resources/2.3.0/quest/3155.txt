@@ -1,4 +1,4 @@
-gregtech/gt.ThoriumcellDep-0.pngThorium as Breeding FuelAlternatively, you might choose to only process Thorium for its main output, Lutetium. This is important because Lutetium is required to make Americium in a Fusion Reactor down the line, and that is a recipe you will need to do in order to progress. Your objective is to breed Thorium into Lutetium, which means you might want to focus on a breeder reactor.
+3155gregtech/gt.ThoriumcellDep-0.png0Thorium as Breeding Fuel23-1Alternatively, you might choose to only process Thorium for its main output, Lutetium. This is important because Lutetium is required to make Americium in a Fusion Reactor down the line, and that is a recipe you will need to do in order to progress. Your objective is to breed Thorium into Lutetium, which means you might want to focus on a breeder reactor.
 
 What is a breeder reactor? In this case, it's an IC2 nuke designed to consume as much Thorium as possible. The main cost here is the amount of chambers or nuke components you'll have to make. If you want to save on Overclocked Heat Vents, make a tower of 0-chamber nukes, each with the following setup:
 
@@ -29,7 +29,7 @@ P -> Reactor Plating (3 needed)
 
 (Each of the latter is worth 7x the former in terms of breeding.)
 
-To complete this quest, you'll need to get Lutetium from one cycle of the any reactor setup. Which setup you choose is up to you, of course.0-1ANDpre31510gregtech/gt.Thoriumcell-0.pngrewardstasksANDOptionalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod\n100 / 100\nDurability: 50,000/50,000
+To complete this quest, you'll need to get Lutetium from one cycle of the any reactor setup. Which setup you choose is up to you, of course.ANDpre31510gregtech/gt.Thoriumcell-0.pngrewardstasksANDOptionalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod\n100 / 100\nDurability: 50,000/50,000
 16IC2/reactorHeatSwitch-1.pngHeat Exchanger
 2IC2/reactorVentGold-1.pngOverclocked Heat Vent
 21gregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod\n100 / 100\nDurability: 1/1

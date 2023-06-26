@@ -1,8 +1,8 @@
-Forestry/solderingIron-0.pngChanging Your Foresty Circuit ConfigurationThe (forestry) soldering iron is a tool used for attaching electron tubes to circuit boards in order to manipulate how an electrical engine works or to program multifarms, as well as upgrading the squeezer or centrifuge. Honestly, you'll probably only use it for the multifarm though.
+584Forestry/solderingIron-0.png0Changing Your Foresty Circuit Configuration16-1The (forestry) soldering iron is a tool used for attaching electron tubes to circuit boards in order to manipulate how an electrical engine works or to program multifarms, as well as upgrading the squeezer or centrifuge. Honestly, you'll probably only use it for the multifarm though.
 
 Once electron tubes have been attached to a circuit board they cannot be removed, only replaced. The circuit board is automatically crafted as soon as the basic recipe requirements are met, so it's best practice to first place your electron tubes and then add the circuit board.
 
-The soldering iron can also be used to remove the circuit board from electrical engines, multifarms, squeezers and centrifuges by opening the machine's GUI and left clicking with the soldering iron on the circuit board slot.0-1ANDpre5820Forestry/ffarm-0.pngrewardsItemForestry/thermionicTubes-1.pngTin Electron Tube
+The soldering iron can also be used to remove the circuit board from electrical engines, multifarms, squeezers and centrifuges by opening the machine's GUI and left clicking with the soldering iron on the circuit board slot.ANDpre5820Forestry/ffarm-0.pngrewardsItemForestry/thermionicTubes-1.pngTin Electron Tube
 4Forestry/thermionicTubes-0.pngCopper Electron Tube
 4Forestry/thermionicTubes-2.pngBronze Electron Tube
 4enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

@@ -1,4 +1,4 @@
-Forestry/chipsets-1.pngEnhanced Farm LogicThis circuit allows you to configure 2/4 areas of your farm.0-1ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+593Forestry/chipsets-1.png0Enhanced Farm Logic16-1This circuit allows you to configure 2/4 areas of your farm.ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
 8IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
 2gregtech/gt.metaitem.03-32100.pngCircuit Board\nA basic Circuit Board
 1enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

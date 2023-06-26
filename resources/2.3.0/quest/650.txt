@@ -1,4 +1,4 @@
-adventurebackpack/copterPack-0.pngCopterpack, More 'Hover' than 'Jet'The copterpack is the first jetpack with a hover mode. It uses several different types of fuels to power it. 
+650adventurebackpack/copterPack-0.png0Copterpack, More 'Hover' than 'Jet'14-1The copterpack is the first jetpack with a hover mode. It uses several different types of fuels to power it. 
 
 Buckets of creosote, lava, oil, diesel, cetane, ethanol, and fuel will work.
 
@@ -8,7 +8,7 @@ Max flying height is limited to Y-200.
 
 Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
 
-§3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.0-1ANDpre18700gregtech/gt.blockmachines-1111.pngrewardsChoiceBuildCraftEnergy/bucketFuel-0.pngFuel Bucket
+§3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.ANDpre18700gregtech/gt.blockmachines-1111.pngrewardsChoiceBuildCraftEnergy/bucketFuel-0.pngFuel Bucket
 4minecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling III\nHold the Sneak key for Enchantment Description
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

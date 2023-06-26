@@ -1,6 +1,6 @@
-dreamcraft/item.TwilightCrystal-0.pngStuck in the Twilight Forest?If you're in the Twilight Forest and your portal gets broken, you're kinda stuck. Every 24h you're able to exchange some materials to get a new portal crystal to escape.
+1368dreamcraft/item.TwilightCrystal-0.png0Stuck in the Twilight Forest?311728000If you're in the Twilight Forest and your portal gets broken, you're kinda stuck. Every 24h you're able to exchange some materials to get a new portal crystal to escape.
 
-§3Also consider making an extra yourself and sticking it in a chest on the TF side, just in case.01728000ANDpre2251minecraft/end_portal-0.pngrewardsItemdreamcraft/item.TwilightCrystal-0.pngQuick and Dirty Portal Generator
+§3Also consider making an extra yourself and sticking it in a chest on the TF side, just in case.ANDpre2251minecraft/end_portal-0.pngrewardsItemdreamcraft/item.TwilightCrystal-0.pngQuick and Dirty Portal Generator
 1tasksANDConsumeTwilightForest/item.tfFeather-0.pngRaven''s Feather
 2TwilightForest/tile.TFFirefly-0.pngFirefly
 4TwilightForest/item.torchberries-0.pngTorchberries

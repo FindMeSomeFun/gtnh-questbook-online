@@ -1,8 +1,8 @@
-Forestry/factory-1.pngThe CarpenterThe carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.
+578Forestry/factory-1.png0The Carpenter16-1The carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.
 
 The carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
 
-§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.0-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceminecraft/glass-0.pngGlass\nGlass-Tier: HV
+§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceminecraft/glass-0.pngGlass\nGlass-Tier: HV
 16minecraft/redstone-0.pngRedstone
 10gregtech/gt.metaitem.01-30712.pngCreosote Cell
 8enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

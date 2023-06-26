@@ -1,6 +1,6 @@
-GalacticraftCore/tile.airLockFrame-1.pngAirlocksAn airlock is an airtight door used to provide a passage between enclosed rooms and between an enclosed room and outer space. It is made from Air Lock Frames and one Air Lock Controller.
+1465GalacticraftCore/tile.airLockFrame-1.png0Airlocks24-1An airlock is an airtight door used to provide a passage between enclosed rooms and between an enclosed room and outer space. It is made from Air Lock Frames and one Air Lock Controller.
 
-The airlock will keep air inside the room while it is closed. But when the airlock is open, the room is no longer sealed and oxygen gear must be worn until the airlock is closed. In environments with extreme temperatures, Thermal Padding must also be worn.0-1ANDpre14670GalacticraftCore/tile.sealer-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
+The airlock will keep air inside the room while it is closed. But when the airlock is open, the room is no longer sealed and oxygen gear must be worn until the airlock is closed. In environments with extreme temperatures, Thermal Padding must also be worn.ANDpre14670GalacticraftCore/tile.sealer-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe\nGlass-Tier: HV
 32GalacticraftMars/item.null-5.pngCompressed Desh
 8GalacticraftCore/item.basicItem-14.pngAdvanced Wafer
 2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

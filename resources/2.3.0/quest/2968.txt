@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-32002.png§6§lLarge Essentia Generator (Good Generator)This Essentia Generator is a rework version of bart's one. The essentia fuel value is different from bart's one and you can find all information about it in Thaumonomicon.
+2968gregtech/gt.blockmachines-32002.png0§6§lLarge Essentia Generator (Good Generator)19-1This Essentia Generator is a rework version of bart's one. The essentia fuel value is different from bart's one and you can find all information about it in Thaumonomicon.
 
-§3PS: The essentia fuel value is still in test state. It may get changed.0-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+§3PS: The essentia fuel value is still in test state. It may get changed.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1enhancedlootbags/lootbag-9-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 1tasksANDOptionalGoodGenerator/essentiaCell-0.pngNovice Essentia Diffusion Cell\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nHatch Tier: EV

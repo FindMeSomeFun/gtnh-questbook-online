@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32671.png§a§lMV Field GeneratorField Generators are powerful but expensive devices.0-1ANDpre18780gregtech/gt.metaitem.01-32707.pngrewardsItemgregtech/gt.metaitem.01-17028.pngTitanium Plate\nTi
+1880gregtech/gt.metaitem.01-32671.png0§a§lMV Field Generator7-1Field Generators are powerful but expensive devices.ANDpre18780gregtech/gt.metaitem.01-32707.pngrewardsItemgregtech/gt.metaitem.01-17028.pngTitanium Plate\nTi
 8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.metaitem.01-32671.pngField Generator

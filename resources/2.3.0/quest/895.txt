@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32631.png§6§lYou're Gonna Hate This in MV Too #1The first item you'll need a lot of in MV too. If you want to pull items out of chests or barrels you'll need one. Way faster than the LV one, so it's actually useful.1-1ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+895gregtech/gt.metaitem.01-32631.png1§6§lYou're Gonna Hate This in MV Too #15-1The first item you'll need a lot of in MV too. If you want to pull items out of chests or barrels you'll need one. Way faster than the LV one, so it's actually useful.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
 16enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-32631.pngConveyor Module\n1 stack every 5 secs (as Cover)

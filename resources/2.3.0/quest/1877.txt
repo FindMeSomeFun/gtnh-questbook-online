@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-461.png§9§lUUMatterNow you can actually make the UUM with a Mass Fabricator. Well, technically you could make it without UUA, but that's way more expensive. To make sure it only runs with UUA, put a programmed circuit (any value) in the machine's slot. UUMatter can be used for some very specific things, such as replicating §osome§r materials (check NEI, mostly/all periodic table), used with crops to create an ore, some specific high-level recipes need it, and...you can also sit in it to get regen.
+1877gregtech/gt.blockmachines-461.png0§9§lUUMatter6-1Now you can actually make the UUM with a Mass Fabricator. Well, technically you could make it without UUA, but that's way more expensive. To make sure it only runs with UUA, put a programmed circuit (any value) in the machine's slot. UUMatter can be used for some very specific things, such as replicating §osome§r materials (check NEI, mostly/all periodic table), used with crops to create an ore, some specific high-level recipes need it, and...you can also sit in it to get regen.
 
 The energy usage and overclocking of the Mass Fabricator is different than the usual GT way. To have fixed EU to UUM ratios for all tiers, the machine does perfect 2/2 overclocks. It also start with a very high amperage in LV. The following chart should make it more clear:
 
@@ -14,7 +14,7 @@ Put in power (and hopefully UUA), and out comes UUM. You should also know that y
 
 For now, just stockpile the UU matter. You need data orbs to use the replicator, and that's explained next tier. 
 
-§3You only need to complete one of the tasks.0-1ANDpre18760gregtech/gt.blockmachines-473.pngrewardsChoicegregtech/gt.metaitem.01-30721.pngUU-Amplifier Cell\nAccelerates the Mass Fabricator
+§3You only need to complete one of the tasks.ANDpre18760gregtech/gt.blockmachines-473.pngrewardsChoicegregtech/gt.metaitem.01-30721.pngUU-Amplifier Cell\nAccelerates the Mass Fabricator
 1gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
 16EnderIO/blockTank-0.pngFluid Tank
 2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

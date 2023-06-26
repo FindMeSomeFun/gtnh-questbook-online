@@ -1,8 +1,8 @@
-witchery/ingredient-95.pngSleep Well!The Brew of Sleeping is the normal way for a Witch to enter the Spirit World. 
+1563witchery/ingredient-95.png0Sleep Well!36-1The Brew of Sleeping is the normal way for a Witch to enter the Spirit World. 
 
 Needless to say an unprepared witch will almost always experience a nightmare when they head to the spirit world this way. 
 
-The witch must drink the brew and then will fall into a deep sleep, leaving their body and items behind and entering the world of spirits.0-1ANDpre15620witchery/ingredient-75.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
+The witch must drink the brew and then will fall into a deep sleep, leaving their body and items behind and entering the world of spirits.ANDpre15620witchery/ingredient-75.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
 16witchery/ingredient-14.pngMutandis
 16enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"

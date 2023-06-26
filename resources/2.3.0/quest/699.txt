@@ -1,10 +1,10 @@
-Railcraft/machine.alpha-7.png§6§lWhy One Coke Oven When You Can Have Ten?Your bricked blast furnace uses coal like hell and your steam boilers do too? Well it's time to make more coke ovens and automate them a bit. Wooden fluid pipes and tin item pipes will help you reach your goal. You can use either faucets with redstone clocks or LV pumps to empty the creosote. For the charcoal, hoppers are easy to get once you have an assembler.
+699Railcraft/machine.alpha-7.png0§6§lWhy One Coke Oven When You Can Have Ten?17-1Your bricked blast furnace uses coal like hell and your steam boilers do too? Well it's time to make more coke ovens and automate them a bit. Wooden fluid pipes and tin item pipes will help you reach your goal. You can use either faucets with redstone clocks or LV pumps to empty the creosote. For the charcoal, hoppers are easy to get once you have an assembler.
 
 Unlike GregTech multiblocks, coke ovens must have 1 space separating each oven.
 
 Search NEI for a more efficient way to make coke oven bricks.
 
-§4You need to use a steel wrench on tin item pipes. Note that this will generate lots of pollution, consider putting it further away.0-1ANDpre911gregtech/gt.metaitem.01-32630.png931gregtech/gt.metaitem.01-32610.pngrewardsItemRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
+§4You need to use a steel wrench on tin item pipes. Note that this will generate lots of pollution, consider putting it further away.ANDpre911gregtech/gt.metaitem.01-32630.png931gregtech/gt.metaitem.01-32610.pngrewardsItemRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
 16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1ChoiceJABBA/barrel-0.pngBetter Barrel
 10JABBA/upgradeCore-0.pngStorage upgrade\nSlots Used :1\nIncreases the storage capacity by 64 stacks

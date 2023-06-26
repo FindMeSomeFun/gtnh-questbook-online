@@ -1,4 +1,4 @@
-structurelib/item.structurelib.frontRotationTool-0.pngTecTech MultiblocksTecTech Multiblock Common Functionality
+2682structurelib/item.structurelib.frontRotationTool-0.png0TecTech Multiblocks10-1TecTech Multiblock Common Functionality
 
 Multiple Ampere and Laser Hatches Compatibility - to ease power distribution.
 
@@ -23,5 +23,5 @@ Control buttons - Buttons might change their behavior and appearance depending o
 5) Power Switch - Soft Mallet with your finger...
 
 6) Input slot - Standard functionality.
-0-1ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

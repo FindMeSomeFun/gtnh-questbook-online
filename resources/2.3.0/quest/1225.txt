@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32705.png§9§lMainframes, Your First IV Circuit Mainframes are the first IV Circuits you can make. It's used for a few EV machines, and basically all IV machines and components.1-1ANDpre12221gregtech/gt.blockmachines-1182.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer\nRaw Circuit
+1225gregtech/gt.metaitem.01-32705.png1§9§lMainframes, Your First IV Circuit 6-1Mainframes are the first IV Circuits you can make. It's used for a few EV machines, and basically all IV machines and components.ANDpre12221gregtech/gt.blockmachines-1182.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer\nRaw Circuit
 16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
 2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

@@ -1,6 +1,6 @@
-Railcraft/machine.gamma-4.pngFluid Loader and UnloaderIf you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.
+1182Railcraft/machine.gamma-4.png0Fluid Loader and Unloader14-1If you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.
 
-§3PS: You can also use the long-distance pipeline.0-1ANDpre8660minecraft/rail-0.pngrewardsChoicegregtech/gt.blockmachines-5103.pngLarge Wooden Fluid Pipe\nFluid Capacity: 1,200 L/sec\nHeat Limit: 350 K
+§3PS: You can also use the long-distance pipeline.ANDpre8660minecraft/rail-0.pngrewardsChoicegregtech/gt.blockmachines-5103.pngLarge Wooden Fluid Pipe\nFluid Capacity: 1,200 L/sec\nHeat Limit: 350 K
 128gregtech/gt.metaitem.01-32610.pngElectric Pump\n32 L/t (640 L/s) as Cover
 1minecraft/rail-0.pngTrack
 64enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

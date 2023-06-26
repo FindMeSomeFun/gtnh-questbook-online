@@ -1,4 +1,4 @@
-witchery/seedsbelladonna-0.pngWitchery SeedsTo get Witchery seeds, use a hoe on grass blocks away from water. To open the rest of the questline, you will need to do Thaumcraft quests and research the Witchery tab in the Thaumonomicon.
+1560witchery/seedsbelladonna-0.png0Witchery Seeds36-1To get Witchery seeds, use a hoe on grass blocks away from water. To open the rest of the questline, you will need to do Thaumcraft quests and research the Witchery tab in the Thaumonomicon.
 
 According to legend, when the root of the Mandrake plant is dug up it screams and kills all who hear it. This is only partially true. A fully grown Mandrake may scream causing immense discomfort to those around. This is why it is best to harvest the Mandrake root at night when the plant is more likely to be dormant. The fully grown Mandrake can be harvested to obtain more Mandrake seeds and a Mandrake.
 
@@ -17,7 +17,7 @@ Garlic is a plantable crop that can be used to make tasty food, and to deal with
 Garlic bulbs can be used to make meaty stew, a particularly nourishing meal. It is also the main ingredient in making a Garlic Garland, a useful tool in warding off vampires. Finally, garlic can be used by witches in a Witches' Cauldron to make a vampire Weakening brew, and by Witch Hunters, to make vampire resistant armor.
 
 Wolfsbane seeds can be planted and eventually grow into the multistage Wolfsbane plant. The fully grown Wolfsbane plant can be harvested to obtain more Wolfsbane seeds and the Wolfsbane flower.
-0-1ANDpre4830minecraft/wheat_seeds-0.pngrewardsItemIC2/blockCrop-0.pngCrop
+ANDpre4830minecraft/wheat_seeds-0.pngrewardsItemIC2/blockCrop-0.pngCrop
 16minecraft/wheat_seeds-0.pngSeeds
 16Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalwitchery/seedsmandrake-0.pngMandrake Seeds

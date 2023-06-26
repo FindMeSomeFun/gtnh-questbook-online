@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.01-2375.png§9§lRutileYou've gotten some Rutile as a byproduct by now, right? Or EBF'd some Ilmenite?
+1012gregtech/gt.metaitem.01-2375.png1§9§lRutile6-1You've gotten some Rutile as a byproduct by now, right? Or EBF'd some Ilmenite?
 
 Rutile, Chlorine and Carbon makes Titaniumtetrachloride, and some CO. You can recycle this for Carbon if you want or void it.
 
-Combining TiCl4 with Magnesium in an HV EBF will give you a Hot Titanium ingot, and Magnesiumchloride. You can recyle this as well to get all the Magnesium and Chlorine back using some Sodium.1-1ORpre10111gregtech/gt.blockores-822.png14241gregtech/gt.blockores-28.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Combining TiCl4 with Magnesium in an HV EBF will give you a Hot Titanium ingot, and Magnesiumchloride. You can recyle this as well to get all the Magnesium and Chlorine back using some Sodium.ORpre10111gregtech/gt.blockores-822.png14241gregtech/gt.blockores-28.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

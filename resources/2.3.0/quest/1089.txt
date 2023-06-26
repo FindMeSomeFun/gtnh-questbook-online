@@ -1,8 +1,8 @@
-harvestcraft/heartybreakfastItem-0.pngHearty BreakfastNow let's combine all the things together and make a healthy and delicious breakfast.
+1089harvestcraft/heartybreakfastItem-0.png0Hearty Breakfast13-1Now let's combine all the things together and make a healthy and delicious breakfast.
 
 Some cooked meat, potato cakes, toast, fried egg and a tasty juice provide you with a very nourishing meal.
 
-You can use any cooked meat and any fruit juice here.0-1ANDpre6380harvestcraft/toastItem-0.png10860harvestcraft/strawberryjuiceItem-0.png10870harvestcraft/potatocakesItem-0.png10880harvestcraft/friedeggItem-0.pngrewardsChoiceharvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem
+You can use any cooked meat and any fruit juice here.ANDpre6380harvestcraft/toastItem-0.png10860harvestcraft/strawberryjuiceItem-0.png10870harvestcraft/potatocakesItem-0.png10880harvestcraft/friedeggItem-0.pngrewardsChoiceharvestcraft/friedeggItem-0.pngFried Egg\nharvestcraft:friedeggItem
 4harvestcraft/potatocakesItem-0.pngPotato Cakes\nharvestcraft:potatocakesItem
 4harvestcraft/toastItem-0.pngToast\nharvestcraft:toastItem
 4enhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

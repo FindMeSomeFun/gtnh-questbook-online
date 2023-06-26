@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-17000.pngInfinite Energy StorageYou shouldn't click on links from strangers! Although this sounds like clickbait it is true. From a certain point of view.
+2971gregtech/gt.blockmachines-17000.png0Infinite Energy Storage20-1You shouldn't click on links from strangers! Although this sounds like clickbait it is true. From a certain point of view.
 
 Use the (potential) force! And store energy that way. Simply construct a dam and floor vast areas with water. You may add energy to your storage by pumping more water into it or just drain it back into energy whenever you need. This works especially well with fluctuating energy sources like wind, water, and solar. Or you dump excess energy into it so you can use it another time. The capacity is huge and the choice is yours.
 
@@ -13,7 +13,7 @@ Of course, there is also a normal GUI (simple right-click). It shows you the ene
 
 If you have any further questions, find missing information, or have suggestions please do not hesitate to post on the official GT New Horizons Discord. Please add '@SinTh0r4s' to your post to make sure I’ll see it.
 
-§4A warning though: there have been a lot of mentions of bugs and even world corruptions caused by the Hydro Dam. Use at your own risk. If you have more detailed information, please report these problems on the GTNH github.0-1ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
+§4A warning though: there have been a lot of mentions of bugs and even world corruptions caused by the Hydro Dam. Use at your own risk. If you have more detailed information, please report these problems on the GTNH github.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
 16gregtech/gt.integrated_circuit-2.pngProgrammed Circuit\nConfiguration: == 2\nRight click to reconfigure\nNeeds a screwdriver or circuit programming tool
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

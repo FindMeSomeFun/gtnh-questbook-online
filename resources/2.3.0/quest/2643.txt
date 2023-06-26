@@ -1,4 +1,4 @@
-dreamcraft/item.HeavyDutyPlateTier8-0.pngTier 8 Heavy Duty PlatesRockets require heavy duty plates for the main hull. Let's craft 19 tier 8 heavy duty plates out of tier 7 plates and compressed black plutonium plates.1-1ANDpre26291gregtech/gt.blockmachines-49.png27081GalaxySpace/plutoblocks-6.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
+2643dreamcraft/item.HeavyDutyPlateTier8-0.png1Tier 8 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 19 tier 8 heavy duty plates out of tier 7 plates and compressed black plutonium plates.ANDpre26291gregtech/gt.blockmachines-49.png27081GalaxySpace/plutoblocks-6.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
 8dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plate
 16IC2/blockITNT-0.pngIndustrial TNT
 768Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"

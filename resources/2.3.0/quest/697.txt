@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-13305.png§6§l2x SteelSteel production is so slow. If you got enough bricks and clay, build a second BBF. Build it attached to the first one, so they can share a wall and you will save some bricks, clay and concrete.
+697gregtech/gt.metaitem.01-13305.png0§6§l2x Steel17-1Steel production is so slow. If you got enough bricks and clay, build a second BBF. Build it attached to the first one, so they can share a wall and you will save some bricks, clay and concrete.
 
-§4Note that this will generate twice as much pollution in total - consider moving them further away.0-1ANDpre651gregtech/gt.metaitem.01-11305.png761gregtech/gt.blockmachines-140.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+§4Note that this will generate twice as much pollution in total - consider moving them further away.ANDpre651gregtech/gt.metaitem.01-11305.png761gregtech/gt.blockmachines-140.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
 64enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Choicegregtech/gt.metaitem.01-11880.pngRubber Bar\nC\u2085H\u2088
 8gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083

@@ -1,6 +1,6 @@
-IC2/itemArmorJetpack-1.pngFueled JetpackThis jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.
+652IC2/itemArmorJetpack-1.png0Fueled Jetpack14-1This jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.
 
-Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.0-1ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.png18700gregtech/gt.blockmachines-1111.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
+Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.png18700gregtech/gt.blockmachines-1111.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
 30enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi

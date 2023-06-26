@@ -1,4 +1,4 @@
-minecraft/spawn_egg-6413.pngFlame ImpFlame Imps are demons strongly associated with fiery magic.
+2347minecraft/spawn_egg-6413.png0Flame Imp36-1Flame Imps are demons strongly associated with fiery magic.
 
 Not as physically strong as their dimmer cousins, Flame Imps are mischievous creatures who are very easily swayed with the promise of personal gain. They may even be bound into the service of a witch (or warlock) if the offer is good enough.
 
@@ -21,7 +21,7 @@ A Flame imp may also occasionally give a gift in return for being given valuable
 
 A very well treated Flame Imp may even yield knowledge to summon a Lord of Torment.
 
-0-1ANDpre15740witchery/ingredient-29.png23340witchery/ingredient-140.pngrewardsChoicewitchery/ingredient-23.pngDemon Heart
+ANDpre15740witchery/ingredient-29.png23340witchery/ingredient-140.pngrewardsChoicewitchery/ingredient-23.pngDemon Heart
 1witchery/ingredient-38.pngRefined Evil
 2witchery/chalkinfernal-0.pngInfernal Chalk
 1witchery/chalkheart-0.pngGolden Chalk

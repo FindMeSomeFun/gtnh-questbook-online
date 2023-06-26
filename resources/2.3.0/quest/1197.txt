@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-1194.pngFusion Reactor MKII - Bigger, Better, FusorNow that you have some Europium, put it to use by making a mkII reactor. 
+1197gregtech/gt.blockmachines-1194.png1Fusion Reactor MKII - Bigger, Better, Fusor10-1Now that you have some Europium, put it to use by making a mkII reactor. 
 
 This one will require the same block placement, but replaces LuV casings with fusion machine casings, superconducting coil blocks with fusion coil blocks, and uses ZPM tier hatches. 
 
-This reactor can handle recipes up to 320M EU at startup. In addition, if you perform a mkI recipe on a mkII, you will overclock it. Fusion overclocking is different than normal GT. It will take 2x the power, but the recipe will go 2x faster.1-1ANDpre12131gregtech/gt.blockmetal3-3.png26221gregtech/gt.metaitem.01-32676.png26271gregtech/gt.blockmachines-47.png26311gregtech/gt.metaitem.03-32162.pngrewardsChoicegregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe\nA Super Circuit\nUV-Tier
+This reactor can handle recipes up to 320M EU at startup. In addition, if you perform a mkI recipe on a mkII, you will overclock it. Fusion overclocking is different than normal GT. It will take 2x the power, but the recipe will go 2x faster.ANDpre12131gregtech/gt.blockmetal3-3.png26221gregtech/gt.metaitem.01-32676.png26271gregtech/gt.blockmachines-47.png26311gregtech/gt.metaitem.03-32162.pngrewardsChoicegregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe\nA Super Circuit\nUV-Tier
 4gregtech/gt.metaitem.01-32607.pngElectric Motor
 4gregtech/gt.metaitem.01-32616.pngElectric Pump\n131,072 L/t (2,621,440 L/s) as Cover
 2gregtech/gt.metaitem.01-32636.pngConveyor Module\n4 stacks every 1/20 sec (as Cover)

@@ -1,4 +1,4 @@
-HardcoreEnderExpansion/instability_orb_ore-0.pngFind all the Ores in the EndEnd Powder Ore:
+2353HardcoreEnderExpansion/instability_orb_ore-0.png0Find all the Ores in the End30-1End Powder Ore:
 Generated in the End in between End Stone at every height level. When the ore is mined with any type of pickaxe, it will drop one or two pieces of End Powder.
 
 Endium Ore:
@@ -19,7 +19,7 @@ Generated in the End in the Biome Islands. When the ore is mined with an Advance
 
 Stardust Ore block has different textures on its sides.
 
-Sphalerite: You can macerate it for crushed normal sphalerite,0-1ORpre23560HardcoreEnderExpansion/auricion-0.png23580HardcoreEnderExpansion/arcane_shard-0.png23590HardcoreEnderExpansion/endoplasm-0.png23600HardcoreEnderExpansion/fire_shard-0.pngrewardsChoiceHardcoreEnderExpansion/sphalerite-1.pngSphalerite with Stardust
+Sphalerite: You can macerate it for crushed normal sphalerite,ORpre23560HardcoreEnderExpansion/auricion-0.png23580HardcoreEnderExpansion/arcane_shard-0.png23590HardcoreEnderExpansion/endoplasm-0.png23600HardcoreEnderExpansion/fire_shard-0.pngrewardsChoiceHardcoreEnderExpansion/sphalerite-1.pngSphalerite with Stardust
 32HardcoreEnderExpansion/essence-0.pngDragon Essence
 16enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"

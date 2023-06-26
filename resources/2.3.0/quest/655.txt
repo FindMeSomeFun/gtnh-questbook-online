@@ -1,6 +1,6 @@
-GraviSuite/graviChestPlate-1-charged.pngGravi SuitThe gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.
+655GraviSuite/graviChestPlate-1-charged.png0Gravi Suit14-1The gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.
 
-Or read a wiki or something.0-1ANDpre26581gregtech/gt.metaitem.01-11329.png31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe\nAn Ultimate Circuit\nZPM-Tier
+Or read a wiki or something.ANDpre26581gregtech/gt.metaitem.01-11329.png31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe\nAn Ultimate Circuit\nZPM-Tier
 2gregtech/gt.metaitem.01-32607.pngElectric Motor
 2enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"

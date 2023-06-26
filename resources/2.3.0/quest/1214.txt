@@ -1,4 +1,4 @@
-Forestry/engine-4.pngClockwork EngineProducing RF Power by hand is a good idea for making one or two recipes in the Forestry machines. The turrets can be charged with it too.0-1ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11310.pngCupronickel Ingot\nCuNi
+1214Forestry/engine-4.png0Clockwork Engine16-1Producing RF Power by hand is a good idea for making one or two recipes in the Forestry machines. The turrets can be charged with it too.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11310.pngCupronickel Ingot\nCuNi
 8minecraft/redstone-0.pngRedstone
 16minecraft/redstone_torch-0.pngRedstone Torch
 8enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

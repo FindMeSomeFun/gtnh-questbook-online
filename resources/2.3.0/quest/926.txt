@@ -1,6 +1,6 @@
-dreamcraft/tile.BloodyThaumium-0.pngBlood Altar Tier 3To make your altar more powerful you need to upgrade it. You need to build pillars two block high out of blood-soaked thaumium blocks and on top a block of glowstone on each pillar.
+926dreamcraft/tile.BloodyThaumium-0.png1Blood Altar Tier 337-1To make your altar more powerful you need to upgrade it. You need to build pillars two block high out of blood-soaked thaumium blocks and on top a block of glowstone on each pillar.
 
-PS: Go to a wiki to see how the structure looks, the pillars are the only change.1-1ANDpre4091AWWayofTime/AlchemicalWizardrybloodRune-0.png11771Thaumcraft/ItemResource-2.pngrewardsItemAWWayofTime/AlchemicalWizardrybloodRune-0.pngBlood Rune
+PS: Go to a wiki to see how the structure looks, the pillars are the only change.ANDpre4091AWWayofTime/AlchemicalWizardrybloodRune-0.png11771Thaumcraft/ItemResource-2.pngrewardsItemAWWayofTime/AlchemicalWizardrybloodRune-0.pngBlood Rune
 8Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
 5tasksANDOptionalThaumcraft/blockCosmeticSolid-4.pngThaumium Block
 8Retrievalminecraft/glowstone-0.pngGlowstone\nGlass-Tier: HV

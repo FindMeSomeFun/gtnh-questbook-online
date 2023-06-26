@@ -1,4 +1,4 @@
-EnderIO/blockWirelessCharger-0.png§9§lTesla Would be ProudTired of sticking your EnderIO items in the capacitor bank to charge it? Time to make a wireless charger.0-1ANDpre1660gregtech/gt.metaitem.01-11379.png9890gregtech/gt.metaitem.01-11367.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1502EnderIO/blockWirelessCharger-0.png0§9§lTesla Would be Proud6-1Tired of sticking your EnderIO items in the capacitor bank to charge it? Time to make a wireless charger.ANDpre1660gregtech/gt.metaitem.01-11379.png9890gregtech/gt.metaitem.01-11367.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalEnderIO/blockWirelessCharger-0.pngWireless Charger

@@ -1,4 +1,4 @@
-StevesCarts/CartModule-45.pngCart Modules: Solar PowerYour cart needs power, obviously. A cart can be powered via coal, solar or lava. If you are able to make solar panels you can power your cart with the sun.0-1ANDpre1110StevesCarts/CartModule-38.png9330gregtech/gt.metaitem.01-32750.pngrewardsItemStevesCarts/ModuleComponents-44.pngSolar Panel
+1208StevesCarts/CartModule-45.png0Cart Modules: Solar Power25-1Your cart needs power, obviously. A cart can be powered via coal, solar or lava. If you are able to make solar panels you can power your cart with the sun.ANDpre1110StevesCarts/CartModule-38.png9330gregtech/gt.metaitem.01-32750.pngrewardsItemStevesCarts/ModuleComponents-44.pngSolar Panel
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalStevesCarts/CartModule-45.pngBasic Solar Engine\nModular cost: 12\nType: Engine
 1

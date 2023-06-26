@@ -1,8 +1,8 @@
-Natura/Natura.netherfood-0.png§3§lNice Nether TreesThere are a few very useful Nether trees out there which gives resources like Redstone, Gunpowder, Bonemeal or Fertilizer.
+1741Natura/Natura.netherfood-0.png0§3§lNice Nether Trees3-1There are a few very useful Nether trees out there which gives resources like Redstone, Gunpowder, Bonemeal or Fertilizer.
 
 Go and get a few trees like Bloodwood, Fusewood, Darkwood or Ghostwood out of the Nether.
 
-These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.0-1ANDpre4961IC2/itemDust-13.pngrewardsChoiceenhancedlootbags/lootbag-2-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.ANDpre4961IC2/itemDust-13.pngrewardsChoiceenhancedlootbags/lootbag-2-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1EnderIO/itemAlloy-6.pngDark Steel\n((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

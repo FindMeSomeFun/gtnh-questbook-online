@@ -1,6 +1,6 @@
-Thaumcraft/blockStoneDevice-0.pngEssentia CookingIn order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.
+240Thaumcraft/blockStoneDevice-0.png1Essentia Cooking31-1In order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.
 
-Make sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.1-1ANDpre2391Thaumcraft/blockCosmeticSolid-7.png2541Thaumcraft/blockMetalDevice-1.png2551Thaumcraft/ItemResource-1.pngrewardsChoiceThaumcraft/blockJar-0.pngWarded Jar\nGlass-Tier: HV
+Make sure you keep your furnace as empty as possible. If it fills up with essentia, it can cause a large TPS drop.ANDpre2391Thaumcraft/blockCosmeticSolid-7.png2541Thaumcraft/blockMetalDevice-1.png2551Thaumcraft/ItemResource-1.pngrewardsChoiceThaumcraft/blockJar-0.pngWarded Jar\nGlass-Tier: HV
 5enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"

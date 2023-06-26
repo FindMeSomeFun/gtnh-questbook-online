@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1158.png§6§lTime to Drill For Ore!Auto Miners are nice but you're going to reach a point where you will want MOOOOOOOOOOOOORE ores. This multiblock will help with that.  It will also pre-macerate your ores and give you a little bonus crushed ores as well.
+1545gregtech/gt.blockmachines-1158.png0§6§lTime to Drill For Ore!17-1Auto Miners are nice but you're going to reach a point where you will want MOOOOOOOOOOOOORE ores. This multiblock will help with that.  It will also pre-macerate your ores and give you a little bonus crushed ores as well.
 
 Higher tiers of power will drill faster. You need to upgrade the energy hatch corresponding to the power tier. You will also need an energy hatch, an input hatch, and an output bus - at least MV but you can choose.
 
@@ -10,7 +10,7 @@ You need mining pipes in the controller and drilling fluid in the fluid hatch. Y
 
 You'll need to make lots of Drilling Fluid. 64 is a tiny amount to get started with! Plan to make thousands of buckets - perhaps onsite, or pumped in via Long Distance Fluid Pipes.
 
-These are GT machines, so remember to protect them (and their power sources!) from rain (and meteors!) on any side. And set a waypoint with JourneyMap so you don't forget where you placed it!0-1ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+These are GT machines, so remember to protect them (and their power sources!) from rain (and meteors!) on any side. And set a waypoint with JourneyMap so you don't forget where you placed it!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
 2gregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
 4gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi

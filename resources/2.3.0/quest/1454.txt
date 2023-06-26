@@ -1,8 +1,8 @@
-GalacticraftMars/item.itemTier3Rocket-0.pngRocket Tier 3After days of hard work and a hundred tons of stacks of iTNT your third rocket is finally ready.
+1454GalacticraftMars/item.itemTier3Rocket-0.png1Rocket Tier 324-1After days of hard work and a hundred tons of stacks of iTNT your third rocket is finally ready.
 
 You need to use Dense Hydrazine Rocket Fuel or better to fuel it.
 
-§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.1-1ANDpre14481GalaxySpace/item.RocketControlComputer-3.png14561GalaxySpace/item.ModuleLander3-0.png14571GalacticraftMars/item.heavyNoseCone-0.png14581GalacticraftMars/item.itemBasicAsteroids-1.png14591GalacticraftMars/item.itemBasicAsteroids-2.png14601dreamcraft/item.MediumFuelCanister-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
+§3If you started on an older version of GTNH and still have some LMP-103S, you can also use that as rocket fuel! But you can't make any more of it, so better look into Dense Hydrazine anyway.ANDpre14481GalaxySpace/item.RocketControlComputer-3.png14561GalaxySpace/item.ModuleLander3-0.png14571GalacticraftMars/item.heavyNoseCone-0.png14581GalacticraftMars/item.itemBasicAsteroids-1.png14591GalacticraftMars/item.itemBasicAsteroids-2.png14601dreamcraft/item.MediumFuelCanister-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
 96GalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
 4enhancedlootbags/lootbag-24.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

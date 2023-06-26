@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1123.pngToss Your Magic Junk in Here LVAnd recieve power in return. Especially good with Nether Stars if you've got a bunch. Or practically any magic material item (not crafted stuff mostly).0-1ANDpre11020minecraft/beacon-0.png14770gregtech/gt.metaitem.01-32691.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
+2819gregtech/gt.blockmachines-1123.png0Toss Your Magic Junk in Here LV19-1And recieve power in return. Especially good with Nether Stars if you've got a bunch. Or practically any magic material item (not crafted stuff mostly).ANDpre11020minecraft/beacon-0.png14770gregtech/gt.metaitem.01-32691.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 1tasksANDRetrievalgregtech/gt.blockmachines-1123.pngNovice Magic Energy Converter\nPut your strange stuff in here\nFuel Efficiency: 95%\nVoltage OUT: 32 (LV)\nCapacity: 3,072 EU

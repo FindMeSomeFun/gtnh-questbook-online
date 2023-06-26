@@ -1,4 +1,4 @@
-HardcoreEnderExpansion/curse-9.pngCurse MasterCurse of Teleportation
+2383HardcoreEnderExpansion/curse-9.png0Curse Master30-1Curse of Teleportation
 Teleport Entities around randomly.
 
 Curse of Confusion
@@ -31,7 +31,7 @@ Adds reflection damage to a mob.
 Curse of Loss
 Items will removed out of your inventory and get destroyed or fall on the ground.
 
-0-1ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
 64HardcoreEnderExpansion/essence-0.pngDragon Essence
 512HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard

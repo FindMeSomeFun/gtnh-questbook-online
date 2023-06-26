@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30001.pngMore HydrogenWith more Oil in your hands, you are sure to have problems with the other inputs you need. Hydrogen is required to get any type of clean byproduct, and the amount you need scales with the speed at which your Chemical Reactors work. It is possible to get a lot of it from ores, and mining out a Limonite vein will get you enough to last a long while, but it will eventually run out. Which automatic sources can you choose from?
+2997gregtech/gt.metaitem.01-30001.png0More Hydrogen21-1With more Oil in your hands, you are sure to have problems with the other inputs you need. Hydrogen is required to get any type of clean byproduct, and the amount you need scales with the speed at which your Chemical Reactors work. It is possible to get a lot of it from ores, and mining out a Limonite vein will get you enough to last a long while, but it will eventually run out. Which automatic sources can you choose from?
 
 The simplest option is to electrolyze water. You can just keep feeding water for free, but it's a slow and inefficient process, although it also gives you Oxygen. You will need a few Electrolyzers running to keep it going at a decent pace. 
 
@@ -6,7 +6,7 @@ An alternative option is to do this, but with salt water, obtained from Salty Ro
 
 Lastly, did you know that most of the oil byproducts are organic compounds, and as such are made mostly of Carbon and Hydrogen? You can electrolyze most of them to get these elements, at a faster rate than water, but only if you have leftovers. Methane is one of the choices that you might have stockpiling. However, note that these byproducts often have fuel values and it's often better to use them as fuel to then electrolyze (salt) water.
 
-Either way, you will need Electrolyzers. Build some to continue!0-1ANDpre29960BuildCraftEnergy/bucketOil-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Either way, you will need Electrolyzers. Build some to continue!ANDpre29960BuildCraftEnergy/bucketOil-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
 10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"

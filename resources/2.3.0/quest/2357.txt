@@ -1,10 +1,10 @@
-HardcoreEnderExpansion/energy_wand-0-charged.pngEnergy WandEnergy Clusters have different health levels, which affect the regeneration (or leaking) speed.
+2357HardcoreEnderExpansion/energy_wand-0-charged.png0Energy Wand30-1Energy Clusters have different health levels, which affect the regeneration (or leaking) speed.
 
 Clusters can be moved using Energy Wand. Moving them too far or across dimensions can have negative effect on their health.
 
 Blocks that use Energy will take it from Clusters up to 16 blocks away, and from the environment if placed in the End.
 
-Items that use Energy automatically refill in the End, or can be used on a Cluster to start and stop draining the Energy.0-1ANDpre23560HardcoreEnderExpansion/auricion-0.pngrewardsItemHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
+Items that use Energy automatically refill in the End, or can be used on a Cluster to start and stop draining the Energy.ANDpre23560HardcoreEnderExpansion/auricion-0.pngrewardsItemHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
 32enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

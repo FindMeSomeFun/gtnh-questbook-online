@@ -1,6 +1,6 @@
-GalacticraftCore/item.parachute-13.pngParachuteA parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.
+830GalacticraftCore/item.parachute-13.png1Parachute24-1A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.
 
-Use the assembler to save materials.1-1ANDpre8221GalacticraftCore/item.oxygenGear-0.pngrewardsChoiceGalacticraftCore/item.canvas-0.pngCanvas
+Use the assembler to save materials.ANDpre8221GalacticraftCore/item.oxygenGear-0.pngrewardsChoiceGalacticraftCore/item.canvas-0.pngCanvas
 6gregtech/gt.metaitem.02-32415.pngRed Dye
 16gregtech/gt.metaitem.02-32418.pngBlue Dye
 16gregtech/gt.metaitem.02-32416.pngGreen Dye

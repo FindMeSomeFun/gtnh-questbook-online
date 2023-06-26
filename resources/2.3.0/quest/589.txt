@@ -1,10 +1,10 @@
-Forestry/ffarm-3.pngMultifarm: HatchYou can supply and extract items from the farm by using farm hatches that are connected to pipe systems. 
+589Forestry/ffarm-3.png0Multifarm: Hatch16-1You can supply and extract items from the farm by using farm hatches that are connected to pipe systems. 
 
 Supplying items
 The farm hatch is clever enough to know which item goes where. If an item isn't appropriate for the farm's configuration, the hatch will simply reject it.
 
 Extracting items
-Any item that is harvested by the Multifarm is automatically ejected by the farm hatches into inventories or pipes. Pipes can be used to extract from other sides. You may need more than one, or a better conveyor if it isn't extracting fast enough for you.0-1ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-11.pngLapis Electron Tube
+Any item that is harvested by the Multifarm is automatically ejected by the farm hatches into inventories or pipes. Pipes can be used to extract from other sides. You may need more than one, or a better conveyor if it isn't extracting fast enough for you.ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-11.pngLapis Electron Tube
 4Forestry/thermionicTubes-10.pngApatine Electron Tube
 4Forestry/thermionicTubes-9.pngEmerald Electron Tube
 4enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

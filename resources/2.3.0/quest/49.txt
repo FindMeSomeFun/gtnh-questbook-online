@@ -1,6 +1,6 @@
-minecraft/piston-0.png§3§lThe Hell is That?In order to get more machines, you'll need pistons. But not those amateurish ones, you need special ones, and I shall guide you in the making of them.
+49minecraft/piston-0.png1§3§lThe Hell is That?3-1In order to get more machines, you'll need pistons. But not those amateurish ones, you need special ones, and I shall guide you in the making of them.
 
-§3PS: Infernals can drop them, though you won't get credit for the quest that way.1-1ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block\nBurn Time: 300
+§3PS: Infernals can drop them, though you won't get credit for the quest that way.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block\nBurn Time: 300
 6Choiceminecraft/sticky_piston-0.pngSticky Piston
 2minecraft/piston-0.pngPiston
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

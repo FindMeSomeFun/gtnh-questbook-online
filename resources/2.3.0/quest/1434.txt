@@ -1,4 +1,4 @@
-GalacticraftCore/item.buggy-0.pngMoon PatrolMoving faster on the Moon or other planets surface will be fun. I'm sure it will be totally safe.0-1ANDpre14350GalacticraftCore/item.schematic-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
+1434GalacticraftCore/item.buggy-0.png0Moon Patrol24-1Moving faster on the Moon or other planets surface will be fun. I'm sure it will be totally safe.ANDpre14350GalacticraftCore/item.schematic-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
 16GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
 4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"

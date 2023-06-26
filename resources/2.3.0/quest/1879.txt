@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-484.png§a§lCreate New Materials Out of Pure EnergyUsing the scanner, you can scan certain items (check the replicator's NEI recipes) to store the information of the item to a data orb so you can make copies of them with the replicator. This process uses a varying amount of UUM and time, depending on the item. Scanning also takes forever.
+1879gregtech/gt.blockmachines-484.png0§a§lCreate New Materials Out of Pure Energy7-1Using the scanner, you can scan certain items (check the replicator's NEI recipes) to store the information of the item to a data orb so you can make copies of them with the replicator. This process uses a varying amount of UUM and time, depending on the item. Scanning also takes forever.
 
 Some items you might want to replicate include:
 Indium
@@ -6,7 +6,7 @@ Platline metals like Iridium and Osmium
 Neon, Krypton, Xenon from liquid air distilling
 Oganesson
 
-For some things (Oganesson), this might be considered the only reasonable way of getting a decent amount.0-1ANDpre18800gregtech/gt.metaitem.01-32671.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+For some things (Oganesson), this might be considered the only reasonable way of getting a decent amount.ANDpre18800gregtech/gt.metaitem.01-32671.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
 8IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
 4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

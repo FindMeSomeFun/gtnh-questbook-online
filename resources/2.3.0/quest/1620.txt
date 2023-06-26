@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-30637.png§9§lStyrenePutting Benzene and Ethylene in the Chemical Reactor gives you Styrene.
+1620gregtech/gt.metaitem.01-30637.png1§9§lStyrene6-1Putting Benzene and Ethylene in the Chemical Reactor gives you Styrene.
 
-§3And also hydrogen, just pack that away with the rest.1-1ANDpre16171gregtech/gt.metaitem.01-30646.pngrewardsChoicegregtech/gt.metaitem.01-30686.pngBenzene Cell\nC\u2086H\u2086
+§3And also hydrogen, just pack that away with the rest.ANDpre16171gregtech/gt.metaitem.01-30646.pngrewardsChoicegregtech/gt.metaitem.01-30686.pngBenzene Cell\nC\u2086H\u2086
 8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30686.pngBenzene Cell\nC\u2086H\u2086

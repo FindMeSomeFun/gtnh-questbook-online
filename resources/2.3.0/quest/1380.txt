@@ -1,8 +1,8 @@
-Thaumcraft/FocusPech-0.pngWand Focus Pech's CurseThe Pech's Curse is a rare wand focus which cannot be crafted by the player. It can only be obtained from a Pech Thaumaturge -- either by trading, or by killing it for the drop. (If attacked, the Pech will use it against you!)  Its vis cost per shot is 0.1 Perditio, 0.1 Terra and 0.1 Aqua.
+1380Thaumcraft/FocusPech-0.png0Wand Focus Pech's Curse34-1The Pech's Curse is a rare wand focus which cannot be crafted by the player. It can only be obtained from a Pech Thaumaturge -- either by trading, or by killing it for the drop. (If attacked, the Pech will use it against you!)  Its vis cost per shot is 0.1 Perditio, 0.1 Terra and 0.1 Aqua.
 
 The focus fires a small ball of energy with a bright bluish-green trail. This missile is affected by gravity, so the shots need to be "arced" to hit distant targets. When the shot hits a mob, it does one heart of damage and randomly inflicts one of several effects on the target: Poison, Weakness, or Slowness. A 5th-level upgrade to the focus can make it give all the effects at once.
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumcraft/FocusPech-0.pngWand Focus: Pech''s Curse\nVis per cast\n Aqua x 0.1\n Perditio x 0.1\n Terra x 0.1

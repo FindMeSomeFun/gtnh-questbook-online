@@ -1,6 +1,6 @@
-minecraft/quartz-0.png§3§f§3§lNether Quartz? Sharpness!Your sword is too dull? Get some nether quartz to sharpen it.
+1132minecraft/quartz-0.png0§3§f§3§lNether Quartz? Sharpness!3-1Your sword is too dull? Get some nether quartz to sharpen it.
 
-If you have lots of Certus quartz, 1 piece of Certus is equal to 24 Nether quartz.0-1ANDpre4791minecraft/portal-0.pngrewardsChoicegregtech/gt.metaitem.01-2022.pngSulfur Dust\nS\nBurn Time: 1600
+If you have lots of Certus quartz, 1 piece of Certus is equal to 24 Nether quartz.ANDpre4791minecraft/portal-0.pngrewardsChoicegregtech/gt.metaitem.01-2022.pngSulfur Dust\nS\nBurn Time: 1600
 16gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
 4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

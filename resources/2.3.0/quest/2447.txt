@@ -1,6 +1,6 @@
-gregtech/gt.blockores-1812.png§9§lForget Something?Need some Electrotine for your Workstations? Go back to the Nether and find a Saltpeter vein at Y 5-45. You can also centrifuge it for Electrum and Redstone if you have too much.
+2447gregtech/gt.blockores-1812.png0§9§lForget Something?6-1Need some Electrotine for your Workstations? Go back to the Nether and find a Saltpeter vein at Y 5-45. You can also centrifuge it for Electrum and Redstone if you have too much.
 
-0-1ANDpre10171gregtech/gt.metaitem.01-32703.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+ANDpre10171gregtech/gt.metaitem.01-32703.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 32tasksANDRetrievalgregtech/gt.blockores-1836.pngSaltpeter Ore\nKNO\u2083
 32gregtech/gt.blockores-1948.pngDiatomite Ore\n(SiO\u2082)\u2088Fe\u2082O\u2083(Al\u2082O\u2083)

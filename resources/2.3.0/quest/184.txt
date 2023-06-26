@@ -1,8 +1,8 @@
-appliedenergistics2/item.ItemMultiPart-16.pngCablesTo have access to your applied energistics network from your entire base, you'll need cables. A lot of them. For now, the basic ones will do, but eventually, you'll end up using dense cables and p2p channels. Glass and Covered cables are functionally identical, just different in looks. Each can carry 8 channels.  Quartz fibers don't carry channels but can carry energy. This is useful for providing power from your main network to independant subnetworks.
+184appliedenergistics2/item.ItemMultiPart-16.png1Cables27-1To have access to your applied energistics network from your entire base, you'll need cables. A lot of them. For now, the basic ones will do, but eventually, you'll end up using dense cables and p2p channels. Glass and Covered cables are functionally identical, just different in looks. Each can carry 8 channels.  Quartz fibers don't carry channels but can carry energy. This is useful for providing power from your main network to independant subnetworks.
 
 You can also color your cables - cables with different colors will not connect, so those can be used to expand network capacity by running parallel cables. Only fluix colored cables connect to all other colors. Later it will probably be more efficient to use P2P channels to jam a bunch of channels into 1.
 
-Anchors are like covers, keeping things from connecting when you don't want them to.1-1ANDpre1811appliedenergistics2/item.ItemMultiMaterial-7.pngrewardsChoiceappliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix
+Anchors are like covers, keeping things from connecting when you don't want them to.ANDpre1811appliedenergistics2/item.ItemMultiMaterial-7.pngrewardsChoiceappliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix
 16appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
 32Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber

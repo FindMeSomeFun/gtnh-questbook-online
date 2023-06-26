@@ -1,8 +1,8 @@
-IC2/itemCellEmpty-6.png§5§6§lBiomassChose the IC2 or the gregtech way to make biomass. Water and Bio Chaff is needed.
+1323IC2/itemCellEmpty-6.png0§5§6§lBiomass5-1Chose the IC2 or the gregtech way to make biomass. Water and Bio Chaff is needed.
 
 You can also use the pyrolyze oven to make biomass in a more efficient way if you make it.
 
-Note that forestry has it's own biomass as well. It can also be made into fermented biomass like this kind. Choose which kind you want to make later on yourself.0-1ORpre7340IC2/blockMachine-6.png7350gregtech/gt.blockmachines-492.png30700gregtech/gt.blockmachines-1159.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
+Note that forestry has it's own biomass as well. It can also be made into fermented biomass like this kind. Choose which kind you want to make later on yourself.ORpre7340IC2/blockMachine-6.png7350gregtech/gt.blockmachines-492.png30700gregtech/gt.blockmachines-1159.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
 2gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
 1IC2/itemCellEmpty-0.pngEmpty Cell
 32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

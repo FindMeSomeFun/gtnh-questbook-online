@@ -1,4 +1,4 @@
-ProjRedIllumination/projectred.illumination.cagelamp2.inv-2.pngFancier ProjectRed IlluminationThe fancier ProjectRed Illumination lamps, lanterns, and fixtures require the Forming Press and Assembler to create.0-1ANDpre971gregtech/gt.blockmachines-211.png1001gregtech/gt.blockmachines-601.pngrewardsItemProjRedCore/projectred.core.part-21.pngMagenta Illumar
+1974ProjRedIllumination/projectred.illumination.cagelamp2.inv-2.png0Fancier ProjectRed Illumination15-1The fancier ProjectRed Illumination lamps, lanterns, and fixtures require the Forming Press and Assembler to create.ANDpre971gregtech/gt.blockmachines-211.png1001gregtech/gt.blockmachines-601.pngrewardsItemProjRedCore/projectred.core.part-21.pngMagenta Illumar
 64ProjRedCore/projectred.core.part-30.pngBlue Illumar
 64ProjRedCore/projectred.core.part-19.pngWhite Illumar
 64ProjRedCore/projectred.core.part-34.pngBlack Illumar

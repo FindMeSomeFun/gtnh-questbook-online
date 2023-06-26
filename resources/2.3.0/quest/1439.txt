@@ -1,6 +1,6 @@
-thaumcraftneiplugin/Aspect-0-aer.pngPermanent Oxygen SystemsYou decided to have a longer stay on the moon and look for a permanent oxygen setup to refill your outdoor gear and building a small Base.
+1439thaumcraftneiplugin/Aspect-0-aer.png0Permanent Oxygen Systems24-1You decided to have a longer stay on the moon and look for a permanent oxygen setup to refill your outdoor gear and building a small Base.
 
-Don't forget to bring repair stuff for your tools and armor! Dream 2018!0-1ANDpre13710GalacticraftMars/item.canisterPartialLOX-1.png14400GalacticraftCore/tile.distributor-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Don't forget to bring repair stuff for your tools and armor! Dream 2018!ANDpre13710GalacticraftMars/item.canisterPartialLOX-1.png14400GalacticraftCore/tile.distributor-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1GalacticraftCore/item.oxygenTankLightFull-0.pngLight Oxygen Tank\nOxygen Remaining: 1000
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"

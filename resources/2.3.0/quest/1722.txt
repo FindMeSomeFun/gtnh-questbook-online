@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-10780.png§c§lLuV AssemblerThe LuV assembler is needed for IV Solar Panels and other high tier stuff. Let's build one.1-1ANDpre14891gregtech/gt.metaitem.01-32655.pngrewardsChoicebartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot\nPd\u2083Rh\nAdded by BartWorks
+1722gregtech/gt.blockmachines-10780.png1§c§lLuV Assembler9-1The LuV assembler is needed for IV Solar Panels and other high tier stuff. Let's build one.ANDpre14891gregtech/gt.metaitem.01-32655.pngrewardsChoicebartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot\nPd\u2083Rh\nAdded by BartWorks
 4gregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
 8enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"

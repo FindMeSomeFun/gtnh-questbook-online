@@ -1,4 +1,4 @@
-Forestry/foresterBag-0.png§2§lYou Need Them All!There are many more backpacks: Hunter, builder, forester...0-1ANDpre4870Forestry/diggerBag-0.pngrewardsItemminecraft/leather_helmet-0.pngLeather Cap\nProtection: 1\nDurability: 55/55
+488Forestry/foresterBag-0.png0§2§lYou Need Them All!2-1There are many more backpacks: Hunter, builder, forester...ANDpre4870Forestry/diggerBag-0.pngrewardsItemminecraft/leather_helmet-0.pngLeather Cap\nProtection: 1\nDurability: 55/55
 1minecraft/leather_chestplate-0.pngLeather Tunic\nProtection: 3\nDurability: 80/80
 1minecraft/leather_leggings-0.pngLeather Pants\nProtection: 2\nDurability: 75/75
 1minecraft/leather_boots-0.pngLeather Boots\nProtection: 1\nDurability: 65/65

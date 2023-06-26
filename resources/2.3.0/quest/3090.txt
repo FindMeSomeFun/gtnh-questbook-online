@@ -1,10 +1,10 @@
-gregtech/gt.blockmachines-32018.png§6§lPrecise AssemblerPrecise Assembler has two modes: Precise mode and Normal mode.
+3090gregtech/gt.blockmachines-32018.png1§6§lPrecise Assembler17-1Precise Assembler has two modes: Precise mode and Normal mode.
 
 Precise mode is used to make some of the advanced components from Good Generator mod.
 
 Normal mode works as multiblock version of Assembler.
 
-§3You can't skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.1-1ANDpre23211gregtech/gt.metaitem.01-2084.png28301gregtech/gt.blockmachines-45.png28781gregtech/gt.metaitem.01-2052.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+§3You can't skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.ANDpre23211gregtech/gt.metaitem.01-2084.png28301gregtech/gt.blockmachines-45.png28781gregtech/gt.metaitem.01-2052.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDOptionalGoodGenerator/preciseUnitCasing-0.pngPrecise Electronic Unit Casing MK-I\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 42gregtech/gt.blockcasings-5.pngIV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
 21gregtech/gt.blockmachines-4412.pngTungstensteel Frame Box\nJust something you can put covers on.

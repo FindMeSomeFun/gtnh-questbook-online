@@ -1,4 +1,4 @@
-AWWayofTime/averageLengtheningCatalyst-0.pngPotion CatalystsIn order to manipulate potions you need catalysts. You then combine the ingredient you used to get the potion effect in with either a lengthening or power catalyst to increase the duration or the strength of the potion effect.0-1ANDpre4120AWWayofTime/terrae-0.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemAWWayofTime/simpleCatalyst-0.pngSimple Catalyst\nUsed in Alchemy
+411AWWayofTime/averageLengtheningCatalyst-0.png0Potion Catalysts37-1In order to manipulate potions you need catalysts. You then combine the ingredient you used to get the potion effect in with either a lengthening or power catalyst to increase the duration or the strength of the potion effect.ANDpre4120AWWayofTime/terrae-0.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemAWWayofTime/simpleCatalyst-0.pngSimple Catalyst\nUsed in Alchemy
 2enhancedlootbags/lootbag-16.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"

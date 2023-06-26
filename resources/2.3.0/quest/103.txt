@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-11019.png§5§lGetting Ready for Tier 2, MVIn order to proceed forward, you need to get aluminium. A lot of it. But for now, 8 is enough to complete this quest.
+103gregtech/gt.metaitem.01-11019.png1§5§lGetting Ready for Tier 2, MV4-1In order to proceed forward, you need to get aluminium. A lot of it. But for now, 8 is enough to complete this quest.
 
 Your first option is alumina dust. Probably the best source for alumina is clay or hardened clay from canyons, however you need an MV machine for that, so you need to find an alternative until you have enough dust for your initial setup. For now, you can get it by centrifuging various impure piles from your ores or by smelting ruby, sapphire, or green sapphire in an EBF with carbon. Check the EBF quest in the Multiblock Goals.
 
@@ -10,7 +10,7 @@ By the time you've completed this, you'll probably be done with most of the tab,
 
 §3Also check the Armor and Jetpacks tab for new unlocks.
 Note: If you were exploring Twilight Forest before 2.1.1.4 you won't find any cryolite in existing veins. You'll need to explore new chunks.
-Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumaturgy Tab.1-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumaturgy Tab.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.01-2697.pngAlumina Dust\nAl\u2082O\u2083

@@ -1,10 +1,10 @@
-gregtech/gt.metatool.01-16.png§2§lImportant ToolsIn order to craft even basic machines, you'll need new tools. Most of them can be replaced by machines later. For now, you should become familiar with each of their recipes, as you will need a lot of these tools, starting today.
+36gregtech/gt.metatool.01-16.png1§2§lImportant Tools2-1In order to craft even basic machines, you'll need new tools. Most of them can be replaced by machines later. For now, you should become familiar with each of their recipes, as you will need a lot of these tools, starting today.
 
 Your new tools can also be used to make Railcraft water tanks, a very useful multiblock considering the finite water feature.
 
 There are also electric versions of the tools, you can upgrade later if you want. Also, there are many versions of the tools, they generally follow the same rules as tinkers parts in terms of how good they are, similarly to turbines. You can look at the spreadsheet for more info on GT tool stats.
 
-§3You can use whatever materials you want. The gem version of the saw is crafted differently to metal versions. Higher tier tools need steel or tungstensteel rods instead of sticks.1-1ANDpre371minecraft/iron_ingot-0.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+§3You can use whatever materials you want. The gem version of the saw is crafted differently to metal versions. Higher tier tools need steel or tungstensteel rods instead of sticks.ANDpre371minecraft/iron_ingot-0.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5harvestcraft/zucchinibakeItem-0.pngZucchini Bake\nharvestcraft:zucchinibakeItem
 2tasksANDCraftinggregtech/gt.metatool.01-12-Iron-Wood.pngHammer\nDurability: 25,600 / 25,600\nIron lvl 2\nAttack Damage: 5.0\nMining Speed: 4.5\nCrushes Ores instead of harvesting them\nUsable for Prospecting\nSharpness I
 1Craftinggregtech/gt.metatool.01-16-Iron-Iron.pngWrench\nDurability: 25,600 / 25,600\nIron lvl 2\nAttack Damage: 5.0\nMining Speed: 6.0\nHold Leftclick to dismantle Machines\nRotates Blocks on Rightclick

@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-17880.png§4§3§lRubber SheetsLet's make a mold for the rubber sheets. You can use them for cables. They are also needed for conveyors, a plunger, and some more recipes.0-1ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/creamedbroccolisoupItem-0.pngCreamed Broccoli Soup\nharvestcraft:creamedbroccolisoupItem
+536gregtech/gt.metaitem.01-17880.png0§4§3§lRubber Sheets3-1Let's make a mold for the rubber sheets. You can use them for cables. They are also needed for conveyors, a plunger, and some more recipes.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/creamedbroccolisoupItem-0.pngCreamed Broccoli Soup\nharvestcraft:creamedbroccolisoupItem
 1Choiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1IC2/itemHarz-0.pngSticky Resin
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

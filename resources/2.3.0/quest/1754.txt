@@ -1,8 +1,8 @@
-OpenComputers/case1-0.pngComputer Case100 Percent Waterproof.
+1754OpenComputers/case1-0.png0Computer Case26-1100 Percent Waterproof.
 
 The computer base is the HUB of all your computer parts essentially. It takes two memory sticks, a BIOs rom, a CPU, and a hard drive at the very least to run your computer.
 
-The power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive. Both parts are essential but both for some strange reason requires the T2 microchips to craft; so I'll let you trade the materials+T1 Microchips for some. Don't lose them!0-1ANDpre17590OpenComputers/item-54.pngrewardsItemOpenComputers/powerConverter-0.pngPower Converter\nHold [NONE] for material costs.
+The power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive. Both parts are essential but both for some strange reason requires the T2 microchips to craft; so I'll let you trade the materials+T1 Microchips for some. Don't lose them!ANDpre17590OpenComputers/item-54.pngrewardsItemOpenComputers/powerConverter-0.pngPower Converter\nHold [NONE] for material costs.
 1OpenComputers/diskDrive-0.pngDisk Drive\nHold [NONE] for material costs.
 1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
 2ChoiceOpenComputers/cable-32767.pngCable\nA cheap way of connecting blocks. \nHold [NONE] for material costs.

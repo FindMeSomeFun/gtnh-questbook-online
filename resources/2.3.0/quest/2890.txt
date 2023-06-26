@@ -1,4 +1,4 @@
-bartworks/gt.bwMetaGenerateddust-29901.png§a§lTungstate Processing - Step 2Next up is Tungsten Trioxide. Note that you got back all of the Calcium Chloride. If you process Scheelite ore at all, you'll want to setup an electrolyzer.1-1ANDpre28891gregtech/gt.metaitem.01-2910.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2890bartworks/gt.bwMetaGenerateddust-29901.png1§a§lTungstate Processing - Step 27-1Next up is Tungsten Trioxide. Note that you got back all of the Calcium Chloride. If you process Scheelite ore at all, you'll want to setup an electrolyzer.ANDpre28891gregtech/gt.metaitem.01-2910.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-2910.pngScheelite Dust\nWCaO\u2084
 18gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
 6Optionalbartworks/gt.bwMetaGenerateddust-29900.pngTungstic Acid Dust\nH\u2082WO\u2084\nAdded by GTNH: Lanthanides via BartWorks

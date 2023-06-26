@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32717.png§6§lTransistorFor the next tier we need advanced circuits. To make advanced circuits, you need transistors.1-1ANDpre7521gregtech/gt.metaitem.01-17020.pngrewardsChoicegregtech/gt.metaitem.01-32717.pngTransistor\nBasic Electronic Component
+785gregtech/gt.metaitem.01-32717.png1§6§lTransistor5-1For the next tier we need advanced circuits. To make advanced circuits, you need transistors.ANDpre7521gregtech/gt.metaitem.01-17020.pngrewardsChoicegregtech/gt.metaitem.01-32717.pngTransistor\nBasic Electronic Component
 4gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Board\nA Good Board
 1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

@@ -1,6 +1,6 @@
-dreamcraft/item.EngineeringProcessorSpatialPulsatingCore-0.pngAE Spatial StorageThe main processor for 2^3, 16^3, and 128^3 essentia cells.
+2505dreamcraft/item.EngineeringProcessorSpatialPulsatingCore-0.png0AE Spatial Storage27-1The main processor for 2^3, 16^3, and 128^3 essentia cells.
 
-Have you ever wanted to pack up and move your entire base, but thought it was too much of a pain? Wish you could just teleport the whole thing? Well now you, uh, still can't, because GT blocks DO NOT PLAY WELL with being teleported by AE spatial stuff. Like, world corruption level bad. But you could make a teleporter I guess?0-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
+Have you ever wanted to pack up and move your entire base, but thought it was too much of a pain? Wish you could just teleport the whole thing? Well now you, uh, still can't, because GT blocks DO NOT PLAY WELL with being teleported by AE spatial stuff. Like, world corruption level bad. But you could make a teleporter I guess?ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2tasksANDRetrievaldreamcraft/item.EngineeringProcessorSpatialPulsatingCore-0.pngSpatial Processor Tier I

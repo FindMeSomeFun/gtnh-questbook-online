@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.02-32243.pngI Like Big SandwichesNow that you have dough, there are several options for large sandwiches. They offer great saturation restoration and are easy to make.
+1855gregtech/gt.metaitem.02-32243.png0I Like Big Sandwiches13-1Now that you have dough, there are several options for large sandwiches. They offer great saturation restoration and are easy to make.
 
 The veggie and cheese options aren't quite as good and need more work to produce.
 
-There are also normal sized varieties of these sandwiches if you need more diet choices.0-1ANDpre6370gregtech/gt.metaitem.02-32559.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich\ngregtech:gt.metaitem.02\nJust not worth it
+There are also normal sized varieties of these sandwiches if you need more diet choices.ANDpre6370gregtech/gt.metaitem.02-32559.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich\ngregtech:gt.metaitem.02\nJust not worth it
 2gregtech/gt.metaitem.02-32242.pngLarge Cheese Sandwich\ngregtech:gt.metaitem.02\nI need another cheesy tooltip for this
 2dreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 20tasksANDOptionalgregtech/gt.metaitem.02-32565.pngBaguette\ngregtech:gt.metaitem.02\nI teleported nothing BUT Bread!!!

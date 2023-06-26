@@ -1,4 +1,4 @@
-appliedenergistics2/item.ItemViewCell-0.pngMiscellaneous AE ItemsThere are several AE items that aren't particularly useful, but probably deserve mention, so here they are:
+2548appliedenergistics2/item.ItemViewCell-0.png0Miscellaneous AE Items27-1There are several AE items that aren't particularly useful, but probably deserve mention, so here they are:
 
 Certus Tanks: They hold 32B and are portable and easy to make.
 
@@ -23,5 +23,5 @@ Matter Cannon: Shoots Matter Balls made in the Matter Condensor. Put it in an ME
 
 Color Applicator: Use dye items or Paint Balls (more efficient) to dye stuff. You can dye cables, or anything Forge-compatible, like wool or glass. Place items inside like the Matter Cannon. You can cycle through the colors by holding shift and right-clicking, or scrolling the mouse wheel. If you use snow balls, you can remove paint instead. You can also use it in a dispensor.
 
-Walrus: It's a walrus, what were you expecting?0-1ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Walrus: It's a walrus, what were you expecting?ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

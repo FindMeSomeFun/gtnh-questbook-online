@@ -1,4 +1,4 @@
-ExtraUtilities/drum-1.png§a§lBigger DrumsNow that you have drums, you want them larger? Already??
+2391ExtraUtilities/drum-1.png0§a§lBigger Drums7-1Now that you have drums, you want them larger? Already??
 
 Well, in that case, you better start collecting or making cobblestone, by the tens of thousands. And making explosives too.
 
@@ -8,6 +8,6 @@ Now do that 5 more times, and you can make yourself a bedrockium drum.
 
 64k buckets of portable fluid. Perfect for your new Ore drill!
 
-§3There's also a Bedrockium ore much later on if you're lazy. By then you probably won't want the drums though.0-1ANDpre14740ExtraUtilities/drum-0.pngrewardsItemExtraUtilities/bedrockiumIngot-0.pngBedrockium Ingot
+§3There's also a Bedrockium ore much later on if you're lazy. By then you probably won't want the drums though.ANDpre14740ExtraUtilities/drum-0.pngrewardsItemExtraUtilities/bedrockiumIngot-0.pngBedrockium Ingot
 3tasksANDRetrievalExtraUtilities/drum-1.pngBedrockium Drum\nEmpty: 0 / 65,536,000
 1

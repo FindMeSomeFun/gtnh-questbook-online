@@ -1,6 +1,6 @@
-witchery/ingredient-3.pngMoving Faster!The Dream Weaver of Fleet Foot will add a speed boost to a player when they wake up from a good night's sleep. 
+1581witchery/ingredient-3.png0Moving Faster!36-1The Dream Weaver of Fleet Foot will add a speed boost to a player when they wake up from a good night's sleep. 
 
-If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a slowdown effect to the player.0-1ANDpre15780witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a slowdown effect to the player.ANDpre15780witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
 4witchery/ingredient-99.pngDisturbed Cotton
 4enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"

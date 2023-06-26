@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-1190.pngPortable Clean Energy EVAs long as you don't hold the fuel, that is. Very useful for your Mining rigs, the efficiency on these goes way up as they increase in tier. Though they require more Enriched Naquadah each tier (and Naquadria at ZPM).
+2794gregtech/gt.blockmachines-1190.png0Portable Clean Energy EV19-1As long as you don't hold the fuel, that is. Very useful for your Mining rigs, the efficiency on these goes way up as they increase in tier. Though they require more Enriched Naquadah each tier (and Naquadria at ZPM).
 
-§3The fuel is radioactive, dummy.0-1ANDpre12611gregtech/gt.metaitem.01-32706.png14911gregtech/gt.metaitem.01-11372.pngrewardsItemgregtech/gt.metaitem.01-26326.pngEnriched Naquadah Bolt\nNq+
+§3The fuel is radioactive, dummy.ANDpre12611gregtech/gt.metaitem.01-32706.png14911gregtech/gt.metaitem.01-11372.pngrewardsItemgregtech/gt.metaitem.01-26326.pngEnriched Naquadah Bolt\nNq+
 16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-1190.pngNaquadah Reactor Mark I\nRequires Enriched Naquadah Bolts\nFuel Efficiency: 80%\nVoltage OUT: 2,048 (EV)\nCapacity: 164,352 EU
 1

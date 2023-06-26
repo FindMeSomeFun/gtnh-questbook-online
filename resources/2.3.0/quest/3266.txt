@@ -1,6 +1,6 @@
-Botania/specialFlower-0-narslimmus.pngMmmmmm, Slimy!Have you ever seen a slime and thought "I'd love to eat that"? The narslimmus has.
+3266Botania/specialFlower-0-narslimmus.png0Mmmmmm, Slimy!35-1Have you ever seen a slime and thought "I'd love to eat that"? The narslimmus has.
 
-It needs to be planted somewhere slimes can naturally appear, but if you can find a good place for a narslimmus it'll consume those slimes and give you a good amount of mana in return.0-1ANDpre32631Botania/rune-2.pngrewardsItemdreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
+It needs to be planted somewhere slimes can naturally appear, but if you can find a good place for a narslimmus it'll consume those slimes and give you a good amount of mana in return.ANDpre32631Botania/rune-2.pngrewardsItemdreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
 5TConstruct/slime.gel-2.pngCongealed Purple Slime
 64tasksANDRetrievalBotania/specialFlower-0-narslimmus.pngNarslimmus\nGenerating Flower\nWhat''s this? It''s all sticky
 1

@@ -1,2 +1,2 @@
-gregtech/gt.blockmachines-10752.pngPocket Plasma ZPMThis is the ZPM version.0-1ANDpre11991gregtech/gt.metaitem.01-11103.png12121gregtech/gt.blockmachines-1193.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10752.pngPlasma Generator Mark IV\nPlasma into energy\nFuel Efficiency: 80%\nVoltage OUT: 131,072 (ZPM)\nCapacity: 10,486,272 EU
+2782gregtech/gt.blockmachines-10752.png0Pocket Plasma ZPM19-1This is the ZPM version.ANDpre11991gregtech/gt.metaitem.01-11103.png12121gregtech/gt.blockmachines-1193.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10752.pngPlasma Generator Mark IV\nPlasma into energy\nFuel Efficiency: 80%\nVoltage OUT: 131,072 (ZPM)\nCapacity: 10,486,272 EU
 1

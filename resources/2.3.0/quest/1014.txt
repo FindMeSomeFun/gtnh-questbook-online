@@ -1,10 +1,10 @@
-gregtech/gt.metaitem.01-32704.png§9§lWorkstations, Your First EV CircuitYour first EV circuit is the Workstation.
+1014gregtech/gt.metaitem.01-32704.png1§9§lWorkstations, Your First EV Circuit6-1Your first EV circuit is the Workstation.
 
 In addition, you'll need 16 Diodes, SMD or non-SMD.
 
 You can make Blue Alloy with Silver and Electrotine in an Alloy Smelter. If you don't have Electrotine, you can make it from Redstone and Electrum in a Mixer. Have fun!
 
-Also note that using the fluid solidifer is way faster than the extruder for Blue Alloy.1-1ANDpre10171gregtech/gt.metaitem.01-32703.pngrewardsItemgregtech/gt.metaitem.03-32011.pngSMD Resistor\nElectronic Component
+Also note that using the fluid solidifer is way faster than the extruder for Blue Alloy.ANDpre10171gregtech/gt.metaitem.01-32703.pngrewardsItemgregtech/gt.metaitem.03-32011.pngSMD Resistor\nElectronic Component
 4gregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
 4gregtech/gt.metaitem.03-32018.pngSMD Transistor\nElectronic Component
 4gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component

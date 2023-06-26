@@ -1,4 +1,4 @@
-cookingforblockheads/white_kitchen_floor-0.pngCooking for BlockheadsSay thanks to mitch for backporting this great mod. You can use it to help you craft new food items. All blocks connected to the kitchen floor (use it as walls too!) are considered part of the same multiblock. Countertops will search up two blocks for cabinets to include.
+2895cookingforblockheads/white_kitchen_floor-0.png0Cooking for Blockheads13-1Say thanks to mitch for backporting this great mod. You can use it to help you craft new food items. All blocks connected to the kitchen floor (use it as walls too!) are considered part of the same multiblock. Countertops will search up two blocks for cabinets to include.
 
 Items stored in storages like the cabinet (or your inventory) can be used in recipes. All storage spaces for items are the same, so don't bother making a ton of fridges unless you really want to. Supply water to the sink to get water for recipes.
 
@@ -14,7 +14,7 @@ Note that the implementation is not finished, so there are some problems. Upgrad
 
 Please report any bugs/problems to the CFB-specific GTNH issue tracker at https://github.com/GTNewHorizons/CookingForBlockheads/issues
 
-§3There is no cow in a jar, it will not come back.0-1ANDpre10081minecraft/book-0.pngrewardstasksANDRetrievalcookingforblockheads/white_kitchen_floor-0.pngKitchen Floor\nMultiblock Kitchen\nConnect kitchen blocks over distances.
+§3There is no cow in a jar, it will not come back.ANDpre10081minecraft/book-0.pngrewardstasksANDRetrievalcookingforblockheads/white_kitchen_floor-0.pngKitchen Floor\nMultiblock Kitchen\nConnect kitchen blocks over distances.
 24cookingforblockheads/counter-0.pngCounter\nMultiblock Kitchen\nStores ingredients for recipes.\nDyeable
 1cookingforblockheads/countercorner-0.pngCounter Corner\nMultiblock Kitchen\nKeeping up appearances.\nDyeable
 1cookingforblockheads/cabinet-0.pngCabinet\nMultiblock Kitchen\nStores ingredients for recipes.\nDyeable

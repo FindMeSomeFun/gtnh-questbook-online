@@ -1,4 +1,4 @@
-Forestry/alveary-0.pngAlveariesThe alveary is an advanced variant of the apiary. The alveary allows for combs to be produced faster due to its natural speed increase to production (as well as the ability to add up to six frames via the Extra Bees frame housings) and due to its ability to be modified by other blocks. 
+1123Forestry/alveary-0.png0Alvearies28-1The alveary is an advanced variant of the apiary. The alveary allows for combs to be produced faster due to its natural speed increase to production (as well as the ability to add up to six frames via the Extra Bees frame housings) and due to its ability to be modified by other blocks. 
 
 It is possible to adjust the internal temperature of the alveary using the alveary heater or alveary fan in order to accommodate bees that require hotter or colder climates.
 
@@ -6,7 +6,7 @@ Certain bees will not produce their specialty items unless they are Jubilant. Th
 
 It is also possible to use mutators to increase chances of mutation, alveary lighting and alveary rain shield to allow bees without the nocturnal and tolerant flyer traits to work during the night and rain, respectively, and the swarmer to use excess royal jelly to create princesses that last for a limited number of generations.
 
-§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.0-1ANDpre5070Forestry/apiculture-0.pngrewardsItemForestry/royalJelly-0.pngRoyal Jelly
+§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.ANDpre5070Forestry/apiculture-0.pngrewardsItemForestry/royalJelly-0.pngRoyal Jelly
 16Forestry/propolis-3.pngSilky Propolis
 32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

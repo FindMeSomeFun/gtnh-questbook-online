@@ -1,4 +1,4 @@
-witchery/arthana-0.pngArthanaAn Arthana is a ritualistic knife use by witches and warlocks to both collect special ingredients and to perform some rites. It has the same general properties as a golden sword (damage, enchantability, etc.), although it has the durability of an iron sword. It is repaired with a Gold Ingot.
+2341witchery/arthana-0.png0Arthana36-1An Arthana is a ritualistic knife use by witches and warlocks to both collect special ingredients and to perform some rites. It has the same general properties as a golden sword (damage, enchantability, etc.), although it has the durability of an iron sword. It is repaired with a Gold Ingot.
 
 The main purpose of the dagger is to collect specialist ingredients used in witchcraft, and to this end it will dramatically improve the chance of a mob dropping such ingredients (e.g. Wool of Bat, Tongue of Dog, etc.). It also gives a small chance of undead dropping Spectral Dust.
 
@@ -6,7 +6,7 @@ When only using vanilla Minecraft with Witchery (and no other mods), an Arthana 
 
 An Arthana does not change the drop chance for Wither Skeleton Skulls, that will require the Looting enchantment as usual.
 
-Some Circle Magic rites use an Arthana as a foci, the Arthana is not consumed in the process.0-1ANDpre3330witchery/altar-0.pngrewardsChoiceminecraft/book-0-enchanted.pngBook\nLooting III
+Some Circle Magic rites use an Arthana as a foci, the Arthana is not consumed in the process.ANDpre3330witchery/altar-0.pngrewardsChoiceminecraft/book-0-enchanted.pngBook\nLooting III
 1enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"

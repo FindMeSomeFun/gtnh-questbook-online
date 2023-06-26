@@ -1,4 +1,4 @@
-EnderIO/item.darkSteel_chestplate-0.pngDark Steel Armor Basic UpgradesIn order to upgrade one armor item with basic upgrades, you need a vibrant crystal and 10 xp levels.0-1ANDpre1390EnderIO/item.darkSteel_helmet-0.png1410EnderIO/itemMaterial-6.pngrewardsChoiceminecraft/waterlily-0.pngLily Pad
+991EnderIO/item.darkSteel_chestplate-0.png0Dark Steel Armor Basic Upgrades14-1In order to upgrade one armor item with basic upgrades, you need a vibrant crystal and 10 xp levels.ANDpre1390EnderIO/item.darkSteel_helmet-0.png1410EnderIO/itemMaterial-6.pngrewardsChoiceminecraft/waterlily-0.pngLily Pad
 16minecraft/piston-0.pngPiston
 1Forestry/craftingMaterial-2.pngSilk Wisp
 36minecraft/potion-8198.pngPotion of Night Vision\nNight Vision (3:00)

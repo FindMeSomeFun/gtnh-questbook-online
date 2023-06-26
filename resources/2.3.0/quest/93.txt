@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32610.png§5§lYou're Gonna Hate This #2The second item you'll need a lot of. When you want to get fluid out of tanks you'll need one. 
+93gregtech/gt.metaitem.01-32610.png1§5§lYou're Gonna Hate This #24-1The second item you'll need a lot of. When you want to get fluid out of tanks you'll need one. 
 
 Attach it to fluid pipes or GT machines/blocks. Adjust the flow direction and redstone behavior with a screwdriver. Place it on the side facing the tank or machine. When looking at a pipe or machine, you can use the grid to place it on a side already touching another thing. You can use the grid with a screwdriver to adjust a cover on that side as well.
 
@@ -6,7 +6,7 @@ When a GT pipe or machine has any cover, including a pump cover, wrenching the m
 
 It can also be further upgraded into a fluid regulator that allows precise control of fluid transfer speed.
 
-§3PS: Covers have a Shift-Right-Click interface now!1-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
+§3PS: Covers have a Shift-Right-Click interface now!ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
 6enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.metaitem.01-32610.pngElectric Pump\n32 L/t (640 L/s) as Cover

@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30001.pngGas PlanetsYou probably also want a good overview of what you can get with your Gas Siphon. So here we go:
+3209gregtech/gt.metaitem.01-30001.png0Gas Planets1-1You probably also want a good overview of what you can get with your Gas Siphon. So here we go:
 
 
 Jupiter§r
@@ -23,5 +23,5 @@ Jupiter§r
 1 Tritium - 3000 L/s
 2 Helium-3 - 500 L/s
 3 Ammonia - 400 L/s
-4 Xenon - 350 L/s0-1ANDpre30370gregtech/gt.blockmachines-14002.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+4 Xenon - 350 L/sANDpre30370gregtech/gt.blockmachines-14002.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

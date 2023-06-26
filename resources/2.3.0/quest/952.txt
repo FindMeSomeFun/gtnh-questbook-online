@@ -1,8 +1,8 @@
-gregtech/gt.blockconcretes-15.pngBase Too Big? I've Got a Fix For You!Keeping a base spread apart for pollution or explosion prevention can really wear you out, so why not make some concrete to get around faster?
+952gregtech/gt.blockconcretes-15.png0Base Too Big? I've Got a Fix For You!15-1Keeping a base spread apart for pollution or explosion prevention can really wear you out, so why not make some concrete to get around faster?
 
 Harvest some Marble and centrifuge it into Calcite, and mix up some concrete in your Mixer. Next output it into a Fluid Solidifier with a block mold to make concrete blocks.
 
-You'll move faster on top of these blocks. They can even be turned into bricks to prevent unwanted spawns! Hint: 10 buckets of wet mix converts to exactly 160 blocks. These blocks can also be Chiseled into different varieties.0-1ANDpre5391gregtech/gt.blockmachines-361.png5541gregtech/gt.blockmachines-581.png11551gregtech/gt.blockmachines-521.pngrewardsChoicegregtech/gt.blockconcretes-0.pngDark Concrete\nYou can walk faster on this Block
+You'll move faster on top of these blocks. They can even be turned into bricks to prevent unwanted spawns! Hint: 10 buckets of wet mix converts to exactly 160 blocks. These blocks can also be Chiseled into different varieties.ANDpre5391gregtech/gt.blockmachines-361.png5541gregtech/gt.blockmachines-581.png11551gregtech/gt.blockmachines-521.pngrewardsChoicegregtech/gt.blockconcretes-0.pngDark Concrete\nYou can walk faster on this Block
 160gregtech/gt.blockconcretes-15.pngSmooth Light Concrete\nMobs cannot Spawn on this Block\nYou can walk faster on this Block
 160gregtech/gt.blockconcretes-7.pngSmooth Dark Concrete\nMobs cannot Spawn on this Block\nYou can walk faster on this Block
 160enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

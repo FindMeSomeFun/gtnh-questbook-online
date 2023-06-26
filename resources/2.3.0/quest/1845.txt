@@ -1,7 +1,7 @@
-minecraft/blaze_rod-0.png§1§lFlaming IdiotsBlazes are all infernals, and all nasty. Avoid like the plague. Get awesome weapons, awesome armor, and prepare for a fight. 
+1845minecraft/blaze_rod-0.png0§1§lFlaming Idiots0-1Blazes are all infernals, and all nasty. Avoid like the plague. Get awesome weapons, awesome armor, and prepare for a fight. 
 
 Alternatively, figure out a way to destroy them with technology.
 
-Alternative to the alternative, figure out another way to get blazepowder and blaze rods.0-1ANDpre18430minecraft/string-0.pngrewardsItemminecraft/blaze_powder-0.pngBlaze Powder
+Alternative to the alternative, figure out another way to get blazepowder and blaze rods.ANDpre18430minecraft/string-0.pngrewardsItemminecraft/blaze_powder-0.pngBlaze Powder
 1tasksANDCheckboxcheckbox-.pngCheckbox
 

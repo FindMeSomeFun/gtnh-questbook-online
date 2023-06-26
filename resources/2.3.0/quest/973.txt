@@ -1,4 +1,4 @@
-Railcraft/fluid.creosote.cell-0.pngCreosoteWant some creosote? Buy some!012000ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.metaitem.01-30712.pngCreosote Cell
+973Railcraft/fluid.creosote.cell-0.png0Creosote4012000Want some creosote? Buy some!ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.metaitem.01-30712.pngCreosote Cell
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
 16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25

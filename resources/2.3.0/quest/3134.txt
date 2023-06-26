@@ -1,4 +1,4 @@
-minecraft/coal_block-0.pngCoal Or CharcoalThe Super Fuels are blocks of burnable material, like Coal Blocks, which they need in their crafting recipe. It doesn't have to be Coal, though: you can do Coal, Charcoal or Coal Coke, and all of them make the same amount of Super Fuel. However, the amount of fluid fuel used changes based on which kind of block you used, which poses a problem.
+3134minecraft/coal_block-0.png0Coal Or Charcoal22-1The Super Fuels are blocks of burnable material, like Coal Blocks, which they need in their crafting recipe. It doesn't have to be Coal, though: you can do Coal, Charcoal or Coal Coke, and all of them make the same amount of Super Fuel. However, the amount of fluid fuel used changes based on which kind of block you used, which poses a problem.
 
 (We will ignore Lignite Coal, since it is by far the worst option. If you want to use it, dealing with the efficiency problem is up to you.)
 
@@ -6,7 +6,7 @@ The problem is this: the amount of EU you save by choosing Charcoal instead of t
 
 Coal can be automated too, though! There are many ways to do this, but the most popular way of automating items that aren't renewable by default is usually by using either IC2 crops or Forestry bees, both of which have their own renewable Coal. If you never made progress in either of those, keep in mind that they need time and effort to give you good results, but if you have, then they are great options to make this fuel even more efficiently. Naturally, you will then turn it into Coal Coke with Pyrolyse Ovens, ACOs or ICOs.
 
-Stock up on either Charcoal or Coal Coke blocks to continue.0-1ANDpre31280IC2/fluidSuperheatedSteam-0.pngrewardsItemminecraft/coal_block-0.pngBlock of Coal\nBurn Time: 16000
+Stock up on either Charcoal or Coal Coke blocks to continue.ANDpre31280IC2/fluidSuperheatedSteam-0.pngrewardsItemminecraft/coal_block-0.pngBlock of Coal\nBurn Time: 16000
 32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionaldreamcraft/tile.Charcoal-0.pngBlock of Charcoal\nBurn Time: 16000

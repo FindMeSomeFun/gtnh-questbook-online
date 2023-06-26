@@ -1,4 +1,4 @@
-minecraft/quartz_ore-0.png§5§lQuartzite VeinsThe Nether is full of different kinds of quartz. Go and find a quartzite vein. They're located between Y 80-120. It might be hard to find one, because that area is usually air, you'll just have to keep looking.0-1ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem
+1166minecraft/quartz_ore-0.png0§5§lQuartzite Veins4-1The Nether is full of different kinds of quartz. Go and find a quartzite vein. They're located between Y 80-120. It might be hard to find one, because that area is usually air, you'll just have to keep looking.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem
 1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza\nharvestcraft:meatfeastpizzaItem
 1Choiceminecraft/nether_wart-0.pngNether Wart
 16minecraft/ghast_tear-0.pngGhast Tear

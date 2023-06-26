@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-30726.pngGlueWant some glue? Buy some!012000ANDpre881gregtech/gt.blockmachines-1120.png7451gregtech/gt.metaitem.01-30726.pngrewardsItemgregtech/gt.metaitem.01-30726.pngRefined Glue Cell\nNo Horses were harmed for the Production
+980gregtech/gt.metaitem.01-30726.png0Glue4012000Want some glue? Buy some!ANDpre881gregtech/gt.blockmachines-1120.png7451gregtech/gt.metaitem.01-30726.pngrewardsItemgregtech/gt.metaitem.01-30726.pngRefined Glue Cell\nNo Horses were harmed for the Production
 64tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
 64dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25

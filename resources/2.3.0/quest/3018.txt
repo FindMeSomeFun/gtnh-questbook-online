@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-30997.pngGasolineRaw Gasoline is raw, obviously. To make it a proper fuel, it needs something explosive mixed in with it... what could you have that is considered explosive? Maybe the TNT, or what it's made of?
+3018gregtech/gt.metaitem.01-30997.png0Gasoline21-1Raw Gasoline is raw, obviously. To make it a proper fuel, it needs something explosive mixed in with it... what could you have that is considered explosive? Maybe the TNT, or what it's made of?
 
-You have Toluene automated already, right? Get on it.0-1ANDpre30140gregtech/gt.metaitem.01-30996.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You have Toluene automated already, right? Get on it.ANDpre30140gregtech/gt.metaitem.01-30996.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDRetrievalgregtech/gt.metaitem.01-30997.pngGasoline Cell
 128

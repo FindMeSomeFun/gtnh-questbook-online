@@ -1,4 +1,4 @@
-Thaumcraft/WandCasting-0.png§5§lYour Magic ProgressionNow that you're able to produce Aluminium, you may dig into magic. If you haven't unlocked basic thaumaturgy, try to find a Silverwood and a Greatwood sapling.
+104Thaumcraft/WandCasting-0.png1§5§lYour Magic Progression4-1Now that you're able to produce Aluminium, you may dig into magic. If you haven't unlocked basic thaumaturgy, try to find a Silverwood and a Greatwood sapling.
 
-There is a coin quest that lets you purchase these saplings. If you haven't found any yet, go check it out!1-1ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+There is a coin quest that lets you purchase these saplings. If you haven't found any yet, go check it out!ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

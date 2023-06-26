@@ -1,4 +1,4 @@
-GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel CanisterEvery rocket needs fuel storage canisters. For the tier 1 rocket you need to craft two of them.1-1ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Steel
+819GalaxySpace/item.ModuleSmallFuelCanister-0.png1Small Fuel Canister24-1Every rocket needs fuel storage canisters. For the tier 1 rocket you need to craft two of them.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Steel
 4GalacticraftCore/item.basicItem-10.pngCompressed Bronze
 4GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
 4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

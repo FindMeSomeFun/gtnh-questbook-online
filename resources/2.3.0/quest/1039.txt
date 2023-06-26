@@ -1,3 +1,3 @@
-gregtech/gt.metaitem.03-32016.pngSMD DiodesWant some SMD diodes? Buy some!048000ANDpre1761gregtech/gt.blockmachines-14.png10131gregtech/gt.metaitem.03-32011.pngrewardsItemgregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
+1039gregtech/gt.metaitem.03-32016.png0SMD Diodes4048000Want some SMD diodes? Buy some!ANDpre1761gregtech/gt.blockmachines-14.png10131gregtech/gt.metaitem.03-32011.pngrewardsItemgregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
 16tasksANDConsumedreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 8

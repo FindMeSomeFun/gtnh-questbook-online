@@ -1,8 +1,8 @@
-gregtech/gt.metaitem.01-30647.pngToluene's PowerTrinitrotoluene. Shorthand, that's TNT, or one of the most popular types of explosive there is. Not only is it popular, but it's a centerpiece of a special type of GTNH crafting: implosion compressing! There are other types of explosives available, but TNT is the best for this purpose.
+3113gregtech/gt.metaitem.01-30647.png0Toluene's Power22-1Trinitrotoluene. Shorthand, that's TNT, or one of the most popular types of explosive there is. Not only is it popular, but it's a centerpiece of a special type of GTNH crafting: implosion compressing! There are other types of explosives available, but TNT is the best for this purpose.
 
 That's all fine and dandy, but unfortunately it is not optional. To get past HV, you will need Titanium, and the most reasonable way to accomplish that is to get it from ores found in the Moon, which will need a rocket made of very compressed plates, courtesy of a few stacks of said TNT. To source it, you will need a lot of Toluene, and from there you can make a choice: make regular TNT, or add Nitric Acid to the mix and come out with Industrial TNT, a more powerful version that can, for the most part, craft more items than the cheaper TNT. Some of the renewable powergen processes can output Ammonia, which makes Nitric Acid much easier to produce, so keep that in mind.
 
-Toluene, plus TNT or iTNT is what you need. The rocket will thank you later.0-1ANDpre31100gregtech/gt.blockmachines-1126.pngrewardsItemminecraft/tnt-0.pngTNT
+Toluene, plus TNT or iTNT is what you need. The rocket will thank you later.ANDpre31100gregtech/gt.blockmachines-1126.pngrewardsItemminecraft/tnt-0.pngTNT
 8IC2/blockITNT-0.pngIndustrial TNT
 4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"

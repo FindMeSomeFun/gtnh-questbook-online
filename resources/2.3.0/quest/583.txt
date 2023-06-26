@@ -1,6 +1,6 @@
-Forestry/chipsets-0.pngFarm LogicThis chip allows you to select the farm type (when combined with the right electron tubes), and not use the default of growing trees. Unless that's what you want, in which case you don't need it. 
+583Forestry/chipsets-0.png0Farm Logic16-1This chip allows you to select the farm type (when combined with the right electron tubes), and not use the default of growing trees. Unless that's what you want, in which case you don't need it. 
 
-For each circuit tier, you can configure 1/4 more of your farm.0-1ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
+For each circuit tier, you can configure 1/4 more of your farm.ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
 8gregtech/gt.metaitem.01-32700.pngVacuum Tube\nA very simple Circuit\nULV-Tier
 4gregtech/gt.metaitem.03-32100.pngCircuit Board\nA basic Circuit Board
 1enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

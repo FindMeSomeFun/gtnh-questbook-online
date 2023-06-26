@@ -1,10 +1,10 @@
-gregtech/gt.blockmachines-1120.png§5§r§5§lWelcome to Tier 1, LVWhy, hello there! It seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to keep using them for a while.
+88gregtech/gt.blockmachines-1120.png1§5§r§5§lWelcome to Tier 1, LV4-1Why, hello there! It seems you've made it into the electrical age. Don't be so quick to throw away your steam machines, you'll probably want to keep using them for a while.
 
 To make your life easier, you'll want to focus on getting a wiremill and bender first... once you suffer through making all the machine components.
 
 After that, the polarizer, assembler, lathe, and chemical reactor+fluid solidifier (for rubber) all help make things cheaper.
 
-§3PS: ULV doesn't exist.1-1ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemharvestcraft/bananasplitItem-0.pngBanana Split\nharvestcraft:bananasplitItem
+§3PS: ULV doesn't exist.ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemharvestcraft/bananasplitItem-0.pngBanana Split\nharvestcraft:bananasplitItem
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-1120.pngBasic Steam Turbine\nConverts Steam into EU\nBase rate: 2L of Steam -> 1 EU\nFuel Efficiency: 85%\nConsumes up to 1552L of Steam per second\nVoltage OUT: 32 (LV)\nCapacity: 3,072 EU
 1

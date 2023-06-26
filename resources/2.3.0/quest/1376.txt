@@ -1,6 +1,6 @@
-Thaumcraft/FocusFrost-0.pngWand Focus FrostThe Wand Focus: Frost when equipped to a wand will launch a ball of ice that can bounce off of blocks and mobs if their hardness is high enough.  It will inflict Slowness on mobs, freeze water and solidify lava. Its base vis cost is 0.05 aqua 0.02 ignis and 0.02 perditio per cast.
+1376Thaumcraft/FocusFrost-0.png0Wand Focus Frost34-1The Wand Focus: Frost when equipped to a wand will launch a ball of ice that can bounce off of blocks and mobs if their hardness is high enough.  It will inflict Slowness on mobs, freeze water and solidify lava. Its base vis cost is 0.05 aqua 0.02 ignis and 0.02 perditio per cast.
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/FocusFrost-0.pngWand Focus: Frost\nVis per cast\n Aqua x 0.05\n Ignis x 0.02\n Perditio x 0.02

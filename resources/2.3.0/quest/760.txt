@@ -1,6 +1,6 @@
-gregtech/gt.metaitem.01-2805.png§6§lClay ElectrolyzingIf you looked through NEI you may have found out that electrolyzing clay dust will give you Alumina, Silicon Dioxide, Sodium, and Lithium dust. And water, but you're probably just voiding that already, right? There's plenty of stained clay blocks found in canyon, mesa, lush desert biomes or several to a couple dozen on mountains that can be pulverized to clay dust.
+760gregtech/gt.metaitem.01-2805.png0§6§lClay Electrolyzing5-1If you looked through NEI you may have found out that electrolyzing clay dust will give you Alumina, Silicon Dioxide, Sodium, and Lithium dust. And water, but you're probably just voiding that already, right? There's plenty of stained clay blocks found in canyon, mesa, lush desert biomes or several to a couple dozen on mountains that can be pulverized to clay dust.
 
-There's more ways to get alumina now that you're in MV, enough that it's basically worthless by the time you get to EV.0-1ANDpre1261gregtech/gt.blockmachines-372.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
+There's more ways to get alumina now that you're in MV, enough that it's basically worthless by the time you get to EV.ANDpre1261gregtech/gt.blockmachines-372.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
 8gregtech/gt.metaitem.01-11020.pngRaw Silicon Ingot\nSi
 8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

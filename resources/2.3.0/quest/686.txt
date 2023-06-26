@@ -1,6 +1,6 @@
-minecraft/leather_chestplate-0.pngLeather ArmorKilling some cows will give you enough leather to craft a complete set of leather armor. 
+686minecraft/leather_chestplate-0.png0Leather Armor14-1Killing some cows will give you enough leather to craft a complete set of leather armor. 
 
-Hint: You are able to dye this armor.0-1ORpre421minecraft/leather-0.pngrewardsChoiceminecraft/dye-0.pngInk Sac
+Hint: You are able to dye this armor.ORpre421minecraft/leather-0.pngrewardsChoiceminecraft/dye-0.pngInk Sac
 8minecraft/dye-1.pngRose Red
 8minecraft/dye-2.pngCactus Green
 8minecraft/dye-3.pngCocoa Beans

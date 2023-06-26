@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-103.png§3§lUsing Steam to Cook ThingsA rather slow process, but it's more efficient than using a regular furnace.0-1ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemharvestcraft/lamingtonItem-0.pngLamington
+63gregtech/gt.blockmachines-103.png0§3§lUsing Steam to Cook Things3-1A rather slow process, but it's more efficient than using a regular furnace.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemharvestcraft/lamingtonItem-0.pngLamington
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDCraftinggregtech/gt.blockmachines-103.pngSteam Furnace\nSmelting things with compressed Steam
 1

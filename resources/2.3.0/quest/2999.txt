@@ -1,10 +1,10 @@
-gregtech/gt.metaitem.01-30708.pngDieselFinally, the oil of the gods. At least, early gods.
+2999gregtech/gt.metaitem.01-30708.png0Diesel21-1Finally, the oil of the gods. At least, early gods.
 
 Diesel, as a power source, has widely been known as the optimal choice all the way up to EV, when you unlock the ability to make nukes. It can be further upgraded into Cetane-Boosted Diesel in HV, by adding another chemical chain to it, but a fuel value of 480k EU on a fuel that needs so few machines to be made is quite exceptional. It should be automated as soon as possible, to ensure that you won't run out of power when you need it the most.
 
 At this stage, you can use either LV or MV Diesel Generators. Using the LV ones will mean you need to make more of them, and more pollution, but they have 95% fuel efficiency compared to MV's 90%. It's a difference, but an automated Diesel setup is unlikely to be affected by a 5% change in efficiency.
 
-As you progress, fuel will become more and more power-dense, but also need more steps automated. The next tier is much harder than this one, so get ready!0-1ANDpre29980gregtech/gt.blockmachines-582.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
+As you progress, fuel will become more and more power-dense, but also need more steps automated. The next tier is much harder than this one, so get ready!ANDpre29980gregtech/gt.blockmachines-582.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
 64gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
 30gregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 6enhancedlootbags/lootbag-5-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book

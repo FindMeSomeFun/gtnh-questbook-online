@@ -1,4 +1,4 @@
-openmodularturrets/grenadeTurret-0.png§9§lFire in the HoleAh, there's nothing like an explosion and the certainty that your enemies have been blasted into tiny pieces.0-1ANDpre1730openmodularturrets/baseTierTwoBlock-0.pngrewardsChoiceopenmodularturrets/grenadeCraftable-0.pngAmmo - Grenade
+175openmodularturrets/grenadeTurret-0.png0§9§lFire in the Hole14-1Ah, there's nothing like an explosion and the certainty that your enemies have been blasted into tiny pieces.ANDpre1730openmodularturrets/baseTierTwoBlock-0.pngrewardsChoiceopenmodularturrets/grenadeCraftable-0.pngAmmo - Grenade
 16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

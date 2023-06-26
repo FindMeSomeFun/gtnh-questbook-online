@@ -1,4 +1,4 @@
-Thaumcraft/ItemThaumonomicon-42.pngJust Tell Me What to Scan Already!Don't want to guess at what has what aspect? Just want to get to work? Then scan this stuff. The first set should be scanned in order. If any of them don't work, try scanning something else first (especially the third set).
+1461Thaumcraft/ItemThaumonomicon-42.png0Just Tell Me What to Scan Already!31-1Don't want to guess at what has what aspect? Just want to get to work? Then scan this stuff. The first set should be scanned in order. If any of them don't work, try scanning something else first (especially the third set).
 
 Watering Can
 Torch
@@ -60,5 +60,5 @@ Humanus + Iter
 
 
 
-Note that the above list is for aspects, you may need to scan things like the Nether Portal to unlock certain researches.0-1ANDpre2261Thaumcraft/ItemThaumometer-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Note that the above list is for aspects, you may need to scan things like the Nether Portal to unlock certain researches.ANDpre2261Thaumcraft/ItemThaumometer-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

@@ -1,8 +1,8 @@
-ExtraUtilities/builderswand-0.pngBuilding Made EasyPlacing blocks by hand can be tedious. Wouldn't it be nice to be able to place blocks like "Another 9 here"? Well, good news. Get yourself some of the various building blocks, and I shall reward you with something nice.
+601ExtraUtilities/builderswand-0.png0Building Made Easy15-1Placing blocks by hand can be tedious. Wouldn't it be nice to be able to place blocks like "Another 9 here"? Well, good news. Get yourself some of the various building blocks, and I shall reward you with something nice.
 
 You could also just craft it (or the better one) with unstable ingots yourself, too.
 
-You can upgrade to the various other BBWs too.0-1ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemExtraUtilities/builderswand-0.pngBuilder''s Wand
+You can upgrade to the various other BBWs too.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemExtraUtilities/builderswand-0.pngBuilder''s Wand
 1tasksANDConsumechisel/rebel-0.pngRebellious Block\ntile.rebel.0.desc\nMobs cannot Spawn on this Block
 16chisel/laboratoryblock-0.pngLaboratory Block\nWall Panel\nMobs cannot Spawn on this Block
 16chisel/holystone-0.pngHolystone\nHolystone\nMobs cannot Spawn on this Block

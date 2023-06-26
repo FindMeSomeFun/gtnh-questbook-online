@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-2701.png§5§lLong Distance Item PipelineWouldn't it be great if you could transport ores from a far away ore vein by pipes to your base?
+2850gregtech/gt.blockmachines-2701.png0§5§lLong Distance Item Pipeline4-1Wouldn't it be great if you could transport ores from a far away ore vein by pipes to your base?
 
 This is not a problem anymore. Connect your setup on the start and end point with a Long Distance Item Pipeline block. Inbetween use the associated pipe blocks - the total distance between endpoints must be more than 64 blocks apart (4 or more chunks). There can only be one start and end point per pipeline.
 
@@ -10,7 +10,7 @@ Now you only need to chunkload the start and end points and the items will be "t
 
 Of course, later on you'll probably use ender chests to §oactually§r teleport the ore, especially from other dims.
 
-This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.0-1ANDpre9300gregtech/gt.blockmachines-679.pngrewardsItemgregtech/gt.metaitem.01-32630.pngConveyor Module\n1 stack every 20 secs (as Cover)
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpre9300gregtech/gt.blockmachines-679.pngrewardsItemgregtech/gt.metaitem.01-32630.pngConveyor Module\n1 stack every 20 secs (as Cover)
 2IronChest/BlockIronChest-1.pngGold Chest\n9*9 Inventory - 81 Slots
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-2701.pngLong Distance Item Pipeline\nSends Items over long distances

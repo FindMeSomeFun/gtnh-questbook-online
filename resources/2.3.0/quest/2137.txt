@@ -1,9 +1,9 @@
-appliedenergistics2/tile.BlockController-0.pngME ControllerThe heart of your ME network. You can inject energy into here as well to power your network, but you probably want to save all available spaces for networking. Without this, you're limited to 8 channels.
+2137appliedenergistics2/tile.BlockController-0.png1ME Controller27-1The heart of your ME network. You can inject energy into here as well to power your network, but you probably want to save all available spaces for networking. Without this, you're limited to 8 channels.
 
 This is a multiblock, and can be expanded up to 7x7x7, and can have 2 adjacent blocks in at most 1 axis, or it will be disabled. Whatever that means, just try it out, ok? You can only have one per network.
 
 About channels:
-Generally, every device uses a channel unless specified otherwise. If you don't have enough, that device will not function. If you can't determine what's causing your network problems, try looking at the lines on the smart and dense cables, or use a network visualizer.1-1ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemappliedenergistics2/item.ItemMultiMaterial-8.pngFluix Dust
+Generally, every device uses a channel unless specified otherwise. If you don't have enough, that device will not function. If you can't determine what's causing your network problems, try looking at the lines on the smart and dense cables, or use a network visualizer.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemappliedenergistics2/item.ItemMultiMaterial-8.pngFluix Dust
 8enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1tasksANDRetrievalappliedenergistics2/tile.BlockController-0.pngME Controller
 1

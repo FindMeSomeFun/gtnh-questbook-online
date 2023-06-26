@@ -1,4 +1,4 @@
-Thaumcraft/blockMirror-0.pngMagical Item TeleportationIt's annoying to do, but you can teleport items with this. Check the thaumonomicon for details.0-1ANDpre28570Thaumcraft/ItemResource-10.pngrewardsItemThaumcraft/blockMirror-0.pngMagic Mirror\nGlass-Tier: HV
+297Thaumcraft/blockMirror-0.png0Magical Item Teleportation32-1It's annoying to do, but you can teleport items with this. Check the thaumonomicon for details.ANDpre28570Thaumcraft/ItemResource-10.pngrewardsItemThaumcraft/blockMirror-0.pngMagic Mirror\nGlass-Tier: HV
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockMirror-0.pngMagic Mirror\nGlass-Tier: HV
 1

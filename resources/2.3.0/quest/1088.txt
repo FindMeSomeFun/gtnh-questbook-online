@@ -1,4 +1,4 @@
-harvestcraft/friedeggItem-0.pngFried EggsSo easy, skillet and an egg.... fried egg.0-1ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceharvestcraft/butterItem-0.pngButter
+1088harvestcraft/friedeggItem-0.png0Fried Eggs13-1So easy, skillet and an egg.... fried egg.ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceharvestcraft/butterItem-0.pngButter
 4minecraft/egg-0.pngEgg
 4gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
 4harvestcraft/flourItem-0.pngFlour

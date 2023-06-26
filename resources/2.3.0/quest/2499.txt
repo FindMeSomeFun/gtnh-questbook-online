@@ -1,4 +1,4 @@
-thaumicenergistics/storage.component-2.png16k Essentia ComponentSame as 1k.0-1ANDpre24980thaumicenergistics/storage.component-1.pngrewardsItemdreamcraft/item.EssentiaCircuit-0.pngEssentia Circuit
+2499thaumicenergistics/storage.component-2.png016k Essentia Component27-1Same as 1k.ANDpre24980thaumicenergistics/storage.component-1.pngrewardsItemdreamcraft/item.EssentiaCircuit-0.pngEssentia Circuit
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalthaumicenergistics/storage.component-2.png16k ME Essentia Storage Component

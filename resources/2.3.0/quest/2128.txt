@@ -1,4 +1,4 @@
-Forestry/sapling-0-Cherry.pngHill CherryHill Cherry is a key tree for breeding purposes. Breed it by mating Silver Lime with Apple Oak or Silver Birch.0-1ANDpre21240Forestry/sapling-0-Lime.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+2128Forestry/sapling-0-Cherry.png0Hill Cherry16-1Hill Cherry is a key tree for breeding purposes. Breed it by mating Silver Lime with Apple Oak or Silver Birch.ANDpre21240Forestry/sapling-0-Lime.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1tasksANDOptionalForestry/sapling-0-Lime.pngSilver Lime Sapling\nBurn Time: 100
 1RetrievalForestry/sapling-0-Cherry.pngHill Cherry Sapling\nBurn Time: 100

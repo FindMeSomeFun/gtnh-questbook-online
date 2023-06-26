@@ -1,4 +1,4 @@
-witchery/ingredient-35.pngReek of MisfortuneReek of Misfortune is an ingredient used in many recipes. It is acquired with a random chance when burning Alder saplings in an oven.0-1ANDpre15570witchery/witchsapling-0.pngrewardsItemwitchery/ingredient-27.pngClay Jar
+1569witchery/ingredient-35.png0Reek of Misfortune36-1Reek of Misfortune is an ingredient used in many recipes. It is acquired with a random chance when burning Alder saplings in an oven.ANDpre15570witchery/witchsapling-0.pngrewardsItemwitchery/ingredient-27.pngClay Jar
 8enhancedlootbags/lootbag-52.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"

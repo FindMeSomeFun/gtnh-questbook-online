@@ -1,4 +1,4 @@
-IC2/itemCropSeed-0.pngFirst BreedingNew plants have grown on your crop sticks. You can harvest the crop by right clicking it.
+719IC2/itemCropSeed-0.png0First Breeding13-1New plants have grown on your crop sticks. You can harvest the crop by right clicking it.
 
 Left clicking will destroy the plant and drop a seedbag. This is not guaranteed however, but the chances rise as the maturity does. Collect 8 seeds of any kind to complete this quest.
 
@@ -6,7 +6,7 @@ To unlock the next quest, you will need the LV scanner.
 
 If you haven't already, consider building some Filing Cabinets. They make storing and moving large quantities of seeds a breeze. Plus they will properly sort the seeds based on name. To find a specific seed, type its name in the NEI search bar, and double click the bar so it highlights yellow.  Now you can look through the Filing Cabinet and find the exact seedbag you want.
 
-Or use double chests and toss the ones you don't want.0-1ANDpre7180IC2/blockCrop-0.pngrewardsChoiceIC2/blockCrop-0.pngCrop
+Or use double chests and toss the ones you don't want.ANDpre7180IC2/blockCrop-0.pngrewardsChoiceIC2/blockCrop-0.pngCrop
 32minecraft/nether_wart-0.pngNether Wart
 16enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"

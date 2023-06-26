@@ -1,6 +1,6 @@
-GalaxySpace/ceresblocks-2.pngCeres DungeonGo get the schematics for tier 4 rockets.
+1530GalaxySpace/ceresblocks-2.png1Ceres Dungeon24-1Go get the schematics for tier 4 rockets.
 
-This will open the Planets Venus and Mercury and the Jupiter Moon Io.1-1ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+This will open the Planets Venus and Mercury and the Jupiter Moon Io.ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
 16gregtech/gt.metaitem.01-2372.pngHSS-G Dust\n((Fe\u2085\u2080C)W)\u2085CrMo\u2082V
 8enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"

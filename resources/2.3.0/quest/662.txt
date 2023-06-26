@@ -1,8 +1,8 @@
-gregtech/gt.blockmachines-651.png§5§lBasic Arc FurnaceThe arc furnace is an alternative to macerating stuff back into dusts and for making wrought iron, annealed copper, and glass (in MV). You get ingots, and sometimes different materials back from recycling than with a macerator. You also have all 4 slots at LV. The recipes use oxygen and 3A of power.
+662gregtech/gt.blockmachines-651.png0§5§lBasic Arc Furnace4-1The arc furnace is an alternative to macerating stuff back into dusts and for making wrought iron, annealed copper, and glass (in MV). You get ingots, and sometimes different materials back from recycling than with a macerator. You also have all 4 slots at LV. The recipes use oxygen and 3A of power.
 
 §3Just ignore the plasma one.
 
-§3And no, you can't just send 1A of MV, that'll just cause an explosion.0-1ANDpre6240gregtech/gt.blockmachines-231.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3And no, you can't just send 1A of MV, that'll just cause an explosion.ANDpre6240gregtech/gt.blockmachines-231.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-651.pngBasic Arc Furnace\nVoltage IN: 32 (LV)\nCapacity: 2,048 EU
 1

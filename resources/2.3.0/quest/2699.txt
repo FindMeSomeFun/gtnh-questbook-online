@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-15430.pngPlay it Again, SamSo if you thought one Quantum Computer was cool, what about two? You can chain them to get more computing power for your research by connecting them with Optical Connectors the same way you connect to the Research Station. The original QC should have the slave to receive the data from the second one.
+2699gregtech/gt.blockmachines-15430.png0Play it Again, Sam11-1So if you thought one Quantum Computer was cool, what about two? You can chain them to get more computing power for your research by connecting them with Optical Connectors the same way you connect to the Research Station. The original QC should have the slave to receive the data from the second one.
 
 Of course, this is kinda expensive, so there's actually another option, and that's to simply extend the first one. You can tear down the last two columns of blocks and then use an itemstack of two hologram projectors to see how a 4 computer rack one would be built. However, you'll need another UV or higher hatch to power it if you use 4 racks, since that will use 5A. You can do the same for up to a 12 stack for 24 computer racks if you want. Just add more of the middle slice, or let a larger stack of hologram projectors show you how it's done.
 
@@ -6,5 +6,5 @@ If you use 3 racks with 3 Crystalprocessor Mainframes and 1 Advanced Heat Vent e
 
 A third option for higher computation needs is to finally go back and learn how to set parameters in a useful way. That gives you finer control over the maximum heat your QC reaches and get everything out of it.
 
-§4Remember to let all the heat in your QCs dissipate before changing things.0-1ANDpre20071gregtech/gt.blockmachines-15311.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+§4Remember to let all the heat in your QCs dissipate before changing things.ANDpre20071gregtech/gt.blockmachines-15311.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 

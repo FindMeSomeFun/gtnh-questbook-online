@@ -1,8 +1,8 @@
-GalacticraftMars/tile.sludge-0.pngBacterial SludgeBacterial Sludge is a fluid block that generates naturally on Mars.
+1469GalacticraftMars/tile.sludge-0.png0Bacterial Sludge24-1Bacterial Sludge is a fluid block that generates naturally on Mars.
 
 It generates in the giant underground caves in Mars in small amounts.
 
-Collect it to produce mutagen for bees mutation in gendustry.0-1ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceExtraUtilities/shears-0.pngPrecision Shears
+Collect it to produce mutagen for bees mutation in gendustry.ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceExtraUtilities/shears-0.pngPrecision Shears
 1IC2/itemCellEmpty-0.pngEmpty Cell
 64GalacticraftMars/item.null-5.pngCompressed Desh
 4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book

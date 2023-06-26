@@ -1,9 +1,9 @@
-HardcoreEnderExpansion/fire_shard-0.pngVisit the Fiery IslandA Fire-oriented biome with huge mountains and a large amount of caves and ores. Apart from default ores, this biome also has common Igneous Rock ore. There are 2 variations of the biome - Scorching and Mine.
+2360HardcoreEnderExpansion/fire_shard-0.png0Visit the Fiery Island30-1A Fire-oriented biome with huge mountains and a large amount of caves and ores. Apart from default ores, this biome also has common Igneous Rock ore. There are 2 variations of the biome - Scorching and Mine.
 
 The Scorching variation has large blobs of cinder, streams and pools of Lava and Lilyfires. This is the only place where Fire Golems and Scorching Lenses spawn. Each island can contain a Dungeon Puzzle.
 
 The Mine variation spawns Haunted Miners, which protect Resource Pits (holes with ores from the End and Lava) and long patches of Overworld ores. Not all Overworld ores are present in a single island, usually one or two random ores are missing.
-0-1ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemHardcoreEnderExpansion/fire_shard-0.pngInfernium
+ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemHardcoreEnderExpansion/fire_shard-0.pngInfernium
 8enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"

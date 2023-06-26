@@ -1,6 +1,6 @@
-GalaxySpace/item.DysonSwarmParts-3.pngUHT Resistant Mesh§o*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!§r
+3038GalaxySpace/item.DysonSwarmParts-3.png0UHT Resistant Mesh19-1§o*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!§r
 
-You should probably automate this if you want to build and use the Dyson Swarm multiblock.0-1ANDpre26691gregtech/gt.metaitem.01-11129.pngrewardsChoiceenhancedlootbags/lootbag-43.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+You should probably automate this if you want to build and use the Dyson Swarm multiblock.ANDpre26691gregtech/gt.metaitem.01-11129.pngrewardsChoiceenhancedlootbags/lootbag-43.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1GalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mesh
 16Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 5dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"

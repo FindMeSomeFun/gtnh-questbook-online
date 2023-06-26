@@ -1,4 +1,4 @@
-Thaumcraft/ItemHelmetVoidFortress-0.png"Armor"This new metal, it's so... appealing. You feel comfortable while holding it, so why not get yourself some armor? What could go wrong? It will surely protect you.1-1ANDpre2871Thaumcraft/blockEssentiaReservoir-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+286Thaumcraft/ItemHelmetVoidFortress-0.png1"Armor"32-1This new metal, it's so... appealing. You feel comfortable while holding it, so why not get yourself some armor? What could go wrong? It will surely protect you.ANDpre2871Thaumcraft/blockEssentiaReservoir-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 4Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

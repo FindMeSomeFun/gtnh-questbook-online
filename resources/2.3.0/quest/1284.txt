@@ -1,6 +1,6 @@
-BiomesOPlenty/hive-3.pngWasps honeyGiant wasps can be found in the Nether. Quick! Sneak into their hive and steal some honey!
+1284BiomesOPlenty/hive-3.png0Wasps honey13-1Giant wasps can be found in the Nether. Quick! Sneak into their hive and steal some honey!
 
-§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect it.0-1ANDpre4791minecraft/portal-0.pngrewardsItemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+§3§3Just having the fluid in cells or buckets in your inventory lets the quest detect it.ANDpre4791minecraft/portal-0.pngrewardsItemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5enhancedlootbags/lootbag-1-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
 1tasksANDFluidfluids/honey-.pngHoney
 5000

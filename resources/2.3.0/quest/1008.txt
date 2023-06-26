@@ -1,8 +1,8 @@
-minecraft/book-0.png§3§lBooksBooks can be found easily enough in villages or in the roguelike dungeons surface brick house. I'm sure they have a recipe too.
+1008minecraft/book-0.png1§3§lBooks3-1Books can be found easily enough in villages or in the roguelike dungeons surface brick house. I'm sure they have a recipe too.
 
 Now glue on the other hand...or should I say horse? Try and get a horse inside a smeltery and feed it hay to keep it alive.
 
-Or you can wait until after you go to the Nether and get some sulfur. Either way. 1-1ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/bucket-0.pngBucket
+Or you can wait until after you go to the Nether and get some sulfur. Either way. ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/bucket-0.pngBucket
 2minecraft/book-0.pngBook
 6gregtech/gt.metaitem.02-32234.pngSteak Sandwich\ngregtech:gt.metaitem.02\nNot a ''Steam Sandwich''
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

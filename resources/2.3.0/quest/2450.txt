@@ -1,4 +1,4 @@
-gregtech/gt.blockmachines-1686.png§a§lHigher Tier CablesTo make higher tier cables, you'll want to make them with Polyphenylene Sulfide Foils and Silicone. You'll need both Tungsten and Platinum in IV-tier.1-1ANDpre16641gregtech/gt.metaitem.01-17471.png24491gregtech/gt.metaitem.01-17631.pngrewardsChoicegregtech/gt.blockmachines-1687.png2x Tungsten Cable\nMax Voltage: 8,192 (IV)\nMax Amperage: 4\nLoss/Meter/Ampere: 2 EU-Volt
+2450gregtech/gt.blockmachines-1686.png1§a§lHigher Tier Cables7-1To make higher tier cables, you'll want to make them with Polyphenylene Sulfide Foils and Silicone. You'll need both Tungsten and Platinum in IV-tier.ANDpre16641gregtech/gt.metaitem.01-17471.png24491gregtech/gt.metaitem.01-17631.pngrewardsChoicegregtech/gt.blockmachines-1687.png2x Tungsten Cable\nMax Voltage: 8,192 (IV)\nMax Amperage: 4\nLoss/Meter/Ampere: 2 EU-Volt
 2gregtech/gt.blockmachines-1646.png1x Platinum Cable\nMax Voltage: 8,192 (IV)\nMax Amperage: 2\nLoss/Meter/Ampere: 1 EU-Volt
 10Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"

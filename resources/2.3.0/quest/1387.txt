@@ -1,6 +1,6 @@
-ThaumicTinkerer/focusFlight-0.pngWand Focus UprisingThe Wand Focus: Uprising is a wand focus that propels the player in the direction they're facing. When used, the focus consumes 0.15 Aer per cast.
+1387ThaumicTinkerer/focusFlight-0.png0Wand Focus Uprising34-1The Wand Focus: Uprising is a wand focus that propels the player in the direction they're facing. When used, the focus consumes 0.15 Aer per cast.
 
-This focus can be upgraded at the Focal Manipulator.0-1ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumicTinkerer/focusFlight-0.pngWand Focus: Uprising\nVis per cast\n Aer x 0.15

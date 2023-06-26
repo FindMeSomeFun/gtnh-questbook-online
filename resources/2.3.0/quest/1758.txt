@@ -1,8 +1,8 @@
-OpenComputers/eeprom-0.pngBIOSThe ROM disks are necessary to get your computer to start, they're also what you use to run a drone off from.
+1758OpenComputers/eeprom-0.png0BIOS26-1The ROM disks are necessary to get your computer to start, they're also what you use to run a drone off from.
 
 Your BIOS go onto these little disks,  get me a blank and I'll write the basic BIOS onto it for you.
 
-You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.0-1ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/eeprom-0.pngEEPROM\nHold [NONE] for material costs.
+You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/eeprom-0.pngEEPROM\nHold [NONE] for material costs.
 1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
 1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
 1OpenComputers/item-24.pngMicrochip

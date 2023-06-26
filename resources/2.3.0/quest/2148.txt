@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.01-32714.pngEngraved LapotronsIV tier batteries require a large investment. First, you will need to laser engrave 8 Lapotrons.0-1ANDpre8060IC2/itemBatLamaCrystal-1-charged.pngrewardsItemgregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip\nNeeded for Circuits
+2148gregtech/gt.metaitem.01-32714.png0Engraved Lapotrons20-1IV tier batteries require a large investment. First, you will need to laser engrave 8 Lapotrons.ANDpre8060IC2/itemBatLamaCrystal-1-charged.pngrewardsItemgregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip\nNeeded for Circuits
 8tasksANDOptionalIC2/itemBatLamaCrystal-26.pngLapotron Crystal\nDurability: 1 / 27
 8Retrievalgregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip\nNeeded for Circuits
 24

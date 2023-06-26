@@ -1,5 +1,5 @@
-Thaumcraft/ItemResource-15.pngPrimal CharmWith your new 50 vis wand you are able to make a Scepter which holds up to 75 vis.
-First you need some primal charms which cost 50 vis to craft.0-1ANDpre2651Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/blockCrystal-6.pngMixed Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
+879Thaumcraft/ItemResource-15.png0Primal Charm32-1With your new 50 vis wand you are able to make a Scepter which holds up to 75 vis.
+First you need some primal charms which cost 50 vis to craft.ANDpre2651Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/blockCrystal-6.pngMixed Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer
 4Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalThaumcraft/blockCrystal-0.pngAir Crystal Cluster\nGlass-Tier: HV\nMay work as an Infusion Stabilizer

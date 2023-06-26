@@ -1,4 +1,4 @@
-dreamcraft/item.NanoCrystal-0.pngNano CrystalNano crystals are used for making the nano armor.0-1ANDpre7890IC2/itemBatCrystal-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+790dreamcraft/item.NanoCrystal-0.png0Nano Crystal20-1Nano crystals are used for making the nano armor.ANDpre7890IC2/itemBatCrystal-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1gregtech/gt.metaitem.01-32715.pngDiode\nBasic Electronic Component
 8gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Board\nA Good Board
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

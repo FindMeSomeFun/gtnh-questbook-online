@@ -1,8 +1,8 @@
-GalacticraftMars/item.schematic-1.pngCargo Rocket SchematicThe Cargo Rocket has the capability to transport solid items between dimensions, and is a perfect way to transport items between dimensions without relying on ender chests.
+1449GalacticraftMars/item.schematic-1.png0Cargo Rocket Schematic24-1The Cargo Rocket has the capability to transport solid items between dimensions, and is a perfect way to transport items between dimensions without relying on ender chests.
 
 This rocket can be loaded with 2000L of Rocket Fuel. The safe fuel level is 80 percent. 
 
-You can fill up the right slots with chests to increase the storage space to 36 and 54 slots.0-1ANDpre14461GalacticraftMars/tile.mars-7.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
+You can fill up the right slots with chests to increase the storage space to 36 and 54 slots.ANDpre14461GalacticraftMars/tile.mars-7.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate\nTier 2
 1gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
 8enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

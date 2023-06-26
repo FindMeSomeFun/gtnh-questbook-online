@@ -1,8 +1,8 @@
-GalacticraftCore/tile.glowstoneTorch-0.pngSpace TorchesNormal torches won't work in space, only in the area within the oxygen bubble.
+1441GalacticraftCore/tile.glowstoneTorch-0.png0Space Torches24-1Normal torches won't work in space, only in the area within the oxygen bubble.
 
 One solution is glowstone torches. You can also use other mods' lights and lamps. You'll probably want 3-5 stacks for mining veins, unless you just use a SM or MB miner.
 
-Another option is to use nightvision and a magnum torch or GregTech monster repellator to keep mobs away. These do not work on the official servers, instead claim and unclaim chunks.0-1ANDpre14450minecraft/clock-0.pngrewardsChoiceFloodLights/electricIncandescentLightBulb-0.pngElectric Incandescent Light Bulb
+Another option is to use nightvision and a magnum torch or GregTech monster repellator to keep mobs away. These do not work on the official servers, instead claim and unclaim chunks.ANDpre14450minecraft/clock-0.pngrewardsChoiceFloodLights/electricIncandescentLightBulb-0.pngElectric Incandescent Light Bulb
 2gregtech/gt.metaitem.01-23010.pngCarbon Rod\nC
 64enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

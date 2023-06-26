@@ -1,4 +1,4 @@
-gregtech/gt.metaitem.03-32082.png§c§lCheaper HV circuitsYou can make Nanoprocessors cheaper than before. You'll need to make an imprint first though.0-1ANDpre16850gregtech/gt.metaitem.03-32049.pngrewardsChoicegregtech/gt.metaitem.03-32049.pngASoC\nAdvanced System on a Chip
+1684gregtech/gt.metaitem.03-32082.png0§c§lCheaper HV circuits9-1You can make Nanoprocessors cheaper than before. You'll need to make an imprint first though.ANDpre16850gregtech/gt.metaitem.03-32049.pngrewardsChoicegregtech/gt.metaitem.03-32049.pngASoC\nAdvanced System on a Chip
 8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
 8enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

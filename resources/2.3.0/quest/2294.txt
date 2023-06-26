@@ -1,6 +1,6 @@
-gregtech/gt.blockmachines-793.png§a§lRocket Engine EVThe Rocket Engine is a very dirty device which generates power out of rocket fuels at 80% efficiency, and produces 250 to 2000 pollution/s.
+2294gregtech/gt.blockmachines-793.png0§a§lRocket Engine EV19-1The Rocket Engine is a very dirty device which generates power out of rocket fuels at 80% efficiency, and produces 250 to 2000 pollution/s.
 
-§3There are 4 Rocket Fuels. Follow the Space Race tab quests to see how to make the rest. Expect to need more than one (probably several) Chemical Plants if you want to automate production.0-1ANDpre12451gregtech/gt.metaitem.01-32653.png26841miscutils/RocketFuelMixB-0.pngrewardsChoicemiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell\nCan be used as rocket fuel up to tier 2
+§3There are 4 Rocket Fuels. Follow the Space Race tab quests to see how to make the rest. Expect to need more than one (probably several) Chemical Plants if you want to automate production.ANDpre12451gregtech/gt.metaitem.01-32653.png26841miscutils/RocketFuelMixB-0.pngrewardsChoicemiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell\nCan be used as rocket fuel up to tier 2
 16miscutils/RP1Fuel-0.pngRP-1 Cell
 24enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

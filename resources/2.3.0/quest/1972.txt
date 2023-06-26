@@ -1,6 +1,6 @@
-minecraft/glowstone-0.pngGlowstoneNow that you've been to the nether and gathered Glowstone, you can use that for light as well. You can color it to make the block color change (unfortunately 1.7.10 does not support colored lights) or you can use the Forge Microblocks saw to cut it up into tiny nooks to light up areas without taking up much space.
+1972minecraft/glowstone-0.png0Glowstone15-1Now that you've been to the nether and gathered Glowstone, you can use that for light as well. You can color it to make the block color change (unfortunately 1.7.10 does not support colored lights) or you can use the Forge Microblocks saw to cut it up into tiny nooks to light up areas without taking up much space.
 
-There are also various glowing plants you can find or breed, such as glowflowers.0-1ANDpre541gregtech/gt.blockmachines-115.png4791minecraft/portal-0.pngrewardsItemminecraft/glowstone-0.pngGlowstone\nGlass-Tier: HV
+There are also various glowing plants you can find or breed, such as glowflowers.ANDpre541gregtech/gt.blockmachines-115.png4791minecraft/portal-0.pngrewardsItemminecraft/glowstone-0.pngGlowstone\nGlass-Tier: HV
 16tasksANDRetrievalForgeMicroblock/microblock-513-minecraft-glowstone.pngGlowstone Nook
 1ExtraUtilities/color_lightgem-13.pngColored Glowstone\nGlass-Tier: HV
 1
