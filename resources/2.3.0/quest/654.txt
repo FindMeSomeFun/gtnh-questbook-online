@@ -6,11 +6,11 @@
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalGraviSuite/advJetpack-32767.pngAdvanced Electric Jetpack\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
-1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+2tasksANDOptionalGraviSuite/advJetpack-32767.pngAdvanced Electric Jetpack;Jetpack engine: off;Hover mode: off;Durability: 0 / 27;Protection: 8;Durability: 0/27
+1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor;Power Tier: 3;Durability: 0 / 27;Provides full hazmat protection.;Protection: 8;Durability: 0/27
 1IC2/itemPartAlloy-0.pngAdvanced Alloy
 2gregtech/gt.metaitem.01-17316.pngTungstensteel Plate;(Fe\u2085\u2080C)W
 2gregtech/gt.blockmachines-1644.png12x Platinum Wire;Max Voltage: 8,192 (IV);Max Amperage: 24;Loss/Meter/Ampere: 2 EU-Volt
 2gregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly;An Elite Circuit;IV-Tier
-1RetrievalGraviSuite/advNanoChestPlate-32767.pngAdvanced NanoChestPlate\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1RetrievalGraviSuite/advNanoChestPlate-32767.pngAdvanced NanoChestPlate;Jetpack engine: off;Hover mode: off;Durability: 0 / 27;Provides full hazmat protection.;Protection: 8;Durability: 0/27
 1

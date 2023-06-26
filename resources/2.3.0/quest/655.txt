@@ -6,8 +6,8 @@ Or read a wiki or something.ANDpre26581gregtech/gt.metaitem.01-11329.png31
 1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
 1dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalIC2/itemArmorQuantumChestplate-32767.pngQuantumSuit Bodyarmor\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
-1GraviSuite/ultimateLappack-32767.pngUltimate Lappack\nPower supply: disabled\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1tasksANDOptionalIC2/itemArmorQuantumChestplate-32767.pngQuantumSuit Bodyarmor;Power Tier: 4;Durability: 0 / 27;Provides full hazmat protection.;Protection: 8;Durability: 0/27
+1GraviSuite/ultimateLappack-32767.pngUltimate Lappack;Power supply: disabled;Durability: 0 / 27;Protection: 8;Durability: 0/27
 1gregtech/gt.blockmachines-26.pngLudicrous Transformer;ZPM -> LuV (Use Soft Mallet to invert);Voltage IN: 131,072 (ZPM);Voltage OUT: 32,768 (LuV);Amperage: 4;Capacity: 524,800 EU
 1GraviSuite/itemSimpleItem-3.pngGravitation Engine
 2GraviSuite/itemSimpleItem-2.pngCooling Core
@@ -18,5 +18,5 @@ Or read a wiki or something.ANDpre26581gregtech/gt.metaitem.01-11329.png31
 1gregtech/gt.metaitem.01-32674.pngField Generator (IV)
 2gregtech/gt.metaitem.01-32607.pngElectric Motor (ZPM)
 2gregtech/gt.metaitem.01-27328.pngDuranium Screw;Du
-4RetrievalGraviSuite/graviChestPlate-32767.pngGraviChestPlate\nGravitation engine: off\nLevitation mode: off\nQuantumShield: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+4RetrievalGraviSuite/graviChestPlate-32767.pngGraviChestPlate;Gravitation engine: off;Levitation mode: off;QuantumShield: off;Durability: 0 / 27;Provides full hazmat protection.;Protection: 8;Durability: 0/27
 1

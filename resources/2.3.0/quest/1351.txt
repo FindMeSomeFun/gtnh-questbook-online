@@ -3,5 +3,5 @@
 5ChoiceThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
 5enhancedlootbags/lootbag-11.pngLootBag (Magic Master);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalEMT/QuantumGogglesRevealing-32767.pngQuantum Goggles of Revealing\nPower Tier: 4\nVis Discount: 7%\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1tasksANDRetrievalEMT/QuantumGogglesRevealing-32767.pngQuantum Goggles of Revealing;Power Tier: 4;Vis Discount: 7%;Durability: 0 / 27;Provides full hazmat protection.;Protection: 3;Durability: 0/27
 1

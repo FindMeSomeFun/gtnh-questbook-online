@@ -17,5 +17,5 @@ Finally, the GT++ wireless charger will charge everything in your inventory, inc
 2GraviSuite/itemSimpleItem-6.pngEngine Booster
 2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 1gregtech/gt.blockmachines-1382.png4x Annealed Copper Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
-1RetrievalIC2/itemArmorJetpackElectric-32767.pngElectric Jetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1RetrievalIC2/itemArmorJetpackElectric-32767.pngElectric Jetpack;Durability: 0 / 27;Protection: 8;Durability: 0/27
 1

@@ -9,5 +9,5 @@ Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells wo
 1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
 1GraviSuite/itemSimpleItem-6.pngEngine Booster
 2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-1RetrievalIC2/itemArmorJetpack-32767.pngJetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+1RetrievalIC2/itemArmorJetpack-32767.pngJetpack;Durability: 0 / 27;Protection: 8;Durability: 0/27
 1

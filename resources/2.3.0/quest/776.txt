@@ -2,5 +2,5 @@
 1dreamcraft/item.NanoCrystal-0.pngNano Crystal
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalIC2/itemNightvisionGoggles-32767.pngNightvision Goggles\nDurability: 0 / 27\nProtection: 3\nDurability: 0/27
+5tasksANDRetrievalIC2/itemNightvisionGoggles-32767.pngNightvision Goggles;Durability: 0 / 27;Protection: 3;Durability: 0/27
 1

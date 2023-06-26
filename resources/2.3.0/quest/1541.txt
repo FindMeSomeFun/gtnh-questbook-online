@@ -14,5 +14,5 @@ A large field of stickreeds has a good chance at making lots of valuable crosses
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 30gregtech/gt.metaitem.01-32529.pngMedium Sodium Battery;Reusable;200,000 / 200,000 EU - Voltage: 128;MV-Tier
-1tasksANDRetrievalIC2/itemCropnalyzer-32767.pngCropnalyzer\nDurability: 1 / 27
+1tasksANDRetrievalIC2/itemCropnalyzer-32767.pngCropnalyzer;Durability: 1 / 27
 1

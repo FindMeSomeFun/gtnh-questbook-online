@@ -7,6 +7,6 @@ The non-automated way can be done earlier, and it only requires two things: an u
 Complete one of the tasks and get some wood to continue. ANDpre30920minecraft/sapling-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 20tasksANDOptionalgregtech/gt.blockmachines-31111.pngCrop Manager (LV);Harvests the Cropsticks in front of it;Secondary mode can Hydrate/Fertilize/Weed-EX;Consumes 4eu per harvest;Consumes 1eu per secondary operation;Can harvest 2 blocks above and below;Radius: 5 each side (11x3x11);Has 5% chance for extra drops;Holds 32000L of Water;Added by: Alkalus - [GT++];Voltage IN: 32 (LV);Capacity: 1,024 EU
-1OptionalTConstruct/lumberaxe-0-301.pngObsidian Lumber Axe\nReinforced III\nTool Level: 01-Abused\n+2 Attack Damage
+1OptionalTConstruct/lumberaxe-0-301.pngObsidian Lumber Axe;Reinforced III;Tool Level: 01-Abused;+2 Attack Damage
 1Retrievalminecraft/log-0.pngOak Wood;Burn Time: 300
 64

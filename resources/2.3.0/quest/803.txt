@@ -16,7 +16,7 @@
 12Optionaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet";Don''t try to wear this, you can''t
 1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings";Don''t try to wear this, you can''t
 1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots";Don''t try to wear this, you can''t
-1RetrievalIC2/itemArmorQuantumHelmet-32767.pngQuantumSuit Helmet\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
-1IC2/itemArmorQuantumLegs-32767.pngQuantumSuit Leggings\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
-1IC2/itemArmorQuantumBoots-32767.pngQuantumSuit Boots\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1RetrievalIC2/itemArmorQuantumHelmet-32767.pngQuantumSuit Helmet;Power Tier: 4;Durability: 0 / 27;Provides full hazmat protection.;Protection: 3;Durability: 0/27
+1IC2/itemArmorQuantumLegs-32767.pngQuantumSuit Leggings;Power Tier: 4;Durability: 0 / 27;Provides full hazmat protection.;Protection: 6;Durability: 0/27
+1IC2/itemArmorQuantumBoots-32767.pngQuantumSuit Boots;Power Tier: 4;Durability: 0 / 27;Provides full hazmat protection.;Protection: 3;Durability: 0/27
 1

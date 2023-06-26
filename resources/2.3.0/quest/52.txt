@@ -11,6 +11,6 @@
 6gregtech/gt.metaitem.01-802.pngTiny Pile of Flint Dust;SiO\u2082
 6Optionalgregtech/gt.metaitem.01-2890.pngGlass Dust;SiO\u2082
 6OptionalTConstruct/GlassBlock-0.pngClear Glass;Glass-Tier: HV
-6Optionalchisel/chisel-32767.pngChisel\nRight-Click to open GUI\nLeft click to chisel blocks in world\nCan target a block by leaving it in the inventory\n+2 Attack Damage\nChisel from chisel Mod
+6Optionalchisel/chisel-32767.pngChisel;Right-Click to open GUI;Left click to chisel blocks in world;Can target a block by leaving it in the inventory;+2 Attack Damage;Chisel from chisel Mod
 1Retrievalminecraft/glass-0.pngGlass;Glass-Tier: HV
 6
