@@ -2,16 +2,16 @@
 
 Raise Ph - Ash Powder, Pulp Powder
 Lower Ph - Mulch Powder, Sulphur Powder
-Increase Nutrients - Fertiliser Powder, Compost PowderANDpre19530minecraft/yellow_flower-0.pngrewardsChoiceBotany/misc-0.pngAsh Powder
-64Botany/misc-1.pngPulp Powder
-64Botany/misc-2.pngMulch Powder
-64Botany/misc-3.pngSulphur Powder
-64Botany/misc-4.pngFertilizer Powder
-64Botany/misc-5.pngCompost Powder
-64tasksANDRetrievalBotany/misc-0.pngAsh Powder
-1Botany/misc-1.pngPulp Powder
-1Botany/misc-2.pngMulch Powder
-1RetrievalBotany/misc-3.pngSulphur Powder
-1Botany/misc-4.pngFertilizer Powder
-1Botany/misc-5.pngCompost Powder
+Increase Nutrients - Fertiliser Powder, Compost PowderANDpre19530minecraft/yellow_flower-0.pngrewardsChoiceBotany/misc-0.pngAsh Powde
+64Botany/misc-1.pngPulp Powde
+64Botany/misc-2.pngMulch Powde
+64Botany/misc-3.pngSulphur Powde
+64Botany/misc-4.pngFertilizer Powde
+64Botany/misc-5.pngCompost Powde
+64tasksANDRetrievalBotany/misc-0.pngAsh Powde
+1Botany/misc-1.pngPulp Powde
+1Botany/misc-2.pngMulch Powde
+1RetrievalBotany/misc-3.pngSulphur Powde
+1Botany/misc-4.pngFertilizer Powde
+1Botany/misc-5.pngCompost Powde
 1

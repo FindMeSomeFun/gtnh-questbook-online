@@ -1,4 +1,4 @@
-299Automagy/crystalEye-0.png0Essentia Monitoring32-1Manually checking your jars can be tedious, especially if you want to infuse a bunch of stuff at once. Luckily, the essentia locus can help you with that, as it monitors all jars that have been targeted with a crystalline eye.ANDpre2950Thaumcraft/blockTube-7.pngrewardsItemAutomagy/crystalEye-0.pngCrystalline Eye
-2Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalAutomagy/blockEssentiaLocus-0.pngEssentia Locus
+299Automagy/crystalEye-0.png0Essentia Monitoring32-1Manually checking your jars can be tedious, especially if you want to infuse a bunch of stuff at once. Luckily, the essentia locus can help you with that, as it monitors all jars that have been targeted with a crystalline eye.ANDpre2950Thaumcraft/blockTube-7.pngrewardsItemAutomagy/crystalEye-0.pngCrystalline Ey
+2Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalAutomagy/blockEssentiaLocus-0.pngEssentia Locu
 1

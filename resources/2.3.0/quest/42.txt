@@ -1,5 +1,5 @@
-42minecraft/leather-0.png1§2§r§2§lCow Tipper2-1Before you had to kill some pigs and sheep to complete quests. Now it's time to kill some cows and hopefully get some leather. If you are lucky and get a cow trophy you may never need to kill another cow in the future.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsChoiceminecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
-1minecraft/leather-0.pngLeather
-1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+42minecraft/leather-0.png1§2§r§2§lCow Tipper2-1Before you had to kill some pigs and sheep to complete quests. Now it's time to kill some cows and hopefully get some leather. If you are lucky and get a cow trophy you may never need to kill another cow in the future.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsChoiceminecraft/cooked_beef-0.pngStea;minecraft:cooked_beef
+1minecraft/leather-0.pngLeathe
+1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
 10tasksANDHuntmobs/Cow-.pngCow
 6

@@ -1,6 +1,6 @@
 3003gregtech/gt.blockmachines-1112.png0Boosting the Diesel21-1As you might have guessed, extra byproducts is not the only thing that HV does with Oil. On top of that, you can further improve the main fuel that you use for power, and this builds on the previous tier, as Diesel did from Light Fuel. As before, you will need to mix the fuel you have with something else to improve it, but it is not a direct byproduct this time. Instead, it's a chemical that requires a complicated processing chain to produce, at a much higher EU cost, with only a tiny amount needed to create the next fuel, Cetane-Boosted Diesel.
 
-To make this additive, Tetranitromethane (TNM), you will need to source several chemicals you might have not used yet. I hope you have some Distillation Towers handy, because they will be very useful for this.ANDpre30020gregtech/gt.blockmachines-1160.pngrewardsItemgregtech/gt.metaitem.01-30708.pngDiesel Cell
-10enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.metaitem.01-30708.pngDiesel Cell
+To make this additive, Tetranitromethane (TNM), you will need to source several chemicals you might have not used yet. I hope you have some Distillation Towers handy, because they will be very useful for this.ANDpre30020gregtech/gt.blockmachines-1160.pngrewardsItemgregtech/gt.metaitem.01-30708.pngDiesel Cel
+10enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.metaitem.01-30708.pngDiesel Cel
 64

@@ -6,6 +6,6 @@ The second path is to use the Pyrolyze Oven multiblock and Nitrogen gas to extra
 
 Excess wood tar can also be turned into Toluene, a key ingredient for explosives that you'll need later on to make rockets.
 
-If you use the Charcoal Byproducts recipe, you can get a plethora of useful byproducts as well, but you'll need 4 DTs.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+If you use the Charcoal Byproducts recipe, you can get a plethora of useful byproducts as well, but you'll need 4 DTs.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.metaitem.01-30686.pngBenzene Cel;C\u2086H\u2086
 64

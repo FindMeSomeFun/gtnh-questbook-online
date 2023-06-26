@@ -1,6 +1,6 @@
-534dreamcraft/dreamcraft_Pollution-0.png0§4§3§lPollution What....?3-1If you are running your bricked blast furnace for a long time you will sometimes get headaches, nausea and other weird effects. Yes this is pollution... from making so much steel. If you can collect some rubber sheets, I will trade you a complete hazmat suit.ANDpre5360gregtech/gt.metaitem.01-17880.pngrewardsItemIC2/itemArmorHazmatHelmet-0.pngScuba Helmet;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1IC2/itemArmorHazmatChestplate-0.pngHazmat Suit;Provides full hazmat protection.;Protection: 8;Durability: 64/64
-1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Leggings;Provides full hazmat protection.;Protection: 6;Durability: 64/64
-1IC2/itemArmorRubBoots-0.pngRubber Boots;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1tasksANDConsumegregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+534dreamcraft/dreamcraft_Pollution-0.png0§4§3§lPollution What....?3-1If you are running your bricked blast furnace for a long time you will sometimes get headaches, nausea and other weird effects. Yes this is pollution... from making so much steel. If you can collect some rubber sheets, I will trade you a complete hazmat suit.ANDpre5360gregtech/gt.metaitem.01-17880.pngrewardsItemIC2/itemArmorHazmatHelmet-0.pngScuba Helme;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+1IC2/itemArmorHazmatChestplate-0.pngHazmat Sui;Provides full hazmat protection.;Protection: 8;Durability: 64/64
+1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Legging;Provides full hazmat protection.;Protection: 6;Durability: 64/64
+1IC2/itemArmorRubBoots-0.pngRubber Boot;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+1tasksANDConsumegregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
 64

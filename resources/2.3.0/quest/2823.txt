@@ -1,5 +1,5 @@
-2823gregtech/gt.blockmachines-1128.png0Absorbing Magic Energy to Produce EU MV19-1The MV version.ANDpre12321gregtech/gt.metaitem.01-32692.png28240gregtech/gt.blockmachines-1127.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
-16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-1128.pngAdept Magic Energy Absorber;Feasts on magic close to it:;- A  Dragon Egg atop;- 512EU per Ender Crystal in range;- 27CV/t from an Energised Node;- 288EU per Essentia Aspect-Value from containers in range; ;Lookup range (Use Screwdriver to change):;Default: 4;Max: 16; ;Fuels on enchantments input:;- Item: 9000EU per enchant weight \u00d7 level / max;- Book: 10000EU per enchant weight \u00d7 level / max; ;Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 2,048,512 EU
+2823gregtech/gt.blockmachines-1128.png0Absorbing Magic Energy to Produce EU MV19-1The MV version.ANDpre12321gregtech/gt.metaitem.01-32692.png28240gregtech/gt.blockmachines-1127.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shar
+16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+3dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+3tasksANDRetrievalgregtech/gt.blockmachines-1128.pngAdept Magic Energy Absorbe;Feasts on magic close to it:;- A  Dragon Egg atop;- 512EU per Ender Crystal in range;- 27CV/t from an Energised Node;- 288EU per Essentia Aspect-Value from containers in range; ;Lookup range (Use Screwdriver to change):;Default: 4;Max: 16; ;Fuels on enchantments input:;- Item: 9000EU per enchant weight \u00d7 level / max;- Book: 10000EU per enchant weight \u00d7 level / max; ;Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 2,048,512 EU
 1

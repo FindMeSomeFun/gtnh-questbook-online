@@ -1,21 +1,21 @@
-803IC2/itemArmorQuantumHelmet-1-charged.png0Quantum Armor14-1The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.ANDpre8020dreamcraft/item.QuantumPartHelmet-0.png8070dreamcraft/item.QuantumCrystal-0.pngrewardsChoicegregtech/gt.metaitem.01-32604.pngElectric Motor
-2GraviSuite/itemSimpleItem-2.pngCooling Core
-1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-5dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionaldreamcraft/item.QuantumCrystal-0.pngQuantum Crystal
-3gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe;A Master Circuit;LuV-Tier
-6gregtech/gt.blockmachines-1662.png4x Tungstensteel Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
-14gregtech/gt.metaitem.01-32597.pngLapotronic Energy Orb;Reusable battery;0 / 100,000,000 EU - Voltage: 8192;IV-Tier
-3gregtech/gt.metaitem.01-32644.pngElectric Piston
-2gregtech/gt.metaitem.01-32694.pngSensor
-1gregtech/gt.metaitem.01-32604.pngElectric Motor
-4gregtech/gt.metaitem.01-32673.pngField Generator
-4gregtech/gt.metaitem.01-27316.pngTungstensteel Screw;(Fe\u2085\u2080C)W
-12Optionaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots";Don''t try to wear this, you can''t
+803IC2/itemArmorQuantumHelmet-1-charged.png0Quantum Armor14-1The quantum armor is a high tier and very durable armor with a lot of features like night vision, fall damage reduction and running very fast.ANDpre8020dreamcraft/item.QuantumPartHelmet-0.png8070dreamcraft/item.QuantumCrystal-0.pngrewardsChoicegregtech/gt.metaitem.01-32604.pngElectric Motor (IV
+2GraviSuite/itemSimpleItem-2.pngCooling Cor
+1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+5dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+5tasksANDOptionaldreamcraft/item.QuantumCrystal-0.pngQuantum Crysta
+3gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainfram;A Master Circuit;LuV-Tier
+6gregtech/gt.blockmachines-1662.png4x Tungstensteel Wir;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
+14gregtech/gt.metaitem.01-32597.pngLapotronic Energy Or;Reusable battery;0 / 100,000,000 EU - Voltage: 8192;IV-Tier
+3gregtech/gt.metaitem.01-32644.pngElectric Piston (IV
+2gregtech/gt.metaitem.01-32694.pngSensor (IV
+1gregtech/gt.metaitem.01-32604.pngElectric Motor (IV
+4gregtech/gt.metaitem.01-32673.pngField Generator (EV
+4gregtech/gt.metaitem.01-27316.pngTungstensteel Scre;(Fe\u2085\u2080C)W
+12Optionaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet;Don''t try to wear this, you can''t
+1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings;Don''t try to wear this, you can''t
+1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots;Don''t try to wear this, you can''t
 1RetrievalIC2/itemArmorQuantumHelmet-32767.pngQuantumSuit Helmet\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
 1IC2/itemArmorQuantumLegs-32767.pngQuantumSuit Leggings\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
 1IC2/itemArmorQuantumBoots-32767.pngQuantumSuit Boots\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27

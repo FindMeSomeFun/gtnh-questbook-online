@@ -1,19 +1,19 @@
 3038GalaxySpace/item.DysonSwarmParts-3.png0UHT Resistant Mesh19-1§o*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!§r
 
-You should probably automate this if you want to build and use the Dyson Swarm multiblock.ANDpre26691gregtech/gt.metaitem.01-11129.pngrewardsChoiceenhancedlootbags/lootbag-43.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1GalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mesh
-16Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-5dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-5tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dust;HfO\u2082;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
-1Optionalbartworks/gt.bwMetaGenerateddust-11501.pngHafnium Carbide Dust;HfC;Added by GalaxySpace via BartWorks
-1miscutils/itemDustTantalumCarbide-0.pngTantalum Carbide Dust;TaC;Hold Ctrl to show additional info.
-4Optionalbartworks/gt.bwMetaGenerateddust-11502.pngTantalum Carbide / Hafnium Carbide Mixture Dust;(TaC)\u2084HfC;Added by GalaxySpace via BartWorks
-5Optionalbartworks/gt.bwMetaGeneratednugget-11503.pngTantalum Hafnium Carbide Nugget;Ta\u2084HfC\u2085;Added by GalaxySpace via BartWorks
-45Optionalbartworks/gt.bwMetaGenerateddust-11503.pngTantalum Hafnium Carbide Dust;Ta\u2084HfC\u2085;Added by GalaxySpace via BartWorks
-5OptionalGalaxySpace/item.DysonSwarmParts-4.pngTantalum Hafnium Carbide Nanoparticles
-1GalaxySpace/item.DysonSwarmParts-5.pngNeutronium Nanoparticles
-1OptionalGalaxySpace/item.DysonSwarmParts-1.pngTantalum Hafnium Carbide Nanofibers
-4GalaxySpace/item.DysonSwarmParts-2.pngNeutronium Nanofibers
-4RetrievalGalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mesh
+You should probably automate this if you want to build and use the Dyson Swarm multiblock.ANDpre26691gregtech/gt.metaitem.01-11129.pngrewardsChoiceenhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV;You feel that a bit more "Fortune" might be a good idea...
+1GalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mes
+16Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+5dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+5tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dus;HfO\u2082;Added by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2010.pngCarbon Dus;C
+1Optionalbartworks/gt.bwMetaGenerateddust-11501.pngHafnium Carbide Dus;HfC;Added by GalaxySpace via BartWorks
+1miscutils/itemDustTantalumCarbide-0.pngTantalum Carbide Dus;TaC;Hold Ctrl to show additional info.
+4Optionalbartworks/gt.bwMetaGenerateddust-11502.pngTantalum Carbide / Hafnium Carbide Mixture Dus;(TaC)\u2084HfC;Added by GalaxySpace via BartWorks
+5Optionalbartworks/gt.bwMetaGeneratednugget-11503.pngTantalum Hafnium Carbide Nugge;Ta\u2084HfC\u2085;Added by GalaxySpace via BartWorks
+45Optionalbartworks/gt.bwMetaGenerateddust-11503.pngTantalum Hafnium Carbide Dus;Ta\u2084HfC\u2085;Added by GalaxySpace via BartWorks
+5OptionalGalaxySpace/item.DysonSwarmParts-4.pngTantalum Hafnium Carbide Nanoparticle
+1GalaxySpace/item.DysonSwarmParts-5.pngNeutronium Nanoparticle
+1OptionalGalaxySpace/item.DysonSwarmParts-1.pngTantalum Hafnium Carbide Nanofiber
+4GalaxySpace/item.DysonSwarmParts-2.pngNeutronium Nanofiber
+4RetrievalGalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mes
 1

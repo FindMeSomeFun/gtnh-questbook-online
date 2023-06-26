@@ -1,7 +1,7 @@
 3211gregtech/gt.metaitem.01-2020.png1§6§lRaw Silicon Dust5-1Silicon is needed in all boule (and thus wafers, chips, and circuits) creation. Silicon is therefore an §oincredibly important material§r.
 
-With your new Electrolyzer you can obtain Raw Silicon Dust from many different sources. Alternatively, you can also centrifuge Redstone. You can also get it from Silicon Dioxide, by adding Magnesium Dust to it in a Chemical Reactor and then recycling it in an Electrolyzer, which also gives you a lot of bonus Oxygen.ORpre1261gregtech/gt.blockmachines-372.png18190gregtech/gt.metaitem.01-2837.pngrewardsChoiceminecraft/redstone-0.pngRedstone
-40enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
+With your new Electrolyzer you can obtain Raw Silicon Dust from many different sources. Alternatively, you can also centrifuge Redstone. You can also get it from Silicon Dioxide, by adding Magnesium Dust to it in a Chemical Reactor and then recycling it in an Electrolyzer, which also gives you a lot of bonus Oxygen.ORpre1261gregtech/gt.blockmachines-372.png18190gregtech/gt.metaitem.01-2837.pngrewardsChoiceminecraft/redstone-0.pngRedston
+40enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5tasksANDRetrievalgregtech/gt.metaitem.01-2020.pngRaw Silicon Dus;Si
 4

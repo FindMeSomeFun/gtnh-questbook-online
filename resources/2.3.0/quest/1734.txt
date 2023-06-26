@@ -1,5 +1,5 @@
-1734GalaxySpace/item.spacesuit_gravityboots-0.png0Gravity Boots24-1These boots will help you fall faster in low gravity environments. Or not. Maybe. Give them a try.ANDpre17330GalaxySpace/item.spacesuit_plate-0.pngrewardsItemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
-1dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
-1enhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-2tasksANDRetrievalGalaxySpace/item.spacesuit_gravityboots-0.pngSpaceSuit Gravity Boots;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Integrated Magnesium Plate;makes you heavier.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 3;Durability: 390/390
+1734GalaxySpace/item.spacesuit_gravityboots-0.png0Gravity Boots24-1These boots will help you fall faster in low gravity environments. Or not. Maybe. Give them a try.ANDpre17330GalaxySpace/item.spacesuit_plate-0.pngrewardsItemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
+1dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000
+1enhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+2tasksANDRetrievalGalaxySpace/item.spacesuit_gravityboots-0.pngSpaceSuit Gravity Boot;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Integrated Magnesium Plate;makes you heavier.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 3;Durability: 390/390
 1

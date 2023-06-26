@@ -1,22 +1,22 @@
 3267Botania/specialFlower-0-jadedAmaranthus.png1Flower!!! Unlimited Flower!!!35-1The jaded amaranthus causes mystical flowers to grow all around it. Their vibrant petals can be used for magic, so you no longer have to go foraging for mushrooms.
 
-There §ois§o§o§r another way of getting these, but you'll have to figure that one out for yourself.ANDpre32281Botania/runeAltar-0.png32581Botania/lexicon-0.pngrewardsItemBotania/rune-8.pngRune of Mana
-2dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
-20tasksANDRetrievalBotania/specialFlower-0-jadedAmaranthus.pngJaded Amaranthus;Functional Flower;A couple died for this
-1RetrievalBotania/flower-0.pngMystical White Flower
-4Botania/flower-1.pngMystical Orange Flower
-4Botania/flower-2.pngMystical Magenta Flower
-4Botania/flower-3.pngMystical Light Blue Flower
-4Botania/flower-4.pngMystical Yellow Flower
-4Botania/flower-5.pngMystical Lime Flower
-4Botania/flower-6.pngMystical Pink Flower
-4Botania/flower-7.pngMystical Gray Flower
-4Botania/flower-8.pngMystical Light Gray Flower
-4Botania/flower-9.pngMystical Cyan Flower
-4Botania/flower-10.pngMystical Purple Flower
-4Botania/flower-11.pngMystical Blue Flower
-4Botania/flower-12.pngMystical Brown Flower
-4Botania/flower-13.pngMystical Green Flower
-4Botania/flower-14.pngMystical Red Flower
-4Botania/flower-15.pngMystical Black Flower
+There §ois§o§o§r another way of getting these, but you'll have to figure that one out for yourself.ANDpre32281Botania/runeAltar-0.png32581Botania/lexicon-0.pngrewardsItemBotania/rune-8.pngRune of Man
+2dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100
+20tasksANDRetrievalBotania/specialFlower-0-jadedAmaranthus.pngJaded Amaranthu;Functional Flower;A couple died for this
+1RetrievalBotania/flower-0.pngMystical White Flowe
+4Botania/flower-1.pngMystical Orange Flowe
+4Botania/flower-2.pngMystical Magenta Flowe
+4Botania/flower-3.pngMystical Light Blue Flowe
+4Botania/flower-4.pngMystical Yellow Flowe
+4Botania/flower-5.pngMystical Lime Flowe
+4Botania/flower-6.pngMystical Pink Flowe
+4Botania/flower-7.pngMystical Gray Flowe
+4Botania/flower-8.pngMystical Light Gray Flowe
+4Botania/flower-9.pngMystical Cyan Flowe
+4Botania/flower-10.pngMystical Purple Flowe
+4Botania/flower-11.pngMystical Blue Flowe
+4Botania/flower-12.pngMystical Brown Flowe
+4Botania/flower-13.pngMystical Green Flowe
+4Botania/flower-14.pngMystical Red Flowe
+4Botania/flower-15.pngMystical Black Flowe
 4

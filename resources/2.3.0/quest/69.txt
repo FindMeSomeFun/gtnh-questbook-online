@@ -1,8 +1,8 @@
-69gregtech/gt.metaitem.01-11880.png1§3§lWire-Wrap3-1Placing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulfur, you should work on getting some insulating rubber bars.ANDpre4961IC2/itemDust-13.pngrewardsItemharvestcraft/onionsoupItem-0.pngOnion Soup;harvestcraft:onionsoupItem
-2Choiceenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1IC2/itemHarz-0.pngSticky Resin
-4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-2896.pngRaw Rubber Dust;C\u2085H\u2088
-120gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
-40Retrievalgregtech/gt.metaitem.01-11880.pngRubber Bar;C\u2085H\u2088
+69gregtech/gt.metaitem.01-11880.png1§3§lWire-Wrap3-1Placing wires without insulation seems to be a bad idea. Now that you have an extractor to extract raw rubber out of sticky resin and an alloy smelter to further process it using sulfur, you should work on getting some insulating rubber bars.ANDpre4961IC2/itemDust-13.pngrewardsItemharvestcraft/onionsoupItem-0.pngOnion Sou;harvestcraft:onionsoupItem
+2Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1IC2/itemHarz-0.pngSticky Resi
+4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+15tasksANDOptionalgregtech/gt.metaitem.01-2896.pngRaw Rubber Dus;C\u2085H\u2088
+120gregtech/gt.metaitem.01-2022.pngSulfur Dus;S;Burn Time: 1600
+40Retrievalgregtech/gt.metaitem.01-11880.pngRubber Ba;C\u2085H\u2088
 40

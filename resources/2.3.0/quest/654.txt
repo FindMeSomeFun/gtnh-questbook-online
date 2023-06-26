@@ -1,16 +1,16 @@
 654GraviSuite/advNanoChestPlate-1-charged.png0Advanced Nano Chestplate14-1Combining the advanced electric jetpack and nanosuit yields you the advanced nano chestplate. Now you have the protection of the chestplate combined with the freedom of movement of the jetpack.
 
-§3Works like the AEJ.ANDpre6530GraviSuite/advJetpack-1-charged.png7790IC2/itemArmorNanoChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly;An Elite Circuit;IV-Tier
-1gregtech/gt.metaitem.01-32604.pngElectric Motor
-1enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-2dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+§3Works like the AEJ.ANDpre6530GraviSuite/advJetpack-1-charged.png7790IC2/itemArmorNanoChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembl;An Elite Circuit;IV-Tier
+1gregtech/gt.metaitem.01-32604.pngElectric Motor (IV
+1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+2dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
 2tasksANDOptionalGraviSuite/advJetpack-32767.pngAdvanced Electric Jetpack\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
 1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
-1IC2/itemPartAlloy-0.pngAdvanced Alloy
-2gregtech/gt.metaitem.01-17316.pngTungstensteel Plate;(Fe\u2085\u2080C)W
-2gregtech/gt.blockmachines-1644.png12x Platinum Wire;Max Voltage: 8,192 (IV);Max Amperage: 24;Loss/Meter/Ampere: 2 EU-Volt
-2gregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly;An Elite Circuit;IV-Tier
+1IC2/itemPartAlloy-0.pngAdvanced Allo
+2gregtech/gt.metaitem.01-17316.pngTungstensteel Plat;(Fe\u2085\u2080C)W
+2gregtech/gt.blockmachines-1644.png12x Platinum Wir;Max Voltage: 8,192 (IV);Max Amperage: 24;Loss/Meter/Ampere: 2 EU-Volt
+2gregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembl;An Elite Circuit;IV-Tier
 1RetrievalGraviSuite/advNanoChestPlate-32767.pngAdvanced NanoChestPlate\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
 1

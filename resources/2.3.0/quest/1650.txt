@@ -1,10 +1,10 @@
-1650witchery/ingredient-107.png0Going to Need a Big Hat...36-1...to fit all this knowledge. Get some more books!ANDpre15710witchery/distilleryidle-0.pngrewardsChoiceminecraft/book-0.pngBook
-16witchery/ingredient-18.pngWood Ash
-16enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDRetrievalwitchery/ingredient-107.pngWitchcraft: Symbology
-1witchery/ingredient-47.pngWitchcraft: Distilling
-1witchery/ingredient-48.pngWitchcraft: Circle Magic
-1witchery/ingredient-49.pngWitchcraft: Brews & Infusions
+1650witchery/ingredient-107.png0Going to Need a Big Hat...36-1...to fit all this knowledge. Get some more books!ANDpre15710witchery/distilleryidle-0.pngrewardsChoiceminecraft/book-0.pngBoo
+16witchery/ingredient-18.pngWood As
+16enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2tasksANDRetrievalwitchery/ingredient-107.pngWitchcraft: Symbolog
+1witchery/ingredient-47.pngWitchcraft: Distillin
+1witchery/ingredient-48.pngWitchcraft: Circle Magi
+1witchery/ingredient-49.pngWitchcraft: Brews & Infusion
 1

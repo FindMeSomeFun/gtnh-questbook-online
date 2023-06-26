@@ -1,13 +1,13 @@
 1178IC2/itemTinCanFilled-0.png0Food 2.013-1Forget everything you know about food and values. With your new canning machine you are able to fill tin cans with very nourishing food. This food can be consumed in milliseconds and makes you full and happy. And you can eat as much as you want without getting tired of the food.
 
-Eating before you are starving restores saturation and conserves cans.ANDpre12890gregtech/gt.blockmachines-223.pngrewardsChoiceminecraft/apple-0.pngApple;minecraft:apple
-64minecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
-32minecraft/golden_apple-0.pngGolden Apple;minecraft:golden_apple
-2enhancedlootbags/lootbag-30.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.02-18057.pngTin Casing;Sn
-16OptionalIC2/itemTinCan-0.pngTin Can
-16RetrievalIC2/itemTinCanFilled-0.png(Filled) Tin Can (#4202
+Eating before you are starving restores saturation and conserves cans.ANDpre12890gregtech/gt.blockmachines-223.pngrewardsChoiceminecraft/apple-0.pngAppl;minecraft:apple
+64minecraft/cooked_beef-0.pngStea;minecraft:cooked_beef
+32minecraft/golden_apple-0.pngGolden Appl;minecraft:golden_apple
+2enhancedlootbags/lootbag-30.pngLootBag (Haute Cuisine;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalgregtech/gt.metaitem.02-18057.pngTin Casin;Sn
+16OptionalIC2/itemTinCan-0.pngTin Ca
+16RetrievalIC2/itemTinCanFilled-0.png(Filled) Tin Ca
 16

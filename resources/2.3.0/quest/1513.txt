@@ -1,8 +1,8 @@
-1513MagicBees/frameNecrotic-0.png0Death to Bees!28-1These frames will let you kill your bees faster. It's to breed the next generation sooner, right? Not because you don't like them?ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemMagicBees/frameMagic-0.pngMagic Frame
-3Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalExtraBees/hiveFrame.cocoa-0.pngChocolate Frame
-1ExtraBees/hiveFrame.cage-0.pngRestraint Frame
-1MagicBees/frameNecrotic-0.pngNecrotic Frame
+1513MagicBees/frameNecrotic-0.png0Death to Bees!28-1These frames will let you kill your bees faster. It's to breed the next generation sooner, right? Not because you don't like them?ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemMagicBees/frameMagic-0.pngMagic Fram
+3Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalExtraBees/hiveFrame.cocoa-0.pngChocolate Fram
+1ExtraBees/hiveFrame.cage-0.pngRestraint Fram
+1MagicBees/frameNecrotic-0.pngNecrotic Fram
 1

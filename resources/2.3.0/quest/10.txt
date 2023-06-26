@@ -1,4 +1,4 @@
-10minecraft/porkchop-0.png1§1§lRest in Pieces0-1It's GLOPPing time! Go kill some pigs to gather meat. (And yes, they will drop cooked porkchops. Now isn't that useful...)ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemminecraft/cooked_porkchop-0.pngCooked Porkchop;minecraft:cooked_porkchop
-1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10minecraft/porkchop-0.png1§1§lRest in Pieces0-1It's GLOPPing time! Go kill some pigs to gather meat. (And yes, they will drop cooked porkchops. Now isn't that useful...)ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemminecraft/cooked_porkchop-0.pngCooked Porkcho;minecraft:cooked_porkchop
+1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
 5tasksANDHuntmobs/Pig-.pngPig
 5

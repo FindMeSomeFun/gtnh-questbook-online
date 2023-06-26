@@ -1,9 +1,9 @@
 294Thaumcraft/ItemGolemPlacer-7.png0The Best of All?32-1Highly durable, can carry a lot of items and is considered the "top tier" golem. But you are sure there is more...
 
-You'll need to chisel a thaumium block to get the right kind you need for the golem.ANDpre2930Thaumcraft/ItemGolemPlacer-5.pngrewardsChoiceThaumcraft/ItemGolemPlacer-6.pngIron Golem
-1enhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core;Blank
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/ItemGolemPlacer-7.pngThaumium Golem
-1RetrievalThaumcraft/ItemGolemCore-6.pngGolem Animation Core;Alchemy
+You'll need to chisel a thaumium block to get the right kind you need for the golem.ANDpre2930Thaumcraft/ItemGolemPlacer-5.pngrewardsChoiceThaumcraft/ItemGolemPlacer-6.pngIron Gole
+1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemGolemCore-100.pngGolem Animation Cor;Blank
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumcraft/ItemGolemPlacer-7.pngThaumium Gole
+1RetrievalThaumcraft/ItemGolemCore-6.pngGolem Animation Cor;Alchemy
 1

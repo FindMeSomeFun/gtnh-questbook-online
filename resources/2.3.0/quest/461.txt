@@ -1,7 +1,7 @@
-461gregtech/gt.metaitem.01-30679.png1§a§k§r§a§lVinyl Acetate7-1This organic compound is just a stepping stone.ANDpre1761gregtech/gt.blockmachines-14.png8520gregtech/gt.metaitem.01-30670.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-30670.pngAcetic Acid Cell;C\u2082H\u2084O\u2082
-1gregtech/gt.metaitem.01-30677.pngEthylene Cell;C\u2082H\u2084
-1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-1Retrievalgregtech/gt.metaitem.01-30679.pngVinyl Acetate Cell;C\u2084H\u2086O\u2082
+461gregtech/gt.metaitem.01-30679.png1§a§k§r§a§lVinyl Acetate7-1This organic compound is just a stepping stone.ANDpre1761gregtech/gt.blockmachines-14.png8520gregtech/gt.metaitem.01-30670.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1tasksANDOptionalgregtech/gt.metaitem.01-30670.pngAcetic Acid Cel;C\u2082H\u2084O\u2082
+1gregtech/gt.metaitem.01-30677.pngEthylene Cel;C\u2082H\u2084
+1gregtech/gt.metaitem.01-30013.pngOxygen Cel;O
+1Retrievalgregtech/gt.metaitem.01-30679.pngVinyl Acetate Cel;C\u2084H\u2086O\u2082
 1

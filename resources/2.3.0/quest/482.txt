@@ -4,15 +4,15 @@ Animals will prioritize moving towards grass blocks over any other blocks, and i
 
 Also, large quantities can cause server lag, especially if they are bumping into each other a lot. So make sure you limit animals to no more than ~ 1 per block for small entities like chickens and 1 entity per 2 blocks for large entities like cows if playing MP.
 
-§3PS: Most animal/mob drops can be gotten from less laggy IC2 crop farms.ANDpre4830minecraft/wheat_seeds-0.png14760gregtech/gt.metatool.01-36-Iron-Iron.pngrewardsChoiceExtraUtilities/shears-0.pngPrecision Shears
-1TConstruct/mattock-0-67.pngUnstable Induced Mattock;Mathematical!;Unbreakable;Tool Level: 01-Abused;+6 Attack Damage
-1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-3Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-20tasksANDRetrievalminecraft/leather-0.pngLeather
-100minecraft/beef-0.pngRaw Beef;minecraft:beef
-100Retrievalminecraft/wool-0.pngWool
-100harvestcraft/muttonrawItem-0.pngRaw Mutton;harvestcraft:muttonrawItem
-100Retrievalminecraft/porkchop-0.pngRaw Porkchop;minecraft:porkchop
-100Retrievalminecraft/chicken-0.pngRaw Chicken;minecraft:chicken
-100minecraft/feather-0.pngFeather
+§3PS: Most animal/mob drops can be gotten from less laggy IC2 crop farms.ANDpre4830minecraft/wheat_seeds-0.png14760gregtech/gt.metatool.01-36-Iron-Iron.pngrewardsChoiceExtraUtilities/shears-0.pngPrecision Shear
+1TConstruct/mattock-0-67.pngUnstable Induced Mattoc;Mathematical!;Unbreakable;Tool Level: 01-Abused;+6 Attack Damage
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+3Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+20tasksANDRetrievalminecraft/leather-0.pngLeathe
+100minecraft/beef-0.pngRaw Bee;minecraft:beef
+100Retrievalminecraft/wool-0.pngWoo
+100harvestcraft/muttonrawItem-0.pngRaw Mutto;harvestcraft:muttonrawItem
+100Retrievalminecraft/porkchop-0.pngRaw Porkcho;minecraft:porkchop
+100Retrievalminecraft/chicken-0.pngRaw Chicke;minecraft:chicken
+100minecraft/feather-0.pngFeathe
 100

@@ -1,7 +1,7 @@
 2921bartworks/gt.bwMetaGeneratedcell-10029.png1§c§lEther Strike!9-1The naquadah is so inert that most acids won't react with it, so you need a more powerful kind of acid to dissolve it.
 
-Let's prepare some necessary organic solvent to make the acid.ANDpre14931gregtech/gt.blockmachines-16.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1Choicegregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-2gregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
-2tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10029.pngEther Cell;CH\u2083CH\u2082OCH\u2082CH\u2083;Added by Good Generator via BartWorks
+Let's prepare some necessary organic solvent to make the acid.ANDpre14931gregtech/gt.blockmachines-16.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+1Choicegregtech/gt.metaitem.01-30720.pngSulfuric Acid Cel;H\u2082SO\u2084
+2gregtech/gt.metaitem.01-30706.pngEthanol Cel;C\u2082H\u2086O
+2tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10029.pngEther Cel;CH\u2083CH\u2082OCH\u2082CH\u2083;Added by Good Generator via BartWorks
 1

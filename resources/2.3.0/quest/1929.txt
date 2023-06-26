@@ -1,4 +1,4 @@
-1929IC2/itemUran238-0.png0Just Cover Your Privates When You Walk By13-1Reactoria crops will drop Reactoria leaves which will 4x your Pitchblende ore.ANDpre19280IC2/itemToolForgeHammer-0.pngrewardsItemgregtech/gt.blockores-873.pngPitchblende;(UO\u2082)\u2083ThPb
-32enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-2tasksANDRetrievalIC2/itemCropSeed-0.pngReactoria Seeds;Gr 0;Ga 0;Re 0
+1929IC2/itemUran238-0.png0Just Cover Your Privates When You Walk By13-1Reactoria crops will drop Reactoria leaves which will 4x your Pitchblende ore.ANDpre19280IC2/itemToolForgeHammer-0.pngrewardsItemgregtech/gt.blockores-873.pngPitchblend;(UO\u2082)\u2083ThPb
+32enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops;Your luck is increased by 100 %;Fortune III
+2tasksANDRetrievalIC2/itemCropSeed-0.pngReactoria Seed;Gr 0;Ga 0;Re 0
 1

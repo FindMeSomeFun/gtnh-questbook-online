@@ -2,13 +2,13 @@
 
 In addition to what's listed, you'll need 2 Resistors, Transistors, and Capcitors, SMD or non-SMD.
 
-This advanced circuit type needs a cleanroom.ANDpre9401gregtech/gt.blockmachines-1172.png10151gregtech/gt.metaitem.03-32106.png12211gregtech/gt.blockmachines-1181.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-2gregtech/gt.metaitem.03-32045.pngCentral Processing Unit;Integrated Circuit
-1gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-1gregtech/gt.metaitem.03-32045.pngCentral Processing Unit;Integrated Circuit
-1gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-2Retrievalgregtech/gt.metaitem.03-32078.pngMicroprocessor;A Basic Circuit;LV-Tier
+This advanced circuit type needs a cleanroom.ANDpre9401gregtech/gt.blockmachines-1172.png10151gregtech/gt.metaitem.03-32106.png12211gregtech/gt.blockmachines-1181.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
+2gregtech/gt.metaitem.03-32045.pngCentral Processing Uni;Integrated Circuit
+1gregtech/gt.metaitem.03-32020.pngSMD Capacito;Electronic Component
+2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
+1gregtech/gt.metaitem.03-32045.pngCentral Processing Uni;Integrated Circuit
+1gregtech/gt.metaitem.02-19035.pngFine Copper Wir;Cu
+2Retrievalgregtech/gt.metaitem.03-32078.pngMicroprocesso;A Basic Circuit;LV-Tier
 2

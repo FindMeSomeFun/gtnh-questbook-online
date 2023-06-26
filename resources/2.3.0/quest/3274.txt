@@ -2,6 +2,6 @@
 
 The Bio Chamber is a simple upgrade, it doesn't require many resources. Don't know why I didn't make it earlier.
 
-§3It can use any glass.ANDpre26491gregtech/gt.metaitem.03-32073.png32730gregtech/gt.blockmachines-356.pngrewardstasksANDRetrievalgregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
+§3It can use any glass.ANDpre26491gregtech/gt.metaitem.03-32073.png32730gregtech/gt.blockmachines-356.pngrewardstasksANDRetrievalgregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1IC2/blockAlloyGlass-0.pngReinforced Glas;Glass-Tier: EV
 1

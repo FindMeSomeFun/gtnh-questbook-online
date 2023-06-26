@@ -1,14 +1,14 @@
 1888IC2/itemArmorHazmatChestplate-64.png0§4§3§lRepairing Your Hazmat Suit3-1Be careful when wearing your hazmat suit all the time. The duarbility is not very high. Even just falling a few blocks will damage the boots quickly.
 
-You can repair your suit long before you can craft a new one in late LV Age, using some rubber sheets and a glue bucket.ANDpre5340dreamcraft/dreamcraft_Pollution-0.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
-8minecraft/bucket-0.pngBucket
-2Choicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot;Fe\u2085\u2080C
-4enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-10tasksANDRetrievalTConstruct/buckets-25.pngSticky Glue Bucket
-4gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
-21RetrievalIC2/itemArmorHazmatHelmet-0.pngScuba Helmet;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1IC2/itemArmorHazmatChestplate-0.pngHazmat Suit;Provides full hazmat protection.;Protection: 8;Durability: 64/64
-1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Leggings;Provides full hazmat protection.;Protection: 6;Durability: 64/64
-1IC2/itemArmorRubBoots-0.pngRubber Boots;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+You can repair your suit long before you can craft a new one in late LV Age, using some rubber sheets and a glue bucket.ANDpre5340dreamcraft/dreamcraft_Pollution-0.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
+8minecraft/bucket-0.pngBucke
+2Choicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingo;Fe\u2085\u2080C
+4enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+10tasksANDRetrievalTConstruct/buckets-25.pngSticky Glue Bucke
+4gregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
+21RetrievalIC2/itemArmorHazmatHelmet-0.pngScuba Helme;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+1IC2/itemArmorHazmatChestplate-0.pngHazmat Sui;Provides full hazmat protection.;Protection: 8;Durability: 64/64
+1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Legging;Provides full hazmat protection.;Protection: 6;Durability: 64/64
+1IC2/itemArmorRubBoots-0.pngRubber Boot;Provides full hazmat protection.;Protection: 3;Durability: 64/64
 1

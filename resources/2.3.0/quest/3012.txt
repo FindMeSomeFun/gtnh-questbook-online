@@ -2,11 +2,11 @@
 
 By the way, you can wall-share Oil Crackers, just like DTs, LCRs and many other multis, and doing this will save on the amount of coils you need!
 
-§3You only need to do one of the two tasks.ANDpre30100gregtech/gt.blockmachines-142.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
-64gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-16IC2/itemCellEmpty-14.pngSteam Cell
-16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-10tasksORRetrievalgregtech/gt.blockcasings5-2.pngNichrome Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 3601 Kelvin
-16Retrievalgregtech/gt.blockcasings5-3.pngTPV-Alloy Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 4501 Kelvin
+§3You only need to do one of the two tasks.ANDpre30100gregtech/gt.blockmachines-142.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cel
+64gregtech/gt.metaitem.01-30001.pngHydrogen Cel;H
+16IC2/itemCellEmpty-14.pngSteam Cel
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+10tasksORRetrievalgregtech/gt.blockcasings5-2.pngNichrome Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 3601 Kelvin
+16Retrievalgregtech/gt.blockcasings5-3.pngTPV-Alloy Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 4501 Kelvin
 16

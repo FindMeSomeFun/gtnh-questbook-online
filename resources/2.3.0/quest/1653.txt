@@ -1,13 +1,13 @@
 1653ExtraUtilities/trading_post-0.png0§5§lAkihabara4-1Tired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.
 
-You'll need an Assembler to finish it up.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/emerald-0.pngEmerald
-5Itemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
-4gregtech/gt.metaitem.01-17501.pngEmerald Plate;Be\u2083Al\u2082Si\u2086O\u2081\u2088
-2minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-2minecraft/dispenser-0.pngDispenser
-1OptionalRailcraft/machine.alpha-6.pngTrade Station;Mobs cannot Spawn on this Block
-1gregtech/gt.metaitem.02-32470.pngOak Plank;Usable as Cover;Burn Time: 75
-4RetrievalExtraUtilities/trading_post-0.pngTrading Post;Burn Time: 300
+You'll need an Assembler to finish it up.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/emerald-0.pngEmeral
+5Itemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+15tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plat;Fe\u2085\u2080C
+4gregtech/gt.metaitem.01-17501.pngEmerald Plat;Be\u2083Al\u2082Si\u2086O\u2081\u2088
+2minecraft/glass_pane-0.pngGlass Pan;Glass-Tier: HV
+2minecraft/dispenser-0.pngDispense
+1OptionalRailcraft/machine.alpha-6.pngTrade Statio;Mobs cannot Spawn on this Block
+1gregtech/gt.metaitem.02-32470.pngOak Plan;Usable as Cover;Burn Time: 75
+4RetrievalExtraUtilities/trading_post-0.pngTrading Pos;Burn Time: 300
 1

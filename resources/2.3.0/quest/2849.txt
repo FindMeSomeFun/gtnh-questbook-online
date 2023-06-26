@@ -2,10 +2,10 @@
 
 They only work with steam and are just as fast as the valve on a Railcraft tank (if you put it on the bottom side).
 
-§6§4§3There's also MV, HV, EV and IV versions.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsChoicegregtech/gt.metaitem.01-32600.pngElectric Motor
-2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
-16gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.metaitem.01-32620.pngSteam Valve;1,024 L/t (20,480 L/s) as Cover
+§6§4§3There's also MV, HV, EV and IV versions.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsChoicegregtech/gt.metaitem.01-32600.pngElectric Motor (LV
+2gregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
+16gregtech/gt.metaitem.01-11305.pngSteel Ingo;Fe\u2085\u2080C
+8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+3enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.metaitem.01-32620.pngSteam Valve (LV;1,024 L/t (20,480 L/s) as Cover
 1

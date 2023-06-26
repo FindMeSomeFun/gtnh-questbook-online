@@ -1,9 +1,9 @@
-2709dreamcraft/item.Tier4Booster-0.png1Booster Tier 424-1The distance to other solar sytems is quite literally Astronomical, so you'll need even bigger boosters to reach them.ANDpre26431dreamcraft/item.HeavyDutyPlateTier8-0.pngrewardsChoicegregtech/gt.metaitem.01-11388.pngBlack Plutonium Ingot;SpPu
-32gregtech/gt.metaitem.01-11129.pngNeutronium Ingot;Nt
-16Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-2tasksANDOptionaldreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plate
-30dreamcraft/item.Tier3Booster-0.pngTier 3 Booster
-10dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-40GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
-10Retrievaldreamcraft/item.Tier4Booster-0.pngTier 4 Booster
+2709dreamcraft/item.Tier4Booster-0.png1Booster Tier 424-1The distance to other solar sytems is quite literally Astronomical, so you'll need even bigger boosters to reach them.ANDpre26431dreamcraft/item.HeavyDutyPlateTier8-0.pngrewardsChoicegregtech/gt.metaitem.01-11388.pngBlack Plutonium Ingo;SpPu
+32gregtech/gt.metaitem.01-11129.pngNeutronium Ingo;Nt
+16Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K
+2tasksANDOptionaldreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plat
+30dreamcraft/item.Tier3Booster-0.pngTier 3 Booste
+10dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 
+40GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120
+10Retrievaldreamcraft/item.Tier4Booster-0.pngTier 4 Booste
 10

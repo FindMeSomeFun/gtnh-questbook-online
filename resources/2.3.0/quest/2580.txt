@@ -1,2 +1,2 @@
-2580Avaritia/Infinity_Sword-0.png0Sword of the Cosmos38-1Able to kill anything, in one hit except another player in full infinity gear. Essentially runs the /kill command on the entity you hit.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalAvaritia/Infinity_Sword-0.pngSword of the Cosmos;+Infinity Attack Damage;Durability: 9999/9999
+2580Avaritia/Infinity_Sword-0.png0Sword of the Cosmos38-1Able to kill anything, in one hit except another player in full infinity gear. Essentially runs the /kill command on the entity you hit.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalAvaritia/Infinity_Sword-0.pngSword of the Cosmo;+Infinity Attack Damage;Durability: 9999/9999
 1

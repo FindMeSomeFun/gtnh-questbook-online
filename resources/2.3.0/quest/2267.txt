@@ -8,13 +8,13 @@ Earth: 1 more row of item slots
 Fire: Attacks hostile mobs, setting them on fire
 Water: Nearly invulnerable. In SMP, can only be opened or picked up by player who placed it.
 Entropy: Sucks in loose items nearby if it has room
-Order: Can be picked up with its contents, and nested in other inventories. Don't be stupid about this.ANDpre2920Thaumcraft/ItemGolemPlacer-1.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1enhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Air;Improves Speed
-1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Earth;Improves Strength
-1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fire;Improves Damage, Capacity
-1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Water;Improves Senses, Range
-1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Order;Improves Organization, Intellect
-1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy;Improves Defenses, Reasoning
-1tasksANDRetrievalThaumcraft/TrunkSpawner-0.pngTraveling Trunk
+Order: Can be picked up with its contents, and nested in other inventories. Don't be stupid about this.ANDpre2920Thaumcraft/ItemGolemPlacer-1.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Ai;Improves Speed
+1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Eart;Improves Strength
+1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fir;Improves Damage, Capacity
+1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Wate;Improves Senses, Range
+1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Orde;Improves Organization, Intellect
+1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entrop;Improves Defenses, Reasoning
+1tasksANDRetrievalThaumcraft/TrunkSpawner-0.pngTraveling Trun
 1

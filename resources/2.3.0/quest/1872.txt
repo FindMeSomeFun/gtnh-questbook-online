@@ -1,9 +1,9 @@
-1872gregtech/gt.metaitem.01-30650.png0§6§lVinyl Chloride5-1Vinyl Chloride is the base product for making PVC for advanced pipes. These Pipes are needed in LuV machines or the Hermetic Casing IIs for Super Tank IIs.ANDpre8471gregtech/gt.metaitem.01-30677.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-8gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2gregtech/gt.metaitem.01-30677.pngEthylene Cell;C\u2082H\u2084
-8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-30677.pngEthylene Cell;C\u2082H\u2084
-6gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-12Retrievalgregtech/gt.metaitem.01-30650.pngVinyl Chloride Cell;C\u2082H\u2083Cl
+1872gregtech/gt.metaitem.01-30650.png0§6§lVinyl Chloride5-1Vinyl Chloride is the base product for making PVC for advanced pipes. These Pipes are needed in LuV machines or the Hermetic Casing IIs for Super Tank IIs.ANDpre8471gregtech/gt.metaitem.01-30677.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cabl;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+8gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.01-30677.pngEthylene Cel;C\u2082H\u2084
+8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+25tasksANDOptionalgregtech/gt.metaitem.01-30677.pngEthylene Cel;C\u2082H\u2084
+6gregtech/gt.metaitem.01-30023.pngChlorine Cel;Cl
+12Retrievalgregtech/gt.metaitem.01-30650.pngVinyl Chloride Cel;C\u2082H\u2083Cl
 6

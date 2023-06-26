@@ -1,9 +1,9 @@
 995Forestry/craftingMaterial-3.png0Woven Silk28-1Centrifuge your silky propoli to get some silk wisp at a chance of 60 percent. Put 9 silk wisp in the Forestry carpenter or GregTech assembler to get woven silk. 
 
-This fine fabric can be used for crafting Apiarist's Clothes or to upgrade a Forestry Backpacks to 45 slots.ANDpre5391gregtech/gt.blockmachines-361.png9930Forestry/beeCombs-6.pngrewardsItemenhancedlootbags/lootbag-25-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1Forestry/beeQueenGE-0-Cultivated.pngCultivated Queen;Pristine Stock
-1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
-1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
-5tasksANDOptionalForestry/craftingMaterial-2.pngSilk Wisp
-216RetrievalForestry/craftingMaterial-3.pngWoven Silk
+This fine fabric can be used for crafting Apiarist's Clothes or to upgrade a Forestry Backpacks to 45 slots.ANDpre5391gregtech/gt.blockmachines-361.png9930Forestry/beeCombs-6.pngrewardsItemenhancedlootbags/lootbag-25-enchanted.pngLootBag (Bees Basic;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1Forestry/beeQueenGE-0-Cultivated.pngCultivated Quee;Pristine Stock
+1Forestry/beeDroneGE-0-Cultivated.pngCultivated Dron
+1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
+5tasksANDOptionalForestry/craftingMaterial-2.pngSilk Wis
+216RetrievalForestry/craftingMaterial-3.pngWoven Sil
 24

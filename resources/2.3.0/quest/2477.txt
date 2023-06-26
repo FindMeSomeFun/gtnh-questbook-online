@@ -2,7 +2,7 @@
 
 Don't want to get rid of your super tanks? Use the fluid storage bus instead of these then. Super tanks double in capacity each tier, but these quadruple. Plus they're less expensive for sure. But the earlier ones may not be worth it.
 
-§4AE2 with fluids is kinda buggy. Report problems so they can (hopefully) be fixed, ok?ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier I
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievaldreamcraft/item.EngineeringProcessorFluidDiamondCore-0.pngFluid Processor Tier I
+§4AE2 with fluids is kinda buggy. Report problems so they can (hopefully) be fixed, ok?ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier 
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDRetrievaldreamcraft/item.EngineeringProcessorFluidDiamondCore-0.pngFluid Processor Tier 
 1

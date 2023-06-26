@@ -1,9 +1,9 @@
-1814gregtech/gt.metaitem.01-17473.png1§9§lPolytetrafluoroethylene6-1Molten plastics smell great, don't they? Mix your hydrofluoric acid and chloroform to make tetrafluoroethylene. React the TFE with oxygen to make molten PTFE.ANDpre18131gregtech/gt.metaitem.01-30668.pngrewardsChoicegregtech/gt.metaitem.01-32408.pngLarge Stainless Steel Fluid Cell;No Fluids Contained;0L / 64,000L
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-30667.pngHydrofluoric Acid Cell;HF
-48gregtech/gt.metaitem.01-30668.pngChloroform Cell;CHCl\u2083
-24Optionalgregtech/gt.metaitem.01-30666.pngTetrafluoroethylene Cell;C\u2082F\u2084
-12gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-84Retrievalgregtech/gt.metaitem.01-17473.pngPolytetrafluoroethylene Sheet;C\u2082F\u2084
+1814gregtech/gt.metaitem.01-17473.png1§9§lPolytetrafluoroethylene6-1Molten plastics smell great, don't they? Mix your hydrofluoric acid and chloroform to make tetrafluoroethylene. React the TFE with oxygen to make molten PTFE.ANDpre18131gregtech/gt.metaitem.01-30668.pngrewardsChoicegregtech/gt.metaitem.01-32408.pngLarge Stainless Steel Fluid Cel;No Fluids Contained;0L / 64,000L
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1tasksANDOptionalgregtech/gt.metaitem.01-30667.pngHydrofluoric Acid Cel;HF
+48gregtech/gt.metaitem.01-30668.pngChloroform Cel;CHCl\u2083
+24Optionalgregtech/gt.metaitem.01-30666.pngTetrafluoroethylene Cel;C\u2082F\u2084
+12gregtech/gt.metaitem.01-30013.pngOxygen Cel;O
+84Retrievalgregtech/gt.metaitem.01-17473.pngPolytetrafluoroethylene Shee;C\u2082F\u2084
 125

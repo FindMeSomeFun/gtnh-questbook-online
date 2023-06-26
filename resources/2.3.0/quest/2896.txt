@@ -4,8 +4,8 @@ Basically, things go in, parts it's made of go out. It needs to be at the same t
 
 It works on hand and assembler crafted items, but it doesn't work on assline stuff (LuV+), or non-GT items. However, for some reason on some items it fails for seemingly no reason. Ask bart why that happens. If there's an oredicted item like a circuit, it should return the least valuable one. You can now recyle your old coils, hatches, machines, etc with impunity!
 
-§3The % chance based on tier is gone now. Also, it's really fast!ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemIC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-2tasksANDRetrievalgregtech/gt.blockmachines-451.pngBasic Disassembler;Disassembles Machines up to Low Voltage;Can also disassemble most assembler recipes!;Voltage IN: 32 (LV);Capacity: 2,048 EU
+§3The % chance based on tier is gone now. Also, it's really fast!ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemIC2/itemPartCircuit-0.pngElectronic Circui;LV-tier
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+2tasksANDRetrievalgregtech/gt.blockmachines-451.pngBasic Disassemble;Disassembles Machines up to Low Voltage;Can also disassemble most assembler recipes!;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

@@ -1,13 +1,13 @@
 1753OpenComputers/item-29.png0What Did the Data Say to the CPU?26-1Cache me outside.
 
 Your CPU will essentially be how fast your computer processes data. 
-A stronger CPU = A faster computer.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-28.pngControl Unit
-2enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1OpenComputers/item-33.pngCard Base
-4Itemmiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
-2tasksANDOptionalOpenComputers/item-27.pngArithmetic Logic Unit
-8OpenComputers/item-28.pngControl Unit
-1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-1gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
-1RetrievalOpenComputers/item-29.pngCentral Processing Unit;Tier 1
+A stronger CPU = A faster computer.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-28.pngControl Unit (CU
+2enhancedlootbags/lootbag-46.pngLootBag (Tier 1 Computers;You feel that a bit more "Fortune" might be a good idea...
+1OpenComputers/item-33.pngCard Bas
+4Itemmiscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
+2tasksANDOptionalOpenComputers/item-27.pngArithmetic Logic Unit (ALU
+8OpenComputers/item-28.pngControl Unit (CU
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+1gregtech/gt.metaitem.02-18019.pngAluminium Casin;Al
+1RetrievalOpenComputers/item-29.pngCentral Processing Unit (CPU) (Tier 1;Tier 1
 1

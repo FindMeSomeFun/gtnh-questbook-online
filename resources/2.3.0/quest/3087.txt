@@ -1,8 +1,8 @@
 3087bartworks/gt.bwMetaGenerateddust-11128.png0§b§lThe Other Way8-1When you inevitably get Samarium Ore, you'll end up getting a ton of this dust. There are a couple of options here: One includes the monazite line and has a higher yield, the other is simpler but has a poorer yield.
 We'll look at the latter here.
 
-Eventually you'll probably want to switch entirely to the monazite option, but for now, supplementing it with this can be a good idea.ANDpre16961gregtech/gt.blockmachines-425.pngrewardstasksANDOptionalbartworks/gt.bwMetaGenerateddust-11128.pngSamarium Ore Concentrate Dust;??Sm??;Added by GTNH: Lanthanides via BartWorks
-2gregtech/gt.metaitem.01-2026.pngCalcium Dust;Ca
-3Retrievalbartworks/gt.bwMetaGenerateddust-11129.pngDephosphated Samarium Concentrate Dust;??Sm??;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2534.pngTricalcium Phosphate Dust;Ca\u2083(PO\u2084)\u2082
+Eventually you'll probably want to switch entirely to the monazite option, but for now, supplementing it with this can be a good idea.ANDpre16961gregtech/gt.blockmachines-425.pngrewardstasksANDOptionalbartworks/gt.bwMetaGenerateddust-11128.pngSamarium Ore Concentrate Dus;??Sm??;Added by GTNH: Lanthanides via BartWorks
+2gregtech/gt.metaitem.01-2026.pngCalcium Dus;Ca
+3Retrievalbartworks/gt.bwMetaGenerateddust-11129.pngDephosphated Samarium Concentrate Dus;??Sm??;Added by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2534.pngTricalcium Phosphate Dus;Ca\u2083(PO\u2084)\u2082
 1

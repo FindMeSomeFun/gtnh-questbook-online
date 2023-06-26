@@ -6,29 +6,29 @@ Hint: The bricked blast furnace can share walls with other ones, just like most 
 
 If you spawn near a biome with Hardened Clay you can macerate it to get the clay dust you need. You can also use brick blocks from Villages to get brick dust in the macerator.
 
-Crafting the Worktable from Forestry can make it easier as you can use all the buckets for crafting in one click.ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
-32enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-50ChoiceTConstruct/oreBerries-5.pngConcentrated Essence Berry;Tastes like Creeper;Can be placed on a empty IC2 Crop.
-10TConstruct/oreBerries-0.pngIron Oreberry;Sweet Irony;Can be placed on a empty IC2 Crop.
-10TConstruct/oreBerries-1.pngGold Oreberry;Pure Luster;Can be placed on a empty IC2 Crop.
-10tasksANDOptionalminecraft/clay_ball-0.pngClay
-1008minecraft/cobblestone-0.pngCobblestone
-24minecraft/flint-0.pngFlint
-12Optionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-28minecraft/furnace-0.pngFurnace
-4OptionalIC2/blockMachine-1.pngIron Furnace
-4Optionalgregtech/gt.metaitem.01-2823.pngCalcite Dust;CaCO\u2083
-72gregtech/gt.metaitem.01-2805.pngClay Dust;Na\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
-144gregtech/gt.metaitem.01-2299.pngStone Dust
-36gregtech/gt.metaitem.01-2939.pngQuartz Sand;??
-36Optionaldreamcraft/item.UnfiredClayBrick-0.pngUnfired Clay Brick
-1Optionalminecraft/brick-0.pngBrick
-1Optionalgregtech/gt.metaitem.01-2625.pngBrick Dust;Al\u2084Si\u2083O\u2086
-1gregtech/gt.metaitem.01-2805.pngClay Dust;Na\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
-1Optionalgregtech/gt.metaitem.01-32110.pngCompressed Fireclay;Brick-shaped
-1Optionalgregtech/gt.metaitem.01-32111.pngFirebrick;Heat resistant
-1Optionalgregtech/gt.metaitem.01-2934.pngGypsum Dust;CaSO\u2084(H\u2082O)\u2082
-72Optionalgregtech/gt.blockcasings4-15.pngFirebricks;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-36Retrievalgregtech/gt.blockmachines-140.pngBricked Blast Furnace;Machine Type: Blast Furnace;Controller Block for the Bricked Blast Furnace;Usable for Steel and general Pyrometallurgy;Has a useful interface, unlike other gregtech multis;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+Crafting the Worktable from Forestry can make it easier as you can use all the buckets for crafting in one click.ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Cok;Burn Time: 3200
+32enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+50ChoiceTConstruct/oreBerries-5.pngConcentrated Essence Berr;Tastes like Creeper;Can be placed on a empty IC2 Crop.
+10TConstruct/oreBerries-0.pngIron Oreberr;Sweet Irony;Can be placed on a empty IC2 Crop.
+10TConstruct/oreBerries-1.pngGold Oreberr;Pure Luster;Can be placed on a empty IC2 Crop.
+10tasksANDOptionalminecraft/clay_ball-0.pngCla
+1008minecraft/cobblestone-0.pngCobbleston
+24minecraft/flint-0.pngFlin
+12Optionalgregtech/gt.metaitem.01-17032.pngIron Plat;Fe
+28minecraft/furnace-0.pngFurnac
+4OptionalIC2/blockMachine-1.pngIron Furnac
+4Optionalgregtech/gt.metaitem.01-2823.pngCalcite Dus;CaCO\u2083
+72gregtech/gt.metaitem.01-2805.pngClay Dus;Na\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
+144gregtech/gt.metaitem.01-2299.pngStone Dus
+36gregtech/gt.metaitem.01-2939.pngQuartz San;??
+36Optionaldreamcraft/item.UnfiredClayBrick-0.pngUnfired Clay Bric
+1Optionalminecraft/brick-0.pngBric
+1Optionalgregtech/gt.metaitem.01-2625.pngBrick Dus;Al\u2084Si\u2083O\u2086
+1gregtech/gt.metaitem.01-2805.pngClay Dus;Na\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
+1Optionalgregtech/gt.metaitem.01-32110.pngCompressed Firecla;Brick-shaped
+1Optionalgregtech/gt.metaitem.01-32111.pngFirebric;Heat resistant
+1Optionalgregtech/gt.metaitem.01-2934.pngGypsum Dus;CaSO\u2084(H\u2082O)\u2082
+72Optionalgregtech/gt.blockcasings4-15.pngFirebrick;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+36Retrievalgregtech/gt.blockmachines-140.pngBricked Blast Furnac;Machine Type: Blast Furnace;Controller Block for the Bricked Blast Furnace;Usable for Steel and general Pyrometallurgy;Has a useful interface, unlike other gregtech multis;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

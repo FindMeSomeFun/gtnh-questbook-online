@@ -1,5 +1,5 @@
-1398TaintedMagic/ItemFocusMeteorology-0.png0Wand Focus Meteorology34-1Wand Focus: Meteorology can be equipped by any wand. When used during rain will stop rain, when used during sunny weather, will start rain. Each cast costs 10 of each primal aspect and will make the caster unable to use any other foci for 30 seconds.ANDpre2841Thaumcraft/ItemEldritchObject-3.png13740Thaumcraft/FocusShock-0.png13760Thaumcraft/FocusFrost-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
-2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalTaintedMagic/ItemFocusMeteorology-0.pngWand Focus: Meteorology;Vis per cast; Aer x 80; Aqua x 80; Ignis x 80; Ordo x 80; Perditio x 80; Terra x 80
+1398TaintedMagic/ItemFocusMeteorology-0.png0Wand Focus Meteorology34-1Wand Focus: Meteorology can be equipped by any wand. When used during rain will stop rain, when used during sunny weather, will start rain. Each cast costs 10 of each primal aspect and will make the caster unable to use any other foci for 30 seconds.ANDpre2841Thaumcraft/ItemEldritchObject-3.png13740Thaumcraft/FocusShock-0.png13760Thaumcraft/FocusFrost-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
+2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+5tasksANDRetrievalTaintedMagic/ItemFocusMeteorology-0.pngWand Focus: Meteorolog;Vis per cast; Aer x 80; Aqua x 80; Ignis x 80; Ordo x 80; Perditio x 80; Terra x 80
 1

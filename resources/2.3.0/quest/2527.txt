@@ -1,6 +1,6 @@
-2527thaumicenergistics/part.base-7.png0Was I Out of Nebrisum, or Was it Terminus?27-1These are the essentia versions.ANDpre25220appliedenergistics2/item.ItemMultiPart-400.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalthaumicenergistics/part.base-7.pngEssentia Storage Monitor
-1thaumicenergistics/part.base-8.pngEssentia Conversion Monitor
+2527thaumicenergistics/part.base-7.png0Was I Out of Nebrisum, or Was it Terminus?27-1These are the essentia versions.ANDpre25220appliedenergistics2/item.ItemMultiPart-400.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1tasksANDRetrievalthaumicenergistics/part.base-7.pngEssentia Storage Monito
+1thaumicenergistics/part.base-8.pngEssentia Conversion Monito
 1

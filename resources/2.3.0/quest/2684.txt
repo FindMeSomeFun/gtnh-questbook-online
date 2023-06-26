@@ -10,10 +10,10 @@ Since there is no oxygen in space, you will also need an oxidizer. But since the
 
 §3If you're confused about how to use/make the Chemical Plant, refer to the manual with the same name.
 
-§2PS: You can also use Rocket Fuels for power in Rocket Engines, or the Rocketdyne F-1A Engine multi.ANDpre8271GalacticraftCore/item.fuelCanisterPartial-1.pngrewardsItemmiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell;Can be used as rocket fuel up to tier 2
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalmiscutils/Kerosene-0.pngKerosene Cell
-12Optionalmiscutils/RP1Fuel-0.pngRP-1 Cell
-9gregtech/gt.metaitem.01-30493.pngLiquid Oxygen Cell;O
-36Retrievalmiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell;Can be used as rocket fuel up to tier 2
+§2PS: You can also use Rocket Fuels for power in Rocket Engines, or the Rocketdyne F-1A Engine multi.ANDpre8271GalacticraftCore/item.fuelCanisterPartial-1.pngrewardsItemmiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cel;Can be used as rocket fuel up to tier 2
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalmiscutils/Kerosene-0.pngKerosene Cel
+12Optionalmiscutils/RP1Fuel-0.pngRP-1 Cel
+9gregtech/gt.metaitem.01-30493.pngLiquid Oxygen Cel;O
+36Retrievalmiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cel;Can be used as rocket fuel up to tier 2
 27

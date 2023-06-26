@@ -1,5 +1,5 @@
-1334EMT/EssentiaGenerators-2.png0Essentia Generator: Auram19-1This Generator is quite tricky. It requires Auram Essentia, that isn't that common, but its output is nice.ANDpre13330EMT/EssentiaGenerators-0.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemEssence-1-auram.pngPhial of Essentia;Auram x 8
-8tasksANDRetrievalEMT/EssentiaGenerators-2.pngAuram Generator
+1334EMT/EssentiaGenerators-2.png0Essentia Generator: Auram19-1This Generator is quite tricky. It requires Auram Essentia, that isn't that common, but its output is nice.ANDpre13330EMT/EssentiaGenerators-0.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemEssence-1-auram.pngPhial of Essenti;Auram x 8
+8tasksANDRetrievalEMT/EssentiaGenerators-2.pngAuram Generato
 1

@@ -1,5 +1,5 @@
-138EnderIO/itemAlloy-6.png0§5§6§lCome to the Dark Side...5-1...we have cookies.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsItemminecraft/cookie-0.pngCookie;minecraft:cookie
-64Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalEnderIO/itemAlloy-6.pngDark Steel;((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
+138EnderIO/itemAlloy-6.png0§5§6§lCome to the Dark Side...5-1...we have cookies.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsItemminecraft/cookie-0.pngCooki;minecraft:cookie
+64Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalEnderIO/itemAlloy-6.pngDark Stee;((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
 32

@@ -1,4 +1,4 @@
-978gregtech/gt.metaitem.01-30012.png0Nitrogen4012000Want some nitrogen? Buy some!ANDpre5551gregtech/gt.metaitem.01-30012.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30012.pngNitrogen Cell;N
-16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
-16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+978gregtech/gt.metaitem.01-30012.png0Nitrogen4012000Want some nitrogen? Buy some!ANDpre5551gregtech/gt.metaitem.01-30012.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30012.pngNitrogen Cel;N
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cel
+16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
 25

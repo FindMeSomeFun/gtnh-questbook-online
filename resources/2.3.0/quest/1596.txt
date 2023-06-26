@@ -1,7 +1,7 @@
-1596witchery/ingredient-36.png0Odour of Purity in Dreams360For later use do a few Odour of Purity.ANDpre15860witchery/distilleryidle-0.png15900witchery/ingredient-14.pngrewardsItemwitchery/ingredient-27.pngClay Jar
-8Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1596witchery/ingredient-36.png0Odour of Purity in Dreams360For later use do a few Odour of Purity.ANDpre15860witchery/distilleryidle-0.png15900witchery/ingredient-14.pngrewardsItemwitchery/ingredient-27.pngClay Ja
+8Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
 3tasksANDLocationDIM/55-.pngSpirit World
-1Optionalwitchery/witchsapling-2.pngHawthorn Sapling;Burn Time: 100
-64witchery/ingredient-27.pngClay Jar
-16Retrievalwitchery/ingredient-36.pngOdour of Purity
+1Optionalwitchery/witchsapling-2.pngHawthorn Saplin;Burn Time: 100
+64witchery/ingredient-27.pngClay Ja
+16Retrievalwitchery/ingredient-36.pngOdour of Purit
 16

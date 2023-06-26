@@ -1,7 +1,7 @@
-1660gregtech/gt.metaitem.01-17635.png1§9§lStyrene-Butadiene Rubber Sheet6-1Add sulfur to the raw dust to get molten styrene-butadiene rubber, then solidify it to get sheets.ANDpre16221gregtech/gt.metaitem.01-2634.pngrewardsChoicegregtech/gt.metaitem.01-30646.pngButadiene Cell;C\u2084H\u2086
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-2634.pngRaw Styrene-Butadiene Rubber Dust;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
-36gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
-4Retrievalgregtech/gt.metaitem.01-17635.pngStyrene-Butadiene Rubber Sheet;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
+1660gregtech/gt.metaitem.01-17635.png1§9§lStyrene-Butadiene Rubber Sheet6-1Add sulfur to the raw dust to get molten styrene-butadiene rubber, then solidify it to get sheets.ANDpre16221gregtech/gt.metaitem.01-2634.pngrewardsChoicegregtech/gt.metaitem.01-30646.pngButadiene Cel;C\u2084H\u2086
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5tasksANDOptionalgregtech/gt.metaitem.01-2634.pngRaw Styrene-Butadiene Rubber Dus;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
+36gregtech/gt.metaitem.01-2022.pngSulfur Dus;S;Burn Time: 1600
+4Retrievalgregtech/gt.metaitem.01-17635.pngStyrene-Butadiene Rubber Shee;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
 36

@@ -1,9 +1,9 @@
 1113Forestry/frameImpregnated-0.png0Impregnated Frames28-1Impregnated Frames are even better than untreated Frames. 
-Each frame doubles the bee's productivity. It has a longer durability than the untreated frame, but a shorter one compared to the proven frame.ANDpre5020Forestry/apiculture-2.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/honeyDrop-0.pngHoney Drop
-32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
-5tasksANDOptionalRailcraft/slab-38.pngCreosote Block Slab;Mobs cannot Spawn on this Block
-9harvestcraft/wovencottonItem-0.pngWoven Cotton
-3Forestry/oakStick-0.pngImpregnated Stick
-15RetrievalForestry/frameImpregnated-0.pngImpregnated Frame
+Each frame doubles the bee's productivity. It has a longer durability than the untreated frame, but a shorter one compared to the proven frame.ANDpre5020Forestry/apiculture-2.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/honeyDrop-0.pngHoney Dro
+32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
+5tasksANDOptionalRailcraft/slab-38.pngCreosote Block Sla;Mobs cannot Spawn on this Block
+9harvestcraft/wovencottonItem-0.pngWoven Cotto
+3Forestry/oakStick-0.pngImpregnated Stic
+15RetrievalForestry/frameImpregnated-0.pngImpregnated Fram
 3

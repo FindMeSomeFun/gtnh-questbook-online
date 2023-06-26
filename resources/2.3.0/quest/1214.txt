@@ -1,14 +1,14 @@
-1214Forestry/engine-4.png0Clockwork Engine16-1Producing RF Power by hand is a good idea for making one or two recipes in the Forestry machines. The turrets can be charged with it too.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11310.pngCupronickel Ingot;CuNi
-8minecraft/redstone-0.pngRedstone
-16minecraft/redstone_torch-0.pngRedstone Torch
-8enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-17086.pngGold Plate;Au
-2gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-1gregtech/gt.metaitem.02-24304.pngWrought Iron Spring;Fe
-2gregtech/gt.metaitem.02-31304.pngWrought Iron Gear;Fe
-2Forestry/sturdyMachine-0.pngSturdy Casing
-1minecraft/piston-0.pngPiston
-1RetrievalForestry/engine-4.pngClockwork Engine
+1214Forestry/engine-4.png0Clockwork Engine16-1Producing RF Power by hand is a good idea for making one or two recipes in the Forestry machines. The turrets can be charged with it too.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11310.pngCupronickel Ingo;CuNi
+8minecraft/redstone-0.pngRedston
+16minecraft/redstone_torch-0.pngRedstone Torc
+8enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+15tasksANDOptionalgregtech/gt.metaitem.01-17086.pngGold Plat;Au
+2gregtech/gt.metaitem.01-17526.pngLapis Plat;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+1gregtech/gt.metaitem.02-24304.pngWrought Iron Sprin;Fe
+2gregtech/gt.metaitem.02-31304.pngWrought Iron Gea;Fe
+2Forestry/sturdyMachine-0.pngSturdy Casin
+1minecraft/piston-0.pngPisto
+1RetrievalForestry/engine-4.pngClockwork Engin
 1

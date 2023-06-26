@@ -1,6 +1,6 @@
-2807compactkineticgenerators/BlockCkg-4.png0§9§lKinetic Water Power EV19-1This is the EV version, it works the same.ANDpre8611gregtech/gt.metaitem.01-11316.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-4gregtech/gt.metaitem.01-32603.pngElectric Motor
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalcompactkineticgenerators/BlockCkg-4.pngLow Kinetic Water Generator;Power Output: 0-4.0x KU/t max
+2807compactkineticgenerators/BlockCkg-4.png0§9§lKinetic Water Power EV19-1This is the EV version, it works the same.ANDpre8611gregtech/gt.metaitem.01-11316.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32704.pngWorkstatio;An Extreme Circuit;EV-Tier
+4gregtech/gt.metaitem.01-32603.pngElectric Motor (EV
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalcompactkineticgenerators/BlockCkg-4.pngLow Kinetic Water Generato;Power Output: 0-4.0x KU/t max
 1

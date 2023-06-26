@@ -2,8 +2,8 @@
 
 Each cast costs 0.2 Ignis + 0.2 Perditio. With Corrosive each cast will cost additionally 0.2 Aqua + 0.3 Ignis
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2841Thaumcraft/ItemEldritchObject-3.png13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
-2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalTaintedMagic/ItemFocusEldritch-0.pngWand Focus: Dark Matter;Vis per cast; Aer x 1.5; Ignis x 2.5; Perditio x 2.5;150 Attack Damage (When Equipped);Staff gives x1.5 Damage
+This focus can be upgraded at the Focal Manipulator.ANDpre2841Thaumcraft/ItemEldritchObject-3.png13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
+2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+5tasksANDRetrievalTaintedMagic/ItemFocusEldritch-0.pngWand Focus: Dark Matte;Vis per cast; Aer x 1.5; Ignis x 2.5; Perditio x 2.5;150 Attack Damage (When Equipped);Staff gives x1.5 Damage
 1

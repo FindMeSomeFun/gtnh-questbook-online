@@ -2,17 +2,17 @@
 
 This one will require the same block placement, but replaces LuV casings with fusion machine casings, superconducting coil blocks with fusion coil blocks, and uses ZPM tier hatches. 
 
-This reactor can handle recipes up to 320M EU at startup. In addition, if you perform a mkI recipe on a mkII, you will overclock it. Fusion overclocking is different than normal GT. It will take 2x the power, but the recipe will go 2x faster.ANDpre12131gregtech/gt.blockmetal3-3.png26221gregtech/gt.metaitem.01-32676.png26271gregtech/gt.blockmachines-47.png26311gregtech/gt.metaitem.03-32162.pngrewardsChoicegregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe;A Super Circuit;UV-Tier
-4gregtech/gt.metaitem.01-32607.pngElectric Motor
-4gregtech/gt.metaitem.01-32616.pngElectric Pump;131,072 L/t (2,621,440 L/s) as Cover
-2gregtech/gt.metaitem.01-32636.pngConveyor Module;4 stacks every 1/20 sec (as Cover)
-2gregtech/gt.metaitem.01-32646.pngElectric Piston
-2gregtech/gt.blockmachines-2420.png1x Superconductor ZPM Wire;Max Voltage: 131,072 (ZPM);Max Amperage: 24;Loss/Meter/Ampere: 0 EU-Volt
-64Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-2tasksANDOptionalgregtech/gt.blockmachines-47.pngZPM Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 131,072 (ZPM);Capacity: 1,049,088 EU
-1gregtech/gt.blockmachines-67.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 1,024,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1gregtech/gt.blockmachines-57.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 1,024,000L
-2Optionalgregtech/gt.blockcasings4-6.pngFusion Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32gregtech/gt.blockcasings4-7.pngFusion Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32Retrievalgregtech/gt.blockmachines-1194.pngFusion Control Computer Mark II;Machine Type: Fusion Reactor;It''s over 9000!!!;Controller block for the Fusion Reactor Mk II;8192EU/t and 20M EU capacity per Energy Hatch;If the recipe has a startup cost greater than the;number of energy hatches * cap, you can''t do it;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+This reactor can handle recipes up to 320M EU at startup. In addition, if you perform a mkI recipe on a mkII, you will overclock it. Fusion overclocking is different than normal GT. It will take 2x the power, but the recipe will go 2x faster.ANDpre12131gregtech/gt.blockmetal3-3.png26221gregtech/gt.metaitem.01-32676.png26271gregtech/gt.blockmachines-47.png26311gregtech/gt.metaitem.03-32162.pngrewardsChoicegregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainfram;A Super Circuit;UV-Tier
+4gregtech/gt.metaitem.01-32607.pngElectric Motor (ZPM
+4gregtech/gt.metaitem.01-32616.pngElectric Pump (ZPM;131,072 L/t (2,621,440 L/s) as Cover
+2gregtech/gt.metaitem.01-32636.pngConveyor Module (ZPM;4 stacks every 1/20 sec (as Cover)
+2gregtech/gt.metaitem.01-32646.pngElectric Piston (ZPM
+2gregtech/gt.blockmachines-2420.png1x Superconductor ZPM Wir;Max Voltage: 131,072 (ZPM);Max Amperage: 24;Loss/Meter/Ampere: 0 EU-Volt
+64Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+2tasksANDOptionalgregtech/gt.blockmachines-47.pngZPM Energy Hatc;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 131,072 (ZPM);Capacity: 1,049,088 EU
+1gregtech/gt.blockmachines-67.pngOutput Hatch (ZPM;Fluid Output for Multiblocks;Capacity: 1,024,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
+1gregtech/gt.blockmachines-57.pngInput Hatch (ZPM;Fluid Input for Multiblocks;Capacity: 1,024,000L
+2Optionalgregtech/gt.blockcasings4-6.pngFusion Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32gregtech/gt.blockcasings4-7.pngFusion Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32Retrievalgregtech/gt.blockmachines-1194.pngFusion Control Computer Mark I;Machine Type: Fusion Reactor;It''s over 9000!!!;Controller block for the Fusion Reactor Mk II;8192EU/t and 20M EU capacity per Energy Hatch;If the recipe has a startup cost greater than the;number of energy hatches * cap, you can''t do it;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

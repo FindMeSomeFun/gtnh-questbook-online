@@ -2,9 +2,9 @@
 
 Some of the materials are made in the ABS. Maybe its time to add a few.
 
-§3If you have not gotten any strontium yet, you can obtain it from strontium oxide based on Rare Earth 3, from spessartine froth or from a Deep Dark void miner.ANDpre27170bartworks/BioLabParts-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32181.pngOptical SMD Capacitor;Highly Advanced Electronic Component
-64gregtech/gt.metaitem.03-32179.pngOptical SMD Diode;Highly Advanced Electronic Component
-64gregtech/gt.metaitem.03-32178.pngOptical SMD Resistor;Highly Advanced Electronic Component
-64gregtech/gt.metaitem.03-32180.pngOptical SMD Transistor;Highly Advanced Electronic Component
-64gregtech/gt.metaitem.03-32184.pngOptical SMD Inductor;Highly Advanced Electronic Component
+§3If you have not gotten any strontium yet, you can obtain it from strontium oxide based on Rare Earth 3, from spessartine froth or from a Deep Dark void miner.ANDpre27170bartworks/BioLabParts-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32181.pngOptical SMD Capacito;Highly Advanced Electronic Component
+64gregtech/gt.metaitem.03-32179.pngOptical SMD Diod;Highly Advanced Electronic Component
+64gregtech/gt.metaitem.03-32178.pngOptical SMD Resisto;Highly Advanced Electronic Component
+64gregtech/gt.metaitem.03-32180.pngOptical SMD Transisto;Highly Advanced Electronic Component
+64gregtech/gt.metaitem.03-32184.pngOptical SMD Inducto;Highly Advanced Electronic Component
 64

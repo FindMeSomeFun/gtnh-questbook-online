@@ -1,9 +1,9 @@
-2976gregtech/gt.metaitem.01-2037.png0§9§lGallium and more6-1Centrifuge the Bauxite Slag to get the remaining desired products.ANDpre29740gregtech/gt.metaitem.01-2413.pngrewardsChoicegregtech/gt.metaitem.01-2037.pngGallium Dust;Ga
-4enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-2037.pngGallium Dust;Ga
-1gregtech/gt.metaitem.01-2375.pngRutile Dust;TiO\u2082
-1gregtech/gt.metaitem.01-2622.pngQuicklime Dust;CaO
-1gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
-1gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
+2976gregtech/gt.metaitem.01-2037.png0§9§lGallium and more6-1Centrifuge the Bauxite Slag to get the remaining desired products.ANDpre29740gregtech/gt.metaitem.01-2413.pngrewardsChoicegregtech/gt.metaitem.01-2037.pngGallium Dus;Ga
+4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5tasksANDRetrievalgregtech/gt.metaitem.01-2037.pngGallium Dus;Ga
+1gregtech/gt.metaitem.01-2375.pngRutile Dus;TiO\u2082
+1gregtech/gt.metaitem.01-2622.pngQuicklime Dus;CaO
+1gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dus;SiO\u2082
+1gregtech/gt.metaitem.01-2032.pngIron Dus;Fe
 1

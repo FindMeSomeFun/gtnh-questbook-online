@@ -1,7 +1,7 @@
 2422witchery/crittersnare-0.png0PETA Approved*36-1To make Critter Snares, first you need to arrange Alder Saplings in the cardinal directions around a Cobweb above a block of water. Then get a zombie to walk onto it and right-click the Cobweb with your Mutating Sprig.
 This will change the Saplings into the needed Critter Snares. Do this twice.
 
-§3* May not be PETA approvedANDpre23870witchery/ingredient-82.png24190witchery/ingredient-23.pngrewardsItemenhancedlootbags/lootbag-53.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-1tasksANDRetrievalwitchery/crittersnare-0.pngCritter Snare
+§3* May not be PETA approvedANDpre23870witchery/ingredient-82.png24190witchery/ingredient-23.pngrewardsItemenhancedlootbags/lootbag-53.pngLootBag (Witchery Adept;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+1tasksANDRetrievalwitchery/crittersnare-0.pngCritter Snar
 8

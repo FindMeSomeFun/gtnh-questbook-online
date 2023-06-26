@@ -1,4 +1,4 @@
-975gregtech/gt.metaitem.01-30715.png0Methane4024000Want some methane? Buy some!ANDpre6440gregtech/gt.metaitem.01-30673.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
-16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
-16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+975gregtech/gt.metaitem.01-30715.png0Methane4024000Want some methane? Buy some!ANDpre6440gregtech/gt.metaitem.01-30673.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30715.pngMethane Cel;CH\u2084
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cel
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
 5

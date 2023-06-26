@@ -1,4 +1,4 @@
-2414StorageDrawers/upgradeVoid-0.png0§6§lToo Many Items? Unpossible!5-1Too many items getting you down? Just slap this badboy on a drawer, and any items you put in over the maximum will be automatically voided for you! More useful in combination with a Drawer Controller admittedly.ANDpre10811gregtech/gt.blockmachines-222.pngrewardsItemStorageDrawers/upgradeVoid-0.pngVoid Upgrade;Destroys excess items
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalStorageDrawers/upgradeVoid-0.pngVoid Upgrade;Destroys excess items
+2414StorageDrawers/upgradeVoid-0.png0§6§lToo Many Items? Unpossible!5-1Too many items getting you down? Just slap this badboy on a drawer, and any items you put in over the maximum will be automatically voided for you! More useful in combination with a Drawer Controller admittedly.ANDpre10811gregtech/gt.blockmachines-222.pngrewardsItemStorageDrawers/upgradeVoid-0.pngVoid Upgrad;Destroys excess items
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalStorageDrawers/upgradeVoid-0.pngVoid Upgrad;Destroys excess items
 1

@@ -1,6 +1,6 @@
 1906gregtech/gt.blockmachines-333.png0§9§lRecycle for the Environment6-1If you have too much wood, saplings, netherrack or other garbage, you can recycle it and get scrap §3(this does not have a 100% chance)§r. Scrap can be used to make UUAmplifier to make UUMatter in 1/4 the time, saving you a significant amount of energy.
 
-Certain items such as cobblestone, stone, and tiny/small dusts are too easy to make and don't give any scrap. But otherwise any items can be recycled to get scrap.ANDpre10141gregtech/gt.metaitem.01-32704.pngrewardsItemIC2/itemScrapbox-0.pngScrap Box;Burn Time: 3150
-64Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-331.pngBasic Recycler;Compress, burn, obliterate and filter EVERYTHING;Voltage IN: 32 (LV);Capacity: 2,048 EU
+Certain items such as cobblestone, stone, and tiny/small dusts are too easy to make and don't give any scrap. But otherwise any items can be recycled to get scrap.ANDpre10141gregtech/gt.metaitem.01-32704.pngrewardsItemIC2/itemScrapbox-0.pngScrap Bo;Burn Time: 3150
+64Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDRetrievalgregtech/gt.blockmachines-331.pngBasic Recycle;Compress, burn, obliterate and filter EVERYTHING;Voltage IN: 32 (LV);Capacity: 2,048 EU
 4

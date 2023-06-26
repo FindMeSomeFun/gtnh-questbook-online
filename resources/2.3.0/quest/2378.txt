@@ -1,13 +1,13 @@
 2378HardcoreEnderExpansion/curse_amulet-0.png0Curse Amulet30-1The Curse Amulet reveals all nearby Curses placed on blocks and depletes Curses quicker when held.
 
-It is created by throwing End Powder, Gold Ingot, Ectoplasm and String into Ender Goo.ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsItemHardcoreEnderExpansion/living_matter-0.pngLiving Matter
-1enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-3dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-3tasksANDOptionalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
-1HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-1minecraft/gold_ingot-0.pngGold Ingot
-1minecraft/string-0.pngString
-1HardcoreEnderExpansion/bucket_ender_goo-0.pngEnder Goo Bucket
-1RetrievalHardcoreEnderExpansion/curse_amulet-0.pngCurse Amulet
+It is created by throwing End Powder, Gold Ingot, Ectoplasm and String into Ender Goo.ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsItemHardcoreEnderExpansion/living_matter-0.pngLiving Matte
+1enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+3dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+3tasksANDOptionalHardcoreEnderExpansion/end_powder-0.pngEnd Powde
+1HardcoreEnderExpansion/endoplasm-0.pngEctoplas
+1minecraft/gold_ingot-0.pngGold Ingo
+1minecraft/string-0.pngStrin
+1HardcoreEnderExpansion/bucket_ender_goo-0.pngEnder Goo Bucke
+1RetrievalHardcoreEnderExpansion/curse_amulet-0.pngCurse Amule
 1

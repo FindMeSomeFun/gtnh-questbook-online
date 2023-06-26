@@ -1,8 +1,8 @@
-1152TConstruct/bowstring-2.png0§5§lFiery Bowstring14-1Why not upgrade your bowstring too? You got some from the last quest, but will need to find some more in the Nether by killing spiders. Craft some fiery bowstring with it.ANDpre11500TConstruct/Crossbow-0-288.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot;Ai
-3enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalNatura/barleyFood-7.pngFlamestring;Somewhat more durable than string
-3OptionalTConstruct/woodPattern-23.pngBowstring Pattern;Material Cost: 3
-1RetrievalTConstruct/bowstring-2.pngFiery Bowstring;Draw Speed: 1.1x;Durability: 1.2x;Arrow Speed: 1.2x;Parts can be replaced
+1152TConstruct/bowstring-2.png0§5§lFiery Bowstring14-1Why not upgrade your bowstring too? You got some from the last quest, but will need to find some more in the Nether by killing spiders. Craft some fiery bowstring with it.ANDpre11500TConstruct/Crossbow-0-288.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingo;Ai
+3enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDOptionalNatura/barleyFood-7.pngFlamestrin;Somewhat more durable than string
+3OptionalTConstruct/woodPattern-23.pngBowstring Patter;Material Cost: 3
+1RetrievalTConstruct/bowstring-2.pngFiery Bowstrin;Draw Speed: 1.1x;Durability: 1.2x;Arrow Speed: 1.2x;Parts can be replaced
 1

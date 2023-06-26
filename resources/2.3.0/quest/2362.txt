@@ -1,18 +1,18 @@
 2362HardcoreEnderExpansion/blank_gem-0.png0Blank Gem30-1The Blank Gem is used solely to create higher level Gems.
-ANDpre23530HardcoreEnderExpansion/instability_orb_ore-0.pngrewardsChoicegregtech/gt.metaitem.98-4.pngEnder Goo Cell
-16HardcoreEnderExpansion/essence-0.pngDragon Essence
-8HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-4HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-4HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-16enhancedlootbags/lootbag-57.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
-1tasksANDOptionalHardcoreEnderExpansion/endium_block-0.pngEndium Block
-1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-8HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-4HardcoreEnderExpansion/essence-0.pngDragon Essence
-16HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-16gregtech/gt.metaitem.98-4.pngEnder Goo Cell
-10RetrievalHardcoreEnderExpansion/blank_gem-0.pngBlank Gem
+ANDpre23530HardcoreEnderExpansion/instability_orb_ore-0.pngrewardsChoicegregtech/gt.metaitem.98-4.pngEnder Goo Cel
+16HardcoreEnderExpansion/essence-0.pngDragon Essenc
+8HardcoreEnderExpansion/endoplasm-0.pngEctoplas
+4HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
+4HardcoreEnderExpansion/end_powder-0.pngEnd Powde
+16enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
+1tasksANDOptionalHardcoreEnderExpansion/endium_block-0.pngEndium Bloc
+1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
+8HardcoreEnderExpansion/endoplasm-0.pngEctoplas
+4HardcoreEnderExpansion/essence-0.pngDragon Essenc
+16HardcoreEnderExpansion/end_powder-0.pngEnd Powde
+16gregtech/gt.metaitem.98-4.pngEnder Goo Cel
+10RetrievalHardcoreEnderExpansion/blank_gem-0.pngBlank Ge
 1

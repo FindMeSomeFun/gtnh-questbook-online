@@ -1,11 +1,11 @@
-1649witchery/ingredient-106.png0Books Are For Nerds...36-1...And sexy male librarians. And also smart witches who want to learn their way around. Craft the first group of Witchery books, or find them in a village.ANDpre3320witchery/witchesovenidle-0.png3340witchery/cauldron-0.pngrewardsChoiceminecraft/book-0.pngBook
-16witchery/ingredient-21.pngBelladonna Flower
-16enhancedlootbags/lootbag-52.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
-5tasksANDRetrievalwitchery/ingredient-81.pngWitchcraft: Herbology
-1witchery/ingredient-106.pngBook of Biomes
-1witchery/ingredient-127.pngWitchcraft: Conjuration & Fetishes
-1witchery/ingredient-46.pngWitchcraft: Collecting Fumes
-1witchery/cauldronbook-0.pngWitches'' Brews;The definitive guide to cauldrons and potion brewing.
+1649witchery/ingredient-106.png0Books Are For Nerds...36-1...And sexy male librarians. And also smart witches who want to learn their way around. Craft the first group of Witchery books, or find them in a village.ANDpre3320witchery/witchesovenidle-0.png3340witchery/cauldron-0.pngrewardsChoiceminecraft/book-0.pngBoo
+16witchery/ingredient-21.pngBelladonna Flowe
+16enhancedlootbags/lootbag-52.pngLootBag (Witchery Novice;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10
+5tasksANDRetrievalwitchery/ingredient-81.pngWitchcraft: Herbolog
+1witchery/ingredient-106.pngBook of Biome
+1witchery/ingredient-127.pngWitchcraft: Conjuration & Fetishe
+1witchery/ingredient-46.pngWitchcraft: Collecting Fume
+1witchery/cauldronbook-0.pngWitches'' Brew;The definitive guide to cauldrons and potion brewing.
 1

@@ -1,9 +1,9 @@
 734IC2/blockMachine-6.png0§6§lWay One: IC2 Fluid Canner5-1The first way you get biomass out of bio chaff is to use the IC2 Fluid Canner. One bucket of water and one bio chaff gives one bucket of biomass.
 
-§4This option is not really recommended. You should focus on GT machines, not IC2. It also has some buggy interaction with normal cells, you might need to use universal cells.ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-1gregtech/gt.metaitem.01-28880.pngRubber Ring;C\u2085H\u2088
-8enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalIC2/blockMachine-6.pngFluid/Solid Canning Machine;Power 4 EU/t, 32 EU/t max
+§4This option is not really recommended. You should focus on GT machines, not IC2. It also has some buggy interaction with normal cells, you might need to use universal cells.ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1246.png1x Tin Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+4IC2/itemPartCircuit-0.pngElectronic Circui;LV-tier
+1gregtech/gt.metaitem.01-28880.pngRubber Rin;C\u2085H\u2088
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalIC2/blockMachine-6.pngFluid/Solid Canning Machin;Power 4 EU/t, 32 EU/t max
 1

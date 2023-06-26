@@ -1,13 +1,13 @@
-2553HardcoreEnderExpansion/spawn_eggs-12.png0Time to kill (Haunted Miners)39864000Haunted miners are the flying fire devils. They shoot you into the abyss with their bazookas.ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItembetterquesting/extra_life-1.pngHalf Heart
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5Choicedreamcraft/item.RuneOfPowerFragment-0.pngRune of Power Fragment
-3dreamcraft/item.RuneOfAgilityFragment-0.pngRune of Agility Fragment
-3dreamcraft/item.RuneOfVigorFragment-0.pngRune of Vigor Fragment
-3dreamcraft/item.RuneOfDefenseFragment-0.pngRune of Defense Fragment
-3dreamcraft/item.RuneOfMagicFragment-0.pngRune of Magic Fragment
-3dreamcraft/item.RuneOfVoidFragment-0.pngRune of Void Fragment
+2553HardcoreEnderExpansion/spawn_eggs-12.png0Time to kill (Haunted Miners)39864000Haunted miners are the flying fire devils. They shoot you into the abyss with their bazookas.ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItembetterquesting/extra_life-1.pngHalf Hear
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5Choicedreamcraft/item.RuneOfPowerFragment-0.pngRune of Power Fragmen
+3dreamcraft/item.RuneOfAgilityFragment-0.pngRune of Agility Fragmen
+3dreamcraft/item.RuneOfVigorFragment-0.pngRune of Vigor Fragmen
+3dreamcraft/item.RuneOfDefenseFragment-0.pngRune of Defense Fragmen
+3dreamcraft/item.RuneOfMagicFragment-0.pngRune of Magic Fragmen
+3dreamcraft/item.RuneOfVoidFragment-0.pngRune of Void Fragmen
 1tasksANDHuntmobs/HardcoreEnderExpansion-HauntedMiner-.pngHaunted Miner
 25

@@ -1,6 +1,6 @@
 3115gregtech/gt.metaitem.01-30672.png0Vinegar into Acetone22-1From Wood Vinegar, one of the useful outputs you can walk away with is Acetone. It's not very easy to craft, needing Calcium Dust and Acetic Acid, which needs Methanol or Hydrogen... instead of all that, you can get it right here, alongside some of the other chemicals in this family tree. 
 
-What is it for, though? Simple: Epoxy Resin, Cetane-Boosted Diesel, Raw Gasoline and maybe some up-and-coming glue. Want it? Get it, it'll surely prove useful.ANDpre31140gregtech/gt.metaitem.01-30675.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-2ItemtasksANDRetrievalgregtech/gt.metaitem.01-30672.pngAcetone Cell;C\u2083H\u2086O
+What is it for, though? Simple: Epoxy Resin, Cetane-Boosted Diesel, Raw Gasoline and maybe some up-and-coming glue. Want it? Get it, it'll surely prove useful.ANDpre31140gregtech/gt.metaitem.01-30675.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+2ItemtasksANDRetrievalgregtech/gt.metaitem.01-30672.pngAcetone Cel;C\u2083H\u2086O
 64

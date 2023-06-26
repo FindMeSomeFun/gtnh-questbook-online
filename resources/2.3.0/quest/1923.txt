@@ -1,4 +1,4 @@
-1923gregtech/gt.blockmachines-880.png0Not Enough Amps?20-1How about 4x more? A Hi-Amp transformer will transform 4A to 16A. Great for setting up a large power grid and locating polluting power generators further from your base.ANDpre19220gregtech/gt.blockmachines-23.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-880.pngHV Hi-Amp Transformer;EV -> HV (Use Soft Mallet to invert);Accepts 4A and outputs 16A;Toggle 2A/8A half-mode with Screwdriver;Added by: Alkalus - [GT++];Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 16;Capacity: 36,864 EU
+1923gregtech/gt.blockmachines-880.png0Not Enough Amps?20-1How about 4x more? A Hi-Amp transformer will transform 4A to 16A. Great for setting up a large power grid and locating polluting power generators further from your base.ANDpre19220gregtech/gt.blockmachines-23.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.blockmachines-880.pngHV Hi-Amp Transforme;EV -> HV (Use Soft Mallet to invert);Accepts 4A and outputs 16A;Toggle 2A/8A half-mode with Screwdriver;Added by: Alkalus - [GT++];Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 16;Capacity: 36,864 EU
 1

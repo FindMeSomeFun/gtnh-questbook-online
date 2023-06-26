@@ -1,4 +1,4 @@
-3269Botania/specialFlower-0-soarleander.png0Chickenization35-1The soarleander generates mana by consuming anything chicken-related, including entire chickens.ANDpre32640Botania/specialFlower-0-gourmaryllis.pngrewardsItemOpenBlocks/trophy-0-Chicken.pngChicken Trophy
-1dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
-5tasksANDRetrievalBotania/specialFlower-0-soarleander.pngSoarleander;Just hook it up to my &oveeeeins!&r;[Avaritia]
+3269Botania/specialFlower-0-soarleander.png0Chickenization35-1The soarleander generates mana by consuming anything chicken-related, including entire chickens.ANDpre32640Botania/specialFlower-0-gourmaryllis.pngrewardsItemOpenBlocks/trophy-0-Chicken.pngChicken Troph
+1dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100
+5tasksANDRetrievalBotania/specialFlower-0-soarleander.pngSoarleande;Just hook it up to my &oveeeeins!&r;[Avaritia]
 1

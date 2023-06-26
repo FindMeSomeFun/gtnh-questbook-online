@@ -1,4 +1,4 @@
-216gregtech/gt.blockmachines-1191.png0Portable Clean Energy IV19-1This is the IV version.ANDpre16651gregtech/gt.metaitem.01-11374.png17071gregtech/gt.metaitem.03-32088.pngrewardsItemgregtech/gt.metaitem.01-23326.pngEnriched Naquadah Rod;Nq+
-16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalgregtech/gt.blockmachines-1191.pngNaquadah Reactor Mark II;Requires Enriched Naquadah Rods;Fuel Efficiency: 100%;Voltage OUT: 8,192 (IV);Capacity: 655,872 EU
+216gregtech/gt.blockmachines-1191.png0Portable Clean Energy IV19-1This is the IV version.ANDpre16651gregtech/gt.metaitem.01-11374.png17071gregtech/gt.metaitem.03-32088.pngrewardsItemgregtech/gt.metaitem.01-23326.pngEnriched Naquadah Ro;Nq+
+16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDRetrievalgregtech/gt.blockmachines-1191.pngNaquadah Reactor Mark I;Requires Enriched Naquadah Rods;Fuel Efficiency: 100%;Voltage OUT: 8,192 (IV);Capacity: 655,872 EU
 1

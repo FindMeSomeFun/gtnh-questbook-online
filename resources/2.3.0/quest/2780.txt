@@ -1,2 +1,2 @@
-2780gregtech/gt.blockmachines-1197.png0Pocket Plasma IV19-1This is the IV version.ANDpre12121gregtech/gt.blockmachines-1193.png12131gregtech/gt.blockmetal3-3.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-1197.pngPlasma Generator Mark II;Plasma into energy;Fuel Efficiency: 60%;Voltage OUT: 8,192 (IV);Capacity: 655,872 EU
+2780gregtech/gt.blockmachines-1197.png0Pocket Plasma IV19-1This is the IV version.ANDpre12121gregtech/gt.blockmachines-1193.png12131gregtech/gt.blockmetal3-3.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-1197.pngPlasma Generator Mark I;Plasma into energy;Fuel Efficiency: 60%;Voltage OUT: 8,192 (IV);Capacity: 655,872 EU
 1

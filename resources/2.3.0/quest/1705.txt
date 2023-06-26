@@ -1,13 +1,13 @@
-1705gregtech/gt.metaitem.03-32086.png1§b§lQuantumprocessor Assembly8-1Quantumprocessor Assembly is an IV Circuit.ANDpre16781gregtech/gt.metaitem.03-32085.pngrewardsChoicegregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
-2gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-32gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
-24enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
-4gregtech/gt.metaitem.03-32085.pngQuantumprocessor;An Extreme Circuit;EV-Tier
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-16gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
-48gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-64gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
-96Retrievalgregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly;An Elite Circuit;IV-Tier
+1705gregtech/gt.metaitem.03-32086.png1§b§lQuantumprocessor Assembly8-1Quantumprocessor Assembly is an IV Circuit.ANDpre16781gregtech/gt.metaitem.03-32085.pngrewardsChoicegregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Boar;A more advanced Circuit Board
+2gregtech/gt.metaitem.03-32020.pngSMD Capacito;Electronic Component
+32gregtech/gt.metaitem.03-32182.pngSMD Inducto;Electronic Component
+24enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Boar;A more advanced Circuit Board
+4gregtech/gt.metaitem.03-32085.pngQuantumprocesso;An Extreme Circuit;EV-Tier
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chi;Integrated Circuit
+16gregtech/gt.metaitem.03-32182.pngSMD Inducto;Electronic Component
+48gregtech/gt.metaitem.03-32020.pngSMD Capacito;Electronic Component
+64gregtech/gt.metaitem.02-19085.pngFine Platinum Wir;Pt
+96Retrievalgregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembl;An Elite Circuit;IV-Tier
 4

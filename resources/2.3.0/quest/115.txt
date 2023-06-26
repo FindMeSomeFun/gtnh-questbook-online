@@ -1,4 +1,4 @@
-115ExtraUtilities/extractor_base-6.png0§5§lBasic Transport: Fluids4-1Just like item nodes, liquid nodes transfer... liquids. But probably the best thing: They can all utilize the same transfer pipe!ANDpre1130ExtraUtilities/pipes-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalExtraUtilities/extractor_base-6.pngTransfer Node
+115ExtraUtilities/extractor_base-6.png0§5§lBasic Transport: Fluids4-1Just like item nodes, liquid nodes transfer... liquids. But probably the best thing: They can all utilize the same transfer pipe!ANDpre1130ExtraUtilities/pipes-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalExtraUtilities/extractor_base-6.pngTransfer Node (Liquids
 1

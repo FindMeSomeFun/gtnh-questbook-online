@@ -2,8 +2,8 @@
 
 You can make the Air Intake Hatch instead of using a Compresser PA, it's way better.
 
-Don't bother with the DT recipe unless you need the other fluids from it, it's not nearly as good as centrifuging. You also need the Liquid Air Fluid Hatch (only works with Liquid Air!) and Giant Output Hatch when you want to do that.ANDpre14911gregtech/gt.metaitem.01-11372.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30024.pngArgon Cell;Ar
+Don't bother with the DT recipe unless you need the other fluids from it, it's not nearly as good as centrifuging. You also need the Liquid Air Fluid Hatch (only works with Liquid Air!) and Giant Output Hatch when you want to do that.ANDpre14911gregtech/gt.metaitem.01-11372.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+5tasksANDRetrievalgregtech/gt.metaitem.01-30024.pngArgon Cel;Ar
 16

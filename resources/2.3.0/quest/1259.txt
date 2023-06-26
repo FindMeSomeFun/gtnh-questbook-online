@@ -1,6 +1,6 @@
-1259ae2fc/part_fluid_export-0.png0Filling Tanks27-1Export bus for fluids only.ANDpre13061appliedenergistics2/item.ItemMultiPart-260.pngrewardsChoicegregtech/gt.metaitem.01-17811.pngGlowstone Plate
-16gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-16enhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalae2fc/part_fluid_export-0.pngME Fluid Export Bus
+1259ae2fc/part_fluid_export-0.png0Filling Tanks27-1Export bus for fluids only.ANDpre13061appliedenergistics2/item.ItemMultiPart-260.pngrewardsChoicegregtech/gt.metaitem.01-17811.pngGlowstone Plat
+16gregtech/gt.metaitem.01-17526.pngLapis Plat;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+16enhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalae2fc/part_fluid_export-0.pngME Fluid Export Bu
 2

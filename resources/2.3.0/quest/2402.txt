@@ -2,7 +2,7 @@
 
 Sorry, it only comes in blue!
 
-§3Yes, there are also red crowbars. But they are from railcraft and generally inferior. Better ignore them.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5harvestcraft/friedriceItem-0.pngFried Rice;harvestcraft:friedriceItem
-3tasksANDCraftinggregtech/gt.metatool.01-20-Iron-Iron.pngCrowbar;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 4.0;Mining Speed: 6.0;Dismounts Covers and Rotates Rails;Sharpness I
+§3Yes, there are also red crowbars. But they are from railcraft and generally inferior. Better ignore them.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+5harvestcraft/friedriceItem-0.pngFried Ric;harvestcraft:friedriceItem
+3tasksANDCraftinggregtech/gt.metatool.01-20-Iron-Iron.pngCrowba;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 4.0;Mining Speed: 6.0;Dismounts Covers and Rotates Rails;Sharpness I
 1

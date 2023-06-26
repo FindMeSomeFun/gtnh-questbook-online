@@ -1,11 +1,11 @@
-1088harvestcraft/friedeggItem-0.png0Fried Eggs13-1So easy, skillet and an egg.... fried egg.ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceharvestcraft/butterItem-0.pngButter
-4minecraft/egg-0.pngEgg
-4gregtech/gt.metaitem.01-2817.pngSalt;NaCl
-4harvestcraft/flourItem-0.pngFlour
-8enhancedlootbags/lootbag-29.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalharvestcraft/skilletItem-0.pngSkillet
-1minecraft/egg-0.pngEgg
-4Retrievalharvestcraft/friedeggItem-0.pngFried Egg;harvestcraft:friedeggItem
+1088harvestcraft/friedeggItem-0.png0Fried Eggs13-1So easy, skillet and an egg.... fried egg.ANDpre6650harvestcraft/potItem-0.pngrewardsChoiceharvestcraft/butterItem-0.pngButte
+4minecraft/egg-0.pngEg
+4gregtech/gt.metaitem.01-2817.pngSal;NaCl
+4harvestcraft/flourItem-0.pngFlou
+8enhancedlootbags/lootbag-29.pngLootBag (Slow Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDOptionalharvestcraft/skilletItem-0.pngSkille
+1minecraft/egg-0.pngEg
+4Retrievalharvestcraft/friedeggItem-0.pngFried Eg;harvestcraft:friedeggItem
 4

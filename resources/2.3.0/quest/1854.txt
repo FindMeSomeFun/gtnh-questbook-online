@@ -2,15 +2,15 @@
 
 Use a Forestry Worktable to keep all your recipes together in one spot for easy crafting.
 
-Some sandwiches have better saturation than others, so be sure to check before buying that sapling!ANDpre6360minecraft/bread-0.png6650harvestcraft/potItem-0.pngrewardsItemharvestcraft/cherryjellysandwichItem-0.pngCherry Jelly Sandwich;harvestcraft:cherryjellysandwichItem
-1harvestcraft/blackberryjellysandwichItem-0.pngBlackberry Jelly Sandwich;harvestcraft:blackberryjellysandwichItem
-1harvestcraft/raspberryjellysandwichItem-0.pngRaspberry Jelly Sandwich;harvestcraft:raspberryjellysandwichItem
-1harvestcraft/blueberryjellysandwichItem-0.pngBlueberry Jelly Sandwich;harvestcraft:blueberryjellysandwichItem
-1harvestcraft/watermelonjellysandwichItem-0.pngWatermelon Jelly Sandwich;harvestcraft:watermelonjellysandwichItem
-1tasksANDOptionalminecraft/apple-0.pngApple;minecraft:apple
-4minecraft/sugar-0.pngSugar
-4harvestcraft/saucepanItem-0.pngSaucepan
-1Optionalharvestcraft/applejellyItem-0.pngApple Jelly;harvestcraft:applejellyItem
-4minecraft/bread-0.pngBread;minecraft:bread
-4Retrievalharvestcraft/applejellysandwichItem-0.pngApple Jelly Sandwich;harvestcraft:applejellysandwichItem
+Some sandwiches have better saturation than others, so be sure to check before buying that sapling!ANDpre6360minecraft/bread-0.png6650harvestcraft/potItem-0.pngrewardsItemharvestcraft/cherryjellysandwichItem-0.pngCherry Jelly Sandwic;harvestcraft:cherryjellysandwichItem
+1harvestcraft/blackberryjellysandwichItem-0.pngBlackberry Jelly Sandwic;harvestcraft:blackberryjellysandwichItem
+1harvestcraft/raspberryjellysandwichItem-0.pngRaspberry Jelly Sandwic;harvestcraft:raspberryjellysandwichItem
+1harvestcraft/blueberryjellysandwichItem-0.pngBlueberry Jelly Sandwic;harvestcraft:blueberryjellysandwichItem
+1harvestcraft/watermelonjellysandwichItem-0.pngWatermelon Jelly Sandwic;harvestcraft:watermelonjellysandwichItem
+1tasksANDOptionalminecraft/apple-0.pngAppl;minecraft:apple
+4minecraft/sugar-0.pngSuga
+4harvestcraft/saucepanItem-0.pngSaucepa
+1Optionalharvestcraft/applejellyItem-0.pngApple Jell;harvestcraft:applejellyItem
+4minecraft/bread-0.pngBrea;minecraft:bread
+4Retrievalharvestcraft/applejellysandwichItem-0.pngApple Jelly Sandwic;harvestcraft:applejellysandwichItem
 4

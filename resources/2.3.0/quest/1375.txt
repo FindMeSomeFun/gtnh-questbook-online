@@ -1,7 +1,7 @@
 1375Thaumcraft/FocusTrade-0.png0Wand Focus Equal Trade34-1Wand Focus: Equal Trade is a wand focus added by Thaumcraft 4. It is used to switch out blocks in the world with blocks in the player's inventory. Shift right-clicking on a block with it equipped will attune the focus to the block, making it the substitute block. Left-clicking on another block will replace it with the substitute block. Right-clicking will transform a 5x5 area of blocks that have air on one side. This can go through walls or into caves, so be careful. This range can be extended by using a Focal Manipulator. Each use costs 0.05 ordo 0.05 perditio and 0.05 terra.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/FocusTrade-0.pngWand Focus: Equal Trade;Vis per cast; Ordo x 0.05; Perditio x 0.05; Terra x 0.05
+This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumcraft/FocusTrade-0.pngWand Focus: Equal Trad;Vis per cast; Ordo x 0.05; Perditio x 0.05; Terra x 0.05
 1

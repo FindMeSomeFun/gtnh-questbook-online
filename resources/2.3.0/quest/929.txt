@@ -1,9 +1,9 @@
-929dreamcraft/tile.BloodyIchorium-0.png1Blood Altar Tier 637-1The highest tier of the blood altar is tier 6. You need pillars of blood-soaked ichorium 7 blocks high and on top the crystal cluster blocks made out of demon soul shards.ANDpre3201ThaumicTinkerer/kamiResource-2.png7021AWWayofTime/bloodMagicBaseItems-27.png7031AWWayofTime/bloodMagicBaseItems-28.pngrewardsItemAWWayofTime/AlchemicalWizardrybloodRune-5.pngRune of Acceleration
-8Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
-1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1dreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000"
-1tasksANDOptionalThaumicTinkerer/kamiResource-2.pngIchorium
-56Optionalgregtech/gt.blockmetal8-13.pngBlock of Ichorium
-28RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluster
-4dreamcraft/tile.BloodyIchorium-0.pngBlood-Soaked Ichorium Block;Used for Blood Altar Tier 6 Pillars
+929dreamcraft/tile.BloodyIchorium-0.png1Blood Altar Tier 637-1The highest tier of the blood altar is tier 6. You need pillars of blood-soaked ichorium 7 blocks high and on top the crystal cluster blocks made out of demon soul shards.ANDpre3201ThaumicTinkerer/kamiResource-2.png7021AWWayofTime/bloodMagicBaseItems-27.png7031AWWayofTime/bloodMagicBaseItems-28.pngrewardsItemAWWayofTime/AlchemicalWizardrybloodRune-5.pngRune of Acceleratio
+8Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000
+1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+1dreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000
+1tasksANDOptionalThaumicTinkerer/kamiResource-2.pngIchoriu
+56Optionalgregtech/gt.blockmetal8-13.pngBlock of Ichoriu
+28RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluste
+4dreamcraft/tile.BloodyIchorium-0.pngBlood-Soaked Ichorium Bloc;Used for Blood Altar Tier 6 Pillars
 28

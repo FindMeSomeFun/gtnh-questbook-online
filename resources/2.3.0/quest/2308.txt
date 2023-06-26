@@ -1,4 +1,4 @@
-2308bartworks/gt.bwMetaGenerateddust-55.png1§b§lSalty Metals Are the Worst!8-1Now that you have Palladium Salt, you need to sift it to get Palladium Metallic Powder. You only have a 95% chance to get a dust.ANDpre23031bartworks/gt.bwMetaGeneratedcell-52.pngrewardsItemTGregworks/tGregToolPartToughRod-1514.pngPalladium Tough Tool Rod;Durability Modifier: 3.5x;Parts can be replaced
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-55.pngPalladium Salt Dust;Added by BartWorks
-9Retrievalbartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dust;??Pd??;Added by BartWorks
+2308bartworks/gt.bwMetaGenerateddust-55.png1§b§lSalty Metals Are the Worst!8-1Now that you have Palladium Salt, you need to sift it to get Palladium Metallic Powder. You only have a 95% chance to get a dust.ANDpre23031bartworks/gt.bwMetaGeneratedcell-52.pngrewardsItemTGregworks/tGregToolPartToughRod-1514.pngPalladium Tough Tool Ro;Durability Modifier: 3.5x;Parts can be replaced
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-55.pngPalladium Salt Dus;Added by BartWorks
+9Retrievalbartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dus;??Pd??;Added by BartWorks
 9

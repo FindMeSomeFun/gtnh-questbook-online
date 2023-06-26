@@ -1,5 +1,5 @@
-25minecraft/brick-0.png1§2§lAnother Brick in the Wall2-1Your vision becomes more clear, you'll need bricks for your first multiblock structure. You think that 104 bricks should be enough. However, the bricks you'll need are somewhat special. Make sure to craft the correct ones!ANDpre261dreamcraft/item.WoodenBrickForm-0.pngrewardsItemharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burger;harvestcraft:baconmushroomburgerItem
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-10tasksANDOptionaldreamcraft/item.UnfiredCokeOvenBrick-0.pngUnfired Coke Oven Brick
-104Retrievaldreamcraft/item.CokeOvenBrick-0.pngCoke Oven Brick
+25minecraft/brick-0.png1§2§lAnother Brick in the Wall2-1Your vision becomes more clear, you'll need bricks for your first multiblock structure. You think that 104 bricks should be enough. However, the bricks you'll need are somewhat special. Make sure to craft the correct ones!ANDpre261dreamcraft/item.WoodenBrickForm-0.pngrewardsItemharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burge;harvestcraft:baconmushroomburgerItem
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+10tasksANDOptionaldreamcraft/item.UnfiredCokeOvenBrick-0.pngUnfired Coke Oven Bric
+104Retrievaldreamcraft/item.CokeOvenBrick-0.pngCoke Oven Bric
 104

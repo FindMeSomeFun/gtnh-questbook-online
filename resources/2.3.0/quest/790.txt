@@ -1,7 +1,7 @@
-790dreamcraft/item.NanoCrystal-0.png0Nano Crystal20-1Nano crystals are used for making the nano armor.ANDpre7890IC2/itemBatCrystal-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
-8gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Board;A Good Board
-8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalIC2/itemBatCrystal-26.pngEnergy Crystal;Durability: 1 / 27
-1Retrievaldreamcraft/item.NanoCrystal-0.pngNano Crystal
+790dreamcraft/item.NanoCrystal-0.png0Nano Crystal20-1Nano crystals are used for making the nano armor.ANDpre7890IC2/itemBatCrystal-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32715.pngDiod;Basic Electronic Component
+8gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Boar;A Good Board
+8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalIC2/itemBatCrystal-26.pngEnergy Crysta;Durability: 1 / 27
+1Retrievaldreamcraft/item.NanoCrystal-0.pngNano Crysta
 1

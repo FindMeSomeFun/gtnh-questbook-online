@@ -1,6 +1,6 @@
 543gregtech/gt.blockmachines-421.png1§5§lC9H8O4...NaCl...H2O...4-1Want to make some cetane-boosted diesel, plastic or some chemical dyes? Then it's time to craft a chemical reactor.
 
-§3You can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-421.pngBasic Chemical Reactor;Letting Chemicals react with each other;Voltage IN: 32 (LV);Capacity: 2,048 EU
+§3You can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+3tasksANDRetrievalgregtech/gt.blockmachines-421.pngBasic Chemical Reacto;Letting Chemicals react with each other;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

@@ -1,11 +1,11 @@
-438AWWayofTime/AlchemicalWizardrytile.blockSpellParadigm-0.png0Complex Spell System37-1Unlike the simple spells with foci and paradigm, the complex spell system is incredibly...complex. There are way too much combinations to cover them here, so it's advised to look for the knowledge in other places. However, with the items from this quest, you are able to craft a simple mining spell.ANDpre4241AWWayofTime/magicianBloodOrb-0.pngrewardsChoiceAWWayofTime/incendium-0.pngIncendium;Used in Alchemy
-8AWWayofTime/aquasalus-0.pngAquasalus;Used in Alchemy
-8enhancedlootbags/lootbag-17.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-2tasksANDRetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellParadigm-0.pngParticle Generator
-1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEffect-3.pngEarth Former
-1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellModifier-3.pngEnvironmental Spell Modifier
-1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-0.pngUnstable Spell Empowerer
-1AWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-10.pngUnstable Spell Augmentor
-1RetrievalAWWayofTime/itemComplexSpellCrystal-0.pngComplex Spell Crystal;Crystal of unimaginable power
+438AWWayofTime/AlchemicalWizardrytile.blockSpellParadigm-0.png0Complex Spell System37-1Unlike the simple spells with foci and paradigm, the complex spell system is incredibly...complex. There are way too much combinations to cover them here, so it's advised to look for the knowledge in other places. However, with the items from this quest, you are able to craft a simple mining spell.ANDpre4241AWWayofTime/magicianBloodOrb-0.pngrewardsChoiceAWWayofTime/incendium-0.pngIncendiu;Used in Alchemy
+8AWWayofTime/aquasalus-0.pngAquasalu;Used in Alchemy
+8enhancedlootbags/lootbag-17.pngLootBag (BM Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
+2tasksANDRetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellParadigm-0.pngParticle Generato
+1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEffect-3.pngEarth Forme
+1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellModifier-3.pngEnvironmental Spell Modifie
+1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-0.pngUnstable Spell Empowere
+1AWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-10.pngUnstable Spell Augmento
+1RetrievalAWWayofTime/itemComplexSpellCrystal-0.pngComplex Spell Crysta;Crystal of unimaginable power
 1

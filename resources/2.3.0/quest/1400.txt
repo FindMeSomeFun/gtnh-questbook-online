@@ -1,7 +1,7 @@
 1400ForbiddenMagic/BlinkFocus-0.png0Wand Focus Blink34-1Wand Focus: Blink is a very powerful focus allowing to teleport whenever you click, as long as the destination is less then 50 blocks away from you. But, as there is no teleport cooldown, you can travel extremely fast with it. Consumes 3 Perditio per cast.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalForbiddenMagic/BlinkFocus-0.pngWand Focus: Blink;Vis per cast; Perditio x 3
+This focus can be upgraded at the Focal Manipulator.ANDpre13780Thaumcraft/FocusPortableHole-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1tasksANDRetrievalForbiddenMagic/BlinkFocus-0.pngWand Focus: Blin;Vis per cast; Perditio x 3
 1

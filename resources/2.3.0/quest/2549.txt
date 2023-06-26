@@ -1,7 +1,7 @@
 2549thaumicenergistics/golem.wifi.backpack-0.png0Magical Minions27-1You can use the Wireless Golem Backpack to connect your golem to the network if it's close enough to an access point. See the Thaumonomicon for details.
 
-ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDRetrievalthaumicenergistics/golem.wifi.backpack-0.pngWireless Golem Backpack;Unlinked
+ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2tasksANDRetrievalthaumicenergistics/golem.wifi.backpack-0.pngWireless Golem Backpac;Unlinked
 1

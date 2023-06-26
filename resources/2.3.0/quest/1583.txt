@@ -1,7 +1,7 @@
-1583witchery/ingredient-103.png0Mellifluous Hunger36-1Mellifluous Hunger is an ingredient used in other recipes. It is dropped when a Nightmare is killed.ANDpre15840witchery/ingredient-96.pngrewardsItemminecraft/potion-8258.pngPotion of Swiftness;Speed (8:00);When Applied:;+20% Speed
-1enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-1tasksANDRetrievalwitchery/ingredient-103.pngMellifluous Hunger
+1583witchery/ingredient-103.png0Mellifluous Hunger36-1Mellifluous Hunger is an ingredient used in other recipes. It is dropped when a Nightmare is killed.ANDpre15840witchery/ingredient-96.pngrewardsItemminecraft/potion-8258.pngPotion of Swiftnes;Speed (8:00);When Applied:;+20% Speed
+1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+1tasksANDRetrievalwitchery/ingredient-103.pngMellifluous Hunge
 1

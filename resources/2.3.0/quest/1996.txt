@@ -1,5 +1,5 @@
-1996Thaumcraft/ItemChestplateRobe-0.png0K-Mart Special31-1Every point of vis is critical, so make yourself some magical robes to help conserve how much you use. Later you can make even better robes. They don't offer much in protection, so remember to change before going to hunt!ANDpre19950Thaumcraft/ItemResource-7.pngrewardsItemThaumcraft/blockCustomPlant-5.pngVishroom
-4tasksANDRetrievalThaumcraft/ItemChestplateRobe-0.pngThaumaturge''s Robe;Vis discount: 2%;Protection: 3;Durability: 400/400
-1Thaumcraft/ItemLeggingsRobe-0.pngThaumaturge''s Leggings;Vis discount: 2%;Protection: 2;Durability: 375/375
-1Thaumcraft/ItemBootsRobe-0.pngThaumaturge''s Boots;Vis discount: 1%;Protection: 1;Durability: 325/325
+1996Thaumcraft/ItemChestplateRobe-0.png0K-Mart Special31-1Every point of vis is critical, so make yourself some magical robes to help conserve how much you use. Later you can make even better robes. They don't offer much in protection, so remember to change before going to hunt!ANDpre19950Thaumcraft/ItemResource-7.pngrewardsItemThaumcraft/blockCustomPlant-5.pngVishroo
+4tasksANDRetrievalThaumcraft/ItemChestplateRobe-0.pngThaumaturge''s Rob;Vis discount: 2%;Protection: 3;Durability: 400/400
+1Thaumcraft/ItemLeggingsRobe-0.pngThaumaturge''s Legging;Vis discount: 2%;Protection: 2;Durability: 375/375
+1Thaumcraft/ItemBootsRobe-0.pngThaumaturge''s Boot;Vis discount: 1%;Protection: 1;Durability: 325/325
 1

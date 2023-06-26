@@ -1,4 +1,4 @@
 2938gregtech/gt.blockmachines-32008.png1§6§lNeutron Accelerator17-1It is used to accelerate the NKE. You just need to connect a cable to it and it will keep consuming the energy.
 
-§3PS: You can use a controller cover to stop it.ANDpre29361gregtech/gt.blockmachines-32013.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-32008.pngNeutron Accelerator IV;Input EU to Accelerate the Neutron!;Max EU input: 8192;Max EU consumption: 6553;Every EU can be transformed into 10~20 eV Neutron Kinetic Energy.;Voltage IN: 8,192 (IV);Capacity: 66,048 EU
+§3PS: You can use a controller cover to stop it.ANDpre29361gregtech/gt.blockmachines-32013.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-32008.pngNeutron Accelerator I;Input EU to Accelerate the Neutron!;Max EU input: 8192;Max EU consumption: 6553;Every EU can be transformed into 10~20 eV Neutron Kinetic Energy.;Voltage IN: 8,192 (IV);Capacity: 66,048 EU
 1

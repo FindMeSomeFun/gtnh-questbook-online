@@ -1,3 +1,3 @@
-1616gregtech/gt.blockmachines-1467.png0Silver 2x Cable4024000Want some silver cable? Buy some!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemgregtech/gt.blockmachines-1467.png2x Silver Cable;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
-8tasksANDConsumedreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1616gregtech/gt.blockmachines-1467.png0Silver 2x Cable4024000Want some silver cable? Buy some!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemgregtech/gt.blockmachines-1467.png2x Silver Cabl;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+8tasksANDConsumedreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 8

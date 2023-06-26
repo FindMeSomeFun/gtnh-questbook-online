@@ -1,2 +1,2 @@
-2806compactkineticgenerators/BlockCkg-11.png0§9§lKinetic Power ZPM19-1This is the ZPM version.ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28050compactkineticgenerators/BlockCkg-10.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-11.pngExtreme Kinetic Generator;Power Output: 0-131072 EU/t max;Capacity: 40m EU 
+2806compactkineticgenerators/BlockCkg-11.png0§9§lKinetic Power ZPM19-1This is the ZPM version.ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28050compactkineticgenerators/BlockCkg-10.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-11.pngExtreme Kinetic Generato;Power Output: 0-131072 EU/t max;Capacity: 40m EU 
 1

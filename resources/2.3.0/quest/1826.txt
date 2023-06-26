@@ -1,6 +1,6 @@
-1826minecraft/dye-4.png0L.E.S.U. Upgrade - MV Tier20-1Adding an additional ammount of Cells will not only cause your storage capacity to rise, but also will enable MV Voltage.ANDpre18250IC2/itemDustSmall-9.pngrewardsItemadventurebackpack/adventureBackpack-12.pngAdventure Backpack;Lapis
-1minecraft/dye-4.pngLapis Lazuli
-1enhancedlootbags/lootbag-5-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Added by BartWorks
+1826minecraft/dye-4.png0L.E.S.U. Upgrade - MV Tier20-1Adding an additional ammount of Cells will not only cause your storage capacity to rise, but also will enable MV Voltage.ANDpre18250IC2/itemDustSmall-9.pngrewardsItemadventurebackpack/adventureBackpack-12.pngAdventure Backpac;Lapis
+1minecraft/dye-4.pngLapis Lazul
+1enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Added by BartWorks
 24

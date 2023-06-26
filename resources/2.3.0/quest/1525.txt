@@ -1,8 +1,8 @@
 1525TConstruct/BoltPart-1635-1573.png0§a§lBest Bolts?14-1That meteoric iron you found on the moon, when sent through the EBF, turns into this amazing meteoric steel, able to keep a fine edge. Put some on an Energetic Alloy tool rod to make an awesome bolt. Your next bolt you'll have to figure out yourself.
 
-Use whatever fletching you want.ANDpre1621GalacticraftCore/item.spaceship-0.png9901gregtech/gt.metaitem.01-11366.pngrewardsItemminecraft/spawn_egg-56.pngSpawn Ghast
-1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1tasksANDOptionalTGregworks/tGregToolPartToolRod-1635.pngEnergetic Alloy Tool Rod;Durability Modifier: 2.5x;Parts can be replaced
-1Optionalgregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingot;SpFe\u2085\u2080C
-1RetrievalTConstruct/BoltPart-1635-1573.pngEnergetic Alloy Bolt;Durability: 1805;Break Chance: 0.9%;Weight: 0.11;Parts can be replaced
+Use whatever fletching you want.ANDpre1621GalacticraftCore/item.spaceship-0.png9901gregtech/gt.metaitem.01-11366.pngrewardsItemminecraft/spawn_egg-56.pngSpawn Ghas
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+1tasksANDOptionalTGregworks/tGregToolPartToolRod-1635.pngEnergetic Alloy Tool Ro;Durability Modifier: 2.5x;Parts can be replaced
+1Optionalgregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingo;SpFe\u2085\u2080C
+1RetrievalTConstruct/BoltPart-1635-1573.pngEnergetic Alloy Bol;Durability: 1805;Break Chance: 0.9%;Weight: 0.11;Parts can be replaced
 1

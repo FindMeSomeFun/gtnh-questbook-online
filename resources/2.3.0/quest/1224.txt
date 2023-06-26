@@ -1,11 +1,11 @@
 1224gregtech/gt.metaitem.01-17470.png1§a§lEpoxid7-1Epoxid is needed for Advanced Circuits boards. You need Sodium Hydroxide, Epichlorohydrin and Bispenol A to make it.
 
-You can also use the molten form for some other things you might want to check out.ANDpre12281gregtech/gt.metaitem.01-30648.png12301gregtech/gt.metaitem.01-30669.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-8gregtech/gt.metaitem.01-11067.pngNeodymium Ingot;Nd
-8enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
-108gregtech/gt.metaitem.01-30648.pngEpichlorohydrin Cell;C\u2083H\u2085ClO
-36gregtech/gt.metaitem.01-30669.pngBisphenol A Cell;C\u2081\u2085H\u2081\u2086O\u2082
-18Retrievalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+You can also use the molten form for some other things you might want to check out.ANDpre12281gregtech/gt.metaitem.01-30648.png12301gregtech/gt.metaitem.01-30669.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
+8gregtech/gt.metaitem.01-11067.pngNeodymium Ingo;Nd
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalgregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dus;NaOH
+108gregtech/gt.metaitem.01-30648.pngEpichlorohydrin Cel;C\u2083H\u2085ClO
+36gregtech/gt.metaitem.01-30669.pngBisphenol A Cel;C\u2081\u2085H\u2081\u2086O\u2082
+18Retrievalgregtech/gt.metaitem.01-17470.pngEpoxid Shee;C\u2082\u2081H\u2082\u2084O\u2084
 125

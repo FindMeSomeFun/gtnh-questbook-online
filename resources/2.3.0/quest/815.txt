@@ -1,12 +1,12 @@
-815GalacticraftCore/item.engine-0.png1Rocket Engine24-1Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
-8GalacticraftCore/item.basicItem-7.pngCompressed Tin
-8GalacticraftCore/item.basicItem-11.pngCompressed Iron
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister;Durability: 0 / 1001
-2gregtech/gt.metaitem.01-32731.pngActivity Detector Cover;Gives out Activity as Redstone
-2gregtech/gt.blockcasings3-14.pngSteel Firebox Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-2GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
-4GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
-8RetrievalGalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+815GalacticraftCore/item.engine-0.png1Rocket Engine24-1Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Coppe
+8GalacticraftCore/item.basicItem-7.pngCompressed Ti
+8GalacticraftCore/item.basicItem-11.pngCompressed Iro
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Caniste;Durability: 0 / 1001
+2gregtech/gt.metaitem.01-32731.pngActivity Detector Cove;Gives out Activity as Redstone
+2gregtech/gt.blockcasings3-14.pngSteel Firebox Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120
+4GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plat;Tier 1
+8RetrievalGalacticraftCore/item.engine-0.pngTier 1 Rocket Engin
 2

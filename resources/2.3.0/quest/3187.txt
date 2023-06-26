@@ -8,6 +8,6 @@ Large Trinium 180% 1,452,520 EU/t
 
 At this point, you might consider building more t1 Fusion Reactors to process other materials. Even if you stop the reactor you're using to generate this plasma, the EU cost of restarting it is less than 1 bucket of plasma, so it's probably not that big of a deal.
 
-Make a normal or buffered UV dynamo to complete the quest.ANDpre31860gregtech/gt.metaitem.01-31057.pngrewardstasksORRetrievalgregtech/gt.blockmachines-38.pngUV Dynamo Hatch;Generating electric Energy from Multiblocks;Puts out up to 1 Amp;Voltage OUT: 524,288 (UV);Capacity: 4,194,816 EU
-1Retrievalgregtech/gt.blockmachines-907.pngUV Dynamo Hatch [Buffered];Dynamo with internal storage and additional Amp capacity;Does not accept more than 2097152EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 524,288 (UV);Amperage: 4;Capacity: 4,294,967,808 EU
+Make a normal or buffered UV dynamo to complete the quest.ANDpre31860gregtech/gt.metaitem.01-31057.pngrewardstasksORRetrievalgregtech/gt.blockmachines-38.pngUV Dynamo Hatc;Generating electric Energy from Multiblocks;Puts out up to 1 Amp;Voltage OUT: 524,288 (UV);Capacity: 4,194,816 EU
+1Retrievalgregtech/gt.blockmachines-907.pngUV Dynamo Hatch [Buffered;Dynamo with internal storage and additional Amp capacity;Does not accept more than 2097152EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 524,288 (UV);Amperage: 4;Capacity: 4,294,967,808 EU
 1

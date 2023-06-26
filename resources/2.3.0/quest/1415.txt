@@ -1,8 +1,8 @@
-1415gregtech/gt.blockores-98.png0§a§lPure Uranium Ores7-1If you want pure uranium ores for your nuke, you'll need to visit Deimos or Phobos to fetch them. They're at Y 20-30.ORpre1870GalacticraftMars/item.spaceshipTier2-0.png1880GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksORRetrievalgregtech/gt.blockores-922.pngUraninite Ore;UO\u2082
-64gregtech/gt.blockores-98.pngUranium 238 Ore;U
-32Retrievalgregtech/gt.metaitem.01-5922.pngCrushed Uraninite Ore;UO\u2082
-192gregtech/gt.metaitem.01-5098.pngCrushed Uranium 238 Ore;U
+1415gregtech/gt.blockores-98.png0§a§lPure Uranium Ores7-1If you want pure uranium ores for your nuke, you'll need to visit Deimos or Phobos to fetch them. They're at Y 20-30.ORpre1870GalacticraftMars/item.spaceshipTier2-0.png1880GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+2tasksORRetrievalgregtech/gt.blockores-922.pngUraninite Or;UO\u2082
+64gregtech/gt.blockores-98.pngUranium 238 Or;U
+32Retrievalgregtech/gt.metaitem.01-5922.pngCrushed Uraninite Or;UO\u2082
+192gregtech/gt.metaitem.01-5098.pngCrushed Uranium 238 Or;U
 96

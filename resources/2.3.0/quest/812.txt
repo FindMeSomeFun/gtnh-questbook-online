@@ -1,13 +1,13 @@
-812GalacticraftCore/item.heavyPlating-0.png1Tier 1 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 37 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.ANDpre801gregtech/gt.blockmachines-1001.png27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Steel
-8GalacticraftCore/item.basicItem-10.pngCompressed Bronze
-8GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalGalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-37GalacticraftCore/item.basicItem-9.pngCompressed Steel
-37GalacticraftCore/item.basicItem-10.pngCompressed Bronze
-37gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-19Optionalgregtech/gt.metaitem.01-32462.pngHeavy Duty Alloy Ingot T1;Used to make Heavy Duty Plates T1
-37RetrievalGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+812GalacticraftCore/item.heavyPlating-0.png1Tier 1 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 37 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.ANDpre801gregtech/gt.blockmachines-1001.png27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Stee
+8GalacticraftCore/item.basicItem-10.pngCompressed Bronz
+8GalacticraftCore/item.basicItem-8.pngCompressed Aluminu
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalGalacticraftCore/item.basicItem-8.pngCompressed Aluminu
+37GalacticraftCore/item.basicItem-9.pngCompressed Stee
+37GalacticraftCore/item.basicItem-10.pngCompressed Bronz
+37gregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
+19Optionalgregtech/gt.metaitem.01-32462.pngHeavy Duty Alloy Ingot T;Used to make Heavy Duty Plates T1
+37RetrievalGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plat;Tier 1
 37

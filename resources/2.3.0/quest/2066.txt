@@ -1,4 +1,4 @@
 2066WitchingGadgets/item.WG_Cloak-4.png0Flying Like a Eag - I Mean Raven31-1This cloak is a nice substitute for the Glider. There are plenty of other magical items worth a look in the Witching Gadgets tab.
-If you want to toggle gliding with a key - configure binding for "Active Ability 1" in control settings and, having item in hand, send "/travellersgear bind 1" to chat.ANDpre20650WitchingGadgets/WG_WoodenDevice-0.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalWitchingGadgets/item.WG_Cloak-4.pngMantle of the Raven;Equipped in the Cloak slot
+If you want to toggle gliding with a key - configure binding for "Active Ability 1" in control settings and, having item in hand, send "/travellersgear bind 1" to chat.ANDpre20650WitchingGadgets/WG_WoodenDevice-0.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalWitchingGadgets/item.WG_Cloak-4.pngMantle of the Rave;Equipped in the Cloak slot
 1

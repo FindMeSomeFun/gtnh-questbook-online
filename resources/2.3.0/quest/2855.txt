@@ -1,4 +1,4 @@
-2855Thaumcraft/blockMirror-6.png0Essentia Transmission32-1What if... you could send essentia from a different location to your infusion matrix? You could finally get rid of all those jars around your altar.ANDpre28570Thaumcraft/ItemResource-10.pngrewardsItemThaumcraft/blockMirror-6.pngEssentia Mirror;Glass-Tier: HV
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/blockMirror-6.pngEssentia Mirror;Glass-Tier: HV
+2855Thaumcraft/blockMirror-6.png0Essentia Transmission32-1What if... you could send essentia from a different location to your infusion matrix? You could finally get rid of all those jars around your altar.ANDpre28570Thaumcraft/ItemResource-10.pngrewardsItemThaumcraft/blockMirror-6.pngEssentia Mirro;Glass-Tier: HV
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumcraft/blockMirror-6.pngEssentia Mirro;Glass-Tier: HV
 1

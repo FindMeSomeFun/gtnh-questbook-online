@@ -6,10 +6,10 @@ An alternative option is to do this, but with salt water, obtained from Salty Ro
 
 Lastly, did you know that most of the oil byproducts are organic compounds, and as such are made mostly of Carbon and Hydrogen? You can electrolyze most of them to get these elements, at a faster rate than water, but only if you have leftovers. Methane is one of the choices that you might have stockpiling. However, note that these byproducts often have fuel values and it's often better to use them as fuel to then electrolyze (salt) water.
 
-Either way, you will need Electrolyzers. Build some to continue!ANDpre29960BuildCraftEnergy/bucketOil-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
-10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-372.pngAdvanced Electrolyzer;Electrolyzing Molecules;Voltage IN: 128 (MV);Capacity: 8,192 EU
-2gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+Either way, you will need Electrolyzers. Build some to continue!ANDpre29960BuildCraftEnergy/bucketOil-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-11019.pngAluminium Ingo;Al
+10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5tasksANDRetrievalgregtech/gt.blockmachines-372.pngAdvanced Electrolyze;Electrolyzing Molecules;Voltage IN: 128 (MV);Capacity: 8,192 EU
+2gregtech/gt.metaitem.01-30001.pngHydrogen Cel;H
 40

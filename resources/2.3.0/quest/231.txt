@@ -1,4 +1,4 @@
-231Thaumcraft/ItemThaumonomicon-0.png1Tome of Knowledge31-1All the things you've discovered so far, you need to write them down. But you're lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/ItemThaumonomicon-0.pngThaumonomicon
+231Thaumcraft/ItemThaumonomicon-0.png1Tome of Knowledge31-1All the things you've discovered so far, you need to write them down. But you're lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumcraft/ItemThaumonomicon-0.pngThaumonomico
 1

@@ -1,7 +1,7 @@
-2847TwilightForest/item.tfspawnegg-186.png0Time to Kill (Wraith)39432000The Twilight Wraith is a floating spirit and are not initially aggressive towards the player but will become angry when approached. When spotted by a Wraith it can be difficult to lose it, as they are relentless in chasing the player and its ability to phase through blocks. They are found in large Hollow Hills. ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+2847TwilightForest/item.tfspawnegg-186.png0Time to Kill (Wraith)39432000The Twilight Wraith is a floating spirit and are not initially aggressive towards the player but will become angry when approached. When spotted by a Wraith it can be difficult to lose it, as they are relentless in chasing the player and its ability to phase through blocks. They are found in large Hollow Hills. ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5tasksANDHuntmobs/TwilightForest-Twilight Wraith-.pngTwilight Wraith
 20

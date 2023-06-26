@@ -1,13 +1,13 @@
-1248gregtech/gt.metaitem.03-32082.png1§a§lNanoprocessor7-1This is the Nanoprocessor circuit line. From here, they make sense, in that you make the first 3 types solely to get your hands on the third type, and they all share a name (in this case nano).ANDpre12231gregtech/gt.blockmachines-1183.png12491gregtech/gt.metaitem.03-32045.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-2gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
-1gregtech/gt.metaitem.03-32016.pngSMD Diode;Electronic Component
-4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-1gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
-1gregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
-8gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-8gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
-8gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-8Retrievalgregtech/gt.metaitem.03-32082.pngNanoprocessor;An Advanced Circuit;HV-Tier
+1248gregtech/gt.metaitem.03-32082.png1§a§lNanoprocessor7-1This is the Nanoprocessor circuit line. From here, they make sense, in that you make the first 3 types solely to get your hands on the third type, and they all share a name (in this case nano).ANDpre12231gregtech/gt.blockmachines-1183.png12491gregtech/gt.metaitem.03-32045.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Boar;A advanced Circuit Board
+2gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Uni;Power Circuit
+1gregtech/gt.metaitem.03-32016.pngSMD Diod;Electronic Component
+4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Boar;A advanced Circuit Board
+1gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Uni;Power Circuit
+1gregtech/gt.metaitem.03-32011.pngSMD Resisto;Electronic Component
+8gregtech/gt.metaitem.03-32020.pngSMD Capacito;Electronic Component
+8gregtech/gt.metaitem.03-32018.pngSMD Transisto;Electronic Component
+8gregtech/gt.metaitem.02-19303.pngFine Electrum Wir;AgAu
+8Retrievalgregtech/gt.metaitem.03-32082.pngNanoprocesso;An Advanced Circuit;HV-Tier
 1

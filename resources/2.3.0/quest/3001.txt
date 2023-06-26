@@ -12,13 +12,13 @@ Heavy Fuel: If only working with regular Oil, a lot of this will also be consume
 
 Naphtha: You could distill it in a Distillation Tower, but keep in mind that you need to build a max-height one to cover the entire recipe. However, if you do it, you will have most of the Oil byproducts automated meaning that it's worth it to tackle this challenge when you get comfortable with making lots of Stainless Steel; it also has a good burn value, so if you don't need these byproducts, best just use it for power.
 
-Refinery Gas: You're probably already distilling this for Ethylene. You could switch this recipe to a Distillation Tower and a Oil Cracking Unit (see next quest) to gain more output and some useful byproducts.ANDpre29880gregtech/gt.blockcasings4-1.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-32gregtech/gt.blockmachines-130.pngSuper Tank I;Stores 4,000,000L of fluid;Will keep its contents when harvested
-2Itemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-10tasksANDRetrievalgregtech/gt.blockmachines-1126.pngDistillation Tower;Machine Type: Distillery;Controller block for the Distillation Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
-64gregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-64gregtech/gt.metaitem.01-30739.pngNaphtha Cell
-64gregtech/gt.metaitem.01-30735.pngRefinery Gas Cell
+Refinery Gas: You're probably already distilling this for Ethylene. You could switch this recipe to a Distillation Tower and a Oil Cracking Unit (see next quest) to gain more output and some useful byproducts.ANDpre29880gregtech/gt.blockcasings4-1.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
+32gregtech/gt.blockmachines-130.pngSuper Tank ;Stores 4,000,000L of fluid;Will keep its contents when harvested
+2Itemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+10tasksANDRetrievalgregtech/gt.blockmachines-1126.pngDistillation Towe;Machine Type: Distillery;Controller block for the Distillation Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+1gregtech/gt.metaitem.01-30740.pngLight Fuel Cel
+64gregtech/gt.metaitem.01-30741.pngHeavy Fuel Cel
+64gregtech/gt.metaitem.01-30739.pngNaphtha Cel
+64gregtech/gt.metaitem.01-30735.pngRefinery Gas Cel
 64

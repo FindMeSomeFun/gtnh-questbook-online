@@ -1,10 +1,10 @@
-442gregtech/gt.metaitem.02-32201.png0§1§l"Baked" Potatoes0-1Eating raw potatoes isn't that healthy, as you might have noticed. Some potatoes are green and poisonous already. After you get a furnace you can make delicious baked potatoes as another food alternative. Put a baked potato on a stick to make it even more delicious.ANDpre91minecraft/furnace-0.pngrewardsChoiceminecraft/melon-0.pngMelon;minecraft:melon
-2minecraft/pumpkin-0.pngPumpkin
-2minecraft/stick-0.pngStick;Burn Time: 100
-9Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-2tasksANDRetrievalminecraft/potato-0.pngPotato;minecraft:potato
-1Retrievalminecraft/baked_potato-0.pngBaked Potato;minecraft:baked_potato
-1Optionalminecraft/stick-0.pngStick;Burn Time: 100
-1Craftinggregtech/gt.metaitem.02-32201.pngRoasted Potato on a Stick;gregtech:gt.metaitem.02;Still looks like a Crab Claw
+442gregtech/gt.metaitem.02-32201.png0§1§l"Baked" Potatoes0-1Eating raw potatoes isn't that healthy, as you might have noticed. Some potatoes are green and poisonous already. After you get a furnace you can make delicious baked potatoes as another food alternative. Put a baked potato on a stick to make it even more delicious.ANDpre91minecraft/furnace-0.pngrewardsChoiceminecraft/melon-0.pngMelo;minecraft:melon
+2minecraft/pumpkin-0.pngPumpki
+2minecraft/stick-0.pngStic;Burn Time: 100
+9Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+2tasksANDRetrievalminecraft/potato-0.pngPotat;minecraft:potato
+1Retrievalminecraft/baked_potato-0.pngBaked Potat;minecraft:baked_potato
+1Optionalminecraft/stick-0.pngStic;Burn Time: 100
+1Craftinggregtech/gt.metaitem.02-32201.pngRoasted Potato on a Stic;gregtech:gt.metaitem.02;Still looks like a Crab Claw
 1

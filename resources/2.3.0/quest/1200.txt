@@ -2,21 +2,21 @@
 
 The simplest plasma you can make for power is Helium plasma, but it also provides a lot of power. Deuterium is renewable from water, and you can get Helium-3 from Endstone.
 
-However, you will need a way to convert the plasma into EU. To do this you will need a large plasma turbine. This will also need a dynamo hatch that can handle the power you're outputting. For Helium plasma, you will want a LuV Buffered Dynamo or above.ANDpre12121gregtech/gt.blockmachines-1193.pngrewardsChoicegregtech/gt.metaitem.01-32606.pngElectric Motor
-4gregtech/gt.metaitem.01-32615.pngElectric Pump;32,768 L/t (655,360 L/s) as Cover
-2gregtech/gt.metaitem.01-32635.pngConveyor Module;2 stacks every 1/20 sec (as Cover)
-2gregtech/gt.metaitem.01-32645.pngElectric Piston
-2gregtech/gt.blockmachines-2405.png16x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 256;Loss/Meter/Ampere: 0 EU-Volt
-2enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-5tasksANDOptionalgregtech/gt.blockmachines-18.pngUV Machine Hull;You just need Imagination to use this.;Voltage IN: 524,288 (UV);Voltage OUT: 524,288 (UV);Capacity: 26,214,912 EU
-1gregtech/gt.metaitem.02-31325.pngNaquadah Alloy Gear;Nq\u2082KeC
-4gregtech/gt.blockmachines-5204.pngHuge Naquadah Fluid Pipe;Fluid Capacity: 720,000 L/sec;Heat Limit: 19,000 K
-2gregtech/gt.metaitem.03-32090.pngUltimate Crystalcomputer;An Ultimate Circuit;ZPM-Tier
-2Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1gregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
-1gregtech/gt.blockmachines-61.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1gregtech/gt.blockcasings4-12.pngTungstensteel Turbine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-29gregtech/gt.blockmachines-905.pngLuV Dynamo Hatch [Buffered];Dynamo with internal storage and additional Amp capacity;Does not accept more than 131072EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 32,768 (LuV);Amperage: 4;Capacity: 268,435,968 EU
-1Retrievalgregtech/gt.blockmachines-1153.pngLarge Plasma Generator;Machine Type: Plasma Turbine;Controller block for the Large Plasma Generator;Needs a Turbine, place inside controller;Use your Fusion Reactor to produce the Plasma;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+However, you will need a way to convert the plasma into EU. To do this you will need a large plasma turbine. This will also need a dynamo hatch that can handle the power you're outputting. For Helium plasma, you will want a LuV Buffered Dynamo or above.ANDpre12121gregtech/gt.blockmachines-1193.pngrewardsChoicegregtech/gt.metaitem.01-32606.pngElectric Motor (LuV
+4gregtech/gt.metaitem.01-32615.pngElectric Pump (LuV;32,768 L/t (655,360 L/s) as Cover
+2gregtech/gt.metaitem.01-32635.pngConveyor Module (LuV;2 stacks every 1/20 sec (as Cover)
+2gregtech/gt.metaitem.01-32645.pngElectric Piston (LuV
+2gregtech/gt.blockmachines-2405.png16x Superconductor LuV Wir;Max Voltage: 32,768 (LuV);Max Amperage: 256;Loss/Meter/Ampere: 0 EU-Volt
+2enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+5tasksANDOptionalgregtech/gt.blockmachines-18.pngUV Machine Hul;You just need Imagination to use this.;Voltage IN: 524,288 (UV);Voltage OUT: 524,288 (UV);Capacity: 26,214,912 EU
+1gregtech/gt.metaitem.02-31325.pngNaquadah Alloy Gea;Nq\u2082KeC
+4gregtech/gt.blockmachines-5204.pngHuge Naquadah Fluid Pip;Fluid Capacity: 720,000 L/sec;Heat Limit: 19,000 K
+2gregtech/gt.metaitem.03-32090.pngUltimate Crystalcompute;An Ultimate Circuit;ZPM-Tier
+2Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatc;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-51.pngInput Hatch (LV;Fluid Input for Multiblocks;Capacity: 16,000L
+1gregtech/gt.blockmachines-61.pngOutput Hatch (LV;Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
+1gregtech/gt.blockcasings4-12.pngTungstensteel Turbine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+29gregtech/gt.blockmachines-905.pngLuV Dynamo Hatch [Buffered;Dynamo with internal storage and additional Amp capacity;Does not accept more than 131072EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 32,768 (LuV);Amperage: 4;Capacity: 268,435,968 EU
+1Retrievalgregtech/gt.blockmachines-1153.pngLarge Plasma Generato;Machine Type: Plasma Turbine;Controller block for the Large Plasma Generator;Needs a Turbine, place inside controller;Use your Fusion Reactor to produce the Plasma;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

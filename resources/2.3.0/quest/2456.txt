@@ -10,9 +10,9 @@ x=space, p=pedestal, P=plinth
 
 Place a bound master orb on the plinth and the appropriate sacrifices on the pedestals. They must all be the same element. Specifically, Aether, Incendium, Aquasalus, Terrae, Tenebrae, or Sanctus.
 
-After the lightning, the demon will appear. It won't always drop the shard, so prepare multiple sets.ANDpre7081AWWayofTime/masterBloodOrb-0.png9271dreamcraft/tile.BloodyVoid-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-3tasksANDRetrievalAWWayofTime/blockPedestal-0.pngArcane Pedestal
-6AWWayofTime/blockPlinth-0.pngArcane Plinth
-1RetrievalAWWayofTime/demonBloodShard-0.pngDemon Blood Shard
+After the lightning, the demon will appear. It won't always drop the shard, so prepare multiple sets.ANDpre7081AWWayofTime/masterBloodOrb-0.png9271dreamcraft/tile.BloodyVoid-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag (BM Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
+3tasksANDRetrievalAWWayofTime/blockPedestal-0.pngArcane Pedesta
+6AWWayofTime/blockPlinth-0.pngArcane Plint
+1RetrievalAWWayofTime/demonBloodShard-0.pngDemon Blood Shar
 3

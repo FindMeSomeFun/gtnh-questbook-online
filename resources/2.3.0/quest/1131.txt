@@ -2,10 +2,10 @@
 
 You've heard rumors of a special wood only found in another land, a forest of Twilight, that can make tools strong enough to mine them.
 
-Remember, you need an electric blast furnace to process these materials before you can make tools with them.ANDpre971gregtech/gt.blockmachines-211.png4791minecraft/portal-0.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-8gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
-16enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-10tasksANDRetrievalTConstruct/SearedBrick-2.pngArdite Ore
-4TConstruct/SearedBrick-1.pngCobalt Ore
+Remember, you need an electric blast furnace to process these materials before you can make tools with them.ANDpre971gregtech/gt.blockmachines-211.png4791minecraft/portal-0.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingo;Fe\u2085\u2080C
+8gregtech/gt.metaitem.01-11300.pngBronze Ingo;SnCu\u2083
+16enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+10tasksANDRetrievalTConstruct/SearedBrick-2.pngArdite Or
+4TConstruct/SearedBrick-1.pngCobalt Or
 4

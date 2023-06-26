@@ -1,6 +1,6 @@
 1310appliedenergistics2/item.ItemMultiMaterial-39.png1Something to Put Your Components in27-1An empty storage container, you can insert the vanilla AE2 storage cell parts into it to create a usable storage cell.
 
-You can also craft it with the storage components when making them to skip combining them.ANDpre13111dreamcraft/item.LogicProcessorItemGoldCore-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-39.pngME Storage Housing
+You can also craft it with the storage components when making them to skip combining them.ANDpre13111dreamcraft/item.LogicProcessorItemGoldCore-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-39.pngME Storage Housin
 1

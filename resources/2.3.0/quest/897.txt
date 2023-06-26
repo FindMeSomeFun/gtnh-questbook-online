@@ -1,5 +1,5 @@
-897gregtech/gt.metaitem.01-32651.png1§6§lYou're Gonna Hate This in MV Too #45-1The fourth item you'll need a lot of in MV, which is still a pain to craft.ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemgregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-32651.pngRobot Arm;1 stack every 5 secs (as Cover);Grabs from and inserts into specific slots
+897gregtech/gt.metaitem.01-32651.png1§6§lYou're Gonna Hate This in MV Too #45-1The fourth item you'll need a lot of in MV, which is still a pain to craft.ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemgregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDRetrievalgregtech/gt.metaitem.01-32651.pngRobot Arm (MV;1 stack every 5 secs (as Cover);Grabs from and inserts into specific slots
 1

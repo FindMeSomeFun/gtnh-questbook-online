@@ -1,3 +1,3 @@
-964gregtech/gt.metaitem.03-32101.png0Good Circuit Board4048000Want some good circuit boards? Buy some!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-4tasksANDConsumedreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+964gregtech/gt.metaitem.03-32101.png0Good Circuit Board4048000Want some good circuit boards? Buy some!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.03-32101.pngGood Circuit Boar;A good Circuit Board
+4tasksANDConsumedreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5

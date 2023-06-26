@@ -6,11 +6,11 @@ To make wrought iron, you need a tinkers smelter to melt some iron ingots down a
 
 Later on, you can use an arc furnace to make wrought iron ingots directly.
 
-ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metatool.01-12-WroughtIron-Wood.pngHammer;Durability: 38,400 / 38,400;Wrought Iron lvl 2;Attack Damage: 5.0;Mining Speed: 4.5;Crushes Ores instead of harvesting them;Usable for Prospecting;Sharpness II
-1gregtech/gt.metatool.01-16-WroughtIron-WroughtIron.pngWrench;Durability: 38,400 / 38,400;Wrought Iron lvl 2;Attack Damage: 5.0;Mining Speed: 6.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
-1gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metaitem.01-9032.pngIron Nugget;Fe
-63Optionalgregtech/gt.metaitem.01-9304.pngWrought Iron Nugget;Fe
-63Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot;Fe
+ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metatool.01-12-WroughtIron-Wood.pngHamme;Durability: 38,400 / 38,400;Wrought Iron lvl 2;Attack Damage: 5.0;Mining Speed: 4.5;Crushes Ores instead of harvesting them;Usable for Prospecting;Sharpness II
+1gregtech/gt.metatool.01-16-WroughtIron-WroughtIron.pngWrenc;Durability: 38,400 / 38,400;Wrought Iron lvl 2;Attack Damage: 5.0;Mining Speed: 6.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
+1gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwic;gregtech:gt.metaitem.02;For Men! (and manly Women)
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+10tasksANDOptionalgregtech/gt.metaitem.01-9032.pngIron Nugge;Fe
+63Optionalgregtech/gt.metaitem.01-9304.pngWrought Iron Nugge;Fe
+63Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingo;Fe
 7

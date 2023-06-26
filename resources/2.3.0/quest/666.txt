@@ -2,10 +2,10 @@
 
 You need wooden planks, slabs and a knife to craft one. (This is also quest id 666, be careful, something is going on.)
 
-§3We here at QuestBook, Inc. do not guarantee the usefulness of boats. The standard worldgen does not include oceans, so their usefulness is heavily curtailed. There are lots of rivers, but horses might be more useful if not on a server.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceminecraft/fishing_rod-0.pngFishing Rod
-1minecraft/waterlily-0.pngLily Pad
-16harvestcraft/watergarden-0.pngWater Garden
-8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDCraftingminecraft/boat-0.pngBoat
+§3We here at QuestBook, Inc. do not guarantee the usefulness of boats. The standard worldgen does not include oceans, so their usefulness is heavily curtailed. There are lots of rivers, but horses might be more useful if not on a server.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceminecraft/fishing_rod-0.pngFishing Ro
+1minecraft/waterlily-0.pngLily Pa
+16harvestcraft/watergarden-0.pngWater Garde
+8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+10tasksANDCraftingminecraft/boat-0.pngBoa
 1

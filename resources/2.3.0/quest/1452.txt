@@ -11,11 +11,11 @@ Fuel Loader
 Launch Controller
 Cargo Unloader
 
-It is also possible to use Buildcraft pipes to transfer items into the Cargo loaders. Next step is to set up the Frequencies in both Launch Controllers (i.e. Set: A to target B, B to target A). Have a look at Launch Controller to setup the automated launch. The first time you have to right-click the Cargo rocket and press launch at the top right corner.ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
-4gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
-16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalGalacticraftCore/tile.fuelLoader-0.pngFuel Loader;Power required: 91 EU /s
-2GalacticraftMars/tile.marsMachine-8.pngLaunch Controller;Power required: 30 EU /s
-2GalacticraftCore/tile.landingPad-0.pngRocket Launch Pad
+It is also possible to use Buildcraft pipes to transfer items into the Cargo loaders. Next step is to set up the Frequencies in both Launch Controllers (i.e. Set: A to target B, B to target A). Have a look at Launch Controller to setup the automated launch. The first time you have to right-click the Cargo rocket and press launch at the top right corner.ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Des
+4gregtech/gt.metaitem.01-11316.pngTungstensteel Ingo;(Fe\u2085\u2080C)W
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDRetrievalGalacticraftCore/tile.fuelLoader-0.pngFuel Loade;Power required: 91 EU /s
+2GalacticraftMars/tile.marsMachine-8.pngLaunch Controlle;Power required: 30 EU /s
+2GalacticraftCore/tile.landingPad-0.pngRocket Launch Pa
 18

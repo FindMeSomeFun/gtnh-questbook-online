@@ -2,11 +2,11 @@
 
 If placed in a machine, it will fill up if there's excess power, and drain if the machine can't get enough. Handy for high-EU machines you don't want to choke.
 
-§3Sodium is the one that stores the least EU of the 3 rechargable batteries, but is definitely the easiest to get.ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
-2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dust;Pb\u2084Sb
-4gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-4enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-32519.pngSmall Sodium Battery;Reusable;0 / 50,000 EU - Voltage: 32;LV-Tier
+§3Sodium is the one that stores the least EU of the 3 rechargable batteries, but is definitely the easiest to get.ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2017.pngSodium Dus;Na;Burn Time: 400
+2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dus;Pb\u2084Sb
+4gregtech/gt.blockmachines-1246.png1x Tin Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalgregtech/gt.metaitem.01-32519.pngSmall Sodium Batter;Reusable;0 / 50,000 EU - Voltage: 32;LV-Tier
 1

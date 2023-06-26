@@ -1,6 +1,6 @@
-776IC2/itemNightvisionGoggles-1-charged.png0Seeing Things Brighter14-1The nano helmet is a bit special. It will provide you with night vision as long as you have energy!ANDpre7750dreamcraft/item.CarbonPartChestplate-0.png7960GalacticraftCore/item.sensorLens-0.png7970IC2/reactorHeatSwitchDiamond-1.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.NanoCrystal-0.pngNano Crystal
-1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+776IC2/itemNightvisionGoggles-1-charged.png0Seeing Things Brighter14-1The nano helmet is a bit special. It will provide you with night vision as long as you have energy!ANDpre7750dreamcraft/item.CarbonPartChestplate-0.png7960GalacticraftCore/item.sensorLens-0.png7970IC2/reactorHeatSwitchDiamond-1.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.NanoCrystal-0.pngNano Crysta
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5tasksANDRetrievalIC2/itemNightvisionGoggles-32767.pngNightvision Goggles\nDurability: 0 / 27\nProtection: 3\nDurability: 0/27
 1

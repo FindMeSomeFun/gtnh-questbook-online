@@ -31,41 +31,41 @@ Adds reflection damage to a mob.
 Curse of Loss
 Items will removed out of your inventory and get destroyed or fall on the ground.
 
-ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-64HardcoreEnderExpansion/essence-0.pngDragon Essence
-512HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
-64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-64HardcoreEnderExpansion/living_matter-0.pngLiving Matter
-32enhancedlootbags/lootbag-58-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-4Itemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
-10tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
-11HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-44RetrievalHardcoreEnderExpansion/curse-0.pngCurse of Teleportation
-4HardcoreEnderExpansion/curse-1.pngCurse of Confusion
-4HardcoreEnderExpansion/curse-2.pngCurse of Tranquility
-4HardcoreEnderExpansion/curse-3.pngCurse of Slowness
-4HardcoreEnderExpansion/curse-4.pngCurse of Weakness
-4HardcoreEnderExpansion/curse-5.pngCurse of Blindness
-4HardcoreEnderExpansion/curse-6.pngCurse of Death
-4HardcoreEnderExpansion/curse-7.pngCurse of Decay
-4HardcoreEnderExpansion/curse-8.pngCurse of Vampire
-4HardcoreEnderExpansion/curse-9.pngCurse of Rebound
-4HardcoreEnderExpansion/curse-10.pngCurse of Loss
-4RetrievalHardcoreEnderExpansion/stardust-0.pngStardust
-11gregtech/gt.metaitem.01-2807.pngNetherrack Dust
-11HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-11gregtech/gt.metaitem.01-506.pngTiny Pile of Nether Star Dust
-11RetrievalHardcoreEnderExpansion/curse-256.pngCurse of Teleportation;Eternal
-1HardcoreEnderExpansion/curse-257.pngCurse of Confusion;Eternal
-1HardcoreEnderExpansion/curse-258.pngCurse of Tranquility;Eternal
-1HardcoreEnderExpansion/curse-259.pngCurse of Slowness;Eternal
-1HardcoreEnderExpansion/curse-260.pngCurse of Weakness;Eternal
-1HardcoreEnderExpansion/curse-261.pngCurse of Blindness;Eternal
-1HardcoreEnderExpansion/curse-262.pngCurse of Death;Eternal
-1HardcoreEnderExpansion/curse-263.pngCurse of Decay;Eternal
-1HardcoreEnderExpansion/curse-264.pngCurse of Vampire;Eternal
-1HardcoreEnderExpansion/curse-265.pngCurse of Rebound;Eternal
-1HardcoreEnderExpansion/curse-266.pngCurse of Loss;Eternal
+ANDpre23760HardcoreEnderExpansion/curse-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplas
+64HardcoreEnderExpansion/essence-0.pngDragon Essenc
+512HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Bloo
+64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
+64HardcoreEnderExpansion/living_matter-0.pngLiving Matte
+32enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced;Your luck is increased by 100 %;Fortune III
+4Itemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
+10tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matte
+11HardcoreEnderExpansion/end_powder-0.pngEnd Powde
+44RetrievalHardcoreEnderExpansion/curse-0.pngCurse of Teleportatio
+4HardcoreEnderExpansion/curse-1.pngCurse of Confusio
+4HardcoreEnderExpansion/curse-2.pngCurse of Tranquilit
+4HardcoreEnderExpansion/curse-3.pngCurse of Slownes
+4HardcoreEnderExpansion/curse-4.pngCurse of Weaknes
+4HardcoreEnderExpansion/curse-5.pngCurse of Blindnes
+4HardcoreEnderExpansion/curse-6.pngCurse of Deat
+4HardcoreEnderExpansion/curse-7.pngCurse of Deca
+4HardcoreEnderExpansion/curse-8.pngCurse of Vampir
+4HardcoreEnderExpansion/curse-9.pngCurse of Reboun
+4HardcoreEnderExpansion/curse-10.pngCurse of Los
+4RetrievalHardcoreEnderExpansion/stardust-0.pngStardus
+11gregtech/gt.metaitem.01-2807.pngNetherrack Dus
+11HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
+11gregtech/gt.metaitem.01-506.pngTiny Pile of Nether Star Dus
+11RetrievalHardcoreEnderExpansion/curse-256.pngCurse of Teleportatio;Eternal
+1HardcoreEnderExpansion/curse-257.pngCurse of Confusio;Eternal
+1HardcoreEnderExpansion/curse-258.pngCurse of Tranquilit;Eternal
+1HardcoreEnderExpansion/curse-259.pngCurse of Slownes;Eternal
+1HardcoreEnderExpansion/curse-260.pngCurse of Weaknes;Eternal
+1HardcoreEnderExpansion/curse-261.pngCurse of Blindnes;Eternal
+1HardcoreEnderExpansion/curse-262.pngCurse of Deat;Eternal
+1HardcoreEnderExpansion/curse-263.pngCurse of Deca;Eternal
+1HardcoreEnderExpansion/curse-264.pngCurse of Vampir;Eternal
+1HardcoreEnderExpansion/curse-265.pngCurse of Reboun;Eternal
+1HardcoreEnderExpansion/curse-266.pngCurse of Los;Eternal
 1

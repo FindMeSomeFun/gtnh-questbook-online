@@ -1,10 +1,10 @@
-692IC2/itemArmorAlloyChestplate-0.png0Composite Vest14-1Combining the strength of advanced alloy plates with the steel chestplate makes your vest very hard. Now you have double the durability and increased armor points by 1.5.ANDpre6850minecraft/iron_chestplate-0.pngrewardsChoiceIC2/itemPartAlloy-0.pngAdvanced Alloy
-8gregtech/gt.metatool.01-18-DamascusSteel-Wood.pngFile;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.5;Mining Speed: 8.0
-1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-15tasksANDOptionalIC2/itemPartAlloy-0.pngAdvanced Alloy
-6minecraft/leather_chestplate-0.pngLeather Tunic;Protection: 3;Durability: 80/80
-1Railcraft/armor.steel.plate-0.pngSteel Chestplate;Protection: 6;Durability: 400/400
-1RetrievalIC2/itemArmorAlloyChestplate-0.pngComposite Vest;Protection: 9;Durability: 800/800
+692IC2/itemArmorAlloyChestplate-0.png0Composite Vest14-1Combining the strength of advanced alloy plates with the steel chestplate makes your vest very hard. Now you have double the durability and increased armor points by 1.5.ANDpre6850minecraft/iron_chestplate-0.pngrewardsChoiceIC2/itemPartAlloy-0.pngAdvanced Allo
+8gregtech/gt.metatool.01-18-DamascusSteel-Wood.pngFil;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.5;Mining Speed: 8.0
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+15tasksANDOptionalIC2/itemPartAlloy-0.pngAdvanced Allo
+6minecraft/leather_chestplate-0.pngLeather Tuni;Protection: 3;Durability: 80/80
+1Railcraft/armor.steel.plate-0.pngSteel Chestplat;Protection: 6;Durability: 400/400
+1RetrievalIC2/itemArmorAlloyChestplate-0.pngComposite Ves;Protection: 9;Durability: 800/800
 1

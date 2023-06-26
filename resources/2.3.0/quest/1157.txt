@@ -1,10 +1,10 @@
 1157gregtech/gt.metatool.01-14-Rubber-Wood.png0§3§lRubber Soft Mallet3-1Your wooden soft mallet breaks after a few uses. Now you can make a rubber mallet which is much more durable.
 
-§3The best one is made of Steeleaf, followed by Ironwood, both easily attainable once you get access to the Twilight Forest.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/chickenpotpieItem-0.pngChicken Pot Pie;harvestcraft:chickenpotpieItem
-2Choiceenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-2880.pngRubber Pulp;C\u2085H\u2088
-8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalminecraft/stick-0.pngStick;Burn Time: 100
-1gregtech/gt.metaitem.01-11880.pngRubber Bar;C\u2085H\u2088
-6Craftinggregtech/gt.metatool.01-14-Rubber-Wood.pngSoft Mallet;Durability: 25,600 / 25,600;Rubber lvl 0;Attack Damage: 3.0;Mining Speed: 0.15;Activates and Deactivates Machines;Knockback II
+§3The best one is made of Steeleaf, followed by Ironwood, both easily attainable once you get access to the Twilight Forest.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/chickenpotpieItem-0.pngChicken Pot Pi;harvestcraft:chickenpotpieItem
+2Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-2880.pngRubber Pul;C\u2085H\u2088
+8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+10tasksANDRetrievalminecraft/stick-0.pngStic;Burn Time: 100
+1gregtech/gt.metaitem.01-11880.pngRubber Ba;C\u2085H\u2088
+6Craftinggregtech/gt.metatool.01-14-Rubber-Wood.pngSoft Malle;Durability: 25,600 / 25,600;Rubber lvl 0;Attack Damage: 3.0;Mining Speed: 0.15;Activates and Deactivates Machines;Knockback II
 1

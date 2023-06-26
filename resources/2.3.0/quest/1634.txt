@@ -1,7 +1,7 @@
-1634ProjRedTransportation/projectred.transportation.pipe-4.png0Request Pipe25-1This pipe lets you request stuff from the system. It shows all items that are available thanks to broadcast chips and even stuff that can be crafted thanks to crafting chips.ANDpre16310ProjRedTransportation/projectred.transportation.routingchip-5.pngrewardsChoicegregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-2ProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
-32ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
-2enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-4.pngRouted Request pipe
+1634ProjRedTransportation/projectred.transportation.pipe-4.png0Request Pipe25-1This pipe lets you request stuff from the system. It shows all items that are available thanks to broadcast chips and even stuff that can be crafted thanks to crafting chips.ANDpre16310ProjRedTransportation/projectred.transportation.routingchip-5.pngrewardsChoicegregtech/gt.metaitem.01-17500.pngDiamond Plat;C
+2ProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pip
+32ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pip
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-4.pngRouted Request pip
 1

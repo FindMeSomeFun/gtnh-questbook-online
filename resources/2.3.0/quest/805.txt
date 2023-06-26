@@ -1,8 +1,8 @@
-805dreamcraft/item.LapotronDust-0.png0§a§lLapotron Dust7-1Lapotron crystals require you to mix your energium dust with some lapis dust.ANDpre7890IC2/itemBatCrystal-1-charged.png14061gregtech/gt.blockmachines-214.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1minecraft/glowstone_dust-0.pngGlowstone Dust
-64IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-2Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.metaitem.01-2526.pngLapis Dust;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-48IC2/itemDust2-2.pngEnergium Dust
+805dreamcraft/item.LapotronDust-0.png0§a§lLapotron Dust7-1Lapotron crystals require you to mix your energium dust with some lapis dust.ANDpre7890IC2/itemBatCrystal-1-charged.png14061gregtech/gt.blockmachines-214.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1minecraft/glowstone_dust-0.pngGlowstone Dus
+64IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
+2Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.metaitem.01-2526.pngLapis Dus;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+48IC2/itemDust2-2.pngEnergium Dus
 72

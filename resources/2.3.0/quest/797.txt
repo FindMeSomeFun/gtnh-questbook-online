@@ -1,10 +1,10 @@
-797IC2/reactorHeatSwitchDiamond-1.png0Advanced Heat Exchanger14-1The night vision goggles need advanced heat exchangers to work.ANDpre7531gregtech/gt.metaitem.01-11306.png7941gregtech/gt.metaitem.01-32701.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-1dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-8gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-2gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-4IC2/reactorHeatSwitch-1.pngHeat Exchanger
-4RetrievalIC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat Exchanger
+797IC2/reactorHeatSwitchDiamond-1.png0Advanced Heat Exchanger14-1The night vision goggles need advanced heat exchangers to work.ANDpre7531gregtech/gt.metaitem.01-11306.png7941gregtech/gt.metaitem.01-32701.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
+1dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Len
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalgregtech/gt.metaitem.01-17526.pngLapis Plat;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+8gregtech/gt.metaitem.01-17500.pngDiamond Plat;C
+2gregtech/gt.metaitem.01-32704.pngWorkstatio;An Extreme Circuit;EV-Tier
+4IC2/reactorHeatSwitch-1.pngHeat Exchange
+4RetrievalIC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat Exchange
 2

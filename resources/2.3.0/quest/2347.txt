@@ -21,20 +21,20 @@ A Flame imp may also occasionally give a gift in return for being given valuable
 
 A very well treated Flame Imp may even yield knowledge to summon a Lord of Torment.
 
-ANDpre15740witchery/ingredient-29.png23340witchery/ingredient-140.pngrewardsChoicewitchery/ingredient-23.pngDemon Heart
-1witchery/ingredient-38.pngRefined Evil
-2witchery/chalkinfernal-0.pngInfernal Chalk
-1witchery/chalkheart-0.pngGolden Chalk
-1enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDRetrievalwitchery/ingredient-38.pngRefined Evil
-1witchery/ingredient-80.pngDemonic Blood
-1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-1witchery/ingredient-10.pngAttuned Stone
-1Retrievalwitchery/ingredient-140.pngDemonic Contract
-1witchery/taglockkit-0.pngTaglock Kit;Not bound
-1Retrievalminecraft/diamond-0.pngDiamond;Burn Time: 102400
-16Retrievalwitchery/ingredient-141.pngTorment;Read this text in a circle;of standing stones. Beware its;explosive entrance.
+ANDpre15740witchery/ingredient-29.png23340witchery/ingredient-140.pngrewardsChoicewitchery/ingredient-23.pngDemon Hear
+1witchery/ingredient-38.pngRefined Evi
+2witchery/chalkinfernal-0.pngInfernal Chal
+1witchery/chalkheart-0.pngGolden Chal
+1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2tasksANDRetrievalwitchery/ingredient-38.pngRefined Evi
+1witchery/ingredient-80.pngDemonic Bloo
+1minecraft/ender_pearl-0.pngEnder Pear;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1witchery/ingredient-10.pngAttuned Ston
+1Retrievalwitchery/ingredient-140.pngDemonic Contrac
+1witchery/taglockkit-0.pngTaglock Ki;Not bound
+1Retrievalminecraft/diamond-0.pngDiamon;Burn Time: 102400
+16Retrievalwitchery/ingredient-141.pngTormen;Read this text in a circle;of standing stones. Beware its;explosive entrance.
 1

@@ -4,9 +4,9 @@
 
 Also look at the various caps, the better ones are more expensive to craft but give discounts or other benefits. In many situations you might need to start with cheap ones and only make the better caps later.
 
-You can also improve your wand with augmentations.ORpre2640Thaumcraft/WandRod-1.png2670Thaumcraft/WandRod-4.png2680Thaumcraft/WandRod-5.png2690Thaumcraft/WandRod-6.png2700Thaumcraft/WandRod-3.png2710Thaumcraft/WandRod-7.png32080ThaumicExploration/transmutationCore-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+You can also improve your wand with augmentations.ORpre2640Thaumcraft/WandRod-1.png2670Thaumcraft/WandRod-4.png2680Thaumcraft/WandRod-5.png2690Thaumcraft/WandRod-6.png2700Thaumcraft/WandRod-3.png2710Thaumcraft/WandRod-7.png32080ThaumicExploration/transmutationCore-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Scre;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalgregtech/gt.metaitem.01-27366.pngEnergetic Alloy Scre;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
 4

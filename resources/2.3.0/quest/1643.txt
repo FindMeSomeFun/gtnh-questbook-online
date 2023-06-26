@@ -2,7 +2,7 @@
 
 Make yourself a Cleaver with your tool forge and collect some wither skeleton skulls.
 
-§4If you have problems finding wither skeletons, once you get to HV you can put a powered skeleton spawner in the Nether.ANDpre15270EnderIO/blockReinforcedObsidian-0.pngrewardsItemminecraft/skull-1.pngWither Skeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
-1tasksANDRetrievalTGregworks/tGregToolPartLargeSwordBlade-1650.pngVanadiumsteel Large Sword Blade;Attack: 7 Hearts;Durability: 1440;Parts can be replaced
-1Retrievalminecraft/skull-1.pngWither Skeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
+§4If you have problems finding wither skeletons, once you get to HV you can put a powered skeleton spawner in the Nether.ANDpre15270EnderIO/blockReinforcedObsidian-0.pngrewardsItemminecraft/skull-1.pngWither Skeleton Skul;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
+1tasksANDRetrievalTGregworks/tGregToolPartLargeSwordBlade-1650.pngVanadiumsteel Large Sword Blad;Attack: 7 Hearts;Durability: 1440;Parts can be replaced
+1Retrievalminecraft/skull-1.pngWither Skeleton Skul;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
 3

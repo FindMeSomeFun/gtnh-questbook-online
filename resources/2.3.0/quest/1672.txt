@@ -1,17 +1,17 @@
-1672gregtech/gt.metaitem.01-32755.png0§b§lPower of the Sun at EV Level19-1The next solar panel you can make is the EV one. It generates 2048 EU/t.ANDpre10060gregtech/gt.metaitem.01-32754.png16711gregtech/gt.metaitem.03-32035.png16971gregtech/gt.metaitem.01-17599.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.01-11318.pngSunnarium Ingot;Su
-2enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-20318.pngQuadruple Sunnarium Plate;Su
-2gregtech/gt.metaitem.01-17362.pngKnightmetal Plate;(Fe\u2085\u2080C)\u2082Ma
-4gregtech/gt.metaitem.01-17100.pngPlutonium 239 Plate;Pu
-2Optionalgregtech/gt.metaitem.01-32754.pngSolar Panel;High Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.03-32051.pngPower IC;Power Circuit
-2gregtech/gt.metaitem.01-17599.pngPolybenzimidazole Plate;C\u2082\u2080N\u2084H\u2081\u2082
-2gregtech/gt.metaitem.01-19020.pngTriple Raw Silicon Plate;Si
-4gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe;A Master Circuit;LuV-Tier
-4dreamcraft/item.IrradiantReinforcedTungstenSteelPlate-0.pngIrradiant Reinforced Tungsten-Steel Plate
-2gregtech/gt.blockmachines-2380.png1x Superconductor IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 0 EU-Volt
-6Retrievalgregtech/gt.metaitem.01-32755.pngSolar Panel;Extreme Solar Panel (Needs cleaning with right click)
+1672gregtech/gt.metaitem.01-32755.png0§b§lPower of the Sun at EV Level19-1The next solar panel you can make is the EV one. It generates 2048 EU/t.ANDpre10060gregtech/gt.metaitem.01-32754.png16711gregtech/gt.metaitem.03-32035.png16971gregtech/gt.metaitem.01-17599.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafe;Raw Circuit
+4gregtech/gt.metaitem.01-11318.pngSunnarium Ingo;Su
+2enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalgregtech/gt.metaitem.01-20318.pngQuadruple Sunnarium Plat;Su
+2gregtech/gt.metaitem.01-17362.pngKnightmetal Plat;(Fe\u2085\u2080C)\u2082Ma
+4gregtech/gt.metaitem.01-17100.pngPlutonium 239 Plat;Pu
+2Optionalgregtech/gt.metaitem.01-32754.pngSolar Panel (HV;High Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32035.pngNaquadah doped Wafe;Raw Circuit
+4gregtech/gt.metaitem.03-32051.pngPower I;Power Circuit
+2gregtech/gt.metaitem.01-17599.pngPolybenzimidazole Plat;C\u2082\u2080N\u2084H\u2081\u2082
+2gregtech/gt.metaitem.01-19020.pngTriple Raw Silicon Plat;Si
+4gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainfram;A Master Circuit;LuV-Tier
+4dreamcraft/item.IrradiantReinforcedTungstenSteelPlate-0.pngIrradiant Reinforced Tungsten-Steel Plat
+2gregtech/gt.blockmachines-2380.png1x Superconductor IV Wir;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 0 EU-Volt
+6Retrievalgregtech/gt.metaitem.01-32755.pngSolar Panel (EV;Extreme Solar Panel (Needs cleaning with right click)
 1

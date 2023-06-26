@@ -2,7 +2,7 @@
 
 If you dont have a Vacuum Freezer yet coole the hot ingots in a MV Chemical Bath with Coolant.
 
-Remember that you can get an upgraded OC (4/4) instead of a regular one (4/2) if your coils are 1800K above the recipe temperature, as well as a EU discount. This applies to every 900K or 1800K above, so you should try to upgrade your coils as soon as you can.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockcasings5-1.pngKanthal Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 2701 Kelvin
+Remember that you can get an upgraded OC (4/4) instead of a regular one (4/2) if your coils are 1800K above the recipe temperature, as well as a EU discount. This applies to every 900K or 1800K above, so you should try to upgrade your coils as soon as you can.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.blockcasings5-1.pngKanthal Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 2701 Kelvin
 16

@@ -1,8 +1,8 @@
-1177Thaumcraft/ItemResource-2.png1Thaumium Cooking31-1Now it's time to 'cook' your first thaumium ingots. After first researching it, you need iron ingots and praecantatio essentia to make it. ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemThaumcraft/ItemEssence-1-praecantatio.pngPhial of Essentia;Praecantatio x 8
-4Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDOptionalminecraft/iron_ingot-0.pngIron Ingot
-16RetrievalThaumcraft/ItemResource-2.pngThaumium Ingot
+1177Thaumcraft/ItemResource-2.png1Thaumium Cooking31-1Now it's time to 'cook' your first thaumium ingots. After first researching it, you need iron ingots and praecantatio essentia to make it. ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemThaumcraft/ItemEssence-1-praecantatio.pngPhial of Essenti;Praecantatio x 8
+4Thaumcraft/ItemLootBag-0.pngCommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDOptionalminecraft/iron_ingot-0.pngIron Ingo
+16RetrievalThaumcraft/ItemResource-2.pngThaumium Ingo
 16

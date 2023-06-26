@@ -8,13 +8,13 @@ Some recipes require Mutandis as an ingredient.
 
 Mutandis can be upgraded to Mutandis Extremis to have an effect on a wider variety of plants.
 
-Mutandis is made in a Witches' Cauldron using Mandrake Root, Exhale of the Horned One and an Egg.ANDpre3340witchery/cauldron-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
-16witchery/ingredient-27.pngClay Jar
-16Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
-25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-25tasksANDOptionalminecraft/egg-0.pngEgg
-8witchery/ingredient-22.pngMandrake Root
-8witchery/ingredient-31.pngExhale of the Horned One
-8Retrievalwitchery/ingredient-14.pngMutandis
+Mutandis is made in a Witches' Cauldron using Mandrake Root, Exhale of the Horned One and an Egg.ANDpre3340witchery/cauldron-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottl
+16witchery/ingredient-27.pngClay Ja
+16Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
+25tasksANDOptionalminecraft/egg-0.pngEg
+8witchery/ingredient-22.pngMandrake Roo
+8witchery/ingredient-31.pngExhale of the Horned On
+8Retrievalwitchery/ingredient-14.pngMutandi
 48

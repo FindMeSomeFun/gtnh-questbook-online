@@ -2,8 +2,8 @@
 
 §4This does not work with GregTech machines!§r For those, build more or higher tier ones.
 
-If you want, you can change the level of acceleration by using a wrench on it. It will go back to the minimum, then increase one tier from there for every usage. It will use that tier's amount of power (and acceleration), increasing as per GT standard of 2x speed (acceleration) and 4x EU per tier.ANDpre8971gregtech/gt.metaitem.01-32651.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
-64gregtech/gt.metaitem.01-30742.pngLPG Cell
-64Itemminecraft/cake-0.pngLemon Cake;minecraft:cake;Not everything can be fast...
-1tasksANDRetrievalgregtech/gt.blockmachines-11101.pngAdvanced World Accelerator;Accelerating things (Max Radius: 2 | Max Speed Bonus: x4);Use a screwdriver to change mode, sneak to change Radius;Use a wrench to change speed;To accelerate TileEntities, this machine has to be adjacent to it;Normal mode consumes up to 3 amperage, depending on radius;TE mode consumes 6 amperage;Voltage IN: 128 (MV);Capacity: 6,912 EU
+If you want, you can change the level of acceleration by using a wrench on it. It will go back to the minimum, then increase one tier from there for every usage. It will use that tier's amount of power (and acceleration), increasing as per GT standard of 2x speed (acceleration) and 4x EU per tier.ANDpre8971gregtech/gt.metaitem.01-32651.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cel;Can be used as rocket fuel up to tier 2
+64gregtech/gt.metaitem.01-30742.pngLPG Cel
+64Itemminecraft/cake-0.pngLemon Cak;minecraft:cake;Not everything can be fast...
+1tasksANDRetrievalgregtech/gt.blockmachines-11101.pngAdvanced World Accelerato;Accelerating things (Max Radius: 2 | Max Speed Bonus: x4);Use a screwdriver to change mode, sneak to change Radius;Use a wrench to change speed;To accelerate TileEntities, this machine has to be adjacent to it;Normal mode consumes up to 3 amperage, depending on radius;TE mode consumes 6 amperage;Voltage IN: 128 (MV);Capacity: 6,912 EU
 1

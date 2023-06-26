@@ -2,7 +2,7 @@
 
 To extract the Creosote from your Coke Ovens, you can use buckets or cells to do it by hand, or the TiCon Faucet into GT fluid pipes, or an Electric Pump cover from You're Going to Hate This #2.
 
-There are other options to burn Creosote, like the Railcraft Liquid Boilers, but this is much cheaper and easier to set up, while still being efficient with Creosote (6x as efficient as Combustion Generators).ANDpre13240gregtech/gt.blockmachines-512.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-20tasksANDRetrievalgregtech/gt.blockmachines-837.pngBasic Semi-Fluid Generator;Requires semi-fluid Fuel;Produces 80 pollution/sec;Fuel Efficiency: 95%;Added by: Alkalus - [GT++];Voltage OUT: 32 (LV);Capacity: 3,072 EU
+There are other options to burn Creosote, like the Railcraft Liquid Boilers, but this is much cheaper and easier to set up, while still being efficient with Creosote (6x as efficient as Combustion Generators).ANDpre13240gregtech/gt.blockmachines-512.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cel
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+20tasksANDRetrievalgregtech/gt.blockmachines-837.pngBasic Semi-Fluid Generato;Requires semi-fluid Fuel;Produces 80 pollution/sec;Fuel Efficiency: 95%;Added by: Alkalus - [GT++];Voltage OUT: 32 (LV);Capacity: 3,072 EU
 1

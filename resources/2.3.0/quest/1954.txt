@@ -1,7 +1,7 @@
 1954Genetics/labMachine-1.png0Analyser28-1The Analyzer is a machine that acts in an identical way to the Forestry Analyzer, in that it reveals the genome of bees, trees, butterflies and flowers. It can also be used to reveal the gene present on the DNA Sequence. Unlike the Analyzer, the Analyzer uses power (RF or EU) and DNA Dye to stain chromosomes and determine the genome directly. The analyzer takes 15 seconds to analyse a single individual.
 
-Information from these quests was taken from Binnie's wiki at https://binnie.mods.wiki/wiki/Tutorial/GeneticsANDpre20960Genetics/machine-0.pngrewardsItemGenetics/misc-1.pngDNA Dye
-1enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalGenetics/labMachine-1.pngAnalyzer
-1Genetics/misc-1.pngDNA Dye
+Information from these quests was taken from Binnie's wiki at https://binnie.mods.wiki/wiki/Tutorial/GeneticsANDpre20960Genetics/machine-0.pngrewardsItemGenetics/misc-1.pngDNA Dy
+1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalGenetics/labMachine-1.pngAnalyze
+1Genetics/misc-1.pngDNA Dy
 8

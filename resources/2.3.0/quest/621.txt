@@ -1,11 +1,11 @@
 621gregtech/gt.blockores-933.png0§6§5§lHow to Get Sodium4-1A second source for sodium is glauconite ore or glauconite sand. This type of ore vein can be found at Y level 20-50.
 
-Soapstone and talc can be used for lubricant.ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/coleslawburgerItem-0.pngColeslaw Burger;harvestcraft:coleslawburgerItem
-1harvestcraft/sesameseedsItem-0.pngSesame Seeds;harvestcraft:sesameseedsItem
-5enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-15tasksANDRetrievalgregtech/gt.blockores-933.pngGlauconite Ore;KMg\u2082Al\u2084H\u2082O\u2081\u2082
-32gregtech/gt.blockores-909.pngPentlandite Ore;Ni\u2089S\u2088
-16gregtech/gt.blockores-877.pngSoapstone Ore;Mg\u2083Si\u2084H\u2082O\u2081\u2082
-16gregtech/gt.blockores-902.pngTalc;Mg\u2083Si\u2084H\u2082O\u2081\u2082
+Soapstone and talc can be used for lubricant.ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/coleslawburgerItem-0.pngColeslaw Burge;harvestcraft:coleslawburgerItem
+1harvestcraft/sesameseedsItem-0.pngSesame Seed;harvestcraft:sesameseedsItem
+5enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+15tasksANDRetrievalgregtech/gt.blockores-933.pngGlauconite Or;KMg\u2082Al\u2084H\u2082O\u2081\u2082
+32gregtech/gt.blockores-909.pngPentlandite Or;Ni\u2089S\u2088
+16gregtech/gt.blockores-877.pngSoapstone Or;Mg\u2083Si\u2084H\u2082O\u2081\u2082
+16gregtech/gt.blockores-902.pngTal;Mg\u2083Si\u2084H\u2082O\u2081\u2082
 16

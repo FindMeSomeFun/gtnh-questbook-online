@@ -1,10 +1,10 @@
-703AWWayofTime/bloodMagicBaseItems-28.png1Powerful Shards37-1The demons summoned are rather strong, but their souls contain immense power!ANDpre7141AWWayofTime/blockCrystalBelljar-0-magicales.pngrewardsItemAWWayofTime/demonicSlate-0.pngDemonic Slate;Infused stone inside of;a blood altar
-4ChoiceAWWayofTime/bloodMagicBaseItems-29.pngSoul Shard
-8AWWayofTime/bloodMagicBaseItems-28.pngLife Shard
-8enhancedlootbags/lootbag-18.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
-1dreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000"
-1tasksANDOptionalAWWayofTime/bloodMagicBaseItems-29.pngSoul Shard
-20AWWayofTime/bloodMagicBaseItems-28.pngLife Shard
-20RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluster
+703AWWayofTime/bloodMagicBaseItems-28.png1Powerful Shards37-1The demons summoned are rather strong, but their souls contain immense power!ANDpre7141AWWayofTime/blockCrystalBelljar-0-magicales.pngrewardsItemAWWayofTime/demonicSlate-0.pngDemonic Slat;Infused stone inside of;a blood altar
+4ChoiceAWWayofTime/bloodMagicBaseItems-29.pngSoul Shar
+8AWWayofTime/bloodMagicBaseItems-28.pngLife Shar
+8enhancedlootbags/lootbag-18.pngLootBag (BM Master;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000
+1dreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000
+1tasksANDOptionalAWWayofTime/bloodMagicBaseItems-29.pngSoul Shar
+20AWWayofTime/bloodMagicBaseItems-28.pngLife Shar
+20RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluste
 4

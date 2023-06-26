@@ -1,6 +1,6 @@
 2097Genetics/machine-1.png0Sequencer28-1After obtaining a DNA Sequence with the gene that you wish, it must be placed in the Sequencer. This uses Fluorescent Dye to determine the correct sequence, and when completed logs the discovery. The important thing here is that the discovery goes to the person who placed the machine.
 
-Genes are sequenced faster if the sequence has been placed in a Polymeriser first to increase the strength.ANDpre20960Genetics/machine-0.pngrewardsItemGenetics/misc-2.pngFluorescent Dye
-16enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalGenetics/machine-1.pngSequencer
+Genes are sequenced faster if the sequence has been placed in a Polymeriser first to increase the strength.ANDpre20960Genetics/machine-0.pngrewardsItemGenetics/misc-2.pngFluorescent Dy
+16enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalGenetics/machine-1.pngSequence
 1

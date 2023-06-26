@@ -2,11 +2,11 @@
 
 You can get Lead, Silver, Cryolite for Aluminium production and Galena (more lead) in the vein.
 
-§3There's some Silver in small ores in the OW and Nether, but this is a better source.ANDpre2251minecraft/end_portal-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalgregtech/gt.blockores-830.pngGalena Ore;PbS
-32gregtech/gt.blockores-89.pngLead Ore;Pb
-32gregtech/gt.blockores-54.pngSilver Ore;Ag
-32gregtech/gt.blockores-699.pngCryolite Ore;Na\u2083AlF\u2086
+§3There's some Silver in small ores in the OW and Nether, but this is a better source.ANDpre2251minecraft/end_portal-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalgregtech/gt.blockores-830.pngGalena Or;PbS
+32gregtech/gt.blockores-89.pngLead Or;Pb
+32gregtech/gt.blockores-54.pngSilver Or;Ag
+32gregtech/gt.blockores-699.pngCryolite Or;Na\u2083AlF\u2086
 16

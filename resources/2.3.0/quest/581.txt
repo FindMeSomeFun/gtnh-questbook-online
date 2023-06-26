@@ -2,15 +2,15 @@
 
 Put some glass or sand into your thermionic fabricator and make your first tubes.
 
-§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?ANDpre5880gregtech/gt.metaitem.01-8530.pngrewardsChoiceForestry/thermionicTubes-0.pngCopper Electron Tube
-2Forestry/thermionicTubes-1.pngTin Electron Tube
-2Forestry/thermionicTubes-2.pngBronze Electron Tube
-2enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-25tasksANDOptionalgregtech/gt.metaitem.02-22530.pngLong Apatite Rod;Ca\u2085(PO\u2084)\u2083Cl
-2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
-2gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-1gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-2minecraft/glass-0.pngGlass;Glass-Tier: HV
-2RetrievalForestry/thermionicTubes-10.pngApatine Electron Tube
+§3You can also use the circuit assembler for a better output. Why did we have you make the TF again?ANDpre5880gregtech/gt.metaitem.01-8530.pngrewardsChoiceForestry/thermionicTubes-0.pngCopper Electron Tub
+2Forestry/thermionicTubes-1.pngTin Electron Tub
+2Forestry/thermionicTubes-2.pngBronze Electron Tub
+2enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+25tasksANDOptionalgregtech/gt.metaitem.02-22530.pngLong Apatite Ro;Ca\u2085(PO\u2084)\u2083Cl
+2gregtech/gt.metaitem.01-26086.pngGold Bol;Au
+2gregtech/gt.metaitem.01-17308.pngRed Alloy Plat;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+1gregtech/gt.metaitem.02-19035.pngFine Copper Wir;Cu
+2minecraft/glass-0.pngGlas;Glass-Tier: HV
+2RetrievalForestry/thermionicTubes-10.pngApatine Electron Tub
 2

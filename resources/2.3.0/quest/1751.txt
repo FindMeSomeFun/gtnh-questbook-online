@@ -4,20 +4,20 @@ Your graphics card allows the computer to draw text and other things to the scre
 
 The better graphics card you use the higher resolution, and better features can be drawn.
 
-You also need a higher tier monitor to display colors or to get touchscreen compatability, but that's something to worry about for another day.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-1.pngMemory;Tier 1
-2OpenComputers/item-8.pngGraphics Card;Tier 1
-1enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1ItemOpenComputers/screen2-0.pngScreen;Hold [NONE] for material costs.
-2miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
-2tasksANDOptionalOpenComputers/item-33.pngCard Base
-1OpenComputers/item-27.pngArithmetic Logic Unit
-8OpenComputers/item-28.pngControl Unit
-1OpenComputers/item-24.pngMicrochip
-1OpenComputers/item-1.pngMemory;Tier 1
-1RetrievalOpenComputers/item-8.pngGraphics Card;Tier 1
-1Optionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-2gregtech/gt.metaitem.01-32740.pngComputer Monitor Cover;Displays Data and GUI
-2gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
-4gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
-4ConsumeOpenComputers/screen1-0.pngScreen;Hold [NONE] for material costs.
+You also need a higher tier monitor to display colors or to get touchscreen compatability, but that's something to worry about for another day.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-1.pngMemory (Tier 1;Tier 1
+2OpenComputers/item-8.pngGraphics Card (Tier 1;Tier 1
+1enhancedlootbags/lootbag-46.pngLootBag (Tier 1 Computers;You feel that a bit more "Fortune" might be a good idea...
+1ItemOpenComputers/screen2-0.pngScreen (Tier 2;Hold [NONE] for material costs.
+2miscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
+2tasksANDOptionalOpenComputers/item-33.pngCard Bas
+1OpenComputers/item-27.pngArithmetic Logic Unit (ALU
+8OpenComputers/item-28.pngControl Unit (CU
+1OpenComputers/item-24.pngMicrochip (Tier 1
+1OpenComputers/item-1.pngMemory (Tier 1;Tier 1
+1RetrievalOpenComputers/item-8.pngGraphics Card (Tier 1;Tier 1
+1Optionalgregtech/gt.blockcasings-2.pngMV Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2gregtech/gt.metaitem.01-32740.pngComputer Monitor Cove;Displays Data and GUI
+2gregtech/gt.metaitem.03-32079.pngGood Integrated Circui;Good Circuit;MV-Tier
+4gregtech/gt.metaitem.01-32717.pngTransisto;Basic Electronic Component
+4ConsumeOpenComputers/screen1-0.pngScreen (Tier 1;Hold [NONE] for material costs.
 2

@@ -4,5 +4,5 @@ This unbelievable material seemed impossible to manipulate into a coil block for
 
 However, the situation changed when you thought about using something more intelligent. By integrating a Wetware or better UHV circuit, the Infinity Coil became a reality, controlled by the ever-watching eyes of the circuitry you've spent months to create. From now on, these eyes will watch over your multiblocks.
 
-Provides 11701 heat. You could upgrade your EBF, though at this point it's more likely to be for your MEBFs or your DTPF.ANDpre18331gregtech/gt.blockcasings5-8.png25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-11.pngInfinity Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 11701 Kelvin
+Provides 11701 heat. You could upgrade your EBF, though at this point it's more likely to be for your MEBFs or your DTPF.ANDpre18331gregtech/gt.blockcasings5-8.png25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-11.pngInfinity Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 11701 Kelvin
 16

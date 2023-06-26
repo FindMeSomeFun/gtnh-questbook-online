@@ -16,14 +16,14 @@ The Acceleration Card makes the device/fixture work faster. You'll probably want
 
 The Inverter Card allows you to invert the item filter of certain fixtures.
 
-The Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. If you just want it to be fuzzy for nbt, set to Match Any. If it is set to 99%, it will work on anything that is damaged. You can use the Inverter Card to reverse this.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalappliedenergistics2/item.ItemMultiMaterial-25.pngBasic Card
-3appliedenergistics2/item.ItemMultiMaterial-28.pngAdvanced Card
-3Retrievalappliedenergistics2/item.ItemMultiMaterial-26.pngRedstone Card;ME Essentia Import/Export Bus;ME Fluid Export Bus;ME Fluid Export/Import Bus;ME Fluid Import Bus;ME IO Port;ME Import/Export Bus;extracells.gas.IO
-1appliedenergistics2/item.ItemMultiMaterial-27.pngCapacity Card;ME Fluid Export/Import Bus (2);extracells.gas.IO (2);ME Essentia Import/Export Bus (2);ME Fluid Import Bus (2);ME Fluid Export Bus (2);ME Import/Export Bus (2);ME Formation Plane (5);ME Fluid Storage Bus (5);ME Storage Bus (5)
-1appliedenergistics2/item.ItemMultiMaterial-53.pngCrafting Card;ME Dual Interface;ME Essentia Import/Export Bus;ME Export Bus;ME Fluid Export Bus;ME Interface;ME Level Emitter;P2P Tunnel - ME Interface
-1appliedenergistics2/item.ItemMultiMaterial-30.pngAcceleration Card;extracells.gas.IO (2);ME Essentia Import/Export Bus (2);ME Fluid Export/Import Bus (2);Inscriber (3);ME IO Port (3);Crystal Growth Chamber (3);ME Import/Export Bus (4);ME Fluid Export Bus (4);Matter Cannon (4);ME Fluid Import Bus (4);Arcane Assembler (4);Advanced Inscriber (5);Molecular Assembler (5)
-1appliedenergistics2/item.ItemMultiMaterial-31.pngInverter Card;Essentia Storage Bus;ME Fluid Storage Bus;ME Formation Plane;ME Gas Storage Bus;ME Storage Bus;ME Storage Cells;Matter Cannon;View Cell;Void ME Storage Cell
-1appliedenergistics2/item.ItemMultiMaterial-29.pngFuzzy Card;ME Formation Plane;ME Import/Export Bus;ME Level Emitter;ME Storage Bus;ME Storage Cells;Matter Cannon;View Cell;Void ME Storage Cell
+The Fuzzy Card allows you to apply fuzzy logic to filtering to allow items with different NBT or damage data to be counted as the same. This is different from metadata. If you just want it to be fuzzy for nbt, set to Match Any. If it is set to 99%, it will work on anything that is damaged. You can use the Inverter Card to reverse this.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalappliedenergistics2/item.ItemMultiMaterial-25.pngBasic Car
+3appliedenergistics2/item.ItemMultiMaterial-28.pngAdvanced Car
+3Retrievalappliedenergistics2/item.ItemMultiMaterial-26.pngRedstone Car;ME Essentia Import/Export Bus;ME Fluid Export Bus;ME Fluid Export/Import Bus;ME Fluid Import Bus;ME IO Port;ME Import/Export Bus;extracells.gas.IO
+1appliedenergistics2/item.ItemMultiMaterial-27.pngCapacity Car;ME Fluid Export/Import Bus (2);extracells.gas.IO (2);ME Essentia Import/Export Bus (2);ME Fluid Import Bus (2);ME Fluid Export Bus (2);ME Import/Export Bus (2);ME Formation Plane (5);ME Fluid Storage Bus (5);ME Storage Bus (5)
+1appliedenergistics2/item.ItemMultiMaterial-53.pngCrafting Car;ME Dual Interface;ME Essentia Import/Export Bus;ME Export Bus;ME Fluid Export Bus;ME Interface;ME Level Emitter;P2P Tunnel - ME Interface
+1appliedenergistics2/item.ItemMultiMaterial-30.pngAcceleration Car;extracells.gas.IO (2);ME Essentia Import/Export Bus (2);ME Fluid Export/Import Bus (2);Inscriber (3);ME IO Port (3);Crystal Growth Chamber (3);ME Import/Export Bus (4);ME Fluid Export Bus (4);Matter Cannon (4);ME Fluid Import Bus (4);Arcane Assembler (4);Advanced Inscriber (5);Molecular Assembler (5)
+1appliedenergistics2/item.ItemMultiMaterial-31.pngInverter Car;Essentia Storage Bus;ME Fluid Storage Bus;ME Formation Plane;ME Gas Storage Bus;ME Storage Bus;ME Storage Cells;Matter Cannon;View Cell;Void ME Storage Cell
+1appliedenergistics2/item.ItemMultiMaterial-29.pngFuzzy Car;ME Formation Plane;ME Import/Export Bus;ME Level Emitter;ME Storage Bus;ME Storage Cells;Matter Cannon;View Cell;Void ME Storage Cell
 1

@@ -1,11 +1,11 @@
-2643dreamcraft/item.HeavyDutyPlateTier8-0.png1Tier 8 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 19 tier 8 heavy duty plates out of tier 7 plates and compressed black plutonium plates.ANDpre26291gregtech/gt.blockmachines-49.png27081GalaxySpace/plutoblocks-6.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-8dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plate
-16IC2/blockITNT-0.pngIndustrial TNT
-768Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
-2dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-2tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-19dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plate
-266gregtech/gt.metaitem.01-26388.pngBlack Plutonium Bolt;SpPu
-228Optionaldreamcraft/item.HeavyDutyAlloyIngotT8-0.pngHeavy Duty Alloy Ingot T8
-19Retrievaldreamcraft/item.HeavyDutyPlateTier8-0.pngHeavy Duty Plate Tier 8
+2643dreamcraft/item.HeavyDutyPlateTier8-0.png1Tier 8 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 19 tier 8 heavy duty plates out of tier 7 plates and compressed black plutonium plates.ANDpre26291gregtech/gt.blockmachines-49.png27081GalaxySpace/plutoblocks-6.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 
+8dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plat
+16IC2/blockITNT-0.pngIndustrial TN
+768Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K
+2dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K
+2tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 
+19dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plat
+266gregtech/gt.metaitem.01-26388.pngBlack Plutonium Bol;SpPu
+228Optionaldreamcraft/item.HeavyDutyAlloyIngotT8-0.pngHeavy Duty Alloy Ingot T
+19Retrievaldreamcraft/item.HeavyDutyPlateTier8-0.pngHeavy Duty Plate Tier 
 19

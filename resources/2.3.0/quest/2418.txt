@@ -8,16 +8,16 @@ If it failed, you may not have enough Altar Power, you need 5450 at least. Try p
 
 If you want to have more than a single changed block, then add Glowstone Dust, Blaze Rod and Attuned Stone (Charged) in order to increase the effect (and Altar Power cost slightly) by +1 for each. Do this before adding in the page.
 
-For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. This should tell you what you need to know. For what each of the brews actually does, see the Effects page. Only Effects use Capacity, and you can have multiple.ANDpre24170witchery/biomenote-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Root
-8minecraft/nether_wart-0.pngNether Wart
-8witchery/ingredient-37.pngTear of the Goddess
-8witchery/ingredient-29.pngDiamond Vapor
-8minecraft/diamond-0.pngDiamond;Burn Time: 102400
-8enhancedlootbags/lootbag-53.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-1tasksANDRetrievalwitchery/ingredient-22.pngMandrake Root
-1minecraft/nether_wart-0.pngNether Wart
-1witchery/ingredient-37.pngTear of the Goddess
-1witchery/ingredient-29.pngDiamond Vapor
-1minecraft/diamond-0.pngDiamond;Burn Time: 102400
+For more detailed info, check out the Witches' Brews book. Click on Brewing, then go to the Brews: Step-by-step page. This should tell you what you need to know. For what each of the brews actually does, see the Effects page. Only Effects use Capacity, and you can have multiple.ANDpre24170witchery/biomenote-0.pngrewardsItemwitchery/ingredient-22.pngMandrake Roo
+8minecraft/nether_wart-0.pngNether War
+8witchery/ingredient-37.pngTear of the Goddes
+8witchery/ingredient-29.pngDiamond Vapo
+8minecraft/diamond-0.pngDiamon;Burn Time: 102400
+8enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+1tasksANDRetrievalwitchery/ingredient-22.pngMandrake Roo
+1minecraft/nether_wart-0.pngNether War
+1witchery/ingredient-37.pngTear of the Goddes
+1witchery/ingredient-29.pngDiamond Vapo
+1minecraft/diamond-0.pngDiamon;Burn Time: 102400
 1

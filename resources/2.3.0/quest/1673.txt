@@ -1,7 +1,7 @@
-1673gregtech/gt.metaitem.03-32047.png1§b§lSoC - System on a Chip8-1To make cheaper LV and MV circuits you need SoCs. System on a chip.ANDpre14070gregtech/gt.blockmachines-594.png16691gregtech/gt.blockmachines-1184.png16711gregtech/gt.metaitem.03-32035.pngrewardsChoicegregtech/gt.metaitem.01-24528.pngYellow Garnet Lens;(Ca\u2083Fe\u2082Si\u2083O\u2081\u2082)\u2085(Ca\u2083Al\u2082Si\u2083O\u2081\u2082)\u2088(Ca\u2083Cr\u2082Si\u2083O\u2081\u2082)\u2083
-1gregtech/gt.metaitem.01-24507.pngTopaz Lens;Al\u2082SiF\u2082H\u2082O\u2086
-1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.03-32046.pngSoC Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32047.pngSoC;System on a Chip
+1673gregtech/gt.metaitem.03-32047.png1§b§lSoC - System on a Chip8-1To make cheaper LV and MV circuits you need SoCs. System on a chip.ANDpre14070gregtech/gt.blockmachines-594.png16691gregtech/gt.blockmachines-1184.png16711gregtech/gt.metaitem.03-32035.pngrewardsChoicegregtech/gt.metaitem.01-24528.pngYellow Garnet Len;(Ca\u2083Fe\u2082Si\u2083O\u2081\u2082)\u2085(Ca\u2083Al\u2082Si\u2083O\u2081\u2082)\u2088(Ca\u2083Cr\u2082Si\u2083O\u2081\u2082)\u2083
+1gregtech/gt.metaitem.01-24507.pngTopaz Len;Al\u2082SiF\u2082H\u2082O\u2086
+1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+5tasksANDOptionalgregtech/gt.metaitem.03-32046.pngSoC Wafe;Raw Circuit
+1Retrievalgregtech/gt.metaitem.03-32047.pngSo;System on a Chip
 6

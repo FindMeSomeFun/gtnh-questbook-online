@@ -2,11 +2,11 @@
 
 They can do good amounts of damage and aggro enemies like the pigmen away from you. They can even take care of that pesky Vampire Pigman.
 
-ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/red_flower-0.pngPoppy
-1Choiceminecraft/iron_ingot-0.pngIron Ingot
-9enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalminecraft/pumpkin-0.pngPumpkin
-1minecraft/iron_block-0.pngBlock of Iron
+ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/red_flower-0.pngPopp
+1Choiceminecraft/iron_ingot-0.pngIron Ingo
+9enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+10tasksANDRetrievalminecraft/pumpkin-0.pngPumpki
+1minecraft/iron_block-0.pngBlock of Iro
 4

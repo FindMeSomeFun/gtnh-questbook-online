@@ -4,11 +4,11 @@ Diesel, as a power source, has widely been known as the optimal choice all the w
 
 At this stage, you can use either LV or MV Diesel Generators. Using the LV ones will mean you need to make more of them, and more pollution, but they have 95% fuel efficiency compared to MV's 90%. It's a difference, but an automated Diesel setup is unlikely to be affected by a 5% change in efficiency.
 
-As you progress, fuel will become more and more power-dense, but also need more steps automated. The next tier is much harder than this one, so get ready!ANDpre29980gregtech/gt.blockmachines-582.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
-64gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
-30gregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-6enhancedlootbags/lootbag-5-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDRetrievalgregtech/gt.metaitem.01-30708.pngDiesel Cell
+As you progress, fuel will become more and more power-dense, but also need more steps automated. The next tier is much harder than this one, so get ready!ANDpre29980gregtech/gt.blockmachines-582.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cel
+64gregtech/gt.metaitem.01-30740.pngLight Fuel Cel
+30gregtech/gt.metaitem.01-30741.pngHeavy Fuel Cel
+6enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1tasksANDRetrievalgregtech/gt.metaitem.01-30708.pngDiesel Cel
 64

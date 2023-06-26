@@ -1,3 +1,3 @@
-1858EnderIO/itemMagnet-0-charged.png0§9§lMagnetic Personality6-1If you haven't received one in a lootbag already, you can craft a nice magnet with a vibrant crystal. It doesn't work great on servers if you're moving around too fast, but it makes harvesting crops a lot easier.ANDpre1410EnderIO/itemMaterial-6.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalEnderIO/itemMagnet-16.pngElectromagnet;0/100,000 RF;Durability: 0 / 16
+1858EnderIO/itemMagnet-0-charged.png0§9§lMagnetic Personality6-1If you haven't received one in a lootbag already, you can craft a nice magnet with a vibrant crystal. It doesn't work great on servers if you're moving around too fast, but it makes harvesting crops a lot easier.ANDpre1410EnderIO/itemMaterial-6.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDRetrievalEnderIO/itemMagnet-16.pngElectromagne;0/100,000 RF;Durability: 0 / 16
 1

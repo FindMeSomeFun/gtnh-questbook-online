@@ -1,4 +1,4 @@
-1951TwilightForest/item.knightlyHelm-0.png0And I Dub Thee Sir Knight13-1Need an infinite source of knightmetal? It will be a hard plant to grow. Make sure you provide plenty of nutrients, clean air, fertilizer and water. Don't cry to me if it dies. Any oreberry is a good source crop, with Cobalt and Ardite best, then iron and the rest.ANDpre18070TwilightForest/item.steeleafIngot-0.pngrewardsItemgregtech/gt.blockmetal4-0.pngBlock of Knightmetal
-1enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-2tasksANDRetrievalIC2/itemCropSeed-0.pngKnightly Oreberry Seeds;Gr 0;Ga 0;Re 0
+1951TwilightForest/item.knightlyHelm-0.png0And I Dub Thee Sir Knight13-1Need an infinite source of knightmetal? It will be a hard plant to grow. Make sure you provide plenty of nutrients, clean air, fertilizer and water. Don't cry to me if it dies. Any oreberry is a good source crop, with Cobalt and Ardite best, then iron and the rest.ANDpre18070TwilightForest/item.steeleafIngot-0.pngrewardsItemgregtech/gt.blockmetal4-0.pngBlock of Knightmeta
+1enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops;Your luck is increased by 100 %;Fortune III
+2tasksANDRetrievalIC2/itemCropSeed-0.pngKnightly Oreberry Seed;Gr 0;Ga 0;Re 0
 1

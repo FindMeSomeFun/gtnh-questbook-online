@@ -17,9 +17,9 @@ There are 8 types of chips:
 
 -Item crafting chips craft things. 
 
--Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.ANDpre1270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceIC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2ProjRedCore/projectred.core.part-0.pngCircuit Plate
-2enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
+-Item crafting extension chips are placed inside the item crafting chips. Make sure you randomize the id.ANDpre1270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceIC2/itemPartCircuit-0.pngElectronic Circui;LV-tier
+2ProjRedCore/projectred.core.part-0.pngCircuit Plat
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chi
 4

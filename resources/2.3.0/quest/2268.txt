@@ -1,9 +1,9 @@
-2268OpenBlocks/luggage-0.png0Who Needs Friends?32-1Luggage is better than a dumb old traveling trunk. It automatically picks up dropped items, saving you time while mining. It's near-invulnerable, including in lava. It will follow you like an eager puppy, to the ends of the earth - but you probably should pick her up before changing dimensions. A lightning strike can provide more room. Shift right-clicking will turn it back into an item without losing its contents. Look for her in the GTNH tab of the Thaumonomicon.ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Air;Improves Speed
-1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Earth;Improves Strength
-1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fire;Improves Damage, Capacity
-1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Water;Improves Senses, Range
-1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy;Improves Defenses, Reasoning
-1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy;Improves Defenses, Reasoning
-1tasksANDRetrievalOpenBlocks/luggage-0.pngLuggage
+2268OpenBlocks/luggage-0.png0Who Needs Friends?32-1Luggage is better than a dumb old traveling trunk. It automatically picks up dropped items, saving you time while mining. It's near-invulnerable, including in lava. It will follow you like an eager puppy, to the ends of the earth - but you probably should pick her up before changing dimensions. A lightning strike can provide more room. Shift right-clicking will turn it back into an item without losing its contents. Look for her in the GTNH tab of the Thaumonomicon.ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Ai;Improves Speed
+1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Eart;Improves Strength
+1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fir;Improves Damage, Capacity
+1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Wate;Improves Senses, Range
+1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entrop;Improves Defenses, Reasoning
+1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entrop;Improves Defenses, Reasoning
+1tasksANDRetrievalOpenBlocks/luggage-0.pngLuggag
 1

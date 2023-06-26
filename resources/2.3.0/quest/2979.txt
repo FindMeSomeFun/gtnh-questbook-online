@@ -1,7 +1,7 @@
-2979irontank/emeraldTank-0.png0§5§6§l§5§lAluminium Tank4-1If you make some Double Aluminium Plates, you can make a new 96,000L single block tank.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemirontank/diamondEmeraldUpgrade-0.pngDiamond to Aluminium Tank Upgrade
-1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-18019.pngDouble Aluminium Plate;Al
-1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-1Retrievalirontank/emeraldTank-0.pngAluminium Tank;Glass-Tier: HV;Stores up to 96 Buckets of one Liquid Not portable, use a dolly
+2979irontank/emeraldTank-0.png0§5§6§l§5§lAluminium Tank4-1If you make some Double Aluminium Plates, you can make a new 96,000L single block tank.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemirontank/diamondEmeraldUpgrade-0.pngDiamond to Aluminium Tank Upgrad
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDOptionalgregtech/gt.metaitem.01-18019.pngDouble Aluminium Plat;Al
+1BuildCraftFactory/tankBlock-0.pngTan;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+1Retrievalirontank/emeraldTank-0.pngAluminium Tan;Glass-Tier: HV;Stores up to 96 Buckets of one Liquid Not portable, use a dolly
 1

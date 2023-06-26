@@ -1,7 +1,7 @@
 3118gregtech/gt.metaitem.01-30653.png0Green Nitric Acid22-1One half of TNM is Nitric Acid, which has more paths to reach it than can be listed here. It's basically Hydrogen, Nitrogen and Oxygen merged together, and many compounds made from these things can lead you to Nitric Acid. How you get this is up to you, but it might be a lot easier if you already automated some Distillation Tower setups for other renewable resources.
 
-Let me explain. Nitric Acid can be made directly from Ammonia and Oxygen. O2 has many sources, and you should have already automated it, but Ammonia is harder to get: you either make it from Nitrogen Oxide and Dioxide, or you skip all that with a Fermented Biomass DT, which outputs Ammonia directly. That is the fastest way, if you already made that setup, otherwise you'll need to chain several reactions together.ANDpre31070minecraft/fish-3.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
-64enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-2tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+Let me explain. Nitric Acid can be made directly from Ammonia and Oxygen. O2 has many sources, and you should have already automated it, but Ammonia is harder to get: you either make it from Nitrogen Oxide and Dioxide, or you skip all that with a Fermented Biomass DT, which outputs Ammonia directly. That is the fastest way, if you already made that setup, otherwise you'll need to chain several reactions together.ANDpre31070minecraft/fish-3.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cel
+64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+2tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cel;HNO\u2083
 64

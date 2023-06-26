@@ -6,10 +6,10 @@ Good lord, these mysterious crystals have eaten away my diamond grinding head! H
 
 Do you see that pile of Rhodium and Palladium over there? No? Neither do I. Because the machine was VAPORIZED! Good that you gave me 2 singularities, the first one... Well... Just get me a better casing, would you?
 
-It seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?ANDpre3760harvestcraft/supremepizzaItem-0.png3810GalaxySpace/item.UnknowCrystal-0.png3820AWWayofTime/bloodMagicBaseItems-28.png3830TaintedMagic/ItemMaterial-5.png3840appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-42.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDConsumegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
-10Consumegregtech/gt.metaitem.01-32723.pngTungsten Grinding Head
-1Consumegregtech/gt.blockmachines-17.pngZPM Machine Hull;You just need Imagination to use this.;Voltage IN: 131,072 (ZPM);Voltage OUT: 131,072 (ZPM);Capacity: 6,554,112 EU
-1Consumegregtech/gt.metaitem.01-32675.pngField Generator
+It seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?ANDpre3760harvestcraft/supremepizzaItem-0.png3810GalaxySpace/item.UnknowCrystal-0.png3820AWWayofTime/bloodMagicBaseItems-28.png3830TaintedMagic/ItemMaterial-5.png3840appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-42.pngLootBag (Tier 7 ZPM;You feel that a bit more "Fortune" might be a good idea...
+2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+1tasksANDConsumegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainfram;An Ultimate Circuit;ZPM-Tier
+10Consumegregtech/gt.metaitem.01-32723.pngTungsten Grinding Hea
+1Consumegregtech/gt.blockmachines-17.pngZPM Machine Hul;You just need Imagination to use this.;Voltage IN: 131,072 (ZPM);Voltage OUT: 131,072 (ZPM);Capacity: 6,554,112 EU
+1Consumegregtech/gt.metaitem.01-32675.pngField Generator (LuV
 2

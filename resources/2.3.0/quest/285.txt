@@ -1,9 +1,9 @@
 285Thaumcraft/ItemResource-17.png1Concentrated Darkness32-1For some reason, you decided to infuse darkness into a seed. It appeared to be promising. For what? You don't know...
 
-§3For the Eldritch research you need to be > 30 for the first, and > 50 for the second. Temporary warp won't work, however.ANDpre2521minecraft/cake-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1Thaumcraft/ItemResource-16.pngVoid metal Ingot
-4Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDConsumeThaumcraft/ItemResource-17.pngVoid Seed
-2RetrievalThaumcraft/ItemResource-16.pngVoid metal Ingot
+§3For the Eldritch research you need to be > 30 for the first, and > 50 for the second. Temporary warp won't work, however.ANDpre2521minecraft/cake-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1Thaumcraft/ItemResource-16.pngVoid metal Ingo
+4Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1tasksANDConsumeThaumcraft/ItemResource-17.pngVoid See
+2RetrievalThaumcraft/ItemResource-16.pngVoid metal Ingo
 1

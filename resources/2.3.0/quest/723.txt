@@ -8,12 +8,12 @@ The highest score for GGR is 31, while the lowest is 0.
 
 §4Remember that you can §5permanantly brick your character!§4 So make a backup first if you don't know what you're doing, or want to edit your actual character.§r
 
-Of course, you can't do any of this on a server.ANDpre7210Natura/N Crops-0.pngrewardsChoiceminecraft/glowstone-0.pngGlowstone;Glass-Tier: HV
-32IC2/blockCrop-0.pngCrop
-128enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDRetrievalminecraft/carrot-0.pngCarrot;minecraft:carrot
-64minecraft/potato-0.pngPotato;minecraft:potato
-64minecraft/melon_block-0.pngMelon
-32minecraft/pumpkin-0.pngPumpkin
+Of course, you can't do any of this on a server.ANDpre7210Natura/N Crops-0.pngrewardsChoiceminecraft/glowstone-0.pngGlowston;Glass-Tier: HV
+32IC2/blockCrop-0.pngCro
+128enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops;Your luck is increased by 100 %;Fortune III
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+15tasksANDRetrievalminecraft/carrot-0.pngCarro;minecraft:carrot
+64minecraft/potato-0.pngPotat;minecraft:potato
+64minecraft/melon_block-0.pngMelo
+32minecraft/pumpkin-0.pngPumpki
 32

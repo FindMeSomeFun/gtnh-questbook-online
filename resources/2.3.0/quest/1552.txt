@@ -1,4 +1,4 @@
-1552StevesCarts/BlockDistributor-0.png0Further Automation25-1If you want to load and unload a lot of different items from your cargo manager the pipes can get quite messy. The external distributor is a block you can place next to your cargo manager and it will help you to access different slots which you can specify in its GUI. Quite handy for pumping items in and out!ANDpre1080StevesCarts/BlockCargoManager-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalStevesCarts/BlockDistributor-0.pngExternal Distributor
+1552StevesCarts/BlockDistributor-0.png0Further Automation25-1If you want to load and unload a lot of different items from your cargo manager the pipes can get quite messy. The external distributor is a block you can place next to your cargo manager and it will help you to access different slots which you can specify in its GUI. Quite handy for pumping items in and out!ANDpre1080StevesCarts/BlockCargoManager-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalStevesCarts/BlockDistributor-0.pngExternal Distributo
 1

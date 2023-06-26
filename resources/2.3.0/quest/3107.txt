@@ -2,12 +2,12 @@
 
 As before, you can use IC2 crops, regular crops/trees or fishing. For IC2 crops, you can use the Multifarm set to IC2 crop mode, which needs HV-gated Uranium Electrum Tubes but automated more than 1000 crops while being very conservative with power and fertilizer, or the HV Crop Manager. For normal crops/trees, use the EnderIO Farming Station, also unlocked in HV. For fishing, you don't have new tools, you can only add more Fish Catchers or use Goldfish IC2 crops if you're oriented that way.
 
-To complete this quest, make a Multifarm, a Farming Station or some Fish Catchers.ORpre1601gregtech/gt.blockmachines-13.png31020gregtech/gt.metaitem.01-30627.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1minecraft/fish-3.pngPufferfish;minecraft:fish
-1tasksANDOptionalForestry/ffarm-0.pngFarm Block;Stone Bricks
-36OptionalEnderIO/blockFarmStation-0.pngFarming Station
-1Optionalmiscutils/blockFishTrap-0.pngFish Catcher;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
-8Retrievalgregtech/gt.blockmachines-513.pngAdvanced Fluid Extractor II;Extracting Fluids from Items;Voltage IN: 512 (HV);Capacity: 32,768 EU
+To complete this quest, make a Multifarm, a Farming Station or some Fish Catchers.ORpre1601gregtech/gt.blockmachines-13.png31020gregtech/gt.metaitem.01-30627.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1minecraft/fish-3.pngPufferfis;minecraft:fish
+1tasksANDOptionalForestry/ffarm-0.pngFarm Bloc;Stone Bricks
+36OptionalEnderIO/blockFarmStation-0.pngFarming Statio
+1Optionalmiscutils/blockFishTrap-0.pngFish Catche;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
+8Retrievalgregtech/gt.blockmachines-513.pngAdvanced Fluid Extractor I;Extracting Fluids from Items;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

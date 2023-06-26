@@ -2,17 +2,17 @@
 
 The Brew can be thrown at the ground and the liquid will burst out (the source block can later be picked up in a bucket). Standing in the liquid will have a minor healing effect for most creatures. Demonic or undead creatures will be weakened. Nightmares standing in the liquid will lose their invulnerability effect!
 
-Having a pool of flowing spirit near a Dream Weaver of Nightmares will decrease the chance of a nightmare by 10 percent for each source block (up to 3).ANDpre15920witchery/altar-0.png15930witchery/kettle-0.png15950witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
-32enhancedlootbags/lootbag-55.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-5dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+Having a pool of flowing spirit near a Dream Weaver of Nightmares will decrease the chance of a nightmare by 10 percent for each source block (up to 3).ANDpre15920witchery/altar-0.png15930witchery/kettle-0.png15950witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotto
+32enhancedlootbags/lootbag-55.pngLootBag (Witchery Witch;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+5dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
 5tasksANDLocationDIM/55-.pngSpirit World
-1Optionalwitchery/ingredient-100.pngFanciful Thread
-1witchery/spanishmoss-0.pngSpanish Moss
-1witchery/ingredient-69.pngWater Artichoke Globe
-1witchery/ingredient-22.pngMandrake Root
-1witchery/glintweed-0.pngGlint Weed
-1witchery/ingredient-24.pngWool of Bat
-1Retrievalwitchery/ingredient-96.pngBrew of Flowing Spirit
+1Optionalwitchery/ingredient-100.pngFanciful Threa
+1witchery/spanishmoss-0.pngSpanish Mos
+1witchery/ingredient-69.pngWater Artichoke Glob
+1witchery/ingredient-22.pngMandrake Roo
+1witchery/glintweed-0.pngGlint Wee
+1witchery/ingredient-24.pngWool of Ba
+1Retrievalwitchery/ingredient-96.pngBrew of Flowing Spiri
 3

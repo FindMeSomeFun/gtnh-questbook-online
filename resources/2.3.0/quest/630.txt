@@ -1,7 +1,7 @@
-630harvestcraft/fishtrapbaitItem-0.png0Fish Bait13-1Crafting some fish bait for your fish trap.ANDpre6330harvestcraft/fishtrap-0.pngrewardsChoiceharvestcraft/fruitbaitItem-0.pngFruit Bait
-4harvestcraft/veggiebaitItem-0.pngVeggie Bait
-4harvestcraft/grainbaitItem-0.pngGrain Bait
-4enhancedlootbags/lootbag-28.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDCraftingharvestcraft/fishtrapbaitItem-0.pngFish Trap Bait
+630harvestcraft/fishtrapbaitItem-0.png0Fish Bait13-1Crafting some fish bait for your fish trap.ANDpre6330harvestcraft/fishtrap-0.pngrewardsChoiceharvestcraft/fruitbaitItem-0.pngFruit Bai
+4harvestcraft/veggiebaitItem-0.pngVeggie Bai
+4harvestcraft/grainbaitItem-0.pngGrain Bai
+4enhancedlootbags/lootbag-28.pngLootBag (Fast Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+15tasksANDCraftingharvestcraft/fishtrapbaitItem-0.pngFish Trap Bai
 16

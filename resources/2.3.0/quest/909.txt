@@ -1,9 +1,9 @@
 909minecraft/skull-4.png0Time to Kill (Creeper)39432000Who hasn't experienced this... You're just minding your own business, mining a few diamonds, and suddenly, you wake up in your bed, all your items gone. 
 
-Time to strike back!ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+Time to strike back!ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
+1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
 25tasksANDHuntmobs/Creeper-.pngCreeper
 10

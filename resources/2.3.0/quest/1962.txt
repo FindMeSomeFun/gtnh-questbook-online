@@ -1,5 +1,5 @@
-1962Botany/ceramicBrick-16387-347707.png0Tile Patterns15-1Now that you have tiles, you can make simple tile patterns.  A 2x2 of red/yellow and yellow/red makes a simple checkerboard. Using the checkerboard again in a 2x2 makes a checkerboard with smaller tiles. Use Binnie's Botany wiki page to find more patterns you can make with just tiles.ANDpre19610Botany/ceramicBrick-16387-20046.pngrewardsChoiceBotany/ceramicBrick-2827-2827.pngCeramic Tile;Dark Green
-16Botany/ceramicBrick-16387-17476.pngCeramic Tile;Slate
-16tasksANDRetrievalBotany/ceramicBrick-16387-282171.pngSplit Ceramic Tile;Red & Yellow
-4Botany/ceramicBrick-16387-347707.pngChequered Ceramic Tile;Red & Yellow
+1962Botany/ceramicBrick-16387-347707.png0Tile Patterns15-1Now that you have tiles, you can make simple tile patterns.  A 2x2 of red/yellow and yellow/red makes a simple checkerboard. Using the checkerboard again in a 2x2 makes a checkerboard with smaller tiles. Use Binnie's Botany wiki page to find more patterns you can make with just tiles.ANDpre19610Botany/ceramicBrick-16387-20046.pngrewardsChoiceBotany/ceramicBrick-2827-2827.pngCeramic Til;Dark Green
+16Botany/ceramicBrick-16387-17476.pngCeramic Til;Slate
+16tasksANDRetrievalBotany/ceramicBrick-16387-282171.pngSplit Ceramic Til;Red & Yellow
+4Botany/ceramicBrick-16387-347707.pngChequered Ceramic Til;Red & Yellow
 4

@@ -1,11 +1,11 @@
 1554witchery/ingredient-31.png0Exhale of the Horned One36-1Exhale of the Horned One is an ingredient used in many recipes. It is acquired with a random chance when burning Oak saplings in an oven.
 
-You'll also get Wood Ash when burning saplings. It's useful, don't toss it.ANDpre3320witchery/witchesovenidle-0.pngrewardsItemwitchery/ingredient-27.pngClay Jar
-8enhancedlootbags/lootbag-52.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
-25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-25tasksANDOptionalminecraft/sapling-0.pngOak Sapling;Burn Time: 100
-64witchery/ingredient-27.pngClay Jar
-16Retrievalwitchery/ingredient-31.pngExhale of the Horned One
+You'll also get Wood Ash when burning saplings. It's useful, don't toss it.ANDpre3320witchery/witchesovenidle-0.pngrewardsItemwitchery/ingredient-27.pngClay Ja
+8enhancedlootbags/lootbag-52.pngLootBag (Witchery Novice;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
+25tasksANDOptionalminecraft/sapling-0.pngOak Saplin;Burn Time: 100
+64witchery/ingredient-27.pngClay Ja
+16Retrievalwitchery/ingredient-31.pngExhale of the Horned On
 16

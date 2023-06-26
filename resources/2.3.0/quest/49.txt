@@ -1,15 +1,15 @@
 49minecraft/piston-0.png1§3§lThe Hell is That?3-1In order to get more machines, you'll need pistons. But not those amateurish ones, you need special ones, and I shall guide you in the making of them.
 
-§3PS: Infernals can drop them, though you won't get credit for the quest that way.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block;Burn Time: 300
-6Choiceminecraft/sticky_piston-0.pngSticky Piston
-2minecraft/piston-0.pngPiston
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Rod;Fe
-4Optionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-2Optionalgregtech/gt.metaitem.02-20032.pngSmall Iron Gear;Fe
-2OptionalCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block;Burn Time: 300
-3Optionalgregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-1Optionalminecraft/cobblestone-0.pngCobblestone
-2Optionalminecraft/fence-0.pngFence;Burn Time: 300
-1Craftingminecraft/piston-0.pngPiston
+§3PS: Infernals can drop them, though you won't get credit for the quest that way.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Bloc;Burn Time: 300
+6Choiceminecraft/sticky_piston-0.pngSticky Pisto
+2minecraft/piston-0.pngPisto
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Ro;Fe
+4Optionalgregtech/gt.metaitem.01-17032.pngIron Plat;Fe
+2Optionalgregtech/gt.metaitem.02-20032.pngSmall Iron Gea;Fe
+2OptionalCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Bloc;Burn Time: 300
+3Optionalgregtech/gt.metaitem.01-17308.pngRed Alloy Plat;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+1Optionalminecraft/cobblestone-0.pngCobbleston
+2Optionalminecraft/fence-0.pngFenc;Burn Time: 300
+1Craftingminecraft/piston-0.pngPisto
 1

@@ -1,9 +1,9 @@
-859gregtech/gt.metaitem.01-30684.png0§a§lHypochlorous Acid7-1You'll need this for epichlorohydrin.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.blockores-826.pngCinnabar Ore;HgS
-16IC2/itemCellEmpty-0.pngEmpty Cell
-16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-1IC2/itemCellEmpty-1.pngWater Cell
-1gregtech/gt.metaitem.01-30087.pngMercury Cell;Hg
-1Retrievalgregtech/gt.metaitem.01-30684.pngHypochlorous Acid Cell;HClO
+859gregtech/gt.metaitem.01-30684.png0§a§lHypochlorous Acid7-1You'll need this for epichlorohydrin.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.blockores-826.pngCinnabar Or;HgS
+16IC2/itemCellEmpty-0.pngEmpty Cel
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5tasksANDOptionalgregtech/gt.metaitem.01-30023.pngChlorine Cel;Cl
+1IC2/itemCellEmpty-1.pngWater Cel
+1gregtech/gt.metaitem.01-30087.pngMercury Cel;Hg
+1Retrievalgregtech/gt.metaitem.01-30684.pngHypochlorous Acid Cel;HClO
 1

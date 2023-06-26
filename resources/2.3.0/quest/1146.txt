@@ -14,10 +14,10 @@ For machine outputs, including the boilers, and RC water tanks (the one made of 
 
 You can put covers such as GT oak planks or plates on a pipe as well. Normally this prevents connections in that direction, but you can use a screwdriver to enable connections. This lets you make pipes that look nice going through walls. Use a crowbar to remove covers.
 
-§3Hint: If you click one pipe onto the other they will auto-connect.ANDpre351gregtech/gt.metaitem.01-2300.pngrewardsChoiceIronChest/woodIronUpgrade-0.pngWood to Iron Chest Upgrade
-2gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
-8enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate;SnCu\u2083
-6Craftinggregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,000 K
+§3Hint: If you click one pipe onto the other they will auto-connect.ANDpre351gregtech/gt.metaitem.01-2300.pngrewardsChoiceIronChest/woodIronUpgrade-0.pngWood to Iron Chest Upgrad
+2gregtech/gt.metaitem.01-11300.pngBronze Ingo;SnCu\u2083
+8enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+5tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plat;SnCu\u2083
+6Craftinggregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pip;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,000 K
 1

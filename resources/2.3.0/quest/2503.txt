@@ -1,5 +1,5 @@
-2503thaumicenergistics/storage.essentia-2.png016k Essentia Storage Cell27-1These hold 32,768 units of essentia.ANDpre24990thaumicenergistics/storage.component-2.pngrewardsItemdreamcraft/item.EssentiaCircuit-0.pngEssentia Circuit
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDRetrievalthaumicenergistics/storage.essentia-2.png16k ME Essentia Storage Cell;0 of 16348 bytes used.;0 of 12 essentia types stored.
+2503thaumicenergistics/storage.essentia-2.png016k Essentia Storage Cell27-1These hold 32,768 units of essentia.ANDpre24990thaumicenergistics/storage.component-2.pngrewardsItemdreamcraft/item.EssentiaCircuit-0.pngEssentia Circui
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2tasksANDRetrievalthaumicenergistics/storage.essentia-2.png16k ME Essentia Storage Cel;0 of 16348 bytes used.;0 of 12 essentia types stored.
 1

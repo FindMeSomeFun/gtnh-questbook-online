@@ -1,10 +1,10 @@
-1021gregtech/gt.metaitem.01-30718.png1§6§r§6§k§r§6§lSodium Persulfate5-1Sodium Persulfate can be made in the electrolyzer out of sodium bisulfate dust. Sodium bisulfate is made out of sulfuric acid and salt in the chemical reactor.You can etch your board with it.ANDpre7501gregtech/gt.metaitem.01-17874.pngrewardsChoicegregtech/gt.metaitem.01-30693.pngIron III Chloride Cell;Cl\u2083Fe
-8gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-2gregtech/gt.metaitem.01-2817.pngSalt;NaCl
-4Optionalgregtech/gt.metaitem.01-2630.pngSodium Bisulfate Dust;NaHSO\u2084
-14Retrievalgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell;Na\u2082S\u2082O\u2088
+1021gregtech/gt.metaitem.01-30718.png1§6§r§6§k§r§6§lSodium Persulfate5-1Sodium Persulfate can be made in the electrolyzer out of sodium bisulfate dust. Sodium bisulfate is made out of sulfuric acid and salt in the chemical reactor.You can etch your board with it.ANDpre7501gregtech/gt.metaitem.01-17874.pngrewardsChoicegregtech/gt.metaitem.01-30693.pngIron III Chloride Cel;Cl\u2083Fe
+8gregtech/gt.metaitem.01-30013.pngOxygen Cel;O
+8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cel;H\u2082SO\u2084
+2gregtech/gt.metaitem.01-2817.pngSal;NaCl
+4Optionalgregtech/gt.metaitem.01-2630.pngSodium Bisulfate Dus;NaHSO\u2084
+14Retrievalgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cel;Na\u2082S\u2082O\u2088
 1

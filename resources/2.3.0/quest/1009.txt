@@ -1,9 +1,9 @@
 1009miscutils/blockFishTrap-0.png0Fish Trapping 2.013-1Fishing can be very boring. Why not automate it with a fish trap?
 
-This is fish trap 2.0.ANDpre651gregtech/gt.metaitem.01-11305.png6330harvestcraft/fishtrap-0.pngrewardsItemgregtech/gt.blockmachines-5132.pngSteel Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
-8dreamcraft/item.SteelBars-0.pngSteel Bars
-4IronChest/BlockIronChest-4.pngSteel Chest;8*9 Inventory - 72 Slots
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-20dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-20tasksANDCraftingmiscutils/blockFishTrap-0.pngFish Catcher;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
+This is fish trap 2.0.ANDpre651gregtech/gt.metaitem.01-11305.png6330harvestcraft/fishtrap-0.pngrewardsItemgregtech/gt.blockmachines-5132.pngSteel Fluid Pip;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
+8dreamcraft/item.SteelBars-0.pngSteel Bar
+4IronChest/BlockIronChest-4.pngSteel Ches;8*9 Inventory - 72 Slots
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+20dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+20tasksANDCraftingmiscutils/blockFishTrap-0.pngFish Catche;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
 1

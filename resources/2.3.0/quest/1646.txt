@@ -1,8 +1,8 @@
 1646witchery/ingredient-102.png0Rumplestiltskin!36-1Spinning hay into gold sounds like a fairy tale, but with your new magical spinning wheel you too can try tricking a queen into giving you their first born child.
 
-You will need three for your witchwear, and can turn extra into gold nuggets in a furnace.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/ingredient-102.pngGolden Thread
-1enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalwitchery/ingredient-102.pngGolden Thread
+You will need three for your witchwear, and can turn extra into gold nuggets in a furnace.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/ingredient-102.pngGolden Threa
+1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1tasksANDRetrievalwitchery/ingredient-102.pngGolden Threa
 2

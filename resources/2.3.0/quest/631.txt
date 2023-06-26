@@ -1,6 +1,6 @@
-631harvestcraft/animaltrap-0.png0Animal Trapping13-1Tired of hunting for cows, zombies or sheep? You can build a trap and hope some animal or monster drops will be caught by the netting inside.ORpre361gregtech/gt.metatool.01-16.pngrewardsItemminecraft/trapdoor-0.pngTrapdoor;Burn Time: 300
-1harvestcraft/hamburgerItem-0.pngHamburger;harvestcraft:hamburgerItem
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDCraftingharvestcraft/animaltrap-0.pngAnimal Trap;Burn Time: 300
+631harvestcraft/animaltrap-0.png0Animal Trapping13-1Tired of hunting for cows, zombies or sheep? You can build a trap and hope some animal or monster drops will be caught by the netting inside.ORpre361gregtech/gt.metatool.01-16.pngrewardsItemminecraft/trapdoor-0.pngTrapdoo;Burn Time: 300
+1harvestcraft/hamburgerItem-0.pngHamburge;harvestcraft:hamburgerItem
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+15tasksANDCraftingharvestcraft/animaltrap-0.pngAnimal Tra;Burn Time: 300
 1

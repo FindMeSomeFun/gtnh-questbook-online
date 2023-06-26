@@ -1,4 +1,4 @@
-221openmodularturrets/baseTierFourBlock-0.png0§b§lTurret Base Tier 514-1The last one, I promise. Used for the most powerful turrets available. You wonder if they might help you take out some more... "Dangerous" enemies?ANDpre2200openmodularturrets/chamberTierFive-0.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalopenmodularturrets/baseTierFourBlock-0.pngTurret Base;--Energy--;Max capacity: 10000000;Max IO: 5000;--Extras--;2x Addon slots;2x Upgrade slots;I wonder if this thing;can do a barrel-roll...
+221openmodularturrets/baseTierFourBlock-0.png0§b§lTurret Base Tier 514-1The last one, I promise. Used for the most powerful turrets available. You wonder if they might help you take out some more... "Dangerous" enemies?ANDpre2200openmodularturrets/chamberTierFive-0.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDRetrievalopenmodularturrets/baseTierFourBlock-0.pngTurret Base (Tier 5;--Energy--;Max capacity: 10000000;Max IO: 5000;--Extras--;2x Addon slots;2x Upgrade slots;I wonder if this thing;can do a barrel-roll...
 2

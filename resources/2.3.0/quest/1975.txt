@@ -1,3 +1,3 @@
-1975ProjRedIllumination/projectred.illumination.flightbutton-7.png0ProjectRed Lights With a Purpose15-1ProjectRed offers a couple of special lights that can be used as buttons. The normal buttons are always lit up. The Feedback buttons are lit up when powered by any redstone signal.ANDpre5541gregtech/gt.blockmachines-581.pngrewardsItemProjRedIllumination/projectred.illumination.flightbutton-8.pngLight Grey Illumar Feedback Button
-1tasksANDRetrievalProjRedIllumination/projectred.illumination.lightbutton-9.pngCyan Illumar Button
+1975ProjRedIllumination/projectred.illumination.flightbutton-7.png0ProjectRed Lights With a Purpose15-1ProjectRed offers a couple of special lights that can be used as buttons. The normal buttons are always lit up. The Feedback buttons are lit up when powered by any redstone signal.ANDpre5541gregtech/gt.blockmachines-581.pngrewardsItemProjRedIllumination/projectred.illumination.flightbutton-8.pngLight Grey Illumar Feedback Butto
+1tasksANDRetrievalProjRedIllumination/projectred.illumination.lightbutton-9.pngCyan Illumar Butto
 1

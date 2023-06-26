@@ -2,9 +2,9 @@
 
 These require the original block directly beneath them to grow properly.
 
-There is also a Grey stonelilly for stone dust (who needs more of that??) and a Yellow stonelilly for sand or Endstone dust. Handy for the clever chemist!ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemIC2/itemCropSeed-0.pngYellow Stonelilly Seeds;Gr 1;Ga 1;Re 1
-1enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngRed Stonelilly Seeds;Gr 0;Ga 0;Re 0
-1IC2/itemCropSeed-0.pngWhite Stonelilly Seeds;Gr 0;Ga 0;Re 0
-1IC2/itemCropSeed-0.pngBlack Stonelilly Seeds;Gr 0;Ga 0;Re 0
+There is also a Grey stonelilly for stone dust (who needs more of that??) and a Yellow stonelilly for sand or Endstone dust. Handy for the clever chemist!ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemIC2/itemCropSeed-0.pngYellow Stonelilly Seed;Gr 1;Ga 1;Re 1
+1enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngRed Stonelilly Seed;Gr 0;Ga 0;Re 0
+1IC2/itemCropSeed-0.pngWhite Stonelilly Seed;Gr 0;Ga 0;Re 0
+1IC2/itemCropSeed-0.pngBlack Stonelilly Seed;Gr 0;Ga 0;Re 0
 1

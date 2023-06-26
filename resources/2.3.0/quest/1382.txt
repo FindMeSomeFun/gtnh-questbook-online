@@ -1,5 +1,5 @@
-1382Thaumcraft/blockStoneDevice-13.png0Pimp Your Wand Focus32-1The Manipulator requires both XP levels and centi-vis in order to upgrade foci. Each Focus can be upgraded a total of five times, with the level and vis cost increasing by 8 for each upgrade. Some upgrades can be applied only at certain levels (often only at level 3), and others have prerequisite upgrades. Some upgrades like Frugal and Potency can be applied multiple times. All upgrades are permanent, and there is currently no way to remove them.ANDpre2751Thaumcraft/blockStoneDevice-11.pngrewardsItemThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/blockStoneDevice-13.pngFocal Manipulator
+1382Thaumcraft/blockStoneDevice-13.png0Pimp Your Wand Focus32-1The Manipulator requires both XP levels and centi-vis in order to upgrade foci. Each Focus can be upgraded a total of five times, with the level and vis cost increasing by 8 for each upgrade. Some upgrades can be applied only at certain levels (often only at level 3), and others have prerequisite upgrades. Some upgrades like Frugal and Potency can be applied multiple times. All upgrades are permanent, and there is currently no way to remove them.ANDpre2751Thaumcraft/blockStoneDevice-11.pngrewardsItemThaumcraft/ItemResource-15.pngPrimal Char;You think you hear whispering
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumcraft/blockStoneDevice-13.pngFocal Manipulato
 1

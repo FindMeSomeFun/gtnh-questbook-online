@@ -1,8 +1,8 @@
-2838TwilightForest/item.tfspawnegg-195.png0Time to Kill (Squirrell)39432000Mmm... yummy squirrel on a stick!ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+2838TwilightForest/item.tfspawnegg-195.png0Time to Kill (Squirrell)39432000Mmm... yummy squirrel on a stick!ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
+1Thaumcraft/ItemLootBag-0.pngCommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5tasksANDHuntmobs/TwilightForest-Forest Squirrel-.pngForest Squirrel
 20

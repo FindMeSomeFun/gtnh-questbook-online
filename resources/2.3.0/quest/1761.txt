@@ -10,6 +10,6 @@ Now for fun, let's make your first program! How about something functional, make
 
 Now press Ctrl+S to save, and Ctrl+W to get out of that screen. Back in your home root let's now type startup and you'll see it display "Hello World!"  neat huh?
 
-Let's now make startup actually work on startup. Type 'edit .shrc' .shrc is a mystic file that runs shell commands when booting your PC. So in .shrc type 'startup' save and reboot the computer. Now it should say "Hello World!" upon starting. Double neat right?ANDpre17470universalsingularities/universal.bigReactors.singularity-1.pngrewardsItemgregtech/gt.metaitem.02-32002.pngCoffee;gregtech:gt.metaitem.02;Just the regular morning Coffee
+Let's now make startup actually work on startup. Type 'edit .shrc' .shrc is a mystic file that runs shell commands when booting your PC. So in .shrc type 'startup' save and reboot the computer. Now it should say "Hello World!" upon starting. Double neat right?ANDpre17470universalsingularities/universal.bigReactors.singularity-1.pngrewardsItemgregtech/gt.metaitem.02-32002.pngCoffe;gregtech:gt.metaitem.02;Just the regular morning Coffee
 1tasksANDCheckboxcheckbox-.pngCheckbox
 1

@@ -1,3 +1,3 @@
-569enhancedlootbags/lootbag-8.png0Magic Adept > Magic Master Lootbag Trade410Trade three Magic Adept lootbags to get a better one: Magic Master.ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDConsumeenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+569enhancedlootbags/lootbag-8.png0Magic Adept > Magic Master Lootbag Trade410Trade three Magic Adept lootbags to get a better one: Magic Master.ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDConsumeenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 3

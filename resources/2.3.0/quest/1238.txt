@@ -1,6 +1,6 @@
-1238gregtech/gt.metaitem.03-32034.png1§9§lPhosphorus Doped Wafer6-1To create some phosphorus doped silicon wafers, cut them in a cutting machine. An HV version of the cutting machine is needed for future wafers and chips.ANDpre9401gregtech/gt.blockmachines-1172.png12371gregtech/gt.metaitem.03-32031.pngrewardsChoicegregtech/gt.metaitem.01-2856.pngSilicon Solar Grade;Si*
-16gregtech/gt.metaitem.01-2306.pngStainless Steel Dust;Fe\u2086CrMnNi
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+1238gregtech/gt.metaitem.03-32034.png1§9§lPhosphorus Doped Wafer6-1To create some phosphorus doped silicon wafers, cut them in a cutting machine. An HV version of the cutting machine is needed for future wafers and chips.ANDpre9401gregtech/gt.blockmachines-1172.png12371gregtech/gt.metaitem.03-32031.pngrewardsChoicegregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dus;Si*
+16gregtech/gt.metaitem.01-2306.pngStainless Steel Dus;Fe\u2086CrMnNi
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafe;Raw Circuit
 32

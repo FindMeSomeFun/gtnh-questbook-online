@@ -1,17 +1,17 @@
 1473GalaxySpace/item.ThermalPaddingT2-0.png1Nice and Comfortable - in Space!24-1These thermal clothes will keep you nice and warm even in the coldest depths of outer space. Tier 3+ planets pretty much all require these.
 
-§3You'll also need some PBI.ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
-16GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
-16dreamcraft/item.MediumFuelCanister-0.pngMedium Fuel Canister
-1enhancedlootbags/lootbag-7-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
-5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Cloth
-24dreamcraft/item.TungstenString-0.pngTungsten String
-216gregtech/gt.metaitem.01-29028.pngTitanium Foil;Ti
-192OptionalGalaxySpace/item.ThermalClothT2-0.pngThermal Cloth;Tier 2
-24RetrievalGalaxySpace/item.ThermalPaddingT2-0.pngThermal Helmet;Tier 2;Protection from Solar Radiation.
-1GalaxySpace/item.ThermalPaddingT2-1.pngThermal Chestplate;Tier 2;Protection from Solar Radiation.
-1GalaxySpace/item.ThermalPaddingT2-2.pngThermal Leggings;Tier 2;Protection from Solar Radiation.
-1GalaxySpace/item.ThermalPaddingT2-3.pngThermal Boots;Tier 2;Protection from Solar Radiation.
+§3You'll also need some PBI.ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Des
+16GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titaniu
+16dreamcraft/item.MediumFuelCanister-0.pngMedium Fuel Caniste
+1enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Clot
+24dreamcraft/item.TungstenString-0.pngTungsten Strin
+216gregtech/gt.metaitem.01-29028.pngTitanium Foi;Ti
+192OptionalGalaxySpace/item.ThermalClothT2-0.pngThermal Clot;Tier 2
+24RetrievalGalaxySpace/item.ThermalPaddingT2-0.pngThermal Helme;Tier 2;Protection from Solar Radiation.
+1GalaxySpace/item.ThermalPaddingT2-1.pngThermal Chestplat;Tier 2;Protection from Solar Radiation.
+1GalaxySpace/item.ThermalPaddingT2-2.pngThermal Legging;Tier 2;Protection from Solar Radiation.
+1GalaxySpace/item.ThermalPaddingT2-3.pngThermal Boot;Tier 2;Protection from Solar Radiation.
 1

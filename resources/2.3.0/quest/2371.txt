@@ -6,13 +6,13 @@ After some time of decaying, it starts to occasionally attract Angry Endermen.
 
 When the flower decays completely, it turns dark, propagates massive amount decay to nearby blocks and spawns an Energy Cluster.
 
-Partial decay can be healed a little using End Powder.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceHardcoreEnderExpansion/death_flower-0.pngDeath Flower
-8HardcoreEnderExpansion/death_flower-15.pngDeath Flower
-8enhancedlootbags/lootbag-57.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1dreamcraft/item.CoinForestryII-0.pngCoin "The Forest Ranger 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
-1tasksANDRetrievalHardcoreEnderExpansion/death_flower-0.pngDeath Flower
-1minecraft/flower_pot-0.pngFlower Pot
-1RetrievalHardcoreEnderExpansion/death_flower-15.pngDeath Flower
+Partial decay can be healed a little using End Powder.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceHardcoreEnderExpansion/death_flower-0.pngDeath Flowe
+8HardcoreEnderExpansion/death_flower-15.pngDeath Flowe
+8enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+1dreamcraft/item.CoinForestryII-0.pngCoin "The Forest Ranger 100
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
+1tasksANDRetrievalHardcoreEnderExpansion/death_flower-0.pngDeath Flowe
+1minecraft/flower_pot-0.pngFlower Po
+1RetrievalHardcoreEnderExpansion/death_flower-15.pngDeath Flowe
 1

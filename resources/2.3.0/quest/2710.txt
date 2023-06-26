@@ -1,6 +1,6 @@
-2710GalaxySpace/item.RocketControlComputer-8.png1Tier 8 Control Computer24-1Each rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpre26431dreamcraft/item.HeavyDutyPlateTier8-0.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-1gregtech/gt.metaitem.01-11388.pngBlack Plutonium Ingot;SpPu
-8Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
-2dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-2tasksANDRetrievalGalaxySpace/item.RocketControlComputer-8.pngRocket Control Computer Tier 8
+2710GalaxySpace/item.RocketControlComputer-8.png1Tier 8 Control Computer24-1Each rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpre26431dreamcraft/item.HeavyDutyPlateTier8-0.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 
+1gregtech/gt.metaitem.01-11388.pngBlack Plutonium Ingo;SpPu
+8Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K
+2dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K
+2tasksANDRetrievalGalaxySpace/item.RocketControlComputer-8.pngRocket Control Computer Tier 
 1

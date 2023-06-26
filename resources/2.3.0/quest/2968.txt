@@ -1,12 +1,12 @@
 2968gregtech/gt.blockmachines-32002.png0§6§lLarge Essentia Generator (Good Generator)19-1This Essentia Generator is a rework version of bart's one. The essentia fuel value is different from bart's one and you can find all information about it in Thaumonomicon.
 
-§3PS: The essentia fuel value is still in test state. It may get changed.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-9-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-1tasksANDOptionalGoodGenerator/essentiaCell-0.pngNovice Essentia Diffusion Cell;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Hatch Tier: EV
-25GoodGenerator/magicCasing-0.pngMagic Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-53GoodGenerator/essentiaHatch-0.pngEssentia Input Hatch;Mobs cannot Spawn on this Block;You can right click it with an Essentia Jar to set Essentia Filter.;Right click it with empty hands to clear the Filter.
-1Thaumcraft/blockCosmeticSolid-7.pngArcane Stone Bricks
-24Thaumcraft/blockCosmeticOpaque-1.pngAmber Bricks
-4Retrievalgregtech/gt.blockmachines-32002.pngLarge Essentia Generator;Machine Type: Essentia Generator;Controller block for the Large Essentia Generator;Maybe some thaumaturages are upset by it. . .;Transform essentia into energy!;The Diffusion Cell determines the highest hatch tier that the LEG can accept.;You can find more information about this generator in the Thaumonomicon.;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Good Generator
+§3PS: The essentia fuel value is still in test state. It may get changed.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-9-enchanted.pngLootBag (Magic Novice;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
+1tasksANDOptionalGoodGenerator/essentiaCell-0.pngNovice Essentia Diffusion Cel;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Hatch Tier: EV
+25GoodGenerator/magicCasing-0.pngMagic Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+53GoodGenerator/essentiaHatch-0.pngEssentia Input Hatc;Mobs cannot Spawn on this Block;You can right click it with an Essentia Jar to set Essentia Filter.;Right click it with empty hands to clear the Filter.
+1Thaumcraft/blockCosmeticSolid-7.pngArcane Stone Brick
+24Thaumcraft/blockCosmeticOpaque-1.pngAmber Brick
+4Retrievalgregtech/gt.blockmachines-32002.pngLarge Essentia Generato;Machine Type: Essentia Generator;Controller block for the Large Essentia Generator;Maybe some thaumaturages are upset by it. . .;Transform essentia into energy!;The Diffusion Cell determines the highest hatch tier that the LEG can accept.;You can find more information about this generator in the Thaumonomicon.;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Good Generator
 1

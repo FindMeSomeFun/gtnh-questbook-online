@@ -4,12 +4,12 @@ You will need to plant 4 vanilla flowers to get them on a cropstick. They also d
 
 To get "Rose Seeds" place poppies. Honestly there's several flowers you can use, though.
 
-§3If you actually want these for dyes, go make the rainbow cactus instead.ANDpre7180IC2/blockCrop-0.pngrewardsChoiceIC2/itemCropSeed-0.pngBlackthorn Seeds;Gr 1;Ga 1;Re 1
-1IC2/itemCropSeed-0.pngCyazint Seeds;Gr 1;Ga 1;Re 1
-1enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDRetrievalIC2/itemCropSeed-0.pngRose Seeds;Gr 0;Ga 0;Re 0
-2IC2/itemCropSeed-0.pngDandelion Seeds;Gr 0;Ga 0;Re 0
-2Retrievalminecraft/dye-1.pngRose Red
-32minecraft/dye-11.pngDandelion Yellow
+§3If you actually want these for dyes, go make the rainbow cactus instead.ANDpre7180IC2/blockCrop-0.pngrewardsChoiceIC2/itemCropSeed-0.pngBlackthorn Seed;Gr 1;Ga 1;Re 1
+1IC2/itemCropSeed-0.pngCyazint Seed;Gr 1;Ga 1;Re 1
+1enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+15tasksANDRetrievalIC2/itemCropSeed-0.pngRose Seed;Gr 0;Ga 0;Re 0
+2IC2/itemCropSeed-0.pngDandelion Seed;Gr 0;Ga 0;Re 0
+2Retrievalminecraft/dye-1.pngRose Re
+32minecraft/dye-11.pngDandelion Yello
 32

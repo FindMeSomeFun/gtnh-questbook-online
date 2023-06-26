@@ -1,4 +1,4 @@
-2392witchery/hornofthehunt-0.png0Horn of the Hunt4048000Did you goof and somehow lose the Horned Huntsman before you could kill him? Well... You can summon him again using the hard way, or pay coins to get another horn.ANDpre3330witchery/altar-0.pngrewardsItemwitchery/hornofthehunt-0.pngHorn of the Hunt;Calls forth the Horned Huntsman then vanishes.
-1tasksANDConsumedreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+2392witchery/hornofthehunt-0.png0Horn of the Hunt4048000Did you goof and somehow lose the Horned Huntsman before you could kill him? Well... You can summon him again using the hard way, or pay coins to get another horn.ANDpre3330witchery/altar-0.pngrewardsItemwitchery/hornofthehunt-0.pngHorn of the Hun;Calls forth the Horned Huntsman then vanishes.
+1tasksANDConsumedreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
 1

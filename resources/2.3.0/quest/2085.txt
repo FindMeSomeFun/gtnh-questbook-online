@@ -1,3 +1,3 @@
-2085Forestry/naturalistHelmet-0.png0Seeing the Fruits of Your Labor16-1It can be difficult to see which leafy blocks are pollinated. Craft a pair of spectacles to get a better view.ANDpre361gregtech/gt.metatool.01-16.png21220Forestry/sapling-0-Oak.pngrewardsItemForestry/grafterProven-0.pngProven Grafter
-1tasksANDRetrievalForestry/naturalistHelmet-0.pngSpectacles;Protection: 1;Durability: 100/100
+2085Forestry/naturalistHelmet-0.png0Seeing the Fruits of Your Labor16-1It can be difficult to see which leafy blocks are pollinated. Craft a pair of spectacles to get a better view.ANDpre361gregtech/gt.metatool.01-16.png21220Forestry/sapling-0-Oak.pngrewardsItemForestry/grafterProven-0.pngProven Grafte
+1tasksANDRetrievalForestry/naturalistHelmet-0.pngSpectacle;Protection: 1;Durability: 100/100
 1

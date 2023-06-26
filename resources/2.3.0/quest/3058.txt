@@ -1,5 +1,5 @@
-3058gregtech/gt.metaitem.01-2833.png0§b§lThorium and Phosphate8-1Now you can thermal centrifuge the dust to get both thorium and phosphate out. Told you the yields weren't great...ANDpre30560bartworks/gt.bwMetaGenerateddust-11038.pngrewardsItemgregtech/gt.metaitem.01-2833.pngPhosphate Dust;PO\u2084
-64tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11038.pngThorium-Phosphate Concentrate Dust;??ThP??;Added by GTNH: Lanthanides via BartWorks
-1Retrievalgregtech/gt.metaitem.01-2096.pngThorium Dust;Th
-1gregtech/gt.metaitem.01-2833.pngPhosphate Dust;PO\u2084
+3058gregtech/gt.metaitem.01-2833.png0§b§lThorium and Phosphate8-1Now you can thermal centrifuge the dust to get both thorium and phosphate out. Told you the yields weren't great...ANDpre30560bartworks/gt.bwMetaGenerateddust-11038.pngrewardsItemgregtech/gt.metaitem.01-2833.pngPhosphate Dus;PO\u2084
+64tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11038.pngThorium-Phosphate Concentrate Dus;??ThP??;Added by GTNH: Lanthanides via BartWorks
+1Retrievalgregtech/gt.metaitem.01-2096.pngThorium Dus;Th
+1gregtech/gt.metaitem.01-2833.pngPhosphate Dus;PO\u2084
 1

@@ -4,7 +4,7 @@ There are two types of additives: the coolants and the fuel boosters. The coolan
 
 There are three coolants, but the 275% efficiency boost by using Cryotheum should not be ignored. To automate it, you will need an automated source of Blaze Rods and Snowballs (Snow is made from Water). To this, you add Redstone and Saltpeter, and you're done.
 
-The boosters are more difficult to choose from. Caesium should be ignored, Uranium 235 can be automated from Uranium 238 with magic at an almost 1:1 ratio, but Naquadah is what you probably have ready to use for this, which quadruples the speed of this reactor. However, if this is too slow, you can instead automate Atomic Separation Catalyst to get a 16x speed boost! There are many recipes for this, so choose your favorite.ANDpre31960gregtech/gt.blockmachines-12732.pngrewardstasksANDOptionalmiscutils/cryotheum-0.pngGelid Cryotheum Cell
-1GoodGenerator/rawAtomicSeparationCatalyst-0.pngRaw Atomic Separation Catalyst
-1Retrievalbartworks/gt.bwMetaGeneratedcellMolten-10022.pngMolten Atomic Separation Catalyst Cell;the melting core...;Added by Good Generator via BartWorks
+The boosters are more difficult to choose from. Caesium should be ignored, Uranium 235 can be automated from Uranium 238 with magic at an almost 1:1 ratio, but Naquadah is what you probably have ready to use for this, which quadruples the speed of this reactor. However, if this is too slow, you can instead automate Atomic Separation Catalyst to get a 16x speed boost! There are many recipes for this, so choose your favorite.ANDpre31960gregtech/gt.blockmachines-12732.pngrewardstasksANDOptionalmiscutils/cryotheum-0.pngGelid Cryotheum Cel
+1GoodGenerator/rawAtomicSeparationCatalyst-0.pngRaw Atomic Separation Catalys
+1Retrievalbartworks/gt.bwMetaGeneratedcellMolten-10022.pngMolten Atomic Separation Catalyst Cel;the melting core...;Added by Good Generator via BartWorks
 1

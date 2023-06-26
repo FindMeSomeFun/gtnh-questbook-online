@@ -1,7 +1,7 @@
-293Thaumcraft/ItemGolemPlacer-5.png0Sticks and Stones...32-1...will break your bones! These guys are hard as rock (Insert audience laugh here) and will protect your claim as good as possible.ANDpre2920Thaumcraft/ItemGolemPlacer-1.pngrewardsChoiceThaumcraft/ItemGolemPlacer-1.pngWood Golem
-1enhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core;Blank
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/ItemGolemPlacer-5.pngStone Golem
-1RetrievalThaumcraft/ItemGolemCore-4.pngGolem Animation Core;Guard
+293Thaumcraft/ItemGolemPlacer-5.png0Sticks and Stones...32-1...will break your bones! These guys are hard as rock (Insert audience laugh here) and will protect your claim as good as possible.ANDpre2920Thaumcraft/ItemGolemPlacer-1.pngrewardsChoiceThaumcraft/ItemGolemPlacer-1.pngWood Gole
+1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemGolemCore-100.pngGolem Animation Cor;Blank
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumcraft/ItemGolemPlacer-5.pngStone Gole
+1RetrievalThaumcraft/ItemGolemCore-4.pngGolem Animation Cor;Guard
 1

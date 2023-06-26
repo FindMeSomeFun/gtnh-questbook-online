@@ -4,9 +4,9 @@ It can't be overclocked by increasing the input voltage. The only way to overclo
 
 It also supports §9Tec§1Tech§r's Multi-Amp energy hatches and laser hatches.
 
-Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.ANDpre29480gregtech/gt.blockmachines-12732.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10046.pngNaquadah Based Liquid Fuel MkIII Cell;Added by Good Generator via BartWorks
-1tasksANDOptionalGoodGenerator/FRF_Casings-0.pngNaquadah Fuel Refinery Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-104GoodGenerator/FRF_Coil_1-0.pngField Restriction Coil;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32GoodGenerator/fieldRestrictingGlass-0.pngField Restriction Glass;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-8Retrievalgregtech/gt.blockmachines-16999.pngNaquadah Fuel Refinery;Machine Type: Naquadah Fuel Refinery;Controller block for the Naquadah Fuel Refinery;But at what cost?;Produce the endgame naquadah fuel.;Need field restriction coil to control the fatal radiation.;Use higher tier coil to unlock more fuel and reduce the process time.;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Good Generator
+Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.ANDpre29480gregtech/gt.blockmachines-12732.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10046.pngNaquadah Based Liquid Fuel MkIII Cel;Added by Good Generator via BartWorks
+1tasksANDOptionalGoodGenerator/FRF_Casings-0.pngNaquadah Fuel Refinery Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+104GoodGenerator/FRF_Coil_1-0.pngField Restriction Coi;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32GoodGenerator/fieldRestrictingGlass-0.pngField Restriction Glas;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8Retrievalgregtech/gt.blockmachines-16999.pngNaquadah Fuel Refiner;Machine Type: Naquadah Fuel Refinery;Controller block for the Naquadah Fuel Refinery;But at what cost?;Produce the endgame naquadah fuel.;Need field restriction coil to control the fatal radiation.;Use higher tier coil to unlock more fuel and reduce the process time.;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Good Generator
 1

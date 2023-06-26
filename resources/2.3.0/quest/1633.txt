@@ -1,8 +1,8 @@
-1633ProjRedTransportation/projectred.transportation.routingchip-7.png0Crafting Chip25-1The crafting chip does exactly what it says. It's not just for default crafting. You can use it with GT machines. Just put in the matrix that it should insert and the output is what it should extract. A great use for them is in combination with fluid canners or super tanks for filling cells. I would strongly recommend not overusing them. Wait untill you have access to AE2 for autocrafting stuff.ANDpre16310ProjRedTransportation/projectred.transportation.routingchip-5.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
-2IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-8ProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
-1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalProjRedTransportation/projectred.transportation.routingchip-7.pngItem Crafting chip
+1633ProjRedTransportation/projectred.transportation.routingchip-7.png0Crafting Chip25-1The crafting chip does exactly what it says. It's not just for default crafting. You can use it with GT machines. Just put in the matrix that it should insert and the output is what it should extract. A great use for them is in combination with fluid canners or super tanks for filling cells. I would strongly recommend not overusing them. Wait untill you have access to AE2 for autocrafting stuff.ANDpre16310ProjRedTransportation/projectred.transportation.routingchip-5.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plat
+2IC2/itemPartCircuit-0.pngElectronic Circui;LV-tier
+1gregtech/gt.blockmachines-2000.png1x Red Alloy Wir;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+8ProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chi
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalProjRedTransportation/projectred.transportation.routingchip-7.pngItem Crafting chi
 1

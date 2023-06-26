@@ -1,11 +1,11 @@
 2122Forestry/sapling-0-Oak.png0Speak For the Trees16-1You'll need to find a bunch of vanilla trees to start your breeding program. To convert them directly to Forestry trees, you can use a Treealyzer - but you'll need a carpenter and aluminium from MV for that. Alternatively, you can just grow a bunch of vanilla trees and surround them by good pollination bees in bee housing. Spectacles will help you see the fertilized leaves to harvest with your Grafter or Branch Cutter.
 
-Completing the quests will require scanned trees, but you can progress on breeding while waiting for your GT Scanner or Treealyzer to be made.ANDpre20840Forestry/grafter-0.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalForestry/sapling-0-Oak.pngApple Oak Sapling;Burn Time: 100
-4Forestry/sapling-0-DarkOak.pngDark Oak Sapling;Burn Time: 100
-4Forestry/sapling-0-AcaciaVanilla.pngAcacia Sapling;Burn Time: 100
-4Forestry/sapling-0-Birch.pngSilver Birch Sapling;Burn Time: 100
-4Forestry/sapling-0-Spruce.pngRed Spruce Sapling;Burn Time: 100
-4Forestry/sapling-0-Jungle.pngJungle Sapling;Burn Time: 100
+Completing the quests will require scanned trees, but you can progress on breeding while waiting for your GT Scanner or Treealyzer to be made.ANDpre20840Forestry/grafter-0.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+15enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalForestry/sapling-0-Oak.pngApple Oak Saplin;Burn Time: 100
+4Forestry/sapling-0-DarkOak.pngDark Oak Saplin;Burn Time: 100
+4Forestry/sapling-0-AcaciaVanilla.pngAcacia Saplin;Burn Time: 100
+4Forestry/sapling-0-Birch.pngSilver Birch Saplin;Burn Time: 100
+4Forestry/sapling-0-Spruce.pngRed Spruce Saplin;Burn Time: 100
+4Forestry/sapling-0-Jungle.pngJungle Saplin;Burn Time: 100
 4

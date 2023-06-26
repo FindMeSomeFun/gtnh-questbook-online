@@ -1,7 +1,7 @@
-21minecraft/clay_ball-0.png1§2§lClay: The Gathering2-1While bored, you thought that it might be a good idea to take up pottery. You should go and find some clay, the riverbanks should have some.ANDpre151SpiceOfLife/lunchbag-0.pngrewardsItemminecraft/clay_ball-0.pngClay
-10Choiceminecraft/clay_ball-0.pngClay
-16gregtech/gt.metaitem.02-32233.pngBacon Sandwich;gregtech:gt.metaitem.02;The best Sandwich ever!
-2enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-10tasksANDRetrievalminecraft/clay_ball-0.pngClay
+21minecraft/clay_ball-0.png1§2§lClay: The Gathering2-1While bored, you thought that it might be a good idea to take up pottery. You should go and find some clay, the riverbanks should have some.ANDpre151SpiceOfLife/lunchbag-0.pngrewardsItemminecraft/clay_ball-0.pngCla
+10Choiceminecraft/clay_ball-0.pngCla
+16gregtech/gt.metaitem.02-32233.pngBacon Sandwic;gregtech:gt.metaitem.02;The best Sandwich ever!
+2enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+10tasksANDRetrievalminecraft/clay_ball-0.pngCla
 128

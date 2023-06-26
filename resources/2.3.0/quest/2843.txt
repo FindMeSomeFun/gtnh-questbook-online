@@ -1,7 +1,7 @@
-2843minecraft/blaze_powder-0.png0Time to Kill (Fire Beetle)39432000The Fire Beetle is found in Hollow Hills and Labyrinths. Fire Beetles will shoot a breath of fire at nearby players, dealing 2 damage every half second the player is exposed to the fire.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+2843minecraft/blaze_powder-0.png0Time to Kill (Fire Beetle)39432000The Fire Beetle is found in Hollow Hills and Labyrinths. Fire Beetles will shoot a breath of fire at nearby players, dealing 2 damage every half second the player is exposed to the fire.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5tasksANDHuntmobs/TwilightForest-Fire Beetle-.pngFire Beetle
 20

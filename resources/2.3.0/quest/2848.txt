@@ -2,16 +2,16 @@
 
 §3You only need to make one.
 
-§rAlso keep in mind that the energy storage ones can have EU put in, if you just wanna charge, unlike the solars (also the solar wind ones don't work for some reason). The higher tier ones charge faster (advanced solars just point at the sun to get 100% power during daylight instead of only at noonish, but hybrids are indeed faster. Also hybrids don't crash the game just by placing them anymore!)ANDpre17320GalaxySpace/item.spacesuit_jetplate-0.pngrewardsChoiceGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
-1GalacticraftCore/tile.solar-0.pngBasic Solar Panel
-1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2Itemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
-1tasksORRetrievalGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
-1RetrievalGalacticraftCore/tile.machineTiered-8.pngEnergy Storage Cluster
-1RetrievalGalaxySpace/storagemoduleT3-0.pngAdvanced Energy Cluster
-1RetrievalGalacticraftCore/tile.solar-0.pngBasic Solar Panel
-1RetrievalGalacticraftCore/tile.solar-4.pngAdvanced Solar Panel
-1RetrievalGalaxySpace/solarPanel-0.pngHybrid Solar Panel;Coefficient Generation: x10
+§rAlso keep in mind that the energy storage ones can have EU put in, if you just wanna charge, unlike the solars (also the solar wind ones don't work for some reason). The higher tier ones charge faster (advanced solars just point at the sun to get 100% power during daylight instead of only at noonish, but hybrids are indeed faster. Also hybrids don't crash the game just by placing them anymore!)ANDpre17320GalaxySpace/item.spacesuit_jetplate-0.pngrewardsChoiceGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Modul
+1GalacticraftCore/tile.solar-0.pngBasic Solar Pane
+1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2Itemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+1dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000
+1tasksORRetrievalGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Modul
+1RetrievalGalacticraftCore/tile.machineTiered-8.pngEnergy Storage Cluste
+1RetrievalGalaxySpace/storagemoduleT3-0.pngAdvanced Energy Cluste
+1RetrievalGalacticraftCore/tile.solar-0.pngBasic Solar Pane
+1RetrievalGalacticraftCore/tile.solar-4.pngAdvanced Solar Pane
+1RetrievalGalaxySpace/solarPanel-0.pngHybrid Solar Pane;Coefficient Generation: x10
 1

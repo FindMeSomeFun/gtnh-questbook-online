@@ -1,12 +1,12 @@
-2343witchery/ingredient-92.png0Quartz Sphere36-1A Quartz Sphere is a component used in the production of a Crystal Ball and the Seer Stone for summoning coven witches.ANDpre23420witchery/ingredient-93.pngrewardsChoiceminecraft/obsidian-0.pngObsidian
-16witchery/ingredient-40.pngRedstone Soup
-2enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-24890.pngGlass Lens;SiO\u2082
-1gregtech/gt.metaitem.01-17522.pngNether Quartz Plate;SiO\u2082
-4gregtech/gt.metaitem.01-17523.pngQuartzite Plate;SiO\u2082
-2gregtech/gt.metaitem.01-17516.pngCertus Quartz Plate;SiO\u2082
-2Retrievalwitchery/ingredient-92.pngQuartz Sphere
+2343witchery/ingredient-92.png0Quartz Sphere36-1A Quartz Sphere is a component used in the production of a Crystal Ball and the Seer Stone for summoning coven witches.ANDpre23420witchery/ingredient-93.pngrewardsChoiceminecraft/obsidian-0.pngObsidia
+16witchery/ingredient-40.pngRedstone Sou
+2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+1tasksANDOptionalgregtech/gt.metaitem.01-24890.pngGlass Len;SiO\u2082
+1gregtech/gt.metaitem.01-17522.pngNether Quartz Plat;SiO\u2082
+4gregtech/gt.metaitem.01-17523.pngQuartzite Plat;SiO\u2082
+2gregtech/gt.metaitem.01-17516.pngCertus Quartz Plat;SiO\u2082
+2Retrievalwitchery/ingredient-92.pngQuartz Spher
 1

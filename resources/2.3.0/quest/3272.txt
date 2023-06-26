@@ -1,19 +1,19 @@
 3272Thaumcraft/ItemGolemPlacer-7-advanced.png0Ignore the Glint in Their Eyes32-1Well this is a bad idea, but since when has that stopped you before, golems with brains, what could go wrong?
 
-§2§b§3You only need to complete one task.ANDpre2940Thaumcraft/ItemGolemPlacer-7.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Air;Improves Speed
-1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Earth;Improves Strength
-1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fire;Improves Damage, Capacity
-1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Water;Improves Senses, Range
-1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Order;Improves Organization, Intellect
-1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy;Improves Defenses, Reasoning
-1tasksORRetrievalThaumcraft/ItemGolemPlacer-0-advanced.pngStraw Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-1-advanced.pngWood Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-2-advanced.pngTallow Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-3-advanced.pngClay Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-4-advanced.pngFlesh Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-5-advanced.pngStone Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-6-advanced.pngIron Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-7-advanced.pngThaumium Golem;Advanced
+§2§b§3You only need to complete one task.ANDpre2940Thaumcraft/ItemGolemPlacer-7.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5ChoiceThaumcraft/ItemGolemUpgrade-0.pngGolem Upgrade: Ai;Improves Speed
+1Thaumcraft/ItemGolemUpgrade-1.pngGolem Upgrade: Eart;Improves Strength
+1Thaumcraft/ItemGolemUpgrade-2.pngGolem Upgrade: Fir;Improves Damage, Capacity
+1Thaumcraft/ItemGolemUpgrade-3.pngGolem Upgrade: Wate;Improves Senses, Range
+1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Orde;Improves Organization, Intellect
+1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entrop;Improves Defenses, Reasoning
+1tasksORRetrievalThaumcraft/ItemGolemPlacer-0-advanced.pngStraw Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-1-advanced.pngWood Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-2-advanced.pngTallow Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-3-advanced.pngClay Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-4-advanced.pngFlesh Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-5-advanced.pngStone Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-6-advanced.pngIron Gole;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-7-advanced.pngThaumium Gole;Advanced
 1

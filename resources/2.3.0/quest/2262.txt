@@ -1,4 +1,4 @@
-2262EMT/QuantumBootsTraveller-1-charged.png0Walking across the stars14-1Quantum boots of the traveller, for when you really need to run as fast as the wind. Might cause you some problems standing still! ANDpre8030IC2/itemArmorQuantumHelmet-1-charged.png22610EMT/NanoBootsTraveller-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-11-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2262EMT/QuantumBootsTraveller-1-charged.png0Walking across the stars14-1Quantum boots of the traveller, for when you really need to run as fast as the wind. Might cause you some problems standing still! ANDpre8030IC2/itemArmorQuantumHelmet-1-charged.png22610EMT/NanoBootsTraveller-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-11-enchanted.pngLootBag (Magic Master;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
 2tasksANDRetrievalEMT/QuantumBootsTraveller-32767.pngQuantum Boots of the Traveller\nPower Tier: 4\nVis Discount: 5%\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
 1

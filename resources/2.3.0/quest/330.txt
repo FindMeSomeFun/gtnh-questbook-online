@@ -1,4 +1,4 @@
-330ThaumicTinkerer/focusRecall-0.png0Magical Waystones33-1This can be used to go back to a Celestial Gateway if you have a bound Celestial Pearl in your hotbar. It will use the leftmost one in your hotbar, so you can carry multiple to travel around with!ANDpre3310ThaumicTinkerer/warpGate-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/focusRecall-0.pngWand Focus: Celestial Recall;Vis per cast; Aer x 40; Ordo x 40; Terra x 40
+330ThaumicTinkerer/focusRecall-0.png0Magical Waystones33-1This can be used to go back to a Celestial Gateway if you have a bound Celestial Pearl in your hotbar. It will use the leftmost one in your hotbar, so you can carry multiple to travel around with!ANDpre3310ThaumicTinkerer/warpGate-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+5tasksANDRetrievalThaumicTinkerer/focusRecall-0.pngWand Focus: Celestial Recal;Vis per cast; Aer x 40; Ordo x 40; Terra x 40
 1

@@ -1,7 +1,7 @@
 2693miscutils/PhthalicAcid-0.png0Phthalic Acid, The Cool Kids' Way24-1Make Phthalic Acid out of Naphthalene and Lithium in a Chemical Reactor.
 
-Ironically, you can't make this out of Naphtha.ANDpre26940miscutils/Naphthalene-0.pngrewardstasksANDOptionalmiscutils/Naphthalene-0.pngNaphthalene Cell
-4gregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
-10Optionalmiscutils/PhthalicAcid-0.pngPhthalic Acid Cell
+Ironically, you can't make this out of Naphtha.ANDpre26940miscutils/Naphthalene-0.pngrewardstasksANDOptionalmiscutils/Naphthalene-0.pngNaphthalene Cel
+4gregtech/gt.metaitem.01-2006.pngLithium Dus;Li;Burn Time: 6000
+10Optionalmiscutils/PhthalicAcid-0.pngPhthalic Acid Cel
 5Checkboxcheckbox-.pngCheckbox
 1

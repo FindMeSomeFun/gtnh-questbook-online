@@ -1,6 +1,6 @@
-1314appliedenergistics2/item.ItemMultiMaterial-35.png11k Component27-1Smallest storage component, used to make 1k ME storage cells, or can be upgraded to make 4k ME storage components. Can be recovered from a crafted 1k ME storage cell by fully emptying the storage cell, and shift clicking it in your hand.ANDpre13111dreamcraft/item.LogicProcessorItemGoldCore-0.pngrewardsChoicedreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
-16dreamcraft/item.LogicProcessorItemGoldCore-0.pngItem Processor Tier I
-1enhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-35.png1k ME Storage Component
+1314appliedenergistics2/item.ItemMultiMaterial-35.png11k Component27-1Smallest storage component, used to make 1k ME storage cells, or can be upgraded to make 4k ME storage components. Can be recovered from a crafted 1k ME storage cell by fully emptying the storage cell, and shift clicking it in your hand.ANDpre13111dreamcraft/item.LogicProcessorItemGoldCore-0.pngrewardsChoicedreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dus
+16dreamcraft/item.LogicProcessorItemGoldCore-0.pngItem Processor Tier 
+1enhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-35.png1k ME Storage Componen
 4

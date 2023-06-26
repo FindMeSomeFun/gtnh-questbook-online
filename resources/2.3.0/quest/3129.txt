@@ -2,10 +2,10 @@
 
 What does it do? It's in the name, it's a really fast Coke Oven. So fast, in fact, that it can replace a few dozen Pyrolyse Ovens. It actually takes its recipes from that multi, so you also get the additional fluid, such as Charcoal Byproducts, alongside the greatly increased processing speed. The caveat is that this multi needs both Titanium and Tungsten, although only a small amount of the latter. You can get that much from processing End Stone Dust, Ender Goo or Moon Dust. 
 
-You can also choose between two types of casings. One of them does 12x parallels and the other does 24x parallels, which means the multi can do that amount of recipes at the same time per craft, if it receives enough power to do so. Since they're both quite cheap, you should use the better casings.ANDpre31270gregtech/gt.blockcasings4-2.pngrewardsChoicegregtech/gt.metaitem.01-2081.pngTungsten Dust;W
-4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-2tasksANDRetrievalgregtech/gt.blockmachines-791.pngIndustrial Coke Oven;Machine Type: Coke Oven;Processes Logs and Coal into Charcoal and Coal Coke.;Controller Block for the Industrial Coke Oven;Gain 4% energy discount per voltage tier;Process 12x materials with Heat Resistant Casings;Or 24x materials with Heat Proof Casings;Causes: 80 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/miscutils.blockcasings-3.pngHeat Proof Coke Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-8miscutils/miscutils.blockcasings-1.pngStructural Coke Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+You can also choose between two types of casings. One of them does 12x parallels and the other does 24x parallels, which means the multi can do that amount of recipes at the same time per craft, if it receives enough power to do so. Since they're both quite cheap, you should use the better casings.ANDpre31270gregtech/gt.blockcasings4-2.pngrewardsChoicegregtech/gt.metaitem.01-2081.pngTungsten Dus;W
+4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+2tasksANDRetrievalgregtech/gt.blockmachines-791.pngIndustrial Coke Ove;Machine Type: Coke Oven;Processes Logs and Coal into Charcoal and Coal Coke.;Controller Block for the Industrial Coke Oven;Gain 4% energy discount per voltage tier;Process 12x materials with Heat Resistant Casings;Or 24x materials with Heat Proof Casings;Causes: 80 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
+1miscutils/miscutils.blockcasings-3.pngHeat Proof Coke Oven Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8miscutils/miscutils.blockcasings-1.pngStructural Coke Oven Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 8

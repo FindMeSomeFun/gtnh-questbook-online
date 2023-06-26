@@ -2,11 +2,11 @@
 
 The difference between those is that the tier of the outer structure that you need is mentioned in the recipe you want to craft, and the tier of the inner structure is generally related to the EU/t of the recipe, minus one tier. This is because, like the EBF and the LCR, you can use 2 energy hatches, so this HV recipe can be made with MV energy hatches. Since the inner structure's tier decides the max tier of the hatches used in the Chemplant, you can make it out of MV machine casings, which use Aluminium.
 
-The outer structure will still need many stacks of Titanium, so this is where most of your effort will go. Good luck.ANDpre31270gregtech/gt.blockcasings4-2.pngrewardsItemgregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-64enhancedlootbags/lootbag-7-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-3dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-5tasksANDRetrievalgregtech/gt.blockmachines-998.pngExxonMobil Chemical Plant;Machine Type: Chemical Plant;Controller Block for the Chemical Plant;Heavy Industry, now right at your doorstep!;Please read the user manual for more information on construction and usage;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-50gregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+The outer structure will still need many stacks of Titanium, so this is where most of your effort will go. Good luck.ANDpre31270gregtech/gt.blockcasings4-2.pngrewardsItemgregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
+64enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+3dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+5tasksANDRetrievalgregtech/gt.blockmachines-998.pngExxonMobil Chemical Plan;Machine Type: Chemical Plant;Controller Block for the Chemical Plant;Heavy Industry, now right at your doorstep!;Please read the user manual for more information on construction and usage;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
+1gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+50gregtech/gt.blockcasings-2.pngMV Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 36

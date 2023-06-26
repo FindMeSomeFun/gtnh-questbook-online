@@ -6,11 +6,11 @@ Combine a BS with your Powered Spawner in an anvil to set the type for it to spa
 
 If you set it to capture mode, you can make souls of a specific mob without any danger.
 
-§3Please try to use as few as possible on servers, mobs are laggy. Use crops if possible.ANDpre1410EnderIO/itemMaterial-6.png1650EnderIO/blockSoulBinder-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
-2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5tasksANDRetrievalEnderIO/itemBrokenSpawner-0.pngBroken Spawner
-1RetrievalEnderIO/blockPoweredSpawner-0.pngPowered Spawner;Empty
+§3Please try to use as few as possible on servers, mobs are laggy. Use crops if possible.ANDpre1410EnderIO/itemMaterial-6.png1650EnderIO/blockSoulBinder-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacito
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
+5tasksANDRetrievalEnderIO/itemBrokenSpawner-0.pngBroken Spawne
+1RetrievalEnderIO/blockPoweredSpawner-0.pngPowered Spawne;Empty
 1

@@ -1,4 +1,4 @@
-1521gregtech/gt.blockmachines-643.png0§9§lSeparating Gems From the Dust6-1The sifter runs sooo slow, you should make an HV sifter to get gems faster. ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-643.pngAdvanced Sifting Machine II;Stay calm and keep sifting;Voltage IN: 512 (HV);Capacity: 32,768 EU
+1521gregtech/gt.blockmachines-643.png0§9§lSeparating Gems From the Dust6-1The sifter runs sooo slow, you should make an HV sifter to get gems faster. ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDRetrievalgregtech/gt.blockmachines-643.pngAdvanced Sifting Machine I;Stay calm and keep sifting;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

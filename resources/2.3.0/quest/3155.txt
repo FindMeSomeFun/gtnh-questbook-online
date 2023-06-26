@@ -29,10 +29,10 @@ P -> Reactor Plating (3 needed)
 
 (Each of the latter is worth 7x the former in terms of breeding.)
 
-To complete this quest, you'll need to get Lutetium from one cycle of the any reactor setup. Which setup you choose is up to you, of course.ANDpre31510gregtech/gt.Thoriumcell-0.pngrewardstasksANDOptionalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod;100 / 100;Durability: 50,000/50,000
-16IC2/reactorHeatSwitch-1.pngHeat Exchanger
-2IC2/reactorVentGold-1.pngOverclocked Heat Vent
-21gregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod;100 / 100;Durability: 1/1
-16gregtech/gt.metaitem.01-2078.pngLutetium Dust;Lu
-32Retrievalgregtech/gt.metaitem.01-2078.pngLutetium Dust;Lu
+To complete this quest, you'll need to get Lutetium from one cycle of the any reactor setup. Which setup you choose is up to you, of course.ANDpre31510gregtech/gt.Thoriumcell-0.pngrewardstasksANDOptionalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium;100 / 100;Durability: 50,000/50,000
+16IC2/reactorHeatSwitch-1.pngHeat Exchange
+2IC2/reactorVentGold-1.pngOverclocked Heat Ven
+21gregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod (Depleted Thorium;100 / 100;Durability: 1/1
+16gregtech/gt.metaitem.01-2078.pngLutetium Dus;Lu
+32Retrievalgregtech/gt.metaitem.01-2078.pngLutetium Dus;Lu
 2

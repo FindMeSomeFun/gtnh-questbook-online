@@ -1,9 +1,9 @@
 792gregtech/gt.metaitem.03-32033.png1§6§lSilicon Wafer5-1To create some silicon wafers, put the monocrystalline silicon boule in a cutting machine. It would be best to make the MV version because you'll need it soon for ILCs, RAM, and other chips.
 
-You can also use wafers to make diodes more efficiently if you have polyethylene as well.ANDpre7821gregtech/gt.metaitem.03-32030.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
-4gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
-4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-252.pngAdvanced Cutting Machine;Slice''N Dice;Voltage IN: 128 (MV);Capacity: 8,192 EU
-1Retrievalgregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
+You can also use wafers to make diodes more efficiently if you have polyethylene as well.ANDpre7821gregtech/gt.metaitem.03-32030.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dus;Si
+4gregtech/gt.metaitem.01-2019.pngAluminium Dus;Al
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDRetrievalgregtech/gt.blockmachines-252.pngAdvanced Cutting Machin;Slice''N Dice;Voltage IN: 128 (MV);Capacity: 8,192 EU
+1Retrievalgregtech/gt.metaitem.03-32033.pngWafe;Raw Circuit
 16

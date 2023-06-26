@@ -1,5 +1,5 @@
 1979FloodLights/electricFloodlight-0.png0Lighting Up a Large Area, With Electricity15-1Now that you have a vacuum freezer, you can liquify compressed air cells and centrifuge them for rare gases. You'll need those to make the incandescent bulb for these lights. As long as they have EU, these lights can shoot a beam or do narrow or wide cones. Use the wrench to change modes, and shift right-click to invert.
 
-It's better to provide power to an Ender IO capacitor and then power these machines with RF, instead of powering directly with GT EU, because they don't work well with GT's EU amp system, and will draw a whole EU packet for a single RF.ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemFloodLights/electricFloodlight-0.pngElectric Floodlight
-4tasksANDRetrievalFloodLights/electricFloodlight-0.pngElectric Floodlight
+It's better to provide power to an Ender IO capacitor and then power these machines with RF, instead of powering directly with GT EU, because they don't work well with GT's EU amp system, and will draw a whole EU packet for a single RF.ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemFloodLights/electricFloodlight-0.pngElectric Floodligh
+4tasksANDRetrievalFloodLights/electricFloodlight-0.pngElectric Floodligh
 1

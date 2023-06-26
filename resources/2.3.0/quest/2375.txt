@@ -6,12 +6,12 @@ As any other potion, the Potion of Instability can be drunk (or thrown, if it's 
 Trivia:
 The item tooltip contains ???, as opposed to a potion effect and duration.
 
-You can make splash potions with gunpowder and 3 more End Powder as well.ANDpre23540HardcoreEnderExpansion/enhanced_brewing_stand-0.pngrewardsItemHardcoreEnderExpansion/instability_orb-0.pngInstability Orb
-4enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-2tasksANDOptionalminecraft/potion-16.pngAwkward Potion;No Effects
-3HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-16RetrievalHardcoreEnderExpansion/potion_of_instability-0.pngPotion of Instability;???
+You can make splash potions with gunpowder and 3 more End Powder as well.ANDpre23540HardcoreEnderExpansion/enhanced_brewing_stand-0.pngrewardsItemHardcoreEnderExpansion/instability_orb-0.pngInstability Or
+4enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+2tasksANDOptionalminecraft/potion-16.pngAwkward Potio;No Effects
+3HardcoreEnderExpansion/instability_orb-0.pngInstability Or
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powde
+16RetrievalHardcoreEnderExpansion/potion_of_instability-0.pngPotion of Instabilit;???
 3

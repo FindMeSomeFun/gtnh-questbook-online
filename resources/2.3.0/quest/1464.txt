@@ -9,11 +9,11 @@ Arc Lamp: 13-14
 
 The Arc Lamp can light up a fairly large area - for example a whole room - at light level 14: it is almost as bright as full sunlight.
 
-The Arc Lamp also has the interesting property of actively repelling mobs. Not only does its light prevent mobs from spawning nearby, but it is so bright that if a mob comes close to the Arc Lamp the mob will turn around and walk away again. This mob repellant effect is confirmed to work on: Zombies, Skeletons, Creepers, Evolved Zombies, Evolved Skeletons, Evolved Creepers. It may also work on other types of mobs (confirmation required). But it has no effect on Spiders (they are not afraid of sunlight either) or boss mobs.ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-1GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
-2enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalGalacticraftMars/item.null-5.pngCompressed Desh
-112ProjRedIllumination/projectred.illumination.lamp-16.pngInverted White Lamp
-16RetrievalGalacticraftCore/tile.arclamp-0.pngArc Lamp;Glass-Tier: HV
+The Arc Lamp also has the interesting property of actively repelling mobs. Not only does its light prevent mobs from spawning nearby, but it is so bright that if a mob comes close to the Arc Lamp the mob will turn around and walk away again. This mob repellant effect is confirmed to work on: Zombies, Skeletons, Creepers, Evolved Zombies, Evolved Skeletons, Evolved Creepers. It may also work on other types of mobs (confirmation required). But it has no effect on Spiders (they are not afraid of sunlight either) or boss mobs.ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plat;Tier 3
+1GalacticraftMars/item.null-3.pngHeavy Duty Plat;Tier 2
+2enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+5tasksANDOptionalGalacticraftMars/item.null-5.pngCompressed Des
+112ProjRedIllumination/projectred.illumination.lamp-16.pngInverted White Lam
+16RetrievalGalacticraftCore/tile.arclamp-0.pngArc Lam;Glass-Tier: HV
 16

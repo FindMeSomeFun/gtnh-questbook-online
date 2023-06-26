@@ -7,24 +7,24 @@
 
 §cNote: §rThe amount of each part on the right is only the minimum, depending on how many Dynamo Hatches, Input Busses, Input Hatches and Optical Slave Connectors you use, you may need more Energy Receiver Base Casings, Module Deployment Unit Base Casings or Control Center Base Casings.
 
-§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-4GalaxySpace/item.DysonSwarmParts-0.pngDyson Swarm Module
-256Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-5dreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
-1tasksANDOptionalGalaxySpace/dysonswarmparts-0.pngDyson Swarm Energy Receiver Base Casing
-53GalaxySpace/dysonswarmparts-1.pngDyson Swarm Energy Receiver Dish Block
-81GalaxySpace/dysonswarmparts-2.pngDyson Swarm Module Deployment Unit Base Casing
-62GalaxySpace/dysonswarmparts-3.pngDyson Swarm Module Deployment Unit Core
-1GalaxySpace/dysonswarmparts-4.pngDyson Swarm Module Deployment Unit Superconducting Magnet
-32GalaxySpace/dysonswarmparts-5.pngDyson Swarm Control Center Base Casing
-115GalaxySpace/dysonswarmparts-6.pngDyson Swarm Control Center Primary Windings
-20GalaxySpace/dysonswarmparts-7.pngDyson Swarm Control Center Secondary Windings
-12GalaxySpace/dysonswarmparts-8.pngDyson Swarm Control Center Toroid Casing
-128GalaxySpace/dysonswarmparts-9.pngUltra High Strength Concrete Floor;Blast Resistance: 1500
-255gregtech/gt.blockcasings5-8.pngAwakened Draconium Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 10801 Kelvin
-9gregtech/gt.blockcasings6-10.pngHermetic Casing X;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockmachines-4124.pngTitanium Frame Box;Just something you can put covers on.
-16gregtech/gt.blockmachines-4470.pngHSS-S Frame Box;Just something you can put covers on.
-23gregtech/gt.blockmachines-5081.pngSuperconductor Base UHV Frame Box;Just something you can put covers on.
-64Retrievalgregtech/gt.blockmachines-14001.pngDyson Swarm Ground Unit;Machine Type: Dyson Swarm;Basically solar panels.;Controller Block for the Dyson Swarm Command Center;Put Dyson Swarm Modules in the Input Bus(ses) to send them to the next star.;Outputs 10,000,000*f EU/t, where f is a dimension-dependent factor.;Each second, n of m Dyson Swarm Modules are destroyed according to this formula:; Each hour, n of m modules are destroyed according to this formula: n = (2 * 0.001) / (exp(-0.0001* (m - 1))+exp(0.001 * cps)), where cps is computation per second.;Requires 3,600,000L/h of Gelid Cryotheum.;R-Click with a Plunger to extract as many Modules to your inventory as possible.;Sneaking will dump the rest on the ground.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GalaxySpace;Author: glowredman
+§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag (Tier 8 UV;Your luck is increased by 100 %;Fortune III
+4GalaxySpace/item.DysonSwarmParts-0.pngDyson Swarm Modul
+256Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K
+5dreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K
+1tasksANDOptionalGalaxySpace/dysonswarmparts-0.pngDyson Swarm Energy Receiver Base Casin
+53GalaxySpace/dysonswarmparts-1.pngDyson Swarm Energy Receiver Dish Bloc
+81GalaxySpace/dysonswarmparts-2.pngDyson Swarm Module Deployment Unit Base Casin
+62GalaxySpace/dysonswarmparts-3.pngDyson Swarm Module Deployment Unit Cor
+1GalaxySpace/dysonswarmparts-4.pngDyson Swarm Module Deployment Unit Superconducting Magne
+32GalaxySpace/dysonswarmparts-5.pngDyson Swarm Control Center Base Casin
+115GalaxySpace/dysonswarmparts-6.pngDyson Swarm Control Center Primary Winding
+20GalaxySpace/dysonswarmparts-7.pngDyson Swarm Control Center Secondary Winding
+12GalaxySpace/dysonswarmparts-8.pngDyson Swarm Control Center Toroid Casin
+128GalaxySpace/dysonswarmparts-9.pngUltra High Strength Concrete Floo;Blast Resistance: 1500
+255gregtech/gt.blockcasings5-8.pngAwakened Draconium Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 10801 Kelvin
+9gregtech/gt.blockcasings6-10.pngHermetic Casing ;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockmachines-4124.pngTitanium Frame Bo;Just something you can put covers on.
+16gregtech/gt.blockmachines-4470.pngHSS-S Frame Bo;Just something you can put covers on.
+23gregtech/gt.blockmachines-5081.pngSuperconductor Base UHV Frame Bo;Just something you can put covers on.
+64Retrievalgregtech/gt.blockmachines-14001.pngDyson Swarm Ground Uni;Machine Type: Dyson Swarm;Basically solar panels.;Controller Block for the Dyson Swarm Command Center;Put Dyson Swarm Modules in the Input Bus(ses) to send them to the next star.;Outputs 10,000,000*f EU/t, where f is a dimension-dependent factor.;Each second, n of m Dyson Swarm Modules are destroyed according to this formula:; Each hour, n of m modules are destroyed according to this formula: n = (2 * 0.001) / (exp(-0.0001* (m - 1))+exp(0.001 * cps)), where cps is computation per second.;Requires 3,600,000L/h of Gelid Cryotheum.;R-Click with a Plunger to extract as many Modules to your inventory as possible.;Sneaking will dump the rest on the ground.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GalaxySpace;Author: glowredman
 1

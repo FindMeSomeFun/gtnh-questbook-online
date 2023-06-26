@@ -1,4 +1,4 @@
-2446bartworks/BWHeatedWaterPumpBlock-0.png0§3§lPumping Water3-1RC Water Tanks not cutting it through those dry spells? Or maybe you chose a dry biome to setup in? This pump will produce more water for the low low cost of something burnable (like all that lignite).ANDpre8711gregtech/gt.metaitem.01-32307.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-10tasksANDRetrievalbartworks/BWHeatedWaterPumpBlock-0.pngSimple Stirling Water Pump;Produces 150L/s Water when fueled. Causes 5 Pollution per second.;Must be placed on the Ground.;Mobs cannot Spawn on this Block;Added by BartWorks
+2446bartworks/BWHeatedWaterPumpBlock-0.png0§3§lPumping Water3-1RC Water Tanks not cutting it through those dry spells? Or maybe you chose a dry biome to setup in? This pump will produce more water for the low low cost of something burnable (like all that lignite).ANDpre8711gregtech/gt.metaitem.01-32307.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
+10tasksANDRetrievalbartworks/BWHeatedWaterPumpBlock-0.pngSimple Stirling Water Pum;Produces 150L/s Water when fueled. Causes 5 Pollution per second.;Must be placed on the Ground.;Mobs cannot Spawn on this Block;Added by BartWorks
 1

@@ -8,12 +8,12 @@ There are two items by this mod which can be obtained only by Dragon Essence inf
 
 Enhanced Brewing Stand - by infusing a vanilla Brewing Stand, requires 20 pieces of Dragon Essence.
 
-Temple Caller - by infusing a vanilla Eye of Ender, requires 50 pieces of Dragon Essence. It's disabled though, so don't bother.ANDpre23510HardcoreEnderExpansion/essence_altar-1.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
-16enhancedlootbags/lootbag-57.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;55 Knowledge Points
-1tasksANDOptionalminecraft/brewing_stand-0.pngBrewing Stand
-1RetrievalHardcoreEnderExpansion/enhanced_brewing_stand-0.pngEnhanced Brewing Stand
+Temple Caller - by infusing a vanilla Eye of Ender, requires 50 pieces of Dragon Essence. It's disabled though, so don't bother.ANDpre23510HardcoreEnderExpansion/essence_altar-1.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essenc
+16enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;55 Knowledge Points
+1tasksANDOptionalminecraft/brewing_stand-0.pngBrewing Stan
+1RetrievalHardcoreEnderExpansion/enhanced_brewing_stand-0.pngEnhanced Brewing Stan
 1

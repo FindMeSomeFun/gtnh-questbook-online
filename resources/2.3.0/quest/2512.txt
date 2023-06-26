@@ -1,6 +1,6 @@
-2512thaumicenergistics/material-0.png0Diffusion and Coalescence27-1The Diffusion and Coalescence cores are basic components needed to make the Thaumic Energistics devices. They're made out of the Formation and Annihilation ones.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDRetrievalthaumicenergistics/material-0.pngDiffusion Core
-4thaumicenergistics/material-1.pngCoalescence Core
+2512thaumicenergistics/material-0.png0Diffusion and Coalescence27-1The Diffusion and Coalescence cores are basic components needed to make the Thaumic Energistics devices. They're made out of the Formation and Annihilation ones.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2tasksANDRetrievalthaumicenergistics/material-0.pngDiffusion Cor
+4thaumicenergistics/material-1.pngCoalescence Cor
 4

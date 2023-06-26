@@ -4,9 +4,9 @@
 
 §3That probably took forever, huh? BTW, it probably would've been faster to make more multifarms or farming stations instead.
 
-Also, you still gotta create the ultimate hybrid, too.ANDpre28690Forestry/sapling-0-raspberry.png28720Forestry/sapling-0-orange.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-30enhancedlootbags/lootbag-19-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-raspberry.pngRaspberry Sapling;Burn Time: 100
-1Forestry/sapling-0-orange.pngOrange Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-goldenraspberry.pngGolden Raspberry Sapling;Burn Time: 100
+Also, you still gotta create the ultimate hybrid, too.ANDpre28690Forestry/sapling-0-raspberry.png28720Forestry/sapling-0-orange.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+30enhancedlootbags/lootbag-19-enchanted.pngLootBag (Forest Ranger Basic;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-raspberry.pngRaspberry Saplin;Burn Time: 100
+1Forestry/sapling-0-orange.pngOrange Saplin;Burn Time: 100
+1RetrievalForestry/sapling-0-goldenraspberry.pngGolden Raspberry Saplin;Burn Time: 100
 1

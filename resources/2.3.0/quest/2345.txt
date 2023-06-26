@@ -1,4 +1,4 @@
-2345minecraft/iron_ore-0.png0Iron Ore exchange4024000You can exchange your Stack of GT Iron Ore for vanilla Iron Ore.ANDpre8260minecraft/iron_ore-0.pngrewardsItemminecraft/iron_ore-0.pngIron Ore
-64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-50gregtech/gt.blockores-32.pngIron Ore;Fe
+2345minecraft/iron_ore-0.png0Iron Ore exchange4024000You can exchange your Stack of GT Iron Ore for vanilla Iron Ore.ANDpre8260minecraft/iron_ore-0.pngrewardsItemminecraft/iron_ore-0.pngIron Or
+64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+50gregtech/gt.blockores-32.pngIron Or;Fe
 64

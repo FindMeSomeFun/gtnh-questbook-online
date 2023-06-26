@@ -1,10 +1,10 @@
 1112Forestry/frameUntreated-0.png0Frames28-1Untreated frames are the simplest frames. They do not work in bee houses, only in apiaries or alvearies. You will need them to craft bee houses.
 
-They increase the bee's performance. Each untreated frame will double a bee's productivity.ANDpre5010Forestry/beePrincessGE-0-Forest.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/beeCombs-0.pngHoney Comb
-8Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
-25tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
-9minecraft/string-0.pngString
-3minecraft/stick-0.pngStick;Burn Time: 100
-15CraftingForestry/frameUntreated-0.pngUntreated Frame
+They increase the bee's performance. Each untreated frame will double a bee's productivity.ANDpre5010Forestry/beePrincessGE-0-Forest.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/beeCombs-0.pngHoney Com
+8Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1
+25tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Sla;Burn Time: 150
+9minecraft/string-0.pngStrin
+3minecraft/stick-0.pngStic;Burn Time: 100
+15CraftingForestry/frameUntreated-0.pngUntreated Fram
 3

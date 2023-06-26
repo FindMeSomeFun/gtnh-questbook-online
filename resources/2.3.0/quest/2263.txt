@@ -1,5 +1,5 @@
 2263gendustry/IndustrialGrafter-1-charged.png0Industrial Grafter16-1If you're tired of constantly replacing branchcutters, this Industrial Grafter is rechargeable.
 
-§3Or you could just make better ones.ANDpre21210gregtech/gt.metatool.01-30.pngrewardsItemenhancedlootbags/lootbag-19-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-3tasksANDRetrievalgendustry/IndustrialGrafter-100.pngIndustrial Grafter;Charges: 0;+2 Attack Damage;Durability: 1 / 101;Durability: 1/101
+§3Or you could just make better ones.ANDpre21210gregtech/gt.metatool.01-30.pngrewardsItemenhancedlootbags/lootbag-19-enchanted.pngLootBag (Forest Ranger Basic;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+3tasksANDRetrievalgendustry/IndustrialGrafter-100.pngIndustrial Grafte;Charges: 0;+2 Attack Damage;Durability: 1 / 101;Durability: 1/101
 1

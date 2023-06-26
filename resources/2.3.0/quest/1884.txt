@@ -1,4 +1,4 @@
-1884miscutils/blockFishTrap-0.png0Shhh, Don't Tell 0lafe...40144000But here is a nice quest to get cheap fish catchers!ANDpre10090miscutils/blockFishTrap-0.pngrewardsItemmiscutils/blockFishTrap-0.pngFish Catcher;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
-2tasksANDConsumeminecraft/cooked_fished-0.pngCooked Fish;minecraft:cooked_fished
-40dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1884miscutils/blockFishTrap-0.png0Shhh, Don't Tell 0lafe...40144000But here is a nice quest to get cheap fish catchers!ANDpre10090miscutils/blockFishTrap-0.pngrewardsItemmiscutils/blockFishTrap-0.pngFish Catche;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
+2tasksANDConsumeminecraft/cooked_fished-0.pngCooked Fis;minecraft:cooked_fished
+40dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5

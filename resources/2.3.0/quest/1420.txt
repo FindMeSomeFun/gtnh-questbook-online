@@ -1,19 +1,19 @@
 1420gregtech/gt.blockmachines-840.png0§9§lShake That Booty...18-1...out of the purified ores. Anyways, a Large Sifter will increase your sifting speed significantly. What will you do with all these gems??
 
-§3You need one more casing if you don't want to use 2 energy hatches.ORpre15210gregtech/gt.blockmachines-643.pngrewardsChoiceminecraft/diamond_ore-0.pngDiamond Ore
-64gregtech/gt.blockores-502.pngRuby Ore;CrAl\u2082O\u2083
-64gregtech/gt.blockores-501.pngEmerald Ore;Be\u2083Al\u2082Si\u2086O\u2081\u2088
-64gregtech/gt.blockores-503.pngSapphire Ore;Al\u2082O\u2083
-64gregtech/gt.blockores-514.pngAmber Ore;C\u2081\u2080H\u2081\u2080O\u2081\u2086
-64gregtech/gt.blockores-542.pngTerra Infused Stone
-64gregtech/gt.blockores-543.pngAqua Infused Stone
-64gregtech/gt.blockores-541.pngIgnis Infused Stone
-64gregtech/gt.blockores-540.pngAer Infused Stone
-64gregtech/gt.blockores-545.pngOrdo Infused Stone
-64gregtech/gt.blockores-544.pngPerditio Infused Stone
-64enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalmiscutils/gtplusplus.blockcasings.2-6.pngLarge Sieve Grate;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-18Optionalmiscutils/gtplusplus.blockcasings.2-5.pngIndustrial Sieve Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-47Retrievalgregtech/gt.blockmachines-840.pngLarge Sifter Control Block;Machine Type: Sifter;Controller Block for the Industrial Sifter;400% faster than single-block machines of the same voltage;Only uses 75% of the EU/t normally required;Processes four items per voltage tier;Causes: 40 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
+§3You need one more casing if you don't want to use 2 energy hatches.ORpre15210gregtech/gt.blockmachines-643.pngrewardsChoiceminecraft/diamond_ore-0.pngDiamond Or
+64gregtech/gt.blockores-502.pngRuby Or;CrAl\u2082O\u2083
+64gregtech/gt.blockores-501.pngEmerald Or;Be\u2083Al\u2082Si\u2086O\u2081\u2088
+64gregtech/gt.blockores-503.pngSapphire Or;Al\u2082O\u2083
+64gregtech/gt.blockores-514.pngAmber Or;C\u2081\u2080H\u2081\u2080O\u2081\u2086
+64gregtech/gt.blockores-542.pngTerra Infused Ston
+64gregtech/gt.blockores-543.pngAqua Infused Ston
+64gregtech/gt.blockores-541.pngIgnis Infused Ston
+64gregtech/gt.blockores-540.pngAer Infused Ston
+64gregtech/gt.blockores-545.pngOrdo Infused Ston
+64gregtech/gt.blockores-544.pngPerditio Infused Ston
+64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalmiscutils/gtplusplus.blockcasings.2-6.pngLarge Sieve Grat;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+18Optionalmiscutils/gtplusplus.blockcasings.2-5.pngIndustrial Sieve Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+47Retrievalgregtech/gt.blockmachines-840.pngLarge Sifter Control Bloc;Machine Type: Sifter;Controller Block for the Industrial Sifter;400% faster than single-block machines of the same voltage;Only uses 75% of the EU/t normally required;Processes four items per voltage tier;Causes: 40 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

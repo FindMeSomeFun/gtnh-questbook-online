@@ -1,3 +1,3 @@
-2010StevesFactoryManager/BlockCableIntakeName-0.png0Item Valve26-1The Item Valve allows your factory manager to suck in dropped items from around them in a 3x3x3 cube. Or you can use them to push items out into the world in the direction they are pointing.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableIntakeName-0.pngItem Valve
-4tasksANDRetrievalStevesFactoryManager/BlockCableIntakeName-0.pngItem Valve
+2010StevesFactoryManager/BlockCableIntakeName-0.png0Item Valve26-1The Item Valve allows your factory manager to suck in dropped items from around them in a 3x3x3 cube. Or you can use them to push items out into the world in the direction they are pointing.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableIntakeName-0.pngItem Valv
+4tasksANDRetrievalStevesFactoryManager/BlockCableIntakeName-0.pngItem Valv
 4

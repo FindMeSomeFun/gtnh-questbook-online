@@ -1,11 +1,11 @@
-2450gregtech/gt.blockmachines-1686.png1§a§lHigher Tier Cables7-1To make higher tier cables, you'll want to make them with Polyphenylene Sulfide Foils and Silicone. You'll need both Tungsten and Platinum in IV-tier.ANDpre16641gregtech/gt.metaitem.01-17471.png24491gregtech/gt.metaitem.01-17631.pngrewardsChoicegregtech/gt.blockmachines-1687.png2x Tungsten Cable;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
-2gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
-10Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDOptionalgregtech/gt.blockmachines-1680.png1x Tungsten Wire;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 4 EU-Volt
-2gregtech/gt.blockmachines-1640.png1x Platinum Wire;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 2 EU-Volt
-2gregtech/gt.metaitem.01-29631.pngPolyphenylene Sulfide Foil;C\u2086H\u2084S
-4gregtech/gt.metaitem.99-471.pngMolten Silicone Rubber Cell;C\u2082H\u2086OSi
-2Retrievalgregtech/gt.blockmachines-1686.png1x Tungsten Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 2 EU-Volt
-2gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+2450gregtech/gt.blockmachines-1686.png1§a§lHigher Tier Cables7-1To make higher tier cables, you'll want to make them with Polyphenylene Sulfide Foils and Silicone. You'll need both Tungsten and Platinum in IV-tier.ANDpre16641gregtech/gt.metaitem.01-17471.png24491gregtech/gt.metaitem.01-17631.pngrewardsChoicegregtech/gt.blockmachines-1687.png2x Tungsten Cabl;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
+2gregtech/gt.blockmachines-1646.png1x Platinum Cabl;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+10Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1tasksANDOptionalgregtech/gt.blockmachines-1680.png1x Tungsten Wir;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 4 EU-Volt
+2gregtech/gt.blockmachines-1640.png1x Platinum Wir;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 2 EU-Volt
+2gregtech/gt.metaitem.01-29631.pngPolyphenylene Sulfide Foi;C\u2086H\u2084S
+4gregtech/gt.metaitem.99-471.pngMolten Silicone Rubber Cel;C\u2082H\u2086OSi
+2Retrievalgregtech/gt.blockmachines-1686.png1x Tungsten Cabl;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 2 EU-Volt
+2gregtech/gt.blockmachines-1646.png1x Platinum Cabl;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
 2

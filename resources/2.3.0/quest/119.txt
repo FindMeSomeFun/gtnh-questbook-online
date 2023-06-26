@@ -1,7 +1,7 @@
 119ExtraUtilities/filing-0.png0§3§lA Quite Different Storage3-1Regular chests can fill up rather quickly if you happen to collect mob drops like swords and/or armor. By using a cabinet, you can store up to 270 items of the same type. Also, it doesn't need a dolly - you can break it normally and it will retain contents. 
 
-Perfect for storing IC2 crop seeds, Forestry saplings, or bees!ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceExtraUtilities/filing-0.pngFiling Cabinet
-1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalExtraUtilities/filing-0.pngFiling Cabinet
+Perfect for storing IC2 crop seeds, Forestry saplings, or bees!ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceExtraUtilities/filing-0.pngFiling Cabine
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+10tasksANDRetrievalExtraUtilities/filing-0.pngFiling Cabine
 1

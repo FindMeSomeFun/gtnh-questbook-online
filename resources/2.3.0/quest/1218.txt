@@ -1,17 +1,17 @@
 1218Forestry/thermionicTubes-3.png0Iron, Golden, Diamantine Tubes16-1Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.
 
-Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
-4Forestry/canSeedOil-0.pngSeed Oil Can
-16enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-25tasksANDOptionalgregtech/gt.metaitem.02-22032.pngLong Iron Rod;Fe
-2gregtech/gt.metaitem.02-22086.pngLong Gold Rod;Au
-2gregtech/gt.metaitem.02-22500.pngLong Diamond Rod;C
-2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
-6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-3gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-6minecraft/glass-0.pngGlass;Glass-Tier: HV
-6RetrievalForestry/thermionicTubes-3.pngIron Electron Tube
-2Forestry/thermionicTubes-4.pngGolden Electron Tube
-2Forestry/thermionicTubes-5.pngDiamantine Electron Tube
+Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tub
+4Forestry/canSeedOil-0.pngSeed Oil Ca
+16enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+25tasksANDOptionalgregtech/gt.metaitem.02-22032.pngLong Iron Ro;Fe
+2gregtech/gt.metaitem.02-22086.pngLong Gold Ro;Au
+2gregtech/gt.metaitem.02-22500.pngLong Diamond Ro;C
+2gregtech/gt.metaitem.01-26086.pngGold Bol;Au
+6gregtech/gt.metaitem.01-17308.pngRed Alloy Plat;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+3gregtech/gt.metaitem.02-19035.pngFine Copper Wir;Cu
+6minecraft/glass-0.pngGlas;Glass-Tier: HV
+6RetrievalForestry/thermionicTubes-3.pngIron Electron Tub
+2Forestry/thermionicTubes-4.pngGolden Electron Tub
+2Forestry/thermionicTubes-5.pngDiamantine Electron Tub
 2

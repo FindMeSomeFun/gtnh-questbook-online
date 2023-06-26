@@ -1,5 +1,5 @@
-2506appliedenergistics2/item.ItemMultiMaterial-32.png0AE Spatial Storage27-1The main part of 2^3 spatial cells.ANDpre25050dreamcraft/item.EngineeringProcessorSpatialPulsatingCore-0.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-32.png2\u00b3 Spatial Component
+2506appliedenergistics2/item.ItemMultiMaterial-32.png0AE Spatial Storage27-1The main part of 2^3 spatial cells.ANDpre25050dreamcraft/item.EngineeringProcessorSpatialPulsatingCore-0.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier 
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-32.png2\u00b3 Spatial Componen
 1

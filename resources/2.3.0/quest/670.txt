@@ -2,10 +2,10 @@
 
 Warning: We are not held responsible for any damage caused by riding the carbon fiber canoe into a lava lake or the Void.
 
-*Therefore, warranty is NOT included.ANDpre6720dreamcraft/item.ExtruderShapeBoat-0.png6730gregtech/gt.blockmachines-281.pngrewardsChoiceharvestcraft/fishtrap-0.pngFish Trap;Burn Time: 300
-1minecraft/waterlily-0.pngLily Pad
-32enhancedlootbags/lootbag-33.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalIC2/itemBoat-0.pngCarbon Fiber Canoe
+*Therefore, warranty is NOT included.ANDpre6720dreamcraft/item.ExtruderShapeBoat-0.png6730gregtech/gt.blockmachines-281.pngrewardsChoiceharvestcraft/fishtrap-0.pngFish Tra;Burn Time: 300
+1minecraft/waterlily-0.pngLily Pa
+32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalIC2/itemBoat-0.pngCarbon Fiber Cano
 1

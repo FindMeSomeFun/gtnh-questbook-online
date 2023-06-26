@@ -1,4 +1,4 @@
-516gendustry/Extractor-0.png0A Rather Cruel Disposal28-1You'll probably end up with a lot of excess drones while doing bees. (Or saplings if you do trees). Instead of throwing them away, you could also turn them into... something useful.ANDpre5100gendustry/Labware-0.pngrewardsItemenhancedlootbags/lootbag-27.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-1tasksANDRetrievalgendustry/Extractor-0.pngDNA Extractor
+516gendustry/Extractor-0.png0A Rather Cruel Disposal28-1You'll probably end up with a lot of excess drones while doing bees. (Or saplings if you do trees). Instead of throwing them away, you could also turn them into... something useful.ANDpre5100gendustry/Labware-0.pngrewardsItemenhancedlootbags/lootbag-27.pngLootBag (Bees Expert;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100
+1tasksANDRetrievalgendustry/Extractor-0.pngDNA Extracto
 1

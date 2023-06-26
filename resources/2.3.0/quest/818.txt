@@ -1,7 +1,7 @@
-818GalacticraftCore/item.basicItem-19.png1Frequency Module24-1The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in your inventory and in the Moon lander.ANDpre8321GalacticraftCore/item.basicItem-13.pngrewardsChoiceGalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-2GalacticraftCore/item.basicItem-7.pngCompressed Tin
-2GalacticraftCore/item.basicItem-13.pngBasic Wafer
-1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalGalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
+818GalacticraftCore/item.basicItem-19.png1Frequency Module24-1The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in your inventory and in the Moon lander.ANDpre8321GalacticraftCore/item.basicItem-13.pngrewardsChoiceGalacticraftCore/item.basicItem-8.pngCompressed Aluminu
+2GalacticraftCore/item.basicItem-7.pngCompressed Ti
+2GalacticraftCore/item.basicItem-13.pngBasic Wafe
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalGalacticraftCore/item.basicItem-19.pngFrequency Modul;Can receive weak sound;waves and distant signals
 2

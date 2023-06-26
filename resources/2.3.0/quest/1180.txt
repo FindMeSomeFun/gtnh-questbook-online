@@ -6,8 +6,8 @@ Passive anchors will run for 1 hour off of an ender pearl, and a varying amount 
 
 §9Passive Anchors§r are loaded once the owner visits, and stays loaded until the server resets.
 
-§4World Anchors§r are always loaded, even after a server reset.ANDpre10811gregtech/gt.blockmachines-222.pngrewardsItemdreamcraft/item.CoinChunkloaderTierI-0.pngChunkloader Coin Tier I;12H Chunkloader Coin, 24H in Passive Chunkloader, 48H in Personal Chunkloader
-4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalRailcraft/machine.alpha-13.pngPassive Anchor;0.00 hours;Mobs cannot Spawn on this Block
+§4World Anchors§r are always loaded, even after a server reset.ANDpre10811gregtech/gt.blockmachines-222.pngrewardsItemdreamcraft/item.CoinChunkloaderTierI-0.pngChunkloader Coin Tier ;12H Chunkloader Coin, 24H in Passive Chunkloader, 48H in Personal Chunkloader
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalRailcraft/machine.alpha-13.pngPassive Ancho;0.00 hours;Mobs cannot Spawn on this Block
 1

@@ -1,15 +1,15 @@
-810GalacticraftCore/item.spaceship-0.png1Rocket Tier 124-1After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.ANDpre8111GalaxySpace/item.RocketControlComputer-1.png8131GalacticraftCore/item.noseCone-0.png8141GalacticraftCore/item.rocketFins-0.png8151GalacticraftCore/item.engine-0.png8161GalaxySpace/item.ModuleLander-0.png8191GalaxySpace/item.ModuleSmallFuelCanister-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
-32GalacticraftCore/item.basicItem-9.pngCompressed Steel
-16enhancedlootbags/lootbag-22.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalGalacticraftCore/item.noseCone-0.pngNose Cone
-1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
-8GalacticraftCore/item.rocketFins-0.pngRocket Fins
-4GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
-1OptionalGalaxySpace/item.RocketControlComputer-1.pngRocket Control Computer Tier 1
-1GalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
-1GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister;Rocket Module
-2RetrievalGalacticraftCore/item.spaceship-0.pngTier 1 Rocket
+810GalacticraftCore/item.spaceship-0.png1Rocket Tier 124-1After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to actually craft it.ANDpre8111GalaxySpace/item.RocketControlComputer-1.png8131GalacticraftCore/item.noseCone-0.png8141GalacticraftCore/item.rocketFins-0.png8151GalacticraftCore/item.engine-0.png8161GalaxySpace/item.ModuleLander-0.png8191GalaxySpace/item.ModuleSmallFuelCanister-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TN
+32GalacticraftCore/item.basicItem-9.pngCompressed Stee
+16enhancedlootbags/lootbag-22.pngLootBag (Space Invaders Moon;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalGalacticraftCore/item.noseCone-0.pngNose Con
+1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plat;Tier 1
+8GalacticraftCore/item.rocketFins-0.pngRocket Fin
+4GalacticraftCore/item.engine-0.pngTier 1 Rocket Engin
+1OptionalGalaxySpace/item.RocketControlComputer-1.pngRocket Control Computer Tier 
+1GalaxySpace/item.ModuleLander-0.pngLander Tier ;Rocket Module
+1GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Caniste;Rocket Module
+2RetrievalGalacticraftCore/item.spaceship-0.pngTier 1 Rocke
 1

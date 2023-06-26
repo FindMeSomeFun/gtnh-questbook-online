@@ -8,12 +8,12 @@ To refill your oxygen tanks just put the tank and the LOX canister in the oxygen
 
 Each LOX canister can fill 4 Heavy Oxygen Tanks, 6 Medium Oxygen Tanks, or 12 Light Oxygen Tanks.
 
-So much Greggy!ANDpre8211GalacticraftCore/tile.fuelLoader-0.pngrewardsChoiceGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister;Durability: 0 / 1001
-2GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
-16GalacticraftCore/item.oxygenTankLightFull-900.pngLight Oxygen Tank;Oxygen Remaining: 100;Durability: 100 / 1000
-1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-1OptionalGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister;Durability: 0 / 1001
-1RetrievalGalacticraftMars/item.canisterPartialLOX-1.pngFilled Canister of Liquid Oxygen;LOX: 1000;Durability: 1000 / 1001
+So much Greggy!ANDpre8211GalacticraftCore/tile.fuelLoader-0.pngrewardsChoiceGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Caniste;Durability: 0 / 1001
+2GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pip;Glass-Tier: HV
+16GalacticraftCore/item.oxygenTankLightFull-900.pngLight Oxygen Tan;Oxygen Remaining: 100;Durability: 100 / 1000
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalgregtech/gt.metaitem.01-30013.pngOxygen Cel;O
+1OptionalGalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Caniste;Durability: 0 / 1001
+1RetrievalGalacticraftMars/item.canisterPartialLOX-1.pngFilled Canister of Liquid Oxyge;LOX: 1000;Durability: 1000 / 1001
 1

@@ -1,13 +1,13 @@
-594Forestry/chipsets-2.png0Refined Farm Logic16-1This circuit allows you to configure 3/4 areas of your farm.ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11303.pngElectrum Ingot;AgAu
-8gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2gregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-1enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-30dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-30tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-4gregtech/gt.metaitem.01-29305.pngSteel Foil;Fe\u2085\u2080C
-2gregtech/gt.metaitem.02-19305.pngFine Steel Wire;Fe\u2085\u2080C
-1RetrievalForestry/chipsets-2.pngRefined Circuit Board
+594Forestry/chipsets-2.png0Refined Farm Logic16-1This circuit allows you to configure 3/4 areas of your farm.ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11303.pngElectrum Ingo;AgAu
+8gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.03-32101.pngGood Circuit Boar;A good Circuit Board
+1enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+30dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+30tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Boar;A good Circuit Board
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.01-27305.pngSteel Scre;Fe\u2085\u2080C
+4gregtech/gt.metaitem.01-29305.pngSteel Foi;Fe\u2085\u2080C
+2gregtech/gt.metaitem.02-19305.pngFine Steel Wir;Fe\u2085\u2080C
+1RetrievalForestry/chipsets-2.pngRefined Circuit Boar
 1

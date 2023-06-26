@@ -14,9 +14,9 @@ These are GT machines, so remember to protect them (and their power sources!) fr
 4) Ridiculous bio vat nonsense
 5) Crops
 6) Bees
-7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for detailsANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemBuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-4minecraft/bucket-0.pngBucket
-2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pump;The best way to empty Oceans! Outputs on top;64 EU/operation, 4 sec per bucket, no stuttering;Maximum pumping area: 21x21;Use Screwdriver to regulate pumping area;Use Soft Mallet to disable and retract the pipe;Disable the bottom pump to retract the pipe!;Use Soldering Iron to auto retract the pipe when hitting a rock;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1RetrievalIC2/blockMiningPipe-0.pngMining Pipe
+7) The real answer, which is Underground or UG oil. Dims generally have a couple fluids that can be accessed with a multiblock version of the pump, available in MV+. Go read the quest for it when it's available for detailsANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemBuildCraftFactory/tankBlock-0.pngTan;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+4minecraft/bucket-0.pngBucke
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+3tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pum;The best way to empty Oceans! Outputs on top;64 EU/operation, 4 sec per bucket, no stuttering;Maximum pumping area: 21x21;Use Screwdriver to regulate pumping area;Use Soft Mallet to disable and retract the pipe;Disable the bottom pump to retract the pipe!;Use Soldering Iron to auto retract the pipe when hitting a rock;Voltage IN: 32 (LV);Capacity: 2,048 EU
+1RetrievalIC2/blockMiningPipe-0.pngMining Pip
 64

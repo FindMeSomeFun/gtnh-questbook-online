@@ -1,8 +1,8 @@
 1221gregtech/gt.blockmachines-1181.png1§9§lAdvanced Circuit Assembler6-1EV circuits need an MV Circuit Assembler, so make one.
 
-§y§3Shortly after this, all circuit recipes will need a cleanroom, so get started on it!ANDpre1601gregtech/gt.blockmachines-13.png14781gregtech/gt.metaitem.01-32681.pngrewardsChoicegregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell;CH\u2082
-8gregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell;Na\u2082S\u2082O\u2088
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-1181.pngAdvanced Circuit Assembler;Pick-n-Place all over the place;Voltage IN: 128 (MV);Capacity: 8,192 EU
+§y§3Shortly after this, all circuit recipes will need a cleanroom, so get started on it!ANDpre1601gregtech/gt.blockmachines-13.png14781gregtech/gt.metaitem.01-32681.pngrewardsChoicegregtech/gt.metaitem.99-874.pngMolten Polyethylene Cel;CH\u2082
+8gregtech/gt.metaitem.01-30718.pngSodium Persulfate Cel;Na\u2082S\u2082O\u2088
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.blockmachines-1181.pngAdvanced Circuit Assemble;Pick-n-Place all over the place;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

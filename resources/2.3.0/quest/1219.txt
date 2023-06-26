@@ -1,17 +1,17 @@
 1219Forestry/thermionicTubes-8.png0Rubberised, Obsidian, Lapis Tubes16-1Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.
 
-Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
-4minecraft/redstone_block-0.pngBlock of Redstone
-7enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-25tasksANDOptionalgregtech/gt.metaitem.02-22880.pngLong Rubber Rod;C\u2085H\u2088
-2dreamcraft/item.LongObsidianRod-0.pngLong Obsidian Rod
-2gregtech/gt.metaitem.02-22526.pngLong Lapis Rod;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
-6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-3gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-6minecraft/glass-0.pngGlass;Glass-Tier: HV
-6RetrievalForestry/thermionicTubes-8.pngRubberised Electron Tube
-2Forestry/thermionicTubes-6.pngObsidian Electron Tube
-2Forestry/thermionicTubes-11.pngLapis Electron Tube
+Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tub
+4minecraft/redstone_block-0.pngBlock of Redston
+7enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+25tasksANDOptionalgregtech/gt.metaitem.02-22880.pngLong Rubber Ro;C\u2085H\u2088
+2dreamcraft/item.LongObsidianRod-0.pngLong Obsidian Ro
+2gregtech/gt.metaitem.02-22526.pngLong Lapis Ro;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+2gregtech/gt.metaitem.01-26086.pngGold Bol;Au
+6gregtech/gt.metaitem.01-17308.pngRed Alloy Plat;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+3gregtech/gt.metaitem.02-19035.pngFine Copper Wir;Cu
+6minecraft/glass-0.pngGlas;Glass-Tier: HV
+6RetrievalForestry/thermionicTubes-8.pngRubberised Electron Tub
+2Forestry/thermionicTubes-6.pngObsidian Electron Tub
+2Forestry/thermionicTubes-11.pngLapis Electron Tub
 2

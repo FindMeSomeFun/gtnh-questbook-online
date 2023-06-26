@@ -1,7 +1,7 @@
-1662gregtech/gt.metaitem.01-30663.png1§9§lDimethyldichlorosilane6-1For the next step you need Chloromethane and Silicon Dust. This gets you Dimethyldichlorosilane.ANDpre16611gregtech/gt.metaitem.01-30664.pngrewardsChoicegregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
-16enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30664.pngChloromethane Cell;CH\u2083Cl
-42gregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
-21Retrievalgregtech/gt.metaitem.01-30663.pngDimethyldichlorosilane Cell;C\u2082H\u2086Cl\u2082Si
+1662gregtech/gt.metaitem.01-30663.png1§9§lDimethyldichlorosilane6-1For the next step you need Chloromethane and Silicon Dust. This gets you Dimethyldichlorosilane.ANDpre16611gregtech/gt.metaitem.01-30664.pngrewardsChoicegregtech/gt.metaitem.01-30673.pngMethanol Cel;CH\u2084O
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5tasksANDOptionalgregtech/gt.metaitem.01-30664.pngChloromethane Cel;CH\u2083Cl
+42gregtech/gt.metaitem.01-2020.pngRaw Silicon Dus;Si
+21Retrievalgregtech/gt.metaitem.01-30663.pngDimethyldichlorosilane Cel;C\u2082H\u2086Cl\u2082Si
 21

@@ -26,14 +26,14 @@ Note that the more crops next to the double crop stick the faster new plants wil
 
 Don't leave new crops in these intensive fields. Pull them out and hopefully get a seedbag. Put low stat seeds in production fields that don't require babysitting. Keep the high stat seeds for more crossing. 
 
-Crossing happens when 2 or more almost mature crops are next to a double cropstick. There is a high chance of getting the same species as the parents. The rest of the time will be a mutation. More details in the IC2 cropnalyzer quest.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceIC2/blockCrop-0.pngCrop
-64minecraft/carrot-0.pngCarrot;minecraft:carrot
-16minecraft/dye-3.pngCocoa Beans
-16enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDRetrievalIC2/blockCrop-0.pngCrop
-16Retrievalminecraft/wheat_seeds-0.pngSeeds
-2minecraft/reeds-0.pngSugar Canes;Burn Time: 50
-2minecraft/carrot-0.pngCarrot;minecraft:carrot
-2minecraft/potato-0.pngPotato;minecraft:potato
+Crossing happens when 2 or more almost mature crops are next to a double cropstick. There is a high chance of getting the same species as the parents. The rest of the time will be a mutation. More details in the IC2 cropnalyzer quest.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceIC2/blockCrop-0.pngCro
+64minecraft/carrot-0.pngCarro;minecraft:carrot
+16minecraft/dye-3.pngCocoa Bean
+16enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+15tasksANDRetrievalIC2/blockCrop-0.pngCro
+16Retrievalminecraft/wheat_seeds-0.pngSeed
+2minecraft/reeds-0.pngSugar Cane;Burn Time: 50
+2minecraft/carrot-0.pngCarro;minecraft:carrot
+2minecraft/potato-0.pngPotat;minecraft:potato
 2

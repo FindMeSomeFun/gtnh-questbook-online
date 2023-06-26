@@ -3,15 +3,15 @@ While worn in the chest armor slot and charged with EU, it allows the player to 
 
 The advanced electric jetpack is limited to a maximum flying height of Y-256.
 
-§3To turn it on, hit the fly key listed under gravisuite. You can then use space to fly up. To activate hover, hit the IC2 mode key while holding space. Will also recharge tools.ANDpre1761gregtech/gt.blockmachines-14.png6510IC2/itemArmorJetpackElectric-1-charged.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoicegregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-2gregtech/gt.metaitem.01-32603.pngElectric Motor
-1enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+§3To turn it on, hit the fly key listed under gravisuite. You can then use space to fly up. To activate hover, hit the IC2 mode key while holding space. Will also recharge tools.ANDpre1761gregtech/gt.blockmachines-14.png6510IC2/itemArmorJetpackElectric-1-charged.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoicegregtech/gt.metaitem.01-32704.pngWorkstatio;An Extreme Circuit;EV-Tier
+2gregtech/gt.metaitem.01-32603.pngElectric Motor (EV
+1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
 1tasksANDOptionalIC2/itemArmorJetpackElectric-32767.pngElectric Jetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
-1IC2/itemArmorAlloyChestplate-0.pngComposite Vest;Protection: 9;Durability: 800/800
-1IC2/itemPartCarbonPlate-0.pngCarbon Plate
-2gregtech/gt.metaitem.01-17028.pngTitanium Plate;Ti
-2gregtech/gt.blockmachines-1641.png2x Platinum Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
-2gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
+1IC2/itemArmorAlloyChestplate-0.pngComposite Ves;Protection: 9;Durability: 800/800
+1IC2/itemPartCarbonPlate-0.pngCarbon Plat
+2gregtech/gt.metaitem.01-17028.pngTitanium Plat;Ti
+2gregtech/gt.blockmachines-1641.png2x Platinum Wir;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
+2gregtech/gt.metaitem.01-32704.pngWorkstatio;An Extreme Circuit;EV-Tier
 1RetrievalGraviSuite/advJetpack-32767.pngAdvanced Electric Jetpack\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
 1

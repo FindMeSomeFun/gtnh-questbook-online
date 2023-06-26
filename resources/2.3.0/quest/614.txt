@@ -1,8 +1,8 @@
-614gregtech/gt.metaitem.01-32517.png0Reusable Battery: Cadmium20-1This is the Cadmium one.ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2055.pngCadmium Dust;Cd
-2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dust;Pb\u2084Sb
-4gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-4enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-32517.pngSmall Cadmium Battery;Reusable;0 / 75,000 EU - Voltage: 32;LV-Tier
+614gregtech/gt.metaitem.01-32517.png0Reusable Battery: Cadmium20-1This is the Cadmium one.ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2055.pngCadmium Dus;Cd
+2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dus;Pb\u2084Sb
+4gregtech/gt.blockmachines-1246.png1x Tin Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalgregtech/gt.metaitem.01-32517.pngSmall Cadmium Batter;Reusable;0 / 75,000 EU - Voltage: 32;LV-Tier
 1

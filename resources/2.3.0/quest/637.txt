@@ -1,9 +1,9 @@
 637gregtech/gt.metaitem.02-32559.png0Do'h!13-1Water and flour makes a dough or two... Dough can be used in many different food recipes from pam's harvestcraft.
 
-Don't use the terrible NEI recipe, instead drop a stack of flour into a cauldron full of water. Celiacs beware!ANDpre71minecraft/carrot-0.png6350gregtech/gt.metaitem.01-2881.pngrewardsChoiceIC2/blockCrop-0.pngCrop
-8IguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucket
-5minecraft/bucket-0.pngBucket
-2enhancedlootbags/lootbag-28.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalgregtech/gt.metaitem.02-32559.pngDough;gregtech:gt.metaitem.02;For making Breads
+Don't use the terrible NEI recipe, instead drop a stack of flour into a cauldron full of water. Celiacs beware!ANDpre71minecraft/carrot-0.png6350gregtech/gt.metaitem.01-2881.pngrewardsChoiceIC2/blockCrop-0.pngCro
+8IguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucke
+5minecraft/bucket-0.pngBucke
+2enhancedlootbags/lootbag-28.pngLootBag (Fast Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+15tasksANDRetrievalgregtech/gt.metaitem.02-32559.pngDoug;gregtech:gt.metaitem.02;For making Breads
 16

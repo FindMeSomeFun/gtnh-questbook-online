@@ -1,8 +1,8 @@
-785gregtech/gt.metaitem.01-32717.png1§6§lTransistor5-1For the next tier we need advanced circuits. To make advanced circuits, you need transistors.ANDpre7521gregtech/gt.metaitem.01-17020.pngrewardsChoicegregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
-4gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Board;A Good Board
-1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.02-19057.pngFine Tin Wire;Sn
-32gregtech/gt.metaitem.01-17856.pngSilicon Solar Grade;Si*
-4Retrievalgregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
+785gregtech/gt.metaitem.01-32717.png1§6§lTransistor5-1For the next tier we need advanced circuits. To make advanced circuits, you need transistors.ANDpre7521gregtech/gt.metaitem.01-17020.pngrewardsChoicegregtech/gt.metaitem.01-32717.pngTransisto;Basic Electronic Component
+4gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Boar;A Good Board
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalgregtech/gt.metaitem.02-19057.pngFine Tin Wir;Sn
+32gregtech/gt.metaitem.01-17856.pngSilicon Solar Grade (Poly SI) Plat;Si*
+4Retrievalgregtech/gt.metaitem.01-32717.pngTransisto;Basic Electronic Component
 24

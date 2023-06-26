@@ -1,10 +1,10 @@
-1670gregtech/gt.metaitem.03-32032.png1§b§lNaquadah Doped Monocrystalline Silicon8-1To make more advanced wafers, you need to make the naquadah dopped monocrystalline silicon first. The process takes 750 seconds and requires silicon solar grade blocks, a naquadah ingot and a gallium arsenice crystal in the Electric Blast Furnace. You can make 64 wafers out of every boule.ANDpre16671gregtech/gt.metaitem.01-11324.pngrewardsChoicegregtech/gt.blockmetal9-1.pngBlock of Silicon Solar Grade
-4gregtech/gt.metaitem.01-2324.pngNaquadah Dust;Nq
-8enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.01-30024.pngArgon Cell;Ar
-32gregtech/gt.blockmetal9-1.pngBlock of Silicon Solar Grade
-64gregtech/gt.metaitem.01-11324.pngNaquadah Ingot;Nq
-4gregtech/gt.metaitem.03-32190.pngGallium Arsenide Crystal;For making boules
-4Retrievalgregtech/gt.metaitem.03-32032.pngNaquadah doped Monocrystalline Silicon Boule;Raw Circuit
+1670gregtech/gt.metaitem.03-32032.png1§b§lNaquadah Doped Monocrystalline Silicon8-1To make more advanced wafers, you need to make the naquadah dopped monocrystalline silicon first. The process takes 750 seconds and requires silicon solar grade blocks, a naquadah ingot and a gallium arsenice crystal in the Electric Blast Furnace. You can make 64 wafers out of every boule.ANDpre16671gregtech/gt.metaitem.01-11324.pngrewardsChoicegregtech/gt.blockmetal9-1.pngBlock of Silicon Solar Grade (Poly SI
+4gregtech/gt.metaitem.01-2324.pngNaquadah Dus;Nq
+8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+5tasksANDOptionalgregtech/gt.metaitem.01-30024.pngArgon Cel;Ar
+32gregtech/gt.blockmetal9-1.pngBlock of Silicon Solar Grade (Poly SI
+64gregtech/gt.metaitem.01-11324.pngNaquadah Ingo;Nq
+4gregtech/gt.metaitem.03-32190.pngGallium Arsenide Crysta;For making boules
+4Retrievalgregtech/gt.metaitem.03-32032.pngNaquadah doped Monocrystalline Silicon Boul;Raw Circuit
 4

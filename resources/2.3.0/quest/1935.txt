@@ -5,6 +5,6 @@ Obsidian: 512
 Diamond: 2560
 Bedrockium: 32767
 
-They obviously get harder to make the longer they last.ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/diamond-0.pngDiamond;Burn Time: 102400
-2tasksANDRetrievalchisel/obsidianChisel-0.pngObsidian Chisel;Right-Click to open GUI;Left click to chisel blocks in world;Can target a block by leaving it in the inventory;Has multiple modes for chiseling.;+4 Attack Damage;Chisel from Chisel Mod
+They obviously get harder to make the longer they last.ANDpre541gregtech/gt.blockmachines-115.pngrewardsItemminecraft/diamond-0.pngDiamon;Burn Time: 102400
+2tasksANDRetrievalchisel/obsidianChisel-0.pngObsidian Chise;Right-Click to open GUI;Left click to chisel blocks in world;Can target a block by leaving it in the inventory;Has multiple modes for chiseling.;+4 Attack Damage;Chisel from Chisel Mod
 1

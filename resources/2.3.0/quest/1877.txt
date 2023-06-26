@@ -14,11 +14,11 @@ Put in power (and hopefully UUA), and out comes UUM. You should also know that y
 
 For now, just stockpile the UU matter. You need data orbs to use the replicator, and that's explained next tier. 
 
-§3You only need to complete one of the tasks.ANDpre18760gregtech/gt.blockmachines-473.pngrewardsChoicegregtech/gt.metaitem.01-30721.pngUU-Amplifier Cell;Accelerates the Mass Fabricator
-1gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-16EnderIO/blockTank-0.pngFluid Tank
-2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksORRetrievalgregtech/gt.blockmachines-461.pngBasic Mass Fabricator;UUM = Matter * Fabrication Squared;Voltage IN: 32 (LV);Capacity: 16,384 EU
-2Retrievalgregtech/gt.blockmachines-462.pngAdvanced Mass Fabricator;UUM = Matter * Fabrication Squared;Voltage IN: 128 (MV);Capacity: 65,536 EU
+§3You only need to complete one of the tasks.ANDpre18760gregtech/gt.blockmachines-473.pngrewardsChoicegregtech/gt.metaitem.01-30721.pngUU-Amplifier Cel;Accelerates the Mass Fabricator
+1gregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
+16EnderIO/blockTank-0.pngFluid Tan
+2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksORRetrievalgregtech/gt.blockmachines-461.pngBasic Mass Fabricato;UUM = Matter * Fabrication Squared;Voltage IN: 32 (LV);Capacity: 16,384 EU
+2Retrievalgregtech/gt.blockmachines-462.pngAdvanced Mass Fabricato;UUM = Matter * Fabrication Squared;Voltage IN: 128 (MV);Capacity: 65,536 EU
 1

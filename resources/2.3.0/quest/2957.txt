@@ -1,4 +1,4 @@
-2957bartworks/gt.bwMetaGeneratedcell-10003.png0Nuclear Based Fuel (U)19-1Provides 12,960EU/t output lasting 5s per mB.ANDpre29560bartworks/gt.bwMetaGeneratedcell-10007.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10003.pngUranium Based Liquid Fuel;*(U\u2083\u2086K\u2088Qt\u2084Rn)*;Added by Good Generator via BartWorks
-2bartworks/gt.bwMetaGeneratedcell-10002.pngUranium Based Liquid Fuel Cell;U\u2083\u2086K\u2088Qt\u2084Rn;Added by Good Generator via BartWorks
-4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10003.pngUranium Based Liquid Fuel;*(U\u2083\u2086K\u2088Qt\u2084Rn)*;Added by Good Generator via BartWorks
+2957bartworks/gt.bwMetaGeneratedcell-10003.png0Nuclear Based Fuel (U)19-1Provides 12,960EU/t output lasting 5s per mB.ANDpre29560bartworks/gt.bwMetaGeneratedcell-10007.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10003.pngUranium Based Liquid Fuel (Excited State) Cel;*(U\u2083\u2086K\u2088Qt\u2084Rn)*;Added by Good Generator via BartWorks
+2bartworks/gt.bwMetaGeneratedcell-10002.pngUranium Based Liquid Fuel Cel;U\u2083\u2086K\u2088Qt\u2084Rn;Added by Good Generator via BartWorks
+4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10003.pngUranium Based Liquid Fuel (Excited State) Cel;*(U\u2083\u2086K\u2088Qt\u2084Rn)*;Added by Good Generator via BartWorks
 1

@@ -35,6 +35,6 @@ TE - Tau Ceti E
 Ti - Titan
 Tr - Triton
 VB - Vega B
-Ve - VenusANDpre32470minecraft/nether_star-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+Ve - VenusANDpre32470minecraft/nether_star-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
 5tasksANDCheckboxcheckbox-.pngCheckbox
 1

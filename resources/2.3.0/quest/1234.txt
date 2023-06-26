@@ -1,11 +1,11 @@
-1234gregtech/gt.metaitem.03-32102.png1§a§lEmpty Expoxid Board7-1Epoxid circuit boards require an epoxid plate, gold foil and sulfuric acid to make an empty board. By adding electrum foil and Iron(III) Chloride or Sodium Persulfate you can craft an Advanced Circuit Board.ANDpre12241gregtech/gt.metaitem.01-17470.pngrewardsChoicegregtech/gt.metaitem.01-29303.pngElectrum Foil;AgAu
-8gregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
-4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
-1gregtech/gt.metaitem.01-29086.pngGold Foil;Au
-8Optionalgregtech/gt.metaitem.01-29303.pngElectrum Foil;AgAu
-8gregtech/gt.metaitem.01-32711.pngEpoxy Circuit Board;An Advanced Board
-1Retrievalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
+1234gregtech/gt.metaitem.03-32102.png1§a§lEmpty Expoxid Board7-1Epoxid circuit boards require an epoxid plate, gold foil and sulfuric acid to make an empty board. By adding electrum foil and Iron(III) Chloride or Sodium Persulfate you can craft an Advanced Circuit Board.ANDpre12241gregtech/gt.metaitem.01-17470.pngrewardsChoicegregtech/gt.metaitem.01-29303.pngElectrum Foi;AgAu
+8gregtech/gt.metaitem.01-17470.pngEpoxid Shee;C\u2082\u2081H\u2082\u2084O\u2084
+4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalgregtech/gt.metaitem.01-17470.pngEpoxid Shee;C\u2082\u2081H\u2082\u2084O\u2084
+1gregtech/gt.metaitem.01-29086.pngGold Foi;Au
+8Optionalgregtech/gt.metaitem.01-29303.pngElectrum Foi;AgAu
+8gregtech/gt.metaitem.01-32711.pngEpoxy Circuit Boar;An Advanced Board
+1Retrievalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Boar;A advanced Circuit Board
 1

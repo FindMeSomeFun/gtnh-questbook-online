@@ -1,4 +1,4 @@
-1272gregtech/gt.metaitem.02-32115.png0Wheaty Juice13-1The first step to brew beer or other alcoholic fluids is wheaty juice.ANDpre6340minecraft/wheat-0.png12730gregtech/gt.blockmachines-491.pngrewardsItemenhancedlootbags/lootbag-29.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
-1tasksANDRetrievalgregtech/gt.metaitem.02-32115.pngWheaty Juice;gregtech:gt.metaitem.02;Is this liquefied Bread or what?
+1272gregtech/gt.metaitem.02-32115.png0Wheaty Juice13-1The first step to brew beer or other alcoholic fluids is wheaty juice.ANDpre6340minecraft/wheat-0.png12730gregtech/gt.blockmachines-491.pngrewardsItemenhancedlootbags/lootbag-29.pngLootBag (Slow Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinCookI-0.pngCoin "The Cook 10
+1tasksANDRetrievalgregtech/gt.metaitem.02-32115.pngWheaty Juic;gregtech:gt.metaitem.02;Is this liquefied Bread or what?
 4

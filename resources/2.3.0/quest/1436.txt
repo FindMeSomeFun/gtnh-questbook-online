@@ -1,9 +1,9 @@
-1436GalacticraftCore/tile.landingPad-1.png0Fueling Your Buggy24-1The moon buggy needs fuel to work. Build a 3x3 fueling pad, connect it with a fuel loader, and place the buggy on top.ANDpre14340GalacticraftCore/item.buggy-0.pngrewardsChoiceIC2/itemPartAlloy-0.pngAdvanced Alloy
-4gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
-9IC2/itemPartAlloy-0.pngAdvanced Alloy
-9Railcraft/cube-2.pngBlock of Steel;Mobs cannot Spawn on this Block
-9RetrievalGalacticraftCore/tile.landingPad-1.pngBuggy Fueling Pad
+1436GalacticraftCore/tile.landingPad-1.png0Fueling Your Buggy24-1The moon buggy needs fuel to work. Build a 3x3 fueling pad, connect it with a fuel loader, and place the buggy on top.ANDpre14340GalacticraftCore/item.buggy-0.pngrewardsChoiceIC2/itemPartAlloy-0.pngAdvanced Allo
+4gregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Stee
+9IC2/itemPartAlloy-0.pngAdvanced Allo
+9Railcraft/cube-2.pngBlock of Stee;Mobs cannot Spawn on this Block
+9RetrievalGalacticraftCore/tile.landingPad-1.pngBuggy Fueling Pa
 9

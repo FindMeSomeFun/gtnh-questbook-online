@@ -1,8 +1,8 @@
 3141gregtech/gt.blockmachines-532.png0Distilling Benzene22-1From Wood Tar, you can selectively filter out the energetic Benzene to use as a power source. This tar is like a fluid equivalent of the Charcoal, and it actually has a lot of useful chemicals hidden inside: to separate them, the tar needs to be heated up to a temperature that will cause some of its components to evaporate, but not others. This is fractional distillation, and the singleblock Distillery, in this case an MV one, can recover only one of the outputs of such distillation.
 
-There is something that is worth considering, though: Benzene is not the only useful chemical that can be gotten from Wood Tar. In HV, you can get all the outputs at the same time, but right now you can only choose one. Other options that you might want are Toluene and Creosote. The former can be used to make TNT, to do Implosion Compressor crafts, and the latter is useful to make Lubricant, if you ran out of it and are not using Coke Ovens anymore. ANDpre31060gregtech/gt.metaitem.01-30662.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-5-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-532.pngAdvanced Distillery;Extracting the most relevant Parts of Fluids;Voltage IN: 128 (MV);Capacity: 8,192 EU
-1gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+There is something that is worth considering, though: Benzene is not the only useful chemical that can be gotten from Wood Tar. In HV, you can get all the outputs at the same time, but right now you can only choose one. Other options that you might want are Toluene and Creosote. The former can be used to make TNT, to do Implosion Compressor crafts, and the latter is useful to make Lubricant, if you ran out of it and are not using Coke Ovens anymore. ANDpre31060gregtech/gt.metaitem.01-30662.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cel
+32enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+3tasksANDRetrievalgregtech/gt.blockmachines-532.pngAdvanced Distiller;Extracting the most relevant Parts of Fluids;Voltage IN: 128 (MV);Capacity: 8,192 EU
+1gregtech/gt.metaitem.01-30686.pngBenzene Cel;C\u2086H\u2086
 32

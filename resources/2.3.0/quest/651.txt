@@ -6,16 +6,16 @@ For charging on the go, you can craft a charging crystal from ic2 charging compo
 
 Later on GT++ charging packs are belts that can charge everything in your inventory including armor. Check NEI for the recipe.
 
-Finally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-2gregtech/gt.metaitem.01-32602.pngElectric Motor
-1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1IC2/itemBatChargeRE-1-charged.pngCharging RE Battery;Enabled;Durability: 26 / 27
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalIC2/itemArmorBatpack-27.pngBatPack;Power Tier: 1;Durability: 0 / 27;Protection: 8;Durability: 0/27
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-2gregtech/gt.metaitem.01-32602.pngElectric Motor
-2GraviSuite/itemSimpleItem-6.pngEngine Booster
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-1gregtech/gt.blockmachines-1382.png4x Annealed Copper Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
+Finally, the GT++ wireless charger will charge everything in your inventory, including the jetpack, from your base at long ranges. A quest is unlocked once you finish your nanosuit. Just remember when you are off world or in the Nether that your jetpack isn't charging!ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
+2gregtech/gt.metaitem.01-32602.pngElectric Motor (HV
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1IC2/itemBatChargeRE-1-charged.pngCharging RE Batter;Enabled;Durability: 26 / 27
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalIC2/itemArmorBatpack-27.pngBatPac;Power Tier: 1;Durability: 0 / 27;Protection: 8;Durability: 0/27
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casin;Fe\u2086CrMnNi
+2gregtech/gt.metaitem.01-32602.pngElectric Motor (HV
+2GraviSuite/itemSimpleItem-6.pngEngine Booste
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
+1gregtech/gt.blockmachines-1382.png4x Annealed Copper Wir;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 2 EU-Volt
 1RetrievalIC2/itemArmorJetpackElectric-32767.pngElectric Jetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
 1

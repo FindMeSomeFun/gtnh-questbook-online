@@ -2,17 +2,17 @@
 
 You need some Vanadium-Gallium to make HPIC Wafers for it, and an IV Cutting Machine if you haven't made the multi.
 
-§3I hope you had fun with the platline, lol.ANDpre14091gregtech/gt.blockmachines-2380.png18901gregtech/gt.blockmachines-215.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-4gregtech/gt.metaitem.01-2056.pngIndium Dust;In
-16gregtech/gt.metaitem.01-11084.pngIridium Ingot;Ir
-8Itemgregtech/gt.metaitem.01-2817.pngSalt;NaCl
-64bartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt;NaCl;Added by BartWorks
-16gregtech/gt.metaitem.01-2944.pngRock Salt;KCl
-64bartworks/gt.bwMetaGeneratedgemExquisite-22.pngExquisite Rock Salt;KCl;Added by BartWorks
-16gregtech/gt.metaitem.01-30692.pngSalt Water Cell
-64dreamcraft/item.EdibleSalt-0.pngEdible Salt
-16minecraft/ghast_tear-0.pngGhast Tear
-16Itemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDRetrievalgregtech/gt.blockmachines-45.pngIV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 8,192 (IV);Capacity: 66,048 EU
+§3I hope you had fun with the platline, lol.ANDpre14091gregtech/gt.blockmachines-2380.png18901gregtech/gt.blockmachines-215.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4gregtech/gt.metaitem.01-2056.pngIndium Dus;In
+16gregtech/gt.metaitem.01-11084.pngIridium Ingo;Ir
+8Itemgregtech/gt.metaitem.01-2817.pngSal;NaCl
+64bartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Sal;NaCl;Added by BartWorks
+16gregtech/gt.metaitem.01-2944.pngRock Sal;KCl
+64bartworks/gt.bwMetaGeneratedgemExquisite-22.pngExquisite Rock Sal;KCl;Added by BartWorks
+16gregtech/gt.metaitem.01-30692.pngSalt Water Cel
+64dreamcraft/item.EdibleSalt-0.pngEdible Sal
+16minecraft/ghast_tear-0.pngGhast Tea
+16Itemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+1tasksANDRetrievalgregtech/gt.blockmachines-45.pngIV Energy Hatc;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 8,192 (IV);Capacity: 66,048 EU
 1

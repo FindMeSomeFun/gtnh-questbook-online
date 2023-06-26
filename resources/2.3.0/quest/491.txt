@@ -1,10 +1,10 @@
-491sleepingbag/sleepingBag-0.png0§2§lSleeping Outside2-1Carrying the bed with you all the time the looks very funny. Why don't you craft a sleeping bag to stay outside without placing a bed and changing your spawn point. This way if you die, you'll be right at home!ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leather
-1enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1minecraft/leather-0.pngLeather
-8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalminecraft/wool-0.pngWool
-3minecraft/carpet-0.pngCarpet
-3Backpack/tannedLeather-0.pngTanned Leather
-3Craftingsleepingbag/sleepingBag-0.pngSleeping Bag
+491sleepingbag/sleepingBag-0.png0§2§lSleeping Outside2-1Carrying the bed with you all the time the looks very funny. Why don't you craft a sleeping bag to stay outside without placing a bed and changing your spawn point. This way if you die, you'll be right at home!ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leathe
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1minecraft/leather-0.pngLeathe
+8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+5tasksANDOptionalminecraft/wool-0.pngWoo
+3minecraft/carpet-0.pngCarpe
+3Backpack/tannedLeather-0.pngTanned Leathe
+3Craftingsleepingbag/sleepingBag-0.pngSleeping Ba
 1

@@ -1,4 +1,4 @@
-1359EMT/ShieldFocus-0.png0Press and Hold the B Button to Block!34-1This focus allows you to block any incoming damage. Sneak away if you're fighting an enemy too strong for you!ANDpre791gregtech/gt.blockcasings5-2.png2381Thaumcraft/blockCosmeticSolid-7.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1tasksANDRetrievalEMT/ShieldFocus-0.pngWand Focus: Shield;Vis per cast; Aer x 0.05; Aqua x 0.05; Ordo x 0.05
+1359EMT/ShieldFocus-0.png0Press and Hold the B Button to Block!34-1This focus allows you to block any incoming damage. Sneak away if you're fighting an enemy too strong for you!ANDpre791gregtech/gt.blockcasings5-2.png2381Thaumcraft/blockCosmeticSolid-7.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1tasksANDRetrievalEMT/ShieldFocus-0.pngWand Focus: Shiel;Vis per cast; Aer x 0.05; Aqua x 0.05; Ordo x 0.05
 1

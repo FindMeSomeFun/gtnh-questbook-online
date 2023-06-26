@@ -1,6 +1,6 @@
-808gregtech/gt.blockmachines-583.png1§9§lMixing at HV Level6-1Mixing better alloys needs a better Mixer.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-11367.pngVibrant Alloy Ingot;((((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083))((BeK\u2084N\u2085Ma\u2086)(CSMa))Cr
-8gregtech/gt.metaitem.01-11366.pngEnergetic Alloy Ingot;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-583.pngAdvanced Mixer II;Will it Blend?;Voltage IN: 512 (HV);Capacity: 32,768 EU
+808gregtech/gt.blockmachines-583.png1§9§lMixing at HV Level6-1Mixing better alloys needs a better Mixer.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-11367.pngVibrant Alloy Ingo;((((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083))((BeK\u2084N\u2085Ma\u2086)(CSMa))Cr
+8gregtech/gt.metaitem.01-11366.pngEnergetic Alloy Ingo;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.blockmachines-583.pngAdvanced Mixer I;Will it Blend?;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

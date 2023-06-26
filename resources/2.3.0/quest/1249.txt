@@ -1,7 +1,7 @@
-1249gregtech/gt.metaitem.03-32045.png1§a§lNanoCPU Wafer and Chip7-1The NanoCPU Wafer is made out of a CPU Wafer with raw carbon fibre and molten glowstone in an EV chemical reactor. Cut it for nano CPU chips.ANDpre10181gregtech/gt.metaitem.03-32045.png12341gregtech/gt.metaitem.03-32102.pngrewardsChoiceminecraft/glowstone_dust-0.pngGlowstone Dust
-32IC2/itemPartCarbonFibre-0.pngRaw Carbon Fibre
-16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.03-32054.pngNanoCPU Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
+1249gregtech/gt.metaitem.03-32045.png1§a§lNanoCPU Wafer and Chip7-1The NanoCPU Wafer is made out of a CPU Wafer with raw carbon fibre and molten glowstone in an EV chemical reactor. Cut it for nano CPU chips.ANDpre10181gregtech/gt.metaitem.03-32045.png12341gregtech/gt.metaitem.03-32102.pngrewardsChoiceminecraft/glowstone_dust-0.pngGlowstone Dus
+32IC2/itemPartCarbonFibre-0.pngRaw Carbon Fibr
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDOptionalgregtech/gt.metaitem.03-32054.pngNanoCPU Wafe;Raw Circuit
+1Retrievalgregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Uni;Power Circuit
 8

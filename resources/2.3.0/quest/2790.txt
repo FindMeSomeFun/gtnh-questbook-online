@@ -1,6 +1,6 @@
 2790gregtech/gt.blockmachines-839.png0Putting the 'Semi' Back Into Generators HV19-1If you've built Distillation Towers to improve your Oil or Benzene processing line, you might have ended up with some extra fuels that are semifluids, such as Heavy Fuel or Creosote. If you've accumulated them so much that they've started voiding, you can instead make an HV Semifluid Generator and get free power out of them!
 
-The Creosote from one DT that is processing Wood Tar is enough to power the DT itself, depending on the fuel efficiency. One HV generator is just enough to power it.ANDpre811gregtech/gt.blockmachines-1002.png12311gregtech/gt.metaitem.01-32652.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-839.pngTurbo Semi-Fluid Generator;Requires semi-fluid Fuel;Produces 320 pollution/sec;Fuel Efficiency: 85%;Added by: Alkalus - [GT++];Voltage OUT: 512 (HV);Capacity: 41,472 EU
+The Creosote from one DT that is processing Wood Tar is enough to power the DT itself, depending on the fuel efficiency. One HV generator is just enough to power it.ANDpre811gregtech/gt.blockmachines-1002.png12311gregtech/gt.metaitem.01-32652.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cel
+4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.blockmachines-839.pngTurbo Semi-Fluid Generato;Requires semi-fluid Fuel;Produces 320 pollution/sec;Fuel Efficiency: 85%;Added by: Alkalus - [GT++];Voltage OUT: 512 (HV);Capacity: 41,472 EU
 1

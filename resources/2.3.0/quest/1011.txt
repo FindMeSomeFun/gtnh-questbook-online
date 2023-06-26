@@ -1,10 +1,10 @@
 1011gregtech/gt.blockores-822.png1§9§lFind Bauxite6-1The Bauxite vein contains two ores that get you Titanium, Bauxite and Ilmenite. Bauxite also contains Aluminium, as does (obviously) the Aluminium ore. You want tons of Titanium, so collect a bunch.
 
-When you're mining you'll surely pick up some Meteoric Iron from small ores, enough to make your rocket. But if it's not enough, or you want more, you can also mine the meteors that fall out of the sky.ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
-1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockores-822.pngBauxite Ore;(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
-64gregtech/gt.blockores-19.pngAluminium Ore;Al
-16gregtech/gt.blockores-918.pngIlmenite Ore;FeTiO\u2083
+When you're mining you'll surely pick up some Meteoric Iron from small ores, enough to make your rocket. But if it's not enough, or you want more, you can also mine the meteors that fall out of the sky.ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalgregtech/gt.blockores-822.pngBauxite Or;(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
+64gregtech/gt.blockores-19.pngAluminium Or;Al
+16gregtech/gt.blockores-918.pngIlmenite Or;FeTiO\u2083
 16

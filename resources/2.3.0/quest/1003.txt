@@ -1,15 +1,15 @@
-1003gregtech/gt.metaitem.01-32753.png0§a§lPower of the Sun at MV Level19-1The next solar panel you can make is the MV one. It gives 128 EU/t.ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
-2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-17341.pngMeteoric Steel Plate;SpFe\u2085\u2080C
-2AdvancedSolarPanel/asp_crafting_items-0.pngSunnarium
-2Optionalgregtech/gt.metaitem.01-32752.pngSolar Panel;Low Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.03-32063.pngUltra Low Power IC;Ultra Low Power Circuit
-2gregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
-2gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-2dreamcraft/item.IrradiantReinforcedTitaniumPlate-0.pngIrradiant Reinforced Titanium Plate
-2gregtech/gt.blockmachines-2340.png1x Superconductor HV Wire;Max Voltage: 512 (HV);Max Amperage: 6;Loss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32753.pngSolar Panel;Medium Voltage Solar Panel (Needs cleaning with right click)
+1003gregtech/gt.metaitem.01-32753.png0§a§lPower of the Sun at MV Level19-1The next solar panel you can make is the MV one. It gives 128 EU/t.ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafe;Raw Circuit
+2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piec
+2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDOptionalgregtech/gt.metaitem.01-17341.pngMeteoric Steel Plat;SpFe\u2085\u2080C
+2AdvancedSolarPanel/asp_crafting_items-0.pngSunnariu
+2Optionalgregtech/gt.metaitem.01-32752.pngSolar Panel (LV;Low Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafe;Raw Circuit
+4gregtech/gt.metaitem.03-32063.pngUltra Low Power I;Ultra Low Power Circuit
+2gregtech/gt.metaitem.01-17470.pngEpoxid Shee;C\u2082\u2081H\u2082\u2084O\u2084
+2gregtech/gt.metaitem.01-32704.pngWorkstatio;An Extreme Circuit;EV-Tier
+2dreamcraft/item.IrradiantReinforcedTitaniumPlate-0.pngIrradiant Reinforced Titanium Plat
+2gregtech/gt.blockmachines-2340.png1x Superconductor HV Wir;Max Voltage: 512 (HV);Max Amperage: 6;Loss/Meter/Ampere: 0 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32753.pngSolar Panel (MV;Medium Voltage Solar Panel (Needs cleaning with right click)
 1

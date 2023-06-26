@@ -1,4 +1,4 @@
-2525ae2fc/part_fluid_level_emitter-0.png0Out of Polytetrafluoroethylene? Turn on the LCR!27-1It's basically the same as a fluid detector cover, except it detects based on what's in your network. Click a cell into the center to specify, and an empty hand to clear.ANDpre25230appliedenergistics2/item.ItemMultiPart-280.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalae2fc/part_fluid_level_emitter-0.pngME Fluid Level Emitter
+2525ae2fc/part_fluid_level_emitter-0.png0Out of Polytetrafluoroethylene? Turn on the LCR!27-1It's basically the same as a fluid detector cover, except it detects based on what's in your network. Click a cell into the center to specify, and an empty hand to clear.ANDpre25230appliedenergistics2/item.ItemMultiPart-280.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalae2fc/part_fluid_level_emitter-0.pngME Fluid Level Emitte
 1

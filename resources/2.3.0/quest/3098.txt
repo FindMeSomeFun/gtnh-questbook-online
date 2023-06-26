@@ -2,7 +2,7 @@
 
 For automation, you're still stuck with using bonsais, not regular trees. HV will provide a few options that don't need crops, but for now you might want to increase your crop stats by crossbreeding. Planting saplings on cropsticks creates 1/1/1 bonsais, which are much slower than their high-stat variants. If you want to invest in crops, you can later use the high stats to get more of a several dozen different items that crops can output, but you should start with Stickreed to develop your crop stats, not bonsais.
 
-Don't throw away your saplings, either! They will be useful later on, so save up as many as you can.ORpre11481gregtech/gt.blockmachines-12.png31170minecraft/coal-1.pngrewardsItemminecraft/apple-0.pngApple;minecraft:apple
-16tasksANDRetrievalIC2/itemCropSeed-0.pngSpruce Bonsai Seeds;Gr 1;Ga 1;Re 1
-1IC2/itemCropSeed-0.pngOak Bonsai Seeds;Gr 1;Ga 1;Re 1
+Don't throw away your saplings, either! They will be useful later on, so save up as many as you can.ORpre11481gregtech/gt.blockmachines-12.png31170minecraft/coal-1.pngrewardsItemminecraft/apple-0.pngAppl;minecraft:apple
+16tasksANDRetrievalIC2/itemCropSeed-0.pngSpruce Bonsai Seed;Gr 1;Ga 1;Re 1
+1IC2/itemCropSeed-0.pngOak Bonsai Seed;Gr 1;Ga 1;Re 1
 1

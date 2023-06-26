@@ -1,11 +1,11 @@
-486Backpack/tannedLeather-0.png0§2§lTanned Leather2-1You have found a way to make leather more durable and resistant by further processing it. Make some bound leather from four pieces of leather, some strings and woven cotton. Now you only have to hang it on a drying rack and wait about 10 minutes to get some tanned leather. Stockpile some for later.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft/wovencottonItem-0.pngWoven Cotton
-2minecraft/iron_ingot-0.pngIron Ingot
-2enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalminecraft/leather-0.pngLeather
-4minecraft/string-0.pngString
-4harvestcraft/wovencottonItem-0.pngWoven Cotton
-1OptionalTConstruct/Armor.DryingRack-0.pngDrying Rack;Burn Time: 300
-1OptionalBackpack/boundLeather-0.pngBound Leather
-1RetrievalBackpack/tannedLeather-0.pngTanned Leather
+486Backpack/tannedLeather-0.png0§2§lTanned Leather2-1You have found a way to make leather more durable and resistant by further processing it. Make some bound leather from four pieces of leather, some strings and woven cotton. Now you only have to hang it on a drying rack and wait about 10 minutes to get some tanned leather. Stockpile some for later.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft/wovencottonItem-0.pngWoven Cotto
+2minecraft/iron_ingot-0.pngIron Ingo
+2enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+5tasksANDOptionalminecraft/leather-0.pngLeathe
+4minecraft/string-0.pngStrin
+4harvestcraft/wovencottonItem-0.pngWoven Cotto
+1OptionalTConstruct/Armor.DryingRack-0.pngDrying Rac;Burn Time: 300
+1OptionalBackpack/boundLeather-0.pngBound Leathe
+1RetrievalBackpack/tannedLeather-0.pngTanned Leathe
 1

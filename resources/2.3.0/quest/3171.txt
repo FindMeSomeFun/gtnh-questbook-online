@@ -4,7 +4,7 @@ If you ever though that a vacuum nuke doesn't burn through Uranium fast enough, 
 
 This also helps if you aren't automating the fuel rod input, since each one lasts longer. It's better if it's automated, but there's no danger of explosions if this part is done manually, so it's technically safe, as long as your EU buffer doesn't start complaining from lack of input.
 
-As the last step before using The Core, you have High Density Plutonium. This HDP has MOX-like behavior, so it can output even more EU/t than HDU, up to several LuV amps per nuke, but you need to keep it running at high temperatures, which means even more risk! There is no such thing as too much safety, if you try to put one of these together.ANDpre31700miscutils/particleBase-24.pngrewardstasksANDOptionalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod;Durability: 70000/70000;Has the same heat output as uranium
-10GoodGenerator/rodCompressedPlutonium4-0.pngQuad Fuel Rod;Durability: 30000/30000;Has the same heat output as uranium;Has Mox Behaviour
-10RetrievalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod;Durability: 70000/70000;Has the same heat output as uranium
+As the last step before using The Core, you have High Density Plutonium. This HDP has MOX-like behavior, so it can output even more EU/t than HDU, up to several LuV amps per nuke, but you need to keep it running at high temperatures, which means even more risk! There is no such thing as too much safety, if you try to put one of these together.ANDpre31700miscutils/particleBase-24.pngrewardstasksANDOptionalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod (High Density Uranium;Durability: 70000/70000;Has the same heat output as uranium
+10GoodGenerator/rodCompressedPlutonium4-0.pngQuad Fuel Rod (High Density Plutonium;Durability: 30000/30000;Has the same heat output as uranium;Has Mox Behaviour
+10RetrievalGoodGenerator/rodCompressedUranium4-0.pngQuad Fuel Rod (High Density Uranium;Durability: 70000/70000;Has the same heat output as uranium
 1

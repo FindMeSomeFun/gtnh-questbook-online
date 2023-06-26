@@ -1,11 +1,11 @@
 2752GalaxySpace/enceladusblocks-2.png1Enceladus Dungeon24-1Go get the schematic for tier 6 rockets.
 
-This will open the Moons from Neptune.ANDpre17261GalaxySpace/item.Tier5Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11084.pngIridium Ingot;Ir
-16gregtech/gt.metaitem.01-11083.pngOsmium Ingot;Os
-16enhancedlootbags/lootbag-42.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
-5dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-5tasksANDRetrievalGalaxySpace/enceladusblocks-2.pngEnceladus Dungeon Bricks
-16RetrievalGalaxySpace/item.Tier6Key-0.pngTier 5 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier6-0.pngNASA Workbench Schematic;Rocket Tier 6
+This will open the Moons from Neptune.ANDpre17261GalaxySpace/item.Tier5Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11084.pngIridium Ingo;Ir
+16gregtech/gt.metaitem.01-11083.pngOsmium Ingo;Os
+16enhancedlootbags/lootbag-42.pngLootBag (Tier 7 ZPM;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
+5dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+5tasksANDRetrievalGalaxySpace/enceladusblocks-2.pngEnceladus Dungeon Brick
+16RetrievalGalaxySpace/item.Tier6Key-0.pngTier 5 Dungeon Ke
+1RetrievalGalaxySpace/item.SchematicTier6-0.pngNASA Workbench Schemati;Rocket Tier 6
 1

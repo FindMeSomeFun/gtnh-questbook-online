@@ -2,27 +2,27 @@
 
 The computer base is the HUB of all your computer parts essentially. It takes two memory sticks, a BIOs rom, a CPU, and a hard drive at the very least to run your computer.
 
-The power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive. Both parts are essential but both for some strange reason requires the T2 microchips to craft; so I'll let you trade the materials+T1 Microchips for some. Don't lose them!ANDpre17590OpenComputers/item-54.pngrewardsItemOpenComputers/powerConverter-0.pngPower Converter;Hold [NONE] for material costs.
-1OpenComputers/diskDrive-0.pngDisk Drive;Hold [NONE] for material costs.
-1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
-2ChoiceOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
-16enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDOptionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
-2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-1OpenComputers/item-24.pngMicrochip
-1gregtech/gt.metaitem.02-21019.pngAluminium Rotor;Al
-2gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
-2RetrievalOpenComputers/case1-0.pngComputer Case;Hold [NONE] for material costs.
-1Consumegregtech/gt.metaitem.01-32601.pngElectric Motor
-1gregtech/gt.metaitem.01-24890.pngGlass Lens;SiO\u2082
-1gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
-1gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.02-23035.pngSmall Copper Spring;Cu
-1OpenComputers/item-24.pngMicrochip
-3ConsumeOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
-2gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
-2OpenComputers/item-24.pngMicrochip
-2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-2gregtech/gt.blockmachines-22.pngMedium Voltage Transformer;HV -> MV (Use Soft Mallet to invert);Voltage IN: 512 (HV);Voltage OUT: 128 (MV);Amperage: 4;Capacity: 2,560 EU
+The power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive. Both parts are essential but both for some strange reason requires the T2 microchips to craft; so I'll let you trade the materials+T1 Microchips for some. Don't lose them!ANDpre17590OpenComputers/item-54.pngrewardsItemOpenComputers/powerConverter-0.pngPower Converte;Hold [NONE] for material costs.
+1OpenComputers/diskDrive-0.pngDisk Driv;Hold [NONE] for material costs.
+1miscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
+2ChoiceOpenComputers/cable-32767.pngCabl;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+16enhancedlootbags/lootbag-46.pngLootBag (Tier 1 Computers;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDOptionalgregtech/gt.blockcasings-2.pngMV Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.01-17019.pngAluminium Plat;Al
+2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
+1OpenComputers/item-24.pngMicrochip (Tier 1
+1gregtech/gt.metaitem.02-21019.pngAluminium Roto;Al
+2gregtech/gt.metaitem.02-18019.pngAluminium Casin;Al
+2RetrievalOpenComputers/case1-0.pngComputer Case (Tier 1;Hold [NONE] for material costs.
+1Consumegregtech/gt.metaitem.01-32601.pngElectric Motor (MV
+1gregtech/gt.metaitem.01-24890.pngGlass Len;SiO\u2082
+1gregtech/gt.metaitem.01-23354.pngMagnetic Iron Ro;Fe
+1gregtech/gt.blockcasings-1.pngLV Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.02-23035.pngSmall Copper Sprin;Cu
+1OpenComputers/item-24.pngMicrochip (Tier 1
+3ConsumeOpenComputers/cable-32767.pngCabl;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+2gregtech/gt.metaitem.01-17019.pngAluminium Plat;Al
+2OpenComputers/item-24.pngMicrochip (Tier 1
+2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
+2gregtech/gt.blockmachines-22.pngMedium Voltage Transforme;HV -> MV (Use Soft Mallet to invert);Voltage IN: 512 (HV);Voltage OUT: 128 (MV);Amperage: 4;Capacity: 2,560 EU
 1

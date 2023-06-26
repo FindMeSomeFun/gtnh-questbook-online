@@ -1,9 +1,9 @@
-925JABBA/upgradeCore-10.png0Killing: Evolved39-1I guess you're good at killing things, huh? And if you got this far, maybe making things too? If you want to §oreally§r prove yourself though, head on over to the Endgame Goals tab.ANDpre9060TwilightForest/item.trophy-4.png9080TwilightForest/item.lampOfCinders-0.png9160minecraft/nether_star-0.png9241witchery/wolfhead-0.pngrewardsChoiceThaumcraft/BlockJarNodeItem-0-instrumentum.pngNode in a Jar;Normal, Bright;Instrumentum x 1000;This! Is OP
-1TConstruct/creativeModifier-0.pngCreative Tool Modifier;Tool Modifier: Creative
-16ProjRedFabrication/projectred.fabrication.icchip-1.pngCreative Mode IC Chip;Creative-mode only chip.;Instant and free prints.;Rightclick to add IC Gate to inventory.
-4miscutils/GTPP.bauble.fireprotection.0.name-0.pngSupreme Pizza Gloves
-1tasksANDConsumedreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-10dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
-10dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
-10dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+925JABBA/upgradeCore-10.png0Killing: Evolved39-1I guess you're good at killing things, huh? And if you got this far, maybe making things too? If you want to §oreally§r prove yourself though, head on over to the Endgame Goals tab.ANDpre9060TwilightForest/item.trophy-4.png9080TwilightForest/item.lampOfCinders-0.png9160minecraft/nether_star-0.png9241witchery/wolfhead-0.pngrewardsChoiceThaumcraft/BlockJarNodeItem-0-instrumentum.pngNode in a Ja;Normal, Bright;Instrumentum x 1000;This! Is OP
+1TConstruct/creativeModifier-0.pngCreative Tool Modifie;Tool Modifier: Creative
+16ProjRedFabrication/projectred.fabrication.icchip-1.pngCreative Mode IC Chi;Creative-mode only chip.;Instant and free prints.;Rightclick to add IC Gate to inventory.
+4miscutils/GTPP.bauble.fireprotection.0.name-0.pngSupreme Pizza Glove
+1tasksANDConsumedreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
+10dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
+10dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000
+10dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
 10

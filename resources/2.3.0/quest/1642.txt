@@ -2,15 +2,15 @@
 
 Some other setups to look at automating are making polyethylene and nitric acid. 
 
-With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.ANDpre16400gregtech/gt.metaitem.01-30460.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-8dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-8ChoiceProjRedCore/projectred.core.part-30.pngBlue Illumar
-8ProjRedCore/projectred.core.part-28.pngCyan Illumar
-8ProjRedCore/projectred.core.part-24.pngLime Illumar
-8ProjRedCore/projectred.core.part-20.pngOrange Illumar
-8ProjRedCore/projectred.core.part-21.pngMagenta Illumar
-8ProjRedCore/projectred.core.part-32.pngGreen Illumar
-8ProjRedCore/projectred.core.part-33.pngRed Illumar
+With stock keeper chips you can always keep a set amount on-hand and when you pull out the cells to use elsewhere, your setup will automatically make more.ANDpre16400gregtech/gt.metaitem.01-30460.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+8dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+8ChoiceProjRedCore/projectred.core.part-30.pngBlue Illuma
+8ProjRedCore/projectred.core.part-28.pngCyan Illuma
+8ProjRedCore/projectred.core.part-24.pngLime Illuma
+8ProjRedCore/projectred.core.part-20.pngOrange Illuma
+8ProjRedCore/projectred.core.part-21.pngMagenta Illuma
+8ProjRedCore/projectred.core.part-32.pngGreen Illuma
+8ProjRedCore/projectred.core.part-33.pngRed Illuma
 8tasksANDCheckboxcheckbox-.pngCheckbox
 1

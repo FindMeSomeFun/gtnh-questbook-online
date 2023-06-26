@@ -1,5 +1,5 @@
-304ThaumicTinkerer/enchanter-0.png0Enchanting Like a Pro32-1Finally, a device where you can actually choose which enchantments you want to have. Powered by vis, it can create the most powerful combinations one could imagine.ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/blockCosmeticSolid-0.pngObsidian Totem
-8Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumicTinkerer/enchanter-0.pngOsmotic Enchanter
+304ThaumicTinkerer/enchanter-0.png0Enchanting Like a Pro32-1Finally, a device where you can actually choose which enchantments you want to have. Powered by vis, it can create the most powerful combinations one could imagine.ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsChoiceenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/blockCosmeticSolid-0.pngObsidian Tote
+8Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalThaumicTinkerer/enchanter-0.pngOsmotic Enchante
 1

@@ -2,8 +2,8 @@
 
 The pressurized versions are twice as large.
 
-§3Just be careful, because it will eat water cells instead of returning them. ANDpre1290EnderIO/itemMachinePart-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalEnderIO/blockTank-0.pngFluid Tank
+§3Just be careful, because it will eat water cells instead of returning them. ANDpre1290EnderIO/itemMachinePart-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacito
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalEnderIO/blockTank-0.pngFluid Tan
 1

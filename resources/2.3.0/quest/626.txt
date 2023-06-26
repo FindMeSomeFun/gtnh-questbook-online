@@ -1,9 +1,9 @@
-626JABBA/moverDiamond-0.png0§5§lPortable Mob Spawners..? Cool!4-1Do you want to move a spawner around and build a cool mob farm? That will be no problem if you get the diamond dolly. You can move 6 spawners before the durability runs out, which is probably more than you'll need right now.ANDpre981gregtech/gt.blockmachines-291.png1021gregtech/gt.blockmachines-251.png4950minecraft/diamond-0.png9160minecraft/nether_star-0.pngrewardsItemminecraft/diamond-0.pngDiamond;Burn Time: 102400
-2enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-32101.pngSteel Minecart Wheels;To get things rolling
-2gregtech/gt.metaitem.01-23500.pngDiamond Rod;C
-3gregtech/gt.metaitem.01-25874.pngPolyethylene Round;CH\u2082
-2gregtech/gt.metaitem.01-17506.pngNether Star Plate
-1RetrievalJABBA/moverDiamond-0.pngDiamond dolly;< Empty >
+626JABBA/moverDiamond-0.png0§5§lPortable Mob Spawners..? Cool!4-1Do you want to move a spawner around and build a cool mob farm? That will be no problem if you get the diamond dolly. You can move 6 spawners before the durability runs out, which is probably more than you'll need right now.ANDpre981gregtech/gt.blockmachines-291.png1021gregtech/gt.blockmachines-251.png4950minecraft/diamond-0.png9160minecraft/nether_star-0.pngrewardsItemminecraft/diamond-0.pngDiamon;Burn Time: 102400
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDOptionalgregtech/gt.metaitem.01-32101.pngSteel Minecart Wheel;To get things rolling
+2gregtech/gt.metaitem.01-23500.pngDiamond Ro;C
+3gregtech/gt.metaitem.01-25874.pngPolyethylene Roun;CH\u2082
+2gregtech/gt.metaitem.01-17506.pngNether Star Plat
+1RetrievalJABBA/moverDiamond-0.pngDiamond doll;< Empty >
 1

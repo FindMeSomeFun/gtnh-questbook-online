@@ -1,4 +1,4 @@
-3254Botania/specialFlower-0-daybloom.png0Solar Power: Floral Edition35-1The daybloom is an extremely simple generating flower. All you have to do is place it down, and it'll produce mana for free during the day. The downside of this arrangement is that dayblooms die after only an hour. Make one, and I'll give you another.ANDpre32531Botania/spreader-0.pngrewardsItemBotania/specialFlower-0-daybloom.pngDaybloom;Passive Generating Flower;A Sting of light
-1dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
-5tasksANDRetrievalBotania/specialFlower-0-daybloom.pngDaybloom;Passive Generating Flower;A Sting of light
+3254Botania/specialFlower-0-daybloom.png0Solar Power: Floral Edition35-1The daybloom is an extremely simple generating flower. All you have to do is place it down, and it'll produce mana for free during the day. The downside of this arrangement is that dayblooms die after only an hour. Make one, and I'll give you another.ANDpre32531Botania/spreader-0.pngrewardsItemBotania/specialFlower-0-daybloom.pngDaybloo;Passive Generating Flower;A Sting of light
+1dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10
+5tasksANDRetrievalBotania/specialFlower-0-daybloom.pngDaybloo;Passive Generating Flower;A Sting of light
 1

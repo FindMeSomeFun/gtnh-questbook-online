@@ -5,6 +5,6 @@ Large Infinity Catalyst 200% 806,400 EU/t
 
 Yes, that's basically it. You can use any material from the previous turbine quests, but when you make the t8 rocket and can mine Infinity Catalyst, these are the two options. Obviously, Infinity is much better, but also much more expensive. If you stick with fusion, you will need several of those to push through the endgame. Remember that you can input plasma beyond the optimal flow, and get more out of each turbine at the cost of fuel efficiency.
 
-Make a normal or buffered UHV dynamo to complete the quest.ANDpre31880GoodGenerator/compactFusionCoil-0.pngrewardstasksORRetrievalgregtech/gt.blockmachines-39.pngUHV Dynamo Hatch;Generating electric Energy from Multiblocks;Puts out up to 1 Amp;Voltage OUT: 2,097,152 (UHV);Capacity: 16,777,728 EU
-1Retrievalgregtech/gt.blockmachines-908.pngUHV Dynamo Hatch [Buffered];Dynamo with internal storage and additional Amp capacity;Does not accept more than 8388608EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 2,097,152 (UHV);Amperage: 4;Capacity: 17,179,869,696 EU
+Make a normal or buffered UHV dynamo to complete the quest.ANDpre31880GoodGenerator/compactFusionCoil-0.pngrewardstasksORRetrievalgregtech/gt.blockmachines-39.pngUHV Dynamo Hatc;Generating electric Energy from Multiblocks;Puts out up to 1 Amp;Voltage OUT: 2,097,152 (UHV);Capacity: 16,777,728 EU
+1Retrievalgregtech/gt.blockmachines-908.pngUHV Dynamo Hatch [Buffered;Dynamo with internal storage and additional Amp capacity;Does not accept more than 8388608EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 2,097,152 (UHV);Amperage: 4;Capacity: 17,179,869,696 EU
 1

@@ -2,7 +2,7 @@
 
 ;-;
 
-Nether warts should yield tearstalks.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemminecraft/ghast_tear-0.pngGhast Tear
-64enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngTearstalks Seeds;Gr 0;Ga 0;Re 0
+Nether warts should yield tearstalks.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemminecraft/ghast_tear-0.pngGhast Tea
+64enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngTearstalks Seed;Gr 0;Ga 0;Re 0
 1

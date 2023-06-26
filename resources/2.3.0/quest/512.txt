@@ -1,7 +1,7 @@
 512gendustry/Transposer-0.png0Genetic Transposer28-1DNA samples of species and/or traits are pretty valuable. You always should keep at least one of each gene sample you get your hand on in a chest somewhere safe. By using this machine, you are able to copy any gene sample, for the cost of an empty serum vial and some labware.
 
-§3You don't actually need to keep all of them if you don't intend to use them of course.ANDpre5100gendustry/Labware-0.pngrewardsItemgendustry/Labware-0.pngGenetics Labware
-5Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-1enhancedlootbags/lootbag-27.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgendustry/Transposer-0.pngGenetic Transposer
+§3You don't actually need to keep all of them if you don't intend to use them of course.ANDpre5100gendustry/Labware-0.pngrewardsItemgendustry/Labware-0.pngGenetics Labwar
+5Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100
+1enhancedlootbags/lootbag-27.pngLootBag (Bees Expert;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgendustry/Transposer-0.pngGenetic Transpose
 1

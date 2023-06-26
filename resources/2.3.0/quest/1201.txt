@@ -8,9 +8,9 @@ If you go beyond the optimal flow, you will get a higher EU/t value, but less fu
 
 The choice is yours!
 
-§3For a lot of extra information on fusion, check out the new quest line called Powerful Nuclear Physics.ANDpre12000gregtech/gt.blockmachines-1153.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
-32gregtech/gt.metaitem.01-11975.pngDraconium Ingot;D
-32enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-5tasksANDRetrievalgregtech/gt.metatool.01-172-Draconium-Draconium.pngTurbine;Durability: 6,553,600 / 6,553,600;Draconium lvl 7;Turbine Efficiency: 145.0%;Optimal Steam flow: 2,000 L/t;Energy from Optimal Steam Flow: 1,450 EU/t;Turbine Efficiency (Loose): 108%;Optimal Steam flow (Loose): 48,927 L/t;Energy from Optimal Steam Flow (Loose): 26,420.58 EU/t;(Superheated Steam EU values are 2x those of Steam);Energy from Optimal Gas Flow: 2,900 EU/t;Energy from Optimal Plasma Flow: 121,800 EU/t;Overflow Efficiency Tier: 3;Turbine Rotors for your power station;(EU/t values include efficiency and are not 100% accurate)
+§3For a lot of extra information on fusion, check out the new quest line called Powerful Nuclear Physics.ANDpre12000gregtech/gt.blockmachines-1153.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingo;(Fe\u2085\u2080C)W
+32gregtech/gt.metaitem.01-11975.pngDraconium Ingo;D
+32enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+5tasksANDRetrievalgregtech/gt.metatool.01-172-Draconium-Draconium.pngTurbin;Durability: 6,553,600 / 6,553,600;Draconium lvl 7;Turbine Efficiency: 145.0%;Optimal Steam flow: 2,000 L/t;Energy from Optimal Steam Flow: 1,450 EU/t;Turbine Efficiency (Loose): 108%;Optimal Steam flow (Loose): 48,927 L/t;Energy from Optimal Steam Flow (Loose): 26,420.58 EU/t;(Superheated Steam EU values are 2x those of Steam);Energy from Optimal Gas Flow: 2,900 EU/t;Energy from Optimal Plasma Flow: 121,800 EU/t;Overflow Efficiency Tier: 3;Turbine Rotors for your power station;(EU/t values include efficiency and are not 100% accurate)
 1

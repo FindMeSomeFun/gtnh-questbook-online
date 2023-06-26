@@ -10,9 +10,9 @@ Now you only need to chunkload the start and end points and the fluid will be "t
 
 Of course, later on you'll probably use ender tanks to §oactually§r teleport the fluid, especially from other dims.
 
-This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpre5461BuildCraftEnergy/blockOil-0.pngrewardsItemgregtech/gt.metaitem.01-32610.pngElectric Pump;32 L/t (640 L/s) as Cover
-2irontank/goldTank-0.pngGold Tank;Glass-Tier: HV;Stores up to 48 Buckets of one Liquid Not portable, use a dolly
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.blockmachines-2700.pngLong Distance Fluid Pipeline;Sends fluids over long distances
-2Retrievalgregtech/gt.block.longdistancepipe-0.pngLong Distance Fluid Pipeline Pipe;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpre5461BuildCraftEnergy/blockOil-0.pngrewardsItemgregtech/gt.metaitem.01-32610.pngElectric Pump (LV;32 L/t (640 L/s) as Cover
+2irontank/goldTank-0.pngGold Tan;Glass-Tier: HV;Stores up to 48 Buckets of one Liquid Not portable, use a dolly
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalgregtech/gt.blockmachines-2700.pngLong Distance Fluid Pipelin;Sends fluids over long distances
+2Retrievalgregtech/gt.block.longdistancepipe-0.pngLong Distance Fluid Pipeline Pip;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 64

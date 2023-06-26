@@ -1,8 +1,8 @@
 990gregtech/gt.metaitem.01-11366.png1§9§lEnergetic Alloy6-1Energetic alloy is a new alloy from EnderIO made out of gold, conductive iron and black steel dust. Double-layer capacitors need it, as does the HV energy hatch.
 
-§3The direct mixer recipe has 7 ingredients, so you need an EV mixer or a multiblock to use it. You have to use the other one for now.ANDpre781gregtech/gt.blockcasings5-1.png1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1EnderIO/itemBasicCapacitor-0.pngBasic Capacitor
-16Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-11366.pngEnergetic Alloy Ingot;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+§3The direct mixer recipe has 7 ingredients, so you need an EV mixer or a multiblock to use it. You have to use the other one for now.ANDpre781gregtech/gt.blockcasings5-1.png1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1EnderIO/itemBasicCapacitor-0.pngBasic Capacito
+16Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDRetrievalgregtech/gt.metaitem.01-11366.pngEnergetic Alloy Ingo;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
 16

@@ -1,7 +1,7 @@
-65gregtech/gt.metaitem.01-11305.png1§3§lBlastoff!3-1It's about time to make some steel. Look in the Multiblock Goals quest tab and build a Bricked Blast Furnace. Return here once you've made at least 8 steel ingots.ANDpre441gregtech/gt.blockmachines-100.png541gregtech/gt.blockmachines-115.pngrewardsItemharvestcraft/breadedporkchopItem-0.pngBreaded Porkchop;harvestcraft:breadedporkchopItem
-3Choiceminecraft/iron_ore-0.pngIron Ore
-5enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+65gregtech/gt.metaitem.01-11305.png1§3§lBlastoff!3-1It's about time to make some steel. Look in the Multiblock Goals quest tab and build a Bricked Blast Furnace. Return here once you've made at least 8 steel ingots.ANDpre441gregtech/gt.blockmachines-100.png541gregtech/gt.blockmachines-115.pngrewardsItemharvestcraft/breadedporkchopItem-0.pngBreaded Porkcho;harvestcraft:breadedporkchopItem
+3Choiceminecraft/iron_ore-0.pngIron Or
+5enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalgregtech/gt.metaitem.01-11305.pngSteel Ingo;Fe\u2085\u2080C
 8

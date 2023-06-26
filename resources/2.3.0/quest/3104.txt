@@ -6,10 +6,10 @@ What makes the Pyro valuable? It outputs a fluid alongside the Charcoal, which y
 
 However, the Pyro uses coils in a similar way to the EBF, and those coils affect the time each recipe takes: if you're using Cupronickel Coils, the recipe time is actually 2x what NEI says! This might be too slow for your needs, so make sure you check how much Charcoal you're getting from here. Kanthal Coils are available in MV, using the IC2 Coolant instead of the Vacuum Freezer.
 
-You can also boost your Pyro by providing Nitrogen. There are separate recipes for that in NEI.ANDpre30980gregtech/gt.metaitem.01-30686.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-2gregtech/gt.metaitem.01-32641.pngElectric Piston
-2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven;Machine Type: Coke Oven;Controller block for the Pyrolyse Oven;Industrial Charcoal producer;Processing speed scales linearly with Coil tier:;CuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.;EU/t is not affected by Coil tier;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1dreamcraft/gt.blockcasingsNH-2.pngPyrolyse Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+You can also boost your Pyro by providing Nitrogen. There are separate recipes for that in NEI.ANDpre30980gregtech/gt.metaitem.01-30686.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+2gregtech/gt.metaitem.01-32641.pngElectric Piston (MV
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+3tasksANDRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Ove;Machine Type: Coke Oven;Controller block for the Pyrolyse Oven;Industrial Charcoal producer;Processing speed scales linearly with Coil tier:;CuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.;EU/t is not affected by Coil tier;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+1dreamcraft/gt.blockcasingsNH-2.pngPyrolyse Oven Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 60

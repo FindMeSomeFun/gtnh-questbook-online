@@ -1,6 +1,6 @@
 2407Backpack/workbenchbackpack-17.png0§3§lWhat Engineer Doesn't Want a Portable Workbench?3-1This backpack sacrifices some space to give you a portable crafting table. You have to put the items you want to craft inside the backpack. Because of this, you can use it to quickly craft large amounts of items at once. 
 
-You can also use the Forestry Worktable with its larger inventory to do the same. Once you reach MV, you can switch to an Adventure Backpack that includes a pair of tanks for storing fluids if you want.ANDpre5580Backpack/backpack-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalBackpack/workbenchbackpack-17.pngWorkbench Backpack;Press SHIFT for more information
+You can also use the Forestry Worktable with its larger inventory to do the same. Once you reach MV, you can switch to an Adventure Backpack that includes a pair of tanks for storing fluids if you want.ANDpre5580Backpack/backpack-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+10tasksANDRetrievalBackpack/workbenchbackpack-17.pngWorkbench Backpac;Press SHIFT for more information
 1

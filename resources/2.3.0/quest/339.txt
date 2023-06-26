@@ -1,11 +1,11 @@
-339witchery/chalkritual-0.png0Circle Magic36-1For circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.ANDpre15710witchery/distilleryidle-0.pngrewardsChoicewitchery/ingredient-67.pngEnder Dew
-10witchery/ingredient-29.pngDiamond Vapor
-5enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-1tasksANDRetrievalwitchery/chalkritual-0.pngRitual Chalk
-1witchery/chalkheart-0.pngGolden Chalk
-1witchery/chalkinfernal-0.pngInfernal Chalk
-1witchery/chalkotherwhere-0.pngOtherwhere Chalk
-1witchery/circletalisman-0.pngCircle Talisman
+339witchery/chalkritual-0.png0Circle Magic36-1For circle magic, you need... a circle, obviously. There are 4 types of chalk you can use, and you'll need all of them to proceed.ANDpre15710witchery/distilleryidle-0.pngrewardsChoicewitchery/ingredient-67.pngEnder De
+10witchery/ingredient-29.pngDiamond Vapo
+5enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+1tasksANDRetrievalwitchery/chalkritual-0.pngRitual Chal
+1witchery/chalkheart-0.pngGolden Chal
+1witchery/chalkinfernal-0.pngInfernal Chal
+1witchery/chalkotherwhere-0.pngOtherwhere Chal
+1witchery/circletalisman-0.pngCircle Talisma
 1

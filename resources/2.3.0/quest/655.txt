@@ -1,22 +1,22 @@
 655GraviSuite/graviChestPlate-1-charged.png0Gravi Suit14-1The gravi chestplate is the ultimate quantum armor combined with a high powered jetpack. It also has hidden features that you need to discover while wearing the whole quantum armor.
 
-Or read a wiki or something.ANDpre26581gregtech/gt.metaitem.01-11329.png31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
-2gregtech/gt.metaitem.01-32607.pngElectric Motor
-2enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
-1dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
-1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+Or read a wiki or something.ANDpre26581gregtech/gt.metaitem.01-11329.png31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsChoicegregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainfram;An Ultimate Circuit;ZPM-Tier
+2gregtech/gt.metaitem.01-32607.pngElectric Motor (ZPM
+2enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000
+1dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
 1tasksANDOptionalIC2/itemArmorQuantumChestplate-32767.pngQuantumSuit Bodyarmor\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
 1GraviSuite/ultimateLappack-32767.pngUltimate Lappack\nPower supply: disabled\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
-1gregtech/gt.blockmachines-26.pngLudicrous Transformer;ZPM -> LuV (Use Soft Mallet to invert);Voltage IN: 131,072 (ZPM);Voltage OUT: 32,768 (LuV);Amperage: 4;Capacity: 524,800 EU
-1GraviSuite/itemSimpleItem-3.pngGravitation Engine
-2GraviSuite/itemSimpleItem-2.pngCooling Core
-2GraviSuite/itemSimpleItem-1.pngSuperconductor
-6gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
-2gregtech/gt.metaitem.01-22328.pngDense Duranium Plate;Du
-2gregtech/gt.metaitem.01-32599.pngLapotronic Energy Orb Cluster;Reusable battery;0 / 1,000,000,000 EU - Voltage: 32768;LuV-Tier
-1gregtech/gt.metaitem.01-32674.pngField Generator
-2gregtech/gt.metaitem.01-32607.pngElectric Motor
-2gregtech/gt.metaitem.01-27328.pngDuranium Screw;Du
+1gregtech/gt.blockmachines-26.pngLudicrous Transforme;ZPM -> LuV (Use Soft Mallet to invert);Voltage IN: 131,072 (ZPM);Voltage OUT: 32,768 (LuV);Amperage: 4;Capacity: 524,800 EU
+1GraviSuite/itemSimpleItem-3.pngGravitation Engin
+2GraviSuite/itemSimpleItem-2.pngCooling Cor
+2GraviSuite/itemSimpleItem-1.pngSuperconducto
+6gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainfram;An Ultimate Circuit;ZPM-Tier
+2gregtech/gt.metaitem.01-22328.pngDense Duranium Plat;Du
+2gregtech/gt.metaitem.01-32599.pngLapotronic Energy Orb Cluste;Reusable battery;0 / 1,000,000,000 EU - Voltage: 32768;LuV-Tier
+1gregtech/gt.metaitem.01-32674.pngField Generator (IV
+2gregtech/gt.metaitem.01-32607.pngElectric Motor (ZPM
+2gregtech/gt.metaitem.01-27328.pngDuranium Scre;Du
 4RetrievalGraviSuite/graviChestPlate-32767.pngGraviChestPlate\nGravitation engine: off\nLevitation mode: off\nQuantumShield: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
 1

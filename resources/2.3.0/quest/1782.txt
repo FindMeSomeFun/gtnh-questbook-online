@@ -3,13 +3,13 @@
 Hint:
 Autorepair can be added to the goggles as well.
 
-Every Armor has 3 slots for modofication.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceTConstruct/materials-6.pngBall of Moss;Tool Modifier: Auto-Repair
-1minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
-2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDRetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles;Ability: Zoom with NONE;Toggle Abilities: NONE;Protection: 4%;Protection: 2;Durability: 1035/1035
-1minecraft/flint_and_steel-0.pngFlint and Steel
-1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
-1minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
+Every Armor has 3 slots for modofication.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceTConstruct/materials-6.pngBall of Mos;Tool Modifier: Auto-Repair
+1minecraft/potion-8198.pngPotion of Night Visio;Night Vision (3:00)
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+25tasksANDRetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggle;Ability: Zoom with NONE;Toggle Abilities: NONE;Protection: 4%;Protection: 2;Durability: 1035/1035
+1minecraft/flint_and_steel-0.pngFlint and Stee
+1minecraft/golden_carrot-0.pngGolden Carro;minecraft:golden_carrot
+1minecraft/potion-8198.pngPotion of Night Visio;Night Vision (3:00)
 1

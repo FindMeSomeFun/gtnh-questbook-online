@@ -1,7 +1,7 @@
-638harvestcraft/toastItem-0.png0Tasty Toast13-1Smelt your bread again and you get some toast! It gives you more nutrition points, and unlocks more culinary potential!ANDpre71minecraft/carrot-0.png6360minecraft/bread-0.pngrewardsChoiceminecraft/egg-0.pngEgg
-4minecraft/pumpkin-0.pngPumpkin
-2minecraft/sugar-0.pngSugar
-4enhancedlootbags/lootbag-28.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalharvestcraft/toastItem-0.pngToast;harvestcraft:toastItem
+638harvestcraft/toastItem-0.png0Tasty Toast13-1Smelt your bread again and you get some toast! It gives you more nutrition points, and unlocks more culinary potential!ANDpre71minecraft/carrot-0.png6360minecraft/bread-0.pngrewardsChoiceminecraft/egg-0.pngEg
+4minecraft/pumpkin-0.pngPumpki
+2minecraft/sugar-0.pngSuga
+4enhancedlootbags/lootbag-28.pngLootBag (Fast Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+15tasksANDRetrievalharvestcraft/toastItem-0.pngToas;harvestcraft:toastItem
 1

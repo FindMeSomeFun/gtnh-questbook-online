@@ -1,7 +1,7 @@
-1086harvestcraft/strawberryjuiceItem-0.png0Juice13-1Most of your berries can be extracted to juice form. This is a chance to get more food variants and the nutritional value is higher than eating the fruit directly.ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.pngrewardsChoiceharvestcraft/strawberrymilkshakeItem-0.pngStrawberry Milkshake;harvestcraft:strawberrymilkshakeItem
-4harvestcraft/chocolatemilkshakeItem-0.pngChocolate Milkshake;harvestcraft:chocolatemilkshakeItem
-4harvestcraft/bananamilkshakeItem-0.pngBanana Milkshake;harvestcraft:bananamilkshakeItem
-4enhancedlootbags/lootbag-28.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalharvestcraft/applejuiceItem-0.pngApple Juice;harvestcraft:applejuiceItem
+1086harvestcraft/strawberryjuiceItem-0.png0Juice13-1Most of your berries can be extracted to juice form. This is a chance to get more food variants and the nutritional value is higher than eating the fruit directly.ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.pngrewardsChoiceharvestcraft/strawberrymilkshakeItem-0.pngStrawberry Milkshak;harvestcraft:strawberrymilkshakeItem
+4harvestcraft/chocolatemilkshakeItem-0.pngChocolate Milkshak;harvestcraft:chocolatemilkshakeItem
+4harvestcraft/bananamilkshakeItem-0.pngBanana Milkshak;harvestcraft:bananamilkshakeItem
+4enhancedlootbags/lootbag-28.pngLootBag (Fast Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
+15tasksANDRetrievalharvestcraft/applejuiceItem-0.pngApple Juic;harvestcraft:applejuiceItem
 10

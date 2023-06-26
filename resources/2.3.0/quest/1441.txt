@@ -2,9 +2,9 @@
 
 One solution is glowstone torches. You can also use other mods' lights and lamps. You'll probably want 3-5 stacks for mining veins, unless you just use a SM or MB miner.
 
-Another option is to use nightvision and a magnum torch or GregTech monster repellator to keep mobs away. These do not work on the official servers, instead claim and unclaim chunks.ANDpre14450minecraft/clock-0.pngrewardsChoiceFloodLights/electricIncandescentLightBulb-0.pngElectric Incandescent Light Bulb
-2gregtech/gt.metaitem.01-23010.pngCarbon Rod;C
-64enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalGalacticraftCore/tile.glowstoneTorch-0.pngGlowstone Torch
+Another option is to use nightvision and a magnum torch or GregTech monster repellator to keep mobs away. These do not work on the official servers, instead claim and unclaim chunks.ANDpre14450minecraft/clock-0.pngrewardsChoiceFloodLights/electricIncandescentLightBulb-0.pngElectric Incandescent Light Bul
+2gregtech/gt.metaitem.01-23010.pngCarbon Ro;C
+64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalGalacticraftCore/tile.glowstoneTorch-0.pngGlowstone Torc
 64

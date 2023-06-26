@@ -1,6 +1,6 @@
-900TwilightForest/item.trophy-0.png0Don't Look it in the Eyes!39864000Bad things may happen if this creature is allowed to stay alive. The ores in its cave being valuable have nothing to do with why you need to kill it. Seriously.ANDpre9010TwilightForest/item.meefStroganoff-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-3dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+900TwilightForest/item.trophy-0.png0Don't Look it in the Eyes!39864000Bad things may happen if this creature is allowed to stay alive. The ores in its cave being valuable have nothing to do with why you need to kill it. Seriously.ANDpre9010TwilightForest/item.meefStroganoff-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+3dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
 3tasksANDHuntmobs/TwilightForest-Hydra-.pngHydra
 1

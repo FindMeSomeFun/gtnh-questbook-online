@@ -1,5 +1,5 @@
-27minecraft/coal-1.png1§2§lFinally, Some Powerful Fuel2-1Now that you have a coke oven, you can start producing charcoal. The more, the better. Don't worry about the creosote; I have another deal for you...ANDpre241Railcraft/machine.alpha-7.pngrewardsChoiceharvestcraft/maplecandiedbaconItem-0.pngMaple Candied Bacon;harvestcraft:maplecandiedbaconItem
-3minecraft/bucket-0.pngBucket
-1enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDConsumeminecraft/coal-1.pngCharcoal;Burn Time: 1600
+27minecraft/coal-1.png1§2§lFinally, Some Powerful Fuel2-1Now that you have a coke oven, you can start producing charcoal. The more, the better. Don't worry about the creosote; I have another deal for you...ANDpre241Railcraft/machine.alpha-7.pngrewardsChoiceharvestcraft/maplecandiedbaconItem-0.pngMaple Candied Baco;harvestcraft:maplecandiedbaconItem
+3minecraft/bucket-0.pngBucke
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDConsumeminecraft/coal-1.pngCharcoa;Burn Time: 1600
 4

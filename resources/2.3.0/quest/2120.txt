@@ -1,4 +1,4 @@
-2120appliedenergistics2/item.ItemMultiPart-76.png0Dense cables27-1Dense cables are going to be your network backbones. They can transfer 32 channels and display the number of channels in use. Busses and flat interfaces cannot be placed directly on them.ANDpre21190appliedenergistics2/item.ItemMultiPart-56.pngrewardsChoiceappliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Fluix
-4appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
-64tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Fluix
+2120appliedenergistics2/item.ItemMultiPart-76.png0Dense cables27-1Dense cables are going to be your network backbones. They can transfer 32 channels and display the number of channels in use. Busses and flat interfaces cannot be placed directly on them.ANDpre21190appliedenergistics2/item.ItemMultiPart-56.pngrewardsChoiceappliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Flui
+4appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fibe
+64tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Flui
 8

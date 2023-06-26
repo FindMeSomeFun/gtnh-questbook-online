@@ -1,15 +1,15 @@
 986minecraft/end_portal_frame-0.png0Is This the End? No it's the END Dimension30-1You investigated the pearls, and managed to reactivate them to become eyes. This has shown you that the source of the disturbance seems to be coming out of the portal frames inside the strongholds, deep underground. They seem strangely drawn towards its mysterious depths. Perhaps they can be used to reactivate it?
 
-Hint: Throwing Ender Eyes in the air in the Overworld will guide you to the nearest stronghold. From time to time Ender Eyes are destroyed in this process, so make extras. Try to do so in a place without obstructions so you can see where it went.ANDpre6020minecraft/ender_pearl-0.png12331minecraft/ender_eye-0.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1ItemBiomesOPlenty/helmetAmethyst-0-enchanted.pngDream Masters Helmet;Protection V;Fire Protection V;Blast Protection V;Projectile Protection V;Night Vision V;Protection: 3;Durability: 440/440
-1BiomesOPlenty/chestplateAmethyst-0-enchanted.pngDream Masters Chestplate;Protection V;Fire Protection V;Blast Protection V;Projectile Protection V;Unbreaking V;Protection: 8;Durability: 640/640
-1BiomesOPlenty/leggingsAmethyst-0-enchanted.pngDream Masters Leggings;Protection V;Fire Protection V;Blast Protection V;Projectile Protection V;Unbreaking V;Protection: 8;Durability: 600/600
-1BiomesOPlenty/bootsAmethyst-0-enchanted.pngDream Masters Boots;Protection V;Fire Protection V;Feather Falling V;Blast Protection V;Projectile Protection V;Protection: 3;Durability: 520/520
-1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;10 Knowledge Points
-2tasksANDOptionalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-12minecraft/blaze_powder-0.pngBlaze Powder
-12Retrievalminecraft/ender_eye-0.pngEye of Ender
+Hint: Throwing Ender Eyes in the air in the Overworld will guide you to the nearest stronghold. From time to time Ender Eyes are destroyed in this process, so make extras. Try to do so in a place without obstructions so you can see where it went.ANDpre6020minecraft/ender_pearl-0.png12331minecraft/ender_eye-0.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1ItemBiomesOPlenty/helmetAmethyst-0-enchanted.pngDream Masters Helme;Protection V;Fire Protection V;Blast Protection V;Projectile Protection V;Night Vision V;Protection: 3;Durability: 440/440
+1BiomesOPlenty/chestplateAmethyst-0-enchanted.pngDream Masters Chestplat;Protection V;Fire Protection V;Blast Protection V;Projectile Protection V;Unbreaking V;Protection: 8;Durability: 640/640
+1BiomesOPlenty/leggingsAmethyst-0-enchanted.pngDream Masters Legging;Protection V;Fire Protection V;Blast Protection V;Projectile Protection V;Unbreaking V;Protection: 8;Durability: 600/600
+1BiomesOPlenty/bootsAmethyst-0-enchanted.pngDream Masters Boot;Protection V;Fire Protection V;Feather Falling V;Blast Protection V;Projectile Protection V;Protection: 3;Durability: 520/520
+1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;10 Knowledge Points
+2tasksANDOptionalminecraft/ender_pearl-0.pngEnder Pear;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+12minecraft/blaze_powder-0.pngBlaze Powde
+12Retrievalminecraft/ender_eye-0.pngEye of Ende
 12LocationDIM/1-.pngThe End
 1

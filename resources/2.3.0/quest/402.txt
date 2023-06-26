@@ -1,6 +1,6 @@
-402witchery/ingredient-141.png0Kill Lord of Tormentum39-1A Lord of Torment is a mighty demonic being that is able to create prisons to torment its victims. Those foolish enough to summon one of these creatures must prepare for an arduous fight.ANDpre23480witchery/ingredient-141.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
-1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
+402witchery/ingredient-141.png0Kill Lord of Tormentum39-1A Lord of Torment is a mighty demonic being that is able to create prisons to torment its victims. Those foolish enough to summon one of these creatures must prepare for an arduous fight.ANDpre23480witchery/ingredient-141.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch;Your luck is increased by 100 %;Fortune III
+1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
+1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
 1tasksANDHuntmobs/witchery-lordoftorment-.pngLord of Torment
 1

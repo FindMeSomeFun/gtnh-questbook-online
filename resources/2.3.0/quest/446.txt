@@ -1,8 +1,8 @@
-446battlegear2/shield.wood-0.png0§1§lShields UP14-1With a sword in one hand, what can you do with the other? Right, you need a shield. Let's make one.ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemminecraft/leather-0.pngLeather
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-2tasksANDOptionalminecraft/log-0.pngOak Wood;Burn Time: 300
-4minecraft/flint-0.pngFlint
-4minecraft/cobblestone-0.pngCobblestone
-1Craftingbattlegear2/shield.wood-0.pngWooden Shield;1 s Block;Burn Time: 300
+446battlegear2/shield.wood-0.png0§1§lShields UP14-1With a sword in one hand, what can you do with the other? Right, you need a shield. Let's make one.ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemminecraft/leather-0.pngLeathe
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+2tasksANDOptionalminecraft/log-0.pngOak Woo;Burn Time: 300
+4minecraft/flint-0.pngFlin
+4minecraft/cobblestone-0.pngCobbleston
+1Craftingbattlegear2/shield.wood-0.pngWooden Shiel;1 s Block;Burn Time: 300
 1

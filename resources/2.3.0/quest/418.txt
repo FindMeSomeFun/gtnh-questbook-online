@@ -1,12 +1,12 @@
-418minecraft/ender_pearl-0.png0Spell Foci37-1There are nine basic elements and each has a focus, an item that represents them. You place this focus in your altar next to the spell table in order for your magic to flow through it and the paradigm.ANDpre4160AWWayofTime/blockHomHeart-0.pngrewardsItemAWWayofTime/blankSpell-0.pngUnbound Crystal;Crystal of infinite possibilities.
-1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-2tasksANDRetrievalminecraft/flint_and_steel-0.pngFlint and Steel
-1minecraft/ice-0.pngIce
-1minecraft/tnt-0.pngTNT
-1Retrievalminecraft/ghast_tear-0.pngGhast Tear
-1minecraft/glowstone_dust-0.pngGlowstone Dust
-1minecraft/water_bucket-0.pngWater Bucket
-1Retrievalminecraft/obsidian-0.pngObsidian
-1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-1AWWayofTime/apprenticeBloodOrb-0.pngApprentice Blood Orb;Stores raw Life Essence
+418minecraft/ender_pearl-0.png0Spell Foci37-1There are nine basic elements and each has a focus, an item that represents them. You place this focus in your altar next to the spell table in order for your magic to flow through it and the paradigm.ANDpre4160AWWayofTime/blockHomHeart-0.pngrewardsItemAWWayofTime/blankSpell-0.pngUnbound Crysta;Crystal of infinite possibilities.
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
+2tasksANDRetrievalminecraft/flint_and_steel-0.pngFlint and Stee
+1minecraft/ice-0.pngIc
+1minecraft/tnt-0.pngTN
+1Retrievalminecraft/ghast_tear-0.pngGhast Tea
+1minecraft/glowstone_dust-0.pngGlowstone Dus
+1minecraft/water_bucket-0.pngWater Bucke
+1Retrievalminecraft/obsidian-0.pngObsidia
+1minecraft/ender_pearl-0.pngEnder Pear;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1AWWayofTime/apprenticeBloodOrb-0.pngApprentice Blood Or;Stores raw Life Essence
 1

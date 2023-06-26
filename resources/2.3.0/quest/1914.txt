@@ -2,7 +2,7 @@
 
 With a Fortune III book and a tier-specific item you can remove the trash item rewards from your loot bags. More good stuff!
 
-Soulbound is another good enchantment, it will keep an enchanted item in your inventory in case of death.ANDpre19130BiblioCraft/Printing Press-0.pngrewardsItemminecraft/enchanted_book-0.pngEnchanted Book;Fortune I;Hold the Sneak key for Enchantment Description
-1tasksANDConsumeminecraft/emerald-0.pngEmerald
-64minecraft/book-0.pngBook
+Soulbound is another good enchantment, it will keep an enchanted item in your inventory in case of death.ANDpre19130BiblioCraft/Printing Press-0.pngrewardsItemminecraft/enchanted_book-0.pngEnchanted Boo;Fortune I;Hold the Sneak key for Enchantment Description
+1tasksANDConsumeminecraft/emerald-0.pngEmeral
+64minecraft/book-0.pngBoo
 8

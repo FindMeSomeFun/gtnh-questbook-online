@@ -1,4 +1,4 @@
-3257Botania/specialFlower-0-endoflame.png0Is this a combustion generator?35-1The endoflame burns combustible materials in order to produce mana. It can efficiently consume fuels with a burn time of up to 64000 per item (equivalent to four blocks of coal); any burn time beyond this will be wasted. Endoflames don't die like passive flowers do, and are simple to use, so it's a good idea to make several of them.ANDpre32621Botania/manaResource-23.pngrewardsItemRailcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
-4dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
-20tasksANDRetrievalBotania/specialFlower-0-endoflame.pngEndoflame;Generating Flower;Squirting Lag
+3257Botania/specialFlower-0-endoflame.png0Is this a combustion generator?35-1The endoflame burns combustible materials in order to produce mana. It can efficiently consume fuels with a burn time of up to 64000 per item (equivalent to four blocks of coal); any burn time beyond this will be wasted. Endoflames don't die like passive flowers do, and are simple to use, so it's a good idea to make several of them.ANDpre32621Botania/manaResource-23.pngrewardsItemRailcraft/cube-0.pngBlock of Coal Cok;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
+4dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10
+20tasksANDRetrievalBotania/specialFlower-0-endoflame.pngEndoflam;Generating Flower;Squirting Lag
 2

@@ -1,6 +1,6 @@
 102gregtech/gt.blockmachines-251.png1§5§lCutting Things Apart4-1An absolutely mandatory machine to have. It will cut rods into bolts, plates into casings, logs into planks, and all of that will be done with the highest possible efficiency. Totally worth it! 
 
-You can use water, distilled water, or lubricant to run it. Use lubricant if possible, as it's the best.ANDpre5401gregtech/gt.metaitem.01-32721.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-251.pngBasic Cutting Machine;Slice''N Dice;Voltage IN: 32 (LV);Capacity: 2,048 EU
+You can use water, distilled water, or lubricant to run it. Use lubricant if possible, as it's the best.ANDpre5401gregtech/gt.metaitem.01-32721.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+3tasksANDRetrievalgregtech/gt.blockmachines-251.pngBasic Cutting Machin;Slice''N Dice;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

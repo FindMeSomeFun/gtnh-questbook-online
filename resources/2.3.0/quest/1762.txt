@@ -2,12 +2,12 @@
 
 Place a keyboard facing a screen, or stuck to the back of a screen to make it able to interact with a computer.
 
-Absolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.ANDpre17590OpenComputers/item-54.pngrewardsChoicegregtech/gt.metaitem.01-32740.pngComputer Monitor Cover;Displays Data and GUI
-2enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemharvestcraft/colasodaItem-0.pngCola Soda;harvestcraft:colasodaItem
-1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
-1tasksANDOptionalminecraft/stone_button-0.pngButton
-104gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
-1gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
-1RetrievalOpenComputers/keyboard-0.pngKeyboard;Hold [NONE] for material costs.
+Absolutely necessary to doing anything on your computer, but can safely be removed once you have an endlessly running program.ANDpre17590OpenComputers/item-54.pngrewardsChoicegregtech/gt.metaitem.01-32740.pngComputer Monitor Cove;Displays Data and GUI
+2enhancedlootbags/lootbag-46.pngLootBag (Tier 1 Computers;You feel that a bit more "Fortune" might be a good idea...
+1Itemharvestcraft/colasodaItem-0.pngCola Sod;harvestcraft:colasodaItem
+1miscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1tasksANDOptionalminecraft/stone_button-0.pngButto
+104gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circui;A Basic Circuit;LV-Tier
+1gregtech/gt.metaitem.02-18019.pngAluminium Casin;Al
+1RetrievalOpenComputers/keyboard-0.pngKeyboar;Hold [NONE] for material costs.
 1

@@ -4,7 +4,7 @@ The higher the hit points, the longer they'll last, so the more pearls you get. 
 
 Use a nametag on a regenerating enderman to make sure he doesn't despawn. You'll want to keep him from seeing the sky or else he'll teleport away.
 
-If you haven't found a regen enderman yet, you can buy enderman spawn eggs to put into your smeltery with coins. Maybe you'll get lucky and get a regenerating one.ANDpre971gregtech/gt.blockmachines-211.png7451gregtech/gt.metaitem.01-30726.pngrewardsItemminecraft/spawn_egg-58.pngSpawn Enderman
-1dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-30tasksANDRetrievalminecraft/name_tag-0.pngName Tag
+If you haven't found a regen enderman yet, you can buy enderman spawn eggs to put into your smeltery with coins. Maybe you'll get lucky and get a regenerating one.ANDpre971gregtech/gt.blockmachines-211.png7451gregtech/gt.metaitem.01-30726.pngrewardsItemminecraft/spawn_egg-58.pngSpawn Enderma
+1dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+30tasksANDRetrievalminecraft/name_tag-0.pngName Ta
 1

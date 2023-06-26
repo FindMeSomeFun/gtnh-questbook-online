@@ -4,17 +4,17 @@ If the Kinetic Water Generator's Rotor isn't entirely submerged in water, it wil
 
 While inconvenient, the Water Generator runs more consistently.
 
-§4You can use Witchery (for example) to convert biomes.ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.01-32602.pngElectric Motor
-2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
-2IC2/itemRecipePart-12.pngShaft
-4gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-2gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
-2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate;Fe\u2086CrMnNi
-8gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear;Ti
-2RetrievalIC2/blockKineticGenerator-4.pngKinetic Water Generator;Power Output: 0-x KU/t max
+§4You can use Witchery (for example) to convert biomes.ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casin;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-32602.pngElectric Motor (HV
+2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casin;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-32612.pngElectric Pump (HV;512 L/t (10,240 L/s) as Cover
+2IC2/itemRecipePart-12.pngShaft (Steel
+4gregtech/gt.metaitem.01-32704.pngWorkstatio;An Extreme Circuit;EV-Tier
+2gregtech/gt.blockmachines-1646.png1x Platinum Cabl;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plat;Fe\u2086CrMnNi
+8gregtech/gt.metaitem.02-20028.pngSmall Titanium Gea;Ti
+2RetrievalIC2/blockKineticGenerator-4.pngKinetic Water Generato;Power Output: 0-x KU/t max
 1

@@ -1,4 +1,4 @@
-2260EMT/ElectricBootsTraveller-1-charged.png0Better boots with a little pizzazz14-1These Electric Boots of the Traveller will give a 2 percent vis discount along with the benefits of the normal Boots.ANDpre19970Thaumcraft/BootsTraveller-0.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-1enhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2260EMT/ElectricBootsTraveller-1-charged.png0Better boots with a little pizzazz14-1These Electric Boots of the Traveller will give a 2 percent vis discount along with the benefits of the normal Boots.ANDpre19970Thaumcraft/BootsTraveller-0.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+1enhancedlootbags/lootbag-9.pngLootBag (Magic Novice;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 3tasksANDRetrievalEMT/ElectricBootsTraveller-32767.pngElectric Boots of the Traveller\nPower Tier: 2\nVis Discount: 2%\nDurability: 0 / 27\nProtection: 2\nDurability: 0/27
 1

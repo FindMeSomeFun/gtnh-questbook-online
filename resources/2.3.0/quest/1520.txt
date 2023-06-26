@@ -1,5 +1,5 @@
-1520gregtech/gt.metaitem.01-32407.png0§6§lLarge Aluminium Fluid Cells5-1512 buckets in a stack not cutting it? Aluminium cells can hold 32 buckets per cell, and stack to 64. 2,048 buckets in a single stack? That's half a supertank!ANDpre15981gregtech/gt.blockmachines-212.pngrewardsItemgregtech/gt.metaitem.01-32407.pngLarge Aluminium Fluid Cell;No Fluids Contained;0L / 32,000L
-4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metaitem.01-32407.pngLarge Aluminium Fluid Cell;No Fluids Contained;0L / 32,000L
+1520gregtech/gt.metaitem.01-32407.png0§6§lLarge Aluminium Fluid Cells5-1512 buckets in a stack not cutting it? Aluminium cells can hold 32 buckets per cell, and stack to 64. 2,048 buckets in a single stack? That's half a supertank!ANDpre15981gregtech/gt.blockmachines-212.pngrewardsItemgregtech/gt.metaitem.01-32407.pngLarge Aluminium Fluid Cel;No Fluids Contained;0L / 32,000L
+4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalgregtech/gt.metaitem.01-32407.pngLarge Aluminium Fluid Cel;No Fluids Contained;0L / 32,000L
 4

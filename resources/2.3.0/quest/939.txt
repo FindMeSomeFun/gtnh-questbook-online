@@ -1,6 +1,6 @@
-939IC2/itemToolHoe-1-charged.png0§6§l§d§5§lAutomated Farmer4-1Your hoe must be getting worn out by now. Why not craft an electric one which never breaks?ANDpre6200IC2/itemBatRE-1-charged.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-15tasksANDRetrievalIC2/itemToolHoe-26.pngElectric Hoe;Power Tier: 1;+2 Attack Damage;Durability: 1 / 27;Durability: 1/27
+939IC2/itemToolHoe-1-charged.png0§6§l§d§5§lAutomated Farmer4-1Your hoe must be getting worn out by now. Why not craft an electric one which never breaks?ANDpre6200IC2/itemBatRE-1-charged.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingo;Fe\u2085\u2080C
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+15tasksANDRetrievalIC2/itemToolHoe-26.pngElectric Ho;Power Tier: 1;+2 Attack Damage;Durability: 1 / 27;Durability: 1/27
 1

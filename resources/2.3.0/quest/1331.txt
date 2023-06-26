@@ -1,6 +1,6 @@
-1331appliedenergistics2/item.ToolMemoryCard-0.png1To Link P2P Busses27-1A small item that can be used to store, copy, and paste settings. Shift + right click on a configurable object to save the settings onto the memory card, then right click on any other block of the same type to paste the settings. Shift + right click on a non-configurable object (or the air) to clear. They are also used to link the input P2P tunnel to the corresponding output P2P tunnels. They can also link Vis Relays to compatible devices.ANDpre2031appliedenergistics2/item.ItemMultiPart-460.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-8enhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalappliedenergistics2/item.ToolMemoryCard-0.pngMemory Card;Blank
+1331appliedenergistics2/item.ToolMemoryCard-0.png1To Link P2P Busses27-1A small item that can be used to store, copy, and paste settings. Shift + right click on a configurable object to save the settings onto the memory card, then right click on any other block of the same type to paste the settings. Shift + right click on a non-configurable object (or the air) to clear. They are also used to link the input P2P tunnel to the corresponding output P2P tunnels. They can also link Vis Relays to compatible devices.ANDpre2031appliedenergistics2/item.ItemMultiPart-460.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
+8enhancedlootbags/lootbag-38.pngLootBag (AE Good;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDRetrievalappliedenergistics2/item.ToolMemoryCard-0.pngMemory Car;Blank
 1

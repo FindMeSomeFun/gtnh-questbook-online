@@ -4,10 +4,10 @@ As a first step in getting Rhodium, Ruthenium, Iridium, and Osmium, we will spli
 
 The amounts for this step are pretty annoying, blame Bart for that.
 
-§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.ANDpre23041bartworks/gt.bwMetaGeneratedcellMolten-59.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-49.pngPlatinum Residue Dust;??IrOsRhRu??;Added by BartWorks
-31bartworks/gt.bwMetaGeneratedcellMolten-59.pngMolten Potassium Disulfate Cell;K\u2082S\u2082O\u2087;Added by BartWorks
-78Retrievalbartworks/gt.bwMetaGenerateddust-60.pngLeach Residue Dust;??IrOsRu??;Added by BartWorks
-31bartworks/gt.bwMetaGeneratedcell-61.pngRhodium Sulfate Cell;Added by BartWorks
+§4Your output hatch needs to be at the bottom to collect the Rhodium Sulfate.ANDpre23041bartworks/gt.bwMetaGeneratedcellMolten-59.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-49.pngPlatinum Residue Dus;??IrOsRhRu??;Added by BartWorks
+31bartworks/gt.bwMetaGeneratedcellMolten-59.pngMolten Potassium Disulfate Cel;K\u2082S\u2082O\u2087;Added by BartWorks
+78Retrievalbartworks/gt.bwMetaGenerateddust-60.pngLeach Residue Dus;??IrOsRu??;Added by BartWorks
+31bartworks/gt.bwMetaGeneratedcell-61.pngRhodium Sulfate Cel;Added by BartWorks
 11

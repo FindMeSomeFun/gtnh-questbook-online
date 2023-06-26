@@ -1,7 +1,7 @@
-985minecraft/ghast_tear-0.png0Time to Kill (Ghast)39432000They shoot you with explosive fireballs but they are weak when you hit them or knock the fireballs back with a weapon. Better upgrade your armor with fire and blast protection.ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+985minecraft/ghast_tear-0.png0Time to Kill (Ghast)39432000They shoot you with explosive fireballs but they are weak when you hit them or knock the fireballs back with a weapon. Better upgrade your armor with fire and blast protection.ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
 5tasksANDHuntmobs/Ghast-.pngGhast
 10

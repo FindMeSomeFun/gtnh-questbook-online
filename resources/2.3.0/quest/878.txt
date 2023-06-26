@@ -1,13 +1,13 @@
-878Thaumcraft/WandRod-50.png0Magic Staff Core32-1A staff requires an extra step for crafting: Two (matching) wand cores must be combined with a primal charm, and crystal clusters to produce a staff core. (While the recipes are all similar, each type of staff core requires a separate research topic to be learned.) ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemThaumcraft/WandRod-0.pngGreatwood Rod
-2Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDOptionalThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
-1Thaumcraft/blockCrystal-0.pngAir Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/WandRod-0.pngGreatwood Rod
-2RetrievalThaumcraft/WandRod-50.pngGreatwood Staff Core
+878Thaumcraft/WandRod-50.png0Magic Staff Core32-1A staff requires an extra step for crafting: Two (matching) wand cores must be combined with a primal charm, and crystal clusters to produce a staff core. (While the recipes are all similar, each type of staff core requires a separate research topic to be learned.) ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemThaumcraft/WandRod-0.pngGreatwood Ro
+2Thaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDOptionalThaumcraft/ItemResource-15.pngPrimal Char;You think you hear whispering
+1Thaumcraft/blockCrystal-0.pngAir Crystal Cluste;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-1.pngFire Crystal Cluste;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-2.pngWater Crystal Cluste;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluste;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluste;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluste;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/WandRod-0.pngGreatwood Ro
+2RetrievalThaumcraft/WandRod-50.pngGreatwood Staff Cor
 1

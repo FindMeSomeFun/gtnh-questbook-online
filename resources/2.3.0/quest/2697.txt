@@ -1,8 +1,8 @@
 2697gregtech/gt.metaitem.01-30023.png1§5§lChlorine, Your New Best Friend4-1Chlorine is a fluid that is used in significant quantities throughout the game, so you might as well get used to collecting it now.
 
-You can electrolyse Salt, Rock Salt, Sodalite (finally a use!), or Salt Water for it. Since you'll need so much, you may wish to consider using your first Super Tank to hold it all.ANDpre6221gregtech/gt.blockores-817.pngrewardsChoicegregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cell;No Fluids Contained;0L / 8,000L
-2gregtech/gt.metaitem.01-30692.pngSalt Water Cell
-16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
+You can electrolyse Salt, Rock Salt, Sodalite (finally a use!), or Salt Water for it. Since you'll need so much, you may wish to consider using your first Super Tank to hold it all.ANDpre6221gregtech/gt.blockores-817.pngrewardsChoicegregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cel;No Fluids Contained;0L / 8,000L
+2gregtech/gt.metaitem.01-30692.pngSalt Water Cel
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+15tasksANDRetrievalgregtech/gt.metaitem.01-30023.pngChlorine Cel;Cl
 16

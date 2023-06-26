@@ -6,7 +6,7 @@ When placed on the ground, it can be accessed with a right-click. While on the g
 
 They can also be upgraded to add special abilities. For more special abilities than those featured here, check the Adventure Backpacks wiki.
 
-§3It uses up the same slot as the Coal Jetpack and the Copterpack, so you'll either need to choose one, or swap them around.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemharvestcraft/beefwellingtonItem-0.pngBeef Wellington;harvestcraft:beefwellingtonItem
-64adventurebackpack/backpackHose-0.pngHose: Useless / No Backpack
-1tasksANDRetrievaladventurebackpack/adventureBackpack-0.pngAdventure Backpack;Standard
+§3It uses up the same slot as the Coal Jetpack and the Copterpack, so you'll either need to choose one, or swap them around.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemharvestcraft/beefwellingtonItem-0.pngBeef Wellingto;harvestcraft:beefwellingtonItem
+64adventurebackpack/backpackHose-0.pngHose: Useless / No Backpac
+1tasksANDRetrievaladventurebackpack/adventureBackpack-0.pngAdventure Backpac;Standard
 1

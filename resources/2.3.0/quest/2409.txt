@@ -2,19 +2,19 @@
 
 After running the Dust through your Dehydrator, you get a number of strange materials, only some of which you recognize. But if you run these materials through an Electrolyzer or through the Dehydrator again, you may get some use out of them. Some of them may take quite a few to do so, but you §o§o§r§h§ohave§r been stockpiling, right? You'll need 204 Rare Earth.
 
-You believe if you had more powerful acids and machines, you could extract even more valuable materials out of the Rare Earth.ANDpre16140gregtech/gt.blockmachines-911.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2gregtech/gt.metaitem.01-2891.pngRare Earth
-64miscutils/itemDustRareEarthI-0.pngRare Earth;??????;Hold Ctrl to show additional info.
-32Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalmiscutils/itemDustGreenockite-0.pngGreenockite Dust;CdS;Hold Ctrl to show additional info.
-1miscutils/itemDustLanthaniteCe-0.pngLanthanite;Ce\u2082O\u2083Ca\u2083H\u2082O;Hold Ctrl to show additional info.
-11miscutils/itemDustAgarditeCd-0.pngAgardite;CdCaCu\u2087As\u2084O\u2082\u2081H\u2081\u2081;Hold Ctrl to show additional info.
-45miscutils/itemDustYttrialite-0.pngYttrialite Dust;Y\u2082Th\u2082Si\u2082O\u2087;Hold Ctrl to show additional info.
-13gregtech/gt.metaitem.01-2522.pngNether Quartz Dust;SiO\u2082
-1gregtech/gt.metaitem.01-2830.pngGalena Dust;PbS
-2gregtech/gt.metaitem.01-2855.pngChalcopyrite Dust;CuFeS\u2082
-4miscutils/itemDustCryoliteF-0.pngCryolite;Na\u2083AlF\u2086;Hold Ctrl to show additional info.
-10gregtech/gt.metaitem.01-2045.pngYttrium Dust;Y
+You believe if you had more powerful acids and machines, you could extract even more valuable materials out of the Rare Earth.ANDpre16140gregtech/gt.blockmachines-911.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2gregtech/gt.metaitem.01-2891.pngRare Eart
+64miscutils/itemDustRareEarthI-0.pngRare Earth (I) Dus;??????;Hold Ctrl to show additional info.
+32Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalmiscutils/itemDustGreenockite-0.pngGreenockite Dus;CdS;Hold Ctrl to show additional info.
+1miscutils/itemDustLanthaniteCe-0.pngLanthanite (Ce) Dus;Ce\u2082O\u2083Ca\u2083H\u2082O;Hold Ctrl to show additional info.
+11miscutils/itemDustAgarditeCd-0.pngAgardite (Cd) Dus;CdCaCu\u2087As\u2084O\u2082\u2081H\u2081\u2081;Hold Ctrl to show additional info.
+45miscutils/itemDustYttrialite-0.pngYttrialite Dus;Y\u2082Th\u2082Si\u2082O\u2087;Hold Ctrl to show additional info.
+13gregtech/gt.metaitem.01-2522.pngNether Quartz Dus;SiO\u2082
+1gregtech/gt.metaitem.01-2830.pngGalena Dus;PbS
+2gregtech/gt.metaitem.01-2855.pngChalcopyrite Dus;CuFeS\u2082
+4miscutils/itemDustCryoliteF-0.pngCryolite (F) Dus;Na\u2083AlF\u2086;Hold Ctrl to show additional info.
+10gregtech/gt.metaitem.01-2045.pngYttrium Dus;Y
 1

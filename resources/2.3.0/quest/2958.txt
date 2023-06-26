@@ -1,4 +1,4 @@
-2958bartworks/gt.bwMetaGeneratedcell-10011.png0Nuclear Based Fuel (Pu)19-1Provides 32,400EU/t output lasting 7.5s per mB.ANDpre29570bartworks/gt.bwMetaGeneratedcell-10003.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10011.pngPlutonium Based Liquid Fuel;*(Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082)*;Added by Good Generator via BartWorks
-2bartworks/gt.bwMetaGeneratedcell-10010.pngPlutonium Based Liquid Fuel Cell;Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082;Added by Good Generator via BartWorks
-4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10011.pngPlutonium Based Liquid Fuel;*(Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082)*;Added by Good Generator via BartWorks
+2958bartworks/gt.bwMetaGeneratedcell-10011.png0Nuclear Based Fuel (Pu)19-1Provides 32,400EU/t output lasting 7.5s per mB.ANDpre29570bartworks/gt.bwMetaGeneratedcell-10003.pngrewardsChoicebartworks/gt.bwMetaGeneratedcell-10011.pngPlutonium Based Liquid Fuel (Excited State) Cel;*(Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082)*;Added by Good Generator via BartWorks
+2bartworks/gt.bwMetaGeneratedcell-10010.pngPlutonium Based Liquid Fuel Cel;Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082;Added by Good Generator via BartWorks
+4tasksANDRetrievalbartworks/gt.bwMetaGeneratedcell-10011.pngPlutonium Based Liquid Fuel (Excited State) Cel;*(Pu\u2084\u2085Nt\u2088Cs\u2081\u2086Nq\u2082)*;Added by Good Generator via BartWorks
 1

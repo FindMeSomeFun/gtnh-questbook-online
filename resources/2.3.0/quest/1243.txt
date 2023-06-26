@@ -1,10 +1,10 @@
-1243gregtech/gt.blockores-4873.png0§a§lReactor Fuels7-1For impure radioactive ores for your nuclear reactor, you can look for pitchblende and uraninite. You can find them on Mars and Phobos at Y 30-60.ORpre1861GalacticraftMars/item.spaceshipTier2-0.png1870GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksORRetrievalgregtech/gt.blockores-4873.pngPitchblende;(UO\u2082)\u2083ThPb
-64gregtech/gt.blockores-4922.pngUraninite Ore;UO\u2082
-32Retrievalgregtech/gt.blockores-873.pngPitchblende;(UO\u2082)\u2083ThPb
-64gregtech/gt.blockores-922.pngUraninite Ore;UO\u2082
-32Retrievalgregtech/gt.metaitem.01-5873.pngGround Pitchblende;(UO\u2082)\u2083ThPb
-192gregtech/gt.metaitem.01-5922.pngCrushed Uraninite Ore;UO\u2082
+1243gregtech/gt.blockores-4873.png0§a§lReactor Fuels7-1For impure radioactive ores for your nuclear reactor, you can look for pitchblende and uraninite. You can find them on Mars and Phobos at Y 30-60.ORpre1861GalacticraftMars/item.spaceshipTier2-0.png1870GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
+2tasksORRetrievalgregtech/gt.blockores-4873.pngPitchblend;(UO\u2082)\u2083ThPb
+64gregtech/gt.blockores-4922.pngUraninite Or;UO\u2082
+32Retrievalgregtech/gt.blockores-873.pngPitchblend;(UO\u2082)\u2083ThPb
+64gregtech/gt.blockores-922.pngUraninite Or;UO\u2082
+32Retrievalgregtech/gt.metaitem.01-5873.pngGround Pitchblend;(UO\u2082)\u2083ThPb
+192gregtech/gt.metaitem.01-5922.pngCrushed Uraninite Or;UO\u2082
 96

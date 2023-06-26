@@ -1,4 +1,4 @@
-1807TwilightForest/item.steeleafIngot-0.png0Leaves of Steel13-1Well, steel leaves anyways. Instead of grinding Twilight Forest for steel leaves, grow a crop in peace.ANDpre19300TwilightForest/item.liveRoot-0.pngrewardsItemgregtech/gt.metaitem.01-2339.pngSteeleaf Dust;(Fe\u2085\u2080C)Ma
-16enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngSteeleafranks Seeds;Gr 0;Ga 0;Re 0
+1807TwilightForest/item.steeleafIngot-0.png0Leaves of Steel13-1Well, steel leaves anyways. Instead of grinding Twilight Forest for steel leaves, grow a crop in peace.ANDpre19300TwilightForest/item.liveRoot-0.pngrewardsItemgregtech/gt.metaitem.01-2339.pngSteeleaf Dus;(Fe\u2085\u2080C)Ma
+16enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngSteeleafranks Seed;Gr 0;Ga 0;Re 0
 1

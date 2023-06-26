@@ -2,10 +2,10 @@
 
 The power density of this fuel is great, but it doesn't mean you'll have enough power to get to EV. What really matters here is the amount of plants or fish you can provide, since all the other items and fluids are basically additives when compared to the amount of oil you need. It's hard to match the speed at which crude oil can be obtained, but you can bring forth a lot of Seed/Fish Oil if you increase the size of those setups.
 
-There are more possibilities for CBD in the future, if you want to move towards those.ANDpre31180gregtech/gt.metaitem.01-30653.png31190gregtech/gt.metaitem.01-30641.pngrewardsItemgregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
-32gregtech/gt.metaitem.01-30998.pngHigh Octane Gasoline Cell
-1enhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-3tasksANDRetrievalgregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
+There are more possibilities for CBD in the future, if you want to move towards those.ANDpre31180gregtech/gt.metaitem.01-30653.png31190gregtech/gt.metaitem.01-30641.pngrewardsItemgregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cel;Can be used as rocket fuel up to tier 2
+32gregtech/gt.metaitem.01-30998.pngHigh Octane Gasoline Cel
+1enhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+3tasksANDRetrievalgregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cel;Can be used as rocket fuel up to tier 2
 128

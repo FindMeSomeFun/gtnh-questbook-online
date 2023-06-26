@@ -1,6 +1,6 @@
-2866Forestry/sapling-0-alder.png0Common Alder16-1You can breed a Common Alder by combining Silver Birch and Common Beech.ANDpre21270Forestry/sapling-0-beech.pngrewardsItemdreamcraft/item.CoinForestryI-0.pngCoin "The Forest Ranger 10"
-1enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Birch.pngSilver Birch Sapling;Burn Time: 100
-1Forestry/sapling-0-beech.pngCommon Beech Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-alder.pngCommon Alder Sapling;Burn Time: 100
+2866Forestry/sapling-0-alder.png0Common Alder16-1You can breed a Common Alder by combining Silver Birch and Common Beech.ANDpre21270Forestry/sapling-0-beech.pngrewardsItemdreamcraft/item.CoinForestryI-0.pngCoin "The Forest Ranger 10
+1enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-Birch.pngSilver Birch Saplin;Burn Time: 100
+1Forestry/sapling-0-beech.pngCommon Beech Saplin;Burn Time: 100
+1RetrievalForestry/sapling-0-alder.pngCommon Alder Saplin;Burn Time: 100
 1

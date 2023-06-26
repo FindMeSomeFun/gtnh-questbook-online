@@ -1,8 +1,8 @@
-1837TwilightForest/item.ironwoodPick-0-enchanted.png0Ardite and Cobalt Mining31-1Ironwood is much harder and durable material than you imagined at first. Making Tools and Armor give them very unique features. With a Pick you can mine at cobalt Level which means you can harvest ardite and cobalt without a EBF.ANDpre11580TwilightForest/item.ironwoodIngot-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-2TwilightForest/item.ironwoodIngot-0.pngIronwood Ingot
-2gregtech/gt.metaitem.01-17338.pngIronwood Plate;Fe\u2089((COH)\u2083Ma)\u2089Au
-1RetrievalTwilightForest/item.ironwoodPick-0-enchanted.pngIronwood Pick;TwilightForest:item.ironwoodPick;Efficiency I;+4 Attack Damage;Durability: 512/512
+1837TwilightForest/item.ironwoodPick-0-enchanted.png0Ardite and Cobalt Mining31-1Ironwood is much harder and durable material than you imagined at first. Making Tools and Armor give them very unique features. With a Pick you can mine at cobalt Level which means you can harvest ardite and cobalt without a EBF.ANDpre11580TwilightForest/item.ironwoodIngot-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDOptionalminecraft/stick-0.pngStic;Burn Time: 100
+2TwilightForest/item.ironwoodIngot-0.pngIronwood Ingo
+2gregtech/gt.metaitem.01-17338.pngIronwood Plat;Fe\u2089((COH)\u2083Ma)\u2089Au
+1RetrievalTwilightForest/item.ironwoodPick-0-enchanted.pngIronwood Pic;TwilightForest:item.ironwoodPick;Efficiency I;+4 Attack Damage;Durability: 512/512
 1

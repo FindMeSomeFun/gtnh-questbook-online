@@ -1,6 +1,6 @@
-2076minecraft/magma_cream-0.png0Time to Kill (Magma Cube)39432000Now a Hell version of your slime! Always appears with Infernal status.ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+2076minecraft/magma_cream-0.png0Time to Kill (Magma Cube)39432000Now a Hell version of your slime! Always appears with Infernal status.ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
+1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
 5tasksANDHuntmobs/LavaSlime-.pngLava Slime
 20

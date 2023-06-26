@@ -1,9 +1,9 @@
 2915gregtech/gt.metaitem.01-11335.png0§5§lDamascus Steel4-1Damascus Steel is one of the hardest materials you can get, at your current tier. It time to craft a stack of Damascus Steel.
 
-You can't get it through the Mixer yet, but there is a crafting recipe.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-2335.pngDamascus Steel Dust;Fe\u2085\u2080C
-64Retrievalgregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot;Fe\u2085\u2080C
+You can't get it through the Mixer yet, but there is a crafting recipe.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalgregtech/gt.metaitem.01-2335.pngDamascus Steel Dus;Fe\u2085\u2080C
+64Retrievalgregtech/gt.metaitem.01-11335.pngDamascus Steel Ingo;Fe\u2085\u2080C
 64

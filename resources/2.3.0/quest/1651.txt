@@ -1,6 +1,6 @@
-1651BloodArsenal/vampire_cape-0.png0A Dark Path to Travel Down...36-1...but a path laden with power beyond imagination. Behold mortal, and be terrified!ANDpre16500witchery/ingredient-107.pngrewardsItemBloodArsenal/vampire_cape-0.pngVampire Cape;Protection: 7
-1enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-2tasksANDRetrievalwitchery/vampirebook-0.pngObservations of an Immortal;A doomed scholar''s account of discourse with the undead.
+1651BloodArsenal/vampire_cape-0.png0A Dark Path to Travel Down...36-1...but a path laden with power beyond imagination. Behold mortal, and be terrified!ANDpre16500witchery/ingredient-107.pngrewardsItemBloodArsenal/vampire_cape-0.pngVampire Cap;Protection: 7
+1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
+2tasksANDRetrievalwitchery/vampirebook-0.pngObservations of an Immorta;A doomed scholar''s account of discourse with the undead.
 1

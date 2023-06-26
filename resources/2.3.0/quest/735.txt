@@ -1,7 +1,7 @@
-735gregtech/gt.blockmachines-492.png0§6§lWay Two: Brewery5-1If you are lucky and find some brewing stands or have started using Thaumcraft to make one, you can craft a brewery. You get 1000mb of biomass out of 1000mb water and 1 bio chaff. Use Distilled water to get a better ratio and a much faster recipe.ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-4gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-1gregtech/gt.metaitem.02-21300.pngBronze Rotor;SnCu\u2083
-2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.blockmachines-492.pngAdvanced Brewery;Brewing your Drinks;Voltage IN: 128 (MV);Capacity: 8,192 EU
+735gregtech/gt.blockmachines-492.png0§6§lWay Two: Brewery5-1If you are lucky and find some brewing stands or have started using Thaumcraft to make one, you can craft a brewery. You get 1000mb of biomass out of 1000mb water and 1 bio chaff. Use Distilled water to get a better ratio and a much faster recipe.ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cabl;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+4gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+1gregtech/gt.metaitem.02-21300.pngBronze Roto;SnCu\u2083
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalgregtech/gt.blockmachines-492.pngAdvanced Brewer;Brewing your Drinks;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

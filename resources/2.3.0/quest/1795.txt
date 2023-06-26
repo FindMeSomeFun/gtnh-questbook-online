@@ -1,12 +1,12 @@
 1795gregtech/gt.metaitem.02-32531.png0Metals From the Sky13-1You can even create metals not found on Earth using crops! You'll need the proper metal block beneath the crop in order for them to fully mature.
 
-BTW, higher tier crops have a lower chance of dropping seeds, so consider breeding a second one before you try breaking them, ok?ANDpre16010gregtech/gt.metaitem.02-32530.pngrewardsChoiceIC2/itemCropSeed-0.pngStargatium Seeds;Gr 1;Ga 1;Re 1
-1IC2/itemCropSeed-0.pngQuantaria Seeds;Gr 1;Ga 1;Re 1
-1Itemgregtech/gt.blockores-2084.pngIridium Ore;Ir
-2gregtech/gt.blockores-2083.pngOsmium Ore;Os
-2enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
-1tasksANDRetrievalgregtech/gt.metaitem.02-32521.pngBauxia Leaf;Source of Aluminium
-9gregtech/gt.metaitem.02-32522.pngTitania Leaf;Source of Titanium
-9gregtech/gt.metaitem.02-32531.pngScheelinium Leaf;Source of Tungsten
-9gregtech/gt.metaitem.02-32532.pngPlatina Leaf;Source of Platinum
+BTW, higher tier crops have a lower chance of dropping seeds, so consider breeding a second one before you try breaking them, ok?ANDpre16010gregtech/gt.metaitem.02-32530.pngrewardsChoiceIC2/itemCropSeed-0.pngStargatium Seed;Gr 1;Ga 1;Re 1
+1IC2/itemCropSeed-0.pngQuantaria Seed;Gr 1;Ga 1;Re 1
+1Itemgregtech/gt.blockores-2084.pngIridium Or;Ir
+2gregtech/gt.blockores-2083.pngOsmium Or;Os
+2enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops;Your luck is increased by 100 %;Fortune III
+1tasksANDRetrievalgregtech/gt.metaitem.02-32521.pngBauxia Lea;Source of Aluminium
+9gregtech/gt.metaitem.02-32522.pngTitania Lea;Source of Titanium
+9gregtech/gt.metaitem.02-32531.pngScheelinium Lea;Source of Tungsten
+9gregtech/gt.metaitem.02-32532.pngPlatina Lea;Source of Platinum
 9

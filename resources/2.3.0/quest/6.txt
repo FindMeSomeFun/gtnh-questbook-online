@@ -2,6 +2,6 @@
 
 To get other wheat, use a hoe on grass away from water. You'll get Witchery seeds too, save those for later. Start planting a cotton field, it's a key early game resource.
 
-§3PS: You can also grab a bunch from villages, and also grow the seeds from Pam's garden food.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/carrot-0.pngCarrot;minecraft:carrot
-5tasksANDConsumeminecraft/stick-0.pngStick;Burn Time: 100
+§3PS: You can also grab a bunch from villages, and also grow the seeds from Pam's garden food.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/carrot-0.pngCarro;minecraft:carrot
+5tasksANDConsumeminecraft/stick-0.pngStic;Burn Time: 100
 8

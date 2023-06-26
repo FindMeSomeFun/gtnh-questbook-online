@@ -1,7 +1,7 @@
 2129Forestry/sapling-0-Larch.png0Mundane Larch16-1You can breed a Mundane Larch by combining Red Spruce and Silver Birch or Apple Oak. You also need to do these to get Sequoias.
 
-Note: For all tree breeding quests, the required tree must be a pure species, not a hybrid, and must be scanned.ANDpre21230minecraft/sapling-4.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Spruce.pngRed Spruce Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-Larch.pngMundane Larch Sapling;Burn Time: 100
+Note: For all tree breeding quests, the required tree must be a pure species, not a hybrid, and must be scanned.ANDpre21230minecraft/sapling-4.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
+15enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-Spruce.pngRed Spruce Saplin;Burn Time: 100
+1RetrievalForestry/sapling-0-Larch.pngMundane Larch Saplin;Burn Time: 100
 1

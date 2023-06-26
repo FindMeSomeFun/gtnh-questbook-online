@@ -1,9 +1,9 @@
-67gregtech/gt.blockmachines-1360.png1§4§3§lWired, Weird?!3-1Two of the very basic materials for machines are wires and cables. For cables you can either use a rubber sheet in the crafting table or use rubber bars in the alloy smelter. Not very efficient, but there will be a better way later.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/fruitcrumbleItem-0.pngFruit Crumble;harvestcraft:fruitcrumbleItem
-3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDCraftinggregtech/gt.blockmachines-2000.png1x Red Alloy Wire;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-3Craftinggregtech/gt.blockmachines-1240.png1x Tin Wire;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-7Craftinggregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-24Craftinggregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-8Retrievalgregtech/gt.blockmachines-2006.png1x Red Alloy Cable;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 0 EU-Volt
-3gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+67gregtech/gt.blockmachines-1360.png1§4§3§lWired, Weird?!3-1Two of the very basic materials for machines are wires and cables. For cables you can either use a rubber sheet in the crafting table or use rubber bars in the alloy smelter. Not very efficient, but there will be a better way later.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/fruitcrumbleItem-0.pngFruit Crumbl;harvestcraft:fruitcrumbleItem
+3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDCraftinggregtech/gt.blockmachines-2000.png1x Red Alloy Wir;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+3Craftinggregtech/gt.blockmachines-1240.png1x Tin Wir;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+7Craftinggregtech/gt.blockmachines-1360.png1x Copper Wir;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
+24Craftinggregtech/gt.metaitem.02-19035.pngFine Copper Wir;Cu
+8Retrievalgregtech/gt.blockmachines-2006.png1x Red Alloy Cabl;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 0 EU-Volt
+3gregtech/gt.blockmachines-1246.png1x Tin Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
 7

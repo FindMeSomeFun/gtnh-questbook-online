@@ -1,6 +1,6 @@
-319ThaumicTinkerer/ichorAxe-0.png0Unbreakable Axe33-1An axe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...ANDpre3201ThaumicTinkerer/kamiResource-2.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/ichorAxe-0.pngIchorium Axe;+8 Attack Damage
+319ThaumicTinkerer/ichorAxe-0.png0Unbreakable Axe33-1An axe made of your new metal will never break and will accept enchantments with ease. Something tells you there must be more...ANDpre3201ThaumicTinkerer/kamiResource-2.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
+5tasksANDRetrievalThaumicTinkerer/ichorAxe-0.pngIchorium Ax;+8 Attack Damage
 1

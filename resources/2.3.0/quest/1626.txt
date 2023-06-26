@@ -2,9 +2,9 @@
 
 Now would be a good time to look into IC2 crops to get all the dyes you will need for your advanced chips.
 
-§3If NEI's bookmarks are blocking you on the left, you can turn it off (O) until that gets fixed.ANDpre16250ProjRedTransportation/projectred.transportation.pipe-2.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
-8IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-4enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
+§3If NEI's bookmarks are blocking you on the left, you can turn it off (O) until that gets fixed.ANDpre16250ProjRedTransportation/projectred.transportation.pipe-2.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plat
+8IC2/itemPartCircuit-0.pngElectronic Circui;LV-tier
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+15tasksANDRetrievalProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chi
 8

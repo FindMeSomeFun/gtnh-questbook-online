@@ -3,15 +3,15 @@
 After you've mastered the flowing spirit in the dream dimension (witchery), put a bit of flour, sugar, salis mundus and draconium dust in your IV Mixer. 
 The recipe starts when you give flowing spirit to it and gives you malformed slush, a very stinky and disgusting piece of...something. 
 
-Be careful, you'll get blindness II when holding it in your hand.ANDpre14101gregtech/gt.blockmachines-585.png15840witchery/ingredient-96.pngrewardsChoicewitchery/bucketspirit-0.pngSpirit Bucket
-1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
-2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-2881.pngFlour
-2Thaumcraft/ItemResource-14.pngSalis Mundus
-2minecraft/sugar-0.pngSugar
-2DraconicEvolution/draconiumDust-0.pngDraconium Dust
-2witchery/bucketspirit-0.pngSpirit Bucket
-2Retrievaldreamcraft/item.MalformedSlush-0.pngMalformed Slush;I hope you are not going to eat this later.
+Be careful, you'll get blindness II when holding it in your hand.ANDpre14101gregtech/gt.blockmachines-585.png15840witchery/ingredient-96.pngrewardsChoicewitchery/bucketspirit-0.pngSpirit Bucke
+1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100
+2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
+2tasksANDOptionalgregtech/gt.metaitem.01-2881.pngFlou
+2Thaumcraft/ItemResource-14.pngSalis Mundu
+2minecraft/sugar-0.pngSuga
+2DraconicEvolution/draconiumDust-0.pngDraconium Dus
+2witchery/bucketspirit-0.pngSpirit Bucke
+2Retrievaldreamcraft/item.MalformedSlush-0.pngMalformed Slus;I hope you are not going to eat this later.
 2

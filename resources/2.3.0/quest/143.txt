@@ -1,7 +1,7 @@
 143EnderIO/blockAlloySmelter-0.png0§6§lSmelting All-Joy5-1This combination smelter allows you to produce fused quartz and quite clear glass of all variants.
 
-It does §onot§r alloy you to make the EIO alloys though, you'll need a mixer and (probably) EBF for that.ANDpre1290EnderIO/itemMachinePart-0.pngrewardsChoiceEnderIO/itemMachinePart-0.pngMachine Chassis
-1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalEnderIO/blockAlloySmelter-0.pngAlloy Smelter
+It does §onot§r alloy you to make the EIO alloys though, you'll need a mixer and (probably) EBF for that.ANDpre1290EnderIO/itemMachinePart-0.pngrewardsChoiceEnderIO/itemMachinePart-0.pngMachine Chassi
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalEnderIO/blockAlloySmelter-0.pngAlloy Smelte
 1

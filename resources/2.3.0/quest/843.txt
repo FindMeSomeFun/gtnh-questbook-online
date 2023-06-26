@@ -1,7 +1,7 @@
-843gregtech/gt.metaitem.01-30673.png0§6§lMethanol5-1Methanol has a burn value of 84,000 EU per cell and can be used to make bio diesel and other fluids. It's also used to make certain rocket fuels.ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
-16gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-1IC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
+843gregtech/gt.metaitem.01-30673.png0§6§lMethanol5-1Methanol has a burn value of 84,000 EU per cell and can be used to make bio diesel and other fluids. It's also used to make certain rocket fuels.ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.metaitem.01-30691.pngFermented Biomass Cel
+16gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
+1IC2/itemCellEmpty-0.pngEmpty Cel
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalgregtech/gt.metaitem.01-30673.pngMethanol Cel;CH\u2084O
 64

@@ -1,6 +1,6 @@
-158openmodularturrets/machineGunTurret-0.png0§6§lSometimes, a Bullet Will Do14-1They hit hard. You have been warned.ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1openmodularturrets/bulletCraftable-0.pngAmmo - Bullet
-32Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalopenmodularturrets/machineGunTurret-0.pngGun Turret;--Info--;Tier: 2;Range (in blocks): 18;Accuracy: Medium;Ammo Type: Bullet;Base Minimum Tier: Tier 2 Turret Base;--Damage Output--;Projectile Damage: 2.5 Hearts;AOE Radius: 0;Shots/s: 2.5;Energy usage per shot: 100 RF;TRRRAA!! TRRAATRRAA!!;Glass-Tier: HV
+158openmodularturrets/machineGunTurret-0.png0§6§lSometimes, a Bullet Will Do14-1They hit hard. You have been warned.ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1openmodularturrets/bulletCraftable-0.pngAmmo - Bulle
+32Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+25tasksANDRetrievalopenmodularturrets/machineGunTurret-0.pngGun Turre;--Info--;Tier: 2;Range (in blocks): 18;Accuracy: Medium;Ammo Type: Bullet;Base Minimum Tier: Tier 2 Turret Base;--Damage Output--;Projectile Damage: 2.5 Hearts;AOE Radius: 0;Shots/s: 2.5;Energy usage per shot: 100 RF;TRRRAA!! TRRAATRRAA!!;Glass-Tier: HV
 1

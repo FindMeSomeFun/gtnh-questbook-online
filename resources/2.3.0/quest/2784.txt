@@ -1,6 +1,6 @@
-2784gregtech/gt.blockmachines-794.png0§a§lRocket Engine IV19-1This is the IV version. It has 70% efficiency, and produces 500 to 4000 pollution/s.ANDpre14131gregtech/gt.metaitem.01-32654.png26841miscutils/RocketFuelMixB-0.pngrewardsChoicemiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cell;Can be used as rocket fuel up to tier 2
-16miscutils/RP1Fuel-0.pngRP-1 Cell
-24enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalgregtech/gt.blockmachines-794.pngAdvanced Rocket Engine;Requires GT++ Rocket Fuels;Fuel Efficiency: 70%;Causes between 500 and 4000 Pollution per second;Added by: Alkalus - [GT++];Voltage OUT: 8,192 (IV);Capacity: 4,096,512 EU
+2784gregtech/gt.blockmachines-794.png0§a§lRocket Engine IV19-1This is the IV version. It has 70% efficiency, and produces 500 to 4000 pollution/s.ANDpre14131gregtech/gt.metaitem.01-32654.png26841miscutils/RocketFuelMixB-0.pngrewardsChoicemiscutils/RocketFuelMixB-0.pngRp-1 Rocket Fuel Cel;Can be used as rocket fuel up to tier 2
+16miscutils/RP1Fuel-0.pngRP-1 Cel
+24enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+2tasksANDRetrievalgregtech/gt.blockmachines-794.pngAdvanced Rocket Engin;Requires GT++ Rocket Fuels;Fuel Efficiency: 70%;Causes between 500 and 4000 Pollution per second;Added by: Alkalus - [GT++];Voltage OUT: 8,192 (IV);Capacity: 4,096,512 EU
 1

@@ -1,4 +1,4 @@
-2526thaumicenergistics/part.base-1.png0Essentia Level Emitter27-1Same as the other two, but for essentia.ANDpre25230appliedenergistics2/item.ItemMultiPart-280.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalthaumicenergistics/part.base-1.pngEssentia Level Emitter
+2526thaumicenergistics/part.base-1.png0Essentia Level Emitter27-1Same as the other two, but for essentia.ANDpre25230appliedenergistics2/item.ItemMultiPart-280.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+1tasksANDRetrievalthaumicenergistics/part.base-1.pngEssentia Level Emitte
 1

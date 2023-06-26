@@ -2,9 +2,9 @@
 
 You weren't prepared for it, so let get some stuff together first and enter a second time to get some wispy/disturbed cotton.
 
-If you haven't unlocked your Brewing stand yet, you have to do it first. Look in the Novice Thaumaturge tab for the quest.ANDpre15640minecraft/end_portal-0.pngrewardsItemAWWayofTime/alchemyFlask-6.pngPotion Flask;Swigs Left: 2/8;Flight (7:06);Durability: 2 / 8
-1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalwitchery/ingredient-78.pngIcy Needle
-4minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
+If you haven't unlocked your Brewing stand yet, you have to do it first. Look in the Novice Thaumaturge tab for the quest.ANDpre15640minecraft/end_portal-0.pngrewardsItemAWWayofTime/alchemyFlask-6.pngPotion Flas;Swigs Left: 2/8;Flight (7:06);Durability: 2 / 8
+1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
+5tasksANDRetrievalwitchery/ingredient-78.pngIcy Needl
+4minecraft/potion-8198.pngPotion of Night Visio;Night Vision (3:00)
 4

@@ -1,5 +1,5 @@
-7minecraft/carrot-0.png1§1§l...What You Sow0-1If you, by chance, did read the previous quest and planted the carrot I gave you, then you're fine. Meanwhile, you should turn some more fruits and vegetables into seeds, and increase the size of your farm to get a steady supply of food.ANDpre61minecraft/wheat_seeds-0.pngrewardsItemminecraft/potato-0.pngPotato;minecraft:potato
-5enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-5tasksANDRetrievalminecraft/carrot-0.pngCarrot;minecraft:carrot
+7minecraft/carrot-0.png1§1§l...What You Sow0-1If you, by chance, did read the previous quest and planted the carrot I gave you, then you're fine. Meanwhile, you should turn some more fruits and vegetables into seeds, and increase the size of your farm to get a steady supply of food.ANDpre61minecraft/wheat_seeds-0.pngrewardsItemminecraft/potato-0.pngPotat;minecraft:potato
+5enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
+5tasksANDRetrievalminecraft/carrot-0.pngCarro;minecraft:carrot
 10

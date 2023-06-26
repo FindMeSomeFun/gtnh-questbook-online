@@ -1,12 +1,12 @@
-2641dreamcraft/item.HeavyDutyPlateTier7-0.png1Tier 7 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 79 tier 7 heavy duty plates out of tier 6 plates and compressed mysterious crystal plates.ANDpre26691gregtech/gt.metaitem.01-11129.png27501GalaxySpace/proteusblocks-3.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
-10dreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plate
-20IC2/blockITNT-0.pngIndustrial TNT
-512enhancedlootbags/lootbag-43.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
-2Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
-1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-1tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
-79dreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plate
-948gregtech/gt.metaitem.01-26129.pngNeutronium Bolt;Nt
-790Optionaldreamcraft/item.HeavyDutyAlloyIngotT7-0.pngHeavy Duty Alloy Ingot T7
-79Retrievaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
+2641dreamcraft/item.HeavyDutyPlateTier7-0.png1Tier 7 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 79 tier 7 heavy duty plates out of tier 6 plates and compressed mysterious crystal plates.ANDpre26691gregtech/gt.metaitem.01-11129.png27501GalaxySpace/proteusblocks-3.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 
+10dreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plat
+20IC2/blockITNT-0.pngIndustrial TN
+512enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV;You feel that a bit more "Fortune" might be a good idea...
+2Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K
+1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K
+1tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 
+79dreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plat
+948gregtech/gt.metaitem.01-26129.pngNeutronium Bol;Nt
+790Optionaldreamcraft/item.HeavyDutyAlloyIngotT7-0.pngHeavy Duty Alloy Ingot T
+79Retrievaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 
 79

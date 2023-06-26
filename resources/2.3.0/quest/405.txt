@@ -1,15 +1,15 @@
-405witchery/infinityegg-0.png0The Power of Infinity39-1You've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.ANDpre3980witchery/babashat-0.png3990witchery/hornofthehunt-0.png4000minecraft/dragon_egg-0.png4010witchery/leonardsurn-0.png4020witchery/ingredient-141.png4030witchery/quiverofmog-0.png4040witchery/ingredient-23.png21110TConstruct/slime.gel-0.pngrewardsItemwitchery/infinityegg-0.pngInfinity Egg
-1Itemdreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K"
-1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
-1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
-1tasksANDConsumeminecraft/dragon_egg-0.pngDragon Egg
-1Consumewitchery/chalkheart-0.pngGolden Chalk
-1witchery/chalkinfernal-0.pngInfernal Chalk
-1witchery/chalkritual-0.pngRitual Chalk
-1witchery/chalkotherwhere-0.pngOtherwhere Chalk
-1Consumewitchery/ingredient-64.pngNecromantic Stone
-1witchery/ingredient-45.pngInfernal Animus
-8witchery/ingredient-80.pngDemonic Blood
-4witchery/ingredient-23.pngDemon Heart
-4ConsumeThaumcraft/ItemEldritchObject-3.pngPrimordial Pearl;The very fabric of magic seems ;to buckle each time it pulses.
+405witchery/infinityegg-0.png0The Power of Infinity39-1You've mastered everything possible. And now it's time to give your equipment the final boost. The infinity egg is just the right addition to your altar. It's quite expensive, but well worth the cost.ANDpre3980witchery/babashat-0.png3990witchery/hornofthehunt-0.png4000minecraft/dragon_egg-0.png4010witchery/leonardsurn-0.png4020witchery/ingredient-141.png4030witchery/quiverofmog-0.png4040witchery/ingredient-23.png21110TConstruct/slime.gel-0.pngrewardsItemwitchery/infinityegg-0.pngInfinity Eg
+1Itemdreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K
+1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K
+1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K
+1tasksANDConsumeminecraft/dragon_egg-0.pngDragon Eg
+1Consumewitchery/chalkheart-0.pngGolden Chal
+1witchery/chalkinfernal-0.pngInfernal Chal
+1witchery/chalkritual-0.pngRitual Chal
+1witchery/chalkotherwhere-0.pngOtherwhere Chal
+1Consumewitchery/ingredient-64.pngNecromantic Ston
+1witchery/ingredient-45.pngInfernal Animu
+8witchery/ingredient-80.pngDemonic Bloo
+4witchery/ingredient-23.pngDemon Hear
+4ConsumeThaumcraft/ItemEldritchObject-3.pngPrimordial Pear;The very fabric of magic seems ;to buckle each time it pulses.
 1

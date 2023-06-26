@@ -1,10 +1,10 @@
-656battlegear2/shield.iron-0.png0§1§2§lIron Shields14-1You've been using your hide shield long enough. After you make your first tools, grab a bit of iron ore and make a nice iron shield.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceminecraft/spawn_egg-54.pngSpawn Zombie
-1minecraft/spawn_egg-52.pngSpawn Spider
-1enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-5tasksANDOptionalTConstruct/heavyPlate-2.pngIron Large Plate;Reinforced I;Durability: 188;Mining Speed: 6;Attack: 1.5 Hearts;Parts can be replaced
-2TConstruct/toughBinding-2.pngIron Tough Binding;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
-1TConstruct/toughRod-2.pngIron Tough Rod;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
-2Craftingbattlegear2/shield.iron-0.pngIron Shield;3 s Block
+656battlegear2/shield.iron-0.png0§1§2§lIron Shields14-1You've been using your hide shield long enough. After you make your first tools, grab a bit of iron ore and make a nice iron shield.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceminecraft/spawn_egg-54.pngSpawn Zombi
+1minecraft/spawn_egg-52.pngSpawn Spide
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
+5tasksANDOptionalTConstruct/heavyPlate-2.pngIron Large Plat;Reinforced I;Durability: 188;Mining Speed: 6;Attack: 1.5 Hearts;Parts can be replaced
+2TConstruct/toughBinding-2.pngIron Tough Bindin;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
+1TConstruct/toughRod-2.pngIron Tough Ro;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
+2Craftingbattlegear2/shield.iron-0.pngIron Shiel;3 s Block
 1
