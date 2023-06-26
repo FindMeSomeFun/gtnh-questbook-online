@@ -1,11 +1,11 @@
 748gregtech/gt.metaitem.03-32101.png1§5§lEmpty Circuit Board4-1Good circuit boards require wooden pulp and refined glue to make phenolic circuit boards. By adding gold wire you can craft a good circuit board.
 
-§3There's more efficient ways to make it if you look in NEI.ANDpre971gregtech/gt.blockmachines-211.png7451gregtech/gt.metaitem.01-30726.pngrewardsChoicegregtech/gt.blockmachines-1420.png1x Gold Wir;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 4 EU-Volt
-8gregtech/gt.metaitem.01-29086.pngGold Foi;Au
-16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDOptionalgregtech/gt.metaitem.01-2809.pngWood Pul;Burn Time: 100
-2Optionalgregtech/gt.metaitem.01-32719.pngPhenolic Circuit Boar;A Good Board
-2Optionalgregtech/gt.blockmachines-1420.png1x Gold Wir;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 4 EU-Volt
-16Retrievalgregtech/gt.metaitem.03-32101.pngGood Circuit Boar;A good Circuit Board
+§3There's more efficient ways to make it if you look in NEI.ANDpre971gregtech/gt.blockmachines-211.png7451gregtech/gt.metaitem.01-30726.pngrewardsChoicegregtech/gt.blockmachines-1420.png1x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 4 EU-Volt
+8gregtech/gt.metaitem.01-29086.pngGold Foil;Au
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDOptionalgregtech/gt.metaitem.01-2809.pngWood Pulp;Burn Time: 100
+2Optionalgregtech/gt.metaitem.01-32719.pngPhenolic Circuit Board;A Good Board
+2Optionalgregtech/gt.blockmachines-1420.png1x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 4 EU-Volt
+16Retrievalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
 2

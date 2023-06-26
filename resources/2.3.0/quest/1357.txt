@@ -1,4 +1,4 @@
-1357EMT/ElectricHoeGrowth-1-charged.png0Electric Hoe-ing34-1While the Hoe of Growth breaks easily, we have a fix for you! Get this one and simply recharge it when it's empty.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalEMT/ElectricHoeGrowth-1561.pngElectric Hoe of Growt;Power Tier: 2;Durability: 0 / 1561;Durability: 0/1561
+1357EMT/ElectricHoeGrowth-1-charged.png0Electric Hoe-ing34-1While the Hoe of Growth breaks easily, we have a fix for you! Get this one and simply recharge it when it's empty.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalEMT/ElectricHoeGrowth-1561.pngElectric Hoe of Growth;Power Tier: 2;Durability: 0 / 1561;Durability: 0/1561
 1

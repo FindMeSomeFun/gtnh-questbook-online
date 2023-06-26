@@ -1,3 +1,3 @@
-1163gregtech/gt.blockmachines-1360.png0Copper Wire4024000Want some copper wires? Buy some!ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.blockmachines-1360.png1x Copper Wir;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-32tasksANDConsumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
+1163gregtech/gt.blockmachines-1360.png0Copper Wire4024000Want some copper wires? Buy some!ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
+32tasksANDConsumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30

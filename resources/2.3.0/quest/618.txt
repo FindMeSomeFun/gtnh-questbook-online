@@ -1,7 +1,7 @@
 618gregtech/gt.metaitem.01-30720.png0§5§lSulfuric Acid4-1Combining sulfur trioxide and water in the chemical reactor will give you sulfuric acid for your single use acid batteries. You'll need to make sulfur dioxide first.
 
-On the other hand if you've made some light fuel you'll have some spare hydrogen sulfide you can also turn into sulfuric acid (after a couple steps), and if you've automated it, you'll be drowning in it honestly. Once you can make an LCR, you can skip directly from HS to SA in one step. Keep in mind that you'll need all that acid for making stuff instead of for single use batteries by then.ANDpre6170gregtech/gt.blockmachines-431.pngrewardsItemgregtech/gt.metaitem.01-2022.pngSulfur Dus;S;Burn Time: 1600
-8gregtech/gt.metaitem.01-30013.pngOxygen Cel;O
-16Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-15tasksANDRetrievalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cel;H\u2082SO\u2084
+On the other hand if you've made some light fuel you'll have some spare hydrogen sulfide you can also turn into sulfuric acid (after a couple steps), and if you've automated it, you'll be drowning in it honestly. Once you can make an LCR, you can skip directly from HS to SA in one step. Keep in mind that you'll need all that acid for making stuff instead of for single use batteries by then.ANDpre6170gregtech/gt.blockmachines-431.pngrewardsItemgregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
+8gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+16Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
 1

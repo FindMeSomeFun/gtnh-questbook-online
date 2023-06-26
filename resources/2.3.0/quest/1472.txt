@@ -6,13 +6,13 @@ For best results, aim the Grapple at a point 1 or 2 blocks higher than the point
 
 If there is no safe platform to land at that point, you can fall back down and you will take fall damage, so it takes some skill to use the Grapple safely.
 
-Take care using the Grapple near a Nether Portal, End Portal or at a low height (less than Y30) on a Space Station. There can be strange consequences if it crosses into another dimension.ANDpre14621GalacticraftMars/item.thermalPadding-1.pngrewardsChoicegregtech/gt.metaitem.01-32500.pngSmall Battery Hul;An empty LV Battery Hull
-16dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron Strin
-16gregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingo;SpFe\u2085\u2080C
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-5tasksANDOptionalgregtech/gt.metaitem.02-14341.pngMeteoric Steel Arrow Hea;SpFe\u2085\u2080C
-1dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron Strin
-3gregtech/gt.metaitem.01-28341.pngMeteoric Steel Rin;SpFe\u2085\u2080C
-1RetrievalGalacticraftMars/item.grapple-0.pngGrappl;Durability: 384/384
+Take care using the Grapple near a Nether Portal, End Portal or at a low height (less than Y30) on a Space Station. There can be strange consequences if it crosses into another dimension.ANDpre14621GalacticraftMars/item.thermalPadding-1.pngrewardsChoicegregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
+16dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
+16gregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingot;SpFe\u2085\u2080C
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.02-14341.pngMeteoric Steel Arrow Head;SpFe\u2085\u2080C
+1dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
+3gregtech/gt.metaitem.01-28341.pngMeteoric Steel Ring;SpFe\u2085\u2080C
+1RetrievalGalacticraftMars/item.grapple-0.pngGrapple;Durability: 384/384
 1

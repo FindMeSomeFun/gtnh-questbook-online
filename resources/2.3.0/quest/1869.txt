@@ -1,6 +1,6 @@
 1869gregtech/gt.blockmachines-1116.png0§6§lThe Church of Benzene's Holy Altar19-1The MV Gas Turbine pairs excellently with Benzene, now that you can actually make it. Look at the "Bio for the Masses" tab for more details on how to go about it, or just check NEI. Benzene is renewable from trees, and it's a powerful source of EU that can keep you going for several tiers as long as you upgrade it with the new multiblocks you unlock over time.
 
-It's a good idea to switch off Steam, since you need big pipes to carry that around and the fuel efficiency on Steam Turbines is lower. Instead, make a Pyrolyse Oven or an Advanced Coke Oven to make Charcoal faster, extract Benzene from it and run it through a few of these Gas Turbines.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.01-30686.pngBenzene Cel;C\u2086H\u2086
-16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.blockmachines-1116.pngAdvanced Gas Turbin;Requires flammable Gasses;Causes 36 Pollution per second;Fuel Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 10,752 EU
+It's a good idea to switch off Steam, since you need big pipes to carry that around and the fuel efficiency on Steam Turbines is lower. Instead, make a Pyrolyse Oven or an Advanced Coke Oven to make Charcoal faster, extract Benzene from it and run it through a few of these Gas Turbines.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-1116.pngAdvanced Gas Turbine;Requires flammable Gasses;Causes 36 Pollution per second;Fuel Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 10,752 EU
 1

@@ -1,3 +1,3 @@
-2016StevesFactoryManager/BlockCableBreakerName-0.png0Block Gate26-1The Block Gate can break, pickup, or place blocks.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableBreakerName-0.pngBlock Gat
-1tasksANDRetrievalStevesFactoryManager/BlockCableBreakerName-0.pngBlock Gat
+2016StevesFactoryManager/BlockCableBreakerName-0.png0Block Gate26-1The Block Gate can break, pickup, or place blocks.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableBreakerName-0.pngBlock Gate
+1tasksANDRetrievalStevesFactoryManager/BlockCableBreakerName-0.pngBlock Gate
 1

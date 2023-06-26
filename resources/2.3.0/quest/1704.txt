@@ -1,8 +1,8 @@
-1704gregtech/gt.metaitem.01-2591.png1§b§lChromium Trioxide8-1Chromium Trioxide is made out of chrome and oxygen in two steps. First you make Chromium Dioxide and then Chromium Trioxide.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-5tasksANDOptionalgregtech/gt.metaitem.01-2030.pngChrome Dus;Cr
-2gregtech/gt.metaitem.01-30013.pngOxygen Cel;O
-6Optionalgregtech/gt.metaitem.01-2361.pngChromium Dioxide Dus;CrO\u2082
-6Retrievalgregtech/gt.metaitem.01-2591.pngChromium Trioxide Dus;CrO\u2083
+1704gregtech/gt.metaitem.01-2591.png1§b§lChromium Trioxide8-1Chromium Trioxide is made out of chrome and oxygen in two steps. First you make Chromium Dioxide and then Chromium Trioxide.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-2030.pngChrome Dust;Cr
+2gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+6Optionalgregtech/gt.metaitem.01-2361.pngChromium Dioxide Dust;CrO\u2082
+6Retrievalgregtech/gt.metaitem.01-2591.pngChromium Trioxide Dust;CrO\u2083
 8

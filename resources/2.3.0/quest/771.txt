@@ -1,4 +1,4 @@
-771gregtech/gt.blockmachines-571.png0§5§lDust to Crystals4-1Use the autoclave to crystallize your dust. You can also make raw carbon mesh out of carbon dust, and do other things.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalgregtech/gt.blockmachines-571.pngBasic Autoclav;Crystallizing your Dusts;Voltage IN: 32 (LV);Capacity: 2,048 EU
+771gregtech/gt.blockmachines-571.png0§5§lDust to Crystals4-1Use the autoclave to crystallize your dust. You can also make raw carbon mesh out of carbon dust, and do other things.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-571.pngBasic Autoclave;Crystallizing your Dusts;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

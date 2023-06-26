@@ -1,8 +1,8 @@
 3088gregtech/gt.metaitem.01-11069.png1§b§lFinally, Samarium!8-1(And Gadolinium)
 
-Easy, right? Not to worry, there's always the bastnasite line to stay your hunger for complex lines!ANDpre30861bartworks/gt.bwMetaGenerateddust-11034.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-4enhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV;Your luck is increased by 100 %;Fortune III
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11034.pngSamaric Residue Dus;??SmGd??;Added by GTNH: Lanthanides via BartWorks
-3Retrievalgregtech/gt.metaitem.01-2069.pngSamarium Dus;Sm
-2gregtech/gt.metaitem.01-2071.pngGadolinium Dus;Gd
+Easy, right? Not to worry, there's always the bastnasite line to stay your hunger for complex lines!ANDpre30861bartworks/gt.bwMetaGenerateddust-11034.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV);Your luck is increased by 100 %;Fortune III
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11034.pngSamaric Residue Dust;??SmGd??;Added by GTNH: Lanthanides via BartWorks
+3Retrievalgregtech/gt.metaitem.01-2069.pngSamarium Dust;Sm
+2gregtech/gt.metaitem.01-2071.pngGadolinium Dust;Gd
 1

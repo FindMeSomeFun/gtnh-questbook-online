@@ -1,4 +1,4 @@
-1846BuildCraftFactory/floodGateBlock-0.png0§5§lFilling the World With Fluids...4-1Need to make a lake? Look no further than the Flood Gate. It will fill the world with any fluid you provide it, up to the level below the gate. This can get kinda laggy in a large area, so keep that in mind.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDRetrievalBuildCraftFactory/floodGateBlock-0.pngFlood Gat
+1846BuildCraftFactory/floodGateBlock-0.png0§5§lFilling the World With Fluids...4-1Need to make a lake? Look no further than the Flood Gate. It will fill the world with any fluid you provide it, up to the level below the gate. This can get kinda laggy in a large area, so keep that in mind.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalBuildCraftFactory/floodGateBlock-0.pngFlood Gate
 1

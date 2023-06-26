@@ -1,11 +1,11 @@
-1166minecraft/quartz_ore-0.png0§5§lQuartzite Veins4-1The Nether is full of different kinds of quartz. Go and find a quartzite vein. They're located between Y 80-120. It might be hard to find one, because that area is usually air, you'll just have to keep looking.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfas;harvestcraft:heartybreakfastItem
-1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizz;harvestcraft:meatfeastpizzaItem
-1Choiceminecraft/nether_wart-0.pngNether War
-16minecraft/ghast_tear-0.pngGhast Tea
-2minecraft/blaze_rod-0.pngBlaze Ro;Burn Time: 2400
-2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
-15tasksANDRetrievalgregtech/gt.blockores-1523.pngQuartzite Or;SiO\u2082
-32gregtech/gt.blockores-1904.pngBarite Or;BaSO\u2084
-16gregtech/gt.blockores-1516.pngCertus Quartz Or;SiO\u2082
+1166minecraft/quartz_ore-0.png0§5§lQuartzite Veins4-1The Nether is full of different kinds of quartz. Go and find a quartzite vein. They're located between Y 80-120. It might be hard to find one, because that area is usually air, you'll just have to keep looking.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
+1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
+1Choiceminecraft/nether_wart-0.pngNether Wart
+16minecraft/ghast_tear-0.pngGhast Tear
+2minecraft/blaze_rod-0.pngBlaze Rod;Burn Time: 2400
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+15tasksANDRetrievalgregtech/gt.blockores-1523.pngQuartzite Ore;SiO\u2082
+32gregtech/gt.blockores-1904.pngBarite Ore;BaSO\u2084
+16gregtech/gt.blockores-1516.pngCertus Quartz Ore;SiO\u2082
 32

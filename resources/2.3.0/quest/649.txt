@@ -4,15 +4,15 @@ Put your jetpack on your back and hit Shift and the adventure backpack's action-
 
 Max flying height for this jetpack is Y-185.
 
-Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsChoiceRailcraft/fuel.coke-0.pngCoal Cok;Burn Time: 3200
-16gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pip;Fluid Capacity: 800 L/sec;Heat Limit: 2,500 K
-3enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDOptionalRailcraft/machine.beta-5.pngSolid Fueled Boiler Firebo;Multi-Block: Variable Size, Bottom Layer;Dimensions: 1x1, 2x2, 3x3;Mobs cannot Spawn on this Block
-1adventurebackpack/backpackComponent-2.pngBackpack Tan
-2gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pip;Fluid Capacity: 800 L/sec;Heat Limit: 2,500 K
-2gregtech/gt.metaitem.01-17019.pngAluminium Plat;Al
-2gregtech/gt.metaitem.01-27305.pngSteel Scre;Fe\u2085\u2080C
-1gregtech/gt.metaitem.01-32601.pngElectric Motor (MV
-1Retrievaladventurebackpack/coalJetpack-0.pngCoal Jetpac
+Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsChoiceRailcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
+16gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pipe;Fluid Capacity: 800 L/sec;Heat Limit: 2,500 K
+3enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDOptionalRailcraft/machine.beta-5.pngSolid Fueled Boiler Firebox;Multi-Block: Variable Size, Bottom Layer;Dimensions: 1x1, 2x2, 3x3;Mobs cannot Spawn on this Block
+1adventurebackpack/backpackComponent-2.pngBackpack Tank
+2gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pipe;Fluid Capacity: 800 L/sec;Heat Limit: 2,500 K
+2gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
+2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+1gregtech/gt.metaitem.01-32601.pngElectric Motor (MV)
+1Retrievaladventurebackpack/coalJetpack-0.pngCoal Jetpack
 1

@@ -2,15 +2,15 @@
 
 First you need to make brass out of zinc (only found in small ores in the Overworld, in Nether Sphalerite, or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with aluminium and cobalt dust (you can get it as a byproduct of a couple ores, go searching in the nether, or go to the Twilight Forest for Cobaltite) to get the cobalt brass dust.
 
-Now that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.ANDpre911gregtech/gt.metaitem.01-32630.pngrewardsItemgregtech/gt.metaitem.02-32222.pngCheeseburge;gregtech:gt.metaitem.02;Cheesy!
-2Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
-3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dus;Cu
-9gregtech/gt.metaitem.01-2036.pngZinc Dus;Zn
-3Optionalgregtech/gt.metaitem.01-2301.pngBrass Dus;ZnCu\u2083
-9Optionalgregtech/gt.metaitem.01-2301.pngBrass Dus;ZnCu\u2083
-7gregtech/gt.metaitem.01-2019.pngAluminium Dus;Al
-1gregtech/gt.metaitem.01-2033.pngCobalt Dus;Co
-1Retrievalgregtech/gt.metaitem.01-2343.pngCobalt Brass Dus;(ZnCu\u2083)\u2087AlCo
+Now that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.ANDpre911gregtech/gt.metaitem.01-32630.pngrewardsItemgregtech/gt.metaitem.02-32222.pngCheeseburger;gregtech:gt.metaitem.02;Cheesy!
+2Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+9gregtech/gt.metaitem.01-2036.pngZinc Dust;Zn
+3Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+9Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+7gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
+1gregtech/gt.metaitem.01-2033.pngCobalt Dust;Co
+1Retrievalgregtech/gt.metaitem.01-2343.pngCobalt Brass Dust;(ZnCu\u2083)\u2087AlCo
 8

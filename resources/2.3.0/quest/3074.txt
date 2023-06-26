@@ -6,10 +6,10 @@ As you can see, the speed is directly proportional to hull temperature and rods 
 
 erp=bpO50cpsdtJElVqn4hObFJc0tiOE0JpEHYpqTxJHvyezjSKRjUuwgouXzNOlU4a3hFBRygM=
 
-Replace Containment Reactor Plating with actual Glowstone rods and you should be good to go. You can also use fewer reactor chambers by using less plating. Enjoy!ANDpre1900IC2/blockGenerator-5.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piec
-1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalgregtech/gt.glowstoneCell-0.pngGlowstone Fuel Ro;10000 / 10000;Source of sunnarium;Bath with neutron in a hot reactor;Progress: 0/10,000
-1Retrievalgregtech/gt.sunnariumCell-0.pngSunnarium Fuel Ro;100 / 100;Durability: 1/1
-1Retrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dus;Su
+Replace Containment Reactor Plating with actual Glowstone rods and you should be good to go. You can also use fewer reactor chambers by using less plating. Enjoy!ANDpre1900IC2/blockGenerator-5.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
+1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.glowstoneCell-0.pngGlowstone Fuel Rod;10000 / 10000;Source of sunnarium;Bath with neutron in a hot reactor;Progress: 0/10,000
+1Retrievalgregtech/gt.sunnariumCell-0.pngSunnarium Fuel Rod;100 / 100;Durability: 1/1
+1Retrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
 1

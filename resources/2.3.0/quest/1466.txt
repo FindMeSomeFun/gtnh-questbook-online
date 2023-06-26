@@ -2,10 +2,10 @@
 
 An Ambient Thermal Controller is useful in the dimensions too cold or too hot for players to survive without Thermal Padding.
 
-It can be placed in the 3rd slot next to the energy and oxygen slots in a working Oxygen Sealer. Once the Ambient Thermal Controller is in the sealer, it will heat or cool the output oxygen according to the local environment, and then the player can safely take the thermal padding off in the sealed room. Though there's absolutely no reason to do so.ANDpre14670GalacticraftCore/tile.sealer-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pip;Glass-Tier: HV
-10GalacticraftMars/item.null-5.pngCompressed Des
-2GalacticraftCore/item.basicItem-13.pngBasic Wafe
-2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDRetrievalGalacticraftCore/item.basicItem-20.pngAmbient Thermal Controlle
+It can be placed in the 3rd slot next to the energy and oxygen slots in a working Oxygen Sealer. Once the Ambient Thermal Controller is in the sealer, it will heat or cool the output oxygen according to the local environment, and then the player can safely take the thermal padding off in the sealed room. Though there's absolutely no reason to do so.ANDpre14670GalacticraftCore/tile.sealer-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
+10GalacticraftMars/item.null-5.pngCompressed Desh
+2GalacticraftCore/item.basicItem-13.pngBasic Wafer
+2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalGalacticraftCore/item.basicItem-20.pngAmbient Thermal Controller
 1

@@ -2,11 +2,11 @@
 
 You will find small meteoric iron ore under the surface. Use an HV miner or multiblock miner to get extra fortune on small ores. Small meteoric iron is only from Y 50-70, so try to find tall hills.
 
-You can also just mine the fallen meteors on the surface. Use your ears to listen to their impacts.ANDpre14331GalacticraftCore/tile.moonBlock-14.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1GalacticraftCore/item.oxygenTankLightFull-0.pngLight Oxygen Tan;Oxygen Remaining: 1000
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-2tasksORRetrievalgregtech/gt.metaitem.01-5340.pngCrushed Meteoric Iron Or;SpFe
-32Retrievalgregtech/gt.metaitem.01-3340.pngImpure Pile of Meteoric Iron Dus;SpFe;Throw into Cauldron to get clean Dust
-32RetrievalGalacticraftCore/item.meteoricIronRaw-0.pngRaw Meteoric Iro
+You can also just mine the fallen meteors on the surface. Use your ears to listen to their impacts.ANDpre14331GalacticraftCore/tile.moonBlock-14.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1GalacticraftCore/item.oxygenTankLightFull-0.pngLight Oxygen Tank;Oxygen Remaining: 1000
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2tasksORRetrievalgregtech/gt.metaitem.01-5340.pngCrushed Meteoric Iron Ore;SpFe
+32Retrievalgregtech/gt.metaitem.01-3340.pngImpure Pile of Meteoric Iron Dust;SpFe;Throw into Cauldron to get clean Dust
+32RetrievalGalacticraftCore/item.meteoricIronRaw-0.pngRaw Meteoric Iron
 16

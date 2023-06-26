@@ -1,10 +1,10 @@
 3101gregtech/gt.metaitem.01-30713.png0Extracting the Oil22-1Each option generates a different amount of oil, but this should be the limiting factor in your Biodiesel production regardless of which you choose. This step is always slow, for better or for worse, so your job is add more plants or more fish to the system. You might get byproducts, especially with fish, so deal with them accordingly. 
 
-You can upgrade the setup you have when you get to the next tier, or switch what you're using later. Either way, get some oil.ANDpre30990gregtech/gt.metaitem.02-32557.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cel
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-1tasksANDOptionalgregtech/gt.metaitem.01-30713.pngSeed Oil Cel
-40Optionalgregtech/gt.metaitem.01-30711.pngFish Oil Cel
-40Retrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extracto;Extracting Fluids from Items;Voltage IN: 128 (MV);Capacity: 8,192 EU
+You can upgrade the setup you have when you get to the next tier, or switch what you're using later. Either way, get some oil.ANDpre30990gregtech/gt.metaitem.02-32557.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+1tasksANDOptionalgregtech/gt.metaitem.01-30713.pngSeed Oil Cell
+40Optionalgregtech/gt.metaitem.01-30711.pngFish Oil Cell
+40Retrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extractor;Extracting Fluids from Items;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

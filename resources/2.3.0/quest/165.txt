@@ -1,7 +1,7 @@
-165EnderIO/blockSoulBinder-0.png0§9§lSoul Eater6-1Wouldn't it be great to actually make use of the intelligence or abilities a certain creature has? For example: enderman teleportation or brain capacity of a zombie for simple logic? (He doesn't use it anyway...) With this machine, you're able to bind a captured soul to an item, which can then be used in machines to improve their functionality, or create them to begin with.ANDpre1460EnderIO/blockSliceAndSplice-0.png1680EnderIO/itemSoulVessel-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1EnderIO/itemSoulVessel-0.pngSoul Via;Empty
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalEnderIO/blockSoulBinder-0.pngSoul Binde
+165EnderIO/blockSoulBinder-0.png0§9§lSoul Eater6-1Wouldn't it be great to actually make use of the intelligence or abilities a certain creature has? For example: enderman teleportation or brain capacity of a zombie for simple logic? (He doesn't use it anyway...) With this machine, you're able to bind a captured soul to an item, which can then be used in machines to improve their functionality, or create them to begin with.ANDpre1460EnderIO/blockSliceAndSplice-0.png1680EnderIO/itemSoulVessel-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1EnderIO/itemSoulVessel-0.pngSoul Vial;Empty
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalEnderIO/blockSoulBinder-0.pngSoul Binder
 1

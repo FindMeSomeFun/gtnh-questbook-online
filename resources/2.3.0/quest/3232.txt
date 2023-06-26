@@ -2,11 +2,11 @@
 
 Turns out they have since been talking to a mysterious individual they call the §oDream Master§r. Apparently that sparked an industrial revolution among the Alfar. Sadly, that means that they now insist on receiving the latest fashion in machinery to fuel their ever-expanding factories, in exchange for the elven materials that are now rapidly going out of fashion.
 
-Someone needs to have a word with this guy...ANDpre32301Botania/pylon-1.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000
-5tasksANDRetrievalBotania/manaResource-8.pngPixie Dus
-1Botania/manaResource-9.pngDragonston
-1Botania/dreamwood-0.pngDreamwoo;Mobs cannot Spawn on this Block;Burn Time: 300
-1Botania/manaResource-7.pngElementium Ingo
-1Botania/elfGlass-0.pngAlfglas;Mobs cannot Spawn on this Block;Glass-Tier: IV
-1Botania/quartz-5.pngElven Quart
+Someone needs to have a word with this guy...ANDpre32301Botania/pylon-1.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000"
+5tasksANDRetrievalBotania/manaResource-8.pngPixie Dust
+1Botania/manaResource-9.pngDragonstone
+1Botania/dreamwood-0.pngDreamwood;Mobs cannot Spawn on this Block;Burn Time: 300
+1Botania/manaResource-7.pngElementium Ingot
+1Botania/elfGlass-0.pngAlfglass;Mobs cannot Spawn on this Block;Glass-Tier: IV
+1Botania/quartz-5.pngElven Quartz
 1

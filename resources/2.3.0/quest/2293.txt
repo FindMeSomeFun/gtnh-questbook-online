@@ -1,10 +1,10 @@
-2293miscutils/NitrogenTetroxide-0.png0§b§a§9§lNitrogen Tetroxide24-1To make Nitrogen Tetroxide you need to combine some Copper Dust and Nitric Acid along with an Orange Metal Catalyst in a Chemical Plant. It needs Palladium, so make sure you have some.ANDpre8511gregtech/gt.metaitem.01-30653.png26881miscutils/RocketFuelMixC-0.png28781gregtech/gt.metaitem.01-2052.pngrewardsChoicegregtech/gt.metaitem.01-30653.pngNitric Acid Cel;HNO\u2083
-16IC2/itemCellEmpty-0.pngEmpty Cel
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dus;Cu
-2gregtech/gt.metaitem.01-30653.pngNitric Acid Cel;HNO\u2083
-4miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalys;Active Reaction Agent;50 / 50
-1Optionalmiscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cel
+2293miscutils/NitrogenTetroxide-0.png0§b§a§9§lNitrogen Tetroxide24-1To make Nitrogen Tetroxide you need to combine some Copper Dust and Nitric Acid along with an Orange Metal Catalyst in a Chemical Plant. It needs Palladium, so make sure you have some.ANDpre8511gregtech/gt.metaitem.01-30653.png26881miscutils/RocketFuelMixC-0.png28781gregtech/gt.metaitem.01-2052.pngrewardsChoicegregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+16IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+4miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst;Active Reaction Agent;50 / 50
+1Optionalmiscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cell
 2Checkboxcheckbox-.pngCheckbox
 1

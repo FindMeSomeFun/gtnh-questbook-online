@@ -1,7 +1,7 @@
 3123gregtech/gt.metaitem.01-30715.png0Methane Stinks22-1The output you'll get the most of, in the Fermented Biomass DT, is Methane. 6/10 of the input amount will become Methane, and this makes for the best choice for powering your powergen, even if other outputs can also serve as fuel options. It's important to remember that Methane is used in several important chemical lines, such as PTFE and Silicone Rubber, but you'll get much more of it than you need for those purposes.
 
-The Methane you get from one DT can power it 4 times. Using 1/4 of your power there, you can fuel the singleblock machines you're using, and the wood automation source as well if you feel like it. Regardless, this setup should fuel itself just fine.ORpre31160gregtech/gt.metaitem.01-30677.png31210gregtech/gt.metaitem.01-30691.pngrewardsItemminecraft/spawn_egg-92.pngSpawn Co
-1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-2tasksANDRetrievalgregtech/gt.metaitem.01-30715.pngMethane Cel;CH\u2084
+The Methane you get from one DT can power it 4 times. Using 1/4 of your power there, you can fuel the singleblock machines you're using, and the wood automation source as well if you feel like it. Regardless, this setup should fuel itself just fine.ORpre31160gregtech/gt.metaitem.01-30677.png31210gregtech/gt.metaitem.01-30691.pngrewardsItemminecraft/spawn_egg-92.pngSpawn Cow
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2tasksANDRetrievalgregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
 64

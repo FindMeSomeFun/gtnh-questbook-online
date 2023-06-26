@@ -2,9 +2,9 @@
 
 To start, LV is the tier of Light Fuel. It is worth much more than the Oil itself for generating power, so you should distill and dessulfurize the Oil to get clean Light Fuel and use it for power. It's a great way to run your base, and can be upgraded further in the next tiers. Check the "Working with Oil" tab for more information, once you've made a Pump and found some Oil.
 
-§3If you're dealing with Oil processing, this is the type of generator you'll use the most.§rANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cel
-8gregtech/gt.metaitem.01-30708.pngDiesel Cel
-4gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cel;Can be used as rocket fuel up to tier 2
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalgregtech/gt.blockmachines-1110.pngBasic Combustion Generato;Requires liquid Fuel;Causes 40 Pollution per second;Fuel Efficiency: 95%;Voltage OUT: 32 (LV);Capacity: 3,072 EU
+§3If you're dealing with Oil processing, this is the type of generator you'll use the most.§rANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
+8gregtech/gt.metaitem.01-30708.pngDiesel Cell
+4gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-1110.pngBasic Combustion Generator;Requires liquid Fuel;Causes 40 Pollution per second;Fuel Efficiency: 95%;Voltage OUT: 32 (LV);Capacity: 3,072 EU
 1

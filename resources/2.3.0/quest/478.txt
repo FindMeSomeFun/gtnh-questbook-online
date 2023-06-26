@@ -2,16 +2,16 @@
 
 Note: The ball of moss gives a tinker's tool self-repair. But if the tool is completely broken, it won't repair it.
 
-Note that the flint and steel can take a few times to work.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemminecraft/bow-0.pngBo;Durability: 384/384
-1minecraft/arrow-0.pngArro
-32TConstruct/materials-6.pngBall of Mos;Tool Modifier: Auto-Repair
-1Choiceminecraft/obsidian-0.pngObsidia
-16enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDOptionalgregtech/gt.metaitem.01-23305.pngSteel Ro;Fe\u2085\u2080C
-3gregtech/gt.metaitem.01-17305.pngSteel Plat;Fe\u2085\u2080C
-1minecraft/flint-0.pngFlin
-1Optionalgregtech/gt.metaitem.02-23305.pngSmall Steel Sprin;Fe\u2085\u2080C
-1gregtech/gt.metaitem.02-20305.pngSmall Steel Gea;Fe\u2085\u2080C
-1Craftingminecraft/flint_and_steel-0.pngFlint and Stee
+Note that the flint and steel can take a few times to work.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemminecraft/bow-0.pngBow;Durability: 384/384
+1minecraft/arrow-0.pngArrow
+32TConstruct/materials-6.pngBall of Moss;Tool Modifier: Auto-Repair
+1Choiceminecraft/obsidian-0.pngObsidian
+16enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
+3gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+1minecraft/flint-0.pngFlint
+1Optionalgregtech/gt.metaitem.02-23305.pngSmall Steel Spring;Fe\u2085\u2080C
+1gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
+1Craftingminecraft/flint_and_steel-0.pngFlint and Steel
 1

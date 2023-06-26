@@ -1,5 +1,5 @@
 206IC2/reactorVent-1.png0§6§lVenting the Heat5-1A low tech method to cool down the hot coolant is to use vent covers. Just place the cover on any GregTech block which can contain IC2 coolant and place water in front. The easiest might be just a tank or pipe. This will help until you have access to a Large Heat Exchanger or a Vacuum Freezer.
 
-An advanced or overclocked reactor vent is much faster than a basic heat vent but you can't make those yet. Those covers also work with a air in front, but the basic heat vent needs a water block in front. Obviously, all vent covers are faster with water in front than with just air.ANDpre30731IC2/itemCellEmpty-9.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalIC2/reactorVent-1.pngHeat Ven
+An advanced or overclocked reactor vent is much faster than a basic heat vent but you can't make those yet. Those covers also work with a air in front, but the basic heat vent needs a water block in front. Obviously, all vent covers are faster with water in front than with just air.ANDpre30731IC2/itemCellEmpty-9.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalIC2/reactorVent-1.pngHeat Vent
 1

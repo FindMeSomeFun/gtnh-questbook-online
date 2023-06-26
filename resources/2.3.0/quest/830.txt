@@ -1,11 +1,11 @@
 830GalacticraftCore/item.parachute-13.png1Parachute24-1A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.
 
-Use the assembler to save materials.ANDpre8221GalacticraftCore/item.oxygenGear-0.pngrewardsChoiceGalacticraftCore/item.canvas-0.pngCanva
-6gregtech/gt.metaitem.02-32415.pngRed Dy
-16gregtech/gt.metaitem.02-32418.pngBlue Dy
-16gregtech/gt.metaitem.02-32416.pngGreen Dy
-16gregtech/gt.metaitem.02-32425.pngYellow Dy
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalGalacticraftCore/item.parachute-0.pngParachut
+Use the assembler to save materials.ANDpre8221GalacticraftCore/item.oxygenGear-0.pngrewardsChoiceGalacticraftCore/item.canvas-0.pngCanvas
+6gregtech/gt.metaitem.02-32415.pngRed Dye
+16gregtech/gt.metaitem.02-32418.pngBlue Dye
+16gregtech/gt.metaitem.02-32416.pngGreen Dye
+16gregtech/gt.metaitem.02-32425.pngYellow Dye
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalGalacticraftCore/item.parachute-0.pngParachute
 1

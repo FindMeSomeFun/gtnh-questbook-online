@@ -1,4 +1,4 @@
-510gendustry/Labware-0.png0Diamondware28-1Also known as labware. Be prepared. In order to do serious bee-work, you need stacks of diamonds. I'm not joking, stacks! Better start working on that diamond bee!ANDpre5150gendustry/GeneTemplate-0.pngrewardsItemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
-5enhancedlootbags/lootbag-25.pngLootBag (Bees Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgendustry/Labware-0.pngGenetics Labwar
+510gendustry/Labware-0.png0Diamondware28-1Also known as labware. Be prepared. In order to do serious bee-work, you need stacks of diamonds. I'm not joking, stacks! Better start working on that diamond bee!ANDpre5150gendustry/GeneTemplate-0.pngrewardsItemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5enhancedlootbags/lootbag-25.pngLootBag (Bees Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgendustry/Labware-0.pngGenetics Labware
 256

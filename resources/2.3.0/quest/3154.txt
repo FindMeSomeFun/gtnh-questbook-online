@@ -2,11 +2,11 @@
 
 After doing this, there's no direct EU generation anymore. The main output of a working fluid nuke is Hot Coolant, a fluid that can be turned into Steam or Superheated Steam in another multi, the Large Heat Exchanger (LHE). Steam means power, as you already know, so the obvious chain of processes here is a fluid nuke into an LHE, and then into Steam Turbines. These added steps are required to make EU from a nuke of this type (or, at least, they're the most popular way of doing it), but this work is rewarded by the final EU/t output of the setup, which is much larger than a regular nuke's output with the same amount of fuel.
 
-The difference exists because regular nukes actually have a 50% penalty to EU/t. It's such a big step-up that, in reality, one fluid nuke is enough for IV power, if it's powerful enough. The one in this quest, though, is not that one, because fluid nukes in general have some additional complications that will be harder to deal with it. In fact, for this, you have the option to use Thorium as fuel and still get a good amount of power! What you will need are the fluid nuke blocks, but there is an optional task for this setup that only needs some blocks from the setup.ANDpre31480IC2/fluidSuperheatedSteam-0.pngrewardstasksANDOptionalIC2/blockGenerator-5.pngNuclear Reacto;Power Output: 1-8196 EU/t max
-1IC2/blockReactorChamber-0.pngReactor Chambe
-6OptionalIC2/blockreactorvessel-0.pngReactor Pressure Vesse
-92IC2/blockReactorFluidPort-0.pngReactor Fluid Por
-2IC2/blockReactorAccessHatch-0.pngReactor Access Hatc
-2IC2/blockReactorRedstonePort-0.pngReactor Redstone Por
-2RetrievalIC2/blockreactorvessel-0.pngReactor Pressure Vesse
+The difference exists because regular nukes actually have a 50% penalty to EU/t. It's such a big step-up that, in reality, one fluid nuke is enough for IV power, if it's powerful enough. The one in this quest, though, is not that one, because fluid nukes in general have some additional complications that will be harder to deal with it. In fact, for this, you have the option to use Thorium as fuel and still get a good amount of power! What you will need are the fluid nuke blocks, but there is an optional task for this setup that only needs some blocks from the setup.ANDpre31480IC2/fluidSuperheatedSteam-0.pngrewardstasksANDOptionalIC2/blockGenerator-5.pngNuclear Reactor;Power Output: 1-8196 EU/t max
+1IC2/blockReactorChamber-0.pngReactor Chamber
+6OptionalIC2/blockreactorvessel-0.pngReactor Pressure Vessel
+92IC2/blockReactorFluidPort-0.pngReactor Fluid Port
+2IC2/blockReactorAccessHatch-0.pngReactor Access Hatch
+2IC2/blockReactorRedstonePort-0.pngReactor Redstone Port
+2RetrievalIC2/blockreactorvessel-0.pngReactor Pressure Vessel
 10

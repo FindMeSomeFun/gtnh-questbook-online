@@ -1,3 +1,3 @@
-2022EnderStorage/enderPouch-0.png0That Chest is Too Big to Carry Around32-1Instead of chest you have to keep placing and breaking, how about a nice convenient pouch you can use? You'll have to synchronize it with the chest you want to link with. To set it to a new chest, sneak-click with the pouch on a new chest.ANDpre20200EnderStorage/enderChest-0.pngrewardsItemminecraft/nether_star-0.pngNether Sta;Applicable up to: 08-Manyullyn
-1tasksANDRetrievalEnderStorage/enderPouch-0.pngEnder Pouc
+2022EnderStorage/enderPouch-0.png0That Chest is Too Big to Carry Around32-1Instead of chest you have to keep placing and breaking, how about a nice convenient pouch you can use? You'll have to synchronize it with the chest you want to link with. To set it to a new chest, sneak-click with the pouch on a new chest.ANDpre20200EnderStorage/enderChest-0.pngrewardsItemminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
+1tasksANDRetrievalEnderStorage/enderPouch-0.pngEnder Pouch
 1

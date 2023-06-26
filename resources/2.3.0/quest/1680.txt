@@ -1,6 +1,6 @@
-1680gregtech/gt.metaitem.01-32675.png1§c§lThought Emitters Were Bad Enough?9-1Field generators are a big part of lategame crafts. And yes, they always suck to make.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsItemgregtech/gt.metaitem.01-11083.pngOsmium Ingo;Os
-8bartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingo;Pd\u2083Rh;Added by BartWorks
-4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-5tasksANDRetrievalgregtech/gt.metaitem.01-32675.pngField Generator (LuV
+1680gregtech/gt.metaitem.01-32675.png1§c§lThought Emitters Were Bad Enough?9-1Field generators are a big part of lategame crafts. And yes, they always suck to make.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsItemgregtech/gt.metaitem.01-11083.pngOsmium Ingot;Os
+8bartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot;Pd\u2083Rh;Added by BartWorks
+4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDRetrievalgregtech/gt.metaitem.01-32675.pngField Generator (LuV)
 1

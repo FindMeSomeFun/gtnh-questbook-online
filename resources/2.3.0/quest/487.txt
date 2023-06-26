@@ -1,15 +1,15 @@
-487Forestry/diggerBag-0.png0§2§lNeed More Space?2-1As you might know: tanned leather is more resistant and good enough for a backpack. Let's get a digger's backpack and a miner's backpack. Each pack holds different items. So use both for your first true back-packed mining experience.ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceminecraft/cooked_beef-0.pngStea;minecraft:cooked_beef
-2minecraft/leather-0.pngLeathe
-4enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-5tasksANDOptionalminecraft/leather-0.pngLeathe
-4Backpack/tannedLeather-0.pngTanned Leathe
-1harvestcraft/wovencottonItem-0.pngWoven Cotto
-2minecraft/stone-0.pngSton
-2CraftingForestry/diggerBag-0.pngDigger''s Backpac;0/15 Slots
-1Optionalminecraft/leather-0.pngLeathe
-4Backpack/tannedLeather-0.pngTanned Leathe
-1harvestcraft/wovencottonItem-0.pngWoven Cotto
-2minecraft/iron_ingot-0.pngIron Ingo
-2CraftingForestry/minerBag-0.pngMiner''s Backpac;0/15 Slots
+487Forestry/diggerBag-0.png0§2§lNeed More Space?2-1As you might know: tanned leather is more resistant and good enough for a backpack. Let's get a digger's backpack and a miner's backpack. Each pack holds different items. So use both for your first true back-packed mining experience.ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceminecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
+2minecraft/leather-0.pngLeather
+4enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDOptionalminecraft/leather-0.pngLeather
+4Backpack/tannedLeather-0.pngTanned Leather
+1harvestcraft/wovencottonItem-0.pngWoven Cotton
+2minecraft/stone-0.pngStone
+2CraftingForestry/diggerBag-0.pngDigger''s Backpack;0/15 Slots
+1Optionalminecraft/leather-0.pngLeather
+4Backpack/tannedLeather-0.pngTanned Leather
+1harvestcraft/wovencottonItem-0.pngWoven Cotton
+2minecraft/iron_ingot-0.pngIron Ingot
+2CraftingForestry/minerBag-0.pngMiner''s Backpack;0/15 Slots
 1

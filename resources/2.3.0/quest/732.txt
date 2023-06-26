@@ -1,7 +1,7 @@
-732dreamcraft/item.MaceratedPlantmass-0.png0§6§lPlant Mass5-1Macerate the plantballs down to plant mass for better processing. The HV macerator has an extra slot so you can get more, but it's not worth it power-wise, same for EV and IV.ANDpre7310IC2/itemFuelPlantBall-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cabl;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-8gregtech/gt.metaitem.01-32702.pngGood Electronic Circui;A Good Circuit;MV-Tier
-1IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamon;Burn Time: 102400
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievaldreamcraft/item.MaceratedPlantmass-0.pngPlant Mas
+732dreamcraft/item.MaceratedPlantmass-0.png0§6§lPlant Mass5-1Macerate the plantballs down to plant mass for better processing. The HV macerator has an extra slot so you can get more, but it's not worth it power-wise, same for EV and IV.ANDpre7310IC2/itemFuelPlantBall-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+8gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+1IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond;Burn Time: 102400
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievaldreamcraft/item.MaceratedPlantmass-0.pngPlant Mass
 64

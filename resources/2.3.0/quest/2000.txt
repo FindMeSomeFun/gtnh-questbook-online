@@ -1,5 +1,5 @@
 2000StevesFactoryManager/BlockCableCamouflageName-0.png0Cable Camouflage26-1Camouflage blocks allow the faces of cable blocks to be made to imitate any other block. This works in the full workflow and thus can be updated on the fly.
 
-Please note that this block is placed the same as all SFM cables. It does not act as an inventory cable and thus will need to be in an advanced cable cluster in many situations.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableCamouflageName-0.pngCable Camouflag
-4tasksANDRetrievalStevesFactoryManager/BlockCableCamouflageName-0.pngCable Camouflag
+Please note that this block is placed the same as all SFM cables. It does not act as an inventory cable and thus will need to be in an advanced cable cluster in many situations.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableCamouflageName-0.pngCable Camouflage
+4tasksANDRetrievalStevesFactoryManager/BlockCableCamouflageName-0.pngCable Camouflage
 4

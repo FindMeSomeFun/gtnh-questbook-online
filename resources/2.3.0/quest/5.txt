@@ -1,12 +1,12 @@
 5gregtech/gt.metatool.01-2-Flint-Wood.png1§1§lTools0-1Now that you've got a shelter and a crafting table, you should make some tools. (Unless you'd like to continue punching trees with your bare hand...)
 
-§3You should probably make the shovel first so you can get gravel for the rest more easily.ANDpre41questbook/ItemQuestBook-0.pngrewardsChoiceminecraft/flint-0.pngFlin
-10minecraft/cookie-0.pngCooki;minecraft:cookie
-1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-5tasksANDCraftinggregtech/gt.metatool.01-4-Flint-Wood.pngShove;Durability: 6,400 / 6,400;Flint lvl 1;Attack Damage: 2.5;Mining Speed: 2.5
-1gregtech/gt.metatool.01-2-Flint-Wood.pngPickax;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 2.5;Mining Speed: 2.5
-1gregtech/gt.metatool.01-6-Flint-Wood.pngAx;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 4.0;Mining Speed: 5.0;Fire Aspect I
-1gregtech/gt.metatool.01-8-Flint-Wood.pngHo;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 2.75;Mining Speed: 2.5;Can till Dirt
+§3You should probably make the shovel first so you can get gravel for the rest more easily.ANDpre41questbook/ItemQuestBook-0.pngrewardsChoiceminecraft/flint-0.pngFlint
+10minecraft/cookie-0.pngCookie;minecraft:cookie
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+5tasksANDCraftinggregtech/gt.metatool.01-4-Flint-Wood.pngShovel;Durability: 6,400 / 6,400;Flint lvl 1;Attack Damage: 2.5;Mining Speed: 2.5
+1gregtech/gt.metatool.01-2-Flint-Wood.pngPickaxe;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 2.5;Mining Speed: 2.5
+1gregtech/gt.metatool.01-6-Flint-Wood.pngAxe;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 4.0;Mining Speed: 5.0;Fire Aspect I
+1gregtech/gt.metatool.01-8-Flint-Wood.pngHoe;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 2.75;Mining Speed: 2.5;Can till Dirt
 1

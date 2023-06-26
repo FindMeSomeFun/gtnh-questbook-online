@@ -1,9 +1,9 @@
-1595witchery/ingredient-100.png0Fanciful Thread36-1Fanciful Thread is spun from Wispy Cotton using a Spinning Wheel. It is an ingredient used to make the Potion of Flowing Spirit. This can be brewed only in the spirit world.ANDpre15920witchery/altar-0.png15940witchery/spinningwheel-0.png32710witchery/ingredient-102.pngrewardsChoicewitchery/ingredient-14.pngMutandi
-32witchery/somniancotton-0.pngWispy Cotto
-16witchery/ingredient-24.pngWool of Ba
-16Itemminecraft/shears-0.pngShear
-1tasksANDOptionalwitchery/ingredient-102.pngGolden Threa
-4witchery/ingredient-36.pngOdour of Purit
-4witchery/somniancotton-0.pngWispy Cotto
-16Retrievalwitchery/ingredient-100.pngFanciful Threa
+1595witchery/ingredient-100.png0Fanciful Thread36-1Fanciful Thread is spun from Wispy Cotton using a Spinning Wheel. It is an ingredient used to make the Potion of Flowing Spirit. This can be brewed only in the spirit world.ANDpre15920witchery/altar-0.png15940witchery/spinningwheel-0.png32710witchery/ingredient-102.pngrewardsChoicewitchery/ingredient-14.pngMutandis
+32witchery/somniancotton-0.pngWispy Cotton
+16witchery/ingredient-24.pngWool of Bat
+16Itemminecraft/shears-0.pngShears
+1tasksANDOptionalwitchery/ingredient-102.pngGolden Thread
+4witchery/ingredient-36.pngOdour of Purity
+4witchery/somniancotton-0.pngWispy Cotton
+16Retrievalwitchery/ingredient-100.pngFanciful Thread
 4

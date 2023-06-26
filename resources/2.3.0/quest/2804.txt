@@ -1,2 +1,2 @@
-2804compactkineticgenerators/BlockCkg-9.png0§9§lKinetic Power IV19-1This is the IV version.ANDpre23211gregtech/gt.metaitem.01-2084.png28030compactkineticgenerators/BlockCkg-8.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-9.pngMedium Kinetic Generato;Power Output: 0-8192 EU/t max;Capacity: 4m EU
+2804compactkineticgenerators/BlockCkg-9.png0§9§lKinetic Power IV19-1This is the IV version.ANDpre23211gregtech/gt.metaitem.01-2084.png28030compactkineticgenerators/BlockCkg-8.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-9.pngMedium Kinetic Generator;Power Output: 0-8192 EU/t max;Capacity: 4m EU
 1

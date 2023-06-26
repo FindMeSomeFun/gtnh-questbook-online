@@ -1,12 +1,12 @@
 1484dreamcraft/item.UncookedSlush-0.png0Uncooked Slush13-1Next step is to form this slush into the right shape. Use a Mashmallow form and press it with your iv forming press. Remember to sterilize it after using it.
 
-Be careful, you'll get blindness and hunger II holding it.ANDpre14830dreamcraft/item.MalformedSlush-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingo;(Fe\u2085\u2080C)W
-8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDOptionaldreamcraft/item.MalformedSlush-0.pngMalformed Slus;I hope you are not going to eat this later.
-2OptionalTConstruct/blankPattern-1.pngBlank Cas
-1Optionaldreamcraft/item.MarshmallowFormMold-0.pngCasting Form (Marshmallow Mold
-1gregtech/gt.metaitem.01-11305.pngSteel Ingo;Fe\u2085\u2080C
-4Optionaldreamcraft/item.MarshmallowForm-0.pngMold (Marshmallow
-1Retrievaldreamcraft/item.UncookedSlush-0.pngUncooked Slus;Heating up makes food better?
+Be careful, you'll get blindness and hunger II holding it.ANDpre14830dreamcraft/item.MalformedSlush-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
+8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionaldreamcraft/item.MalformedSlush-0.pngMalformed Slush;I hope you are not going to eat this later.
+2OptionalTConstruct/blankPattern-1.pngBlank Cast
+1Optionaldreamcraft/item.MarshmallowFormMold-0.pngCasting Form (Marshmallow Mold)
+1gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+4Optionaldreamcraft/item.MarshmallowForm-0.pngMold (Marshmallow)
+1Retrievaldreamcraft/item.UncookedSlush-0.pngUncooked Slush;Heating up makes food better?
 1

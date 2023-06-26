@@ -2,10 +2,10 @@
 
 You can find small Zinc ores (look in NEI) or you can search the Nether for Sphalerite.
 
-The Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsChoicegregtech/gt.metaitem.01-6500.pngPurified Diamond Or;C
-64gregtech/gt.metaitem.01-6501.pngPurified Emerald Or;Be\u2083Al\u2082Si\u2086O\u2081\u2088
-64gregtech/gt.metaitem.01-6502.pngPurified Ruby Or;CrAl\u2082O\u2083
-64gregtech/gt.metaitem.01-6535.pngPurified Coal Or;C
-64Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalgregtech/gt.blockmachines-641.pngBasic Sifting Machin;Stay calm and keep sifting;Voltage IN: 32 (LV);Capacity: 2,048 EU
+The Sifter only takes Purified ores, but you can get these easily by throwing Crushed ores into a Cauldron with water.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsChoicegregtech/gt.metaitem.01-6500.pngPurified Diamond Ore;C
+64gregtech/gt.metaitem.01-6501.pngPurified Emerald Ore;Be\u2083Al\u2082Si\u2086O\u2081\u2088
+64gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore;CrAl\u2082O\u2083
+64gregtech/gt.metaitem.01-6535.pngPurified Coal Ore;C
+64Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-641.pngBasic Sifting Machine;Stay calm and keep sifting;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

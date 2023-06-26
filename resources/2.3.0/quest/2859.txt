@@ -5,17 +5,17 @@ Oil @30RF/t for a total of 150K
 Ethanol @40RF/t for a total of 360K
 Diesel @60RF/t for a total of 1,500K
 
-§3Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpre5770Forestry/sturdyMachine-0.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cel
-16Choicegregtech/gt.metaitem.01-30707.pngOil Cel
-16gregtech/gt.metaitem.01-30706.pngEthanol Cel;C\u2082H\u2086O
-8gregtech/gt.metaitem.01-30708.pngDiesel Cel
-4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
-15tasksANDOptionalgregtech/gt.metaitem.01-17302.pngInvar Plat;Fe\u2082Ni
-2gregtech/gt.metaitem.01-17526.pngLapis Plat;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-1gregtech/gt.metaitem.02-24302.pngInvar Sprin;Fe\u2082Ni
-2gregtech/gt.metaitem.02-31302.pngInvar Gea;Fe\u2082Ni
-2Forestry/sturdyMachine-0.pngSturdy Casin
-1minecraft/piston-0.pngPisto
-1RetrievalBuildCraftCore/engineBlock-2.pngCombustion Engin
+§3Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpre5770Forestry/sturdyMachine-0.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cell
+16Choicegregtech/gt.metaitem.01-30707.pngOil Cell
+16gregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
+8gregtech/gt.metaitem.01-30708.pngDiesel Cell
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-17302.pngInvar Plate;Fe\u2082Ni
+2gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+1gregtech/gt.metaitem.02-24302.pngInvar Spring;Fe\u2082Ni
+2gregtech/gt.metaitem.02-31302.pngInvar Gear;Fe\u2082Ni
+2Forestry/sturdyMachine-0.pngSturdy Casing
+1minecraft/piston-0.pngPiston
+1RetrievalBuildCraftCore/engineBlock-2.pngCombustion Engine
 1

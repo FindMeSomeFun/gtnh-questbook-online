@@ -4,13 +4,13 @@ The first one is the Integrated Processor, the final type of MV circuits. You al
 
 You will additionally need 4 Resistors, 4 Capacitors and 4 Transistors.
 
-§3This and all circuits past it need a cleanroom.ANDpre10151gregtech/gt.metaitem.03-32106.png10181gregtech/gt.metaitem.03-32045.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
-4gregtech/gt.metaitem.03-32045.pngCentral Processing Uni;Integrated Circuit
-1gregtech/gt.metaitem.03-32018.pngSMD Transisto;Electronic Component
-4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
-1gregtech/gt.metaitem.03-32045.pngCentral Processing Uni;Integrated Circuit
-1gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wir;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-4Retrievalgregtech/gt.metaitem.03-32080.pngIntegrated Processo;A Good Circuit;MV-Tier
+§3This and all circuits past it need a cleanroom.ANDpre10151gregtech/gt.metaitem.03-32106.png10181gregtech/gt.metaitem.03-32045.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+4gregtech/gt.metaitem.03-32045.pngCentral Processing Unit;Integrated Circuit
+1gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
+4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1gregtech/gt.metaitem.03-32045.pngCentral Processing Unit;Integrated Circuit
+1gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wire;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+4Retrievalgregtech/gt.metaitem.03-32080.pngIntegrated Processor;A Good Circuit;MV-Tier
 1

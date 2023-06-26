@@ -1,5 +1,5 @@
-1981EnderIO/blockElectricLight-5.png0BetterIO?15-1The Powered and Wireless Powered lights from Enderio provide light up to 10 blocks away vs the normal 7 for a torch. They will require centrifuging liquid air to get the bulbs.ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemEnderIO/blockElectricLight-1.pngPowered Light (Inverted
-7EnderIO/blockElectricLight-5.pngWireless Powered Light (Inverted
-7tasksANDRetrievalEnderIO/blockElectricLight-1.pngPowered Light (Inverted
-1EnderIO/blockElectricLight-5.pngWireless Powered Light (Inverted
+1981EnderIO/blockElectricLight-5.png0BetterIO?15-1The Powered and Wireless Powered lights from Enderio provide light up to 10 blocks away vs the normal 7 for a torch. They will require centrifuging liquid air to get the bulbs.ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemEnderIO/blockElectricLight-1.pngPowered Light (Inverted)
+7EnderIO/blockElectricLight-5.pngWireless Powered Light (Inverted)
+7tasksANDRetrievalEnderIO/blockElectricLight-1.pngPowered Light (Inverted)
+1EnderIO/blockElectricLight-5.pngWireless Powered Light (Inverted)
 1

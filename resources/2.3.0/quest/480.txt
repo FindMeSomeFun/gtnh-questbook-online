@@ -1,12 +1,12 @@
 480gregtech/gt.blockores-871.png0§2§lMalachite2-1Another copper source is "malachite" which can be found between Y 10-40. This vein contains more iron ore variants like "brown limonite", "yellow limonite" and "banded iron ore".
 
 §4Hint:
-To see where a special ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoicegregtech/gt.metaitem.01-11035.pngCopper Ingo;Cu
-8gregtech/gt.metaitem.02-32240.pngBaguette;gregtech:gt.metaitem.02;Pre Sliced
-1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
-5tasksANDRetrievalgregtech/gt.blockores-871.pngMalachite Or;Cu\u2082CH\u2082O\u2085
-16gregtech/gt.blockores-917.pngBanded Iron Or;Fe\u2082O\u2083
-16gregtech/gt.blockores-931.pngYellow Limonite Or;FeHO\u2082
-16gregtech/gt.blockores-930.pngBrown Limonite Or;FeHO\u2082
+To see where a special ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoicegregtech/gt.metaitem.01-11035.pngCopper Ingot;Cu
+8gregtech/gt.metaitem.02-32240.pngBaguettes;gregtech:gt.metaitem.02;Pre Sliced
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+5tasksANDRetrievalgregtech/gt.blockores-871.pngMalachite Ore;Cu\u2082CH\u2082O\u2085
+16gregtech/gt.blockores-917.pngBanded Iron Ore;Fe\u2082O\u2083
+16gregtech/gt.blockores-931.pngYellow Limonite Ore;FeHO\u2082
+16gregtech/gt.blockores-930.pngBrown Limonite Ore;FeHO\u2082
 16

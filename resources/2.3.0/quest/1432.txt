@@ -1,14 +1,14 @@
 1432GalaxySpace/item.ModuleLander2-0.png1Mars Lander24-1The Mars lander is required for a soft landing. Put the Moon lander on a Parachute and surround it with airbags - that will do the trick. You hope.
 
-Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents with a hopper underneath. To prevent this, make sure to wait until you come to a full and complete stop, like when at a stop sign. Everyone does that, right?ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Coppe
-8GalacticraftCore/item.basicItem-9.pngCompressed Stee
-8GalacticraftCore/item.basicItem-11.pngCompressed Iro
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDOptionalGalaxySpace/item.ModuleLander-0.pngLander Tier ;Rocket Module
-1GalacticraftCore/item.parachute-0.pngParachut
-1GalacticraftCore/item.canvas-0.pngCanva
-3gregtech/gt.metaitem.01-29086.pngGold Foi;Au
-4RetrievalGalaxySpace/item.ModuleLander2-0.pngLander Tier ;Rocket Module
+Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents with a hopper underneath. To prevent this, make sure to wait until you come to a full and complete stop, like when at a stop sign. Everyone does that, right?ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
+8GalacticraftCore/item.basicItem-9.pngCompressed Steel
+8GalacticraftCore/item.basicItem-11.pngCompressed Iron
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalGalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
+1GalacticraftCore/item.parachute-0.pngParachute
+1GalacticraftCore/item.canvas-0.pngCanvas
+3gregtech/gt.metaitem.01-29086.pngGold Foil;Au
+4RetrievalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2;Rocket Module
 1

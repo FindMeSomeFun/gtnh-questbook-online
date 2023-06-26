@@ -6,8 +6,8 @@ This machine only needs 8 EU/t to work, so LV batteries in a batbuff work ok if 
 
 The miner searches for ores in a 17x17 block work area (adjustable with a screwdriver), and comes with a level 1 fortune bonus! Great for gathering additional small ores!
 
-Don't forget to cover it up! These are GT machines, so remember to protect them (and their power sources!) from rain on all sides. And set a waypoint with JourneyMap so you don't forget where you placed it if you place it far away! You'll need to chunkload the miner if you want it to keep working when you're not there.ANDpre5301gregtech/gt.metaitem.01-32690.pngrewardsItemIC2/blockMiningPipe-0.pngMining Pip
-16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-20tasksANDRetrievalgregtech/gt.blockmachines-679.pngBasic Mine;Digging ore instead of you;Use Screwdriver to regulate work area;Use Soft Mallet to disable and retract the pipe;8 EU/t, 8 sec per block, no stuttering;Maximum work area 17x17;Fortune bonus of 1;Voltage IN: 32 (LV);Capacity: 4,096 EU
+Don't forget to cover it up! These are GT machines, so remember to protect them (and their power sources!) from rain on all sides. And set a waypoint with JourneyMap so you don't forget where you placed it if you place it far away! You'll need to chunkload the miner if you want it to keep working when you're not there.ANDpre5301gregtech/gt.metaitem.01-32690.pngrewardsItemIC2/blockMiningPipe-0.pngMining Pipe
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+20tasksANDRetrievalgregtech/gt.blockmachines-679.pngBasic Miner;Digging ore instead of you;Use Screwdriver to regulate work area;Use Soft Mallet to disable and retract the pipe;8 EU/t, 8 sec per block, no stuttering;Maximum work area 17x17;Fortune bonus of 1;Voltage IN: 32 (LV);Capacity: 4,096 EU
 1

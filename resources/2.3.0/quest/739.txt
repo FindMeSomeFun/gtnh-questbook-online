@@ -10,13 +10,13 @@ In order to allow your system to be able to see items you need to add the item b
 
 The last step is to connect a routed request pipe IN THE SAME NETWORK AS THE ROUTED INTERFACE PIPE and right click it to access the GUI. You can only extract items from it. In order to insert items simply right click them on the drawer controller. 
 
-You can find more complex tutorials on youtube for autocrafting.ANDpre7370ProjRedCore/projectred.core.drawplate-44.png7380ProjRedTransportation/projectred.transportation.routingchip-1.pngrewardsChoiceStorageDrawers/controller-0.pngDrawer Controlle;Interact with a bank of connected drawers
-1StorageDrawers/fullDrawers4-0.pngOak Drawers 2x;Holds 16 stacks per drawer;Burn Time: 300
-16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pip
-8ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pip
-4ProjRedTransportation/projectred.transportation.pipe-4.pngRouted Request pip
-1RetrievalProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chi
-1ProjRedTransportation/projectred.transportation.routingchip-5.pngItem Broadcaster chi
+You can find more complex tutorials on youtube for autocrafting.ANDpre7370ProjRedCore/projectred.core.drawplate-44.png7380ProjRedTransportation/projectred.transportation.routingchip-1.pngrewardsChoiceStorageDrawers/controller-0.pngDrawer Controller;Interact with a bank of connected drawers
+1StorageDrawers/fullDrawers4-0.pngOak Drawers 2x2;Holds 16 stacks per drawer;Burn Time: 300
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
+8ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+4ProjRedTransportation/projectred.transportation.pipe-4.pngRouted Request pipe
+1RetrievalProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
+1ProjRedTransportation/projectred.transportation.routingchip-5.pngItem Broadcaster chip
 1

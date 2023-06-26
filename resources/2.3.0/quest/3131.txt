@@ -1,8 +1,8 @@
 3131dreamcraft/dreamcraft_NitricAcid-0.png0Nitric And Sulfuric Acid22-1Sourcing these two should be easy at this point. Overall, the easiest option for Sulfuric Acid is oil processing, but you can also make it from Sulfur Dust, which is so very common from ore processing.
 
-Nitric Acid is a bit more convoluted, but you might have already automated it, since it's needed for Cetane-Boosted Diesel. Ammonia and Oxygen can make it, or Nitrogen Dioxide instead of Ammonia. You won't be able to do it in a single step, but a small line of Chemical Reactor, or their multiblock equivalent, will do it for you.ANDpre31270gregtech/gt.blockcasings4-2.pngrewardsItemgregtech/gt.metaitem.01-30659.pngAmmonia Cel;NH\u2083
-32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
-1tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cel;HNO\u2083
-64gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cel;H\u2082SO\u2084
+Nitric Acid is a bit more convoluted, but you might have already automated it, since it's needed for Cetane-Boosted Diesel. Ammonia and Oxygen can make it, or Nitrogen Dioxide instead of Ammonia. You won't be able to do it in a single step, but a small line of Chemical Reactor, or their multiblock equivalent, will do it for you.ANDpre31270gregtech/gt.blockcasings4-2.pngrewardsItemgregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+64gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
 64

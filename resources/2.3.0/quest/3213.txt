@@ -1,9 +1,9 @@
 3213gregtech/gt.metaitem.01-30968.png1§6§lSilicon Tetrachloride - continued5-1As a second step, we combine the Tetrachloride with Sodium Dust. There we go! The Silicon Dust is now purified to solar grade!
 
-The Chlorine and Sodium are §onot§r lost during this process. To recover them, just electrolyze the Salt you get at the end and send it back to the Chemical Reactors, for a complete loop that turns Raw Silicon into Solar Grade Silicon.ANDpre32121gregtech/gt.metaitem.01-30968.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalgregtech/gt.metaitem.01-30968.pngSilicon Tetrachloride Cel;SiCl\u2084
-4gregtech/gt.metaitem.01-2017.pngSodium Dus;Na;Burn Time: 400
-16Retrievalgregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dus;Si*
-4gregtech/gt.metaitem.01-2817.pngSal;NaCl
+The Chlorine and Sodium are §onot§r lost during this process. To recover them, just electrolyze the Salt you get at the end and send it back to the Chemical Reactors, for a complete loop that turns Raw Silicon into Solar Grade Silicon.ANDpre32121gregtech/gt.metaitem.01-30968.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-30968.pngSilicon Tetrachloride Cell;SiCl\u2084
+4gregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
+16Retrievalgregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dust;Si*
+4gregtech/gt.metaitem.01-2817.pngSalt;NaCl
 32

@@ -1,4 +1,4 @@
-2431minecraft/redstone_ore-0.png0Redstone Ore exchange4024000You can exchange your Stack of GT Redstone Ore for vanilla Redstone Ore.ANDpre4941minecraft/redstone_ore-0.pngrewardsItemminecraft/redstone_ore-0.pngRedstone Or
-64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-50gregtech/gt.blockores-810.pngRedstone Or;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
+2431minecraft/redstone_ore-0.png0Redstone Ore exchange4024000You can exchange your Stack of GT Redstone Ore for vanilla Redstone Ore.ANDpre4941minecraft/redstone_ore-0.pngrewardsItemminecraft/redstone_ore-0.pngRedstone Ore
+64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+50gregtech/gt.blockores-810.pngRedstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
 64

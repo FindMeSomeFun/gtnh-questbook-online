@@ -2,18 +2,18 @@
 
 Note that this is not the proper method to get rare metals. This means none of them are pure, and cannot be utilized without the platline method, aside from EBF-ing platinum. Proper Platinum processing is EV, but you'll have to wait until IV to use the rest. Collecting a lot of it now (especially using this method) might not be a great idea depending on how long that will be.
 
-§3A Chemical Bath also extracts Platinum from Nickel Ore if you use Mercury. Time to head back to the Twilight Forest!ANDpre8511gregtech/gt.metaitem.01-30653.png8541gregtech/gt.metaitem.01-30659.pngrewardsChoicegregtech/gt.metaitem.01-30659.pngAmmonia Cel;NH\u2083
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Or;CuFeS\u2082
-64Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cel;H\u2082SO\u2084
-108gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Or;CuFeS\u2082
-54gregtech/gt.metaitem.01-6909.pngPurified Pentlandite Or;Ni\u2089S\u2088
-54Retrievalgregtech/gt.metaitem.01-2241.pngPlatinum Group Sludge Dus
-12Optionalgregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dus;SiO\u2082
-12gregtech/gt.metaitem.01-2086.pngGold Dus;Au
-12bartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dus;??PtPdIrOsRhRu??;Added by BartWorks
-24bartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dus;??Pd??;Added by BartWorks
-8bartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dus;??Ir??;Added by BartWorks
-2bartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dus;??OsIr??;Added by BartWorks
+§3A Chemical Bath also extracts Platinum from Nickel Ore if you use Mercury. Time to head back to the Twilight Forest!ANDpre8511gregtech/gt.metaitem.01-30653.png8541gregtech/gt.metaitem.01-30659.pngrewardsChoicegregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Ore;CuFeS\u2082
+64Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+108gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Ore;CuFeS\u2082
+54gregtech/gt.metaitem.01-6909.pngPurified Pentlandite Ore;Ni\u2089S\u2088
+54Retrievalgregtech/gt.metaitem.01-2241.pngPlatinum Group Sludge Dust
+12Optionalgregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
+12gregtech/gt.metaitem.01-2086.pngGold Dust;Au
+12bartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust;??PtPdIrOsRhRu??;Added by BartWorks
+24bartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dust;??Pd??;Added by BartWorks
+8bartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dust;??Ir??;Added by BartWorks
+2bartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dust;??OsIr??;Added by BartWorks
 2

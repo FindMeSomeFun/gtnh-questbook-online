@@ -4,29 +4,29 @@ You can zoom with the googles, have a extra inventory hotbar with the belt, step
 
 You get protection like with normal armor too.
 
-Later on you can upgrade your items to become more powerful ones.ANDpre1021gregtech/gt.blockmachines-251.png6890minecraft/diamond_chestplate-0.png8381IC2/itemPartCircuitAdv-0.pngrewardsChoiceharvestcraft/hardenedleatherItem-0.pngHardened Leathe
-32gregtech/gt.metaitem.01-17500.pngDiamond Plat;C
-16IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-4Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5tasksANDOptionalgregtech/gt.metaitem.01-24500.pngDiamond Len;C
-2gregtech/gt.metaitem.01-17500.pngDiamond Plat;C
-6gregtech/gt.metaitem.01-28303.pngElectrum Rin;AgAu
-2gregtech/gt.metaitem.01-26303.pngElectrum Bol;AgAu
-1harvestcraft/hardenedleatherItem-0.pngHardened Leathe
-17gregtech/gt.metaitem.01-17804.pngObsidian Plat;MgFeSi\u2082O\u2088
-3minecraft/diamond_helmet-0.pngDiamond Helme;Protection: 3;Durability: 363/363
-1minecraft/diamond_chestplate-0.pngDiamond Chestplat;Protection: 8;Durability: 528/528
-1minecraft/diamond_leggings-0.pngDiamond Legging;Protection: 6;Durability: 495/495
-1minecraft/diamond_boots-0.pngDiamond Boot;Protection: 3;Durability: 429/429
-1TConstruct/fletching-0.pngFeather Fletchin;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
-4gregtech/gt.metaitem.01-32642.pngElectric Piston (HV
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
-6RetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggle;Ability: Zoom with NONE;Toggle Abilities: NONE;Protection: 4%;Protection: 2;Durability: 1035/1035
-1TConstruct/travelVest-0.pngTraveller''s Ves;Ability: Swift Swim;Protection: 10%;Protection: 5;Durability: 1035/1035
-1TConstruct/travelWings-0.pngTraveller''s Wing;Ability: High Jump;Protection: 8%;Protection: 4;Durability: 1035/1035
-1TConstruct/travelBelt-0.pngTraveller''s Bel;Ability: Swap Hotbar;Control: NONE
-1TConstruct/travelGlove-0.pngTraveller''s Glove
-1TConstruct/travelBoots-0.pngTraveller''s Boot;Ability: High Step;Protection: 6%;Protection: 1;Durability: 1035/1035
+Later on you can upgrade your items to become more powerful ones.ANDpre1021gregtech/gt.blockmachines-251.png6890minecraft/diamond_chestplate-0.png8381IC2/itemPartCircuitAdv-0.pngrewardsChoiceharvestcraft/hardenedleatherItem-0.pngHardened Leather
+32gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-24500.pngDiamond Lens;C
+2gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+6gregtech/gt.metaitem.01-28303.pngElectrum Ring;AgAu
+2gregtech/gt.metaitem.01-26303.pngElectrum Bolt;AgAu
+1harvestcraft/hardenedleatherItem-0.pngHardened Leather
+17gregtech/gt.metaitem.01-17804.pngObsidian Plate;MgFeSi\u2082O\u2088
+3minecraft/diamond_helmet-0.pngDiamond Helmet;Protection: 3;Durability: 363/363
+1minecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
+1minecraft/diamond_leggings-0.pngDiamond Leggings;Protection: 6;Durability: 495/495
+1minecraft/diamond_boots-0.pngDiamond Boots;Protection: 3;Durability: 429/429
+1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
+4gregtech/gt.metaitem.01-32642.pngElectric Piston (HV)
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+6RetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles;Ability: Zoom with NONE;Toggle Abilities: NONE;Protection: 4%;Protection: 2;Durability: 1035/1035
+1TConstruct/travelVest-0.pngTraveller''s Vest;Ability: Swift Swim;Protection: 10%;Protection: 5;Durability: 1035/1035
+1TConstruct/travelWings-0.pngTraveller''s Wings;Ability: High Jump;Protection: 8%;Protection: 4;Durability: 1035/1035
+1TConstruct/travelBelt-0.pngTraveller''s Belt;Ability: Swap Hotbar;Control: NONE
+1TConstruct/travelGlove-0.pngTraveller''s Gloves
+1TConstruct/travelBoots-0.pngTraveller''s Boots;Ability: High Step;Protection: 6%;Protection: 1;Durability: 1035/1035
 1

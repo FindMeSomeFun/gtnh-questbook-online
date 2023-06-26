@@ -1,6 +1,6 @@
 1930TwilightForest/item.liveRoot-0.png0Ironwood is Better Than Normal Wood13-1A necessary step for steeleafranks? Maybe not. But ironwood does make some great rollers for cooking, and a decent Sense blade.
 
-Creeperweed has a decent chance of giving liveroots seeds.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Hel;Aqua Affinity I;Protection: 2;Durability: 220/220
-1enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops;Your luck is increased by 100 %;Fortune III
-1tasksANDRetrievalIC2/itemCropSeed-0.pngLiveroots Seed;Gr 0;Ga 0;Re 0
+Creeperweed has a decent chance of giving liveroots seeds.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Helm;Aqua Affinity I;Protection: 2;Durability: 220/220
+1enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops);Your luck is increased by 100 %;Fortune III
+1tasksANDRetrievalIC2/itemCropSeed-0.pngLiveroots Seeds;Gr 0;Ga 0;Re 0
 1

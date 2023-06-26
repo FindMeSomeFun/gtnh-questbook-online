@@ -18,20 +18,20 @@ Hunger I
 
 Endermen - Angry Endermen will spawn and attack the player.
 Item drop - a random amount of items in player's inventory will drop to the ground.
-Storm - will cause a 2-3 minute storm. This is the most rare effect.ANDpre23630HardcoreEnderExpansion/spatial_dash_gem-0.pngrewardsChoicegregtech/gt.metaitem.98-4.pngEnder Goo Cel
-64HardcoreEnderExpansion/essence-0.pngDragon Essenc
-32HardcoreEnderExpansion/endoplasm-0.pngEctoplas
-16HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
-16HardcoreEnderExpansion/end_powder-0.pngEnd Powde
-64enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
-4tasksANDOptionalHardcoreEnderExpansion/spatial_dash_gem-0.pngSpatial Dash Ge
-1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
-32HardcoreEnderExpansion/endoplasm-0.pngEctoplas
-16HardcoreEnderExpansion/essence-0.pngDragon Essenc
-64HardcoreEnderExpansion/end_powder-0.pngEnd Powde
-64gregtech/gt.metaitem.98-4.pngEnder Goo Cel
-6RetrievalHardcoreEnderExpansion/transference_gem-0.pngTransference Ge
+Storm - will cause a 2-3 minute storm. This is the most rare effect.ANDpre23630HardcoreEnderExpansion/spatial_dash_gem-0.pngrewardsChoicegregtech/gt.metaitem.98-4.pngEnder Goo Cell
+64HardcoreEnderExpansion/essence-0.pngDragon Essence
+32HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+16HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+16HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+64enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+4tasksANDOptionalHardcoreEnderExpansion/spatial_dash_gem-0.pngSpatial Dash Gem
+1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+32HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+16HardcoreEnderExpansion/essence-0.pngDragon Essence
+64HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+64gregtech/gt.metaitem.98-4.pngEnder Goo Cell
+6RetrievalHardcoreEnderExpansion/transference_gem-0.pngTransference Gem
 1

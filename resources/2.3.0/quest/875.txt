@@ -1,14 +1,14 @@
 875TConstruct/slime.gel-2.png0§3§lSlime Island Journey3-1Rubber trees are not the only source for raw rubber. Go and find a slime island high in the sky. Slime balls and slime leaves give raw rubber too.
 Make some slime tree farms beside your rubber farm.
 
-§3Liquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemminecraft/iron_sword-0.pngIron Swor;+6 Attack Damage;Durability: 256/256
-1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1minecraft/ladder-0.pngLadde;Burn Time: 100
-64Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
-10tasksANDRetrievalTConstruct/CraftedSoil-5.pngBlue Slimedir
-1TConstruct/slime.gel-1.pngCongealed Green Slim
-1TConstruct/slime.sapling-0.pngSlimy Saplin
-1TConstruct/strangeFood-0.pngGelatinous Slim;TConstruct:strangeFood;It smells terrible, but if you;have nothing else to eat...
-4TConstruct/slime.gel-2.pngCongealed Purple Slim
+§3Liquid slime is not allowed to be placed down, as it acts as a spawner, and can cause lag.ANDpre691gregtech/gt.metaitem.01-11880.pngrewardsItemminecraft/iron_sword-0.pngIron Sword;+6 Attack Damage;Durability: 256/256
+1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1minecraft/ladder-0.pngLadder;Burn Time: 100
+64Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10tasksANDRetrievalTConstruct/CraftedSoil-5.pngBlue Slimedirt
+1TConstruct/slime.gel-1.pngCongealed Green Slime
+1TConstruct/slime.sapling-0.pngSlimy Sapling
+1TConstruct/strangeFood-0.pngGelatinous Slime;TConstruct:strangeFood;It smells terrible, but if you;have nothing else to eat...
+4TConstruct/slime.gel-2.pngCongealed Purple Slime
 1

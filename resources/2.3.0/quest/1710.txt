@@ -1,14 +1,14 @@
-1710gregtech/gt.metaitem.03-32091.png1§c§lCrystalprocessor Mainframe9-1The Crystalprocessor Mainframe is the first UV circuit you can make.ANDpre17091gregtech/gt.metaitem.03-32090.png17111gregtech/gt.blockmachines-2400.pngrewardsChoicegregtech/gt.metaitem.03-32039.pngRandom Access Memory Chi;Integrated Circuit
-64gregtech/gt.metaitem.03-32104.pngElite Circuit Boar;A elite Circuit Board
-4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-5tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Bo;Just something you can put covers on.
-12gregtech/gt.metaitem.03-32090.pngUltimate Crystalcompute;An Ultimate Circuit;ZPM-Tier
-2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inducto;Advanced Electronic Component
-48gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacito;Advanced Electronic Component
-64gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chi;Integrated Circuit
-64gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wir;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
-64Retrievalgregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainfram;A Super Circuit;UV-Tier
-1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circui;A Sliced Circuit;Added by BartWorks
-1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprin;An Imprint for a Circuit;Added by BartWorks
+1710gregtech/gt.metaitem.03-32091.png1§c§lCrystalprocessor Mainframe9-1The Crystalprocessor Mainframe is the first UV circuit you can make.ANDpre17091gregtech/gt.metaitem.03-32090.png17111gregtech/gt.blockmachines-2400.pngrewardsChoicegregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+64gregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
+4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
+12gregtech/gt.metaitem.03-32090.pngUltimate Crystalcomputer;An Ultimate Circuit;ZPM-Tier
+2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor;Advanced Electronic Component
+48gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor;Advanced Electronic Component
+64gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+64gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
+64Retrievalgregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe;A Super Circuit;UV-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit;A Sliced Circuit;Added by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint;An Imprint for a Circuit;Added by BartWorks
 1

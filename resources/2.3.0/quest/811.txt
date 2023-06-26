@@ -1,6 +1,6 @@
-811GalaxySpace/item.RocketControlComputer-1.png1Tier 1 Control Computer24-1Each rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Stee
-4gregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalGalaxySpace/item.RocketControlComputer-1.pngRocket Control Computer Tier 
+811GalaxySpace/item.RocketControlComputer-1.png1Tier 1 Control Computer24-1Each rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Steel
+4gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalGalaxySpace/item.RocketControlComputer-1.pngRocket Control Computer Tier 1
 1

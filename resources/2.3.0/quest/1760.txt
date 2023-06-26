@@ -1,10 +1,10 @@
-1760OpenComputers/adapter-0.png0Intelligence is the Ability to Adapt to Change26-1This block allows our computer to interact with GT machines and everything else.  A must have!ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/cable-32767.pngCabl;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
-16OpenComputers/adapter-0.pngAdapte;Hold [NONE] for material costs.
-2enhancedlootbags/lootbag-46.pngLootBag (Tier 1 Computers;You feel that a bit more "Fortune" might be a good idea...
-1Itemmiscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
-1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
-1gregtech/gt.blockcasings-1.pngLV Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1OpenComputers/cable-32767.pngCabl;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
-2OpenComputers/item-24.pngMicrochip (Tier 1
-1RetrievalOpenComputers/adapter-0.pngAdapte;Hold [NONE] for material costs.
+1760OpenComputers/adapter-0.png0Intelligence is the Ability to Adapt to Change26-1This block allows our computer to interact with GT machines and everything else.  A must have!ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+16OpenComputers/adapter-0.pngAdapter;Hold [NONE] for material costs.
+2enhancedlootbags/lootbag-46.pngLootBag (Tier 1 Computers);You feel that a bit more "Fortune" might be a good idea...
+1Itemmiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1OpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+2OpenComputers/item-24.pngMicrochip (Tier 1)
+1RetrievalOpenComputers/adapter-0.pngAdapter;Hold [NONE] for material costs.
 1

@@ -2,15 +2,15 @@
 
 Redstone Alloy is a new alloy which requires an EBF. Mix redstone, silicon and coal by hand, or in the mixer for a better result.
 
-§3Remember not to mix it up with Red Alloy, that's the ULV one.ANDpre771gregtech/gt.blockmachines-1000.png971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-15dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
-15tasksANDOptionalminecraft/redstone-0.pngRedston
-4gregtech/gt.metaitem.01-2020.pngRaw Silicon Dus;Si
-4gregtech/gt.metaitem.01-2535.pngCoal Dus;C;Burn Time: 1600
-4Optionalgregtech/gt.metaitem.01-2381.pngRedstone Alloy Dus;(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC
-8Optionalgregtech/gt.metaitem.01-11381.pngRedstone Alloy Ingo;(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC
-8Retrievalgregtech/gt.blockmachines-30645.png1x Redstone Alloy Wir;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-16Optionalgregtech/gt.blockmachines-30651.png1x Redstone Alloy Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 0 EU-Volt
+§3Remember not to mix it up with Red Alloy, that's the ULV one.ANDpre771gregtech/gt.blockmachines-1000.png971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+15tasksANDOptionalminecraft/redstone-0.pngRedstone
+4gregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
+4gregtech/gt.metaitem.01-2535.pngCoal Dust;C;Burn Time: 1600
+4Optionalgregtech/gt.metaitem.01-2381.pngRedstone Alloy Dust;(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC
+8Optionalgregtech/gt.metaitem.01-11381.pngRedstone Alloy Ingot;(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC
+8Retrievalgregtech/gt.blockmachines-30645.png1x Redstone Alloy Wire;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+16Optionalgregtech/gt.blockmachines-30651.png1x Redstone Alloy Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 0 EU-Volt
 16

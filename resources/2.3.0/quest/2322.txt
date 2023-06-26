@@ -1,9 +1,9 @@
 2322bartworks/gt.bwMetaGeneratedcell-62.png1§b§lFluid From Sulfur Gas8-1Combine the Rhodium Sulfate you got with Water, and you'll get Rhodium Sulfate Solution, as well as some more Leech Residue, and Molten Potassium.
 
-You get just over 13 ingots' worth of Potassium back, you'll want to use the fluid solidifier and then macerate it to use it again.ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-61.pngRhodium Sulfate Cel;Added by BartWorks
-11IC2/itemCellEmpty-1.pngWater Cel
-10Retrievalbartworks/gt.bwMetaGeneratedcell-62.pngRhodium Sulfate Solution Cel;Added by BartWorks
-11bartworks/gt.bwMetaGenerateddustTiny-60.pngTiny Pile of Leach Residue Dus;??IrOsRu??;Added by BartWorks
-10gregtech/gt.metaitem.99-25.pngMolten Potassium Cel;K
+You get just over 13 ingots' worth of Potassium back, you'll want to use the fluid solidifier and then macerate it to use it again.ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-61.pngRhodium Sulfate Cell;Added by BartWorks
+11IC2/itemCellEmpty-1.pngWater Cell
+10Retrievalbartworks/gt.bwMetaGeneratedcell-62.pngRhodium Sulfate Solution Cell;Added by BartWorks
+11bartworks/gt.bwMetaGenerateddustTiny-60.pngTiny Pile of Leach Residue Dust;??IrOsRu??;Added by BartWorks
+10gregtech/gt.metaitem.99-25.pngMolten Potassium Cell;K
 13

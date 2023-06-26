@@ -1,5 +1,5 @@
-500gregtech/gt.metatool.01-28.png0First Things First28-1As usual. In order to get started with bees, you need a few basic things. Most importantly... a scoop. For this quest you want to make a GregTech scoop. Later you can make scoops using magic or even rechargeable scoops.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/beeCombs-0.pngHoney Com
-4Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1
-25tasksANDRetrievalgregtech/gt.metatool.01-28.pngScoo;Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.0;Mining Speed: 1.0;Catches Butterflies on Leftclick
+500gregtech/gt.metatool.01-28.png0First Things First28-1As usual. In order to get started with bees, you need a few basic things. Most importantly... a scoop. For this quest you want to make a GregTech scoop. Later you can make scoops using magic or even rechargeable scoops.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/beeCombs-0.pngHoney Comb
+4Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDRetrievalgregtech/gt.metatool.01-28.pngScoop;Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.0;Mining Speed: 1.0;Catches Butterflies on Leftclick
 1

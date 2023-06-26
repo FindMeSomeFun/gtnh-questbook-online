@@ -2,12 +2,12 @@
 
 Hint: Fluid will auto-output (without any pumps) if you place a valve on the bottom side of the tank. The output rate is 1000 L/t so twice as fast as a GT HV Pump Cover. You can color the tank with Buildcraft paintbrushes and the GT spray can.
 
-If you still use Railcraft tanks in later tiers, you boost the output rate by using pumps.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceRailcraft/machine.beta-1.pngIron Tank Gaug;Multi-Block: Variable Size, Hollow;Heights: 4, 5, 6, 7, 8;Diameters: 3, 5, 7, 9;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block
-1Railcraft/machine.beta-2.pngIron Tank Valv;Multi-Block: Must be in bottom;two layers to output liquid.;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block ;Auto-Output from bottom side ;Auto-Output rate is 1000L/t
-1TConstruct/oreBerries-1.pngGold Oreberr;Pure Luster;Can be placed on a empty IC2 Crop.
-5enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalRailcraft/machine.beta-0.pngIron Tank Wal;Multi-Block: Variable Size, Hollow;Heights: 4, 5, 6, 7, 8;Diameters: 3, 5, 7, 9;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block
-30Railcraft/machine.beta-2.pngIron Tank Valv;Multi-Block: Must be in bottom;two layers to output liquid.;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block ;Auto-Output from bottom side ;Auto-Output rate is 1000L/t
-2Railcraft/machine.beta-1.pngIron Tank Gaug;Multi-Block: Variable Size, Hollow;Heights: 4, 5, 6, 7, 8;Diameters: 3, 5, 7, 9;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block
+If you still use Railcraft tanks in later tiers, you boost the output rate by using pumps.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceRailcraft/machine.beta-1.pngIron Tank Gauge;Multi-Block: Variable Size, Hollow;Heights: 4, 5, 6, 7, 8;Diameters: 3, 5, 7, 9;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block
+1Railcraft/machine.beta-2.pngIron Tank Valve;Multi-Block: Must be in bottom;two layers to output liquid.;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block ;Auto-Output from bottom side ;Auto-Output rate is 1000L/t
+1TConstruct/oreBerries-1.pngGold Oreberry;Pure Luster;Can be placed on a empty IC2 Crop.
+5enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalRailcraft/machine.beta-0.pngIron Tank Wall;Multi-Block: Variable Size, Hollow;Heights: 4, 5, 6, 7, 8;Diameters: 3, 5, 7, 9;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block
+30Railcraft/machine.beta-2.pngIron Tank Valve;Multi-Block: Must be in bottom;two layers to output liquid.;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block ;Auto-Output from bottom side ;Auto-Output rate is 1000L/t
+2Railcraft/machine.beta-1.pngIron Tank Gauge;Multi-Block: Variable Size, Hollow;Heights: 4, 5, 6, 7, 8;Diameters: 3, 5, 7, 9;Mobs cannot Spawn on this Block;Has 16 buckets capacity per block
 2

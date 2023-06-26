@@ -1,2 +1,2 @@
-451minecraft/lever-0.png0Trigger LoCqLine-1Triggered by having a "Lamp of Cinders" in your inventory.ANDpre9060TwilightForest/item.trophy-4.pngrewardstasksANDRetrievalTwilightForest/item.lampOfCinders-0.pngLamp of Cinder
+451minecraft/lever-0.png0Trigger LoCqLine-1Triggered by having a "Lamp of Cinders" in your inventory.ANDpre9060TwilightForest/item.trophy-4.pngrewardstasksANDRetrievalTwilightForest/item.lampOfCinders-0.pngLamp of Cinders
 1

@@ -2,9 +2,9 @@
 
 The first thing you need is...Seaweed! Use that with Unknown Water you pumped from the same planet to make the culture. Expect this to take a while, as the chances are super low. You'll also need the max tier Bio Lab.
 
-Once you have the culture you can make SeaweedBroth, by combining it with UnknownNutrientAgar and some other stuff. This can then be made into seaweed.ANDpre26571dreamcraft/item.TCetiESeaweedExtract-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-12704.pngUV Bio La;The BioLab, a Multi-Use Bioengineering Station;Added by bartimaeusnek via BartWorks;Voltage IN: 524,288 (UV);Capacity: 33,554,432 EU
-1Optionalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: TCetiEis Fucus Serratus (TCetiEis Fucus Serratus);Added by BartWorks
-1gregtech/gt.metaitem.98-7.pngUnknown Nutrient Agar Cel
-1Optionalgregtech/gt.metaitem.98-8.pngSeaweed Broth Cel
-1RetrievalGalaxySpace/tcetiedandelions-0.pngT Ceti E Seawee
+Once you have the culture you can make SeaweedBroth, by combining it with UnknownNutrientAgar and some other stuff. This can then be made into seaweed.ANDpre26571dreamcraft/item.TCetiESeaweedExtract-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-12704.pngUV Bio Lab;The BioLab, a Multi-Use Bioengineering Station;Added by bartimaeusnek via BartWorks;Voltage IN: 524,288 (UV);Capacity: 33,554,432 EU
+1Optionalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: TCetiEis Fucus Serratus (TCetiEis Fucus Serratus);Added by BartWorks
+1gregtech/gt.metaitem.98-7.pngUnknown Nutrient Agar Cell
+1Optionalgregtech/gt.metaitem.98-8.pngSeaweed Broth Cell
+1RetrievalGalaxySpace/tcetiedandelions-0.pngT Ceti E Seaweed
 64

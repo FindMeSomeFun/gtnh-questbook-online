@@ -1,6 +1,6 @@
 2634ToxicEverglades/everglades.trigger-0.png0A Vision of the Future (FPS Drop Not Included)10-1To get to the Toxic Everglades, you'll need 10 Containment Frames and an Alkalus Disk (Activated).  You use them like when making a nether portal. The disk can also be used to set special fires. It doesn't spread across the ground that well, but it'll take out a tree real fast. If you want to get rid of a giant tree, this is your tool.
 
-The dim itself is filled with GT++ ores. If you want the ore distribution to make sense/be greggy, badger Alk about it.ANDpre26271gregtech/gt.blockmachines-47.pngrewardstasksANDRetrievalToxicEverglades/blockDarkWorldPortalFrame-0.pngContainment Fram;Use this to access the Toxic Everglades.;Assembled in the same shape as the Nether Portal.
-10ToxicEverglades/everglades.trigger-0.pngAlkalus Disk [Activated;Shines the way, towards the far away Everglades.;This item produces such a temperature, that you''d hate to use it incorrectly.
+The dim itself is filled with GT++ ores. If you want the ore distribution to make sense/be greggy, badger Alk about it.ANDpre26271gregtech/gt.blockmachines-47.pngrewardstasksANDRetrievalToxicEverglades/blockDarkWorldPortalFrame-0.pngContainment Frame;Use this to access the Toxic Everglades.;Assembled in the same shape as the Nether Portal.
+10ToxicEverglades/everglades.trigger-0.pngAlkalus Disk [Activated];Shines the way, towards the far away Everglades.;This item produces such a temperature, that you''d hate to use it incorrectly.
 1LocationDIM/227-.pngToxic Everglades
 1

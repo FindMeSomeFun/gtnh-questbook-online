@@ -1,5 +1,5 @@
-209openmodularturrets/teleporterTurret-0.png0§a§lMake Love, Not War14-1For those who don't want to kill things. Just teleport them away, however this takes a large amount of power.ANDpre2070openmodularturrets/baseTierThreeBlock-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalopenmodularturrets/teleporterTurret-0.pngTeleporter Turre;--Info--;Tier: 4;Range (in blocks): 20;Accuracy: High;Ammo Type: None;Base Minimum Tier: Tier 4 Turret Base;--Damage Output--;Projectile Damage: 0.0 Hearts;AOE Radius: 0;Shots/s: 0.2;Energy usage per shot: 15000 RF;It''s like long strands of spaghetti,;but in 11 dimensions.;Glass-Tier: HV
+209openmodularturrets/teleporterTurret-0.png0§a§lMake Love, Not War14-1For those who don't want to kill things. Just teleport them away, however this takes a large amount of power.ANDpre2070openmodularturrets/baseTierThreeBlock-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalopenmodularturrets/teleporterTurret-0.pngTeleporter Turret;--Info--;Tier: 4;Range (in blocks): 20;Accuracy: High;Ammo Type: None;Base Minimum Tier: Tier 4 Turret Base;--Damage Output--;Projectile Damage: 0.0 Hearts;AOE Radius: 0;Shots/s: 0.2;Energy usage per shot: 15000 RF;It''s like long strands of spaghetti,;but in 11 dimensions.;Glass-Tier: HV
 1

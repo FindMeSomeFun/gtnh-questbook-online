@@ -1,12 +1,12 @@
 658battlegear2/spear.iron-0.png0§3§lIron Spear14-1Upgrade your wooden spear with an iron arrowhead and two steel screws to an iron spear. 
 
-The iron spear has better durability than the stone variant.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceminecraft/spawn_egg-58.pngSpawn Enderma
-1minecraft/spawn_egg-59.pngSpawn Cave Spide
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10tasksANDOptionalTConstruct/arrowhead-2.pngIron Arrowhea;Attack: 1.5 Hearts;Durability: 188;Break Chance: 80%;Weight: 3.3;Parts can be replaced
-1gregtech/gt.metaitem.01-27305.pngSteel Scre;Fe\u2085\u2080C
-2battlegear2/spear.wood-0.pngWooden Spea;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
-1Craftingbattlegear2/spear.iron-0.pngIron Spea;+3 Mounted Damage;+4 Attack Damage;+3 Reach;Durability: 250/250
+The iron spear has better durability than the stone variant.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceminecraft/spawn_egg-58.pngSpawn Enderman
+1minecraft/spawn_egg-59.pngSpawn Cave Spider
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalTConstruct/arrowhead-2.pngIron Arrowhead;Attack: 1.5 Hearts;Durability: 188;Break Chance: 80%;Weight: 3.3;Parts can be replaced
+1gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
+1Craftingbattlegear2/spear.iron-0.pngIron Spear;+3 Mounted Damage;+4 Attack Damage;+3 Reach;Durability: 250/250
 1

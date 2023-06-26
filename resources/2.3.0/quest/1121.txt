@@ -6,16 +6,16 @@ Imperial bees produce dripping combs every 3.8 minutes and royal jelly every 5.1
 
 Royal jelly is needed in making scented paneling for an Alveary - the third tier bee housing.
 
-You can now start working towards the Master Registry in the How to Be(e) tab.ANDpre11200Forestry/beeQueenGE-0-Majestic.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/beePrincessGE-0-ocean.pngOcean Princes;Pristine Stock
-1Forestry/beeDroneGE-0-ocean.pngOcean Dron
-4Forestry/beeCombs-5.pngDripping Com
-32Forestry/honeyDrop-0.pngHoney Dro
-64Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
-5tasksANDOptionalForestry/beePrincessGE-0-Noble.pngNoble Princes;Pristine Stock
-1Forestry/beeDroneGE-0-Noble.pngNoble Dron
-1Forestry/beePrincessGE-0-Majestic.pngMajestic Princes;Pristine Stock
-1Forestry/beeDroneGE-0-Majestic.pngMajestic Dron
-1RetrievalForestry/beePrincessGE-0-Imperial.pngImperial Princes;Pristine Stock
-1Forestry/beeDroneGE-0-Imperial.pngImperial Dron
+You can now start working towards the Master Registry in the How to Be(e) tab.ANDpre11200Forestry/beeQueenGE-0-Majestic.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/beePrincessGE-0-ocean.pngOcean Princess;Pristine Stock
+1Forestry/beeDroneGE-0-ocean.pngOcean Drone
+4Forestry/beeCombs-5.pngDripping Comb
+32Forestry/honeyDrop-0.pngHoney Drop
+64Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5tasksANDOptionalForestry/beePrincessGE-0-Noble.pngNoble Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Noble.pngNoble Drone
+1Forestry/beePrincessGE-0-Majestic.pngMajestic Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Majestic.pngMajestic Drone
+1RetrievalForestry/beePrincessGE-0-Imperial.pngImperial Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Imperial.pngImperial Drone
 1

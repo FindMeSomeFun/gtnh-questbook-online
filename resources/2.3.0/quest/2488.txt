@@ -1,4 +1,4 @@
-2488dreamcraft/item.EngineeringProcessorFluidEmeraldCore-0.png0AE Tier 2 Fluid Storage27-1The main processor for 256K, 1024k and 4096K fluid cells. You'll need to be in IV for these.ANDpre24810ae2fc/fluid_part-3.pngrewardsItemdreamcraft/item.EmeraldAdvancedFluidCoreChip-0.pngFluid Circuit Tier I
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-4tasksANDRetrievaldreamcraft/item.EngineeringProcessorFluidEmeraldCore-0.pngFluid Processor Tier I
+2488dreamcraft/item.EngineeringProcessorFluidEmeraldCore-0.png0AE Tier 2 Fluid Storage27-1The main processor for 256K, 1024k and 4096K fluid cells. You'll need to be in IV for these.ANDpre24810ae2fc/fluid_part-3.pngrewardsItemdreamcraft/item.EmeraldAdvancedFluidCoreChip-0.pngFluid Circuit Tier II
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+4tasksANDRetrievaldreamcraft/item.EngineeringProcessorFluidEmeraldCore-0.pngFluid Processor Tier II
 1

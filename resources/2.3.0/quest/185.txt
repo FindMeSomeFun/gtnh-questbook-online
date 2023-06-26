@@ -2,12 +2,12 @@
 
 The ME Crafting Terminal is the upgraded version of the ME terminal which has an integrated crafting grid with access to an ME network's networked storage.
 
-The ME Interface Terminal gives remote access to all interface pattern slots on your network separated by which type of machine they are on. It will show the type of machine in the terminal, however you can name the ME interface in the inscriber or an anvil to alter the name displayed in the ME interface terminal. If you use Ender Chests to send stuff elsewhere to be processed a lot, this may help with reducing confusion. You can also search for a specific device.ANDpre25191appliedenergistics2/item.ItemMultiPart-180.pngrewardsChoiceenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
-1appliedenergistics2/item.ItemMultiPart-360.pngME Crafting Termina
-1appliedenergistics2/item.ItemMultiPart-480.pngME Interface Termina
-1appliedenergistics2/item.ItemMultiPart-340.pngME Pattern Termina
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-380.pngME Termina
-1appliedenergistics2/item.ItemMultiPart-360.pngME Crafting Termina
-1appliedenergistics2/item.ItemMultiPart-480.pngME Interface Termina
+The ME Interface Terminal gives remote access to all interface pattern slots on your network separated by which type of machine they are on. It will show the type of machine in the terminal, however you can name the ME interface in the inscriber or an anvil to alter the name displayed in the ME interface terminal. If you use Ender Chests to send stuff elsewhere to be processed a lot, this may help with reducing confusion. You can also search for a specific device.ANDpre25191appliedenergistics2/item.ItemMultiPart-180.pngrewardsChoiceenhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+1appliedenergistics2/item.ItemMultiPart-360.pngME Crafting Terminal
+1appliedenergistics2/item.ItemMultiPart-480.pngME Interface Terminal
+1appliedenergistics2/item.ItemMultiPart-340.pngME Pattern Terminal
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-380.pngME Terminal
+1appliedenergistics2/item.ItemMultiPart-360.pngME Crafting Terminal
+1appliedenergistics2/item.ItemMultiPart-480.pngME Interface Terminal
 1

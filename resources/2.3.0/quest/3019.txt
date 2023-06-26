@@ -4,11 +4,11 @@ This step is by far the most complicated one in the entire chain, but you alread
 
 There is more progression to the oil processing, and more quests from here, but this is it for fuel improvements. What is left for you is unlocking, and building even better generators that can take full advantage of how powerful HOG is. Nuclear Power is likely to be your next step in power, as diesels cannot last forever, but you can still continue through this path.
 
-Oh, and congratulations! You have earned this reward.ANDpre30150gregtech/gt.metaitem.01-30994.png30160gregtech/gt.metaitem.01-30993.png30170gregtech/gt.metaitem.01-30995.png30180gregtech/gt.metaitem.01-30997.pngrewardsItemgregtech/gt.blockmachines-5153.pngLarge Titanium Fluid Pip;Fluid Capacity: 19,200 L/sec;Heat Limit: 5,000 K
-6gregtech/gt.metaitem.01-11085.pngPlatinum Ingo;Pt
-8gregtech/gt.metaitem.01-11316.pngTungstensteel Ingo;(Fe\u2085\u2080C)W
-2enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-2dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
-1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
-1tasksANDRetrievalgregtech/gt.metaitem.01-30998.pngHigh Octane Gasoline Cel
+Oh, and congratulations! You have earned this reward.ANDpre30150gregtech/gt.metaitem.01-30994.png30160gregtech/gt.metaitem.01-30993.png30170gregtech/gt.metaitem.01-30995.png30180gregtech/gt.metaitem.01-30997.pngrewardsItemgregtech/gt.blockmachines-5153.pngLarge Titanium Fluid Pipe;Fluid Capacity: 19,200 L/sec;Heat Limit: 5,000 K
+6gregtech/gt.metaitem.01-11085.pngPlatinum Ingot;Pt
+8gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
+2enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+2dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDRetrievalgregtech/gt.metaitem.01-30998.pngHigh Octane Gasoline Cell
 256

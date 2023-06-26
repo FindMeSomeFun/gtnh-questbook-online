@@ -1,3 +1,3 @@
-2796gregtech/gt.blockmachines-1188.png0Portable Clean Energy ZPM19-1This is the ZPM version. It uses Naquadria now.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItemgregtech/gt.metaitem.01-26327.pngNaquadria Bol;Nq*
-16tasksANDRetrievalgregtech/gt.blockmachines-1188.pngNaquadah Reactor Mark I;Requires Naquadria Bolts;Fuel Efficiency: 200%;Voltage OUT: 131,072 (ZPM);Capacity: 10,486,272 EU
+2796gregtech/gt.blockmachines-1188.png0Portable Clean Energy ZPM19-1This is the ZPM version. It uses Naquadria now.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItemgregtech/gt.metaitem.01-26327.pngNaquadria Bolt;Nq*
+16tasksANDRetrievalgregtech/gt.blockmachines-1188.pngNaquadah Reactor Mark IV;Requires Naquadria Bolts;Fuel Efficiency: 200%;Voltage OUT: 131,072 (ZPM);Capacity: 10,486,272 EU
 1

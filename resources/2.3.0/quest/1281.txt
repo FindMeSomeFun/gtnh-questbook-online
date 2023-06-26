@@ -1,4 +1,4 @@
-1281gregtech/gt.metaitem.02-32110.png0Rum13-1Rum. Yummy!ORpre12800berriespp/BppPotions-4.pngrewardsItemenhancedlootbags/lootbag-29.pngLootBag (Slow Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinCookI-0.pngCoin "The Cook 10
-1tasksANDRetrievalgregtech/gt.metaitem.02-32110.pngRu;gregtech:gt.metaitem.02;A buddle o'' rum
+1281gregtech/gt.metaitem.02-32110.png0Rum13-1Rum. Yummy!ORpre12800berriespp/BppPotions-4.pngrewardsItemenhancedlootbags/lootbag-29.pngLootBag (Slow Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+1tasksANDRetrievalgregtech/gt.metaitem.02-32110.pngRum;gregtech:gt.metaitem.02;A buddle o'' rum
 4

@@ -1,8 +1,8 @@
 426AWWayofTime/runeOfSelfSacrifice-0.png0Sacrificial Runes37-1Poking your finger might work for simple slates and runes, but getting enough blood for advanced stuff is tedious. With sacrificial runes you are able to increase the blood gain from mobs or yourself.
 
-These increase the blood gain by 12% additively for each rune.ANDpre4211AWWayofTime/imbuedSlate-0.pngrewardsChoiceAWWayofTime/runeOfSelfSacrifice-0.pngRune of Self-Sacrific
-2AWWayofTime/runeOfSacrifice-0.pngRune of Sacrific
-2Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
-2tasksANDRetrievalAWWayofTime/runeOfSelfSacrifice-0.pngRune of Self-Sacrific
-4AWWayofTime/runeOfSacrifice-0.pngRune of Sacrific
+These increase the blood gain by 12% additively for each rune.ANDpre4211AWWayofTime/imbuedSlate-0.pngrewardsChoiceAWWayofTime/runeOfSelfSacrifice-0.pngRune of Self-Sacrifice
+2AWWayofTime/runeOfSacrifice-0.pngRune of Sacrifice
+2Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalAWWayofTime/runeOfSelfSacrifice-0.pngRune of Self-Sacrifice
+4AWWayofTime/runeOfSacrifice-0.pngRune of Sacrifice
 4

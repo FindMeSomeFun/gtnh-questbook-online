@@ -4,15 +4,15 @@ You need an enchantment table, 8 redstone dust, a weapon, and an animal you want
 
 Place your enchantment table on a grass field and surround it with redstone dust. At midnight, place the animal on or near the table and kill it. You can check with the sigil if it's time yet by right-clicking it on the enchantment table. Of course you also need to have your sigil on you.
 
-Beware! Your actions will have consequences.ANDpre1170ExtraUtilities/golden_lasso-0.png11000minecraft/enchanting_table-0.pngrewardsItemminecraft/torch-0.pngTorc
-16ExtraUtilities/unstableingot-1.pngSemi-stable Nugge
-1enhancedlootbags/lootbag-9.pngLootBag (Magic Novice;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5tasksANDOptionalExtraUtilities/divisionSigil-0.pngDivision Sigi;INACTIVE: You must perform Activation Ritual.;Sneak right-click on an enchanting table;for more details
-1Optionalminecraft/enchanting_table-0.pngEnchantment Tabl
-1minecraft/redstone-0.pngRedston
-8ExtraUtilities/golden_lasso-0.pngGolden Lass
-1RetrievalExtraUtilities/divisionSigil-0-activated.pngDivision Sigil (Activated;ACTIVE: Number of uses remaining - 256
+Beware! Your actions will have consequences.ANDpre1170ExtraUtilities/golden_lasso-0.png11000minecraft/enchanting_table-0.pngrewardsItemminecraft/torch-0.pngTorch
+16ExtraUtilities/unstableingot-1.pngSemi-stable Nugget
+1enhancedlootbags/lootbag-9.pngLootBag (Magic Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5tasksANDOptionalExtraUtilities/divisionSigil-0.pngDivision Sigil;INACTIVE: You must perform Activation Ritual.;Sneak right-click on an enchanting table;for more details
+1Optionalminecraft/enchanting_table-0.pngEnchantment Table
+1minecraft/redstone-0.pngRedstone
+8ExtraUtilities/golden_lasso-0.pngGolden Lasso
+1RetrievalExtraUtilities/divisionSigil-0-activated.pngDivision Sigil (Activated);ACTIVE: Number of uses remaining - 256
 1

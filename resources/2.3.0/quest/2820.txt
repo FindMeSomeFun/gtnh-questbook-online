@@ -1,5 +1,5 @@
-2820gregtech/gt.blockmachines-1124.png0Toss Your Magic Junk in Here MV19-1The MV version.ANDpre11020minecraft/beacon-0.png12321gregtech/gt.metaitem.01-32692.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shar
-16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-3tasksANDRetrievalgregtech/gt.blockmachines-1124.pngAdept Magic Energy Converte;Put your strange stuff in here;Fuel Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 10,752 EU
+2820gregtech/gt.blockmachines-1124.png0Toss Your Magic Junk in Here MV19-1The MV version.ANDpre11020minecraft/beacon-0.png12321gregtech/gt.metaitem.01-32692.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
+16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-1124.pngAdept Magic Energy Converter;Put your strange stuff in here;Fuel Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 10,752 EU
 1

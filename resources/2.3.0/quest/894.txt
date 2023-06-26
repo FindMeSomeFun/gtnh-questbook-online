@@ -1,5 +1,5 @@
-894gregtech/gt.blockmachines-820.png0§6§lGT Tanks, HV Tank5-1This one stores 256,000L. The ULV circuits make it annoying to craft, so make them only if you need them. This is the last of the Voltage Tier ones, after this is the Super Tanks, which you can actually make right now.ANDpre8931gregtech/gt.metaitem.01-32611.pngrewardsItemgregtech/gt.blockmachines-5132.pngSteel Fluid Pip;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
-8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalgregtech/gt.blockmachines-820.pngHigh Voltage Fluid Tan;Stores 256000L of fluid;A portable tank.;Added by: Alkalus - [GT++]
+894gregtech/gt.blockmachines-820.png0§6§lGT Tanks, HV Tank5-1This one stores 256,000L. The ULV circuits make it annoying to craft, so make them only if you need them. This is the last of the Voltage Tier ones, after this is the Super Tanks, which you can actually make right now.ANDpre8931gregtech/gt.metaitem.01-32611.pngrewardsItemgregtech/gt.blockmachines-5132.pngSteel Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
+8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.blockmachines-820.pngHigh Voltage Fluid Tank;Stores 256000L of fluid;A portable tank.;Added by: Alkalus - [GT++]
 1

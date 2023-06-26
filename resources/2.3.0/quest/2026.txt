@@ -18,6 +18,6 @@ Click on the small chest icons on the right hand side of each listing to open th
 
 If you want, you can craft a waypoint compass and use that to point you towards the chest. Since we have JourneyMaps and NEI, it's not really necessary.
 
-§4The Catalog seems to be a bit broken though and doesn't work well with GT items.ANDpre10081minecraft/book-0.pngrewardsItemminecraft/chest-0.pngChes;Burn Time: 300
-16tasksANDRetrievalBiblioCraft/item.StockroomCatalog-0.pngStockroom Catalo
+§4The Catalog seems to be a bit broken though and doesn't work well with GT items.ANDpre10081minecraft/book-0.pngrewardsItemminecraft/chest-0.pngChest;Burn Time: 300
+16tasksANDRetrievalBiblioCraft/item.StockroomCatalog-0.pngStockroom Catalog
 1

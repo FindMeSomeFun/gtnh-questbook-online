@@ -6,12 +6,12 @@ Place the controller one block above the ground and use the Multiblock Structure
 
 The Assembly Line Slave Connector replaces your old Data Access Hatch on the Assembling Line. Connect it to a Master Connector on the Data Bank with Optical Fiber Cable and make sure to color the hatches and the cable.
 
-§3If you can't figure out what blocks to place, pay attention to the tooltip in the bottom-left when using the Multiblock Structure Hologram Projector. In this case the filler blocks are Computer Casing.ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionaltectech/gt.blockcasingsTT-2.pngComputer Heat Ven;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
-18tectech/gt.blockcasingsTT-0.pngHigh Power Casin;TecTech: Elemental Matter;Well suited for high power applications.;The power levels are rising!
-6tectech/gt.blockcasingsTT-1.pngComputer Casin;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
-3gregtech/gt.blockmachines-146.pngAdvanced Data Access Hatc;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks
-1gregtech/gt.blockmachines-15443.pngData Bank Master Connecto;TecTech: Elemental Matter;ItemStack Data Output for Multiblocks;High speed fibre optics connector.;Must be painted to work
-1gregtech/gt.blockmachines-15442.pngAssembly line Slave Connecto;TecTech: Elemental Matter;ItemStack Data Input for Multiblocks;High speed fibre optics connector.;Must be painted to work
-1gregtech/gt.blockmachines-15470.pngOptical Fiber Cabl;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
-10Retrievalgregtech/gt.blockmachines-15313.pngData Ban;Machine Type: Data Bank;Controller block of the Data Bank;Used to supply Assembling Lines with more Data Sticks;and give multiple Assembling Lines access to the same Data Stick;The structure is too complex!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Elemental Matter
+§3If you can't figure out what blocks to place, pay attention to the tooltip in the bottom-left when using the Multiblock Structure Hologram Projector. In this case the filler blocks are Computer Casing.ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionaltectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
+18tectech/gt.blockcasingsTT-0.pngHigh Power Casing;TecTech: Elemental Matter;Well suited for high power applications.;The power levels are rising!
+6tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
+3gregtech/gt.blockmachines-146.pngAdvanced Data Access Hatch;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks
+1gregtech/gt.blockmachines-15443.pngData Bank Master Connector;TecTech: Elemental Matter;ItemStack Data Output for Multiblocks;High speed fibre optics connector.;Must be painted to work
+1gregtech/gt.blockmachines-15442.pngAssembly line Slave Connector;TecTech: Elemental Matter;ItemStack Data Input for Multiblocks;High speed fibre optics connector.;Must be painted to work
+1gregtech/gt.blockmachines-15470.pngOptical Fiber Cable;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
+10Retrievalgregtech/gt.blockmachines-15313.pngData Bank;Machine Type: Data Bank;Controller block of the Data Bank;Used to supply Assembling Lines with more Data Sticks;and give multiple Assembling Lines access to the same Data Stick;The structure is too complex!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Elemental Matter
 1

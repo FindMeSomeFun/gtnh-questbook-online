@@ -1,10 +1,10 @@
 824GalacticraftCore/item.oxygenTankLightFull-0.png1Oxygen Tanks24-1The Light oxygen tank is an oxygen storage tank that can hold up to 1000 units of air. It is used to provide a portable source of oxygen while in areas that do not have an oxygen source of their own.
 
 Usage:
-Up to two oxygen tanks can be worn at a time. To wear any type of oxygen tank, open your inventory and click on the Galacticraft tab at the top of the menu. Here you will see the available spots for your various types of equipment. Simply place your tank(s) in one of the slots with a grey picture of an oxygen tank. Other types of oxygen tanks include the medium oxygen tank, which holds twice the amount of oxygen as a light tank, and the heavy oxygen tank, which holds three times the amount of a light tank.ANDpre8221GalacticraftCore/item.oxygenGear-0.png8231GalacticraftCore/item.oxygenMask-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pip;Glass-Tier: HV
-4GalacticraftCore/item.basicItem-8.pngCompressed Aluminu
-4GalacticraftCore/item.basicItem-13.pngBasic Wafe
-1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalGalacticraftCore/item.oxygenTankLightFull-1000.pngLight Oxygen Tan;Oxygen Remaining: 0;Durability: 0 / 1000
+Up to two oxygen tanks can be worn at a time. To wear any type of oxygen tank, open your inventory and click on the Galacticraft tab at the top of the menu. Here you will see the available spots for your various types of equipment. Simply place your tank(s) in one of the slots with a grey picture of an oxygen tank. Other types of oxygen tanks include the medium oxygen tank, which holds twice the amount of oxygen as a light tank, and the heavy oxygen tank, which holds three times the amount of a light tank.ANDpre8221GalacticraftCore/item.oxygenGear-0.png8231GalacticraftCore/item.oxygenMask-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
+4GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
+4GalacticraftCore/item.basicItem-13.pngBasic Wafer
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalGalacticraftCore/item.oxygenTankLightFull-1000.pngLight Oxygen Tank;Oxygen Remaining: 0;Durability: 0 / 1000
 2

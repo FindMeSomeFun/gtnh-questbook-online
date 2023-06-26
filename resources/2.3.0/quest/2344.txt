@@ -8,14 +8,14 @@ To call the entire coven to perform a rite, start the rite normally while holdin
 
 To determine if another player is cursed, to find out if they have a coven or familiar, and how much time they can manifest for, use the Seer Stone on them when they are within 3 blocks distance. Sneak-using the stone will show the same information for the bearer of the Stone.
 
-A Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstance Oil using a Rite of Infusion.ANDpre23430witchery/ingredient-92.pngrewardsChoiceExtraUtilities/golden_lasso-0.pngGolden Lass
-4witchery/ingredient-40.pngRedstone Sou
-2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-1tasksANDOptionalwitchery/ingredient-92.pngQuartz Spher
-1minecraft/obsidian-0.pngObsidia
-1witchery/ingredient-93.pngHappenstance Oi
-1Retrievalwitchery/ingredient-94.pngSeer Ston
+A Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstance Oil using a Rite of Infusion.ANDpre23430witchery/ingredient-92.pngrewardsChoiceExtraUtilities/golden_lasso-0.pngGolden Lasso
+4witchery/ingredient-40.pngRedstone Soup
+2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDOptionalwitchery/ingredient-92.pngQuartz Sphere
+1minecraft/obsidian-0.pngObsidian
+1witchery/ingredient-93.pngHappenstance Oil
+1Retrievalwitchery/ingredient-94.pngSeer Stone
 1

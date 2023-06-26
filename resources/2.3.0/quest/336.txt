@@ -14,10 +14,10 @@ It is important to keep the fire going constantly while the recipe is being prep
 
 When a brew is complete, the liquid will be the color of the resulting brew and will splutter (in addition to white swirls).
 
-Some recipes will require magical energy from a nearby Altar before they are bottled. If the brew is bottled when insufficient energy is available, the brew will be ruined. Black swirls coming from the Kettle is a good sign there is not enough power. A kettle must be within 14 (to 16) blocks of an Altar in order to obtain power from it (it can obtain power only from a single altar).ANDpre3330witchery/altar-0.pngrewardsItemenhancedlootbags/lootbag-53.pngLootBag (Witchery Adept;You feel that a bit more "Fortune" might be a good idea...
-1witchery/ingredient-22.pngMandrake Roo
-4Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10
-5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDRetrievalwitchery/kettle-0.pngKettl
+Some recipes will require magical energy from a nearby Altar before they are bottled. If the brew is bottled when insufficient energy is available, the brew will be ruined. Black swirls coming from the Kettle is a good sign there is not enough power. A kettle must be within 14 (to 16) blocks of an Altar in order to obtain power from it (it can obtain power only from a single altar).ANDpre3330witchery/altar-0.pngrewardsItemenhancedlootbags/lootbag-53.pngLootBag (Witchery Adept);You feel that a bit more "Fortune" might be a good idea...
+1witchery/ingredient-22.pngMandrake Root
+4Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalwitchery/kettle-0.pngKettle
 1

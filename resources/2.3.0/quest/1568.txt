@@ -1,10 +1,10 @@
 1568witchery/ingredient-10.png0Attuned Stone36-1An attuned stone is a diamond that has been infused with natural magic in a fiery medium. Attuned stones can be used to link non-magical devices to the magical currents present in the world, and are one of the main ingredients in crafting distilleries, kettles, altar foci and poppet shelves.
 
-The other main use of attuned stones is to act as a portable power source for circle magic rites, when a nearby altar is not available. To act in such a way, the attuned stone must first be charged with a Rite of Charging.ANDpre15580witchery/ingredient-34.pngrewardsItemwitchery/ingredient-27.pngClay Ja
-8Itemdreamcraft/item.CoinWitch-0.pngCoin "Spirit 1
-25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
-25tasksANDOptionalwitchery/ingredient-34.pngWhiff of Magi
-1minecraft/diamond-0.pngDiamon;Burn Time: 102400
-1minecraft/lava_bucket-0.pngLava Bucke;Burn Time: 20000;You need Gloves for it?
-1Retrievalwitchery/ingredient-10.pngAttuned Ston
+The other main use of attuned stones is to act as a portable power source for circle magic rites, when a nearby altar is not available. To act in such a way, the attuned stone must first be charged with a Rite of Charging.ANDpre15580witchery/ingredient-34.pngrewardsItemwitchery/ingredient-27.pngClay Jar
+8Itemdreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25tasksANDOptionalwitchery/ingredient-34.pngWhiff of Magic
+1minecraft/diamond-0.pngDiamond;Burn Time: 102400
+1minecraft/lava_bucket-0.pngLava Bucket;Burn Time: 20000;You need Gloves for it?
+1Retrievalwitchery/ingredient-10.pngAttuned Stone
 1

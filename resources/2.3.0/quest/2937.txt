@@ -1,4 +1,4 @@
 2937gregtech/gt.blockmachines-32012.png0§6§lNeutron Sensor17-1The sensor will sends redstone signals according to the NKE of the Neutron Activator.
 
-You only need to input some expressions like ">120MeV", "<=1000keV" etc in the sensor, and it will work as you want.ANDpre29361gregtech/gt.blockmachines-32013.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-32012.pngNeutron Senso;Can be installed in Neutron Activator.;Output Redstone Signal according to the Neutron Kinetic Energy.;Right click to open the GUI and setting.
+You only need to input some expressions like ">120MeV", "<=1000keV" etc in the sensor, and it will work as you want.ANDpre29361gregtech/gt.blockmachines-32013.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-32012.pngNeutron Sensor;Can be installed in Neutron Activator.;Output Redstone Signal according to the Neutron Kinetic Energy.;Right click to open the GUI and setting.
 1

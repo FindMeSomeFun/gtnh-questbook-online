@@ -1,12 +1,12 @@
-645OpenBlocks/hangglider-0.png0Glider Wings14-1If for some reason you want to be able to jump down a cliff without getting the message "Player X fell from a high place", a great idea would be to find a way to slow your fall. The store was out of feather falling potions, so make a hang glider instead.ANDpre651gregtech/gt.metaitem.01-11305.png4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leathe
-2minecraft/enchanted_book-0.pngEnchanted Boo;Feather Falling I;Hold the Sneak key for Enchantment Description
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDOptionalminecraft/leather-0.pngLeathe
-10Backpack/tannedLeather-0.pngTanned Leathe
-2gregtech/gt.metaitem.01-23305.pngSteel Ro;Fe\u2085\u2080C
-4OptionalOpenBlocks/generic-0.pngGlider Win
-2gregtech/gt.metaitem.01-17305.pngSteel Plat;Fe\u2085\u2080C
-1gregtech/gt.metaitem.01-27305.pngSteel Scre;Fe\u2085\u2080C
-4RetrievalOpenBlocks/hangglider-0.pngHang Glide
+645OpenBlocks/hangglider-0.png0Glider Wings14-1If for some reason you want to be able to jump down a cliff without getting the message "Player X fell from a high place", a great idea would be to find a way to slow your fall. The store was out of feather falling potions, so make a hang glider instead.ANDpre651gregtech/gt.metaitem.01-11305.png4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leather
+2minecraft/enchanted_book-0.pngEnchanted Book;Feather Falling I;Hold the Sneak key for Enchantment Description
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalminecraft/leather-0.pngLeather
+10Backpack/tannedLeather-0.pngTanned Leather
+2gregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
+4OptionalOpenBlocks/generic-0.pngGlider Wing
+2gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+1gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+4RetrievalOpenBlocks/hangglider-0.pngHang Glider
 1

@@ -1,2 +1,2 @@
-2810compactkineticgenerators/BlockCkg-1.png0§9§lKinetic Wind Power IV19-1This is the IV version.ANDpre23211gregtech/gt.metaitem.01-2084.png28080compactkineticgenerators/BlockCkg-0.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-1.pngMedium Kinetic Wind Generato;Power Output: 0-16.0x KU/t max
+2810compactkineticgenerators/BlockCkg-1.png0§9§lKinetic Wind Power IV19-1This is the IV version.ANDpre23211gregtech/gt.metaitem.01-2084.png28080compactkineticgenerators/BlockCkg-0.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-1.pngMedium Kinetic Wind Generator;Power Output: 0-16.0x KU/t max
 1

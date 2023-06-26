@@ -1,4 +1,4 @@
-1043gregtech/gt.metaitem.01-30023.png0Chlorine4012000Want some chlorine? Buy some!ANDpre11481gregtech/gt.blockmachines-12.png26971gregtech/gt.metaitem.01-30023.pngrewardsItemgregtech/gt.metaitem.01-30023.pngChlorine Cel;Cl
-16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cel
-16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
+1043gregtech/gt.metaitem.01-30023.png0Chlorine4012000Want some chlorine? Buy some!ANDpre11481gregtech/gt.blockmachines-12.png26971gregtech/gt.metaitem.01-30023.pngrewardsItemgregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25

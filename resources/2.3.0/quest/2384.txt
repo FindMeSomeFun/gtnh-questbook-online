@@ -1,32 +1,32 @@
-2384HardcoreEnderExpansion/charm-2.png0Charm Master30-1You think you're charming? Craft all these Charms to be the true Master of Charms.ANDpre23680HardcoreEnderExpansion/charm_pouch-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Powe
-16HardcoreEnderExpansion/rune-1.pngRune of Agilit
-16HardcoreEnderExpansion/rune-2.pngRune of Vigo
-16HardcoreEnderExpansion/rune-3.pngRune of Defens
-16HardcoreEnderExpansion/rune-4.pngRune of Magi
-16HardcoreEnderExpansion/rune-5.pngRune of Voi
-16enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced;Your luck is increased by 100 %;Fortune III
-5HardcoreEnderExpansion/charm-55.pngCharm of Critical Strik;10% chance to deal 200% critical damage
-4Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
-1dreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000
-1tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouc;Inactive
-1RetrievalHardcoreEnderExpansion/charm-2.pngCharm of Powe;+60% damage
-1HardcoreEnderExpansion/charm-5.pngCharm of Agilit;+40% speed
-1HardcoreEnderExpansion/charm-8.pngCharm of Vigo;+55% health regeneration speed
-1HardcoreEnderExpansion/charm-11.pngCharm of Defens;-30% damage taken
-1HardcoreEnderExpansion/charm-14.pngCharm of Magi;+30% experience
-1HardcoreEnderExpansion/charm-18.pngCharm of Equalit;+8% damage;+5% speed;+6% health regeneration speed;-3% damage taken;+3% experience
-1HardcoreEnderExpansion/charm-21.pngCharm of Blockin;-45% damage taken when blocking
-1HardcoreEnderExpansion/charm-24.pngCharm of Blocking Reflectio;-20% damage taken and 20% reflected when blocking
-1HardcoreEnderExpansion/charm-73.pngCharm of Blocking Repulsio;-20% damage taken and 2x knockback repulsed
-1HardcoreEnderExpansion/charm-27.pngCharm of Digestive Recove;2 health per 1 hunger bar
-1RetrievalHardcoreEnderExpansion/charm-30.pngCharm of Life Stea;2 health gained per 10 health dealt;This charm will not stack effects with other charms of this type!
-1HardcoreEnderExpansion/charm-36.pngCharm of Damage Redirectio;30% damage redirected to 1 nearby creature(s)
-1HardcoreEnderExpansion/charm-43.pngCharm of Magic Penetratio;32% of dealt damage penetrates armor using magic
-1HardcoreEnderExpansion/charm-76.pngCharm of Magic Defens;-70% magic damage taken
-1HardcoreEnderExpansion/charm-50.pngCharm of Falling Protectio;+6 blocks
-1HardcoreEnderExpansion/charm-53.pngCharm of Hast;+25% dig speed
-1HardcoreEnderExpansion/charm-56.pngCharm of Critical Strik;10% chance to deal 260% critical damage
-1HardcoreEnderExpansion/charm-64.pngCharm of Second Durabilit;44% chance to recover 12% durability
-1HardcoreEnderExpansion/charm-70.pngCharm of Slaughter Impac;100% damage dealt in 6 radius on kill
-1HardcoreEnderExpansion/charm-79.pngCharm of Last Resor;Teleports 12 blocks away from finishing hit with cooldown of 10 seconds;This charm will not stack effects with other charms of this type!
+2384HardcoreEnderExpansion/charm-2.png0Charm Master30-1You think you're charming? Craft all these Charms to be the true Master of Charms.ANDpre23680HardcoreEnderExpansion/charm_pouch-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Power
+16HardcoreEnderExpansion/rune-1.pngRune of Agility
+16HardcoreEnderExpansion/rune-2.pngRune of Vigor
+16HardcoreEnderExpansion/rune-3.pngRune of Defense
+16HardcoreEnderExpansion/rune-4.pngRune of Magic
+16HardcoreEnderExpansion/rune-5.pngRune of Void
+16enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced);Your luck is increased by 100 %;Fortune III
+5HardcoreEnderExpansion/charm-55.pngCharm of Critical Strike;10% chance to deal 200% critical damage
+4Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1dreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
+1tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouch;Inactive
+1RetrievalHardcoreEnderExpansion/charm-2.pngCharm of Power;+60% damage
+1HardcoreEnderExpansion/charm-5.pngCharm of Agility;+40% speed
+1HardcoreEnderExpansion/charm-8.pngCharm of Vigor;+55% health regeneration speed
+1HardcoreEnderExpansion/charm-11.pngCharm of Defense;-30% damage taken
+1HardcoreEnderExpansion/charm-14.pngCharm of Magic;+30% experience
+1HardcoreEnderExpansion/charm-18.pngCharm of Equality;+8% damage;+5% speed;+6% health regeneration speed;-3% damage taken;+3% experience
+1HardcoreEnderExpansion/charm-21.pngCharm of Blocking;-45% damage taken when blocking
+1HardcoreEnderExpansion/charm-24.pngCharm of Blocking Reflection;-20% damage taken and 20% reflected when blocking
+1HardcoreEnderExpansion/charm-73.pngCharm of Blocking Repulsion;-20% damage taken and 2x knockback repulsed
+1HardcoreEnderExpansion/charm-27.pngCharm of Digestive Recover;2 health per 1 hunger bar
+1RetrievalHardcoreEnderExpansion/charm-30.pngCharm of Life Steal;2 health gained per 10 health dealt;This charm will not stack effects with other charms of this type!
+1HardcoreEnderExpansion/charm-36.pngCharm of Damage Redirection;30% damage redirected to 1 nearby creature(s)
+1HardcoreEnderExpansion/charm-43.pngCharm of Magic Penetration;32% of dealt damage penetrates armor using magic
+1HardcoreEnderExpansion/charm-76.pngCharm of Magic Defense;-70% magic damage taken
+1HardcoreEnderExpansion/charm-50.pngCharm of Falling Protection;+6 blocks
+1HardcoreEnderExpansion/charm-53.pngCharm of Haste;+25% dig speed
+1HardcoreEnderExpansion/charm-56.pngCharm of Critical Strike;10% chance to deal 260% critical damage
+1HardcoreEnderExpansion/charm-64.pngCharm of Second Durability;44% chance to recover 12% durability
+1HardcoreEnderExpansion/charm-70.pngCharm of Slaughter Impact;100% damage dealt in 6 radius on kill
+1HardcoreEnderExpansion/charm-79.pngCharm of Last Resort;Teleports 12 blocks away from finishing hit with cooldown of 10 seconds;This charm will not stack effects with other charms of this type!
 1

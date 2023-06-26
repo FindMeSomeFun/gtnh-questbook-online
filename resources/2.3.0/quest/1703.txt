@@ -1,7 +1,7 @@
-1703gregtech/gt.metaitem.01-2590.png1§b§lPotassium Nitrate8-1Potassium Nitrate is made from Potassium and Nitric Acid.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-5tasksANDOptionalgregtech/gt.metaitem.01-2025.pngPotassium Dus;K
-2gregtech/gt.metaitem.01-30653.pngNitric Acid Cel;HNO\u2083
-2Retrievalgregtech/gt.metaitem.01-2590.pngPotassium Nitrate Dus;KNO\u2083
+1703gregtech/gt.metaitem.01-2590.png1§b§lPotassium Nitrate8-1Potassium Nitrate is made from Potassium and Nitric Acid.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-2025.pngPotassium Dust;K
+2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+2Retrievalgregtech/gt.metaitem.01-2590.pngPotassium Nitrate Dust;KNO\u2083
 10

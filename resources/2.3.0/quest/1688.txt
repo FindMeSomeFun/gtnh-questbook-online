@@ -1,11 +1,11 @@
-1688gregtech/gt.metaitem.03-32104.png1§c§lElite Circuit Board9-1A new circuit line, a new board. Also required for the Hi-Computation Station MK-I.ANDpre14931gregtech/gt.blockmachines-16.png16771gregtech/gt.metaitem.03-32103.pngrewardsChoicegregtech/gt.metaitem.01-29085.pngPlatinum Foi;Pt
-64gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Boar;An Extreme Board
-4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-5tasksANDOptionalgregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Boar;An Extreme Board
-58gregtech/gt.metaitem.01-29052.pngPalladium Foi;Pd
-464Optionalgregtech/gt.metaitem.01-32712.pngMultilayer Fiber-Reinforced Circuit Boar;An Elite Board
-29gregtech/gt.metaitem.01-29085.pngPlatinum Foi;Pt
-232Retrievalgregtech/gt.metaitem.03-32104.pngElite Circuit Boar;A elite Circuit Board
+1688gregtech/gt.metaitem.03-32104.png1§c§lElite Circuit Board9-1A new circuit line, a new board. Also required for the Hi-Computation Station MK-I.ANDpre14931gregtech/gt.blockmachines-16.png16771gregtech/gt.metaitem.03-32103.pngrewardsChoicegregtech/gt.metaitem.01-29085.pngPlatinum Foil;Pt
+64gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
+4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+5tasksANDOptionalgregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
+58gregtech/gt.metaitem.01-29052.pngPalladium Foil;Pd
+464Optionalgregtech/gt.metaitem.01-32712.pngMultilayer Fiber-Reinforced Circuit Board;An Elite Board
+29gregtech/gt.metaitem.01-29085.pngPlatinum Foil;Pt
+232Retrievalgregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
 29

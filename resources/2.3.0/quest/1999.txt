@@ -1,3 +1,3 @@
-1999StevesFactoryManager/BlockCableOutputName-0.png0Redstone Emitter26-1The Redstone Emitter sends redstone signals on each of its 6 faces. The redstone signal strength can be set to any value, add, subtract, and more.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableOutputName-0.pngRedstone Emitte
-1tasksANDRetrievalStevesFactoryManager/BlockCableOutputName-0.pngRedstone Emitte
+1999StevesFactoryManager/BlockCableOutputName-0.png0Redstone Emitter26-1The Redstone Emitter sends redstone signals on each of its 6 faces. The redstone signal strength can be set to any value, add, subtract, and more.ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemStevesFactoryManager/BlockCableOutputName-0.pngRedstone Emitter
+1tasksANDRetrievalStevesFactoryManager/BlockCableOutputName-0.pngRedstone Emitter
 1

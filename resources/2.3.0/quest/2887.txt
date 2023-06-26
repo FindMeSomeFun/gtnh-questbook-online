@@ -1,8 +1,8 @@
 2887Thaumcraft/blockMetalDevice-3.png0These Items Will Not 'Be Back'33-1One of the more useful things you can do with the pearl is to make a better Alchemical Furnace. You can melt items into essentia way faster with this.
 
-§3The pearl is not used up, nor does it take durability damage from this craft.ANDpre3071Thaumcraft/ItemEldritchObject-3.pngrewardsItemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-5tasksANDRetrievalThaumcraft/blockMetalDevice-3.pngAdvanced Alchemical Construc
-4Thaumcraft/blockMetalDevice-9.pngAlchemical Construc
-4Thaumcraft/blockMetalDevice-1.pngArcane Alembi
-4Thaumcraft/blockStoneDevice-0.pngAlchemical Furnac
+§3The pearl is not used up, nor does it take durability damage from this craft.ANDpre3071Thaumcraft/ItemEldritchObject-3.pngrewardsItemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumcraft/blockMetalDevice-3.pngAdvanced Alchemical Construct
+4Thaumcraft/blockMetalDevice-9.pngAlchemical Construct
+4Thaumcraft/blockMetalDevice-1.pngArcane Alembic
+4Thaumcraft/blockStoneDevice-0.pngAlchemical Furnace
 1

@@ -1,6 +1,6 @@
-942gregtech/gt.metatool.01-44-Neutronium-Neutronium.png0§3§lIt's a Dirty Job, and You're Going to Do It3-1The Plunger is used to clear liquids from pipes. It can also be used on a machine to remove up to 1000mb of fluid from its internal buffer. So you don't have to wrench your machine and re-place it. It can be crafted from a rod of the desired material and rubber sheets. ANDpre5360gregtech/gt.metaitem.01-17880.pngrewardsItemharvestcraft/oldworldveggiesoupItem-0.pngOld World Veggie Sou;harvestcraft:oldworldveggiesoupItem
-1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-2880.pngRubber Pul;C\u2085H\u2088
-8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDRetrievalgregtech/gt.metatool.01-44.pngPlunge;Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.25;Mining Speed: 1.0;Clears Items from Pipes;Clears 1000 Liters of Fluid from Tanks;Clears Essentia from Containers and Tubes
+942gregtech/gt.metatool.01-44-Neutronium-Neutronium.png0§3§lIt's a Dirty Job, and You're Going to Do It3-1The Plunger is used to clear liquids from pipes. It can also be used on a machine to remove up to 1000mb of fluid from its internal buffer. So you don't have to wrench your machine and re-place it. It can be crafted from a rod of the desired material and rubber sheets. ANDpre5360gregtech/gt.metaitem.01-17880.pngrewardsItemharvestcraft/oldworldveggiesoupItem-0.pngOld World Veggie Soup;harvestcraft:oldworldveggiesoupItem
+1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-2880.pngRubber Pulp;C\u2085H\u2088
+8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalgregtech/gt.metatool.01-44.pngPlunger;Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.25;Mining Speed: 1.0;Clears Items from Pipes;Clears 1000 Liters of Fluid from Tanks;Clears Essentia from Containers and Tubes
 1

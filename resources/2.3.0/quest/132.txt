@@ -7,8 +7,8 @@ Ethanol        15                          40                               600
 Fire Water    15                          80                              1200
 Diesel/Fuel   25                          60                              1500
 
-§3Rocket Fuel is disabled.ANDpre1300EnderIO/blockTank-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-0.pngBasic Capacito
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalEnderIO/blockCombustionGenerator-0.pngCombustion Generato
+§3Rocket Fuel is disabled.ANDpre1300EnderIO/blockTank-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalEnderIO/blockCombustionGenerator-0.pngCombustion Generator
 1

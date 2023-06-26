@@ -1,16 +1,16 @@
-1244gregtech/gt.blockores-393.png0§a§lOther Ores7-1You can find several other ores on these planets (some of which actually don't have a use, honestly), but the most useful right now are probably the ones on the right. There's also Draconium, Jade, Mirabilite, Tanzanite, Vinteum, and Vyroxes.ORpre1870GalacticraftMars/item.spaceshipTier2-0.png1880GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-2tasksORRetrievalgregtech/gt.blockores-58.pngAntimony Or;Sb
-16gregtech/gt.blockores-39.pngArsenic Or;As
-16gregtech/gt.blockores-90.pngBismuth Or;Bi
-16gregtech/gt.blockores-812.pngElectrotine Or;Rp
-16gregtech/gt.blockores-6.pngLithium Or;Li
-16gregtech/gt.blockores-393.pngOriharukon Or;Oh
-16Retrievalgregtech/gt.metaitem.01-5058.pngCrushed Antimony Or;Sb
-48gregtech/gt.metaitem.01-5039.pngCrushed Arsenic Or;As
-48gregtech/gt.metaitem.01-5090.pngCrushed Bismuth Or;Bi
-48gregtech/gt.metaitem.01-5812.pngCrushed Electrotine Or;Rp
-160gregtech/gt.metaitem.01-5006.pngCrushed Lithium Or;Li;Burn Time: 6000
-48gregtech/gt.metaitem.01-5393.pngCrushed Oriharukon Or;Oh
+1244gregtech/gt.blockores-393.png0§a§lOther Ores7-1You can find several other ores on these planets (some of which actually don't have a use, honestly), but the most useful right now are probably the ones on the right. There's also Draconium, Jade, Mirabilite, Tanzanite, Vinteum, and Vyroxes.ORpre1870GalacticraftMars/item.spaceshipTier2-0.png1880GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2tasksORRetrievalgregtech/gt.blockores-58.pngAntimony Ore;Sb
+16gregtech/gt.blockores-39.pngArsenic Ore;As
+16gregtech/gt.blockores-90.pngBismuth Ore;Bi
+16gregtech/gt.blockores-812.pngElectrotine Ore;Rp
+16gregtech/gt.blockores-6.pngLithium Ore;Li
+16gregtech/gt.blockores-393.pngOriharukon Ore;Oh
+16Retrievalgregtech/gt.metaitem.01-5058.pngCrushed Antimony Ore;Sb
+48gregtech/gt.metaitem.01-5039.pngCrushed Arsenic Ore;As
+48gregtech/gt.metaitem.01-5090.pngCrushed Bismuth Ore;Bi
+48gregtech/gt.metaitem.01-5812.pngCrushed Electrotine Ore;Rp
+160gregtech/gt.metaitem.01-5006.pngCrushed Lithium Ore;Li;Burn Time: 6000
+48gregtech/gt.metaitem.01-5393.pngCrushed Oriharukon Ore;Oh
 48

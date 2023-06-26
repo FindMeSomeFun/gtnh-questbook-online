@@ -1,7 +1,7 @@
 643gregtech/gt.metaitem.01-30735.png0§5§lRefinery Gas4-1Refine your gas in a chemical reactor with Hydrogen gas to give it a better burn value of 160,000 EU. It used to be the least useful fraction of oil, but it's now possible to distill it into large amounts of Ethylene if you steam-crack the Refinery Gas beforehand.
 
-This early, you will have to use a Chemical Reactor to crack it, but later on there's a dedicated multiblock for this purpose, the Oil Cracker. For best Ethylene results, you should severely steam-crack it, and you will get lots of Methane as well.ANDpre5431gregtech/gt.blockmachines-421.png5501gregtech/gt.metaitem.01-30001.png6420gregtech/gt.metaitem.01-30734.pngrewardsChoicegregtech/gt.metaitem.01-30715.pngMethane Cel;CH\u2084
-8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-15tasksANDRetrievalgregtech/gt.metaitem.01-30735.pngRefinery Gas Cel
+This early, you will have to use a Chemical Reactor to crack it, but later on there's a dedicated multiblock for this purpose, the Oil Cracker. For best Ethylene results, you should severely steam-crack it, and you will get lots of Methane as well.ANDpre5431gregtech/gt.blockmachines-421.png5501gregtech/gt.metaitem.01-30001.png6420gregtech/gt.metaitem.01-30734.pngrewardsChoicegregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-30735.pngRefinery Gas Cell
 16

@@ -1,4 +1,4 @@
 2656gregtech/gt.metaitem.03-32095.png1Wetware Mainframe11-1The Wetware Mainframe is the final Wetware Circuit, and it is the first UHV Circuit you can get.
 
-It's made in the Assembling Line, so there's no imprint.ANDpre20081gregtech/gt.blockmachines-15331.png26191gregtech/gt.blockmachines-2420.png26551gregtech/gt.metaitem.03-32094.png26581gregtech/gt.metaitem.01-11329.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32095.pngWetware Mainfram;An Infinite Circuit;UHV-Tier
+It's made in the Assembling Line, so there's no imprint.ANDpre20081gregtech/gt.blockmachines-15331.png26191gregtech/gt.blockmachines-2420.png26551gregtech/gt.metaitem.03-32094.png26581gregtech/gt.metaitem.01-11329.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32095.pngWetware Mainframe;An Infinite Circuit;UHV-Tier
 1

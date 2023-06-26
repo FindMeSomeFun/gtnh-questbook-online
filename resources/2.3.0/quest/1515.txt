@@ -4,11 +4,11 @@ About the stats on frames you see when holding shift, you'll note that some have
 
 The stats on the frames are also multiplicative instead of additive, so after 4 frames in an alveary, soul frames will max out. On the other hand, accelerated frames will take 9 to get there, but you can just keep on going.
 
-If you pile up the multipliers, 5x from stimulator, 3x from mutator, and 4x1.8x frames, it'll get you to 157x, getting you those 1% bees in a single generation!ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemMagicBees/frameMetabolic-0.pngMetabolic Fram
-2Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalExtraBees/hiveFrame.soul-0.pngSoul Fram
-1miscutils/frameAccelerated-0.pngAccelerated Fram;Longevity for bees isn''t very common, especially if they''re working harder.
-1MagicBees/frameMetabolic-0.pngMetabolic Fram
+If you pile up the multipliers, 5x from stimulator, 3x from mutator, and 4x1.8x frames, it'll get you to 157x, getting you those 1% bees in a single generation!ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemMagicBees/frameMetabolic-0.pngMetabolic Frame
+2Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalExtraBees/hiveFrame.soul-0.pngSoul Frame
+1miscutils/frameAccelerated-0.pngAccelerated Frame;Longevity for bees isn''t very common, especially if they''re working harder.
+1MagicBees/frameMetabolic-0.pngMetabolic Frame
 1

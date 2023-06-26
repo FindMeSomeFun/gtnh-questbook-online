@@ -1,4 +1,4 @@
-114ExtraUtilities/extractor_base-0.png0§5§lBasic Transport: Items4-1In order to transfer items, you need so called "nodes". There are some for pushing items into a pipe system, and later you'll have access to nodes that are able to pull items from attached inventories.ANDpre1130ExtraUtilities/pipes-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalExtraUtilities/extractor_base-0.pngTransfer Node (Items
+114ExtraUtilities/extractor_base-0.png0§5§lBasic Transport: Items4-1In order to transfer items, you need so called "nodes". There are some for pushing items into a pipe system, and later you'll have access to nodes that are able to pull items from attached inventories.ANDpre1130ExtraUtilities/pipes-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalExtraUtilities/extractor_base-0.pngTransfer Node (Items)
 1

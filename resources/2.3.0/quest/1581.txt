@@ -1,17 +1,17 @@
 1581witchery/ingredient-3.png0Moving Faster!36-1The Dream Weaver of Fleet Foot will add a speed boost to a player when they wake up from a good night's sleep. 
 
-If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a slowdown effect to the player.ANDpre15780witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotto
-4witchery/ingredient-99.pngDisturbed Cotto
-4enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDOptionalwitchery/ingredient-101.pngTormented Twin
-1witchery/ingredient-100.pngFanciful Threa
-2minecraft/item_frame-0.pngItem Fram
-1minecraft/feather-0.pngFeathe
-2minecraft/potion-16458.pngSplash Potion of Slownes;Slowness (3:00);When Applied:;-15% Speed
-1minecraft/potion-16450.pngSplash Potion of Swiftnes;Speed (6:00);When Applied:;+20% Speed
-1witchery/ingredient-29.pngDiamond Vapo
-1Retrievalwitchery/ingredient-3.pngDream Weaver of Fleet Foo
+If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a slowdown effect to the player.ANDpre15780witchery/ingredient-100.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+4witchery/ingredient-99.pngDisturbed Cotton
+4enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
+1witchery/ingredient-100.pngFanciful Thread
+2minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2minecraft/potion-16458.pngSplash Potion of Slowness;Slowness (3:00);When Applied:;-15% Speed
+1minecraft/potion-16450.pngSplash Potion of Swiftness;Speed (6:00);When Applied:;+20% Speed
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-3.pngDream Weaver of Fleet Foot
 1

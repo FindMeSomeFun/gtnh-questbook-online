@@ -8,10 +8,10 @@ Automatable Data Access Hatch: It's UV, but it allows I/O of the sticks. Skip it
 
 The Data Bank Multi: Can be connected to multiple Asslines, and can contain more than 1 DAH. This is the best way, when you can do it. Look in ZPM for the quest.
 
-§3You only need to make one.ANDpre14121gregtech/gt.blockmachines-1170.pngrewardsItemgregtech/gt.metaitem.01-32708.pngData Stic;A Low Capacity Data Storage
-4enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksORRetrievalgregtech/gt.blockmachines-145.pngData Access Hatc;Data Access for Multiblocks;Adds 4 extra slots for Data Sticks
-1Retrievalgregtech/gt.blockmachines-146.pngAdvanced Data Access Hatc;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks
-1Retrievalgregtech/gt.blockmachines-147.pngAutomatable Data Access Hatc;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks
+§3You only need to make one.ANDpre14121gregtech/gt.blockmachines-1170.pngrewardsItemgregtech/gt.metaitem.01-32708.pngData Stick;A Low Capacity Data Storage
+4enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksORRetrievalgregtech/gt.blockmachines-145.pngData Access Hatch;Data Access for Multiblocks;Adds 4 extra slots for Data Sticks
+1Retrievalgregtech/gt.blockmachines-146.pngAdvanced Data Access Hatch;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks
+1Retrievalgregtech/gt.blockmachines-147.pngAutomatable Data Access Hatch;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks
 1

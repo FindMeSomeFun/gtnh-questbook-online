@@ -1,5 +1,5 @@
-1961Botany/ceramicBrick-16387-20046.png0Mortar and Tiles15-1To make ceramic tile patterns, you need to convert your blocks into tiles. First make mortar, and then use the mortar with your blocks in a 3 block + 1 mortar pattern in the crafting table to get ceramic tiles.ANDpre19600Botany/ceramic-59.pngrewardsChoiceBotany/ceramicBrick-257.pngCeramic Til;Black
-16Botany/ceramic-77.pngCeramic Bloc;White
-16tasksANDRetrievalBotany/misc-6.pngMorta
-4RetrievalBotany/ceramicBrick-15163.pngCeramic Til;Red
+1961Botany/ceramicBrick-16387-20046.png0Mortar and Tiles15-1To make ceramic tile patterns, you need to convert your blocks into tiles. First make mortar, and then use the mortar with your blocks in a 3 block + 1 mortar pattern in the crafting table to get ceramic tiles.ANDpre19600Botany/ceramic-59.pngrewardsChoiceBotany/ceramicBrick-257.pngCeramic Tile;Black
+16Botany/ceramic-77.pngCeramic Block;White
+16tasksANDRetrievalBotany/misc-6.pngMortar
+4RetrievalBotany/ceramicBrick-15163.pngCeramic Tile;Red
 3

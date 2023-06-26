@@ -1,9 +1,9 @@
 1925miscutils/blockDecayablesChest-0.png0§a§lWhat's in the Box?7-1Tired of waiting around for hours with radium in your inventory, waiting for it to decay? With a lead-lined box you can safely leave your radium in it and it'll decay while you do real work.
 
-§3You may not be able to shift click items in and out, but pipes still work. You can not use a WA.ANDpre14800miscutils/dustRadium226-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-1tasksANDRetrievalmiscutils/blockDecayablesChest-0.pngLead Lined Bo;Chest which holds radioactive materials;Items which decay will tick while inside;Place with right click
-1Optionalmiscutils/dustRadium226-0.pngRadium 226 Dus;\u00b2\u00b2\u2076Ra;4500 seconds until decay;Result: Radon (\u00b2\u00b2\u00b2Rn);Warning: Radioactive!  Avoid direct handling without hazmat protection.
-15Retrievalmiscutils/itemDustDecayedRadium226-0.pngDecayed Radium-226 Dus;Contains Radon (\u00b2\u00b2\u00b2Rn)
-15Retrievalgregtech/gt.metaitem.01-30093.pngRadon Cel;Rn
+§3You may not be able to shift click items in and out, but pipes still work. You can not use a WA.ANDpre14800miscutils/dustRadium226-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDRetrievalmiscutils/blockDecayablesChest-0.pngLead Lined Box;Chest which holds radioactive materials;Items which decay will tick while inside;Place with right click
+1Optionalmiscutils/dustRadium226-0.pngRadium 226 Dust;\u00b2\u00b2\u2076Ra;4500 seconds until decay;Result: Radon (\u00b2\u00b2\u00b2Rn);Warning: Radioactive!  Avoid direct handling without hazmat protection.
+15Retrievalmiscutils/itemDustDecayedRadium226-0.pngDecayed Radium-226 Dust;Contains Radon (\u00b2\u00b2\u00b2Rn)
+15Retrievalgregtech/gt.metaitem.01-30093.pngRadon Cell;Rn
 2

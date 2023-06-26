@@ -1,7 +1,7 @@
-1900gregtech/gt.Quad_ThoriumcellDep-0.png0§a§lUnfortunately, There's No Depleted Uranium Bullets19-1After your rods have finished their cycle they turn into depleted rods. You can then thermal centrifuge them for some materials back. Depending on the rod, you can get different stuff, see NEI or the wiki for details.ANDpre18990gregtech/gt.Double_Thoriumcell-0.pngrewardsItemgregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod (Depleted Thorium;100 / 100;Durability: 1/1
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalgregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod (Depleted Thorium;100 / 100;Durability: 1/1
-1Retrievalgregtech/gt.metaitem.01-2078.pngLutetium Dus;Lu
-2gregtech/gt.metaitem.01-2096.pngThorium Dus;Th
-4gregtech/gt.metaitem.01-2032.pngIron Dus;Fe
+1900gregtech/gt.Quad_ThoriumcellDep-0.png0§a§lUnfortunately, There's No Depleted Uranium Bullets19-1After your rods have finished their cycle they turn into depleted rods. You can then thermal centrifuge them for some materials back. Depending on the rod, you can get different stuff, see NEI or the wiki for details.ANDpre18990gregtech/gt.Double_Thoriumcell-0.pngrewardsItemgregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod (Depleted Thorium);100 / 100;Durability: 1/1
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.Quad_ThoriumcellDep-0.pngQuad Fuel Rod (Depleted Thorium);100 / 100;Durability: 1/1
+1Retrievalgregtech/gt.metaitem.01-2078.pngLutetium Dust;Lu
+2gregtech/gt.metaitem.01-2096.pngThorium Dust;Th
+4gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
 6

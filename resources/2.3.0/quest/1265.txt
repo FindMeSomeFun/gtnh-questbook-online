@@ -1,10 +1,10 @@
-1265miscutils/MU-metaitem.01-32054-charged.png0EV GT++ Batteries20-1Want cheaper EV batteries? Mash your old ones together, and somehow it works!ANDpre12620gregtech/gt.blockmachines-184.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dus;Li;Burn Time: 6000
-16gregtech/gt.blockmachines-1426.png1x Gold Cabl;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 2 EU-Volt
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDOptionalgregtech/gt.metaitem.01-32538.pngLarge Lithium Batter;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
-4IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
-2gregtech/gt.blockmachines-23.pngHigh Voltage Transforme;EV -> HV (Use Soft Mallet to invert);Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 4;Capacity: 8,704 EU
-1gregtech/gt.blockmachines-1428.png4x Gold Cabl;Max Voltage: 512 (HV);Max Amperage: 12;Loss/Meter/Ampere: 2 EU-Volt
-2Retrievalmiscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Batter;Reusable;0 / 6,400,000 EU - Voltage: 2048
+1265miscutils/MU-metaitem.01-32054-charged.png0EV GT++ Batteries20-1Want cheaper EV batteries? Mash your old ones together, and somehow it works!ANDpre12620gregtech/gt.blockmachines-184.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
+16gregtech/gt.blockmachines-1426.png1x Gold Cable;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 2 EU-Volt
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2gregtech/gt.blockmachines-23.pngHigh Voltage Transformer;EV -> HV (Use Soft Mallet to invert);Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 4;Capacity: 8,704 EU
+1gregtech/gt.blockmachines-1428.png4x Gold Cable;Max Voltage: 512 (HV);Max Amperage: 12;Loss/Meter/Ampere: 2 EU-Volt
+2Retrievalmiscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048
 1

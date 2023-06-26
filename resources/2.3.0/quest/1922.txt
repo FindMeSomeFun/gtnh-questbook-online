@@ -1,4 +1,4 @@
-1922gregtech/gt.blockmachines-23.png0Transformers, Roll Out!20-1When you get to HV you'll want to start thinking about centralizing power generation and delivering power over longer distances. An HV to EV transformer will let you send power across your base without too much penalty.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.blockmachines-23.pngHigh Voltage Transforme;EV -> HV (Use Soft Mallet to invert);Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 4;Capacity: 8,704 EU
+1922gregtech/gt.blockmachines-23.png0Transformers, Roll Out!20-1When you get to HV you'll want to start thinking about centralizing power generation and delivering power over longer distances. An HV to EV transformer will let you send power across your base without too much penalty.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-23.pngHigh Voltage Transformer;EV -> HV (Use Soft Mallet to invert);Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 4;Capacity: 8,704 EU
 1

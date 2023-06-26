@@ -1,6 +1,6 @@
-123openmodularturrets/disposeItemTurret-0.png0§5§lWho Needs That Dirt Anyway14-1You probably have a ton of items floating around in your base. So why not use them to kill your enemies?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/canWater-0.pngWater Ca
-8Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalopenmodularturrets/disposeItemTurret-0.pngDisposable Item Turre;--Info--;Tier: 1;Range (in blocks): 10;Accuracy: Low;Ammo Type: Any Block/Item;Base Minimum Tier: Tier 1 Turret Base;--Damage Output--;Projectile Damage: 1.0 Hearts;AOE Radius: 0;Shots/s: 0.8;Energy usage per shot: 2 RF;Poor man''s sleeping aid.;Glass-Tier: HV
+123openmodularturrets/disposeItemTurret-0.png0§5§lWho Needs That Dirt Anyway14-1You probably have a ton of items floating around in your base. So why not use them to kill your enemies?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/canWater-0.pngWater Can
+8Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalopenmodularturrets/disposeItemTurret-0.pngDisposable Item Turret;--Info--;Tier: 1;Range (in blocks): 10;Accuracy: Low;Ammo Type: Any Block/Item;Base Minimum Tier: Tier 1 Turret Base;--Damage Output--;Projectile Damage: 1.0 Hearts;AOE Radius: 0;Shots/s: 0.8;Energy usage per shot: 2 RF;Poor man''s sleeping aid.;Glass-Tier: HV
 1

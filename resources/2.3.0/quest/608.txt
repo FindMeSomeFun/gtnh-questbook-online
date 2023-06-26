@@ -1,4 +1,4 @@
-608gregtech/gt.metaitem.01-11089.png1§2§3§5§lA Lead About Lead That Leads to Lead4-1The next step of making batteries is to collect some lead. Look at the lead quest in the novice thaumaturgy tab for more info.ANDpre5971gregtech/gt.blockores-1840.pngrewardsItemharvestcraft/mixedsaladItem-0.pngMixed Sala;harvestcraft:mixedsaladItem
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDRetrievalgregtech/gt.metaitem.01-11089.pngLead Ingo;Pb
+608gregtech/gt.metaitem.01-11089.png1§2§3§5§lA Lead About Lead That Leads to Lead4-1The next step of making batteries is to collect some lead. Look at the lead quest in the novice thaumaturgy tab for more info.ANDpre5971gregtech/gt.blockores-1840.pngrewardsItemharvestcraft/mixedsaladItem-0.pngMixed Salad;harvestcraft:mixedsaladItem
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.metaitem.01-11089.pngLead Ingot;Pb
 32

@@ -2,9 +2,9 @@
 
 This can take a very long time, so parallelize!
 
-Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and useful) combs you need a GT centrifuge.ANDpre5391gregtech/gt.blockmachines-361.png9920Forestry/beePrincessGE-0-Tropical.pngrewardsItemenhancedlootbags/lootbag-25-enchanted.pngLootBag (Bees Basic;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1gregtech/gt.metatool.01-28-DamascusSteel-DamascusSteel.pngScoo;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.0;Mining Speed: 8.0;Catches Butterflies on Leftclick
-1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1
-25tasksANDOptionalForestry/beeCombs-6.pngSilky Com
-370RetrievalForestry/propolis-3.pngSilky Propoli
+Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and useful) combs you need a GT centrifuge.ANDpre5391gregtech/gt.blockmachines-361.png9920Forestry/beePrincessGE-0-Tropical.pngrewardsItemenhancedlootbags/lootbag-25-enchanted.pngLootBag (Bees Basic);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1gregtech/gt.metatool.01-28-DamascusSteel-DamascusSteel.pngScoop;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.0;Mining Speed: 8.0;Catches Butterflies on Leftclick
+1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+25tasksANDOptionalForestry/beeCombs-6.pngSilky Comb
+370RetrievalForestry/propolis-3.pngSilky Propolis
 305

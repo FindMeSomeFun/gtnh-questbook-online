@@ -1,4 +1,4 @@
-603minecraft/ender_chest-0.png0Dimensional Chest30-1You've heard rumors, that the endermen had built laboratories in the End. To invent new machines and weapons in order to attack the Overworld. One of their inventions is a chest, which is somehow linked to all instances of itself. Go and try to find one of those.ANDpre23560HardcoreEnderExpansion/auricion-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDRetrievalminecraft/ender_chest-0.pngPersonal Ender Ches;Only For Personal Use
+603minecraft/ender_chest-0.png0Dimensional Chest30-1You've heard rumors, that the endermen had built laboratories in the End. To invent new machines and weapons in order to attack the Overworld. One of their inventions is a chest, which is somehow linked to all instances of itself. Go and try to find one of those.ANDpre23560HardcoreEnderExpansion/auricion-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalminecraft/ender_chest-0.pngPersonal Ender Chest;Only For Personal Use
 1

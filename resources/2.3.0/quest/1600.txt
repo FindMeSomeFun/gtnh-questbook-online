@@ -2,9 +2,9 @@
 
 I'll trade you some fertilizer for 2 stacks of each.
 
-§3PS, you don't really need rubber trees if you can get these.ANDpre7210Natura/N Crops-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilize
-256enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDConsumeminecraft/reeds-0.pngSugar Cane;Burn Time: 50
-128IC2/itemHarz-0.pngSticky Resi
-128RetrievalIC2/itemCropSeed-0.pngStickreed Seed;Gr 0;Ga 0;Re 0
+§3PS, you don't really need rubber trees if you can get these.ANDpre7210Natura/N Crops-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilizer
+256enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
+1tasksANDConsumeminecraft/reeds-0.pngSugar Canes;Burn Time: 50
+128IC2/itemHarz-0.pngSticky Resin
+128RetrievalIC2/itemCropSeed-0.pngStickreed Seeds;Gr 0;Ga 0;Re 0
 1

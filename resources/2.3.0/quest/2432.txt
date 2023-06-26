@@ -1,4 +1,4 @@
-2432minecraft/quartz_ore-0.png0Netherquartz Ore exchange4024000You can exchange your Stack of GT Nether Quartz Ore for vanilla Nether Quartz Ore.ANDpre4791minecraft/portal-0.pngrewardsItemminecraft/quartz_ore-0.pngNether Quartz Or
-64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-50gregtech/gt.blockores-1522.pngNether Quartz Or;SiO\u2082
+2432minecraft/quartz_ore-0.png0Netherquartz Ore exchange4024000You can exchange your Stack of GT Nether Quartz Ore for vanilla Nether Quartz Ore.ANDpre4791minecraft/portal-0.pngrewardsItemminecraft/quartz_ore-0.pngNether Quartz Ore
+64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+50gregtech/gt.blockores-1522.pngNether Quartz Ore;SiO\u2082
 64

@@ -2,27 +2,27 @@
 
 You could also just craft it (or the better one) with unstable ingots yourself, too.
 
-You can upgrade to the various other BBWs too.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemExtraUtilities/builderswand-0.pngBuilder''s Wan
-1tasksANDConsumechisel/rebel-0.pngRebellious Bloc;tile.rebel.0.desc;Mobs cannot Spawn on this Block
-16chisel/laboratoryblock-0.pngLaboratory Bloc;Wall Panel;Mobs cannot Spawn on this Block
-16chisel/holystone-0.pngHolyston;Holystone;Mobs cannot Spawn on this Block
-16chisel/grimstone-0.pngGrimston;Grimstone;Mobs cannot Spawn on this Block
-16chisel/hexPlating-0.pngHex Platin;Black Plating;Mobs cannot Spawn on this Block
-16chisel/fantasyblock2-0.pngFantasy Bloc;Fantasy Brick;Mobs cannot Spawn on this Block
-16chisel/fantasyblock-0.pngPurpled Fantasy Bloc;Purpled Fantasy Brick;Mobs cannot Spawn on this Block
-16chisel/factoryblock-0.pngFactory Bloc;Rusty Metal Plate with Dotted Pattern;Mobs cannot Spawn on this Block
-16chisel/concrete-0.pngConcret;Concrete;Mobs cannot Spawn on this Block
-16chisel/technical-0.pngTechnical Bloc;Scaffold;Mobs cannot Spawn on this Block
-16chisel/tyrian-0.pngTyria;Futuristic Armor Plating Block;Mobs cannot Spawn on this Block
-16chisel/waterstone-0.pngWaterston;Waterstone Bricks;Mobs cannot Spawn on this Block
-16chisel/voidstone2-0.pngEnergised Voidston;Raw Voidstone;Mobs cannot Spawn on this Block
-16chisel/templeblock-0.pngTemple Bloc;Temple Cobblestone;Mobs cannot Spawn on this Block
-16chisel/valentines-0.pngValentines Bloc;Valentines Bricks;Mobs cannot Spawn on this Block;Burn Time: 300
-16chisel/voidstone-0.pngVoidston;Raw Voidstone;Mobs cannot Spawn on this Block
-16chisel/warningSign-0.pngWarning Sig;Radiation;Mobs cannot Spawn on this Block
-16Consumechisel/diamond_block-12.pngDiamond Bloc;Diamond Block with Ornate Layer;Mobs cannot Spawn on this Block
-1chisel/emerald_block-5.pngEmerald Bloc;Emerald with Ornate Layer;Mobs cannot Spawn on this Block
-1chisel/lapis_block-8.pngLapis Bloc;Lapis with Ornate Layer;Mobs cannot Spawn on this Block
-1chisel/redstone_block-9.pngRedstone Bloc;Ornate Redstone Tiles;Mobs cannot Spawn on this Block
-1chisel/gold_block-6.pngGold Bloc;Golden Coin Stack Heads-down;Mobs cannot Spawn on this Block
+You can upgrade to the various other BBWs too.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemExtraUtilities/builderswand-0.pngBuilder''s Wand
+1tasksANDConsumechisel/rebel-0.pngRebellious Block;tile.rebel.0.desc;Mobs cannot Spawn on this Block
+16chisel/laboratoryblock-0.pngLaboratory Block;Wall Panel;Mobs cannot Spawn on this Block
+16chisel/holystone-0.pngHolystone;Holystone;Mobs cannot Spawn on this Block
+16chisel/grimstone-0.pngGrimstone;Grimstone;Mobs cannot Spawn on this Block
+16chisel/hexPlating-0.pngHex Plating;Black Plating;Mobs cannot Spawn on this Block
+16chisel/fantasyblock2-0.pngFantasy Block;Fantasy Brick;Mobs cannot Spawn on this Block
+16chisel/fantasyblock-0.pngPurpled Fantasy Block;Purpled Fantasy Brick;Mobs cannot Spawn on this Block
+16chisel/factoryblock-0.pngFactory Block;Rusty Metal Plate with Dotted Pattern;Mobs cannot Spawn on this Block
+16chisel/concrete-0.pngConcrete;Concrete;Mobs cannot Spawn on this Block
+16chisel/technical-0.pngTechnical Block;Scaffold;Mobs cannot Spawn on this Block
+16chisel/tyrian-0.pngTyrian;Futuristic Armor Plating Block;Mobs cannot Spawn on this Block
+16chisel/waterstone-0.pngWaterstone;Waterstone Bricks;Mobs cannot Spawn on this Block
+16chisel/voidstone2-0.pngEnergised Voidstone;Raw Voidstone;Mobs cannot Spawn on this Block
+16chisel/templeblock-0.pngTemple Block;Temple Cobblestone;Mobs cannot Spawn on this Block
+16chisel/valentines-0.pngValentines Block;Valentines Bricks;Mobs cannot Spawn on this Block;Burn Time: 300
+16chisel/voidstone-0.pngVoidstone;Raw Voidstone;Mobs cannot Spawn on this Block
+16chisel/warningSign-0.pngWarning Sign;Radiation;Mobs cannot Spawn on this Block
+16Consumechisel/diamond_block-12.pngDiamond Block;Diamond Block with Ornate Layer;Mobs cannot Spawn on this Block
+1chisel/emerald_block-5.pngEmerald Block;Emerald with Ornate Layer;Mobs cannot Spawn on this Block
+1chisel/lapis_block-8.pngLapis Block;Lapis with Ornate Layer;Mobs cannot Spawn on this Block
+1chisel/redstone_block-9.pngRedstone Block;Ornate Redstone Tiles;Mobs cannot Spawn on this Block
+1chisel/gold_block-6.pngGold Block;Golden Coin Stack Heads-down;Mobs cannot Spawn on this Block
 1

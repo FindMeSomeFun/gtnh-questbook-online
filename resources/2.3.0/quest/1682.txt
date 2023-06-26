@@ -1,5 +1,5 @@
-1682ExtraUtilities/enderQuarryUpgrade-8.png0§c§lAccelerating Things III9-1If Speed upgrade II is too slow craft a speed upgrade III.ANDpre16810ExtraUtilities/enderQuarryUpgrade-7.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDRetrievalExtraUtilities/enderQuarryUpgrade-8.pngEnder Quarry Speed III Upgrad;Power Drain Multiplier: x2
+1682ExtraUtilities/enderQuarryUpgrade-8.png0§c§lAccelerating Things III9-1If Speed upgrade II is too slow craft a speed upgrade III.ANDpre16810ExtraUtilities/enderQuarryUpgrade-7.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalExtraUtilities/enderQuarryUpgrade-8.pngEnder Quarry Speed III Upgrade;Power Drain Multiplier: x2
 1

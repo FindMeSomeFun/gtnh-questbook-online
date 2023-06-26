@@ -2,17 +2,17 @@
 
 First you have to prove you can survive on the moon by yourself. After mining some moon turf, dirt, and rock, you can have it.
 
-Make sure you check back in the HV questline for necessary ores you should gather while here.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1ThaumicTinkerer/cleansingTalisman-0.pngTalisman of Remediu;Inactive
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
-1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-1tasksANDConsumeminecraft/quartz-0.pngNether Quart
-32minecraft/coal-0.pngCoa;Burn Time: 1600
-4minecraft/glowstone_dust-0.pngGlowstone Dus
-4minecraft/ghast_tear-0.pngGhast Tea
-2minecraft/ender_eye-0.pngEye of Ende
+Make sure you check back in the HV questline for necessary ores you should gather while here.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1ThaumicTinkerer/cleansingTalisman-0.pngTalisman of Remedium;Inactive
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1tasksANDConsumeminecraft/quartz-0.pngNether Quartz
+32minecraft/coal-0.pngCoal;Burn Time: 1600
+4minecraft/glowstone_dust-0.pngGlowstone Dust
+4minecraft/ghast_tear-0.pngGhast Tear
+2minecraft/ender_eye-0.pngEye of Ender
 1LocationDIM/28-.pngMoon
-1ConsumeGalacticraftCore/tile.moonBlock-5.pngMoon Tur
-512GalacticraftCore/tile.moonBlock-3.pngMoon Dir
-512GalacticraftCore/tile.moonBlock-4.pngMoon Roc
+1ConsumeGalacticraftCore/tile.moonBlock-5.pngMoon Turf
+512GalacticraftCore/tile.moonBlock-3.pngMoon Dirt
+512GalacticraftCore/tile.moonBlock-4.pngMoon Rock
 512

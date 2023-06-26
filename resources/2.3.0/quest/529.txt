@@ -1,7 +1,7 @@
 529gregtech/gt.metaitem.01-32680.png1§5§lYou're Gonna Hate This #54-1The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc.
 
-§3The Emitter and Sensor aren't used as much as the other items, fortunately.ANDpre7161gregtech/gt.metaitem.01-8516.pngrewardsItemgregtech/gt.metaitem.01-8516.pngCertus Quart;SiO\u2082
-8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDRetrievalgregtech/gt.metaitem.01-32680.pngEmitter (LV
+§3The Emitter and Sensor aren't used as much as the other items, fortunately.ANDpre7161gregtech/gt.metaitem.01-8516.pngrewardsItemgregtech/gt.metaitem.01-8516.pngCertus Quartz;SiO\u2082
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.metaitem.01-32680.pngEmitter (LV)
 1

@@ -1,6 +1,6 @@
-327ThaumicTinkerer/ichorPickGem-0.png0Unleashed the Power - Pickaxe33-1To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3220ThaumicTinkerer/ichorPick-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-5tasksANDRetrievalThaumicTinkerer/ichorPickGem-0.pngAwakened Ichorium Pickax;ThaumicTinkerer:ichorPickGem;Block Mode;+7 Attack Damage
+327ThaumicTinkerer/ichorPickGem-0.png0Unleashed the Power - Pickaxe33-1To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3220ThaumicTinkerer/ichorPick-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/ichorPickGem-0.pngAwakened Ichorium Pickaxe;ThaumicTinkerer:ichorPickGem;Block Mode;+7 Attack Damage
 1

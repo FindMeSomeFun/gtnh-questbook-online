@@ -1,10 +1,10 @@
 837gregtech/gt.metaitem.03-32038.png1§6§lILC and RAM5-1Advanced circuits need integrated logic circuits and random access memory chips.
-You can get those by cutting the ILC and RAM wafers.ANDpre7911gregtech/gt.blockmachines-592.pngrewardsChoicegregtech/gt.metaitem.01-24500.pngDiamond Len;C
-1gregtech/gt.metaitem.01-24502.pngRuby Len;CrAl\u2082O\u2083
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDOptionalgregtech/gt.metaitem.03-32036.pngIntegrated Logic Circuit (Wafer;Raw Circuit
-1gregtech/gt.metaitem.03-32038.pngRandom Access Memory Chip (Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32037.pngIntegrated Logic Circui;Integrated Circuit
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chi;Integrated Circuit
+You can get those by cutting the ILC and RAM wafers.ANDpre7911gregtech/gt.blockmachines-592.pngrewardsChoicegregtech/gt.metaitem.01-24500.pngDiamond Lens;C
+1gregtech/gt.metaitem.01-24502.pngRuby Lens;CrAl\u2082O\u2083
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.03-32036.pngIntegrated Logic Circuit (Wafer);Raw Circuit
+1gregtech/gt.metaitem.03-32038.pngRandom Access Memory Chip (Wafer);Raw Circuit
+1Retrievalgregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
 8

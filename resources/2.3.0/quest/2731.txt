@@ -2,7 +2,7 @@
 
 It doesn't need a Maintenance Hatch, just the I/O Hatches.
 
-§4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionalgregtech/gt.blockcasings-15.pngSuperconducting Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1tectech/gt.blockcasingsTT-0.pngHigh Power Casin;TecTech: Elemental Matter;Well suited for high power applications.;The power levels are rising!
-23Retrievalgregtech/gt.blockmachines-15300.pngActive Transforme;Machine Type: Active Transformer;Controller block of the Active Transformer;Can transform to and from any voltage;Only 0.004% power loss, HAYO!;Will explode if broken while running;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Interdimensional
+§4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionalgregtech/gt.blockcasings-15.pngSuperconducting Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1tectech/gt.blockcasingsTT-0.pngHigh Power Casing;TecTech: Elemental Matter;Well suited for high power applications.;The power levels are rising!
+23Retrievalgregtech/gt.blockmachines-15300.pngActive Transformer;Machine Type: Active Transformer;Controller block of the Active Transformer;Can transform to and from any voltage;Only 0.004% power loss, HAYO!;Will explode if broken while running;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Interdimensional
 1

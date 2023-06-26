@@ -1,17 +1,17 @@
 1818gregtech/gt.blockmachines-13000.png0§6§lLarge Essentia Generator19-1Having one Essentia Generator per Essentia type seeems impractical... Better make a Large Essentia Generator and burn all the Essentia in parallel! As another bonus, this generator produces 20x the energy a single block machine will produce. You might need more Magic Containment Casings than this quest asks for.
 
-§4PS: This is apparently super buggy and may or may not work. Rather check out the LEG from GoodGenerator!ANDpre13330EMT/EssentiaGenerators-0.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K
-1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K
-1ChoiceAvaritia/big_pearl-0.pngExtremely Primordial Pear
-4gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainfram;An Ultimate Circuit;ZPM-Tier
-8Thaumcraft/blockEssentiaReservoir-0.pngEssentia Reservoi
-32thaumicenergistics/storage.essentia-3.png64k ME Essentia Storage Cel;0 of 65536 bytes used.;0 of 12 essentia types stored.
-2ThaumicTinkerer/kamiResource-2.pngIchoriu
-16tasksANDOptionalEMT/EMTMachines-2.pngEssentia Fille;Connects between Essentia Hatches and the Pipe Network;Looses its Essentia on Restart;Added by bartimaeusnek
-1gregtech/gt.blockmachines-12988.pngEssentia Hatch I;Essentia Hatch for usage in Multiblocks;Can only be filled with the Essentia Filler;Can hold 24 Different Essentia Types;Can hold 1536 Essentia in total
-1gregtech/gt.blockmachines-95.pngMuffler Hatch (IV;Outputs the Pollution (Might cause ... things);DO NOT OBSTRUCT THE OUTPUT!;Reduces Pollution to 50%;Recovers 50% of CO2/CO/SO2
-25EMT/EMT_GTBLOCK_CASEING-1.pngEssentia Diffusion Cel;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-50EMT/EMT_GTBLOCK_CASEING-0.pngMagic Containing Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-64Retrievalgregtech/gt.blockmachines-13000.pngLarge Essentia Generato;Controller Block for the Large Essentia Generator.;Produces energy from magical essentia decay.;Size(WxHxD): 7x4x7, Controller (Bottom, Center);Top-Middle 5x1x5 layer are Muffler Hatches;Middle 5x2x5 layer are Essentia Diffusion Cells;Everything from here on goes either in the bottom or on the sides;1x Fluid Input Hatch;1x Essentia Input Hatch;1x Dynamo Hatches;1x Maintenance Hatch;The outer hull is made out of Magic Containing Casings;Produces 20x more than the singleblock generator per essentia;Causes magical and serious conventional pollution;Needs 1L Lubricant per second or will cause way more conventional pollution;Needs 10 Aqua cVis per second or will cause way more magical pollution;Added by EMT;Made by bartimaeusnek
+§4PS: This is apparently super buggy and may or may not work. Rather check out the LEG from GoodGenerator!ANDpre13330EMT/EssentiaGenerators-0.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
+1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
+1ChoiceAvaritia/big_pearl-0.pngExtremely Primordial Pearl
+4gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
+8Thaumcraft/blockEssentiaReservoir-0.pngEssentia Reservoir
+32thaumicenergistics/storage.essentia-3.png64k ME Essentia Storage Cell;0 of 65536 bytes used.;0 of 12 essentia types stored.
+2ThaumicTinkerer/kamiResource-2.pngIchorium
+16tasksANDOptionalEMT/EMTMachines-2.pngEssentia Filler;Connects between Essentia Hatches and the Pipe Network;Looses its Essentia on Restart;Added by bartimaeusnek
+1gregtech/gt.blockmachines-12988.pngEssentia Hatch IV;Essentia Hatch for usage in Multiblocks;Can only be filled with the Essentia Filler;Can hold 24 Different Essentia Types;Can hold 1536 Essentia in total
+1gregtech/gt.blockmachines-95.pngMuffler Hatch (IV);Outputs the Pollution (Might cause ... things);DO NOT OBSTRUCT THE OUTPUT!;Reduces Pollution to 50%;Recovers 50% of CO2/CO/SO2
+25EMT/EMT_GTBLOCK_CASEING-1.pngEssentia Diffusion Cell;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+50EMT/EMT_GTBLOCK_CASEING-0.pngMagic Containing Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+64Retrievalgregtech/gt.blockmachines-13000.pngLarge Essentia Generator;Controller Block for the Large Essentia Generator.;Produces energy from magical essentia decay.;Size(WxHxD): 7x4x7, Controller (Bottom, Center);Top-Middle 5x1x5 layer are Muffler Hatches;Middle 5x2x5 layer are Essentia Diffusion Cells;Everything from here on goes either in the bottom or on the sides;1x Fluid Input Hatch;1x Essentia Input Hatch;1x Dynamo Hatches;1x Maintenance Hatch;The outer hull is made out of Magic Containing Casings;Produces 20x more than the singleblock generator per essentia;Causes magical and serious conventional pollution;Needs 1L Lubricant per second or will cause way more conventional pollution;Needs 10 Aqua cVis per second or will cause way more magical pollution;Added by EMT;Made by bartimaeusnek
 1

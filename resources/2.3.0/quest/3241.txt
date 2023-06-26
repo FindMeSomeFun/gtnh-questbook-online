@@ -1,8 +1,8 @@
 3241Botania/manaResource-14.png0Round two... FIGHT!35-1Now craft a Gaia Spirit ingot with your new Gaia Spirit from killing the Gaia guardian.
 
-Put the 4 pylons down and shift right click the Gaia Spirit ingot on the beacon to summon a harder version of Gaia Guardian.ANDpre32311Botania/manaResource-5.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000
-15tasksANDRetrievalBotania/pylon-2.pngGaia Pylo;May work as an Infusion Stabilizer;Enchantment Power: 8.0
-4minecraft/beacon-0.pngBeaco;Glass-Tier: HV
-1Botania/manaResource-14.pngGaia Spirit Ingo
-1RetrievalBotania/dice-0.pngDice of Fat;Hold SHIFT for more info
+Put the 4 pylons down and shift right click the Gaia Spirit ingot on the beacon to summon a harder version of Gaia Guardian.ANDpre32311Botania/manaResource-5.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000"
+15tasksANDRetrievalBotania/pylon-2.pngGaia Pylon;May work as an Infusion Stabilizer;Enchantment Power: 8.0
+4minecraft/beacon-0.pngBeacon;Glass-Tier: HV
+1Botania/manaResource-14.pngGaia Spirit Ingot
+1RetrievalBotania/dice-0.pngDice of Fate;Hold SHIFT for more info
 1

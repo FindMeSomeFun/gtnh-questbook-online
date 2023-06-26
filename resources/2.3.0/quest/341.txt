@@ -1,6 +1,6 @@
-341witchery/ingredient-41.png0Flying OINKment36-1You tried, it doesn't fly. And it also doesn't make any OINK sounds, sadly. But there might be some use for it...ANDpre3400witchery/ingredient-11.pngrewardsItemminecraft/diamond-0.pngDiamon;Burn Time: 102400
-5enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDRetrievalwitchery/ingredient-41.pngFlying Ointmen
+341witchery/ingredient-41.png0Flying OINKment36-1You tried, it doesn't fly. And it also doesn't make any OINK sounds, sadly. But there might be some use for it...ANDpre3400witchery/ingredient-11.pngrewardsItemminecraft/diamond-0.pngDiamond;Burn Time: 102400
+5enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalwitchery/ingredient-41.pngFlying Ointment
 1

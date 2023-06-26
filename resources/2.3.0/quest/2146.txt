@@ -1,14 +1,14 @@
-2146Automagy/crystalBrain-0.png0BRRRRAAAAAAAIIIIIIINNNNNNNSSSSS31-1Automagy is a little subtle about what the "smort" mage needs to do next. Make some crystalline brains and scan them to unlock the next stage. You'll want to use the zombie brains you've been collecting from dangerous Furious zombies spawned by Eerie nodes.ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemAutomagy/crystalBrain-0.pngCrystalline Brain: Ai
-1Automagy/crystalBrain-1.pngCrystalline Brain: Fir
-1Automagy/crystalBrain-2.pngCrystalline Brain: Wate
-1Automagy/crystalBrain-3.pngCrystalline Brain: Eart
-1Automagy/crystalBrain-4.pngCrystalline Brain: Orde
-1Automagy/crystalBrain-5.pngCrystalline Brain: Entrop
-1tasksANDOptionalThaumcraft/ItemZombieBrain-0.pngZombie Brai;Thaumcraft:ItemZombieBrain
-6RetrievalAutomagy/crystalBrain-0.pngCrystalline Brain: Ai
-1Automagy/crystalBrain-1.pngCrystalline Brain: Fir
-1Automagy/crystalBrain-2.pngCrystalline Brain: Wate
-1Automagy/crystalBrain-3.pngCrystalline Brain: Eart
-1Automagy/crystalBrain-4.pngCrystalline Brain: Orde
-1Automagy/crystalBrain-5.pngCrystalline Brain: Entrop
+2146Automagy/crystalBrain-0.png0BRRRRAAAAAAAIIIIIIINNNNNNNSSSSS31-1Automagy is a little subtle about what the "smort" mage needs to do next. Make some crystalline brains and scan them to unlock the next stage. You'll want to use the zombie brains you've been collecting from dangerous Furious zombies spawned by Eerie nodes.ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemAutomagy/crystalBrain-0.pngCrystalline Brain: Air
+1Automagy/crystalBrain-1.pngCrystalline Brain: Fire
+1Automagy/crystalBrain-2.pngCrystalline Brain: Water
+1Automagy/crystalBrain-3.pngCrystalline Brain: Earth
+1Automagy/crystalBrain-4.pngCrystalline Brain: Order
+1Automagy/crystalBrain-5.pngCrystalline Brain: Entropy
+1tasksANDOptionalThaumcraft/ItemZombieBrain-0.pngZombie Brain;Thaumcraft:ItemZombieBrain
+6RetrievalAutomagy/crystalBrain-0.pngCrystalline Brain: Air
+1Automagy/crystalBrain-1.pngCrystalline Brain: Fire
+1Automagy/crystalBrain-2.pngCrystalline Brain: Water
+1Automagy/crystalBrain-3.pngCrystalline Brain: Earth
+1Automagy/crystalBrain-4.pngCrystalline Brain: Order
+1Automagy/crystalBrain-5.pngCrystalline Brain: Entropy
 1

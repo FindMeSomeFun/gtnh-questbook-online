@@ -1,4 +1,4 @@
-1755OpenComputers/wrench-0.png0My Little Scrench26-1A screwdriver and wrench in one. Not really a necessary tool, but has some purposes; I suggest referring to your computer manual.ANDpre17590OpenComputers/item-54.pngrewardsItemmiscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
-1harvestcraft/chaiteaItem-0.pngChai Te;harvestcraft:chaiteaItem
-1tasksANDCraftingOpenComputers/wrench-0.pngScrenc;Hold [NONE] for material costs.
+1755OpenComputers/wrench-0.png0My Little Scrench26-1A screwdriver and wrench in one. Not really a necessary tool, but has some purposes; I suggest referring to your computer manual.ANDpre17590OpenComputers/item-54.pngrewardsItemmiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1harvestcraft/chaiteaItem-0.pngChai Tea;harvestcraft:chaiteaItem
+1tasksANDCraftingOpenComputers/wrench-0.pngScrench;Hold [NONE] for material costs.
 1

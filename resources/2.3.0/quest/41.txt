@@ -2,11 +2,11 @@
 
 §6§5The gloves have to be placed in the Baubles ring slots of Thaumcraft. You also have to place each in the correct slot, you'll get a notification if it's wrong.
 
-§rFor the protection effect, the hot item has to be in your active slot. I wonder if there is some way to carry more than a few buckets at a time?ANDpre431Natura/barleyFood-3.pngrewardsItemIguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucke
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDOptionalminecraft/leather-0.pngLeathe
-6minecraft/string-0.pngStrin
-6harvestcraft/wovencottonItem-0.pngWoven Cotto
-6Craftingdreamcraft/item.OvenGlove-0.pngCake Glove (Left hand;Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
-1dreamcraft/item.OvenGlove-1.pngLava Glove (Right hand;Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
+§rFor the protection effect, the hot item has to be in your active slot. I wonder if there is some way to carry more than a few buckets at a time?ANDpre431Natura/barleyFood-3.pngrewardsItemIguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucket
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalminecraft/leather-0.pngLeather
+6minecraft/string-0.pngString
+6harvestcraft/wovencottonItem-0.pngWoven Cotton
+6Craftingdreamcraft/item.OvenGlove-0.pngCake Glove (Left hand);Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
+1dreamcraft/item.OvenGlove-1.pngLava Glove (Right hand);Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
 1

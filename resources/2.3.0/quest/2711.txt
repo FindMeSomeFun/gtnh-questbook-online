@@ -16,11 +16,11 @@ You should expect to need a significant amount of eColi Bacteria Fluid if you pl
 
 §3To search for items related to copying cultures, search for 'culture', 'dna sample', or 'plasmid'. You can't do this for the Data Orbs, you have to check the uses of DNA Samples.
 
-§5A bunch of the fluids have incorrect spelling, don't blame me for it.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: Escherichia koli (eColi Bacteria);Added by BartWorks
-1Retrievalgregtech/gt.metaitem.98-11.pngeColi Bacteria Fluid Cel
-1Retrievalgregtech/gt.metaitem.98-16.pngLiquid DNA Cel
-1gregtech/gt.metaitem.98-13.pngFluorescent DNA Cel
-1Retrievalbartworks/BioLabParts-6.pngPlasma Membran;Added by BartWorks
-1gregtech/gt.metaitem.98-10.pngEnzyme Solution Cel
-1gregtech/gt.metaitem.98-17.pngPolymerase Cel
+§5A bunch of the fluids have incorrect spelling, don't blame me for it.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Escherichia koli (eColi Bacteria);Added by BartWorks
+1Retrievalgregtech/gt.metaitem.98-11.pngeColi Bacteria Fluid Cell
+1Retrievalgregtech/gt.metaitem.98-16.pngLiquid DNA Cell
+1gregtech/gt.metaitem.98-13.pngFluorescent DNA Cell
+1Retrievalbartworks/BioLabParts-6.pngPlasma Membrane;Added by BartWorks
+1gregtech/gt.metaitem.98-10.pngEnzyme Solution Cell
+1gregtech/gt.metaitem.98-17.pngPolymerase Cell
 1

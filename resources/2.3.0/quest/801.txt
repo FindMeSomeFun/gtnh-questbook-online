@@ -1,9 +1,9 @@
-801dreamcraft/item.NanoRubberBoots-0.png0Don't Try to Walk With It14-1Combining some rubber boots with nano boots in the Assembler gives you Nano Rubber Boots. Better not try to put them on because you can't. They are part of the new quantum suit boots.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.01-32602.pngElectric Motor (HV
-2gregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+801dreamcraft/item.NanoRubberBoots-0.png0Don't Try to Walk With It14-1Combining some rubber boots with nano boots in the Assembler gives you Nano Rubber Boots. Better not try to put them on because you can't. They are part of the new quantum suit boots.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.01-32602.pngElectric Motor (HV)
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalIC2/itemArmorNanoBoots-32767.pngNanoSuit Boots\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
-1IC2/itemArmorRubBoots-0.pngRubber Boot;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1Retrievaldreamcraft/item.NanoRubberBoots-0.pngNano Rubber Boot;Don''t try to wear this, you can''t
+1IC2/itemArmorRubBoots-0.pngRubber Boots;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+1Retrievaldreamcraft/item.NanoRubberBoots-0.pngNano Rubber Boots;Don''t try to wear this, you can''t
 1

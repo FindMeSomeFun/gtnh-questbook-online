@@ -3,8 +3,8 @@ The Wireless Charger will keep your armor and tools charged up without having to
 
 It will charge armor and tools at the tier and below.
 
-You didn't want kids anyways...ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png12471gregtech/gt.metaitem.01-32724.pngrewardsChoicegregtech/gt.metaitem.01-32538.pngLarge Lithium Batter;Reusable;1,600,000 / 1,600,000 EU - Voltage: 512;HV-Tier
-1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.blockmachines-892.pngWireless Charger MK II;Hopefully won''t give you cancer.;Can be locked to the owner by sneaking with a screwdriver;Can also be locked with a lock upgrade;3 Modes, Long-Range, Local and Mixed.;Long-Range: Can supply 2A of power to a single player up to 2048m away.;Local: Can supply several Amps to each player within 60m.;Mixed: Provides both 2A of long range and 1A per player locally.;Mixed mode is more conservative of power and as a result only;Gets half the distances each singular mode gets.;Added by: Alkalus - [GT++];Voltage IN: 512 (HV);Capacity: 65,536 EU
+You didn't want kids anyways...ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png12471gregtech/gt.metaitem.01-32724.pngrewardsChoicegregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;1,600,000 / 1,600,000 EU - Voltage: 512;HV-Tier
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-892.pngWireless Charger MK III;Hopefully won''t give you cancer.;Can be locked to the owner by sneaking with a screwdriver;Can also be locked with a lock upgrade;3 Modes, Long-Range, Local and Mixed.;Long-Range: Can supply 2A of power to a single player up to 2048m away.;Local: Can supply several Amps to each player within 60m.;Mixed: Provides both 2A of long range and 1A per player locally.;Mixed mode is more conservative of power and as a result only;Gets half the distances each singular mode gets.;Added by: Alkalus - [GT++];Voltage IN: 512 (HV);Capacity: 65,536 EU
 1

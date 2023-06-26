@@ -1,10 +1,10 @@
-1190Railcraft/machine.epsilon-0.png0Electric Feeder Unit14-1To get your tracks electrified you need an electric feeding unit, shunting wires and some support frames. You can use an MFE or a transformer to get GT energy into the feeder unit.ANDpre11890Railcraft/track-0-electric.pngrewardsChoiceRailcraft/track-32363-buffer-stop.pngBuffer Stop Trac;End of the Line;- Hit with Crowbar to change direction -
-2Railcraft/track-0-gated-oneway.pngGated One-Way Trac;Its a one-way gate;- Apply Redstone to open -
-2minecraft/detector_rail-0.pngDetector Trac
-2enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalRailcraft/machine.epsilon-0.pngElectric Feeder Uni;Converts IndustrialCraft;Electricity to Railcraft Charge;Mobs cannot Spawn on this Block
-1RetrievalRailcraft/machine.delta-0.pngElectric Shunting Wir;Connect Electric Track across gaps;Place under Track using Wire Support Frames;Mobs cannot Spawn on this Block
-8Railcraft/frame-0.pngWire Support Fram;Use to place Track on Shunting Wire;Mobs cannot Spawn on this Block;Glass-Tier: HV
+1190Railcraft/machine.epsilon-0.png0Electric Feeder Unit14-1To get your tracks electrified you need an electric feeding unit, shunting wires and some support frames. You can use an MFE or a transformer to get GT energy into the feeder unit.ANDpre11890Railcraft/track-0-electric.pngrewardsChoiceRailcraft/track-32363-buffer-stop.pngBuffer Stop Track;End of the Line;- Hit with Crowbar to change direction -
+2Railcraft/track-0-gated-oneway.pngGated One-Way Track;Its a one-way gate;- Apply Redstone to open -
+2minecraft/detector_rail-0.pngDetector Track
+2enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalRailcraft/machine.epsilon-0.pngElectric Feeder Unit;Converts IndustrialCraft;Electricity to Railcraft Charge;Mobs cannot Spawn on this Block
+1RetrievalRailcraft/machine.delta-0.pngElectric Shunting Wire;Connect Electric Track across gaps;Place under Track using Wire Support Frames;Mobs cannot Spawn on this Block
+8Railcraft/frame-0.pngWire Support Frame;Use to place Track on Shunting Wire;Mobs cannot Spawn on this Block;Glass-Tier: HV
 4

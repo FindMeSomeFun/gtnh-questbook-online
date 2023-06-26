@@ -1,10 +1,10 @@
-806IC2/itemBatLamaCrystal-1-charged.png0Lapotron Crystal20-1With your new HV mixer you can make lapotron dust. Place it in an autoclave to make some raw lapotron crystals. With an EV assembler and advanced circuits you can make lapotron crystals which store up to 10 million EU.ANDpre8050dreamcraft/item.LapotronDust-0.png8081gregtech/gt.blockmachines-583.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chi;Needed for Circuits
-4IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
-2Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDOptionaldreamcraft/item.LapotronDust-0.pngLapotron Dus
-120OptionalIC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
-8dreamcraft/item.RawLapotronCrystal-0.pngRaw Lapotron Crysta
-4RetrievalIC2/itemBatLamaCrystal-26.pngLapotron Crysta;Durability: 1 / 27
+806IC2/itemBatLamaCrystal-1-charged.png0Lapotron Crystal20-1With your new HV mixer you can make lapotron dust. Place it in an autoclave to make some raw lapotron crystals. With an EV assembler and advanced circuits you can make lapotron crystals which store up to 10 million EU.ANDpre8050dreamcraft/item.LapotronDust-0.png8081gregtech/gt.blockmachines-583.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32714.pngEngraved Lapotron Chip;Needed for Circuits
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionaldreamcraft/item.LapotronDust-0.pngLapotron Dust
+120OptionalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+8dreamcraft/item.RawLapotronCrystal-0.pngRaw Lapotron Crystal
+4RetrievalIC2/itemBatLamaCrystal-26.pngLapotron Crystal;Durability: 1 / 27
 4

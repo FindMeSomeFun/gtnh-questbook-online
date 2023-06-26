@@ -1,2 +1,2 @@
-2813compactkineticgenerators/BlockCkg-7.png0§9§lKinetic Water Power ZPM19-1This is the ZPM version.ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28110compactkineticgenerators/BlockCkg-6.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-7.pngExtreme Kinetic Water Generato;Power Output: 0-256.0x KU/t max
+2813compactkineticgenerators/BlockCkg-7.png0§9§lKinetic Water Power ZPM19-1This is the ZPM version.ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28110compactkineticgenerators/BlockCkg-6.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-7.pngExtreme Kinetic Water Generator;Power Output: 0-256.0x KU/t max
 1

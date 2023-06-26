@@ -6,21 +6,21 @@ Certain bees will not produce their specialty items unless they are Jubilant. Th
 
 It is also possible to use mutators to increase chances of mutation, alveary lighting and alveary rain shield to allow bees without the nocturnal and tolerant flyer traits to work during the night and rain, respectively, and the swarmer to use excess royal jelly to create princesses that last for a limited number of generations.
 
-§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.ANDpre5070Forestry/apiculture-0.pngrewardsItemForestry/royalJelly-0.pngRoyal Jell
-16Forestry/propolis-3.pngSilky Propoli
-32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
-5enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDOptionalgregtech/gt.metaitem.02-19086.pngFine Gold Wir;Au
-432Forestry/royalJelly-0.pngRoyal Jell
-216Forestry/pollen-0.pngPollen Cluste
-216OptionalForestry/beeswax-0.pngBeeswa
-432Forestry/oakStick-0.pngImpregnated Stic
-648gregtech/gt.metaitem.01-30725.pngHoney Cel
-216OptionalForestry/craftingMaterial-6.pngScented Panelin
-216Optionalminecraft/log-0.pngOak Woo;Burn Time: 300
-216gregtech/gt.metaitem.01-30713.pngSeed Oil Cel
-7OptionalForestry/impregnatedCasing-0.pngImpregnated Casin
-27Forestry/craftingMaterial-6.pngScented Panelin
-216RetrievalForestry/alveary-0.pngAlvear
-27Optionalminecraft/wooden_slab-0.pngOak Wood Sla;Burn Time: 150
+§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.ANDpre5070Forestry/apiculture-0.pngrewardsItemForestry/royalJelly-0.pngRoyal Jelly
+16Forestry/propolis-3.pngSilky Propolis
+32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalgregtech/gt.metaitem.02-19086.pngFine Gold Wire;Au
+432Forestry/royalJelly-0.pngRoyal Jelly
+216Forestry/pollen-0.pngPollen Cluster
+216OptionalForestry/beeswax-0.pngBeeswax
+432Forestry/oakStick-0.pngImpregnated Stick
+648gregtech/gt.metaitem.01-30725.pngHoney Cell
+216OptionalForestry/craftingMaterial-6.pngScented Paneling
+216Optionalminecraft/log-0.pngOak Wood;Burn Time: 300
+216gregtech/gt.metaitem.01-30713.pngSeed Oil Cell
+7OptionalForestry/impregnatedCasing-0.pngImpregnated Casing
+27Forestry/craftingMaterial-6.pngScented Paneling
+216RetrievalForestry/alveary-0.pngAlveary
+27Optionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
 9

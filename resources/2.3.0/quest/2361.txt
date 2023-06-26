@@ -2,15 +2,15 @@
 
 Once you have that, you need to do a TC infusion, or maybe the Ender Compendium has a more traditional way to infuse it.
 
-As long as it stays anywhere in the inventory, it protects players from Forest Ghosts, and thus provides a way of acquiring Ectoplasm.ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemenhancedlootbags/lootbag-57.pngLootBag (HEE-Basic;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;65 Knowledge Points
-1tasksANDOptionalminecraft/emerald-0.pngEmeral
-1minecraft/string-0.pngStrin
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powde
-1HardcoreEnderExpansion/bucket_ender_goo-0.pngEnder Goo Bucke
-1OptionalHardcoreEnderExpansion/ghost_amulet-0.pngGhost Amulet (Impure
-1RetrievalHardcoreEnderExpansion/ghost_amulet-1.pngGhost Amule
+As long as it stays anywhere in the inventory, it protects players from Forest Ghosts, and thus provides a way of acquiring Ectoplasm.ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemenhancedlootbags/lootbag-57.pngLootBag (HEE-Basic);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
+1tasksANDOptionalminecraft/emerald-0.pngEmerald
+1minecraft/string-0.pngString
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+1HardcoreEnderExpansion/bucket_ender_goo-0.pngEnder Goo Bucket
+1OptionalHardcoreEnderExpansion/ghost_amulet-0.pngGhost Amulet (Impure)
+1RetrievalHardcoreEnderExpansion/ghost_amulet-1.pngGhost Amulet
 1

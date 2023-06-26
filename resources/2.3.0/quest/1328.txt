@@ -7,9 +7,9 @@ For crafting patterns ("Crafts..."), you specify the input crafting materials on
 For processing patterns ("Creates..."), you specify the input materials and output materials, including quantity, by placing stacks of items in the interface. If a processing operation is not guaranteed to succeed (such as secondary products from some machines), it will not work correctly as a processing pattern.
 
 When designing crafting patterns you can click the output to extract a crafted item as long as you have the materials required to craft the item.
-Don't forget to enable oredict substitution where needed.ANDpre25191appliedenergistics2/item.ItemMultiPart-180.pngrewardsChoicegregtech/gt.metaitem.01-17522.pngNether Quartz Plat;SiO\u2082
-16gregtech/gt.metaitem.01-17516.pngCertus Quartz Plat;SiO\u2082
-16enhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-340.pngME Pattern Termina
+Don't forget to enable oredict substitution where needed.ANDpre25191appliedenergistics2/item.ItemMultiPart-180.pngrewardsChoicegregtech/gt.metaitem.01-17522.pngNether Quartz Plate;SiO\u2082
+16gregtech/gt.metaitem.01-17516.pngCertus Quartz Plate;SiO\u2082
+16enhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-340.pngME Pattern Terminal
 1

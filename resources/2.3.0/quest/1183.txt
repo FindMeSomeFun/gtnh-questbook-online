@@ -1,7 +1,7 @@
-1183minecraft/furnace_minecart-0.png0Locomotive 0.1 Alpha14-1The furnace cart is a cheap locomotive. Click with coal or charcoal on the cart and and it will start moving. ANDpre11810Railcraft/cart.tank-0.pngrewardsChoiceminecraft/coal-1.pngCharcoa;Burn Time: 1600
-32minecraft/coal-0.pngCoa;Burn Time: 1600
-32enhancedlootbags/lootbag-32.pngLootBag (Transportation 3 Class;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDRetrievalminecraft/furnace_minecart-0.pngFurnace Car
+1183minecraft/furnace_minecart-0.png0Locomotive 0.1 Alpha14-1The furnace cart is a cheap locomotive. Click with coal or charcoal on the cart and and it will start moving. ANDpre11810Railcraft/cart.tank-0.pngrewardsChoiceminecraft/coal-1.pngCharcoal;Burn Time: 1600
+32minecraft/coal-0.pngCoal;Burn Time: 1600
+32enhancedlootbags/lootbag-32.pngLootBag (Transportation 3 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalminecraft/furnace_minecart-0.pngFurnace Cart
 1

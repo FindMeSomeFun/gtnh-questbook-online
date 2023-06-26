@@ -1,4 +1,4 @@
-1553StevesCarts/BlockAdvDetector-0.png0Advanced Detector Rail25-1Now that you have a cargo manager you need a specific rail so that your cart can interact with it. Just place it next to the cargo manager, depending on the color of the side it is on you will have to adjust settings in the cargo manager GUI.ANDpre1080StevesCarts/BlockCargoManager-0.pngrewardsItemminecraft/rail-0.pngTrac
-4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalStevesCarts/BlockAdvDetector-0.pngAdvanced Detector Rai
+1553StevesCarts/BlockAdvDetector-0.png0Advanced Detector Rail25-1Now that you have a cargo manager you need a specific rail so that your cart can interact with it. Just place it next to the cargo manager, depending on the color of the side it is on you will have to adjust settings in the cargo manager GUI.ANDpre1080StevesCarts/BlockCargoManager-0.pngrewardsItemminecraft/rail-0.pngTrack
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalStevesCarts/BlockAdvDetector-0.pngAdvanced Detector Rail
 1

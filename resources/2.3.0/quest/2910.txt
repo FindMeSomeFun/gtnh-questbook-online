@@ -1,7 +1,7 @@
-2910JABBA/upgradeStructural-2.png0§3§lBarrel Upgrades Tier 33-1Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!ANDpre11250JABBA/upgradeStructural-1.pngrewardsChoiceJABBA/upgradeCore-0.pngStorage upgrad;Slots Used :1;Increases the storage capacity by 64 stacks
-4JABBA/upgradeStructural-3.pngStructural MK IV (Bronze Plate;Slots Provided :15
-2enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDRetrievalJABBA/upgradeStructural-2.pngStructural MK III (Iron Plate;Slots Provided :7
-2RetrievalJABBA/upgradeCore-0.pngStorage upgrad;Slots Used :1;Increases the storage capacity by 64 stacks
+2910JABBA/upgradeStructural-2.png0§3§lBarrel Upgrades Tier 33-1Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!ANDpre11250JABBA/upgradeStructural-1.pngrewardsChoiceJABBA/upgradeCore-0.pngStorage upgrade;Slots Used :1;Increases the storage capacity by 64 stacks
+4JABBA/upgradeStructural-3.pngStructural MK IV (Bronze Plate);Slots Provided :15
+2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalJABBA/upgradeStructural-2.pngStructural MK III (Iron Plate);Slots Provided :7
+2RetrievalJABBA/upgradeCore-0.pngStorage upgrade;Slots Used :1;Increases the storage capacity by 64 stacks
 8

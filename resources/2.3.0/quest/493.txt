@@ -1,8 +1,8 @@
-493gregtech/gt.metatool.01-26.png1§3§lWiremill v0.2 Alpha3-1Small gears require a wire cutter to be made, so let's craft one.ANDpre481gregtech/gt.metaitem.01-11308.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-27032.pngIron Scre;Fe
-4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plat;Fe
-3gregtech/gt.metaitem.01-23032.pngIron Ro;Fe
-2gregtech/gt.metaitem.01-27032.pngIron Scre;Fe
-1Craftinggregtech/gt.metatool.01-26-Iron-Iron.pngWire Cutte;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.25;Mining Speed: 6.0
+493gregtech/gt.metatool.01-26.png1§3§lWiremill v0.2 Alpha3-1Small gears require a wire cutter to be made, so let's craft one.ANDpre481gregtech/gt.metaitem.01-11308.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
+3gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
+2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+1Craftinggregtech/gt.metatool.01-26-Iron-Iron.pngWire Cutter;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.25;Mining Speed: 6.0
 1

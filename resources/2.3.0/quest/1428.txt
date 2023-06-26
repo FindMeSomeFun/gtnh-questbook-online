@@ -1,7 +1,7 @@
-1428GalaxySpace/item.RocketControlComputer-2.png1Tier 2 Control Computer24-1Each rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plat;Tier 1
-1gregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDRetrievalGalaxySpace/item.RocketControlComputer-2.pngRocket Control Computer Tier 
+1428GalaxySpace/item.RocketControlComputer-2.png1Tier 2 Control Computer24-1Each rocket needs a Control Computer, appropriate to the tier of the rocket.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoiceGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+1gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalGalaxySpace/item.RocketControlComputer-2.pngRocket Control Computer Tier 2
 1

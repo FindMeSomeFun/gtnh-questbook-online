@@ -10,14 +10,14 @@ Sending more power to the same gearbox doesn't work. If it can get to max RF cap
 
 In addition, you lose 2 EU from the the energy emitting device for every A of ULV (which is only 8 to begin with), so it's not nearly as efficient as using LV or higher. Just keep in mind that more A to more gearboxes is better than to the same one.
 
-Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-2.pngBronze Electron Tub
-4Forestry/thermionicTubes-0.pngCopper Electron Tub
-4Forestry/thermionicTubes-1.pngTin Electron Tub
-4enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
-25tasksANDOptionalForestry/ffarm-0.pngFarm Bloc;Stone Bricks
-1gregtech/gt.metaitem.02-31305.pngSteel Gea;Fe\u2085\u2080C
-4Forestry/thermionicTubes-2.pngBronze Electron Tub
-4gregtech/gt.metaitem.01-32600.pngElectric Motor (LV
-1RetrievalForestry/ffarm-2.pngFarm Gearbo;Stone Bricks
+Of course, if you mix your slower crops with your faster ones, you aren't likely to need to min-max to this extent.ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-2.pngBronze Electron Tube
+4Forestry/thermionicTubes-0.pngCopper Electron Tube
+4Forestry/thermionicTubes-1.pngTin Electron Tube
+4enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25tasksANDOptionalForestry/ffarm-0.pngFarm Block;Stone Bricks
+1gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
+4Forestry/thermionicTubes-2.pngBronze Electron Tube
+4gregtech/gt.metaitem.01-32600.pngElectric Motor (LV)
+1RetrievalForestry/ffarm-2.pngFarm Gearbox;Stone Bricks
 2

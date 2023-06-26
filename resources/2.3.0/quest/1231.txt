@@ -1,9 +1,9 @@
-1231gregtech/gt.metaitem.01-32652.png1§9§lYou're Gonna Hate This 1-4 in HV6-1Pumps, pistons, conveyor modules and robot arms are the most needed machine parts in HV. Go and craft one of each.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-11303.pngElectrum Ingo;AgAu
-8gregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
-4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalgregtech/gt.metaitem.01-32612.pngElectric Pump (HV;512 L/t (10,240 L/s) as Cover
-1gregtech/gt.metaitem.01-32642.pngElectric Piston (HV
-1gregtech/gt.metaitem.01-32632.pngConveyor Module (HV;1 stack every 1 sec (as Cover)
-1gregtech/gt.metaitem.01-32652.pngRobot Arm (HV;1 stack every 1 sec (as Cover);Grabs from and inserts into specific slots
+1231gregtech/gt.metaitem.01-32652.png1§9§lYou're Gonna Hate This 1-4 in HV6-1Pumps, pistons, conveyor modules and robot arms are the most needed machine parts in HV. Go and craft one of each.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-11303.pngElectrum Ingot;AgAu
+8gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.metaitem.01-32612.pngElectric Pump (HV);512 L/t (10,240 L/s) as Cover
+1gregtech/gt.metaitem.01-32642.pngElectric Piston (HV)
+1gregtech/gt.metaitem.01-32632.pngConveyor Module (HV);1 stack every 1 sec (as Cover)
+1gregtech/gt.metaitem.01-32652.pngRobot Arm (HV);1 stack every 1 sec (as Cover);Grabs from and inserts into specific slots
 1

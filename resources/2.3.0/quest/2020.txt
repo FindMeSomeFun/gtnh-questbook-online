@@ -2,8 +2,8 @@
 
 I can use dyes on the top of the box to assign its location, and any box with the same colors will share the same space. Using a diamond on the box locks it to me, and me alone.
 
-Shift-rightclicking will remove the diamond and the chest will rejoin the public network.ANDpre2621Thaumcraft/WandCasting-54.pngrewardsItemminecraft/nether_star-0.pngNether Sta;Applicable up to: 08-Manyullyn
-4minecraft/dye-5.pngPurple Dy
-1minecraft/dye-2.pngCactus Gree
-1tasksANDRetrievalEnderStorage/enderChest-0.pngEnder Ches
+Shift-rightclicking will remove the diamond and the chest will rejoin the public network.ANDpre2621Thaumcraft/WandCasting-54.pngrewardsItemminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
+4minecraft/dye-5.pngPurple Dye
+1minecraft/dye-2.pngCactus Green
+1tasksANDRetrievalEnderStorage/enderChest-0.pngEnder Chest
 1

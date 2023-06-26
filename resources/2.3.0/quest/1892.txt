@@ -1,4 +1,4 @@
-1892gregtech/gt.metaitem.01-30014.png0Fluorine4012000Want some fluorine? Buy some!ANDpre1761gregtech/gt.blockmachines-14.png18121gregtech/gt.metaitem.01-30667.pngrewardsItemgregtech/gt.metaitem.01-30014.pngFluorine Cel;F
-16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cel
-16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
+1892gregtech/gt.metaitem.01-30014.png0Fluorine4012000Want some fluorine? Buy some!ANDpre1761gregtech/gt.blockmachines-14.png18121gregtech/gt.metaitem.01-30667.pngrewardsItemgregtech/gt.metaitem.01-30014.pngFluorine Cell;F
+16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 10

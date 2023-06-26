@@ -1,6 +1,6 @@
 179appliedenergistics2/tile.BlockSkyCompass-0.png0Gotta Find Them All27-1There are a lot of meteors on the surface, but there are more underground. In order to find those, you'll want a compass. The compass will only tell you the chunk has an asteroid in it, with your ore finder wand you can get a better idea where in the chunk the meteor is hiding.
 
-For more details on AE2, check out https://tinyurl.com/GTNH-AE2ANDpre1761gregtech/gt.blockmachines-14.png11660minecraft/quartz_ore-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalappliedenergistics2/tile.BlockSkyCompass-0.pngMeteorite Compas
+For more details on AE2, check out https://tinyurl.com/GTNH-AE2ANDpre1761gregtech/gt.blockmachines-14.png11660minecraft/quartz_ore-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalappliedenergistics2/tile.BlockSkyCompass-0.pngMeteorite Compass
 1

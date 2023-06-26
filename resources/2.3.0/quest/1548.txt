@@ -3,10 +3,10 @@ The Extraction pipe should be connected to the chest you want to take items from
 Inside the Extraction pipe you need to put the Item Extraction chip, and configure it to blacklist if you want it to take all items from the chest.
 
 The Routed Junction pipe is needed so the items inside the pipes know which direction to take, without this they will just fly around inside the pipes without knowing where to go.
-You might also need some additional item transport pipes depending on your setup.ANDpre7390StorageDrawers/controller-0.pngrewardsChoiceProjRedTransportation/projectred.transportation.pipe-10.pngNetwork Latency pip
-8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-1.pngRouted Junction pip
-1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pip
-1RetrievalProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chi
+You might also need some additional item transport pipes depending on your setup.ANDpre7390StorageDrawers/controller-0.pngrewardsChoiceProjRedTransportation/projectred.transportation.pipe-10.pngNetwork Latency pipe
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-1.pngRouted Junction pipe
+1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+1RetrievalProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
 1

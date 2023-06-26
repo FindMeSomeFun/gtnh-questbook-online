@@ -1,7 +1,7 @@
 898gregtech/gt.blockmachines-767.png0§5§lSimple Ore Washer4-1Too lazy to make an ore washer, yet bored with your non-automatable cauldron? Then the simple washer is the machine for you! It works reasonably fast and uses only 8eu max - make sure you don't provide too much voltage! Ok, so you don't get any byproducts, but who cares!
 
-§3They're only every other tier, which is why there's no LV one.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemgregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pip;Fluid Capacity: 9,600 L/sec;Heat Limit: 2,500 K
-4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDRetrievalgregtech/gt.blockmachines-767.pngSimple Washer ;It''s like an automatic Cauldron for washing dusts.;Grants no byproducts, but it is fast.;Added by: Alkalus - [GT++];Voltage IN: 8 (ULV);Capacity: 512 EU
+§3They're only every other tier, which is why there's no LV one.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemgregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe;Fluid Capacity: 9,600 L/sec;Heat Limit: 2,500 K
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalgregtech/gt.blockmachines-767.pngSimple Washer I;It''s like an automatic Cauldron for washing dusts.;Grants no byproducts, but it is fast.;Added by: Alkalus - [GT++];Voltage IN: 8 (ULV);Capacity: 512 EU
 1

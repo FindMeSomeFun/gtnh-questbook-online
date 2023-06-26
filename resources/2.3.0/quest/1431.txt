@@ -1,10 +1,10 @@
-1431GalacticraftCore/item.engine-1.png1Booster24-1The distance between Mars and Earth is much larger than to the Moon, so the rocket needs boosters to reach it.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingo;SpFe
-16gregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDOptionalGalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iro
-6GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plat;Tier 1
-8GalacticraftCore/item.airVent-0.pngOxygen Ven
-2GalacticraftCore/item.fuelCanisterPartial-1.pngFilled Fuel Caniste;Fuel: 1000;Durability: 1000 / 1001
-2RetrievalGalacticraftCore/item.engine-1.pngTier 1 Booste
+1431GalacticraftCore/item.engine-1.png1Booster24-1The distance between Mars and Earth is much larger than to the Moon, so the rocket needs boosters to reach it.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot;SpFe
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalGalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
+6GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+8GalacticraftCore/item.airVent-0.pngOxygen Vent
+2GalacticraftCore/item.fuelCanisterPartial-1.pngFilled Fuel Canister;Fuel: 1000;Durability: 1000 / 1001
+2RetrievalGalacticraftCore/item.engine-1.pngTier 1 Booster
 2

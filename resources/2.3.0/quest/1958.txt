@@ -2,10 +2,10 @@
 
 To get crosses, plant flowers next to empty soil blocks. Keep an eye out for weeds. Eventually a small germling will start growing.
 
-Remember, do this underground or in an enclosure or your TPS will regret it.ANDpre19560Botany/misc-7.pngrewardsChoiceBotany/pigment-1.pngPigmen;Black
-8Botany/pigment-2.pngPigmen;Deep Blue
-8Botany/pigment-11.pngPigmen;Dark Green
-8Botany/pigment-75.pngPigmen;Mauve
-8tasksANDRetrievalBotany/pigment-59.pngPigmen;Red
-4Botany/pigment-78.pngPigmen;Yellow
+Remember, do this underground or in an enclosure or your TPS will regret it.ANDpre19560Botany/misc-7.pngrewardsChoiceBotany/pigment-1.pngPigment;Black
+8Botany/pigment-2.pngPigment;Deep Blue
+8Botany/pigment-11.pngPigment;Dark Green
+8Botany/pigment-75.pngPigment;Mauve
+8tasksANDRetrievalBotany/pigment-59.pngPigment;Red
+4Botany/pigment-78.pngPigment;Yellow
 4

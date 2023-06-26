@@ -1,20 +1,20 @@
-2372HardcoreEnderExpansion/living_matter-0.png0Living Matter30-1Living Matter are Microorganisms combined together, used to craft Curses.ANDpre23730HardcoreEnderExpansion/silverfish_blood-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplas
-8HardcoreEnderExpansion/essence-0.pngDragon Essenc
-16HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Bloo
-2HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
-8HardcoreEnderExpansion/auricion-0.pngAuricio
-4enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
-5tasksANDOptionalHardcoreEnderExpansion/spectral_tear-0.pngSpectral Tea
-1HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Bloo
-1minecraft/spider_eye-0.pngSpider Ey;minecraft:spider_eye
-1minecraft/bone-0.pngBon
-1minecraft/egg-0.pngEg
-1HardcoreEnderExpansion/instability_orb-0.pngInstability Or
-1minecraft/blaze_powder-0.pngBlaze Powde
-1minecraft/rotten_flesh-0.pngRotten Fles;minecraft:rotten_flesh
-1gregtech/gt.metaitem.01-2815.pngAshe;C
-1RetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matte
+2372HardcoreEnderExpansion/living_matter-0.png0Living Matter30-1Living Matter are Microorganisms combined together, used to craft Curses.ANDpre23730HardcoreEnderExpansion/silverfish_blood-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+8HardcoreEnderExpansion/essence-0.pngDragon Essence
+16HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+2HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+8HardcoreEnderExpansion/auricion-0.pngAuricion
+4enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+5tasksANDOptionalHardcoreEnderExpansion/spectral_tear-0.pngSpectral Tear
+1HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+1minecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
+1minecraft/bone-0.pngBone
+1minecraft/egg-0.pngEgg
+1HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
+1minecraft/blaze_powder-0.pngBlaze Powder
+1minecraft/rotten_flesh-0.pngRotten Flesh;minecraft:rotten_flesh
+1gregtech/gt.metaitem.01-2815.pngAshes;C
+1RetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
 1

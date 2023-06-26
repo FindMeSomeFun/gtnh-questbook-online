@@ -6,8 +6,8 @@ Production rates in an empty Apiary are low - lower than a Bee House by quite a 
 
 Bees also don't live as long as in a Bee House, but that's actually a good thing.
 
-Also, you should check the Genetics mod for useful machines. The Acclimatiser can give very picky bees a much wider temperature or humidity tolerance without having to breed it into them.ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/frameUntreated-0.pngUntreated Fram
-3Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
-5tasksANDRetrievalForestry/apiculture-0.pngApiar
+Also, you should check the Genetics mod for useful machines. The Acclimatiser can give very picky bees a much wider temperature or humidity tolerance without having to breed it into them.ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/frameUntreated-0.pngUntreated Frame
+3Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5tasksANDRetrievalForestry/apiculture-0.pngApiary
 1

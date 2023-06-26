@@ -4,27 +4,27 @@
 
 The key binding only works after the backpack is added to the back slot, which can be done using Shift+<Open Backpacks Key>.
 
-§4The maximum you can have in your inventory at once is 4.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemExtraUtilities/paintbrush-0.pngPaintbrus
-1Choicegregtech/gt.metaitem.02-32414.pngBlack Dy
-10gregtech/gt.metaitem.02-32415.pngRed Dy
-10gregtech/gt.metaitem.02-32416.pngGreen Dy
-10gregtech/gt.metaitem.02-32417.pngBrown Dy
-10gregtech/gt.metaitem.02-32419.pngPurple Dy
-10gregtech/gt.metaitem.02-32418.pngBlue Dy
-10gregtech/gt.metaitem.02-32420.pngCyan Dy
-10gregtech/gt.metaitem.02-32421.pngLight Gray Dy
-10gregtech/gt.metaitem.02-32422.pngGray Dy
-10gregtech/gt.metaitem.02-32423.pngPink Dy
-10gregtech/gt.metaitem.02-32424.pngLime Dy
-10gregtech/gt.metaitem.02-32425.pngYellow Dy
-10gregtech/gt.metaitem.02-32426.pngLight Blue Dy
-10gregtech/gt.metaitem.02-32427.pngMagenta Dy
-10gregtech/gt.metaitem.02-32428.pngOrange Dy
-10gregtech/gt.metaitem.02-32429.pngWhite Dy
-10Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDOptionalgregtech/gt.metaitem.01-28305.pngSteel Rin;Fe\u2085\u2080C
-1harvestcraft/wovencottonItem-0.pngWoven Cotto
-3Backpack/tannedLeather-0.pngTanned Leathe
-5CraftingBackpack/backpack-0.pngBackpac;Press SHIFT for more information;4*9 Inventory - 36 Slots
+§4The maximum you can have in your inventory at once is 4.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemExtraUtilities/paintbrush-0.pngPaintbrush
+1Choicegregtech/gt.metaitem.02-32414.pngBlack Dye
+10gregtech/gt.metaitem.02-32415.pngRed Dye
+10gregtech/gt.metaitem.02-32416.pngGreen Dye
+10gregtech/gt.metaitem.02-32417.pngBrown Dye
+10gregtech/gt.metaitem.02-32419.pngPurple Dye
+10gregtech/gt.metaitem.02-32418.pngBlue Dye
+10gregtech/gt.metaitem.02-32420.pngCyan Dye
+10gregtech/gt.metaitem.02-32421.pngLight Gray Dye
+10gregtech/gt.metaitem.02-32422.pngGray Dye
+10gregtech/gt.metaitem.02-32423.pngPink Dye
+10gregtech/gt.metaitem.02-32424.pngLime Dye
+10gregtech/gt.metaitem.02-32425.pngYellow Dye
+10gregtech/gt.metaitem.02-32426.pngLight Blue Dye
+10gregtech/gt.metaitem.02-32427.pngMagenta Dye
+10gregtech/gt.metaitem.02-32428.pngOrange Dye
+10gregtech/gt.metaitem.02-32429.pngWhite Dye
+10Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-28305.pngSteel Ring;Fe\u2085\u2080C
+1harvestcraft/wovencottonItem-0.pngWoven Cotton
+3Backpack/tannedLeather-0.pngTanned Leather
+5CraftingBackpack/backpack-0.pngBackpack;Press SHIFT for more information;4*9 Inventory - 36 Slots
 1

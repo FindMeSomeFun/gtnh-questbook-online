@@ -1,13 +1,13 @@
 1733GalaxySpace/item.spacesuit_plate-0.png0Journey to the Bottom of a Molten Ocean24-1Venus is hot, so hot it can melt lead. On top of that the atmosphere is so thick, 90x the Overworld, that it will crush you. Not to mention the Sulfuric Acid! You will need to construct a special suit to survive on Venus without dying instantly.
 
-§3Some armors can now also survive this atmosphere. It will say so in their tooltip.ANDpre15311GalaxySpace/item.RocketControlComputer-4.pngrewardsItemGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plat;Tier 3
-1gregtech/gt.metaitem.01-2372.pngHSS-G Dus;((Fe\u2085\u2080C)W)\u2085CrMo\u2082V
-4enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-4Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
-2dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
-2dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000
-2tasksANDRetrievalGalaxySpace/item.spacesuit_helmet-0.pngSpaceSuit Helme;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 4;Durability: 330/330
-1GalaxySpace/item.spacesuit_plate-0.pngSpaceSuit Chestplat;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 10;Durability: 480/480
-1GalaxySpace/item.spacesuit_leg-0.pngSpaceSuit Leggin;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 8;Durability: 450/450
-1GalaxySpace/item.spacesuit_boots-0.pngSpaceSuit Boot;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 3;Durability: 390/390
+§3Some armors can now also survive this atmosphere. It will say so in their tooltip.ANDpre15311GalaxySpace/item.RocketControlComputer-4.pngrewardsItemGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
+1gregtech/gt.metaitem.01-2372.pngHSS-G Dust;((Fe\u2085\u2080C)W)\u2085CrMo\u2082V
+4enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+2dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
+2dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
+2tasksANDRetrievalGalaxySpace/item.spacesuit_helmet-0.pngSpaceSuit Helmet;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 4;Durability: 330/330
+1GalaxySpace/item.spacesuit_plate-0.pngSpaceSuit Chestplate;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 10;Durability: 480/480
+1GalaxySpace/item.spacesuit_leg-0.pngSpaceSuit Leggins;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 8;Durability: 450/450
+1GalaxySpace/item.spacesuit_boots-0.pngSpaceSuit Boots;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 3;Durability: 390/390
 1

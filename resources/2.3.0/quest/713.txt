@@ -1,5 +1,5 @@
-713AWWayofTime/itemRitualDiviner-2.png0High-end Rituals37-1The last diviner so far, used for the most powerful rituals.ANDpre7060AWWayofTime/dawnScribeTool-0.pngrewardsItemAWWayofTime/bloodMagicBaseItems-27.pngEthereal Slat
-2enhancedlootbags/lootbag-18.pngLootBag (BM Master;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
-5tasksANDRetrievalAWWayofTime/itemRitualDiviner-2.pngRitual Divine;Used to explore new types of rituals;Can place Dusk and Dawn runes;Ritual tuned to face: NORTH
+713AWWayofTime/itemRitualDiviner-2.png0High-end Rituals37-1The last diviner so far, used for the most powerful rituals.ANDpre7060AWWayofTime/dawnScribeTool-0.pngrewardsItemAWWayofTime/bloodMagicBaseItems-27.pngEthereal Slate
+2enhancedlootbags/lootbag-18.pngLootBag (BM Master);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+5tasksANDRetrievalAWWayofTime/itemRitualDiviner-2.pngRitual Diviner;Used to explore new types of rituals;Can place Dusk and Dawn runes;Ritual tuned to face: NORTH
 1

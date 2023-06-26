@@ -18,20 +18,20 @@ Macerates 16 items at a time.
 
 High wind speeds will decrease output.
 
-The durability will decrease according to the wind speed.ORpre481gregtech/gt.metaitem.01-11308.png18310minecraft/dispenser-0.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-1gregtech/gt.metaitem.02-31032.pngIron Gea;Fe
-1Choiceminecraft/leather-0.pngLeathe
-12minecraft/carpet-0.pngCarpe
-6minecraft/paper-0.pngPape
-3tasksANDRetrievalminecraft/brick_block-0.pngBrick
-44minecraft/planks-0.pngOak Wood Plank;Burn Time: 300
-100minecraft/wooden_door-0.pngWooden Doo;Burn Time: 600
-1minecraft/dispenser-0.pngDispense
-1minecraft/hardened_clay-0.pngHardened Cla
-45Retrievalgregtech/gt.metaitem.02-31032.pngIron Gea;Fe
-4minecraft/hopper-0.pngHoppe
-1gregtech/gt.metaitem.01-28032.pngIron Rin;Fe
-4bartworks/craftingParts-2.pngGrindston;Added by BartWorks
-1Retrievalbartworks/BWRotorBlock-0.pngPrimitive Kinetic Shaftbo;Mobs cannot Spawn on this Block;Added by BartWorks;Burn Time: 300
-1gregtech/gt.blockmachines-12698.pngWindmil;Machine Type: Windmill;Controller block for the Windmill;A primitive Grinder powered by Kinetic energy;Speed and output will be affected by wind speed, recipe and rotor;Please use the Primitive Rotor;Macerates 16 items at a time;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: BartWorks
+The durability will decrease according to the wind speed.ORpre481gregtech/gt.metaitem.01-11308.png18310minecraft/dispenser-0.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1gregtech/gt.metaitem.02-31032.pngIron Gear;Fe
+1Choiceminecraft/leather-0.pngLeather
+12minecraft/carpet-0.pngCarpet
+6minecraft/paper-0.pngPaper
+3tasksANDRetrievalminecraft/brick_block-0.pngBricks
+44minecraft/planks-0.pngOak Wood Planks;Burn Time: 300
+100minecraft/wooden_door-0.pngWooden Door;Burn Time: 600
+1minecraft/dispenser-0.pngDispenser
+1minecraft/hardened_clay-0.pngHardened Clay
+45Retrievalgregtech/gt.metaitem.02-31032.pngIron Gear;Fe
+4minecraft/hopper-0.pngHopper
+1gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+4bartworks/craftingParts-2.pngGrindstone;Added by BartWorks
+1Retrievalbartworks/BWRotorBlock-0.pngPrimitive Kinetic Shaftbox;Mobs cannot Spawn on this Block;Added by BartWorks;Burn Time: 300
+1gregtech/gt.blockmachines-12698.pngWindmill;Machine Type: Windmill;Controller block for the Windmill;A primitive Grinder powered by Kinetic energy;Speed and output will be affected by wind speed, recipe and rotor;Please use the Primitive Rotor;Macerates 16 items at a time;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: BartWorks
 1

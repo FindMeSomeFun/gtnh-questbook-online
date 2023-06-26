@@ -1,6 +1,6 @@
-210openmodularturrets/rocketTurret-0.png0§a§lWhy Grenades...14-1...when you can use rockets? Yes, rockets! They search and destroy, and go off with a huge boom.ANDpre2070openmodularturrets/baseTierThreeBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1openmodularturrets/rocketCraftable-0.pngAmmo - Rocke
-16Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalopenmodularturrets/rocketTurret-0.pngRocket Launcher Turre;--Info--;Tier: 4;Range (in blocks): 30;Accuracy: Pin Point;Ammo Type: Homing Rocket;Base Minimum Tier: Tier 4 Turret Base;--Damage Output--;Projectile Damage: 12.5 Hearts;AOE Radius: 5;Shots/s: 0.7;Energy usage per shot: 5000 RF;Red mist.;Glass-Tier: HV
+210openmodularturrets/rocketTurret-0.png0§a§lWhy Grenades...14-1...when you can use rockets? Yes, rockets! They search and destroy, and go off with a huge boom.ANDpre2070openmodularturrets/baseTierThreeBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1openmodularturrets/rocketCraftable-0.pngAmmo - Rocket
+16Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalopenmodularturrets/rocketTurret-0.pngRocket Launcher Turret;--Info--;Tier: 4;Range (in blocks): 30;Accuracy: Pin Point;Ammo Type: Homing Rocket;Base Minimum Tier: Tier 4 Turret Base;--Damage Output--;Projectile Damage: 12.5 Hearts;AOE Radius: 5;Shots/s: 0.7;Energy usage per shot: 5000 RF;Red mist.;Glass-Tier: HV
 1

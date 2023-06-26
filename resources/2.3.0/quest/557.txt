@@ -1,7 +1,7 @@
 557gregtech/gt.metaitem.01-30709.png0§9§lNITRO! (Cetane-Boosted Diesel)6-11,000,000 EU per cell, way more dense than before. Yes, yes, this is very good! Make some cetane-boosted diesel fuel and power your Combustion Engine with it.
 
-§3BTW HOG is a different path, so you'll need to completely redo your setup if you want that in EV.ANDpre5490gregtech/gt.metaitem.01-30740.png8410gregtech/gt.metaitem.01-30639.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cel
-64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDRetrievalgregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cel;Can be used as rocket fuel up to tier 2
+§3BTW HOG is a different path, so you'll need to completely redo your setup if you want that in EV.ANDpre5490gregtech/gt.metaitem.01-30740.png8410gregtech/gt.metaitem.01-30639.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
+64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
 128

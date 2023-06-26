@@ -2,17 +2,17 @@
 
 The temperature indicator on the Life Support HUD will show if the player is becoming too hot or too cold - as the temperature approaches dangerous levels, an "Invalid Thermal Protection" warning will be shown. On Mars and the Asteroids, simply wearing a full set of Thermal Padding should be enough to fix this.
 
-§3You'll also need some Silicon Rubber.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingo;Al
-64gregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingo;SpFe
-32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000
-1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000
-1tasksANDOptionalharvestcraft/wovencottonItem-0.pngWoven Cotto
-192gregtech/gt.metaitem.01-29019.pngAluminium Foi;Al
-192dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron Strin
-216OptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Clot
-24RetrievalGalacticraftMars/item.thermalPadding-0.pngThermal Padding Hel
-1GalacticraftMars/item.thermalPadding-1.pngThermal Padding Chestpiec
-1GalacticraftMars/item.thermalPadding-2.pngThermal Padding Legging
-1GalacticraftMars/item.thermalPadding-3.pngThermal Padding Boot
+§3You'll also need some Silicon Rubber.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
+64gregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot;SpFe
+32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
+1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+1tasksANDOptionalharvestcraft/wovencottonItem-0.pngWoven Cotton
+192gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
+192dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
+216OptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Cloth
+24RetrievalGalacticraftMars/item.thermalPadding-0.pngThermal Padding Helm
+1GalacticraftMars/item.thermalPadding-1.pngThermal Padding Chestpiece
+1GalacticraftMars/item.thermalPadding-2.pngThermal Padding Leggings
+1GalacticraftMars/item.thermalPadding-3.pngThermal Padding Boots
 1

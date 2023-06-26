@@ -1,17 +1,17 @@
 1217Forestry/thermionicTubes-0.png0Copper, Tin, Bronze Tubes16-1Electron tubes are used to set farms to a special kind of crop and can be used in engines, alvearies and some crafting recipes.
 
-Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tub
-4Forestry/canBiomass-0.pngBiomass Ca
-16enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
-25tasksANDOptionalgregtech/gt.metaitem.02-22035.pngLong Copper Ro;Cu
-6gregtech/gt.metaitem.02-22057.pngLong Tin Ro;Sn
-6gregtech/gt.metaitem.02-22300.pngLong Bronze Ro;SnCu\u2083
-6gregtech/gt.metaitem.01-26086.pngGold Bol;Au
-18gregtech/gt.metaitem.01-17308.pngRed Alloy Plat;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-9gregtech/gt.metaitem.02-19035.pngFine Copper Wir;Cu
-18minecraft/glass-0.pngGlas;Glass-Tier: HV
-18RetrievalForestry/thermionicTubes-0.pngCopper Electron Tub
-6Forestry/thermionicTubes-1.pngTin Electron Tub
-6Forestry/thermionicTubes-2.pngBronze Electron Tub
+Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
+4Forestry/canBiomass-0.pngBiomass Can
+16enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+25tasksANDOptionalgregtech/gt.metaitem.02-22035.pngLong Copper Rod;Cu
+6gregtech/gt.metaitem.02-22057.pngLong Tin Rod;Sn
+6gregtech/gt.metaitem.02-22300.pngLong Bronze Rod;SnCu\u2083
+6gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
+18gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+9gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+18minecraft/glass-0.pngGlass;Glass-Tier: HV
+18RetrievalForestry/thermionicTubes-0.pngCopper Electron Tube
+6Forestry/thermionicTubes-1.pngTin Electron Tube
+6Forestry/thermionicTubes-2.pngBronze Electron Tube
 6

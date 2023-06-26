@@ -1,7 +1,7 @@
-273dreamcraft/item.SnowQueenBlood-0.png1She Let Go32-1This blood seems pretty common, but she had advanced magic abilities. I'm sure I can use this as a medium.ANDpre2741TwilightForest/item.carminite-0.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
-1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDRetrievaldreamcraft/item.SnowQueenBlood-0.pngSnow Queen Bloo
-2Retrievalgregtech/gt.metaitem.01-27317.pngOsmiridium Scre;Ir\u2083Os
+273dreamcraft/item.SnowQueenBlood-0.png1She Let Go32-1This blood seems pretty common, but she had advanced magic abilities. I'm sure I can use this as a medium.ANDpre2741TwilightForest/item.carminite-0.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievaldreamcraft/item.SnowQueenBlood-0.pngSnow Queen Blood
+2Retrievalgregtech/gt.metaitem.01-27317.pngOsmiridium Screw;Ir\u2083Os
 4

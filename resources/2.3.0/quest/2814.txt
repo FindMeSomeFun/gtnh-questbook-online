@@ -1,2 +1,2 @@
-2814compactkineticgenerators/BlockCkg-3.png0§9§lKinetic Wind Power ZPM19-1This is the ZPM version.ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28120compactkineticgenerators/BlockCkg-2.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-3.pngExtreme Kinetic Wind Generato;Power Output: 0-256.0x KU/t max
+2814compactkineticgenerators/BlockCkg-3.png0§9§lKinetic Wind Power ZPM19-1This is the ZPM version.ANDpre26111gregtech/gt.metaitem.01-32656.png26691gregtech/gt.metaitem.01-11129.png28120compactkineticgenerators/BlockCkg-2.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-3.pngExtreme Kinetic Wind Generator;Power Output: 0-256.0x KU/t max
 1

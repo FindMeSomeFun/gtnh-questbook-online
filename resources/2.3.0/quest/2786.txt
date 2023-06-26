@@ -1,6 +1,6 @@
 2786gregtech/gt.blockmachines-1117.png0How Many Forests Did You Cut Down to Power This?19-1This is the HV version, with the lowest efficiency so far of 85%. You can offset that by just generating more Benzene, alongside Phenol and Toluene in a Distillation Tower, or use Naphtha instead... You have many options at this point, surely enough to fight the increasing power demands of your automation.
 
-Benzene doesn't get upgraded in HV, only in EV. You'll be able to make Nitrobenzene when you're there, and burn it in some turbines bigger than this one.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemmiscutils/nitrobenzene-0.pngNitrobenzene Cel
-8Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalgregtech/gt.blockmachines-1117.pngTurbo Gas Turbin;Requires flammable Gasses;Causes 32 Pollution per second;Fuel Efficiency: 85%;Voltage OUT: 512 (HV);Capacity: 41,472 EU
+Benzene doesn't get upgraded in HV, only in EV. You'll be able to make Nitrobenzene when you're there, and burn it in some turbines bigger than this one.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemmiscutils/nitrobenzene-0.pngNitrobenzene Cell
+8Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalgregtech/gt.blockmachines-1117.pngTurbo Gas Turbine;Requires flammable Gasses;Causes 32 Pollution per second;Fuel Efficiency: 85%;Voltage OUT: 512 (HV);Capacity: 41,472 EU
 1

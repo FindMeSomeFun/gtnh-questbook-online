@@ -1,7 +1,7 @@
 407AWWayofTime/blankSlate-0.png1Tier 1 Slates37-1The basic slates. Basically just stone with blood infused in it.
 
-You can either pump the blood out, use buckets, or fill cells to get the blood for the cutting machine.ANDpre1771AWWayofTime/sacrificialKnife-0.pngrewardsItemAWWayofTime/blankSlate-0.pngBlank Slat;Infused stone inside of;a blood altar
-12Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
-1tasksANDOptionaldreamcraft/item.ArcaneSlate-0.pngArcane Slat
-9RetrievalAWWayofTime/blankSlate-0.pngBlank Slat;Infused stone inside of;a blood altar
+You can either pump the blood out, use buckets, or fill cells to get the blood for the cutting machine.ANDpre1771AWWayofTime/sacrificialKnife-0.pngrewardsItemAWWayofTime/blankSlate-0.pngBlank Slate;Infused stone inside of;a blood altar
+12Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+1tasksANDOptionaldreamcraft/item.ArcaneSlate-0.pngArcane Slate
+9RetrievalAWWayofTime/blankSlate-0.pngBlank Slate;Infused stone inside of;a blood altar
 9

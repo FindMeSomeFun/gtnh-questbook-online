@@ -1,5 +1,5 @@
-2100Genetics/labMachine-0.png0Lab Stand28-1The Lab Stand is a block on which an Apiarist Database, Arborist Database, Botanist Database or Gene Database can be placed by right clicking on the placed stand with the database, attaching it and allowing the database to be accessed by right clicking on the stand.ANDpre20810Genetics/misc-0.pngrewardsChoiceGenetics/misc-0.pngReinforced Casin
-2Botany/database-0.pngBotanist Databas
-1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalGenetics/labMachine-0.pngLab Stan
+2100Genetics/labMachine-0.png0Lab Stand28-1The Lab Stand is a block on which an Apiarist Database, Arborist Database, Botanist Database or Gene Database can be placed by right clicking on the placed stand with the database, attaching it and allowing the database to be accessed by right clicking on the stand.ANDpre20810Genetics/misc-0.pngrewardsChoiceGenetics/misc-0.pngReinforced Casing
+2Botany/database-0.pngBotanist Database
+1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalGenetics/labMachine-0.pngLab Stand
 1

@@ -1,4 +1,4 @@
-2485ae2fc/fluid_storage64-0.png064k Fluid Storage Cell27-1These hold 16,384 buckets, or 16,384,000L of a single fluid. Equivalent to a Super Tank III.ANDpre24810ae2fc/fluid_part-3.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier 
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDRetrievalae2fc/fluid_storage64-0.png64k ME Fluid Storage Cel;0 of 65,536 Bytes Used;0 of 1 Types;> Hold Ctrl for more information
+2485ae2fc/fluid_storage64-0.png064k Fluid Storage Cell27-1These hold 16,384 buckets, or 16,384,000L of a single fluid. Equivalent to a Super Tank III.ANDpre24810ae2fc/fluid_part-3.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier I
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalae2fc/fluid_storage64-0.png64k ME Fluid Storage Cell;0 of 65,536 Bytes Used;0 of 1 Types;> Hold Ctrl for more information
 1

@@ -1,9 +1,9 @@
-1191Thaumcraft/WandCasting-8.png0Magic "Staffter"32-1It is also possible to create a bizarre hybrid of staff and scepter (sometimes called a "staffter"), by using a staff core instead of a wand core in the scepter recipe. The resulting device can neither hold a focus nor be placed in a crafting table, but it can still be used to activate constructs, or as a "vis battery" for Repair-enchanted equipment or Runic shielding.ANDpre8780Thaumcraft/WandRod-50.pngrewardsItemThaumcraft/ItemResource-15.pngPrimal Char;You think you hear whispering
-2Thaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDRetrievalThaumcraft/WandRod-50.pngGreatwood Staff Cor
-1Thaumcraft/WandCap-0.pngIron Ca
-3dreamcraft/item.LichBone-0.pngLich Bon
-2gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Scre;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-2Thaumcraft/ItemResource-15.pngPrimal Char;You think you hear whispering
+1191Thaumcraft/WandCasting-8.png0Magic "Staffter"32-1It is also possible to create a bizarre hybrid of staff and scepter (sometimes called a "staffter"), by using a staff core instead of a wand core in the scepter recipe. The resulting device can neither hold a focus nor be placed in a crafting table, but it can still be used to activate constructs, or as a "vis battery" for Repair-enchanted equipment or Runic shielding.ANDpre8780Thaumcraft/WandRod-50.pngrewardsItemThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
+2Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalThaumcraft/WandRod-50.pngGreatwood Staff Core
+1Thaumcraft/WandCap-0.pngIron Cap
+3dreamcraft/item.LichBone-0.pngLich Bone
+2gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+2Thaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
 1

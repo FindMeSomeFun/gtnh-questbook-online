@@ -1,8 +1,8 @@
-147miscutils/RocketFuelMixA-0.png1H8N4C2O4 (Green) Rocket Fuel24-1This is the final Rocket Fuel. With this, you can go anywhere. If you have the right rocket, of course.ANDpre8560gregtech/gt.metaitem.01-30654.png22930miscutils/NitrogenTetroxide-0.png26951miscutils/gtplusplus.blockspecialcasings.2-2.pngrewardsChoicegregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cel;C\u2082H\u2088N\u2082
-1IC2/itemCellEmpty-0.pngEmpty Cel
-16enhancedlootbags/lootbag-42.pngLootBag (Tier 7 ZPM;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cel;C\u2082H\u2088N\u2082
-2miscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cel
-2Retrievalmiscutils/RocketFuelMixA-0.pngH8N4C2O4 Rocket Fuel Cel;Can be used as rocket fuel for all tiers
+147miscutils/RocketFuelMixA-0.png1H8N4C2O4 (Green) Rocket Fuel24-1This is the final Rocket Fuel. With this, you can go anywhere. If you have the right rocket, of course.ANDpre8560gregtech/gt.metaitem.01-30654.png22930miscutils/NitrogenTetroxide-0.png26951miscutils/gtplusplus.blockspecialcasings.2-2.pngrewardsChoicegregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell;C\u2082H\u2088N\u2082
+1IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-42.pngLootBag (Tier 7 ZPM);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell;C\u2082H\u2088N\u2082
+2miscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cell
+2Retrievalmiscutils/RocketFuelMixA-0.pngH8N4C2O4 Rocket Fuel Cell;Can be used as rocket fuel for all tiers
 5

@@ -1,10 +1,10 @@
 33TConstruct/ToolStationBlock-1.png1§2§lTinker-Time2-1While using your flint tools is fun in terms of killing pigs and cows, they are not very good, and can't be repaired. Plus Infernals laugh at your attempts to kill them. You discovered how to craft tools that can be repaired and upgraded, but for that you definitely need a more advanced crafting technique.
 
-If you have to use wood other than oak to make your tables, you can convert them to the default oak wood type to complete this quest.ANDpre321minecraft/paper-0.pngrewardsItemTConstruct/blankPattern-0.pngBlank Patter
-2TConstruct/manualBook-0.pngMaterials and You: Volume ;By: Skyla
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDCraftingTConstruct/ToolStationBlock-1.pngPart Builde;Burn Time: 300
-1TConstruct/ToolStationBlock-10.pngStencil Tabl;Burn Time: 300
-1TConstruct/ToolStationBlock-0.pngTool Statio;Burn Time: 300
-1TConstruct/ToolStationBlock-5.pngPattern Ches;Burn Time: 300
+If you have to use wood other than oak to make your tables, you can convert them to the default oak wood type to complete this quest.ANDpre321minecraft/paper-0.pngrewardsItemTConstruct/blankPattern-0.pngBlank Pattern
+2TConstruct/manualBook-0.pngMaterials and You: Volume 1;By: Skyla
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDCraftingTConstruct/ToolStationBlock-1.pngPart Builder;Burn Time: 300
+1TConstruct/ToolStationBlock-10.pngStencil Table;Burn Time: 300
+1TConstruct/ToolStationBlock-0.pngTool Station;Burn Time: 300
+1TConstruct/ToolStationBlock-5.pngPattern Chest;Burn Time: 300
 1

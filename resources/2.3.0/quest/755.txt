@@ -16,8 +16,8 @@ Possible problems                Tool to fix
 "Something is stuck."            Soft Mallet 
 "Platings are dented."           Hammer 
 "Circuitry burned out."    Soldering Iron 
-"That doesn't belong there."   CrowbarANDpre771gregtech/gt.blockmachines-1000.png6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-3gregtech/gt.metaitem.02-19314.pngFine Soldering Alloy Wir;Sn\u2089Sb
-64Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.metatool.01-160.pngSoldering Iron (LV;Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.5;Mining Speed: 1.0;Fixes burned out Circuits. Needs soldering materials in inventory.
+"That doesn't belong there."   CrowbarANDpre771gregtech/gt.blockmachines-1000.png6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+3gregtech/gt.metaitem.02-19314.pngFine Soldering Alloy Wire;Sn\u2089Sb
+64Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metatool.01-160.pngSoldering Iron (LV);Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.5;Mining Speed: 1.0;Fixes burned out Circuits. Needs soldering materials in inventory.
 1

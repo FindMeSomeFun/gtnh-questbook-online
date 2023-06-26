@@ -1,11 +1,11 @@
-684TConstruct/chestplateWood-0.png0Wooden Armor14-1If you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that.ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.pngrewardsChoiceminecraft/log-0.pngOak Woo;Burn Time: 300
-32BiomesOPlenty/mudball-0.pngMud Bal
-24enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-2tasksANDOptionalminecraft/log-0.pngOak Woo;Burn Time: 300
-24CraftingTConstruct/helmetWood-0.pngWooden Helme;Protection: 1;Durability: 22/22
-1TConstruct/chestplateWood-0.pngWooden Chestplat;Protection: 2;Durability: 32/32
-1TConstruct/leggingsWood-0.pngWooden Legging;Protection: 2;Durability: 30/30
-1TConstruct/bootsWood-0.pngWooden Boot;Protection: 1;Durability: 26/26
+684TConstruct/chestplateWood-0.png0Wooden Armor14-1If you can't find mud you can make very poor armor out of wood. Cutting down a few trees to make a set should do. You will need a soft mallet too, so save a few logs for that.ANDpre4441gregtech/gt.metatool.01-14-Wood-Wood.pngrewardsChoiceminecraft/log-0.pngOak Wood;Burn Time: 300
+32BiomesOPlenty/mudball-0.pngMud Ball
+24enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+2tasksANDOptionalminecraft/log-0.pngOak Wood;Burn Time: 300
+24CraftingTConstruct/helmetWood-0.pngWooden Helmet;Protection: 1;Durability: 22/22
+1TConstruct/chestplateWood-0.pngWooden Chestplate;Protection: 2;Durability: 32/32
+1TConstruct/leggingsWood-0.pngWooden Leggings;Protection: 2;Durability: 30/30
+1TConstruct/bootsWood-0.pngWooden Boots;Protection: 1;Durability: 26/26
 1

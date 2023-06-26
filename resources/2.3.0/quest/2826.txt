@@ -1,11 +1,11 @@
 2826gregtech/gt.blockmachines-13102.png0Solid-Oxide Fuel Cell Mk II19-1It's the same as the previous, but more/better. It takes less time to heat up, but it chews through fuel pretty fast too. It still isn't as good as an LGT for power produced over time, but it can produce power faster. As long as you use it with the HP Steam Turbine.
 
-It can produce 1A+ of LuV if you set it up right.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30686.pngBenzene Cel;C\u2086H\u2086
-16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-10tasksANDOptionalkekztech/kekztech_gdcceramicelectrolyteunit_block-0.pngGDC Ceramic Electrolyte Uni
-3IC2/blockAlloyGlass-0.pngReinforced Glas;Glass-Tier: EV
-6gregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-29gregtech/gt.blockmachines-90.pngMaintenance Hatc;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1Retrievalgregtech/gt.blockmachines-13102.pngSolid-Oxide Fuel Cell Mk I;Machine Type: Gas Turbine;Oxidizes gas fuels to generate electricity without polluting the environment;Consumes up to491520EU worth of fuel with up to 100% efficiency each second;Nitrobenzene and other gas fuels above 1M EU/bucket are more efficient;Steam production requires the SOFC to heat up completely first;Outputs 24576EU/t and 96000L/s Steam;Additionally, requires 2000L/s Oxygen gas;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: KekzTech
+It can produce 1A+ of LuV if you set it up right.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+10tasksANDOptionalkekztech/kekztech_gdcceramicelectrolyteunit_block-0.pngGDC Ceramic Electrolyte Unit
+3IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
+6gregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+29gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1Retrievalgregtech/gt.blockmachines-13102.pngSolid-Oxide Fuel Cell Mk II;Machine Type: Gas Turbine;Oxidizes gas fuels to generate electricity without polluting the environment;Consumes up to491520EU worth of fuel with up to 100% efficiency each second;Nitrobenzene and other gas fuels above 1M EU/bucket are more efficient;Steam production requires the SOFC to heat up completely first;Outputs 24576EU/t and 96000L/s Steam;Additionally, requires 2000L/s Oxygen gas;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: KekzTech
 1

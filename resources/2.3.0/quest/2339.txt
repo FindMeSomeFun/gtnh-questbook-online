@@ -4,17 +4,17 @@ Filling a chalice with redstone soup will increase its magical affinity and upgr
 
 Drinking redstone soup will boost the health of the drinker for a few minutes.
 
-Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.ANDpre3390witchery/chalkritual-0.png15710witchery/distilleryidle-0.pngrewardsChoicewitchery/ingredient-39.pngDrop of Luc
-1witchery/ingredient-25.pngTongue of Do
-2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100
-1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-1tasksANDOptionalminecraft/redstone-0.pngRedston
-1witchery/ingredient-25.pngTongue of Do
-1witchery/ingredient-22.pngMandrake Roo
-1witchery/ingredient-21.pngBelladonna Flowe
-1witchery/ingredient-39.pngDrop of Luc
-1witchery/ingredient-24.pngWool of Ba
-1Retrievalwitchery/ingredient-40.pngRedstone Sou
+Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.ANDpre3390witchery/chalkritual-0.png15710witchery/distilleryidle-0.pngrewardsChoicewitchery/ingredient-39.pngDrop of Luck
+1witchery/ingredient-25.pngTongue of Dog
+2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
+1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1tasksANDOptionalminecraft/redstone-0.pngRedstone
+1witchery/ingredient-25.pngTongue of Dog
+1witchery/ingredient-22.pngMandrake Root
+1witchery/ingredient-21.pngBelladonna Flower
+1witchery/ingredient-39.pngDrop of Luck
+1witchery/ingredient-24.pngWool of Bat
+1Retrievalwitchery/ingredient-40.pngRedstone Soup
 1

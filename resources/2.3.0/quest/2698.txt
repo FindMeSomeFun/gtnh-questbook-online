@@ -1,6 +1,6 @@
 2698gregtech/gt.blockores-607.png1§1§b§l§1§2§3§4§5§4§6§7§8§9§a§b§c§d§e§c§b§lIo Trip8-1Any ore veins not on Mercury are on this planet for this tier. The pyrolusite vein can have niobium extracted from it, and samarium can be acquired from mytryl and rubracium. Infused gold is also found here.
 
-§3Like Venus, you can collect firestone from small ore here.ANDpre17151GalaxySpace/item.Tier4Rocket-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-5323.pngCrushed Infused Gold Or;AuMa*
-192gregtech/gt.metaitem.01-2069.pngSamarium Dus;Sm
-20gregtech/gt.metaitem.01-2047.pngNiobium Dus;Nb
+§3Like Venus, you can collect firestone from small ore here.ANDpre17151GalaxySpace/item.Tier4Rocket-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-5323.pngCrushed Infused Gold Ore;AuMa*
+192gregtech/gt.metaitem.01-2069.pngSamarium Dust;Sm
+20gregtech/gt.metaitem.01-2047.pngNiobium Dust;Nb
 20

@@ -1,4 +1,4 @@
-60gregtech/gt.blockmachines-101.png0§3§lUpgrade: Coal Boiler3-1This is basically just an upgrade to your current coal boiler, however it produces more than twice as much steam. Something you should consider building if you're planning to get some of the upgraded machines.ANDpre590gregtech/gt.GregTech_FluidDisplay-89.png761gregtech/gt.blockmachines-140.pngrewardsItemharvestcraft/zeppoleItem-0.pngZeppol;harvestcraft:zeppoleItem
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDCraftinggregtech/gt.blockmachines-101.pngHigh Pressure Coal Boile;Faster than the Bronze Boiler;Produces 300L of Steam per second;Causes 30 Pollution per second
+60gregtech/gt.blockmachines-101.png0§3§lUpgrade: Coal Boiler3-1This is basically just an upgrade to your current coal boiler, however it produces more than twice as much steam. Something you should consider building if you're planning to get some of the upgraded machines.ANDpre590gregtech/gt.GregTech_FluidDisplay-89.png761gregtech/gt.blockmachines-140.pngrewardsItemharvestcraft/zeppoleItem-0.pngZeppole;harvestcraft:zeppoleItem
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDCraftinggregtech/gt.blockmachines-101.pngHigh Pressure Coal Boiler;Faster than the Bronze Boiler;Produces 300L of Steam per second;Causes 30 Pollution per second
 1

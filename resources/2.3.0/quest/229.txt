@@ -1,14 +1,14 @@
 229gregtech/gt.blockores-541.png1Infused Stones31-1This whole place here is filled with magic. No matter where you look at, it's just everywhere. You wonder what happens to regular stone if it's exposed to large amounts of magic for such a long time. Maybe it's time to go mining?
 
-There are 3 veins. There's amber and cinnabar in each. They aren't super useful, but make sure to keep hold of some at least.ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasur;Click to open or keep to trade
-2Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDRetrievalgregtech/gt.blockores-543.pngAqua Infused Ston
-16gregtech/gt.blockores-541.pngIgnis Infused Ston
-16Retrievalgregtech/gt.blockores-540.pngAer Infused Ston
-16gregtech/gt.blockores-542.pngTerra Infused Ston
-16Retrievalgregtech/gt.blockores-545.pngOrdo Infused Ston
-16gregtech/gt.blockores-544.pngPerditio Infused Ston
-16Retrievalgregtech/gt.blockores-514.pngAmber Or;C\u2081\u2080H\u2081\u2080O\u2081\u2086
-16gregtech/gt.blockores-826.pngCinnabar Or;HgS
+There are 3 veins. There's amber and cinnabar in each. They aren't super useful, but make sure to keep hold of some at least.ANDpre2301Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
+2Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalgregtech/gt.blockores-543.pngAqua Infused Stone
+16gregtech/gt.blockores-541.pngIgnis Infused Stone
+16Retrievalgregtech/gt.blockores-540.pngAer Infused Stone
+16gregtech/gt.blockores-542.pngTerra Infused Stone
+16Retrievalgregtech/gt.blockores-545.pngOrdo Infused Stone
+16gregtech/gt.blockores-544.pngPerditio Infused Stone
+16Retrievalgregtech/gt.blockores-514.pngAmber Ore;C\u2081\u2080H\u2081\u2080O\u2081\u2086
+16gregtech/gt.blockores-826.pngCinnabar Ore;HgS
 16

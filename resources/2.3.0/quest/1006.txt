@@ -1,16 +1,16 @@
-1006gregtech/gt.metaitem.01-32754.png0§b§lPower of the Sun at HV Level19-1The next solar panel you can make is the HV one. It generates 512 EU/t. First you need to produce enriched sunnarium by mixing irradiated uranium and sunnarium. The Avaritia 9x9 dire crafting table is required to make this and later panels.ANDpre8611gregtech/gt.metaitem.01-11316.png10030gregtech/gt.metaitem.01-32753.png10051gregtech/gt.metaitem.01-2056.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafe;Raw Circuit
-2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piec
-2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-3.pngEnriched Sunnariu
-2gregtech/gt.metaitem.01-17339.pngSteeleaf Plat;(Fe\u2085\u2080C)Ma
-4gregtech/gt.metaitem.01-17098.pngUranium 238 Plat;U
-2Optionalgregtech/gt.metaitem.01-32753.pngSolar Panel (MV;Medium Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafe;Raw Circuit
-4gregtech/gt.metaitem.03-32065.pngLow Power I;Low Power Circuit
-2gregtech/gt.metaitem.01-17981.pngIndium Gallium Phosphide Plat;InGaP
-2gregtech/gt.metaitem.01-32705.pngMainfram;An Elite Circuit;IV-Tier
-4dreamcraft/item.IrradiantReinforcedTungstenPlate-0.pngIrradiant Reinforced Tungsten Plat
-2gregtech/gt.blockmachines-2360.png1x Superconductor EV Wir;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32754.pngSolar Panel (HV;High Voltage Solar Panel (Needs cleaning with right click)
+1006gregtech/gt.metaitem.01-32754.png0§b§lPower of the Sun at HV Level19-1The next solar panel you can make is the HV one. It generates 512 EU/t. First you need to produce enriched sunnarium by mixing irradiated uranium and sunnarium. The Avaritia 9x9 dire crafting table is required to make this and later panels.ANDpre8611gregtech/gt.metaitem.01-11316.png10030gregtech/gt.metaitem.01-32753.png10051gregtech/gt.metaitem.01-2056.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
+2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-3.pngEnriched Sunnarium
+2gregtech/gt.metaitem.01-17339.pngSteeleaf Plate;(Fe\u2085\u2080C)Ma
+4gregtech/gt.metaitem.01-17098.pngUranium 238 Plate;U
+2Optionalgregtech/gt.metaitem.01-32753.pngSolar Panel (MV);Medium Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.03-32065.pngLow Power IC;Low Power Circuit
+2gregtech/gt.metaitem.01-17981.pngIndium Gallium Phosphide Plate;InGaP
+2gregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
+4dreamcraft/item.IrradiantReinforcedTungstenPlate-0.pngIrradiant Reinforced Tungsten Plate
+2gregtech/gt.blockmachines-2360.png1x Superconductor EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32754.pngSolar Panel (HV);High Voltage Solar Panel (Needs cleaning with right click)
 1

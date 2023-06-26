@@ -1,6 +1,6 @@
-1211StevesCarts/CartModule-4.png0Cart Modules: More Storage25-1After you craft side chests you can add more different chests to the cart. Some sides are reserved for tools so no chest can be placed there.ANDpre1100StevesCarts/CartModule-2.pngrewardsItemminecraft/rail-0.pngTrac
-32Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalStevesCarts/CartModule-3.pngTop Ches;Modular cost: 6;Type: Storage
-1StevesCarts/CartModule-4.pngFront Ches;Modular cost: 5;Type: Storage
-1StevesCarts/CartModule-5.pngInternal Storag;Modular cost: 25;Type: Storage
+1211StevesCarts/CartModule-4.png0Cart Modules: More Storage25-1After you craft side chests you can add more different chests to the cart. Some sides are reserved for tools so no chest can be placed there.ANDpre1100StevesCarts/CartModule-2.pngrewardsItemminecraft/rail-0.pngTrack
+32Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalStevesCarts/CartModule-3.pngTop Chest;Modular cost: 6;Type: Storage
+1StevesCarts/CartModule-4.pngFront Chest;Modular cost: 5;Type: Storage
+1StevesCarts/CartModule-5.pngInternal Storage;Modular cost: 25;Type: Storage
 1

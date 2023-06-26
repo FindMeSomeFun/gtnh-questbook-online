@@ -1,12 +1,12 @@
 858harvestcraft/market-0.png0Chef Training410I need some ingredients to help me train since they don't grow well where I am, could you provide some? I'll give you the results in return.
 
-§3You only need to turn in one set each time you complete the quest.ANDpre6650harvestcraft/potItem-0.pngrewardsItemenhancedlootbags/lootbag-28.pngLootBag (Fast Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksORConsumeharvestcraft/ryeItem-0.pngRy;harvestcraft:ryeItem
-64Consumeharvestcraft/cornItem-0.pngCor;harvestcraft:cornItem
-64Consumeharvestcraft/cucumberItem-0.pngCucumbe;harvestcraft:cucumberItem
-64Consumeharvestcraft/turnipItem-0.pngTurni;harvestcraft:turnipItem
-64Consumeharvestcraft/celeryItem-0.pngCeler;harvestcraft:celeryItem
-64Consumeharvestcraft/beetItem-0.pngBee;harvestcraft:beetItem
-64Consumeharvestcraft/tomatoItem-0.pngTomat;harvestcraft:tomatoItem
-64Consumeharvestcraft/gingerItem-0.pngGinge;harvestcraft:gingerItem
+§3You only need to turn in one set each time you complete the quest.ANDpre6650harvestcraft/potItem-0.pngrewardsItemenhancedlootbags/lootbag-28.pngLootBag (Fast Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksORConsumeharvestcraft/ryeItem-0.pngRye;harvestcraft:ryeItem
+64Consumeharvestcraft/cornItem-0.pngCorn;harvestcraft:cornItem
+64Consumeharvestcraft/cucumberItem-0.pngCucumber;harvestcraft:cucumberItem
+64Consumeharvestcraft/turnipItem-0.pngTurnip;harvestcraft:turnipItem
+64Consumeharvestcraft/celeryItem-0.pngCelery;harvestcraft:celeryItem
+64Consumeharvestcraft/beetItem-0.pngBeet;harvestcraft:beetItem
+64Consumeharvestcraft/tomatoItem-0.pngTomato;harvestcraft:tomatoItem
+64Consumeharvestcraft/gingerItem-0.pngGinger;harvestcraft:gingerItem
 64

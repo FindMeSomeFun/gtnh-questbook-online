@@ -1,12 +1,12 @@
-1141IC2/windmeter-1-charged.png0§9§lWind Meter19-1The Windmeter measures wind strength. It shows you on which height you can place your Wind Generator.ANDpre11380IC2/blockKineticGenerator-0.pngrewardsChoiceIC2/blockIronScaffold-0.pngIron Scaffol
-64gregtech/gt.metaitem.01-17306.pngStainless Steel Plat;Fe\u2086CrMnNi
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDOptionalIC2/itemRecipePart-3.pngSmall Power Uni
-1gregtech/gt.metaitem.02-21019.pngAluminium Roto;Al
-1gregtech/gt.metaitem.01-17306.pngStainless Steel Plat;Fe\u2086CrMnNi
-2gregtech/gt.metaitem.01-27306.pngStainless Steel Scre;Fe\u2086CrMnNi
-1gregtech/gt.metaitem.02-20306.pngSmall Stainless Steel Gea;Fe\u2086CrMnNi
-2IC2/itemBatREDischarged-0.pngRE-Batter
-1RetrievalIC2/windmeter-1-charged.pngWindmete;Power Tier: 1;+2 Attack Damage;Durability: 26 / 27;Durability: 26/27
+1141IC2/windmeter-1-charged.png0§9§lWind Meter19-1The Windmeter measures wind strength. It shows you on which height you can place your Wind Generator.ANDpre11380IC2/blockKineticGenerator-0.pngrewardsChoiceIC2/blockIronScaffold-0.pngIron Scaffold
+64gregtech/gt.metaitem.01-17306.pngStainless Steel Plate;Fe\u2086CrMnNi
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalIC2/itemRecipePart-3.pngSmall Power Unit
+1gregtech/gt.metaitem.02-21019.pngAluminium Rotor;Al
+1gregtech/gt.metaitem.01-17306.pngStainless Steel Plate;Fe\u2086CrMnNi
+2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+1gregtech/gt.metaitem.02-20306.pngSmall Stainless Steel Gear;Fe\u2086CrMnNi
+2IC2/itemBatREDischarged-0.pngRE-Battery
+1RetrievalIC2/windmeter-1-charged.pngWindmeter;Power Tier: 1;+2 Attack Damage;Durability: 26 / 27;Durability: 26/27
 1

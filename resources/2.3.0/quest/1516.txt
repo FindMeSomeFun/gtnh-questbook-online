@@ -1,8 +1,8 @@
 1516MagicBees/frameOblivion-0.png0Bees Buzzing Beyond the Dark28-1If even the soul frame takes too long for your taste, the oblivion frame will destroy a bee in a single bee tick (27s). Be careful using more than one, there are rumors it might harm your princesses...
 
-§3You can find them in Stronghold libraries or make them from Dragon Eggs. You can also use a Thaumic Restorer to fix it, and most frames too.ANDpre15130MagicBees/frameNecrotic-0.pngrewardsItemForestry/apiculture-0.pngApiar
-8Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2enhancedlootbags/lootbag-26-enchanted.pngLootBag (Bees Advanced;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1tasksANDRetrievalMagicBees/frameOblivion-0.pngOblivion Fram
+§3You can find them in Stronghold libraries or make them from Dragon Eggs. You can also use a Thaumic Restorer to fix it, and most frames too.ANDpre15130MagicBees/frameNecrotic-0.pngrewardsItemForestry/apiculture-0.pngApiary
+8Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2enhancedlootbags/lootbag-26-enchanted.pngLootBag (Bees Advanced);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1tasksANDRetrievalMagicBees/frameOblivion-0.pngOblivion Frame
 1

@@ -1,13 +1,13 @@
 2755appliedenergistics2/tile.BlockCraftingStorage-0.png0Autocrafting27-1This is the main purpose of AE2, so let's get to it. Plunk down the Crafting Storage and Molecular Assembler, connect the Pattern Terminal to a cable, and attach the ME Interface to the MA (make sure it has power from another side). You could run it without a ME Interface, but you can only do one recipe then. Place a Blank Pattern in the Pattern Terminal, and add the recipe for a Crafting Table, then click the arrow to save it to the pattern. Put this in the ME Interface and you can now request a craft of it. (if the items are in the network, otherwise it'll fail obviously)
 
-For processing patterns (machines, anything not regular 3x3 crafting) click the button on the right. You'll need to specify all I/O for it yourself. You can use this on an ME Interface on a furnace (for example), combined with an ME Import Bus to collect the results. If it's a machine that auto-ejects (like multis) you can use a ME Interface to collect the results much faster (and with less lag).ANDpre27540StorageDrawers/controller-0.pngrewardstasksANDRetrievalappliedenergistics2/tile.BlockCraftingStorage-0.png1k Crafting Storag
-1appliedenergistics2/tile.BlockMolecularAssembler-0.pngMolecular Assemble
-1appliedenergistics2/item.ItemMultiPart-340.pngME Pattern Termina
-1appliedenergistics2/item.ItemMultiPart-440.pngME Interfac
-1appliedenergistics2/item.ItemMultiMaterial-52.pngBlank Patter
-1minecraft/flint-0.pngFlin
-2minecraft/log-0.pngOak Woo;Burn Time: 300
-2Retrievalappliedenergistics2/item.ItemMultiPart-440.pngME Interfac
-1appliedenergistics2/item.ItemMultiMaterial-52.pngBlank Patter
-1appliedenergistics2/item.ItemMultiPart-240.pngME Import Bu
+For processing patterns (machines, anything not regular 3x3 crafting) click the button on the right. You'll need to specify all I/O for it yourself. You can use this on an ME Interface on a furnace (for example), combined with an ME Import Bus to collect the results. If it's a machine that auto-ejects (like multis) you can use a ME Interface to collect the results much faster (and with less lag).ANDpre27540StorageDrawers/controller-0.pngrewardstasksANDRetrievalappliedenergistics2/tile.BlockCraftingStorage-0.png1k Crafting Storage
+1appliedenergistics2/tile.BlockMolecularAssembler-0.pngMolecular Assembler
+1appliedenergistics2/item.ItemMultiPart-340.pngME Pattern Terminal
+1appliedenergistics2/item.ItemMultiPart-440.pngME Interface
+1appliedenergistics2/item.ItemMultiMaterial-52.pngBlank Pattern
+1minecraft/flint-0.pngFlint
+2minecraft/log-0.pngOak Wood;Burn Time: 300
+2Retrievalappliedenergistics2/item.ItemMultiPart-440.pngME Interface
+1appliedenergistics2/item.ItemMultiMaterial-52.pngBlank Pattern
+1appliedenergistics2/item.ItemMultiPart-240.pngME Import Bus
 1

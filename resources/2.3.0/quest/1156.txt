@@ -2,13 +2,13 @@
 
 §4For upgrades
 §3Nether Quartz - More damage
-Moss - Self-Repair (unlock in GTNH Thaumcraft tab)ANDpre11510TConstruct/Crossbow-0-38.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDOptionalTConstruct/woodPattern-1.pngTool Rod Patter;Material Cost: 0.5
-1TConstruct/woodPattern-24.pngFletching Patter;Material Cost: 1
-1OptionalTConstruct/toolRod-0.pngWooden Tool Ro;Durability Modifier: 1x;Parts can be replaced
-1TConstruct/fletching-0.pngFeather Fletchin;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
-1OptionalTConstruct/BoltPart-0-2.pngWooden Bol;Durability: 38;Break Chance: 50%;Weight: 0.69;Parts can be replaced
-1RetrievalTConstruct/BoltAmmo-0-188.pngIron Bolt;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
+Moss - Self-Repair (unlock in GTNH Thaumcraft tab)ANDpre11510TConstruct/Crossbow-0-38.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalTConstruct/woodPattern-1.pngTool Rod Pattern;Material Cost: 0.5
+1TConstruct/woodPattern-24.pngFletching Pattern;Material Cost: 1
+1OptionalTConstruct/toolRod-0.pngWooden Tool Rod;Durability Modifier: 1x;Parts can be replaced
+1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
+1OptionalTConstruct/BoltPart-0-2.pngWooden Bolt;Durability: 38;Break Chance: 50%;Weight: 0.69;Parts can be replaced
+1RetrievalTConstruct/BoltAmmo-0-188.pngIron Bolts;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
 1

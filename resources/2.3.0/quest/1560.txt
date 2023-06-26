@@ -17,13 +17,13 @@ Garlic is a plantable crop that can be used to make tasty food, and to deal with
 Garlic bulbs can be used to make meaty stew, a particularly nourishing meal. It is also the main ingredient in making a Garlic Garland, a useful tool in warding off vampires. Finally, garlic can be used by witches in a Witches' Cauldron to make a vampire Weakening brew, and by Witch Hunters, to make vampire resistant armor.
 
 Wolfsbane seeds can be planted and eventually grow into the multistage Wolfsbane plant. The fully grown Wolfsbane plant can be harvested to obtain more Wolfsbane seeds and the Wolfsbane flower.
-ANDpre4830minecraft/wheat_seeds-0.pngrewardsItemIC2/blockCrop-0.pngCro
-16minecraft/wheat_seeds-0.pngSeed
-16Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
-15tasksANDRetrievalwitchery/seedsmandrake-0.pngMandrake Seed
-1witchery/seedsbelladonna-0.pngBelladonna Seed
-1witchery/seedssnowbell-0.pngSnowbell Seed
-1witchery/seedsartichoke-0.pngWater Artichoke Seed
-1witchery/garlic-0.pngGarli
-1witchery/seedswolfsbane-0.pngWolfsbane Seed
+ANDpre4830minecraft/wheat_seeds-0.pngrewardsItemIC2/blockCrop-0.pngCrop
+16minecraft/wheat_seeds-0.pngSeeds
+16Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDRetrievalwitchery/seedsmandrake-0.pngMandrake Seeds
+1witchery/seedsbelladonna-0.pngBelladonna Seeds
+1witchery/seedssnowbell-0.pngSnowbell Seeds
+1witchery/seedsartichoke-0.pngWater Artichoke Seeds
+1witchery/garlic-0.pngGarlic
+1witchery/seedswolfsbane-0.pngWolfsbane Seeds
 1

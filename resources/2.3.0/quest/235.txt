@@ -1,5 +1,5 @@
-235gregtech/gt.metaitem.01-27306.png1Better Screws31-1Unfortunately, your aluminium screws don't work with the greatwood rod. Somehow, the wood seems to repel the material. Luckily, you already have a blast furnace, so you can get a better material than aluminium.ANDpre2341Thaumcraft/WandRod-0.png7491gregtech/gt.metaitem.01-2306.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasur;Click to open or keep to trade
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDRetrievalgregtech/gt.metaitem.01-27306.pngStainless Steel Scre;Fe\u2086CrMnNi
+235gregtech/gt.metaitem.01-27306.png1Better Screws31-1Unfortunately, your aluminium screws don't work with the greatwood rod. Somehow, the wood seems to repel the material. Luckily, you already have a blast furnace, so you can get a better material than aluminium.ANDpre2341Thaumcraft/WandRod-0.png7491gregtech/gt.metaitem.01-2306.pngrewardsItemThaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
 8

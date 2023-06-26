@@ -1,7 +1,7 @@
 3085bartworks/gt.bwMetaGenerateddust-11033.png1§b§lSaturation Needed8-1You're nearly done!
 
-Now you need to mix with acetone.ANDpre30841bartworks/gt.bwMetaGenerateddust-11032.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
-3tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11032.pngHeterogenous Halogenic Monazite Rare Earth Mixture Dus;????;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-30672.pngAcetone Cel;C\u2083H\u2086O
-1Retrievalbartworks/gt.bwMetaGenerateddust-11033.pngSaturated Monazite Rare Earth Dus;????;Added by GTNH: Lanthanides via BartWorks
+Now you need to mix with acetone.ANDpre30841bartworks/gt.bwMetaGenerateddust-11032.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+3tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11032.pngHeterogenous Halogenic Monazite Rare Earth Mixture Dust;????;Added by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-30672.pngAcetone Cell;C\u2083H\u2086O
+1Retrievalbartworks/gt.bwMetaGenerateddust-11033.pngSaturated Monazite Rare Earth Dust;????;Added by GTNH: Lanthanides via BartWorks
 1

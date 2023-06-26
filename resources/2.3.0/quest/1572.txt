@@ -1,15 +1,15 @@
 1572witchery/ingredient-6.png0Nightmare Protection36-1The Dream Weaver of Nightmares has two effects, firstly it will add a short weakness effect to a player when they wake up from a good nights sleep. Secondly, it will corrupt all other nearby dream weavers so that they have the opposite effect. If the dream weaver is itself corrupted by another nearby Dream Weaver of Nightmares, it will add a short blindness effect instead of nausea.
 
-The Dream Weaver of Nightmares can also be used to fend off nightmares when a Brew of Sleeping is drunk. Having the Dream Weaver nearby will reduce the chance of a nightmare to 50 percent (this can be decreased further by other means!).ANDpre15700witchery/ingredient-101.png15740witchery/ingredient-29.pngrewardsItemwitchery/ingredient-99.pngDisturbed Cotto
-8enhancedlootbags/lootbag-54.pngLootBag (Witchery Master;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDOptionalwitchery/ingredient-101.pngTormented Twin
-3minecraft/item_frame-0.pngItem Fram
-1minecraft/feather-0.pngFeathe
-2minecraft/potion-16454.pngSplash Potion of Night Visio;Night Vision (6:00)
-1minecraft/potion-16452.pngSplash Potion of Poiso;Poison (1:30)
-1witchery/ingredient-29.pngDiamond Vapo
-1Retrievalwitchery/ingredient-6.pngDream Weaver of Nightmare
+The Dream Weaver of Nightmares can also be used to fend off nightmares when a Brew of Sleeping is drunk. Having the Dream Weaver nearby will reduce the chance of a nightmare to 50 percent (this can be decreased further by other means!).ANDpre15700witchery/ingredient-101.png15740witchery/ingredient-29.pngrewardsItemwitchery/ingredient-99.pngDisturbed Cotton
+8enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
+3minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2minecraft/potion-16454.pngSplash Potion of Night Vision;Night Vision (6:00)
+1minecraft/potion-16452.pngSplash Potion of Poison;Poison (1:30)
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-6.pngDream Weaver of Nightmares
 1

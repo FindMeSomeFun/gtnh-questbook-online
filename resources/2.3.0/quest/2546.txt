@@ -3,8 +3,8 @@ First, place something that is already scanned in the device, along with a blank
 
 §4There isn't a way to have the system craft essentia on demand for a craft unfortunately.§r
 
-ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.distillation.encoder-0.pngDistillation Pattern Encode
+ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.distillation.encoder-0.pngDistillation Pattern Encoder
 1

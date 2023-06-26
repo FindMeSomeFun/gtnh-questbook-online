@@ -8,23 +8,23 @@ Then you need to use the recipe to combine the information from the Data Orbs an
 
 Lastly, use the Rotten Flesh Bacteria culture, the Common Yeast Plasmid, Penicillin (make it by centrifuging Common Yeast Fluid), and Distilled Water. You want the Transformation Module for this. It's a 100% chance.
 
-You'll want to use the normal recipe to make more cultures, since it also becomes beta-Lactamase once you turn it into a DNA Sample.ANDpre27140bartworks/BioLabModules-4.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
-1bartworks/BioLabParts-1.pngDNA Sample Flas;A DNA Flask containing: beta-Lactamase;Added by BartWorks
-1gregtech/gt.metaitem.01-32707.pngData Or;A High Capacity Data Storage;DNA Sample;beta-Lactamase
-1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
-1bartworks/BioLabParts-1.pngDNA Sample Flas;A DNA Flask containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
-1gregtech/gt.metaitem.01-32707.pngData Or;A High Capacity Data Storage;DNA Sample;Saccharomyces cerevisiae
-1Retrievalgregtech/gt.metaitem.98-10.pngEnzyme Solution Cel
-1bartworks/BioLabParts-2.pngPlasmid Sample Flas;An empty Plasmid Cell.;Added by BartWorks
-1gregtech/gt.metaitem.01-32707.pngData Or;A High Capacity Data Storage;DNA Sample;Saccharomyces cerevisiae
-1gregtech/gt.metaitem.01-32707.pngData Or;A High Capacity Data Storage;DNA Sample;beta-Lactamase
-1gregtech/gt.metaitem.98-16.pngLiquid DNA Cel
-1Retrievalbartworks/BioLabModules-2.pngPlasmid Synthesis Modul;A Module used to change the BioLab''s working Mode;Added by BartWorks
-1Retrievalbartworks/BioLabParts-2.pngPlasmid Sample Flas;A Plasmid Cell containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
-1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
-1bartworks/BioLabParts-2.pngPlasmid Sample Flas;A Plasmid Cell containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
-1gregtech/gt.metaitem.98-12.pngPenicillin Cel
-1IC2/itemCellEmpty-12.pngDistilled Water Cel
-1Retrievalbartworks/BioLabModules-3.pngTransformation Modul;A Module used to change the BioLab''s working Mode;Added by BartWorks
-1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: Saccharomyces escherichia (General Purpose Fermenting Bacteria);Added by BartWorks
+You'll want to use the normal recipe to make more cultures, since it also becomes beta-Lactamase once you turn it into a DNA Sample.ANDpre27140bartworks/BioLabModules-4.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
+1bartworks/BioLabParts-1.pngDNA Sample Flask;A DNA Flask containing: beta-Lactamase;Added by BartWorks
+1gregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage;DNA Sample;beta-Lactamase
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
+1bartworks/BioLabParts-1.pngDNA Sample Flask;A DNA Flask containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
+1gregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage;DNA Sample;Saccharomyces cerevisiae
+1Retrievalgregtech/gt.metaitem.98-10.pngEnzyme Solution Cell
+1bartworks/BioLabParts-2.pngPlasmid Sample Flask;An empty Plasmid Cell.;Added by BartWorks
+1gregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage;DNA Sample;Saccharomyces cerevisiae
+1gregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage;DNA Sample;beta-Lactamase
+1gregtech/gt.metaitem.98-16.pngLiquid DNA Cell
+1Retrievalbartworks/BioLabModules-2.pngPlasmid Synthesis Module;A Module used to change the BioLab''s working Mode;Added by BartWorks
+1Retrievalbartworks/BioLabParts-2.pngPlasmid Sample Flask;A Plasmid Cell containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Escherichia cadaver (Rotten Flesh Bacteria);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
+1bartworks/BioLabParts-2.pngPlasmid Sample Flask;A Plasmid Cell containing: Saccharomyces cerevisiae (Common Yeast);Added by BartWorks
+1gregtech/gt.metaitem.98-12.pngPenicillin Cell
+1IC2/itemCellEmpty-12.pngDistilled Water Cell
+1Retrievalbartworks/BioLabModules-3.pngTransformation Module;A Module used to change the BioLab''s working Mode;Added by BartWorks
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Saccharomyces escherichia (General Purpose Fermenting Bacteria);Added by BartWorks
 1

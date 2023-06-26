@@ -1,8 +1,8 @@
 1144gregtech/gt.metaitem.01-32528.png0HV Battery20-1Better machines need some better batteries. Lithium is the best material to use when making batteries, at least for LV-HV.
 
-§3You only need to complete one task.ANDpre11430gregtech/gt.metaitem.01-32502.pngrewardsItemgregtech/gt.metaitem.01-17315.pngBattery Alloy Plat;Pb\u2084Sb
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksORRetrievalgregtech/gt.metaitem.01-32539.pngLarge Sodium Batter;Reusable;0 / 800,000 EU - Voltage: 512;HV-Tier
-4Retrievalgregtech/gt.metaitem.01-32538.pngLarge Lithium Batter;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
+§3You only need to complete one task.ANDpre11430gregtech/gt.metaitem.01-32502.pngrewardsItemgregtech/gt.metaitem.01-17315.pngBattery Alloy Plate;Pb\u2084Sb
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksORRetrievalgregtech/gt.metaitem.01-32539.pngLarge Sodium Battery;Reusable;0 / 800,000 EU - Voltage: 512;HV-Tier
+4Retrievalgregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
 4

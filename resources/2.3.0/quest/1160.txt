@@ -1,5 +1,5 @@
-1160IC2/itemCellEmpty-0.png0§5§lEmpty Cells4-1With your plate bender you're able to make empty cells. The circuit needs to be configured to 12 otherwise you will make foils. Once you have an LV Extruder, you can make cells directly from ingots.ANDpre1051gregtech/gt.blockmachines-221.pngrewardsItemgregtech/gt.metaitem.01-11880.pngRubber Ba;C\u2085H\u2088
-16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDOptionalgregtech/gt.metaitem.01-17057.pngTin Plat;Sn
-32RetrievalIC2/itemCellEmpty-0.pngEmpty Cel
+1160IC2/itemCellEmpty-0.png0§5§lEmpty Cells4-1With your plate bender you're able to make empty cells. The circuit needs to be configured to 12 otherwise you will make foils. Once you have an LV Extruder, you can make cells directly from ingots.ANDpre1051gregtech/gt.blockmachines-221.pngrewardsItemgregtech/gt.metaitem.01-11880.pngRubber Bar;C\u2085H\u2088
+16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-17057.pngTin Plate;Sn
+32RetrievalIC2/itemCellEmpty-0.pngEmpty Cell
 16

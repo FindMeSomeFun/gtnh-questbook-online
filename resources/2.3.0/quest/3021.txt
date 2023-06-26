@@ -1,7 +1,7 @@
 3021gregtech/gt.blockmachines-904.png0Buffered Dynamo21-1Another use for a few stacks of Tungstensteel is a new, even more powerful generator, but you can't run it just yet. Just like the LCE before it, the IV generator can't be run without a dynamo hatch that is powerful enough to keep up with the output, and in this case it applies to both the boosted and unboosted modes.
 
-What that means is that you need an IV Buffered Dynamo Hatch. The power will be worth it.ANDpre30200gregtech/gt.blockmachines-149.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.blockmachines-5163.pngLarge Tungstensteel Fluid Pip;Fluid Capacity: 24,000 L/sec;Heat Limit: 7,500 K
-2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-20tasksANDRetrievalgregtech/gt.blockmachines-904.pngIV Dynamo Hatch [Buffered;Dynamo with internal storage and additional Amp capacity;Does not accept more than 32768EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 8,192 (IV);Amperage: 4;Capacity: 67,109,376 EU
+What that means is that you need an IV Buffered Dynamo Hatch. The power will be worth it.ANDpre30200gregtech/gt.blockmachines-149.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.blockmachines-5163.pngLarge Tungstensteel Fluid Pipe;Fluid Capacity: 24,000 L/sec;Heat Limit: 7,500 K
+2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+20tasksANDRetrievalgregtech/gt.blockmachines-904.pngIV Dynamo Hatch [Buffered];Dynamo with internal storage and additional Amp capacity;Does not accept more than 32768EU/t as input;Added by: Alkalus - [GT++];Voltage OUT: 8,192 (IV);Amperage: 4;Capacity: 67,109,376 EU
 1

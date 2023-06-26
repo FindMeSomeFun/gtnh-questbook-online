@@ -1,6 +1,6 @@
-1827IC2/itemPlates-8.png0L.E.S.U. Upgrade - HV Tier20-1The HV Tier upgrade first needs over a Stack of Casings. More Casings, more Energy, more Capacity.ANDpre1601gregtech/gt.blockmachines-13.png18260minecraft/dye-4.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-32438.pngSpray Can (Blue;Full;Can Color things in Blue;Remaining Uses: 512;Not usable when stacked!
-1gregtech/gt.metaitem.01-17526.pngLapis Plat;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Added by BartWorks
+1827IC2/itemPlates-8.png0L.E.S.U. Upgrade - HV Tier20-1The HV Tier upgrade first needs over a Stack of Casings. More Casings, more Energy, more Capacity.ANDpre1601gregtech/gt.blockmachines-13.png18260minecraft/dye-4.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32438.pngSpray Can (Blue);Full;Can Color things in Blue;Remaining Uses: 512;Not usable when stacked!
+1gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalbartworks/GT_LESU_CASING-0.pngLESU Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Added by BartWorks
 96

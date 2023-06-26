@@ -4,14 +4,14 @@ Small = LV, Medium = MV, Large = HV. It gets weirder after that.
 
 Note that if you make the battery alloy in the mixer you need to use dusts, but if you use the alloy smelter you can use either.
 
-§3Check out the Storing and Transforming EU Quest Tab for all details about EU power storage.ANDpre5981gregtech/gt.metaitem.01-2058.png6081gregtech/gt.metaitem.01-11089.pngrewardsChoicegregtech/gt.blockores-826.pngCinnabar Or;HgS
-16gregtech/gt.blockores-933.pngGlauconite Or;KMg\u2082Al\u2084H\u2082O\u2081\u2082
-16gregtech/gt.blockores-907.pngLepidolite Or;KLi\u2083Al\u2084F\u2082O\u2081\u2080
-16gregtech/gt.blockores-839.pngSphalerite Or;ZnS
-16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDOptionalgregtech/gt.metaitem.01-17315.pngBattery Alloy Plat;Pb\u2084Sb
-10gregtech/gt.blockmachines-1246.png1x Tin Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-5Retrievalgregtech/gt.metaitem.01-32500.pngSmall Battery Hul;An empty LV Battery Hull
+§3Check out the Storing and Transforming EU Quest Tab for all details about EU power storage.ANDpre5981gregtech/gt.metaitem.01-2058.png6081gregtech/gt.metaitem.01-11089.pngrewardsChoicegregtech/gt.blockores-826.pngCinnabar Ore;HgS
+16gregtech/gt.blockores-933.pngGlauconite Ore;KMg\u2082Al\u2084H\u2082O\u2081\u2082
+16gregtech/gt.blockores-907.pngLepidolite Ore;KLi\u2083Al\u2084F\u2082O\u2081\u2080
+16gregtech/gt.blockores-839.pngSphalerite Ore;ZnS
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDOptionalgregtech/gt.metaitem.01-17315.pngBattery Alloy Plate;Pb\u2084Sb
+10gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+5Retrievalgregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
 5

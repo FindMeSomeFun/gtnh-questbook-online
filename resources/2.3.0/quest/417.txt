@@ -1,10 +1,10 @@
-417minecraft/skull-1.png0Paradigm37-1Paradigms shape your spell.ANDpre4160AWWayofTime/blockHomHeart-0.pngrewardsChoiceminecraft/skull-0.pngSkeleton Skul;May work as an Infusion Stabilizer;Applicable up to: 02-Iron
-1minecraft/skull-1.pngWither Skeleton Skul;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
-1minecraft/skull-2.pngZombie Hea;May work as an Infusion Stabilizer;Applicable up to: 01-Copper
-1minecraft/skull-4.pngCreeper Hea;May work as an Infusion Stabilizer;Applicable up to: 04-Redstone
-1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100
-2tasksANDRetrievalminecraft/skull-1.pngWither Skeleton Skul;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
-1Retrievalminecraft/skull-0.pngSkeleton Skul;May work as an Infusion Stabilizer;Applicable up to: 02-Iron
-1Retrievalminecraft/skull-2.pngZombie Hea;May work as an Infusion Stabilizer;Applicable up to: 01-Copper
-1Retrievalminecraft/skull-4.pngCreeper Hea;May work as an Infusion Stabilizer;Applicable up to: 04-Redstone
+417minecraft/skull-1.png0Paradigm37-1Paradigms shape your spell.ANDpre4160AWWayofTime/blockHomHeart-0.pngrewardsChoiceminecraft/skull-0.pngSkeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 02-Iron
+1minecraft/skull-1.pngWither Skeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
+1minecraft/skull-2.pngZombie Head;May work as an Infusion Stabilizer;Applicable up to: 01-Copper
+1minecraft/skull-4.pngCreeper Head;May work as an Infusion Stabilizer;Applicable up to: 04-Redstone
+1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
+2tasksANDRetrievalminecraft/skull-1.pngWither Skeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 07-Cobalt
+1Retrievalminecraft/skull-0.pngSkeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 02-Iron
+1Retrievalminecraft/skull-2.pngZombie Head;May work as an Infusion Stabilizer;Applicable up to: 01-Copper
+1Retrievalminecraft/skull-4.pngCreeper Head;May work as an Infusion Stabilizer;Applicable up to: 04-Redstone
 1

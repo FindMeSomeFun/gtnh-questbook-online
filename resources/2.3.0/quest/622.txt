@@ -2,12 +2,12 @@
 
 Salt isn't only used to get sodium, it's an important ingredient in many pam's harvestcraft food recipes.
 
-Lepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burge;harvestcraft:baconmushroomburgerItem
-1harvestcraft/saltedsunflowerseedsItem-0.pngSalted Sunflower Seed;harvestcraft:saltedsunflowerseedsItem
-5enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-3tasksANDRetrievalgregtech/gt.blockores-817.pngSalt Or;NaCl
-32gregtech/gt.blockores-944.pngRock Salt Or;KCl
-16gregtech/gt.blockores-920.pngSpodumene Or;LiAlSi\u2082O\u2086
-32gregtech/gt.blockores-907.pngLepidolite Or;KLi\u2083Al\u2084F\u2082O\u2081\u2080
+Lepidolite and spodumene are good sources of lithium for your batteries. Later on you can get a lot more in different ways.ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsChoiceharvestcraft/baconmushroomburgerItem-0.pngBacon Mushroom Burger;harvestcraft:baconmushroomburgerItem
+1harvestcraft/saltedsunflowerseedsItem-0.pngSalted Sunflower Seeds;harvestcraft:saltedsunflowerseedsItem
+5enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+3tasksANDRetrievalgregtech/gt.blockores-817.pngSalt Ore;NaCl
+32gregtech/gt.blockores-944.pngRock Salt Ore;KCl
+16gregtech/gt.blockores-920.pngSpodumene Ore;LiAlSi\u2082O\u2086
+32gregtech/gt.blockores-907.pngLepidolite Ore;KLi\u2083Al\u2084F\u2082O\u2081\u2080
 32

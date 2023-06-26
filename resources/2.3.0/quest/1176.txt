@@ -1,4 +1,4 @@
-1176gregtech/gt.metaitem.01-11306.png0Stainless Steel Ingots4072000Want some stainless steel ingots? Buy some!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
-16tasksANDConsumedreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
-5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
+1176gregtech/gt.metaitem.01-11306.png0Stainless Steel Ingots4072000Want some stainless steel ingots? Buy some!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+16tasksANDConsumedreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1

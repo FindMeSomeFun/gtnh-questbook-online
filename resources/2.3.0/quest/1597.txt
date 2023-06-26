@@ -1,15 +1,15 @@
-1597witchery/ingredient-5.png0More Power Now!36-1The Dream Weaver of Intensity has two effects, firstly it will add a very short night vision effect (or blindness if corrupted by a nightmare) to a player when they wake up from a good nights sleep. Secondly, it will intensify all other nearby dream weavers so that they have either a stronger (but shorter lasting) effect or their duration is increased.ANDpre15840witchery/ingredient-96.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotto
-8witchery/ingredient-99.pngDisturbed Cotto
-8enhancedlootbags/lootbag-55.pngLootBag (Witchery Witch;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-5tasksANDOptionalwitchery/ingredient-101.pngTormented Twin
-1witchery/ingredient-100.pngFanciful Threa
-2minecraft/item_frame-0.pngItem Fram
-1minecraft/feather-0.pngFeathe
-2witchery/ingredient-96.pngBrew of Flowing Spiri
-1witchery/ingredient-95.pngBrew of Sleepin
-1witchery/ingredient-29.pngDiamond Vapo
-1Retrievalwitchery/ingredient-104.pngDream Weaver of Intensit
+1597witchery/ingredient-5.png0More Power Now!36-1The Dream Weaver of Intensity has two effects, firstly it will add a very short night vision effect (or blindness if corrupted by a nightmare) to a player when they wake up from a good nights sleep. Secondly, it will intensify all other nearby dream weavers so that they have either a stronger (but shorter lasting) effect or their duration is increased.ANDpre15840witchery/ingredient-96.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
+8witchery/ingredient-99.pngDisturbed Cotton
+8enhancedlootbags/lootbag-55.pngLootBag (Witchery Witch);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
+1witchery/ingredient-100.pngFanciful Thread
+2minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2witchery/ingredient-96.pngBrew of Flowing Spirit
+1witchery/ingredient-95.pngBrew of Sleeping
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-104.pngDream Weaver of Intensity
 1

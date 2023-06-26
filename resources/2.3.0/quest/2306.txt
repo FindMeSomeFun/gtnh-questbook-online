@@ -2,12 +2,12 @@
 
 You'll need Saltpeter and Saltwater for this. You can pump saltwater or make it, and mine saltpeter or make it too. Given how much KNO3 you need, you should probably automate making it.
 
-For the steam, you can void it or reuse it for making Hot Ruthenium Tetroxide.ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsChoicegregtech/gt.metaitem.01-2836.pngSaltpeter Dus;KNO\u2083
-100enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-60.pngLeach Residue Dus;??IrOsRu??;Added by BartWorks
-40gregtech/gt.metaitem.01-2836.pngSaltpeter Dus;KNO\u2083
-40gregtech/gt.metaitem.01-30692.pngSalt Water Cel
-4Retrievalbartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dus;??OsIr??;Added by BartWorks
-24bartworks/gt.bwMetaGenerateddust-65.pngSodium Ruthenate Dus;Na\u2082RuO\u2083;Added by BartWorks
-12gregtech/gt.metaitem.98-0.pngSteam Cel
+For the steam, you can void it or reuse it for making Hot Ruthenium Tetroxide.ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsChoicegregtech/gt.metaitem.01-2836.pngSaltpeter Dust;KNO\u2083
+100enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-60.pngLeach Residue Dust;??IrOsRu??;Added by BartWorks
+40gregtech/gt.metaitem.01-2836.pngSaltpeter Dust;KNO\u2083
+40gregtech/gt.metaitem.01-30692.pngSalt Water Cell
+4Retrievalbartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dust;??OsIr??;Added by BartWorks
+24bartworks/gt.bwMetaGenerateddust-65.pngSodium Ruthenate Dust;Na\u2082RuO\u2083;Added by BartWorks
+12gregtech/gt.metaitem.98-0.pngSteam Cell
 4

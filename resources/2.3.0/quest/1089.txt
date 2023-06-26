@@ -2,15 +2,15 @@
 
 Some cooked meat, potato cakes, toast, fried egg and a tasty juice provide you with a very nourishing meal.
 
-You can use any cooked meat and any fruit juice here.ANDpre6380harvestcraft/toastItem-0.png10860harvestcraft/strawberryjuiceItem-0.png10870harvestcraft/potatocakesItem-0.png10880harvestcraft/friedeggItem-0.pngrewardsChoiceharvestcraft/friedeggItem-0.pngFried Eg;harvestcraft:friedeggItem
-4harvestcraft/potatocakesItem-0.pngPotato Cake;harvestcraft:potatocakesItem
-4harvestcraft/toastItem-0.pngToas;harvestcraft:toastItem
-4enhancedlootbags/lootbag-29.pngLootBag (Slow Food;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1
-50tasksANDOptionalminecraft/cooked_porkchop-0.pngCooked Porkcho;minecraft:cooked_porkchop
-1harvestcraft/potatocakesItem-0.pngPotato Cake;harvestcraft:potatocakesItem
-1harvestcraft/friedeggItem-0.pngFried Eg;harvestcraft:friedeggItem
-1harvestcraft/toastItem-0.pngToas;harvestcraft:toastItem
-1harvestcraft/applejuiceItem-0.pngApple Juic;harvestcraft:applejuiceItem
-1Retrievalharvestcraft/heartybreakfastItem-0.pngHearty Breakfas;harvestcraft:heartybreakfastItem
+You can use any cooked meat and any fruit juice here.ANDpre6380harvestcraft/toastItem-0.png10860harvestcraft/strawberryjuiceItem-0.png10870harvestcraft/potatocakesItem-0.png10880harvestcraft/friedeggItem-0.pngrewardsChoiceharvestcraft/friedeggItem-0.pngFried Egg;harvestcraft:friedeggItem
+4harvestcraft/potatocakesItem-0.pngPotato Cakes;harvestcraft:potatocakesItem
+4harvestcraft/toastItem-0.pngToast;harvestcraft:toastItem
+4enhancedlootbags/lootbag-29.pngLootBag (Slow Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
+50tasksANDOptionalminecraft/cooked_porkchop-0.pngCooked Porkchop;minecraft:cooked_porkchop
+1harvestcraft/potatocakesItem-0.pngPotato Cakes;harvestcraft:potatocakesItem
+1harvestcraft/friedeggItem-0.pngFried Egg;harvestcraft:friedeggItem
+1harvestcraft/toastItem-0.pngToast;harvestcraft:toastItem
+1harvestcraft/applejuiceItem-0.pngApple Juice;harvestcraft:applejuiceItem
+1Retrievalharvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
 1

@@ -9,8 +9,8 @@ It uses:
 25 Ordo + 25 Perditio + 5 Terra to take any block with tile entities (such as Chest). 
 100 Ordo + 100 Perditio + 20 Terra to take Mob Spawner.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13750Thaumcraft/FocusTrade-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDRetrievalThaumicTinkerer/focusDislocation-0.pngWand Focus: Dislocatio;Vis per cast; Ordo x 5; Perditio x 5; Terra x 1
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13750Thaumcraft/FocusTrade-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalThaumicTinkerer/focusDislocation-0.pngWand Focus: Dislocation;Vis per cast; Ordo x 5; Perditio x 5; Terra x 1
 1

@@ -1,7 +1,7 @@
-1874gregtech/gt.metaitem.01-17649.png0§6§lPVC Sheets5-1PVC Sheets make SMDs (make foils), plastic circuit boards, and really good item pipes.ANDpre18730gregtech/gt.metaitem.99-649.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cabl;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-8gregtech/gt.blockmachines-5692.pngHuge PVC Item Pip;Item Capacity: 16 Stacks/sec;Routing Value: 2,048
-4gregtech/gt.metaitem.99-649.pngMolten Polyvinyl Chloride Cel;C\u2082H\u2083Cl
-16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-25tasksANDRetrievalgregtech/gt.metaitem.01-17649.pngPolyvinyl Chloride Shee;C\u2082H\u2083Cl
+1874gregtech/gt.metaitem.01-17649.png0§6§lPVC Sheets5-1PVC Sheets make SMDs (make foils), plastic circuit boards, and really good item pipes.ANDpre18730gregtech/gt.metaitem.99-649.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+8gregtech/gt.blockmachines-5692.pngHuge PVC Item Pipe;Item Capacity: 16 Stacks/sec;Routing Value: 2,048
+4gregtech/gt.metaitem.99-649.pngMolten Polyvinyl Chloride Cell;C\u2082H\u2083Cl
+16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-17649.pngPolyvinyl Chloride Sheet;C\u2082H\u2083Cl
 60

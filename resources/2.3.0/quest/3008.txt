@@ -1,6 +1,6 @@
 3008gregtech/gt.metaitem.01-30639.png0Tetranitromethane as Additive21-1If both Nitric Acid and Ethenone are automated, then you can now get TNM effortlessly!
 
-If you look at the recipe, you'll see that you need a lot more Nitric Acid than anything else. Given that Ammonia is the most power-hungry recipe, this is what will cut down into the fuel efficiency at the end, but not nearly enough to discourage the creation and use of CBD. Not only that, but if you check the uses of TNM, you'll see that you can treat Biodiesel the same way, although at a higher cost due to its lower fuel value, if you happened to have it.ANDpre30060gregtech/gt.metaitem.01-30641.png30070gregtech/gt.metaitem.01-30653.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-3tasksANDRetrievalgregtech/gt.metaitem.01-30639.pngTetranitromethane Cel;CN\u2084O\u2088
+If you look at the recipe, you'll see that you need a lot more Nitric Acid than anything else. Given that Ammonia is the most power-hungry recipe, this is what will cut down into the fuel efficiency at the end, but not nearly enough to discourage the creation and use of CBD. Not only that, but if you check the uses of TNM, you'll see that you can treat Biodiesel the same way, although at a higher cost due to its lower fuel value, if you happened to have it.ANDpre30060gregtech/gt.metaitem.01-30641.png30070gregtech/gt.metaitem.01-30653.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+3tasksANDRetrievalgregtech/gt.metaitem.01-30639.pngTetranitromethane Cell;CN\u2084O\u2088
 16

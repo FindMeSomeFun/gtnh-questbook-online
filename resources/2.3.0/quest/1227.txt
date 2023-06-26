@@ -1,9 +1,9 @@
 1227gregtech/gt.metaitem.01-30683.png1§6§lHCL5-1More then just a byproduct of your Sodium Persulfate production. HCl becomes important for Epoxid in HV/EV tier. You can also use it to process bee combs.
 
-You can also make it directly from Hydrogen and Chlorine.ORpre10201gregtech/gt.metaitem.01-30693.png10211gregtech/gt.metaitem.01-30718.png15491gregtech/gt.metaitem.01-30972.pngrewardsChoicegregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dus;NaOH
-4gregtech/gt.metaitem.01-30713.pngSeed Oil Cel
-16IC2/itemCellEmpty-0.pngEmpty Cel
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-25tasksANDRetrievalgregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cel;HCl
+You can also make it directly from Hydrogen and Chlorine.ORpre10201gregtech/gt.metaitem.01-30693.png10211gregtech/gt.metaitem.01-30718.png15491gregtech/gt.metaitem.01-30972.pngrewardsChoicegregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
+4gregtech/gt.metaitem.01-30713.pngSeed Oil Cell
+16IC2/itemCellEmpty-0.pngEmpty Cell
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
 10

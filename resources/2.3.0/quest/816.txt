@@ -1,14 +1,14 @@
-816GalaxySpace/item.ModuleLander-0.png1Moon Lander24-1The Moon lander is required for a soft landing. You will need an additional frequency module for hearing things on planets, and a second seat for a Moon buggy you may build later.ANDpre8151GalacticraftCore/item.engine-0.png8171GalacticraftCore/item.buggymat-1.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Coppe
-8GalacticraftCore/item.basicItem-7.pngCompressed Ti
-8GalacticraftCore/item.basicItem-11.pngCompressed Iro
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDOptionalGalacticraftCore/item.basicItem-6.pngCompressed Coppe
-1GalacticraftCore/item.steelPole-0.pngSteel Pol
-2GalacticraftCore/item.basicItem-9.pngCompressed Stee
-3GalacticraftCore/item.buggymat-1.pngBuggy Sea
-2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engin
-1GalacticraftCore/item.basicItem-19.pngFrequency Modul;Can receive weak sound;waves and distant signals
-2RetrievalGalaxySpace/item.ModuleLander-0.pngLander Tier ;Rocket Module
+816GalaxySpace/item.ModuleLander-0.png1Moon Lander24-1The Moon lander is required for a soft landing. You will need an additional frequency module for hearing things on planets, and a second seat for a Moon buggy you may build later.ANDpre8151GalacticraftCore/item.engine-0.png8171GalacticraftCore/item.buggymat-1.pngrewardsChoiceGalacticraftCore/item.basicItem-6.pngCompressed Copper
+8GalacticraftCore/item.basicItem-7.pngCompressed Tin
+8GalacticraftCore/item.basicItem-11.pngCompressed Iron
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalGalacticraftCore/item.basicItem-6.pngCompressed Copper
+1GalacticraftCore/item.steelPole-0.pngSteel Pole
+2GalacticraftCore/item.basicItem-9.pngCompressed Steel
+3GalacticraftCore/item.buggymat-1.pngBuggy Seat
+2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+1GalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
+2RetrievalGalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
 1

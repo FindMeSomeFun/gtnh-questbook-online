@@ -1,5 +1,5 @@
-340witchery/ingredient-11.png0Portable Power Source36-1By infusing a stone with fiery magic you can create an "Attuned Stone". These stones can be used to link non-magical devices to the magical currents present...ANDpre3390witchery/chalkritual-0.pngrewardsItemwitchery/ingredient-15.pngMutandis Extremi
-10Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1tasksANDRetrievalwitchery/ingredient-11.pngAttuned Stone (Charged
+340witchery/ingredient-11.png0Portable Power Source36-1By infusing a stone with fiery magic you can create an "Attuned Stone". These stones can be used to link non-magical devices to the magical currents present...ANDpre3390witchery/chalkritual-0.pngrewardsItemwitchery/ingredient-15.pngMutandis Extremis
+10Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1tasksANDRetrievalwitchery/ingredient-11.pngAttuned Stone (Charged)
 5

@@ -1,6 +1,6 @@
-171openmodularturrets/fenceTierThree-0.png0§9§lAlmost Like Steel14-1Next-gen protection against nasty zombies, creepers and other "stuff".ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalopenmodularturrets/fenceTierThree-0.pngFence (Tier 3;Hardness: 30 - Blast Resistance: 30
-4openmodularturrets/hardWallTierThree-0.pngHard Wall (Tier 3;Hardness: 30 - Blast Resistance: 30
+171openmodularturrets/fenceTierThree-0.png0§9§lAlmost Like Steel14-1Next-gen protection against nasty zombies, creepers and other "stuff".ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalopenmodularturrets/fenceTierThree-0.pngFence (Tier 3);Hardness: 30 - Blast Resistance: 30
+4openmodularturrets/hardWallTierThree-0.pngHard Wall (Tier 3);Hardness: 30 - Blast Resistance: 30
 4

@@ -1,5 +1,5 @@
-2748gendustry/GeneSample-0.png0Only the Best: Tree Breeding28-1For those who love Forestry trees.ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag (Bees Expert;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100
-1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sampl;Taken from a Bee;Territory: Largest
-1gendustry/GeneSample-0.pngGene Sampl;Taken from a Bee;Flowering: Maximum
+2748gendustry/GeneSample-0.png0Only the Best: Tree Breeding28-1For those who love Forestry trees.ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag (Bees Expert);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
+1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Territory: Largest
+1gendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Flowering: Maximum
 1

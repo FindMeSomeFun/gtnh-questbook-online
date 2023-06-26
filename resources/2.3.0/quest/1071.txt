@@ -4,9 +4,9 @@ It will fill in the area near you, and reveal boss locations. You need to kill t
 
 You can see what to do next in the TF achievement tab. There's also quests for the boss kills on the kill all the things tab. You can only get one map every 24 hours, so be careful with it.
 
-§4Only use the map in the Twilight Forest, using the map in any other dimension will lag the server!ANDpre10700TwilightForest/item.magicMapFocus-0.pngrewardsItemTwilightForest/item.emptyMagicMap-0.pngBlank Magic Ma
-1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
-25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1
-25tasksANDConsumeTwilightForest/item.magicMapFocus-0.pngMagic Map Focu
-1TConstruct/materials-0.pngPaper Stac
+§4Only use the map in the Twilight Forest, using the map in any other dimension will lag the server!ANDpre10700TwilightForest/item.magicMapFocus-0.pngrewardsItemTwilightForest/item.emptyMagicMap-0.pngBlank Magic Map
+1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+25tasksANDConsumeTwilightForest/item.magicMapFocus-0.pngMagic Map Focus
+1TConstruct/materials-0.pngPaper Stack
 1

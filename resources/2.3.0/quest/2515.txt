@@ -1,5 +1,5 @@
-2515thaumicenergistics/part.base-6.png0Centi-vis in your network27-1You can use this device to either transfer the contents (CV) of a Vis Relay to another vis relay, an Arcane Assembler, or an Arcane Crafting Terminal. Either way, place the relay on the device (and send some CV to it), and use the memory card to link to the second device. If you send it to another Vis Relay Interface, you'll obviously need another Vis Relay on the other side.ANDpre13050ae2fc/fluid_interface-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2tasksANDRetrievalthaumicenergistics/part.base-6.pngVis Relay Interfac
+2515thaumicenergistics/part.base-6.png0Centi-vis in your network27-1You can use this device to either transfer the contents (CV) of a Vis Relay to another vis relay, an Arcane Assembler, or an Arcane Crafting Terminal. Either way, place the relay on the device (and send some CV to it), and use the memory card to link to the second device. If you send it to another Vis Relay Interface, you'll obviously need another Vis Relay on the other side.ANDpre13050ae2fc/fluid_interface-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalthaumicenergistics/part.base-6.pngVis Relay Interface
 1

@@ -1,11 +1,11 @@
 1749OpenComputers/item-33.png0All Your Card Are Belong To Us26-1Card bases are just as you might think they are; they're the base part that each card you make will use to connect onto the motherboard.
 
-I suggest making a handful of these for future cards.ANDpre17450OpenComputers/item-48.pngrewardsChoiceOpenComputers/item-27.pngArithmetic Logic Unit (ALU
-2OpenComputers/item-24.pngMicrochip (Tier 1
-1Itemenhancedlootbags/lootbag-45.pngLootBag (Computer Floppies;You feel that a bit more "Fortune" might be a good idea...
-1miscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
-1tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Ro;Fe
-1gregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
-1gregtech/gt.metaitem.01-29086.pngGold Foi;Au
-1RetrievalOpenComputers/item-33.pngCard Bas
+I suggest making a handful of these for future cards.ANDpre17450OpenComputers/item-48.pngrewardsChoiceOpenComputers/item-27.pngArithmetic Logic Unit (ALU)
+2OpenComputers/item-24.pngMicrochip (Tier 1)
+1Itemenhancedlootbags/lootbag-45.pngLootBag (Computer Floppies);You feel that a bit more "Fortune" might be a good idea...
+1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Rod;Fe
+1gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1gregtech/gt.metaitem.01-29086.pngGold Foil;Au
+1RetrievalOpenComputers/item-33.pngCard Base
 1

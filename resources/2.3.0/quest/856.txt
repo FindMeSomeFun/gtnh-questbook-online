@@ -1,11 +1,11 @@
-856gregtech/gt.metaitem.01-30654.png0§9§l1,1-Dimethylhydrazine24-1To make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.ANDpre8570miscutils/Formaldehyde-0.pngrewardsChoicegregtech/gt.metaitem.01-30655.pngChloramine Cel;NH\u2082Cl
-2IC2/itemCellEmpty-0.pngEmpty Cel
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalmiscutils/Hydrazine-0.pnghydrazine Cel
-2miscutils/Formaldehyde-0.pngFormaldehyde Cel
-2gregtech/gt.metaitem.01-30001.pngHydrogen Cel;H
-4miscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalys;Active Reaction Agent;50 / 50
-1Optionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cel;C\u2082H\u2088N\u2082
+856gregtech/gt.metaitem.01-30654.png0§9§l1,1-Dimethylhydrazine24-1To make 1,1-Dimethylhydrazine you need to combine some Hydrazine and Formaldehyde with Hydrogen along with a Formaldehyde Catalyst in a Chemical Plant.ANDpre8570miscutils/Formaldehyde-0.pngrewardsChoicegregtech/gt.metaitem.01-30655.pngChloramine Cell;NH\u2082Cl
+2IC2/itemCellEmpty-0.pngEmpty Cell
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalmiscutils/Hydrazine-0.pnghydrazine Cell
+2miscutils/Formaldehyde-0.pngFormaldehyde Cell
+2gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+4miscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst;Active Reaction Agent;50 / 50
+1Optionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell;C\u2082H\u2088N\u2082
 2Checkboxcheckbox-.pngCheckbox
 1

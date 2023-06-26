@@ -1,7 +1,7 @@
-2845minecraft/web-0.png0Time to Kill (Swarm Spider)39432000The Swarm Spider can be found in large groups inside various landmarks, such as Hollow Hills, Leaf Dungeons and Hedge Mazes. Swarm Spiders can sometimes spawn with Skeletons riding them. They have 3 health points, making them weak to almost any attack. Swarm Spiders will attempt to attack but due to their low attack, they barely inflict damage on anything.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+2845minecraft/web-0.png0Time to Kill (Swarm Spider)39432000The Swarm Spider can be found in large groups inside various landmarks, such as Hollow Hills, Leaf Dungeons and Hedge Mazes. Swarm Spiders can sometimes spawn with Skeletons riding them. They have 3 health points, making them weak to almost any attack. Swarm Spiders will attempt to attack but due to their low attack, they barely inflict damage on anything.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDHuntmobs/TwilightForest-Swarm Spider-.pngSwarm Spider
 20

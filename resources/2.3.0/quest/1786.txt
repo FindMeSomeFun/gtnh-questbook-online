@@ -7,11 +7,11 @@ Slimy Shoes reduces fall damage.
 
 Hint:
 Autorepair can be added to the shoes aswell.
-Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceminecraft/iron_block-0.pngBlock of Iro
-1minecraft/piston-0.pngPisto
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-25tasksANDRetrievalTConstruct/travelBoots-0.pngTraveller''s Boot;Ability: High Step;Protection: 6%;Protection: 1;Durability: 1035/1035
-1minecraft/waterlily-0.pngLily Pa
+Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceminecraft/iron_block-0.pngBlock of Iron
+1minecraft/piston-0.pngPiston
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDRetrievalTConstruct/travelBoots-0.pngTraveller''s Boots;Ability: High Step;Protection: 6%;Protection: 1;Durability: 1035/1035
+1minecraft/waterlily-0.pngLily Pad
 2

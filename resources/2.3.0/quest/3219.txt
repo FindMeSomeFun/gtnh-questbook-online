@@ -4,5 +4,5 @@ In the past, you were able to combine almost all materials into one, through an 
 
 Cubes! Almost everything around you is made out of cubes. You have only glimpsed at the reality of the 4-dimensional world, but you have successfully used it to condensate spacetime, which can be arbitrarily molded into the complete Eternal mixture, a process that unfortunately cannot be reversed. Needless to say, living circuits will not suffice to maintain an infinitely dense, infinitely stable, multi-dimensional material.
 
-Currently, the final upgrade with 13501K. This really makes your DTPF shine!ANDpre25881eternalsingularity/eternal_singularity-0.png32181gregtech/gt.blockcasings5-12.png32401gregtech/gt.metaitem.01-11588.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-13.pngEternal Coil Bloc;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 13501 Kelvin
+Currently, the final upgrade with 13501K. This really makes your DTPF shine!ANDpre25881eternalsingularity/eternal_singularity-0.png32181gregtech/gt.blockcasings5-12.png32401gregtech/gt.metaitem.01-11588.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-13.pngEternal Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 13501 Kelvin
 16

@@ -1,9 +1,9 @@
-1974ProjRedIllumination/projectred.illumination.cagelamp2.inv-2.png0Fancier ProjectRed Illumination15-1The fancier ProjectRed Illumination lamps, lanterns, and fixtures require the Forming Press and Assembler to create.ANDpre971gregtech/gt.blockmachines-211.png1001gregtech/gt.blockmachines-601.pngrewardsItemProjRedCore/projectred.core.part-21.pngMagenta Illuma
-64ProjRedCore/projectred.core.part-30.pngBlue Illuma
-64ProjRedCore/projectred.core.part-19.pngWhite Illuma
-64ProjRedCore/projectred.core.part-34.pngBlack Illuma
-64tasksANDRetrievalProjRedIllumination/projectred.illumination.lantern-3.pngLight Blue Lanter
-1ProjRedIllumination/projectred.illumination.fixture-4.pngYellow Fixtur
-1ProjRedIllumination/projectred.illumination.cagelamp2-5.pngLime Cage Lam
-1ProjRedIllumination/projectred.illumination.cagelamp-6.pngPink Fallout Ligh
+1974ProjRedIllumination/projectred.illumination.cagelamp2.inv-2.png0Fancier ProjectRed Illumination15-1The fancier ProjectRed Illumination lamps, lanterns, and fixtures require the Forming Press and Assembler to create.ANDpre971gregtech/gt.blockmachines-211.png1001gregtech/gt.blockmachines-601.pngrewardsItemProjRedCore/projectred.core.part-21.pngMagenta Illumar
+64ProjRedCore/projectred.core.part-30.pngBlue Illumar
+64ProjRedCore/projectred.core.part-19.pngWhite Illumar
+64ProjRedCore/projectred.core.part-34.pngBlack Illumar
+64tasksANDRetrievalProjRedIllumination/projectred.illumination.lantern-3.pngLight Blue Lantern
+1ProjRedIllumination/projectred.illumination.fixture-4.pngYellow Fixture
+1ProjRedIllumination/projectred.illumination.cagelamp2-5.pngLime Cage Lamp
+1ProjRedIllumination/projectred.illumination.cagelamp-6.pngPink Fallout Light
 1

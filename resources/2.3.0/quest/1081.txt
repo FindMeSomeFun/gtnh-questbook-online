@@ -1,7 +1,7 @@
 1081gregtech/gt.blockmachines-222.png1§6§lMV Bending5-1This Plate Bending Machine allows you to directly make double, triple or more compressed plates, which might be useful for your first rocket in HV Tier.
 
-It also allows you to make dense plates at all.ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemIC2/itemDensePlates-5.pngDense Steel Plat
-8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.blockmachines-222.pngAdvanced Bending Machin;Boo, he''s bad! We want BENDER!!!;Voltage IN: 128 (MV);Capacity: 8,192 EU
+It also allows you to make dense plates at all.ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemIC2/itemDensePlates-5.pngDense Steel Plate
+8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-222.pngAdvanced Bending Machine;Boo, he''s bad! We want BENDER!!!;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

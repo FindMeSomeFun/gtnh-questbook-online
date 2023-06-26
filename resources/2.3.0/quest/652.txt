@@ -1,13 +1,13 @@
 652IC2/itemArmorJetpack-1.png0Fueled Jetpack14-1This jetpack uses IC2 biogas and can fly up to Y-245. You can switch between hover and normal mode using the IC2 mode-switch key.
 
-Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.png18700gregtech/gt.blockmachines-1111.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cel
-30enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDOptionalgregtech/gt.metaitem.02-18306.pngStainless Steel Casin;Fe\u2086CrMnNi
-2BuildCraftFactory/tankBlock-0.pngTan;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-2IC2/reactorCoolantSix-1.png60k Coolant Cel
-1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engin
-1GraviSuite/itemSimpleItem-6.pngEngine Booste
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
+Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells worth of biogas.ANDpre801gregtech/gt.blockmachines-1001.png1601gregtech/gt.blockmachines-13.png18700gregtech/gt.blockmachines-1111.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
+30enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDOptionalgregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
+2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+2IC2/reactorCoolantSix-1.png60k Coolant Cell
+1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
+1GraviSuite/itemSimpleItem-6.pngEngine Booster
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 1RetrievalIC2/itemArmorJetpack-32767.pngJetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
 1

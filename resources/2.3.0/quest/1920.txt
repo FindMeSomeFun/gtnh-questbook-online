@@ -5,7 +5,7 @@ Species
 Crop tier
 Whether it can grow (some crops have requirements)
 Whether you can harvest it
-Growth stage, and progress to the nextANDpre7180IC2/blockCrop-0.pngrewardsItemIC2/itemCropSeed-0.pngZomplant Seed;Gr 1;Ga 1;Re 1
-1dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
-10tasksANDRetrievalberriespp/itemLens-0.pngPlant Len;A Simple Lens to determine Crop Species;Indestructible.
+Growth stage, and progress to the nextANDpre7180IC2/blockCrop-0.pngrewardsItemIC2/itemCropSeed-0.pngZomplant Seeds;Gr 1;Ga 1;Re 1
+1dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+10tasksANDRetrievalberriespp/itemLens-0.pngPlant Lens;A Simple Lens to determine Crop Species;Indestructible.
 1

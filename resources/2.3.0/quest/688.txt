@@ -1,11 +1,11 @@
-688minecraft/golden_chestplate-0.png0"Nice to Have" Armor14-1The gold armor is a "nice to have" armor. The durability is very low but you look expensive when you wear it.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/golden_apple-0.pngGolden Appl;minecraft:golden_apple
-4minecraft/golden_apple-1.pngGolden Appl;minecraft:golden_apple
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10tasksANDOptionalgregtech/gt.metaitem.01-17086.pngGold Plat;Au
-24Craftingminecraft/golden_helmet-0.pngGolden Helme;Protection: 2;Durability: 77/77
-1minecraft/golden_chestplate-0.pngGolden Chestplat;Protection: 5;Durability: 112/112
-1minecraft/golden_leggings-0.pngGolden Legging;Protection: 3;Durability: 105/105
-1minecraft/golden_boots-0.pngGolden Boot;Protection: 1;Durability: 91/91
+688minecraft/golden_chestplate-0.png0"Nice to Have" Armor14-1The gold armor is a "nice to have" armor. The durability is very low but you look expensive when you wear it.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/golden_apple-0.pngGolden Apple;minecraft:golden_apple
+4minecraft/golden_apple-1.pngGolden Apple;minecraft:golden_apple
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-17086.pngGold Plate;Au
+24Craftingminecraft/golden_helmet-0.pngGolden Helmet;Protection: 2;Durability: 77/77
+1minecraft/golden_chestplate-0.pngGolden Chestplate;Protection: 5;Durability: 112/112
+1minecraft/golden_leggings-0.pngGolden Leggings;Protection: 3;Durability: 105/105
+1minecraft/golden_boots-0.pngGolden Boots;Protection: 1;Durability: 91/91
 1

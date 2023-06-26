@@ -1,6 +1,6 @@
-398witchery/babashat-0.png0Kill Baba Yaga39-1Baba Yaga is a witch (or one of a trio of sisters of the same name), who appears as a deformed and/or ferocious-looking elderly woman. She flies around in a mortar and wields a pestle. She dwells deep in the forest, in a hut usually described as standing on chicken legs, with a fence decorated with human skulls. Baba Yaga may help or hinder those that encounter or seek her out.ANDpre15710witchery/distilleryidle-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch;Your luck is increased by 100 %;Fortune III
-1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000
-1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
-1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
+398witchery/babashat-0.png0Kill Baba Yaga39-1Baba Yaga is a witch (or one of a trio of sisters of the same name), who appears as a deformed and/or ferocious-looking elderly woman. She flies around in a mortar and wields a pestle. She dwells deep in the forest, in a hut usually described as standing on chicken legs, with a fence decorated with human skulls. Baba Yaga may help or hinder those that encounter or seek her out.ANDpre15710witchery/distilleryidle-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch);Your luck is increased by 100 %;Fortune III
+1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1tasksANDHuntmobs/witchery-babayaga-.pngBaba Yaga
 1

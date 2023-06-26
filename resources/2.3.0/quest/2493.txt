@@ -1,4 +1,4 @@
-2493ae2fc/fluid_storage1024-0.png01024k Fluid Storage Cell27-1These hold 262,144 buckets, or 262,144,000L of a single fluid. A little more than a Quantum Tank II.ANDpre24900ae2fc/fluid_part-5.pngrewardsItemdreamcraft/item.EmeraldAdvancedFluidCoreChip-0.pngFluid Circuit Tier I
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-4tasksANDRetrievalae2fc/fluid_storage1024-0.png1024k ME Fluid Storage Cel;0 of 1,048,576 Bytes Used;0 of 1 Types;> Hold Ctrl for more information
+2493ae2fc/fluid_storage1024-0.png01024k Fluid Storage Cell27-1These hold 262,144 buckets, or 262,144,000L of a single fluid. A little more than a Quantum Tank II.ANDpre24900ae2fc/fluid_part-5.pngrewardsItemdreamcraft/item.EmeraldAdvancedFluidCoreChip-0.pngFluid Circuit Tier II
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+4tasksANDRetrievalae2fc/fluid_storage1024-0.png1024k ME Fluid Storage Cell;0 of 1,048,576 Bytes Used;0 of 1 Types;> Hold Ctrl for more information
 1

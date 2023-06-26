@@ -13,12 +13,12 @@ Other sources are Tinker's Construct cobalt ore in the nether and cobaltite ore 
 
 Another way to get gallium and arsenic is with XP buckets in a crafting grid if you're really desperate.
 
-With your EBF you can combine these two dusts to make a Gallium Arsenide Crystal.ANDpre771gregtech/gt.blockmachines-1000.png5421gregtech/gt.blockmachines-371.pngrewardsChoicegregtech/gt.metaitem.01-2037.pngGallium Dus;Ga
-1gregtech/gt.metaitem.01-2039.pngArsenic Dus;As
-1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDOptionalgregtech/gt.metaitem.01-2037.pngGallium Dus;Ga
-1gregtech/gt.metaitem.01-2039.pngArsenic Dus;As
-1Retrievalgregtech/gt.metaitem.03-32190.pngGallium Arsenide Crysta;For making boules
+With your EBF you can combine these two dusts to make a Gallium Arsenide Crystal.ANDpre771gregtech/gt.blockmachines-1000.png5421gregtech/gt.blockmachines-371.pngrewardsChoicegregtech/gt.metaitem.01-2037.pngGallium Dust;Ga
+1gregtech/gt.metaitem.01-2039.pngArsenic Dust;As
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDOptionalgregtech/gt.metaitem.01-2037.pngGallium Dust;Ga
+1gregtech/gt.metaitem.01-2039.pngArsenic Dust;As
+1Retrievalgregtech/gt.metaitem.03-32190.pngGallium Arsenide Crystal;For making boules
 1

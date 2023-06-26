@@ -1,8 +1,8 @@
-1264gregtech/gt.metaitem.01-32540.png0EV Sunnarium Battery20-1Small Sunnarium batteries are EV tier. Some might think they're cheaper than Lapotrons, but it depends on Sunnarium. And they hold less energy.ANDpre12620gregtech/gt.blockmachines-184.png12630gregtech/gt.metaitem.01-11349.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piec
-4gregtech/gt.blockmachines-1586.png1x Aluminium Cabl;Max Voltage: 2,048 (EV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDOptionalgregtech/gt.metaitem.01-32503.pngSmall Sunnarium Battery (Empty;An empty EV Battery Container
-1Optionalgregtech/gt.metaitem.01-2318.pngSunnarium Dus;Su
-4Retrievalgregtech/gt.metaitem.01-32540.pngSmall Sunnarium Batter;Reusable;0 / 6,400,000 EU - Voltage: 2048;EV-Tier
+1264gregtech/gt.metaitem.01-32540.png0EV Sunnarium Battery20-1Small Sunnarium batteries are EV tier. Some might think they're cheaper than Lapotrons, but it depends on Sunnarium. And they hold less energy.ANDpre12620gregtech/gt.blockmachines-184.png12630gregtech/gt.metaitem.01-11349.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
+4gregtech/gt.blockmachines-1586.png1x Aluminium Cable;Max Voltage: 2,048 (EV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-32503.pngSmall Sunnarium Battery (Empty);An empty EV Battery Container
+1Optionalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
+4Retrievalgregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048;EV-Tier
 1

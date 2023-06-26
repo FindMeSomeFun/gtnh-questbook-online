@@ -2,9 +2,9 @@
 
 There are many different goals you might want to go for, but a good metric for your power needs is a setup with 24 Coke Ovens. This number will create both Charcoal and Creosote Oil at a rate that will run two max-sized LP (Low Pressure) Railcraft Boilers, one solid and one liquid, with the quest for those coming right after this one. If you automate this entire setup, it will produce around 2 amps of MV, which are equivalent to 8 amps of LV, plenty of power for this tier and enough to advance you to the next one.
 
-After building these Coke Ovens, you will need to automate them. There are a few ways to do this, but one of the cheapest ones is to use Item Pipes, made with Tin for example, with a Conveyor Module in the wood chest/drawer to put the wood in the ovens, and then one Hopper below each oven, into more Item Pipes, to gather the Charcoal. The Creosote is a bit harder to extract, but you can do it with Tinkers' Faucets on the side of each Coke Oven, with a Wooden Fluid Pipe directly under the faucet. You will need to keep reactivating them with redstone, which means you'll also need a redstone clock (there's a block dedicated to this purpose, named Redstone Clock, from Extra Utilities).ANDpre30950minecraft/log-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-3IC2/itemCellEmpty-0.pngEmpty Cel
-32dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10
-1tasksANDRetrievalRailcraft/machine.alpha-7.pngCoke Oven Bric;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
+After building these Coke Ovens, you will need to automate them. There are a few ways to do this, but one of the cheapest ones is to use Item Pipes, made with Tin for example, with a Conveyor Module in the wood chest/drawer to put the wood in the ovens, and then one Hopper below each oven, into more Item Pipes, to gather the Charcoal. The Creosote is a bit harder to extract, but you can do it with Tinkers' Faucets on the side of each Coke Oven, with a Wooden Fluid Pipe directly under the faucet. You will need to keep reactivating them with redstone, which means you'll also need a redstone clock (there's a block dedicated to this purpose, named Redstone Clock, from Extra Utilities).ANDpre30950minecraft/log-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+3IC2/itemCellEmpty-0.pngEmpty Cell
+32dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
+1tasksANDRetrievalRailcraft/machine.alpha-7.pngCoke Oven Brick;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
 624

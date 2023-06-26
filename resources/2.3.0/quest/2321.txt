@@ -2,10 +2,10 @@
 
 You can run the Metallic Sludge through a centrifuge to get nickel and copper, while the Calcium Chloride needs to be solidified in a fluid solidifier before it can be electrolyzed for calcium and chlorine.
 
-BTW, this step is only EV, the only part that is, so you could do it earlier if you really wanted to.ANDpre23191bartworks/gt.bwMetaGenerateddust-76.pngrewardsItemgregtech/gt.metaitem.01-2084.pngIridium Dus;Ir
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-76.pngIridium Chloride Dus;IrCl\u2083;Added by BartWorks
-1gregtech/gt.metaitem.01-2026.pngCalcium Dus;Ca
-3Retrievalgregtech/gt.metaitem.01-2084.pngIridium Dus;Ir
-1bartworks/gt.bwMetaGenerateddust-77.pngMetallic Sludge Dust Residue Dus;NiCu;Added by BartWorks
-1bartworks/gt.bwMetaGeneratedcell-63.pngCalcium Chloride Cel;CaCl\u2082;Added by BartWorks
+BTW, this step is only EV, the only part that is, so you could do it earlier if you really wanted to.ANDpre23191bartworks/gt.bwMetaGenerateddust-76.pngrewardsItemgregtech/gt.metaitem.01-2084.pngIridium Dust;Ir
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-76.pngIridium Chloride Dust;IrCl\u2083;Added by BartWorks
+1gregtech/gt.metaitem.01-2026.pngCalcium Dust;Ca
+3Retrievalgregtech/gt.metaitem.01-2084.pngIridium Dust;Ir
+1bartworks/gt.bwMetaGenerateddust-77.pngMetallic Sludge Dust Residue Dust;NiCu;Added by BartWorks
+1bartworks/gt.bwMetaGeneratedcell-63.pngCalcium Chloride Cell;CaCl\u2082;Added by BartWorks
 3

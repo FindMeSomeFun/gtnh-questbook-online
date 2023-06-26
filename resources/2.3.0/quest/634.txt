@@ -1,5 +1,5 @@
-634minecraft/wheat-0.png0Wheat Time13-1It's time to plant some wheat to make some bread or to prepare grain bait for your animal traps.ANDpre71minecraft/carrot-0.pngrewardsItemIC2/blockCrop-0.pngCro
-4Natura/barley.seed-0.pngBarley Seed;Similar to wheat, it grows in the wild
-8Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
-15tasksANDRetrievalminecraft/wheat-0.pngWhea
+634minecraft/wheat-0.png0Wheat Time13-1It's time to plant some wheat to make some bread or to prepare grain bait for your animal traps.ANDpre71minecraft/carrot-0.pngrewardsItemIC2/blockCrop-0.pngCrop
+4Natura/barley.seed-0.pngBarley Seeds;Similar to wheat, it grows in the wild
+8Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+15tasksANDRetrievalminecraft/wheat-0.pngWheat
 32

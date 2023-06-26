@@ -1,7 +1,7 @@
 1917IC2NuclearControl/blockNuclearControlMain-2.png0§6§lBEEEP BEEEP BEEEP5-1Knowing that your cleanroom needs maintenance is pretty important. Instead of just turning on a light, why not use a howler alarm? It'll notify you up to 128 blocks away.
 
-§4§d§cWarning: May cause uncontrollable urine leakage when activated.ANDpre19160gregtech/gt.metaitem.01-32748.pngrewardsItemminecraft/noteblock-0.pngNote Bloc;Burn Time: 300
-1Itemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalIC2NuclearControl/blockNuclearControlMain-2.pngHowler Alar
+§4§d§cWarning: May cause uncontrollable urine leakage when activated.ANDpre19160gregtech/gt.metaitem.01-32748.pngrewardsItemminecraft/noteblock-0.pngNote Block;Burn Time: 300
+1Itemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalIC2NuclearControl/blockNuclearControlMain-2.pngHowler Alarm
 1

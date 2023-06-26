@@ -1,7 +1,7 @@
 1293extracells/hardmedrive-0.png0(Deprecated) Safety First!qLine-1This storage cell housing is blast proof and stores only 3 cells.
 
-§4Also super buggy (graphically).ANDpre32470minecraft/nether_star-0.pngrewardsChoiceappliedenergistics2/item.ItemMultiPart-36.pngME Covered Cable - Flui
-8appliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Flui
-16enhancedlootbags/lootbag-38.pngLootBag (AE Good;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
+§4Also super buggy (graphically).ANDpre32470minecraft/nether_star-0.pngrewardsChoiceappliedenergistics2/item.ItemMultiPart-36.pngME Covered Cable - Fluix
+8appliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix
+16enhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksAND

@@ -11,20 +11,20 @@ The Void rune is less common than other types.
 
 Runes are used to create Charms, and are crafted in a Charm Pouch.
 
-Basic Runes increase attributes, such as strength, speed or health. Void Rune (gray) gives the Louse one of special and extremely dangerous abilities.ANDpre23590HardcoreEnderExpansion/endoplasm-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Powe
-1HardcoreEnderExpansion/rune-2.pngRune of Vigo
-1HardcoreEnderExpansion/rune-4.pngRune of Magi
-1HardcoreEnderExpansion/rune-3.pngRune of Defens
-1HardcoreEnderExpansion/rune-5.pngRune of Voi
-1HardcoreEnderExpansion/rune-1.pngRune of Agilit
-1enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2tasksANDRetrievalHardcoreEnderExpansion/rune-0.pngRune of Powe
-1HardcoreEnderExpansion/rune-2.pngRune of Vigo
-1HardcoreEnderExpansion/rune-4.pngRune of Magi
-1HardcoreEnderExpansion/rune-3.pngRune of Defens
-1HardcoreEnderExpansion/rune-1.pngRune of Agilit
-1HardcoreEnderExpansion/rune-5.pngRune of Voi
+Basic Runes increase attributes, such as strength, speed or health. Void Rune (gray) gives the Louse one of special and extremely dangerous abilities.ANDpre23590HardcoreEnderExpansion/endoplasm-0.pngrewardsChoiceHardcoreEnderExpansion/rune-0.pngRune of Power
+1HardcoreEnderExpansion/rune-2.pngRune of Vigor
+1HardcoreEnderExpansion/rune-4.pngRune of Magic
+1HardcoreEnderExpansion/rune-3.pngRune of Defense
+1HardcoreEnderExpansion/rune-5.pngRune of Void
+1HardcoreEnderExpansion/rune-1.pngRune of Agility
+1enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalHardcoreEnderExpansion/rune-0.pngRune of Power
+1HardcoreEnderExpansion/rune-2.pngRune of Vigor
+1HardcoreEnderExpansion/rune-4.pngRune of Magic
+1HardcoreEnderExpansion/rune-3.pngRune of Defense
+1HardcoreEnderExpansion/rune-1.pngRune of Agility
+1HardcoreEnderExpansion/rune-5.pngRune of Void
 1

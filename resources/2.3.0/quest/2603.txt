@@ -4,6 +4,6 @@
 2) If you have old worldgen, you can get it from Temagamite practically anywhere (it was broken so it currently doesn't generate), or Mercury if it's been fixed
 3) Make Rare Earth (III) out of Rare Earth using the strongest of acids and get it from Alburnite
 4) Toxic Everglades again
-5) Once you have a Void Miner, you can place it in the Overworld to obtain Tellurium.ANDpre26001dreamcraft/item.OvenGlove-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2059.pngTellurium Dus;Te
-15Retrievalbartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dus;Bi\u2082Te\u2083;Added by BartWorks
+5) Once you have a Void Miner, you can place it in the Overworld to obtain Tellurium.ANDpre26001dreamcraft/item.OvenGlove-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2059.pngTellurium Dust;Te
+15Retrievalbartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust;Bi\u2082Te\u2083;Added by BartWorks
 24

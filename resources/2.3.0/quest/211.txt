@@ -1,6 +1,6 @@
-211openmodularturrets/fenceTierFour-0.png0§a§lTier 4 Fence and Walls14-1Another upgrade for your walls. One more to go!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalopenmodularturrets/fenceTierFour-0.pngFence (Tier 4;Hardness: 50 - Blast Resistance: 50
-4openmodularturrets/hardWallTierFour-0.pngHard Wall (Tier 4;Hardness: 50 - Blast Resistance: 50
+211openmodularturrets/fenceTierFour-0.png0§a§lTier 4 Fence and Walls14-1Another upgrade for your walls. One more to go!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalopenmodularturrets/fenceTierFour-0.pngFence (Tier 4);Hardness: 50 - Blast Resistance: 50
+4openmodularturrets/hardWallTierFour-0.pngHard Wall (Tier 4);Hardness: 50 - Blast Resistance: 50
 4

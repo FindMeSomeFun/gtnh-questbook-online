@@ -1,11 +1,11 @@
 2369HardcoreEnderExpansion/dungeon_puzzle-13.png0Hot Puzzle30-1Some of the islands have a Dungeon Puzzle inside them, usually nearby the surface and with a small cave leading to it. The dungeon consists of special blocks which the player can interact with by throwing Igneous Rock, causing a chain reaction during which the lit blocks will become unlit, unlit blocks will become lit and the walls will propagate the reaction into adjacent blocks.
 
-Once all of the blocks are lit, a Fire Fiend is spawned below. It will make his way to the surface, breaking the dungeon in the process.ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItemHardcoreEnderExpansion/igneous_rock-0.pngIgneous Roc;Burn Time: 8000
-64enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-3dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;65 Knowledge Points
-5tasksANDRetrievalHardcoreEnderExpansion/igneous_rock-0.pngIgneous Roc;Burn Time: 8000
+Once all of the blocks are lit, a Fire Fiend is spawned below. It will make his way to the surface, breaking the dungeon in the process.ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItemHardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+64enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+3dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
+5tasksANDRetrievalHardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
 16Huntmobs/HardcoreEnderExpansion-FireFiend-.pngFire Fiend
-1RetrievalHardcoreEnderExpansion/essence-1.pngFiery Essenc
+1RetrievalHardcoreEnderExpansion/essence-1.pngFiery Essence
 16

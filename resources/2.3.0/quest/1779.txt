@@ -2,17 +2,17 @@
 
 It functions as a piece of armor for the foot slot that gives a fun jump boost! They let the wearer jump up to THREE blocks in height and increase run speed. They also grant a Step Up enchantment to allow the wearer to step up a single block without jumping while sprinting. You can repair them with leather using an anvil.
 
-Basically, make them ASAP.ANDpre491minecraft/piston-0.png4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leathe
-2minecraft/piston-0.pngPisto
-2gregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
-2gregtech/gt.metaitem.01-11300.pngBronze Ingo;SnCu\u2083
-4enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10tasksANDOptionalminecraft/leather_boots-0.pngLeather Boot;Protection: 1;Durability: 65/65
-1Backpack/tannedLeather-0.pngTanned Leathe
-2gregtech/gt.metaitem.01-17880.pngRubber Shee;C\u2085H\u2088
-2minecraft/piston-0.pngPisto
-2gregtech/gt.metaitem.01-27300.pngBronze Scre;SnCu\u2083
-1Retrievaladventurebackpack/pistonBoots-0.pngPiston Boot;Protection: 2;Durability: 250/250
+Basically, make them ASAP.ANDpre491minecraft/piston-0.png4860Backpack/tannedLeather-0.pngrewardsChoiceBackpack/tannedLeather-0.pngTanned Leather
+2minecraft/piston-0.pngPiston
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+2gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
+4enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalminecraft/leather_boots-0.pngLeather Boots;Protection: 1;Durability: 65/65
+1Backpack/tannedLeather-0.pngTanned Leather
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+2minecraft/piston-0.pngPiston
+2gregtech/gt.metaitem.01-27300.pngBronze Screw;SnCu\u2083
+1Retrievaladventurebackpack/pistonBoots-0.pngPiston Boots;Protection: 2;Durability: 250/250
 1

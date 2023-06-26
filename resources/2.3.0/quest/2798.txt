@@ -1,4 +1,4 @@
 2798gregtech/gt.blockmachines-830.png0Geothermal Power EV19-1Turns lava into power, at very inefficient rates. Also, seems to produce way more pollution than it says. They also require you to be 2 tiers above the output amount, so, yeah.
 
-§3Wasn't geothermal supposed to be environmentally friendly?ANDpre17071gregtech/gt.metaitem.03-32088.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-830.pngBasic Geothermal Engin;Requires Pahoehoe Lava or Normal Lava as Fuel;Generates power at 72% Efficiency per tick;Causes 100 Pollution per second;Added by: Alkalus - [GT++];Voltage OUT: 2,048 (EV);Capacity: 164,352 EU
+§3Wasn't geothermal supposed to be environmentally friendly?ANDpre17071gregtech/gt.metaitem.03-32088.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-830.pngBasic Geothermal Engine;Requires Pahoehoe Lava or Normal Lava as Fuel;Generates power at 72% Efficiency per tick;Causes 100 Pollution per second;Added by: Alkalus - [GT++];Voltage OUT: 2,048 (EV);Capacity: 164,352 EU
 1

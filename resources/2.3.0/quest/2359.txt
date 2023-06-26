@@ -7,24 +7,24 @@ The Ravaged variation has patches of infested plants and occasional Spooky Trees
 About Infestation:
 Simply by standing on the End Stone Terrain, the infestation level will rise. After leaving the area for several minutes, if the infestation level is low, it will reset and won't do any harm to the player.
 
-However, if the infestation level gets high enough, it will trigger one or more potion effects, which include weakness, slowness and mining fatigue, and if the player's level is severe, blindness, confusion and/or poison may take place as well. These effects cannot be cured using milk, you can however drink Infestation Remedy to shorten them.ANDpre23550HardcoreEnderExpansion/biome_compass-0.png23610HardcoreEnderExpansion/ghost_amulet-1.pngrewardsItemHardcoreEnderExpansion/endoplasm-0.pngEctoplas
-16enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;65 Knowledge Points
-1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-0.pngInfested End Ston
-8RetrievalHardcoreEnderExpansion/ravaged_brick-0.pngRavaged Bric
-16HardcoreEnderExpansion/ravaged_brick-4.pngRavaged Bric
-2HardcoreEnderExpansion/ravaged_brick-2.pngRavaged Bric
-2HardcoreEnderExpansion/ravaged_brick-3.pngRavaged Bric
-2HardcoreEnderExpansion/ravaged_brick-1.pngRavaged Bric
-2HardcoreEnderExpansion/ravaged_brick_glow-0.pngGlowing Ravaged Bric
-2HardcoreEnderExpansion/ravaged_brick_slab-0.pngRavaged Brick Sla
-4RetrievalHardcoreEnderExpansion/dry_splinter-0.pngDry Splinte
-64HardcoreEnderExpansion/crossed_decoration-2.pngThorny Bus
-16HardcoreEnderExpansion/crossed_decoration-5.pngInfested Gras
-16HardcoreEnderExpansion/crossed_decoration-3.pngInfested Bus
-16RetrievalHardcoreEnderExpansion/endoplasm-0.pngEctoplas
-8HardcoreEnderExpansion/stardust-0.pngStardus
+However, if the infestation level gets high enough, it will trigger one or more potion effects, which include weakness, slowness and mining fatigue, and if the player's level is severe, blindness, confusion and/or poison may take place as well. These effects cannot be cured using milk, you can however drink Infestation Remedy to shorten them.ANDpre23550HardcoreEnderExpansion/biome_compass-0.png23610HardcoreEnderExpansion/ghost_amulet-1.pngrewardsItemHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+16enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
+1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-0.pngInfested End Stone
+8RetrievalHardcoreEnderExpansion/ravaged_brick-0.pngRavaged Brick
+16HardcoreEnderExpansion/ravaged_brick-4.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick-2.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick-3.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick-1.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick_glow-0.pngGlowing Ravaged Brick
+2HardcoreEnderExpansion/ravaged_brick_slab-0.pngRavaged Brick Slab
+4RetrievalHardcoreEnderExpansion/dry_splinter-0.pngDry Splinter
+64HardcoreEnderExpansion/crossed_decoration-2.pngThorny Bush
+16HardcoreEnderExpansion/crossed_decoration-5.pngInfested Grass
+16HardcoreEnderExpansion/crossed_decoration-3.pngInfested Bush
+16RetrievalHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+8HardcoreEnderExpansion/stardust-0.pngStardust
 16

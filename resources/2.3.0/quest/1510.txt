@@ -5,8 +5,8 @@ Some things to keep in mind:
 2) Radius 10000 means it couldn't find it
 3) You can try again at a different location and you might find it, the range is 10K too. There's also a config setting for those who don't mind the freeze when searching
 4) Artificially created biomes count, so remove them if you want to find a natural one
-5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1
-15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
-15tasksANDRetrievalnaturescompass/NaturesCompass-0.pngNature''s Compas
+5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDRetrievalnaturescompass/NaturesCompass-0.pngNature''s Compass
 1

@@ -1,9 +1,9 @@
-1522gregtech/gt.metaitem.01-11360.png1§b§lNiobium-Titanium8-1Niobium-Titanium becomes more important in LuV Tier. It needs a EV Mixer to mix and an Electric Blast Furnace with TPV heating coils.ANDpre861gregtech/gt.blockcasings5-3.png2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dus;Ti
-32gregtech/gt.metaitem.01-2047.pngNiobium Dus;Nb
-32Optionalgregtech/gt.metaitem.01-2360.pngNiobium-Titanium Dus;NbTi
-64Retrievalgregtech/gt.metaitem.01-11360.pngNiobium-Titanium Ingo;NbTi
+1522gregtech/gt.metaitem.01-11360.png1§b§lNiobium-Titanium8-1Niobium-Titanium becomes more important in LuV Tier. It needs a EV Mixer to mix and an Electric Blast Furnace with TPV heating coils.ANDpre861gregtech/gt.blockcasings5-3.png2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+32gregtech/gt.metaitem.01-2047.pngNiobium Dust;Nb
+32Optionalgregtech/gt.metaitem.01-2360.pngNiobium-Titanium Dust;NbTi
+64Retrievalgregtech/gt.metaitem.01-11360.pngNiobium-Titanium Ingot;NbTi
 64

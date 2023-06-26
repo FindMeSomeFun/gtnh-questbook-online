@@ -1,4 +1,4 @@
-2464appliedenergistics2/item.ItemMultiMaterial-57.png0256k Component27-1They work the same as the previous ones, but hold more once you make it into something.ANDpre24630dreamcraft/item.EngineeringProcessorItemEmeraldCore-0.pngrewardsItemdreamcraft/item.EmeraldAdvancedCoreChip-0.pngItem Circuit Tier II
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-4tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-57.png256k ME Storage Componen
+2464appliedenergistics2/item.ItemMultiMaterial-57.png0256k Component27-1They work the same as the previous ones, but hold more once you make it into something.ANDpre24630dreamcraft/item.EngineeringProcessorItemEmeraldCore-0.pngrewardsItemdreamcraft/item.EmeraldAdvancedCoreChip-0.pngItem Circuit Tier III
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+4tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-57.png256k ME Storage Component
 1

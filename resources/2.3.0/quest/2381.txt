@@ -30,19 +30,19 @@ Riding (Lead)
 The thrower will "ride" the pearl to its destination. During the ride, if another pearl with this effect is thrown, the previous pearl will destroy itself and deal fall damage (unless No fall damage effect is applied).
 
 Trivia:
-The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pear;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-16HardcoreEnderExpansion/end_powder-0.pngEnd Powde
-32enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
-1tasksANDRetrievalminecraft/ender_pearl-0.pngEnder Pear;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-7Retrievalminecraft/wool-0.pngWoo
-1minecraft/feather-0.pngFeathe
-1minecraft/string-0.pngStrin
-1minecraft/gold_nugget-0.pngGold Nugge
-1minecraft/gunpowder-0.pngGunpowde
-1minecraft/snowball-0.pngSnowbal
-1minecraft/lead-0.pngLea
-1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powde
+The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+16HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+32enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+1tasksANDRetrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+7Retrievalminecraft/wool-0.pngWool
+1minecraft/feather-0.pngFeather
+1minecraft/string-0.pngString
+1minecraft/gold_nugget-0.pngGold Nugget
+1minecraft/gunpowder-0.pngGunpowder
+1minecraft/snowball-0.pngSnowball
+1minecraft/lead-0.pngLead
+1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
 14

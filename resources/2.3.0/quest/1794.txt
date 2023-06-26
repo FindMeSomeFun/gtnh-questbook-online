@@ -9,7 +9,7 @@ How fast it grows, with higher = faster. Specifically, it increases the growth p
 Influences chances of how many drops you get, and whether you get any at all. 31 is the best for sure.
 
 §eResistance§r:
-This stat is responsible for a couple of crops' properties: chances for getting a seed while punching crop, resistance of your crop to trampling (jumping on it), decreases chance of crop dying due to lack of enviromental stats, and resistance of crop to weed spread. It also reduces mutation chance as it goes up (apparently). Aim for around 10 for balance.ANDpre15410IC2/itemCropnalyzer-1-charged.pngrewardsItemIC2/itemCropSeed-0.pngNickelback Seed;Gr 5;Ga 5;Re 5
-1enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalgregtech/gt.metaitem.01-32762.pngPortable Scanne;Tricorder;400,000 / 400,000 EU - Voltage: 128;Can scan Blocks in World
+This stat is responsible for a couple of crops' properties: chances for getting a seed while punching crop, resistance of your crop to trampling (jumping on it), decreases chance of crop dying due to lack of enviromental stats, and resistance of crop to weed spread. It also reduces mutation chance as it goes up (apparently). Aim for around 10 for balance.ANDpre15410IC2/itemCropnalyzer-1-charged.pngrewardsItemIC2/itemCropSeed-0.pngNickelback Seeds;Gr 5;Ga 5;Re 5
+1enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalgregtech/gt.metaitem.01-32762.pngPortable Scanner;Tricorder;400,000 / 400,000 EU - Voltage: 128;Can scan Blocks in World
 1

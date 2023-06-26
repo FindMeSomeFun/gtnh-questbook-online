@@ -4,16 +4,16 @@ Unlike GregTech multiblocks, coke ovens must have 1 space separating each oven.
 
 Search NEI for a more efficient way to make coke oven bricks.
 
-§4You need to use a steel wrench on tin item pipes. Note that this will generate lots of pollution, consider putting it further away.ANDpre911gregtech/gt.metaitem.01-32630.png931gregtech/gt.metaitem.01-32610.pngrewardsItemRailcraft/cube-0.pngBlock of Coal Cok;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
-16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1ChoiceJABBA/barrel-0.pngBetter Barre
-10JABBA/upgradeCore-0.pngStorage upgrad;Slots Used :1;Increases the storage capacity by 64 stacks
-9enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-100tasksANDRetrievalRailcraft/machine.alpha-7.pngCoke Oven Bric;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
-260RetrievalJABBA/barrel-0.pngBetter Barre
-2Retrievalgregtech/gt.blockmachines-5590.pngSmall Tin Item Pip;Item Capacity: 1 Stacks/4 sec;Routing Value: 131,072
-64gregtech/gt.blockmachines-5101.pngSmall Wooden Fluid Pip;Fluid Capacity: 200 L/sec;Heat Limit: 350 K
-32Retrievalgregtech/gt.metaitem.01-32630.pngConveyor Module (LV;1 stack every 20 secs (as Cover)
-11gregtech/gt.metaitem.01-32610.pngElectric Pump (LV;32 L/t (640 L/s) as Cover
+§4You need to use a steel wrench on tin item pipes. Note that this will generate lots of pollution, consider putting it further away.ANDpre911gregtech/gt.metaitem.01-32630.png931gregtech/gt.metaitem.01-32610.pngrewardsItemRailcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1ChoiceJABBA/barrel-0.pngBetter Barrel
+10JABBA/upgradeCore-0.pngStorage upgrade;Slots Used :1;Increases the storage capacity by 64 stacks
+9enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+100tasksANDRetrievalRailcraft/machine.alpha-7.pngCoke Oven Brick;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
+260RetrievalJABBA/barrel-0.pngBetter Barrel
+2Retrievalgregtech/gt.blockmachines-5590.pngSmall Tin Item Pipe;Item Capacity: 1 Stacks/4 sec;Routing Value: 131,072
+64gregtech/gt.blockmachines-5101.pngSmall Wooden Fluid Pipe;Fluid Capacity: 200 L/sec;Heat Limit: 350 K
+32Retrievalgregtech/gt.metaitem.01-32630.pngConveyor Module (LV);1 stack every 20 secs (as Cover)
+11gregtech/gt.metaitem.01-32610.pngElectric Pump (LV);32 L/t (640 L/s) as Cover
 10

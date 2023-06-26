@@ -14,14 +14,14 @@ Note that the implementation is not finished, so there are some problems. Upgrad
 
 Please report any bugs/problems to the CFB-specific GTNH issue tracker at https://github.com/GTNewHorizons/CookingForBlockheads/issues
 
-§3There is no cow in a jar, it will not come back.ANDpre10081minecraft/book-0.pngrewardstasksANDRetrievalcookingforblockheads/white_kitchen_floor-0.pngKitchen Floo;Multiblock Kitchen;Connect kitchen blocks over distances.
-24cookingforblockheads/counter-0.pngCounte;Multiblock Kitchen;Stores ingredients for recipes.;Dyeable
-1cookingforblockheads/countercorner-0.pngCounter Corne;Multiblock Kitchen;Keeping up appearances.;Dyeable
-1cookingforblockheads/cabinet-0.pngCabine;Multiblock Kitchen;Stores ingredients for recipes.;Dyeable
-1cookingforblockheads/cabinetcorner-0.pngCabinet Corne;Multiblock Kitchen;Keeping up appearances.;Dyeable
-1Retrievalcookingforblockheads/fridge-0.pngFridg;Multiblock Kitchen;Provides contained ingredients to recipes.;Dyeable
-2cookingforblockheads/cookingoven-0.pngCooking Ove;Multiblock Kitchen;Enables smelting abilities.
-1cookingforblockheads/sink-0.pngSin;Multiblock Kitchen;Provides water to recipes.;Dyeable;Burn Time: 300
-1cookingforblockheads/toolrack-0.pngTool Rac;Multiblock Kitchen;Provides contained tools to recipes.;Burn Time: 300
-1cookingforblockheads/cookingtable-0.pngCooking Tabl;Multiblock Kitchen;Enables crafting abilities.;Dyeable;Burn Time: 300
+§3There is no cow in a jar, it will not come back.ANDpre10081minecraft/book-0.pngrewardstasksANDRetrievalcookingforblockheads/white_kitchen_floor-0.pngKitchen Floor;Multiblock Kitchen;Connect kitchen blocks over distances.
+24cookingforblockheads/counter-0.pngCounter;Multiblock Kitchen;Stores ingredients for recipes.;Dyeable
+1cookingforblockheads/countercorner-0.pngCounter Corner;Multiblock Kitchen;Keeping up appearances.;Dyeable
+1cookingforblockheads/cabinet-0.pngCabinet;Multiblock Kitchen;Stores ingredients for recipes.;Dyeable
+1cookingforblockheads/cabinetcorner-0.pngCabinet Corner;Multiblock Kitchen;Keeping up appearances.;Dyeable
+1Retrievalcookingforblockheads/fridge-0.pngFridge;Multiblock Kitchen;Provides contained ingredients to recipes.;Dyeable
+2cookingforblockheads/cookingoven-0.pngCooking Oven;Multiblock Kitchen;Enables smelting abilities.
+1cookingforblockheads/sink-0.pngSink;Multiblock Kitchen;Provides water to recipes.;Dyeable;Burn Time: 300
+1cookingforblockheads/toolrack-0.pngTool Rack;Multiblock Kitchen;Provides contained tools to recipes.;Burn Time: 300
+1cookingforblockheads/cookingtable-0.pngCooking Table;Multiblock Kitchen;Enables crafting abilities.;Dyeable;Burn Time: 300
 1

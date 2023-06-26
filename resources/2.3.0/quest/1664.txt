@@ -1,7 +1,7 @@
-1664gregtech/gt.metaitem.01-17471.png1§9§lSilicone Rubber Sheet6-1Lastly we add a bit of sulfur to the polydimethylsiloxane dust and get molten silicone rubber.ANDpre16631gregtech/gt.metaitem.01-2633.pngrewardsChoicegregtech/gt.metaitem.01-30664.pngChloromethane Cel;CH\u2083Cl
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalgregtech/gt.metaitem.01-2633.pngPolydimethylsiloxane Pul;C\u2082H\u2086OSi
-63gregtech/gt.metaitem.01-2022.pngSulfur Dus;S;Burn Time: 1600
-7Retrievalgregtech/gt.metaitem.01-17471.pngSilicone Rubber Shee;C\u2082H\u2086OSi
+1664gregtech/gt.metaitem.01-17471.png1§9§lSilicone Rubber Sheet6-1Lastly we add a bit of sulfur to the polydimethylsiloxane dust and get molten silicone rubber.ANDpre16631gregtech/gt.metaitem.01-2633.pngrewardsChoicegregtech/gt.metaitem.01-30664.pngChloromethane Cell;CH\u2083Cl
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-2633.pngPolydimethylsiloxane Pulp;C\u2082H\u2086OSi
+63gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
+7Retrievalgregtech/gt.metaitem.01-17471.pngSilicone Rubber Sheet;C\u2082H\u2086OSi
 63

@@ -1,7 +1,7 @@
-1901gregtech/gt.blockmachines-755.png0§5§l§6§l§9§lHV Advanced Steam Boiler6-1The HV GT++ Steam Boiler is the next machine you can make to produce steam efficiently. It regulates its fuel more efficiently if it ends up being full.ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circui;HV-tier
-2gregtech/gt.metaitem.01-11306.pngStainless Steel Ingo;Fe\u2086CrMnNi
-16gregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.blockmachines-755.pngAdvanced Boiler [HV;Produces 2250L of Steam per second;Produces 65 pollution/sec;Consumes fuel only when temperature is less than 100C;Fuel with burn time greater than 500 is more efficient.;Doesn''t explode if there''s no water;Added by: Alkalus - [GT++]
+1901gregtech/gt.blockmachines-755.png0§5§l§6§l§9§lHV Advanced Steam Boiler6-1The HV GT++ Steam Boiler is the next machine you can make to produce steam efficiently. It regulates its fuel more efficiently if it ends up being full.ANDpre8601gregtech/gt.metaitem.01-11028.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-755.pngAdvanced Boiler [HV];Produces 2250L of Steam per second;Produces 65 pollution/sec;Consumes fuel only when temperature is less than 100C;Fuel with burn time greater than 500 is more efficient.;Doesn''t explode if there''s no water;Added by: Alkalus - [GT++]
 1

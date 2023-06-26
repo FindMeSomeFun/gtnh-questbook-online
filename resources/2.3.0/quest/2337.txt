@@ -1,13 +1,13 @@
 2337witchery/earmuffs-0.png0Mandrake Noise Protection36-1Where would a Herbologist be without a trusty pair of Earmuffs? As soon as it comes time to harvest a crop of Mandrake, the farmer has two choices, either do it at night (and risk the typical nightly terrors), or don a pair of Earmuffs, and harvest away without fear of the Mandrake's screams. Indeed, Earmuffs are so effective at what they do, the wearer is unlikely to hear pretty much anything. This property may have benefits when dealing with Banshees too.
 
-Earmuffs count as leather armor in terms of protection and durability.ANDpre15600witchery/seedsbelladonna-0.pngrewardsItemBackpack/tannedLeather-0.pngTanned Leathe
-2witchery/ingredient-22.pngMandrake Roo
-10Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
-25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1
-25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1
-25tasksANDOptionalgregtech/gt.metaitem.01-28330.pngThaumium Rin;FeMa
-2gregtech/gt.metaitem.01-27330.pngThaumium Scre;FeMa
-2gregtech/gt.metaitem.02-24305.pngSteel Sprin;Fe\u2085\u2080C
-1Backpack/tannedLeather-0.pngTanned Leathe
-2Retrievalwitchery/earmuffs-0.pngEarmuff;Protection from Mandrakes;Protection: 1;Durability: 55/55
+Earmuffs count as leather armor in terms of protection and durability.ANDpre15600witchery/seedsbelladonna-0.pngrewardsItemBackpack/tannedLeather-0.pngTanned Leather
+2witchery/ingredient-22.pngMandrake Root
+10Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
+25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-28330.pngThaumium Ring;FeMa
+2gregtech/gt.metaitem.01-27330.pngThaumium Screw;FeMa
+2gregtech/gt.metaitem.02-24305.pngSteel Spring;Fe\u2085\u2080C
+1Backpack/tannedLeather-0.pngTanned Leather
+2Retrievalwitchery/earmuffs-0.pngEarmuffs;Protection from Mandrakes;Protection: 1;Durability: 55/55
 1

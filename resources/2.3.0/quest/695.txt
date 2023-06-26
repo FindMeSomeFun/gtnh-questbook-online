@@ -4,12 +4,12 @@ No problem, craft a large bronze pipe and place it under the faucet. Make sure t
 
 A hopper and a chest underneath will auto-output products from the casting blocks. 
 
-NOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on...ANDpre351gregtech/gt.metaitem.01-2300.png740TConstruct/Smeltery-0.pngrewardsItemTConstruct/GlassBlock-0.pngClear Glas;Glass-Tier: HV
-16enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDRetrievalgregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pip;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,000 K
-1Optionalgregtech/gt.metaitem.01-17032.pngIron Plat;Fe
-10gregtech/gt.metaitem.02-31032.pngIron Gea;Fe
-2Optionalminecraft/chest-0.pngChes;Burn Time: 300
-4Retrievalminecraft/hopper-0.pngHoppe
+NOTE: Faucets will output precisely 144L each activation if you toggle it off immediately. That's going to have some uses later on...ANDpre351gregtech/gt.metaitem.01-2300.png740TConstruct/Smeltery-0.pngrewardsItemTConstruct/GlassBlock-0.pngClear Glass;Glass-Tier: HV
+16enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalgregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,000 K
+1Optionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
+10gregtech/gt.metaitem.02-31032.pngIron Gear;Fe
+2Optionalminecraft/chest-0.pngChest;Burn Time: 300
+4Retrievalminecraft/hopper-0.pngHopper
 2

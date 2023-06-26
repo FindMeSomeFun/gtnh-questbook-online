@@ -14,11 +14,11 @@ The Hammer allows various functions.
 
 Hammer on door - changes door shape type
 Sneak Hammer on door - Changes from iron to wooden behavior
-Sneak Hammer on lever - Changes polarity (which direction is on/off)ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemCarpentersBlocks/itemCarpentersHammer-0.pngCarpenter''s Hamme
-1CarpentersBlocks/itemCarpentersChisel-0.pngCarpenter''s Chise
-1tasksANDRetrievalCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Bloc;Burn Time: 300
-16RetrievalCarpentersBlocks/blockCarpentersButton-0.pngCarpenter''s Butto
-2CarpentersBlocks/blockCarpentersLever-0.pngCarpenter''s Leve
-2CarpentersBlocks/blockCarpentersPressurePlate-0.pngCarpenter''s Pressure Plat
-2CarpentersBlocks/blockCarpentersGarageDoor-0.pngCarpenter''s Garage Doo;Burn Time: 300
+Sneak Hammer on lever - Changes polarity (which direction is on/off)ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemCarpentersBlocks/itemCarpentersHammer-0.pngCarpenter''s Hammer
+1CarpentersBlocks/itemCarpentersChisel-0.pngCarpenter''s Chisel
+1tasksANDRetrievalCarpentersBlocks/blockCarpentersBlock-0.pngCarpenter''s Block;Burn Time: 300
+16RetrievalCarpentersBlocks/blockCarpentersButton-0.pngCarpenter''s Button
+2CarpentersBlocks/blockCarpentersLever-0.pngCarpenter''s Lever
+2CarpentersBlocks/blockCarpentersPressurePlate-0.pngCarpenter''s Pressure Plate
+2CarpentersBlocks/blockCarpentersGarageDoor-0.pngCarpenter''s Garage Door;Burn Time: 300
 10

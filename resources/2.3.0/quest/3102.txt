@@ -4,9 +4,9 @@ Biodiesel isn't the only thing you get from this process, though. As a side prod
 
 With that said, HV holds a big upgrade to this fuel that you might want to invest in. Keep progressing to check it out!
 
- ANDpre31000gregtech/gt.metaitem.01-30673.png31010gregtech/gt.metaitem.01-30713.png31260gregtech/gt.metaitem.01-2685.pngrewardsItemgregtech/gt.metaitem.01-30627.pngBio Diesel Cel
-32enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDRetrievalgregtech/gt.metaitem.01-30627.pngBio Diesel Cel
+ ANDpre31000gregtech/gt.metaitem.01-30673.png31010gregtech/gt.metaitem.01-30713.png31260gregtech/gt.metaitem.01-2685.pngrewardsItemgregtech/gt.metaitem.01-30627.pngBio Diesel Cell
+32enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-30627.pngBio Diesel Cell
 64

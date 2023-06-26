@@ -1,5 +1,5 @@
-932gregtech/gt.blockmachines-681.png0§9§lAuto Mining HV6-1The HV miner is faster, has longer range, and has more fortune than the previous two. If you want a better one, look in the multiblock tab. It's recommend to take one with you to the Moon to gather meteoric iron.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemIC2/blockMiningPipe-0.pngMining Pip
-64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.blockmachines-681.pngAdvanced Mine;Digging ore instead of you;Use Screwdriver to regulate work area;Use Soft Mallet to disable and retract the pipe;128 EU/t, 2 sec per block, no stuttering;Maximum work area 49x49;Fortune bonus of 3;Voltage IN: 512 (HV);Capacity: 32,768 EU
+932gregtech/gt.blockmachines-681.png0§9§lAuto Mining HV6-1The HV miner is faster, has longer range, and has more fortune than the previous two. If you want a better one, look in the multiblock tab. It's recommend to take one with you to the Moon to gather meteoric iron.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemIC2/blockMiningPipe-0.pngMining Pipe
+64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.blockmachines-681.pngAdvanced Miner;Digging ore instead of you;Use Screwdriver to regulate work area;Use Soft Mallet to disable and retract the pipe;128 EU/t, 2 sec per block, no stuttering;Maximum work area 49x49;Fortune bonus of 3;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

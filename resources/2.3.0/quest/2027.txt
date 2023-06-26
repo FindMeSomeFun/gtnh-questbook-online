@@ -2,9 +2,9 @@
 
 You can get even better efficiency pairing it with a Large Heat Exchanger. The LHE will turn normal vanilla Lava into Pahoehoe Lava, which will provide Steam and byproducts in the Thermal Boiler. Win/Win/Win!
 
-§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemmiscutils/itemLavaFilter-0.pngLava Filte;Filters Lava within a Thermal Boiler.;100 / 100
-3tasksANDRetrievalgregtech/gt.blockmachines-875.pngThermal Boile;Machine Type: Boiler;Thermal Boiler Controller;Converts Water & Heat into Steam;Explodes if water is not supplied;Consult user manual for more information;Causes: 700 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/itemLavaFilter-0.pngLava Filte;Filters Lava within a Thermal Boiler.;100 / 100
-1miscutils/miscutils.blockcasings-3.pngHeat Proof Coke Oven Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1miscutils/miscutils.blockcasings-1.pngStructural Coke Oven Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemmiscutils/itemLavaFilter-0.pngLava Filter;Filters Lava within a Thermal Boiler.;100 / 100
+3tasksANDRetrievalgregtech/gt.blockmachines-875.pngThermal Boiler;Machine Type: Boiler;Thermal Boiler Controller;Converts Water & Heat into Steam;Explodes if water is not supplied;Consult user manual for more information;Causes: 700 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
+1miscutils/itemLavaFilter-0.pngLava Filter;Filters Lava within a Thermal Boiler.;100 / 100
+1miscutils/miscutils.blockcasings-3.pngHeat Proof Coke Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/miscutils.blockcasings-1.pngStructural Coke Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

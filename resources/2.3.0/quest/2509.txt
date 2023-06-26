@@ -1,5 +1,5 @@
-2509appliedenergistics2/item.ItemSpatialStorageCell.2Cubed-0.png0AE Spatial Storage27-1Contains up to a 2^3 area inside it. This is 8 blocks, so if you just want to teleport yourself, you don't need to make the later ones.ANDpre13101appliedenergistics2/item.ItemMultiMaterial-39.png25060appliedenergistics2/item.ItemMultiMaterial-32.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier 
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100
-2tasksANDRetrievalappliedenergistics2/item.ItemSpatialStorageCell.2Cubed-0.png2\u00b3 Spatial Storage Cel
+2509appliedenergistics2/item.ItemSpatialStorageCell.2Cubed-0.png0AE Spatial Storage27-1Contains up to a 2^3 area inside it. This is 8 blocks, so if you just want to teleport yourself, you don't need to make the later ones.ANDpre13101appliedenergistics2/item.ItemMultiMaterial-39.png25060appliedenergistics2/item.ItemMultiMaterial-32.pngrewardsItemdreamcraft/item.PulsatingSpatialCoreChip-0.pngSpatial Circuit Tier I
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
+2tasksANDRetrievalappliedenergistics2/item.ItemSpatialStorageCell.2Cubed-0.png2\u00b3 Spatial Storage Cell
 1

@@ -1,4 +1,4 @@
-2487appliedenergistics2/item.ItemMultiMaterial-61.png0Housing for Advanced Components27-1You need to use this for the higher tiered cells.ANDpre24630dreamcraft/item.EngineeringProcessorItemEmeraldCore-0.pngrewardsItemdreamcraft/item.EmeraldAdvancedCoreChip-0.pngItem Circuit Tier II
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-4tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-61.pngME Advanced Storage Housin
+2487appliedenergistics2/item.ItemMultiMaterial-61.png0Housing for Advanced Components27-1You need to use this for the higher tiered cells.ANDpre24630dreamcraft/item.EngineeringProcessorItemEmeraldCore-0.pngrewardsItemdreamcraft/item.EmeraldAdvancedCoreChip-0.pngItem Circuit Tier III
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+4tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-61.pngME Advanced Storage Housing
 1

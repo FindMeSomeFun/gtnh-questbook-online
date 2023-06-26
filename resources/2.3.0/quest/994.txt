@@ -1,16 +1,16 @@
 994Forestry/factory-2.png0The Centrifuge16-1The Forestry Centrifuge is able to centrifuge up to 9 items out of bee combs. It uses RF energy.
 
-Latter bee combs need the GT one though, so keep that in mind.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11034.pngNickel Ingo;Ni
-8minecraft/redstone-0.pngRedston
-16Forestry/waxCapsule-0.pngWax Capsul
-32enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15dreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1
-15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
-15tasksANDOptionalgregtech/gt.metaitem.01-17310.pngCupronickel Plat;CuNi
-2gregtech/gt.metaitem.01-32600.pngElectric Motor (LV
-2dreamcraft/item.SteelBars-0.pngSteel Bar
-2gregtech/gt.metaitem.02-20305.pngSmall Steel Gea;Fe\u2085\u2080C
-2Forestry/sturdyMachine-0.pngSturdy Casin
-1RetrievalForestry/factory-2.pngCentrifug
+Latter bee combs need the GT one though, so keep that in mind.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoicegregtech/gt.metaitem.01-11034.pngNickel Ingot;Ni
+8minecraft/redstone-0.pngRedstone
+16Forestry/waxCapsule-0.pngWax Capsule
+32enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15dreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
+15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-17310.pngCupronickel Plate;CuNi
+2gregtech/gt.metaitem.01-32600.pngElectric Motor (LV)
+2dreamcraft/item.SteelBars-0.pngSteel Bars
+2gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
+2Forestry/sturdyMachine-0.pngSturdy Casing
+1RetrievalForestry/factory-2.pngCentrifuge
 1

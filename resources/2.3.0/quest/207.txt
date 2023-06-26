@@ -1,4 +1,4 @@
-207openmodularturrets/baseTierThreeBlock-0.png0§a§lTurret Base Tier 414-1Even more range, power and upgrade slots.ANDpre2080openmodularturrets/chamberTierFour-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-1tasksANDRetrievalopenmodularturrets/baseTierThreeBlock-0.pngTurret Base (Tier 4;--Energy--;Max capacity: 500000;Max IO: 1500;--Extras--;2x Addon slots;1x Upgrade slots;Press the attack!
+207openmodularturrets/baseTierThreeBlock-0.png0§a§lTurret Base Tier 414-1Even more range, power and upgrade slots.ANDpre2080openmodularturrets/chamberTierFour-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+1tasksANDRetrievalopenmodularturrets/baseTierThreeBlock-0.pngTurret Base (Tier 4);--Energy--;Max capacity: 500000;Max IO: 1500;--Extras--;2x Addon slots;1x Upgrade slots;Press the attack!
 2

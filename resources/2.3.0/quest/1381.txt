@@ -1,7 +1,7 @@
 1381Thaumcraft/FocusPrimal-0.png0Wand Focus Primal34-1The Wand Focus: Primal will hurl an orb of primal energy while holding right-click with it equipped. The orb explodes on impact, and has a small chance to cause other effects, such as creating taint, or a node at the impact site. Its base vis cost changes every tick.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasur;Click to open or keep to trade
-2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2tasksANDRetrievalThaumcraft/FocusPrimal-0.pngWand Focus: Prima;Vis per cast; Aer x 2.5; Aqua x 1.5; Ignis x 1; Ordo x 1; Perditio x 2; Terra x 1
+This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalThaumcraft/FocusPrimal-0.pngWand Focus: Primal;Vis per cast; Aer x 2.5; Aqua x 1.5; Ignis x 1; Ordo x 1; Perditio x 2; Terra x 1
 1

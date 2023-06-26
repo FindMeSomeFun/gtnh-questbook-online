@@ -1,10 +1,10 @@
-1718gregtech/gt.metaitem.01-11358.png0§b§lYttrium Barium Cuprate8-1Yttrium Barium Cuprate becomes more important in LuV Tier. It needs an EV Mixer to mix and a Electric Blast Furnace with TPV heating coils.ANDpre861gregtech/gt.blockcasings5-3.png2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDOptionalgregtech/gt.metaitem.01-2045.pngYttrium Dus;Y
-5gregtech/gt.metaitem.01-2063.pngBarium Dus;Ba
-10gregtech/gt.metaitem.01-2035.pngCopper Dus;Cu
-15Optionalgregtech/gt.metaitem.01-2358.pngYttrium Barium Cuprate Dus;YBa\u2082Cu\u2083O\u2087
-65Retrievalgregtech/gt.metaitem.01-11358.pngYttrium Barium Cuprate Ingo;YBa\u2082Cu\u2083O\u2087
+1718gregtech/gt.metaitem.01-11358.png0§b§lYttrium Barium Cuprate8-1Yttrium Barium Cuprate becomes more important in LuV Tier. It needs an EV Mixer to mix and a Electric Blast Furnace with TPV heating coils.ANDpre861gregtech/gt.blockcasings5-3.png2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDOptionalgregtech/gt.metaitem.01-2045.pngYttrium Dust;Y
+5gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
+10gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+15Optionalgregtech/gt.metaitem.01-2358.pngYttrium Barium Cuprate Dust;YBa\u2082Cu\u2083O\u2087
+65Retrievalgregtech/gt.metaitem.01-11358.pngYttrium Barium Cuprate Ingot;YBa\u2082Cu\u2083O\u2087
 65

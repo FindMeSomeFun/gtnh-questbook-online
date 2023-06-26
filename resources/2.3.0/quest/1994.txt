@@ -1,7 +1,7 @@
-1994ThaumicMachina/wandAugmentationCore-0.png0Vis Channels32-1This wand augment will lower the vis cost when using your wand by 10 percent. I'm not sure it works, but give it a try and report back, ok?ANDpre19920ThaumicMachina/wandAugmentationCore-0.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-2tasksANDRetrievalThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Cor
-1Thaumcraft/ItemResource-3.pngQuicksilve
-2Thaumcraft/ItemResource-14.pngSalis Mundu
-1Thaumcraft/ItemResource-15.pngPrimal Char;You think you hear whispering
-1Thaumcraft/ItemResource-2.pngThaumium Ingo
+1994ThaumicMachina/wandAugmentationCore-0.png0Vis Channels32-1This wand augment will lower the vis cost when using your wand by 10 percent. I'm not sure it works, but give it a try and report back, ok?ANDpre19920ThaumicMachina/wandAugmentationCore-0.pngrewardsItemenhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+2tasksANDRetrievalThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Core
+1Thaumcraft/ItemResource-3.pngQuicksilver
+2Thaumcraft/ItemResource-14.pngSalis Mundus
+1Thaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
+1Thaumcraft/ItemResource-2.pngThaumium Ingot
 1

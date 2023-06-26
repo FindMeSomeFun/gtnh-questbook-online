@@ -2,6 +2,6 @@
 
 Given as much, this is not a task for the very start of EV. It's recommended that you automate your Titanium processing line before you attempt this, because the Chemical Plant is going to grind your manual patience otherwise. If you already have a lot of that, everything else should be much simpler.
 
-(You will need a lot more than a stack. This is just to get you started.)ORpre1761gregtech/gt.blockmachines-14.png31140gregtech/gt.metaitem.01-30675.pngrewardsItemgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1tasksANDRetrievalgregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
+(You will need a lot more than a stack. This is just to get you started.)ORpre1761gregtech/gt.blockmachines-14.png31140gregtech/gt.metaitem.01-30675.pngrewardsItemgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1tasksANDRetrievalgregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
 64

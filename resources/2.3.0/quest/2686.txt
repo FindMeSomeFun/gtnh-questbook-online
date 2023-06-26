@@ -1,6 +1,6 @@
 2686miscutils/RocketFuelMixD-0.png1Dense Hydrazine24-1Dense Hydrazine is needed starting from rocket tier 3, so you should make some if you want to keep exploring space.
 
-It's a T5 240 EU/t recipe, so you'll need to build Chemical Plant out of Titanium and HV Machine Casings.ANDpre23940miscutils/Hydrazine-0.pngrewardstasksANDOptionalmiscutils/Hydrazine-0.pnghydrazine Cel
-4gregtech/gt.metaitem.01-30673.pngMethanol Cel;CH\u2084O
-6Retrievalmiscutils/RocketFuelMixD-0.pngDense Hydrazine Fuel Mixture Cel;Can be used as rocket fuel up to tier 4
+It's a T5 240 EU/t recipe, so you'll need to build Chemical Plant out of Titanium and HV Machine Casings.ANDpre23940miscutils/Hydrazine-0.pngrewardstasksANDOptionalmiscutils/Hydrazine-0.pnghydrazine Cell
+4gregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
+6Retrievalmiscutils/RocketFuelMixD-0.pngDense Hydrazine Fuel Mixture Cell;Can be used as rocket fuel up to tier 4
 10

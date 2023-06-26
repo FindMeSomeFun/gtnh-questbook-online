@@ -6,17 +6,17 @@ The Brew of Love may be thrown at a group of two or more enthralled zombies (cre
 
 The Brew of Love is created in a kettle using the recipe found in the book Witchcraft: Brews & Infusions. Into the pot, throw a Rose, a Golden Carrot, Whiff of Magic, a Lily Pad, a Water Artichoke Globe and Cocoa Beans.
 
-Wear a Witches Hat (and/or robes) while brewing to get more brews than just three.ANDpre3360witchery/kettle-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottl
-16witchery/ingredient-27.pngClay Ja
-64enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10
-5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDOptionalminecraft/red_flower-0.pngPopp
-1minecraft/golden_carrot-0.pngGolden Carro;minecraft:golden_carrot
-1minecraft/waterlily-0.pngLily Pa
-1witchery/ingredient-69.pngWater Artichoke Glob
-1minecraft/dye-3.pngCocoa Bean
-1witchery/ingredient-34.pngWhiff of Magi
-1Retrievalwitchery/ingredient-75.pngBrew of Lov
+Wear a Witches Hat (and/or robes) while brewing to get more brews than just three.ANDpre3360witchery/kettle-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
+16witchery/ingredient-27.pngClay Jar
+64enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDOptionalminecraft/red_flower-0.pngPoppy
+1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
+1minecraft/waterlily-0.pngLily Pad
+1witchery/ingredient-69.pngWater Artichoke Globe
+1minecraft/dye-3.pngCocoa Beans
+1witchery/ingredient-34.pngWhiff of Magic
+1Retrievalwitchery/ingredient-75.pngBrew of Love
 3

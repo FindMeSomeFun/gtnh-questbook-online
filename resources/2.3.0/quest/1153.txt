@@ -2,9 +2,9 @@
 
 With redstone you can make your bow faster. This requires a free modifier slot on your crossbow.
 
-Don't bother putting Nether Quartz on the crossbow, it only improves damage from whacking mobs over the head with it. Put the Nether Quartz on your bolts instead.ANDpre11520TConstruct/bowstring-2.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDOptionalgregtech/gt.metaitem.01-11382.pngArdite Ingo;Ai
-5RetrievalTConstruct/CrossbowBodyPart-11.pngArdite Crossbow Bod;Stonebound [Modifier: 2];Durability: 455;Draw Speed: 2.75s;Arrow Speed: 4.9;Parts can be replaced
+Don't bother putting Nether Quartz on the crossbow, it only improves damage from whacking mobs over the head with it. Put the Nether Quartz on your bolts instead.ANDpre11520TConstruct/bowstring-2.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDOptionalgregtech/gt.metaitem.01-11382.pngArdite Ingot;Ai
+5RetrievalTConstruct/CrossbowBodyPart-11.pngArdite Crossbow Body;Stonebound [Modifier: 2];Durability: 455;Draw Speed: 2.75s;Arrow Speed: 4.9;Parts can be replaced
 1

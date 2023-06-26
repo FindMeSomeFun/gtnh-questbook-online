@@ -1,4 +1,4 @@
-2478ae2fc/fluid_part-0.png01k Fluid Component27-1They work the same as the item one, but hold fluids.ANDpre24770dreamcraft/item.EngineeringProcessorFluidDiamondCore-0.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier 
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2tasksANDRetrievalae2fc/fluid_part-0.png1k ME Fluid Storage Componen
+2478ae2fc/fluid_part-0.png01k Fluid Component27-1They work the same as the item one, but hold fluids.ANDpre24770dreamcraft/item.EngineeringProcessorFluidDiamondCore-0.pngrewardsItemdreamcraft/item.DiamondFluidCoreChip-0.pngFluid Circuit Tier I
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2tasksANDRetrievalae2fc/fluid_part-0.png1k ME Fluid Storage Component
 1

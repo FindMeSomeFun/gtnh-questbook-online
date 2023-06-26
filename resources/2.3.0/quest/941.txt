@@ -6,8 +6,8 @@ It can scan machines from GregTech, giving information about current progress, t
 
 For any block in the game it scans, it gives information about its ID, Metadata, position in the world and hardness value. It also gives information about pollution level in the chunk the scanned block belongs to.
 
-In addition it shows when the cleanroom has reached its 100 percent efficieny level.ANDpre771gregtech/gt.blockmachines-1000.png14770gregtech/gt.metaitem.01-32691.png14781gregtech/gt.metaitem.01-32681.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-8;If you can''t fix it with this, use more of it!
-5Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalgregtech/gt.metaitem.01-32762.pngPortable Scanne;Tricorder;0 / 400,000 EU - Voltage: 128;Can scan Blocks in World
+In addition it shows when the cleanroom has reached its 100 percent efficieny level.ANDpre771gregtech/gt.blockmachines-1000.png14770gregtech/gt.metaitem.01-32691.png14781gregtech/gt.metaitem.01-32681.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84;If you can''t fix it with this, use more of it!
+5Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalgregtech/gt.metaitem.01-32762.pngPortable Scanner;Tricorder;0 / 400,000 EU - Voltage: 128;Can scan Blocks in World
 1

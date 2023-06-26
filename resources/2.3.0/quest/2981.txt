@@ -27,17 +27,17 @@ To cycle between the modes, right click on the controller with a screwdriver.
 
 To know if an Absorption Filter is present and how many remaining cycles there are, use an portable scanner on the controller.
 
-§9§rA pollution cycle lasts 10s, and the cleaning is done every second.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-3gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-8;If you can''t fix it with this, use more of it!
-1dreamcraft/item.AdsorptionFilter-0.pngAbsorption Filte
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-75tasksANDRetrievalgregtech/gt.blockmachines-12020.pngElectric Air Filter T;Machine Type: Air Filter;Controller block for the Electric Air Filter T1;Needs a Turbine in the controller;Add Absorption Filter in input bus to double efficiency (30 uses per item);Machine tier = Maximum effective Muffler tier;Can process 3x3 chunks;Each muffler reduce pollution by 30.0 * bonusMultiTier * turbineEff * multiEff * Floor(2.5^effectiveTier) every second;The value of bonusMultiTier for this controller is: 1.0;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GTNH Coremod
-1Optionaldreamcraft/gt.blockcasingsNH-1.pngAir Filter Vent Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-8dreamcraft/gt.blockcasingsNH-0.pngAir Filter Turbine Casin;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-13Optionalgregtech/gt.blockmachines-71.pngInput Bus (LV;Item Input for Multiblocks;Shift + right click with screwdriver to turn Sort mode on/off;Capacity: 4 stacks
-1gregtech/gt.blockmachines-81.pngOutput Bus (LV;Item Output for Multiblocks;Capacity: 4 stacks
-1Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatc;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1gregtech/gt.blockmachines-91.pngMuffler Hatch (LV;Outputs the Pollution (Might cause ... things);DO NOT OBSTRUCT THE OUTPUT!;Reduces Pollution to 100%;Recovers 0% of CO2/CO/SO2
-8Optionalgregtech/gt.blockmachines-41.pngLV Energy Hatc;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 32 (LV);Capacity: 768 EU
-1Optionalgregtech/gt.metatool.01-170.pngSmall Turbin;Durability: 0 / 0;NULL lvl 0;Turbine Efficiency: 50.0%;Optimal Steam flow: 50 L/t;Energy from Optimal Steam Flow: 12 EU/t;Turbine Efficiency (Loose): 45%;Optimal Steam flow (Loose): 200 L/t;Energy from Optimal Steam Flow (Loose): 45 EU/t;(Superheated Steam EU values are 2x those of Steam);Energy from Optimal Gas Flow: 25 EU/t;Energy from Optimal Plasma Flow: 1,050 EU/t;Overflow Efficiency Tier: 1;Turbine Rotors for your power station;(EU/t values include efficiency and are not 100% accurate)
+§9§rA pollution cycle lasts 10s, and the cleaning is done every second.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+3gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84;If you can''t fix it with this, use more of it!
+1dreamcraft/item.AdsorptionFilter-0.pngAbsorption Filter
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+75tasksANDRetrievalgregtech/gt.blockmachines-12020.pngElectric Air Filter T1;Machine Type: Air Filter;Controller block for the Electric Air Filter T1;Needs a Turbine in the controller;Add Absorption Filter in input bus to double efficiency (30 uses per item);Machine tier = Maximum effective Muffler tier;Can process 3x3 chunks;Each muffler reduce pollution by 30.0 * bonusMultiTier * turbineEff * multiEff * Floor(2.5^effectiveTier) every second;The value of bonusMultiTier for this controller is: 1.0;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GTNH Coremod
+1Optionaldreamcraft/gt.blockcasingsNH-1.pngAir Filter Vent Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8dreamcraft/gt.blockcasingsNH-0.pngAir Filter Turbine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+13Optionalgregtech/gt.blockmachines-71.pngInput Bus (LV);Item Input for Multiblocks;Shift + right click with screwdriver to turn Sort mode on/off;Capacity: 4 stacks
+1gregtech/gt.blockmachines-81.pngOutput Bus (LV);Item Output for Multiblocks;Capacity: 4 stacks
+1Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-91.pngMuffler Hatch (LV);Outputs the Pollution (Might cause ... things);DO NOT OBSTRUCT THE OUTPUT!;Reduces Pollution to 100%;Recovers 0% of CO2/CO/SO2
+8Optionalgregtech/gt.blockmachines-41.pngLV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 32 (LV);Capacity: 768 EU
+1Optionalgregtech/gt.metatool.01-170.pngSmall Turbine;Durability: 0 / 0;NULL lvl 0;Turbine Efficiency: 50.0%;Optimal Steam flow: 50 L/t;Energy from Optimal Steam Flow: 12 EU/t;Turbine Efficiency (Loose): 45%;Optimal Steam flow (Loose): 200 L/t;Energy from Optimal Steam Flow (Loose): 45 EU/t;(Superheated Steam EU values are 2x those of Steam);Energy from Optimal Gas Flow: 25 EU/t;Energy from Optimal Plasma Flow: 1,050 EU/t;Overflow Efficiency Tier: 1;Turbine Rotors for your power station;(EU/t values include efficiency and are not 100% accurate)
 1

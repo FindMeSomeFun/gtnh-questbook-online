@@ -6,7 +6,7 @@ What's the final EU/t output, at 150% turbine efficiency? 30240 and 31680 EU/t, 
 
 After automating the nuke itself, there is still more to do, though. The LHE is required, as usual, but these setups cause something new to happen: the LHE starts outputting Superheated Steam, due to the high flow of hot coolant that it receives, which means that you need two sets of turbines instead of one. This type of steam must go into Large HP Steam Turbines, which use a good amount of Tungstensteel for the controller and stacks of Titanium for the casings. After those, it goes into the usual Large Steam Turbines, and the process is complete.
 
-There is yet another new thing to worry about, in case all of this wasn't enough: the Steam flow is very high, higher than before, which means it's likely you will need 3 or more of each turbine type, further compounding on the costs you'll have here. Oriharukon and MAR-Ce-M200 are your best choices. Are you willing to tackle this setup?ANDpre31560gregtech/gt.blockmachines-1154.pngrewardstasksANDOptionalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium;100 / 100;Durability: 50,000/50,000
-8Optionalgregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod (Uranium;100 / 100;Durability: 20,000/20,000
-3gregtech/gt.reactorUraniumDual-0.pngDual Fuel Rod (Uranium;100 / 100;Durability: 20,000/20,000
+There is yet another new thing to worry about, in case all of this wasn't enough: the Steam flow is very high, higher than before, which means it's likely you will need 3 or more of each turbine type, further compounding on the costs you'll have here. Oriharukon and MAR-Ce-M200 are your best choices. Are you willing to tackle this setup?ANDpre31560gregtech/gt.blockmachines-1154.pngrewardstasksANDOptionalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium);100 / 100;Durability: 50,000/50,000
+8Optionalgregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod (Uranium);100 / 100;Durability: 20,000/20,000
+3gregtech/gt.reactorUraniumDual-0.pngDual Fuel Rod (Uranium);100 / 100;Durability: 20,000/20,000
 1Retrieval

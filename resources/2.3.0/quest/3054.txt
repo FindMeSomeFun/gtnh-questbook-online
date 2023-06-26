@@ -1,8 +1,8 @@
 3054bartworks/gt.bwMetaGenerateddust-11020.png1§b§lNow for Nitration8-1For the next step you'll need ammonium nitrate (again with the nitric acid!) and your diluted monazite sulfate.
 You'll need to do this in an LCR.
 
-The resulting fluid simply vanishes into the void. Best not to worry about it.ANDpre30531bartworks/gt.bwMetaGeneratedcell-11016.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000
-1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11016.pngDiluted Monazite Sulfate Cel;??LaNd??;Added by GTNH: Lanthanides via BartWorks
-45bartworks/gt.bwMetaGeneratedcell-11036.pngAmmonium Nitrate Solution Cel;NH\u2084NO\u2083;Added by GTNH: Lanthanides via BartWorks
-9Retrievalbartworks/gt.bwMetaGenerateddust-11020.pngAcidic Monazite Powder Dus;????;Added by GTNH: Lanthanides via BartWorks
+The resulting fluid simply vanishes into the void. Best not to worry about it.ANDpre30531bartworks/gt.bwMetaGeneratedcell-11016.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11016.pngDiluted Monazite Sulfate Cell;??LaNd??;Added by GTNH: Lanthanides via BartWorks
+45bartworks/gt.bwMetaGeneratedcell-11036.pngAmmonium Nitrate Solution Cell;NH\u2084NO\u2083;Added by GTNH: Lanthanides via BartWorks
+9Retrievalbartworks/gt.bwMetaGenerateddust-11020.pngAcidic Monazite Powder Dust;????;Added by GTNH: Lanthanides via BartWorks
 15

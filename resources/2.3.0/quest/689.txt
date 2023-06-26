@@ -1,11 +1,11 @@
-689minecraft/diamond_chestplate-0.png0"Ooo, Shiny" Armor14-1Diamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsChoiceTConstruct/diamondApple-0.pngJeweled Appl;TConstruct:diamondApple
-1gregtech/gt.metaitem.02-29500.pngFlawless Diamon;C
-2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plat;C
-24Craftingminecraft/diamond_helmet-0.pngDiamond Helme;Protection: 3;Durability: 363/363
-1minecraft/diamond_chestplate-0.pngDiamond Chestplat;Protection: 8;Durability: 528/528
-1minecraft/diamond_leggings-0.pngDiamond Legging;Protection: 6;Durability: 495/495
-1minecraft/diamond_boots-0.pngDiamond Boot;Protection: 3;Durability: 429/429
+689minecraft/diamond_chestplate-0.png0"Ooo, Shiny" Armor14-1Diamond armor is the best armor in Vanilla Minecraft, but over here there are much better armors available.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsChoiceTConstruct/diamondApple-0.pngJeweled Apple;TConstruct:diamondApple
+1gregtech/gt.metaitem.02-29500.pngFlawless Diamond;C
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+24Craftingminecraft/diamond_helmet-0.pngDiamond Helmet;Protection: 3;Durability: 363/363
+1minecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
+1minecraft/diamond_leggings-0.pngDiamond Leggings;Protection: 6;Durability: 495/495
+1minecraft/diamond_boots-0.pngDiamond Boots;Protection: 3;Durability: 429/429
 1

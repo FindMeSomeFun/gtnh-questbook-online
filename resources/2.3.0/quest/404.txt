@@ -1,6 +1,6 @@
-404witchery/ingredient-23.png0Kill Demon39-1Demons are powerful, evil beings who dwell in the infernal dimensions. To date, none have been seen roaming the Nether, where their minions: ghasts, blazes and their ilk seem to dominate. To meet a demon without a way to protect oneself is almost certain death. They are known to hit like a proverbial truck, and require a significant amount of damage to kill. Some demons have even been seen shooting fireballs! They are, of course, also immune to fire.ANDpre3450witchery/seepingshoes-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch;Your luck is increased by 100 %;Fortune III
-1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000
-1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000
-1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000
+404witchery/ingredient-23.png0Kill Demon39-1Demons are powerful, evil beings who dwell in the infernal dimensions. To date, none have been seen roaming the Nether, where their minions: ghasts, blazes and their ilk seem to dominate. To meet a demon without a way to protect oneself is almost certain death. They are known to hit like a proverbial truck, and require a significant amount of damage to kill. Some demons have even been seen shooting fireballs! They are, of course, also immune to fire.ANDpre3450witchery/seepingshoes-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch);Your luck is increased by 100 %;Fortune III
+1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
+1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1tasksANDHuntmobs/witchery-demon-.pngDemon
 1

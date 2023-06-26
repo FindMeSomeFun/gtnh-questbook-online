@@ -1,3 +1,3 @@
-1769OpenComputers/item-8.png0Purchase Tier 1 Graphics Card2672000I'll sell you a Tier 1 Graphics Card for four Bitcoins.ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-8.pngGraphics Card (Tier 1;Tier 1
-1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1769OpenComputers/item-8.png0Purchase Tier 1 Graphics Card2672000I'll sell you a Tier 1 Graphics Card for four Bitcoins.ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-8.pngGraphics Card (Tier 1);Tier 1
+1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
 4

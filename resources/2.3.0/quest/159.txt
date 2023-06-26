@@ -1,6 +1,6 @@
-159openmodularturrets/incendiaryTurret-0.png0§6§lBurn Them. Burn Them All!14-1Hmmm, crispy bacon. What would happen if you enable neutral mobs as targeting...?ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1openmodularturrets/blazingClayCraftable-0.pngAmmo - Blazing Cla
-16Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalopenmodularturrets/incendiaryTurret-0.pngIncendiary Turre;--Info--;Tier: 2;Range (in blocks): 12;Accuracy: Medium;Ammo Type: Blazing Clay;Base Minimum Tier: Tier 2 Turret Base;--Damage Output--;Projectile Damage: 2.5 Hearts;AOE Radius: 5;Shots/s: 0.8;Energy usage per shot: 250 RF;Flaming Disjuncture.;Glass-Tier: HV
+159openmodularturrets/incendiaryTurret-0.png0§6§lBurn Them. Burn Them All!14-1Hmmm, crispy bacon. What would happen if you enable neutral mobs as targeting...?ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1openmodularturrets/blazingClayCraftable-0.pngAmmo - Blazing Clay
+16Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalopenmodularturrets/incendiaryTurret-0.pngIncendiary Turret;--Info--;Tier: 2;Range (in blocks): 12;Accuracy: Medium;Ammo Type: Blazing Clay;Base Minimum Tier: Tier 2 Turret Base;--Damage Output--;Projectile Damage: 2.5 Hearts;AOE Radius: 5;Shots/s: 0.8;Energy usage per shot: 250 RF;Flaming Disjuncture.;Glass-Tier: HV
 1

@@ -1,7 +1,7 @@
-2846TwilightForest/item.oreMagnet-0.png0Time to Kill (Pinch Beetle)39432000Pinch Beetles have 20 hearts worth of health and can hit for 4 hearts of damage when grabbed. They can be found in the largest Hollow Hills, Labyrinths, and in Dark Towers. Pinch Beetles charge at you and grab your body. When in this situation you want to quickly attack and kill them. They are very fast and can be extremely dangerous when near lava, a cliff, or other enemies. Pinch beetles can suffocate you if the ceiling is too low.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+2846TwilightForest/item.oreMagnet-0.png0Time to Kill (Pinch Beetle)39432000Pinch Beetles have 20 hearts worth of health and can hit for 4 hearts of damage when grabbed. They can be found in the largest Hollow Hills, Labyrinths, and in Dark Towers. Pinch Beetles charge at you and grab your body. When in this situation you want to quickly attack and kill them. They are very fast and can be extremely dangerous when near lava, a cliff, or other enemies. Pinch beetles can suffocate you if the ceiling is too low.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDHuntmobs/TwilightForest-Pinch Beetle-.pngPinch Beetle
 20

@@ -1,4 +1,4 @@
-2043gregtech/gt.Volumetric_Flask-0.png0§6§lBorax Electrolyzing5-1Now that you have an MV Electrolyzer, you can extract Boron from Borax. This element is used later on for Borosilicate Glass and fiber, but for now you can use it to make some volumetric flasks to hold precise amounts. This is handy for recipes that may only need a tiny amount of a substance, like 1L.ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemgregtech/gt.Volumetric_Flask-0.pngVolumetric flas;< Empty, 1,000 mB >;Rightclick on air to set volume (only while empty)
-3tasksANDOptionalgregtech/gt.metaitem.01-2009.pngBoron Dus;B
-1Retrievalgregtech/gt.Volumetric_Flask-0.pngVolumetric flas;< Empty, 1,000 mB >;Rightclick on air to set volume (only while empty)
+2043gregtech/gt.Volumetric_Flask-0.png0§6§lBorax Electrolyzing5-1Now that you have an MV Electrolyzer, you can extract Boron from Borax. This element is used later on for Borosilicate Glass and fiber, but for now you can use it to make some volumetric flasks to hold precise amounts. This is handy for recipes that may only need a tiny amount of a substance, like 1L.ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemgregtech/gt.Volumetric_Flask-0.pngVolumetric flask;< Empty, 1,000 mB >;Rightclick on air to set volume (only while empty)
+3tasksANDOptionalgregtech/gt.metaitem.01-2009.pngBoron Dust;B
+1Retrievalgregtech/gt.Volumetric_Flask-0.pngVolumetric flask;< Empty, 1,000 mB >;Rightclick on air to set volume (only while empty)
 1

@@ -2,5 +2,5 @@
 
 What, the UHV superconductor? Didn't you already make that?
 
-§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.ANDpre26161gregtech/gt.blockmachines-19.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2020.png1x Superconductor UHV Wir;Max Voltage: 2,097,152 (UHV);Max Amperage: 48;Loss/Meter/Ampere: 0 EU-Volt
+§4If you forgot, you get a heat adjustment when using the EBF based on the energy tier. So you can smelt the Base UHV Ingot with Fluxed Coils and UV energy, since you then get 10501K. And no, you can't use a Volcanus.ANDpre26161gregtech/gt.blockmachines-19.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2020.png1x Superconductor UHV Wire;Max Voltage: 2,097,152 (UHV);Max Amperage: 48;Loss/Meter/Ampere: 0 EU-Volt
 24

@@ -4,9 +4,9 @@ It's pretty much magic, really. Carbon Monoxide (CO) is a valid fuel for Gas Tur
 
 Your target is Sugar, since electrolyzing it will output Oxygen at almost 1000 EU per bucket. Each bucket of CO produces 24000 EU, made from one Charcoal that produces roughly 16000 EU in Steam, and costing 560 EU per craft. The whole process gives around 6000 EU of free power per Charcoal, around 30% extra power overall!
 
-To get automated Sugar from crops, you want Sugar Beets. Sugar Canes do the same thing, but with more EU cost to get the Sugar. There are other possible ways but, for now, just get loads of Sugar.  ANDpre30960Railcraft/machine.alpha-7.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1IC2/itemCellEmpty-0.pngEmpty Cel
-16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-2dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-3tasksANDRetrievalminecraft/sugar-0.pngSuga
+To get automated Sugar from crops, you want Sugar Beets. Sugar Canes do the same thing, but with more EU cost to get the Sugar. There are other possible ways but, for now, just get loads of Sugar.  ANDpre30960Railcraft/machine.alpha-7.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1IC2/itemCellEmpty-0.pngEmpty Cell
+16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+2dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+3tasksANDRetrievalminecraft/sugar-0.pngSugar
 256

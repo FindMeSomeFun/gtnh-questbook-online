@@ -1,7 +1,7 @@
 346witchery/poppet-0.png0Poppets36-1Get a poppet and make the type you like with it to protect you against that thing. We recommend the death protection one.
 
-Consider making the poppet shelf so you don't need to carry a bunch of them around with you. It needs to be chunkloaded to work.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/taglockkit-0.pngTaglock Ki;Not bound
-2Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDRetrievalwitchery/poppet-0.pngPoppe;Not bound
+Consider making the poppet shelf so you don't need to carry a bunch of them around with you. It needs to be chunkloaded to work.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/taglockkit-0.pngTaglock Kit;Not bound
+2Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalwitchery/poppet-0.pngPoppet;Not bound
 1

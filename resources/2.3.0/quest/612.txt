@@ -1,8 +1,8 @@
-612gregtech/gt.metaitem.01-32510.png0Single Use Battery: Acid20-1Mercury and acid Batteries are single-use batteries. They are crafted fully charged but cannot be re-charged. Once their stored energy is depleted, they can be placed in an extractor to be converted back into small battery hulls.ANDpre6091gregtech/gt.metaitem.01-32500.png6180gregtech/gt.metaitem.01-30720.pngrewardsChoicegregtech/gt.metaitem.01-30720.pngSulfuric Acid Cel;H\u2082SO\u2084
-2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dus;Pb\u2084Sb
-4gregtech/gt.blockmachines-1246.png1x Tin Cabl;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalgregtech/gt.metaitem.01-32510.pngSmall Acid Batter;Single Use;18,000 / 18,000 EU - Voltage: 32;LV-Tier
+612gregtech/gt.metaitem.01-32510.png0Single Use Battery: Acid20-1Mercury and acid Batteries are single-use batteries. They are crafted fully charged but cannot be re-charged. Once their stored energy is depleted, they can be placed in an extractor to be converted back into small battery hulls.ANDpre6091gregtech/gt.metaitem.01-32500.png6180gregtech/gt.metaitem.01-30720.pngrewardsChoicegregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dust;Pb\u2084Sb
+4gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.metaitem.01-32510.pngSmall Acid Battery;Single Use;18,000 / 18,000 EU - Voltage: 32;LV-Tier
 1

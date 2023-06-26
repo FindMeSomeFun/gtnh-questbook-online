@@ -1,4 +1,4 @@
-1269gregtech/gt.blockmachines-12001.png0Low Voltage Power Transformer20-1If you need even more amps then craft a power transformer. This one is 16A -> 64A. The soft mallet is still how you change modes.ANDpre12680gregtech/gt.blockmachines-878.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-25tasksANDRetrievalgregtech/gt.blockmachines-12001.pngLow Voltage Power Transforme;MV -> LV (Use Soft Mallet to invert);Accepts 16A and outputs 64A;TecTech: Interdimensional;Voltage IN: 128 (MV);Voltage OUT: 32 (LV);Amperage: 64;Capacity: 16,896 EU
+1269gregtech/gt.blockmachines-12001.png0Low Voltage Power Transformer20-1If you need even more amps then craft a power transformer. This one is 16A -> 64A. The soft mallet is still how you change modes.ANDpre12680gregtech/gt.blockmachines-878.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+25tasksANDRetrievalgregtech/gt.blockmachines-12001.pngLow Voltage Power Transformer;MV -> LV (Use Soft Mallet to invert);Accepts 16A and outputs 64A;TecTech: Interdimensional;Voltage IN: 128 (MV);Voltage OUT: 32 (LV);Amperage: 64;Capacity: 16,896 EU
 1

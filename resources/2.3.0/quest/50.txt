@@ -2,7 +2,7 @@
 
 The macerator will double your ore output. Put ores through it instead of smelting directly.
 
-NOTE: Remember, don't block the output port and don't stand behind it.ANDpre381TConstruct/pickaxe-0-356.png491minecraft/piston-0.pngrewardsItemharvestcraft/jellybeansItem-0.pngJellybean;harvestcraft:jellybeansItem
-3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDCraftinggregtech/gt.blockmachines-106.pngSteam Macerato;Macerating your Ores
+NOTE: Remember, don't block the output port and don't stand behind it.ANDpre381TConstruct/pickaxe-0-356.png491minecraft/piston-0.pngrewardsItemharvestcraft/jellybeansItem-0.pngJellybeans;harvestcraft:jellybeansItem
+3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDCraftinggregtech/gt.blockmachines-106.pngSteam Macerator;Macerating your Ores
 1

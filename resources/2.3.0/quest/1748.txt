@@ -1,10 +1,10 @@
 1748OpenComputers/item-27.png0Arithmetic Logic Circuits26-1The Arithmetic Logic Circuits are used in numerous parts;  mostly in groups of 8-16, up to 64.
    
-So be sure to make plenty.ANDpre17450OpenComputers/item-48.pngrewardsChoiceOpenComputers/item-27.pngArithmetic Logic Unit (ALU
-4OpenComputers/item-24.pngMicrochip (Tier 1
-1Itemenhancedlootbags/lootbag-45.pngLootBag (Computer Floppies;You feel that a bit more "Fortune" might be a good idea...
-1miscutils/itemGenericToken-0.pngBitCoi;Can be reclaimed in some way, shape or form;Can be used on the dark web
-1tasksANDOptionalgregtech/gt.metaitem.03-32037.pngIntegrated Logic Circui;Integrated Circuit
-64gregtech/gt.metaitem.03-32106.pngPlastic Circuit Boar;A good Board
-4RetrievalOpenComputers/item-27.pngArithmetic Logic Unit (ALU
+So be sure to make plenty.ANDpre17450OpenComputers/item-48.pngrewardsChoiceOpenComputers/item-27.pngArithmetic Logic Unit (ALU)
+4OpenComputers/item-24.pngMicrochip (Tier 1)
+1Itemenhancedlootbags/lootbag-45.pngLootBag (Computer Floppies);You feel that a bit more "Fortune" might be a good idea...
+1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1tasksANDOptionalgregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
+64gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+4RetrievalOpenComputers/item-27.pngArithmetic Logic Unit (ALU)
 4

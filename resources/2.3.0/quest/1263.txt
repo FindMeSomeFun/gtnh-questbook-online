@@ -1,10 +1,10 @@
-1263gregtech/gt.metaitem.01-11349.png0§a§lBlue Steel7-1Sunnarium batteries are made out of blue steel: a mixture of steel, black steel, brass and rose gold.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Shee;CH\u2082
-8gregtech/gt.metaitem.01-11028.pngTitanium Ingo;Ti
-4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-1tasksANDOptionalgregtech/gt.metaitem.01-2305.pngSteel Dus;Fe\u2085\u2080C
-2gregtech/gt.metaitem.01-2334.pngBlack Steel Dus;Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083
-4gregtech/gt.metaitem.01-2301.pngBrass Dus;ZnCu\u2083
-1gregtech/gt.metaitem.01-2351.pngRose Gold Dus;CuAu\u2084
-1Retrievalgregtech/gt.metaitem.01-11349.pngBlue Steel Ingo;(CuAu\u2084)(ZnCu\u2083)(Fe\u2085\u2080C)\u2082(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)\u2084
+1263gregtech/gt.metaitem.01-11349.png0§a§lBlue Steel7-1Sunnarium batteries are made out of blue steel: a mixture of steel, black steel, brass and rose gold.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
+8gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+1tasksANDOptionalgregtech/gt.metaitem.01-2305.pngSteel Dust;Fe\u2085\u2080C
+2gregtech/gt.metaitem.01-2334.pngBlack Steel Dust;Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083
+4gregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+1gregtech/gt.metaitem.01-2351.pngRose Gold Dust;CuAu\u2084
+1Retrievalgregtech/gt.metaitem.01-11349.pngBlue Steel Ingot;(CuAu\u2084)(ZnCu\u2083)(Fe\u2085\u2080C)\u2082(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)\u2084
 8

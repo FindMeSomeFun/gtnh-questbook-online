@@ -1,10 +1,10 @@
-1187Railcraft/track-816-speed.png0The Transcontinental Railroad - High-Speed14-1Did you ever dream of driving in a railcart at high speeds? Well your dreams can come true with the high speed tracks. Be careful though; you need to lower the speed when your rails change direction or when the track ends.ANDpre771gregtech/gt.blockmachines-1000.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-816-speed.pngH.S. Trac;Dangerous;More than twice as fast as normal track;Requires Boosters/Transitions to reach speed;Cannot make corners at High Speed
-16Railcraft/part.rail-3.pngH.S. Rai
-32Railcraft/part.railbed-1.pngStone Railbe
-32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalRailcraft/track-816-speed.pngH.S. Trac;Dangerous;More than twice as fast as normal track;Requires Boosters/Transitions to reach speed;Cannot make corners at High Speed
-64RetrievalRailcraft/track-0-speed-boost.pngH.S. Booster Trac;Dangerous;More than twice as fast as normal track;Maintains High Speed;- Apply Redstone to boost -
-16Railcraft/track-26865-speed-transition.pngH.S. Transition Trac;Dangerous;More than twice as fast as normal track;Transitions to/from High Speed;- Apply Redstone to boost -
+1187Railcraft/track-816-speed.png0The Transcontinental Railroad - High-Speed14-1Did you ever dream of driving in a railcart at high speeds? Well your dreams can come true with the high speed tracks. Be careful though; you need to lower the speed when your rails change direction or when the track ends.ANDpre771gregtech/gt.blockmachines-1000.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-816-speed.pngH.S. Track;Dangerous;More than twice as fast as normal track;Requires Boosters/Transitions to reach speed;Cannot make corners at High Speed
+16Railcraft/part.rail-3.pngH.S. Rail
+32Railcraft/part.railbed-1.pngStone Railbed
+32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalRailcraft/track-816-speed.pngH.S. Track;Dangerous;More than twice as fast as normal track;Requires Boosters/Transitions to reach speed;Cannot make corners at High Speed
+64RetrievalRailcraft/track-0-speed-boost.pngH.S. Booster Track;Dangerous;More than twice as fast as normal track;Maintains High Speed;- Apply Redstone to boost -
+16Railcraft/track-26865-speed-transition.pngH.S. Transition Track;Dangerous;More than twice as fast as normal track;Transitions to/from High Speed;- Apply Redstone to boost -
 16

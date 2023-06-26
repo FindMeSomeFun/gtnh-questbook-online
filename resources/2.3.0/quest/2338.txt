@@ -4,11 +4,11 @@ They will appear occasionally when trees such as Rowan, Hawthorn and Alder are f
 
 Ents are rather hard to kill by normal means, but they do have a healthy hatred of certain tools for some reason or another.
 
-Twilight Forest Moss Patch and Biomes 'o Plenty moss will drop also.ANDpre15570witchery/witchsapling-0.pngrewardsChoiceminecraft/diamond_axe-0-enchanted.pngDiamond Ax;Sharpness V;Looting V;Knockback V;+12.25 Attack Damage;Durability: 768/768
-1TwilightForest/tile.TFPlant-3.pngMoss Patc
-16enhancedlootbags/lootbag-52.pngLootBag (Witchery Novice;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10
-5tasksANDRetrievalwitchery/ingredient-82.pngEnt Twi
+Twilight Forest Moss Patch and Biomes 'o Plenty moss will drop also.ANDpre15570witchery/witchsapling-0.pngrewardsChoiceminecraft/diamond_axe-0-enchanted.pngDiamond Axe;Sharpness V;Looting V;Knockback V;+12.25 Attack Damage;Durability: 768/768
+1TwilightForest/tile.TFPlant-3.pngMoss Patch
+16enhancedlootbags/lootbag-52.pngLootBag (Witchery Novice);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
+5tasksANDRetrievalwitchery/ingredient-82.pngEnt Twig
 1

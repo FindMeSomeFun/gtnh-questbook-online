@@ -1,4 +1,4 @@
-673gregtech/gt.blockmachines-281.png0§5§lLV Extruder4-1The extruder is not very useful in LV. But it will extrude your next tier of boat, make rubber sheets more efficiently, get you extra fluid cells, or make §osome§r Tinkers Construct tool parts.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDRetrievalgregtech/gt.blockmachines-281.pngBasic Extrude;Universal Machine for Metal Working;Voltage IN: 32 (LV);Capacity: 2,048 EU
+673gregtech/gt.blockmachines-281.png0§5§lLV Extruder4-1The extruder is not very useful in LV. But it will extrude your next tier of boat, make rubber sheets more efficiently, get you extra fluid cells, or make §osome§r Tinkers Construct tool parts.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-281.pngBasic Extruder;Universal Machine for Metal Working;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

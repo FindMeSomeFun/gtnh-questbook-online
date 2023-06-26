@@ -1,7 +1,7 @@
-913minecraft/blaze_rod-0.png0Time to Kill (Blaze)39432000You should be careful with this task. Fire protection is highly recommended.ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Hear
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
+913minecraft/blaze_rod-0.png0Time to Kill (Blaze)39432000You should be careful with this task. Fire protection is highly recommended.ANDpre4791minecraft/portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDHuntmobs/Blaze-.pngBlaze
 10

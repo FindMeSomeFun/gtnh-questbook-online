@@ -6,13 +6,13 @@ This magical pouch allows creating, holding and activating Charms.
 Sneaking and using the pouch activates or deactives the Charms.
 
 Only one pouch can be active at a time.
-ANDpre23670HardcoreEnderExpansion/rune-0.pngrewardsChoiceHardcoreEnderExpansion/charm-2.pngCharm of Powe;+60% damage
-1HardcoreEnderExpansion/charm-11.pngCharm of Defens;-30% damage taken
-1HardcoreEnderExpansion/charm-8.pngCharm of Vigo;+55% health regeneration speed
-1HardcoreEnderExpansion/charm-18.pngCharm of Equalit;+8% damage;+5% speed;+6% health regeneration speed;-3% damage taken;+3% experience
-1HardcoreEnderExpansion/charm-5.pngCharm of Agilit;+40% speed
-1enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced;Your luck is increased by 100 %;Fortune III
-1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-5tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouc;Inactive
+ANDpre23670HardcoreEnderExpansion/rune-0.pngrewardsChoiceHardcoreEnderExpansion/charm-2.pngCharm of Power;+60% damage
+1HardcoreEnderExpansion/charm-11.pngCharm of Defense;-30% damage taken
+1HardcoreEnderExpansion/charm-8.pngCharm of Vigor;+55% health regeneration speed
+1HardcoreEnderExpansion/charm-18.pngCharm of Equality;+8% damage;+5% speed;+6% health regeneration speed;-3% damage taken;+3% experience
+1HardcoreEnderExpansion/charm-5.pngCharm of Agility;+40% speed
+1enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced);Your luck is increased by 100 %;Fortune III
+1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouch;Inactive
 1

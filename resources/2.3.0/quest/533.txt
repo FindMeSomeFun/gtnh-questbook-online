@@ -2,9 +2,9 @@
 
 The main powergen line that uses this generator is Benzene, but that needs MV tier.
 
-§3If you're dealing with fully renewable powergen, this is the type of generator you'll use the most.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemgregtech/gt.metaitem.01-30001.pngHydrogen Cel;H
-8gregtech/gt.metaitem.01-30715.pngMethane Cel;CH\u2084
-4gregtech/gt.metaitem.01-30742.pngLPG Cel
-2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-15tasksANDRetrievalgregtech/gt.blockmachines-1115.pngBasic Gas Turbin;Requires flammable Gasses;Causes 40 Pollution per second;Fuel Efficiency: 95%;Voltage OUT: 32 (LV);Capacity: 3,072 EU
+§3If you're dealing with fully renewable powergen, this is the type of generator you'll use the most.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+8gregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
+4gregtech/gt.metaitem.01-30742.pngLPG Cell
+2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+15tasksANDRetrievalgregtech/gt.blockmachines-1115.pngBasic Gas Turbine;Requires flammable Gasses;Causes 40 Pollution per second;Fuel Efficiency: 95%;Voltage OUT: 32 (LV);Capacity: 3,072 EU
 1

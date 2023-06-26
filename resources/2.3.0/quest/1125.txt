@@ -1,13 +1,13 @@
-1125JABBA/upgradeStructural-1.png0§3§lBarrel Upgrades Tier 23-1Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!ANDpre11240JABBA/upgradeStructural-0.pngrewardsChoiceminecraft/piston-0.pngPisto
-2JABBA/upgradeStructural-2.pngStructural MK III (Iron Plate;Slots Provided :7
-2enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDOptionalJABBA/barrel-0.pngBetter Barre
-1gregtech/gt.metaitem.01-17035.pngCopper Plat;Cu
-4gregtech/gt.metaitem.01-23035.pngCopper Ro;Cu
-4RetrievalJABBA/upgradeStructural-1.pngStructural MK II (Copper Plate;Slots Provided :3
-1OptionalJABBA/barrel-0.pngBetter Barre
-2minecraft/piston-0.pngPisto
-2gregtech/gt.metaitem.01-27305.pngSteel Scre;Fe\u2085\u2080C
-8RetrievalJABBA/upgradeCore-0.pngStorage upgrad;Slots Used :1;Increases the storage capacity by 64 stacks
+1125JABBA/upgradeStructural-1.png0§3§lBarrel Upgrades Tier 23-1Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!ANDpre11240JABBA/upgradeStructural-0.pngrewardsChoiceminecraft/piston-0.pngPiston
+2JABBA/upgradeStructural-2.pngStructural MK III (Iron Plate);Slots Provided :7
+2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalJABBA/barrel-0.pngBetter Barrel
+1gregtech/gt.metaitem.01-17035.pngCopper Plate;Cu
+4gregtech/gt.metaitem.01-23035.pngCopper Rod;Cu
+4RetrievalJABBA/upgradeStructural-1.pngStructural MK II (Copper Plate);Slots Provided :3
+1OptionalJABBA/barrel-0.pngBetter Barrel
+2minecraft/piston-0.pngPiston
+2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+8RetrievalJABBA/upgradeCore-0.pngStorage upgrade;Slots Used :1;Increases the storage capacity by 64 stacks
 2

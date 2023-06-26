@@ -2,12 +2,12 @@
 
 You can move 25% faster than with normal tracks.
 
-NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.ANDpre7531gregtech/gt.metaitem.01-11306.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-0-reinforced.pngReinforced Trac;125% of the speed of normal track;Explosion resistant
-16Railcraft/part.rail-4.pngReinforced Rai
-32Railcraft/part.railbed-1.pngStone Railbe
-32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalRailcraft/track-0-reinforced.pngReinforced Trac;125% of the speed of normal track;Explosion resistant
-64RetrievalRailcraft/track-0-reinforced-boost.pngReinforced Booster Trac;125% of the speed of normal track;Explosion resistant;- Apply Redstone to enable -
+NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.ANDpre7531gregtech/gt.metaitem.01-11306.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-0-reinforced.pngReinforced Track;125% of the speed of normal track;Explosion resistant
+16Railcraft/part.rail-4.pngReinforced Rail
+32Railcraft/part.railbed-1.pngStone Railbed
+32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalRailcraft/track-0-reinforced.pngReinforced Track;125% of the speed of normal track;Explosion resistant
+64RetrievalRailcraft/track-0-reinforced-boost.pngReinforced Booster Track;125% of the speed of normal track;Explosion resistant;- Apply Redstone to enable -
 16

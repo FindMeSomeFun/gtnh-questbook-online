@@ -1,6 +1,6 @@
-2258MagicBees/miscResources-1.png0Aromatic Lump29-1Aromatic Lumps are twice as effective as Royal Jelly in an Alveary Swarmer. You'll need Enchanting Drops from Arcane bees and Pollen Clusters from Industrious bees.ANDpre11220Forestry/royalJelly-0.png21640Forestry/beePrincessGE-0-Industrious.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Forestry/frameImpregnated-0.pngImpregnated Fram
-16Forestry/honeyDrop-0.pngHoney Dro
-64Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10
-5tasksANDRetrievalMagicBees/miscResources-1.pngAromatic Lum
+2258MagicBees/miscResources-1.png0Aromatic Lump29-1Aromatic Lumps are twice as effective as Royal Jelly in an Alveary Swarmer. You'll need Enchanting Drops from Arcane bees and Pollen Clusters from Industrious bees.ANDpre11220Forestry/royalJelly-0.png21640Forestry/beePrincessGE-0-Industrious.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Forestry/frameImpregnated-0.pngImpregnated Frame
+16Forestry/honeyDrop-0.pngHoney Drop
+64Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
+5tasksANDRetrievalMagicBees/miscResources-1.pngAromatic Lump
 1

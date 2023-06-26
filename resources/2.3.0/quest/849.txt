@@ -1,11 +1,11 @@
 849gregtech/gt.metaitem.01-2685.png0§6§f§6§lSodium Hydroxide5-1Sodium hydroxide is needed for bio diesel. You can make it out of sodium and water, or out of salt water.
 
-Sodium hydroxide is also used in advanced aluminium production.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.metaitem.01-2017.pngSodium Dus;Na;Burn Time: 400
-8IC2/itemFuelPlantBall-0.pngPlantbal
-64IC2/itemCellEmpty-0.pngEmpty Cel
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-25tasksANDOptionalgregtech/gt.metaitem.01-2017.pngSodium Dus;Na;Burn Time: 400
-8IC2/itemCellEmpty-1.pngWater Cel
-8Retrievalgregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dus;NaOH
+Sodium hydroxide is also used in advanced aluminium production.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
+8IC2/itemFuelPlantBall-0.pngPlantball
+64IC2/itemCellEmpty-0.pngEmpty Cell
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDOptionalgregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
+8IC2/itemCellEmpty-1.pngWater Cell
+8Retrievalgregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
 8

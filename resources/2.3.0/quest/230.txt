@@ -2,14 +2,14 @@
 
 If you haven't started on defeating the TF bosses yet, you'll need to do so to proceed. All wands require some kind of TF boss drop, with better wands needing later boss's drops. Once you've defeated them once, you can buy a spawn egg (only usable in the TF) or use the trophy+salis mundus to make more of the drop.
 
-§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.ANDpre2251minecraft/end_portal-0.pngrewardsItemminecraft/spawn_egg-98.pngSpawn Ocelo
-2Thaumcraft/ItemLootBag-1.pngUncommon Treasur;Click to open or keep to trade
-1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10
-5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDOptionalForestry/oakStick-0.pngImpregnated Stic
-1OptionalThaumcraft/WandCap-0.pngIron Ca
-2OptionalTwilightForest/item.nagaScale-0.pngNaga Scal
-2Optionalgregtech/gt.metaitem.01-27019.pngAluminium Scre;Al
-4RetrievalThaumcraft/WandCasting-0.pngIron Capped Wooden Wan;Capacity 25 (110% avg vis cost);0 | 0 | 0 | 0 | 0 | 0
+§3You should look for wand recipes in NEI. Not all of them are correct in the Thaumonomicon.ANDpre2251minecraft/end_portal-0.pngrewardsItemminecraft/spawn_egg-98.pngSpawn Ocelot
+2Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDOptionalForestry/oakStick-0.pngImpregnated Stick
+1OptionalThaumcraft/WandCap-0.pngIron Cap
+2OptionalTwilightForest/item.nagaScale-0.pngNaga Scale
+2Optionalgregtech/gt.metaitem.01-27019.pngAluminium Screw;Al
+4RetrievalThaumcraft/WandCasting-0.pngIron Capped Wooden Wand;Capacity 25 (110% avg vis cost);0 | 0 | 0 | 0 | 0 | 0
 1

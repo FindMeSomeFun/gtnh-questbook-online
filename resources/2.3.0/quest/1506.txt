@@ -14,6 +14,6 @@ You can even search a subset now with the right text. @mod.thaumcraft->table wil
 
 @thaumcraft and @thaumcraft-> will also search for anything from the mod thaumcraft, but only if the name is set correctly on the tooltip of the item. They basically always are though.
 
-It has even more advanced features than mentioned here, you should check the web for details. Or just play around with the options.ANDpre15051minecraft/bookshelf-0.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
+It has even more advanced features than mentioned here, you should check the web for details. Or just play around with the options.ANDpre15051minecraft/bookshelf-0.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 1tasksANDCheckboxcheckbox-.pngCheckbox
 1

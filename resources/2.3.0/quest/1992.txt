@@ -1,4 +1,4 @@
-1992ThaumicMachina/wandAugmentationCore-0.png0Wand Enhancements32-1Thaumic Machina offers Wand Augmentations. These useful modifications to your wand can boost their capacity, lower their vis usage, or do other interesting effects. ANDpre9901gregtech/gt.metaitem.01-11366.png28570Thaumcraft/ItemResource-10.pngrewardsItemThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Cor
-1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10
-5tasksANDRetrievalThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Cor
+1992ThaumicMachina/wandAugmentationCore-0.png0Wand Enhancements32-1Thaumic Machina offers Wand Augmentations. These useful modifications to your wand can boost their capacity, lower their vis usage, or do other interesting effects. ANDpre9901gregtech/gt.metaitem.01-11366.png28570Thaumcraft/ItemResource-10.pngrewardsItemThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Core
+1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5tasksANDRetrievalThaumicMachina/wandAugmentationCore-0.pngWand Augmentation Core
 1

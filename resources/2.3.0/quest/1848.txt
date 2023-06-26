@@ -2,10 +2,10 @@
 
 It also will drop healing orbs that will heal the nearest player when picked up. 
 
-Unfortunately, a side effect is that you'll become partially transparent. Side effect, I mean bonus feature!ANDpre781gregtech/gt.blockcasings5-1.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-3dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-3tasksANDRetrievalRandomThings/spectreHelmet-0.pngSpectre Helme;Protection: 3;Durability: 385/385
-1RandomThings/spectreChestplate-0.pngSpectre Chestplat;Protection: 9;Durability: 560/560
-1RandomThings/spectreLeggings-0.pngSpectre Legging;Protection: 7;Durability: 525/525
-1RandomThings/spectreBoots-0.pngSpectre Boot;Protection: 3;Durability: 455/455
+Unfortunately, a side effect is that you'll become partially transparent. Side effect, I mean bonus feature!ANDpre781gregtech/gt.blockcasings5-1.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceenhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+3dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+3tasksANDRetrievalRandomThings/spectreHelmet-0.pngSpectre Helmet;Protection: 3;Durability: 385/385
+1RandomThings/spectreChestplate-0.pngSpectre Chestplate;Protection: 9;Durability: 560/560
+1RandomThings/spectreLeggings-0.pngSpectre Leggings;Protection: 7;Durability: 525/525
+1RandomThings/spectreBoots-0.pngSpectre Boots;Protection: 3;Durability: 455/455
 1

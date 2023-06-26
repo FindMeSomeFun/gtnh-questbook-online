@@ -1,8 +1,8 @@
-842gregtech/gt.metaitem.01-30715.png0§6§lMethane Gas5-1Methane gas has a burn value of 104,000 EU per cell and can be burned in the gas turbine.ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cabl;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-8gregtech/gt.metaitem.01-30691.pngFermented Biomass Cel
-16gregtech/gt.blockmachines-5132.pngSteel Fluid Pip;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
-4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1
-25tasksANDRetrievalgregtech/gt.metaitem.01-30691.pngFermented Biomass Cel
-64Retrievalgregtech/gt.metaitem.01-30715.pngMethane Cel;CH\u2084
+842gregtech/gt.metaitem.01-30715.png0§6§lMethane Gas5-1Methane gas has a burn value of 104,000 EU per cell and can be burned in the gas turbine.ANDpre7360gregtech/gt.metaitem.01-30691.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+8gregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
+16gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+25tasksANDRetrievalgregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
+64Retrievalgregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
 64

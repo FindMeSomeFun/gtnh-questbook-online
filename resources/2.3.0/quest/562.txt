@@ -1,11 +1,11 @@
 562Railcraft/machine.beta-4.png0§6§lHigh-Pressure Boiler Tank17-1After you make steel you are able to craft a high pressure boiler tank. The upgraded version increases the temperature and produces more steam than the low pressure version. It will take longer to warm up, so make sure to keep it well fed!
 
-Extract steam by attaching a pipe to the boiler tank.ORpre5600Railcraft/machine.beta-5.png5610Railcraft/machine.beta-6.pngrewardsItemharvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizz;harvestcraft:meatfeastpizzaItem
-2gregtech/gt.metaitem.02-32240.pngBaguette;gregtech:gt.metaitem.02;Pre Sliced
-2Choicegregtech/gt.metaitem.01-17305.pngSteel Plat;Fe\u2085\u2080C
-2enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDOptionalgregtech/gt.metaitem.01-27305.pngSteel Scre;Fe\u2085\u2080C
-2gregtech/gt.metaitem.02-18305.pngSteel Casin;Fe\u2085\u2080C
-6CraftingRailcraft/machine.beta-4.pngHigh Pressure Boiler Tan;Multi-Block: Variable Size, Above Firebox;Dimensions: 1x1x1, 2x2x2, 2x3x2,;3x2x3, 3x3x3, 3x4x3;Produces up to 40L of Steam per tick;Mobs cannot Spawn on this Block
+Extract steam by attaching a pipe to the boiler tank.ORpre5600Railcraft/machine.beta-5.png5610Railcraft/machine.beta-6.pngrewardsItemharvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
+2gregtech/gt.metaitem.02-32240.pngBaguettes;gregtech:gt.metaitem.02;Pre Sliced
+2Choicegregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+2gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
+6CraftingRailcraft/machine.beta-4.pngHigh Pressure Boiler Tank;Multi-Block: Variable Size, Above Firebox;Dimensions: 1x1x1, 2x2x2, 2x3x2,;3x2x3, 3x3x3, 3x4x3;Produces up to 40L of Steam per tick;Mobs cannot Spawn on this Block
 1

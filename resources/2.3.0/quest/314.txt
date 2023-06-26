@@ -1,6 +1,6 @@
-314ThaumicTinkerer/ichorclothChestGem-0.png0Unleashed the Power - Robe33-1To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3150ThaumicTinkerer/ichorclothChest-0.png3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-13.pngLootBag (Magic Grandmaster - Unique;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100
-5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-5tasksANDRetrievalThaumicTinkerer/ichorclothChestGem-0.pngRobes of the Stratospher;Vis discount: 10%;Provides SpaceSuit capability.;Provides full hazmat protection.;Warping 3;Protection: 8
+314ThaumicTinkerer/ichorclothChestGem-0.png0Unleashed the Power - Robe33-1To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3150ThaumicTinkerer/ichorclothChest-0.png3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-13.pngLootBag (Magic Grandmaster - Unique);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
+5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5tasksANDRetrievalThaumicTinkerer/ichorclothChestGem-0.pngRobes of the Stratosphere;Vis discount: 10%;Provides SpaceSuit capability.;Provides full hazmat protection.;Warping 3;Protection: 8
 1

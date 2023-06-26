@@ -4,10 +4,10 @@ Paper rotors are great in low winds.
 Wool rotors are cheap.
 Leather rotors are durable.
 
-Don't leave the rotors in the windmill when you aren't using it, it will use up durability.ANDpre18310minecraft/dispenser-0.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1bartworks/craftingParts-5.pngPaper Covered Wood Fram;Added by BartWorks
-2bartworks/craftingParts-4.pngWool Covered Wood Fram;Added by BartWorks
-2bartworks/craftingParts-3.pngLeather Covered Wood Fram;Added by BartWorks
-2dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1
-5tasksANDRetrievalbartworks/BW_SimpleWindMeter-0.pngSimple Wind Mete;A simple Windmeter to choose a place for the Windmill.;Uses left: 15/15;Added by BartWorks
+Don't leave the rotors in the windmill when you aren't using it, it will use up durability.ANDpre18310minecraft/dispenser-0.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1bartworks/craftingParts-5.pngPaper Covered Wood Frame;Added by BartWorks
+2bartworks/craftingParts-4.pngWool Covered Wood Frame;Added by BartWorks
+2bartworks/craftingParts-3.pngLeather Covered Wood Frame;Added by BartWorks
+2dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
+5tasksANDRetrievalbartworks/BW_SimpleWindMeter-0.pngSimple Wind Meter;A simple Windmeter to choose a place for the Windmill.;Uses left: 15/15;Added by BartWorks
 1

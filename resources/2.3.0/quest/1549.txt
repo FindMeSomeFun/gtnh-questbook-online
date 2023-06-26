@@ -1,7 +1,7 @@
-1549gregtech/gt.metaitem.01-30972.png1§6§lTrichlorosilane5-1The second route is probably even better! With just 2 singleblock chemical reactors you can make Silicon Solar Grade. In the first step, make some Trichlorosilane. ANDpre32111gregtech/gt.metaitem.01-2020.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10
-5tasksANDOptionalgregtech/gt.metaitem.01-2020.pngRaw Silicon Dus;Si
-4gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cel;HCl
-12Retrievalgregtech/gt.metaitem.01-30972.pngTrichlorosilane Cel;HSiCl\u2083
-4gregtech/gt.metaitem.01-30001.pngHydrogen Cel;H
+1549gregtech/gt.metaitem.01-30972.png1§6§lTrichlorosilane5-1The second route is probably even better! With just 2 singleblock chemical reactors you can make Silicon Solar Grade. In the first step, make some Trichlorosilane. ANDpre32111gregtech/gt.metaitem.01-2020.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+5tasksANDOptionalgregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
+4gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
+12Retrievalgregtech/gt.metaitem.01-30972.pngTrichlorosilane Cell;HSiCl\u2083
+4gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
 8

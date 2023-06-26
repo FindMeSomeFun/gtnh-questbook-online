@@ -1,13 +1,13 @@
-685minecraft/iron_chestplate-0.png0Armor 2.014-1Iron armor is much better than the leather armor. Especially when you have to go outside during the night.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Boo;Feather Falling I;Hold the Sneak key for Enchantment Description
-1minecraft/enchanted_book-0.pngEnchanted Boo;Aqua Affinity I;Hold the Sneak key for Enchantment Description
-1minecraft/enchanted_book-0.pngEnchanted Boo;Fire Protection I;Hold the Sneak key for Enchantment Description
-1minecraft/enchanted_book-0.pngEnchanted Boo;Blast Protection I;Hold the Sneak key for Enchantment Description
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-10tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plat;Fe
-24Craftingminecraft/iron_helmet-0.pngIron Helme;Protection: 2;Durability: 165/165
-1minecraft/iron_chestplate-0.pngIron Chestplat;Protection: 6;Durability: 240/240
-1minecraft/iron_leggings-0.pngIron Legging;Protection: 5;Durability: 225/225
-1minecraft/iron_boots-0.pngIron Boot;Protection: 2;Durability: 195/195
+685minecraft/iron_chestplate-0.png0Armor 2.014-1Iron armor is much better than the leather armor. Especially when you have to go outside during the night.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book;Feather Falling I;Hold the Sneak key for Enchantment Description
+1minecraft/enchanted_book-0.pngEnchanted Book;Aqua Affinity I;Hold the Sneak key for Enchantment Description
+1minecraft/enchanted_book-0.pngEnchanted Book;Fire Protection I;Hold the Sneak key for Enchantment Description
+1minecraft/enchanted_book-0.pngEnchanted Book;Blast Protection I;Hold the Sneak key for Enchantment Description
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+10tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
+24Craftingminecraft/iron_helmet-0.pngIron Helmet;Protection: 2;Durability: 165/165
+1minecraft/iron_chestplate-0.pngIron Chestplate;Protection: 6;Durability: 240/240
+1minecraft/iron_leggings-0.pngIron Leggings;Protection: 5;Durability: 225/225
+1minecraft/iron_boots-0.pngIron Boots;Protection: 2;Durability: 195/195
 1

@@ -1,13 +1,13 @@
 596TConstruct/pickaxeHead-16.png0§3§k§l§1§2§3§lUpgrade of the Upgrade of the...3-1It's upgrade time. Unlock redstone and obsidian level for your different tools.
 
-Remember, a fresh tool head starts at one level below.  So you'll need to use it enough to level it up before you can mine at the proper level. Go strip-mine a mountain or something.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceTConstruct/toolRod-31.pngThaumium Tool Ro;Thaumic;Durability Modifier: 1.18x;Parts can be replaced
-1TConstruct/binding-31.pngThaumium Bindin;Thaumic;Parts can be replaced
-1TConstruct/toolRod-8.pngSlime Tool Ro;Slimy;Durability Modifier: 2x;Parts can be replaced
-1TConstruct/binding-8.pngSlime Bindin;Slimy;Parts can be replaced
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1
-10tasksANDRetrievalTConstruct/pickaxeHead-16.pngSteel Pickaxe Hea;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 04-Redstone;Parts can be replaced
-1TConstruct/shovelHead-16.pngSteel Shovel Hea;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 05-Obsidian;Parts can be replaced
-2TConstruct/hatchetHead-16.pngSteel Axe Hea;Reinforced II;Durability: 300;Usage Speed: 7;Attack: 1.5 Hearts;Parts can be replaced
-2TConstruct/swordBlade-16.pngSteel Sword Blad;Reinforced II;Attack: 1.5 Hearts;Durability: 300;Parts can be replaced
+Remember, a fresh tool head starts at one level below.  So you'll need to use it enough to level it up before you can mine at the proper level. Go strip-mine a mountain or something.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceTConstruct/toolRod-31.pngThaumium Tool Rod;Thaumic;Durability Modifier: 1.18x;Parts can be replaced
+1TConstruct/binding-31.pngThaumium Binding;Thaumic;Parts can be replaced
+1TConstruct/toolRod-8.pngSlime Tool Rod;Slimy;Durability Modifier: 2x;Parts can be replaced
+1TConstruct/binding-8.pngSlime Binding;Slimy;Parts can be replaced
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+10tasksANDRetrievalTConstruct/pickaxeHead-16.pngSteel Pickaxe Head;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 04-Redstone;Parts can be replaced
+1TConstruct/shovelHead-16.pngSteel Shovel Head;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 05-Obsidian;Parts can be replaced
+2TConstruct/hatchetHead-16.pngSteel Axe Head;Reinforced II;Durability: 300;Usage Speed: 7;Attack: 1.5 Hearts;Parts can be replaced
+2TConstruct/swordBlade-16.pngSteel Sword Blade;Reinforced II;Attack: 1.5 Hearts;Durability: 300;Parts can be replaced
 1

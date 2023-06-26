@@ -1,7 +1,7 @@
 2393RandomThings/fertilizedDirt-0.png0§5§lFertilized Earth4-1With a Chemical Reactor, you can make Fertilized Earth. It ticks faster than normal farmland, so crops will mature much faster. As a bonus, it can be tilled away from water and doesn't get damaged when you fall on it.
 
-It does allow IC2 crops to be  placed on them, but will not accelerate the crops.ANDpre5431gregtech/gt.blockmachines-421.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1
-5RandomThings/fertilizedDirt-0.pngFertilized Dir
-16tasksANDRetrievalRandomThings/fertilizedDirt-0.pngFertilized Dir
+It does allow IC2 crops to be  placed on them, but will not accelerate the crops.ANDpre5431gregtech/gt.blockmachines-421.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
+5RandomThings/fertilizedDirt-0.pngFertilized Dirt
+16tasksANDRetrievalRandomThings/fertilizedDirt-0.pngFertilized Dirt
 16

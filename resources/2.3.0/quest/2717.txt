@@ -13,7 +13,7 @@ You should probably use the normal alternative recipe to make more cultures, sin
 You should be able to figure out yourself how to make Xenoxene once you have the culture.
 
 
-§3After many years, the transformation recipe now even has NEI support!ANDpre26810GalaxySpace/tcetiedandelions-0.png27150bartworks/BioLabParts-0.pngrewardstasksANDOptionalbartworks/BioLabParts-1.pngDNA Sample Flas;A DNA Flask containing: Barnadafis Arboriatoris (Barnadafis Arboriatoris);Added by BartWorks
-1Optionalbartworks/BioLabParts-2.pngPlasmid Sample Flas;A Plasmid Cell containing: Barnadafis Arboriatoris (Barnadafis Arboriatoris);Added by BartWorks
-1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Cultur;A Petri Dish containing: Xenoxene Xenoxsis (Xenoxene Xenoxsis);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
+§3After many years, the transformation recipe now even has NEI support!ANDpre26810GalaxySpace/tcetiedandelions-0.png27150bartworks/BioLabParts-0.pngrewardstasksANDOptionalbartworks/BioLabParts-1.pngDNA Sample Flask;A DNA Flask containing: Barnadafis Arboriatoris (Barnadafis Arboriatoris);Added by BartWorks
+1Optionalbartworks/BioLabParts-2.pngPlasmid Sample Flask;A Plasmid Cell containing: Barnadafis Arboriatoris (Barnadafis Arboriatoris);Added by BartWorks
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Xenoxene Xenoxsis (Xenoxene Xenoxsis);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
 1

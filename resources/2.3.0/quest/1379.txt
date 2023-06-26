@@ -1,8 +1,8 @@
 1379Railcraft/cart.anchor-0.png0Cart With Chunkloader14-1When transporting oil from long distances, a train is going to need a chunk loader. Craft one, and I'll give you a second one for free.
 
-§3This quest might not be completable in MP?ANDpre11800Railcraft/machine.alpha-13.png11820Railcraft/machine.gamma-4.pngrewardsItemRailcraft/cart.anchor-0.pngAnchor Car;0.00 hours
-1dreamcraft/item.CoinChunkloaderTierI-0.pngChunkloader Coin Tier ;12H Chunkloader Coin, 24H in Passive Chunkloader, 48H in Personal Chunkloader
-4Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10
-5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-5tasksANDRetrievalRailcraft/cart.anchor-0.pngAnchor Car;0.00 hours
+§3This quest might not be completable in MP?ANDpre11800Railcraft/machine.alpha-13.png11820Railcraft/machine.gamma-4.pngrewardsItemRailcraft/cart.anchor-0.pngAnchor Cart;0.00 hours
+1dreamcraft/item.CoinChunkloaderTierI-0.pngChunkloader Coin Tier I;12H Chunkloader Coin, 24H in Passive Chunkloader, 48H in Personal Chunkloader
+4Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
+5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+5tasksANDRetrievalRailcraft/cart.anchor-0.pngAnchor Cart;0.00 hours
 1

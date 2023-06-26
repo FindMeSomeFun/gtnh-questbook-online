@@ -2,8 +2,8 @@
 
 If you do want to do it, I recommend you also find a way to automate Coal, from IC2 crops for example, because the recipes that use it is much more efficient on liquid fuel than the other coals. You will also end up making more boilers, perhaps a quad Titanium Boiler, which will surely force you to increase the amount of Steam Turbines you'll have to make, but there is a catch here: you can screwdriver the turbines into Loose mode, which significantly decreases their efficiency but boosts their speed by something like 8 times, depending on the turbine you're using. Given that this process already boosts the efficiency of your fuels a lot, you may want to lose some of it to keep your number of turbines low.
 
-I'll leave the planning up to you.ANDpre30110gregtech/gt.blockmachines-1022.pngrewardsItemgregtech/gt.metaitem.02-32271.pngMagic Super Fuel Binde;Raw Material
-20enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-10tasksANDRetrievalgregtech/gt.blockreinforced-7.pngMagic Solid Super Fue;Burn Time: 150000
+I'll leave the planning up to you.ANDpre30110gregtech/gt.blockmachines-1022.pngrewardsItemgregtech/gt.metaitem.02-32271.pngMagic Super Fuel Binder;Raw Material
+20enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+10tasksANDRetrievalgregtech/gt.blockreinforced-7.pngMagic Solid Super Fuel;Burn Time: 150000
 64

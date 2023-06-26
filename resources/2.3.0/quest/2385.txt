@@ -1,35 +1,35 @@
 2385HardcoreEnderExpansion/charm-53.png0Master Grinder30144000After conquering most the of content inside of the End, it is time for a Master Quest. 
-Bring forth and slay the following and you shall receive some moderately great loot.ANDpre23830HardcoreEnderExpansion/curse-9.png23840HardcoreEnderExpansion/charm-2.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-10enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced;Your luck is increased by 100 %;Fortune III
-10enhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-10ItemHardcoreEnderExpansion/endoplasm-0.pngEctoplas
-64HardcoreEnderExpansion/instability_orb-0.pngInstability Or
-128minecraft/nether_star-0.pngNether Sta;Applicable up to: 08-Manyullyn
-32HardcoreEnderExpansion/auricion-0.pngAuricio
-64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
-64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Ma;minecraft:fish;Radioactivity X
-1tasksANDConsumeminecraft/ender_pearl-0.pngEnder Pear;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-1024minecraft/ender_eye-0.pngEye of Ende
-512HardcoreEnderExpansion/auricion-0.pngAuricio
-64HardcoreEnderExpansion/enderman_head-0.pngEnderman Hea
-64HardcoreEnderExpansion/essence-1.pngFiery Essenc
-512HardcoreEnderExpansion/igneous_rock-0.pngIgneous Roc;Burn Time: 8000
-256HardcoreEnderExpansion/fire_shard-0.pngInferniu
-256HardcoreEnderExpansion/altar_nexus-0.pngAltar Nexu
-32minecraft/bookshelf-0.pngBookshel;Enchantment Power: 1.0;Burn Time: 300
-64minecraft/ender_chest-0.pngPersonal Ender Ches;Only For Personal Use
-8Consumeminecraft/enchanting_table-0.pngEnchantment Tabl
-8HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Bloo
-16HardcoreEnderExpansion/rune-0.pngRune of Powe
-16HardcoreEnderExpansion/rune-1.pngRune of Agilit
-16HardcoreEnderExpansion/rune-2.pngRune of Vigo
-16HardcoreEnderExpansion/rune-3.pngRune of Defens
-16HardcoreEnderExpansion/rune-4.pngRune of Magi
-16HardcoreEnderExpansion/rune-5.pngRune of Voi
-4HardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragmen
-512Consumedreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K
-1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K
-1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K
+Bring forth and slay the following and you shall receive some moderately great loot.ANDpre23830HardcoreEnderExpansion/curse-9.png23840HardcoreEnderExpansion/charm-2.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+10enhancedlootbags/lootbag-58-enchanted.pngLootBag (HEE-Advanced);Your luck is increased by 100 %;Fortune III
+10enhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+10ItemHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+64HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
+128minecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
+32HardcoreEnderExpansion/auricion-0.pngAuricion
+64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Man;minecraft:fish;Radioactivity X
+1tasksANDConsumeminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1024minecraft/ender_eye-0.pngEye of Ender
+512HardcoreEnderExpansion/auricion-0.pngAuricion
+64HardcoreEnderExpansion/enderman_head-0.pngEnderman Head
+64HardcoreEnderExpansion/essence-1.pngFiery Essence
+512HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+256HardcoreEnderExpansion/fire_shard-0.pngInfernium
+256HardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
+32minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
+64minecraft/ender_chest-0.pngPersonal Ender Chest;Only For Personal Use
+8Consumeminecraft/enchanting_table-0.pngEnchantment Table
+8HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+16HardcoreEnderExpansion/rune-0.pngRune of Power
+16HardcoreEnderExpansion/rune-1.pngRune of Agility
+16HardcoreEnderExpansion/rune-2.pngRune of Vigor
+16HardcoreEnderExpansion/rune-3.pngRune of Defense
+16HardcoreEnderExpansion/rune-4.pngRune of Magic
+16HardcoreEnderExpansion/rune-5.pngRune of Void
+4HardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
+512Consumedreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K"
+1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
+1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
 1Huntmobs/HardcoreEnderExpansion-EnderGuardian-.pngEnder Guardian
 50Huntmobs/HardcoreEnderExpansion-Endermage-.pngEndermage
 20Huntmobs/HardcoreEnderExpansion-AngryEnderman-.pngAngry Enderman

@@ -2,7 +2,7 @@
 
 §3You can use the battery slot and the other extra slot in the GUI to store unused configuration circuits.
 
-If you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10
-3tasksANDRetrievalgregtech/gt.blockmachines-211.pngBasic Assembling Machin;Avengers, Assemble!;Voltage IN: 32 (LV);Capacity: 2,048 EU
+If you've completed the Silverwood quest on the first tab, you can go to the Twilight Forest after making your Assembler. See the Novice Thaumaturgy tab for details.ANDpre921gregtech/gt.metaitem.01-32650.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
+3tasksANDRetrievalgregtech/gt.blockmachines-211.pngBasic Assembling Machine;Avengers, Assemble!;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

@@ -2,7 +2,7 @@
 
 The first step of incubation is the creation of Liquid Growth Medium, which is made from incubating Water and Growth Medium. This is subsequently incubated with Wheat to give Bacteria. This solution of bacteria can then be incubated a third time with Sugar to give Enzyme. This is an important compound used in other machines.
 
-The best way to create enzyme is therefore to chain three incubators together, for each step of the process.ANDpre20810Genetics/misc-0.pngrewardsItemGenetics/labMachine-2.pngIncubato
-1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalGenetics/labMachine-2.pngIncubato
+The best way to create enzyme is therefore to chain three incubators together, for each step of the process.ANDpre20810Genetics/misc-0.pngrewardsItemGenetics/labMachine-2.pngIncubator
+1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalGenetics/labMachine-2.pngIncubator
 2

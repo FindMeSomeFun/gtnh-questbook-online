@@ -8,15 +8,15 @@ Curses placed on blocks are only visible to the player who cast it, and for a sh
 
 Getting very close to a Curse makes it visible without having it affect you, but it requires extreme carefulness.
 
-It is possible to remove Curses by using a Potion of Purity.ANDpre23720HardcoreEnderExpansion/living_matter-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplas
-1HardcoreEnderExpansion/essence-0.pngDragon Essenc
-4HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Bloo
-1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shar
-2HardcoreEnderExpansion/living_matter-0.pngLiving Matte
-1enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-5HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Not;40 Knowledge Points
-6tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matte
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powde
+It is possible to remove Curses by using a Potion of Purity.ANDpre23720HardcoreEnderExpansion/living_matter-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+1HardcoreEnderExpansion/essence-0.pngDragon Essence
+4HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+2HardcoreEnderExpansion/living_matter-0.pngLiving Matter
+1enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+6tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
 4

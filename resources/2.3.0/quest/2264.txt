@@ -1,6 +1,6 @@
 2264TConstruct/oreBerries-2.png0Do You Taste Metal?13-1Metal oreberries are a great source of new seeds. You can breed some or buy some from the Coins shop. I need some Copper myself, so give me some berries please.
 
-Metal oreberries require a block of that metal to fully mature, but you can harvest a reduced amount before then. Pretty much everything else that needs a block can't be harvested before maturity though. Look at the seedbag to see what it wants. You can also go to the wiki for the exact blocks. Usually, you can use an ore or metal block for those that have them.ANDpre16030TConstruct/oreBerries-5.pngrewardsItemenhancedlootbags/lootbag-51.pngLootBag (IC2 Crops;You feel that a bit more "Fortune" might be a good idea...
-1tasksANDConsumeTConstruct/oreBerries-2.pngCopper Oreberr;Tastes like metal;Can be placed on a empty IC2 Crop.
-8RetrievalIC2/itemCropSeed-0.pngCopper Oreberry Seed;Gr 0;Ga 0;Re 0
+Metal oreberries require a block of that metal to fully mature, but you can harvest a reduced amount before then. Pretty much everything else that needs a block can't be harvested before maturity though. Look at the seedbag to see what it wants. You can also go to the wiki for the exact blocks. Usually, you can use an ore or metal block for those that have them.ANDpre16030TConstruct/oreBerries-5.pngrewardsItemenhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
+1tasksANDConsumeTConstruct/oreBerries-2.pngCopper Oreberry;Tastes like metal;Can be placed on a empty IC2 Crop.
+8RetrievalIC2/itemCropSeed-0.pngCopper Oreberry Seeds;Gr 0;Ga 0;Re 0
 1

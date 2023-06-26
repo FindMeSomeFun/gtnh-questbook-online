@@ -1,10 +1,10 @@
-3296gregtech/gt.metaitem.01-32019.png1UXV tier38-1May Dreammaster have mercy on your soul. You have reached the highest craftable tier in the game!ANDpre32431gregtech/gt.metaitem.01-32018.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32019.pngElectric Motor (UXV
-1gregtech/gt.metaitem.01-32023.pngElectric Piston (UXV
-1gregtech/gt.metaitem.01-32027.pngElectric Pump (UXV;Cannot be used as a Cover
-1gregtech/gt.metaitem.01-32031.pngConveyor Module (UXV;Cannot be used as a Cover
-1gregtech/gt.metaitem.01-32035.pngRobot Arm (UXV;Cannot be used as a Cover
-1gregtech/gt.metaitem.01-32039.pngEmitter (UXV
-1gregtech/gt.metaitem.01-32043.pngSensor (UXV
-1gregtech/gt.metaitem.01-32047.pngField Generator (UXV
-1gregtech/gt.blockmachines-269.pngUXV Wireless Energy Hatc;Stores energy globally in a network, up to 2^(2^31) EU.;Does not connect to wires. This block withdraws EU from the network.;Author: Colen;Voltage IN: 536,870,912 (UXV);Capacity: 4,294,967,296,000 EU
+3296gregtech/gt.metaitem.01-32019.png1UXV tier38-1May Dreammaster have mercy on your soul. You have reached the highest craftable tier in the game!ANDpre32431gregtech/gt.metaitem.01-32018.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32019.pngElectric Motor (UXV)
+1gregtech/gt.metaitem.01-32023.pngElectric Piston (UXV)
+1gregtech/gt.metaitem.01-32027.pngElectric Pump (UXV);Cannot be used as a Cover
+1gregtech/gt.metaitem.01-32031.pngConveyor Module (UXV);Cannot be used as a Cover
+1gregtech/gt.metaitem.01-32035.pngRobot Arm (UXV);Cannot be used as a Cover
+1gregtech/gt.metaitem.01-32039.pngEmitter (UXV)
+1gregtech/gt.metaitem.01-32043.pngSensor (UXV)
+1gregtech/gt.metaitem.01-32047.pngField Generator (UXV)
+1gregtech/gt.blockmachines-269.pngUXV Wireless Energy Hatch;Stores energy globally in a network, up to 2^(2^31) EU.;Does not connect to wires. This block withdraws EU from the network.;Author: Colen;Voltage IN: 536,870,912 (UXV);Capacity: 4,294,967,296,000 EU
 1

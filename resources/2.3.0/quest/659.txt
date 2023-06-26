@@ -1,12 +1,12 @@
 659battlegear2/spear.diamond-0.png0§6§lDiamond Spear14-1At MV Tier you can upgrade your iron spear to a diamond one. Get a diamond arrowhead, two stainless steel screws and a wooden spear.
 
-This spear has superior durability.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-56.pngSpawn Ghas
-1minecraft/spawn_egg-61.pngSpawn Blaz
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1
-25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1
-25tasksANDOptionalTGregworks/tGregToolPartArrowHead-1594.pngDiamond Arrow Hea;Attack: 2 Hearts;Durability: 960;Break Chance: 90%;Weight: 76.8;Parts can be replaced
-1gregtech/gt.metaitem.01-27306.pngStainless Steel Scre;Fe\u2086CrMnNi
-2battlegear2/spear.wood-0.pngWooden Spea;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
-1Craftingbattlegear2/spear.diamond-0.pngDiamond Spea;+3 Mounted Damage;+5 Attack Damage;+4 Reach;Durability: 1561/1561
+This spear has superior durability.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-56.pngSpawn Ghast
+1minecraft/spawn_egg-61.pngSpawn Blaze
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
+25tasksANDOptionalTGregworks/tGregToolPartArrowHead-1594.pngDiamond Arrow Head;Attack: 2 Hearts;Durability: 960;Break Chance: 90%;Weight: 76.8;Parts can be replaced
+1gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
+1Craftingbattlegear2/spear.diamond-0.pngDiamond Spear;+3 Mounted Damage;+5 Attack Damage;+4 Reach;Durability: 1561/1561
 1

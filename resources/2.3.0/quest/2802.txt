@@ -5,5 +5,5 @@
 238Pu: 64 EU, 42982 days
 210Po: 480 EU, 34560 days
 
-Honestly, it's super not worth it. Especially considering you need to make a Cyclotron to make the fuel. And it's not even guaranteed!ANDpre17071gregtech/gt.metaitem.03-32088.png27611gregtech/gt.blockmachines-828.png28010IC2/blockGenerator-6.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-869.pngRadioisotope Thermoelectric Generato;Requires RTG Pellets;Fuel is measured in minecraft days (Check with Scanner);RTG changes output voltage depending on fuel;Generates power at 100% Efficiency per tick;Output Voltage: 0 EU/t;Added by: Alkalus - [GT++];Capacity: 41,472 EU
+Honestly, it's super not worth it. Especially considering you need to make a Cyclotron to make the fuel. And it's not even guaranteed!ANDpre17071gregtech/gt.metaitem.03-32088.png27611gregtech/gt.blockmachines-828.png28010IC2/blockGenerator-6.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-869.pngRadioisotope Thermoelectric Generator;Requires RTG Pellets;Fuel is measured in minecraft days (Check with Scanner);RTG changes output voltage depending on fuel;Generates power at 100% Efficiency per tick;Output Voltage: 0 EU/t;Added by: Alkalus - [GT++];Capacity: 41,472 EU
 1

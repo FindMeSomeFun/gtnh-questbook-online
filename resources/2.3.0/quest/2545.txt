@@ -4,9 +4,9 @@ The Essentia Provider needs to be next to the device, it's mostly for the Thauma
 
 The Infusion Provider is for devices that draw essentia through the air, like the Runic Matrix (infusion) or Overchanting Table. It doesn't need to be next to the device.
 
-They both obviously need the essentia they request to be accessible by the network to work.ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good;You feel that a bit more "Fortune" might be a good idea...
-1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100
-2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100
-2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.essentia.provider-0.pngEssentia Provide
-1thaumicenergistics/thaumicenergistics.block.infusion.provider-0.pngInfusion Provide
+They both obviously need the essentia they request to be accessible by the network to work.ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
+1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
+2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.essentia.provider-0.pngEssentia Provider
+1thaumicenergistics/thaumicenergistics.block.infusion.provider-0.pngInfusion Provider
 1
