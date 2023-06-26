@@ -8,7 +8,8 @@ Planned usage of path parameters:
 - questid (predefined quest to be selected)
 - pinned (predefined list of the pinned quest)
 
-Usage: [URL]?questlineid=4&questid=45&prequestid=36&pinned=1,2,3
+Example:
+https://htmlpreview.github.io/?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html?questlineid=4&questid=45&prequestid=36&pinned=1,2,3
 
 
 Page preview at:
