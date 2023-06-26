@@ -1,10 +1,10 @@
-1714gregtech/gt.metaitem.03-32075.png0§8§9§lCheaper Simple Circuit6-1The NAND chip is an industrial replacement for the vacuum tubes that is much cheaper. You can't use it to make circuits though, only to make other things as a ULV circuit. Make sure to check out all the possible recipes!ANDpre17130gregtech/gt.metaitem.03-32061.pngrewardsChoicegregtech/gt.metaitem.01-24514.pngAmber Lens\nC\u2081\u2080H\u2081\u2080O\u2081\u2086
+1714gregtech/gt.metaitem.03-32075.png0§8§9§lCheaper Simple Circuit6-1The NAND chip is an industrial replacement for the vacuum tubes that is much cheaper. You can't use it to make circuits though, only to make other things as a ULV circuit. Make sure to check out all the possible recipes!ANDpre17130gregtech/gt.metaitem.03-32061.pngrewardsChoicegregtech/gt.metaitem.01-24514.pngAmber Lens;C\u2081\u2080H\u2081\u2080O\u2081\u2086
 1gregtech/gt.metaitem.01-24540.pngAer Lens
-1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board\nA good Circuit Board
-8gregtech/gt.metaitem.03-32061.pngSimple SoC\nSimple System on a Chip
-8gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-8gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
-8Retrievalgregtech/gt.metaitem.03-32075.pngNAND Chip\nA very simple Circuit\nULV-Tier
+25tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
+8gregtech/gt.metaitem.03-32061.pngSimple SoC;Simple System on a Chip
+8gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+8gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+8Retrievalgregtech/gt.metaitem.03-32075.pngNAND Chip;A very simple Circuit;ULV-Tier
 64

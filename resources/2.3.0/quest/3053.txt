@@ -1,7 +1,7 @@
 3053bartworks/gt.bwMetaGeneratedcell-11016.png1§b§lDilution, Yet Again8-1Those sulfates aren't going to dilute themselves!
 
 You get more fluid per piece of monazite, what's not to like?ANDpre30461bartworks/gt.bwMetaGenerateddust-11019.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11019.pngMonazite Sulfate Dust\n??CeEu??\nAdded by GTNH: Lanthanides via BartWorks
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11019.pngMonazite Sulfate Dust;??CeEu??;Added by GTNH: Lanthanides via BartWorks
 1IC2/itemCellEmpty-1.pngWater Cell
-6Retrievalbartworks/gt.bwMetaGeneratedcell-11016.pngDiluted Monazite Sulfate Cell\n??LaNd??\nAdded by GTNH: Lanthanides via BartWorks
+6Retrievalbartworks/gt.bwMetaGeneratedcell-11016.pngDiluted Monazite Sulfate Cell;??LaNd??;Added by GTNH: Lanthanides via BartWorks
 7

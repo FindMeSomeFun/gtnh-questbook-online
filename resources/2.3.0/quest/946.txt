@@ -1,5 +1,5 @@
-946BiomesOPlenty/planks-10.png0§1§lBamboo Fence0-1Maybe you're lucky and started off in a bamboo forest. Bamboo is a very useful tree since it grows really fast and when you break the bottom-most block, the whole thing comes apart. You can use them as sticks, or you can place the bamboo sticks and they will grow and protect your base behind a 3 block tall wall. Alternatively, you can also use Berry Bushes. Well, assuming you don't just make a fence.ANDpre31minecraft/chest-0.pngrewardsChoiceBiomesOPlenty/saplings-2.pngBamboo Sapling\nBurn Time: 100
+946BiomesOPlenty/planks-10.png0§1§lBamboo Fence0-1Maybe you're lucky and started off in a bamboo forest. Bamboo is a very useful tree since it grows really fast and when you break the bottom-most block, the whole thing comes apart. You can use them as sticks, or you can place the bamboo sticks and they will grow and protect your base behind a 3 block tall wall. Alternatively, you can also use Berry Bushes. Well, assuming you don't just make a fence.ANDpre31minecraft/chest-0.pngrewardsChoiceBiomesOPlenty/saplings-2.pngBamboo Sapling;Burn Time: 100
 20TConstruct/trap.punji-0.pngPunji Stick
 10Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDRetrievalBiomesOPlenty/bamboo-0.pngBamboo\nBurn Time: 100
+5tasksANDRetrievalBiomesOPlenty/bamboo-0.pngBamboo;Burn Time: 100
 64

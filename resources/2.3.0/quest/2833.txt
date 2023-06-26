@@ -1,5 +1,5 @@
 2833TwilightForest/item.venisonRaw-0.png0Time to Kill (Wild Deer)39432000Christmas is canceled this year. So sad.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"

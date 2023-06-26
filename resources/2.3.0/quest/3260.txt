@@ -1,4 +1,4 @@
-3260Botania/specialFlower-0-dreadthorn.png0Violence Is Blue35-1The dreadthorne is similar to the bellethorne, but it only kills adult animals. This is helpful for farming livestock, though it's only one aspect of a successful farm.ANDpre32581Botania/lexicon-0.pngrewardsItemBotania/mushroom-15.pngBlack Shimmering Mushroom\nMay work as an Infusion Stabilizer
+3260Botania/specialFlower-0-dreadthorn.png0Violence Is Blue35-1The dreadthorne is similar to the bellethorne, but it only kills adult animals. This is helpful for farming livestock, though it's only one aspect of a successful farm.ANDpre32581Botania/lexicon-0.pngrewardsItemBotania/mushroom-15.pngBlack Shimmering Mushroom;May work as an Infusion Stabilizer
 1dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
-10tasksANDRetrievalBotania/specialFlower-0-dreadthorn.pngDreadthorne\nFunctional Flower\nPlan C
+10tasksANDRetrievalBotania/specialFlower-0-dreadthorn.pngDreadthorne;Functional Flower;Plan C
 1

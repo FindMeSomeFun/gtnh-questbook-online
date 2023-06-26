@@ -1,4 +1,4 @@
 26dreamcraft/item.WoodenBrickForm-0.png1§2§lForming Press v0.12-1As you may have noticed, you cannot turn clay into bricks directly. Well, to be fair, it wasn't a good recipe anyway. You'll probably end up with something bread-shaped. So in order to make bricks, you need a form. Get yourself a knife (flint above a stick) and a blank pattern, and cut a brick sized piece out. It's as easy as that.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metatool.01-34-Flint-Wood.pngKnife\nDurability: 6,400 / 6,400\nFlint lvl 1\nAttack Damage: 1.0\nMining Speed: 1.25\nFire Aspect I
+10tasksANDOptionalgregtech/gt.metatool.01-34-Flint-Wood.pngKnife;Durability: 6,400 / 6,400;Flint lvl 1;Attack Damage: 1.0;Mining Speed: 1.25;Fire Aspect I
 1Retrievaldreamcraft/item.WoodenBrickForm-0.pngWooden Form
 1

@@ -5,7 +5,7 @@ So basically: (sum of amounts of items in the pattern) * config multiplier (whic
 E.g: (wood log -> planks) in the interface w/o upgrades would draw: 1*10 AE units, which is 5 EU (remember 1 EU = 2 AE)
 (9 charcoal -> charcoal block) compressor recipe in the interface with 3 upgrades will draw 9*10*4^3*0.5 = 2070 EU, but only 45EU without any cards
 
-They're kind of expensive, so consider holding off if you can't afford the material or EU costs. If you remove it, all the extra patterns will pop out, so be careful of that when moving your stuff.ANDpre13021appliedenergistics2/item.ItemMultiPart-440.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+They're kind of expensive, so consider holding off if you can't afford the material or EU costs. If you remove it, all the extra patterns will pop out, so be careful of that when moving your stuff.ANDpre13021appliedenergistics2/item.ItemMultiPart-440.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-54.pngPattern Capacity Card\nP2P Tunnel - ME Interface (3)\nME Interface (3)\nME Dual Interface (3)
+1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-54.pngPattern Capacity Card;P2P Tunnel - ME Interface (3);ME Interface (3);ME Dual Interface (3)
 3

@@ -1,6 +1,6 @@
 906TwilightForest/item.trophy-4.png0Let Her Go39864000It seems the cold doesn't bother her. Committed crimes: None. But... you know... you have to progress somehow...
 
-§3PS: Keep going.ANDpre9070TwilightForest/item.alphaFur-0.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+§3PS: Keep going.ANDpre9070TwilightForest/item.alphaFur-0.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
 2Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
 5dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 5dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"

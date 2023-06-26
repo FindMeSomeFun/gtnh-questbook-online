@@ -1,5 +1,5 @@
-752gregtech/gt.metaitem.01-17020.png1§6§lSilicon Plate5-1Advanced circuits require transistors, which are made out of high grade silicon plates, fine tin wire and molten polyethylene.ANDpre7461gregtech/gt.metaitem.01-11020.pngrewardsItemharvestcraft/hotdogItem-0.pngHotdog\nharvestcraft:hotdogItem
-3gregtech/gt.metaitem.02-32113.pngDark Beer\ngregtech:gt.metaitem.02\nDark Beer, for the real Men
+752gregtech/gt.metaitem.01-17020.png1§6§lSilicon Plate5-1Advanced circuits require transistors, which are made out of high grade silicon plates, fine tin wire and molten polyethylene.ANDpre7461gregtech/gt.metaitem.01-11020.pngrewardsItemharvestcraft/hotdogItem-0.pngHotdog;harvestcraft:hotdogItem
+3gregtech/gt.metaitem.02-32113.pngDark Beer;gregtech:gt.metaitem.02;Dark Beer, for the real Men
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-17856.pngSilicon Solar Grade\nSi*
+5tasksANDRetrievalgregtech/gt.metaitem.01-17856.pngSilicon Solar Grade;Si*
 4

@@ -3,7 +3,7 @@
 The DT path is a cycle between a Mixer and the tower itself, where each distillation extracts a bit of Anti-Knock Agent from the MTBE Reaction Mixture, and will need to be mixed again. The two inputs needed for the setup are Butene and Methanol. Butene is obtainable from any of the max-height DT distillations, and Methanol from a mixture of Hydrogen and Carbon Dioxide/Carbon Monoxide. If you have a Fermented Biomass setup, you will already have CO2 ready to go, and Hydrogen can be sourced from a variety of ways.
 
 Make this cycle, and you'll have a safe fuel.ANDpre30120gregtech/gt.blockcasings5-2.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+32enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30994.pngAnti-Knock Agent Cell\nC\u2086H\u2081\u2084O
+5tasksANDRetrievalgregtech/gt.metaitem.01-30994.pngAnti-Knock Agent Cell;C\u2086H\u2081\u2084O
 30

@@ -4,8 +4,8 @@ For this purpose, you will need around one LHE per fluid nuke if you're doing on
 
 If your setup does not match that 800 HU threshold, you can use a Hot Coolant buffer and set up a redstone latch so that the Hot Coolant flows in fast enough, until the buffer is almost empty. ProjectRed has a special block that acts as the latch, and you will then need two redstone signals that scale with the amount of fluid stored in your buffer tank. One of the signals should be normal, and the other reversed.
 
-ANDpre31540IC2/blockreactorvessel-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-1154.pngLarge Heat Exchanger\nMachine Type: Heat Exchanger\nController Block for the Large Heat Exchanger\nMore complicated than a Fusion Reactor. Seriously\nInputs are Hot Coolant or Lava\nOutputs Coolant or Pahoehoe Lava and SH Steam/Steam\nRead the wiki article to understand how it works\nThen go to the Discord to understand the wiki\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech\nHot coolant steam output is increased by 5x
-1gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-28gregtech/gt.blockcasings2-14.pngTitanium Pipe Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-2Retrievalgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+ANDpre31540IC2/blockreactorvessel-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-1154.pngLarge Heat Exchanger;Machine Type: Heat Exchanger;Controller Block for the Large Heat Exchanger;More complicated than a Fusion Reactor. Seriously;Inputs are Hot Coolant or Lava;Outputs Coolant or Pahoehoe Lava and SH Steam/Steam;Read the wiki article to understand how it works;Then go to the Discord to understand the wiki;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech;Hot coolant steam output is increased by 5x
+1gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+28gregtech/gt.blockcasings2-14.pngTitanium Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2Retrievalgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 2

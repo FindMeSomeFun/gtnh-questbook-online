@@ -1,12 +1,12 @@
-1711gregtech/gt.blockmachines-2400.png1§c§lLuV Superconductors (32,768 EU/t)9-1How about lossless 32768 EU Wires? Tetraindiumditindibariumtitaniumheptacoppertetrakaidekaoxide is a superconductor wire and will transfer your energy without any loss. ANDpre14931gregtech/gt.blockmachines-16.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1711gregtech/gt.blockmachines-2400.png1§c§lLuV Superconductors (32,768 EU/t)9-1How about lossless 32768 EU Wires? Tetraindiumditindibariumtitaniumheptacoppertetrakaidekaoxide is a superconductor wire and will transfer your energy without any loss. ANDpre14931gregtech/gt.blockmachines-16.pngrewardsItemenhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 5dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDOptionalgregtech/gt.metaitem.01-2056.pngIndium Dust\nIn
-8gregtech/gt.metaitem.01-2057.pngTin Dust\nSn
-4gregtech/gt.metaitem.01-2063.pngBarium Dust\nBa
-4gregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
-2gregtech/gt.metaitem.01-2035.pngCopper Dust\nCu
-14gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
-28Retrievalgregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire\nMax Voltage: 32,768 (LuV)\nMax Amperage: 16\nLoss/Meter/Ampere: 0 EU-Volt
+5tasksANDOptionalgregtech/gt.metaitem.01-2056.pngIndium Dust;In
+8gregtech/gt.metaitem.01-2057.pngTin Dust;Sn
+4gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
+4gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+2gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+14gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+28Retrievalgregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
 60

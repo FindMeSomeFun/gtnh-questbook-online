@@ -1,9 +1,9 @@
-1522gregtech/gt.metaitem.01-11360.png1§b§lNiobium-Titanium8-1Niobium-Titanium becomes more important in LuV Tier. It needs a EV Mixer to mix and an Electric Blast Furnace with TPV heating coils.ANDpre861gregtech/gt.blockcasings5-3.png2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1522gregtech/gt.metaitem.01-11360.png1§b§lNiobium-Titanium8-1Niobium-Titanium becomes more important in LuV Tier. It needs a EV Mixer to mix and an Electric Blast Furnace with TPV heating coils.ANDpre861gregtech/gt.blockcasings5-3.png2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
-32gregtech/gt.metaitem.01-2047.pngNiobium Dust\nNb
-32Optionalgregtech/gt.metaitem.01-2360.pngNiobium-Titanium Dust\nNbTi
-64Retrievalgregtech/gt.metaitem.01-11360.pngNiobium-Titanium Ingot\nNbTi
+2tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+32gregtech/gt.metaitem.01-2047.pngNiobium Dust;Nb
+32Optionalgregtech/gt.metaitem.01-2360.pngNiobium-Titanium Dust;NbTi
+64Retrievalgregtech/gt.metaitem.01-11360.pngNiobium-Titanium Ingot;NbTi
 64

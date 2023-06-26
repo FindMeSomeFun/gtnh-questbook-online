@@ -7,16 +7,16 @@ Assemble the bow yourself on your tool forge.
 Lapis - Fortune on kills
 Moss - Self-repair (this is not visible in NEI until you unlock it in the GTNH Thaumcraft tab)
 
-§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§6NOTE: Some mobs require damage from specific tools. IF YOU ARE SHOOTING AT SOMETHING AND IT IS NOT GETTING HURT, *RUN*. And then figure out what weapon might be best to kill it.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalTConstruct/Pattern-1.pngCrossbow Limb Pattern\nMaterial Cost: 4
-1TConstruct/Pattern-2.pngCrossbow Body Pattern\nMaterial Cost: 5
-1TConstruct/woodPattern-15.pngTough Binding Pattern\nMaterial Cost: 3
-1TConstruct/woodPattern-23.pngBowstring Pattern\nMaterial Cost: 3
-1RetrievalTConstruct/CrossbowLimbPart-0.pngWooden Crossbow Limb\nDurability: 38\nDraw Speed: 0.9s\nArrow Speed: 3\nParts can be replaced
-1TConstruct/CrossbowBodyPart-0.pngWooden Crossbow Body\nDurability: 38\nDraw Speed: 0.9s\nArrow Speed: 3\nParts can be replaced
-1TConstruct/toughBinding-6.pngObsidian Tough Binding\nReinforced III\nDurability Modifier: 0.8x\nParts can be replaced
-1TConstruct/bowstring-0.pngBowstring\nDraw Speed: 1x\nDurability: 1x\nArrow Speed: 1x\nParts can be replaced
-1RetrievalTConstruct/Crossbow-0-38.pngWooden Crossbow\nReinforced III\nTool Level: 01-Abused\nIron Bolts
+10tasksANDOptionalTConstruct/Pattern-1.pngCrossbow Limb Pattern;Material Cost: 4
+1TConstruct/Pattern-2.pngCrossbow Body Pattern;Material Cost: 5
+1TConstruct/woodPattern-15.pngTough Binding Pattern;Material Cost: 3
+1TConstruct/woodPattern-23.pngBowstring Pattern;Material Cost: 3
+1RetrievalTConstruct/CrossbowLimbPart-0.pngWooden Crossbow Limb;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
+1TConstruct/CrossbowBodyPart-0.pngWooden Crossbow Body;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
+1TConstruct/toughBinding-6.pngObsidian Tough Binding;Reinforced III;Durability Modifier: 0.8x;Parts can be replaced
+1TConstruct/bowstring-0.pngBowstring;Draw Speed: 1x;Durability: 1x;Arrow Speed: 1x;Parts can be replaced
+1RetrievalTConstruct/Crossbow-0-38.pngWooden Crossbow;Reinforced III;Tool Level: 01-Abused;Iron Bolts
 1

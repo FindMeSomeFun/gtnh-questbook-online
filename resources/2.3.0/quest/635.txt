@@ -1,8 +1,8 @@
 635gregtech/gt.metaitem.01-2881.png0Floury Flurry13-1The first step in making bread is to macerate your wheat into flour with a mortar or a macerator.
 
-Flour can be used in many food recipes for different pam's harvestcraft foods.ORpre71minecraft/carrot-0.png6340minecraft/wheat-0.png27250Natura/barleyFood-0.pngrewardsItemgregtech/gt.metatool.01-24-Steel-Stone.pngMortar\nDurability: 51,200 / 51,200\nSteel lvl 3\nAttack Damage: 5.0\nMining Speed: 6.0
-1minecraft/potato-0.pngPotato\nminecraft:potato
-5minecraft/carrot-0.pngCarrot\nminecraft:carrot
+Flour can be used in many food recipes for different pam's harvestcraft foods.ORpre71minecraft/carrot-0.png6340minecraft/wheat-0.png27250Natura/barleyFood-0.pngrewardsItemgregtech/gt.metatool.01-24-Steel-Stone.pngMortar;Durability: 51,200 / 51,200;Steel lvl 3;Attack Damage: 5.0;Mining Speed: 6.0
+1minecraft/potato-0.pngPotato;minecraft:potato
+5minecraft/carrot-0.pngCarrot;minecraft:carrot
 5Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-2881.pngFlour
 16

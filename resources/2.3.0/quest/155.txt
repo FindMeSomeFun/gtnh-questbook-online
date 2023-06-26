@@ -1,6 +1,6 @@
-155openmodularturrets/fenceTierTwo-0.png0§6§lHarder, Stronger, Faster14-1No, actually not faster. But more durable than tier 1.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+155openmodularturrets/fenceTierTwo-0.png0§6§lHarder, Stronger, Faster14-1No, actually not faster. But more durable than tier 1.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalopenmodularturrets/fenceTierTwo-0.pngFence\nHardness: 20 - Blast Resistance: 20
-4openmodularturrets/hardWallTierTwo-0.pngHard Wall\nHardness: 20 - Blast Resistance: 20
+25tasksANDRetrievalopenmodularturrets/fenceTierTwo-0.pngFence;Hardness: 20 - Blast Resistance: 20
+4openmodularturrets/hardWallTierTwo-0.pngHard Wall;Hardness: 20 - Blast Resistance: 20
 4

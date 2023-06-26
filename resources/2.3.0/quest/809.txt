@@ -1,18 +1,18 @@
-809Avaritia/Dire_Crafting-0.png0Dire Crafting Table24-1The Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.ANDpre8310GalacticraftCore/item.basicItem-14.pngrewardsChoiceminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+809Avaritia/Dire_Crafting-0.png0Dire Crafting Table24-1The Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.ANDpre8310GalacticraftCore/item.basicItem-14.pngrewardsChoiceminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
 1witchery/ingredient-130.pngNull Catalyst
-1enhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalminecraft/crafting_table-0.pngCrafting Table\nBurn Time: 300
-81OptionalAvaritia/Triple_Craft-0.pngDouble Compressed Crafting Table\nBurn Time: 300
-1Optionalgregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
+1tasksANDOptionalminecraft/crafting_table-0.pngCrafting Table;Burn Time: 300
+81OptionalAvaritia/Triple_Craft-0.pngDouble Compressed Crafting Table;Burn Time: 300
+1Optionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
 144dreamcraft/item.StainlessSteelBars-0.pngStainless Steel Bars
-36Optionalminecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+36Optionalminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
 18Avaritia/Resource-0.pngDiamond Lattice
-36OptionalAvaritia/Resource-1.pngCrystal Matrix Ingot\nThis isn''t even its final form.
+36OptionalAvaritia/Resource-1.pngCrystal Matrix Ingot;This isn''t even its final form.
 9OptionalAvaritia/Crystal_Matrix-0.pngCrystal Matrix
 1OptionalGalacticraftCore/item.basicItem-14.pngAdvanced Wafer
 2gregtech/gt.metaitem.01-32642.pngElectric Piston
-2gregtech/gt.metaitem.01-32652.pngRobot Arm\n1 stack every 1 sec (as Cover)\nGrabs from and inserts into specific slots
-2gregtech/gt.metaitem.01-32705.pngMainframe\nAn Elite Circuit\nIV-Tier
+2gregtech/gt.metaitem.01-32652.pngRobot Arm;1 stack every 1 sec (as Cover);Grabs from and inserts into specific slots
+2gregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
 1RetrievalAvaritia/Dire_Crafting-0.pngDire Crafting Table
 1

@@ -1,27 +1,27 @@
-296Thaumcraft/ItemCrystalEssence-0-ordo.png0The Basic Elements32-1Of course you know where and how to get the basic essentia types. Right?ANDpre2950Thaumcraft/blockTube-7.pngrewardsChoiceThaumcraft/ItemCrystalEssence-0-nebrisum.pngCrystallized Essence\nNebrisum x1
-32Thaumcraft/ItemCrystalEssence-0-superbia.pngCrystallized Essence\nSuperbia x1
-32Thaumcraft/ItemCrystalEssence-0-strontio.pngCrystallized Essence\nStrontio x1
-32Thaumcraft/ItemCrystalEssence-0-luxuria.pngCrystallized Essence\nLuxuria x1
+296Thaumcraft/ItemCrystalEssence-0-ordo.png0The Basic Elements32-1Of course you know where and how to get the basic essentia types. Right?ANDpre2950Thaumcraft/blockTube-7.pngrewardsChoiceThaumcraft/ItemCrystalEssence-0-nebrisum.pngCrystallized Essence;Nebrisum x1
+32Thaumcraft/ItemCrystalEssence-0-superbia.pngCrystallized Essence;Superbia x1
+32Thaumcraft/ItemCrystalEssence-0-strontio.pngCrystallized Essence;Strontio x1
+32Thaumcraft/ItemCrystalEssence-0-luxuria.pngCrystallized Essence;Luxuria x1
 32Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/ItemCrystalEssence-0-ordo.pngCrystallized Essence\nOrdo x1
-1Thaumcraft/ItemCrystalEssence-0-aqua.pngCrystallized Essence\nAqua x1
-1Thaumcraft/ItemCrystalEssence-0-terra.pngCrystallized Essence\nTerra x1
-1Thaumcraft/ItemCrystalEssence-0-ignis.pngCrystallized Essence\nIgnis x1
-1Thaumcraft/ItemCrystalEssence-0-aer.pngCrystallized Essence\nAer x1
-1Thaumcraft/ItemCrystalEssence-0-perditio.pngCrystallized Essence\nPerditio x1
-1RetrievalThaumcraft/ItemCrystalEssence-0-radio.pngCrystallized Essence\nRadio x1
-1Thaumcraft/ItemCrystalEssence-0-superbia.pngCrystallized Essence\nSuperbia x1
-1Thaumcraft/ItemCrystalEssence-0-alienis.pngCrystallized Essence\nAlienis x1
-1Thaumcraft/ItemCrystalEssence-0-nebrisum.pngCrystallized Essence\nNebrisum x1
-1Thaumcraft/ItemCrystalEssence-0-strontio.pngCrystallized Essence\nStrontio x1
-1Thaumcraft/ItemCrystalEssence-0-tempus.pngCrystallized Essence\nTempus x1
-1Thaumcraft/ItemCrystalEssence-0-luxuria.pngCrystallized Essence\nLuxuria x1
-1RetrievalThaumcraft/ItemCrystalEssence-0-ira.pngCrystallized Essence\nIra x1
-1Thaumcraft/ItemCrystalEssence-0-spiritus.pngCrystallized Essence\nSpiritus x1
-1Thaumcraft/ItemCrystalEssence-0-mortuus.pngCrystallized Essence\nMortuus x1
-1Thaumcraft/ItemCrystalEssence-0-venenum.pngCrystallized Essence\nVenenum x1
-1Thaumcraft/ItemCrystalEssence-0-infernus.pngCrystallized Essence\nInfernus x1
-1Thaumcraft/ItemCrystalEssence-0-tenebrae.pngCrystallized Essence\nTenebrae x1
-1Thaumcraft/ItemCrystalEssence-0-corpus.pngCrystallized Essence\nCorpus x1
-1Thaumcraft/ItemCrystalEssence-0-exanimis.pngCrystallized Essence\nExanimis x1
+5tasksANDRetrievalThaumcraft/ItemCrystalEssence-0-ordo.pngCrystallized Essence;Ordo x1
+1Thaumcraft/ItemCrystalEssence-0-aqua.pngCrystallized Essence;Aqua x1
+1Thaumcraft/ItemCrystalEssence-0-terra.pngCrystallized Essence;Terra x1
+1Thaumcraft/ItemCrystalEssence-0-ignis.pngCrystallized Essence;Ignis x1
+1Thaumcraft/ItemCrystalEssence-0-aer.pngCrystallized Essence;Aer x1
+1Thaumcraft/ItemCrystalEssence-0-perditio.pngCrystallized Essence;Perditio x1
+1RetrievalThaumcraft/ItemCrystalEssence-0-radio.pngCrystallized Essence;Radio x1
+1Thaumcraft/ItemCrystalEssence-0-superbia.pngCrystallized Essence;Superbia x1
+1Thaumcraft/ItemCrystalEssence-0-alienis.pngCrystallized Essence;Alienis x1
+1Thaumcraft/ItemCrystalEssence-0-nebrisum.pngCrystallized Essence;Nebrisum x1
+1Thaumcraft/ItemCrystalEssence-0-strontio.pngCrystallized Essence;Strontio x1
+1Thaumcraft/ItemCrystalEssence-0-tempus.pngCrystallized Essence;Tempus x1
+1Thaumcraft/ItemCrystalEssence-0-luxuria.pngCrystallized Essence;Luxuria x1
+1RetrievalThaumcraft/ItemCrystalEssence-0-ira.pngCrystallized Essence;Ira x1
+1Thaumcraft/ItemCrystalEssence-0-spiritus.pngCrystallized Essence;Spiritus x1
+1Thaumcraft/ItemCrystalEssence-0-mortuus.pngCrystallized Essence;Mortuus x1
+1Thaumcraft/ItemCrystalEssence-0-venenum.pngCrystallized Essence;Venenum x1
+1Thaumcraft/ItemCrystalEssence-0-infernus.pngCrystallized Essence;Infernus x1
+1Thaumcraft/ItemCrystalEssence-0-tenebrae.pngCrystallized Essence;Tenebrae x1
+1Thaumcraft/ItemCrystalEssence-0-corpus.pngCrystallized Essence;Corpus x1
+1Thaumcraft/ItemCrystalEssence-0-exanimis.pngCrystallized Essence;Exanimis x1
 1

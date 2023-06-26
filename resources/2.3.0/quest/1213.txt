@@ -1,8 +1,8 @@
-1213gregtech/gt.blockmetal3-3.png1§b§9§d§l§b§c§lGetting Europium9-1To make a mk2 reactor, ender quarry, T5 rocket, unlock ZPM, or other things, you will need europium. Once you make a t5 rocket you will be able to find this as part of a very rare ore. Until then you need to produce it in the reactor. But it's probably not worth it to look for the ore anyway.ANDpre12121gregtech/gt.blockmachines-1193.pngrewardsChoicegregtech/gt.metaitem.01-32599.pngLapotronic Energy Orb Cluster\nReusable battery\n0 / 1,000,000,000 EU - Voltage: 32768\nLuV-Tier
-1enhancedlootbags/lootbag-41-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+1213gregtech/gt.blockmetal3-3.png1§b§9§d§l§b§c§lGetting Europium9-1To make a mk2 reactor, ender quarry, T5 rocket, unlock ZPM, or other things, you will need europium. Once you make a t5 rocket you will be able to find this as part of a very rare ore. Until then you need to produce it in the reactor. But it's probably not worth it to look for the ore anyway.ANDpre12121gregtech/gt.blockmachines-1193.pngrewardsChoicegregtech/gt.metaitem.01-32599.pngLapotronic Energy Orb Cluster;Reusable battery;0 / 1,000,000,000 EU - Voltage: 32768;LuV-Tier
+1enhancedlootbags/lootbag-41-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
-6gregtech/gt.metaitem.01-11067.pngNeodymium Ingot\nNd
+1tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+6gregtech/gt.metaitem.01-11067.pngNeodymium Ingot;Nd
 13Retrievalgregtech/gt.blockmetal3-3.pngBlock of Europium
-1gregtech/gt.metaitem.01-17070.pngEuropium Plate\nEu
+1gregtech/gt.metaitem.01-17070.pngEuropium Plate;Eu
 4

@@ -9,11 +9,11 @@ Homeland has lakes of Ender Goo, piles of Falling Obsidian and a strange Obsidia
 You can often find Homeland Cache, a floating transparent cube that can be broken. Endermen Baby Endermen and Ender Guardians spawn there.
 
 ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemHardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-8enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+8enhancedlootbags/lootbag-57.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n65 Knowledge Points
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-2.pngEnchanted End Stone
 1Retrievalminecraft/obsidian-0.pngObsidian
 16gregtech/gt.metaitem.98-4.pngEnder Goo Cell

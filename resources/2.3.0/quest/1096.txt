@@ -1,9 +1,9 @@
 1096Thaumcraft/ItemInkwell-0.png1Scribing Tool31-1To unlock research you need a scribing tool and paper. To do the research, you need a scribing tool and the research note you made in the research table, so you should probably make two tools.
 
 Note: Thaumcraft Research Tweaks has reworked the research table GUI. Aspects are now combined with drag & drop between aspects in the GUI. You can also right-click while dragging the aspect instead of dropping; the same works with the hexes. All the new features are described in your Thaumonomicon, make sure to checkout the 'Research', 'Research Expertise', 'Research Mastery' and 'Research Duplication' pages.ANDpre2261Thaumcraft/ItemThaumometer-0.pngrewardsItemminecraft/paper-0.pngPaper
-64Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+64Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/blockTable-0.pngTable\nBurn Time: 300
+5tasksANDRetrievalThaumcraft/blockTable-0.pngTable;Burn Time: 300
 2RetrievalThaumcraft/ItemInkwell-0.pngScribing Tools
 2minecraft/paper-0.pngPaper
 16

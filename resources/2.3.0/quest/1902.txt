@@ -4,6 +4,6 @@ Fused Quartz is no good now, forget about it ok? Instead, use the GTNH approved 
 
 §3There are 6 of them, use NEI.
 
-Okay, okay, you don't have to forget Fused Quartz, I'll give you some. Maybe you can stop rain with it.ANDpre1900IC2/blockGenerator-5.pngrewardsItemEnderIO/blockFusedQuartz-0.pngFused Quartz\nBlast Resistant\nGlass-Tier: HV\nBlast resistance is now 20. DOES NOT PROTECT AGAINST NUKES!
-10tasksANDRetrievaldreamcraft/tile.BronzePlatedReinforcedStone-0.pngBronze Plated Reinforced Stone\nHardness 60 Blast Resistance 200
+Okay, okay, you don't have to forget Fused Quartz, I'll give you some. Maybe you can stop rain with it.ANDpre1900IC2/blockGenerator-5.pngrewardsItemEnderIO/blockFusedQuartz-0.pngFused Quartz;Blast Resistant;Glass-Tier: HV;Blast resistance is now 20. DOES NOT PROTECT AGAINST NUKES!
+10tasksANDRetrievaldreamcraft/tile.BronzePlatedReinforcedStone-0.pngBronze Plated Reinforced Stone;Hardness 60 Blast Resistance 200
 1

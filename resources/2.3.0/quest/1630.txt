@@ -1,10 +1,10 @@
 1630ProjRedTransportation/projectred.transportation.routingchip-4.png0Item Extractor Chip25-1This chip will extract items from the connecting inventory. The extracted items then look for pipes with item responder chips where there's a free space they could go. If they don't find any they will go to the overflow default storage chest.
 
 If you want it to extract everything leave the filter empty and set it to blacklist.ANDpre16270ProjRedTransportation/projectred.transportation.routingchip-0.png16280ProjRedTransportation/projectred.transportation.routingchip-2.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
-2IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
-1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire\nMax Voltage: 8 (ULV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
+2IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
 8ProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
-1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
 1

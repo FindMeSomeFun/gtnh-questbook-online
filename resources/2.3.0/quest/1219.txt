@@ -2,15 +2,15 @@
 
 Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
 4minecraft/redstone_block-0.pngBlock of Redstone
-7enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+7enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-25tasksANDOptionalgregtech/gt.metaitem.02-22880.pngLong Rubber Rod\nC\u2085H\u2088
+25tasksANDOptionalgregtech/gt.metaitem.02-22880.pngLong Rubber Rod;C\u2085H\u2088
 2dreamcraft/item.LongObsidianRod-0.pngLong Obsidian Rod
-2gregtech/gt.metaitem.02-22526.pngLong Lapis Rod\n(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-2gregtech/gt.metaitem.01-26086.pngGold Bolt\nAu
-6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-3gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
-6minecraft/glass-0.pngGlass\nGlass-Tier: HV
+2gregtech/gt.metaitem.02-22526.pngLong Lapis Rod;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
+6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+3gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+6minecraft/glass-0.pngGlass;Glass-Tier: HV
 6RetrievalForestry/thermionicTubes-8.pngRubberised Electron Tube
 2Forestry/thermionicTubes-6.pngObsidian Electron Tube
 2Forestry/thermionicTubes-11.pngLapis Electron Tube

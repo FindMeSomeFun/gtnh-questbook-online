@@ -1,7 +1,7 @@
-1898gregtech/gt.blockmachines-754.png0§5§l§6§lMV Advanced Steam Boiler5-1The MV GT++ Steam Boiler is the next machine you can make to produce steam efficiently. It regulates its fuel more efficiently if it ends up being full.ANDpre7531gregtech/gt.metaitem.01-11306.pngrewardsChoicegregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
-2gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
-16gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
-8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1898gregtech/gt.blockmachines-754.png0§5§l§6§lMV Advanced Steam Boiler5-1The MV GT++ Steam Boiler is the next machine you can make to produce steam efficiently. It regulates its fuel more efficiently if it ends up being full.ANDpre7531gregtech/gt.metaitem.01-11306.pngrewardsChoicegregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+16gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.blockmachines-754.pngAdvanced Boiler [MV]\nProduces 1500L of Steam per second\nProduces 50 pollution/sec\nConsumes fuel only when temperature is less than 100C\nFuel with burn time greater than 500 is more efficient.\nDoesn''t explode if there''s no water\nAdded by: Alkalus - [GT++]
+25tasksANDRetrievalgregtech/gt.blockmachines-754.pngAdvanced Boiler [MV];Produces 1500L of Steam per second;Produces 50 pollution/sec;Consumes fuel only when temperature is less than 100C;Fuel with burn time greater than 500 is more efficient.;Doesn''t explode if there''s no water;Added by: Alkalus - [GT++]
 1

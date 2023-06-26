@@ -1,4 +1,4 @@
-122openmodularturrets/baseTierWood-0.png0§4§5§lTurret Base14-1Turrets must be placed on top of a turret base. Only the player who initially placed the base can access and configure the turret. So don't worry about people taking your ammunition.ANDpre1200openmodularturrets/chamberTierOne-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+122openmodularturrets/baseTierWood-0.png0§4§5§lTurret Base14-1Turrets must be placed on top of a turret base. Only the player who initially placed the base can access and configure the turret. So don't worry about people taking your ammunition.ANDpre1200openmodularturrets/chamberTierOne-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalopenmodularturrets/baseTierWood-0.pngTurret Base\n--Energy--\nMax capacity: 500\nMax IO: 50\n--Extras--\nNone\nThere are trees, everywhere...
+15tasksANDRetrievalopenmodularturrets/baseTierWood-0.pngTurret Base;--Energy--;Max capacity: 500;Max IO: 50;--Extras--;None;There are trees, everywhere...
 2

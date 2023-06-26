@@ -3,7 +3,7 @@
 §3If you're using a resource pack and the interface's GUI doesn't show up properly, you'll need to delete the assets\appliedenergistics2\textures\guis\interface.png file in your resourcepack zip file.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-22.pngLogic Processor
 1appliedenergistics2/item.ItemMultiMaterial-24.pngEngineering Processor
 1appliedenergistics2/item.ItemMultiMaterial-23.pngCalculation Processor
-1enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-440.pngME Interface
 4

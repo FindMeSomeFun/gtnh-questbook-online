@@ -3,6 +3,6 @@
 You can get silicon dioxide easily by centrifuging glass dust or electrolyzing sand.
 
 If you have raw silicon dust but want silicon dioxide for some reason, you can use an arc furnace or an autoclave.ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-1gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust\nSiO\u2082
-12tasksANDRetrievalgregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust\nSiO\u2082
+1gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
+12tasksANDRetrievalgregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
 12

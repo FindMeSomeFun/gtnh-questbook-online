@@ -2,9 +2,9 @@
 
 The first one is hydrofluoric acid. If you haven't reached the moon yet, the best sources for fluorine might be cryolite. Other options are mining calcite or sandstone for a chance at fluorite ore, and centrifuging stone dust or black granite dust for biotite. You can also get small amounts from Lepidolite in salt veins and Mica. Mix it with some hydrogen to get hydrofluoric acid.
 
-If you have reached the moon, you can also process Bastnasite ore.ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemgregtech/gt.metaitem.01-2848.pngBiotite Dust\nKMg\u2083Al\u2083F\u2082Si\u2083O\u2081\u2080
+If you have reached the moon, you can also process Bastnasite ore.ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemgregtech/gt.metaitem.01-2848.pngBiotite Dust;KMg\u2083Al\u2083F\u2082Si\u2083O\u2081\u2080
 110Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
-48gregtech/gt.metaitem.01-30014.pngFluorine Cell\nF
-48Retrievalgregtech/gt.metaitem.01-30667.pngHydrofluoric Acid Cell\nHF
+1tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+48gregtech/gt.metaitem.01-30014.pngFluorine Cell;F
+48Retrievalgregtech/gt.metaitem.01-30667.pngHydrofluoric Acid Cell;HF
 48

@@ -2,16 +2,16 @@
 
 You can also power it with batteries, if you're worried about it draining your power, or don't want to set up the infrastructure.
 
-§3Rockets keep their fuel in them on landing now, so you don't need to take this with you anymore unless you want to go to multiple places in one trip. Or you didn't fill it all the way or something.ANDpre8191GalaxySpace/item.ModuleSmallFuelCanister-0.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
+§3Rockets keep their fuel in them on landing now, so you don't need to take this with you anymore unless you want to go to multiple places in one trip. Or you didn't fill it all the way or something.ANDpre8191GalaxySpace/item.ModuleSmallFuelCanister-0.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
 1GalacticraftCore/item.basicItem-9.pngCompressed Steel
-2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
 2GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
 2gregtech/gt.metaitem.01-32602.pngElectric Motor
-1gregtech/gt.metaitem.01-32612.pngElectric Pump\n512 L/t (10,240 L/s) as Cover
-1gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe\nFluid Capacity: 4,800 L/sec\nHeat Limit: 2,500 K
+1gregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
+1gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
 1GalacticraftCore/item.basicItem-13.pngBasic Wafer
-1gregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cell\nNo Fluids Contained\n0L / 8,000L
-1RetrievalGalacticraftCore/tile.fuelLoader-0.pngFuel Loader\nPower required: 91 EU /s
+1gregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cell;No Fluids Contained;0L / 8,000L
+1RetrievalGalacticraftCore/tile.fuelLoader-0.pngFuel Loader;Power required: 91 EU /s
 1

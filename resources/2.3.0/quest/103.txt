@@ -10,11 +10,11 @@ By the time you've completed this, you'll probably be done with most of the tab,
 
 §3Also check the Armor and Jetpacks tab for new unlocks.
 Note: If you were exploring Twilight Forest before 2.1.1.4 you won't find any cryolite in existing veins. You'll need to explore new chunks.
-Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumaturgy Tab.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumaturgy Tab.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDOptionalgregtech/gt.metaitem.01-2697.pngAlumina Dust\nAl\u2082O\u2083
-20gregtech/gt.metaitem.01-2699.pngCryolite Dust\nNa\u2083AlF\u2086
+3tasksANDOptionalgregtech/gt.metaitem.01-2697.pngAlumina Dust;Al\u2082O\u2083
+20gregtech/gt.metaitem.01-2699.pngCryolite Dust;Na\u2083AlF\u2086
 10OptionalTConstruct/materials-12.pngRaw Aluminum
-8Retrievalgregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
+8Retrievalgregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
 8

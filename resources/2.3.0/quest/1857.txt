@@ -1,13 +1,13 @@
 1857harvestcraft/chickenpotpieItem-0.png0No Chicken Escapes!13-1Do you like pies? I sure do! There are many varieties of pies available for you. The chicken pot pie is one of the easiest to make. Just a chicken, potato, carrot, and some dough. The fruit pies are a little simpler, so they don't quite restore as much saturation, but are great for filling tummies while you wait for the best foods to wear off.ANDpre6370gregtech/gt.metaitem.02-32559.png6650harvestcraft/potItem-0.pngrewardsItemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15harvestcraft/blueberrypieItem-0.pngBlueberry Pie\nharvestcraft:blueberrypieItem
-1harvestcraft/cherrypieItem-0.pngCherry Pie\nharvestcraft:cherrypieItem
-1harvestcraft/raspberrypieItem-0.pngRaspberry Pie\nharvestcraft:raspberrypieItem
-1tasksANDOptionalminecraft/chicken-0.pngRaw Chicken\nminecraft:chicken
-4minecraft/potato-0.pngPotato\nminecraft:potato
-4minecraft/carrot-0.pngCarrot\nminecraft:carrot
-4gregtech/gt.metaitem.02-32559.pngDough\ngregtech:gt.metaitem.02\nFor making Breads
-8minecraft/apple-0.pngApple\nminecraft:apple
+15harvestcraft/blueberrypieItem-0.pngBlueberry Pie;harvestcraft:blueberrypieItem
+1harvestcraft/cherrypieItem-0.pngCherry Pie;harvestcraft:cherrypieItem
+1harvestcraft/raspberrypieItem-0.pngRaspberry Pie;harvestcraft:raspberrypieItem
+1tasksANDOptionalminecraft/chicken-0.pngRaw Chicken;minecraft:chicken
+4minecraft/potato-0.pngPotato;minecraft:potato
+4minecraft/carrot-0.pngCarrot;minecraft:carrot
+4gregtech/gt.metaitem.02-32559.pngDough;gregtech:gt.metaitem.02;For making Breads
+8minecraft/apple-0.pngApple;minecraft:apple
 4minecraft/sugar-0.pngSugar
-4Retrievalharvestcraft/chickenpotpieItem-0.pngChicken Pot Pie\nharvestcraft:chickenpotpieItem
-4harvestcraft/applepieItem-0.pngApple Pie\nharvestcraft:applepieItem
+4Retrievalharvestcraft/chickenpotpieItem-0.pngChicken Pot Pie;harvestcraft:chickenpotpieItem
+4harvestcraft/applepieItem-0.pngApple Pie;harvestcraft:applepieItem
 4

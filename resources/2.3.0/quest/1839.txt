@@ -1,13 +1,13 @@
-1839TwilightForest/item.ironwoodPlate-0-enchanted.png0"Oh, Magic" Armor14-1Ironwood Armor is a magic armor with some special enchants. The Helm gives aqua afinity, the shoes feather falling, the plate and the legs extra protection.ORpre11580TwilightForest/item.ironwoodIngot-0.png19300TwilightForest/item.liveRoot-0.pngrewardsChoiceTwilightForest/item.ironwoodSword-0-enchanted.pngIronwood Sword\nKnockback I\n+6 Attack Damage\nDurability: 512/512
-1TwilightForest/item.ironwoodAxe-0-enchanted.pngIronwood Axe\nFortune I\n+5 Attack Damage\nDurability: 512/512
-1TwilightForest/item.ironwoodShovel-0-enchanted.pngIronwood Shovel\nUnbreaking I\n+3 Attack Damage\nDurability: 512/512
-1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1839TwilightForest/item.ironwoodPlate-0-enchanted.png0"Oh, Magic" Armor14-1Ironwood Armor is a magic armor with some special enchants. The Helm gives aqua afinity, the shoes feather falling, the plate and the legs extra protection.ORpre11580TwilightForest/item.ironwoodIngot-0.png19300TwilightForest/item.liveRoot-0.pngrewardsChoiceTwilightForest/item.ironwoodSword-0-enchanted.pngIronwood Sword;Knockback I;+6 Attack Damage;Durability: 512/512
+1TwilightForest/item.ironwoodAxe-0-enchanted.pngIronwood Axe;Fortune I;+5 Attack Damage;Durability: 512/512
+1TwilightForest/item.ironwoodShovel-0-enchanted.pngIronwood Shovel;Unbreaking I;+3 Attack Damage;Durability: 512/512
+1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-17338.pngIronwood Plate\nFe\u2089((COH)\u2083Ma)\u2089Au
-24CraftingTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Helm\nAqua Affinity I\nProtection: 2\nDurability: 220/220
-1TwilightForest/item.ironwoodPlate-0-enchanted.pngIronwood Plate\nProtection I\nProtection: 7\nDurability: 320/320
-1TwilightForest/item.ironwoodLegs-0-enchanted.pngIronwood Legs\nProtection I\nProtection: 5\nDurability: 300/300
-1TwilightForest/item.ironwoodBoots-0-enchanted.pngIronwood Boots\nFeather Falling I\nProtection: 2\nDurability: 260/260
+25tasksANDOptionalgregtech/gt.metaitem.01-17338.pngIronwood Plate;Fe\u2089((COH)\u2083Ma)\u2089Au
+24CraftingTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Helm;Aqua Affinity I;Protection: 2;Durability: 220/220
+1TwilightForest/item.ironwoodPlate-0-enchanted.pngIronwood Plate;Protection I;Protection: 7;Durability: 320/320
+1TwilightForest/item.ironwoodLegs-0-enchanted.pngIronwood Legs;Protection I;Protection: 5;Durability: 300/300
+1TwilightForest/item.ironwoodBoots-0-enchanted.pngIronwood Boots;Feather Falling I;Protection: 2;Durability: 260/260
 1

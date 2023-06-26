@@ -1,4 +1,4 @@
-1045gregtech/gt.metaitem.01-30629.png0Sodium Persulfate4048000Want some sodium persulfate? Buy some!ANDpre10211gregtech/gt.metaitem.01-30718.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell\nNa\u2082S\u2082O\u2088
+1045gregtech/gt.metaitem.01-30629.png0Sodium Persulfate4048000Want some sodium persulfate? Buy some!ANDpre10211gregtech/gt.metaitem.01-30718.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell;Na\u2082S\u2082O\u2088
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
 16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 7

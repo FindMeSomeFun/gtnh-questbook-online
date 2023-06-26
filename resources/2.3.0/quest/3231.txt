@@ -1,6 +1,6 @@
 3231Botania/manaResource-5.png1Round one... FIGHT!35-1Put the 4 pylons down and shift right click the terrasteel ingot on the beacon to summon the Gaia Guardian.ANDpre32301Botania/pylon-1.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000"
-10tasksANDRetrievalBotania/pylon-2.pngGaia Pylon\nMay work as an Infusion Stabilizer\nEnchantment Power: 8.0
-4minecraft/beacon-0.pngBeacon\nGlass-Tier: HV
+10tasksANDRetrievalBotania/pylon-2.pngGaia Pylon;May work as an Infusion Stabilizer;Enchantment Power: 8.0
+4minecraft/beacon-0.pngBeacon;Glass-Tier: HV
 1Botania/manaResource-4.pngTerrasteel Ingot
 1RetrievalBotania/manaResource-5.pngGaia Spirit
 1

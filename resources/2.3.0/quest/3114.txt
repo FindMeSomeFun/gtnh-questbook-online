@@ -6,11 +6,11 @@ ATTENTION: This setup is technically HV, but it's quite expensive. It's fine if 
 
 With Charcoal Byproducts, the full setup involves DTing that into Wood Tar, Wood Vinegar and Wood Gas, and then DTing all of those into their respective outputs. With one tower for each, you will end up with a quad DT setup, very expensive overall in terms of Stainless Steel, but with huge savings compared to making 4 separate ones. Keep in mind, however, that they will not all have the same height. Additionally, Wood Gas is not as valuable as the other two (although it is a decent Ethylene source), so it's also a good idea to make 2 of the 4 DTs process that, and burn the Wood Gas for the little power it can provide.
 
-As a final note, the towers do process things slowly. Add Distilleries, if you wish, to get specific outputs.ANDpre31100gregtech/gt.blockmachines-1126.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
-32enhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+As a final note, the towers do process things slowly. Add Distilleries, if you wish, to get specific outputs.ANDpre31100gregtech/gt.blockmachines-1126.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+32enhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 3dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 10dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-30675.pngCharcoal Byproducts Cell
-64gregtech/gt.blockmachines-1126.pngDistillation Tower\nMachine Type: Distillery\nController block for the Distillation Tower\nFluids are only put out at the correct height\nThe correct height equals the slot number in the NEI recipe\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
-3gregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+64gregtech/gt.blockmachines-1126.pngDistillation Tower;Machine Type: Distillery;Controller block for the Distillation Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+3gregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 90

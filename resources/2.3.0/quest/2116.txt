@@ -1,3 +1,3 @@
-2116adventurebackpack/adventureBackpack-29.png0Creeper Repellant14-1An ocelot backpack will get those creepers running away from you. Nice protection against those drowning creepers! Don't get too close to them or else their repulsion will be overriden and they'll blow up!ANDpre21120adventurebackpack/adventureBackpack-0.pngrewardsItemharvestcraft/fishandchipsItem-0.pngFish and Chips\nharvestcraft:fishandchipsItem
-64tasksANDRetrievaladventurebackpack/adventureBackpack-29.pngAdventure Backpack\nOcelot
+2116adventurebackpack/adventureBackpack-29.png0Creeper Repellant14-1An ocelot backpack will get those creepers running away from you. Nice protection against those drowning creepers! Don't get too close to them or else their repulsion will be overriden and they'll blow up!ANDpre21120adventurebackpack/adventureBackpack-0.pngrewardsItemharvestcraft/fishandchipsItem-0.pngFish and Chips;harvestcraft:fishandchipsItem
+64tasksANDRetrievaladventurebackpack/adventureBackpack-29.pngAdventure Backpack;Ocelot
 1

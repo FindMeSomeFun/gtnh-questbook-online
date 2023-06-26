@@ -2,20 +2,20 @@
 
 You'll need Nichrome Coils and an HV Assembler.
 
-§3Whether these are worth it to save a little power or not is up to you of course.ANDpre791gregtech/gt.blockcasings5-2.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3Whether these are worth it to save a little power or not is up to you of course.ANDpre791gregtech/gt.blockcasings5-2.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
-1gregtech/gt.metaitem.01-2063.pngBarium Dust\nBa
-9gregtech/gt.metaitem.01-2035.pngCopper Dust\nCu
-10gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
-20Optionalgregtech/gt.metaitem.01-2988.pngSuperconductor Base HV Dust\nTiBa\u2089Cu\u2081\u2080O\u2082\u2080
-40Optionalgregtech/gt.metaitem.01-11988.pngSuperconductor Base HV Ingot\nTiBa\u2089Cu\u2081\u2080O\u2082\u2080
-24Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 2\nLoss/Meter/Ampere: 8 EU-Volt
-48Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 2\nLoss/Meter/Ampere: 8 EU-Volt
-48gregtech/gt.blockmachines-5150.pngTiny Titanium Fluid Pipe\nFluid Capacity: 1,600 L/sec\nHeat Limit: 5,000 K
-32gregtech/gt.metaitem.01-32612.pngElectric Pump\n512 L/t (10,240 L/s) as Cover
-8gregtech/gt.metaitem.01-30004.pngHelium Cell\nHe
-32Retrievalgregtech/gt.blockmachines-2340.png1x Superconductor HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 6\nLoss/Meter/Ampere: 0 EU-Volt
+1tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+1gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
+9gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+10gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+20Optionalgregtech/gt.metaitem.01-2988.pngSuperconductor Base HV Dust;TiBa\u2089Cu\u2081\u2080O\u2082\u2080
+40Optionalgregtech/gt.metaitem.01-11988.pngSuperconductor Base HV Ingot;TiBa\u2089Cu\u2081\u2080O\u2082\u2080
+24Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 8 EU-Volt
+48Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 8 EU-Volt
+48gregtech/gt.blockmachines-5150.pngTiny Titanium Fluid Pipe;Fluid Capacity: 1,600 L/sec;Heat Limit: 5,000 K
+32gregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
+8gregtech/gt.metaitem.01-30004.pngHelium Cell;He
+32Retrievalgregtech/gt.blockmachines-2340.png1x Superconductor HV Wire;Max Voltage: 512 (HV);Max Amperage: 6;Loss/Meter/Ampere: 0 EU-Volt
 48

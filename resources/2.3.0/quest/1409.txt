@@ -1,17 +1,17 @@
 1409gregtech/gt.blockmachines-2380.png1§b§lIV Superconductors (8192 EU/t)8-1How about lossless 8192 EU Wires? Vanadiumtriindinide is a superconductor wire and will transfer your energy without any loss. 
 
-From now on, SCs are not optional, you need to make them to craft stuff.ANDpre4751gregtech/gt.blockcasings5-4.png10051gregtech/gt.metaitem.01-2056.png14101gregtech/gt.blockmachines-585.png14911gregtech/gt.metaitem.01-11372.png15221gregtech/gt.metaitem.01-11360.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+From now on, SCs are not optional, you need to make them to craft stuff.ANDpre4751gregtech/gt.blockcasings5-4.png10051gregtech/gt.metaitem.01-2056.png14101gregtech/gt.blockmachines-585.png14911gregtech/gt.metaitem.01-11372.png15221gregtech/gt.metaitem.01-11360.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-2029.pngVanadium Dust\nV
-3gregtech/gt.metaitem.01-2056.pngIndium Dust\nIn
-9Optionalgregtech/gt.metaitem.01-2990.pngSuperconductor Base IV Dust\nVIn\u2083
-12Optionalgregtech/gt.metaitem.01-11990.pngSuperconductor Base IV Ingot\nVIn\u2083
-12Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire\nMax Voltage: 8,192 (IV)\nMax Amperage: 4\nLoss/Meter/Ampere: 64 EU-Volt
-24Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire\nMax Voltage: 8,192 (IV)\nMax Amperage: 4\nLoss/Meter/Ampere: 64 EU-Volt
-24gregtech/gt.blockmachines-5180.pngTiny Niobium-Titanium Fluid Pipe\nFluid Capacity: 3,000 L/sec\nHeat Limit: 2,900 K
-16gregtech/gt.metaitem.01-32614.pngElectric Pump\n8,192 L/t (163,840 L/s) as Cover
-2gregtech/gt.metaitem.01-30004.pngHelium Cell\nHe
-16Retrievalgregtech/gt.blockmachines-2380.png1x Superconductor IV Wire\nMax Voltage: 8,192 (IV)\nMax Amperage: 12\nLoss/Meter/Ampere: 0 EU-Volt
+2tasksANDOptionalgregtech/gt.metaitem.01-2029.pngVanadium Dust;V
+3gregtech/gt.metaitem.01-2056.pngIndium Dust;In
+9Optionalgregtech/gt.metaitem.01-2990.pngSuperconductor Base IV Dust;VIn\u2083
+12Optionalgregtech/gt.metaitem.01-11990.pngSuperconductor Base IV Ingot;VIn\u2083
+12Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 64 EU-Volt
+24Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 64 EU-Volt
+24gregtech/gt.blockmachines-5180.pngTiny Niobium-Titanium Fluid Pipe;Fluid Capacity: 3,000 L/sec;Heat Limit: 2,900 K
+16gregtech/gt.metaitem.01-32614.pngElectric Pump;8,192 L/t (163,840 L/s) as Cover
+2gregtech/gt.metaitem.01-30004.pngHelium Cell;He
+16Retrievalgregtech/gt.blockmachines-2380.png1x Superconductor IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 0 EU-Volt
 24

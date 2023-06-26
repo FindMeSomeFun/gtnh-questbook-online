@@ -5,11 +5,11 @@ In general, Biodiesel has less power per bucket than Diesel, which is its main d
 Between the two, Goldfish have a faster fluid extraction recipe, so they are often recommended for that reason, although it's not a dealbreaker. It's recommended that you get high-statted crops if you want to follow this route, although it is not a necessity, because there are other options that never go into these IC2 crops.
 
 How many options are there, really? There are many, but they can be divided into 3 categories, and that's what the quest tasks focus on: IC2 crops in a Crop Manager, regular crops in a Multifarm or automatic fishing in a fish trap. All of them are sources of a biological oil, either Seed Oil or Fish Oil, which can then be processed into Biodiesel.ORpre11481gregtech/gt.blockmachines-12.png31170minecraft/coal-1.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+32enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-1tasksANDOptionalgregtech/gt.metaitem.02-32557.pngRape\nTime to oil up!
-32Optionalharvestcraft/peanutItem-0.pngPeanut\nharvestcraft:peanutItem
-32Optionalminecraft/fish-0.pngRaw Fish\nminecraft:fish
-32Retrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extractor\nExtracting Fluids from Items\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+1tasksANDOptionalgregtech/gt.metaitem.02-32557.pngRape;Time to oil up!
+32Optionalharvestcraft/peanutItem-0.pngPeanut;harvestcraft:peanutItem
+32Optionalminecraft/fish-0.pngRaw Fish;minecraft:fish
+32Retrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extractor;Extracting Fluids from Items;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

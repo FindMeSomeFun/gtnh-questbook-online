@@ -12,8 +12,8 @@ For the best turbine materials, see the spreadsheet and Large Turbine Calculator
 
 
 
-ANDpre1761gregtech/gt.blockmachines-14.pngrewardstasksANDOptionalgregtech/gt.blockcasings4-10.pngStainless Steel Turbine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-29gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
-1gregtech/gt.blockmachines-51.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 16,000L
-1Retrievalgregtech/gt.blockmachines-1151.pngLarge Gas Turbine\nMachine Type: Gas Turbine\nController block for the Large Gas Turbine\nNeeds a Turbine, place inside controller\nWarning: Will be capped at 8192 EU/t in a future update\nSee the Advanced Large Gas Turbine as the next, uncapped, option\nCauses: 300 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+ANDpre1761gregtech/gt.blockmachines-14.pngrewardstasksANDOptionalgregtech/gt.blockcasings4-10.pngStainless Steel Turbine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+29gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
+1Retrievalgregtech/gt.blockmachines-1151.pngLarge Gas Turbine;Machine Type: Gas Turbine;Controller block for the Large Gas Turbine;Needs a Turbine, place inside controller;Warning: Will be capped at 8192 EU/t in a future update;See the Advanced Large Gas Turbine as the next, uncapped, option;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

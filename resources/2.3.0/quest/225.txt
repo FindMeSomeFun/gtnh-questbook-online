@@ -2,9 +2,9 @@
 
 First, place water in a 2x2 grid, with 12 flowers surrounding it. Then toss in a portal crystal to open it up. And no, a diamond is not enough.
 
-§3You should be able to use any vanilla flower.ANDpre141Thaumcraft/blockCustomPlant-1.png881gregtech/gt.blockmachines-1120.pngrewardsChoiceTConstruct/materials-26.pngSilky Jewel\nTool Modifier: Silky
-1Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
-1enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3You should be able to use any vanilla flower.ANDpre141Thaumcraft/blockCustomPlant-1.png881gregtech/gt.blockmachines-1120.pngrewardsChoiceTConstruct/materials-26.pngSilky Jewel;Tool Modifier: Silky
+1Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
+1enhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievaldreamcraft/item.TwilightCrystal-0.pngQuick and Dirty Portal Generator

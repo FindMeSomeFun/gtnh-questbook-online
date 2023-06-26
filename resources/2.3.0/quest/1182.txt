@@ -1,12 +1,12 @@
 1182Railcraft/machine.gamma-4.png0Fluid Loader and Unloader14-1If you plan to automate the oil transport from your oil field far away, you need a fluid loader and unloader. A locking track will stop the train as long as oil is loaded or unloaded.
 
-§3PS: You can also use the long-distance pipeline.ANDpre8660minecraft/rail-0.pngrewardsChoicegregtech/gt.blockmachines-5103.pngLarge Wooden Fluid Pipe\nFluid Capacity: 1,200 L/sec\nHeat Limit: 350 K
-128gregtech/gt.metaitem.01-32610.pngElectric Pump\n32 L/t (640 L/s) as Cover
+§3PS: You can also use the long-distance pipeline.ANDpre8660minecraft/rail-0.pngrewardsChoicegregtech/gt.blockmachines-5103.pngLarge Wooden Fluid Pipe;Fluid Capacity: 1,200 L/sec;Heat Limit: 350 K
+128gregtech/gt.metaitem.01-32610.pngElectric Pump;32 L/t (640 L/s) as Cover
 1minecraft/rail-0.pngTrack
-64enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+64enhancedlootbags/lootbag-32.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalRailcraft/machine.gamma-4.pngFluid Loader\nLoads Fluids into Carts\n- Place 1-2 blocks above Track -\nMobs cannot Spawn on this Block
-1Railcraft/machine.gamma-5.pngFluid Unloader\nUnloads Fluids from Carts\n- Place under Track -\nMobs cannot Spawn on this Block
-1RetrievalRailcraft/track-20176-locking.pngLocking Track\nStops and holds carts\n- Hit with Crowbar to change mode -\n- Apply Redstone to enable -
+25tasksANDRetrievalRailcraft/machine.gamma-4.pngFluid Loader;Loads Fluids into Carts;- Place 1-2 blocks above Track -;Mobs cannot Spawn on this Block
+1Railcraft/machine.gamma-5.pngFluid Unloader;Unloads Fluids from Carts;- Place under Track -;Mobs cannot Spawn on this Block
+1RetrievalRailcraft/track-20176-locking.pngLocking Track;Stops and holds carts;- Hit with Crowbar to change mode -;- Apply Redstone to enable -
 2

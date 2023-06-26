@@ -9,23 +9,23 @@ Max flying height is limited to Y-200.
 Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
 
 §3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.ANDpre18700gregtech/gt.blockmachines-1111.pngrewardsChoiceBuildCraftEnergy/bucketFuel-0.pngFuel Bucket
-4minecraft/enchanted_book-0.pngEnchanted Book\nFeather Falling III\nHold the Sneak key for Enchantment Description
-1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4minecraft/enchanted_book-0.pngEnchanted Book;Feather Falling III;Hold the Sneak key for Enchantment Description
+1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDOptionalgregtech/gt.metaitem.02-31305.pngSteel Gear\nFe\u2085\u2080C
+25tasksANDOptionalgregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
 1IC2/itemRecipePart-12.pngShaft
-4gregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
+4gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
 3Optionaladventurebackpack/backpackComponent-6.pngCopter Blades
-1Optionalgregtech/gt.blockmachines-1111.pngAdvanced Combustion Generator\nRequires liquid Fuel\nCauses 36 Pollution per second\nFuel Efficiency: 90%\nVoltage OUT: 128 (MV)\nCapacity: 10,752 EU
-1gregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe\nFluid Capacity: 9,600 L/sec\nHeat Limit: 2,500 K
+1Optionalgregtech/gt.blockmachines-1111.pngAdvanced Combustion Generator;Requires liquid Fuel;Causes 36 Pollution per second;Fuel Efficiency: 90%;Voltage OUT: 128 (MV);Capacity: 10,752 EU
+1gregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe;Fluid Capacity: 9,600 L/sec;Heat Limit: 2,500 K
 1gregtech/gt.metaitem.01-32641.pngElectric Piston
-2gregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
+2gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
 5Optionaladventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
 1Optionaladventurebackpack/backpackComponent-6.pngCopter Blades
 1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
 1gregtech/gt.metaitem.01-32601.pngElectric Motor
 1adventurebackpack/backpackComponent-2.pngBackpack Tank
-1gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pipe\nFluid Capacity: 800 L/sec\nHeat Limit: 2,500 K
-3gregtech/gt.metaitem.01-27500.pngDiamond Screw\nC
+1gregtech/gt.blockmachines-5130.pngTiny Steel Fluid Pipe;Fluid Capacity: 800 L/sec;Heat Limit: 2,500 K
+3gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
 2Retrievaladventurebackpack/copterPack-0.pngCopter Pack
 1

@@ -1,4 +1,4 @@
 1747universalsingularities/universal.bigReactors.singularity-1.png0Your First Computer26-1Place the power converter you got earlier near a cable (you could also power it with RF if you wanted) and connect it with your wire cutters. Now place your computer case by the converter and by the magic of technology it shall fuel the computer case! Now take your hard drive, memory and graphics cards and place them inside, place the disk drive next to the computer and insert the operating system disk. Insert the BIOS we made into the case and turn it on.ANDpre17500OpenComputers/item-1.png17510OpenComputers/item-8.png17530OpenComputers/item-29.png17540OpenComputers/case1-0.png17550OpenComputers/wrench-0.png17560OpenComputers/item-5.png17600OpenComputers/adapter-0.png17620OpenComputers/keyboard-0.pngrewardsItemOpenComputers/item-48.pngInterweb
-1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
 4tasksANDCheckboxcheckbox-.pngCheckbox
 1

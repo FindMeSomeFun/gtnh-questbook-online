@@ -1,4 +1,4 @@
-280Thaumcraft/ItemEldritchObject-0.png1They See Me, They Watch Me32-1Eyes. Yes. Eyes! I need eyes, my precious. Not spidery ones, no. Nasty hairy things. Don't taste good. Eldritch eyes! I will rip those from their bodies.ANDpre2811Thaumcraft/ItemEldritchObject-1.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+280Thaumcraft/ItemEldritchObject-0.png1They See Me, They Watch Me32-1Eyes. Yes. Eyes! I need eyes, my precious. Not spidery ones, no. Nasty hairy things. Don't taste good. Eldritch eyes! I will rip those from their bodies.ANDpre2811Thaumcraft/ItemEldritchObject-1.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalThaumcraft/ItemEldritchObject-0.pngEldritch Eye\nIt seems to be watching you.
+1tasksANDRetrievalThaumcraft/ItemEldritchObject-0.pngEldritch Eye;It seems to be watching you.
 4

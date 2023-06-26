@@ -1,8 +1,8 @@
 218DraconicEvolution/dezilsMarshmallow-0.png0Reward Choice: Loot24-1Don't need a personal dimension, eh? Well, then you'll probably be happy with some extra loot. Choose wisely; You can only pick one.
 
-§3PS: The loot is lame, don't pick this one.XORpre2141GalacticraftCore/tile.treasureChest-0.png2170personalspace/personalPortal-0.pngrewardsChoiceThaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
-10enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-10Thaumcraft/blockLootCrate-2.pngAbandoned Crate\nRare\nBurn Time: 300
-10DraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow\nDraconicEvolution:dezilsMarshmallow
+§3PS: The loot is lame, don't pick this one.XORpre2141GalacticraftCore/tile.treasureChest-0.png2170personalspace/personalPortal-0.pngrewardsChoiceThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+10enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+10Thaumcraft/blockLootCrate-2.pngAbandoned Crate;Rare;Burn Time: 300
+10DraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow;DraconicEvolution:dezilsMarshmallow
 16tasksANDCheckboxcheckbox-.pngCheckbox
 1

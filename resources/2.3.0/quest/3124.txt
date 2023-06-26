@@ -3,8 +3,8 @@
 They are both also power sources, if you end up with full super tanks. Their fuel values aren't the best, with Ethanol at 192k and Methanol at 84k, but they are perfectly capable of fueling your powergen setups, leaving your best fuels free to power your main base. Even if you're using them for Biodiesel and Polyethylene at the same time, it's quite likely that you'll have leftovers. If you have the choice to use any of the two in a recipe, choose Methanol, since Ethanol has a lot more EU per bucket to give.
 
 (Also note that you get almost no Ethanol from Wood Vinegar compared to Methanol. On the Fermented Biomass side, the amounts are the same.)ORpre31150gregtech/gt.metaitem.01-30672.png31210gregtech/gt.metaitem.01-30691.pngrewardsItemExtraBees/honeyComb-10.pngAlcoholic Comb
-1enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-3tasksANDRetrievalgregtech/gt.metaitem.01-30706.pngEthanol Cell\nC\u2082H\u2086O
-64gregtech/gt.metaitem.01-30673.pngMethanol Cell\nCH\u2084O
+3tasksANDRetrievalgregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
+64gregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
 64

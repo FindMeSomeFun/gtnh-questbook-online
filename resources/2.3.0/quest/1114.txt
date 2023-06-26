@@ -5,10 +5,10 @@ They're the core of magically endowed frames. They also have a special ability -
 
 Of course, with very long lifespans, high production genes, swarmers, and tons of frames, you may think this is worth it.
 
-Note that normal products have a cap of 200% produced, and specialties 100%.ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Note that normal products have a cap of 200% produced, and specialties 100%.ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 2tasksANDRetrievalForestry/frameProven-0.pngProven Frame
 1MagicBees/frameMagic-0.pngMagic Frame
 1MagicBees/frameResilient-0.pngResilient Frame
-1miscutils/frameBusy-0.pngWorking Frame\nYour bee will work harder and longer than you expected.
+1miscutils/frameBusy-0.pngWorking Frame;Your bee will work harder and longer than you expected.
 1

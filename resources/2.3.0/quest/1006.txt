@@ -1,16 +1,16 @@
-1006gregtech/gt.metaitem.01-32754.png0§b§lPower of the Sun at HV Level19-1The next solar panel you can make is the HV one. It generates 512 EU/t. First you need to produce enriched sunnarium by mixing irradiated uranium and sunnarium. The Avaritia 9x9 dire crafting table is required to make this and later panels.ANDpre8611gregtech/gt.metaitem.01-11316.png10030gregtech/gt.metaitem.01-32753.png10051gregtech/gt.metaitem.01-2056.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
+1006gregtech/gt.metaitem.01-32754.png0§b§lPower of the Sun at HV Level19-1The next solar panel you can make is the HV one. It generates 512 EU/t. First you need to produce enriched sunnarium by mixing irradiated uranium and sunnarium. The Avaritia 9x9 dire crafting table is required to make this and later panels.ANDpre8611gregtech/gt.metaitem.01-11316.png10030gregtech/gt.metaitem.01-32753.png10051gregtech/gt.metaitem.01-2056.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
-2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-3.pngEnriched Sunnarium
-2gregtech/gt.metaitem.01-17339.pngSteeleaf Plate\n(Fe\u2085\u2080C)Ma
-4gregtech/gt.metaitem.01-17098.pngUranium 238 Plate\nU
-2Optionalgregtech/gt.metaitem.01-32753.pngSolar Panel\nMedium Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
-4gregtech/gt.metaitem.03-32065.pngLow Power IC\nLow Power Circuit
-2gregtech/gt.metaitem.01-17981.pngIndium Gallium Phosphide Plate\nInGaP
-2gregtech/gt.metaitem.01-32705.pngMainframe\nAn Elite Circuit\nIV-Tier
+2gregtech/gt.metaitem.01-17339.pngSteeleaf Plate;(Fe\u2085\u2080C)Ma
+4gregtech/gt.metaitem.01-17098.pngUranium 238 Plate;U
+2Optionalgregtech/gt.metaitem.01-32753.pngSolar Panel;Medium Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.03-32065.pngLow Power IC;Low Power Circuit
+2gregtech/gt.metaitem.01-17981.pngIndium Gallium Phosphide Plate;InGaP
+2gregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
 4dreamcraft/item.IrradiantReinforcedTungstenPlate-0.pngIrradiant Reinforced Tungsten Plate
-2gregtech/gt.blockmachines-2360.png1x Superconductor EV Wire\nMax Voltage: 2,048 (EV)\nMax Amperage: 8\nLoss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32754.pngSolar Panel\nHigh Voltage Solar Panel (Needs cleaning with right click)
+2gregtech/gt.blockmachines-2360.png1x Superconductor EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32754.pngSolar Panel;High Voltage Solar Panel (Needs cleaning with right click)
 1

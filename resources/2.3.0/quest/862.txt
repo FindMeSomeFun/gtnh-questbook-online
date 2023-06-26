@@ -9,13 +9,13 @@ Wood would be the best material for now. Craft the bow limbs out of wood and the
 10tasksANDOptionalminecraft/string-0.pngString
 3minecraft/flint-0.pngFlint
 1minecraft/feather-0.pngFeather
-1minecraft/planks-0.pngOak Wood Planks\nBurn Time: 300
+1minecraft/planks-0.pngOak Wood Planks;Burn Time: 300
 3minecraft/bone-0.pngBone
-1RetrievalTConstruct/arrowhead-3.pngFlint Arrowhead\nAttack: 1 Heart\nDurability: 113\nBreak Chance: 100%\nWeight: 1.33\nParts can be replaced
-1TConstruct/toolRod-5.pngBone Tool Rod\nDurability Modifier: 1.08x\nParts can be replaced
-1TConstruct/fletching-0.pngFeather Fletching\nDurability: 1x\nBreak Chance: 5%\nAccuracy: 95%\nParts can be replaced
-1TConstruct/BowLimbPart-0.pngWooden Bow Limb\nDurability: 38\nDraw Speed: 0.9s\nArrow Speed: 3\nParts can be replaced
-2TConstruct/bowstring-0.pngBowstring\nDraw Speed: 1x\nDurability: 1x\nArrow Speed: 1x\nParts can be replaced
-1RetrievalTConstruct/ShortBow-0-57.pngWooden Shortbow\nTool Level: 01-Abused\nArrow
-1TConstruct/ArrowAmmo-0-107.pngFlint Arrows\nTool Level: 01-Abused\n+2 Attack Damage
+1RetrievalTConstruct/arrowhead-3.pngFlint Arrowhead;Attack: 1 Heart;Durability: 113;Break Chance: 100%;Weight: 1.33;Parts can be replaced
+1TConstruct/toolRod-5.pngBone Tool Rod;Durability Modifier: 1.08x;Parts can be replaced
+1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
+1TConstruct/BowLimbPart-0.pngWooden Bow Limb;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
+2TConstruct/bowstring-0.pngBowstring;Draw Speed: 1x;Durability: 1x;Arrow Speed: 1x;Parts can be replaced
+1RetrievalTConstruct/ShortBow-0-57.pngWooden Shortbow;Tool Level: 01-Abused;Arrow
+1TConstruct/ArrowAmmo-0-107.pngFlint Arrows;Tool Level: 01-Abused;+2 Attack Damage
 1

@@ -1,6 +1,6 @@
 1833gregtech/gt.blockcasings5-8.png1§6§lAwakened Draconium Coil Upgrade17-1To process the most advanced materials like Infinity Catalyst or Infinity you need more than 9900K. Upgrade your EBF to 10800k.
 
-§3With the heat adjustment included, you can get up to 11601K if you OC with UHV hatches. Not that you need it or anything.ANDpre18171gregtech/gt.blockcasings5-7.pngrewardsItemenhancedlootbags/lootbag-43-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+§3With the heat adjustment included, you can get up to 11601K if you OC with UHV hatches. Not that you need it or anything.ANDpre18171gregtech/gt.blockcasings5-7.pngrewardsItemenhancedlootbags/lootbag-43-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-2tasksANDRetrievalgregtech/gt.blockcasings5-8.pngAwakened Draconium Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 10801 Kelvin
+2tasksANDRetrievalgregtech/gt.blockcasings5-8.pngAwakened Draconium Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 10801 Kelvin
 16

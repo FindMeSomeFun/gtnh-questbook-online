@@ -1,7 +1,7 @@
-1185Railcraft/cart.loco.electric-0.png0Electric Locomotive14-1Electric Locomotives are much better than steam ones. You need electric rail for it.ANDpre890gregtech/gt.blockmachines-1121.png11840Railcraft/cart.loco.steam.solid-0.pngrewardsChoiceRailcraft/track-0-electric.pngElectric Track\nDanger: High Voltage\nPowered by Electricity\nUse with Electric Locomotive\nUse Electric Feeder Units to power\nUse Shunting Wire to bridge gaps
-16Railcraft/track-816-speed.pngH.S. Track\nDangerous\nMore than twice as fast as normal track\nRequires Boosters/Transitions to reach speed\nCannot make corners at High Speed
-32enhancedlootbags/lootbag-33.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1185Railcraft/cart.loco.electric-0.png0Electric Locomotive14-1Electric Locomotives are much better than steam ones. You need electric rail for it.ANDpre890gregtech/gt.blockmachines-1121.png11840Railcraft/cart.loco.steam.solid-0.pngrewardsChoiceRailcraft/track-0-electric.pngElectric Track;Danger: High Voltage;Powered by Electricity;Use with Electric Locomotive;Use Electric Feeder Units to power;Use Shunting Wire to bridge gaps
+16Railcraft/track-816-speed.pngH.S. Track;Dangerous;More than twice as fast as normal track;Requires Boosters/Transitions to reach speed;Cannot make corners at High Speed
+32enhancedlootbags/lootbag-33.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalRailcraft/cart.loco.electric-0.pngElectric Locomotive\nModel: Standard Electric\nPrimary Color: Yellow\nSecondary Color: Black\nWhistle Pitch: ???
+5tasksANDRetrievalRailcraft/cart.loco.electric-0.pngElectric Locomotive;Model: Standard Electric;Primary Color: Yellow;Secondary Color: Black;Whistle Pitch: ???
 1

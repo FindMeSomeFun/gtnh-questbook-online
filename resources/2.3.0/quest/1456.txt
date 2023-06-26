@@ -1,11 +1,11 @@
 1456GalaxySpace/item.ModuleLander3-0.png1Tier 3 Lander24-1The Tier 3, or Deep Space lander is required for a soft landing.ANDpre1761gregtech/gt.blockmachines-14.png14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
 2GalacticraftCore/item.steelPole-0.pngSteel Pole
 4GalacticraftCore/item.basicItem-9.pngCompressed Steel
-4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2\nRocket Module
+5tasksANDOptionalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2;Rocket Module
 1GalacticraftMars/item.null-5.pngCompressed Desh
 6GalacticraftCore/item.steelPole-0.pngSteel Pole
-2RetrievalGalaxySpace/item.ModuleLander3-0.pngLander Tier 3\nRocket Module
+2RetrievalGalaxySpace/item.ModuleLander3-0.pngLander Tier 3;Rocket Module
 1

@@ -1,10 +1,10 @@
 1460dreamcraft/item.MediumFuelCanister-0.png1Medium Fuel Canister24-1Every rocket needs fuel storage canisters. For the tier 3 rocket you need to craft two small and two medium canisters.ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
 4GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
 4GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
-4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionaldreamcraft/item.DeshDualCompressedPlates-0.pngCompressed Dual Desh Plates
 2dreamcraft/item.TitaniumDualCompressedPlates-0.pngCompressed Dual Titanium Plates
-2gregtech/gt.metaitem.01-27028.pngTitanium Screw\nTi
+2gregtech/gt.metaitem.01-27028.pngTitanium Screw;Ti
 8Retrievaldreamcraft/item.MediumFuelCanister-0.pngMedium Fuel Canister
 2

@@ -4,16 +4,16 @@ In addition, you'll need 16 Diodes, SMD or non-SMD.
 
 You can make Blue Alloy with Silver and Electrotine in an Alloy Smelter. If you don't have Electrotine, you can make it from Redstone and Electrum in a Mixer. Have fun!
 
-Also note that using the fluid solidifer is way faster than the extruder for Blue Alloy.ANDpre10171gregtech/gt.metaitem.01-32703.pngrewardsItemgregtech/gt.metaitem.03-32011.pngSMD Resistor\nElectronic Component
-4gregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
-4gregtech/gt.metaitem.03-32018.pngSMD Transistor\nElectronic Component
-4gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
-4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Also note that using the fluid solidifer is way faster than the extruder for Blue Alloy.ANDpre10171gregtech/gt.metaitem.01-32703.pngrewardsItemgregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
+4gregtech/gt.metaitem.03-32016.pngSMD Diode;Electronic Component
+4gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
+4gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+4enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
-4gregtech/gt.metaitem.01-32703.pngProcessor Assembly\nAn Advanced Circuit\nHV-Tier
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-32gregtech/gt.metaitem.02-19303.pngFine Electrum Wire\nAgAu
-64gregtech/gt.metaitem.01-26309.pngBlue Alloy Bolt\nAgRp\u2084
-64Retrievalgregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+4gregtech/gt.metaitem.01-32703.pngProcessor Assembly;An Advanced Circuit;HV-Tier
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+32gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+64gregtech/gt.metaitem.01-26309.pngBlue Alloy Bolt;AgRp\u2084
+64Retrievalgregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
 4

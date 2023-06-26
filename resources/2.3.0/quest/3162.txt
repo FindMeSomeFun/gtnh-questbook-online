@@ -4,7 +4,7 @@ Europium is the first wall that can be solved by fusion, and usually only by fus
 
 It is important that you gather a lot of inputs. Each time the Fusion Reactor changes recipe, it has a start-up period where it needs a large amount of energy to begin crafting. In the case of Europium, you'll need 150 million EU to start crafting it, and then 7,077,888 EU per ingot of Europium crafted. This does not come out as plasma, so you can't get energy back from it! Additionally, each ingot takes 14.4 seconds to craft, so you can come out with a few stacks of Europium relatively quickly. During this time, you cannot produce plasma for power, so it's a good idea to have a good amount of EU stored, or other powergen setups working in the background, while you craft this material.
 
-With Europium, you can craft a new kind of boule, wafers and many other things! Check NEI to see what you have unlocked.ANDpre31530GalaxySpace/item.RobotArm-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
-48gregtech/gt.metaitem.99-67.pngMolten Neodymium Cell\nNd
-16Retrievalgregtech/gt.metaitem.01-17070.pngEuropium Plate\nEu
+With Europium, you can craft a new kind of boule, wafers and many other things! Check NEI to see what you have unlocked.ANDpre31530GalaxySpace/item.RobotArm-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+48gregtech/gt.metaitem.99-67.pngMolten Neodymium Cell;Nd
+16Retrievalgregtech/gt.metaitem.01-17070.pngEuropium Plate;Eu
 1

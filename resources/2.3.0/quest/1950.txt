@@ -1,4 +1,4 @@
-1950minecraft/emerald-0.png0Who the Hell is Bob?13-1Want emeralds for trading or other uses? These are the source.ANDpre18070TwilightForest/item.steeleafIngot-0.pngrewardsItemgregtech/gt.metaitem.02-29501.pngFlawless Emerald\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
-1enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
-1tasksANDRetrievalIC2/itemCropSeed-0.pngBobsyeruncleranks Seeds\nGr 0\nGa 0\nRe 0
+1950minecraft/emerald-0.png0Who the Hell is Bob?13-1Want emeralds for trading or other uses? These are the source.ANDpre18070TwilightForest/item.steeleafIngot-0.pngrewardsItemgregtech/gt.metaitem.02-29501.pngFlawless Emerald;Be\u2083Al\u2082Si\u2086O\u2081\u2088
+1enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
+1tasksANDRetrievalIC2/itemCropSeed-0.pngBobsyeruncleranks Seeds;Gr 0;Ga 0;Re 0
 1

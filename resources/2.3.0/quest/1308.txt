@@ -1,8 +1,8 @@
 1308appliedenergistics2/item.ItemMultiPart-240.png1Inserting Items Into the Network27-1Pulls items from the inventory it is pointed at and places them into the ME network's networked storage. You can specify which items it will pull out via the UI, else it tries to pull out any item in the adjacent inventory. The ME import bus will attempt to import any possible options, even if 1 or more of the configured items cannot be stored. This is the functional opposite of the ME export bus.
 
-When your machines are very fast, it's better to have them output directly into an ME interface instead, since that works instantly.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
-16gregtech/gt.metaitem.01-11028.pngTitanium Ingot\nTi
-8enhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+When your machines are very fast, it's better to have them output directly into an ME interface instead, since that works instantly.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+8enhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-240.pngME Import Bus
 4

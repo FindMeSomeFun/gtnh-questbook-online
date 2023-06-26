@@ -1,7 +1,7 @@
-415AWWayofTime/alchemyFlask-0.png0Potion: Flight Mode37-1Just to give you an idea what is possible. Let's do a sample potion. Shall we? Get yourself a potion flask, a feather and one of your weak binding agents you made. Combine those in the chemistry set, and you'll get something that you'll probably want to keep for a while.ANDpre4110AWWayofTime/averageLengtheningCatalyst-0.png4140AWWayofTime/alchemyFlask-0.pngrewardsItemAWWayofTime/averageLengtheningCatalyst-0.pngAverage Lengthening Catalyst\nUsed in Alchemy
+415AWWayofTime/alchemyFlask-0.png0Potion: Flight Mode37-1Just to give you an idea what is possible. Let's do a sample potion. Shall we? Get yourself a potion flask, a feather and one of your weak binding agents you made. Combine those in the chemistry set, and you'll get something that you'll probably want to keep for a while.ANDpre4110AWWayofTime/averageLengtheningCatalyst-0.png4140AWWayofTime/alchemyFlask-0.pngrewardsItemAWWayofTime/averageLengtheningCatalyst-0.pngAverage Lengthening Catalyst;Used in Alchemy
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"
-5tasksANDRetrievalAWWayofTime/alchemyFlask-0.pngPotion Flask\nSwigs Left: 8/8\nNo Effects
+5tasksANDRetrievalAWWayofTime/alchemyFlask-0.pngPotion Flask;Swigs Left: 8/8;No Effects
 1minecraft/feather-0.pngFeather
-1AWWayofTime/weakBindingAgent-0.pngWeak Binding Agent\nUsed in Alchemy
+1AWWayofTime/weakBindingAgent-0.pngWeak Binding Agent;Used in Alchemy
 1

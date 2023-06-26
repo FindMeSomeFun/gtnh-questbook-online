@@ -1,6 +1,6 @@
-1354EMT/ElectricScribingTools-1-charged.png0Rechargeable Scribing Tools34-1Are you tired of getting all the Ink for your scribing and you don't want to use your blood either? Get this Hi-Tech Scribing Device which will make your life much easier! Treat it like an HV battery - charge in any HV machine's battery slot, or in an HV battery buffer.ANDpre7890IC2/itemBatCrystal-1-charged.png10961Thaumcraft/ItemInkwell-0.pngrewardsItemIC2/itemBatCrystal-26.pngEnergy Crystal\nDurability: 1 / 27
+1354EMT/ElectricScribingTools-1-charged.png0Rechargeable Scribing Tools34-1Are you tired of getting all the Ink for your scribing and you don't want to use your blood either? Get this Hi-Tech Scribing Device which will make your life much easier! Treat it like an HV battery - charge in any HV machine's battery slot, or in an HV battery buffer.ANDpre7890IC2/itemBatCrystal-1-charged.png10961Thaumcraft/ItemInkwell-0.pngrewardsItemIC2/itemBatCrystal-26.pngEnergy Crystal;Durability: 1 / 27
 1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-1ChoiceThaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1ChoiceThaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
 1Thaumcraft/ItemInkwell-0.pngScribing Tools
-1tasksANDRetrievalEMT/ElectricScribingTools-400.pngElectric Scribing Tools\nPower Tier: 3\nDurability: 0 / 400
+1tasksANDRetrievalEMT/ElectricScribingTools-400.pngElectric Scribing Tools;Power Tier: 3;Durability: 0 / 400
 1

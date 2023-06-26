@@ -1,10 +1,10 @@
-756gregtech/gt.metaitem.01-32764.png0§6§lLess Power Loss17-1When you reach MV tier you can make your own duct tape in case you have to move your multiblock machines around. Duct tape will fix all maintenance problems in any multiblock machine.ANDpre771gregtech/gt.blockmachines-1000.png11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
+756gregtech/gt.metaitem.01-32764.png0§6§lLess Power Loss17-1When you reach MV tier you can make your own duct tape in case you have to move your multiblock machines around. Duct tape will fix all maintenance problems in any multiblock machine.ANDpre771gregtech/gt.blockmachines-1000.png11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
 9IC2/itemPartCarbonMesh-0.pngRaw Carbon Mesh
-9gregtech/gt.metaitem.01-30726.pngRefined Glue Cell\nNo Horses were harmed for the Production
-4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+9gregtech/gt.metaitem.01-30726.pngRefined Glue Cell;No Horses were harmed for the Production
+4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalIC2/itemPartCarbonMesh-0.pngRaw Carbon Mesh
-9gregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
-9gregtech/gt.metaitem.01-30726.pngRefined Glue Cell\nNo Horses were harmed for the Production
-1Retrievalgregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84\nIf you can''t fix it with this, use more of it!
+9gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+9gregtech/gt.metaitem.01-30726.pngRefined Glue Cell;No Horses were harmed for the Production
+1Retrievalgregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84;If you can''t fix it with this, use more of it!
 1

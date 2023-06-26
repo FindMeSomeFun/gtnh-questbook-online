@@ -1,15 +1,15 @@
 667Railcraft/track-736-slow.png0Trainspotting14-1The wooden tracks can be made without any machine. Functionally equivalent to normal rails, but with a lower maximum speed (for safety reasons).
 
-Hint: You can use your wooden rails for Steve's carts farms.ANDpre6770minecraft/minecart-0.pngrewardsChoiceRailcraft/track-736-slow.pngWooden Track\n30% of the speed of normal track
+Hint: You can use your wooden rails for Steve's carts farms.ANDpre6770minecraft/minecart-0.pngrewardsChoiceRailcraft/track-736-slow.pngWooden Track;30% of the speed of normal track
 16Railcraft/part.railbed-0.pngWooden Railbed
-16enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-32.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab\nBurn Time: 150
+10tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
 60OptionalRailcraft/part.tie-0.pngWooden Tie
-20Optionalminecraft/stick-0.pngStick\nBurn Time: 100
-4gregtech/gt.metaitem.01-23032.pngIron Rod\nFe
+20Optionalminecraft/stick-0.pngStick;Burn Time: 100
+4gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
 4OptionalRailcraft/part.rail-2.pngWooden Rail
 8OptionalRailcraft/part.railbed-0.pngWooden Railbed
-4CraftingRailcraft/track-736-slow.pngWooden Track\n30% of the speed of normal track
+4CraftingRailcraft/track-736-slow.pngWooden Track;30% of the speed of normal track
 64

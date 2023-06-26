@@ -1,7 +1,7 @@
 3089IC2/itemToolbox-0.png0§6§lYour New Friend17-1It's painful to carry all the tools in your inventory. You can put GT tools and soldering into IC2 Toolbox to save space for inventory.
 
-You can also use it to do maintenance, without taking out tools. Just hold toolbox and right click the Maintenance Hatch. Now who needs ducttape? (Well you'll need it to automate maintenance.)ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoicegregtech/gt.metaitem.02-19314.pngFine Soldering Alloy Wire\nSn\u2089Sb
-64enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You can also use it to do maintenance, without taking out tools. Just hold toolbox and right click the Maintenance Hatch. Now who needs ducttape? (Well you'll need it to automate maintenance.)ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoicegregtech/gt.metaitem.02-19314.pngFine Soldering Alloy Wire;Sn\u2089Sb
+64enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalIC2/itemToolbox-0.pngTool Box
 1

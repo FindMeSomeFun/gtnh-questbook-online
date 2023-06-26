@@ -1,16 +1,16 @@
 1140miscutils/itemwcarbonrotor-0.png0§c§9§lRotor19-1The Kinetic Wind and Water Generators need Gearbox Rotors to function. They can be added and removed with standard automation. Higher tier rotors will last longer. In addition, the iridium ones don't break. The IC2 ones might bug out for durability loss though. Energetic is probably the best for now, since it can give out a full amp, and more is wasted.
 
-§3You only need to make one rotor to complete this quest.ORpre11380IC2/blockKineticGenerator-0.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1miscutils/itemEnergeticRotorBlade-0.pngEnergetic Alloy Rotor Blade\nA part for an advanced Kinetic Rotor
+§3You only need to make one rotor to complete this quest.ORpre11380IC2/blockKineticGenerator-0.png11390IC2/blockKineticGenerator-4.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1miscutils/itemEnergeticRotorBlade-0.pngEnergetic Alloy Rotor Blade;A part for an advanced Kinetic Rotor
 4IC2/itemRecipePart-9.pngCarbon Rotor Blade
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksORRetrievalIC2/itemwoodrotor-1.pngKinetic Gearbox Rotor\nRequirements Min: 10MCW Max: 60 MCW
-1RetrievalIC2/itemironrotor-1.pngKinetic Gearbox Rotor\nRequirements Min: 14MCW Max: 75 MCW
-1Retrievalmiscutils/itemwoodrotor-0.pngKinetic Gearbox Rotor\nRequirements Min: 12MCW Max: 80 MCW
-1RetrievalIC2/itemsteelrotor-1.pngKinetic Gearbox Rotor\nRequirements Min: 17MCW Max: 90 MCW
-1RetrievalIC2/itemwcarbonrotor-1.pngKinetic Gearbox Rotor\nRequirements Min: 20MCW Max: 110 MCW
-1Retrievalmiscutils/itemironrotor-0.pngKinetic Gearbox Rotor\nRequirements Min: 14MCW Max: 120 MCW
-1Retrievalcompactkineticgenerators/IridiumRotor-0.pngKinetic Gearbox Rotor\nRequirements Min: 23MCW Max: 130 MCW
-1Retrievalmiscutils/itemsteelrotor-0.pngKinetic Gearbox Rotor\nRequirements Min: 16MCW Max: 160 MCW
-1Retrievalmiscutils/itemwcarbonrotor-0.pngKinetic Gearbox Rotor\nRequirements Min: 18MCW Max: 320 MCW
+5tasksORRetrievalIC2/itemwoodrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 10MCW Max: 60 MCW
+1RetrievalIC2/itemironrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 14MCW Max: 75 MCW
+1Retrievalmiscutils/itemwoodrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 12MCW Max: 80 MCW
+1RetrievalIC2/itemsteelrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 17MCW Max: 90 MCW
+1RetrievalIC2/itemwcarbonrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 20MCW Max: 110 MCW
+1Retrievalmiscutils/itemironrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 14MCW Max: 120 MCW
+1Retrievalcompactkineticgenerators/IridiumRotor-0.pngKinetic Gearbox Rotor;Requirements Min: 23MCW Max: 130 MCW
+1Retrievalmiscutils/itemsteelrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 16MCW Max: 160 MCW
+1Retrievalmiscutils/itemwcarbonrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 18MCW Max: 320 MCW
 1

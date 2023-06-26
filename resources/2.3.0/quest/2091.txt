@@ -10,7 +10,7 @@ Swarmer - Creates additional Ignoble queens in hives around the Alveary. These a
 §3Note that all upgrade blocks must be in the bottom 2 layers. The center block also cannot be an upgrade block, though the bottom center can.
 
 §4When using power, the transmission block will suck down entire amps to fill a tiny amount. Use the EIO capacitors or something similar to prevent this.ANDpre11230Forestry/alveary-0.pngrewardsItemForestry/alveary-0.pngAlveary
-8enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+8enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalExtraBees/alveary-1.pngFrame Housing
 1Forestry/alveary-6.pngAlveary Stabiliser
 1ExtraBees/alveary-6.pngAlveary Transmission

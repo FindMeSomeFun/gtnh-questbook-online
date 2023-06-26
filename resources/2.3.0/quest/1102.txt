@@ -1,6 +1,6 @@
 1102minecraft/beacon-0.png0Beacon32-1With your ascension to adept thaumaturge you are ready to fusion craft beacons. The beacon recipe is found on the GTNH Thaumcraft Page. Activate it in your base to gain various positive effects.ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemminecraft/iron_block-0.pngBlock of Iron
-164enhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+164enhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalminecraft/beacon-0.pngBeacon\nGlass-Tier: HV
+1tasksANDRetrievalminecraft/beacon-0.pngBeacon;Glass-Tier: HV
 1

@@ -1,10 +1,10 @@
-483minecraft/wheat_seeds-0.png0§2§lGardener2-1If you were wondering: Why do I never get seeds when destroying grass? Because. Use your new mattock on the grass blocks that do not have water anywhere nearby to find some seeds.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemgregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
+483minecraft/wheat_seeds-0.png0§2§lGardener2-1If you were wondering: Why do I never get seeds when destroying grass? Because. Use your new mattock on the grass blocks that do not have water anywhere nearby to find some seeds.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemgregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
 3TConstruct/GravelOre-4.pngAluminum Gravel Ore
-2enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-5tasksANDRetrievalTConstruct/metalPattern-3.pngShovel Head Cast\nMaterial Cost: 1
-1TConstruct/metalPattern-4.pngAxe Head Cast\nMaterial Cost: 1
-1TConstruct/metalPattern-1.pngTool Rod Cast\nMaterial Cost: 0.5
-1RetrievalTConstruct/mattock-0-534.pngMattock\nReinforced I\nTool Level: 01-Abused\n+6 Attack Damage
+5tasksANDRetrievalTConstruct/metalPattern-3.pngShovel Head Cast;Material Cost: 1
+1TConstruct/metalPattern-4.pngAxe Head Cast;Material Cost: 1
+1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
+1RetrievalTConstruct/mattock-0-534.pngMattock;Reinforced I;Tool Level: 01-Abused;+6 Attack Damage
 1

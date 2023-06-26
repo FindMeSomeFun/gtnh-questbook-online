@@ -6,10 +6,10 @@ The problem is this: the amount of EU you save by choosing Charcoal instead of t
 
 Coal can be automated too, though! There are many ways to do this, but the most popular way of automating items that aren't renewable by default is usually by using either IC2 crops or Forestry bees, both of which have their own renewable Coal. If you never made progress in either of those, keep in mind that they need time and effort to give you good results, but if you have, then they are great options to make this fuel even more efficiently. Naturally, you will then turn it into Coal Coke with Pyrolyse Ovens, ACOs or ICOs.
 
-Stock up on either Charcoal or Coal Coke blocks to continue.ANDpre31280IC2/fluidSuperheatedSteam-0.pngrewardsItemminecraft/coal_block-0.pngBlock of Coal\nBurn Time: 16000
-32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Stock up on either Charcoal or Coal Coke blocks to continue.ANDpre31280IC2/fluidSuperheatedSteam-0.pngrewardsItemminecraft/coal_block-0.pngBlock of Coal;Burn Time: 16000
+32enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionaldreamcraft/tile.Charcoal-0.pngBlock of Charcoal\nBurn Time: 16000
-256OptionalRailcraft/cube-0.pngBlock of Coal Coke\n32,000 Fuel Units\nMobs cannot Spawn on this Block\nBurn Time: 32000
-64Retrievalgregtech/gt.blockmachines-244.pngAdvanced Compressor III\nCompress-O-Matic C77\nVoltage IN: 2,048 (EV)\nCapacity: 131,072 EU
+1tasksANDOptionaldreamcraft/tile.Charcoal-0.pngBlock of Charcoal;Burn Time: 16000
+256OptionalRailcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
+64Retrievalgregtech/gt.blockmachines-244.pngAdvanced Compressor III;Compress-O-Matic C77;Voltage IN: 2,048 (EV);Capacity: 131,072 EU
 1

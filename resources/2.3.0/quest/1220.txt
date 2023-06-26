@@ -2,15 +2,15 @@
 
 Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
 16Forestry/canHoney-0.pngHoney Can
-32enhancedlootbags/lootbag-20.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+32enhancedlootbags/lootbag-20.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestryI-0.pngCoin "The Forest Ranger 10"
-5tasksANDOptionalgregtech/gt.metaitem.02-22801.pngLong Blaze Rod\nCSMa
-2gregtech/gt.metaitem.02-22533.pngLong Endereye Rod\n(BeK\u2084N\u2085Ma\u2086)(CSMa)
-2gregtech/gt.metaitem.02-22501.pngLong Emerald Rod\nBe\u2083Al\u2082Si\u2086O\u2081\u2088
-2gregtech/gt.metaitem.01-26086.pngGold Bolt\nAu
-6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-3gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
-6minecraft/glass-0.pngGlass\nGlass-Tier: HV
+5tasksANDOptionalgregtech/gt.metaitem.02-22801.pngLong Blaze Rod;CSMa
+2gregtech/gt.metaitem.02-22533.pngLong Endereye Rod;(BeK\u2084N\u2085Ma\u2086)(CSMa)
+2gregtech/gt.metaitem.02-22501.pngLong Emerald Rod;Be\u2083Al\u2082Si\u2086O\u2081\u2088
+2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
+6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+3gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+6minecraft/glass-0.pngGlass;Glass-Tier: HV
 6RetrievalForestry/thermionicTubes-7.pngBlazing Electron Tube
 2Forestry/thermionicTubes-12.pngEnder Electron Tube
 2Forestry/thermionicTubes-9.pngEmerald Electron Tube

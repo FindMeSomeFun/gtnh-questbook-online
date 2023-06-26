@@ -4,7 +4,7 @@ To start, LV is the tier of Light Fuel. It is worth much more than the Oil itsel
 
 §3If you're dealing with Oil processing, this is the type of generator you'll use the most.§rANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
 8gregtech/gt.metaitem.01-30708.pngDiesel Cell
-4gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
+4gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.blockmachines-1110.pngBasic Combustion Generator\nRequires liquid Fuel\nCauses 40 Pollution per second\nFuel Efficiency: 95%\nVoltage OUT: 32 (LV)\nCapacity: 3,072 EU
+15tasksANDRetrievalgregtech/gt.blockmachines-1110.pngBasic Combustion Generator;Requires liquid Fuel;Causes 40 Pollution per second;Fuel Efficiency: 95%;Voltage OUT: 32 (LV);Capacity: 3,072 EU
 1

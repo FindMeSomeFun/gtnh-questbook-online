@@ -1,10 +1,10 @@
 2708GalaxySpace/plutoblocks-6.png1Pluto Dungeon24-1Go get the final schematic, for the tier 8 rocket. You can also find the draconic core schematic here!
 
-This will open a lot of planets outside of our solar system such as Barnarda.ANDpre26421GalaxySpace/item.Tier7Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11129.pngNeutronium Ingot\nNt
-16gregtech/gt.metaitem.01-11388.pngBlack Plutonium Ingot\nSpPu
+This will open a lot of planets outside of our solar system such as Barnarda.ANDpre26421GalaxySpace/item.Tier7Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11129.pngNeutronium Ingot;Nt
+16gregtech/gt.metaitem.01-11388.pngBlack Plutonium Ingot;SpPu
 16Itemdreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
 5dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 5tasksANDRetrievalGalaxySpace/plutoblocks-6.pngPluto Dungeon Bricks
 16RetrievalGalaxySpace/item.Tier8Key-0.pngTier 7 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier8-0.pngNASA Workbench Schematic\nRocket Tier 8
+1RetrievalGalaxySpace/item.SchematicTier8-0.pngNASA Workbench Schematic;Rocket Tier 8
 1

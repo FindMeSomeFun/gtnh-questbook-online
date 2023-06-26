@@ -1,9 +1,9 @@
-763IC2/blockITNT-0.png0§6§liTNT17-1Industrial TNT is the HV variant of TNT. It explodes with more power, and you can't pick it up. Not by hand anywayANDpre801gregtech/gt.blockmachines-1001.pngrewardsChoicegregtech/gt.metaitem.02-32010.pngGelled Toluene\nRaw Explosive
+763IC2/blockITNT-0.png0§6§liTNT17-1Industrial TNT is the HV variant of TNT. It explodes with more power, and you can't pick it up. Not by hand anywayANDpre801gregtech/gt.blockmachines-1001.pngrewardsChoicegregtech/gt.metaitem.02-32010.pngGelled Toluene;Raw Explosive
 8gregtech/gt.metaitem.01-30628.pngNitration Mixture Cell
-8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30647.pngToluene Cell\nC\u2087H\u2088
-18Optionalgregtech/gt.metaitem.02-32010.pngGelled Toluene\nRaw Explosive
+5tasksANDOptionalgregtech/gt.metaitem.01-30647.pngToluene Cell;C\u2087H\u2088
+18Optionalgregtech/gt.metaitem.02-32010.pngGelled Toluene;Raw Explosive
 256Optionalgregtech/gt.metaitem.01-30628.pngNitration Mixture Cell
 13RetrievalIC2/blockITNT-0.pngIndustrial TNT
 64

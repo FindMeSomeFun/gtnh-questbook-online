@@ -1,4 +1,4 @@
-3256Botania/specialFlower-0-nightshade.png0Dark Energy35-1Perhaps not the kind of "dark energy" you're familiar with, the nightshade produces mana at night. Like other passive generating flowers, it dies after an hour.ANDpre32531Botania/spreader-0.pngrewardsItemBotania/specialFlower-0-nightshade.pngNightshade\nPassive Generating Flower\nGhastly signature
+3256Botania/specialFlower-0-nightshade.png0Dark Energy35-1Perhaps not the kind of "dark energy" you're familiar with, the nightshade produces mana at night. Like other passive generating flowers, it dies after an hour.ANDpre32531Botania/spreader-0.pngrewardsItemBotania/specialFlower-0-nightshade.pngNightshade;Passive Generating Flower;Ghastly signature
 1dreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
-5tasksANDRetrievalBotania/specialFlower-0-nightshade.pngNightshade\nPassive Generating Flower\nGhastly signature
+5tasksANDRetrievalBotania/specialFlower-0-nightshade.pngNightshade;Passive Generating Flower;Ghastly signature
 1

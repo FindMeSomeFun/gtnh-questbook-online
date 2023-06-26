@@ -4,9 +4,9 @@ Combine the original Palladium Enriched Ammonia with Palladium Metallic Powder. 
 
 From now on you should skip the first step, it's not necessary anymore as this gives the same thing, but more. You do need to find a way to combine the dusts automatically though.
 
-When/if you run out of Palladium Enriched Ammonia, you can make more by adding Ammonia to Palladium Metallic Powder.ANDpre23081bartworks/gt.bwMetaGenerateddust-55.pngrewardsItemTGregworks/tGregToolPartLargePlate-1514.pngPalladium Large Plate\nDurability: 2200\nMining Speed: 18\nAttack: 16 Hearts\nParts can be replaced
-2tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell\n?Pd\nAdded by BartWorks
-9bartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dust\n??Pd??\nAdded by BartWorks
-9Retrievalbartworks/gt.bwMetaGenerateddustTiny-55.pngTiny Pile of Palladium Salt Dust\nAdded by BartWorks
-144bartworks/gt.bwMetaGenerateddustTiny-54.pngTiny Pile of Reprecipitated Palladium Dust\nPd\u2082NH\u2084\nAdded by BartWorks
+When/if you run out of Palladium Enriched Ammonia, you can make more by adding Ammonia to Palladium Metallic Powder.ANDpre23081bartworks/gt.bwMetaGenerateddust-55.pngrewardsItemTGregworks/tGregToolPartLargePlate-1514.pngPalladium Large Plate;Durability: 2200;Mining Speed: 18;Attack: 16 Hearts;Parts can be replaced
+2tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell;?Pd;Added by BartWorks
+9bartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dust;??Pd??;Added by BartWorks
+9Retrievalbartworks/gt.bwMetaGenerateddustTiny-55.pngTiny Pile of Palladium Salt Dust;Added by BartWorks
+144bartworks/gt.bwMetaGenerateddustTiny-54.pngTiny Pile of Reprecipitated Palladium Dust;Pd\u2082NH\u2084;Added by BartWorks
 18

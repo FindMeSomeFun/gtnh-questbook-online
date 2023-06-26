@@ -1,14 +1,14 @@
 2332minecraft/stone_pressure_plate-0.png0§3§lHow to open your Iron Doors?3-1Your iron doors make your Machine Hall or House more safe. They cannot be opened by hand.
 
-Now let's craft some Pressure Plates and Buttons to open these heavy iron doors.ANDpre17890minecraft/iron_door-0.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Now let's craft some Pressure Plates and Buttons to open these heavy iron doors.ANDpre17890minecraft/iron_door-0.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1minecraft/iron_door-0.pngIron Door
-1minecraft/wooden_button-0.pngButton\nBurn Time: 150
-16minecraft/wooden_pressure_plate-0.pngPressure Plate\nBurn Time: 75
+1minecraft/wooden_button-0.pngButton;Burn Time: 150
+16minecraft/wooden_pressure_plate-0.pngPressure Plate;Burn Time: 75
 8Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalminecraft/stone_slab-0.pngStone Slab
-10gregtech/gt.metaitem.01-27032.pngIron Screw\nFe
-20gregtech/gt.metaitem.02-24032.pngIron Spring\nFe
+10gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+20gregtech/gt.metaitem.02-24032.pngIron Spring;Fe
 5Retrievalminecraft/stone_pressure_plate-0.pngPressure Plate
 10Retrievalminecraft/stone_button-0.pngButton
 10

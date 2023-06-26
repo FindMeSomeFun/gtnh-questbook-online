@@ -7,11 +7,11 @@ Compatible blocks are also mined much faster.
 GT Ores are not affected. You can find Vanilla Ores in the Twilight Forest inside Hollow Hills.
 
 §3So basically, it's useless.ANDpre23600HardcoreEnderExpansion/fire_shard-0.pngrewardsItemHardcoreEnderExpansion/fire_shard-0.pngInfernium
-32enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+32enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n65 Knowledge Points
-1tasksANDOptionalminecraft/golden_pickaxe-0.pngGolden Pickaxe\n+2 Attack Damage\nDurability: 24/24\nThis tool cannot mine anything!\nIt can only be used for crafting
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
+1tasksANDOptionalminecraft/golden_pickaxe-0.pngGolden Pickaxe;+2 Attack Damage;Durability: 24/24;This tool cannot mine anything!;It can only be used for crafting
 1HardcoreEnderExpansion/fire_shard-0.pngInfernium
 8RetrievalHardcoreEnderExpansion/schorching_pickaxe-0.pngScorching Pickaxe
 1

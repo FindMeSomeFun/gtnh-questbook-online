@@ -1,6 +1,6 @@
 1886IC2/itemFertilizer-0.png0Manure for Fertilizer40144000I mean, what else are you going to do with this junk?ANDpre7180IC2/blockCrop-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilizer
-128tasksANDConsumeminecraft/spider_eye-0.pngSpider Eye\nminecraft:spider_eye
-1minecraft/rotten_flesh-0.pngRotten Flesh\nminecraft:rotten_flesh
+128tasksANDConsumeminecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
+1minecraft/rotten_flesh-0.pngRotten Flesh;minecraft:rotten_flesh
 8minecraft/dirt-0.pngDirt
 64dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"

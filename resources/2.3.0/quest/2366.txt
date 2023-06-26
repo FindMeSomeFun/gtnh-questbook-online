@@ -5,7 +5,7 @@ Right click the End Powder, choose an enchantment, and fill with four End Powder
 8HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
 4HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
 8HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-16enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+16enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalHardcoreEnderExpansion/transference_gem-0.pngTransference Gem

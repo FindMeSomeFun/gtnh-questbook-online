@@ -4,6 +4,6 @@
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5RetrievalTwilightForest/tile.TFTowerStone-1.pngEncased Towerwood\nBurn Time: 300
-1TwilightForest/item.phantomHelm-0.pngPhantom Helm\nProtection: 3\nDurability: 330/330
+5RetrievalTwilightForest/tile.TFTowerStone-1.pngEncased Towerwood;Burn Time: 300
+1TwilightForest/item.phantomHelm-0.pngPhantom Helm;Protection: 3;Durability: 330/330
 1

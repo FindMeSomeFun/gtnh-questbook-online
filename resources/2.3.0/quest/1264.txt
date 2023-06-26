@@ -1,8 +1,8 @@
 1264gregtech/gt.metaitem.01-32540.png0EV Sunnarium Battery20-1Small Sunnarium batteries are EV tier. Some might think they're cheaper than Lapotrons, but it depends on Sunnarium. And they hold less energy.ANDpre12620gregtech/gt.blockmachines-184.png12630gregtech/gt.metaitem.01-11349.pngrewardsChoiceAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
-4gregtech/gt.blockmachines-1586.png1x Aluminium Cable\nMax Voltage: 2,048 (EV)\nMax Amperage: 1\nLoss/Meter/Ampere: 1 EU-Volt
-16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4gregtech/gt.blockmachines-1586.png1x Aluminium Cable;Max Voltage: 2,048 (EV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-32503.pngSmall Sunnarium Battery\nAn empty EV Battery Container
-1Optionalgregtech/gt.metaitem.01-2318.pngSunnarium Dust\nSu
-4Retrievalgregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery\nReusable\n0 / 6,400,000 EU - Voltage: 2048\nEV-Tier
+1tasksANDOptionalgregtech/gt.metaitem.01-32503.pngSmall Sunnarium Battery;An empty EV Battery Container
+1Optionalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
+4Retrievalgregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048;EV-Tier
 1

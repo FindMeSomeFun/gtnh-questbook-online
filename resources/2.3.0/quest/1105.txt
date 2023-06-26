@@ -9,27 +9,27 @@ West: The Music disks.
 
 A spiral pattern of Redstone and String is then laid out around the beacon. At any time, Shift+Right-clicking the Beacon with an Activated Division Sigil in hand will show the building progress of the ritual.
 
-Finally, kill an Iron Golem while it stands within the ritual area to activate the process. If it works, there will be an explosion that destroys the beacon and chests, while every Enderman in the End vanishes. During the ritual, throngs of aggresive mobs imbued with Haste will begin spawning and attacking the Player who needs to kill 100 of them to complete the ritual. If the Player dies or leaves the dimension, the ritual will fail and will have to be started over. Once enough mobs have been killed, the first activated Sigil in the inventory will stabilize. The Pseudo-Inversion Sigil can be used an unlimited number of times, and dividing an Iron Ingot by Diamond will produce Mobius "Unstable-Stable" Ingot which does not explode, can be produced in any crafting interface and will stack up to 64.ANDpre9860minecraft/end_portal_frame-0.png11020minecraft/beacon-0.png11061minecraft/brewing_stand-0.pngrewardsItemminecraft/beacon-0.pngBeacon\nGlass-Tier: HV
-1enhancedlootbags/lootbag-11.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+Finally, kill an Iron Golem while it stands within the ritual area to activate the process. If it works, there will be an explosion that destroys the beacon and chests, while every Enderman in the End vanishes. During the ritual, throngs of aggresive mobs imbued with Haste will begin spawning and attacking the Player who needs to kill 100 of them to complete the ritual. If the Player dies or leaves the dimension, the ritual will fail and will have to be started over. Once enough mobs have been killed, the first activated Sigil in the inventory will stabilize. The Pseudo-Inversion Sigil can be used an unlimited number of times, and dividing an Iron Ingot by Diamond will produce Mobius "Unstable-Stable" Ingot which does not explode, can be produced in any crafting interface and will stack up to 64.ANDpre9860minecraft/end_portal_frame-0.png11020minecraft/beacon-0.png11061minecraft/brewing_stand-0.pngrewardsItemminecraft/beacon-0.pngBeacon;Glass-Tier: HV
+1enhancedlootbags/lootbag-11.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDOptionalminecraft/beacon-0.pngBeacon\nGlass-Tier: HV
-1Optionalminecraft/chest-0.pngChest\nBurn Time: 300
+1tasksANDOptionalminecraft/beacon-0.pngBeacon;Glass-Tier: HV
+1Optionalminecraft/chest-0.pngChest;Burn Time: 300
 4minecraft/redstone-0.pngRedstone
 40minecraft/string-0.pngString
-40Optionalminecraft/cooked_porkchop-0.pngCooked Porkchop\nminecraft:cooked_porkchop
-1minecraft/cooked_fished-0.pngCooked Fish\nminecraft:cooked_fished
-1minecraft/cooked_beef-0.pngSteak\nminecraft:cooked_beef
-1minecraft/cooked_chicken-0.pngCooked Chicken\nminecraft:cooked_chicken
+40Optionalminecraft/cooked_porkchop-0.pngCooked Porkchop;minecraft:cooked_porkchop
+1minecraft/cooked_fished-0.pngCooked Fish;minecraft:cooked_fished
+1minecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
+1minecraft/cooked_chicken-0.pngCooked Chicken;minecraft:cooked_chicken
 1minecraft/dye-2.pngCactus Green
-1minecraft/baked_potato-0.pngBaked Potato\nminecraft:baked_potato
-1minecraft/coal-1.pngCharcoal\nBurn Time: 1600
+1minecraft/baked_potato-0.pngBaked Potato;minecraft:baked_potato
+1minecraft/coal-1.pngCharcoal;Burn Time: 1600
 1minecraft/iron_ingot-0.pngIron Ingot
 1minecraft/gold_ingot-0.pngGold Ingot
 1minecraft/stone-0.pngStone
-1minecraft/glass-0.pngGlass\nGlass-Tier: HV
+1minecraft/glass-0.pngGlass;Glass-Tier: HV
 1minecraft/hardened_clay-0.pngHardened Clay
 1Optionalminecraft/dirt-0.pngDirt
 1minecraft/sand-0.pngSand
@@ -43,32 +43,32 @@ Finally, kill an Iron Golem while it stands within the ritual area to activate t
 1minecraft/redstone_ore-0.pngRedstone Ore
 1minecraft/lapis_ore-0.pngLapis Lazuli Ore
 1minecraft/emerald_ore-0.pngEmerald Ore
-1Optionalminecraft/record_cat-0.pngMusic Disc\nC418 - cat
-1minecraft/record_blocks-0.pngMusic Disc\nC418 - blocks
-1minecraft/record_chirp-0.pngMusic Disc\nC418 - chirp
-1minecraft/record_far-0.pngMusic Disc\nC418 - far
-1minecraft/record_mall-0.pngMusic Disc\nC418 - mall
-1minecraft/record_mellohi-0.pngMusic Disc\nC418 - mellohi
-1minecraft/record_stal-0.pngMusic Disc\nC418 - stal
-1minecraft/record_strad-0.pngMusic Disc\nC418 - strad
-1minecraft/record_ward-0.pngMusic Disc\nC418 - ward
-1minecraft/record_11-0.pngMusic Disc\nC418 - 11
-1minecraft/record_wait-0.pngMusic Disc\nC418 - wait
-1minecraft/record_13-0.pngMusic Disc\nC418 - 13
-1Optionalminecraft/potion-8199.pngPotion of Nausea\nNausea (0:45)
-1minecraft/potion-8200.pngPotion of Weakness\nWeakness (1:30)\nWhen Applied:\n-0.5 Attack Damage
-1minecraft/potion-8201.pngPotion of Strength\nStrength (3:00)\nWhen Applied:\n+130% Attack Damage
-1minecraft/potion-8202.pngPotion of Slowness\nSlowness (1:30)\nWhen Applied:\n-15% Speed
-1minecraft/potion-8198.pngPotion of Night Vision\nNight Vision (3:00)
-1minecraft/potion-8203.pngPotion of Decay\nWither (0:45)
-1minecraft/potion-8193.pngPotion of Regeneration\nRegeneration (0:45)
-1minecraft/potion-8194.pngPotion of Swiftness\nSpeed (3:00)\nWhen Applied:\n+20% Speed
-1minecraft/potion-8195.pngPotion of Fire Resistance\nFire Resistance (3:00)
-1minecraft/potion-8196.pngPotion of Poison\nPoison (0:45)
-1minecraft/potion-8197.pngPotion of Healing\nInstant Health
-1minecraft/potion-8205.pngPotion of Water Breathing\nWater Breathing (3:00)
+1Optionalminecraft/record_cat-0.pngMusic Disc;C418 - cat
+1minecraft/record_blocks-0.pngMusic Disc;C418 - blocks
+1minecraft/record_chirp-0.pngMusic Disc;C418 - chirp
+1minecraft/record_far-0.pngMusic Disc;C418 - far
+1minecraft/record_mall-0.pngMusic Disc;C418 - mall
+1minecraft/record_mellohi-0.pngMusic Disc;C418 - mellohi
+1minecraft/record_stal-0.pngMusic Disc;C418 - stal
+1minecraft/record_strad-0.pngMusic Disc;C418 - strad
+1minecraft/record_ward-0.pngMusic Disc;C418 - ward
+1minecraft/record_11-0.pngMusic Disc;C418 - 11
+1minecraft/record_wait-0.pngMusic Disc;C418 - wait
+1minecraft/record_13-0.pngMusic Disc;C418 - 13
+1Optionalminecraft/potion-8199.pngPotion of Nausea;Nausea (0:45)
+1minecraft/potion-8200.pngPotion of Weakness;Weakness (1:30);When Applied:;-0.5 Attack Damage
+1minecraft/potion-8201.pngPotion of Strength;Strength (3:00);When Applied:;+130% Attack Damage
+1minecraft/potion-8202.pngPotion of Slowness;Slowness (1:30);When Applied:;-15% Speed
+1minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
+1minecraft/potion-8203.pngPotion of Decay;Wither (0:45)
+1minecraft/potion-8193.pngPotion of Regeneration;Regeneration (0:45)
+1minecraft/potion-8194.pngPotion of Swiftness;Speed (3:00);When Applied:;+20% Speed
+1minecraft/potion-8195.pngPotion of Fire Resistance;Fire Resistance (3:00)
+1minecraft/potion-8196.pngPotion of Poison;Poison (0:45)
+1minecraft/potion-8197.pngPotion of Healing;Instant Health
+1minecraft/potion-8205.pngPotion of Water Breathing;Water Breathing (3:00)
 1Optionalminecraft/pumpkin-0.pngPumpkin
 1minecraft/iron_block-0.pngBlock of Iron
 4LocationDIM/1-.pngThe End
-1RetrievalExtraUtilities/divisionSigil-0-activated.pngPseudo-Inversion Sigil\nSTABLE
+1RetrievalExtraUtilities/divisionSigil-0-activated.pngPseudo-Inversion Sigil;STABLE
 1

@@ -6,7 +6,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalminecraft/iron_block-0.pngBlock of Iron
-10gregtech/gt.metaitem.01-17032.pngIron Plate\nFe
-4gregtech/gt.metaitem.01-27032.pngIron Screw\nFe
+10gregtech/gt.metaitem.01-17032.pngIron Plate;Fe
+4gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
 4Craftingminecraft/anvil-0.pngAnvil
 2

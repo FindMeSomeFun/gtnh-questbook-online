@@ -1,6 +1,6 @@
 20minecraft/gravel-0.png0§2§lGravel: The Gathering2-1Your tools will eventually lose durability. You think it would be a good idea to collect more gravel in order to provide yourself with flint for more tools. Try searching near water.ANDpre151SpiceOfLife/lunchbag-0.pngrewardsChoiceminecraft/gravel-0.pngGravel
-16harvestcraft/baconcheeseburgerItem-0.pngBacon Cheeseburger\nharvestcraft:baconcheeseburgerItem
-1enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16harvestcraft/baconcheeseburgerItem-0.pngBacon Cheeseburger;harvestcraft:baconcheeseburgerItem
+1enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5tasksANDRetrievalminecraft/gravel-0.pngGravel
 128

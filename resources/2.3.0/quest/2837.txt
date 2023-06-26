@@ -1,5 +1,5 @@
 2837TwilightForest/item.tfspawnegg-191.png0Time to Kill (Penguin)39432000Be careful not to slip on the ice and land on a penguin.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Thaumcraft/ItemLootBag-0.pngCommon Treasure\nClick to open or keep to trade
+1Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"

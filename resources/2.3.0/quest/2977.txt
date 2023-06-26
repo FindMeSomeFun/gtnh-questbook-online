@@ -1,5 +1,5 @@
-2977gregtech/gt.metaitem.01-30410.png0§9§lHot Slurry6-1Then heat up the slurry with steam.ANDpre29780gregtech/gt.metaitem.01-5822.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1gregtech/gt.metaitem.01-5822.pngCrushed Bauxite Ore\n(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
+2977gregtech/gt.metaitem.01-30410.png0§9§lHot Slurry6-1Then heat up the slurry with steam.ANDpre29780gregtech/gt.metaitem.01-5822.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-5822.pngCrushed Bauxite Ore;(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
 16Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-30410.pngHeated Bauxite Slurry Cell
 32

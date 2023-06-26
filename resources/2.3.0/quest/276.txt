@@ -1,5 +1,5 @@
 276Thaumcraft/blockStoneDevice-9.png1Bring it Home32-1You probably have a nice collection of bookmarked nodes. But running around to recharge your wand(s) isn't really the way an adept thaumaturge should get his required vis. Moving nodes is not that hard, but without doubt, you need something to protect them from each other.ANDpre2601Thaumcraft/ItemLootBag-1.pngrewardsItemThaumcraft/ItemResource-2.pngThaumium Ingot
-4Thaumcraft/ItemLootBag-1.pngUncommon Treasure\nClick to open or keep to trade
+4Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockStoneDevice-9.pngNode Stabilizer
 1

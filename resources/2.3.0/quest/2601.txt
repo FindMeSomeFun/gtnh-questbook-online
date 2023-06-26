@@ -6,14 +6,14 @@ As an Assembly Line, it generally works like the normal one, with different item
 
 The CAL uses 'wraps' to make 16 of a circuit at a time (aside from ULV and LV circuits), saving you time, EU, and Soldering Alloy (or Indalloy). You make the wraps in an Assembler with 16 of the item and Polyethylene.
 
-§3BTW you can change out the Hatches and Busses for better ones, but you still need to keep ingredient order. Also CAL grants perfect overclock.ANDpre14121gregtech/gt.blockmachines-1170.png16801gregtech/gt.metaitem.01-32675.png16831gregtech/gt.blockmachines-1185.png26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDOptionalgregtech/gt.blockcasings3-10.pngGrate Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-76gregtech/gt.blockcasings2-5.pngAssembling Line Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-28IC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
-56gregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-52gregtech/gt.blockmachines-70.pngInput Bus\nItem Input for Multiblocks\nShift + right click with screwdriver to turn Sort mode on/off\nCapacity: 1 stack
-24gregtech/gt.blockmachines-80.pngOutput Bus\nItem Output for Multiblocks\nCapacity: 1 stack
-4gregtech/gt.blockmachines-51.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 16,000L
-4gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
-4gregtech/gt.blockmachines-46.pngLuV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 32,768 (LuV)\nCapacity: 262,656 EU
-4Retrievalgregtech/gt.blockmachines-12735.pngCircuit Assembly Line\nMachine Type: Circuit Assembler\nController block for the Circuit Assembly Line\nImprint this machine with a Circuit Imprint,\nby putting the imprint in the controller\nEvery Circuit Assembly Line can only be imprinted ONCE\nDoes not lose efficiency when overclocked\nTo see the structure, use a TecTech Blueprint on the Controller!\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Added by bartimaeusnek via BartWorks
+§3BTW you can change out the Hatches and Busses for better ones, but you still need to keep ingredient order. Also CAL grants perfect overclock.ANDpre14121gregtech/gt.blockmachines-1170.png16801gregtech/gt.metaitem.01-32675.png16831gregtech/gt.blockmachines-1185.png26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDOptionalgregtech/gt.blockcasings3-10.pngGrate Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+76gregtech/gt.blockcasings2-5.pngAssembling Line Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+28IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
+56gregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+52gregtech/gt.blockmachines-70.pngInput Bus;Item Input for Multiblocks;Shift + right click with screwdriver to turn Sort mode on/off;Capacity: 1 stack
+24gregtech/gt.blockmachines-80.pngOutput Bus;Item Output for Multiblocks;Capacity: 1 stack
+4gregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
+4gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+4gregtech/gt.blockmachines-46.pngLuV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 32,768 (LuV);Capacity: 262,656 EU
+4Retrievalgregtech/gt.blockmachines-12735.pngCircuit Assembly Line;Machine Type: Circuit Assembler;Controller block for the Circuit Assembly Line;Imprint this machine with a Circuit Imprint,;by putting the imprint in the controller;Every Circuit Assembly Line can only be imprinted ONCE;Does not lose efficiency when overclocked;To see the structure, use a TecTech Blueprint on the Controller!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Added by bartimaeusnek via BartWorks
 4

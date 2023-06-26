@@ -1,6 +1,6 @@
 2130Forestry/sapling-0-Pine.png0Bull Pine16-1You can breed a Bull Pine by combining Red Spruce and Mundane Larch.ANDpre21290Forestry/sapling-0-Larch.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Spruce.pngRed Spruce Sapling\nBurn Time: 100
-1Forestry/sapling-0-Larch.pngMundane Larch Sapling\nBurn Time: 100
-1RetrievalForestry/sapling-0-Pine.pngBull Pine Sapling\nBurn Time: 100
+15enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-Spruce.pngRed Spruce Sapling;Burn Time: 100
+1Forestry/sapling-0-Larch.pngMundane Larch Sapling;Burn Time: 100
+1RetrievalForestry/sapling-0-Pine.pngBull Pine Sapling;Burn Time: 100
 1

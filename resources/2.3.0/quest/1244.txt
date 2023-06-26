@@ -1,16 +1,16 @@
-1244gregtech/gt.blockores-393.png0§a§lOther Ores7-1You can find several other ores on these planets (some of which actually don't have a use, honestly), but the most useful right now are probably the ones on the right. There's also Draconium, Jade, Mirabilite, Tanzanite, Vinteum, and Vyroxes.ORpre1870GalacticraftMars/item.spaceshipTier2-0.png1880GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1244gregtech/gt.blockores-393.png0§a§lOther Ores7-1You can find several other ores on these planets (some of which actually don't have a use, honestly), but the most useful right now are probably the ones on the right. There's also Draconium, Jade, Mirabilite, Tanzanite, Vinteum, and Vyroxes.ORpre1870GalacticraftMars/item.spaceshipTier2-0.png1880GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksORRetrievalgregtech/gt.blockores-58.pngAntimony Ore\nSb
-16gregtech/gt.blockores-39.pngArsenic Ore\nAs
-16gregtech/gt.blockores-90.pngBismuth Ore\nBi
-16gregtech/gt.blockores-812.pngElectrotine Ore\nRp
-16gregtech/gt.blockores-6.pngLithium Ore\nLi
-16gregtech/gt.blockores-393.pngOriharukon Ore\nOh
-16Retrievalgregtech/gt.metaitem.01-5058.pngCrushed Antimony Ore\nSb
-48gregtech/gt.metaitem.01-5039.pngCrushed Arsenic Ore\nAs
-48gregtech/gt.metaitem.01-5090.pngCrushed Bismuth Ore\nBi
-48gregtech/gt.metaitem.01-5812.pngCrushed Electrotine Ore\nRp
-160gregtech/gt.metaitem.01-5006.pngCrushed Lithium Ore\nLi\nBurn Time: 6000
-48gregtech/gt.metaitem.01-5393.pngCrushed Oriharukon Ore\nOh
+2tasksORRetrievalgregtech/gt.blockores-58.pngAntimony Ore;Sb
+16gregtech/gt.blockores-39.pngArsenic Ore;As
+16gregtech/gt.blockores-90.pngBismuth Ore;Bi
+16gregtech/gt.blockores-812.pngElectrotine Ore;Rp
+16gregtech/gt.blockores-6.pngLithium Ore;Li
+16gregtech/gt.blockores-393.pngOriharukon Ore;Oh
+16Retrievalgregtech/gt.metaitem.01-5058.pngCrushed Antimony Ore;Sb
+48gregtech/gt.metaitem.01-5039.pngCrushed Arsenic Ore;As
+48gregtech/gt.metaitem.01-5090.pngCrushed Bismuth Ore;Bi
+48gregtech/gt.metaitem.01-5812.pngCrushed Electrotine Ore;Rp
+160gregtech/gt.metaitem.01-5006.pngCrushed Lithium Ore;Li;Burn Time: 6000
+48gregtech/gt.metaitem.01-5393.pngCrushed Oriharukon Ore;Oh
 48

@@ -1,7 +1,7 @@
 1393TaintedMagic/ItemFocusTaint-0.png0Wand Focus Tainted Storm34-1Wand Focus: Tainted Storm can be equipped on any wand and will emit a stream of tainted particles which will damage anything in a short distance and inflict Taint Poison for 5 seconds. The focus will also debuff the caster with Flux Flu III for 10 seconds unless enchanted with Antibody. The foci can be enchanted with Frugal, Potency, Enlarge, Antibody and Corrosive. Each cast costs 0.1 Aqua + 0.1 Perditio
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13800Thaumcraft/FocusPech-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13800Thaumcraft/FocusPech-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalTaintedMagic/ItemFocusTaint-0.pngWand Focus: Tainted Storm\nVis per tick\n Aer x 0.8\n Aqua x 0.8\n15 Attack Damage (When Equipped)\nStaff gives x1.5 Damage
+1tasksANDRetrievalTaintedMagic/ItemFocusTaint-0.pngWand Focus: Tainted Storm;Vis per tick; Aer x 0.8; Aqua x 0.8;15 Attack Damage (When Equipped);Staff gives x1.5 Damage
 1

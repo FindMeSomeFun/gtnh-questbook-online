@@ -3,8 +3,8 @@ They're not that easy to separate, however...
 
 Craft up a Digester to unlock the questline in the IV tab.
 
-Note: This multiblock will not function correctly without a muffler hatchANDpre18901gregtech/gt.blockmachines-215.pngrewardsItemgregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-8Choiceenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1gregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-16tasksANDRetrievalgregtech/gt.blockmachines-10500.pngDigester\nMachine Type: Digester\nController block for the Digester\nInput ores and fluid, output water.\nFollow the StructureLib hologram projector to build the main structure.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: GTNH: Lanthanides
+Note: This multiblock will not function correctly without a muffler hatchANDpre18901gregtech/gt.blockmachines-215.pngrewardsItemgregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8Choiceenhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1gregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+16tasksANDRetrievalgregtech/gt.blockmachines-10500.pngDigester;Machine Type: Digester;Controller block for the Digester;Input ores and fluid, output water.;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GTNH: Lanthanides
 1

@@ -2,7 +2,7 @@
 8Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
 5tasksANDOptionalAWWayofTime/ritualStone-0.pngRitual Stone
 4AWWayofTime/weakBloodShard-0.pngWeak Blood Shard
-1thaumicbases/voidBlock-0.pngVoid metal Block\nMay work as an Infusion Stabilizer
+1thaumicbases/voidBlock-0.pngVoid metal Block;May work as an Infusion Stabilizer
 16RetrievalAWWayofTime/largeBloodStoneBrick-0.pngLarge Bloodstone Brick
-4dreamcraft/tile.BloodyVoid-0.pngBlood-Soaked Void Block\nUsed for Blood Altar Tier 4 Pillars
+4dreamcraft/tile.BloodyVoid-0.pngBlood-Soaked Void Block;Used for Blood Altar Tier 4 Pillars
 16

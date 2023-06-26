@@ -3,7 +3,7 @@
 The material would also make an excellent bolt body. Perhaps you will find a suitable tip to match?ANDpre9901gregtech/gt.metaitem.01-11366.pngrewardsItemminecraft/spawn_egg-54.pngSpawn Zombie
 1minecraft/spawn_egg-51.pngSpawn Skeleton
 1minecraft/spawn_egg-52.pngSpawn Spider
-1Itemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5tasksANDRetrievalTGregworks/tGregToolPartCrossbowLimb-1635.pngEnergetic Alloy Crossbow Limb\nDurability: 1805\nDraw Speed: 1s\nArrow Speed: 4.6\nParts can be replaced
+5tasksANDRetrievalTGregworks/tGregToolPartCrossbowLimb-1635.pngEnergetic Alloy Crossbow Limb;Durability: 1805;Draw Speed: 1s;Arrow Speed: 4.6;Parts can be replaced
 1

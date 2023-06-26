@@ -1,9 +1,9 @@
 1574witchery/ingredient-29.png0Diamond Vapor36-1Diamond vapor is an ingredient made by distilling diamond in a distillery according to the recipe in the book, Witchcraft: Distilling, using a Diamond and Oil of Vitriol.ANDpre15730witchery/ingredient-30.pngrewardsItemwitchery/ingredient-27.pngClay Jar
-16enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+16enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDOptionalminecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1tasksANDOptionalminecraft/diamond-0.pngDiamond;Burn Time: 102400
 2witchery/ingredient-30.pngOil of Vitriol
 2witchery/ingredient-27.pngClay Jar
 6Retrievalwitchery/ingredient-29.pngDiamond Vapor

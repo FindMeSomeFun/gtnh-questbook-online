@@ -1,5 +1,5 @@
 992Forestry/beePrincessGE-0-Tropical.png0Go Find Some Tropical Bees28-1Next you'll need to find some tropical bees. The hives can be found in Jungle biomes. Be careful as these bees are very aggressive and can poison you. Collect the silky combs and extract some silk wisp from those in order to make some Apiarist's clothes. Try to get pristine bees. If you're having trouble finding them, you can use Nature's Compass to search for a specific biome.ANDpre5020Forestry/apiculture-2.pngrewardsItemForestry/beeCombs-6.pngSilky Comb
 8Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
-25tasksANDRetrievalForestry/beePrincessGE-0-Tropical.pngTropical Princess\nPristine Stock
+25tasksANDRetrievalForestry/beePrincessGE-0-Tropical.pngTropical Princess;Pristine Stock
 1Forestry/beeDroneGE-0-Tropical.pngTropical Drone
 1

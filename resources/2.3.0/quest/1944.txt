@@ -1,7 +1,7 @@
-1944gregtech/gt.blockconcretes-8.png0Concrete and GT Stones15-1Chisel can also transform Concrete and GT stones into new interesting blocks. Some of the GT stone blocks will even prevent mobs from spawning on top. GT Concrete will let you run faster.ANDpre5541gregtech/gt.blockmachines-581.png19350chisel/obsidianChisel-0.pngrewardstasksANDRetrievalgregtech/gt.blockconcretes-8.pngLight Concrete\nYou can walk faster on this Block
-1chisel/concrete-0.pngConcrete\nConcrete\nMobs cannot Spawn on this Block
-1chisel/concrete-10.pngConcrete\nAsphalt\nMobs cannot Spawn on this Block
-1Retrievalgregtech/gt.blockstones-5.pngMossy Marble Bricks\nMobs cannot Spawn on this Block
-1gregtech/gt.blockgranites-12.pngCracked Red Granite Bricks\nMobs cannot Spawn on this Block
-1gregtech/gt.blockstones-14.pngChiseled Basalt\nMobs cannot Spawn on this Block
+1944gregtech/gt.blockconcretes-8.png0Concrete and GT Stones15-1Chisel can also transform Concrete and GT stones into new interesting blocks. Some of the GT stone blocks will even prevent mobs from spawning on top. GT Concrete will let you run faster.ANDpre5541gregtech/gt.blockmachines-581.png19350chisel/obsidianChisel-0.pngrewardstasksANDRetrievalgregtech/gt.blockconcretes-8.pngLight Concrete;You can walk faster on this Block
+1chisel/concrete-0.pngConcrete;Concrete;Mobs cannot Spawn on this Block
+1chisel/concrete-10.pngConcrete;Asphalt;Mobs cannot Spawn on this Block
+1Retrievalgregtech/gt.blockstones-5.pngMossy Marble Bricks;Mobs cannot Spawn on this Block
+1gregtech/gt.blockgranites-12.pngCracked Red Granite Bricks;Mobs cannot Spawn on this Block
+1gregtech/gt.blockstones-14.pngChiseled Basalt;Mobs cannot Spawn on this Block
 1

@@ -1,5 +1,5 @@
-2138gregtech/gt.metaitem.01-32402.png0Making Sense of Spaghetti15-1Nobody likes an untidy base. You can craft a spray can and later fill it with Chemical Dye made from sulfuric acid to color coordinate your carpets, cables, wires, and machines. But for now, have a couple of freebies.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemgregtech/gt.metaitem.01-32432.pngSpray Can\nFull\nCan Color things in Red\nRemaining Uses: 512\nNot usable when stacked!
-1gregtech/gt.metaitem.01-32452.pngSpray Can\nFull\nCan Color things in Yellow\nRemaining Uses: 512\nNot usable when stacked!
-1gregtech/gt.metaitem.01-32438.pngSpray Can\nFull\nCan Color things in Blue\nRemaining Uses: 512\nNot usable when stacked!
-1tasksANDRetrievalgregtech/gt.metaitem.01-32402.pngEmpty Spray Can\nUsed for making Sprays
+2138gregtech/gt.metaitem.01-32402.png0Making Sense of Spaghetti15-1Nobody likes an untidy base. You can craft a spray can and later fill it with Chemical Dye made from sulfuric acid to color coordinate your carpets, cables, wires, and machines. But for now, have a couple of freebies.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemgregtech/gt.metaitem.01-32432.pngSpray Can;Full;Can Color things in Red;Remaining Uses: 512;Not usable when stacked!
+1gregtech/gt.metaitem.01-32452.pngSpray Can;Full;Can Color things in Yellow;Remaining Uses: 512;Not usable when stacked!
+1gregtech/gt.metaitem.01-32438.pngSpray Can;Full;Can Color things in Blue;Remaining Uses: 512;Not usable when stacked!
+1tasksANDRetrievalgregtech/gt.metaitem.01-32402.pngEmpty Spray Can;Used for making Sprays
 1

@@ -7,7 +7,7 @@ By the way, you discovered that while the seared tank doesn't hold much, it does
 1OpenBlocks/infoBook-0.pngWorld Domination with OpenBlocks
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-5tasksANDRetrievalTConstruct/LavaTank-0.pngSeared Tank\nHeart of the Smeltery\nKeeps any fluids it has when harvested\nSome metals processed in smeltery don''t meet the purity requirement for GregTech processing.
-1OpenBlocks/xpdrain-0.pngXP Drain\nGlass-Tier: HV
+5tasksANDRetrievalTConstruct/LavaTank-0.pngSeared Tank;Heart of the Smeltery;Keeps any fluids it has when harvested;Some metals processed in smeltery don''t meet the purity requirement for GregTech processing.
+1OpenBlocks/xpdrain-0.pngXP Drain;Glass-Tier: HV
 1minecraft/bucket-0.pngBucket
 2

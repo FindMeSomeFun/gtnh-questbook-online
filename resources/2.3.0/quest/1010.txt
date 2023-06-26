@@ -3,9 +3,9 @@
 It is much easier using a Forestry worktable. Move all your buckets into the worktable, and shift-click to craft them all at once.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft/butterItem-0.pngButter
 16minecraft/egg-0.pngEgg
 16minecraft/sugar-0.pngSugar
-16gregtech/gt.metaitem.01-2817.pngSalt\nNaCl
+16gregtech/gt.metaitem.01-2817.pngSalt;NaCl
 16harvestcraft/flourItem-0.pngFlour
-16enhancedlootbags/lootbag-29.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-29.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalharvestcraft/freshwaterItem-0.pngFresh Water

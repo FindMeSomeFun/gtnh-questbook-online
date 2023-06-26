@@ -1,11 +1,11 @@
 1723GalaxySpace/ioblocks-3.png1Io Dungeon24-1Go get the schematics for tier 5 rockets. Watch out for lava!
 
-This will open the Moons from Saturn and Uranus.ANDpre15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
-16gregtech/gt.metaitem.01-11372.pngHSS-G Ingot\n((Fe\u2085\u2080C)W)\u2085CrMo\u2082V
-16enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+This will open the Moons from Saturn and Uranus.ANDpre15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
+16gregtech/gt.metaitem.01-11372.pngHSS-G Ingot;((Fe\u2085\u2080C)W)\u2085CrMo\u2082V
+16enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDRetrievalGalaxySpace/ioblocks-3.pngIo Dungeon Bricks
 16RetrievalGalaxySpace/item.Tier5Key-0.pngTier 4 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier5-0.pngNASA Workbench Schematic\nRocket Tier 5
+1RetrievalGalaxySpace/item.SchematicTier5-0.pngNASA Workbench Schematic;Rocket Tier 5
 1

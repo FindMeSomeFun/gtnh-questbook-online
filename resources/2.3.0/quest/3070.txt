@@ -4,9 +4,9 @@ You can also side-step the need for a Fermenter. Check out NEI to see which way 
 
 (You only have to submit one of these)
 
-ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
-4gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit\nGood Circuit\nMV-Tier
-2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksORRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven\nMachine Type: Coke Oven\nController block for the Pyrolyse Oven\nIndustrial Charcoal producer\nProcessing speed scales linearly with Coil tier:\nCuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.\nEU/t is not affected by Coil tier\nCauses: 300 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
-1Retrievalgregtech/gt.blockmachines-791.pngIndustrial Coke Oven\nMachine Type: Coke Oven\nProcesses Logs and Coal into Charcoal and Coal Coke.\nController Block for the Industrial Coke Oven\nGain 4% energy discount per voltage tier\nProcess 12x materials with Heat Resistant Casings\nOr 24x materials with Heat Proof Casings\nCauses: 80 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+ANDpre7330IC2/itemBiochaff-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+4gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
+2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksORRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven;Machine Type: Coke Oven;Controller block for the Pyrolyse Oven;Industrial Charcoal producer;Processing speed scales linearly with Coil tier:;CuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.;EU/t is not affected by Coil tier;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+1Retrievalgregtech/gt.blockmachines-791.pngIndustrial Coke Oven;Machine Type: Coke Oven;Processes Logs and Coal into Charcoal and Coal Coke.;Controller Block for the Industrial Coke Oven;Gain 4% energy discount per voltage tier;Process 12x materials with Heat Resistant Casings;Or 24x materials with Heat Proof Casings;Causes: 80 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

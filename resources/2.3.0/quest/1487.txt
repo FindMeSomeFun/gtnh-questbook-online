@@ -1,8 +1,8 @@
 1487dreamcraft/item.Marshmallow-0.png0Cooling Your Marshmallow13-1In the next step you cool your Glowing Mashmallow in an HV Vacuum Freezer to make it more stable.
 
-You still get Weakness II and Nausea II.ANDpre14860dreamcraft/item.GlowingMarshmallow-0.pngrewardsChoiceharvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem
-8enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You still get Weakness II and Nausea II.ANDpre14860dreamcraft/item.GlowingMarshmallow-0.pngrewardsChoiceharvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
+8enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionaldreamcraft/item.GlowingMarshmallow-0.pngGlowing Marshmallow\nIs it me or it just gained pixels from all that heat.
-1Retrievaldreamcraft/item.Marshmallow-0.pngSemi-stable Marshmallow\nI have a very wired feeling.
+2tasksANDOptionaldreamcraft/item.GlowingMarshmallow-0.pngGlowing Marshmallow;Is it me or it just gained pixels from all that heat.
+1Retrievaldreamcraft/item.Marshmallow-0.pngSemi-stable Marshmallow;I have a very wired feeling.
 1

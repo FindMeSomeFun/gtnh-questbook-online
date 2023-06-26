@@ -1,8 +1,8 @@
 840gregtech/gt.metaitem.01-30644.png0§5§lButane and Propane4-1You can crack and distill a lot of different fluids out of your already distilled products, such as Butane, Butene, Butadiane, Benzene, Ethane, Ethylene, Helium, Hydrogen, Methane, Octane, Propane, Propene, Toluene, and even more Light Fuel, Heavy Fuel, or Naphtha. You can then crack them down even further too sometimes. Many of these are only used for power. Go check out the spreadsheet for more details than this quest can encompass.
 
 For now, get some Butane and Propane.ORpre5490gregtech/gt.metaitem.01-30740.png5520gregtech/gt.metaitem.01-30741.png6410gregtech/gt.metaitem.01-30739.png6430gregtech/gt.metaitem.01-30735.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
-16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-30643.pngPropane Cell\nC\u2083H\u2088
-32gregtech/gt.metaitem.01-30644.pngButane Cell\nC\u2084H\u2081\u2080
+15tasksANDRetrievalgregtech/gt.metaitem.01-30643.pngPropane Cell;C\u2083H\u2088
+32gregtech/gt.metaitem.01-30644.pngButane Cell;C\u2084H\u2081\u2080
 32

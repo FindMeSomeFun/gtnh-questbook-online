@@ -6,13 +6,13 @@ Place your enchantment table on a grass field and surround it with redstone dust
 
 Beware! Your actions will have consequences.ANDpre1170ExtraUtilities/golden_lasso-0.png11000minecraft/enchanting_table-0.pngrewardsItemminecraft/torch-0.pngTorch
 16ExtraUtilities/unstableingot-1.pngSemi-stable Nugget
-1enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5tasksANDOptionalExtraUtilities/divisionSigil-0.pngDivision Sigil\nINACTIVE: You must perform Activation Ritual.\nSneak right-click on an enchanting table\nfor more details
+5tasksANDOptionalExtraUtilities/divisionSigil-0.pngDivision Sigil;INACTIVE: You must perform Activation Ritual.;Sneak right-click on an enchanting table;for more details
 1Optionalminecraft/enchanting_table-0.pngEnchantment Table
 1minecraft/redstone-0.pngRedstone
 8ExtraUtilities/golden_lasso-0.pngGolden Lasso
-1RetrievalExtraUtilities/divisionSigil-0-activated.pngDivision Sigil\nACTIVE: Number of uses remaining - 256
+1RetrievalExtraUtilities/divisionSigil-0-activated.pngDivision Sigil;ACTIVE: Number of uses remaining - 256
 1

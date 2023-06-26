@@ -1,10 +1,10 @@
-863TConstruct/Javelin-0-35.png0§2§lBronze Javelin14-1The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich\ngregtech:gt.metaitem.02\nJust not worth it
+863TConstruct/Javelin-0-35.png0§2§lBronze Javelin14-1The bronze javelin is a bit expensive and has only 7 throws, yet it is a good mid-range weapon. With one bronze ingot you can replenish your stack of javelins.ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich;gregtech:gt.metaitem.02;Just not worth it
 1TConstruct/materials-14.pngAluminum Brass Ingot
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalTConstruct/metalPattern-25.pngArrowhead Cast\nMaterial Cost: 1
-1TConstruct/metalPattern-14.pngTough Rod Cast\nMaterial Cost: 3
-1RetrievalTConstruct/arrowhead-14.pngBronze Arrowhead\nAttack: 1.5 Hearts\nDurability: 285\nBreak Chance: 120%\nWeight: 3.2\nParts can be replaced
-1TConstruct/toughRod-14.pngBronze Tough Rod\nReinforced I\nDurability Modifier: 1.25x\nParts can be replaced
-2RetrievalTConstruct/Javelin-0-35.pngBronze Javelin\nReinforced I\nTool Level: 01-Abused\n+6 Attack Damage
+5tasksANDOptionalTConstruct/metalPattern-25.pngArrowhead Cast;Material Cost: 1
+1TConstruct/metalPattern-14.pngTough Rod Cast;Material Cost: 3
+1RetrievalTConstruct/arrowhead-14.pngBronze Arrowhead;Attack: 1.5 Hearts;Durability: 285;Break Chance: 120%;Weight: 3.2;Parts can be replaced
+1TConstruct/toughRod-14.pngBronze Tough Rod;Reinforced I;Durability Modifier: 1.25x;Parts can be replaced
+2RetrievalTConstruct/Javelin-0-35.pngBronze Javelin;Reinforced I;Tool Level: 01-Abused;+6 Attack Damage
 1

@@ -14,16 +14,16 @@ Additionally, the longer the door is open or the cleanroom is off, the lower the
 
 Other helpful hints include: using a wireless connector for AE or a transvector interface to skip machine hulls, and that you can use higher tier energy hatches to reach 100% efficiency faster (does not use more power once at 100%).
 
-§cKeep in mind that you cannot use anything in the cleanroom that causes pollution or it will break down.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§cKeep in mind that you cannot use anything in the cleanroom that causes pollution or it will break down.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalminecraft/stone_pressure_plate-0.pngPressure Plate
 2IC2/itemDoorAlloy-0.pngReinforced Door
-1Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
-1gregtech/gt.blockmachines-42.pngMV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 128 (MV)\nCapacity: 1,536 EU
-1gregtech/gt.blockmachines-12.pngMV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nCapacity: 6,912 EU
-1gregtech/gt.blockmachines-11.pngLV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 32 (LV)\nVoltage OUT: 32 (LV)\nCapacity: 2,112 EU
-2gregtech/gt.blockmachines-12635.pngCable Diode 4A MV\nA Simple diode that will allow Energy Flow in only one direction.\nVoltage: 128\nAmperage IN: 4\nAmperage OUT: 4\nAdded by bartimaeusnek via BartWorks\nVoltage IN: 128 (MV)\nVoltage OUT: 128 (MV)\nAmperage: 4\nCapacity: 6,912 EU
+1Optionalgregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-42.pngMV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 128 (MV);Capacity: 1,536 EU
+1gregtech/gt.blockmachines-12.pngMV Machine Hull;You just need Imagination to use this.;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 6,912 EU
+1gregtech/gt.blockmachines-11.pngLV Machine Hull;You just need Imagination to use this.;Voltage IN: 32 (LV);Voltage OUT: 32 (LV);Capacity: 2,112 EU
+2gregtech/gt.blockmachines-12635.pngCable Diode 4A MV;A Simple diode that will allow Energy Flow in only one direction.;Voltage: 128;Amperage IN: 4;Amperage OUT: 4;Added by bartimaeusnek via BartWorks;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Amperage: 4;Capacity: 6,912 EU
 1Optionalgregtech/gt.blockreinforced-2.pngPlascrete Block
-82gregtech/gt.blockcasings3-11.pngFilter Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-8Retrievalgregtech/gt.blockmachines-1172.pngCleanroom Controller\nMachine Type: Cleanroom\nController block for the Cleanroom\nConsumes 40 EU/t when first turned on\nand 4 EU/t once at 100% efficiency when not overclocked\nAn energy hatch accepts up to 2A, so you can use 2A LV or 1A MV\n2 LV batteries + 1 LV generator or 1 MV generator\nTime required to reach full efficiency is proportional to\nthe height of empty space within\nMake sure your Energy Hatch matches! ?\nMachines that cause pollution aren''t allowed to be put in.\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+82gregtech/gt.blockcasings3-11.pngFilter Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8Retrievalgregtech/gt.blockmachines-1172.pngCleanroom Controller;Machine Type: Cleanroom;Controller block for the Cleanroom;Consumes 40 EU/t when first turned on;and 4 EU/t once at 100% efficiency when not overclocked;An energy hatch accepts up to 2A, so you can use 2A LV or 1A MV;2 LV batteries + 1 LV generator or 1 MV generator;Time required to reach full efficiency is proportional to;the height of empty space within;Make sure your Energy Hatch matches! ?;Machines that cause pollution aren''t allowed to be put in.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

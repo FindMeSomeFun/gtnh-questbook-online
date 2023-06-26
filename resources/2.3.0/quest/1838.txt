@@ -1,7 +1,7 @@
-1838TwilightForest/tile.TFSapling-1.png0Low on Sticks?31-1If you stay in the Twilight Forest for more than a few minutes you'll find Canopy Trees. This big tree generates a lot of logs for your Coke ovens and some roots when planted which give sticks. Be careful that no building or chest right beside or above the tree otherwise the tree replaces it. You might find a use for this, to sinfully get above a ceiling you really shouldn't.ANDpre2251minecraft/end_portal-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1838TwilightForest/tile.TFSapling-1.png0Low on Sticks?31-1If you stay in the Twilight Forest for more than a few minutes you'll find Canopy Trees. This big tree generates a lot of logs for your Coke ovens and some roots when planted which give sticks. Be careful that no building or chest right beside or above the tree otherwise the tree replaces it. You might find a use for this, to sinfully get above a ceiling you really shouldn't.ANDpre2251minecraft/end_portal-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDRetrievalTwilightForest/tile.TFSapling-1.pngCanopy Tree Sapling
 16TwilightForest/tile.TFFirefly-0.pngFirefly
-4TwilightForest/tile.TFLog-1.pngCanopy Tree Wood\nBurn Time: 300
+4TwilightForest/tile.TFLog-1.pngCanopy Tree Wood;Burn Time: 300
 64

@@ -1,16 +1,16 @@
 2975harvestcraft/cranberryjuiceItem-0.png0§6§lI need a drink. And more Chrome.5-1The most efficient way to process Ruby Ore. Better than electrolysis.
 
-§3Check out NEI for similar processes based on Sapphire and Green Sapphire.ANDpre7511gregtech/gt.blockmachines-582.png8490gregtech/gt.metaitem.01-2685.png13220gregtech/gt.blockmachines-362.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3Check out NEI for similar processes based on Sapphire and Green Sapphire.ANDpre7511gregtech/gt.blockmachines-582.png8490gregtech/gt.metaitem.01-2685.png13220gregtech/gt.blockmachines-362.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-30417.pngRuby Juice Cell
-1harvestcraft/cranberryjuiceItem-0.pngCranberry Juice\nharvestcraft:cranberryjuiceItem
+1harvestcraft/cranberryjuiceItem-0.pngCranberry Juice;harvestcraft:cranberryjuiceItem
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-5502.pngCrushed Ruby Ore\nCrAl\u2082O\u2083
-1gregtech/gt.metaitem.01-3502.pngImpure Pile of Ruby Dust\nCrAl\u2082O\u2083\nThrow into Cauldron to get clean Dust
-1gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore\nCrAl\u2082O\u2083
-1gregtech/gt.metaitem.01-4502.pngPurified Pile of Ruby Dust\nCrAl\u2082O\u2083\nThrow into Cauldron to get clean Dust
-1Retrievalgregtech/gt.metaitem.01-685.pngTiny Pile of Sodium Hydroxide Dust\nNaOH
-1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
+25tasksANDOptionalgregtech/gt.metaitem.01-5502.pngCrushed Ruby Ore;CrAl\u2082O\u2083
+1gregtech/gt.metaitem.01-3502.pngImpure Pile of Ruby Dust;CrAl\u2082O\u2083;Throw into Cauldron to get clean Dust
+1gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore;CrAl\u2082O\u2083
+1gregtech/gt.metaitem.01-4502.pngPurified Pile of Ruby Dust;CrAl\u2082O\u2083;Throw into Cauldron to get clean Dust
+1Retrievalgregtech/gt.metaitem.01-685.pngTiny Pile of Sodium Hydroxide Dust;NaOH
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
 1Retrievalgregtech/gt.metaitem.01-30417.pngRuby Juice Cell
-1Retrievalgregtech/gt.metaitem.01-2698.pngAluminium Hydroxide Dust\nAl(OH)\u2083
-3gregtech/gt.metaitem.01-2030.pngChrome Dust\nCr
+1Retrievalgregtech/gt.metaitem.01-2698.pngAluminium Hydroxide Dust;Al(OH)\u2083
+3gregtech/gt.metaitem.01-2030.pngChrome Dust;Cr
 1

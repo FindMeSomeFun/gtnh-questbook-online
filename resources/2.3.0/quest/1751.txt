@@ -4,20 +4,20 @@ Your graphics card allows the computer to draw text and other things to the scre
 
 The better graphics card you use the higher resolution, and better features can be drawn.
 
-You also need a higher tier monitor to display colors or to get touchscreen compatability, but that's something to worry about for another day.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-1.pngMemory\nTier 1
-2OpenComputers/item-8.pngGraphics Card\nTier 1
-1enhancedlootbags/lootbag-46.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
-1ItemOpenComputers/screen2-0.pngScreen\nHold [NONE] for material costs.
-2miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
+You also need a higher tier monitor to display colors or to get touchscreen compatability, but that's something to worry about for another day.ANDpre17590OpenComputers/item-54.pngrewardsChoiceOpenComputers/item-1.pngMemory;Tier 1
+2OpenComputers/item-8.pngGraphics Card;Tier 1
+1enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
+1ItemOpenComputers/screen2-0.pngScreen;Hold [NONE] for material costs.
+2miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
 2tasksANDOptionalOpenComputers/item-33.pngCard Base
 1OpenComputers/item-27.pngArithmetic Logic Unit
 8OpenComputers/item-28.pngControl Unit
 1OpenComputers/item-24.pngMicrochip
-1OpenComputers/item-1.pngMemory\nTier 1
-1RetrievalOpenComputers/item-8.pngGraphics Card\nTier 1
-1Optionalgregtech/gt.blockcasings-2.pngMV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-2gregtech/gt.metaitem.01-32740.pngComputer Monitor Cover\nDisplays Data and GUI
-2gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit\nGood Circuit\nMV-Tier
-4gregtech/gt.metaitem.01-32717.pngTransistor\nBasic Electronic Component
-4ConsumeOpenComputers/screen1-0.pngScreen\nHold [NONE] for material costs.
+1OpenComputers/item-1.pngMemory;Tier 1
+1RetrievalOpenComputers/item-8.pngGraphics Card;Tier 1
+1Optionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2gregtech/gt.metaitem.01-32740.pngComputer Monitor Cover;Displays Data and GUI
+2gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
+4gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
+4ConsumeOpenComputers/screen1-0.pngScreen;Hold [NONE] for material costs.
 2

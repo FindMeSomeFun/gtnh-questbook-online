@@ -1,4 +1,4 @@
-106StevesCarts/BlockCartAssembler-0.png0Your First Automation25-1Well, probably not the first, but definitely something big! You'll need a cart assembler first.ANDpre911gregtech/gt.metaitem.01-32630.png921gregtech/gt.metaitem.01-32650.png971gregtech/gt.blockmachines-211.png5791gregtech/gt.blockmachines-511.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+106StevesCarts/BlockCartAssembler-0.png0Your First Automation25-1Well, probably not the first, but definitely something big! You'll need a cart assembler first.ANDpre911gregtech/gt.metaitem.01-32630.png921gregtech/gt.metaitem.01-32650.png971gregtech/gt.blockmachines-211.png5791gregtech/gt.blockmachines-511.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalStevesCarts/BlockCartAssembler-0.pngCart Assembler
 1

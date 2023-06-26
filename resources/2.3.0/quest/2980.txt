@@ -1,5 +1,5 @@
-2980gregtech/gt.blockmachines-574.png1§a§9§a§9§l§9§a§lPlaying With Dust in EV7-1The EV Autoclave is needed to process tungsten and other high tier materials. ANDpre2121dreamcraft/item.MoonStoneDust-0.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2980gregtech/gt.blockmachines-574.png1§a§9§a§9§l§9§a§lPlaying With Dust in EV7-1The EV Autoclave is needed to process tungsten and other high tier materials. ANDpre2121dreamcraft/item.MoonStoneDust-0.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.LapotronDust-0.pngLapotron Dust
 30Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-574.pngAdvanced Autoclave III\nCrystallizing your Dusts\nVoltage IN: 2,048 (EV)\nCapacity: 131,072 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-574.pngAdvanced Autoclave III;Crystallizing your Dusts;Voltage IN: 2,048 (EV);Capacity: 131,072 EU
 1

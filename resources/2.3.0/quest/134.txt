@@ -3,10 +3,10 @@
 §3There's also ME conduits for when you can do that.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsChoiceEnderIO/itemItemConduit-0.pngItem Conduit
 4EnderIO/itemLiquidConduit-0.pngFluid Conduit
 4EnderIO/itemRedstoneConduit-0.pngRedstone Conduit
-4EnderIO/itemPowerConduit-0.pngEnergy Conduit\nMax Output 640 RF/t
+4EnderIO/itemPowerConduit-0.pngEnergy Conduit;Max Output 640 RF/t
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalEnderIO/itemItemConduit-0.pngItem Conduit
 8EnderIO/itemLiquidConduit-0.pngFluid Conduit
-8EnderIO/itemPowerConduit-0.pngEnergy Conduit\nMax Output 640 RF/t
+8EnderIO/itemPowerConduit-0.pngEnergy Conduit;Max Output 640 RF/t
 8EnderIO/itemRedstoneConduit-0.pngRedstone Conduit
 8

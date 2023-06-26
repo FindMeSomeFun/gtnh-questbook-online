@@ -8,8 +8,8 @@
 
 -Firewall pipe can control which items can pass through them.ANDpre1270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
 4ProjRedCore/projectred.core.part-13.pngInfused Silicon
-2gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
-1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-1.pngRouted Junction pipe
 4

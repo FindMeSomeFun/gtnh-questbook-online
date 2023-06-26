@@ -1,10 +1,10 @@
 1142gregtech/gt.blockmachines-163.png0HV Battery Buffers20-1You'll probably want HV battery buffers as well.
 
-§3You only need to complete one task.ANDpre11440gregtech/gt.metaitem.01-32528.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
-8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3You only need to complete one task.ANDpre11440gregtech/gt.metaitem.01-32528.pngrewardsItemgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksORRetrievalgregtech/gt.blockmachines-163.pngHigh Voltage Battery Buffer\n1 Slots\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 32,768 EU
-1Retrievalgregtech/gt.blockmachines-173.pngHigh Voltage Battery Buffer\n4 Slots\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 131,072 EU
-1Retrievalgregtech/gt.blockmachines-183.pngHigh Voltage Battery Buffer\n9 Slots\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 294,912 EU
-1Retrievalgregtech/gt.blockmachines-193.pngHigh Voltage Battery Buffer\n16 Slots\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 524,288 EU
+5tasksORRetrievalgregtech/gt.blockmachines-163.pngHigh Voltage Battery Buffer;1 Slots;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 32,768 EU
+1Retrievalgregtech/gt.blockmachines-173.pngHigh Voltage Battery Buffer;4 Slots;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 131,072 EU
+1Retrievalgregtech/gt.blockmachines-183.pngHigh Voltage Battery Buffer;9 Slots;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 294,912 EU
+1Retrievalgregtech/gt.blockmachines-193.pngHigh Voltage Battery Buffer;16 Slots;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 524,288 EU
 1

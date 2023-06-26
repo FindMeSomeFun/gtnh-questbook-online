@@ -6,9 +6,9 @@ Vacuum nukes are an interesting GTNH-specific setup. They use only three compone
 
 The Vacuum Freezer! That's why it's called a vacuum nuke! Elementary, my dear Steve. This kind of setup relies on using EU to refill the coolant cells, so to speak, and get much more EU from the reactor than you spend to keep it running. However, the redstone automation for this is quite tricky. If you just try it blindly, it might take you a long time to figure it out, and it might have explosive results. Check the Vacuum Reactors page on the wiki (https://gtnh.miraheze.org/wiki/Vacuum_Reactors) if you want a detailed guide that goes far beyond what I could write in this quest description.
 
-This quest task is for the last setup shown in the wiki, specifically the 8720-43600 EU, 40 Quad Uranium setup. As the title implies, it can produce up to 43600 EU/t, but it will require multiple filters and failsafes to run it safely. The bonus, compared to fluid nukes, is that the LHE + turbine setup is not necessary for these high output numbers.ANDpre31660IC2/blockReactorFluidPort-0.pngrewardstasksANDOptionalgregtech/gt.60k_Helium_Coolantcell-0.png60k He Coolant Cell\n100 / 100\nStored Heat: 0
-14gregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod\n100 / 100\nDurability: 20,000/20,000
-40Optionalgregtech/gt.blockmachines-1002.pngVacuum Freezer\nMachine Type: Vacuum Freezer\nController Block for the Vacuum Freezer\nCools hot ingots and cells\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
-1gregtech/gt.blockcasings2-1.pngFrost Proof Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-16Retrievalgregtech/gt.60k_Helium_Coolantcell-0.png60k He Coolant Cell\n100 / 100\nStored Heat: 0
+This quest task is for the last setup shown in the wiki, specifically the 8720-43600 EU, 40 Quad Uranium setup. As the title implies, it can produce up to 43600 EU/t, but it will require multiple filters and failsafes to run it safely. The bonus, compared to fluid nukes, is that the LHE + turbine setup is not necessary for these high output numbers.ANDpre31660IC2/blockReactorFluidPort-0.pngrewardstasksANDOptionalgregtech/gt.60k_Helium_Coolantcell-0.png60k He Coolant Cell;100 / 100;Stored Heat: 0
+14gregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod;100 / 100;Durability: 20,000/20,000
+40Optionalgregtech/gt.blockmachines-1002.pngVacuum Freezer;Machine Type: Vacuum Freezer;Controller Block for the Vacuum Freezer;Cools hot ingots and cells;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+1gregtech/gt.blockcasings2-1.pngFrost Proof Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+16Retrievalgregtech/gt.60k_Helium_Coolantcell-0.png60k He Coolant Cell;100 / 100;Stored Heat: 0
 1

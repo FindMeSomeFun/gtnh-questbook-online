@@ -10,13 +10,13 @@ Making fresh water for Pam's - Same as above, but no second item
 Making clay bricks - The wooden form is automatically reused
 Making anything that uses a tool - Also automatically reused, while consuming durability
 
-§3For more forestry quests you need to go to the dedicated tab.ANDpre5861minecraft/bookshelf-0.pngrewardsItemgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot\nFe
-4Forestry/sapling-0-Oak.pngApple Oak Sapling\nBurn Time: 100
+§3For more forestry quests you need to go to the dedicated tab.ANDpre5861minecraft/bookshelf-0.pngrewardsItemgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot;Fe
+4Forestry/sapling-0-Oak.pngApple Oak Sapling;Burn Time: 100
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15tasksANDOptionalminecraft/bookshelf-0.pngBookshelf\nEnchantment Power: 1.0\nBurn Time: 300
-1minecraft/crafting_table-0.pngCrafting Table\nBurn Time: 300
-1minecraft/chest-0.pngChest\nBurn Time: 300
-1gregtech/gt.metaitem.01-27032.pngIron Screw\nFe
+15tasksANDOptionalminecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
+1minecraft/crafting_table-0.pngCrafting Table;Burn Time: 300
+1minecraft/chest-0.pngChest;Burn Time: 300
+1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
 4CraftingForestry/factory2-2.pngWorktable
 1

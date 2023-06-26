@@ -1,13 +1,13 @@
-593Forestry/chipsets-1.png0Enhanced Farm Logic16-1This circuit allows you to configure 2/4 areas of your farm.ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
-8IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
-2gregtech/gt.metaitem.03-32100.pngCircuit Board\nA basic Circuit Board
-1enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+593Forestry/chipsets-1.png0Enhanced Farm Logic16-1This circuit allows you to configure 2/4 areas of your farm.ANDpre5840Forestry/solderingIron-0.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+8IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2gregtech/gt.metaitem.03-32100.pngCircuit Board;A basic Circuit Board
+1enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-25tasksANDOptionalgregtech/gt.metaitem.03-32100.pngCircuit Board\nA basic Circuit Board
-1IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
-2gregtech/gt.metaitem.01-27300.pngBronze Screw\nSnCu\u2083
-4gregtech/gt.metaitem.01-29300.pngBronze Foil\nSnCu\u2083
-2gregtech/gt.metaitem.02-19300.pngFine Bronze Wire\nSnCu\u2083
+25tasksANDOptionalgregtech/gt.metaitem.03-32100.pngCircuit Board;A basic Circuit Board
+1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2gregtech/gt.metaitem.01-27300.pngBronze Screw;SnCu\u2083
+4gregtech/gt.metaitem.01-29300.pngBronze Foil;SnCu\u2083
+2gregtech/gt.metaitem.02-19300.pngFine Bronze Wire;SnCu\u2083
 1RetrievalForestry/chipsets-1.pngEnhanced Circuit Board
 1

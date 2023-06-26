@@ -1,11 +1,11 @@
-796GalacticraftCore/item.sensorLens-0.png0Sensor Lens14-1The night vision goggles need special sensor lenses to work.ANDpre7531gregtech/gt.metaitem.01-11306.png8381IC2/itemPartCircuitAdv-0.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
-1IC2/itemBatCrystal-26.pngEnergy Crystal\nDurability: 1 / 27
-1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+796GalacticraftCore/item.sensorLens-0.png0Sensor Lens14-1The night vision goggles need special sensor lenses to work.ANDpre7531gregtech/gt.metaitem.01-11306.png8381IC2/itemPartCircuitAdv-0.pngrewardsChoiceIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+1IC2/itemBatCrystal-26.pngEnergy Crystal;Durability: 1 / 27
+1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-28308.pngRed Alloy Ring\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
-4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw\nFe\u2086CrMnNi
-4gregtech/gt.metaitem.01-24500.pngDiamond Lens\nC
+5tasksANDOptionalgregtech/gt.metaitem.01-28308.pngRed Alloy Ring;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-24500.pngDiamond Lens;C
 2dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
 2RetrievalGalacticraftCore/item.sensorLens-0.pngSensor Lens
 2

@@ -1,12 +1,12 @@
-1532dreamcraft/item.HeavyDutyPlateTier4-0.png1Tier 4 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 13 tier 4 heavy duty plates out of tier 3 plates and compressed ice plates.ANDpre15301GalaxySpace/ceresblocks-2.png15331gregtech/gt.blockores-389.png15340gregtech/gt.blockores-390.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+1532dreamcraft/item.HeavyDutyPlateTier4-0.png1Tier 4 Heavy Duty Plates24-1Rockets require heavy duty plates for the main hull. Let's craft 13 tier 4 heavy duty plates out of tier 3 plates and compressed ice plates.ANDpre15301GalaxySpace/ceresblocks-2.png15331gregtech/gt.blockores-389.png15340gregtech/gt.blockores-390.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
 6dreamcraft/item.IceCompressedPlate-0.pngCompressed Ice Plate
 12IC2/blockITNT-0.pngIndustrial TNT
-128enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+128enhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate\nTier 3
+1tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
 13dreamcraft/item.IceCompressedPlate-0.pngCompressed Ice Plate
-78bartworks/gt.bwMetaGeneratedbolt-90.pngRuridit Bolt\nRu\u2082Ir\nAdded by BartWorks
+78bartworks/gt.bwMetaGeneratedbolt-90.pngRuridit Bolt;Ru\u2082Ir;Added by BartWorks
 52Optionaldreamcraft/item.HeavyDutyAlloyIngotT4-0.pngHeavy Duty Alloy Ingot T4
 13Retrievaldreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
 13

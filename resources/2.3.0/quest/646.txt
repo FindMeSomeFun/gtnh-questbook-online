@@ -1,10 +1,10 @@
 646ProjRedExpansion/projectred.expansion.battery-0.png0§5§lElectrotine Battery4-1The electrotine battery is exclusively used in project red machines and the jetpack. Electrotine is made by mixing redstone and electrum dust in a mixer, or mined from the Nether.ANDpre6240gregtech/gt.blockmachines-231.pngrewardsChoiceProjRedCore/projectred.core.part-56.pngElectrotine
 24gregtech/gt.metaitem.01-17811.pngGlowstone Plate
-6gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
-4enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+6gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+4enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalProjRedCore/projectred.core.part-56.pngElectrotine
-6gregtech/gt.metaitem.01-32500.pngSmall Battery Hull\nAn empty LV Battery Hull
+6gregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
 1RetrievalProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
 1

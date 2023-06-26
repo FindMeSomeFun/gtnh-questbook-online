@@ -1,7 +1,7 @@
 2300bartworks/gt.bwMetaGeneratedcell-48.png1§a§lPlatinum Processing, Step 17-1Aqua Regia, the water of the Kings, is a chemical that will dissolve Platinum. The perfect solvent for Platinum processing. Get a few Cells of it.
 
 §6Don't wanna do all these cell quests because you already automated it? Hold a stack of any platline dust to skip to the end of that chain.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-30640.pngDiluted Sulfuric Acid Cell\nH\u2082SO\u2084
-10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell\nHNO\u2083
-10Retrievalbartworks/gt.bwMetaGeneratedcell-48.pngAqua Regia Cell\nH\u2082SO\u2084HNO\u2083\nAdded by BartWorks
+1tasksANDOptionalgregtech/gt.metaitem.01-30640.pngDiluted Sulfuric Acid Cell;H\u2082SO\u2084
+10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+10Retrievalbartworks/gt.bwMetaGeneratedcell-48.pngAqua Regia Cell;H\u2082SO\u2084HNO\u2083;Added by BartWorks
 20

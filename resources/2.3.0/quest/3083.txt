@@ -1,4 +1,4 @@
-3083gregtech/gt.metaitem.01-2069.png0§b§lSamarium, The Other Way8-1Now to just centrifuge your samarium from all that other junk (gangue). You get a little thorianite too so, win.ANDpre30870bartworks/gt.bwMetaGenerateddust-11128.pngrewardstasksANDOptionalbartworks/gt.bwMetaGenerateddust-11129.pngDephosphated Samarium Concentrate Dust\n??Sm??\nAdded by GTNH: Lanthanides via BartWorks
-1Retrievalgregtech/gt.metaitem.01-2069.pngSamarium Dust\nSm
-1bartworks/gt.bwMetaGenerateddust-18.pngThorianite Dust\nThO\u2082\nAdded by BartWorks
+3083gregtech/gt.metaitem.01-2069.png0§b§lSamarium, The Other Way8-1Now to just centrifuge your samarium from all that other junk (gangue). You get a little thorianite too so, win.ANDpre30870bartworks/gt.bwMetaGenerateddust-11128.pngrewardstasksANDOptionalbartworks/gt.bwMetaGenerateddust-11129.pngDephosphated Samarium Concentrate Dust;??Sm??;Added by GTNH: Lanthanides via BartWorks
+1Retrievalgregtech/gt.metaitem.01-2069.pngSamarium Dust;Sm
+1bartworks/gt.bwMetaGenerateddust-18.pngThorianite Dust;ThO\u2082;Added by BartWorks
 1

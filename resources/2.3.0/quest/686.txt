@@ -19,8 +19,8 @@ Hint: You are able to dye this armor.ORpre421minecraft/leather-0.pngreward
 8Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5tasksANDOptionalminecraft/leather-0.pngLeather
-24Craftingminecraft/leather_helmet-0.pngLeather Cap\nProtection: 1\nDurability: 55/55
-1minecraft/leather_chestplate-0.pngLeather Tunic\nProtection: 3\nDurability: 80/80
-1minecraft/leather_leggings-0.pngLeather Pants\nProtection: 2\nDurability: 75/75
-1minecraft/leather_boots-0.pngLeather Boots\nProtection: 1\nDurability: 65/65
+24Craftingminecraft/leather_helmet-0.pngLeather Cap;Protection: 1;Durability: 55/55
+1minecraft/leather_chestplate-0.pngLeather Tunic;Protection: 3;Durability: 80/80
+1minecraft/leather_leggings-0.pngLeather Pants;Protection: 2;Durability: 75/75
+1minecraft/leather_boots-0.pngLeather Boots;Protection: 1;Durability: 65/65
 1

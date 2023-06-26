@@ -1,6 +1,6 @@
-773IC2/itemPartCarbonMesh-0.png0§6§lRaw Carbon Mesh5-1This way of making carbon plates requires autoclaving carbon dust. There are 4 different fluids you can use, check NEI to see which gives how much.ANDpre7591gregtech/gt.metaitem.99-874.pngrewardsChoicegregtech/gt.metaitem.01-11473.pngPolytetrafluoroethylene Bar\nC\u2082F\u2084
-4gregtech/gt.metaitem.01-11874.pngPolyethylene Bar\nCH\u2082
-8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+773IC2/itemPartCarbonMesh-0.png0§6§lRaw Carbon Mesh5-1This way of making carbon plates requires autoclaving carbon dust. There are 4 different fluids you can use, check NEI to see which gives how much.ANDpre7591gregtech/gt.metaitem.99-874.pngrewardsChoicegregtech/gt.metaitem.01-11473.pngPolytetrafluoroethylene Bar;C\u2082F\u2084
+4gregtech/gt.metaitem.01-11874.pngPolyethylene Bar;CH\u2082
+8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalIC2/itemPartCarbonFibre-0.pngRaw Carbon Fibre

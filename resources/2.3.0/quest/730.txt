@@ -3,7 +3,7 @@
 Be sure you have a Forestry multifarm, Steve's Carts Farm, IC2 Crop Sticks with a harvester, or whatever, because you need plenty of biomaterials for constant bio diesel production.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemminecraft/wheat_seeds-0.pngSeeds
 32Forestry/fertilizerCompound-0.pngFertilizer
 32Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-25tasksANDRetrievalminecraft/reeds-0.pngSugar Canes\nBurn Time: 50
-64minecraft/apple-0.pngApple\nminecraft:apple
+25tasksANDRetrievalminecraft/reeds-0.pngSugar Canes;Burn Time: 50
+64minecraft/apple-0.pngApple;minecraft:apple
 64minecraft/wheat-0.pngWheat
 64

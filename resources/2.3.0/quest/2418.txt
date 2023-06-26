@@ -12,12 +12,12 @@ For more detailed info, check out the Witches' Brews book. Click on Brewing, the
 8minecraft/nether_wart-0.pngNether Wart
 8witchery/ingredient-37.pngTear of the Goddess
 8witchery/ingredient-29.pngDiamond Vapor
-8minecraft/diamond-0.pngDiamond\nBurn Time: 102400
-8enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+8minecraft/diamond-0.pngDiamond;Burn Time: 102400
+8enhancedlootbags/lootbag-53.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDRetrievalwitchery/ingredient-22.pngMandrake Root
 1minecraft/nether_wart-0.pngNether Wart
 1witchery/ingredient-37.pngTear of the Goddess
 1witchery/ingredient-29.pngDiamond Vapor
-1minecraft/diamond-0.pngDiamond\nBurn Time: 102400
+1minecraft/diamond-0.pngDiamond;Burn Time: 102400
 1

@@ -1,9 +1,9 @@
-800dreamcraft/item.NanoPlatedLeggings-0.png0Plated Leggings - Better Not Try to Wear It14-1Combining stainless steel platings with some nano leggings in the assembler gives you nano plated leggings. Better not try to wear them because you can't. They are part of the new quantum suit leggings.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.01-17306.pngStainless Steel Plate\nFe\u2086CrMnNi
-4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
-2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+800dreamcraft/item.NanoPlatedLeggings-0.png0Plated Leggings - Better Not Try to Wear It14-1Combining stainless steel platings with some nano leggings in the assembler gives you nano plated leggings. Better not try to wear them because you can't. They are part of the new quantum suit leggings.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicegregtech/gt.metaitem.01-17306.pngStainless Steel Plate;Fe\u2086CrMnNi
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalIC2/itemArmorNanoLegs-32767.pngNanoSuit Leggings\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
-4Retrievaldreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings\nDon''t try to wear this, you can''t
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
+4Retrievaldreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings;Don''t try to wear this, you can''t
 1

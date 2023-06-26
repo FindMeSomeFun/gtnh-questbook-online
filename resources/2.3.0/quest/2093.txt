@@ -11,6 +11,6 @@ Tin ET - Territory: 40 (Min 10) Prod: 90 (Min 50)
 Bronze ET - Territory: 150 (Max 500)
 
 Genetic Decay is also increased by 50% for all of them. This affects how long until ignoble bees die off, so don't worry about it if your bees are pristine.ANDpre11230Forestry/alveary-0.pngrewardsItemForestry/thermionicTubes-3.pngIron Electron Tube
-8Itemenhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+8Itemenhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalExtraBees/alveary-4.pngElectrical Stimulator
 1

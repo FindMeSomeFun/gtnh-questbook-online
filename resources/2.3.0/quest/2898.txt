@@ -1,8 +1,8 @@
-2898TConstruct/jerky-5.png0Crispy Rotten Flesh13-1Rotten Flesh is not really healthy. It doesn't satisfy your hunger. What if you try to dry?ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceTConstruct/jerky-0.pngBeef Jerky\nTConstruct:jerky
-8TConstruct/jerky-1.pngChicken Jerky\nTConstruct:jerky
-8TConstruct/jerky-2.pngBacon Jerky\nTConstruct:jerky
-8TConstruct/jerky-3.pngMutton Jerky\nTConstruct:jerky
-8TConstruct/jerky-4.pngFish Jerky\nTConstruct:jerky
+2898TConstruct/jerky-5.png0Crispy Rotten Flesh13-1Rotten Flesh is not really healthy. It doesn't satisfy your hunger. What if you try to dry?ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceTConstruct/jerky-0.pngBeef Jerky;TConstruct:jerky
+8TConstruct/jerky-1.pngChicken Jerky;TConstruct:jerky
+8TConstruct/jerky-2.pngBacon Jerky;TConstruct:jerky
+8TConstruct/jerky-3.pngMutton Jerky;TConstruct:jerky
+8TConstruct/jerky-4.pngFish Jerky;TConstruct:jerky
 8Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalTConstruct/jerky-5.pngMonster Jerky\nTConstruct:jerky
+15tasksANDRetrievalTConstruct/jerky-5.pngMonster Jerky;TConstruct:jerky
 4

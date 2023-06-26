@@ -1,13 +1,13 @@
-2057TwilightForest/item.steeleafPlate-0-enchanted.png0"Oh, Magic" Armor II14-1Steeleaf armor is the next level in Twilight Forest armor. It can be handy as a defense in the Nether.ORpre11590TwilightForest/item.steeleafIngot-0.png18070TwilightForest/item.steeleafIngot-0.pngrewardsChoiceTwilightForest/item.steeleafAxe-0-enchanted.pngSteeleaf Axe\nEfficiency II\n+6 Attack Damage\nDurability: 131/131
-1TwilightForest/item.steeleafPick-0-enchanted.pngSteeleaf Pick\nTwilightForest:item.steeleafPick\nFortune II\n+5 Attack Damage\nDurability: 131/131
-1TwilightForest/item.steeleafShovel-0-enchanted.pngSteeleaf Shovel\nEfficiency II\n+4 Attack Damage\nDurability: 131/131
-1enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2057TwilightForest/item.steeleafPlate-0-enchanted.png0"Oh, Magic" Armor II14-1Steeleaf armor is the next level in Twilight Forest armor. It can be handy as a defense in the Nether.ORpre11590TwilightForest/item.steeleafIngot-0.png18070TwilightForest/item.steeleafIngot-0.pngrewardsChoiceTwilightForest/item.steeleafAxe-0-enchanted.pngSteeleaf Axe;Efficiency II;+6 Attack Damage;Durability: 131/131
+1TwilightForest/item.steeleafPick-0-enchanted.pngSteeleaf Pick;TwilightForest:item.steeleafPick;Fortune II;+5 Attack Damage;Durability: 131/131
+1TwilightForest/item.steeleafShovel-0-enchanted.pngSteeleaf Shovel;Efficiency II;+4 Attack Damage;Durability: 131/131
+1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-17339.pngSteeleaf Plate\n(Fe\u2085\u2080C)Ma
-24RetrievalTwilightForest/item.steeleafHelm-0-enchanted.pngSteeleaf Helm\nProjectile Protection II\nProtection: 2\nDurability: 220/220
-1TwilightForest/item.steeleafPlate-0-enchanted.pngSteeleaf Plate\nBlast Protection II\nProtection: 7\nDurability: 320/320
-1TwilightForest/item.steeleafLegs-0-enchanted.pngSteeleaf Legs\nFire Protection II\nProtection: 5\nDurability: 300/300
-1TwilightForest/item.steeleafBoots-0-enchanted.pngSteeleaf Boots\nFeather Falling II\nProtection: 2\nDurability: 260/260
+25tasksANDOptionalgregtech/gt.metaitem.01-17339.pngSteeleaf Plate;(Fe\u2085\u2080C)Ma
+24RetrievalTwilightForest/item.steeleafHelm-0-enchanted.pngSteeleaf Helm;Projectile Protection II;Protection: 2;Durability: 220/220
+1TwilightForest/item.steeleafPlate-0-enchanted.pngSteeleaf Plate;Blast Protection II;Protection: 7;Durability: 320/320
+1TwilightForest/item.steeleafLegs-0-enchanted.pngSteeleaf Legs;Fire Protection II;Protection: 5;Durability: 300/300
+1TwilightForest/item.steeleafBoots-0-enchanted.pngSteeleaf Boots;Feather Falling II;Protection: 2;Durability: 260/260
 1

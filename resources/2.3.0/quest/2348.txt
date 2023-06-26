@@ -10,10 +10,10 @@ Consuming the Soul of a Torment Demon grants the ability to Torment others.
 If you are very unlucky and the Lord of Torment disappears when entering the Torment dimension, use the Egg and spawn another one.ANDpre23470minecraft/spawn_egg-6413.pngrewardsChoicewitchery/ingredient-23.pngDemon Heart
 2witchery/ingredient-38.pngRefined Evil
 5minecraft/spawn_egg-6412.pngSpawn Lord of Torment
-1enhancedlootbags/lootbag-55.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-55.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalwitchery/ingredient-141.pngTorment\nRead this text in a circle\nof standing stones. Beware its\nexplosive entrance.
+5tasksANDRetrievalwitchery/ingredient-141.pngTorment;Read this text in a circle;of standing stones. Beware its;explosive entrance.
 1LocationDIM/56-.pngThe Torment
 1

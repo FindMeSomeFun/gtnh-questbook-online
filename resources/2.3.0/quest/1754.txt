@@ -2,27 +2,27 @@
 
 The computer base is the HUB of all your computer parts essentially. It takes two memory sticks, a BIOs rom, a CPU, and a hard drive at the very least to run your computer.
 
-The power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive. Both parts are essential but both for some strange reason requires the T2 microchips to craft; so I'll let you trade the materials+T1 Microchips for some. Don't lose them!ANDpre17590OpenComputers/item-54.pngrewardsItemOpenComputers/powerConverter-0.pngPower Converter\nHold [NONE] for material costs.
-1OpenComputers/diskDrive-0.pngDisk Drive\nHold [NONE] for material costs.
-1miscutils/itemGenericToken-0.pngBitCoin\nCan be reclaimed in some way, shape or form\nCan be used on the dark web
-2ChoiceOpenComputers/cable-32767.pngCable\nA cheap way of connecting blocks. \nHold [NONE] for material costs.
-16enhancedlootbags/lootbag-46.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
-1tasksANDOptionalgregtech/gt.blockcasings-2.pngMV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-1gregtech/gt.metaitem.01-17019.pngAluminium Plate\nAl
-2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+The power converter allows you to power it from your GregTech power grid, and the floppy drive will allow you to install your operating system onto the hard drive. Both parts are essential but both for some strange reason requires the T2 microchips to craft; so I'll let you trade the materials+T1 Microchips for some. Don't lose them!ANDpre17590OpenComputers/item-54.pngrewardsItemOpenComputers/powerConverter-0.pngPower Converter;Hold [NONE] for material costs.
+1OpenComputers/diskDrive-0.pngDisk Drive;Hold [NONE] for material costs.
+1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+2ChoiceOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+16enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDOptionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
+2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
 1OpenComputers/item-24.pngMicrochip
-1gregtech/gt.metaitem.02-21019.pngAluminium Rotor\nAl
-2gregtech/gt.metaitem.02-18019.pngAluminium Casing\nAl
-2RetrievalOpenComputers/case1-0.pngComputer Case\nHold [NONE] for material costs.
+1gregtech/gt.metaitem.02-21019.pngAluminium Rotor;Al
+2gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
+2RetrievalOpenComputers/case1-0.pngComputer Case;Hold [NONE] for material costs.
 1Consumegregtech/gt.metaitem.01-32601.pngElectric Motor
-1gregtech/gt.metaitem.01-24890.pngGlass Lens\nSiO\u2082
-1gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod\nFe
-1gregtech/gt.blockcasings-1.pngLV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-1gregtech/gt.metaitem.02-23035.pngSmall Copper Spring\nCu
+1gregtech/gt.metaitem.01-24890.pngGlass Lens;SiO\u2082
+1gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
+1gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.02-23035.pngSmall Copper Spring;Cu
 1OpenComputers/item-24.pngMicrochip
-3ConsumeOpenComputers/cable-32767.pngCable\nA cheap way of connecting blocks. \nHold [NONE] for material costs.
-2gregtech/gt.metaitem.01-17019.pngAluminium Plate\nAl
+3ConsumeOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+2gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
 2OpenComputers/item-24.pngMicrochip
-2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
-2gregtech/gt.blockmachines-22.pngMedium Voltage Transformer\nHV -> MV (Use Soft Mallet to invert)\nVoltage IN: 512 (HV)\nVoltage OUT: 128 (MV)\nAmperage: 4\nCapacity: 2,560 EU
+2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+2gregtech/gt.blockmachines-22.pngMedium Voltage Transformer;HV -> MV (Use Soft Mallet to invert);Voltage IN: 512 (HV);Voltage OUT: 128 (MV);Amperage: 4;Capacity: 2,560 EU
 1

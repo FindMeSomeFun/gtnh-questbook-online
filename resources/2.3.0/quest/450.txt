@@ -1,8 +1,8 @@
-450battlegear2/spear.wood-0.png0§1§lYour First 'Long Range' Weapon14-1Since you can't make a vanilla bow before LV and Tinkers weapons are not available in this Tier, you can make a spear out of sticks, leather and a string. Get one because some infernal monsters are easier to kill with a long range weapon.ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+450battlegear2/spear.wood-0.png0§1§lYour First 'Long Range' Weapon14-1Since you can't make a vanilla bow before LV and Tinkers weapons are not available in this Tier, you can make a spear out of sticks, leather and a string. Get one because some infernal monsters are easier to kill with a long range weapon.ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-2tasksANDOptionalminecraft/stick-0.pngStick\nBurn Time: 100
+2tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
 2minecraft/leather-0.pngLeather
 1minecraft/string-0.pngString
-4Craftingbattlegear2/spear.wood-0.pngWooden Spear\n+3 Mounted Damage\n+2 Attack Damage\n+1 Reach\nDurability: 59/59\nBurn Time: 200
+4Craftingbattlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
 1

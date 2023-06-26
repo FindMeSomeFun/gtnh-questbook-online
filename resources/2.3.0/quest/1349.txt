@@ -1,5 +1,5 @@
 1349EMT/ElectricGogglesRevealing-1-charged.png0Electrogoggles14-1As you wander with your Goggles of Revealing you noticed that they tend to break easy. So craft yourself some electric ones that just need to be charged again!ANDpre19981Thaumcraft/ItemGoggles-0.pngrewardsItemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-1Itemenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1Itemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalEMT/ElectricGogglesRevealing-32767.pngElectric Goggles of Revealing\nPower Tier: 2\nVis Discount: 5%\nDurability: 0 / 165\nProtection: 2\nDurability: 0/165
 1

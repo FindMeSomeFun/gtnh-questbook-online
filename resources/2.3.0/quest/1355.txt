@@ -1,5 +1,5 @@
-1355EMT/QuantumWing-1-charged.png0Angel Wings - Ultra Force!14-1From ore to ingot, from nano to quantum, as you progress, your technology level increases, so should your wings as well.ANDpre8030IC2/itemArmorQuantumHelmet-1-charged.png13450EMT/NanosuitWing-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1enhancedlootbags/lootbag-11-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1355EMT/QuantumWing-1-charged.png0Angel Wings - Ultra Force!14-1From ore to ingot, from nano to quantum, as you progress, your technology level increases, so should your wings as well.ANDpre8030IC2/itemArmorQuantumHelmet-1-charged.png13450EMT/NanosuitWing-1-charged.pngrewardsChoiceenhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-11-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1ItemIC2/itemOreIridium-0.pngIridium Ore
 4dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

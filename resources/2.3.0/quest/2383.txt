@@ -36,10 +36,10 @@ Items will removed out of your inventory and get destroyed or fall on the ground
 512HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
 64HardcoreEnderExpansion/living_matter-0.pngLiving Matter
-32enhancedlootbags/lootbag-58-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+32enhancedlootbags/lootbag-58-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 4Itemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 10tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
 11HardcoreEnderExpansion/end_powder-0.pngEnd Powder
 44RetrievalHardcoreEnderExpansion/curse-0.pngCurse of Teleportation
@@ -57,15 +57,15 @@ Items will removed out of your inventory and get destroyed or fall on the ground
 11gregtech/gt.metaitem.01-2807.pngNetherrack Dust
 11HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
 11gregtech/gt.metaitem.01-506.pngTiny Pile of Nether Star Dust
-11RetrievalHardcoreEnderExpansion/curse-256.pngCurse of Teleportation\nEternal
-1HardcoreEnderExpansion/curse-257.pngCurse of Confusion\nEternal
-1HardcoreEnderExpansion/curse-258.pngCurse of Tranquility\nEternal
-1HardcoreEnderExpansion/curse-259.pngCurse of Slowness\nEternal
-1HardcoreEnderExpansion/curse-260.pngCurse of Weakness\nEternal
-1HardcoreEnderExpansion/curse-261.pngCurse of Blindness\nEternal
-1HardcoreEnderExpansion/curse-262.pngCurse of Death\nEternal
-1HardcoreEnderExpansion/curse-263.pngCurse of Decay\nEternal
-1HardcoreEnderExpansion/curse-264.pngCurse of Vampire\nEternal
-1HardcoreEnderExpansion/curse-265.pngCurse of Rebound\nEternal
-1HardcoreEnderExpansion/curse-266.pngCurse of Loss\nEternal
+11RetrievalHardcoreEnderExpansion/curse-256.pngCurse of Teleportation;Eternal
+1HardcoreEnderExpansion/curse-257.pngCurse of Confusion;Eternal
+1HardcoreEnderExpansion/curse-258.pngCurse of Tranquility;Eternal
+1HardcoreEnderExpansion/curse-259.pngCurse of Slowness;Eternal
+1HardcoreEnderExpansion/curse-260.pngCurse of Weakness;Eternal
+1HardcoreEnderExpansion/curse-261.pngCurse of Blindness;Eternal
+1HardcoreEnderExpansion/curse-262.pngCurse of Death;Eternal
+1HardcoreEnderExpansion/curse-263.pngCurse of Decay;Eternal
+1HardcoreEnderExpansion/curse-264.pngCurse of Vampire;Eternal
+1HardcoreEnderExpansion/curse-265.pngCurse of Rebound;Eternal
+1HardcoreEnderExpansion/curse-266.pngCurse of Loss;Eternal
 1

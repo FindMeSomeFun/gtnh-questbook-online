@@ -1,3 +1,3 @@
-3035gregtech/gt.metaitem.01-17470.png0Trigger:Epoxid SkipqLine-1No DescriptionANDprerewardsQuestcompletiongregtech/gt.metaitem.01-17470.pngEpoxid Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
-1224tasksANDRetrievalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
+3035gregtech/gt.metaitem.01-17470.png0Trigger:Epoxid SkipqLine-1No DescriptionANDprerewardsQuestcompletiongregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+1224tasksANDRetrievalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
 128

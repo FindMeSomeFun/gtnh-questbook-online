@@ -4,7 +4,7 @@ Hold a crowbar and shift + right click to attach carts. Click the starting cart 
 
 The crowbar can be used as a weapon, though it costs twice as much durability on attack (just like any other non weapon tool...).ANDpre6750Railcraft/signal-4.pngrewardsChoiceminecraft/minecart-0.pngMinecart
 1Railcraft/part.rail-0.pngStandard Rail
-16enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-32.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalRailcraft/tool.crowbar-0.pngCrowbar\nright click while sneaking to link carts\n+5 Attack Damage\nDurability: 250/250
+10tasksANDRetrievalRailcraft/tool.crowbar-0.pngCrowbar;right click while sneaking to link carts;+5 Attack Damage;Durability: 250/250
 1

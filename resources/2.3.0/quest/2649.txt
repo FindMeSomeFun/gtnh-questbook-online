@@ -1,3 +1,3 @@
 2649gregtech/gt.metaitem.03-32073.png1STERILIZE!, STERILIZE!11-1Turn your Raw Growth Medium into Sterilized Growth Medium in an IV Fluid Heater, and then you can use it in the Wetware Lifesupport Circuit Boards or the Neuro Processing Unit. But you'll also need to use it to make stemcells, so let's do that first.ANDpre26511bartworks/BioLabParts-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30609.pngGrowth Catalyst Medium Cell
-1Retrievalgregtech/gt.metaitem.03-32073.pngStemcells\nRaw inteligence
+1Retrievalgregtech/gt.metaitem.03-32073.pngStemcells;Raw inteligence
 64

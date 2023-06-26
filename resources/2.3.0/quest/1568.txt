@@ -4,7 +4,7 @@ The other main use of attuned stones is to act as a portable power source for ci
 8Itemdreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDOptionalwitchery/ingredient-34.pngWhiff of Magic
-1minecraft/diamond-0.pngDiamond\nBurn Time: 102400
-1minecraft/lava_bucket-0.pngLava Bucket\nBurn Time: 20000\nYou need Gloves for it?
+1minecraft/diamond-0.pngDiamond;Burn Time: 102400
+1minecraft/lava_bucket-0.pngLava Bucket;Burn Time: 20000;You need Gloves for it?
 1Retrievalwitchery/ingredient-10.pngAttuned Stone
 1

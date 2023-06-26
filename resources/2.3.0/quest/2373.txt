@@ -8,10 +8,10 @@ It is used to brew Infestation Remedy.
 ANDpre23530HardcoreEnderExpansion/instability_orb_ore-0.pngrewardsChoiceHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
 2HardcoreEnderExpansion/essence-0.pngDragon Essence
 8HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
-2enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+2enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
-3tasksANDRetrievalminecraft/golden_sword-0.pngGolden Sword\n+4 Attack Damage\nDurability: 24/24
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+3tasksANDRetrievalminecraft/golden_sword-0.pngGolden Sword;+4 Attack Damage;Durability: 24/24
 1RetrievalHardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 16

@@ -9,15 +9,15 @@ Combine your pure Tungsten with Steel in a mixer to get Tungstensteel.
 
 Then EBF and then freeze it to get the Tungstensteel ingot.
 
-§3Note that Tungsten Trioxide to Tungsten Ingot has reduced smelt time. This does not apply to the pure version. You're gonna need a bunch of it in IV as well as the TS, so keep this in mind.ANDpre861gregtech/gt.blockcasings5-3.png28901bartworks/gt.bwMetaGenerateddust-29901.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3Note that Tungsten Trioxide to Tungsten Ingot has reduced smelt time. This does not apply to the pure version. You're gonna need a bunch of it in IV as well as the TS, so keep this in mind.ANDpre861gregtech/gt.blockcasings5-3.png28901bartworks/gt.bwMetaGenerateddust-29901.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-29901.pngTungsten Trioxide Dust\nWO\u2083\nAdded by GTNH: Lanthanides via BartWorks
-12gregtech/gt.metaitem.01-30001.pngHydrogen Cell\nH
-18Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust\nW
-3Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust\nW
-3gregtech/gt.metaitem.01-2305.pngSteel Dust\nFe\u2085\u2080C
-3Optionalgregtech/gt.metaitem.01-2316.pngTungstensteel Dust\n(Fe\u2085\u2080C)W
-6Retrievalgregtech/gt.metaitem.01-11316.pngTungstensteel Ingot\n(Fe\u2085\u2080C)W
+2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-29901.pngTungsten Trioxide Dust;WO\u2083;Added by GTNH: Lanthanides via BartWorks
+12gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+18Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust;W
+3Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust;W
+3gregtech/gt.metaitem.01-2305.pngSteel Dust;Fe\u2085\u2080C
+3Optionalgregtech/gt.metaitem.01-2316.pngTungstensteel Dust;(Fe\u2085\u2080C)W
+6Retrievalgregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
 6

@@ -4,7 +4,7 @@
 
 The card can be used in more devices, and causes less lag, but works in a similar way. Put it inside a bus and set the filter using the T looking button that appears. The standalone bus is no longer craftable.ANDpre13061appliedenergistics2/item.ItemMultiPart-260.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-22.pngLogic Processor
 1appliedenergistics2/item.ItemMultiMaterial-24.pngEngineering Processor
-1enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-55.pngOredictionary Filter Card\nME Import/Export Bus\nME Storage Bus\nME Storage Cells\nView Cell\nVoid ME Storage Cell
+2tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-55.pngOredictionary Filter Card;ME Import/Export Bus;ME Storage Bus;ME Storage Cells;View Cell;Void ME Storage Cell
 2

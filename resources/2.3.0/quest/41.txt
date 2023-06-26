@@ -7,6 +7,6 @@
 10tasksANDOptionalminecraft/leather-0.pngLeather
 6minecraft/string-0.pngString
 6harvestcraft/wovencottonItem-0.pngWoven Cotton
-6Craftingdreamcraft/item.OvenGlove-0.pngCake Glove\nProtecting your fingers since 1890\nDurability: 1000/1000\nPut both Gloves in the Baubles Ring Slot
-1dreamcraft/item.OvenGlove-1.pngLava Glove\nProtecting your fingers since 1890\nDurability: 1000/1000\nPut both Gloves in the Baubles Ring Slot
+6Craftingdreamcraft/item.OvenGlove-0.pngCake Glove;Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
+1dreamcraft/item.OvenGlove-1.pngLava Glove;Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
 1

@@ -1,8 +1,8 @@
-1612gregtech/gt.blockores-67.png1§9§lFind Bastnasite, Monazite and Neodymium6-1EV motors need Neodymium. Rare Earth is an §ook§r source, but on the Moon you can find a vein with pure Neodymium ore. Bastnasite is a great source of fluorine. And Monazite can be taken apart for more Rare Earth.ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1612gregtech/gt.blockores-67.png1§9§lFind Bastnasite, Monazite and Neodymium6-1EV motors need Neodymium. Rare Earth is an §ook§r source, but on the Moon you can find a vein with pure Neodymium ore. Bastnasite is a great source of fluorine. And Monazite can be taken apart for more Rare Earth.ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockores-905.pngBastnasite Ore\nCeCFO\u2083
-64gregtech/gt.blockores-520.pngMonazite Ore\n?(PO\u2084)
-64gregtech/gt.blockores-67.pngNeodymium Ore\nNd
+1tasksANDRetrievalgregtech/gt.blockores-905.pngBastnasite Ore;CeCFO\u2083
+64gregtech/gt.blockores-520.pngMonazite Ore;?(PO\u2084)
+64gregtech/gt.blockores-67.pngNeodymium Ore;Nd
 64

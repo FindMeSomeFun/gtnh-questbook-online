@@ -1,6 +1,6 @@
-1652gregtech/gt.metaitem.01-2719.png1§a§lSodium Sulfide7-1Combine Sodium and Sulfur to get Sodium Sulfide.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItembartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt\nNaCl\nAdded by BartWorks
+1652gregtech/gt.metaitem.01-2719.png1§a§lSodium Sulfide7-1Combine Sodium and Sulfur to get Sodium Sulfide.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItembartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt;NaCl;Added by BartWorks
 10Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-2017.pngSodium Dust\nNa\nBurn Time: 400
-24gregtech/gt.metaitem.01-2022.pngSulfur Dust\nS\nBurn Time: 1600
-12Retrievalgregtech/gt.metaitem.01-2719.pngSodium Sulfide Dust\nNa\u2082S
+1tasksANDOptionalgregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
+24gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
+12Retrievalgregtech/gt.metaitem.01-2719.pngSodium Sulfide Dust;Na\u2082S
 36

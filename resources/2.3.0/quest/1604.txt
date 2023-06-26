@@ -1,7 +1,7 @@
 1604gregtech/gt.metaitem.02-32557.png0I Prefer to Call it Canola13-1This crop is a great source of seed oil for your bio diesel needs.
 
-You can try getting it from dandelions, cocoa, potatoes or lemons.ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-35.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You can try getting it from dandelions, cocoa, potatoes or lemons.ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-35.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2dreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
-5enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
-1tasksANDRetrievalIC2/itemCropSeed-0.pngRape Seeds\nGr 0\nGa 0\nRe 0
+5enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
+1tasksANDRetrievalIC2/itemCropSeed-0.pngRape Seeds;Gr 0;Ga 0;Re 0
 1

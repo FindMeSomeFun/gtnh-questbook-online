@@ -1,4 +1,4 @@
-1937TConstruct/SpeedBlock-0.png0Tinker's Blocks15-1Tinker's Construct offers a couple of useful blocks from the smeltery. Rough Brownstone takes Tin and Gravel and makes a block that lets you move a little faster. Cobblestone can be turned into Seared Stone, usable in the smeltery walls to make it larger without having to use clay.ANDpre740TConstruct/Smeltery-0.pngrewardsItemminecraft/lava_bucket-0.pngLava Bucket\nBurn Time: 20000\nYou need Gloves for it?
-1tasksANDRetrievalTConstruct/SpeedBlock-0.pngRough Brownstone\nYou run a bit faster on it
-1TConstruct/Smeltery-4.pngSeared Stone\nSmeltery structure block\n(Safe for decoration)
+1937TConstruct/SpeedBlock-0.png0Tinker's Blocks15-1Tinker's Construct offers a couple of useful blocks from the smeltery. Rough Brownstone takes Tin and Gravel and makes a block that lets you move a little faster. Cobblestone can be turned into Seared Stone, usable in the smeltery walls to make it larger without having to use clay.ANDpre740TConstruct/Smeltery-0.pngrewardsItemminecraft/lava_bucket-0.pngLava Bucket;Burn Time: 20000;You need Gloves for it?
+1tasksANDRetrievalTConstruct/SpeedBlock-0.pngRough Brownstone;You run a bit faster on it
+1TConstruct/Smeltery-4.pngSeared Stone;Smeltery structure block;(Safe for decoration)
 1

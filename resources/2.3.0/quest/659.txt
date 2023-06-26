@@ -2,11 +2,11 @@
 
 This spear has superior durability.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-56.pngSpawn Ghast
 1minecraft/spawn_egg-61.pngSpawn Blaze
-1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDOptionalTGregworks/tGregToolPartArrowHead-1594.pngDiamond Arrow Head\nAttack: 2 Hearts\nDurability: 960\nBreak Chance: 90%\nWeight: 76.8\nParts can be replaced
-1gregtech/gt.metaitem.01-27306.pngStainless Steel Screw\nFe\u2086CrMnNi
-2battlegear2/spear.wood-0.pngWooden Spear\n+3 Mounted Damage\n+2 Attack Damage\n+1 Reach\nDurability: 59/59\nBurn Time: 200
-1Craftingbattlegear2/spear.diamond-0.pngDiamond Spear\n+3 Mounted Damage\n+5 Attack Damage\n+4 Reach\nDurability: 1561/1561
+25tasksANDOptionalTGregworks/tGregToolPartArrowHead-1594.pngDiamond Arrow Head;Attack: 2 Hearts;Durability: 960;Break Chance: 90%;Weight: 76.8;Parts can be replaced
+1gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
+1Craftingbattlegear2/spear.diamond-0.pngDiamond Spear;+3 Mounted Damage;+5 Attack Damage;+4 Reach;Durability: 1561/1561
 1

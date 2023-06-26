@@ -1,14 +1,14 @@
-1708gregtech/gt.metaitem.03-32096.png1§c§lCrystalprocessor Assembly9-1The Crystal Processor Assembly is a LuV Circuit.ANDpre16861gregtech/gt.metaitem.03-32089.pngrewardsChoicegregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
-32gregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
-4enhancedlootbags/lootbag-41.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1708gregtech/gt.metaitem.03-32096.png1§c§lCrystalprocessor Assembly9-1The Crystal Processor Assembly is a LuV Circuit.ANDpre16861gregtech/gt.metaitem.03-32089.pngrewardsChoicegregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire;NbTi
+32gregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
+4enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board\nA elite Circuit Board
-6gregtech/gt.metaitem.03-32089.pngCrystalprocessor\nAn Elite Circuit\nIV-Tier
-2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor\nAdvanced Electronic Component
-36gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor\nAdvanced Electronic Component
-48gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-64gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire\nNbTi
-64Retrievalgregtech/gt.metaitem.03-32096.pngCrystalprocessor Assembly\nA Master Circuit\nLuV-Tier
-1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit\nA Sliced Circuit\nAdded by BartWorks
-1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint\nAn Imprint for a Circuit\nAdded by BartWorks
+5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
+6gregtech/gt.metaitem.03-32089.pngCrystalprocessor;An Elite Circuit;IV-Tier
+2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor;Advanced Electronic Component
+36gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor;Advanced Electronic Component
+48gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+64gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire;NbTi
+64Retrievalgregtech/gt.metaitem.03-32096.pngCrystalprocessor Assembly;A Master Circuit;LuV-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit;A Sliced Circuit;Added by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint;An Imprint for a Circuit;Added by BartWorks
 1

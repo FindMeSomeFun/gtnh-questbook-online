@@ -18,18 +18,18 @@ For more details on using the Assembly Line, check out the wiki page https://tin
 
 You can have up to 16 input busses. If you use the full 16 you should put the output bus to the side.ANDpre17071gregtech/gt.metaitem.03-32088.png18901gregtech/gt.blockmachines-215.pngrewardsItemminecraft/paper-0.pngPaper
 64gregtech/gt.metaitem.98-6.pngSquid Ink Cell
-64gregtech/gt.metaitem.01-32708.pngData Stick\nA Low Capacity Data Storage
-4enhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+64gregtech/gt.metaitem.01-32708.pngData Stick;A Low Capacity Data Storage
+4enhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-26gregtech/gt.blockmachines-51.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 16,000L
-4gregtech/gt.blockmachines-70.pngInput Bus\nItem Input for Multiblocks\nShift + right click with screwdriver to turn Sort mode on/off\nCapacity: 1 stack
-10gregtech/gt.blockmachines-83.pngOutput Bus\nItem Output for Multiblocks\nCapacity: 16 stacks
-1gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
-1OptionalIC2/blockAlloyGlass-0.pngReinforced Glass\nGlass-Tier: EV
-22gregtech/gt.blockcasings2-5.pngAssembling Line Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-11Optionalgregtech/gt.blockmachines-45.pngIV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 8,192 (IV)\nCapacity: 66,048 EU
-2gregtech/gt.blockcasings3-10.pngGrate Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-21gregtech/gt.blockcasings2-9.pngAssembler Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-15Retrievalgregtech/gt.blockmachines-1170.pngAssembling Line\nMachine Type: Assembling Line\nController block for the Assembling Line\nUsed to make complex machine parts (LuV+)\nDoes not make Assembler items\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1tasksANDOptionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+26gregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
+4gregtech/gt.blockmachines-70.pngInput Bus;Item Input for Multiblocks;Shift + right click with screwdriver to turn Sort mode on/off;Capacity: 1 stack
+10gregtech/gt.blockmachines-83.pngOutput Bus;Item Output for Multiblocks;Capacity: 16 stacks
+1gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1OptionalIC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
+22gregtech/gt.blockcasings2-5.pngAssembling Line Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+11Optionalgregtech/gt.blockmachines-45.pngIV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 8,192 (IV);Capacity: 66,048 EU
+2gregtech/gt.blockcasings3-10.pngGrate Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+21gregtech/gt.blockcasings2-9.pngAssembler Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+15Retrievalgregtech/gt.blockmachines-1170.pngAssembling Line;Machine Type: Assembling Line;Controller block for the Assembling Line;Used to make complex machine parts (LuV+);Does not make Assembler items;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

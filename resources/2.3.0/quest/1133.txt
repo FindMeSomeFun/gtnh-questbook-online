@@ -2,13 +2,13 @@
 
 Tasks supporting the OSS can be selected through the built in interface to enable its use. Once setup, liquids and items can be either piped in or dropped into the interface's input slot. It will not void items or liquids if no task is selected or if it has already been completed, however, making it relatively safe from accidental item/fluid deletion. Multiple OSS are also capable of taking on separate sub-tasks under the same quest simultaneously!
 
-§3PS: No quests actually require this at the moment, so feel free to ignore it.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
-4gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
-8enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3PS: No quests actually require this at the moment, so feel free to ignore it.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+4gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
+8enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalminecraft/chest-0.pngChest\nBurn Time: 300
-1gregtech/gt.metaitem.01-17809.pngWood Plank\nBurn Time: 1600
-4gregtech/gt.metaitem.01-17305.pngSteel Plate\nFe\u2085\u2080C
-3gregtech/gt.metaitem.02-31305.pngSteel Gear\nFe\u2085\u2080C
-1Retrievalbetterquesting/submit_station-0.pngObject Submission Station\nBurn Time: 300
+10tasksANDOptionalminecraft/chest-0.pngChest;Burn Time: 300
+1gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
+4gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+3gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
+1Retrievalbetterquesting/submit_station-0.pngObject Submission Station;Burn Time: 300
 1

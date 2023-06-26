@@ -1,4 +1,4 @@
-526gendustry/GeneSample-0.png0Only the Best: Rain28-1On your way to awesome bees, you have to collect only the best traits available. Beekeeping in the rain!  Make sure to keep your GT machines covered!ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+526gendustry/GeneSample-0.png0Only the Best: Rain28-1On your way to awesome bees, you have to collect only the best traits available. Beekeeping in the rain!  Make sure to keep your GT machines covered!ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample\nTaken from a Bee\nTolerant flyer: True
+1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Tolerant flyer: True
 1

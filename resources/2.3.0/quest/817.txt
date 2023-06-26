@@ -1,7 +1,7 @@
 817GalacticraftCore/item.buggymat-1.png1Buggy Seat24-1The buggy seat is part of the Moon lander.ANDpre8181GalacticraftCore/item.basicItem-19.pngrewardsChoiceGalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
 1GalacticraftCore/item.basicItem-9.pngCompressed Steel
 8GalacticraftCore/item.steelPole-0.pngSteel Pole
-2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalGalacticraftCore/item.buggymat-1.pngBuggy Seat
 1

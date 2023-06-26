@@ -2,15 +2,15 @@
 
 First you need to make brass out of zinc (only found in small ores in the Overworld, in Nether Sphalerite, or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with aluminium and cobalt dust (you can get it as a byproduct of a couple ores, go searching in the nether, or go to the Twilight Forest for Cobaltite) to get the cobalt brass dust.
 
-Now that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.ANDpre911gregtech/gt.metaitem.01-32630.pngrewardsItemgregtech/gt.metaitem.02-32222.pngCheeseburger\ngregtech:gt.metaitem.02\nCheesy!
+Now that you've come this far, we think that you're able to look up the ores that you need by yourself with the help of NEI.ANDpre911gregtech/gt.metaitem.01-32630.pngrewardsItemgregtech/gt.metaitem.02-32222.pngCheeseburger;gregtech:gt.metaitem.02;Cheesy!
 2Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dust\nCu
-9gregtech/gt.metaitem.01-2036.pngZinc Dust\nZn
-3Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust\nZnCu\u2083
-9Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust\nZnCu\u2083
-7gregtech/gt.metaitem.01-2019.pngAluminium Dust\nAl
-1gregtech/gt.metaitem.01-2033.pngCobalt Dust\nCo
-1Retrievalgregtech/gt.metaitem.01-2343.pngCobalt Brass Dust\n(ZnCu\u2083)\u2087AlCo
+3tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+9gregtech/gt.metaitem.01-2036.pngZinc Dust;Zn
+3Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+9Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+7gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
+1gregtech/gt.metaitem.01-2033.pngCobalt Dust;Co
+1Retrievalgregtech/gt.metaitem.01-2343.pngCobalt Brass Dust;(ZnCu\u2083)\u2087AlCo
 8

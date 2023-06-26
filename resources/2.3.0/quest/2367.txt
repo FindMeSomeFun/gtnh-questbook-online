@@ -17,7 +17,7 @@ Basic Runes increase attributes, such as strength, speed or health. Void Rune (g
 1HardcoreEnderExpansion/rune-3.pngRune of Defense
 1HardcoreEnderExpansion/rune-5.pngRune of Void
 1HardcoreEnderExpansion/rune-1.pngRune of Agility
-1enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

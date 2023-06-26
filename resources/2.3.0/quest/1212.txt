@@ -4,17 +4,17 @@ While solars are simpler to set up, solars cap out at 524288 EU/t. Fusion can re
 
 For your first reactor, you will need a controller, 2-16 fluid input hatches, 1-16 fluid output hatches, and 16 energy hatches. All hatches have to be LuV tier or better. Each hatch provides 2048 EU/t for the recipe, and has a storage capacity of 10M eu. 
 
-This means you can do any fusion recipe that takes less than 32768 EU/t or less, and has a startup cost of 160M EU or less. Using more fluid hatches means you need less fusion casings. While this doesn't matter as much for the mk1 reactor, this principle helps tremendously with the higher reactor tiers. ANDpre16801gregtech/gt.metaitem.01-32675.png26071gregtech/gt.metaitem.01-11325.pngrewardsChoiceenhancedlootbags/lootbag-41-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+This means you can do any fusion recipe that takes less than 32768 EU/t or less, and has a startup cost of 160M EU or less. Using more fluid hatches means you need less fusion casings. While this doesn't matter as much for the mk1 reactor, this principle helps tremendously with the higher reactor tiers. ANDpre16801gregtech/gt.metaitem.01-32675.png26071gregtech/gt.metaitem.01-11325.pngrewardsChoiceenhancedlootbags/lootbag-41-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1gregtech/gt.metaitem.01-32606.pngElectric Motor
-4gregtech/gt.metaitem.01-32615.pngElectric Pump\n32,768 L/t (655,360 L/s) as Cover
-2gregtech/gt.metaitem.01-32635.pngConveyor Module\n2 stacks every 1/20 sec (as Cover)
+4gregtech/gt.metaitem.01-32615.pngElectric Pump;32,768 L/t (655,360 L/s) as Cover
+2gregtech/gt.metaitem.01-32635.pngConveyor Module;2 stacks every 1/20 sec (as Cover)
 2gregtech/gt.metaitem.01-32645.pngElectric Piston
-2gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire\nMax Voltage: 32,768 (LuV)\nMax Amperage: 16\nLoss/Meter/Ampere: 0 EU-Volt
+2gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
 64Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalgregtech/gt.blockmachines-56.pngInput Hatch\nFluid Input for Multiblocks\nCapacity: 512,000L
-2gregtech/gt.blockmachines-66.pngOutput Hatch\nFluid Output for Multiblocks\nCapacity: 512,000L\nRight click with screwdriver to restrict output\nCan be restricted to put out Items and/or Steam/No Steam/1 specific Fluid\nRestricted Output Hatches are given priority for Multiblock Fluid output
-1gregtech/gt.blockmachines-46.pngLuV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 32,768 (LuV)\nCapacity: 262,656 EU
-16Optionalgregtech/gt.blockcasings-15.pngSuperconducting Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-32gregtech/gt.blockcasings-6.pngLuV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-79Retrievalgregtech/gt.blockmachines-1193.pngFusion Control Computer Mark I\nMachine Type: Fusion Reactor\nIt''s over 9000!!!\nController block for the Fusion Reactor Mk I\n2048EU/t and 10M EU capacity per Energy Hatch\nIf the recipe has a startup cost greater than the\nnumber of energy hatches * cap, you can''t do it\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1tasksANDOptionalgregtech/gt.blockmachines-56.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 512,000L
+2gregtech/gt.blockmachines-66.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 512,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
+1gregtech/gt.blockmachines-46.pngLuV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 32,768 (LuV);Capacity: 262,656 EU
+16Optionalgregtech/gt.blockcasings-15.pngSuperconducting Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32gregtech/gt.blockcasings-6.pngLuV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+79Retrievalgregtech/gt.blockmachines-1193.pngFusion Control Computer Mark I;Machine Type: Fusion Reactor;It''s over 9000!!!;Controller block for the Fusion Reactor Mk I;2048EU/t and 10M EU capacity per Energy Hatch;If the recipe has a startup cost greater than the;number of energy hatches * cap, you can''t do it;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

@@ -1,4 +1,4 @@
 1809gendustry/HoneyDrop-2000.png0Renewable Oil13-1Oil from crops? Makes as much sense as oil from bees!ANDpre19270minecraft/coal-0.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
-64enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
-2tasksANDRetrievalIC2/itemCropSeed-0.pngOilberries Seeds\nGr 0\nGa 0\nRe 0
+64enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
+2tasksANDRetrievalIC2/itemCropSeed-0.pngOilberries Seeds;Gr 0;Ga 0;Re 0
 1

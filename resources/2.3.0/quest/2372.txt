@@ -3,18 +3,18 @@
 16HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 2HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
 8HardcoreEnderExpansion/auricion-0.pngAuricion
-4enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+4enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 5tasksANDOptionalHardcoreEnderExpansion/spectral_tear-0.pngSpectral Tear
 1HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
-1minecraft/spider_eye-0.pngSpider Eye\nminecraft:spider_eye
+1minecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
 1minecraft/bone-0.pngBone
 1minecraft/egg-0.pngEgg
 1HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
 1minecraft/blaze_powder-0.pngBlaze Powder
-1minecraft/rotten_flesh-0.pngRotten Flesh\nminecraft:rotten_flesh
-1gregtech/gt.metaitem.01-2815.pngAshes\nC
+1minecraft/rotten_flesh-0.pngRotten Flesh;minecraft:rotten_flesh
+1gregtech/gt.metaitem.01-2815.pngAshes;C
 1RetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
 1

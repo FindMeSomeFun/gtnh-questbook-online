@@ -1,5 +1,5 @@
-1940chisel/upgrade-0.png0Chisel as Fast as You Can15-1The autochisel speed is pretty slow. Craft some upgrades to make it faster.ANDpre19390chisel/autoChisel-0.pngrewardsItemchisel/upgrade-3.pngReversion Upgrade\nReverts the base slot to its\noriginal form
-1tasksANDRetrievalchisel/upgrade-0.pngSpeed Upgrade\nIncreases the rate at which it\nworks
-1chisel/upgrade-1.pngAutomation Upgrade\nAllows things to push in and out\nof the Auto Chisel
-1chisel/upgrade-2.pngStack Upgrade\nAllows it to manufacture stacks at\na time
+1940chisel/upgrade-0.png0Chisel as Fast as You Can15-1The autochisel speed is pretty slow. Craft some upgrades to make it faster.ANDpre19390chisel/autoChisel-0.pngrewardsItemchisel/upgrade-3.pngReversion Upgrade;Reverts the base slot to its;original form
+1tasksANDRetrievalchisel/upgrade-0.pngSpeed Upgrade;Increases the rate at which it;works
+1chisel/upgrade-1.pngAutomation Upgrade;Allows things to push in and out;of the Auto Chisel
+1chisel/upgrade-2.pngStack Upgrade;Allows it to manufacture stacks at;a time
 1

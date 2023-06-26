@@ -1,4 +1,4 @@
-277Thaumcraft/blockStoneDevice-5.png0Automated Wand Recharging32-1So you've found a way to gather nodes now. What about automated wand recharging? Wouldn't that be extremely convenient?ANDpre2761Thaumcraft/blockStoneDevice-9.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+277Thaumcraft/blockStoneDevice-5.png0Automated Wand Recharging32-1So you've found a way to gather nodes now. What about automated wand recharging? Wouldn't that be extremely convenient?ANDpre2761Thaumcraft/blockStoneDevice-9.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockStoneDevice-5.pngWand Recharge Pedestal
 1

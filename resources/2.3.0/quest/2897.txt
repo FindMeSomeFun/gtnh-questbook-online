@@ -1,14 +1,14 @@
 2897TConstruct/rapier-0-249.png0§2§lMaking a Rapier14-1Problems killing the Lich? Can't manage to shoot back his projectiles? No problem, just use a Rapier that ignores armor and the Lich will soon be...re-dead? Un-alive? Whatever happens to something undead once it dies for real.
 
 The only problem is that the Rapier doesn't do a lot of damage.ANDpre381TConstruct/pickaxe-0-356.png740TConstruct/Smeltery-0.pngrewardsChoiceTConstruct/materials-14.pngAluminum Brass Ingot
-4enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalTConstruct/metalPattern-5.pngSword Blade Cast\nMaterial Cost: 1
-1TConstruct/metalPattern-1.pngTool Rod Cast\nMaterial Cost: 0.5
-1TConstruct/metalPattern-8.pngCrossbar Cast\nMaterial Cost: 0.5
-1RetrievalTConstruct/swordBlade-14.pngBronze Sword Blade\nReinforced I\nAttack: 1.5 Hearts\nDurability: 285\nParts can be replaced
-1TConstruct/toolRod-14.pngBronze Tool Rod\nReinforced I\nDurability Modifier: 1.25x\nParts can be replaced
-1TConstruct/crossbar-14.pngBronze Crossbar\nReinforced I\nParts can be replaced
+5tasksANDOptionalTConstruct/metalPattern-5.pngSword Blade Cast;Material Cost: 1
+1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
+1TConstruct/metalPattern-8.pngCrossbar Cast;Material Cost: 0.5
+1RetrievalTConstruct/swordBlade-14.pngBronze Sword Blade;Reinforced I;Attack: 1.5 Hearts;Durability: 285;Parts can be replaced
+1TConstruct/toolRod-14.pngBronze Tool Rod;Reinforced I;Durability Modifier: 1.25x;Parts can be replaced
+1TConstruct/crossbar-14.pngBronze Crossbar;Reinforced I;Parts can be replaced
 1

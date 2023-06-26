@@ -1,8 +1,8 @@
-2983gregtech/gt.blockores-901.png0§5§lMica Ore4-1Mica is a very rare but useful ore. You need it in order to craft your coils for the Electric Blast Furnace. Only for cupronickel coils there is a replacement recipe. If you have no luck in finding this vein yet try to look for it with a Prospector once you get them.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2983gregtech/gt.blockores-901.png0§5§lMica Ore4-1Mica is a very rare but useful ore. You need it in order to craft your coils for the Electric Blast Furnace. Only for cupronickel coils there is a replacement recipe. If you have no luck in finding this vein yet try to look for it with a Prospector once you get them.ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.MicaBasedPulp-0.pngMica Based Pulp
 16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.blockores-901.pngMica Ore\nKAl\u2083Si\u2083F\u2082O\u2081\u2080
-64gregtech/gt.blockores-924.pngKyanite Ore\nAl\u2082SiO\u2085
-16gregtech/gt.blockores-824.pngCassiterite Ore\nSnO\u2082
-16gregtech/gt.blockores-919.pngPollucite Ore\nCs\u2082Al\u2082Si\u2084(H\u2082O)\u2082O\u2081\u2082
+25tasksANDRetrievalgregtech/gt.blockores-901.pngMica Ore;KAl\u2083Si\u2083F\u2082O\u2081\u2080
+64gregtech/gt.blockores-924.pngKyanite Ore;Al\u2082SiO\u2085
+16gregtech/gt.blockores-824.pngCassiterite Ore;SnO\u2082
+16gregtech/gt.blockores-919.pngPollucite Ore;Cs\u2082Al\u2082Si\u2084(H\u2082O)\u2082O\u2081\u2082
 16

@@ -4,7 +4,7 @@ To start, let's get some raw materials, Prasiolite, Cubic Zirconia, and Telluriu
 
 You also need some other materials, but I don't need to explain those, do I?
 
-§3If the materials are too much of a pain, you can replicate some of them once you have one of it.ANDpre16831gregtech/gt.blockmachines-1185.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-2355.pngMagnetic Steel Dust\nFe\u2085\u2080C
-2gregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust\nInGaP
-12bartworks/gt.bwMetaGenerateddust-33.pngDibismuthhydroborat Dust\nBi\u2082BH\nAdded by BartWorks
+§3If the materials are too much of a pain, you can replicate some of them once you have one of it.ANDpre16831gregtech/gt.blockmachines-1185.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-2355.pngMagnetic Steel Dust;Fe\u2085\u2080C
+2gregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust;InGaP
+12bartworks/gt.bwMetaGenerateddust-33.pngDibismuthhydroborat Dust;Bi\u2082BH;Added by BartWorks
 36

@@ -1,8 +1,8 @@
 2864Forestry/sapling-0-Baobab.png0Grandidier's Baobab16-1You can get Grandidier's Baobab by combining Wenge and Balsa.
 
 §eAbility to grow trees on sand, Get! Like you care.ANDpre28630Forestry/sapling-0-Wenge.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-30enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Wenge.pngWenge Sapling\nBurn Time: 100
-1Forestry/sapling-0-Balsa.pngBalsa Sapling\nBurn Time: 100
-1RetrievalForestry/sapling-0-Baobab.pngGrandidier''s Baobab Sapling\nBurn Time: 100
+30enhancedlootbags/lootbag-19-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-Wenge.pngWenge Sapling;Burn Time: 100
+1Forestry/sapling-0-Balsa.pngBalsa Sapling;Burn Time: 100
+1RetrievalForestry/sapling-0-Baobab.pngGrandidier''s Baobab Sapling;Burn Time: 100
 1

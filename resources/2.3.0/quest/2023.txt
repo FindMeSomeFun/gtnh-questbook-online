@@ -1,3 +1,3 @@
-2023gregtech/gt.blockmachines-44.png1§b§a§lMore Power Needed, Sir!7-1EBF and LCR recipes are going to need even more power. You'll need to craft EV energy hatches to supply them and keep them running.ANDpre20181gregtech/gt.blockmachines-254.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.blockmachines-44.pngEV Energy Hatch\nEnergy Injector for Multiblocks\nAccepts up to 2 Amps\nVoltage IN: 2,048 (EV)\nCapacity: 16,896 EU
+2023gregtech/gt.blockmachines-44.png1§b§a§lMore Power Needed, Sir!7-1EBF and LCR recipes are going to need even more power. You'll need to craft EV energy hatches to supply them and keep them running.ANDpre20181gregtech/gt.blockmachines-254.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.blockmachines-44.pngEV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 2,048 (EV);Capacity: 16,896 EU
 1

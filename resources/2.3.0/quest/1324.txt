@@ -1,9 +1,9 @@
 1324gregtech/gt.blockmachines-512.png0§6§lAdvanced Fluid Extractor5-1The MV fluid extractor is twice as fast as the LV one but uses 4x the power.
 
-To make bio diesel you need seed oil or fish oil. Seeds give seed oil and fish produce fish oil when placed in a fluid extractor.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
-8gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
-2gregtech/gt.metaitem.01-17019.pngAluminium Plate\nAl
-16enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+To make bio diesel you need seed oil or fish oil. Seeds give seed oil and fish produce fish oil when placed in a fluid extractor.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+8gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
+16enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extractor\nExtracting Fluids from Items\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-512.pngAdvanced Fluid Extractor;Extracting Fluids from Items;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

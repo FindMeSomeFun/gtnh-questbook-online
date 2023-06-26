@@ -1,14 +1,14 @@
 1789minecraft/iron_door-0.png0§3§lFactory Iron Door3-1For your new Factory you need iron doors. Unfortunately, the recipe is really hard, needing steel.
 
-You can choose two more iron doors as reward if you like.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You can choose two more iron doors as reward if you like.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1minecraft/iron_door-0.pngIron Door
 2minecraft/stone_button-0.pngButton
-16gregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+16gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate\nFe
+10tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
 4dreamcraft/item.SteelBars-0.pngSteel Bars
-1gregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
-1gregtech/gt.metaitem.01-28305.pngSteel Ring\nFe\u2085\u2080C
+1gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+1gregtech/gt.metaitem.01-28305.pngSteel Ring;Fe\u2085\u2080C
 1Retrievalminecraft/iron_door-0.pngIron Door
 1

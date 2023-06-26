@@ -3,7 +3,7 @@
 The knowledge core holds up to 21 patterns for use in the Arcane Assembler, but you need a new assembler for every knowledge core if you want to autocraft more than that.
 
 To encode the patterns, you need a Knowledge Inscriber. It works exactly as you would expect. It doesn't connect to the network, so it doesn't need a channel. If you want to erase a pattern select it and the save icon should become erase instead.
-ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+ANDpre25120thaumicenergistics/material-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.arcane.assembler-0.pngArcane Assembler

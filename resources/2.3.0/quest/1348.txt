@@ -1,4 +1,4 @@
-1348EMT/SuperchargedMjolnir-1-charged.png0Super-Mjollnir34-1Additional tweaks to your Mjollnir have changed it. Now you can summon some Guardian Snowmen to help you out!ANDpre13470EMT/Mjolnir-0.pngrewardsItemenhancedlootbags/lootbag-12-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+1348EMT/SuperchargedMjolnir-1-charged.png0Super-Mjollnir34-1Additional tweaks to your Mjollnir have changed it. Now you can summon some Guardian Snowmen to help you out!ANDpre13470EMT/Mjolnir-0.pngrewardsItemenhancedlootbags/lootbag-12-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalEMT/SuperchargedMjolnir-27.pngSupercharged Mjolnir\nPower Tier: 4\nSaleX''s Hammer\n+7 Attack Damage\nDurability: 0 / 27\nDurability: 0/27
+1tasksANDRetrievalEMT/SuperchargedMjolnir-27.pngSupercharged Mjolnir;Power Tier: 4;SaleX''s Hammer;+7 Attack Damage;Durability: 0 / 27;Durability: 0/27
 1

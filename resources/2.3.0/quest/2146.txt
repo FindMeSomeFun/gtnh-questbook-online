@@ -4,7 +4,7 @@
 1Automagy/crystalBrain-3.pngCrystalline Brain: Earth
 1Automagy/crystalBrain-4.pngCrystalline Brain: Order
 1Automagy/crystalBrain-5.pngCrystalline Brain: Entropy
-1tasksANDOptionalThaumcraft/ItemZombieBrain-0.pngZombie Brain\nThaumcraft:ItemZombieBrain
+1tasksANDOptionalThaumcraft/ItemZombieBrain-0.pngZombie Brain;Thaumcraft:ItemZombieBrain
 6RetrievalAutomagy/crystalBrain-0.pngCrystalline Brain: Air
 1Automagy/crystalBrain-1.pngCrystalline Brain: Fire
 1Automagy/crystalBrain-2.pngCrystalline Brain: Water

@@ -1,9 +1,9 @@
-471harvestcraft/teaItem-0.png0§2§1§lFood Variants0-1Maybe you noticed already that eating the same food too often is very boring and not healthy any more. Some food like tea leaf can be taken to the furnace and processed further. So take a break and drink a cup of tea. Maybe munch some tasty raisins as they are very nice.ANDpre4420gregtech/gt.metaitem.02-32201.pngrewardsItemgregtech/gt.metaitem.01-2817.pngSalt\nNaCl
+471harvestcraft/teaItem-0.png0§2§1§lFood Variants0-1Maybe you noticed already that eating the same food too often is very boring and not healthy any more. Some food like tea leaf can be taken to the furnace and processed further. So take a break and drink a cup of tea. Maybe munch some tasty raisins as they are very nice.ANDpre4420gregtech/gt.metaitem.02-32201.pngrewardsItemgregtech/gt.metaitem.01-2817.pngSalt;NaCl
 10harvestcraft/butterItem-0.pngButter
 5Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-2tasksANDRetrievalharvestcraft/tealeafItem-0.pngTea Leaf\nharvestcraft:tealeafItem
-1harvestcraft/grapeItem-0.pngGrape\nharvestcraft:grapeItem
-1Retrievalharvestcraft/teaItem-0.pngCup of Tea\nharvestcraft:teaItem
-1harvestcraft/raisinsItem-0.pngRaisins\nharvestcraft:raisinsItem
+2tasksANDRetrievalharvestcraft/tealeafItem-0.pngTea Leaf;harvestcraft:tealeafItem
+1harvestcraft/grapeItem-0.pngGrape;harvestcraft:grapeItem
+1Retrievalharvestcraft/teaItem-0.pngCup of Tea;harvestcraft:teaItem
+1harvestcraft/raisinsItem-0.pngRaisins;harvestcraft:raisinsItem
 1

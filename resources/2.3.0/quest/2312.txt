@@ -1,7 +1,7 @@
-2312bartworks/gt.bwMetaGeneratedcell-72.png1§b§lFinal Separation - Iridium & Osmium8-1You will need heat and Hydrochloric Acid to seperate Iridium and Osmium from the Rarest Metal Residue, but we're getting to the end.ANDpre23061bartworks/gt.bwMetaGenerateddust-65.pngrewardsItemgregtech/gt.metaitem.01-25083.pngOsmium Round\nOs
-1enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dust\n??OsIr??\nAdded by BartWorks
-20gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell\nHCl
-5Retrievalbartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dust\n??Ir??\nAdded by BartWorks
-10bartworks/gt.bwMetaGeneratedcell-72.pngAcidic Osmium Solution Cell\n???\nAdded by BartWorks
+2312bartworks/gt.bwMetaGeneratedcell-72.png1§b§lFinal Separation - Iridium & Osmium8-1You will need heat and Hydrochloric Acid to seperate Iridium and Osmium from the Rarest Metal Residue, but we're getting to the end.ANDpre23061bartworks/gt.bwMetaGenerateddust-65.pngrewardsItemgregtech/gt.metaitem.01-25083.pngOsmium Round;Os
+1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dust;??OsIr??;Added by BartWorks
+20gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
+5Retrievalbartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dust;??Ir??;Added by BartWorks
+10bartworks/gt.bwMetaGeneratedcell-72.pngAcidic Osmium Solution Cell;???;Added by BartWorks
 10

@@ -11,7 +11,7 @@ Support Columns are purely decorative. They connect to each other in all directi
 Sturdy Rails let you run minecart tracks across gaps without supports. Right-click the Sturdy Powered Rail with a Blowtorch to power it permanently, you don't need a redstone torch. If you don't have enough distractions already, use them to build a rollercoaster!
 
 The Blowtorch lets you remove railings or even the floor from a catwalk by right-clicking. Use it to make an opening to let you walk onto the catwalk, or if you don't know what an "OSHA violation" is. The same function can be performed by a GT or Forge-compatible wrench, so you don't actually need to make this.
-ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
+ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 16tasksANDOptionalcatwalks/blowtorch-0.pngBlowtorch
 1Retrievalcatwalks/scaffold-0.pngScaffold
 4catwalks/catwalk_unlit-0.pngCatwalk

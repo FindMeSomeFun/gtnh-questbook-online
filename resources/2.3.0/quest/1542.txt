@@ -4,14 +4,14 @@ The Crop-Matron is rainproof, but make sure you cover up your power supply (you 
 
 Tilled dirt still requires a nearby water block to be hydrated as the Matron will only water the crop, not the soil. Try putting a lily pad on top so it isn't annoying to walk on, or using Garden Soil instead.ANDpre1031gregtech/gt.metaitem.01-11019.png7210Natura/N Crops-0.pngrewardsChoiceIC2/itemWeedEx-0.pngWeed-EX
 16IC2/itemFertilizer-0.pngFertilizer
-16enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+16enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-30tasksANDOptionalgregtech/gt.blockcasings-1.pngLV Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-1BuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
-2IronChest/BlockIronChest-0.pngIron Chest\n6*9 Inventory - 54 Slots
-1gregtech/gt.metaitem.02-18305.pngSteel Casing\nFe\u2085\u2080C
+30tasksANDOptionalgregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+2IronChest/BlockIronChest-0.pngIron Chest;6*9 Inventory - 54 Slots
+1gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
 2gregtech/gt.metaitem.01-32600.pngElectric Motor
-1IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
-2RetrievalIC2/blockMachine2-2.pngCrop-Matron\nPower 32 EU/t max
+1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2RetrievalIC2/blockMachine2-2.pngCrop-Matron;Power 32 EU/t max
 1

@@ -1,12 +1,12 @@
 84BuildCraftFactory/tankBlock-0.png0§3§lWhere Can I Put All the Liquids?3-1With your brand new alloy smelter you are able to combine two materials. What happens if you mix some obsidian dust and thickened glass? Obsidian glass, great. Your first tank that you can make would be a Buildcraft tank. This tank can carry up 16 buckets of a single fluid. It's possible to upgrade those tanks so they can hold up to 64 buckets.
-You can also stack the tanks to increase capacity.ANDpre461gregtech/gt.blockmachines-118.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1BuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
+You can also stack the tanks to increase capacity.ANDpre461gregtech/gt.blockmachines-118.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metaitem.01-28032.pngIron Ring\nFe
-2gregtech/gt.metaitem.01-27032.pngIron Screw\nFe
-4OptionalTConstruct/GlassBlock-0.pngClear Glass\nGlass-Tier: HV
-1Optionalgregtech/gt.metaitem.01-2804.pngObsidian Dust\nMgFeSi\u2082O\u2088
-4ExtraUtilities/decorativeBlock2-0.pngThickened Glass\nGlass-Tier: HV
-1OptionalExtraUtilities/decorativeBlock2-5.pngObsidian Glass\nGlass-Tier: HV
-1RetrievalBuildCraftFactory/tankBlock-0.pngTank\nGlass-Tier: HV\nStores up to 16 Buckets of one Liquid Not portable, use a dolly
+10tasksANDOptionalgregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+4OptionalTConstruct/GlassBlock-0.pngClear Glass;Glass-Tier: HV
+1Optionalgregtech/gt.metaitem.01-2804.pngObsidian Dust;MgFeSi\u2082O\u2088
+4ExtraUtilities/decorativeBlock2-0.pngThickened Glass;Glass-Tier: HV
+1OptionalExtraUtilities/decorativeBlock2-5.pngObsidian Glass;Glass-Tier: HV
+1RetrievalBuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
 1

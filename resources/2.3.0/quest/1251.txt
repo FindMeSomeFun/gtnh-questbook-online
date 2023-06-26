@@ -1,13 +1,13 @@
-1251gregtech/gt.metaitem.03-32084.png1§a§lElite Nanocomputer7-1The elite nanocomputer is an IV circuit.ANDpre12501gregtech/gt.metaitem.03-32083.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
-2gregtech/gt.metaitem.03-32043.pngNOR Memory Chip\nIntegrated Circuit
-2gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
-4enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1251gregtech/gt.metaitem.03-32084.png1§a§lElite Nanocomputer7-1The elite nanocomputer is an IV circuit.ANDpre12501gregtech/gt.metaitem.03-32083.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
+2gregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
+2gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board\nA advanced Circuit Board
-1gregtech/gt.metaitem.03-32083.pngNanoprocessor Assembly\nAn Extreme Circuit\nEV-Tier
-2gregtech/gt.metaitem.03-32016.pngSMD Diode\nElectronic Component
-8gregtech/gt.metaitem.03-32043.pngNOR Memory Chip\nIntegrated Circuit
-4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire\nAgAu
-16Retrievalgregtech/gt.metaitem.03-32084.pngElite Nanocomputer\nAn Elite Circuit\nIV-Tier
+2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
+1gregtech/gt.metaitem.03-32083.pngNanoprocessor Assembly;An Extreme Circuit;EV-Tier
+2gregtech/gt.metaitem.03-32016.pngSMD Diode;Electronic Component
+8gregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
+4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+16Retrievalgregtech/gt.metaitem.03-32084.pngElite Nanocomputer;An Elite Circuit;IV-Tier
 1

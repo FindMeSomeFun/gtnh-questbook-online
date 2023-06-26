@@ -1,7 +1,7 @@
-1184Railcraft/cart.loco.steam.solid-0.png0Steam Locomotive14-1The steam locomotive is much better than the furnace cart. You can control the speed and the direction the locomotive will move. You need to put water and coal inside to make steam to power the locomotive.ANDpre651gregtech/gt.metaitem.01-11305.png11830minecraft/furnace_minecart-0.pngrewardsChoiceminecraft/coal-1.pngCharcoal\nBurn Time: 1600
+1184Railcraft/cart.loco.steam.solid-0.png0Steam Locomotive14-1The steam locomotive is much better than the furnace cart. You can control the speed and the direction the locomotive will move. You need to put water and coal inside to make steam to power the locomotive.ANDpre651gregtech/gt.metaitem.01-11305.png11830minecraft/furnace_minecart-0.pngrewardsChoiceminecraft/coal-1.pngCharcoal;Burn Time: 1600
 64Railcraft/cart.tank-0.pngTank Cart
-1enhancedlootbags/lootbag-32.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-32.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalRailcraft/cart.loco.steam.solid-0.pngSteam Locomotive\nModel: Standard Solid\nPrimary Color: Light Gray\nSecondary Color: Gray\nWhistle Pitch: ???
+25tasksANDRetrievalRailcraft/cart.loco.steam.solid-0.pngSteam Locomotive;Model: Standard Solid;Primary Color: Light Gray;Secondary Color: Gray;Whistle Pitch: ???
 1

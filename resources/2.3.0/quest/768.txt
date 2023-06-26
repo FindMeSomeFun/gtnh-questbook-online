@@ -8,9 +8,9 @@ You will need 1 input hatch, and at least 5 output hatches. An output bus will c
 
 §3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoicegregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 16gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
-32enhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+32enhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-40gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
-1Retrievalgregtech/gt.blockmachines-1126.pngDistillation Tower\nMachine Type: Distillery\nController block for the Distillation Tower\nFluids are only put out at the correct height\nThe correct height equals the slot number in the NEI recipe\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+2tasksANDOptionalgregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+40gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1Retrievalgregtech/gt.blockmachines-1126.pngDistillation Tower;Machine Type: Distillery;Controller block for the Distillation Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

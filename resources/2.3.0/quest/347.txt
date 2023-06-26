@@ -1,5 +1,5 @@
 347witchery/ingredient-24.png0Bloodlust: Wool of Bat36-1In case you just can't get it to drop.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/ingredient-24.pngWool of Bat
-1enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDHuntmobs/witchery-hellhound-.pngHell Hound

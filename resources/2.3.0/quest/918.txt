@@ -1,4 +1,4 @@
-918minecraft/skull-0.png1Skeleton: Evolved391728000In order to advance to a higher tier and reach Mars, Deimos and Phobos, you need to make yourself a better rocket. There are rumors that an Evolved Skeleton hiding out on the Moon has the schematics of such a device.ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+918minecraft/skull-0.png1Skeleton: Evolved391728000In order to advance to a higher tier and reach Mars, Deimos and Phobos, you need to make yourself a better rocket. There are rumors that an Evolved Skeleton hiding out on the Moon has the schematics of such a device.ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"

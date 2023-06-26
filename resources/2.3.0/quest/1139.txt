@@ -4,17 +4,17 @@ If the Kinetic Water Generator's Rotor isn't entirely submerged in water, it wil
 
 While inconvenient, the Water Generator runs more consistently.
 
-§4You can use Witchery (for example) to convert biomes.ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
+§4You can use Witchery (for example) to convert biomes.ANDpre11370IC2/blockGenerator-9.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
 4gregtech/gt.metaitem.01-32602.pngElectric Motor
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing\nFe\u2086CrMnNi
-4gregtech/gt.metaitem.01-32612.pngElectric Pump\n512 L/t (10,240 L/s) as Cover
+5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
 2IC2/itemRecipePart-12.pngShaft
-4gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
-2gregtech/gt.blockmachines-1646.png1x Platinum Cable\nMax Voltage: 8,192 (IV)\nMax Amperage: 2\nLoss/Meter/Ampere: 1 EU-Volt
-2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate\nFe\u2086CrMnNi
-8gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear\nTi
-2RetrievalIC2/blockKineticGenerator-4.pngKinetic Water Generator\nPower Output: 0-x KU/t max
+4gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
+2gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate;Fe\u2086CrMnNi
+8gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear;Ti
+2RetrievalIC2/blockKineticGenerator-4.pngKinetic Water Generator;Power Output: 0-x KU/t max
 1

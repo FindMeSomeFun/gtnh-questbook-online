@@ -1,6 +1,6 @@
-1849minecraft/oak_stairs-0.png0§1§lTell Me When We Reach 200-1Jumping up and down everywhere is exhausting, and makes you really hungry. To reduce your food depletion, make stairs instead of jumping.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/ladder-0.pngLadder\nBurn Time: 100
+1849minecraft/oak_stairs-0.png0§1§lTell Me When We Reach 200-1Jumping up and down everywhere is exhausting, and makes you really hungry. To reduce your food depletion, make stairs instead of jumping.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/ladder-0.pngLadder;Burn Time: 100
 64Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-10harvestcraft/suaderoItem-0.pngSuadero\nharvestcraft:suaderoItem
-4tasksANDRetrievalminecraft/oak_stairs-0.pngOak Wood Stairs\nBurn Time: 300
+10harvestcraft/suaderoItem-0.pngSuadero;harvestcraft:suaderoItem
+4tasksANDRetrievalminecraft/oak_stairs-0.pngOak Wood Stairs;Burn Time: 300
 8minecraft/stone_stairs-0.pngStone Stairs
 8

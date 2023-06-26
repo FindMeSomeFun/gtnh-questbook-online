@@ -1,4 +1,4 @@
-86gregtech/gt.blockcasings5-3.png1§6§lTPV Coil Upgrade17-1To process more advanced materials like Tungstensteel, Enderium and Niobium-Titanium, you will need more than 3600K. Time to upgrade your EBF... again.ANDpre791gregtech/gt.blockcasings5-2.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+86gregtech/gt.blockcasings5-3.png1§6§lTPV Coil Upgrade17-1To process more advanced materials like Tungstensteel, Enderium and Niobium-Titanium, you will need more than 3600K. Time to upgrade your EBF... again.ANDpre791gregtech/gt.blockcasings5-2.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.blockcasings5-3.pngTPV-Alloy Coil Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nBase Heating Capacity = 4501 Kelvin
+5tasksANDRetrievalgregtech/gt.blockcasings5-3.pngTPV-Alloy Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 4501 Kelvin
 16

@@ -1,15 +1,15 @@
 838IC2/itemPartCircuitAdv-0.png1§6§lAdvanced Circuits5-1Finally, the HV circuit! To make it, you need good integrated circuits, RAM, an integrated logic circuit, and transistors.
 
-By the way, circuits get cheaper to make as you go along, but not till HV.ANDpre7851gregtech/gt.metaitem.01-32717.png7931gregtech/gt.metaitem.03-32079.pngrewardsChoicegregtech/gt.metaitem.01-28308.pngRed Alloy Ring\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+By the way, circuits get cheaper to make as you go along, but not till HV.ANDpre7851gregtech/gt.metaitem.01-32717.png7931gregtech/gt.metaitem.03-32079.pngrewardsChoicegregtech/gt.metaitem.01-28308.pngRed Alloy Ring;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
 2dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw\nFe\u2086CrMnNi
-4enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit\nGood Circuit\nMV-Tier
-4gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit\nIntegrated Circuit
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-8gregtech/gt.metaitem.01-32717.pngTransistor\nBasic Electronic Component
-16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire\nAgAu
-32gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt\nCu
-32RetrievalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+5tasksANDOptionalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
+4gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+8gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
+16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+32gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt;Cu
+32RetrievalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 4

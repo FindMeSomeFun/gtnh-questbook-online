@@ -5,5 +5,5 @@ The best plants to cross to get Fertilia are zomplant, venomilia, trollplant, or
 Use the IC2 fertilizer and apatite this drops to make forestry fertilizer if using the multifarm.
 
 §3BTW this is the rarest one, with a 0.76% chance even for zomplant, so expect it to take approximately 3 eternities.ANDpre7210Natura/N Crops-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilizer
-256tasksANDRetrievalIC2/itemCropSeed-0.pngFertilia Seeds\nGr 0\nGa 0\nRe 0
+256tasksANDRetrievalIC2/itemCropSeed-0.pngFertilia Seeds;Gr 0;Ga 0;Re 0
 1

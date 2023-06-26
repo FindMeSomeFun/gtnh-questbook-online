@@ -4,7 +4,7 @@ To use the imprints, place them in the CAL controller's item slot. The CAL will 
 
 §3If you already have an imprint for an earlier version of a recipe, you don't need to make another, it works with both recipes.
 
-§4Because of the way oredicting and recipes work, slicing LV or HV circuits in the Cutting Factory will not work properly, so use at least an HV slicing machine for those.ANDpre26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDRetrievalbartworks/gt.bwMetaGeneratedgemExquisite-35.pngExquisite Prasiolite\nSi\u2085O\u2081\u2080Fe\nAdded by BartWorks
-8bartworks/gt.bwMetaGeneratedItem0-3.pngImprint supporting Board\nA Board needed for Circuit Imprints\nAdded by BartWorks
-8gregtech/gt.metaitem.01-32398.pngSlicer Blade\nSlicer Blade for cutting Flat
+§4Because of the way oredicting and recipes work, slicing LV or HV circuits in the Cutting Factory will not work properly, so use at least an HV slicing machine for those.ANDpre26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDRetrievalbartworks/gt.bwMetaGeneratedgemExquisite-35.pngExquisite Prasiolite;Si\u2085O\u2081\u2080Fe;Added by BartWorks
+8bartworks/gt.bwMetaGeneratedItem0-3.pngImprint supporting Board;A Board needed for Circuit Imprints;Added by BartWorks
+8gregtech/gt.metaitem.01-32398.pngSlicer Blade;Slicer Blade for cutting Flat
 1

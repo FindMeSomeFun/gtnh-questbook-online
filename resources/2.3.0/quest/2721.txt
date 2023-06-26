@@ -7,18 +7,18 @@ Cactus Charcoal (400BT) + 500t -> Cactus Coke (800BT) +30l Cr
 Sugar Cane (50BT) + 500t -> Sugar Charcoal (400BT) +30l Cr
 Sugar Charcoal (400BT) + 500t -> Sugar Coke (800BT) +30l Cr
 
-You'll want Coke for making steel in your BBF later on. Though you can still use charcoal if you want.ANDpre271minecraft/coal-1.pngrewardsItemmiscutils/itemCactusCoke-0.pngCactus Coke\nUsed for smelting.\nBurn Time: 800
-4miscutils/itemSugarCoke-0.pngSugar Coke\nUsed for smelting.\nBurn Time: 800
-4enhancedlootbags/lootbag-1.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+You'll want Coke for making steel in your BBF later on. Though you can still use charcoal if you want.ANDpre271minecraft/coal-1.pngrewardsItemmiscutils/itemCactusCoke-0.pngCactus Coke;Used for smelting.;Burn Time: 800
+4miscutils/itemSugarCoke-0.pngSugar Coke;Used for smelting.;Burn Time: 800
+4enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-5tasksANDRetrievalminecraft/coal-0.pngCoal\nBurn Time: 1600
-8minecraft/log-0.pngOak Wood\nBurn Time: 300
-8minecraft/cactus-0.pngCactus\nBurn Time: 50
-8minecraft/reeds-0.pngSugar Canes\nBurn Time: 50
-8RetrievalRailcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
-8minecraft/coal-1.pngCharcoal\nBurn Time: 1600
-8miscutils/itemCactusCharcoal-0.pngCactus Charcoal\nUsed for smelting.\nBurn Time: 400
-8miscutils/itemSugarCharcoal-0.pngSugar Charcoal\nUsed for smelting.\nBurn Time: 400
-8Retrievalmiscutils/itemCactusCoke-0.pngCactus Coke\nUsed for smelting.\nBurn Time: 800
-8miscutils/itemSugarCoke-0.pngSugar Coke\nUsed for smelting.\nBurn Time: 800
+5tasksANDRetrievalminecraft/coal-0.pngCoal;Burn Time: 1600
+8minecraft/log-0.pngOak Wood;Burn Time: 300
+8minecraft/cactus-0.pngCactus;Burn Time: 50
+8minecraft/reeds-0.pngSugar Canes;Burn Time: 50
+8RetrievalRailcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
+8minecraft/coal-1.pngCharcoal;Burn Time: 1600
+8miscutils/itemCactusCharcoal-0.pngCactus Charcoal;Used for smelting.;Burn Time: 400
+8miscutils/itemSugarCharcoal-0.pngSugar Charcoal;Used for smelting.;Burn Time: 400
+8Retrievalmiscutils/itemCactusCoke-0.pngCactus Coke;Used for smelting.;Burn Time: 800
+8miscutils/itemSugarCoke-0.pngSugar Coke;Used for smelting.;Burn Time: 800
 8

@@ -9,10 +9,10 @@ F) After leaving you wake up on the surface somewhere nearby, your lack of memor
 
 Among the ore samples you seem to have brought back with you, you find a number of "basic" and "intermediate" ores and gems, as well as a few you don't recognize! Perhaps a return trip is in order?  
 
-Also, you seem to smell like cheese for some reason?ANDpre3270ThaumicTinkerer/ichorPickGem-0.pngrewardsItemgregtech/gt.metaitem.01-9032.pngIron Nugget\nFe
-1gregtech/gt.metaitem.01-9089.pngLead Nugget\nPb
-1gregtech/gt.metaitem.01-2500.pngDiamond Dust\nC\nBurn Time: 102400
-1appliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed\nThis item won''t de-spawn.\n0.0%
+Also, you seem to smell like cheese for some reason?ANDpre3270ThaumicTinkerer/ichorPickGem-0.pngrewardsItemgregtech/gt.metaitem.01-9032.pngIron Nugget;Fe
+1gregtech/gt.metaitem.01-9089.pngLead Nugget;Pb
+1gregtech/gt.metaitem.01-2500.pngDiamond Dust;C;Burn Time: 102400
+1appliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed;This item won''t de-spawn.;0.0%
 1GalacticraftCore/item.basicItem-2.pngRaw Silicon
 1GalacticraftMars/item.null-0.pngUnrefined Desh
 1Automagy/shardSliver-5.pngSliver of Entropy

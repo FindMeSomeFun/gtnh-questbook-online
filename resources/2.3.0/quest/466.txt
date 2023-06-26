@@ -1,5 +1,5 @@
 466appliedenergistics2/item.ItemExtremeStorageCell.Quantum-0.png0Quantum Storage27-1Now you §ocould§r connect Quantum Chests to your ME system with storage buses and maybe you are already doing that. But why not use all your new technology to make a Quantum storage cell?
 
 It only takes a single item type, but you can store more than a billion items! That surely must be enough, right? RIGHT?ANDpre24670appliedenergistics2/item.ItemMultiMaterial-60.png26561gregtech/gt.metaitem.03-32095.pngrewardsItemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDRetrievalappliedenergistics2/item.ItemExtremeStorageCell.Quantum-0.pngME Quantum Storage Cell\n0 of 134,217,727 Bytes Used\n0 of 1 Types
+1tasksANDRetrievalappliedenergistics2/item.ItemExtremeStorageCell.Quantum-0.pngME Quantum Storage Cell;0 of 134,217,727 Bytes Used;0 of 1 Types
 1

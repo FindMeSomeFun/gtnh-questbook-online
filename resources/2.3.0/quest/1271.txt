@@ -1,6 +1,6 @@
-1271gregtech/gt.blockmachines-283.png0§9§lHV Extruder6-1The HV Extruder is needed to extrude tough metals like Tungstensteel and HSS.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot\nFe\u2086CrMnNi
-16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
-2Itemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1271gregtech/gt.blockmachines-283.png0§9§lHV Extruder6-1The HV Extruder is needed to extrude tough metals like Tungstensteel and HSS.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2Itemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-283.pngAdvanced Extruder II\nUniversal Machine for Metal Working\nVoltage IN: 512 (HV)\nCapacity: 32,768 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-283.pngAdvanced Extruder II;Universal Machine for Metal Working;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

@@ -5,9 +5,9 @@ Earmuffs count as leather armor in terms of protection and durability.ANDpre1
 10Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-28330.pngThaumium Ring\nFeMa
-2gregtech/gt.metaitem.01-27330.pngThaumium Screw\nFeMa
-2gregtech/gt.metaitem.02-24305.pngSteel Spring\nFe\u2085\u2080C
+25tasksANDOptionalgregtech/gt.metaitem.01-28330.pngThaumium Ring;FeMa
+2gregtech/gt.metaitem.01-27330.pngThaumium Screw;FeMa
+2gregtech/gt.metaitem.02-24305.pngSteel Spring;Fe\u2085\u2080C
 1Backpack/tannedLeather-0.pngTanned Leather
-2Retrievalwitchery/earmuffs-0.pngEarmuffs\nProtection from Mandrakes\nProtection: 1\nDurability: 55/55
+2Retrievalwitchery/earmuffs-0.pngEarmuffs;Protection from Mandrakes;Protection: 1;Durability: 55/55
 1

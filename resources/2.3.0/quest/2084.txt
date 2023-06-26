@@ -1,6 +1,6 @@
 2084Forestry/grafter-0.png0Collecting the Hybrids16-1If you got lucky and found some bees in a village, put them in their houses next to some trees. Over time the bees will slowly pollinate the leaves of the trees. Using a grafter you can break the leaf blocks to retrieve a sapling 100%, useful for getting the forestry saplings. This doesn't seem to work with magical trees though. You can trade with villagers to get proven grafters that have a longer lifetime. Also investigate magic, you have heard rumors of long lasting grafters available to magicians. 
 
-GregTech also offers a really nice tool, the Branch Cutter.ANDpre351gregtech/gt.metaitem.01-2300.pngrewardsItemenhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+GregTech also offers a really nice tool, the Branch Cutter.ANDpre351gregtech/gt.metaitem.01-2300.pngrewardsItemenhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Forestry/grafterProven-0.pngProven Grafter
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDRetrievalForestry/grafter-0.pngGrafter

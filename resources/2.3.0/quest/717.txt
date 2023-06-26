@@ -2,13 +2,13 @@
 
 To open MV, you still need to make an EBF and do the Aluminium quest if you haven't already, since §oeverything§r needs aluminium.
 
-§3This quest will also open the Project Red quests, one of the early automation options.ANDpre7471gregtech/gt.metaitem.01-32715.png7481gregtech/gt.metaitem.03-32101.pngrewardsItemgregtech/gt.metaitem.02-32119.pngBeer\ngregtech:gt.metaitem.02\nGood old Beer
-4gregtech/gt.metaitem.02-32102.pngWine\ngregtech:gt.metaitem.02\nOrdinary
+§3This quest will also open the Project Red quests, one of the early automation options.ANDpre7471gregtech/gt.metaitem.01-32715.png7481gregtech/gt.metaitem.03-32101.pngrewardsItemgregtech/gt.metaitem.02-32119.pngBeer;gregtech:gt.metaitem.02;Good old Beer
+4gregtech/gt.metaitem.02-32102.pngWine;gregtech:gt.metaitem.02;Ordinary
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board\nA good Circuit Board
-2gregtech/gt.metaitem.02-18305.pngSteel Casing\nFe\u2085\u2080C
-2gregtech/gt.metaitem.01-32715.pngDiode\nBasic Electronic Component
-4IC2/itemPartCircuit-0.pngElectronic Circuit\nLV-tier
-6gregtech/gt.blockmachines-1360.png1x Copper Wire\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 4 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32702.pngGood Electronic Circuit\nA Good Circuit\nMV-Tier
+3tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
+2gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
+2gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
+4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+6gregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
 2

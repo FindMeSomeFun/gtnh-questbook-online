@@ -1,2 +1,2 @@
-2571Avaritia/Infinity_Shoes-0.png0Infinity Boots38-1Provides a permanent jump boost and increased running speed.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalAvaritia/Infinity_Shoes-0.pngInfinity Boots\nVis discount: 20%\n+SANIC% Speed\nProvides SpaceSuit capability.\nProvides full hazmat protection.\nProtection: 6\nDurability: 129987/129987
+2571Avaritia/Infinity_Shoes-0.png0Infinity Boots38-1Provides a permanent jump boost and increased running speed.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalAvaritia/Infinity_Shoes-0.pngInfinity Boots;Vis discount: 20%;+SANIC% Speed;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 6;Durability: 129987/129987
 1

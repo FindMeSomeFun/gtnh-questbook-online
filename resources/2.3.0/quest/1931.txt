@@ -1,4 +1,4 @@
-1931minecraft/leather-0.png0Vegan Leather?13-1If you want to save your cows and horses for milk and ...glue... you can use Corium to make leather instead.ANDpre17970minecraft/string-0.pngrewardsItemminecraft/beef-0.pngRaw Beef\nminecraft:beef
-64enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngCorium Seeds\nGr 0\nGa 0\nRe 0
+1931minecraft/leather-0.png0Vegan Leather?13-1If you want to save your cows and horses for milk and ...glue... you can use Corium to make leather instead.ANDpre17970minecraft/string-0.pngrewardsItemminecraft/beef-0.pngRaw Beef;minecraft:beef
+64enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngCorium Seeds;Gr 0;Ga 0;Re 0
 1

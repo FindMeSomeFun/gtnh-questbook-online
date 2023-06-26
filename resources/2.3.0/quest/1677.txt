@@ -1,13 +1,13 @@
 1677gregtech/gt.metaitem.03-32103.png1§a§lEmpty Fiber Reinforced Glass Board7-1Fiber Reinforced circuit boards require fiber-reinforced epoxid resin sheets, aluminium foil, and sulfuric acid to make an empty board. By adding energetic alloy foil and Iron(III) Chloride or Sodium Persulfate you can craft a More Advanced Circuit Board.
 
-§3If you don't want to make Lapotronic Energy Orbs for PAs, the rest of this questline is in IV.ANDpre16761gregtech/gt.metaitem.01-17610.pngrewardsChoicegregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-16gregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
-5enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3If you don't want to make Lapotronic Energy Orbs for PAs, the rest of this questline is in IV.ANDpre16761gregtech/gt.metaitem.01-17610.pngrewardsChoicegregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+16gregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+5enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
-15gregtech/gt.metaitem.01-29019.pngAluminium Foil\nAl
-180Optionalgregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil\n(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-180gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board\nAn Extreme Board
-15Retrievalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board\nA more advanced Circuit Board
+5tasksANDOptionalgregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+15gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
+180Optionalgregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+180gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
+15Retrievalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
 15

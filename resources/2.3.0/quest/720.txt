@@ -1,8 +1,8 @@
 720IC2/itemWeed-0.png0Weeds II13-1Weeds, weeds, and more weeds. You get so many of them while cross breeding. 
 
 Need some biogas cells for your power production in exchange? Or maybe some glowstone to light up your fields?ANDpre5310gregtech/gt.blockmachines-341.png7240IC2/itemWeed-0.pngrewardsChoiceIC2/itemCellEmpty-7.pngBiogas Cell
-128minecraft/glowstone-0.pngGlowstone\nGlass-Tier: HV
-64enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+128minecraft/glowstone-0.pngGlowstone;Glass-Tier: HV
+64enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDConsumeIC2/itemWeed-0.pngWeed
 256

@@ -2,7 +2,7 @@
 
 You now can electrolyze the cerium oxide to get pure elemental cerium dust.
 
-Oh, and oxygen, but who cares about that anymore?ANDpre30671bartworks/gt.bwMetaGenerateddust-11027.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11028.pngCerium\nCe\u2082O\u2083\nAdded by GTNH: Lanthanides via BartWorks
-5Retrievalgregtech/gt.metaitem.01-2065.pngCerium Dust\nCe
+Oh, and oxygen, but who cares about that anymore?ANDpre30671bartworks/gt.bwMetaGenerateddust-11027.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11028.pngCerium;Ce\u2082O\u2083;Added by GTNH: Lanthanides via BartWorks
+5Retrievalgregtech/gt.metaitem.01-2065.pngCerium Dust;Ce
 2

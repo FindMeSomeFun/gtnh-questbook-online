@@ -1,11 +1,11 @@
 559Railcraft/machine.beta-3.png0§6§lLow-Pressure Boiler Tank17-1The low pressure boiler tank is the easiest way to make steam with an RC boiler. The firebox needs this tank on top to produce steam. The bigger the boiler the slower it heats up, but it will produce more steam when heated up.
 
 Extract steam by attaching a pipe to the boiler tank.ORpre5600Railcraft/machine.beta-5.png5610Railcraft/machine.beta-6.pngrewardsChoicedreamcraft/item.SteelBars-0.pngSteel Bars
-1gregtech/gt.metaitem.01-17032.pngIron Plate\nFe
-4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1Railcraft/fuel.coke-0.pngCoal Coke\nBurn Time: 3200
+1gregtech/gt.metaitem.01-17032.pngIron Plate;Fe
+4enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Railcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metaitem.01-27032.pngIron Screw\nFe
-2gregtech/gt.metaitem.02-18032.pngIron Casing\nFe
-6CraftingRailcraft/machine.beta-3.pngLow Pressure Boiler Tank\nMulti-Block: Variable Size, Above Firebox\nDimensions: 1x1x1, 2x2x2, 2x3x2,\n3x2x3, 3x3x3, 3x4x3\nProduces up to 10L of Steam per tick\nMobs cannot Spawn on this Block
+10tasksANDOptionalgregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+2gregtech/gt.metaitem.02-18032.pngIron Casing;Fe
+6CraftingRailcraft/machine.beta-3.pngLow Pressure Boiler Tank;Multi-Block: Variable Size, Above Firebox;Dimensions: 1x1x1, 2x2x2, 2x3x2,;3x2x3, 3x3x3, 3x4x3;Produces up to 10L of Steam per tick;Mobs cannot Spawn on this Block
 1

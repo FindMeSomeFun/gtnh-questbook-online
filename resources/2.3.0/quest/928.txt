@@ -1,4 +1,4 @@
 928minecraft/beacon-0.png1Blood Altar Tier 537-1If you want to make tier 5 slates you need a Tier 5 altar. This can be made with 4 beacons. Beacons have thaumcraft recipes and can be found in the thaumcraft book on the GTNH page. The quest is most of the way through adept thaumaturgy.ANDpre9271dreamcraft/tile.BloodyVoid-0.pngrewardsItemAWWayofTime/AlchemicalWizardrybloodRune-1.pngRune of Augmented Capacity
 8Itemdreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000"
-1tasksANDRetrievalminecraft/beacon-0.pngBeacon\nGlass-Tier: HV
+1tasksANDRetrievalminecraft/beacon-0.pngBeacon;Glass-Tier: HV
 4

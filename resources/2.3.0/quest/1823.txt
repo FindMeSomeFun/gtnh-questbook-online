@@ -1,4 +1,4 @@
-1823bartworks/gt.GT2Destructopack-0.png0§6§lMobile Trash Can5-1GT2's Destructopack is a mobile Trashcan. Might be handy!ANDpre8381IC2/itemPartCircuitAdv-0.pngrewardsItemIC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+1823bartworks/gt.GT2Destructopack-0.png0§6§lMobile Trash Can5-1GT2's Destructopack is a mobile Trashcan. Might be handy!ANDpre8381IC2/itemPartCircuitAdv-0.pngrewardsItemIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 2dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-4tasksANDRetrievalbartworks/gt.GT2Destructopack-0.pngDestructopack\nMobile Trash Bin\nAdded by BartWorks
+4tasksANDRetrievalbartworks/gt.GT2Destructopack-0.pngDestructopack;Mobile Trash Bin;Added by BartWorks
 1

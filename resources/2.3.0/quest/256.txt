@@ -1,5 +1,5 @@
-256Thaumcraft/ItemResource-0.png1Not Coal31-1Way better. More than Lignite even. It even speeds up the dissolving of items in an alchemical furnace.ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemThaumcraft/ItemResource-0.pngAlumentum\nBurn Time: 8000
-1enhancedlootbags/lootbag-9.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+256Thaumcraft/ItemResource-0.png1Not Coal31-1Way better. More than Lignite even. It even speeds up the dissolving of items in an alchemical furnace.ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemThaumcraft/ItemResource-0.pngAlumentum;Burn Time: 8000
+1enhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/ItemResource-0.pngAlumentum\nBurn Time: 8000
+5tasksANDRetrievalThaumcraft/ItemResource-0.pngAlumentum;Burn Time: 8000
 2

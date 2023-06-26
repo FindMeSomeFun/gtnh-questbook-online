@@ -1,7 +1,7 @@
 3016gregtech/gt.metaitem.01-30993.png0Zooming with Nitrous21-1Nitrous Oxide, N2O, also known as nitro. It makes cars go really fast for short bursts. In reality, it is a source of extra oxygen when mixed in with the fuel during combustion, allowing it to be consumed faster and also release energy faster, but at the risk of "knocking", detonating the fuel out of its intended boundaries and possibly destroying the engine. 
 
 To avoid this, something else needs to be mixed in this HOG to prevent your generators from exploding, right? Luckily for you, such an option exists and it will be presented after this quest. For now, though, you can focus on automating Nitrous Oxide by mixing Nitrogen with Oxygen. These are the two main products of distilling air, so you can obtain them in one step, but you probably have chosen your source of these gases at this point, so use what you have.ANDpre30120gregtech/gt.blockcasings5-2.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+32enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30993.pngNitrous Oxide Cell\nN\u2082O
+5tasksANDRetrievalgregtech/gt.metaitem.01-30993.pngNitrous Oxide Cell;N\u2082O
 50

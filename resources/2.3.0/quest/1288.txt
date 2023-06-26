@@ -1,4 +1,4 @@
 1288IC2/itemHops-0.png0Hops, the Source of Beer13-1If you don't want pure alcohol, but beer, get some hops by crossbreeding IC2 crops.ANDpre7210Natura/N Crops-0.pngrewardsItemdreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
-6enhancedlootbags/lootbag-51-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+6enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1tasksANDRetrievalIC2/itemHops-0.pngHops
 8

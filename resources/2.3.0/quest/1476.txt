@@ -3,9 +3,9 @@
 §3Note: GT Tool damage is based on tinkers mining level.ANDpre4920OpenBlocks/trophy-0-Sheep.pngrewardsItemminecraft/spawn_egg-54.pngSpawn Zombie
 1minecraft/spawn_egg-50.pngSpawn Creeper
 1minecraft/leather-0.pngLeather
-8Itemminecraft/beef-0.pngRaw Beef\nminecraft:beef
+8Itemminecraft/beef-0.pngRaw Beef;minecraft:beef
 5Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-3tasksANDRetrievalgregtech/gt.metatool.01-36-enchanted.pngButchery Knife\nDurability: 0 / 0\nNULL lvl 0\nAttack Damage: 3.0\nMining Speed: 0.1\nHas a slow Attack Rate\nLooting I
+3tasksANDRetrievalgregtech/gt.metatool.01-36-enchanted.pngButchery Knife;Durability: 0 / 0;NULL lvl 0;Attack Damage: 3.0;Mining Speed: 0.1;Has a slow Attack Rate;Looting I
 1

@@ -1,11 +1,11 @@
 2791gregtech/gt.blockmachines-31026.png0You Haven't Learned How to Separate Fluids Yet? Seriously?19-1This multi follows the same logic as the Large Combustion Engine, but it uses semifluids instead. If you have the need to burn any of those for power, like Heavy Fuel for example, you can put this together.
 
 §3Check the Large Combustion Engine quest for more details.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-2gregtech/gt.blockcasings4-13.pngEngine Intake Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-8gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-19gregtech/gt.blockmachines-90.pngMaintenance Hatch\nFor maintaining Multiblocks\nCannot be shared between Multiblocks!
-1Retrievalgregtech/gt.blockmachines-31026.pngLarge Semifluid Burner\nMachine Type: Semifluid Generator\nController Block for the Large Semifluid Generator\nEngine Intake Casings must not be obstructed in front (only air blocks)\nSupply Semifluid Fuels and 2000L of Lubricant per hour to run.\nSupply 80L of Oxygen per second to boost output (optional).\nDefault: Produces 2048EU/t at 100% efficiency\nBoosted: Produces 6144EU/t at 150% efficiency\nCauses: 1280 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2gregtech/gt.blockcasings4-13.pngEngine Intake Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+19gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1Retrievalgregtech/gt.blockmachines-31026.pngLarge Semifluid Burner;Machine Type: Semifluid Generator;Controller Block for the Large Semifluid Generator;Engine Intake Casings must not be obstructed in front (only air blocks);Supply Semifluid Fuels and 2000L of Lubricant per hour to run.;Supply 80L of Oxygen per second to boost output (optional).;Default: Produces 2048EU/t at 100% efficiency;Boosted: Produces 6144EU/t at 150% efficiency;Causes: 1280 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

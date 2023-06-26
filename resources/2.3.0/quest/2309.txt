@@ -2,10 +2,10 @@
 
 Make Sodium Formate, then the Formic Acid.ANDpre23081bartworks/gt.bwMetaGenerateddust-55.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5IC2/itemCellEmpty-0.pngEmpty Cell
-16tasksANDOptionalgregtech/gt.metaitem.01-30674.pngCarbon Monoxide Cell\nCO
-4gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust\nNaOH
-12Optionalbartworks/gt.bwMetaGeneratedcell-56.pngSodium Formate Cell\nHCOONa\nAdded by BartWorks
-4gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell\nH\u2082SO\u2084
-2Retrievalbartworks/gt.bwMetaGeneratedcell-58.pngFormic Acid Cell\nCH\u2082O\u2082\nAdded by BartWorks
-4bartworks/gt.bwMetaGenerateddust-57.pngSodium Sulfate Dust\nNa\u2082SO\u2084\nAdded by BartWorks
+16tasksANDOptionalgregtech/gt.metaitem.01-30674.pngCarbon Monoxide Cell;CO
+4gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
+12Optionalbartworks/gt.bwMetaGeneratedcell-56.pngSodium Formate Cell;HCOONa;Added by BartWorks
+4gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+2Retrievalbartworks/gt.bwMetaGeneratedcell-58.pngFormic Acid Cell;CH\u2082O\u2082;Added by BartWorks
+4bartworks/gt.bwMetaGenerateddust-57.pngSodium Sulfate Dust;Na\u2082SO\u2084;Added by BartWorks
 14

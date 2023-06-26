@@ -1,6 +1,6 @@
 1257appliedenergistics2/tile.BlockCraftingStorage-3.png064k Crafting Storage27-1Component of the crafting CPU which provides 65,536 bytes of storage for crafting.ANDpre12560appliedenergistics2/item.ItemMultiMaterial-38.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-39.pngME Storage Housing
 8dreamcraft/item.EngineeringProcessorItemDiamondCore-0.pngItem Processor Tier II
-1enhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalappliedenergistics2/tile.BlockCraftingStorage-3.png64k Crafting Storage
 4

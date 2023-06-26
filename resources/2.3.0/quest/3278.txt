@@ -2,7 +2,7 @@
 
 The structure will need to change as it needs to be a bit bigger and taller.
 
-§3Works the same as the Tier 2 in most cases, but allows the player to use even less resources by using a gold nanite.ANDpre32371gregtech/gt.metaitem.01-32017.png32760gregtech/gt.blockcasings8-12.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4086.pngGold Nanites\nAu
-1Retrievalgregtech/gt.blockcasings8-13.pngRadiation Proof Photolithographic Framework Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
+§3Works the same as the Tier 2 in most cases, but allows the player to use even less resources by using a gold nanite.ANDpre32371gregtech/gt.metaitem.01-32017.png32760gregtech/gt.blockcasings8-12.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4086.pngGold Nanites;Au
+1Retrievalgregtech/gt.blockcasings8-13.pngRadiation Proof Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

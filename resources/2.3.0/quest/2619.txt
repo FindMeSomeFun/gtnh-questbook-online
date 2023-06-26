@@ -1,2 +1,2 @@
-2619gregtech/gt.blockmachines-2420.png1ZPM Superconductors (131,072 EU/t)10-1You can figure out how to make them yourself, right?ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2420.png1x Superconductor ZPM Wire\nMax Voltage: 131,072 (ZPM)\nMax Amperage: 24\nLoss/Meter/Ampere: 0 EU-Volt
+2619gregtech/gt.blockmachines-2420.png1ZPM Superconductors (131,072 EU/t)10-1You can figure out how to make them yourself, right?ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2420.png1x Superconductor ZPM Wire;Max Voltage: 131,072 (ZPM);Max Amperage: 24;Loss/Meter/Ampere: 0 EU-Volt
 64

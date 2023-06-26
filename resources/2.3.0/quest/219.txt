@@ -1,6 +1,6 @@
-219openmodularturrets/fenceTierFive-0.png0§b§lAlmost Unbreakable14-1Probably not required any more, but you've made so many walls already. So why not get the best ones?ANDpre2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+219openmodularturrets/fenceTierFive-0.png0§b§lAlmost Unbreakable14-1Probably not required any more, but you've made so many walls already. So why not get the best ones?ANDpre2131gregtech/gt.blockmachines-15.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalopenmodularturrets/fenceTierFive-0.pngFence\nHardness: 80 - Blast Resistance: 80
-4openmodularturrets/hardWallTierFive-0.pngHard Wall\nHardness: 80 - Blast Resistance: 80
+2tasksANDRetrievalopenmodularturrets/fenceTierFive-0.pngFence;Hardness: 80 - Blast Resistance: 80
+4openmodularturrets/hardWallTierFive-0.pngHard Wall;Hardness: 80 - Blast Resistance: 80
 4

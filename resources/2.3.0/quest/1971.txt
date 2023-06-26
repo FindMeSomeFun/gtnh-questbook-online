@@ -1,3 +1,3 @@
-1971BiblioCraft/BiblioLantern-0.png0Fancy Lanterns15-1Bibliocraft offers fancy looking lanterns. Make the candles from candleberries or beeswax.ANDpre511gregtech/gt.blockmachines-109.png541gregtech/gt.blockmachines-115.pngrewardsItemBiblioCraft/BiblioLantern-3.pngFancy Lantern\nBlack Candle\nMade of Gold
-1tasksANDRetrievalBiblioCraft/BiblioIronLantern-0.pngFancy Lantern\nWhite Candle\nMade of Iron
+1971BiblioCraft/BiblioLantern-0.png0Fancy Lanterns15-1Bibliocraft offers fancy looking lanterns. Make the candles from candleberries or beeswax.ANDpre511gregtech/gt.blockmachines-109.png541gregtech/gt.blockmachines-115.pngrewardsItemBiblioCraft/BiblioLantern-3.pngFancy Lantern;Black Candle;Made of Gold
+1tasksANDRetrievalBiblioCraft/BiblioIronLantern-0.pngFancy Lantern;White Candle;Made of Iron
 1

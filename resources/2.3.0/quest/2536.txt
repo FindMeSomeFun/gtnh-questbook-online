@@ -2,7 +2,7 @@
 
 You can power the other side from the first, but you need to jumpstart it first, so bring an energy cell when setting it up. Remember that it's part of the same network, so you can only have one controller, and you're still limited by the channels of the cable you connected with, so you may wish to use the P2P Tunnel to bring more across.
 
-If you use several, you may wish to rename the QESs.ANDpre25350appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+If you use several, you may wish to rename the QESs.ANDpre25350appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalappliedenergistics2/tile.BlockQuantumLinkChamber-0.pngME Quantum Link Chamber
 2appliedenergistics2/tile.BlockQuantumRing-0.pngME Quantum Ring

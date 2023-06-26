@@ -1,6 +1,6 @@
 176gregtech/gt.blockmachines-14.png1§a§lTier 4 (EV)7-1The main goal here is to get a tier 2 rocket, and reach Mars. You also might want to rethink your power setup, as more and more machines will be upgraded. This quest set will teach you about a couple of options you have regarding power production.
 
-Multiblock goals includes quests for the large gas turbine, large combustion engine, and multiblock ore drill.ANDpre8601gregtech/gt.metaitem.01-11028.png10141gregtech/gt.metaitem.01-32704.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Multiblock goals includes quests for the large gas turbine, large combustion engine, and multiblock ore drill.ANDpre8601gregtech/gt.metaitem.01-11028.png10141gregtech/gt.metaitem.01-32704.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalgregtech/gt.blockmachines-14.pngEV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 2,048 (EV)\nVoltage OUT: 2,048 (EV)\nCapacity: 102,912 EU
+2tasksANDRetrievalgregtech/gt.blockmachines-14.pngEV Machine Hull;You just need Imagination to use this.;Voltage IN: 2,048 (EV);Voltage OUT: 2,048 (EV);Capacity: 102,912 EU
 1

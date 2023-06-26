@@ -1,12 +1,12 @@
 1015gregtech/gt.metaitem.03-32106.png1§6§lEmpty Plastic Board5-1Plastic circuit boards require a plastic plate with Sulfuric Acid to make an Empty Board. By adding copper foil and Iron(III) Chloride or Sodium Persulfate you can craft a plastic circuit board. Later on you can make them more efficiently.
 
-§3PCBs are used in the circuits in HV tier.ORpre10201gregtech/gt.metaitem.01-30693.png10211gregtech/gt.metaitem.01-30718.pngrewardsChoicegregtech/gt.metaitem.01-29035.pngCopper Foil\nCu
-16gregtech/gt.metaitem.01-17874.pngPolyethylene Sheet\nCH\u2082
-8enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3PCBs are used in the circuits in HV tier.ORpre10201gregtech/gt.metaitem.01-30693.png10211gregtech/gt.metaitem.01-30718.pngrewardsChoicegregtech/gt.metaitem.01-29035.pngCopper Foil;Cu
+16gregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
+8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-17874.pngPolyethylene Sheet\nCH\u2082
-1Optionalgregtech/gt.metaitem.01-29035.pngCopper Foil\nCu
-6gregtech/gt.metaitem.03-32007.pngPlastic Circuit Board\nA Good Board
-1Retrievalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
+5tasksANDOptionalgregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
+1Optionalgregtech/gt.metaitem.01-29035.pngCopper Foil;Cu
+6gregtech/gt.metaitem.03-32007.pngPlastic Circuit Board;A Good Board
+1Retrievalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
 1

@@ -1,13 +1,13 @@
-1017gregtech/gt.metaitem.01-32703.png1§9§lProcessor Assembly6-1This is the second step to making EV and IV circuits.ANDpre10191gregtech/gt.metaitem.03-32014.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
-4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-1gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
-4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1017gregtech/gt.metaitem.01-32703.png1§9§lProcessor Assembly6-1This is the second step to making EV and IV circuits.ANDpre10191gregtech/gt.metaitem.03-32014.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+1gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+4enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
-1gregtech/gt.metaitem.03-32080.pngIntegrated Processor\nA Good Circuit\nMV-Tier
-2gregtech/gt.metaitem.03-32014.pngSmall Coil\nBasic Electronic Component
-4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-4gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wire\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-8gregtech/gt.metaitem.01-32718.pngCapacitor\nElectronic Component
-8Retrievalgregtech/gt.metaitem.01-32703.pngProcessor Assembly\nAn Advanced Circuit\nHV-Tier
+1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1gregtech/gt.metaitem.03-32080.pngIntegrated Processor;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.03-32014.pngSmall Coil;Basic Electronic Component
+4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+4gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wire;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+8gregtech/gt.metaitem.01-32718.pngCapacitor;Electronic Component
+8Retrievalgregtech/gt.metaitem.01-32703.pngProcessor Assembly;An Advanced Circuit;HV-Tier
 1

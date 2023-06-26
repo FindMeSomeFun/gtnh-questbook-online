@@ -1,4 +1,4 @@
-1933minecraft/milk_bucket-0.png0Milk of the Earth-Mother13-1Milkwart means you can get rid of all your cows. Isn't that nice?ANDpre19310minecraft/leather-0.pngrewardsItemIC2/itemCropSeed-0.pngNether Wart Seeds\nGr 1\nGa 1\nRe 1
-1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngMilkwart Seeds\nGr 0\nGa 0\nRe 0
+1933minecraft/milk_bucket-0.png0Milk of the Earth-Mother13-1Milkwart means you can get rid of all your cows. Isn't that nice?ANDpre19310minecraft/leather-0.pngrewardsItemIC2/itemCropSeed-0.pngNether Wart Seeds;Gr 1;Ga 1;Re 1
+1enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngMilkwart Seeds;Gr 0;Ga 0;Re 0
 1

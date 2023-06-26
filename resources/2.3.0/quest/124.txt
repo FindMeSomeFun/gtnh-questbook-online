@@ -1,6 +1,6 @@
-124openmodularturrets/potatoCannonTurret-0.png0§5§lDon't Play With Your Food!14-1Use it to kill zombies instead. Does only a little damage, but hey, who cares?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+124openmodularturrets/potatoCannonTurret-0.png0§5§lDon't Play With Your Food!14-1Use it to kill zombies instead. Does only a little damage, but hey, who cares?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-30707.pngOil Cell
 8Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalopenmodularturrets/potatoCannonTurret-0.pngPotato Cannon Turret\n--Info--\nTier: 1\nRange (in blocks): 15\nAccuracy: Medium\nAmmo Type: Potato\nBase Minimum Tier: Tier 1 Turret Base\n--Damage Output--\nProjectile Damage: 3.0 Hearts\nAOE Radius: 0\nShots/s: 0.6\nEnergy usage per shot: 10 RF\nA PVC masterpiece.\nGlass-Tier: HV
+15tasksANDRetrievalopenmodularturrets/potatoCannonTurret-0.pngPotato Cannon Turret;--Info--;Tier: 1;Range (in blocks): 15;Accuracy: Medium;Ammo Type: Potato;Base Minimum Tier: Tier 1 Turret Base;--Damage Output--;Projectile Damage: 3.0 Hearts;AOE Radius: 0;Shots/s: 0.6;Energy usage per shot: 10 RF;A PVC masterpiece.;Glass-Tier: HV
 1

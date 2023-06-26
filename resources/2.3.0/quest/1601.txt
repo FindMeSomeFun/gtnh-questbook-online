@@ -5,14 +5,14 @@ Show me your ability to get these metal crops and I'll give you some more fertil
 You will need the proper oreblock beneath the crop to reach 100 percent maturity. For best growing conditions use dirt in between the oreblock and the crop.
 
 For Ferru and Aurelia you will have to use a block of metal instead of a GT oreblock - a vanilla oreblock automined from the Twilight Forest will however work. You can also buy some from the coins tab. WAILA will tell you if the crop will accept the block you are using.ANDpre16000minecraft/reeds-0.pngrewardsItemIC2/itemFertilizer-0.pngFertilizer
-256IC2/itemCropSeed-0.pngAurelia Seeds\nGr 10\nGa 10\nRe 10
-1IC2/itemCropSeed-0.pngArgentia Seeds\nGr 10\nGa 10\nRe 10
-1IC2/itemCropSeed-0.pngPyrolusium Seeds\nGr 10\nGa 10\nRe 10
-1enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalgregtech/gt.metaitem.02-32530.pngCoppon Fiber\nORANGE WOOOOOOOL!!!
-9gregtech/gt.metaitem.02-32500.pngPlumbilia Leaf\nSource of Lead
-9gregtech/gt.metaitem.02-32527.pngNickelback Leaf\nSource of Nickel
-9gregtech/gt.metaitem.02-32540.pngTine Twig\nSource of Tin\nBurn Time: 100
-9gregtech/gt.metaitem.02-32528.pngGalvania Leaf\nSource of Zinc
-9gregtech/gt.metaitem.02-32503.pngFerru Leaf\nSource of Iron
+256IC2/itemCropSeed-0.pngAurelia Seeds;Gr 10;Ga 10;Re 10
+1IC2/itemCropSeed-0.pngArgentia Seeds;Gr 10;Ga 10;Re 10
+1IC2/itemCropSeed-0.pngPyrolusium Seeds;Gr 10;Ga 10;Re 10
+1enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalgregtech/gt.metaitem.02-32530.pngCoppon Fiber;ORANGE WOOOOOOOL!!!
+9gregtech/gt.metaitem.02-32500.pngPlumbilia Leaf;Source of Lead
+9gregtech/gt.metaitem.02-32527.pngNickelback Leaf;Source of Nickel
+9gregtech/gt.metaitem.02-32540.pngTine Twig;Source of Tin;Burn Time: 100
+9gregtech/gt.metaitem.02-32528.pngGalvania Leaf;Source of Zinc
+9gregtech/gt.metaitem.02-32503.pngFerru Leaf;Source of Iron
 9

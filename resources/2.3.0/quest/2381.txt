@@ -30,13 +30,13 @@ Riding (Lead)
 The thrower will "ride" the pearl to its destination. During the ride, if another pearl with this effect is thrown, the previous pearl will destroy itself and deal fall damage (unless No fall damage effect is applied).
 
 Trivia:
-The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0.pngrewardsChoiceminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 16HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-32enhancedlootbags/lootbag-57.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+32enhancedlootbags/lootbag-57.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
-1tasksANDRetrievalminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+1tasksANDRetrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 7Retrievalminecraft/wool-0.pngWool
 1minecraft/feather-0.pngFeather
 1minecraft/string-0.pngString

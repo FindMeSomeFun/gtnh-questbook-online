@@ -1,9 +1,9 @@
 814GalacticraftCore/item.rocketFins-0.png1Rocket Fins24-1Every rocket needs a few rocket fins.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Steel
 8GalacticraftCore/item.basicItem-10.pngCompressed Bronze
 8GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-8enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
-8GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate\nTier 1
+8GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
 16RetrievalGalacticraftCore/item.rocketFins-0.pngRocket Fins
 4

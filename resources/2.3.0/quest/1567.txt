@@ -1,6 +1,6 @@
 1567witchery/ingredient-99.png0Wake Up Early36-1Your second visit hopefully went a little better. With night vision and the flight potion you should have found a few disturbed cotton. 
 
-Disturbed Cotton can be spun into Tormented Twine. It cannot be replanted.ANDpre15660OpenBlocks/grave-0.pngrewardsItemminecraft/potion-8262.pngPotion of Night Vision\nNight Vision (8:00)
+Disturbed Cotton can be spun into Tormented Twine. It cannot be replanted.ANDpre15660OpenBlocks/grave-0.pngrewardsItemminecraft/potion-8262.pngPotion of Night Vision;Night Vision (8:00)
 1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"

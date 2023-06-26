@@ -1,15 +1,15 @@
-1003gregtech/gt.metaitem.01-32753.png0§a§lPower of the Sun at MV Level19-1The next solar panel you can make is the MV one. It gives 128 EU/t.ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
+1003gregtech/gt.metaitem.01-32753.png0§a§lPower of the Sun at MV Level19-1The next solar panel you can make is the MV one. It gives 128 EU/t.ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
-2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-17341.pngMeteoric Steel Plate\nSpFe\u2085\u2080C
+1tasksANDOptionalgregtech/gt.metaitem.01-17341.pngMeteoric Steel Plate;SpFe\u2085\u2080C
 2AdvancedSolarPanel/asp_crafting_items-0.pngSunnarium
-2Optionalgregtech/gt.metaitem.01-32752.pngSolar Panel\nLow Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
-4gregtech/gt.metaitem.03-32063.pngUltra Low Power IC\nUltra Low Power Circuit
-2gregtech/gt.metaitem.01-17470.pngEpoxid Sheet\nC\u2082\u2081H\u2082\u2084O\u2084
-2gregtech/gt.metaitem.01-32704.pngWorkstation\nAn Extreme Circuit\nEV-Tier
+2Optionalgregtech/gt.metaitem.01-32752.pngSolar Panel;Low Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.03-32063.pngUltra Low Power IC;Ultra Low Power Circuit
+2gregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+2gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
 2dreamcraft/item.IrradiantReinforcedTitaniumPlate-0.pngIrradiant Reinforced Titanium Plate
-2gregtech/gt.blockmachines-2340.png1x Superconductor HV Wire\nMax Voltage: 512 (HV)\nMax Amperage: 6\nLoss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32753.pngSolar Panel\nMedium Voltage Solar Panel (Needs cleaning with right click)
+2gregtech/gt.blockmachines-2340.png1x Superconductor HV Wire;Max Voltage: 512 (HV);Max Amperage: 6;Loss/Meter/Ampere: 0 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32753.pngSolar Panel;Medium Voltage Solar Panel (Needs cleaning with right click)
 1

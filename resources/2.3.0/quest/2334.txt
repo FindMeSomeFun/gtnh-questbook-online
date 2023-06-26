@@ -5,7 +5,7 @@ A plain demonic contract is used to make a deal with Flame Imps. The basic contr
 When performing Imp Magic, a plain contract is first crafted with reagents pertaining to the spell effect, and then signed in the blood of the target by crafting it with a Taglock Kit containing the targets blood.
 ANDpre23350witchery/taglockkit-0.pngrewardsChoicewitchery/ingredient-163.pngWarm Blood
 16minecraft/paper-0.pngPaper
-64enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+64enhancedlootbags/lootbag-53.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5tasksANDOptionalminecraft/paper-0.pngPaper

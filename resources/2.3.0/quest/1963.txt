@@ -1,8 +1,8 @@
 1963ExtraTrees/machine-4.png0Tileworker15-1The tileworker can take the single-color ceramic blocks and turn them into pretty patterned blocks.
 
-And contrary to the name, you use ceramic blocks here, not tiles.ANDpre19600Botany/ceramic-59.pngrewardsItemBotany/itemFlower-0-lavender.pngLavender\nLight Purple, Green Stem\n<Unknown>
-1Botany/itemFlower-0-forget.pngForget-me-nots\nPale Blue, Green Stem\n<Unknown>
-1Botany/itemFlower-0-althea.pngAlthea\nPale Purple and Light Purple, Dark Green Stem\n<Unknown>
+And contrary to the name, you use ceramic blocks here, not tiles.ANDpre19600Botany/ceramic-59.pngrewardsItemBotany/itemFlower-0-lavender.pngLavender;Light Purple, Green Stem;<Unknown>
+1Botany/itemFlower-0-forget.pngForget-me-nots;Pale Blue, Green Stem;<Unknown>
+1Botany/itemFlower-0-althea.pngAlthea;Pale Purple and Light Purple, Dark Green Stem;<Unknown>
 1tasksANDRetrievalExtraTrees/machine-4.pngTileworker
 1Botany/misc-6.pngMortar
 4

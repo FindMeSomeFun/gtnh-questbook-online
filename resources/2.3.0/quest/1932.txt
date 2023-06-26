@@ -1,6 +1,6 @@
 1932minecraft/gunpowder-0.png0Gunpowder? More Like Dirtpowder!13-1Creeperweed can supply your gunpowder needs without dealing with bothersome explosions. It also has quite a few attributes, making it a good source of random crops.
 
 Corium can breed into creeperweed.ANDpre16070gregtech/gt.metatool.01-40.pngrewardsItemminecraft/gunpowder-0.pngGunpowder
-16enhancedlootbags/lootbag-51.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngCreeperweed Seeds\nGr 0\nGa 0\nRe 0
+16enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
+1tasksANDRetrievalIC2/itemCropSeed-0.pngCreeperweed Seeds;Gr 0;Ga 0;Re 0
 1

@@ -1,5 +1,5 @@
-222openmodularturrets/laserTurret-0.png0§b§lPewPew!14-1Requires no ammo, but still does a ton of damage. All you need to do is feed it power, a lot of power.ANDpre2210openmodularturrets/baseTierFourBlock-0.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+222openmodularturrets/laserTurret-0.png0§b§lPewPew!14-1Requires no ammo, but still does a ton of damage. All you need to do is feed it power, a lot of power.ANDpre2210openmodularturrets/baseTierFourBlock-0.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalopenmodularturrets/laserTurret-0.pngLaser Turret\n--Info--\nTier: 5\nRange (in blocks): 25\nAccuracy: High\nAmmo Type: None\nBase Minimum Tier: Tier 5 Turret Base\n--Damage Output--\nProjectile Damage: 2.5 Hearts\nAOE Radius: 0\nShots/s: 2.0\nEnergy usage per shot: 10000 RF\nGo ahead, Newton doesn''t care.\nGlass-Tier: HV
+2tasksANDRetrievalopenmodularturrets/laserTurret-0.pngLaser Turret;--Info--;Tier: 5;Range (in blocks): 25;Accuracy: High;Ammo Type: None;Base Minimum Tier: Tier 5 Turret Base;--Damage Output--;Projectile Damage: 2.5 Hearts;AOE Radius: 0;Shots/s: 2.0;Energy usage per shot: 10000 RF;Go ahead, Newton doesn''t care.;Glass-Tier: HV
 1

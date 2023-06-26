@@ -1,5 +1,5 @@
 2099Genetics/database-0.png0Gene Database28-1Discovered genes are logged into the Gene Database. This handheld device lists all genes by the type of organism they apply to. To add a gene to an Empty Serum Vial to allow inoculation, the desired gene can be clicked on while holding the vial. An Empty Serum Array can be used to hold more than one gene at once.ANDpre20970Genetics/machine-1.pngrewardsItemGenetics/misc-6.pngEmpty Serum Vial
 8Genetics/misc-7.pngEmpty Serum Array
-2enhancedlootbags/lootbag-26.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalGenetics/database-0.pngGene Database
 1

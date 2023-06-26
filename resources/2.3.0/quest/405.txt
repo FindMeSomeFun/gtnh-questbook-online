@@ -11,5 +11,5 @@
 1witchery/ingredient-45.pngInfernal Animus
 8witchery/ingredient-80.pngDemonic Blood
 4witchery/ingredient-23.pngDemon Heart
-4ConsumeThaumcraft/ItemEldritchObject-3.pngPrimordial Pearl\nThe very fabric of magic seems \nto buckle each time it pulses.
+4ConsumeThaumcraft/ItemEldritchObject-3.pngPrimordial Pearl;The very fabric of magic seems ;to buckle each time it pulses.
 1

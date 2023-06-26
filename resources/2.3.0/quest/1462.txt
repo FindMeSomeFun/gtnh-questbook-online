@@ -2,13 +2,13 @@
 
 The temperature indicator on the Life Support HUD will show if the player is becoming too hot or too cold - as the temperature approaches dangerous levels, an "Invalid Thermal Protection" warning will be shown. On Mars and the Asteroids, simply wearing a full set of Thermal Padding should be enough to fix this.
 
-§3You'll also need some Silicon Rubber.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot\nAl
-64gregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot\nSpFe
-32enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3You'll also need some Silicon Rubber.ANDpre14271GalacticraftMars/item.null-3.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
+64gregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot;SpFe
+32enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionalharvestcraft/wovencottonItem-0.pngWoven Cotton
-192gregtech/gt.metaitem.01-29019.pngAluminium Foil\nAl
+192gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
 192dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
 216OptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Cloth
 24RetrievalGalacticraftMars/item.thermalPadding-0.pngThermal Padding Helm

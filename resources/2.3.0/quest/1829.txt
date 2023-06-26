@@ -1,9 +1,9 @@
 1829minecraft/lapis_block-0.png0L.E.S.U. Upgrade - IV Tier20-124 Stacks of LESU Casings. These do fit in your Inventory, but crafting them is another problem.
 
-§3If you dont want to clear out your inventory, just check the box when you have enough.ANDpre2131gregtech/gt.blockmachines-15.png18280thaumicbases/genericSlab-7.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1Forestry/beeQueenGE-0-lapis.pngLapis Queen\nPristine Stock
+§3If you dont want to clear out your inventory, just check the box when you have enough.ANDpre2131gregtech/gt.blockmachines-15.png18280thaumicbases/genericSlab-7.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1Forestry/beeQueenGE-0-lapis.pngLapis Queen;Pristine Stock
 1minecraft/lapis_block-0.pngLapis Lazuli Block
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-1tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!\nAdded by BartWorks
+1tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Added by BartWorks
 1536Checkboxcheckbox-.pngCheckbox
 1

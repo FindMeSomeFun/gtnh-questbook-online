@@ -1,8 +1,8 @@
-494minecraft/redstone_ore-0.png1§2§lRedstone2-1If you didn't find any Redstone veins yet, it is quite important to look for one now. Try your luck at Y 5-40.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1gregtech/gt.metaitem.02-32221.pngVeggieburger\ngregtech:gt.metaitem.02\nNo matter how you call this, this is NOT a Burger!
-3TConstruct/oreBerries-5.pngConcentrated Essence Berry\nTastes like Creeper\nCan be placed on a empty IC2 Crop.
+494minecraft/redstone_ore-0.png1§2§lRedstone2-1If you didn't find any Redstone veins yet, it is quite important to look for one now. Try your luck at Y 5-40.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.02-32221.pngVeggieburger;gregtech:gt.metaitem.02;No matter how you call this, this is NOT a Burger!
+3TConstruct/oreBerries-5.pngConcentrated Essence Berry;Tastes like Creeper;Can be placed on a empty IC2 Crop.
 5Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-10tasksANDRetrievalgregtech/gt.blockores-810.pngRedstone Ore\nSi(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
-32gregtech/gt.blockores-502.pngRuby Ore\nCrAl\u2082O\u2083
-16gregtech/gt.blockores-826.pngCinnabar Ore\nHgS
+10tasksANDRetrievalgregtech/gt.blockores-810.pngRedstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
+32gregtech/gt.blockores-502.pngRuby Ore;CrAl\u2082O\u2083
+16gregtech/gt.blockores-826.pngCinnabar Ore;HgS
 16

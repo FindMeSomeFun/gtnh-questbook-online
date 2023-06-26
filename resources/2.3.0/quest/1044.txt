@@ -1,4 +1,4 @@
-1044gregtech/gt.metaitem.01-30693.png0Iron (III) Chloride4048000Want some Iron (III) Chloride? Buy some!ANDpre10201gregtech/gt.metaitem.01-30693.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30693.pngIron III Chloride Cell\nCl\u2083Fe
+1044gregtech/gt.metaitem.01-30693.png0Iron (III) Chloride4048000Want some Iron (III) Chloride? Buy some!ANDpre10201gregtech/gt.metaitem.01-30693.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30693.pngIron III Chloride Cell;Cl\u2083Fe
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
 16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 7

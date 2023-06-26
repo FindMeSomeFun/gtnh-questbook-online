@@ -1,13 +1,13 @@
-1707gregtech/gt.metaitem.03-32088.png1§b§lQuantumprocessor Mainframe8-1The Quantumprocessor Mainframe is the first ZPM circuit you can make.ANDpre17061gregtech/gt.metaitem.03-32087.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box\nJust something you can put covers on.
-64gregtech/gt.metaitem.03-32182.pngSMD Inductor\nElectronic Component
-32gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-32enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1707gregtech/gt.metaitem.03-32088.png1§b§lQuantumprocessor Mainframe8-1The Quantumprocessor Mainframe is the first ZPM circuit you can make.ANDpre17061gregtech/gt.metaitem.03-32087.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
+64gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
+32gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+32enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box\nJust something you can put covers on.
-2gregtech/gt.metaitem.03-32087.pngMaster Quantumcomputer\nA Master Circuit\nLuV-Tier
-2gregtech/gt.metaitem.03-32182.pngSMD Inductor\nElectronic Component
-24gregtech/gt.metaitem.03-32020.pngSMD Capacitor\nElectronic Component
-48gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip\nIntegrated Circuit
-24gregtech/gt.blockmachines-1380.png1x Annealed Copper Wire\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 2 EU-Volt
-48Retrievalgregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe\nAn Ultimate Circuit\nZPM-Tier
+2tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
+2gregtech/gt.metaitem.03-32087.pngMaster Quantumcomputer;A Master Circuit;LuV-Tier
+2gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
+24gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+48gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+24gregtech/gt.blockmachines-1380.png1x Annealed Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+48Retrievalgregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
 1

@@ -2,9 +2,9 @@
 
 Note that this multi requires §4§lVery Specific§r I/O blocks, don't mess it up.
 
-ANDpre8900gregtech/gt.blockmachines-817.pngrewardstasksANDOptionalgregtech/gt.blockcasings-10.pngBronze Plated Bricks\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-22gregtech/gt.blockmachines-31046.pngInput Bus\nItem Input for Steam Multiblocks\nShift + right click with screwdriver to toggle automatic item shuffling\nCapacity: 4 stacks\nDoes not work with non-steam multiblocks\nAdded by: Alkalus - [GT++]
-1gregtech/gt.blockmachines-31047.pngOutput Bus\nItem Output for Steam Multiblocks\nCapacity: 4 stacks\nDoes not work with non-steam multiblocks\nAdded by: Alkalus - [GT++]
-1gregtech/gt.blockmachines-31040.pngSteam Hatch\nFluid Input for Steam Multiblocks\nCapacity: 64000L\nAccepted Fluid: Steam\nAdded by: Alkalus - [GT++]
-1Retrievalgregtech/gt.blockmachines-31041.pngSteam Grinder\nMachine Type: Macerator\nController Block for the Steam Macerator\nMacerates 8 ores at a time\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+ANDpre8900gregtech/gt.blockmachines-817.pngrewardstasksANDOptionalgregtech/gt.blockcasings-10.pngBronze Plated Bricks;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+22gregtech/gt.blockmachines-31046.pngInput Bus;Item Input for Steam Multiblocks;Shift + right click with screwdriver to toggle automatic item shuffling;Capacity: 4 stacks;Does not work with non-steam multiblocks;Added by: Alkalus - [GT++]
+1gregtech/gt.blockmachines-31047.pngOutput Bus;Item Output for Steam Multiblocks;Capacity: 4 stacks;Does not work with non-steam multiblocks;Added by: Alkalus - [GT++]
+1gregtech/gt.blockmachines-31040.pngSteam Hatch;Fluid Input for Steam Multiblocks;Capacity: 64000L;Accepted Fluid: Steam;Added by: Alkalus - [GT++]
+1Retrievalgregtech/gt.blockmachines-31041.pngSteam Grinder;Machine Type: Macerator;Controller Block for the Steam Macerator;Macerates 8 ores at a time;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

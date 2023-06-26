@@ -1,8 +1,8 @@
 1623ProjRedTransportation/projectred.transportation.pipe-0.png0Let's Get Some Pipes25-1First we're gonna need some pipes to connect everything. Do not use these pipes in junctions or the items will choose which path to go at random and you don't want that.
 
-§3Keep in mind PR automation is laggy, so don't use it more than the minimum you can get away with on servers, wait until AE2 for that. In SP, do what you want, but keep in mind that AE2 is way more powerful.ANDpre7171gregtech/gt.metaitem.01-32702.pngrewardsChoiceminecraft/glass_pane-0.pngGlass Pane\nGlass-Tier: HV
-16gregtech/gt.metaitem.02-22032.pngLong Iron Rod\nFe
-8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3Keep in mind PR automation is laggy, so don't use it more than the minimum you can get away with on servers, wait until AE2 for that. In SP, do what you want, but keep in mind that AE2 is way more powerful.ANDpre7171gregtech/gt.metaitem.01-32702.pngrewardsChoiceminecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+16gregtech/gt.metaitem.02-22032.pngLong Iron Rod;Fe
+8enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
 8

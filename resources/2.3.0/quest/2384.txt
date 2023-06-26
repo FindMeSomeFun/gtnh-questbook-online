@@ -4,29 +4,29 @@
 16HardcoreEnderExpansion/rune-3.pngRune of Defense
 16HardcoreEnderExpansion/rune-4.pngRune of Magic
 16HardcoreEnderExpansion/rune-5.pngRune of Void
-16enhancedlootbags/lootbag-58-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
-5HardcoreEnderExpansion/charm-55.pngCharm of Critical Strike\n10% chance to deal 200% critical damage
+16enhancedlootbags/lootbag-58-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
+5HardcoreEnderExpansion/charm-55.pngCharm of Critical Strike;10% chance to deal 200% critical damage
 4Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 1dreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
-1tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouch\nInactive
-1RetrievalHardcoreEnderExpansion/charm-2.pngCharm of Power\n+60% damage
-1HardcoreEnderExpansion/charm-5.pngCharm of Agility\n+40% speed
-1HardcoreEnderExpansion/charm-8.pngCharm of Vigor\n+55% health regeneration speed
-1HardcoreEnderExpansion/charm-11.pngCharm of Defense\n-30% damage taken
-1HardcoreEnderExpansion/charm-14.pngCharm of Magic\n+30% experience
-1HardcoreEnderExpansion/charm-18.pngCharm of Equality\n+8% damage\n+5% speed\n+6% health regeneration speed\n-3% damage taken\n+3% experience
-1HardcoreEnderExpansion/charm-21.pngCharm of Blocking\n-45% damage taken when blocking
-1HardcoreEnderExpansion/charm-24.pngCharm of Blocking Reflection\n-20% damage taken and 20% reflected when blocking
-1HardcoreEnderExpansion/charm-73.pngCharm of Blocking Repulsion\n-20% damage taken and 2x knockback repulsed
-1HardcoreEnderExpansion/charm-27.pngCharm of Digestive Recover\n2 health per 1 hunger bar
-1RetrievalHardcoreEnderExpansion/charm-30.pngCharm of Life Steal\n2 health gained per 10 health dealt\nThis charm will not stack effects with other charms of this type!
-1HardcoreEnderExpansion/charm-36.pngCharm of Damage Redirection\n30% damage redirected to 1 nearby creature(s)
-1HardcoreEnderExpansion/charm-43.pngCharm of Magic Penetration\n32% of dealt damage penetrates armor using magic
-1HardcoreEnderExpansion/charm-76.pngCharm of Magic Defense\n-70% magic damage taken
-1HardcoreEnderExpansion/charm-50.pngCharm of Falling Protection\n+6 blocks
-1HardcoreEnderExpansion/charm-53.pngCharm of Haste\n+25% dig speed
-1HardcoreEnderExpansion/charm-56.pngCharm of Critical Strike\n10% chance to deal 260% critical damage
-1HardcoreEnderExpansion/charm-64.pngCharm of Second Durability\n44% chance to recover 12% durability
-1HardcoreEnderExpansion/charm-70.pngCharm of Slaughter Impact\n100% damage dealt in 6 radius on kill
-1HardcoreEnderExpansion/charm-79.pngCharm of Last Resort\nTeleports 12 blocks away from finishing hit with cooldown of 10 seconds\nThis charm will not stack effects with other charms of this type!
+1tasksANDRetrievalHardcoreEnderExpansion/charm_pouch-0.pngCharm Pouch;Inactive
+1RetrievalHardcoreEnderExpansion/charm-2.pngCharm of Power;+60% damage
+1HardcoreEnderExpansion/charm-5.pngCharm of Agility;+40% speed
+1HardcoreEnderExpansion/charm-8.pngCharm of Vigor;+55% health regeneration speed
+1HardcoreEnderExpansion/charm-11.pngCharm of Defense;-30% damage taken
+1HardcoreEnderExpansion/charm-14.pngCharm of Magic;+30% experience
+1HardcoreEnderExpansion/charm-18.pngCharm of Equality;+8% damage;+5% speed;+6% health regeneration speed;-3% damage taken;+3% experience
+1HardcoreEnderExpansion/charm-21.pngCharm of Blocking;-45% damage taken when blocking
+1HardcoreEnderExpansion/charm-24.pngCharm of Blocking Reflection;-20% damage taken and 20% reflected when blocking
+1HardcoreEnderExpansion/charm-73.pngCharm of Blocking Repulsion;-20% damage taken and 2x knockback repulsed
+1HardcoreEnderExpansion/charm-27.pngCharm of Digestive Recover;2 health per 1 hunger bar
+1RetrievalHardcoreEnderExpansion/charm-30.pngCharm of Life Steal;2 health gained per 10 health dealt;This charm will not stack effects with other charms of this type!
+1HardcoreEnderExpansion/charm-36.pngCharm of Damage Redirection;30% damage redirected to 1 nearby creature(s)
+1HardcoreEnderExpansion/charm-43.pngCharm of Magic Penetration;32% of dealt damage penetrates armor using magic
+1HardcoreEnderExpansion/charm-76.pngCharm of Magic Defense;-70% magic damage taken
+1HardcoreEnderExpansion/charm-50.pngCharm of Falling Protection;+6 blocks
+1HardcoreEnderExpansion/charm-53.pngCharm of Haste;+25% dig speed
+1HardcoreEnderExpansion/charm-56.pngCharm of Critical Strike;10% chance to deal 260% critical damage
+1HardcoreEnderExpansion/charm-64.pngCharm of Second Durability;44% chance to recover 12% durability
+1HardcoreEnderExpansion/charm-70.pngCharm of Slaughter Impact;100% damage dealt in 6 radius on kill
+1HardcoreEnderExpansion/charm-79.pngCharm of Last Resort;Teleports 12 blocks away from finishing hit with cooldown of 10 seconds;This charm will not stack effects with other charms of this type!
 1

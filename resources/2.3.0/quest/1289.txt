@@ -1,7 +1,7 @@
 1289gregtech/gt.blockmachines-223.png0§9§lHV Bender6-1An HV Bender is 4x faster than your LV Bender, but it also opens up an important recipe - Tin Cans!  
 
 With this bender you can turn Tin Casings into Tin Cans. Using the Tin Cans with food in a Canner will make Canned Food. This can stack up to 64, and will fully restore your shanks - no need to rotate food types any more! You will eat as much as you need with one click. One drawback is you will no longer get the Well Fed buff with its slight health regen bonus, nor will you gain more hearts from eating new food. Also, these cans don't fit in the lunch bag or lunch box so you don't need those any more.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemIC2/itemTinCanFilled-0.png(Filled) Tin Can (#4202
-2Itemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2Itemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-223.pngAdvanced Bending Machine II\nBoo, he''s bad! We want BENDER!!!\nVoltage IN: 512 (HV)\nCapacity: 32,768 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-223.pngAdvanced Bending Machine II;Boo, he''s bad! We want BENDER!!!;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

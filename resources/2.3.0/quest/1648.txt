@@ -3,13 +3,13 @@
 Dress for success in your new Witches Hat and Robes. A girl has to look her best, so I'll give you a nice bag as reward.
 
 Check NEI uses for impregnated leather for other accessories to your outfit.ANDpre16450witchery/ingredient-74.png16460witchery/ingredient-102.png16470witchery/ingredient-72.pngrewardsItemwitchery/brewbag-0.pngBrew Bag
-1Itemenhancedlootbags/lootbag-53-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
+1Itemenhancedlootbags/lootbag-53-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-102.pngGolden Thread
 3witchery/ingredient-74.pngCreeper Heart
 1minecraft/glowstone_dust-0.pngGlowstone Dust
 1witchery/ingredient-72.pngImpregnated Leather
-11Retrievalwitchery/witchhat-0.pngWitches'' Hat\nHow original... a pointy hat.\n+35% chance of second brew\nProtection: 1\nDurability: 55/55
-1witchery/witchrobe-0.pngWitches Robes\nFor the discerning witch about town.\nCreepers will ignore the wearer.\n+35% chance of second brew (except necromantic)\nProtection: 3\nDurability: 80/80
+11Retrievalwitchery/witchhat-0.pngWitches'' Hat;How original... a pointy hat.;+35% chance of second brew;Protection: 1;Durability: 55/55
+1witchery/witchrobe-0.pngWitches Robes;For the discerning witch about town.;Creepers will ignore the wearer.;+35% chance of second brew (except necromantic);Protection: 3;Durability: 80/80
 1

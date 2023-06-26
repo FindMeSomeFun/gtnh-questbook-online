@@ -1,10 +1,10 @@
-1674gregtech/gt.metaitem.03-32080.png0§b§lCheaper MV Circuits8-1With the IV circuit assembler and SoCs you can now make integrated processors for a reduced price.ANDpre14070gregtech/gt.blockmachines-594.png16731gregtech/gt.metaitem.03-32047.pngrewardsChoicegregtech/gt.metaitem.03-32047.pngSoC\nSystem on a Chip
-4gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
-8enhancedlootbags/lootbag-8.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1674gregtech/gt.metaitem.03-32080.png0§b§lCheaper MV Circuits8-1With the IV circuit assembler and SoCs you can now make integrated processors for a reduced price.ANDpre14070gregtech/gt.blockmachines-594.png16731gregtech/gt.metaitem.03-32047.pngrewardsChoicegregtech/gt.metaitem.03-32047.pngSoC;System on a Chip
+4gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+8enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board\nA good Board
-32gregtech/gt.metaitem.03-32047.pngSoC\nSystem on a Chip
-32gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wire\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-128gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt\nCu
-128Retrievalgregtech/gt.metaitem.03-32080.pngIntegrated Processor\nA Good Circuit\nMV-Tier
+2tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+32gregtech/gt.metaitem.03-32047.pngSoC;System on a Chip
+32gregtech/gt.metaitem.02-19308.pngFine Red Alloy Wire;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+128gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt;Cu
+128Retrievalgregtech/gt.metaitem.03-32080.pngIntegrated Processor;A Good Circuit;MV-Tier
 32

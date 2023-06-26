@@ -5,7 +5,7 @@ Use the assembler to save materials.ANDpre8221GalacticraftCore/item.oxygenG
 16gregtech/gt.metaitem.02-32418.pngBlue Dye
 16gregtech/gt.metaitem.02-32416.pngGreen Dye
 16gregtech/gt.metaitem.02-32425.pngYellow Dye
-16enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalGalacticraftCore/item.parachute-0.pngParachute
 1

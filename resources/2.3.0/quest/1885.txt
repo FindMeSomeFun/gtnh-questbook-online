@@ -1,4 +1,4 @@
 1885IC2/blockCrop-0.png0Wood for Sheep?40144000No thanks! But how about some crop sticks for coins and a log?ANDpre7180IC2/blockCrop-0.pngrewardsItemIC2/blockCrop-0.pngCrop
-64tasksANDConsumeminecraft/log-0.pngOak Wood\nBurn Time: 300
+64tasksANDConsumeminecraft/log-0.pngOak Wood;Burn Time: 300
 1dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 50

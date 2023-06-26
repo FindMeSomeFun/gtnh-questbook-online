@@ -1,6 +1,6 @@
 2617gregtech/gt.metaitem.01-32658.png1Harder, Better, Faster, Stronger... Pt 1 in UHV12-1You can play other games you know?ANDpre26161gregtech/gt.blockmachines-19.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32596.pngElectric Motor
 1gregtech/gt.metaitem.01-32648.pngElectric Piston
-1gregtech/gt.metaitem.01-32638.pngConveyor Module\n16 stacks every 1/20 sec (as Cover)
-1gregtech/gt.metaitem.01-32618.pngElectric Pump\n1,048,576 L/t (20,971,520 L/s) as Cover
-1gregtech/gt.metaitem.01-32658.pngRobot Arm\nCannot be used as a Cover
+1gregtech/gt.metaitem.01-32638.pngConveyor Module;16 stacks every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32618.pngElectric Pump;1,048,576 L/t (20,971,520 L/s) as Cover
+1gregtech/gt.metaitem.01-32658.pngRobot Arm;Cannot be used as a Cover
 1

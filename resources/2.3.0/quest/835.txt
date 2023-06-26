@@ -1,10 +1,10 @@
 835gregtech/gt.metaitem.01-32716.png1§5§4§3§lResistor3-1Every basic circuit needs two resistors to work.
 
-There are better versions you can make later.ANDpre671gregtech/gt.blockmachines-1360.pngrewardsItemharvestcraft/blueberrysmoothieItem-0.pngBlueberry Smoothie\nharvestcraft:blueberrysmoothieItem
+There are better versions you can make later.ANDpre671gregtech/gt.blockmachines-1360.pngrewardsItemharvestcraft/blueberrysmoothieItem-0.pngBlueberry Smoothie;harvestcraft:blueberrysmoothieItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire\nMax Voltage: 128 (MV)\nMax Amperage: 1\nLoss/Meter/Ampere: 4 EU-Volt
-4gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
-4gregtech/gt.metaitem.01-2535.pngCoal Dust\nC\nBurn Time: 1600
+15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
+4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+4gregtech/gt.metaitem.01-2535.pngCoal Dust;C;Burn Time: 1600
 2IC2/itemHarz-0.pngSticky Resin
-4Craftinggregtech/gt.metaitem.01-32716.pngResistor\nBasic Electronic Component
+4Craftinggregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
 2

@@ -1,5 +1,5 @@
-988EnderIO/blockCapBank-3-charged.png0§9§lBigger, Better, Chargier?6-1The Vibrant Capacitor Bank is the largest non-creative RF Battery from EIO. It can store 25 million RF in a single block.ANDpre1410EnderIO/itemMaterial-6.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+988EnderIO/blockCapBank-3-charged.png0§9§lBigger, Better, Chargier?6-1The Vibrant Capacitor Bank is the largest non-creative RF Battery from EIO. It can store 25 million RF in a single block.ANDpre1410EnderIO/itemMaterial-6.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalEnderIO/itemBasicCapacitor-2.pngOctadic Capacitor\nMachine Upgrade
-4RetrievalEnderIO/blockCapBank-3.pngVibrant Capacitor Bank\n0/25,000,000 RF
+5tasksANDOptionalEnderIO/itemBasicCapacitor-2.pngOctadic Capacitor;Machine Upgrade
+4RetrievalEnderIO/blockCapBank-3.pngVibrant Capacitor Bank;0/25,000,000 RF
 1

@@ -1,12 +1,12 @@
 497gregtech/gt.blockmachines-1155.png0§4§3§lLit Way to Get Charred3-1You have found an alternative way of making charcoal with a "charcoal pile igniter". 
-Go and start getting massive amounts of charcoal.ANDpre4781minecraft/flint_and_steel-0.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
-2gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
-4Choicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot\nFe\u2085\u2080C
-4enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+Go and start getting massive amounts of charcoal.ANDpre4781minecraft/flint_and_steel-0.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+2gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
+4Choicegregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot;Fe\u2085\u2080C
+4enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate\nSnCu\u2083
-4Optionalgregtech/gt.metaitem.02-21305.pngSteel Rotor\nFe\u2085\u2080C
+10tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate;SnCu\u2083
+4Optionalgregtech/gt.metaitem.02-21305.pngSteel Rotor;Fe\u2085\u2080C
 1minecraft/flint_and_steel-0.pngFlint and Steel
-1gregtech/gt.blockmachines-4.pngBricked Wrought Iron Hull\nFor improved Steam Machines
-1Craftinggregtech/gt.blockmachines-1155.pngCharcoal Pile Igniter\nMachine Type: Charcoal Pile Igniter\nController for the Charcoal Pit\nConverts Logs into Brittle Charcoal blocks\nWill automatically start when valid\nCauses: 100 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Gregtech
+1gregtech/gt.blockmachines-4.pngBricked Wrought Iron Hull;For improved Steam Machines
+1Craftinggregtech/gt.blockmachines-1155.pngCharcoal Pile Igniter;Machine Type: Charcoal Pile Igniter;Controller for the Charcoal Pit;Converts Logs into Brittle Charcoal blocks;Will automatically start when valid;Causes: 100 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

@@ -1,13 +1,13 @@
-936gregtech/gt.metaitem.01-32752.png0§a§lPower of the Sun at LV Level19-1The next solar panel you can make is the LV one. It generates 32 EU/t. You'll need to make some sunnarium first though.ANDpre9340gregtech/gt.metaitem.01-32751.png30780minecraft/nether_star-0.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
-2IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond\nBurn Time: 102400
-2enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+936gregtech/gt.metaitem.01-32752.png0§a§lPower of the Sun at LV Level19-1The next solar panel you can make is the LV one. It generates 32 EU/t. You'll need to make some sunnarium first though.ANDpre9340gregtech/gt.metaitem.01-32751.png30780minecraft/nether_star-0.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+2IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond;Burn Time: 102400
+2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
-2Optionalgregtech/gt.metaitem.01-32751.pngSolar Panel\n8 Volt Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
-4gregtech/gt.metaitem.01-17473.pngPolytetrafluoroethylene Sheet\nC\u2082F\u2084
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
+2Optionalgregtech/gt.metaitem.01-32751.pngSolar Panel;8 Volt Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.01-17473.pngPolytetrafluoroethylene Sheet;C\u2082F\u2084
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 2dreamcraft/item.IrradiantReinforcedAluminiumPlate-0.pngIrradiant Reinforced Aluminium Plate
-2gregtech/gt.blockmachines-2320.png1x Superconductor MV Wire\nMax Voltage: 128 (MV)\nMax Amperage: 4\nLoss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32752.pngSolar Panel\nLow Voltage Solar Panel (Needs cleaning with right click)
+2gregtech/gt.blockmachines-2320.png1x Superconductor MV Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 0 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32752.pngSolar Panel;Low Voltage Solar Panel (Needs cleaning with right click)
 1

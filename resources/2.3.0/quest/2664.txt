@@ -1,2 +1,2 @@
-2664gregtech/gt.metaitem.03-32099.png1Supercomputers... With Cells?12-1The Bioware Supercomputer is the third Bio Circuit. It's a UHV-Tier Circuit.ANDpre26631gregtech/gt.metaitem.03-32098.png26791miscutils/itemCellMutatedLivingSolder-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32099.pngBioware Supercomputer\nAn Infinite Circuit\nUHV-Tier
+2664gregtech/gt.metaitem.03-32099.png1Supercomputers... With Cells?12-1The Bioware Supercomputer is the third Bio Circuit. It's a UHV-Tier Circuit.ANDpre26631gregtech/gt.metaitem.03-32098.png26791miscutils/itemCellMutatedLivingSolder-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32099.pngBioware Supercomputer;An Infinite Circuit;UHV-Tier
 1

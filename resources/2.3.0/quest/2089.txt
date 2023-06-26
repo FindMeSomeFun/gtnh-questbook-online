@@ -2,8 +2,8 @@
 
 The Industrial Apiary is now a GT machine. It takes up to UV voltage and up to 4 amps but the base usage is just 37 eu/t. You can no longer use a World Accelerator and there is only the one machine, so no GT overclocking. Instead, there are new §oacceleration upgrades§r that act similar to a World Accelerator but are directly integrated into the machine. You will want to use them, they increase the speed and energy usage by a lot. The final tier also increases productivity.
 
-But I shouldn't drone on too long. Go make one and find out yourself.ANDpre11230Forestry/alveary-0.pngrewardsItemgregtech/gt.metaitem.03-32199.pngUpgrade Frame\nCrafting component
-4enhancedlootbags/lootbag-27.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1Itemkubatech/kubaitems-11.pngKuba''s Yellow Tea\nThis item is from\nTurbo Legendary Secret Tea Collection
-1tasksANDRetrievalgregtech/gt.blockmachines-9399.pngIndustrial Apiary\nBEES GOES BRRRR\nAuthor: kuba6000\nVoltage IN: 524,288 (UV)\nCapacity: 33,554,432 EU
+But I shouldn't drone on too long. Go make one and find out yourself.ANDpre11230Forestry/alveary-0.pngrewardsItemgregtech/gt.metaitem.03-32199.pngUpgrade Frame;Crafting component
+4enhancedlootbags/lootbag-27.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Itemkubatech/kubaitems-11.pngKuba''s Yellow Tea;This item is from;Turbo Legendary Secret Tea Collection
+1tasksANDRetrievalgregtech/gt.blockmachines-9399.pngIndustrial Apiary;BEES GOES BRRRR;Author: kuba6000;Voltage IN: 524,288 (UV);Capacity: 33,554,432 EU
 1

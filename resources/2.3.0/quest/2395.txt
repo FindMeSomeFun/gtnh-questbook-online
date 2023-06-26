@@ -1,8 +1,8 @@
-2395miscutils/item.BasicGenericChemItem-13.png0Formaldehyde Catalyst24-1Making Formaldehyde will require a catalyst. You can make it by mixing Iron and Vanadium, and placing the mix into a carrier.ANDpre26881miscutils/RocketFuelMixC-0.pngrewardsItemmiscutils/itemDustFormaldehydeCatalyst-0.pngFormaldehyde Catalyst Dust\nFe\u2081\u2086V\u2081
+2395miscutils/item.BasicGenericChemItem-13.png0Formaldehyde Catalyst24-1Making Formaldehyde will require a catalyst. You can make it by mixing Iron and Vanadium, and placing the mix into a carrier.ANDpre26881miscutils/RocketFuelMixC-0.pngrewardsItemmiscutils/itemDustFormaldehydeCatalyst-0.pngFormaldehyde Catalyst Dust;Fe\u2081\u2086V\u2081
 4dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksANDOptionalgregtech/gt.metaitem.01-2032.pngIron Dust\nFe
-16gregtech/gt.metaitem.01-2029.pngVanadium Dust\nV
-1Optionalmiscutils/itemDustFormaldehydeCatalyst-0.pngFormaldehyde Catalyst Dust\nFe\u2081\u2086V\u2081
-4Retrievalmiscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst\nActive Reaction Agent\n50 / 50
+5enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDOptionalgregtech/gt.metaitem.01-2032.pngIron Dust;Fe
+16gregtech/gt.metaitem.01-2029.pngVanadium Dust;V
+1Optionalmiscutils/itemDustFormaldehydeCatalyst-0.pngFormaldehyde Catalyst Dust;Fe\u2081\u2086V\u2081
+4Retrievalmiscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst;Active Reaction Agent;50 / 50
 1

@@ -1,7 +1,7 @@
-444gregtech/gt.metatool.01-14-Wood-Wood.png1§1§lSoft Mallet Adventure0-1You now have some melon slices or pumpkins but what can you do with them? Well just eat them or... use a mallet to get some seeds... OK, let's craft one. Perhaps you can use this mallet for some other things too.ANDpre91minecraft/furnace-0.pngrewardsChoiceminecraft/melon-0.pngMelon\nminecraft:melon
+444gregtech/gt.metatool.01-14-Wood-Wood.png1§1§lSoft Mallet Adventure0-1You now have some melon slices or pumpkins but what can you do with them? Well just eat them or... use a mallet to get some seeds... OK, let's craft one. Perhaps you can use this mallet for some other things too.ANDpre91minecraft/furnace-0.pngrewardsChoiceminecraft/melon-0.pngMelon;minecraft:melon
 2minecraft/pumpkin-0.pngPumpkin
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalminecraft/stick-0.pngStick\nBurn Time: 100
-1minecraft/planks-0.pngOak Wood Planks\nBurn Time: 300
-6Craftinggregtech/gt.metatool.01-14-Wood-Wood.pngSoft Mallet\nDurability: 12,800 / 12,800\nWood lvl 0\nAttack Damage: 3.0\nMining Speed: 0.2\nActivates and Deactivates Machines
+5tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
+1minecraft/planks-0.pngOak Wood Planks;Burn Time: 300
+6Craftinggregtech/gt.metatool.01-14-Wood-Wood.pngSoft Mallet;Durability: 12,800 / 12,800;Wood lvl 0;Attack Damage: 3.0;Mining Speed: 0.2;Activates and Deactivates Machines
 1

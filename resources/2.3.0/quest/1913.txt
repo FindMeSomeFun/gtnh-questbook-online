@@ -4,8 +4,8 @@ To duplicate a Fortune III book you may need 40+ levels. Note that the wiki ment
 
 §3You'll need some Thaumium ingots. You can get into Thaumcraft, find some in a chest, or try breeding the Magic Metal Berry IC2 crop.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemminecraft/experience_bottle-0.pngBottle o'' Enchanting
 8Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalBiblioCraft/item.BiblioChase-0.pngPrint Press Chase
-1BiblioCraft/Typesetting Machine-0.pngTypesetting Table\nBurn Time: 300
+1BiblioCraft/Typesetting Machine-0.pngTypesetting Table;Burn Time: 300
 1BiblioCraft/Printing Press-0.pngPrinting Press
 1

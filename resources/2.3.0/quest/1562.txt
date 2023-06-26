@@ -8,12 +8,12 @@ The Brew of Love is created in a kettle using the recipe found in the book Witch
 
 Wear a Witches Hat (and/or robes) while brewing to get more brews than just three.ANDpre3360witchery/kettle-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
 16witchery/ingredient-27.pngClay Jar
-64enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+64enhancedlootbags/lootbag-53.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalminecraft/red_flower-0.pngPoppy
-1minecraft/golden_carrot-0.pngGolden Carrot\nminecraft:golden_carrot
+1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
 1minecraft/waterlily-0.pngLily Pad
 1witchery/ingredient-69.pngWater Artichoke Globe
 1minecraft/dye-3.pngCocoa Beans

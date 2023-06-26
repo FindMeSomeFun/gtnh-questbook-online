@@ -2,15 +2,15 @@
 
 Use a soldering iron to attach an electron tube to a circuit board.ANDpre5810Forestry/thermionicTubes-10.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
 4Forestry/canSeedOil-0.pngSeed Oil Can
-16enhancedlootbags/lootbag-19.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+16enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-25tasksANDOptionalgregtech/gt.metaitem.02-22032.pngLong Iron Rod\nFe
-2gregtech/gt.metaitem.02-22086.pngLong Gold Rod\nAu
-2gregtech/gt.metaitem.02-22500.pngLong Diamond Rod\nC
-2gregtech/gt.metaitem.01-26086.pngGold Bolt\nAu
-6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate\nCu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-3gregtech/gt.metaitem.02-19035.pngFine Copper Wire\nCu
-6minecraft/glass-0.pngGlass\nGlass-Tier: HV
+25tasksANDOptionalgregtech/gt.metaitem.02-22032.pngLong Iron Rod;Fe
+2gregtech/gt.metaitem.02-22086.pngLong Gold Rod;Au
+2gregtech/gt.metaitem.02-22500.pngLong Diamond Rod;C
+2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
+6gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+3gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+6minecraft/glass-0.pngGlass;Glass-Tier: HV
 6RetrievalForestry/thermionicTubes-3.pngIron Electron Tube
 2Forestry/thermionicTubes-4.pngGolden Electron Tube
 2Forestry/thermionicTubes-5.pngDiamantine Electron Tube

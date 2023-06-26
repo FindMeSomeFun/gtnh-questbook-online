@@ -6,14 +6,14 @@ Experiment with NEI to find other good bolt materials.
 
 To make it, you must use a Fluid Solidifer instead of the Tinker's casting table.
 
-§4You'll need to get the molten iron out of the smeltery and into the fluid solidifier, the GT molten iron won't work.ANDpre11500TConstruct/Crossbow-0-288.png11551gregtech/gt.blockmachines-521.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot\nAi
-5enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§4You'll need to get the molten iron out of the smeltery and into the fluid solidifier, the GT molten iron won't work.ANDpre11500TConstruct/Crossbow-0-288.png11551gregtech/gt.blockmachines-521.pngrewardsItemgregtech/gt.metaitem.01-11382.pngArdite Ingot;Ai
+5enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalTConstruct/woodPattern-24.pngFletching Pattern\nMaterial Cost: 1
-1TConstruct/metalPattern-1.pngTool Rod Cast\nMaterial Cost: 0.5
-1RetrievalTConstruct/fletching-1.pngLeaf Fletching\nStonebound [Modifier: 1]\nDurability: 2.5x\nBreak Chance: 0%\nAccuracy: 75%\nParts can be replaced
-1RetrievalTGregworks/tGregToolPartToolRod-1602.pngMagnalium Tool Rod\nDurability Modifier: 1.5x\nParts can be replaced
-1RetrievalTConstruct/BoltPart-1602-2.pngMagnalium Bolt\nDurability: 192\nBreak Chance: 90%\nWeight: 0.12\nParts can be replaced
-1RetrievalTConstruct/BoltAmmo-0-705.pngIron Bolts\nReinforced I\nTool Level: 01-Abused\n+3 Attack Damage
+15tasksANDOptionalTConstruct/woodPattern-24.pngFletching Pattern;Material Cost: 1
+1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
+1RetrievalTConstruct/fletching-1.pngLeaf Fletching;Stonebound [Modifier: 1];Durability: 2.5x;Break Chance: 0%;Accuracy: 75%;Parts can be replaced
+1RetrievalTGregworks/tGregToolPartToolRod-1602.pngMagnalium Tool Rod;Durability Modifier: 1.5x;Parts can be replaced
+1RetrievalTConstruct/BoltPart-1602-2.pngMagnalium Bolt;Durability: 192;Break Chance: 90%;Weight: 0.12;Parts can be replaced
+1RetrievalTConstruct/BoltAmmo-0-705.pngIron Bolts;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
 1

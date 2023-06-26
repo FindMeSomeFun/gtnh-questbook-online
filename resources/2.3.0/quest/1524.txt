@@ -4,7 +4,7 @@ Check "fletching" under NEI for fletching options.
 
 Good hunting!ANDpre9511gregtech/gt.blockmachines-522.pngrewardsItemminecraft/spawn_egg-61.pngSpawn Blaze
 1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-11371.pngVanadiumsteel Ingot\nVCr(Fe\u2085\u2080C)\u2087
-1OptionalTGregworks/tGregToolPartToolRod-1602.pngMagnalium Tool Rod\nDurability Modifier: 1.5x\nParts can be replaced
-1RetrievalTConstruct/BoltPart-1602-1650.pngMagnalium Bolt\nDurability: 192\nBreak Chance: 90%\nWeight: 0.12\nParts can be replaced
+5tasksANDOptionalgregtech/gt.metaitem.01-11371.pngVanadiumsteel Ingot;VCr(Fe\u2085\u2080C)\u2087
+1OptionalTGregworks/tGregToolPartToolRod-1602.pngMagnalium Tool Rod;Durability Modifier: 1.5x;Parts can be replaced
+1RetrievalTConstruct/BoltPart-1602-1650.pngMagnalium Bolt;Durability: 192;Break Chance: 90%;Weight: 0.12;Parts can be replaced
 1

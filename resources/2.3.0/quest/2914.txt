@@ -2,14 +2,14 @@
 
 You can make it with your EBF now using Cobaltite Ore from the Twilight Forest and Oxygen to get Cobalt. It's a little complicated, but you also get arsenic out of it.
 
-§3You can also just electrolyze it out in MV, which is what you §oshould§r§3 be doing instead of this, assuming you actually need it.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot\nFe\u2085\u2080C
-8gregtech/gt.metaitem.01-11300.pngBronze Ingot\nSnCu\u2083
-16enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3You can also just electrolyze it out in MV, which is what you §oshould§r§3 be doing instead of this, assuming you actually need it.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+8gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
+16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-2827.pngCobaltite Dust\nCoAsS
-16gregtech/gt.metaitem.01-30013.pngOxygen Cell\nO
+15tasksANDRetrievalgregtech/gt.metaitem.01-2827.pngCobaltite Dust;CoAsS
+16gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
 48Retrievalgregtech/gt.metaitem.01-2551.pngRoasted Cobalt Dust
-16gregtech/gt.metaitem.01-2010.pngCarbon Dust\nC
-8Retrievalgregtech/gt.metaitem.01-11033.pngCobalt Ingot\nCo
+16gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
+8Retrievalgregtech/gt.metaitem.01-11033.pngCobalt Ingot;Co
 24

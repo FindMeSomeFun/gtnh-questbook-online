@@ -1,6 +1,6 @@
-312ThaumicTinkerer/ichorclothLegsGem-0.png0Unleashed the Power - Leggings33-1To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3130ThaumicTinkerer/ichorclothLegs-0.png3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-13.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+312ThaumicTinkerer/ichorclothLegsGem-0.png0Unleashed the Power - Leggings33-1To make use of your armor to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3130ThaumicTinkerer/ichorclothLegs-0.png3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-13.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/ichorclothLegsGem-0.pngLeggings of the Burning Mantle\nVis discount: 10%\nProvides SpaceSuit capability.\nProvides full hazmat protection.\nWarping 3\nProtection: 6
+5tasksANDRetrievalThaumicTinkerer/ichorclothLegsGem-0.pngLeggings of the Burning Mantle;Vis discount: 10%;Provides SpaceSuit capability.;Provides full hazmat protection.;Warping 3;Protection: 6
 1

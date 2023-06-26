@@ -2,8 +2,8 @@
 
 Hint: Goes pretty well with item pipes or GT machines, adjust with a screwdriver.
 
-§3PS: Covers have a Shift-Right-Click interface now!ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet\nC\u2085H\u2088
-8enhancedlootbags/lootbag-4.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3PS: Covers have a Shift-Right-Click interface now!ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+8enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.metaitem.01-32630.pngConveyor Module\n1 stack every 20 secs (as Cover)
+3tasksANDRetrievalgregtech/gt.metaitem.01-32630.pngConveyor Module;1 stack every 20 secs (as Cover)
 1

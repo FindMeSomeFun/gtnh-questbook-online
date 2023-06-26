@@ -1,5 +1,5 @@
-616gregtech/gt.metaitem.01-30087.png0§5§lMercury4-1Mercury can be centrifuged out of redstone. If you find some cinnabar ore in a redstone vein or one of the infused stone veins you can use that too.ANDpre6170gregtech/gt.blockmachines-431.pngrewardsItemgregtech/gt.blockores-826.pngCinnabar Ore\nHgS
+616gregtech/gt.metaitem.01-30087.png0§5§lMercury4-1Mercury can be centrifuged out of redstone. If you find some cinnabar ore in a redstone vein or one of the infused stone veins you can use that too.ANDpre6170gregtech/gt.blockmachines-431.pngrewardsItemgregtech/gt.blockores-826.pngCinnabar Ore;HgS
 8Thaumcraft/ItemResource-3.pngQuicksilver
 4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-30087.pngMercury Cell\nHg
+15tasksANDRetrievalgregtech/gt.metaitem.01-30087.pngMercury Cell;Hg
 1

@@ -1,6 +1,6 @@
 715AWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-13.png0Imbued Spell Upgrades37-1With these new shards you're able to craft the most powerful spell components. Maybe it's time to upgrade your mining spell?ANDpre7031AWWayofTime/bloodMagicBaseItems-28.pngrewardsItemAWWayofTime/bloodMagicBaseItems-29.pngSoul Shard
 4AWWayofTime/bloodMagicBaseItems-28.pngLife Shard
-4enhancedlootbags/lootbag-18.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4enhancedlootbags/lootbag-18.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
 5tasksANDRetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-3.pngImbued Spell Empowerer
 1AWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-8.pngImbued Spell Dampener

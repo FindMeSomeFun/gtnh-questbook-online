@@ -4,13 +4,13 @@ Be sure to bring a tough companion along to keep you alive. If you have no frien
 
 Also, §lwhen§r you die here, not if, your graves will spawn skeletons because of the darkness. Make sure you light up areas where you might die, and when recovering graves light up the area §lfirst§r so that you don't end up dying over and over and making a mess.
 
-Watch out for some mobs! They'll take minimal damage from any weapon that is not their weakness. So if you seem to not be doing much damage, you probably aren't! Think about other options to hurt/kill the monster.ANDpre4781minecraft/flint_and_steel-0.pngrewardsItemNatura/natura.armor.imphelmet-0-enchanted.pngImpskin Helmet\nProtection I\nFire Protection I\nProtection: 1\nDurability: 363/363
-1Natura/natura.armor.impjerkin-0-enchanted.pngImpskin Jerkin\nBlast Protection I\nFire Protection I\nProtection: 3\nDurability: 528/528
-1Natura/natura.armor.impleggings-0-enchanted.pngImpskin Leggings\nProjectile Protection I\nFire Protection I\nProtection: 2\nDurability: 495/495
-1Natura/natura.armor.impboots-0-enchanted.pngImpskin Boots\nFeather Falling I\nFire Protection I\nProtection: 1\nDurability: 429/429
+Watch out for some mobs! They'll take minimal damage from any weapon that is not their weakness. So if you seem to not be doing much damage, you probably aren't! Think about other options to hurt/kill the monster.ANDpre4781minecraft/flint_and_steel-0.pngrewardsItemNatura/natura.armor.imphelmet-0-enchanted.pngImpskin Helmet;Protection I;Fire Protection I;Protection: 1;Durability: 363/363
+1Natura/natura.armor.impjerkin-0-enchanted.pngImpskin Jerkin;Blast Protection I;Fire Protection I;Protection: 3;Durability: 528/528
+1Natura/natura.armor.impleggings-0-enchanted.pngImpskin Leggings;Projectile Protection I;Fire Protection I;Protection: 2;Durability: 495/495
+1Natura/natura.armor.impboots-0-enchanted.pngImpskin Boots;Feather Falling I;Fire Protection I;Protection: 1;Durability: 429/429
 1Choiceminecraft/flint_and_steel-0.pngFlint and Steel
-1TConstruct/materials-7.pngLava Crystal\nTool Modifier: Auto-Smelt
-1enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1TConstruct/materials-7.pngLava Crystal;Tool Modifier: Auto-Smelt
+1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1minecraft/spawn_egg-99.pngSpawn Iron Golem
 1minecraft/spawn_egg-97.pngSpawn Snow Golem
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

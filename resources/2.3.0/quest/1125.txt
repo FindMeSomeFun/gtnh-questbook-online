@@ -1,13 +1,13 @@
 1125JABBA/upgradeStructural-1.png0§3§lBarrel Upgrades Tier 23-1Are your upgraded cobblestone or dirt barrels full again? No problem, upgrade them some more!ANDpre11240JABBA/upgradeStructural-0.pngrewardsChoiceminecraft/piston-0.pngPiston
-2JABBA/upgradeStructural-2.pngStructural MK III\nSlots Provided :7
-2enhancedlootbags/lootbag-2.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2JABBA/upgradeStructural-2.pngStructural MK III;Slots Provided :7
+2enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalJABBA/barrel-0.pngBetter Barrel
-1gregtech/gt.metaitem.01-17035.pngCopper Plate\nCu
-4gregtech/gt.metaitem.01-23035.pngCopper Rod\nCu
-4RetrievalJABBA/upgradeStructural-1.pngStructural MK II\nSlots Provided :3
+1gregtech/gt.metaitem.01-17035.pngCopper Plate;Cu
+4gregtech/gt.metaitem.01-23035.pngCopper Rod;Cu
+4RetrievalJABBA/upgradeStructural-1.pngStructural MK II;Slots Provided :3
 1OptionalJABBA/barrel-0.pngBetter Barrel
 2minecraft/piston-0.pngPiston
-2gregtech/gt.metaitem.01-27305.pngSteel Screw\nFe\u2085\u2080C
-8RetrievalJABBA/upgradeCore-0.pngStorage upgrade\nSlots Used :1\nIncreases the storage capacity by 64 stacks
+2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+8RetrievalJABBA/upgradeCore-0.pngStorage upgrade;Slots Used :1;Increases the storage capacity by 64 stacks
 2

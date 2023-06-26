@@ -6,5 +6,5 @@
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 7RetrievalTwilightForest/tile.TFFireJet-8.pngFire Jet
 1TwilightForest/tile.TFFireJet-0.pngSmoking block
-1TwilightForest/item.minotaurAxe-0.pngMinotaur Axe\nExtra damage while charging\n+7 Attack Damage\nDurability: 1561/1561
+1TwilightForest/item.minotaurAxe-0.pngMinotaur Axe;Extra damage while charging;+7 Attack Damage;Durability: 1561/1561
 1

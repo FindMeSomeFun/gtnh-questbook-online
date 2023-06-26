@@ -1,6 +1,6 @@
 587gregtech/gt.metaitem.01-23355.png0§5§lMagnetize Your Rods4-1Magnetic steel rods will §oneed§r a polariser to craft. You'll need them later on for MV Motors and MV hatches.ANDpre961gregtech/gt.blockmachines-551.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
 8minecraft/lever-0.pngLever
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDOptionalgregtech/gt.metaitem.01-23305.pngSteel Rod\nFe\u2085\u2080C
-16Retrievalgregtech/gt.metaitem.01-23355.pngMagnetic Steel Rod\nFe\u2085\u2080C
+3tasksANDOptionalgregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
+16Retrievalgregtech/gt.metaitem.01-23355.pngMagnetic Steel Rod;Fe\u2085\u2080C
 16

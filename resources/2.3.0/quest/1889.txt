@@ -1,11 +1,11 @@
-1889ExtraUtilities/defoliageAxe-0.png0Healing Axe 2.04012096000What, you lost the axe? Well you can craft your own if you dip into Thaumcraft a bit, but if you hate magic, here's another.ANDpre6000ExtraUtilities/defoliageAxe-0.pngrewardsItemExtraUtilities/defoliageAxe-0.pngHealing Axe\n+6 Attack Damage\nDurability: 1561/1561
-1tasksANDConsumeharvestcraft/delightedmealItem-0.pngDelighted Meal\nharvestcraft:delightedmealItem
-16harvestcraft/heartybreakfastItem-0.pngHearty Breakfast\nharvestcraft:heartybreakfastItem
-16harvestcraft/rainbowcurryItem-0.pngRainbow Curry\nharvestcraft:rainbowcurryItem
-16harvestcraft/supremepizzaItem-0.pngSupreme Pizza\nharvestcraft:supremepizzaItem
-16harvestcraft/sausageinbreadItem-0.pngSausage in Bread\nharvestcraft:sausageinbreadItem
-16harvestcraft/beefwellingtonItem-0.pngBeef Wellington\nharvestcraft:beefwellingtonItem
-16harvestcraft/epicbaconItem-0.pngEpic Bacon\nharvestcraft:epicbaconItem
-16harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza\nharvestcraft:meatfeastpizzaItem
+1889ExtraUtilities/defoliageAxe-0.png0Healing Axe 2.04012096000What, you lost the axe? Well you can craft your own if you dip into Thaumcraft a bit, but if you hate magic, here's another.ANDpre6000ExtraUtilities/defoliageAxe-0.pngrewardsItemExtraUtilities/defoliageAxe-0.pngHealing Axe;+6 Attack Damage;Durability: 1561/1561
+1tasksANDConsumeharvestcraft/delightedmealItem-0.pngDelighted Meal;harvestcraft:delightedmealItem
+16harvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
+16harvestcraft/rainbowcurryItem-0.pngRainbow Curry;harvestcraft:rainbowcurryItem
+16harvestcraft/supremepizzaItem-0.pngSupreme Pizza;harvestcraft:supremepizzaItem
+16harvestcraft/sausageinbreadItem-0.pngSausage in Bread;harvestcraft:sausageinbreadItem
+16harvestcraft/beefwellingtonItem-0.pngBeef Wellington;harvestcraft:beefwellingtonItem
+16harvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
+16harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
 16Consumedreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 1

@@ -1,5 +1,5 @@
 2255miscutils/frameArborists-0.png0Keep Calm and Bee On28-1This frame will let your bees last longer, and also increase the territory to help with tree breeding.ANDpre15140ExtraBees/hiveFrame.cocoa-0.pngrewardsItemForestry/apiculture-0.pngApiary
 8Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-2enhancedlootbags/lootbag-26-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1tasksANDRetrievalmiscutils/frameArborists-0.pngArborist Frame\nWho need Bees when you can have Trees?
+2enhancedlootbags/lootbag-26-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1tasksANDRetrievalmiscutils/frameArborists-0.pngArborist Frame;Who need Bees when you can have Trees?
 1

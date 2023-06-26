@@ -9,7 +9,7 @@ Rowan trees drop Rowan Berries, and you'll need to get some Alder Wood for your 
 16witchery/ingredient-27.pngClay Jar
 16Itemdreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-25tasksANDRetrievalwitchery/witchsapling-0.pngRowan Sapling\nBurn Time: 100
-1witchery/witchsapling-2.pngHawthorn Sapling\nBurn Time: 100
-1witchery/witchsapling-1.pngAlder Sapling\nBurn Time: 100
+25tasksANDRetrievalwitchery/witchsapling-0.pngRowan Sapling;Burn Time: 100
+1witchery/witchsapling-2.pngHawthorn Sapling;Burn Time: 100
+1witchery/witchsapling-1.pngAlder Sapling;Burn Time: 100
 1

@@ -1,2 +1,2 @@
-1364minecraft/lever-0.png0Trigger:MjolnirqLine-1Find a mjolnirANDprerewardstasksANDRetrievalEMT/TaintedMjolnir-0.pngBroken Relic of Mjolnir\nIt was once the Hammer of Thor.\nIt is now very dangerous.\nDo NOT right-click.\n+7 Attack Damage\nDurability: 1000/1000
+1364minecraft/lever-0.png0Trigger:MjolnirqLine-1Find a mjolnirANDprerewardstasksANDRetrievalEMT/TaintedMjolnir-0.pngBroken Relic of Mjolnir;It was once the Hammer of Thor.;It is now very dangerous.;Do NOT right-click.;+7 Attack Damage;Durability: 1000/1000
 1

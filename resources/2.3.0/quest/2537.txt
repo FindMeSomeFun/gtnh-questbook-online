@@ -4,8 +4,8 @@ Right-click on a network to see the power usage, and what makes up the network.
 Right-click on air to interact with it's inventory to store cards or turn facades transparent.
 Shift-right-click to remove fixtures (import bus, interface, etc) that don't take up a full block without removing the cable, or remove any AE block immediately the same way.
 
-The Network Visualizer does exactly what it says, it allows you to visualize the channels of your network. First, right-click a network to select it. At first you'll see everything, but you can change the modes by holding shift and scrolling the mouse wheel up or down to see different things. Remember that if you have a subnetwork, like one that P2P tunnels go through for example, those nodes won't show up since it's a different network, but the P2P tunnels entrances and exits will. This goes through solid objects, so you can look at your whole base.ANDpre12921appliedenergistics2/tile.BlockDrive-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+The Network Visualizer does exactly what it says, it allows you to visualize the channels of your network. First, right-click a network to select it. At first you'll see everything, but you can change the modes by holding shift and scrolling the mouse wheel up or down to see different things. Remember that if you have a subnetwork, like one that P2P tunnels go through for example, those nodes won't show up since it's a different network, but the P2P tunnels entrances and exits will. This goes through solid objects, so you can look at your whole base.ANDpre12921appliedenergistics2/tile.BlockDrive-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ToolNetworkTool-0.pngNetwork Tool
-1ae2stuff/Visualiser-0.pngNetwork Visualisation Tool\nMode: Show Everything
+1ae2stuff/Visualiser-0.pngNetwork Visualisation Tool;Mode: Show Everything
 1

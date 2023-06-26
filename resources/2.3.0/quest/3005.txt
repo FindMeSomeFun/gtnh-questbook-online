@@ -1,9 +1,9 @@
 3005gregtech/gt.blockmachines-1126.png0Distilled Heavy Fuel21-1You don't always have to crack the base fuels to get useful chemicals out of them. The best example of this is Heavy Fuel, whose recipe only has 3 outputs, but they're all excellent. This is the perfect format for a Distillation Tower automation, so get on it as soon as you can, you won't regret it!
 
 As a sidenote, all of these are power-dense, and can be used for power if you stockpile a lot of them. Benzene is the first one you should use for this purpose, if you wish to do it, because the other two are core chemicals for required progression in HV and EV. However, Benzene can also turn into several useful chemicals, so don't burn it all for power.ANDpre30010Thaumcraft/ItemResource-18-enchanted.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-20enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+20enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDRetrievalgregtech/gt.metaitem.01-30647.pngToluene Cell\nC\u2087H\u2088
-20gregtech/gt.metaitem.01-30687.pngPhenol Cell\nC\u2086H\u2086O
-20gregtech/gt.metaitem.01-30686.pngBenzene Cell\nC\u2086H\u2086
+1tasksANDRetrievalgregtech/gt.metaitem.01-30647.pngToluene Cell;C\u2087H\u2088
+20gregtech/gt.metaitem.01-30687.pngPhenol Cell;C\u2086H\u2086O
+20gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
 20

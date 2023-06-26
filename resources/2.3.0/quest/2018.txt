@@ -1,4 +1,4 @@
 2018gregtech/gt.blockmachines-254.png1§9§a§lCutting Up Stuff at EV7-1Now that you've reached EV you're going to need a more advanced cutting machine. Better get one built.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.blockmachines-254.pngAdvanced Cutting Machine III\nSlice''N Dice\nVoltage IN: 2,048 (EV)\nCapacity: 131,072 EU
+1enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1tasksANDRetrievalgregtech/gt.blockmachines-254.pngAdvanced Cutting Machine III;Slice''N Dice;Voltage IN: 2,048 (EV);Capacity: 131,072 EU
 1

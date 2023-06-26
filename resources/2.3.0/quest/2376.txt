@@ -13,10 +13,10 @@ It is possible to remove Curses by using a Potion of Purity.ANDpre23720Hard
 4HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
 2HardcoreEnderExpansion/living_matter-0.pngLiving Matter
-1enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n40 Knowledge Points
+5HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 6tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
 1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
 4

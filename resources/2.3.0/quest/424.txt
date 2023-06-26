@@ -1,4 +1,4 @@
-424AWWayofTime/magicianBloodOrb-0.png1Magican's Orb37-1Your tier 3 orb.ANDpre4211AWWayofTime/imbuedSlate-0.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+424AWWayofTime/magicianBloodOrb-0.png1Magican's Orb37-1Your tier 3 orb.ANDpre4211AWWayofTime/imbuedSlate-0.png8601gregtech/gt.metaitem.01-11028.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-2tasksANDRetrievalAWWayofTime/magicianBloodOrb-0.pngMagician''s Blood Orb\nStores raw Life Essence
+2tasksANDRetrievalAWWayofTime/magicianBloodOrb-0.pngMagician''s Blood Orb;Stores raw Life Essence
 1

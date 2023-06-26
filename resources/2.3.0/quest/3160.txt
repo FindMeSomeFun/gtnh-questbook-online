@@ -6,7 +6,7 @@ Remember: U233 is the early source of fuel, UF6 is the one you will switch to as
 
 Meanwhile, U Salt also processes into more fuel, but with a bonus of automated Phosphorous Dust. Unfortunately, you won't get a lot of it, but it is still a breeding output from the nuclear fission and is needed for GT++ alloys and other purposes.
 
-TB Salt is very similar to T Salt, but with higher amounts of the same output and also Beryllium Fluoride, whose output grows into more than what you used when you reach the later parts of the chain. Free Beryllium!ORpre31460gadomancy/BlockInfusionClaw-0.png31760miscutils/itemDustLFTRFuel1-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-31031.pngReactor Processing Unit I\nProcesses Nuclear things\nAdded by: Alkalus - [GT++]\nVoltage IN: 8,192 (IV)\nCapacity: 524,288 EU
-1gregtech/gt.blockmachines-31033.pngCold Trap I\nJust like the Arctic\nDoes not require ice cubes\nAdded by: Alkalus - [GT++]\nVoltage IN: 8,192 (IV)\nCapacity: 524,288 EU
-1Retrievalmiscutils/itemDustUranium233-0.pngUranium 233 Dust\n\u00b2\u00b3\u00b3U\nWarning: Radioactive!  Avoid direct handling without hazmat protection.\nHold Ctrl to show additional info.
+TB Salt is very similar to T Salt, but with higher amounts of the same output and also Beryllium Fluoride, whose output grows into more than what you used when you reach the later parts of the chain. Free Beryllium!ORpre31460gadomancy/BlockInfusionClaw-0.png31760miscutils/itemDustLFTRFuel1-0.pngrewardstasksANDOptionalgregtech/gt.blockmachines-31031.pngReactor Processing Unit I;Processes Nuclear things;Added by: Alkalus - [GT++];Voltage IN: 8,192 (IV);Capacity: 524,288 EU
+1gregtech/gt.blockmachines-31033.pngCold Trap I;Just like the Arctic;Does not require ice cubes;Added by: Alkalus - [GT++];Voltage IN: 8,192 (IV);Capacity: 524,288 EU
+1Retrievalmiscutils/itemDustUranium233-0.pngUranium 233 Dust;\u00b2\u00b3\u00b3U;Warning: Radioactive!  Avoid direct handling without hazmat protection.;Hold Ctrl to show additional info.
 1

@@ -5,28 +5,28 @@ You can zoom with the googles, have a extra inventory hotbar with the belt, step
 You get protection like with normal armor too.
 
 Later on you can upgrade your items to become more powerful ones.ANDpre1021gregtech/gt.blockmachines-251.png6890minecraft/diamond_chestplate-0.png8381IC2/itemPartCircuitAdv-0.pngrewardsChoiceharvestcraft/hardenedleatherItem-0.pngHardened Leather
-32gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
-16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
-2enhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+32gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 4Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-24500.pngDiamond Lens\nC
-2gregtech/gt.metaitem.01-17500.pngDiamond Plate\nC
-6gregtech/gt.metaitem.01-28303.pngElectrum Ring\nAgAu
-2gregtech/gt.metaitem.01-26303.pngElectrum Bolt\nAgAu
+5tasksANDOptionalgregtech/gt.metaitem.01-24500.pngDiamond Lens;C
+2gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+6gregtech/gt.metaitem.01-28303.pngElectrum Ring;AgAu
+2gregtech/gt.metaitem.01-26303.pngElectrum Bolt;AgAu
 1harvestcraft/hardenedleatherItem-0.pngHardened Leather
-17gregtech/gt.metaitem.01-17804.pngObsidian Plate\nMgFeSi\u2082O\u2088
-3minecraft/diamond_helmet-0.pngDiamond Helmet\nProtection: 3\nDurability: 363/363
-1minecraft/diamond_chestplate-0.pngDiamond Chestplate\nProtection: 8\nDurability: 528/528
-1minecraft/diamond_leggings-0.pngDiamond Leggings\nProtection: 6\nDurability: 495/495
-1minecraft/diamond_boots-0.pngDiamond Boots\nProtection: 3\nDurability: 429/429
-1TConstruct/fletching-0.pngFeather Fletching\nDurability: 1x\nBreak Chance: 5%\nAccuracy: 95%\nParts can be replaced
+17gregtech/gt.metaitem.01-17804.pngObsidian Plate;MgFeSi\u2082O\u2088
+3minecraft/diamond_helmet-0.pngDiamond Helmet;Protection: 3;Durability: 363/363
+1minecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
+1minecraft/diamond_leggings-0.pngDiamond Leggings;Protection: 6;Durability: 495/495
+1minecraft/diamond_boots-0.pngDiamond Boots;Protection: 3;Durability: 429/429
+1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
 4gregtech/gt.metaitem.01-32642.pngElectric Piston
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit\nHV-tier
-6RetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles\nAbility: Zoom with NONE\nToggle Abilities: NONE\nProtection: 4%\nProtection: 2\nDurability: 1035/1035
-1TConstruct/travelVest-0.pngTraveller''s Vest\nAbility: Swift Swim\nProtection: 10%\nProtection: 5\nDurability: 1035/1035
-1TConstruct/travelWings-0.pngTraveller''s Wings\nAbility: High Jump\nProtection: 8%\nProtection: 4\nDurability: 1035/1035
-1TConstruct/travelBelt-0.pngTraveller''s Belt\nAbility: Swap Hotbar\nControl: NONE
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+6RetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles;Ability: Zoom with NONE;Toggle Abilities: NONE;Protection: 4%;Protection: 2;Durability: 1035/1035
+1TConstruct/travelVest-0.pngTraveller''s Vest;Ability: Swift Swim;Protection: 10%;Protection: 5;Durability: 1035/1035
+1TConstruct/travelWings-0.pngTraveller''s Wings;Ability: High Jump;Protection: 8%;Protection: 4;Durability: 1035/1035
+1TConstruct/travelBelt-0.pngTraveller''s Belt;Ability: Swap Hotbar;Control: NONE
 1TConstruct/travelGlove-0.pngTraveller''s Gloves
-1TConstruct/travelBoots-0.pngTraveller''s Boots\nAbility: High Step\nProtection: 6%\nProtection: 1\nDurability: 1035/1035
+1TConstruct/travelBoots-0.pngTraveller''s Boots;Ability: High Step;Protection: 6%;Protection: 1;Durability: 1035/1035
 1

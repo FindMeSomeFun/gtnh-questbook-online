@@ -6,7 +6,7 @@ Drinking redstone soup will boost the health of the drinker for a few minutes.
 
 Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, Wool of Bat, Tongue of Dog, Belladonna and Mandrake Root.ANDpre3390witchery/chalkritual-0.png15710witchery/distilleryidle-0.pngrewardsChoicewitchery/ingredient-39.pngDrop of Luck
 1witchery/ingredient-25.pngTongue of Dog
-2enhancedlootbags/lootbag-54.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+2enhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"

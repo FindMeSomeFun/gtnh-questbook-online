@@ -1,23 +1,23 @@
 2385HardcoreEnderExpansion/charm-53.png0Master Grinder30144000After conquering most the of content inside of the End, it is time for a Master Quest. 
-Bring forth and slay the following and you shall receive some moderately great loot.ANDpre23830HardcoreEnderExpansion/curse-9.png23840HardcoreEnderExpansion/charm-2.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-10enhancedlootbags/lootbag-58-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III
-10enhancedlootbags/lootbag-10-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
+Bring forth and slay the following and you shall receive some moderately great loot.ANDpre23830HardcoreEnderExpansion/curse-9.png23840HardcoreEnderExpansion/charm-2.pngrewardsChoiceenhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+10enhancedlootbags/lootbag-58-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
+10enhancedlootbags/lootbag-10-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 10ItemHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
 64HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
-128minecraft/nether_star-0.pngNether Star\nApplicable up to: 08-Manyullyn
+128minecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
 32HardcoreEnderExpansion/auricion-0.pngAuricion
 64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Man\nminecraft:fish\nRadioactivity X
-1tasksANDConsumeminecraft/ender_pearl-0.pngEnder Pearl\n1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Man;minecraft:fish;Radioactivity X
+1tasksANDConsumeminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 1024minecraft/ender_eye-0.pngEye of Ender
 512HardcoreEnderExpansion/auricion-0.pngAuricion
 64HardcoreEnderExpansion/enderman_head-0.pngEnderman Head
 64HardcoreEnderExpansion/essence-1.pngFiery Essence
-512HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock\nBurn Time: 8000
+512HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
 256HardcoreEnderExpansion/fire_shard-0.pngInfernium
 256HardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
-32minecraft/bookshelf-0.pngBookshelf\nEnchantment Power: 1.0\nBurn Time: 300
-64minecraft/ender_chest-0.pngPersonal Ender Chest\nOnly For Personal Use
+32minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
+64minecraft/ender_chest-0.pngPersonal Ender Chest;Only For Personal Use
 8Consumeminecraft/enchanting_table-0.pngEnchantment Table
 8HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 16HardcoreEnderExpansion/rune-0.pngRune of Power

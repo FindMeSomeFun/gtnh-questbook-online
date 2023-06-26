@@ -1,6 +1,6 @@
 2872Forestry/sapling-0-orange.png0Orange16-1You can get Orange by combining Pomelo and Manderine.ANDpre28710Forestry/sapling-0-manderin.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-30enhancedlootbags/lootbag-19-enchanted.pngLootBag\nYour luck is increased by 100 %\nFortune III\nEnchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-pomelo.pngPomelo Sapling\nBurn Time: 100
-1Forestry/sapling-0-manderin.pngManderine Sapling\nBurn Time: 100
-1RetrievalForestry/sapling-0-orange.pngOrange Sapling\nBurn Time: 100
+30enhancedlootbags/lootbag-19-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1tasksANDOptionalForestry/sapling-0-pomelo.pngPomelo Sapling;Burn Time: 100
+1Forestry/sapling-0-manderin.pngManderine Sapling;Burn Time: 100
+1RetrievalForestry/sapling-0-orange.pngOrange Sapling;Burn Time: 100
 1

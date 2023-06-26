@@ -1,4 +1,4 @@
-2462AWWayofTime/ritualDismantler-0.png0Ritual Dismantler37-1Use this to quickly dismantle a ritual.ANDpre4280AWWayofTime/itemRitualDiviner-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2462AWWayofTime/ritualDismantler-0.png0Ritual Dismantler37-1Use this to quickly dismantle a ritual.ANDpre4280AWWayofTime/itemRitualDiviner-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-1tasksANDRetrievalAWWayofTime/ritualDismantler-0.pngRitual Dismantler\nYou can turn this upside down?
+1tasksANDRetrievalAWWayofTime/ritualDismantler-0.pngRitual Dismantler;You can turn this upside down?
 1

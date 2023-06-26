@@ -1,8 +1,8 @@
-832GalacticraftCore/item.basicItem-13.png1Wafers24-1The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.ANDpre27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer\nRaw Circuit
+832GalacticraftCore/item.basicItem-13.png1Wafers24-1The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.ANDpre27441GalacticraftCore/tile.rocketWorkbench-0.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
 4dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-2enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.03-32033.pngWafer\nRaw Circuit
+1tasksANDOptionalgregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
 12dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
 1RetrievalGalacticraftCore/item.basicItem-13.pngBasic Wafer
 12

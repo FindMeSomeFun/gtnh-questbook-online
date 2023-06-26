@@ -11,10 +11,10 @@ Taglocks can only be collected from players who are logged into the same world.
 Taglock kits are made by crafting a Glass Bottle with a Bone Needle.
 ANDpre3330witchery/altar-0.pngrewardsChoicewitchery/ingredient-163.pngWarm Blood
 4minecraft/glass_bottle-0.pngGlass Bottle
-64enhancedlootbags/lootbag-53.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+64enhancedlootbags/lootbag-53.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5tasksANDOptionalwitchery/ingredient-7.pngBone Needle
 16minecraft/glass_bottle-0.pngGlass Bottle
-16Retrievalwitchery/taglockkit-0.pngTaglock Kit\nNot bound
+16Retrievalwitchery/taglockkit-0.pngTaglock Kit;Not bound
 16

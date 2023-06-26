@@ -1,6 +1,6 @@
 3229Botania/manaResource-4.png1Terrasteel35-1To get some advanced tools and equipment you will need some terrasteel. This is done using a dedicated machine.ANDpre32281Botania/runeAltar-0.pngrewardsItemdreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
 15tasksANDRetrievalBotania/terraPlate-0.pngTerrestrial Agglomeration Plate
-1Botania/livingrock-0.pngLivingrock\nMobs cannot Spawn on this Block
+1Botania/livingrock-0.pngLivingrock;Mobs cannot Spawn on this Block
 5minecraft/lapis_block-0.pngLapis Lazuli Block
 4RetrievalBotania/manaResource-4.pngTerrasteel Ingot
 1

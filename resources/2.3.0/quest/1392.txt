@@ -1,7 +1,7 @@
 1392ThaumicTinkerer/focusShadowbeam-0.png0Wand Focus Shadow Beam34-1Wand Focus: Shadowbeam shoots a beam of energy that is reflected by any block and damages everything it passes through. The beam travels a rather short distance though. Consumes 0.15 Aer + 0.25 Ordo + 0.25 Perditio per cast.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13730Thaumcraft/FocusExcavation-0.png13740Thaumcraft/FocusShock-0.png13880ThaumicTinkerer/focusDeflect-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure\nClick to open or keep to trade
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.png13730Thaumcraft/FocusExcavation-0.png13740Thaumcraft/FocusShock-0.png13880ThaumicTinkerer/focusDeflect-0.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
 2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/focusShadowbeam-0.pngWand Focus: Shadowbeam\nVis per tick\n Aer x 3\n Ordo x 5\n Perditio x 5
+5tasksANDRetrievalThaumicTinkerer/focusShadowbeam-0.pngWand Focus: Shadowbeam;Vis per tick; Aer x 3; Ordo x 5; Perditio x 5
 1

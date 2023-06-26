@@ -1,4 +1,4 @@
-1598gregtech/gt.blockmachines-212.png1§6§lAvengers, Assemble! 25-1Time to make the MV version of the assembler.ANDpre8951gregtech/gt.metaitem.01-32631.png8971gregtech/gt.metaitem.01-32651.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1598gregtech/gt.blockmachines-212.png1§6§lAvengers, Assemble! 25-1Time to make the MV version of the assembler.ANDpre8951gregtech/gt.metaitem.01-32631.png8971gregtech/gt.metaitem.01-32651.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-212.pngAdvanced Assembling Machine\nAvengers, Assemble!\nVoltage IN: 128 (MV)\nCapacity: 8,192 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-212.pngAdvanced Assembling Machine;Avengers, Assemble!;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

@@ -1,12 +1,12 @@
 1891gregtech/gt.blockores-4841.png1§a§lCritical Materials7-1For more tungsten and tungstensteel, you'll want scheelite and tungstate. But the most important is desh, found only as small ore elsewhere, and used for the next rocket. Check Y 5-40.
 
-§3Since there's a good chance you have the MBM by now, you can do the crushed ore task §oinstead§r§3 of the ore one. This holds for other, similar quests.ANDpre1861GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+§3Since there's a good chance you have the MBM by now, you can do the crushed ore task §oinstead§r§3 of the ore one. This holds for other, similar quests.ANDpre1861GalacticraftMars/item.spaceshipTier2-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksORRetrievalgregtech/gt.blockores-4884.pngDesh Ore\nDe
-64gregtech/gt.blockores-4910.pngScheelite Ore\nWCaO\u2084
-32gregtech/gt.blockores-4841.pngTungstate Ore\nWLi\u2082O\u2084
-16Retrievalgregtech/gt.metaitem.01-5884.pngCrushed Desh Ore\nDe
-192gregtech/gt.metaitem.01-5910.pngCrushed Scheelite Ore\nWCaO\u2084
-96gregtech/gt.metaitem.01-5841.pngCrushed Tungstate Ore\nWLi\u2082O\u2084
+2tasksORRetrievalgregtech/gt.blockores-4884.pngDesh Ore;De
+64gregtech/gt.blockores-4910.pngScheelite Ore;WCaO\u2084
+32gregtech/gt.blockores-4841.pngTungstate Ore;WLi\u2082O\u2084
+16Retrievalgregtech/gt.metaitem.01-5884.pngCrushed Desh Ore;De
+192gregtech/gt.metaitem.01-5910.pngCrushed Scheelite Ore;WCaO\u2084
+96gregtech/gt.metaitem.01-5841.pngCrushed Tungstate Ore;WLi\u2082O\u2084
 48

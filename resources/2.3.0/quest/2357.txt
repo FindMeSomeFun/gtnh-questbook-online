@@ -5,17 +5,17 @@ Clusters can be moved using Energy Wand. Moving them too far or across dimension
 Blocks that use Energy will take it from Clusters up to 16 blocks away, and from the environment if placed in the End.
 
 Items that use Energy automatically refill in the End, or can be used on a Cluster to start and stop draining the Energy.ANDpre23560HardcoreEnderExpansion/auricion-0.pngrewardsItemHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
-32enhancedlootbags/lootbag-58.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+32enhancedlootbags/lootbag-58.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note\n65 Knowledge Points
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 2tasksANDOptionalHardcoreEnderExpansion/auricion-0.pngAuricion
 8HardcoreEnderExpansion/endium_block-0.pngEndium Block
 1RetrievalHardcoreEnderExpansion/energy_wand_core-0.pngEnergy Wand Core
 1RetrievalHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
 2OptionalHardcoreEnderExpansion/energy_wand_core-0.pngEnergy Wand Core
 1HardcoreEnderExpansion/obsidian_rod-0.pngObsidian Rod
-2gregtech/gt.metaitem.01-27028.pngTitanium Screw\nTi
+2gregtech/gt.metaitem.01-27028.pngTitanium Screw;Ti
 4RetrievalHardcoreEnderExpansion/energy_wand-0.pngEnergy Wand
 1

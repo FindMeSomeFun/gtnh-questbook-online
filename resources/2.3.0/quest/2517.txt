@@ -1,6 +1,6 @@
 2517thaumicenergistics/part.base-5.png0Magic Terminals27-1The Arcane Crafting Terminal is the terminal version on the Arcane Workbench. It can hold a set of vis discount gear in it's inventory in addition to a wand. You can also link a vis relay through the network to it to recharge the wand.
 
-The Essentia Terminal Works like the Fluid Terminal, but for essentia.ANDpre1851appliedenergistics2/item.ItemMultiPart-380.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...
+The Essentia Terminal Works like the Fluid Terminal, but for essentia.ANDpre1851appliedenergistics2/item.ItemMultiPart-380.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalthaumicenergistics/part.base-5.pngArcane Crafting Terminal

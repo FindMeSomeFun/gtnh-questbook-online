@@ -1,10 +1,10 @@
-1007AdvancedSolarPanel/BlockAdvSolarPanel-2.png0§b§lPower of the Sun 1x1 HV19-1Put those 512 EU panels on a block to make them placeable in the world.ANDpre10060gregtech/gt.metaitem.01-32754.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer\nRaw Circuit
-2gregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
-16enhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+1007AdvancedSolarPanel/BlockAdvSolarPanel-2.png0§b§lPower of the Sun 1x1 HV19-1Put those 512 EU panels on a block to make them placeable in the world.ANDpre10060gregtech/gt.metaitem.01-32754.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+2gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-32754.pngSolar Panel\nHigh Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery\nReusable\n0 / 1,600,000 EU - Voltage: 512\nHV-Tier
-1gregtech/gt.metaitem.01-32652.pngRobot Arm\n1 stack every 1 sec (as Cover)\nGrabs from and inserts into specific slots
-1gregtech/gt.blockmachines-13.pngHV Machine Hull\nYou just need Imagination to use this.\nVoltage IN: 512 (HV)\nVoltage OUT: 512 (HV)\nCapacity: 26,112 EU
+1tasksANDOptionalgregtech/gt.metaitem.01-32754.pngSolar Panel;High Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
+1gregtech/gt.metaitem.01-32652.pngRobot Arm;1 stack every 1 sec (as Cover);Grabs from and inserts into specific slots
+1gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
 1RetrievalAdvancedSolarPanel/BlockAdvSolarPanel-2.pngUltimate Hybrid Solar Panel
 1

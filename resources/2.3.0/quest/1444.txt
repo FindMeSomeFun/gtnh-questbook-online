@@ -1,11 +1,11 @@
 1444GalacticraftMars/item.titanium_chestplate-0.png0Compressed Titan Armor14-1The compressed titan armor has more durability than the compressed steel armor.ANDpre1621GalacticraftCore/item.spaceship-0.png14420Railcraft/armor.steel.plate-0.pngrewardsChoiceIC2/blockITNT-0.pngIndustrial TNT
 32GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
-4enhancedlootbags/lootbag-6.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
+4enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
-24RetrievalGalacticraftMars/item.titanium_helmet-0.pngTitanium Helmet\nProtection: 5\nDurability: 286/286
-1GalacticraftMars/item.titanium_chestplate-0.pngTitanium Chestplate\nProtection: 10\nDurability: 416/416
-1GalacticraftMars/item.titanium_leggings-0.pngTitanium Leggings\nProtection: 7\nDurability: 390/390
-1GalacticraftMars/item.titanium_boots-0.pngTitanium Boots\nProtection: 5\nDurability: 338/338
+24RetrievalGalacticraftMars/item.titanium_helmet-0.pngTitanium Helmet;Protection: 5;Durability: 286/286
+1GalacticraftMars/item.titanium_chestplate-0.pngTitanium Chestplate;Protection: 10;Durability: 416/416
+1GalacticraftMars/item.titanium_leggings-0.pngTitanium Leggings;Protection: 7;Durability: 390/390
+1GalacticraftMars/item.titanium_boots-0.pngTitanium Boots;Protection: 5;Durability: 338/338
 1

@@ -2,7 +2,7 @@
 
 Unfortunately, the next fuel, unlocked in EV, doesn't come from Diesel. It's a completely different processing line, should you wish to tackle it later.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemgregtech/gt.metaitem.01-30707.pngOil Cell
 32gregtech/gt.metaitem.01-30708.pngDiesel Cell
-16gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell\nCan be used as rocket fuel up to tier 2
+16gregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
 8Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-1112.pngTurbo Combustion Generator\nRequires liquid Fuel\nCauses 32 Pollution per second\nFuel Efficiency: 85%\nVoltage OUT: 512 (HV)\nCapacity: 41,472 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-1112.pngTurbo Combustion Generator;Requires liquid Fuel;Causes 32 Pollution per second;Fuel Efficiency: 85%;Voltage OUT: 512 (HV);Capacity: 41,472 EU
 1

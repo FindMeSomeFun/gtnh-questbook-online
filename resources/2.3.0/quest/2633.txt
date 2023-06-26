@@ -3,5 +3,5 @@
 §3You'll need a UHV Cutting Machine, or an OC'd multi to actually cut the wafers.
 
 
-ANDpre20411gregtech/gt.metaitem.03-32152.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32164.pngQPIC Wafer\nRaw Circuit
+ANDpre20411gregtech/gt.metaitem.03-32152.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32164.pngQPIC Wafer;Raw Circuit
 1

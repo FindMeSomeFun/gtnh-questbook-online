@@ -11,5 +11,5 @@ Export: Send to attached tank.
 
 You can use multiple as inputs and/or outputs. It runs at 8000L/t.
 
-You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardstasksANDRetrievaltectech/item.tm.enderfluidlinkcover-0.pngEnder Fluid Link Cover\nTecTech: Theta Movement\nEnder-Fluid-Enables Machines!\nUse on any side of a fluid tank to link it to the Ender\nEnder Tanks so are laggy -Bot from the Chads of NH
+You can send §ofrom§r an output hatch or §oto§r an input hatch for multis. Probably won't work well for anything with multiple I/O, like a SB Chemical Reactor.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardstasksANDRetrievaltectech/item.tm.enderfluidlinkcover-0.pngEnder Fluid Link Cover;TecTech: Theta Movement;Ender-Fluid-Enables Machines!;Use on any side of a fluid tank to link it to the Ender;Ender Tanks so are laggy -Bot from the Chads of NH
 2

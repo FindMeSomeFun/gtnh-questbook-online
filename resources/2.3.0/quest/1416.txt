@@ -2,13 +2,13 @@
 
 §3Can only have one energy hatch.
 
-The GT++ multiblocks you can now make are optional, but quite powerful upgrades to your current singleblock setups. Not only do they provide more speed, they also have a bit of advanced functionality: you can also electrolyze materials without using cells or use a single multiblock for many different extruder shapes. They also act as cleanrooms where needed.ANDpre2131gregtech/gt.blockmachines-15.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag\nYou feel that a bit more "Fortune" might be a good idea...\nEnchant with a Fortune III Book
-2gregtech/gt.metaitem.01-2028.pngTitanium Dust\nTi
-32miscutils/itemDustIncoloy020-0.pngIncoloy-020 Dust\nFe\u2081\u2080CuCr\u2085Ni\u2089\nHold Ctrl to show additional info.
-16miscutils/itemDustIncoloyMA956-0.pngIncoloy-MA956 Dust\nFe\u2081\u2086Al\u2083Cr\u2085Y\nHold Ctrl to show additional info.
-16miscutils/itemDustInconel625-0.pngInconel-625 Dust\nNi\u2083Cr\u2087Mo\u2081\u2080(Fe\u2082Ni)\u2081\u2080(Ni\u2084Cr)\u2081\u2083\nHold Ctrl to show additional info.
+The GT++ multiblocks you can now make are optional, but quite powerful upgrades to your current singleblock setups. Not only do they provide more speed, they also have a bit of advanced functionality: you can also electrolyze materials without using cells or use a single multiblock for many different extruder shapes. They also act as cleanrooms where needed.ANDpre2131gregtech/gt.blockmachines-15.pngrewardsChoiceenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+32miscutils/itemDustIncoloy020-0.pngIncoloy-020 Dust;Fe\u2081\u2080CuCr\u2085Ni\u2089;Hold Ctrl to show additional info.
+16miscutils/itemDustIncoloyMA956-0.pngIncoloy-MA956 Dust;Fe\u2081\u2086Al\u2083Cr\u2085Y;Hold Ctrl to show additional info.
+16miscutils/itemDustInconel625-0.pngInconel-625 Dust;Ni\u2083Cr\u2087Mo\u2081\u2080(Fe\u2082Ni)\u2081\u2080(Ni\u2084Cr)\u2081\u2083;Hold Ctrl to show additional info.
 16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalmiscutils/miscutils.blockcasings-14.pngBlast Smelter Heat Containment Coil\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-16Optionalmiscutils/miscutils.blockcasings-15.pngBlast Smelter Casing Block\nMobs cannot Spawn on this Block\nThis is NOT a TileEntity!
-13Retrievalgregtech/gt.blockmachines-810.pngAlloy Blast Smelter\nMachine Type: Fluid Alloy Cooker\nController Block for the Alloy Blast Smelter\n20% Faster than the Electric Blast Furnace\nAllows Complex GT++ alloys to be created\nAccepts only one Energy Hatch\nCircuit for recipe goes in the Input Bus or GUI slot\nCauses: 200 pollution per second\n-----------------------------------------\nHold [LSHIFT] to display structure guidelines\nAdded by: Alkalus - [GT++]
+1tasksANDOptionalmiscutils/miscutils.blockcasings-14.pngBlast Smelter Heat Containment Coil;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+16Optionalmiscutils/miscutils.blockcasings-15.pngBlast Smelter Casing Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+13Retrievalgregtech/gt.blockmachines-810.pngAlloy Blast Smelter;Machine Type: Fluid Alloy Cooker;Controller Block for the Alloy Blast Smelter;20% Faster than the Electric Blast Furnace;Allows Complex GT++ alloys to be created;Accepts only one Energy Hatch;Circuit for recipe goes in the Input Bus or GUI slot;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

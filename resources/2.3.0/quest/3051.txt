@@ -7,8 +7,8 @@ Go ahead and react it with some Iodine. If you're not too sure where to get Iodi
 Note that both the liquid and dust forms of iodine are optional, so you can complete the quest with one. Or none!
 
 ANDpre30490bartworks/gt.bwMetaGenerateddust-11001.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11001.pngLow-Purity Hafnium Dust\n??Hf??\nAdded by GTNH: Lanthanides via BartWorks
-1Optionalbartworks/gt.bwMetaGenerateddust-11012.pngIodine Dust\nI\nAdded by GTNH: Lanthanides via BartWorks
-1Optionalbartworks/gt.bwMetaGeneratedcell-11012.pngIodine Cell\nI\nAdded by GTNH: Lanthanides via BartWorks
-4Retrievalbartworks/gt.bwMetaGenerateddust-11005.pngHafnium Iodide Dust\nHfI\u2084\nAdded by GTNH: Lanthanides via BartWorks
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11001.pngLow-Purity Hafnium Dust;??Hf??;Added by GTNH: Lanthanides via BartWorks
+1Optionalbartworks/gt.bwMetaGenerateddust-11012.pngIodine Dust;I;Added by GTNH: Lanthanides via BartWorks
+1Optionalbartworks/gt.bwMetaGeneratedcell-11012.pngIodine Cell;I;Added by GTNH: Lanthanides via BartWorks
+4Retrievalbartworks/gt.bwMetaGenerateddust-11005.pngHafnium Iodide Dust;HfI\u2084;Added by GTNH: Lanthanides via BartWorks
 1
