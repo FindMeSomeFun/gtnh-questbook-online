@@ -3,7 +3,7 @@
 When you electrolyze the Zinc Sulfate, you get a Sulfur and 4000L Oxygen back too.ANDpre23221bartworks/gt.bwMetaGeneratedcell-62.pngrewardsChoicedreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-62.pngRhodium Sulfate Solution Cell;Added by BartWorks
-1gregtech/gt.metaitem.01-2036.pngZinc Dust;Zn
-1Retrievalbartworks/gt.bwMetaGenerateddust-79.pngCrude Rhodium Metal Dust;??Rh??;Added by BartWorks
-1bartworks/gt.bwMetaGenerateddust-84.pngZinc Sulfate Dust;ZnSO\u2084;Added by BartWorks
+1gregtech/gt.metaitem.01-2036.pngZinc Dust;Zn
+1Retrievalbartworks/gt.bwMetaGenerateddust-79.pngCrude Rhodium Metal Dust;??Rh??;Added by BartWorks
+1bartworks/gt.bwMetaGenerateddust-84.pngZinc Sulfate Dust;ZnSO\u2084;Added by BartWorks
 6

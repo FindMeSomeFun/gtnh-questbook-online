@@ -5,8 +5,8 @@ You can etch your board with it.ANDpre7501gregtech/gt.metaitem.01-17874.png
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-18gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-18Optionalgregtech/gt.metaitem.01-2032.pngIron Dust;Fe
-6gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
-18Retrievalgregtech/gt.metaitem.01-30693.pngIron III Chloride Cell;Cl\u2083Fe
+18gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
+18Optionalgregtech/gt.metaitem.01-2032.pngIron Dust;Fe
+6gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
+18Retrievalgregtech/gt.metaitem.01-30693.pngIron III Chloride Cell;Cl\u2083Fe
 6

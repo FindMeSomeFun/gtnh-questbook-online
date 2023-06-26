@@ -9,7 +9,7 @@ Every Armor has 3 slots for modofication.ANDpre17810TConstruct/travelVest-0
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDRetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles;Ability: Zoom with NONE;Toggle Abilities: NONE;Protection: 4%;Protection: 2;Durability: 1035/1035
-1minecraft/flint_and_steel-0.pngFlint and Steel
-1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
-1minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
+1minecraft/flint_and_steel-0.pngFlint and Steel
+1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
+1minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
 1

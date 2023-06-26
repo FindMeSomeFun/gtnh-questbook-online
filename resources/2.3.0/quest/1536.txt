@@ -6,6 +6,6 @@ So you can use this to create a moat around your base that drops mobs to the dea
 3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 15tasksANDOptionalRandomThings/ingredient-3.pngEctoplasm
-1minecraft/glass-0.pngGlass;Glass-Tier: HV
-8RetrievalRandomThings/spectreGlass-0.pngSpectre Glass;Glass-Tier: HV
+1minecraft/glass-0.pngGlass;Glass-Tier: HV
+8RetrievalRandomThings/spectreGlass-0.pngSpectre Glass;Glass-Tier: HV
 16

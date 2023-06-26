@@ -4,5 +4,5 @@
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5tasksANDHuntmobs/witchery-goblinmog-.pngGoblin Mog
-1Huntmobs/witchery-goblingulg-.pngGoblin Gulg
+1Huntmobs/witchery-goblingulg-.pngGoblin Gulg
 1

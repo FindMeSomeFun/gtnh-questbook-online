@@ -3,5 +3,5 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-5829.pngCrushed Deep Iron Ore;Sp\u2082Fe
-192gregtech/gt.metaitem.01-2868.pngTrinium Dust;Ke
+192gregtech/gt.metaitem.01-2868.pngTrinium Dust;Ke
 20

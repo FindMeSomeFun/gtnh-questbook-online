@@ -4,5 +4,5 @@ And contrary to the name, you use ceramic blocks here, not tiles.ANDpre19600
 1Botany/itemFlower-0-forget.pngForget-me-nots;Pale Blue, Green Stem;<Unknown>
 1Botany/itemFlower-0-althea.pngAlthea;Pale Purple and Light Purple, Dark Green Stem;<Unknown>
 1tasksANDRetrievalExtraTrees/machine-4.pngTileworker
-1Botany/misc-6.pngMortar
+1Botany/misc-6.pngMortar
 4

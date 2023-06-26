@@ -3,6 +3,6 @@
 1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-2856.pngSilicon Solar Grade;Si*
-32gregtech/gt.metaitem.03-32191.pngSmall Gallium Arsenide Crystal;For making boules
-1Retrievalgregtech/gt.metaitem.03-32030.pngMonocrystalline Silicon Boule;Raw Circuit
+32gregtech/gt.metaitem.03-32191.pngSmall Gallium Arsenide Crystal;For making boules
+1Retrievalgregtech/gt.metaitem.03-32030.pngMonocrystalline Silicon Boule;Raw Circuit
 1

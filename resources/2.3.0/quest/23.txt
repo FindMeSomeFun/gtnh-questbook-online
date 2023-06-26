@@ -4,5 +4,5 @@ Put it in a mortar to get small clay dust which can be crafted to clay dust.AND
 4harvestcraft/raisincookiesItem-0.pngRaisin Cookies;harvestcraft:raisincookiesItem
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDCraftingIguanaTweaksTConstruct/clayBucketUnfired-0.pngUnfired Clay Bucket
-1RetrievalIguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucket
+1RetrievalIguanaTweaksTConstruct/clayBucketFired-0.pngFired Clay Bucket
 1

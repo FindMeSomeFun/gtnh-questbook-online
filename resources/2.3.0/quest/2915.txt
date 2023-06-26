@@ -5,5 +5,5 @@ You can't get it through the Mixer yet, but there is a crafting recipe.ANDpre
 15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-2335.pngDamascus Steel Dust;Fe\u2085\u2080C
-64Retrievalgregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot;Fe\u2085\u2080C
+64Retrievalgregtech/gt.metaitem.01-11335.pngDamascus Steel Ingot;Fe\u2085\u2080C
 64

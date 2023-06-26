@@ -3,8 +3,8 @@
 4enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 2tasksANDOptionaldreamcraft/item.MediumFuelCanister-0.pngMedium Fuel Canister
-4dreamcraft/item.IceDualCompressedPlates-0.pngCompressed Dual Ice Plates
-2dreamcraft/item.QuantinumDualCompressedPlates-0.pngCompressed Dual Quantium Plates
-2gregtech/gt.metaitem.01-27030.pngChrome Screw;Cr
-8Retrievaldreamcraft/item.LargeFuelCanister-0.pngLarge Fuel Canister
+4dreamcraft/item.IceDualCompressedPlates-0.pngCompressed Dual Ice Plates
+2dreamcraft/item.QuantinumDualCompressedPlates-0.pngCompressed Dual Quantium Plates
+2gregtech/gt.metaitem.01-27030.pngChrome Screw;Cr
+8Retrievaldreamcraft/item.LargeFuelCanister-0.pngLarge Fuel Canister
 2

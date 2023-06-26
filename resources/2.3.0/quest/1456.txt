@@ -5,7 +5,7 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2;Rocket Module
-1GalacticraftMars/item.null-5.pngCompressed Desh
-6GalacticraftCore/item.steelPole-0.pngSteel Pole
-2RetrievalGalaxySpace/item.ModuleLander3-0.pngLander Tier 3;Rocket Module
+1GalacticraftMars/item.null-5.pngCompressed Desh
+6GalacticraftCore/item.steelPole-0.pngSteel Pole
+2RetrievalGalaxySpace/item.ModuleLander3-0.pngLander Tier 3;Rocket Module
 1

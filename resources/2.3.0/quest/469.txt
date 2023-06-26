@@ -2,7 +2,7 @@
 2Natura/BerryBush-2.pngBlackberry Bush;Sweet and black;Found in wet areas
 2Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 2tasksANDRetrievalNatura/berry-1.pngBlueberry;Natura:berry;Saturating!
-5Natura/berry-0.pngRaspberry;Natura:berry;Saturating!
-5RetrievalNatura/BerryBush-0.pngRaspberry Bush;Sweet and red;Found in warm areas
-5Natura/BerryBush-1.pngBlueberry Bush;Tart and blue;Found in temperate areas
+5Natura/berry-0.pngRaspberry;Natura:berry;Saturating!
+5RetrievalNatura/BerryBush-0.pngRaspberry Bush;Sweet and red;Found in warm areas
+5Natura/BerryBush-1.pngBlueberry Bush;Tart and blue;Found in temperate areas
 5

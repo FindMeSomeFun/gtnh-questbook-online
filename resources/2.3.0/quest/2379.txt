@@ -18,8 +18,8 @@ Reduces the cost of End Powder used in a brewing cycle.ANDpre23540HardcoreE
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;55 Knowledge Points
 2tasksANDRetrievalHardcoreEnderExpansion/enhanced_brewing_stand-0.pngEnhanced Brewing Stand
-1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
-6HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-5HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
-5minecraft/emerald-0.pngEmerald
+1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+6HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+5HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+5minecraft/emerald-0.pngEmerald
 5

@@ -4,6 +4,6 @@ As a sidenote, all of these are power-dense, and can be used for power if you st
 20enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDRetrievalgregtech/gt.metaitem.01-30647.pngToluene Cell;C\u2087H\u2088
-20gregtech/gt.metaitem.01-30687.pngPhenol Cell;C\u2086H\u2086O
-20gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+20gregtech/gt.metaitem.01-30687.pngPhenol Cell;C\u2086H\u2086O
+20gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
 20

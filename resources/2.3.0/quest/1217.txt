@@ -5,13 +5,13 @@ Use a soldering iron to attach an electron tube to a circuit board.ANDpre581
 16enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25tasksANDOptionalgregtech/gt.metaitem.02-22035.pngLong Copper Rod;Cu
-6gregtech/gt.metaitem.02-22057.pngLong Tin Rod;Sn
-6gregtech/gt.metaitem.02-22300.pngLong Bronze Rod;SnCu\u2083
-6gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
-18gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-9gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-18minecraft/glass-0.pngGlass;Glass-Tier: HV
-18RetrievalForestry/thermionicTubes-0.pngCopper Electron Tube
-6Forestry/thermionicTubes-1.pngTin Electron Tube
-6Forestry/thermionicTubes-2.pngBronze Electron Tube
+6gregtech/gt.metaitem.02-22057.pngLong Tin Rod;Sn
+6gregtech/gt.metaitem.02-22300.pngLong Bronze Rod;SnCu\u2083
+6gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
+18gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+9gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+18minecraft/glass-0.pngGlass;Glass-Tier: HV
+18RetrievalForestry/thermionicTubes-0.pngCopper Electron Tube
+6Forestry/thermionicTubes-1.pngTin Electron Tube
+6Forestry/thermionicTubes-2.pngBronze Electron Tube
 6

@@ -18,31 +18,31 @@ Neptune - T6
 1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksORRetrievalGalacticraftCore/tile.gcBlockCore-4.pngTin Decoration Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-4gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
-1RetrievalGalaxySpace/metalsblock-9.pngDecorative Copper Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-4gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
-1RetrievalGalaxySpace/metalsblock-5.pngDecorative Nickel Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6dreamcraft/item.CircuitEV-0.pngAny EV Circuit
-4gregtech/gt.blockmachines-14.pngEV Machine Hull;You just need Imagination to use this.;Voltage IN: 2,048 (EV);Voltage OUT: 2,048 (EV);Capacity: 102,912 EU
-1RetrievalGalaxySpace/metalsblock-6.pngDecorative Oriharukon Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6dreamcraft/item.CircuitIV-0.pngAny IV Circuit
-4gregtech/gt.blockmachines-15.pngIV Machine Hull;You just need Imagination to use this.;Voltage IN: 8,192 (IV);Voltage OUT: 8,192 (IV);Capacity: 410,112 EU
-1RetrievalGalaxySpace/metalsblock-4.pngDecorative Mithril Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6dreamcraft/item.CircuitLuV-0.pngAny LuV Circuit
-4gregtech/gt.blockmachines-16.pngLuV Machine Hull;You just need Imagination to use this.;Voltage IN: 32,768 (LuV);Voltage OUT: 32,768 (LuV);Capacity: 1,638,912 EU
-1RetrievalGalaxySpace/metalsblock-8.pngDecorative Tungsten Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6dreamcraft/item.CircuitLuV-0.pngAny LuV Circuit
-4gregtech/gt.blockmachines-16.pngLuV Machine Hull;You just need Imagination to use this.;Voltage IN: 32,768 (LuV);Voltage OUT: 32,768 (LuV);Capacity: 1,638,912 EU
-1RetrievalGalaxySpace/metalsblock-1.pngDecorative Adamantite Block
-231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-6dreamcraft/item.CircuitZPM-0.pngAny ZPM Circuit
-4gregtech/gt.blockmachines-17.pngZPM Machine Hull;You just need Imagination to use this.;Voltage IN: 131,072 (ZPM);Voltage OUT: 131,072 (ZPM);Capacity: 6,554,112 EU
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+4gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
+1RetrievalGalaxySpace/metalsblock-9.pngDecorative Copper Block
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+4gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
+1RetrievalGalaxySpace/metalsblock-5.pngDecorative Nickel Block
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6dreamcraft/item.CircuitEV-0.pngAny EV Circuit
+4gregtech/gt.blockmachines-14.pngEV Machine Hull;You just need Imagination to use this.;Voltage IN: 2,048 (EV);Voltage OUT: 2,048 (EV);Capacity: 102,912 EU
+1RetrievalGalaxySpace/metalsblock-6.pngDecorative Oriharukon Block
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6dreamcraft/item.CircuitIV-0.pngAny IV Circuit
+4gregtech/gt.blockmachines-15.pngIV Machine Hull;You just need Imagination to use this.;Voltage IN: 8,192 (IV);Voltage OUT: 8,192 (IV);Capacity: 410,112 EU
+1RetrievalGalaxySpace/metalsblock-4.pngDecorative Mithril Block
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6dreamcraft/item.CircuitLuV-0.pngAny LuV Circuit
+4gregtech/gt.blockmachines-16.pngLuV Machine Hull;You just need Imagination to use this.;Voltage IN: 32,768 (LuV);Voltage OUT: 32,768 (LuV);Capacity: 1,638,912 EU
+1RetrievalGalaxySpace/metalsblock-8.pngDecorative Tungsten Block
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6dreamcraft/item.CircuitLuV-0.pngAny LuV Circuit
+4gregtech/gt.blockmachines-16.pngLuV Machine Hull;You just need Imagination to use this.;Voltage IN: 32,768 (LuV);Voltage OUT: 32,768 (LuV);Capacity: 1,638,912 EU
+1RetrievalGalaxySpace/metalsblock-1.pngDecorative Adamantite Block
+231minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+6dreamcraft/item.CircuitZPM-0.pngAny ZPM Circuit
+4gregtech/gt.blockmachines-17.pngZPM Machine Hull;You just need Imagination to use this.;Voltage IN: 131,072 (ZPM);Voltage OUT: 131,072 (ZPM);Capacity: 6,554,112 EU
 1

@@ -9,11 +9,11 @@ There are also regular chests with loot. Those can contain Obsidian Fragments an
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-2.pngEnchanted End Stone
-8RetrievalHardcoreEnderExpansion/laboratory_obsidian-0.pngLaboratory Obsidian
-8HardcoreEnderExpansion/laboratory_glass-0.pngLaboratory Glass;Glass-Tier: HV
-8HardcoreEnderExpansion/laboratory_floor-0.pngLaboratory Floor
-8HardcoreEnderExpansion/laboratory_stairs-0.pngLaboratory Stairs
-2RetrievalHardcoreEnderExpansion/auricion-0.pngAuricion
-2HardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
-2HardcoreEnderExpansion/stardust-0.pngStardust
+8RetrievalHardcoreEnderExpansion/laboratory_obsidian-0.pngLaboratory Obsidian
+8HardcoreEnderExpansion/laboratory_glass-0.pngLaboratory Glass;Glass-Tier: HV
+8HardcoreEnderExpansion/laboratory_floor-0.pngLaboratory Floor
+8HardcoreEnderExpansion/laboratory_stairs-0.pngLaboratory Stairs
+2RetrievalHardcoreEnderExpansion/auricion-0.pngAuricion
+2HardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
+2HardcoreEnderExpansion/stardust-0.pngStardust
 8

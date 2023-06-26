@@ -5,6 +5,6 @@
 1Natura/barleyFood-6.pngImp Leather;Resist the heat of the Nether
 8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 15tasksANDRetrievalgregtech/gt.blockores-1022.pngSulfur Ore;S
-32gregtech/gt.blockores-1834.pngPyrite Ore;FeS\u2082
-32gregtech/gt.blockores-1839.pngSphalerite Ore;ZnS
+32gregtech/gt.blockores-1834.pngPyrite Ore;FeS\u2082
+32gregtech/gt.blockores-1839.pngSphalerite Ore;ZnS
 32

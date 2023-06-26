@@ -1,3 +1,3 @@
 387gregtech/gt.blockmachines-31069.png0Industrial 3D Copying Machine18-1Need large amounts of chiseled blocks? This is the machine for you.ANDpre14161gregtech/gt.blockmachines-810.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-31069.pngIndustrial 3D Copying Machine;Machine Type: Chisel;Factory Grade Auto Chisel;Target block goes in GUI slot;If no target provided, firdt chisel result is used;Speed: +200% | EU Usage: 75% | Parallel: Tier x 16;Causes: 50 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.5-5.pngSturdy Printer Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/gtplusplus.blockcasings.5-5.pngSturdy Printer Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

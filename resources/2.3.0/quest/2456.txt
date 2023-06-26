@@ -13,6 +13,6 @@ Place a bound master orb on the plinth and the appropriate sacrifices on the ped
 After the lightning, the demon will appear. It won't always drop the shard, so prepare multiple sets.ANDpre7081AWWayofTime/masterBloodOrb-0.png9271dreamcraft/tile.BloodyVoid-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
 3tasksANDRetrievalAWWayofTime/blockPedestal-0.pngArcane Pedestal
-6AWWayofTime/blockPlinth-0.pngArcane Plinth
-1RetrievalAWWayofTime/demonBloodShard-0.pngDemon Blood Shard
+6AWWayofTime/blockPlinth-0.pngArcane Plinth
+1RetrievalAWWayofTime/demonBloodShard-0.pngDemon Blood Shard
 3

@@ -4,5 +4,5 @@ For now, get some Butane and Propane.ORpre5490gregtech/gt.metaitem.01-30740
 16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-30643.pngPropane Cell;C\u2083H\u2088
-32gregtech/gt.metaitem.01-30644.pngButane Cell;C\u2084H\u2081\u2080
+32gregtech/gt.metaitem.01-30644.pngButane Cell;C\u2084H\u2081\u2080
 32

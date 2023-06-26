@@ -14,8 +14,8 @@ You can use MCCs on more than just generators though, you can use it on any mult
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5enhancedlootbags/lootbag-4-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 2tasksANDRetrievalgregtech/gt.metaitem.01-32730.pngMachine Controller Cover;Turns Machines ON/OFF
-1ProjRedIntegration/projectred.integration.gate-12.pngRS Latch
-1ProjRedIntegration/projectred.integration.gate-2.pngNOT Gate
-1minecraft/redstone-0.pngRedstone
-16ProjRedTransmission/projectred.transmission.wire-0.pngRed Alloy Wire
+1ProjRedIntegration/projectred.integration.gate-12.pngRS Latch
+1ProjRedIntegration/projectred.integration.gate-2.pngNOT Gate
+1minecraft/redstone-0.pngRedstone
+16ProjRedTransmission/projectred.transmission.wire-0.pngRed Alloy Wire
 8

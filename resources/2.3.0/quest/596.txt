@@ -7,7 +7,7 @@ Remember, a fresh tool head starts at one level below.  So you'll need to use it
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/pickaxeHead-16.pngSteel Pickaxe Head;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 04-Redstone;Parts can be replaced
-1TConstruct/shovelHead-16.pngSteel Shovel Head;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 05-Obsidian;Parts can be replaced
-2TConstruct/hatchetHead-16.pngSteel Axe Head;Reinforced II;Durability: 300;Usage Speed: 7;Attack: 1.5 Hearts;Parts can be replaced
-2TConstruct/swordBlade-16.pngSteel Sword Blade;Reinforced II;Attack: 1.5 Hearts;Durability: 300;Parts can be replaced
+1TConstruct/shovelHead-16.pngSteel Shovel Head;Reinforced II;Durability: 300;Mining Speed: 7;Mining Level: 05-Obsidian;Parts can be replaced
+2TConstruct/hatchetHead-16.pngSteel Axe Head;Reinforced II;Durability: 300;Usage Speed: 7;Attack: 1.5 Hearts;Parts can be replaced
+2TConstruct/swordBlade-16.pngSteel Sword Blade;Reinforced II;Attack: 1.5 Hearts;Durability: 300;Parts can be replaced
 1

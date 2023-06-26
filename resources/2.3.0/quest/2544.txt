@@ -1,5 +1,5 @@
 2544appliedenergistics2/item.ItemMultiPart-80.png0Cut the Power!27-1The ME Toggle Bus allows you to cut off access through a cable if it doesn't receive a redstone signal. The inverted version is, well, inverted. It must be placed between the cables, like a Quartz Fiber.ANDpre25230appliedenergistics2/item.ItemMultiPart-280.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-80.pngME Toggle Bus
-1appliedenergistics2/item.ItemMultiPart-100.pngME Inverted Toggle Bus
+1appliedenergistics2/item.ItemMultiPart-100.pngME Inverted Toggle Bus
 1

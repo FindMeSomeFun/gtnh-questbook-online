@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 5tasksANDRetrievalTConstruct/metalPattern-3.pngShovel Head Cast;Material Cost: 1
-1TConstruct/metalPattern-4.pngAxe Head Cast;Material Cost: 1
-1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
-1RetrievalTConstruct/mattock-0-534.pngMattock;Reinforced I;Tool Level: 01-Abused;+6 Attack Damage
+1TConstruct/metalPattern-4.pngAxe Head Cast;Material Cost: 1
+1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
+1RetrievalTConstruct/mattock-0-534.pngMattock;Reinforced I;Tool Level: 01-Abused;+6 Attack Damage
 1

@@ -8,7 +8,7 @@ It is made in a Spinning Wheel using Disturbed Cotton, Blood Burned String and R
 4Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalBloodArsenal/blood_burned_string-0.pngBlood Burned String
-3witchery/ingredient-35.pngReek of Misfortune
-3witchery/ingredient-99.pngDisturbed Cotton
-12Retrievalwitchery/ingredient-101.pngTormented Twine
+3witchery/ingredient-35.pngReek of Misfortune
+3witchery/ingredient-99.pngDisturbed Cotton
+12Retrievalwitchery/ingredient-101.pngTormented Twine
 3

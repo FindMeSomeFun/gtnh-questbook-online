@@ -2,6 +2,6 @@
 16enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30663.pngDimethyldichlorosilane Cell;C\u2082H\u2086Cl\u2082Si
-21IC2/itemCellEmpty-1.pngWater Cell
-21Retrievalgregtech/gt.metaitem.01-2633.pngPolydimethylsiloxane Pulp;C\u2082H\u2086OSi
+21IC2/itemCellEmpty-1.pngWater Cell
+21Retrievalgregtech/gt.metaitem.01-2633.pngPolydimethylsiloxane Pulp;C\u2082H\u2086OSi
 63

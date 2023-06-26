@@ -5,5 +5,5 @@ Later on you can use this new Material make better and more durable Tinkers Tool
 15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-2371.pngVanadiumsteel Dust;VCr(Fe\u2085\u2080C)\u2087
-64Retrievalgregtech/gt.metaitem.01-11371.pngVanadiumsteel Ingot;VCr(Fe\u2085\u2080C)\u2087
+64Retrievalgregtech/gt.metaitem.01-11371.pngVanadiumsteel Ingot;VCr(Fe\u2085\u2080C)\u2087
 64

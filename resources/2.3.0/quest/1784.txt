@@ -11,7 +11,7 @@ Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelV
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDRetrievalTConstruct/travelWings-0.pngTraveller''s Wings;Ability: High Jump;Protection: 8%;Protection: 4;Durability: 1035/1035
-1TConstruct/slime.gel-0.pngCongealed Blue Slime
-1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-1minecraft/feather-0.pngFeather
+1TConstruct/slime.gel-0.pngCongealed Blue Slime
+1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1minecraft/feather-0.pngFeather
 6

@@ -1,5 +1,5 @@
 2151gregtech/gt.metaitem.01-8538.png0You Can't Spell Lignite Without Ignite406000Truly the fuel of the gods!ANDpre290gregtech/gt.metaitem.01-8538.pngrewardsItemgregtech/gt.blockores-538.pngLignite Coal Ore;C\u2083(H\u2082O)
 64tasksANDConsumeminecraft/coal-0.pngCoal;Burn Time: 1600
-64IC2/itemDust-2.pngCoal Dust;Burn Time: 1600
-64dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
+64IC2/itemDust-2.pngCoal Dust;Burn Time: 1600
+64dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 64

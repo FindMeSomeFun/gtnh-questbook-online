@@ -4,9 +4,9 @@ To operate it, fill it with a bucket of water to keep the plants hydrated. After
 
 Each craft requires some magical ingredients, but also one or more regular flowers from the world that can function as a stable base. Once you've added all the ingredients, finish the craft by adding a seed. Any vanilla seed will do.ANDpre32201Botania/grassSeeds-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
-2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-2minecraft/cauldron-0.pngCauldron
-1minecraft/stone-0.pngStone
-2gregtech/gt.blockmetal6-10.pngBlock of Silver
-1RetrievalBotania/altar-0.pngPetal Apothecary
+2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+2minecraft/cauldron-0.pngCauldron
+1minecraft/stone-0.pngStone
+2gregtech/gt.blockmetal6-10.pngBlock of Silver
+1RetrievalBotania/altar-0.pngPetal Apothecary
 1

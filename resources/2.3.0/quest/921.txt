@@ -3,5 +3,5 @@
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5tasksANDLocationDIM/36-.pngIo
-1Huntmobs/GalacticraftCore-EvolvedBossGhast-.pngEvolved Boss Ghast
+1Huntmobs/GalacticraftCore-EvolvedBossGhast-.pngEvolved Boss Ghast
 1

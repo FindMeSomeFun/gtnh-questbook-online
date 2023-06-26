@@ -6,10 +6,10 @@ By the way, circuits get cheaper to make as you go along, but not till HV.ANDp
 4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
-4gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-8gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
-16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-32gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt;Cu
-32RetrievalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+4gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+8gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
+16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+32gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt;Cu
+32RetrievalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 4

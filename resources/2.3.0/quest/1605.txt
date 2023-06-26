@@ -3,5 +3,5 @@
 They also have Auramx8, Praecantatiox4 and Victusx4 essentia on them, very useful for the budding thaumaturge. And you can get them by placing a snow block under your netherwart and waiting instead of mutating to get them.ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1dreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
 5tasksANDRetrievalIC2/itemCropSeed-0.pngTerra Wart Seeds;Gr 0;Ga 0;Re 0
-1IC2/itemTerraWart-0.pngTerra Wart;IC2:itemTerraWart
+1IC2/itemTerraWart-0.pngTerra Wart;IC2:itemTerraWart
 16

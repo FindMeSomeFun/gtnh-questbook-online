@@ -11,11 +11,11 @@ Items that use Energy automatically refill in the End, or can be used on a Clust
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 2tasksANDOptionalHardcoreEnderExpansion/auricion-0.pngAuricion
-8HardcoreEnderExpansion/endium_block-0.pngEndium Block
-1RetrievalHardcoreEnderExpansion/energy_wand_core-0.pngEnergy Wand Core
-1RetrievalHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
-2OptionalHardcoreEnderExpansion/energy_wand_core-0.pngEnergy Wand Core
-1HardcoreEnderExpansion/obsidian_rod-0.pngObsidian Rod
-2gregtech/gt.metaitem.01-27028.pngTitanium Screw;Ti
-4RetrievalHardcoreEnderExpansion/energy_wand-0.pngEnergy Wand
+8HardcoreEnderExpansion/endium_block-0.pngEndium Block
+1RetrievalHardcoreEnderExpansion/energy_wand_core-0.pngEnergy Wand Core
+1RetrievalHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
+2OptionalHardcoreEnderExpansion/energy_wand_core-0.pngEnergy Wand Core
+1HardcoreEnderExpansion/obsidian_rod-0.pngObsidian Rod
+2gregtech/gt.metaitem.01-27028.pngTitanium Screw;Ti
+4RetrievalHardcoreEnderExpansion/energy_wand-0.pngEnergy Wand
 1

@@ -2,8 +2,8 @@
 
 §3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-226.pngSpawn Alpha Yeti
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5RetrievalTwilightForest/item.trophy-3.pngUr-ghast Trophy
-1TwilightForest/item.fieryTears-0.pngFiery Tears
+5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+2dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5RetrievalTwilightForest/item.trophy-3.pngUr-ghast Trophy
+1TwilightForest/item.fieryTears-0.pngFiery Tears
 1

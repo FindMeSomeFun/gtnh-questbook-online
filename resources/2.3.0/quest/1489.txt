@@ -3,7 +3,7 @@
 8enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDRetrievalgregtech/gt.metaitem.01-32615.pngElectric Pump;32,768 L/t (655,360 L/s) as Cover
-1gregtech/gt.metaitem.01-32645.pngElectric Piston
-1gregtech/gt.metaitem.01-32635.pngConveyor Module;2 stacks every 1/20 sec (as Cover)
-1gregtech/gt.metaitem.01-32655.pngRobot Arm;Cannot be used as a Cover
+1gregtech/gt.metaitem.01-32645.pngElectric Piston
+1gregtech/gt.metaitem.01-32635.pngConveyor Module;2 stacks every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32655.pngRobot Arm;Cannot be used as a Cover
 1

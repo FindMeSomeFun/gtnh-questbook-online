@@ -3,9 +3,9 @@
 2enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-6gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-2gregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
-4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-4gregtech/gt.metaitem.03-32012.pngGlass Tube
-2Craftinggregtech/gt.metaitem.01-32700.pngVacuum Tube;A very simple Circuit;ULV-Tier
+6gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+2gregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
+4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+4gregtech/gt.metaitem.03-32012.pngGlass Tube
+2Craftinggregtech/gt.metaitem.01-32700.pngVacuum Tube;A very simple Circuit;ULV-Tier
 2

@@ -32,8 +32,8 @@ Crossing happens when 2 or more almost mature crops are next to a double cropsti
 16enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalIC2/blockCrop-0.pngCrop
-16Retrievalminecraft/wheat_seeds-0.pngSeeds
-2minecraft/reeds-0.pngSugar Canes;Burn Time: 50
-2minecraft/carrot-0.pngCarrot;minecraft:carrot
-2minecraft/potato-0.pngPotato;minecraft:potato
+16Retrievalminecraft/wheat_seeds-0.pngSeeds
+2minecraft/reeds-0.pngSugar Canes;Burn Time: 50
+2minecraft/carrot-0.pngCarrot;minecraft:carrot
+2minecraft/potato-0.pngPotato;minecraft:potato
 2

@@ -1,6 +1,6 @@
 71gregtech/gt.metaitem.01-32600.png1§3§lBasic Crafting: Motors3-1Motors are little devices that can turn electrical power into rotational energy. Very useful for all kind of machines, and not that difficult to craft. The pattern is always the same, only the materials change with tiers. For now you can use redstone to magnetize your iron rod. Later on you will build an Electromagnetic Polarizer.ANDpre671gregtech/gt.blockmachines-1360.png691gregtech/gt.metaitem.01-11880.pngrewardsItemharvestcraft/melonsmoothieItem-0.pngMelon Smoothie;harvestcraft:melonsmoothieItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalminecraft/redstone-0.pngRedstone
-8Optionalgregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
-2Craftinggregtech/gt.metaitem.01-32600.pngElectric Motor
+8Optionalgregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
+2Craftinggregtech/gt.metaitem.01-32600.pngElectric Motor
 2

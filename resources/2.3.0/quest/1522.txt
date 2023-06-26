@@ -3,7 +3,7 @@
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
-32gregtech/gt.metaitem.01-2047.pngNiobium Dust;Nb
-32Optionalgregtech/gt.metaitem.01-2360.pngNiobium-Titanium Dust;NbTi
-64Retrievalgregtech/gt.metaitem.01-11360.pngNiobium-Titanium Ingot;NbTi
+32gregtech/gt.metaitem.01-2047.pngNiobium Dust;Nb
+32Optionalgregtech/gt.metaitem.01-2360.pngNiobium-Titanium Dust;NbTi
+64Retrievalgregtech/gt.metaitem.01-11360.pngNiobium-Titanium Ingot;NbTi
 64

@@ -4,10 +4,10 @@
 4enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25tasksANDOptionalForestry/ffarm-0.pngFarm Block;Stone Bricks
-2IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2gregtech/gt.metaitem.01-32600.pngElectric Motor
-1gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-1gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
-1Forestry/thermionicTubes-4.pngGolden Electron Tube
-4RetrievalForestry/ffarm-5.pngFarm Control;Stone Bricks
+2IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+1gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
+1Forestry/thermionicTubes-4.pngGolden Electron Tube
+4RetrievalForestry/ffarm-5.pngFarm Control;Stone Bricks
 2

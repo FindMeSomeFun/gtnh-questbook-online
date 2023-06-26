@@ -6,8 +6,8 @@ With these two things combined, it's more powerful than the Large Gas Turbine th
 16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalkekztech/kekztech_yszceramicelectrolyteunit_block-0.pngYSZ Ceramic Electrolyte Unit
-3IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
-6gregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-29gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1Retrievalgregtech/gt.blockmachines-13101.pngSolid-Oxide Fuel Cell Mk I;Machine Type: Gas Turbine;Oxidizes gas fuels to generate electricity without polluting the environment;Consumes up to40960EU worth of fuel with up to 100% efficiency each second;Steam production requires the SOFC to heat up completely first;Outputs 2048EU/t and 20000L/s Steam;Additionally, requires 100L/s Oxygen gas;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: KekzTech
+3IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
+6gregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+29gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1Retrievalgregtech/gt.blockmachines-13101.pngSolid-Oxide Fuel Cell Mk I;Machine Type: Gas Turbine;Oxidizes gas fuels to generate electricity without polluting the environment;Consumes up to40960EU worth of fuel with up to 100% efficiency each second;Steam production requires the SOFC to heat up completely first;Outputs 2048EU/t and 20000L/s Steam;Additionally, requires 100L/s Oxygen gas;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: KekzTech
 1

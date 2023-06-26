@@ -6,6 +6,6 @@ Make sure you check all the NEI recipes for advanced items instead of just using
 4enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-16Optionalgregtech/gt.metaitem.01-1980.pngSmall Pile of Gallium Arsenide Dust;AsGa
-4Retrievalgregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
+16Optionalgregtech/gt.metaitem.01-1980.pngSmall Pile of Gallium Arsenide Dust;AsGa
+4Retrievalgregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
 8

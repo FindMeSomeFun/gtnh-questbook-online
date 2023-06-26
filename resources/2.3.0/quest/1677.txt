@@ -6,8 +6,8 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet;C\u2082\u2081H\u2082\u2084O\u2084
-15gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
-180Optionalgregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-180gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
-15Retrievalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
+15gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
+180Optionalgregtech/gt.metaitem.01-29366.pngEnergetic Alloy Foil;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+180gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
+15Retrievalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
 15

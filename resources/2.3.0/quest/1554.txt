@@ -6,6 +6,6 @@ You'll also get Wood Ash when burning saplings. It's useful, don't toss it.AND
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDOptionalminecraft/sapling-0.pngOak Sapling;Burn Time: 100
-64witchery/ingredient-27.pngClay Jar
-16Retrievalwitchery/ingredient-31.pngExhale of the Horned One
+64witchery/ingredient-27.pngClay Jar
+16Retrievalwitchery/ingredient-31.pngExhale of the Horned One
 16

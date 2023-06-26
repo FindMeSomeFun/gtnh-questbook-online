@@ -15,8 +15,8 @@ Making anything that uses a tool - Also automatically reused, while consuming du
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDOptionalminecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
-1minecraft/crafting_table-0.pngCrafting Table;Burn Time: 300
-1minecraft/chest-0.pngChest;Burn Time: 300
-1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-4CraftingForestry/factory2-2.pngWorktable
+1minecraft/crafting_table-0.pngCrafting Table;Burn Time: 300
+1minecraft/chest-0.pngChest;Burn Time: 300
+1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+4CraftingForestry/factory2-2.pngWorktable
 1

@@ -4,5 +4,5 @@
 1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod;Reinforced II;Durability Modifier: 5x;Parts can be replaced
 1tasksANDRetrievalTGregworks/tGregToolPartHammerHead-1650.pngVanadiumsteel Hammer Head;Durability: 1440;Mining Speed: 18;Mining Level: 05-Obsidian;Attack: 7 Hearts;Parts can be replaced
-1TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod;Reinforced II;Durability Modifier: 5x;Parts can be replaced
+1TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod;Reinforced II;Durability Modifier: 5x;Parts can be replaced
 1

@@ -14,6 +14,6 @@ Let's go hunt a bit.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItem
 10Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15tasksANDRetrievalminecraft/bow-0.pngBow;Durability: 384/384
-1Retrievalbattlegear2/quiver-0.pngQuiver;Arrows; 0: Empty; 1: Empty; 2: Empty; 3: Empty
-1Retrievalminecraft/arrow-0.pngArrow
+1Retrievalbattlegear2/quiver-0.pngQuiver;Arrows; 0: Empty; 1: Empty; 2: Empty; 3: Empty
+1Retrievalminecraft/arrow-0.pngArrow
 64

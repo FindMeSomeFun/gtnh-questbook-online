@@ -7,6 +7,6 @@ If the recipe isn't working, put the bag in a crafting grid to reset its nbt dat
 1enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5tasksANDOptionalForestry/craftingMaterial-3.pngWoven Silk
-18RetrievalForestry/diggerBagT2-0.pngDigger''s Woven Backpack;0/45 Slots
-1Forestry/minerBagT2-0.pngMiner''s Woven Backpack;0/45 Slots
+18RetrievalForestry/diggerBagT2-0.pngDigger''s Woven Backpack;0/45 Slots
+1Forestry/minerBagT2-0.pngMiner''s Woven Backpack;0/45 Slots
 1

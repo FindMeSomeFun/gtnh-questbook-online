@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1tasksANDOptionalGalacticraftMars/item.null-5.pngCompressed Desh
-24RetrievalGalacticraftMars/item.deshHelmet-0.pngDesh Helmet;Protection: 4;Durability: 462/462
-1GalacticraftMars/item.deshChestplate-0.pngDesh Chestplate;Protection: 9;Durability: 672/672
-1GalacticraftMars/item.deshLeggings-0.pngDesh Leggings;Protection: 7;Durability: 630/630
-1GalacticraftMars/item.deshBoots-0.pngDesh Boots;Protection: 4;Durability: 546/546
+24RetrievalGalacticraftMars/item.deshHelmet-0.pngDesh Helmet;Protection: 4;Durability: 462/462
+1GalacticraftMars/item.deshChestplate-0.pngDesh Chestplate;Protection: 9;Durability: 672/672
+1GalacticraftMars/item.deshLeggings-0.pngDesh Leggings;Protection: 7;Durability: 630/630
+1GalacticraftMars/item.deshBoots-0.pngDesh Boots;Protection: 4;Durability: 546/546
 1

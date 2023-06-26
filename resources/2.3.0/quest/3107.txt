@@ -7,7 +7,7 @@ To complete this quest, make a Multifarm, a Farming Station or some Fish Catcher
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1minecraft/fish-3.pngPufferfish;minecraft:fish
 1tasksANDOptionalForestry/ffarm-0.pngFarm Block;Stone Bricks
-36OptionalEnderIO/blockFarmStation-0.pngFarming Station
-1Optionalmiscutils/blockFishTrap-0.pngFish Catcher;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
-8Retrievalgregtech/gt.blockmachines-513.pngAdvanced Fluid Extractor II;Extracting Fluids from Items;Voltage IN: 512 (HV);Capacity: 32,768 EU
+36OptionalEnderIO/blockFarmStation-0.pngFarming Station
+1Optionalmiscutils/blockFishTrap-0.pngFish Catcher;This trap catches fish faster if surrounded by more water blocks;Can also be placed beside upto 4 other fish traps;Requires at least two faces touching water;1/1000 chance to produce triple loot.
+8Retrievalgregtech/gt.blockmachines-513.pngAdvanced Fluid Extractor II;Extracting Fluids from Items;Voltage IN: 512 (HV);Capacity: 32,768 EU
 1

@@ -7,18 +7,18 @@ WARNING: Breaking a kinetic generator improperly will not return the generator. 
 2gregtech/gt.metaitem.01-32602.pngElectric Motor
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.01-32602.pngElectric Motor
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-2Optionalgregtech/gt.blockcasings2-11.pngMotor Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.02-21306.pngStainless Steel Rotor;Fe\u2086CrMnNi
-4IC2/itemRecipePart-12.pngShaft
-2gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
-2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate;Fe\u2086CrMnNi
-8gregtech/gt.metaitem.02-31028.pngTitanium Gear;Ti
-2gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
-1gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-2gregtech/gt.metaitem.01-32602.pngElectric Motor
-2gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
-1RetrievalIC2/blockGenerator-9.pngKinetic Generator;Power Output: 1-512 EU/t max
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-32602.pngElectric Motor
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2Optionalgregtech/gt.blockcasings2-11.pngMotor Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.02-21306.pngStainless Steel Rotor;Fe\u2086CrMnNi
+4IC2/itemRecipePart-12.pngShaft
+2gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate;Fe\u2086CrMnNi
+8gregtech/gt.metaitem.02-31028.pngTitanium Gear;Ti
+2gregtech/gt.blockmachines-13.pngHV Machine Hull;You just need Imagination to use this.;Voltage IN: 512 (HV);Voltage OUT: 512 (HV);Capacity: 26,112 EU
+1gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
+2gregtech/gt.metaitem.01-32602.pngElectric Motor
+2gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;0 / 1,600,000 EU - Voltage: 512;HV-Tier
+1RetrievalIC2/blockGenerator-9.pngKinetic Generator;Power Output: 1-512 EU/t max
 1

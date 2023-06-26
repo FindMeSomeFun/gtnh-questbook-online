@@ -9,7 +9,7 @@ When performing Imp Magic, a plain contract is first crafted with reagents perta
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5tasksANDOptionalminecraft/paper-0.pngPaper
-4minecraft/string-0.pngString
-4witchery/ingredient-163.pngWarm Blood
-1Retrievalwitchery/ingredient-140.pngDemonic Contract
+4minecraft/string-0.pngString
+4witchery/ingredient-163.pngWarm Blood
+1Retrievalwitchery/ingredient-140.pngDemonic Contract
 1

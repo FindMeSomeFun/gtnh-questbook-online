@@ -6,6 +6,6 @@ Lets start with step one. Using a mob spawn egg (any work, you can purchase one 
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalGenetics/misc-4.pngGrowth Medium
-64gregtech/gt.metaitem.98-15.pngBacteria Cell
-1Retrievaldreamcraft/item.TheBigEgg-0.pngThe Big Egg
+64gregtech/gt.metaitem.98-15.pngBacteria Cell
+1Retrievaldreamcraft/item.TheBigEgg-0.pngThe Big Egg
 1

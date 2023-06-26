@@ -3,8 +3,8 @@
 §3The Thermosink Radiator allows for 4/4 OC making it possible to speed through recipes. It requires 10/s of super coolant in its hatch, its in the same place as the Liquid Cooling Tower.
 
 §4This upgrade is incompatible with its lower tier predecessor.ANDpre32431gregtech/gt.metaitem.01-32018.png32750IC2/upgradeModule-0.pngrewardstasksANDRetrievalgregtech/gt.blockcasings8-14.pngInfinity Cooled Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockmachines-4199.pngAmericium Frame Box;Just something you can put covers on.
-1gregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings-15.pngSuperconducting Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockmachines-4199.pngAmericium Frame Box;Just something you can put covers on.
+1gregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockcasings-15.pngSuperconducting Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

@@ -8,10 +8,10 @@ Tilled dirt still requires a nearby water block to be hydrated as the Matron wil
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 30tasksANDOptionalgregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-2IronChest/BlockIronChest-0.pngIron Chest;6*9 Inventory - 54 Slots
-1gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
-2gregtech/gt.metaitem.01-32600.pngElectric Motor
-1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2RetrievalIC2/blockMachine2-2.pngCrop-Matron;Power 32 EU/t max
+1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+2IronChest/BlockIronChest-0.pngIron Chest;6*9 Inventory - 54 Slots
+1gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2RetrievalIC2/blockMachine2-2.pngCrop-Matron;Power 32 EU/t max
 1

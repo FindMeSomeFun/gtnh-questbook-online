@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate;SnCu\u2083
-24CraftingIC2/itemArmorBronzeHelmet-0.pngBronze Helmet;Protection: 2;Durability: 165/165
-1IC2/itemArmorBronzeChestplate-0.pngBronze Chestplate;Protection: 6;Durability: 240/240
-1IC2/itemArmorBronzeLegs-0.pngBronze Leggings;Protection: 5;Durability: 225/225
-1IC2/itemArmorBronzeBoots-0.pngBronze Boots;Protection: 2;Durability: 195/195
+24CraftingIC2/itemArmorBronzeHelmet-0.pngBronze Helmet;Protection: 2;Durability: 165/165
+1IC2/itemArmorBronzeChestplate-0.pngBronze Chestplate;Protection: 6;Durability: 240/240
+1IC2/itemArmorBronzeLegs-0.pngBronze Leggings;Protection: 5;Durability: 225/225
+1IC2/itemArmorBronzeBoots-0.pngBronze Boots;Protection: 2;Durability: 195/195
 1

@@ -4,12 +4,12 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalGalaxySpace/item.RocketControlComputer-101.pngCargo Rocket Control Computer
-1GalacticraftCore/item.noseCone-0.pngNose Cone
-1GalacticraftCore/item.basicItem-14.pngAdvanced Wafer
-1GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
-8GalacticraftCore/item.rocketFins-0.pngRocket Fins
-2GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister;Rocket Module
-3IronChest/BlockIronChest-3.pngCopper Chest;5*9 Inventory - 45 Slots
-1GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
-1RetrievalGalacticraftMars/item.spaceshipTier2-11.pngCargo Rocket;Storage Space: 18;Requires Launch Controller
+1GalacticraftCore/item.noseCone-0.pngNose Cone
+1GalacticraftCore/item.basicItem-14.pngAdvanced Wafer
+1GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
+8GalacticraftCore/item.rocketFins-0.pngRocket Fins
+2GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister;Rocket Module
+3IronChest/BlockIronChest-3.pngCopper Chest;5*9 Inventory - 45 Slots
+1GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+1RetrievalGalacticraftMars/item.spaceshipTier2-11.pngCargo Rocket;Storage Space: 18;Requires Launch Controller
 1

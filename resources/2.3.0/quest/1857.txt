@@ -3,11 +3,11 @@
 1harvestcraft/cherrypieItem-0.pngCherry Pie;harvestcraft:cherrypieItem
 1harvestcraft/raspberrypieItem-0.pngRaspberry Pie;harvestcraft:raspberrypieItem
 1tasksANDOptionalminecraft/chicken-0.pngRaw Chicken;minecraft:chicken
-4minecraft/potato-0.pngPotato;minecraft:potato
-4minecraft/carrot-0.pngCarrot;minecraft:carrot
-4gregtech/gt.metaitem.02-32559.pngDough;gregtech:gt.metaitem.02;For making Breads
-8minecraft/apple-0.pngApple;minecraft:apple
-4minecraft/sugar-0.pngSugar
-4Retrievalharvestcraft/chickenpotpieItem-0.pngChicken Pot Pie;harvestcraft:chickenpotpieItem
-4harvestcraft/applepieItem-0.pngApple Pie;harvestcraft:applepieItem
+4minecraft/potato-0.pngPotato;minecraft:potato
+4minecraft/carrot-0.pngCarrot;minecraft:carrot
+4gregtech/gt.metaitem.02-32559.pngDough;gregtech:gt.metaitem.02;For making Breads
+8minecraft/apple-0.pngApple;minecraft:apple
+4minecraft/sugar-0.pngSugar
+4Retrievalharvestcraft/chickenpotpieItem-0.pngChicken Pot Pie;harvestcraft:chickenpotpieItem
+4harvestcraft/applepieItem-0.pngApple Pie;harvestcraft:applepieItem
 4

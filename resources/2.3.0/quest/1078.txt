@@ -2,8 +2,8 @@
 
 §3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-217.pngSpawn Ur-ghast
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5RetrievalTwilightForest/tile.TFTowerStone-1.pngEncased Towerwood;Burn Time: 300
-1TwilightForest/item.phantomHelm-0.pngPhantom Helm;Protection: 3;Durability: 330/330
+3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+5RetrievalTwilightForest/tile.TFTowerStone-1.pngEncased Towerwood;Burn Time: 300
+1TwilightForest/item.phantomHelm-0.pngPhantom Helm;Protection: 3;Durability: 330/330
 1

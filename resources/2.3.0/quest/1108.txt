@@ -4,5 +4,5 @@
 1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalminecraft/pumpkin-0.pngPumpkin
-1minecraft/snow-0.pngSnow
+1minecraft/snow-0.pngSnow
 2

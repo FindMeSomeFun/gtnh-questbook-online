@@ -5,10 +5,10 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.basicItem-6.pngCompressed Copper
-1GalacticraftCore/item.steelPole-0.pngSteel Pole
-2GalacticraftCore/item.basicItem-9.pngCompressed Steel
-3GalacticraftCore/item.buggymat-1.pngBuggy Seat
-2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
-1GalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
-2RetrievalGalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
+1GalacticraftCore/item.steelPole-0.pngSteel Pole
+2GalacticraftCore/item.basicItem-9.pngCompressed Steel
+3GalacticraftCore/item.buggymat-1.pngBuggy Seat
+2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+1GalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
+2RetrievalGalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
 1

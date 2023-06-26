@@ -7,6 +7,6 @@
 Also, you still gotta create the ultimate hybrid, too.ANDpre28690Forestry/sapling-0-raspberry.png28720Forestry/sapling-0-orange.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 30enhancedlootbags/lootbag-19-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1tasksANDOptionalForestry/sapling-0-raspberry.pngRaspberry Sapling;Burn Time: 100
-1Forestry/sapling-0-orange.pngOrange Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-goldenraspberry.pngGolden Raspberry Sapling;Burn Time: 100
+1Forestry/sapling-0-orange.pngOrange Sapling;Burn Time: 100
+1RetrievalForestry/sapling-0-goldenraspberry.pngGolden Raspberry Sapling;Burn Time: 100
 1

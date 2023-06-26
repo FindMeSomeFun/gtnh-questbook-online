@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-2300.pngBronze Dust;SnCu\u2083
-32Retrievalgregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
+32Retrievalgregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
 32

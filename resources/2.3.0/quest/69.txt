@@ -3,6 +3,6 @@
 1IC2/itemHarz-0.pngSticky Resin
 4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-2896.pngRaw Rubber Dust;C\u2085H\u2088
-120gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
-40Retrievalgregtech/gt.metaitem.01-11880.pngRubber Bar;C\u2085H\u2088
+120gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
+40Retrievalgregtech/gt.metaitem.01-11880.pngRubber Bar;C\u2085H\u2088
 40

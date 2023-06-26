@@ -3,7 +3,7 @@
 64ProjRedCore/projectred.core.part-19.pngWhite Illumar
 64ProjRedCore/projectred.core.part-34.pngBlack Illumar
 64tasksANDRetrievalProjRedIllumination/projectred.illumination.lantern-3.pngLight Blue Lantern
-1ProjRedIllumination/projectred.illumination.fixture-4.pngYellow Fixture
-1ProjRedIllumination/projectred.illumination.cagelamp2-5.pngLime Cage Lamp
-1ProjRedIllumination/projectred.illumination.cagelamp-6.pngPink Fallout Light
+1ProjRedIllumination/projectred.illumination.fixture-4.pngYellow Fixture
+1ProjRedIllumination/projectred.illumination.cagelamp2-5.pngLime Cage Lamp
+1ProjRedIllumination/projectred.illumination.cagelamp-6.pngPink Fallout Light
 1

@@ -4,5 +4,5 @@
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-12028.pngHot Titanium Ingot;Ti
-16Retrievalgregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+16Retrievalgregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
 16

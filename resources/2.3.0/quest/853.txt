@@ -3,6 +3,6 @@
 1gregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
 16Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-24gregtech/gt.metaitem.01-30658.pngNitric Oxide Cell;NO
-24Retrievalgregtech/gt.metaitem.01-30717.pngNitrogen Dioxide Cell;NO\u2082
+24gregtech/gt.metaitem.01-30658.pngNitric Oxide Cell;NO
+24Retrievalgregtech/gt.metaitem.01-30717.pngNitrogen Dioxide Cell;NO\u2082
 24

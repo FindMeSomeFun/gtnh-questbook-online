@@ -2,8 +2,8 @@
 16witchery/ingredient-27.pngClay Jar
 16Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 2tasksANDLocationDIM/55-.pngSpirit World
-1Optionalminecraft/egg-0.pngEgg
-10witchery/ingredient-22.pngMandrake Root
-10witchery/ingredient-31.pngExhale of the Horned One
-10Retrievalwitchery/ingredient-14.pngMutandis
+1Optionalminecraft/egg-0.pngEgg
+10witchery/ingredient-22.pngMandrake Root
+10witchery/ingredient-31.pngExhale of the Horned One
+10Retrievalwitchery/ingredient-14.pngMutandis
 60

@@ -4,7 +4,7 @@
 8enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalGalacticraftCore/item.noseCone-0.pngNose Cone
-1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-4gregtech/gt.metaitem.01-27028.pngTitanium Screw;Ti
-2RetrievalGalacticraftMars/item.heavyNoseCone-0.pngHeavy Nose Cone
+1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
+4gregtech/gt.metaitem.01-27028.pngTitanium Screw;Ti
+2RetrievalGalacticraftMars/item.heavyNoseCone-0.pngHeavy Nose Cone
 1

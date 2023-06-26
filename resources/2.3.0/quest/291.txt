@@ -2,5 +2,5 @@
 1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core;Blank
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemGolemPlacer-0.pngStraw Golem
-1RetrievalThaumcraft/ItemGolemCore-2.pngGolem Animation Core;Gather
+1RetrievalThaumcraft/ItemGolemCore-2.pngGolem Animation Core;Gather
 1

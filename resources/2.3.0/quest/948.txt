@@ -11,6 +11,6 @@ Later on, you can use an arc furnace to make wrought iron ingots directly.
 1gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-9032.pngIron Nugget;Fe
-63Optionalgregtech/gt.metaitem.01-9304.pngWrought Iron Nugget;Fe
-63Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot;Fe
+63Optionalgregtech/gt.metaitem.01-9304.pngWrought Iron Nugget;Fe
+63Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot;Fe
 7

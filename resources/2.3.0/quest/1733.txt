@@ -7,7 +7,7 @@
 2dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 2dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
 2tasksANDRetrievalGalaxySpace/item.spacesuit_helmet-0.pngSpaceSuit Helmet;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 4;Durability: 330/330
-1GalaxySpace/item.spacesuit_plate-0.pngSpaceSuit Chestplate;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 10;Durability: 480/480
-1GalaxySpace/item.spacesuit_leg-0.pngSpaceSuit Leggins;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 8;Durability: 450/450
-1GalaxySpace/item.spacesuit_boots-0.pngSpaceSuit Boots;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 3;Durability: 390/390
+1GalaxySpace/item.spacesuit_plate-0.pngSpaceSuit Chestplate;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 10;Durability: 480/480
+1GalaxySpace/item.spacesuit_leg-0.pngSpaceSuit Leggins;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 8;Durability: 450/450
+1GalaxySpace/item.spacesuit_boots-0.pngSpaceSuit Boots;Suit with high Strength. It;stabilizes atmospheric;Pressure. Also, the Helmet;allows for longer Times;under Water.;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 3;Durability: 390/390
 1

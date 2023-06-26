@@ -1,6 +1,6 @@
 2296gregtech/gt.metaitem.01-2085.png1§a§lPlatinum Processing, Step 47-1Platinum Chloride? You promised Pure Platinum Metal at a much higher efficiency than just smelting it! No worries, just react the Platinum Chloride with Calcium and you're done. The calcium and chlorine can be recycled as well!ANDpre22971bartworks/gt.bwMetaGenerateddust-51.pngrewardsItemTConstruct/frypan-0-168.pngPlatinum Frying Pan\nTool Level: 01-Abused\n+6 Attack Damage
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-51.pngReprecipitated Platinum Dust;PtCl;Added by BartWorks
-4gregtech/gt.metaitem.01-2026.pngCalcium Dust;Ca
-1Retrievalgregtech/gt.metaitem.01-2085.pngPlatinum Dust;Pt
-2bartworks/gt.bwMetaGenerateddust-63.pngCalcium Chloride Dust;CaCl\u2082;Added by BartWorks
+4gregtech/gt.metaitem.01-2026.pngCalcium Dust;Ca
+1Retrievalgregtech/gt.metaitem.01-2085.pngPlatinum Dust;Pt
+2bartworks/gt.bwMetaGenerateddust-63.pngCalcium Chloride Dust;CaCl\u2082;Added by BartWorks
 3

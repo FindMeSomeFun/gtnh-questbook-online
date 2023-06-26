@@ -36,8 +36,8 @@ P - Reactor Plating (1 needed)
 
 (This setup is the most efficient per Advanced Heat Vent)
 ANDpre31720miscutils/itemDustPlutonium239-0.pngrewardstasksANDOptionalIC2/reactorVentDiamond-1.pngAdvanced Heat Vent
-26IC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
-6IC2/reactorVentSpread-0.pngComponent Heat Vent
-16gregtech/gt.reactorMOXQuad-0.pngQuad Fuel Rod;100 / 100;Durability: 10,000/10,000
-5Retrievalgregtech/gt.reactorMOXQuad-0.pngQuad Fuel Rod;100 / 100;Durability: 10,000/10,000
+26IC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
+6IC2/reactorVentSpread-0.pngComponent Heat Vent
+16gregtech/gt.reactorMOXQuad-0.pngQuad Fuel Rod;100 / 100;Durability: 10,000/10,000
+5Retrievalgregtech/gt.reactorMOXQuad-0.pngQuad Fuel Rod;100 / 100;Durability: 10,000/10,000
 1

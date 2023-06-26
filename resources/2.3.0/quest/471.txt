@@ -3,7 +3,7 @@
 5Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 2tasksANDRetrievalharvestcraft/tealeafItem-0.pngTea Leaf;harvestcraft:tealeafItem
-1harvestcraft/grapeItem-0.pngGrape;harvestcraft:grapeItem
-1Retrievalharvestcraft/teaItem-0.pngCup of Tea;harvestcraft:teaItem
-1harvestcraft/raisinsItem-0.pngRaisins;harvestcraft:raisinsItem
+1harvestcraft/grapeItem-0.pngGrape;harvestcraft:grapeItem
+1Retrievalharvestcraft/teaItem-0.pngCup of Tea;harvestcraft:teaItem
+1harvestcraft/raisinsItem-0.pngRaisins;harvestcraft:raisinsItem
 1

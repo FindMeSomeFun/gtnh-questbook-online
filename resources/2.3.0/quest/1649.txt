@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5tasksANDRetrievalwitchery/ingredient-81.pngWitchcraft: Herbology
-1witchery/ingredient-106.pngBook of Biomes
-1witchery/ingredient-127.pngWitchcraft: Conjuration & Fetishes
-1witchery/ingredient-46.pngWitchcraft: Collecting Fumes
-1witchery/cauldronbook-0.pngWitches'' Brews;The definitive guide to cauldrons and potion brewing.
+1witchery/ingredient-106.pngBook of Biomes
+1witchery/ingredient-127.pngWitchcraft: Conjuration & Fetishes
+1witchery/ingredient-46.pngWitchcraft: Collecting Fumes
+1witchery/cauldronbook-0.pngWitches'' Brews;The definitive guide to cauldrons and potion brewing.
 1

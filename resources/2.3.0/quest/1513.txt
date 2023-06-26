@@ -3,6 +3,6 @@
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalExtraBees/hiveFrame.cocoa-0.pngChocolate Frame
-1ExtraBees/hiveFrame.cage-0.pngRestraint Frame
-1MagicBees/frameNecrotic-0.pngNecrotic Frame
+1ExtraBees/hiveFrame.cage-0.pngRestraint Frame
+1MagicBees/frameNecrotic-0.pngNecrotic Frame
 1

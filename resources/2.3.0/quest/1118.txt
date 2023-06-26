@@ -7,9 +7,9 @@ You've heard of a drunk beekeeper saying he has perfected a method of creating p
 64Forestry/beeCombs-0.pngHoney Comb
 64Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDOptionalForestry/beePrincessGE-0-Common.pngCommon Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Common.pngCommon Drone
-1Forestry/beePrincessGE-0-Cultivated.pngCultivated Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
-1RetrievalForestry/beePrincessGE-0-Noble.pngNoble Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Noble.pngNoble Drone
+1Forestry/beeDroneGE-0-Common.pngCommon Drone
+1Forestry/beePrincessGE-0-Cultivated.pngCultivated Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
+1RetrievalForestry/beePrincessGE-0-Noble.pngNoble Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Noble.pngNoble Drone
 1

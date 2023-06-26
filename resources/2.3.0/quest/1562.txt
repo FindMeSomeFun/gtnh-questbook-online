@@ -13,10 +13,10 @@ Wear a Witches Hat (and/or robes) while brewing to get more brews than just thre
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalminecraft/red_flower-0.pngPoppy
-1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
-1minecraft/waterlily-0.pngLily Pad
-1witchery/ingredient-69.pngWater Artichoke Globe
-1minecraft/dye-3.pngCocoa Beans
-1witchery/ingredient-34.pngWhiff of Magic
-1Retrievalwitchery/ingredient-75.pngBrew of Love
+1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
+1minecraft/waterlily-0.pngLily Pad
+1witchery/ingredient-69.pngWater Artichoke Globe
+1minecraft/dye-3.pngCocoa Beans
+1witchery/ingredient-34.pngWhiff of Magic
+1Retrievalwitchery/ingredient-75.pngBrew of Love
 3

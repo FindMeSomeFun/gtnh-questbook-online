@@ -4,7 +4,7 @@
 16enhancedlootbags/lootbag-43.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionaldreamcraft/item.HeavyDutyNoseConeTier3-0.pngHeavy Duty Nose Cone Tier 3
-1dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-4gregtech/gt.metaitem.01-27325.pngNaquadah Alloy Screw;Nq\u2082KeC
-2Retrievaldreamcraft/item.HeavyDutyNoseConeTier4-0.pngHeavy Duty Nose Cone Tier 4
+1dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
+4gregtech/gt.metaitem.01-27325.pngNaquadah Alloy Screw;Nq\u2082KeC
+2Retrievaldreamcraft/item.HeavyDutyNoseConeTier4-0.pngHeavy Duty Nose Cone Tier 4
 1

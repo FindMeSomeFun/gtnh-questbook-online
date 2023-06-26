@@ -14,10 +14,10 @@ Then EBF and then freeze it to get the Tungstensteel ingot.
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-29901.pngTungsten Trioxide Dust;WO\u2083;Added by GTNH: Lanthanides via BartWorks
-12gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-18Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust;W
-3Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust;W
-3gregtech/gt.metaitem.01-2305.pngSteel Dust;Fe\u2085\u2080C
-3Optionalgregtech/gt.metaitem.01-2316.pngTungstensteel Dust;(Fe\u2085\u2080C)W
-6Retrievalgregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
+12gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+18Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust;W
+3Optionalgregtech/gt.metaitem.01-2081.pngTungsten Dust;W
+3gregtech/gt.metaitem.01-2305.pngSteel Dust;Fe\u2085\u2080C
+3Optionalgregtech/gt.metaitem.01-2316.pngTungstensteel Dust;(Fe\u2085\u2080C)W
+6Retrievalgregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
 6

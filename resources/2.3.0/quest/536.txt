@@ -3,7 +3,7 @@
 1IC2/itemHarz-0.pngSticky Resin
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/blankPattern-1.pngBlank Cast
-1Craftingdreamcraft/item.MoldFormPlate-0.pngCasting Form
-1Retrievalgregtech/gt.metaitem.01-32301.pngMold;Mold for making Plates
-1Retrievalgregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+1Craftingdreamcraft/item.MoldFormPlate-0.pngCasting Form
+1Retrievalgregtech/gt.metaitem.01-32301.pngMold;Mold for making Plates
+1Retrievalgregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
 10

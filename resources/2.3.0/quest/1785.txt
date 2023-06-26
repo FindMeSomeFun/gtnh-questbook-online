@@ -8,7 +8,7 @@ Every Armor part has 3 Slots for modification, aside from gloves, which have 5.
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalTConstruct/travelGlove-0.pngTraveller''s Gloves
-1minecraft/redstone-0.pngRedstone
-5minecraft/redstone_block-0.pngBlock of Redstone
-55RetrievalTConstruct/travelGlove-0-upgraded.pngTraveller's Gloves\nHaste
+1minecraft/redstone-0.pngRedstone
+5minecraft/redstone_block-0.pngBlock of Redstone
+55RetrievalTConstruct/travelGlove-0-upgraded.pngTraveller's Gloves\nHaste
 1

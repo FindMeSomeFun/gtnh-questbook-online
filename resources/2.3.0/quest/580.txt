@@ -6,10 +6,10 @@ It is your first machine made in the carpenter. Once warmed up, it needs to main
 16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDOptionalIC2/itemRecipePart-0.pngCoil
-2gregtech/gt.metaitem.01-32600.pngElectric Motor
-1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-1gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-4Forestry/sturdyMachine-0.pngSturdy Casing
-1Forestry/factory2-2.pngWorktable
-1RetrievalForestry/factory2-0.pngThermionic Fabricator
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+1gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+4Forestry/sturdyMachine-0.pngSturdy Casing
+1Forestry/factory2-2.pngWorktable
+1RetrievalForestry/factory2-0.pngThermionic Fabricator
 1

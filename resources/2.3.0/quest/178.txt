@@ -3,7 +3,7 @@
 §3BTW, you need a ton of Titanium to do AE2, so if you can't make it, you won't get much of anywhere.ORpre1761gregtech/gt.blockmachines-14.png6930appliedenergistics2/tile.BlockSkyStone-0.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-13.pngInscriber Calculation Press
-1appliedenergistics2/item.ItemMultiMaterial-14.pngInscriber Engineering Press
-1appliedenergistics2/item.ItemMultiMaterial-19.pngInscriber Silicon Press
-1appliedenergistics2/item.ItemMultiMaterial-15.pngInscriber Logic Press
+1appliedenergistics2/item.ItemMultiMaterial-14.pngInscriber Engineering Press
+1appliedenergistics2/item.ItemMultiMaterial-19.pngInscriber Silicon Press
+1appliedenergistics2/item.ItemMultiMaterial-15.pngInscriber Logic Press
 1

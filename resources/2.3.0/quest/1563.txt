@@ -9,10 +9,10 @@ The witch must drink the brew and then will fall into a deep sleep, leaving thei
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalwitchery/ingredient-75.pngBrew of Love
-1witchery/ingredient-34.pngWhiff of Magic
-1witchery/ingredient-105.pngPurified Milk
-1witchery/ingredient-78.pngIcy Needle
-1minecraft/cookie-0.pngCookie;minecraft:cookie
-1witchery/ingredient-69.pngWater Artichoke Globe
-1Retrievalwitchery/ingredient-95.pngBrew of Sleeping
+1witchery/ingredient-34.pngWhiff of Magic
+1witchery/ingredient-105.pngPurified Milk
+1witchery/ingredient-78.pngIcy Needle
+1minecraft/cookie-0.pngCookie;minecraft:cookie
+1witchery/ingredient-69.pngWater Artichoke Globe
+1Retrievalwitchery/ingredient-95.pngBrew of Sleeping
 1

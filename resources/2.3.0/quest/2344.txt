@@ -15,7 +15,7 @@ A Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstan
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDOptionalwitchery/ingredient-92.pngQuartz Sphere
-1minecraft/obsidian-0.pngObsidian
-1witchery/ingredient-93.pngHappenstance Oil
-1Retrievalwitchery/ingredient-94.pngSeer Stone
+1minecraft/obsidian-0.pngObsidian
+1witchery/ingredient-93.pngHappenstance Oil
+1Retrievalwitchery/ingredient-94.pngSeer Stone
 1

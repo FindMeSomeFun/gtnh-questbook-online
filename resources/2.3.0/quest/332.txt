@@ -14,5 +14,5 @@ A fully upgraded oven will therefore cook at 130 percent speed (compared to a fu
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDRetrievalwitchery/witchesovenidle-0.pngWitches Oven
-1witchery/ingredient-27.pngClay Jar
+1witchery/ingredient-27.pngClay Jar
 20

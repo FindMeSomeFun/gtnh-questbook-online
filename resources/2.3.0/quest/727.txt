@@ -3,6 +3,6 @@
 Just watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only access the contents from the front (automation can use any side). ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemharvestcraft/butteredpotatoItem-0.pngButtered Potato;harvestcraft:butteredpotatoItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDCraftingStorageDrawers/fullDrawers1-0.pngOak Drawer;Holds 64 stacks per drawer;Burn Time: 300
-4StorageDrawers/fullDrawers2-0.pngOak Drawers 1x2;Holds 32 stacks per drawer;Burn Time: 300
-4StorageDrawers/fullDrawers4-0.pngOak Drawers 2x2;Holds 16 stacks per drawer;Burn Time: 300
+4StorageDrawers/fullDrawers2-0.pngOak Drawers 1x2;Holds 32 stacks per drawer;Burn Time: 300
+4StorageDrawers/fullDrawers4-0.pngOak Drawers 2x2;Holds 16 stacks per drawer;Burn Time: 300
 4

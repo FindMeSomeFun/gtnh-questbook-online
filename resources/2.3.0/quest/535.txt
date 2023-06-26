@@ -2,8 +2,8 @@
 1minecraft/bucket-0.pngBucket
 2gregtech/gt.blockores-810.pngRedstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
 10tasksANDRetrievalminecraft/cauldron-0.pngCauldron
-1Optionalminecraft/water_bucket-0.pngWater Bucket
-1Optionalgregtech/gt.metaitem.01-5810.pngCrushed Redstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
-64Optionalgregtech/gt.metaitem.01-3810.pngImpure Pile of Redstone Dust;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083;Throw into Cauldron to get clean Dust
-64Retrievalminecraft/redstone-0.pngRedstone
+1Optionalminecraft/water_bucket-0.pngWater Bucket
+1Optionalgregtech/gt.metaitem.01-5810.pngCrushed Redstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
+64Optionalgregtech/gt.metaitem.01-3810.pngImpure Pile of Redstone Dust;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083;Throw into Cauldron to get clean Dust
+64Retrievalminecraft/redstone-0.pngRedstone
 64

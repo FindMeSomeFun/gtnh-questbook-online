@@ -7,9 +7,9 @@ For each circuit tier, you can configure 1/4 more of your farm.ANDpre5840Fo
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25tasksANDOptionalgregtech/gt.metaitem.03-32100.pngCircuit Board;A basic Circuit Board
-1gregtech/gt.metaitem.01-32700.pngVacuum Tube;A very simple Circuit;ULV-Tier
-2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-4gregtech/gt.metaitem.01-29032.pngIron Foil;Fe
-2gregtech/gt.metaitem.02-19032.pngFine Iron Wire;Fe
-1RetrievalForestry/chipsets-0.pngBasic Circuit Board
+1gregtech/gt.metaitem.01-32700.pngVacuum Tube;A very simple Circuit;ULV-Tier
+2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+4gregtech/gt.metaitem.01-29032.pngIron Foil;Fe
+2gregtech/gt.metaitem.02-19032.pngFine Iron Wire;Fe
+1RetrievalForestry/chipsets-0.pngBasic Circuit Board
 1

@@ -5,11 +5,11 @@
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
-1witchery/ingredient-100.pngFanciful Thread
-2minecraft/item_frame-0.pngItem Frame
-1minecraft/feather-0.pngFeather
-2minecraft/potion-16456.pngSplash Potion of Weakness;Weakness (3:00);When Applied:;-0.5 Attack Damage
-1minecraft/potion-16457.pngSplash Potion of Strength;Strength (6:00);When Applied:;+130% Attack Damage
-1witchery/ingredient-29.pngDiamond Vapor
-1Retrievalwitchery/ingredient-4.pngDream Weaver of Iron Arm
+1witchery/ingredient-100.pngFanciful Thread
+2minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2minecraft/potion-16456.pngSplash Potion of Weakness;Weakness (3:00);When Applied:;-0.5 Attack Damage
+1minecraft/potion-16457.pngSplash Potion of Strength;Strength (6:00);When Applied:;+130% Attack Damage
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-4.pngDream Weaver of Iron Arm
 1

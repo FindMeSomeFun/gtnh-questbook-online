@@ -2,5 +2,5 @@
 
 §3This multi is LuV.ANDpre14161gregtech/gt.blockmachines-810.png14931gregtech/gt.blockmachines-16.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 3tasksANDRetrievalgregtech/gt.blockmachines-942.pngAmazon Warehousing Depot.;Machine Type: Packager;Controller Block for the Amazon Warehouse;This Multiblock is used for EXTREME packaging requirements;Dust Schematics are inserted into the input busses;If inserted into the controller, it is shared across all busses;1x, 2x, 3x & Other Schematics are to be placed into the controller GUI slot;500% faster than using single block machines of the same voltage;Only uses 75% of the EU/t normally required;Processes 16 items per voltage tier;Causes: 40 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GT++
-1miscutils/gtplusplus.blockcasings.3-9.pngSupply Depot Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/gtplusplus.blockcasings.3-9.pngSupply Depot Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

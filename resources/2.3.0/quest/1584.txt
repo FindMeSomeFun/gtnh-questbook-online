@@ -8,11 +8,11 @@ Having a pool of flowing spirit near a Dream Weaver of Nightmares will decrease 
 5dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5tasksANDLocationDIM/55-.pngSpirit World
-1Optionalwitchery/ingredient-100.pngFanciful Thread
-1witchery/spanishmoss-0.pngSpanish Moss
-1witchery/ingredient-69.pngWater Artichoke Globe
-1witchery/ingredient-22.pngMandrake Root
-1witchery/glintweed-0.pngGlint Weed
-1witchery/ingredient-24.pngWool of Bat
-1Retrievalwitchery/ingredient-96.pngBrew of Flowing Spirit
+1Optionalwitchery/ingredient-100.pngFanciful Thread
+1witchery/spanishmoss-0.pngSpanish Moss
+1witchery/ingredient-69.pngWater Artichoke Globe
+1witchery/ingredient-22.pngMandrake Root
+1witchery/glintweed-0.pngGlint Weed
+1witchery/ingredient-24.pngWool of Bat
+1Retrievalwitchery/ingredient-96.pngBrew of Flowing Spirit
 3

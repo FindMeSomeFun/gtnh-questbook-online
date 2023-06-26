@@ -8,9 +8,9 @@ Latter bee combs need the GT one though, so keep that in mind.ANDpre5770For
 15dreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17310.pngCupronickel Plate;CuNi
-2gregtech/gt.metaitem.01-32600.pngElectric Motor
-2dreamcraft/item.SteelBars-0.pngSteel Bars
-2gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
-2Forestry/sturdyMachine-0.pngSturdy Casing
-1RetrievalForestry/factory-2.pngCentrifuge
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+2dreamcraft/item.SteelBars-0.pngSteel Bars
+2gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
+2Forestry/sturdyMachine-0.pngSturdy Casing
+1RetrievalForestry/factory-2.pngCentrifuge
 1

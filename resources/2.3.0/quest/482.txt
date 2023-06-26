@@ -9,10 +9,10 @@ Also, large quantities can cause server lag, especially if they are bumping into
 1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 3Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 20tasksANDRetrievalminecraft/leather-0.pngLeather
-100minecraft/beef-0.pngRaw Beef;minecraft:beef
-100Retrievalminecraft/wool-0.pngWool
-100harvestcraft/muttonrawItem-0.pngRaw Mutton;harvestcraft:muttonrawItem
-100Retrievalminecraft/porkchop-0.pngRaw Porkchop;minecraft:porkchop
-100Retrievalminecraft/chicken-0.pngRaw Chicken;minecraft:chicken
-100minecraft/feather-0.pngFeather
+100minecraft/beef-0.pngRaw Beef;minecraft:beef
+100Retrievalminecraft/wool-0.pngWool
+100harvestcraft/muttonrawItem-0.pngRaw Mutton;harvestcraft:muttonrawItem
+100Retrievalminecraft/porkchop-0.pngRaw Porkchop;minecraft:porkchop
+100Retrievalminecraft/chicken-0.pngRaw Chicken;minecraft:chicken
+100minecraft/feather-0.pngFeather
 100

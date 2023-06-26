@@ -1,6 +1,6 @@
 3290miscutils/gtplusplus.blockcasings.5-11.png0Tier 2 Transforming18-1After a significant amount of progression, you will be able to build the tier 2 QFT by replacing 2 of its casings, the ones on the exterior shell, by the ones listed in this quest. When finished, the multi will be able to perform the monaline skip and a two out of three naqline skips. Amidst all the expensive materials, there is one that can only be crafted in a t1 QFT, so I hope you've got it going.
 
 The first item - Hyper-Stable Self-Healing Adhesive. This adhesive is very effective at sticking things together, but it is also quantum-stable, which means that it cannot be altered or damaged by simple quantum fields. On top of that, it also has self-healing properties, which means that it can tolerate the increased energy flow of a tier 2, 3 or 4 QFT by repairing itself even when damaged, regardless of how that damage is applied.ANDpre32880TaintedMagic/ItemFocusVisShard-0.png32890Avaritia/Resource-5.pngrewardstasksANDRetrievalmiscutils/gtplusplus.blockcasings.5-8.pngCosmic Fabric Manipulator;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-233miscutils/gtplusplus.blockcasings.5-12.pngCosmic Fabric Shielding Core;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-142miscutils/item.BasicGenericChemItem-22.pngRare-Earth Group Catalyst;Active Reaction Agent;50 / 50
+233miscutils/gtplusplus.blockcasings.5-12.pngCosmic Fabric Shielding Core;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+142miscutils/item.BasicGenericChemItem-22.pngRare-Earth Group Catalyst;Active Reaction Agent;50 / 50
 1

@@ -4,6 +4,6 @@ With Cupronickel coils the oven is a bit slower. Each coil tier speeds up the ch
 2dreamcraft/tile.TripleCompressedCharcoal-0.pngBlock of Triple Compressed Charcoal;Burn Time: 11664000
 3Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionaldreamcraft/gt.blockcasingsNH-2.pngPyrolyse Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-66Retrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven;Machine Type: Coke Oven;Controller block for the Pyrolyse Oven;Industrial Charcoal producer;Processing speed scales linearly with Coil tier:;CuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.;EU/t is not affected by Coil tier;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings5-0.pngCupronickel Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 1801 Kelvin
+66Retrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven;Machine Type: Coke Oven;Controller block for the Pyrolyse Oven;Industrial Charcoal producer;Processing speed scales linearly with Coil tier:;CuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.;EU/t is not affected by Coil tier;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+1Optionalgregtech/gt.blockcasings5-0.pngCupronickel Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 1801 Kelvin
 9

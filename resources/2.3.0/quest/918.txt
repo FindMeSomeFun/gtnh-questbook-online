@@ -3,5 +3,5 @@
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1tasksANDLocationDIM/28-.pngMoon
-1Huntmobs/GalacticraftCore-EvolvedSkeletonBoss-.pngEvolved Skeleton Boss
+1Huntmobs/GalacticraftCore-EvolvedSkeletonBoss-.pngEvolved Skeleton Boss
 1

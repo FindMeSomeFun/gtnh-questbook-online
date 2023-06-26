@@ -4,7 +4,7 @@
 9Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 2tasksANDRetrievalminecraft/potato-0.pngPotato;minecraft:potato
-1Retrievalminecraft/baked_potato-0.pngBaked Potato;minecraft:baked_potato
-1Optionalminecraft/stick-0.pngStick;Burn Time: 100
-1Craftinggregtech/gt.metaitem.02-32201.pngRoasted Potato on a Stick;gregtech:gt.metaitem.02;Still looks like a Crab Claw
+1Retrievalminecraft/baked_potato-0.pngBaked Potato;minecraft:baked_potato
+1Optionalminecraft/stick-0.pngStick;Burn Time: 100
+1Craftinggregtech/gt.metaitem.02-32201.pngRoasted Potato on a Stick;gregtech:gt.metaitem.02;Still looks like a Crab Claw
 1

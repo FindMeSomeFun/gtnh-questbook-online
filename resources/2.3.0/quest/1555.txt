@@ -14,7 +14,7 @@ Mutandis is made in a Witches' Cauldron using Mandrake Root, Exhale of the Horne
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDOptionalminecraft/egg-0.pngEgg
-8witchery/ingredient-22.pngMandrake Root
-8witchery/ingredient-31.pngExhale of the Horned One
-8Retrievalwitchery/ingredient-14.pngMutandis
+8witchery/ingredient-22.pngMandrake Root
+8witchery/ingredient-31.pngExhale of the Horned One
+8Retrievalwitchery/ingredient-14.pngMutandis
 48

@@ -15,8 +15,8 @@ There are a few places throughout the modpack where you still need the physical 
 
 §3As you can now use the ghost circuits for almost everything, the tasks here are now optional and you can just click the checkmark once you understand how programmed circuits work.ANDpre1051gregtech/gt.blockmachines-221.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDOptionalgregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool
-1Optionalbartworks/gt.BWCircuitProgrammer-0.pngCircuit Programmer;Programs Integrated Circuits;Tier: 1;Has Circuit inside? No;Added by BartWorks
-1Optionalmiscutils/blockCircuitProgrammer-0.pngCircuit Programmer
-1Optionalgregtech/gt.integrated_circuit-1.pngProgrammed Circuit;Configuration: == 1;Right click to reconfigure;Needs a screwdriver or circuit programming tool
-1Checkboxcheckbox-.pngCheckbox
+1Optionalbartworks/gt.BWCircuitProgrammer-0.pngCircuit Programmer;Programs Integrated Circuits;Tier: 1;Has Circuit inside? No;Added by BartWorks
+1Optionalmiscutils/blockCircuitProgrammer-0.pngCircuit Programmer
+1Optionalgregtech/gt.integrated_circuit-1.pngProgrammed Circuit;Configuration: == 1;Right click to reconfigure;Needs a screwdriver or circuit programming tool
+1Checkboxcheckbox-.pngCheckbox
 1

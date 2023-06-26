@@ -4,5 +4,5 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"
 5tasksANDOptionalAWWayofTime/simpleCatalyst-0.pngSimple Catalyst;Used in Alchemy
-16RetrievalAWWayofTime/terrae-0.pngTerrae;Used in Alchemy
+16RetrievalAWWayofTime/terrae-0.pngTerrae;Used in Alchemy
 16

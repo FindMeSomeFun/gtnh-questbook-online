@@ -2,7 +2,7 @@
 8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalEnderIO/blockFusedQuartz-0.pngFused Quartz;Blast Resistant;Glass-Tier: HV;Blast resistance is now 20. DOES NOT PROTECT AGAINST NUKES!
-12Optionalgregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
-4Optionalminecraft/cauldron-0.pngCauldron
-2RetrievalEnderIO/blockReservoir-0.pngReservoir
+12Optionalgregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
+4Optionalminecraft/cauldron-0.pngCauldron
+2RetrievalEnderIO/blockReservoir-0.pngReservoir
 4

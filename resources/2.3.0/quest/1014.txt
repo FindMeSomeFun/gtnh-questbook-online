@@ -11,9 +11,9 @@ Also note that using the fluid solidifer is way faster than the extruder for Blu
 4enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-4gregtech/gt.metaitem.01-32703.pngProcessor Assembly;An Advanced Circuit;HV-Tier
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-32gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-64gregtech/gt.metaitem.01-26309.pngBlue Alloy Bolt;AgRp\u2084
-64Retrievalgregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
+4gregtech/gt.metaitem.01-32703.pngProcessor Assembly;An Advanced Circuit;HV-Tier
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+32gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+64gregtech/gt.metaitem.01-26309.pngBlue Alloy Bolt;AgRp\u2084
+64Retrievalgregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
 4

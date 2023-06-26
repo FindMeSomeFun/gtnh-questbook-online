@@ -4,12 +4,12 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalaxySpace/item.RocketControlComputer-100.pngMoon Buggy Control Computer
-1GalacticraftCore/item.buggymat-0.pngBuggy Wheel
-4GalacticraftCore/item.buggymat-1.pngBuggy Seat
-1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
-11GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
-5gregtech/gt.metaitem.01-23306.pngStainless Steel Rod;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
-8RetrievalGalacticraftCore/item.buggy-0.pngBuggy
-1RetrievalGalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
+1GalacticraftCore/item.buggymat-0.pngBuggy Wheel
+4GalacticraftCore/item.buggymat-1.pngBuggy Seat
+1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+11GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
+5gregtech/gt.metaitem.01-23306.pngStainless Steel Rod;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+8RetrievalGalacticraftCore/item.buggy-0.pngBuggy
+1RetrievalGalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
 1

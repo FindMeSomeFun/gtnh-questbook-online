@@ -4,8 +4,8 @@ First, you'll need to gather various casings for your machines that you'll need.
 
 You use the optical cables to connect machines together. Just make sure that they're painted, as well as what you want to connect them to.ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardsItemgregtech/gt.blockmachines-15470.pngOptical Fiber Cable;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
 64tasksANDRetrievaltectech/gt.blockcasingsTT-0.pngHigh Power Casing;TecTech: Elemental Matter;Well suited for high power applications.;The power levels are rising!
-4tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
-4tectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
-4tectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
-4gregtech/gt.blockmachines-15470.pngOptical Fiber Cable;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
+4tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
+4tectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
+4tectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
+4gregtech/gt.blockmachines-15470.pngOptical Fiber Cable;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
 4

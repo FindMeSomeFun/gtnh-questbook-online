@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-2gregtech/gt.metaitem.01-2817.pngSalt;NaCl
-4Optionalgregtech/gt.metaitem.01-2630.pngSodium Bisulfate Dust;NaHSO\u2084
-14Retrievalgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell;Na\u2082S\u2082O\u2088
+2gregtech/gt.metaitem.01-2817.pngSalt;NaCl
+4Optionalgregtech/gt.metaitem.01-2630.pngSodium Bisulfate Dust;NaHSO\u2084
+14Retrievalgregtech/gt.metaitem.01-30718.pngSodium Persulfate Cell;Na\u2082S\u2082O\u2088
 1

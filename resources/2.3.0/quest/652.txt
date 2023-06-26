@@ -4,10 +4,10 @@ Your jetpack can be (re-)fueled in the IC2 fluid canner with 30 buckets/cells wo
 30enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-2IC2/reactorCoolantSix-1.png60k Coolant Cell
-1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
-1GraviSuite/itemSimpleItem-6.pngEngine Booster
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-1RetrievalIC2/itemArmorJetpack-32767.pngJetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
+2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+2IC2/reactorCoolantSix-1.png60k Coolant Cell
+1adventurebackpack/backpackComponent-5.pngTwo-Cylinder Diesel Engine
+1GraviSuite/itemSimpleItem-6.pngEngine Booster
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+1RetrievalIC2/itemArmorJetpack-32767.pngJetpack\nDurability: 0 / 27\nProtection: 8\nDurability: 0/27
 1

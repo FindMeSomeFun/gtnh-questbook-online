@@ -6,7 +6,7 @@ This spear has superior durability.ANDpre7401gregtech/gt.blockmachines-282.
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalTGregworks/tGregToolPartArrowHead-1594.pngDiamond Arrow Head;Attack: 2 Hearts;Durability: 960;Break Chance: 90%;Weight: 76.8;Parts can be replaced
-1gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
-2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
-1Craftingbattlegear2/spear.diamond-0.pngDiamond Spear;+3 Mounted Damage;+5 Attack Damage;+4 Reach;Durability: 1561/1561
+1gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
+1Craftingbattlegear2/spear.diamond-0.pngDiamond Spear;+3 Mounted Damage;+5 Attack Damage;+4 Reach;Durability: 1561/1561
 1

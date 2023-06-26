@@ -6,5 +6,5 @@ They are both also power sources, if you end up with full super tanks. Their fue
 1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 3tasksANDRetrievalgregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
-64gregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
+64gregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
 64

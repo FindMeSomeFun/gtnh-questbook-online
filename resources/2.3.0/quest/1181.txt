@@ -4,6 +4,6 @@
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalRailcraft/cart.tank-0.pngTank Cart
-1RetrievalRailcraft/cart.work-0.pngWork Cart
-1Retrievalminecraft/chest_minecart-0.pngChest Cart
+1RetrievalRailcraft/cart.work-0.pngWork Cart
+1Retrievalminecraft/chest_minecart-0.pngChest Cart
 1

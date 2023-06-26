@@ -10,16 +10,16 @@ After this you can store more Essense inside the Altar.ANDpre23520HardcoreE
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;50 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/essence_altar-0.pngBasic Essence Altar
-1RetrievalHardcoreEnderExpansion/essence-0.pngDragon Essence
-1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-4minecraft/ender_eye-0.pngEye of Ender
-4minecraft/map-0.pngEmpty Map
-4minecraft/iron_bars-0.pngIron Bars
-4minecraft/book-0.pngBook
-4minecraft/obsidian-0.pngObsidian
-4minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
-4minecraft/stonebrick-0.pngStone Bricks
-4minecraft/end_stone-0.pngEnd Stone
-4HardcoreEnderExpansion/essence-0.pngDragon Essence
-32RetrievalHardcoreEnderExpansion/essence_altar-1.pngDragon Essence Altar
+1RetrievalHardcoreEnderExpansion/essence-0.pngDragon Essence
+1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+4minecraft/ender_eye-0.pngEye of Ender
+4minecraft/map-0.pngEmpty Map
+4minecraft/iron_bars-0.pngIron Bars
+4minecraft/book-0.pngBook
+4minecraft/obsidian-0.pngObsidian
+4minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
+4minecraft/stonebrick-0.pngStone Bricks
+4minecraft/end_stone-0.pngEnd Stone
+4HardcoreEnderExpansion/essence-0.pngDragon Essence
+32RetrievalHardcoreEnderExpansion/essence_altar-1.pngDragon Essence Altar
 1

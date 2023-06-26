@@ -9,5 +9,5 @@ They now also have optional automatic fluid output, fluid locking, overflow void
 8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.blockcasings6-1.pngHermetic Casing I;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1Retrievalgregtech/gt.blockmachines-130.pngSuper Tank I;Stores 4,000,000L of fluid;Will keep its contents when harvested
+1Retrievalgregtech/gt.blockmachines-130.pngSuper Tank I;Stores 4,000,000L of fluid;Will keep its contents when harvested
 1

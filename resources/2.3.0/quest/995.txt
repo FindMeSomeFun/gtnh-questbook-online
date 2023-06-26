@@ -5,5 +5,5 @@ This fine fabric can be used for crafting Apiarist's Clothes or to upgrade a For
 1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
 1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5tasksANDOptionalForestry/craftingMaterial-2.pngSilk Wisp
-216RetrievalForestry/craftingMaterial-3.pngWoven Silk
+216RetrievalForestry/craftingMaterial-3.pngWoven Silk
 24

@@ -8,7 +8,7 @@ You can make splash potions with gunpowder and 3 more End Powder as well.ANDpr
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 3dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 3tasksANDOptionalminecraft/potion-16.pngAwkward Potion;No Effects
-3HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-3HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-24RetrievalHardcoreEnderExpansion/potion_of_purity-0.pngPotion of Purity
+3HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+3HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+24RetrievalHardcoreEnderExpansion/potion_of_purity-0.pngPotion of Purity
 3

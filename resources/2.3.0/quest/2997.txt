@@ -11,5 +11,5 @@ Either way, you will need Electrolyzers. Build some to continue!ANDpre29960
 10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-372.pngAdvanced Electrolyzer;Electrolyzing Molecules;Voltage IN: 128 (MV);Capacity: 8,192 EU
-2gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+2gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
 40

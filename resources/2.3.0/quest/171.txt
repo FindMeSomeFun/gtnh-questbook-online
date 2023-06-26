@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalopenmodularturrets/fenceTierThree-0.pngFence;Hardness: 30 - Blast Resistance: 30
-4openmodularturrets/hardWallTierThree-0.pngHard Wall;Hardness: 30 - Blast Resistance: 30
+4openmodularturrets/hardWallTierThree-0.pngHard Wall;Hardness: 30 - Blast Resistance: 30
 4

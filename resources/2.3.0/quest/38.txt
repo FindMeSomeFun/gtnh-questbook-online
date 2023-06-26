@@ -8,7 +8,7 @@ You can then use your fancy new bronze to make better tools with a higher mining
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDRetrievalTConstruct/metalPattern-2.pngPickaxe Head Cast;Material Cost: 1
-1RetrievalTConstruct/metalPattern-3.pngShovel Head Cast;Material Cost: 1
-1RetrievalTConstruct/pickaxeHead-14.pngBronze Pickaxe Head;Reinforced I;Durability: 285;Mining Speed: 6.5;Mining Level: 03-Tin;Parts can be replaced
-1RetrievalTConstruct/shovelHead-14.pngBronze Shovel Head;Reinforced I;Durability: 285;Mining Speed: 6.5;Mining Level: 04-Redstone;Parts can be replaced
+1RetrievalTConstruct/metalPattern-3.pngShovel Head Cast;Material Cost: 1
+1RetrievalTConstruct/pickaxeHead-14.pngBronze Pickaxe Head;Reinforced I;Durability: 285;Mining Speed: 6.5;Mining Level: 03-Tin;Parts can be replaced
+1RetrievalTConstruct/shovelHead-14.pngBronze Shovel Head;Reinforced I;Durability: 285;Mining Speed: 6.5;Mining Level: 04-Redstone;Parts can be replaced
 1

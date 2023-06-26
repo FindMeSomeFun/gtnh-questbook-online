@@ -13,11 +13,11 @@ knife...ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceharvestcraft
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalharvestcraft/saucepanItem-0.pngSaucepan
-1harvestcraft/potItem-0.pngPot
-1gregtech/gt.metatool.01-46.pngRolling Pin;Durability: 0 / 0;NULL lvl 0;Attack Damage: 2.0;Mining Speed: 1.0
-1gregtech/gt.metatool.01-24.pngMortar;Durability: 0 / 0;NULL lvl 0;Attack Damage: 2.0;Mining Speed: 1.0
-1harvestcraft/mixingbowlItem-0.pngMixing Bowl
-1gregtech/gt.metatool.01-14.pngSoft Mallet;Durability: 0 / 0;NULL lvl 0;Attack Damage: 3.0;Mining Speed: 0.1;Activates and Deactivates Machines
-1harvestcraft/skilletItem-0.pngSkillet
-1gregtech/gt.metatool.01-34.pngKnife;Durability: 0 / 0;NULL lvl 0;Attack Damage: 0.0;Mining Speed: 0.5
+1harvestcraft/potItem-0.pngPot
+1gregtech/gt.metatool.01-46.pngRolling Pin;Durability: 0 / 0;NULL lvl 0;Attack Damage: 2.0;Mining Speed: 1.0
+1gregtech/gt.metatool.01-24.pngMortar;Durability: 0 / 0;NULL lvl 0;Attack Damage: 2.0;Mining Speed: 1.0
+1harvestcraft/mixingbowlItem-0.pngMixing Bowl
+1gregtech/gt.metatool.01-14.pngSoft Mallet;Durability: 0 / 0;NULL lvl 0;Attack Damage: 3.0;Mining Speed: 0.1;Activates and Deactivates Machines
+1harvestcraft/skilletItem-0.pngSkillet
+1gregtech/gt.metatool.01-34.pngKnife;Durability: 0 / 0;NULL lvl 0;Attack Damage: 0.0;Mining Speed: 0.5
 1

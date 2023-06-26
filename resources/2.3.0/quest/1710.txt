@@ -3,12 +3,12 @@
 4enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
-12gregtech/gt.metaitem.03-32090.pngUltimate Crystalcomputer;An Ultimate Circuit;ZPM-Tier
-2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor;Advanced Electronic Component
-48gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor;Advanced Electronic Component
-64gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-64gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
-64Retrievalgregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe;A Super Circuit;UV-Tier
-1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit;A Sliced Circuit;Added by BartWorks
-1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint;An Imprint for a Circuit;Added by BartWorks
+12gregtech/gt.metaitem.03-32090.pngUltimate Crystalcomputer;An Ultimate Circuit;ZPM-Tier
+2gregtech/gt.metaitem.03-32183.pngAdvanced SMD Inductor;Advanced Electronic Component
+48gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor;Advanced Electronic Component
+64gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+64gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
+64Retrievalgregtech/gt.metaitem.03-32091.pngCrystalprocessor Mainframe;A Super Circuit;UV-Tier
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit;A Sliced Circuit;Added by BartWorks
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint;An Imprint for a Circuit;Added by BartWorks
 1

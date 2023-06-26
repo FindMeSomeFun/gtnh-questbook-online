@@ -2,5 +2,5 @@
 
 §3§3Just having the fluid in cells or buckets in your inventory lets the quest detect and consume it.ANDpre12840BiomesOPlenty/hive-3.pngrewardsItemForestry/honeyedSlice-0.pngHoneyed Slice;Forestry:honeyedSlice
 8tasksORFluidfluids/for-honey-.pngHoney
-1000Fluidfluids/honey-.pngHoney
+1000Fluidfluids/honey-.pngHoney
 1000

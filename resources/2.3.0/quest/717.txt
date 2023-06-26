@@ -6,9 +6,9 @@ To open MV, you still need to make an EBF and do the Aluminium quest if you have
 4gregtech/gt.metaitem.02-32102.pngWine;gregtech:gt.metaitem.02;Ordinary
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-2gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
-2gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
-4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-6gregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.02-18305.pngSteel Casing;Fe\u2085\u2080C
+2gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
+4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+6gregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
 2

@@ -10,6 +10,6 @@ Some of the dungeons have Spawner of Enderman, so you can do whatever you want w
 8enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 20tasksANDRetrievalTConstruct/woodPattern-10.pngPan Pattern;Material Cost: 1
-1RetrievalTConstruct/metalPattern-10.pngPan Cast;Material Cost: 1
-1Retrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1RetrievalTConstruct/metalPattern-10.pngPan Cast;Material Cost: 1
+1Retrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 16

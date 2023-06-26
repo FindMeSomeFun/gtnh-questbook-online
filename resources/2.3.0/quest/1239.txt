@@ -1,7 +1,7 @@
 1239gregtech/gt.metaitem.03-32041.png1§9§lNOR and NAND Chips6-1Nand is used for data sticks, data orbs, and UV circuits. NOR chips are needed for data orbs and LuV circuits. You can get these by cutting NAND and NOR wafers. Just worry about the data sticks for now.ANDpre7721gregtech/gt.blockmachines-593.png9401gregtech/gt.blockmachines-1172.png12381gregtech/gt.metaitem.03-32034.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.03-32042.pngNOR Memory Chip;Raw Circuit
-1gregtech/gt.metaitem.03-32040.pngNAND Memory Chip;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
-1gregtech/gt.metaitem.03-32041.pngNAND Memory Chip;Integrated Circuit
+1gregtech/gt.metaitem.03-32040.pngNAND Memory Chip;Raw Circuit
+1Retrievalgregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
+1gregtech/gt.metaitem.03-32041.pngNAND Memory Chip;Integrated Circuit
 1

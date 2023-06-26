@@ -10,14 +10,14 @@ You also need a higher tier monitor to display colors or to get touchscreen comp
 1ItemOpenComputers/screen2-0.pngScreen;Hold [NONE] for material costs.
 2miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
 2tasksANDOptionalOpenComputers/item-33.pngCard Base
-1OpenComputers/item-27.pngArithmetic Logic Unit
-8OpenComputers/item-28.pngControl Unit
-1OpenComputers/item-24.pngMicrochip
-1OpenComputers/item-1.pngMemory;Tier 1
-1RetrievalOpenComputers/item-8.pngGraphics Card;Tier 1
-1Optionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-2gregtech/gt.metaitem.01-32740.pngComputer Monitor Cover;Displays Data and GUI
-2gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
-4gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
-4ConsumeOpenComputers/screen1-0.pngScreen;Hold [NONE] for material costs.
+1OpenComputers/item-27.pngArithmetic Logic Unit
+8OpenComputers/item-28.pngControl Unit
+1OpenComputers/item-24.pngMicrochip
+1OpenComputers/item-1.pngMemory;Tier 1
+1RetrievalOpenComputers/item-8.pngGraphics Card;Tier 1
+1Optionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2gregtech/gt.metaitem.01-32740.pngComputer Monitor Cover;Displays Data and GUI
+2gregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
+4gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
+4ConsumeOpenComputers/screen1-0.pngScreen;Hold [NONE] for material costs.
 2

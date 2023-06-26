@@ -8,8 +8,8 @@ You can use different modes to collect different crops. Arboretum for trees, inf
 25dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25tasksANDOptionalminecraft/stonebrick-0.pngStone Bricks
-9gregtech/gt.metaitem.02-18035.pngCopper Casing;Cu
-36gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-36Forestry/thermionicTubes-10.pngApatine Electron Tube
-9RetrievalForestry/ffarm-0.pngFarm Block;Stone Bricks
+9gregtech/gt.metaitem.02-18035.pngCopper Casing;Cu
+36gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+36Forestry/thermionicTubes-10.pngApatine Electron Tube
+9RetrievalForestry/ffarm-0.pngFarm Block;Stone Bricks
 36

@@ -29,12 +29,12 @@ TNT explodes immediately.ANDpre23500HardcoreEnderExpansion/end_powder_ore-0
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 1tasksANDRetrievalminecraft/tnt-0.pngTNT
-7Retrievalminecraft/feather-0.pngFeather
-2minecraft/slime_ball-0.pngSlimeball
-2minecraft/gunpowder-0.pngGunpowder
-2minecraft/redstone-0.pngRedstone
-2minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-2HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
-2minecraft/redstone_torch-0.pngRedstone Torch
-2RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+7Retrievalminecraft/feather-0.pngFeather
+2minecraft/slime_ball-0.pngSlimeball
+2minecraft/gunpowder-0.pngGunpowder
+2minecraft/redstone-0.pngRedstone
+2minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+2HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+2minecraft/redstone_torch-0.pngRedstone Torch
+2RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
 28

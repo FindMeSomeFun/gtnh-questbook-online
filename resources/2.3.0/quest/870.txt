@@ -3,7 +3,7 @@
 Hint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalgregtech/gt.blockmachines-104.pngHigh Pressure Furnace;Smelting things with compressed Steam
-2Railcraft/machine.beta-4.pngHigh Pressure Boiler Tank;Multi-Block: Variable Size, Above Firebox;Dimensions: 1x1x1, 2x2x2, 2x3x2,;3x2x3, 3x3x3, 3x4x3;Produces up to 40L of Steam per tick;Mobs cannot Spawn on this Block
-8gregtech/gt.blockcasings3-14.pngSteel Firebox Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-8RetrievalRailcraft/machine.alpha-3.pngSteam Oven;Multi-Block: 2x2x2;Mobs cannot Spawn on this Block
+2Railcraft/machine.beta-4.pngHigh Pressure Boiler Tank;Multi-Block: Variable Size, Above Firebox;Dimensions: 1x1x1, 2x2x2, 2x3x2,;3x2x3, 3x3x3, 3x4x3;Produces up to 40L of Steam per tick;Mobs cannot Spawn on this Block
+8gregtech/gt.blockcasings3-14.pngSteel Firebox Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8RetrievalRailcraft/machine.alpha-3.pngSteam Oven;Multi-Block: 2x2x2;Mobs cannot Spawn on this Block
 8

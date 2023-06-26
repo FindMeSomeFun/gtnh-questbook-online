@@ -4,5 +4,5 @@ There is something that is worth considering, though: Benzene is not the only us
 32enhancedlootbags/lootbag-5-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-532.pngAdvanced Distillery;Extracting the most relevant Parts of Fluids;Voltage IN: 128 (MV);Capacity: 8,192 EU
-1gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+1gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
 32

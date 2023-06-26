@@ -13,5 +13,5 @@ Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelV
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDRetrievalTConstruct/travelBoots-0.pngTraveller''s Boots;Ability: High Step;Protection: 6%;Protection: 1;Durability: 1035/1035
-1minecraft/waterlily-0.pngLily Pad
+1minecraft/waterlily-0.pngLily Pad
 2

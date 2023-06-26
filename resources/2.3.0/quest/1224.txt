@@ -5,7 +5,7 @@ You can also use the molten form for some other things you might want to check o
 8enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
-108gregtech/gt.metaitem.01-30648.pngEpichlorohydrin Cell;C\u2083H\u2085ClO
-36gregtech/gt.metaitem.01-30669.pngBisphenol A Cell;C\u2081\u2085H\u2081\u2086O\u2082
-18Retrievalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+108gregtech/gt.metaitem.01-30648.pngEpichlorohydrin Cell;C\u2083H\u2085ClO
+36gregtech/gt.metaitem.01-30669.pngBisphenol A Cell;C\u2081\u2085H\u2081\u2086O\u2082
+18Retrievalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
 125

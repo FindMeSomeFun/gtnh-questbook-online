@@ -19,5 +19,5 @@ You can put covers such as GT oak planks or plates on a pipe as well. Normally t
 8enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate;SnCu\u2083
-6Craftinggregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,000 K
+6Craftinggregtech/gt.blockmachines-5123.pngLarge Bronze Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,000 K
 1

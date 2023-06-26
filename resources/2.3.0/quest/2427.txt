@@ -1,4 +1,4 @@
 2427minecraft/gold_ore-0.png0Gold Ore exchange4024000You can exchange your Stack of GT Gold Ore for vanilla Gold Ore.ANDpre8260minecraft/iron_ore-0.pngrewardsItemminecraft/gold_ore-0.pngGold Ore
 64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-50gregtech/gt.blockores-86.pngGold Ore;Au
+50gregtech/gt.blockores-86.pngGold Ore;Au
 64

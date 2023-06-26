@@ -3,5 +3,5 @@
 §3F4 is great while breeding bees, but F1 is what you want to use when producing stuff.ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Fertility: 1
-1gendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Fertility: 4
+1gendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Fertility: 4
 1

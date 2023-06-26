@@ -8,8 +8,8 @@ If you haven't started on defeating the TF bosses yet, you'll need to do so to p
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalForestry/oakStick-0.pngImpregnated Stick
-1OptionalThaumcraft/WandCap-0.pngIron Cap
-2OptionalTwilightForest/item.nagaScale-0.pngNaga Scale
-2Optionalgregtech/gt.metaitem.01-27019.pngAluminium Screw;Al
-4RetrievalThaumcraft/WandCasting-0.pngIron Capped Wooden Wand;Capacity 25 (110% avg vis cost);0 | 0 | 0 | 0 | 0 | 0
+1OptionalThaumcraft/WandCap-0.pngIron Cap
+2OptionalTwilightForest/item.nagaScale-0.pngNaga Scale
+2Optionalgregtech/gt.metaitem.01-27019.pngAluminium Screw;Al
+4RetrievalThaumcraft/WandCasting-0.pngIron Capped Wooden Wand;Capacity 25 (110% avg vis cost);0 | 0 | 0 | 0 | 0 | 0
 1

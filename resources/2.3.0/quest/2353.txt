@@ -26,9 +26,9 @@ Sphalerite: You can macerate it for crushed normal sphalerite,ORpre23560Har
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
-64HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
-16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
-16HardcoreEnderExpansion/stardust-0.pngStardust
-32HardcoreEnderExpansion/endium_ore-0.pngEndium Ore
-16HardcoreEnderExpansion/sphalerite-0.pngSphalerite
+64HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
+16HardcoreEnderExpansion/stardust-0.pngStardust
+32HardcoreEnderExpansion/endium_ore-0.pngEndium Ore
+16HardcoreEnderExpansion/sphalerite-0.pngSphalerite
 16

@@ -7,8 +7,8 @@ Tasks supporting the OSS can be selected through the built in interface to enabl
 8enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalminecraft/chest-0.pngChest;Burn Time: 300
-1gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
-4gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
-3gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
-1Retrievalbetterquesting/submit_station-0.pngObject Submission Station;Burn Time: 300
+1gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
+4gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+3gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
+1Retrievalbetterquesting/submit_station-0.pngObject Submission Station;Burn Time: 300
 1

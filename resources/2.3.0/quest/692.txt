@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15tasksANDOptionalIC2/itemPartAlloy-0.pngAdvanced Alloy
-6minecraft/leather_chestplate-0.pngLeather Tunic;Protection: 3;Durability: 80/80
-1Railcraft/armor.steel.plate-0.pngSteel Chestplate;Protection: 6;Durability: 400/400
-1RetrievalIC2/itemArmorAlloyChestplate-0.pngComposite Vest;Protection: 9;Durability: 800/800
+6minecraft/leather_chestplate-0.pngLeather Tunic;Protection: 3;Durability: 80/80
+1Railcraft/armor.steel.plate-0.pngSteel Chestplate;Protection: 6;Durability: 400/400
+1RetrievalIC2/itemArmorAlloyChestplate-0.pngComposite Vest;Protection: 9;Durability: 800/800
 1

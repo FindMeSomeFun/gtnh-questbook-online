@@ -7,8 +7,8 @@ You can choose two more doors as a reward if you like.ANDpre371minecraft/ir
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalminecraft/planks-0.pngOak Wood Planks;Burn Time: 300
-4minecraft/trapdoor-0.pngTrapdoor;Burn Time: 300
-1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-1gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-1Retrievalminecraft/wooden_door-0.pngWooden Door;Burn Time: 600
+4minecraft/trapdoor-0.pngTrapdoor;Burn Time: 300
+1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+1gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+1Retrievalminecraft/wooden_door-0.pngWooden Door;Burn Time: 600
 1

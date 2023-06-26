@@ -4,8 +4,8 @@
 768Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
 2dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 2tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-19dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plate
-266gregtech/gt.metaitem.01-26388.pngBlack Plutonium Bolt;SpPu
-228Optionaldreamcraft/item.HeavyDutyAlloyIngotT8-0.pngHeavy Duty Alloy Ingot T8
-19Retrievaldreamcraft/item.HeavyDutyPlateTier8-0.pngHeavy Duty Plate Tier 8
+19dreamcraft/item.BlackPlutoniumCompressedPlate-0.pngCompressed Black Plutonium Plate
+266gregtech/gt.metaitem.01-26388.pngBlack Plutonium Bolt;SpPu
+228Optionaldreamcraft/item.HeavyDutyAlloyIngotT8-0.pngHeavy Duty Alloy Ingot T8
+19Retrievaldreamcraft/item.HeavyDutyPlateTier8-0.pngHeavy Duty Plate Tier 8
 19

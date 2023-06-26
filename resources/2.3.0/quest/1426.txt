@@ -7,6 +7,6 @@ You can also just mine the fallen meteors on the surface. Use your ears to liste
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2tasksORRetrievalgregtech/gt.metaitem.01-5340.pngCrushed Meteoric Iron Ore;SpFe
-32Retrievalgregtech/gt.metaitem.01-3340.pngImpure Pile of Meteoric Iron Dust;SpFe;Throw into Cauldron to get clean Dust
-32RetrievalGalacticraftCore/item.meteoricIronRaw-0.pngRaw Meteoric Iron
+32Retrievalgregtech/gt.metaitem.01-3340.pngImpure Pile of Meteoric Iron Dust;SpFe;Throw into Cauldron to get clean Dust
+32RetrievalGalacticraftCore/item.meteoricIronRaw-0.pngRaw Meteoric Iron
 16

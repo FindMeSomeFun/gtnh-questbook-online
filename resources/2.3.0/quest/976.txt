@@ -1,4 +1,4 @@
 976gregtech/gt.metaitem.01-30706.png0Ethanol4024000Want some ethanol? Buy some!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
-16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5

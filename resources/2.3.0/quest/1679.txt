@@ -4,5 +4,5 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.03-32056.pngQBit Wafer;Raw Circuit
-2Retrievalgregtech/gt.metaitem.03-32057.pngQBit Processing Unit;Quantum CPU
+2Retrievalgregtech/gt.metaitem.03-32057.pngQBit Processing Unit;Quantum CPU
 8

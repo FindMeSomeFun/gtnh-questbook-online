@@ -2,6 +2,6 @@
 
 You only get 2/9 buckets of Steam from 2 steps ago when automating, so use a fluid heater to get the rest.ANDpre23141bartworks/gt.bwMetaGeneratedcell-68.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-68.pngRuthenium Tetroxide Solution Cell;???;Added by BartWorks
-9gregtech/gt.metaitem.98-0.pngSteam Cell
-9Retrievalbartworks/gt.bwMetaGeneratedcell-67.pngHot Ruthenium Tetroxide Solution Cell;???;Added by BartWorks
+9gregtech/gt.metaitem.98-0.pngSteam Cell
+9Retrievalbartworks/gt.bwMetaGeneratedcell-67.pngHot Ruthenium Tetroxide Solution Cell;???;Added by BartWorks
 18

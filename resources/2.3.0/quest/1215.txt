@@ -14,10 +14,10 @@ Biomass Startup/Restart Only 50 RF/t 2500ANDpre5770Forestry/sturdyMachine-0
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17300.pngBronze Plate;SnCu\u2083
-2gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-1gregtech/gt.metaitem.02-24300.pngBronze Spring;SnCu\u2083
-2gregtech/gt.metaitem.02-31300.pngBronze Gear;SnCu\u2083
-2Forestry/sturdyMachine-0.pngSturdy Casing
-1minecraft/piston-0.pngPiston
-1RetrievalForestry/engine-2.pngBiogas Engine
+2gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
+1gregtech/gt.metaitem.02-24300.pngBronze Spring;SnCu\u2083
+2gregtech/gt.metaitem.02-31300.pngBronze Gear;SnCu\u2083
+2Forestry/sturdyMachine-0.pngSturdy Casing
+1minecraft/piston-0.pngPiston
+1RetrievalForestry/engine-2.pngBiogas Engine
 1

@@ -9,12 +9,12 @@ You believe if you had more powerful acids and machines, you could extract even 
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalmiscutils/itemDustGreenockite-0.pngGreenockite Dust;CdS;Hold Ctrl to show additional info.
-1miscutils/itemDustLanthaniteCe-0.pngLanthanite;Ce\u2082O\u2083Ca\u2083H\u2082O;Hold Ctrl to show additional info.
-11miscutils/itemDustAgarditeCd-0.pngAgardite;CdCaCu\u2087As\u2084O\u2082\u2081H\u2081\u2081;Hold Ctrl to show additional info.
-45miscutils/itemDustYttrialite-0.pngYttrialite Dust;Y\u2082Th\u2082Si\u2082O\u2087;Hold Ctrl to show additional info.
-13gregtech/gt.metaitem.01-2522.pngNether Quartz Dust;SiO\u2082
-1gregtech/gt.metaitem.01-2830.pngGalena Dust;PbS
-2gregtech/gt.metaitem.01-2855.pngChalcopyrite Dust;CuFeS\u2082
-4miscutils/itemDustCryoliteF-0.pngCryolite;Na\u2083AlF\u2086;Hold Ctrl to show additional info.
-10gregtech/gt.metaitem.01-2045.pngYttrium Dust;Y
+1miscutils/itemDustLanthaniteCe-0.pngLanthanite;Ce\u2082O\u2083Ca\u2083H\u2082O;Hold Ctrl to show additional info.
+11miscutils/itemDustAgarditeCd-0.pngAgardite;CdCaCu\u2087As\u2084O\u2082\u2081H\u2081\u2081;Hold Ctrl to show additional info.
+45miscutils/itemDustYttrialite-0.pngYttrialite Dust;Y\u2082Th\u2082Si\u2082O\u2087;Hold Ctrl to show additional info.
+13gregtech/gt.metaitem.01-2522.pngNether Quartz Dust;SiO\u2082
+1gregtech/gt.metaitem.01-2830.pngGalena Dust;PbS
+2gregtech/gt.metaitem.01-2855.pngChalcopyrite Dust;CuFeS\u2082
+4miscutils/itemDustCryoliteF-0.pngCryolite;Na\u2083AlF\u2086;Hold Ctrl to show additional info.
+10gregtech/gt.metaitem.01-2045.pngYttrium Dust;Y
 1

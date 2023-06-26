@@ -3,6 +3,6 @@
 Now is probably a good time to look at stockpiling chlorine. Look for salt ores, or lapis veins. You can also make salt water with ghast tears. Better get started with IC2 crops, you'll need a lot of chlorine later!ANDpre18121gregtech/gt.metaitem.01-30667.pngrewardsItemgregtech/gt.blockores-944.pngRock Salt Ore;KCl
 64Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
-24gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-144Retrievalgregtech/gt.metaitem.01-30668.pngChloroform Cell;CHCl\u2083
+24gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
+144Retrievalgregtech/gt.metaitem.01-30668.pngChloroform Cell;CHCl\u2083
 24

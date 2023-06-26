@@ -2,6 +2,6 @@
 8enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-2634.pngRaw Styrene-Butadiene Rubber Dust;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
-36gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
-4Retrievalgregtech/gt.metaitem.01-17635.pngStyrene-Butadiene Rubber Sheet;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
+36gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
+4Retrievalgregtech/gt.metaitem.01-17635.pngStyrene-Butadiene Rubber Sheet;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
 36

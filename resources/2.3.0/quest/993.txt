@@ -6,5 +6,5 @@ Use a GregTech or Forestry Centrifuge to get Silky Propoli. For higher tier (and
 1gregtech/gt.metatool.01-28-DamascusSteel-DamascusSteel.pngScoop;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.0;Mining Speed: 8.0;Catches Butterflies on Leftclick
 1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDOptionalForestry/beeCombs-6.pngSilky Comb
-370RetrievalForestry/propolis-3.pngSilky Propolis
+370RetrievalForestry/propolis-3.pngSilky Propolis
 305

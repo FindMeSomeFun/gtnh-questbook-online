@@ -5,5 +5,5 @@ Connections are point-to-point - you can't connect more than 2 blocks together. 
 64enhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalae2stuff/WirelessKit-0.pngWireless Setup Kit;Click Wireless Connector to bind
-1ae2stuff/Wireless-0.pngWireless Connector
+1ae2stuff/Wireless-0.pngWireless Connector
 2

@@ -7,13 +7,13 @@ They can be grown in-world for free by dropping them in water, or at a much fast
 8gregtech/gt.metaitem.01-8523.pngQuartzite;SiO\u2082
 8Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDRetrievalminecraft/sand-0.pngSand
-48gregtech/gt.metaitem.01-2522.pngNether Quartz Dust;SiO\u2082
-16gregtech/gt.metaitem.01-2516.pngCertus Quartz Dust;SiO\u2082
-16appliedenergistics2/item.ItemMultiMaterial-8.pngFluix Dust
-16Retrievalappliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed;This item won''t de-spawn.;0.0%
-32appliedenergistics2/item.ItemCrystalSeed-0.pngCertus Quartz Seed;This item won''t de-spawn.;0.0%
-32appliedenergistics2/item.ItemCrystalSeed-1200.pngFluix Seed;This item won''t de-spawn.;0.0%
-32Retrievalappliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal
-32appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
-32appliedenergistics2/item.ItemMultiMaterial-12.pngPure Fluix Crystal
+48gregtech/gt.metaitem.01-2522.pngNether Quartz Dust;SiO\u2082
+16gregtech/gt.metaitem.01-2516.pngCertus Quartz Dust;SiO\u2082
+16appliedenergistics2/item.ItemMultiMaterial-8.pngFluix Dust
+16Retrievalappliedenergistics2/item.ItemCrystalSeed-600.pngNether Quartz Seed;This item won''t de-spawn.;0.0%
+32appliedenergistics2/item.ItemCrystalSeed-0.pngCertus Quartz Seed;This item won''t de-spawn.;0.0%
+32appliedenergistics2/item.ItemCrystalSeed-1200.pngFluix Seed;This item won''t de-spawn.;0.0%
+32Retrievalappliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal
+32appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
+32appliedenergistics2/item.ItemMultiMaterial-12.pngPure Fluix Crystal
 32

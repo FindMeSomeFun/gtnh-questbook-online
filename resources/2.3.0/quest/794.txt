@@ -4,10 +4,10 @@
 2enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.03-32100.pngCircuit Board;A basic Circuit Board
-16gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
-16gregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
-32gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
-32gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-32gregtech/gt.metaitem.01-26057.pngTin Bolt;Sn
-32Retrievalgregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
+16gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
+16gregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
+32gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
+32gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+32gregtech/gt.metaitem.01-26057.pngTin Bolt;Sn
+32Retrievalgregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
 16

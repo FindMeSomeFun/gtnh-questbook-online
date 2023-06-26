@@ -13,6 +13,6 @@ The ME Wireless Access Point wireless access via a wireless terminal. Range and 
 32appliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix
 16enhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1ItemtasksANDRetrievalappliedenergistics2/tile.BlockSecurity-0.pngME Security Terminal
-1Retrievalappliedenergistics2/tile.BlockWireless-0.pngME Wireless Access Point
-1appliedenergistics2/item.ItemMultiMaterial-42.pngWireless Booster
+1Retrievalappliedenergistics2/tile.BlockWireless-0.pngME Wireless Access Point
+1appliedenergistics2/item.ItemMultiMaterial-42.pngWireless Booster
 8

@@ -8,7 +8,7 @@ If you want to make your rocket, you need to get at least a little before you ca
 8gregtech/gt.metaitem.98-4.pngEnder Goo Cell
 8Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1tasksORRetrievaldreamcraft/item.MoonStoneDust-0.pngMoon Stone Dust
-16Retrievalminecraft/end_stone-0.pngEnd Stone
-16gregtech/gt.metaitem.01-2808.pngEndstone Dust
-16Retrievalgregtech/gt.metaitem.98-4.pngEnder Goo Cell
+16Retrievalminecraft/end_stone-0.pngEnd Stone
+16gregtech/gt.metaitem.01-2808.pngEndstone Dust
+16Retrievalgregtech/gt.metaitem.98-4.pngEnder Goo Cell
 16

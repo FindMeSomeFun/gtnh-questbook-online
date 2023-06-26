@@ -2,7 +2,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 2tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-2minecraft/leather-0.pngLeather
-1minecraft/string-0.pngString
-4Craftingbattlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
+2minecraft/leather-0.pngLeather
+1minecraft/string-0.pngString
+4Craftingbattlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
 1

@@ -2,6 +2,6 @@
 
 §6Don't wanna do all these cell quests because you already automated it? Hold a stack of any platline dust to skip to the end of that chain.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-30640.pngDiluted Sulfuric Acid Cell;H\u2082SO\u2084
-10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
-10Retrievalbartworks/gt.bwMetaGeneratedcell-48.pngAqua Regia Cell;H\u2082SO\u2084HNO\u2083;Added by BartWorks
+10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+10Retrievalbartworks/gt.bwMetaGeneratedcell-48.pngAqua Regia Cell;H\u2082SO\u2084HNO\u2083;Added by BartWorks
 20

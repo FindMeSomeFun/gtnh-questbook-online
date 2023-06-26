@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
-24CraftingGalacticraftCore/item.steel_helmet-0.pngHeavy Duty Helmet;Protection: 3;Durability: 330/330
-1GalacticraftCore/item.steel_chestplate-0.pngHeavy Duty Chestplate;Protection: 8;Durability: 480/480
-1GalacticraftCore/item.steel_leggings-0.pngHeavy Duty Leggings;Protection: 6;Durability: 450/450
-1GalacticraftCore/item.steel_boots-0.pngHeavy Duty Boots;Protection: 3;Durability: 390/390
+24CraftingGalacticraftCore/item.steel_helmet-0.pngHeavy Duty Helmet;Protection: 3;Durability: 330/330
+1GalacticraftCore/item.steel_chestplate-0.pngHeavy Duty Chestplate;Protection: 8;Durability: 480/480
+1GalacticraftCore/item.steel_leggings-0.pngHeavy Duty Leggings;Protection: 6;Durability: 450/450
+1GalacticraftCore/item.steel_boots-0.pngHeavy Duty Boots;Protection: 3;Durability: 390/390
 1

@@ -5,9 +5,9 @@
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 30tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-4gregtech/gt.metaitem.01-29305.pngSteel Foil;Fe\u2085\u2080C
-2gregtech/gt.metaitem.02-19305.pngFine Steel Wire;Fe\u2085\u2080C
-1RetrievalForestry/chipsets-2.pngRefined Circuit Board
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+2gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+4gregtech/gt.metaitem.01-29305.pngSteel Foil;Fe\u2085\u2080C
+2gregtech/gt.metaitem.02-19305.pngFine Steel Wire;Fe\u2085\u2080C
+1RetrievalForestry/chipsets-2.pngRefined Circuit Board
 1

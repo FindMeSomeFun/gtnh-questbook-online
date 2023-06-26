@@ -10,9 +10,9 @@ There are weaker versions, but who wants that? If you happen to want the last hi
 12Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-1gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
-2gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-5minecraft/diamond_block-0.pngBlock of Diamond;Burn Time: 1024000
-1Optionalminecraft/diamond_sword-0.pngDiamond Sword;+7 Attack Damage;Durability: 768/768
-1RetrievalExtraUtilities/spike_base_diamond-0.pngDiamond Spike;+7 Attack Damage
+1gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
+2gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+5minecraft/diamond_block-0.pngBlock of Diamond;Burn Time: 1024000
+1Optionalminecraft/diamond_sword-0.pngDiamond Sword;+7 Attack Damage;Durability: 768/768
+1RetrievalExtraUtilities/spike_base_diamond-0.pngDiamond Spike;+7 Attack Damage
 2

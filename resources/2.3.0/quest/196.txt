@@ -4,7 +4,7 @@
 2IC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat Exchanger
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalIC2/reactorHeatSwitch-1.pngHeat Exchanger
-1IC2/reactorHeatSwitchCore-1.pngReactor Heat Exchanger
-1IC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
-1IC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat Exchanger
+1IC2/reactorHeatSwitchCore-1.pngReactor Heat Exchanger
+1IC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
+1IC2/reactorHeatSwitchDiamond-1.pngAdvanced Heat Exchanger
 1

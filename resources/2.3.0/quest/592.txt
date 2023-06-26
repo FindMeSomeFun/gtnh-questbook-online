@@ -16,8 +16,8 @@ Of course, if you mix your slower crops with your faster ones, you aren't likely
 4enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25tasksANDOptionalForestry/ffarm-0.pngFarm Block;Stone Bricks
-1gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
-4Forestry/thermionicTubes-2.pngBronze Electron Tube
-4gregtech/gt.metaitem.01-32600.pngElectric Motor
-1RetrievalForestry/ffarm-2.pngFarm Gearbox;Stone Bricks
+1gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
+4Forestry/thermionicTubes-2.pngBronze Electron Tube
+4gregtech/gt.metaitem.01-32600.pngElectric Motor
+1RetrievalForestry/ffarm-2.pngFarm Gearbox;Stone Bricks
 2

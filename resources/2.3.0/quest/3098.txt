@@ -4,5 +4,5 @@ For automation, you're still stuck with using bonsais, not regular trees. HV wil
 
 Don't throw away your saplings, either! They will be useful later on, so save up as many as you can.ORpre11481gregtech/gt.blockmachines-12.png31170minecraft/coal-1.pngrewardsItemminecraft/apple-0.pngApple;minecraft:apple
 16tasksANDRetrievalIC2/itemCropSeed-0.pngSpruce Bonsai Seeds;Gr 1;Ga 1;Re 1
-1IC2/itemCropSeed-0.pngOak Bonsai Seeds;Gr 1;Ga 1;Re 1
+1IC2/itemCropSeed-0.pngOak Bonsai Seeds;Gr 1;Ga 1;Re 1
 1

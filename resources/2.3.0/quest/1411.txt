@@ -7,13 +7,13 @@ Note that this is not the proper method to get rare metals. This means none of t
 1gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Ore;CuFeS\u2082
 64Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-108gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Ore;CuFeS\u2082
-54gregtech/gt.metaitem.01-6909.pngPurified Pentlandite Ore;Ni\u2089S\u2088
-54Retrievalgregtech/gt.metaitem.01-2241.pngPlatinum Group Sludge Dust
-12Optionalgregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
-12gregtech/gt.metaitem.01-2086.pngGold Dust;Au
-12bartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust;??PtPdIrOsRhRu??;Added by BartWorks
-24bartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dust;??Pd??;Added by BartWorks
-8bartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dust;??Ir??;Added by BartWorks
-2bartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dust;??OsIr??;Added by BartWorks
+108gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Ore;CuFeS\u2082
+54gregtech/gt.metaitem.01-6909.pngPurified Pentlandite Ore;Ni\u2089S\u2088
+54Retrievalgregtech/gt.metaitem.01-2241.pngPlatinum Group Sludge Dust
+12Optionalgregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
+12gregtech/gt.metaitem.01-2086.pngGold Dust;Au
+12bartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust;??PtPdIrOsRhRu??;Added by BartWorks
+24bartworks/gt.bwMetaGenerateddust-53.pngPalladium Metallic Powder Dust;??Pd??;Added by BartWorks
+8bartworks/gt.bwMetaGenerateddust-70.pngIridium Metal Residue Dust;??Ir??;Added by BartWorks
+2bartworks/gt.bwMetaGenerateddust-69.pngRarest Metal Residue Dust;??OsIr??;Added by BartWorks
 2

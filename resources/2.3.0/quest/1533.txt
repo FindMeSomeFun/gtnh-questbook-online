@@ -5,5 +5,5 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5tasksORRetrievalgregtech/gt.blockores-389.pngCallisto Ice Ore;SpH\u2082O
-64Retrievalgregtech/gt.metaitem.01-5389.pngCrushed Callisto Ice Ore;SpH\u2082O
+64Retrievalgregtech/gt.metaitem.01-5389.pngCrushed Callisto Ice Ore;SpH\u2082O
 192

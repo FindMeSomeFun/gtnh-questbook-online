@@ -8,11 +8,11 @@ The temperature indicator on the Life Support HUD will show if the player is bec
 1Itemdreamcraft/item.CoinSmithIII-0.pngCoin "Blacksmith 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionalharvestcraft/wovencottonItem-0.pngWoven Cotton
-192gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
-192dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
-216OptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Cloth
-24RetrievalGalacticraftMars/item.thermalPadding-0.pngThermal Padding Helm
-1GalacticraftMars/item.thermalPadding-1.pngThermal Padding Chestpiece
-1GalacticraftMars/item.thermalPadding-2.pngThermal Padding Leggings
-1GalacticraftMars/item.thermalPadding-3.pngThermal Padding Boots
+192gregtech/gt.metaitem.01-29019.pngAluminium Foil;Al
+192dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
+216OptionalGalacticraftMars/item.itemBasicAsteroids-7.pngThermal Cloth
+24RetrievalGalacticraftMars/item.thermalPadding-0.pngThermal Padding Helm
+1GalacticraftMars/item.thermalPadding-1.pngThermal Padding Chestpiece
+1GalacticraftMars/item.thermalPadding-2.pngThermal Padding Leggings
+1GalacticraftMars/item.thermalPadding-3.pngThermal Padding Boots
 1

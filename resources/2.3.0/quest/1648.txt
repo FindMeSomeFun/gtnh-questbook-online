@@ -7,9 +7,9 @@ Check NEI uses for impregnated leather for other accessories to your outfit.AND
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-102.pngGolden Thread
-3witchery/ingredient-74.pngCreeper Heart
-1minecraft/glowstone_dust-0.pngGlowstone Dust
-1witchery/ingredient-72.pngImpregnated Leather
-11Retrievalwitchery/witchhat-0.pngWitches'' Hat;How original... a pointy hat.;+35% chance of second brew;Protection: 1;Durability: 55/55
-1witchery/witchrobe-0.pngWitches Robes;For the discerning witch about town.;Creepers will ignore the wearer.;+35% chance of second brew (except necromantic);Protection: 3;Durability: 80/80
+3witchery/ingredient-74.pngCreeper Heart
+1minecraft/glowstone_dust-0.pngGlowstone Dust
+1witchery/ingredient-72.pngImpregnated Leather
+11Retrievalwitchery/witchhat-0.pngWitches'' Hat;How original... a pointy hat.;+35% chance of second brew;Protection: 1;Durability: 55/55
+1witchery/witchrobe-0.pngWitches Robes;For the discerning witch about town.;Creepers will ignore the wearer.;+35% chance of second brew (except necromantic);Protection: 3;Durability: 80/80
 1

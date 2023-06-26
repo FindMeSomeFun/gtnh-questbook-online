@@ -13,5 +13,5 @@ The amount of Oil in the reservoir is very important! Values in the 400s or abov
 64enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.blockmachines-2102.pngAdvanced Seismic Prospector LV;Place, activate with explosives;2 Powderbarrels, 4 Glyceryl Trinitrate, 16 TNT, or 8 ITNT;Use Data Stick, Scan Data Stick, Print Data Stick, Bind Pages into Book;Ore prospecting area = 80x80 ONLY blocks below prospector;Oil prospecting area 3x3 oilfields, each is 8x8 chunks;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1Retrievalgregtech/gt.metaitem.01-30707.pngOil Cell
+1Retrievalgregtech/gt.metaitem.01-30707.pngOil Cell
 30

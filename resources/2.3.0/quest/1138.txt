@@ -13,12 +13,12 @@ The easiest way to check the current wind level in an area is by using a Windmet
 2gregtech/gt.metaitem.02-21306.pngStainless Steel Rotor;Fe\u2086CrMnNi
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear;Ti
-2IC2/itemRecipePart-12.pngShaft
-4gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate;Fe\u2086CrMnNi
-8gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
-2gregtech/gt.metaitem.01-32602.pngElectric Motor
-2RetrievalIC2/blockKineticGenerator-0.pngKinetic Wind Generator;Power Output: 0-x KU/t max
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.02-20028.pngSmall Titanium Gear;Ti
+2IC2/itemRecipePart-12.pngShaft
+4gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
+2gregtech/gt.metaitem.01-18306.pngDouble Stainless Steel Plate;Fe\u2086CrMnNi
+8gregtech/gt.blockmachines-1646.png1x Platinum Cable;Max Voltage: 8,192 (IV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+2gregtech/gt.metaitem.01-32602.pngElectric Motor
+2RetrievalIC2/blockKineticGenerator-0.pngKinetic Wind Generator;Power Output: 0-x KU/t max
 1

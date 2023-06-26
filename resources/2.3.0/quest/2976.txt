@@ -2,8 +2,8 @@
 4enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-2037.pngGallium Dust;Ga
-1gregtech/gt.metaitem.01-2375.pngRutile Dust;TiO\u2082
-1gregtech/gt.metaitem.01-2622.pngQuicklime Dust;CaO
-1gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
-1gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
+1gregtech/gt.metaitem.01-2375.pngRutile Dust;TiO\u2082
+1gregtech/gt.metaitem.01-2622.pngQuicklime Dust;CaO
+1gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
+1gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
 1

@@ -6,5 +6,5 @@ Don't bother putting Nether Quartz on the crossbow, it only improves damage from
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-11382.pngArdite Ingot;Ai
-5RetrievalTConstruct/CrossbowBodyPart-11.pngArdite Crossbow Body;Stonebound [Modifier: 2];Durability: 455;Draw Speed: 2.75s;Arrow Speed: 4.9;Parts can be replaced
+5RetrievalTConstruct/CrossbowBodyPart-11.pngArdite Crossbow Body;Stonebound [Modifier: 2];Durability: 455;Draw Speed: 2.75s;Arrow Speed: 4.9;Parts can be replaced
 1

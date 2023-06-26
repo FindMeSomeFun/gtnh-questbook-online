@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-24Craftingminecraft/diamond_helmet-0.pngDiamond Helmet;Protection: 3;Durability: 363/363
-1minecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
-1minecraft/diamond_leggings-0.pngDiamond Leggings;Protection: 6;Durability: 495/495
-1minecraft/diamond_boots-0.pngDiamond Boots;Protection: 3;Durability: 429/429
+24Craftingminecraft/diamond_helmet-0.pngDiamond Helmet;Protection: 3;Durability: 363/363
+1minecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
+1minecraft/diamond_leggings-0.pngDiamond Leggings;Protection: 6;Durability: 495/495
+1minecraft/diamond_boots-0.pngDiamond Boots;Protection: 3;Durability: 429/429
 1

@@ -1,10 +1,10 @@
 1347EMT/Mjolnir-0.png0Repaired it!34-1Sadly enough, the hammer was broken. But you have the skills and the knowledge to repair it, don't you?ORpre2381Thaumcraft/blockCosmeticSolid-7.png13460EMT/TaintedMjolnir-0.png13610EMT/EMTItems-6.pngrewardsChoiceenhancedlootbags/lootbag-11.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
 4tasksANDOptionalEMT/EMTItems-6.pngLightning Summoner
-2Thaumcraft/FocusShock-0.pngWand Focus: Shock;Vis per cast; Aer x 0.25
-1Thaumcraft/ItemSwordElemental-0.pngSword of the Zephyr;+7 Attack Damage;Durability: 1500/1500
-1IC2/itemBatCrystal-26.pngEnergy Crystal;Durability: 1 / 27
-2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
-4Thaumcraft/ItemResource-1.pngNitor
-1RetrievalEMT/Mjolnir-0.pngMjolnir;The Hammer of Thor;+7 Attack Damage;Durability: 2000/2000
+2Thaumcraft/FocusShock-0.pngWand Focus: Shock;Vis per cast; Aer x 0.25
+1Thaumcraft/ItemSwordElemental-0.pngSword of the Zephyr;+7 Attack Damage;Durability: 1500/1500
+1IC2/itemBatCrystal-26.pngEnergy Crystal;Durability: 1 / 27
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+4Thaumcraft/ItemResource-1.pngNitor
+1RetrievalEMT/Mjolnir-0.pngMjolnir;The Hammer of Thor;+7 Attack Damage;Durability: 2000/2000
 1

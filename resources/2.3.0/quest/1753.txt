@@ -6,8 +6,8 @@ A stronger CPU = A faster computer.ANDpre17590OpenComputers/item-54.pngrew
 1OpenComputers/item-33.pngCard Base
 4Itemmiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
 2tasksANDOptionalOpenComputers/item-27.pngArithmetic Logic Unit
-8OpenComputers/item-28.pngControl Unit
-1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-1gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
-1RetrievalOpenComputers/item-29.pngCentral Processing Unit;Tier 1
+8OpenComputers/item-28.pngControl Unit
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+1gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
+1RetrievalOpenComputers/item-29.pngCentral Processing Unit;Tier 1
 1

@@ -16,6 +16,6 @@ Mutandis is crafted using Mutandis and Netherwart.
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalminecraft/nether_wart-0.pngNether Wart
-16witchery/ingredient-14.pngMutandis
-16Retrievalwitchery/ingredient-15.pngMutandis Extremis
+16witchery/ingredient-14.pngMutandis
+16Retrievalwitchery/ingredient-15.pngMutandis Extremis
 16

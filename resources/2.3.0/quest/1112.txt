@@ -4,7 +4,7 @@ They increase the bee's performance. Each untreated frame will double a bee's pr
 1Forestry/beeCombs-0.pngHoney Comb
 8Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
-9minecraft/string-0.pngString
-3minecraft/stick-0.pngStick;Burn Time: 100
-15CraftingForestry/frameUntreated-0.pngUntreated Frame
+9minecraft/string-0.pngString
+3minecraft/stick-0.pngStick;Burn Time: 100
+15CraftingForestry/frameUntreated-0.pngUntreated Frame
 3

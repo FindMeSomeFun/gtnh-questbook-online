@@ -3,5 +3,5 @@
 8gregtech/gt.metaitem.01-32719.pngPhenolic Circuit Board;A Good Board
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalIC2/itemBatCrystal-26.pngEnergy Crystal;Durability: 1 / 27
-1Retrievaldreamcraft/item.NanoCrystal-0.pngNano Crystal
+1Retrievaldreamcraft/item.NanoCrystal-0.pngNano Crystal
 1

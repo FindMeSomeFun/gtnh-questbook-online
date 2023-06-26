@@ -9,6 +9,6 @@ Before you journey home make sure you fulfill the quest requirements in the EV t
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalGalacticraftMars/tile.mars-7.pngMars Dungeon Brick
-16RetrievalGalacticraftMars/item.key-0.pngTier 2 Dungeon Key
-1RetrievalGalacticraftMars/item.schematic-0.pngNASA Workbench Schematic;Tier 3 Rocket
+16RetrievalGalacticraftMars/item.key-0.pngTier 2 Dungeon Key
+1RetrievalGalacticraftMars/item.schematic-0.pngNASA Workbench Schematic;Tier 3 Rocket
 1

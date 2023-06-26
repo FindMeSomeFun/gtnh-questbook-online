@@ -5,11 +5,11 @@
 5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
-1witchery/ingredient-100.pngFanciful Thread
-2minecraft/item_frame-0.pngItem Frame
-1minecraft/feather-0.pngFeather
-2witchery/ingredient-96.pngBrew of Flowing Spirit
-1witchery/ingredient-95.pngBrew of Sleeping
-1witchery/ingredient-29.pngDiamond Vapor
-1Retrievalwitchery/ingredient-104.pngDream Weaver of Intensity
+1witchery/ingredient-100.pngFanciful Thread
+2minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2witchery/ingredient-96.pngBrew of Flowing Spirit
+1witchery/ingredient-95.pngBrew of Sleeping
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-104.pngDream Weaver of Intensity
 1

@@ -4,5 +4,5 @@ The 3 general modes are cycled by using a screwdriver on the controller. Each of
 
 §3This multi is IV, but uses Thorium 232, and a bunch of valuable circuits.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.blockmachines-860.pngLarge Processing Factory;Machine Type: Nine in One;Controller Block for the Industrial Multi-Machine;250% faster than using single block machines of the same voltage;Only uses 80% of the EU/t normally required;Processes two items per voltage tier;Machine Type: [A] - Compressor, Lathe, Electromagnetic Polarizer;Machine Type: [B] - Fermenter, Fluid Extractor, Extractor;Machine Type: [C] - Precision Laser Engraver, Autoclave, Fluid Solidifier;Read Multi-Machine Manual for extra information;Causes: 400 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.3-2.pngMulti-Use Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/gtplusplus.blockcasings.3-2.pngMulti-Use Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

@@ -3,7 +3,7 @@
 8Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalminecraft/redstone-0.pngRedstone
-64minecraft/quartz-0.pngNether Quartz
-64appliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
-64Retrievalappliedenergistics2/item.ItemMultiMaterial-7.pngFluix Crystal
+64minecraft/quartz-0.pngNether Quartz
+64appliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
+64Retrievalappliedenergistics2/item.ItemMultiMaterial-7.pngFluix Crystal
 128

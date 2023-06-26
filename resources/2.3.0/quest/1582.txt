@@ -5,11 +5,11 @@
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-101.pngTormented Twine
-1witchery/ingredient-100.pngFanciful Thread
-2minecraft/item_frame-0.pngItem Frame
-1minecraft/feather-0.pngFeather
-2witchery/ingredient-103.pngMellifluous Hunger
-1minecraft/potion-16421.pngSplash Potion of Healing;Instant Health II
-1witchery/ingredient-29.pngDiamond Vapor
-1Retrievalwitchery/ingredient-5.pngDream Weaver of Fasting
+1witchery/ingredient-100.pngFanciful Thread
+2minecraft/item_frame-0.pngItem Frame
+1minecraft/feather-0.pngFeather
+2witchery/ingredient-103.pngMellifluous Hunger
+1minecraft/potion-16421.pngSplash Potion of Healing;Instant Health II
+1witchery/ingredient-29.pngDiamond Vapor
+1Retrievalwitchery/ingredient-5.pngDream Weaver of Fasting
 1

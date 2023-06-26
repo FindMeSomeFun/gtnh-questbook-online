@@ -3,5 +3,5 @@
 §4To remove upgrades, shift-right-click with an empty hand to access the drawer interface.ANDpre19870StorageDrawers/upgradeTemplate-0.pngrewardsItemStorageDrawers/upgradeStatus-1.pngStatus Upgrade;Shows full storage
 1StorageDrawers/upgradeVoid-0.pngVoid Upgrade;Destroys excess items
 1tasksANDRetrievalStorageDrawers/upgrade-2.pngStorage Upgrade;Increases storage to 2 times base value
-1StorageDrawers/upgrade-3.pngStorage Upgrade;Increases storage to 4 times base value
+1StorageDrawers/upgrade-3.pngStorage Upgrade;Increases storage to 4 times base value
 1

@@ -13,9 +13,9 @@ You can now start working towards the Master Registry in the How to Be(e) tab.A
 32Forestry/honeyDrop-0.pngHoney Drop
 64Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5tasksANDOptionalForestry/beePrincessGE-0-Noble.pngNoble Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Noble.pngNoble Drone
-1Forestry/beePrincessGE-0-Majestic.pngMajestic Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Majestic.pngMajestic Drone
-1RetrievalForestry/beePrincessGE-0-Imperial.pngImperial Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Imperial.pngImperial Drone
+1Forestry/beeDroneGE-0-Noble.pngNoble Drone
+1Forestry/beePrincessGE-0-Majestic.pngMajestic Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Majestic.pngMajestic Drone
+1RetrievalForestry/beePrincessGE-0-Imperial.pngImperial Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Imperial.pngImperial Drone
 1

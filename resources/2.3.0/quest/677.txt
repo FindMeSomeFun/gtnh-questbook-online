@@ -12,8 +12,8 @@ Also, make sure to keep your cart in one chunk, or use chunkloaders covering the
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-23032.pngIron Rod;Fe
-2gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-4Optionalgregtech/gt.metaitem.01-32100.pngIron Minecart Wheels;To get things rolling
-2Optionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-3Craftingminecraft/minecart-0.pngMinecart
+2gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+4Optionalgregtech/gt.metaitem.01-32100.pngIron Minecart Wheels;To get things rolling
+2Optionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
+3Craftingminecraft/minecart-0.pngMinecart
 1

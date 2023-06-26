@@ -18,8 +18,8 @@ If you have any further questions, find missing information, or have suggestions
 1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-17000.pngHydro Dam;Hydro Dam Controller;Controller Block for the Hydro Dam;Input is pressurized water from Hydro Pumps;Output is pressurized water for Hydro Turbines;Requires an Input and Output Hatch on the front!;To see the structure, use a TecTech Blueprint on the Controller!
-1Optionalgregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
-1gregtech/gt.blockmachines-61.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1Optionalgregtech/gt.blockconcretes-8.pngLight Concrete;You can walk faster on this Block
-89Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector;Triggers Constructable Interface;Shows multiblock construction schematic,;use on the multiblock controller.;(Sneak use on controller to build);Quantity of schematics in item stack affects tier/mode/type
+1Optionalgregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
+1gregtech/gt.blockmachines-61.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
+1Optionalgregtech/gt.blockconcretes-8.pngLight Concrete;You can walk faster on this Block
+89Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector;Triggers Constructable Interface;Shows multiblock construction schematic,;use on the multiblock controller.;(Sneak use on controller to build);Quantity of schematics in item stack affects tier/mode/type
 1

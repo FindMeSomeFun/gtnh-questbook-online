@@ -6,5 +6,5 @@ Lighter fractions are generally more useful than heavier ones, but that doesn't 
 1IC2/itemCellEmpty-0.pngEmpty Cell
 20Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-531.pngBasic Distillery;Extracting the most relevant Parts of Fluids;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1gregtech/gt.metaitem.01-30737.pngSulfuric Light Fuel Cell
+1gregtech/gt.metaitem.01-30737.pngSulfuric Light Fuel Cell
 10

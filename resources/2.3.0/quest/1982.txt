@@ -6,5 +6,5 @@ Maybe you can find a use for this block mixer, it's kinda weird and doesn't work
 
 There are some craftable Malisis items as well, check them out in NEI.ANDpre911gregtech/gt.metaitem.01-32630.pngrewardsItemmalisisdoors/block_mixer-0.pngBlock Mixer
 1tasksANDRetrievalmalisisdoors/door_factory-0.pngDoor Factory
-1malisisdoors/player_sensor-0.pngPlayer Sensor
+1malisisdoors/player_sensor-0.pngPlayer Sensor
 1

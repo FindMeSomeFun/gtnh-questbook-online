@@ -5,9 +5,9 @@
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25tasksANDOptionalgregtech/gt.metaitem.03-32100.pngCircuit Board;A basic Circuit Board
-1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2gregtech/gt.metaitem.01-27300.pngBronze Screw;SnCu\u2083
-4gregtech/gt.metaitem.01-29300.pngBronze Foil;SnCu\u2083
-2gregtech/gt.metaitem.02-19300.pngFine Bronze Wire;SnCu\u2083
-1RetrievalForestry/chipsets-1.pngEnhanced Circuit Board
+1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2gregtech/gt.metaitem.01-27300.pngBronze Screw;SnCu\u2083
+4gregtech/gt.metaitem.01-29300.pngBronze Foil;SnCu\u2083
+2gregtech/gt.metaitem.02-19300.pngFine Bronze Wire;SnCu\u2083
+1RetrievalForestry/chipsets-1.pngEnhanced Circuit Board
 1

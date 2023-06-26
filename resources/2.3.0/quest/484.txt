@@ -5,5 +5,5 @@ Well I've got an idea, bone meal will help you grow food in seconds. So, chop do
 1minecraft/torch-0.pngTorch
 5minecraft/dye-15.pngBone Meal
 3tasksANDRetrievalminecraft/log-0.pngOak Wood;Burn Time: 300
-64Consumeminecraft/log-0.pngOak Wood;Burn Time: 300
+64Consumeminecraft/log-0.pngOak Wood;Burn Time: 300
 10

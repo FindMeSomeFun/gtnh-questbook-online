@@ -8,6 +8,6 @@
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalGalacticraftCore/tile.moonBlock-3.pngMoon Dirt
-8GalacticraftCore/tile.moonBlock-4.pngMoon Rock
-8GalacticraftCore/tile.moonBlock-5.pngMoon Turf
+8GalacticraftCore/tile.moonBlock-4.pngMoon Rock
+8GalacticraftCore/tile.moonBlock-5.pngMoon Turf
 8

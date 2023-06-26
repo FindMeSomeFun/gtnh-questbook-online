@@ -11,7 +11,7 @@ After it decays, you can electrolyze Radon out of it and progress into the next 
 16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksORRetrievalgregtech/gt.metaitem.01-6873.pngPurified Pitchblende;(UO\u2082)\u2083ThPb
-64Retrievalgregtech/gt.metaitem.01-6922.pngPurified Uraninite Ore;UO\u2082
-64Retrievalgregtech/gt.metaitem.01-6098.pngPurified Uranium 238 Ore;U
-64Retrievalgregtech/gt.metaitem.01-6096.pngPurified Thorium Ore;Th
+64Retrievalgregtech/gt.metaitem.01-6922.pngPurified Uraninite Ore;UO\u2082
+64Retrievalgregtech/gt.metaitem.01-6098.pngPurified Uranium 238 Ore;U
+64Retrievalgregtech/gt.metaitem.01-6096.pngPurified Thorium Ore;Th
 128

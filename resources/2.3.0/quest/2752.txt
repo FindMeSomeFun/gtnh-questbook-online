@@ -6,6 +6,6 @@ This will open the Moons from Neptune.ANDpre17261GalaxySpace/item.Tier5Rock
 1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 5dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 5tasksANDRetrievalGalaxySpace/enceladusblocks-2.pngEnceladus Dungeon Bricks
-16RetrievalGalaxySpace/item.Tier6Key-0.pngTier 5 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier6-0.pngNASA Workbench Schematic;Rocket Tier 6
+16RetrievalGalaxySpace/item.Tier6Key-0.pngTier 5 Dungeon Key
+1RetrievalGalaxySpace/item.SchematicTier6-0.pngNASA Workbench Schematic;Rocket Tier 6
 1

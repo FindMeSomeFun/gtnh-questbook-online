@@ -9,13 +9,13 @@ Here's some to get you started.ANDpre23490HardcoreEnderExpansion/obsidian_s
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 1tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-5minecraft/ender_eye-0.pngEye of Ender
-4OptionalHardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
-1minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
-2Thaumcraft/ItemResource-1.pngNitor
-1Thaumcraft/ItemResource-0.pngAlumentum;Burn Time: 8000
-1minecraft/leather-0.pngLeather
-1IC2/itemDensePlates-7.pngDense Obsidian Plate
-2TConstruct/MetalBlock-10.pngBlock of Solid Ender;Usable for Beacon bases
-1RetrievalHardcoreEnderExpansion/essence_altar-0.pngBasic Essence Altar
+5minecraft/ender_eye-0.pngEye of Ender
+4OptionalHardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
+1minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
+2Thaumcraft/ItemResource-1.pngNitor
+1Thaumcraft/ItemResource-0.pngAlumentum;Burn Time: 8000
+1minecraft/leather-0.pngLeather
+1IC2/itemDensePlates-7.pngDense Obsidian Plate
+2TConstruct/MetalBlock-10.pngBlock of Solid Ender;Usable for Beacon bases
+1RetrievalHardcoreEnderExpansion/essence_altar-0.pngBasic Essence Altar
 1

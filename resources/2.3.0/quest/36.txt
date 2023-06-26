@@ -7,8 +7,8 @@ There are also electric versions of the tools, you can upgrade later if you want
 §3You can use whatever materials you want. The gem version of the saw is crafted differently to metal versions. Higher tier tools need steel or tungstensteel rods instead of sticks.ANDpre371minecraft/iron_ingot-0.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5harvestcraft/zucchinibakeItem-0.pngZucchini Bake;harvestcraft:zucchinibakeItem
 2tasksANDCraftinggregtech/gt.metatool.01-12-Iron-Wood.pngHammer;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 5.0;Mining Speed: 4.5;Crushes Ores instead of harvesting them;Usable for Prospecting;Sharpness I
-1Craftinggregtech/gt.metatool.01-16-Iron-Iron.pngWrench;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 5.0;Mining Speed: 6.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
-1Craftinggregtech/gt.metatool.01-18-Iron-Wood.pngFile;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.5;Mining Speed: 6.0
-1Craftinggregtech/gt.metatool.01-22-Iron-Wood.pngScrewdriver;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.5;Mining Speed: 6.0;Adjusts Covers and Machines
-1Craftinggregtech/gt.metatool.01-10-Iron-Wood.pngSaw;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.75;Mining Speed: 6.0;Can also harvest Ice
+1Craftinggregtech/gt.metatool.01-16-Iron-Iron.pngWrench;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 5.0;Mining Speed: 6.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
+1Craftinggregtech/gt.metatool.01-18-Iron-Wood.pngFile;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.5;Mining Speed: 6.0
+1Craftinggregtech/gt.metatool.01-22-Iron-Wood.pngScrewdriver;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.5;Mining Speed: 6.0;Adjusts Covers and Machines
+1Craftinggregtech/gt.metatool.01-10-Iron-Wood.pngSaw;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.75;Mining Speed: 6.0;Can also harvest Ice
 1

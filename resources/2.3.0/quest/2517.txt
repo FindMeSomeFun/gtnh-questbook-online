@@ -4,5 +4,5 @@ The Essentia Terminal Works like the Fluid Terminal, but for essentia.ANDpre1
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalthaumicenergistics/part.base-5.pngArcane Crafting Terminal
-1thaumicenergistics/part.base-4.pngEssentia Terminal
+1thaumicenergistics/part.base-4.pngEssentia Terminal
 1

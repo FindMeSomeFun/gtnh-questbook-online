@@ -6,5 +6,5 @@ You can use Noise Hazard Signs instead of Thermal Processing Casings, as long as
 1gregtech/gt.blockores-34.pngNickel Ore;Ni
 64Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalgregtech/gt.blockmachines-849.pngLarge Thermal Refinery;Machine Type: Thermal Centrifuge;Controller Block for the Industrial Thermal Centrifuge;150% faster than using single block machines of the same voltage;Only uses 80% of the EU/t normally required;Processes eight items per voltage tier;Causes: 1000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.2-0.pngThermal Processing Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/gtplusplus.blockcasings.2-0.pngThermal Processing Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

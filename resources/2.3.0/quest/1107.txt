@@ -8,5 +8,5 @@ They can do good amounts of damage and aggro enemies like the pigmen away from y
 1Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalminecraft/pumpkin-0.pngPumpkin
-1minecraft/iron_block-0.pngBlock of Iron
+1minecraft/iron_block-0.pngBlock of Iron
 4

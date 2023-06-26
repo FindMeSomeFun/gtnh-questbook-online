@@ -7,7 +7,7 @@ Absolutely necessary to doing anything on your computer, but can safely be remov
 1Itemharvestcraft/colasodaItem-0.pngCola Soda;harvestcraft:colasodaItem
 1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
 1tasksANDOptionalminecraft/stone_button-0.pngButton
-104gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
-1gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
-1RetrievalOpenComputers/keyboard-0.pngKeyboard;Hold [NONE] for material costs.
+104gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
+1gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
+1RetrievalOpenComputers/keyboard-0.pngKeyboard;Hold [NONE] for material costs.
 1

@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionaldreamcraft/item.DraconiumEgg-0.pngEnriched Draconium Egg
-1DraconicEvolution/dragonHeart-0.pngDragon Heart
-1gregtech/gt.metaitem.99-321.pngMolten Enderium Cell;(Sn\u2082AgPt)\u2082(FeMa)(BeK\u2084N\u2085Ma\u2086)
-7Retrievalminecraft/dragon_egg-0.pngDragon Egg
+1DraconicEvolution/dragonHeart-0.pngDragon Heart
+1gregtech/gt.metaitem.99-321.pngMolten Enderium Cell;(Sn\u2082AgPt)\u2082(FeMa)(BeK\u2084N\u2085Ma\u2086)
+7Retrievalminecraft/dragon_egg-0.pngDragon Egg
 1

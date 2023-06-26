@@ -3,5 +3,5 @@
 1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1tasksANDHuntmobs/witchery-goblinmog-.pngGoblin Mog
-1Huntmobs/witchery-goblingulg-.pngGoblin Gulg
+1Huntmobs/witchery-goblingulg-.pngGoblin Gulg
 1

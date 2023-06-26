@@ -3,5 +3,5 @@
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalTwilightForest/item.carminite-0.pngCarminite
-2Retrievalgregtech/gt.metaitem.01-27321.pngEnderium Screw;(Sn\u2082AgPt)\u2082(FeMa)(BeK\u2084N\u2085Ma\u2086)
+2Retrievalgregtech/gt.metaitem.01-27321.pngEnderium Screw;(Sn\u2082AgPt)\u2082(FeMa)(BeK\u2084N\u2085Ma\u2086)
 4

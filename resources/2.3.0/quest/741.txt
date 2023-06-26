@@ -2,8 +2,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/heavyPlate-15.pngAlumite Large Plate;Reinforced II;Durability: 413;Mining Speed: 7.9;Attack: 2 Hearts;Parts can be replaced
-2minecraft/iron_block-0.pngBlock of Iron
-4TConstruct/CraftingSlab-1.pngTool Station;Burn Time: 300
-1TConstruct/SearedSlab-1.pngSeared Stone Slab
-1RetrievalTConstruct/ToolForgeBlock-0.pngTool Forge
+2minecraft/iron_block-0.pngBlock of Iron
+4TConstruct/CraftingSlab-1.pngTool Station;Burn Time: 300
+1TConstruct/SearedSlab-1.pngSeared Stone Slab
+1RetrievalTConstruct/ToolForgeBlock-0.pngTool Forge
 1

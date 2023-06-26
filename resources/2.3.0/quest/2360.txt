@@ -10,11 +10,11 @@ The Mine variation spawns Haunted Miners, which protect Resource Pits (holes wit
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-1.pngBurned End Stone
-4RetrievalHardcoreEnderExpansion/cinder-0.pngCinder
-4HardcoreEnderExpansion/igneous_rock_ore-0.pngIgneous Rock Ore
-4HardcoreEnderExpansion/crossed_decoration-11.pngFlameweed
-2HardcoreEnderExpansion/crossed_decoration-6.pngLilyfire
-2RetrievalHardcoreEnderExpansion/fire_shard-0.pngInfernium
-8HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
-16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
+4RetrievalHardcoreEnderExpansion/cinder-0.pngCinder
+4HardcoreEnderExpansion/igneous_rock_ore-0.pngIgneous Rock Ore
+4HardcoreEnderExpansion/crossed_decoration-11.pngFlameweed
+2HardcoreEnderExpansion/crossed_decoration-6.pngLilyfire
+2RetrievalHardcoreEnderExpansion/fire_shard-0.pngInfernium
+8HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
 8

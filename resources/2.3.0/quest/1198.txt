@@ -10,9 +10,9 @@ This time you will need UV or above hatches, as well as Fusion machine casing MK
 2gregtech/gt.blockmachines-2440.png1x Superconductor UV Wire;Max Voltage: 524,288 (UV);Max Amperage: 32;Loss/Meter/Ampere: 0 EU-Volt
 64Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 5tasksANDOptionalgregtech/gt.blockmachines-58.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 2,048,000L
-2gregtech/gt.blockmachines-68.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 2,048,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1gregtech/gt.blockmachines-48.pngUV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 524,288 (UV);Capacity: 4,194,816 EU
-1Optionalgregtech/gt.blockcasings4-7.pngFusion Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32gregtech/gt.blockcasings4-8.pngFusion Machine Casing MK II;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32Retrievalgregtech/gt.blockmachines-1195.pngFusion Control Computer Mark III;Machine Type: Fusion Reactor;A SUN DOWN ON EARTH;Controller block for the Fusion Reactor Mk III;32768EU/t and 40M EU capacity per Energy Hatch;If the recipe has a startup cost greater than the;number of energy hatches * cap, you can''t do it;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+2gregtech/gt.blockmachines-68.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 2,048,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
+1gregtech/gt.blockmachines-48.pngUV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 524,288 (UV);Capacity: 4,194,816 EU
+1Optionalgregtech/gt.blockcasings4-7.pngFusion Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32gregtech/gt.blockcasings4-8.pngFusion Machine Casing MK II;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32Retrievalgregtech/gt.blockmachines-1195.pngFusion Control Computer Mark III;Machine Type: Fusion Reactor;A SUN DOWN ON EARTH;Controller block for the Fusion Reactor Mk III;32768EU/t and 40M EU capacity per Energy Hatch;If the recipe has a startup cost greater than the;number of energy hatches * cap, you can''t do it;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

@@ -2,7 +2,7 @@
 1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
-1Thaumcraft/WandRod-0.pngGreatwood Rod
-1dreamcraft/item.LichBone-0.pngLich Bone
-2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+1Thaumcraft/WandRod-0.pngGreatwood Rod
+1dreamcraft/item.LichBone-0.pngLich Bone
+2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
 2

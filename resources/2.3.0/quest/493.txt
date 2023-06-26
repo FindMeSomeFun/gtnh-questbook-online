@@ -2,7 +2,7 @@
 1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-3gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
-2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-1Craftinggregtech/gt.metatool.01-26-Iron-Iron.pngWire Cutter;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.25;Mining Speed: 6.0
+3gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
+2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+1Craftinggregtech/gt.metatool.01-26-Iron-Iron.pngWire Cutter;Durability: 25,600 / 25,600;Iron lvl 2;Attack Damage: 3.25;Mining Speed: 6.0
 1

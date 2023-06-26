@@ -5,5 +5,5 @@ At this tier, your best source of Platinum is Nickel ores from the Twilight Fore
 5enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust;??PtPdIrOsRhRu??;Added by BartWorks
-27Retrievalgregtech/gt.metaitem.01-9085.pngPlatinum Nugget;Pt
+27Retrievalgregtech/gt.metaitem.01-9085.pngPlatinum Nugget;Pt
 18

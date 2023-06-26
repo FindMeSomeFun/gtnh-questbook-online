@@ -9,9 +9,9 @@ Note that the flint and steel can take a few times to work.ANDpre651gregtec
 16enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
-3gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
-1minecraft/flint-0.pngFlint
-1Optionalgregtech/gt.metaitem.02-23305.pngSmall Steel Spring;Fe\u2085\u2080C
-1gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
-1Craftingminecraft/flint_and_steel-0.pngFlint and Steel
+3gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+1minecraft/flint-0.pngFlint
+1Optionalgregtech/gt.metaitem.02-23305.pngSmall Steel Spring;Fe\u2085\u2080C
+1gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
+1Craftingminecraft/flint_and_steel-0.pngFlint and Steel
 1

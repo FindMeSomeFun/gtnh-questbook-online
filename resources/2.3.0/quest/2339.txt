@@ -11,10 +11,10 @@ Redstone Soup is made in a kettle. Into the pot, throw Redstone, Drop of Luck, W
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDOptionalminecraft/redstone-0.pngRedstone
-1witchery/ingredient-25.pngTongue of Dog
-1witchery/ingredient-22.pngMandrake Root
-1witchery/ingredient-21.pngBelladonna Flower
-1witchery/ingredient-39.pngDrop of Luck
-1witchery/ingredient-24.pngWool of Bat
-1Retrievalwitchery/ingredient-40.pngRedstone Soup
+1witchery/ingredient-25.pngTongue of Dog
+1witchery/ingredient-22.pngMandrake Root
+1witchery/ingredient-21.pngBelladonna Flower
+1witchery/ingredient-39.pngDrop of Luck
+1witchery/ingredient-24.pngWool of Bat
+1Retrievalwitchery/ingredient-40.pngRedstone Soup
 1

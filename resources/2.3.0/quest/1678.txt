@@ -4,10 +4,10 @@
 32enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
-8gregtech/gt.metaitem.03-32057.pngQBit Processing Unit;Quantum CPU
-8gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
-8gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-96gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
-96gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
-128Retrievalgregtech/gt.metaitem.03-32085.pngQuantumprocessor;An Extreme Circuit;EV-Tier
+8gregtech/gt.metaitem.03-32057.pngQBit Processing Unit;Quantum CPU
+8gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
+8gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+96gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
+96gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
+128Retrievalgregtech/gt.metaitem.03-32085.pngQuantumprocessor;An Extreme Circuit;EV-Tier
 8

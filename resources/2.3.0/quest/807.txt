@@ -3,5 +3,5 @@
 60IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalIC2/itemBatLamaCrystal-26.pngLapotron Crystal;Durability: 1 / 27
-4Retrievaldreamcraft/item.QuantumCrystal-0.pngQuantum Crystal
+4Retrievaldreamcraft/item.QuantumCrystal-0.pngQuantum Crystal
 4

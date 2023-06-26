@@ -3,8 +3,8 @@
 There are better versions you can make later.ANDpre671gregtech/gt.blockmachines-1360.pngrewardsItemharvestcraft/blueberrysmoothieItem-0.pngBlueberry Smoothie;harvestcraft:blueberrysmoothieItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-4gregtech/gt.metaitem.01-2535.pngCoal Dust;C;Burn Time: 1600
-2IC2/itemHarz-0.pngSticky Resin
-4Craftinggregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
+4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+4gregtech/gt.metaitem.01-2535.pngCoal Dust;C;Burn Time: 1600
+2IC2/itemHarz-0.pngSticky Resin
+4Craftinggregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
 2

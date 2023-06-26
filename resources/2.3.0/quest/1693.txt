@@ -2,6 +2,6 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-30628.pngNitration Mixture Cell
-72gregtech/gt.metaitem.01-30605.pngChlorobenzene Cell;C\u2086H\u2085Cl
-36Retrievalgregtech/gt.metaitem.01-30592.png2-Nitrochlorobenzene Cell;C\u2086H\u2084ClNO\u2082
+72gregtech/gt.metaitem.01-30605.pngChlorobenzene Cell;C\u2086H\u2085Cl
+36Retrievalgregtech/gt.metaitem.01-30592.png2-Nitrochlorobenzene Cell;C\u2086H\u2084ClNO\u2082
 36

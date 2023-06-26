@@ -3,7 +3,7 @@
 3dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 3tasksANDHuntmobs/HardcoreEnderExpansion-EnderGuardian-.pngEnder Guardian
-5Huntmobs/HardcoreEnderExpansion-Endermage-.pngEndermage
-5Huntmobs/HardcoreEnderExpansion-AngryEnderman-.pngAngry Enderman
-10ConsumeHardcoreEnderExpansion/auricion-0.pngAuricion
+5Huntmobs/HardcoreEnderExpansion-Endermage-.pngEndermage
+5Huntmobs/HardcoreEnderExpansion-AngryEnderman-.pngAngry Enderman
+10ConsumeHardcoreEnderExpansion/auricion-0.pngAuricion
 5

@@ -4,6 +4,6 @@
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDOptionalwitchery/witchsapling-1.pngAlder Sapling;Burn Time: 100
-32witchery/ingredient-27.pngClay Jar
-8Retrievalwitchery/ingredient-35.pngReek of Misfortune
+32witchery/ingredient-27.pngClay Jar
+8Retrievalwitchery/ingredient-35.pngReek of Misfortune
 8

@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-17470.pngEpoxid Sheet;C\u2082\u2081H\u2082\u2084O\u2084
-1gregtech/gt.metaitem.01-29086.pngGold Foil;Au
-8Optionalgregtech/gt.metaitem.01-29303.pngElectrum Foil;AgAu
-8gregtech/gt.metaitem.01-32711.pngEpoxy Circuit Board;An Advanced Board
-1Retrievalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
+1gregtech/gt.metaitem.01-29086.pngGold Foil;Au
+8Optionalgregtech/gt.metaitem.01-29303.pngElectrum Foil;AgAu
+8gregtech/gt.metaitem.01-32711.pngEpoxy Circuit Board;An Advanced Board
+1Retrievalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
 1

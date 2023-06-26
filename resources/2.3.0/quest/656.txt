@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5tasksANDOptionalTConstruct/heavyPlate-2.pngIron Large Plate;Reinforced I;Durability: 188;Mining Speed: 6;Attack: 1.5 Hearts;Parts can be replaced
-2TConstruct/toughBinding-2.pngIron Tough Binding;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
-1TConstruct/toughRod-2.pngIron Tough Rod;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
-2Craftingbattlegear2/shield.iron-0.pngIron Shield;3 s Block
+2TConstruct/toughBinding-2.pngIron Tough Binding;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
+1TConstruct/toughRod-2.pngIron Tough Rod;Reinforced I;Durability Modifier: 1.2x;Parts can be replaced
+2Craftingbattlegear2/shield.iron-0.pngIron Shield;3 s Block
 1

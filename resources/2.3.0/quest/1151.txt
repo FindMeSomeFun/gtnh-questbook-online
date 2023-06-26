@@ -11,12 +11,12 @@ Moss - Self-repair (this is not visible in NEI until you unlock it in the GTNH T
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/Pattern-1.pngCrossbow Limb Pattern;Material Cost: 4
-1TConstruct/Pattern-2.pngCrossbow Body Pattern;Material Cost: 5
-1TConstruct/woodPattern-15.pngTough Binding Pattern;Material Cost: 3
-1TConstruct/woodPattern-23.pngBowstring Pattern;Material Cost: 3
-1RetrievalTConstruct/CrossbowLimbPart-0.pngWooden Crossbow Limb;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
-1TConstruct/CrossbowBodyPart-0.pngWooden Crossbow Body;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
-1TConstruct/toughBinding-6.pngObsidian Tough Binding;Reinforced III;Durability Modifier: 0.8x;Parts can be replaced
-1TConstruct/bowstring-0.pngBowstring;Draw Speed: 1x;Durability: 1x;Arrow Speed: 1x;Parts can be replaced
-1RetrievalTConstruct/Crossbow-0-38.pngWooden Crossbow;Reinforced III;Tool Level: 01-Abused;Iron Bolts
+1TConstruct/Pattern-2.pngCrossbow Body Pattern;Material Cost: 5
+1TConstruct/woodPattern-15.pngTough Binding Pattern;Material Cost: 3
+1TConstruct/woodPattern-23.pngBowstring Pattern;Material Cost: 3
+1RetrievalTConstruct/CrossbowLimbPart-0.pngWooden Crossbow Limb;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
+1TConstruct/CrossbowBodyPart-0.pngWooden Crossbow Body;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
+1TConstruct/toughBinding-6.pngObsidian Tough Binding;Reinforced III;Durability Modifier: 0.8x;Parts can be replaced
+1TConstruct/bowstring-0.pngBowstring;Draw Speed: 1x;Durability: 1x;Arrow Speed: 1x;Parts can be replaced
+1RetrievalTConstruct/Crossbow-0-38.pngWooden Crossbow;Reinforced III;Tool Level: 01-Abused;Iron Bolts
 1

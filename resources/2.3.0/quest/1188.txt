@@ -9,5 +9,5 @@ NEI doesn't show the right recipe on the first page. Go through the recipes a bi
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalRailcraft/track-0-reinforced.pngReinforced Track;125% of the speed of normal track;Explosion resistant
-64RetrievalRailcraft/track-0-reinforced-boost.pngReinforced Booster Track;125% of the speed of normal track;Explosion resistant;- Apply Redstone to enable -
+64RetrievalRailcraft/track-0-reinforced-boost.pngReinforced Booster Track;125% of the speed of normal track;Explosion resistant;- Apply Redstone to enable -
 16

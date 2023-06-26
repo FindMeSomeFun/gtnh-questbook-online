@@ -4,6 +4,6 @@ Let's start with just 48 ingots. Enough for a single UV motor.ANDpre11971gr
 2gregtech/gt.metaitem.01-11103.pngAmericium Ingot;Am
 48Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 2tasksANDOptionalgregtech/gt.metaitem.01-11078.pngLutetium Ingot;Lu
-48gregtech/gt.metaitem.01-11030.pngChrome Ingot;Cr
-48Retrievalgregtech/gt.metaitem.01-11103.pngAmericium Ingot;Am
+48gregtech/gt.metaitem.01-11030.pngChrome Ingot;Cr
+48Retrievalgregtech/gt.metaitem.01-11103.pngAmericium Ingot;Am
 48

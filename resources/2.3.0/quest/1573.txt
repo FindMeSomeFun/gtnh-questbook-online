@@ -4,7 +4,7 @@
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-28.pngFoul Fume
-16witchery/ingredient-16.pngQuicklime
-16witchery/ingredient-27.pngClay Jar
-16Retrievalwitchery/ingredient-30.pngOil of Vitriol
+16witchery/ingredient-16.pngQuicklime
+16witchery/ingredient-27.pngClay Jar
+16Retrievalwitchery/ingredient-30.pngOil of Vitriol
 16

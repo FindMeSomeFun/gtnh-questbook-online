@@ -6,9 +6,9 @@
 8Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalminecraft/potion-0.pngWater Bottle
-1minecraft/nether_wart-0.pngNether Wart
-1Optionalminecraft/potion-16.pngAwkward Potion;No Effects
-1Optionalminecraft/potion-16.pngAwkward Potion;No Effects
-1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
-1Retrievalminecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
+1minecraft/nether_wart-0.pngNether Wart
+1Optionalminecraft/potion-16.pngAwkward Potion;No Effects
+1Optionalminecraft/potion-16.pngAwkward Potion;No Effects
+1minecraft/golden_carrot-0.pngGolden Carrot;minecraft:golden_carrot
+1Retrievalminecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
 1

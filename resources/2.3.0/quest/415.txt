@@ -2,6 +2,6 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"
 5tasksANDRetrievalAWWayofTime/alchemyFlask-0.pngPotion Flask;Swigs Left: 8/8;No Effects
-1minecraft/feather-0.pngFeather
-1AWWayofTime/weakBindingAgent-0.pngWeak Binding Agent;Used in Alchemy
+1minecraft/feather-0.pngFeather
+1AWWayofTime/weakBindingAgent-0.pngWeak Binding Agent;Used in Alchemy
 1

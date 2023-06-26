@@ -7,5 +7,5 @@ Transfer Node Energy/Hyper-Energy: Transfers RF, so. useless.ANDpre1761greg
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalExtraUtilities/endConstructor-0.pngQED;Now: Quite Expensive Device
-1ExtraUtilities/endConstructor-2.pngEnder-Flux Crystal
+1ExtraUtilities/endConstructor-2.pngEnder-Flux Crystal
 3

@@ -1,4 +1,4 @@
 2435IC2/blockOreUran-0.png0Uranium Ore exchange4024000You can exchange your Stack of GT Uranium Ore for IC2 Uranium Ore.ANDpre14150gregtech/gt.blockores-98.pngrewardsItemIC2/blockOreUran-0.pngUranium Ore
 64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-50gregtech/gt.blockores-98.pngUranium 238 Ore;U
+50gregtech/gt.blockores-98.pngUranium 238 Ore;U
 64

@@ -4,7 +4,7 @@
 8enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksORRetrievalgregtech/gt.blockmachines-162.pngMedium Voltage Battery Buffer;1 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 8,192 EU
-1Retrievalgregtech/gt.blockmachines-172.pngMedium Voltage Battery Buffer;4 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 32,768 EU
-1Retrievalgregtech/gt.blockmachines-182.pngMedium Voltage Battery Buffer;9 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 73,728 EU
-1Retrievalgregtech/gt.blockmachines-192.pngMedium Voltage Battery Buffer;16 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 131,072 EU
+1Retrievalgregtech/gt.blockmachines-172.pngMedium Voltage Battery Buffer;4 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 32,768 EU
+1Retrievalgregtech/gt.blockmachines-182.pngMedium Voltage Battery Buffer;9 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 73,728 EU
+1Retrievalgregtech/gt.blockmachines-192.pngMedium Voltage Battery Buffer;16 Slots;Voltage IN: 128 (MV);Voltage OUT: 128 (MV);Capacity: 131,072 EU
 1

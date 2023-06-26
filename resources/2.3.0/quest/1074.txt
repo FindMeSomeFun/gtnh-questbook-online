@@ -2,7 +2,7 @@
 
 §3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-190.pngSpawn Twilight Lich
 1tasksANDConsumedreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-7dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
-4RetrievalTwilightForest/item.trophy-1.pngNaga Trophy
-1dreamcraft/item.LichBone-0.pngLich Bone
+7dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
+4RetrievalTwilightForest/item.trophy-1.pngNaga Trophy
+1dreamcraft/item.LichBone-0.pngLich Bone
 1

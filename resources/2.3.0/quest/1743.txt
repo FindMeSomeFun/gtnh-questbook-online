@@ -7,5 +7,5 @@
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.metaitem.01-30692.pngSalt Water Cell
-64gregtech/gt.metaitem.01-30605.pngChlorobenzene Cell;C\u2086H\u2085Cl
+64gregtech/gt.metaitem.01-30605.pngChlorobenzene Cell;C\u2086H\u2085Cl
 64

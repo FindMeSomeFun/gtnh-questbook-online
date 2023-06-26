@@ -9,6 +9,6 @@ Notice some leftovers? Try using the plunger, or if you have the materials, you 
 4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30677.pngEthylene Cell;C\u2082H\u2084
-4gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-28Retrievalgregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell;CH\u2082
+4gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+28Retrievalgregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell;CH\u2082
 41

@@ -11,5 +11,5 @@ There are more planets and moons with gas and fluids underneath the surface. Bri
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-30005.pngHelium-3 Cell;He-3
-64gregtech/gt.metaitem.01-30692.pngSalt Water Cell
+64gregtech/gt.metaitem.01-30692.pngSalt Water Cell
 64

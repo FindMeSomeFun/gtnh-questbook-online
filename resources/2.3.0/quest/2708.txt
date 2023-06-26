@@ -5,6 +5,6 @@ This will open a lot of planets outside of our solar system such as Barnarda.AN
 16Itemdreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
 5dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 5tasksANDRetrievalGalaxySpace/plutoblocks-6.pngPluto Dungeon Bricks
-16RetrievalGalaxySpace/item.Tier8Key-0.pngTier 7 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier8-0.pngNASA Workbench Schematic;Rocket Tier 8
+16RetrievalGalaxySpace/item.Tier8Key-0.pngTier 7 Dungeon Key
+1RetrievalGalaxySpace/item.SchematicTier8-0.pngNASA Workbench Schematic;Rocket Tier 8
 1

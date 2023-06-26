@@ -5,5 +5,5 @@
 4Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDConsumeThaumcraft/ItemResource-17.pngVoid Seed
-2RetrievalThaumcraft/ItemResource-16.pngVoid metal Ingot
+2RetrievalThaumcraft/ItemResource-16.pngVoid metal Ingot
 1

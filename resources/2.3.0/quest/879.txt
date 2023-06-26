@@ -3,12 +3,12 @@ First you need some primal charms which cost 50 vis to craft.ANDpre2651Thau
 4Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalThaumcraft/blockCrystal-0.pngAir Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-6.pngMixed Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1gregtech/gt.metaitem.01-28351.pngRose Gold Ring;CuAu\u2084
-2RetrievalThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
+1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
+1Thaumcraft/blockCrystal-6.pngMixed Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
+1gregtech/gt.metaitem.01-28351.pngRose Gold Ring;CuAu\u2084
+2RetrievalThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
 1

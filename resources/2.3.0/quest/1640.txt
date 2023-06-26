@@ -1,9 +1,9 @@
 1640gregtech/gt.metaitem.01-30460.png0Dealing with H2S25-1Now let's convert all that H2S into sulfuric acid. Hook up a chemical reactor to electricity, water and interface pipe. Put inside an item responder chip set to accept H2S cells and extract empty cells. Distill that diluted sulfuric acid in distillery and store it in super tank.
 
 Congratulations. You now have a completely automatic desulfuring of oil, automatic production of hydrogen and oxygen and you also store all that sulfuric acid.ANDpre16390gregtech/gt.metaitem.01-30737.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-531.pngBasic Distillery;Extracting the most relevant Parts of Fluids;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1gregtech/gt.blockmachines-421.pngBasic Chemical Reactor;Letting Chemicals react with each other;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1gregtech/gt.blockmachines-130.pngSuper Tank I;Stores 4,000,000L of fluid;Will keep its contents when harvested
-1ProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
-1ProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
-1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+1gregtech/gt.blockmachines-421.pngBasic Chemical Reactor;Letting Chemicals react with each other;Voltage IN: 32 (LV);Capacity: 2,048 EU
+1gregtech/gt.blockmachines-130.pngSuper Tank I;Stores 4,000,000L of fluid;Will keep its contents when harvested
+1ProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
+1ProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
+1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
 1

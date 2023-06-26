@@ -3,9 +3,9 @@
 10Railcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
 10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalminecraft/netherbrick-0.pngNether Brick
-68Optionaldreamcraft/item.HotNetherrackBrick-0.pngHot Netherrack Brick
-68Optionaldreamcraft/item.CokeOvenBrick-0.pngCoke Oven Brick
-68dreamcraft/item.InfernalBrick-0.pngInfernal Brick
-68Optionaldreamcraft/item.AdvancedCokeOvenBrick-0.pngAdvanced Coke Oven Brick
-136RetrievalRailcraft/machine.alpha-12.pngAdvanced Coke Oven Brick;Multi-Block: 3x4x3 (Hollow);Mobs cannot Spawn on this Block
+68Optionaldreamcraft/item.HotNetherrackBrick-0.pngHot Netherrack Brick
+68Optionaldreamcraft/item.CokeOvenBrick-0.pngCoke Oven Brick
+68dreamcraft/item.InfernalBrick-0.pngInfernal Brick
+68Optionaldreamcraft/item.AdvancedCokeOvenBrick-0.pngAdvanced Coke Oven Brick
+136RetrievalRailcraft/machine.alpha-12.pngAdvanced Coke Oven Brick;Multi-Block: 3x4x3 (Hollow);Mobs cannot Spawn on this Block
 34

@@ -7,6 +7,6 @@ To encode the patterns, you need a Knowledge Inscriber. It works exactly as you 
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.arcane.assembler-0.pngArcane Assembler
-1thaumicenergistics/knowledge.core-0.pngKnowledge Core
-1thaumicenergistics/thaumicenergistics.block.knowledge.inscriber-0.pngKnowledge Inscriber
+1thaumicenergistics/knowledge.core-0.pngKnowledge Core
+1thaumicenergistics/thaumicenergistics.block.knowledge.inscriber-0.pngKnowledge Inscriber
 1

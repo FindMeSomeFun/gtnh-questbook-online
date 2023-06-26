@@ -37,12 +37,12 @@ The Enhanced Ender Pearls can still be used for crafting an Eye of Ender.ANDpr
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 1tasksANDRetrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-7Retrievalminecraft/wool-0.pngWool
-1minecraft/feather-0.pngFeather
-1minecraft/string-0.pngString
-1minecraft/gold_nugget-0.pngGold Nugget
-1minecraft/gunpowder-0.pngGunpowder
-1minecraft/snowball-0.pngSnowball
-1minecraft/lead-0.pngLead
-1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+7Retrievalminecraft/wool-0.pngWool
+1minecraft/feather-0.pngFeather
+1minecraft/string-0.pngString
+1minecraft/gold_nugget-0.pngGold Nugget
+1minecraft/gunpowder-0.pngGunpowder
+1minecraft/snowball-0.pngSnowball
+1minecraft/lead-0.pngLead
+1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
 14

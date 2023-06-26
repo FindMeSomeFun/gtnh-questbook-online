@@ -5,5 +5,5 @@ To automate this from regular Oil, you will need another Distillery and Chemical
 10enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 10tasksANDRetrievalgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-30gregtech/gt.blockmachines-582.pngAdvanced Mixer;Will it Blend?;Voltage IN: 128 (MV);Capacity: 8,192 EU
+30gregtech/gt.blockmachines-582.pngAdvanced Mixer;Will it Blend?;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

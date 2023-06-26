@@ -9,6 +9,6 @@ If you pile up the multipliers, 5x from stimulator, 3x from mutator, and 4x1.8x 
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalExtraBees/hiveFrame.soul-0.pngSoul Frame
-1miscutils/frameAccelerated-0.pngAccelerated Frame;Longevity for bees isn''t very common, especially if they''re working harder.
-1MagicBees/frameMetabolic-0.pngMetabolic Frame
+1miscutils/frameAccelerated-0.pngAccelerated Frame;Longevity for bees isn''t very common, especially if they''re working harder.
+1MagicBees/frameMetabolic-0.pngMetabolic Frame
 1

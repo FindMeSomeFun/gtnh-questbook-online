@@ -2,5 +2,5 @@
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 10tasksANDRetrievalBuildCraftTransport/item.buildcraftPipe.pipepowerwood-0.pngWooden Kinesis Pipe;Power Input Pipe;320 RF/t
-1BuildCraftTransport/item.buildcraftPipe.pipepowercobblestone-0.pngCobblestone Kinesis Pipe;80 RF/t
+1BuildCraftTransport/item.buildcraftPipe.pipepowercobblestone-0.pngCobblestone Kinesis Pipe;80 RF/t
 1

@@ -2,19 +2,19 @@
 
 §3PS: You need an LuV-powered EBF for the osmiridium.ANDpre2851Thaumcraft/ItemResource-17.pngrewardsItemWarpTheory/item.warptheory.cleanser-0.pngPure Tear;Crunchy
 1tasksANDConsumeminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
-3minecraft/ghast_tear-0.pngGhast Tear
-2appliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal
-2appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
-2gregtech/gt.metaitem.01-24500.pngDiamond Lens;C
-2Thaumcraft/ItemResource-14.pngSalis Mundus
-1Consumegregtech/gt.metaitem.01-11317.pngOsmiridium Ingot;Ir\u2083Os
-1Thaumcraft/ItemResource-16.pngVoid metal Ingot
-2gregtech/gt.metaitem.02-29500.pngFlawless Diamond;C
-4ThaumicTinkerer/kamiResource-6.pngNether Shard
-2ThaumicTinkerer/kamiResource-7.pngEnder Shard
-2minecraft/ender_eye-0.pngEye of Ender
-2ConsumeThaumcraft/ItemEssence-1-alienis.pngPhial of Essentia;Alienis x 8
-4Thaumcraft/ItemEssence-1-permutatio.pngPhial of Essentia;Permutatio x 8
-4Thaumcraft/ItemEssence-1-praecantatio.pngPhial of Essentia;Praecantatio x 8
-2Thaumcraft/ItemEssence-1-sano.pngPhial of Essentia;Sano x 8
+3minecraft/ghast_tear-0.pngGhast Tear
+2appliedenergistics2/item.ItemMultiMaterial-11.pngPure Nether Quartz Crystal
+2appliedenergistics2/item.ItemMultiMaterial-10.pngPure Certus Quartz Crystal
+2gregtech/gt.metaitem.01-24500.pngDiamond Lens;C
+2Thaumcraft/ItemResource-14.pngSalis Mundus
+1Consumegregtech/gt.metaitem.01-11317.pngOsmiridium Ingot;Ir\u2083Os
+1Thaumcraft/ItemResource-16.pngVoid metal Ingot
+2gregtech/gt.metaitem.02-29500.pngFlawless Diamond;C
+4ThaumicTinkerer/kamiResource-6.pngNether Shard
+2ThaumicTinkerer/kamiResource-7.pngEnder Shard
+2minecraft/ender_eye-0.pngEye of Ender
+2ConsumeThaumcraft/ItemEssence-1-alienis.pngPhial of Essentia;Alienis x 8
+4Thaumcraft/ItemEssence-1-permutatio.pngPhial of Essentia;Permutatio x 8
+4Thaumcraft/ItemEssence-1-praecantatio.pngPhial of Essentia;Praecantatio x 8
+2Thaumcraft/ItemEssence-1-sano.pngPhial of Essentia;Sano x 8
 2

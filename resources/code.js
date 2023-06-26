@@ -94,7 +94,6 @@ function populateElement(text, id) {
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
-		alert(data[1] + ' - ' + data[2]);
 		canvas.width = data[1];
 		canvas.height = data[2];
 		element.innerHTML = ""
@@ -173,18 +172,18 @@ function loadQuestData(data, eId) {
 	var name = data[3];
 	var qLine = data[4];
 	var rTime = +data[5];
-	fullElementString = '<div style="height: 64px;"><div class="inline icon' + main + '"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id + ' - ' + name + '</div><div class="sub-title">QuestLine: ' + window.questLines[qLine] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>' + rTime + '</div><div class="inline top btn hide">Hide</div>';
+	var elementString = '<div style="height: 64px;"><div class="inline icon' + main + '"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id + ' - ' + name + '</div><div class="sub-title">QuestLine: ' + window.questLines[qLine] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>' + rTime + '</div><div class="inline top btn hide">Hide</div>';
 	if (eId == 'pinned') {
-		fullElementString += '<div class="inline top btn remove">Remove</div></div></div>';
+		elementString += '<div class="inline top btn remove">Remove</div></div></div>';
 	} else {
-		fullElementString += '<div class="inline top btn pin">Pin</div></div></div>';
+		elementString += '<div class="inline top btn pin">Pin</div></div></div>';
 		
 	}
 	//   0-id 1-icon, 2-main, 3-name, 4-questLine, 5-repeatTime, 6-desc, 7-questLogic, 8-pre[[id, main, icon]], 9-rewards[type, [[icon, name, number]]], 10-tasks, 11-taskLogic [type, [[icon, name, number]]]
 	var desc = data[6];
 	var qLogic = data[7];
 	var i = 9;
-	var elementString = '<div class="pad-top"><div class="half"><div><span>Pre-Requisites: ';
+	elementString += '<div class="pad-top"><div class="half"><div><span>Pre-Requisites: ';
 	if (data[9] == 'rewards') {
 		elementString += 'NONE </span><div class="inline icon"></div></div>';
 	} else {
@@ -208,14 +207,13 @@ function loadQuestData(data, eId) {
 			}
 		}
 	}
-	fullElementString += elementString;
-	elementString = ' <div class="text">' + desc + '</div></div><div class="half"><div class="tasks"><p>Rewards:</p><div>';
+	elementString += ' <div class="text">' + desc + '</div></div><div class="half"><div class="tasks"><p>Rewards:</p><div>';
 	var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
 	i++;	// jump over 'rewards' string
 	if (data[i] == 'tasks') {
 		elementString += '<p> NONE </p></div>';
 	} else {
-		for (; i < data.length; i++) {
+		for (i; i < data.length; i++) {
 			var type = data[i++];
 			elementString += '<p>' + type + ' Reward </p> ';
 			for (; i < data.length; i++) {
@@ -226,7 +224,15 @@ function loadQuestData(data, eId) {
 				var icon = data[i++];
 				var name = data[i++];
 				var number = data[i++];
-				elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">' + name + 'x ' + number + '</div></div>';
+				elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
+				var nameParts = name.split(';');
+				for (var j = 0; j < nameParts.length; j++) {
+					elementString += nameParts[j]
+					if (j < nameParts.length - 1) {
+						elementString += '<br />'
+					}
+				}
+				elementString +=  'x ' + number + '</div></div>';
 				if (rewardTypes.includes(data[i--])) {
 					break;
 				}
@@ -236,29 +242,37 @@ function loadQuestData(data, eId) {
 			}
 		}
 	}
-	fullElementString += elementString + '</div>';
+	elementString += '</div>';
 	i++;	// jump over 'tasks' string
 	var taskNo = 1;
 	var tLogic = data[i++];
-	elementString = '<div class="tasks"><p> Tasks: ' + tLogic + ' </p> ';
+	elementString += '<div class="tasks"><p> Tasks: ' + tLogic + ' </p> ';
 	var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid', 'Consume'];
-	for (; i < data.length; i++) {
+	for (i; i < data.length; i++) {
 		var type = data[i++];
 		elementString += '<div><p> ' + taskNo++ + '. ' + type + ' Task </p> ';
-		for (; i < data.length; i++) {
+		for (i; i < data.length; i++) {
 			var icon = data[i++];
 			var name = data[i++];
 			var number = data[i++];
 //alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
-			elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">' + name + '0 / ' + number + '</div></div>';
+			elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
+			var nameParts = name.split(';');
+			for (var j = 0; j < nameParts.length; j++) {
+				elementString += nameParts[j]
+				if (j < nameParts.length - 1) {
+					elementString += '<br />'
+				}
+			}
+			elementString += '0 / ' + number + '</div></div>';
 			if (taskTypes.includes(data[i--])) {
 				elementString += '</div>';
 				break;
 			}
 		}
 	}
-	fullElementString += elementString + '</div></div></div>';
-	return fullElementString;
+	elementString += '</div></div></div></div>';
+	return elementString;
 }
 
 function loadQuestLineTree(questLineId) {

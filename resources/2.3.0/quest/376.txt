@@ -1,5 +1,5 @@
 376harvestcraft/supremepizzaItem-0.png0I'm Hungry10-1What... I work a lot! So get me some food please.ANDpre3750gregtech/gt.metaitem.01-32599.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDConsumeharvestcraft/creamofavocadosoupItem-0.pngCream of Avocado Soup;harvestcraft:creamofavocadosoupItem
-1Consumeharvestcraft/supremepizzaItem-0.pngSupreme Pizza;harvestcraft:supremepizzaItem
-1Consumeharvestcraft/mintchocolatechipicemcreamItem-0.pngMint Chocolate Chip Ice Cream;harvestcraft:mintchocolatechipicemcreamItem
+1Consumeharvestcraft/supremepizzaItem-0.pngSupreme Pizza;harvestcraft:supremepizzaItem
+1Consumeharvestcraft/mintchocolatechipicemcreamItem-0.pngMint Chocolate Chip Ice Cream;harvestcraft:mintchocolatechipicemcreamItem
 1

@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
-58gregtech/gt.metaitem.01-29052.pngPalladium Foil;Pd
-464Optionalgregtech/gt.metaitem.01-32712.pngMultilayer Fiber-Reinforced Circuit Board;An Elite Board
-29gregtech/gt.metaitem.01-29085.pngPlatinum Foil;Pt
-232Retrievalgregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
+58gregtech/gt.metaitem.01-29052.pngPalladium Foil;Pd
+464Optionalgregtech/gt.metaitem.01-32712.pngMultilayer Fiber-Reinforced Circuit Board;An Elite Board
+29gregtech/gt.metaitem.01-29085.pngPlatinum Foil;Pt
+232Retrievalgregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
 29

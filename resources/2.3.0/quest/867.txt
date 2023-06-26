@@ -7,6 +7,6 @@ You can find the vein in the overworld at Y 20-50.ANDpre501gregtech/gt.bloc
 16gregtech/gt.metaitem.01-2934.pngGypsum Dust;CaSO\u2084(H\u2082O)\u2082
 16Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10tasksANDRetrievalgregtech/gt.blockores-526.pngLapis Ore;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-16gregtech/gt.blockores-524.pngLazurite Ore;Al\u2086Si\u2086Ca\u2088Na\u2088
-16gregtech/gt.blockores-823.pngCalcite Ore;CaCO\u2083
+16gregtech/gt.blockores-524.pngLazurite Ore;Al\u2086Si\u2086Ca\u2088Na\u2088
+16gregtech/gt.blockores-823.pngCalcite Ore;CaCO\u2083
 32

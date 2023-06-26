@@ -2,7 +2,7 @@
 We'll look at the latter here.
 
 Eventually you'll probably want to switch entirely to the monazite option, but for now, supplementing it with this can be a good idea.ANDpre16961gregtech/gt.blockmachines-425.pngrewardstasksANDOptionalbartworks/gt.bwMetaGenerateddust-11128.pngSamarium Ore Concentrate Dust;??Sm??;Added by GTNH: Lanthanides via BartWorks
-2gregtech/gt.metaitem.01-2026.pngCalcium Dust;Ca
-3Retrievalbartworks/gt.bwMetaGenerateddust-11129.pngDephosphated Samarium Concentrate Dust;??Sm??;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2534.pngTricalcium Phosphate Dust;Ca\u2083(PO\u2084)\u2082
+2gregtech/gt.metaitem.01-2026.pngCalcium Dust;Ca
+3Retrievalbartworks/gt.bwMetaGenerateddust-11129.pngDephosphated Samarium Concentrate Dust;??Sm??;Added by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2534.pngTricalcium Phosphate Dust;Ca\u2083(PO\u2084)\u2082
 1

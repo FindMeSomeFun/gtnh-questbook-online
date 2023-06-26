@@ -6,6 +6,6 @@ This will open the Moons from Saturn and Uranus.ANDpre15351GalaxySpace/item
 1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDRetrievalGalaxySpace/ioblocks-3.pngIo Dungeon Bricks
-16RetrievalGalaxySpace/item.Tier5Key-0.pngTier 4 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier5-0.pngNASA Workbench Schematic;Rocket Tier 5
+16RetrievalGalaxySpace/item.Tier5Key-0.pngTier 4 Dungeon Key
+1RetrievalGalaxySpace/item.SchematicTier5-0.pngNASA Workbench Schematic;Rocket Tier 5
 1

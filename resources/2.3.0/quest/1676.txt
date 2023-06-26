@@ -3,6 +3,6 @@
 16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.03-32021.pngGlass Fiber;B(SiO\u2082)\u2087
-15gregtech/gt.metaitem.99-470.pngMolten Epoxid Cell;C\u2082\u2081H\u2082\u2084O\u2084
-15Retrievalgregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet;C\u2082\u2081H\u2082\u2084O\u2084
+15gregtech/gt.metaitem.99-470.pngMolten Epoxid Cell;C\u2082\u2081H\u2082\u2084O\u2084
+15Retrievalgregtech/gt.metaitem.01-17610.pngFiber-Reinforced Epoxy Resin Sheet;C\u2082\u2081H\u2082\u2084O\u2084
 15

@@ -7,8 +7,8 @@ Hint: Sometimes you can't loot or break the lander. Try to retrieve the contents
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalGalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
-1GalacticraftCore/item.parachute-0.pngParachute
-1GalacticraftCore/item.canvas-0.pngCanvas
-3gregtech/gt.metaitem.01-29086.pngGold Foil;Au
-4RetrievalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2;Rocket Module
+1GalacticraftCore/item.parachute-0.pngParachute
+1GalacticraftCore/item.canvas-0.pngCanvas
+3gregtech/gt.metaitem.01-29086.pngGold Foil;Au
+4RetrievalGalaxySpace/item.ModuleLander2-0.pngLander Tier 2;Rocket Module
 1

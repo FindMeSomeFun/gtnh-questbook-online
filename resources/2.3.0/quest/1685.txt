@@ -5,5 +5,5 @@ You'll need to wait for the next tier to make the cheaper EV circuits though.AN
 1enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.03-32048.pngASoC Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32049.pngASoC;Advanced System on a Chip
+1Retrievalgregtech/gt.metaitem.03-32049.pngASoC;Advanced System on a Chip
 6

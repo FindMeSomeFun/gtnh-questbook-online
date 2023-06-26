@@ -11,5 +11,5 @@ You can also boost your Pyro by providing Nitrogen. There are separate recipes f
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-1159.pngPyrolyse Oven;Machine Type: Coke Oven;Controller block for the Pyrolyse Oven;Industrial Charcoal producer;Processing speed scales linearly with Coil tier:;CuNi: 50%, FeAlCr: 100%, Ni4Cr: 150%, TPV: 200%, etc.;EU/t is not affected by Coil tier;Causes: 300 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1dreamcraft/gt.blockcasingsNH-2.pngPyrolyse Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1dreamcraft/gt.blockcasingsNH-2.pngPyrolyse Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 60

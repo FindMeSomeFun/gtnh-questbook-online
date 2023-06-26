@@ -2,7 +2,7 @@
 4dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDOptionalgregtech/gt.metaitem.01-2032.pngIron Dust;Fe
-16gregtech/gt.metaitem.01-2029.pngVanadium Dust;V
-1Optionalmiscutils/itemDustFormaldehydeCatalyst-0.pngFormaldehyde Catalyst Dust;Fe\u2081\u2086V\u2081
-4Retrievalmiscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst;Active Reaction Agent;50 / 50
+16gregtech/gt.metaitem.01-2029.pngVanadium Dust;V
+1Optionalmiscutils/itemDustFormaldehydeCatalyst-0.pngFormaldehyde Catalyst Dust;Fe\u2081\u2086V\u2081
+4Retrievalmiscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst;Active Reaction Agent;50 / 50
 1

@@ -6,6 +6,6 @@
 1dreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalGalaxySpace/phobosblocks-0.pngPhobos Surface Block
-8GalaxySpace/phobosblocks-1.pngPhobos Subsurface Block
-8GalaxySpace/phobosblocks-2.pngPhobos Stone
+8GalaxySpace/phobosblocks-1.pngPhobos Subsurface Block
+8GalaxySpace/phobosblocks-2.pngPhobos Stone
 8

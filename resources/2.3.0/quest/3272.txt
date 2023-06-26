@@ -9,11 +9,11 @@
 1Thaumcraft/ItemGolemUpgrade-4.pngGolem Upgrade: Order;Improves Organization, Intellect
 1Thaumcraft/ItemGolemUpgrade-5.pngGolem Upgrade: Entropy;Improves Defenses, Reasoning
 1tasksORRetrievalThaumcraft/ItemGolemPlacer-0-advanced.pngStraw Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-1-advanced.pngWood Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-2-advanced.pngTallow Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-3-advanced.pngClay Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-4-advanced.pngFlesh Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-5-advanced.pngStone Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-6-advanced.pngIron Golem;Advanced
-1RetrievalThaumcraft/ItemGolemPlacer-7-advanced.pngThaumium Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-1-advanced.pngWood Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-2-advanced.pngTallow Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-3-advanced.pngClay Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-4-advanced.pngFlesh Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-5-advanced.pngStone Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-6-advanced.pngIron Golem;Advanced
+1RetrievalThaumcraft/ItemGolemPlacer-7-advanced.pngThaumium Golem;Advanced
 1

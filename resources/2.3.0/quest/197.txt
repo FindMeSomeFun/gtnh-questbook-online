@@ -4,8 +4,8 @@
 2IC2/reactorVentSpread-0.pngComponent Heat Vent
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalIC2/reactorVent-1.pngHeat Vent
-1IC2/reactorVentCore-1.pngReactor Heat Vent
-1IC2/reactorVentDiamond-1.pngAdvanced Heat Vent
-1IC2/reactorVentGold-1.pngOverclocked Heat Vent
-1IC2/reactorVentSpread-0.pngComponent Heat Vent
+1IC2/reactorVentCore-1.pngReactor Heat Vent
+1IC2/reactorVentDiamond-1.pngAdvanced Heat Vent
+1IC2/reactorVentGold-1.pngOverclocked Heat Vent
+1IC2/reactorVentSpread-0.pngComponent Heat Vent
 1

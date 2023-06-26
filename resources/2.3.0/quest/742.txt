@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/metalPattern-21.pngHammer Head Cast;Material Cost: 8
-1TConstruct/metalPattern-16.pngLarge Plate Cast;Material Cost: 8
-1TConstruct/metalPattern-14.pngTough Rod Cast;Material Cost: 3
-1RetrievalTConstruct/hammer-0-3509.pngHammer;Reinforced II;Mining Level: 04-Redstone;Tool Level: 01-Abused;+6 Attack Damage
+1TConstruct/metalPattern-16.pngLarge Plate Cast;Material Cost: 8
+1TConstruct/metalPattern-14.pngTough Rod Cast;Material Cost: 3
+1RetrievalTConstruct/hammer-0-3509.pngHammer;Reinforced II;Mining Level: 04-Redstone;Tool Level: 01-Abused;+6 Attack Damage
 1

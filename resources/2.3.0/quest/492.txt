@@ -6,8 +6,8 @@
 1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-2gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-1minecraft/stick-0.pngStick;Burn Time: 100
-2Retrievalminecraft/shears-0.pngShears
+2gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+1minecraft/stick-0.pngStick;Burn Time: 100
+2Retrievalminecraft/shears-0.pngShears
 1

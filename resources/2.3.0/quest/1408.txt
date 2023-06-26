@@ -7,13 +7,13 @@ You'll need TPV Coils.
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-2098.pngUranium 238 Dust;U
-3gregtech/gt.metaitem.01-2085.pngPlatinum Dust;Pt
-9Optionalgregtech/gt.metaitem.01-2989.pngSuperconductor Base EV Dust;UPt\u2083
-12Optionalgregtech/gt.metaitem.01-11989.pngSuperconductor Base EV Ingot;UPt\u2083
-12Optionalgregtech/gt.blockmachines-2240.png1x Superconductor Base EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 3;Loss/Meter/Ampere: 16 EU-Volt
-18Optionalgregtech/gt.blockmachines-2240.png1x Superconductor Base EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 3;Loss/Meter/Ampere: 16 EU-Volt
-18gregtech/gt.blockmachines-5160.pngTiny Tungstensteel Fluid Pipe;Fluid Capacity: 2,000 L/sec;Heat Limit: 7,500 K
-12gregtech/gt.metaitem.01-32613.pngElectric Pump;2,048 L/t (40,960 L/s) as Cover
-2gregtech/gt.metaitem.01-30004.pngHelium Cell;He
-12Retrievalgregtech/gt.blockmachines-2360.png1x Superconductor EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
+3gregtech/gt.metaitem.01-2085.pngPlatinum Dust;Pt
+9Optionalgregtech/gt.metaitem.01-2989.pngSuperconductor Base EV Dust;UPt\u2083
+12Optionalgregtech/gt.metaitem.01-11989.pngSuperconductor Base EV Ingot;UPt\u2083
+12Optionalgregtech/gt.blockmachines-2240.png1x Superconductor Base EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 3;Loss/Meter/Ampere: 16 EU-Volt
+18Optionalgregtech/gt.blockmachines-2240.png1x Superconductor Base EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 3;Loss/Meter/Ampere: 16 EU-Volt
+18gregtech/gt.blockmachines-5160.pngTiny Tungstensteel Fluid Pipe;Fluid Capacity: 2,000 L/sec;Heat Limit: 7,500 K
+12gregtech/gt.metaitem.01-32613.pngElectric Pump;2,048 L/t (40,960 L/s) as Cover
+2gregtech/gt.metaitem.01-30004.pngHelium Cell;He
+12Retrievalgregtech/gt.blockmachines-2360.png1x Superconductor EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
 18

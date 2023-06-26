@@ -5,6 +5,6 @@
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalRailcraft/machine.epsilon-0.pngElectric Feeder Unit;Converts IndustrialCraft;Electricity to Railcraft Charge;Mobs cannot Spawn on this Block
-1RetrievalRailcraft/machine.delta-0.pngElectric Shunting Wire;Connect Electric Track across gaps;Place under Track using Wire Support Frames;Mobs cannot Spawn on this Block
-8Railcraft/frame-0.pngWire Support Frame;Use to place Track on Shunting Wire;Mobs cannot Spawn on this Block;Glass-Tier: HV
+1RetrievalRailcraft/machine.delta-0.pngElectric Shunting Wire;Connect Electric Track across gaps;Place under Track using Wire Support Frames;Mobs cannot Spawn on this Block
+8Railcraft/frame-0.pngWire Support Frame;Use to place Track on Shunting Wire;Mobs cannot Spawn on this Block;Glass-Tier: HV
 4

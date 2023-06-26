@@ -3,8 +3,8 @@
 16enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 2tasksANDOptionaldreamcraft/item.LedoxCompressedPlate-0.pngCompressed Ledox Plate
-12GalacticraftCore/item.engine-1.pngTier 1 Booster
-4GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-16GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
-4Retrievaldreamcraft/item.Tier2Booster-0.pngTier 2 Booster
+12GalacticraftCore/item.engine-1.pngTier 1 Booster
+4GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
+16GalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
+4Retrievaldreamcraft/item.Tier2Booster-0.pngTier 2 Booster
 4

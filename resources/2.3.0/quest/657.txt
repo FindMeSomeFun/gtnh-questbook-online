@@ -5,7 +5,7 @@ This spear has better durability than the wooden one.ANDpre361gregtech/gt.m
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5tasksANDOptionalTConstruct/arrowhead-1.pngStone Arrowhead;Can only be used to make casts,;cannot be used to make a tool
-1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
-1Craftingbattlegear2/spear.stone-0.pngStone Spear;+3 Mounted Damage;+3 Attack Damage;+2 Reach;Durability: 131/131
+1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+2battlegear2/spear.wood-0.pngWooden Spear;+3 Mounted Damage;+2 Attack Damage;+1 Reach;Durability: 59/59;Burn Time: 200
+1Craftingbattlegear2/spear.stone-0.pngStone Spear;+3 Mounted Damage;+3 Attack Damage;+2 Reach;Durability: 131/131
 1

@@ -1,5 +1,5 @@
 2147Automagy/avaricePearl-0.png0Gimme gimme gimme31-1The Avarice Pearl is the next object Automagy requires you to interact with in order to unlock the next section. Make an Avarice Pearl, throw some stuff on the ground, and throw Avarice Pearls at them by right-clicking quickly over and over to get a Shattered (ha ha) Pearl to unlock a few more research items.ANDpre21460Automagy/crystalBrain-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalAutomagy/avaricePearl-0.pngAvarice Pearl
-1RetrievalAutomagy/horizontal-0.pngShattered Avarice Pearl
+1RetrievalAutomagy/horizontal-0.pngShattered Avarice Pearl
 1

@@ -2,12 +2,12 @@
 
 Note that if you're processing Huebnerite or Ferberite from ross128b or 128ba, the first step is slightly different.ANDpre29801gregtech/gt.blockmachines-574.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-2841.pngTungstate Dust;WLi\u2082O\u2084
-21gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
-6IC2/itemCellEmpty-1.pngWater Cell
-12Optionalgregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
-6bartworks/gt.bwMetaGeneratedcell-29904.pngSodium Tungstate Cell;Na\u2082WO\u2084;Added by GTNH: Lanthanides via BartWorks
-3Optionalbartworks/gt.bwMetaGeneratedcell-29904.pngSodium Tungstate Cell;Na\u2082WO\u2084;Added by GTNH: Lanthanides via BartWorks
-3bartworks/gt.bwMetaGenerateddust-63.pngCalcium Chloride Dust;CaCl\u2082;Added by BartWorks
-9Retrievalgregtech/gt.metaitem.01-2910.pngScheelite Dust;WCaO\u2084
-18gregtech/gt.metaitem.01-2817.pngSalt;NaCl
+21gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
+6IC2/itemCellEmpty-1.pngWater Cell
+12Optionalgregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
+6bartworks/gt.bwMetaGeneratedcell-29904.pngSodium Tungstate Cell;Na\u2082WO\u2084;Added by GTNH: Lanthanides via BartWorks
+3Optionalbartworks/gt.bwMetaGeneratedcell-29904.pngSodium Tungstate Cell;Na\u2082WO\u2084;Added by GTNH: Lanthanides via BartWorks
+3bartworks/gt.bwMetaGenerateddust-63.pngCalcium Chloride Dust;CaCl\u2082;Added by BartWorks
+9Retrievalgregtech/gt.metaitem.01-2910.pngScheelite Dust;WCaO\u2084
+18gregtech/gt.metaitem.01-2817.pngSalt;NaCl
 12

@@ -3,6 +3,6 @@
 §3If you haven't already, make sure to read the info quests linked from the first quest when you can, they have important info!ANDpre01minecraft/wheat-0.pngrewardsItemminecraft/torch-0.pngTorch
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5tasksANDRetrievalminecraft/gravel-0.pngGravel
-9minecraft/log-0.pngOak Wood;Burn Time: 300
-5Consumeminecraft/log-0.pngOak Wood;Burn Time: 300
+9minecraft/log-0.pngOak Wood;Burn Time: 300
+5Consumeminecraft/log-0.pngOak Wood;Burn Time: 300
 2

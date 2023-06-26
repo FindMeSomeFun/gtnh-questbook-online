@@ -6,7 +6,7 @@ The best place to find them is in a Magical Forest, but if you can't find one yo
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 10tasksANDRetrievalThaumcraft/blockCustomPlant-1.pngSilverwood Sapling
-1Thaumcraft/blockMagicalLog-1.pngSilverwood Log;Burn Time: 300
-5RetrievalThaumcraft/blockCustomPlant-0.pngGreatwood Sapling
-1Thaumcraft/blockMagicalLog-0.pngGreatwood Log;Burn Time: 400
+1Thaumcraft/blockMagicalLog-1.pngSilverwood Log;Burn Time: 300
+5RetrievalThaumcraft/blockCustomPlant-0.pngGreatwood Sapling
+1Thaumcraft/blockMagicalLog-0.pngGreatwood Log;Burn Time: 400
 5

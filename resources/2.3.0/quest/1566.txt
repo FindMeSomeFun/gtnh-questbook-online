@@ -6,5 +6,5 @@ If you haven't unlocked your Brewing stand yet, you have to do it first. Look in
 1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalwitchery/ingredient-78.pngIcy Needle
-4minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
+4minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
 4

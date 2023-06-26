@@ -9,5 +9,5 @@ Notes: Hydrogen Cyanide has a recipe now. Both it and Formaldehyde require a Che
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 1tasksANDRetrievalmiscutils/blockPestKiller-0.pngPest Killer;Kills Forestry Butterflies, Bats and other pests;Use either Formaldehyde or Hydrogen cyanide;Be weary of your neighbours;Burn Time: 300
-1miscutils/Formaldehyde-0.pngFormaldehyde Cell
+1miscutils/Formaldehyde-0.pngFormaldehyde Cell
 1

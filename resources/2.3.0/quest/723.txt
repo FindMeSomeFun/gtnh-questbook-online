@@ -13,7 +13,7 @@ Of course, you can't do any of this on a server.ANDpre7210Natura/N Crops-0.
 128enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalminecraft/carrot-0.pngCarrot;minecraft:carrot
-64minecraft/potato-0.pngPotato;minecraft:potato
-64minecraft/melon_block-0.pngMelon
-32minecraft/pumpkin-0.pngPumpkin
+64minecraft/potato-0.pngPotato;minecraft:potato
+64minecraft/melon_block-0.pngMelon
+32minecraft/pumpkin-0.pngPumpkin
 32

@@ -6,8 +6,8 @@
 1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
-24CraftingRailcraft/armor.steel.helmet-0.pngSteel Helmet;Protection: 2;Durability: 275/275
-1Railcraft/armor.steel.plate-0.pngSteel Chestplate;Protection: 6;Durability: 400/400
-1Railcraft/armor.steel.legs-0.pngSteel Leggings;Protection: 5;Durability: 375/375
-1Railcraft/armor.steel.boots-0.pngSteel Boots;Protection: 2;Durability: 325/325
+24CraftingRailcraft/armor.steel.helmet-0.pngSteel Helmet;Protection: 2;Durability: 275/275
+1Railcraft/armor.steel.plate-0.pngSteel Chestplate;Protection: 6;Durability: 400/400
+1Railcraft/armor.steel.legs-0.pngSteel Leggings;Protection: 5;Durability: 375/375
+1Railcraft/armor.steel.boots-0.pngSteel Boots;Protection: 2;Durability: 325/325
 1

@@ -20,9 +20,9 @@ Also, because of the magical nature of the wand, the ore is stored with the play
 1enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-2gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
-2gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
-1minecraft/redstone-0.pngRedstone
-2gregtech/gt.metaitem.01-28086.pngGold Ring;Au
-1Retrievalifu/ifu_buildingKit-32767.pngOre Finder Wand
+2gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
+2gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
+1minecraft/redstone-0.pngRedstone
+2gregtech/gt.metaitem.01-28086.pngGold Ring;Au
+1Retrievalifu/ifu_buildingKit-32767.pngOre Finder Wand
 1

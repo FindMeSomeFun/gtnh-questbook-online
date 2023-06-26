@@ -3,5 +3,5 @@
 1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDConsumeminecraft/gold_nugget-0.pngGold Nugget
-16witchery/ingredient-29.pngDiamond Vapor
+16witchery/ingredient-29.pngDiamond Vapor
 16

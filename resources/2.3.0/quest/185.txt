@@ -8,6 +8,6 @@ The ME Interface Terminal gives remote access to all interface pattern slots on 
 1appliedenergistics2/item.ItemMultiPart-340.pngME Pattern Terminal
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-380.pngME Terminal
-1appliedenergistics2/item.ItemMultiPart-360.pngME Crafting Terminal
-1appliedenergistics2/item.ItemMultiPart-480.pngME Interface Terminal
+1appliedenergistics2/item.ItemMultiPart-360.pngME Crafting Terminal
+1appliedenergistics2/item.ItemMultiPart-480.pngME Interface Terminal
 1

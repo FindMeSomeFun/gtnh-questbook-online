@@ -11,7 +11,7 @@ You can make splash potions with gunpowder and 3 more End Powder as well.ANDpr
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2tasksANDOptionalminecraft/potion-16.pngAwkward Potion;No Effects
-3HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-16RetrievalHardcoreEnderExpansion/infestation_remedy-0.pngInfestation Remedy
+3HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+16RetrievalHardcoreEnderExpansion/infestation_remedy-0.pngInfestation Remedy
 3

@@ -3,9 +3,9 @@
 16Genetics/misc-2.pngFluorescent Dye
 16EnderIO/itemPowerConduit-0.pngEnergy Conduit;Max Output 640 RF/t
 8tasksANDRetrievalGenetics/misc-1.pngDNA Dye
-16Genetics/misc-2.pngFluorescent Dye
-16Genetics/misc-5.pngBlank Sequence
-2Genetics/misc-6.pngEmpty Serum Vial
-2Genetics/misc-7.pngEmpty Serum Array
-1Genetics/misc-8.pngGlass Cylinder
+16Genetics/misc-2.pngFluorescent Dye
+16Genetics/misc-5.pngBlank Sequence
+2Genetics/misc-6.pngEmpty Serum Vial
+2Genetics/misc-7.pngEmpty Serum Array
+1Genetics/misc-8.pngGlass Cylinder
 4

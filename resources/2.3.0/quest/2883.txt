@@ -2,7 +2,7 @@
 
 The amounts in this step are quite annoying unfortunately. You need to run it 5 times to get whole cell amounts.ANDpre28811bartworks/gt.bwMetaGeneratedcell-67.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-67.pngHot Ruthenium Tetroxide Solution Cell;???;Added by BartWorks
-18Retrievalbartworks/gt.bwMetaGeneratedcell-66.pngRuthenium Tetroxide Cell;RuO\u2084;Added by BartWorks
-14gregtech/gt.metaitem.01-2817.pngSalt;NaCl
-12IC2/itemCellEmpty-1.pngWater Cell
+18Retrievalbartworks/gt.bwMetaGeneratedcell-66.pngRuthenium Tetroxide Cell;RuO\u2084;Added by BartWorks
+14gregtech/gt.metaitem.01-2817.pngSalt;NaCl
+12IC2/itemCellEmpty-1.pngWater Cell
 3

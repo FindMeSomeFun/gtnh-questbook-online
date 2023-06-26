@@ -13,7 +13,7 @@ The pick? Well, it can mine cobalt I guess if you haven't gotten a tool capable 
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDRetrievalEnderIO/item.darkSteel_axe-0.pngDark Axe;+5 Attack Damage;Durability: 1561/1561
-1EnderIO/item.darkSteel_pickaxe-0.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561
-1EnderIO/item.darkSteel_shears-0.pngDark Shears
-1RetrievalEnderIO/item.darkSteel_sword-0.pngThe Ender;+6 Attack Damage;Durability: 1561/1561
+1EnderIO/item.darkSteel_pickaxe-0.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561
+1EnderIO/item.darkSteel_shears-0.pngDark Shears
+1RetrievalEnderIO/item.darkSteel_sword-0.pngThe Ender;+6 Attack Damage;Durability: 1561/1561
 1

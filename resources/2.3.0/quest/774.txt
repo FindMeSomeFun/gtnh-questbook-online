@@ -11,5 +11,5 @@ Nitro-diesel 100% chance
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25tasksANDOptionaldreamcraft/item.RawBioFiber-0.pngRaw Bio Fiber
-48Retrievaldreamcraft/item.BioOrganicMesh-0.pngBio Organic Mesh
+48Retrievaldreamcraft/item.BioOrganicMesh-0.pngBio Organic Mesh
 24

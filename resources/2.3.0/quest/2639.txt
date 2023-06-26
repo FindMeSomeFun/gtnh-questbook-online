@@ -5,8 +5,8 @@
 2Itemdreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
 5dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 5tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5
-13dreamcraft/item.LeadOriharukonPlate-0.pngCompressed Lead-Oriharukon Plate
-130gregtech/gt.metaitem.01-26329.pngTritanium Bolt;Tn
-104Optionaldreamcraft/item.HeavyDutyAlloyIngotT6-0.pngHeavy Duty Alloy Ingot T6
-13Retrievaldreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
+13dreamcraft/item.LeadOriharukonPlate-0.pngCompressed Lead-Oriharukon Plate
+130gregtech/gt.metaitem.01-26329.pngTritanium Bolt;Tn
+104Optionaldreamcraft/item.HeavyDutyAlloyIngotT6-0.pngHeavy Duty Alloy Ingot T6
+13Retrievaldreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
 13

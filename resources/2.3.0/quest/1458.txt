@@ -4,7 +4,7 @@
 1enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-5GalacticraftCore/item.engine-1.pngTier 1 Booster
-2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
-2RetrievalGalacticraftMars/item.itemBasicAsteroids-1.pngHeavy Rocket Engine
+5GalacticraftCore/item.engine-1.pngTier 1 Booster
+2GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+2RetrievalGalacticraftMars/item.itemBasicAsteroids-1.pngHeavy Rocket Engine
 1

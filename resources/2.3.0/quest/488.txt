@@ -7,6 +7,6 @@
 2harvestcraft/wovencottonItem-0.pngWoven Cotton
 8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDCraftingForestry/foresterBag-0.pngForester''s Backpack;0/15 Slots
-1CraftingForestry/hunterBag-0.pngHunter''s Backpack;0/15 Slots
-1CraftingForestry/builderBag-0.pngBuilder''s Backpack;0/15 Slots
+1CraftingForestry/hunterBag-0.pngHunter''s Backpack;0/15 Slots
+1CraftingForestry/builderBag-0.pngBuilder''s Backpack;0/15 Slots
 1

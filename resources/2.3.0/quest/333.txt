@@ -12,5 +12,5 @@ Certain objects (or foci), placed onto an altar, will boost the focusing capabil
 1Itemdreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalwitchery/altar-0.pngAltar
-6witchery/ingredient-0.pngCandelabra
+6witchery/ingredient-0.pngCandelabra
 1

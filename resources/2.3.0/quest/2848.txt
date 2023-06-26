@@ -9,9 +9,9 @@
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1dreamcraft/item.CoinSpaceIII-0.pngCoin "The Space Invaders 1000"
 1tasksORRetrievalGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
-1RetrievalGalacticraftCore/tile.machineTiered-8.pngEnergy Storage Cluster
-1RetrievalGalaxySpace/storagemoduleT3-0.pngAdvanced Energy Cluster
-1RetrievalGalacticraftCore/tile.solar-0.pngBasic Solar Panel
-1RetrievalGalacticraftCore/tile.solar-4.pngAdvanced Solar Panel
-1RetrievalGalaxySpace/solarPanel-0.pngHybrid Solar Panel;Coefficient Generation: x10
+1RetrievalGalacticraftCore/tile.machineTiered-8.pngEnergy Storage Cluster
+1RetrievalGalaxySpace/storagemoduleT3-0.pngAdvanced Energy Cluster
+1RetrievalGalacticraftCore/tile.solar-0.pngBasic Solar Panel
+1RetrievalGalacticraftCore/tile.solar-4.pngAdvanced Solar Panel
+1RetrievalGalaxySpace/solarPanel-0.pngHybrid Solar Panel;Coefficient Generation: x10
 1

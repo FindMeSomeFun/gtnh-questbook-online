@@ -6,8 +6,8 @@
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-17338.pngIronwood Plate;Fe\u2089((COH)\u2083Ma)\u2089Au
-24CraftingTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Helm;Aqua Affinity I;Protection: 2;Durability: 220/220
-1TwilightForest/item.ironwoodPlate-0-enchanted.pngIronwood Plate;Protection I;Protection: 7;Durability: 320/320
-1TwilightForest/item.ironwoodLegs-0-enchanted.pngIronwood Legs;Protection I;Protection: 5;Durability: 300/300
-1TwilightForest/item.ironwoodBoots-0-enchanted.pngIronwood Boots;Feather Falling I;Protection: 2;Durability: 260/260
+24CraftingTwilightForest/item.ironwoodHelm-0-enchanted.pngIronwood Helm;Aqua Affinity I;Protection: 2;Durability: 220/220
+1TwilightForest/item.ironwoodPlate-0-enchanted.pngIronwood Plate;Protection I;Protection: 7;Durability: 320/320
+1TwilightForest/item.ironwoodLegs-0-enchanted.pngIronwood Legs;Protection I;Protection: 5;Durability: 300/300
+1TwilightForest/item.ironwoodBoots-0-enchanted.pngIronwood Boots;Feather Falling I;Protection: 2;Durability: 260/260
 1

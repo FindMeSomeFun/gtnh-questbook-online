@@ -2,7 +2,7 @@
 
 §3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-205.pngSpawn Minoshroom
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-1RetrievalTwilightForest/item.trophy-2.pngLich Trophy
-1TwilightForest/tile.TFMazestone-6.pngMazestone Mosaic
+1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+1RetrievalTwilightForest/item.trophy-2.pngLich Trophy
+1TwilightForest/tile.TFMazestone-6.pngMazestone Mosaic
 1

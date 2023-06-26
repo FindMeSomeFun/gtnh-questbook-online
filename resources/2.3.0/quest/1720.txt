@@ -3,16 +3,16 @@
 8enhancedlootbags/lootbag-41.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-1.pngSunnarium Alloy
-2gregtech/gt.metaitem.01-17358.pngYttrium Barium Cuprate Plate;YBa\u2082Cu\u2083O\u2087
-2gregtech/gt.metaitem.01-17346.pngFiery Steel Plate
-4Optionalgregtech/gt.metaitem.01-32755.pngSolar Panel;Extreme Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.03-32053.pngHigh Power IC;High Power Circuit
-2gregtech/gt.metaitem.01-18599.pngDouble Polybenzimidazole Plate;C\u2082\u2080N\u2084H\u2081\u2082
-2gregtech/gt.metaitem.01-20020.pngQuadruple Raw Silicon Plate;Si
-4gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
-4dreamcraft/item.IrradiantReinforcedChromePlate-0.pngIrradiant Reinforced Chrome Plate
-2gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
-6Retrievalgregtech/gt.metaitem.01-32756.pngSolar Panel;Insane Solar Panel (Needs cleaning with right click)
+2gregtech/gt.metaitem.01-17358.pngYttrium Barium Cuprate Plate;YBa\u2082Cu\u2083O\u2087
+2gregtech/gt.metaitem.01-17346.pngFiery Steel Plate
+4Optionalgregtech/gt.metaitem.01-32755.pngSolar Panel;Extreme Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.03-32053.pngHigh Power IC;High Power Circuit
+2gregtech/gt.metaitem.01-18599.pngDouble Polybenzimidazole Plate;C\u2082\u2080N\u2084H\u2081\u2082
+2gregtech/gt.metaitem.01-20020.pngQuadruple Raw Silicon Plate;Si
+4gregtech/gt.metaitem.03-32088.pngQuantumprocessor Mainframe;An Ultimate Circuit;ZPM-Tier
+4dreamcraft/item.IrradiantReinforcedChromePlate-0.pngIrradiant Reinforced Chrome Plate
+2gregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
+6Retrievalgregtech/gt.metaitem.01-32756.pngSolar Panel;Insane Solar Panel (Needs cleaning with right click)
 1

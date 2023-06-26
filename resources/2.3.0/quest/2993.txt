@@ -6,6 +6,6 @@ The first one you should attempt starts with Refinery Gas, instead of Light Fuel
 1gregtech/gt.metaitem.01-32630.pngConveyor Module;1 stack every 20 secs (as Cover)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-421.pngBasic Chemical Reactor;Letting Chemicals react with each other;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1gregtech/gt.metaitem.01-30735.pngRefinery Gas Cell
-10gregtech/gt.metaitem.98-0.pngSteam Cell
+1gregtech/gt.metaitem.01-30735.pngRefinery Gas Cell
+10gregtech/gt.metaitem.98-0.pngSteam Cell
 10

@@ -7,11 +7,11 @@ Combining TiCl4 with Magnesium in an HV EBF will give you a Hot Titanium ingot, 
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-2375.pngRutile Dust;TiO\u2082
-16gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
-32gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-64Optionalgregtech/gt.metaitem.01-30376.pngTitaniumtetrachloride Cell;TiCl\u2084
-16Optionalgregtech/gt.metaitem.01-30376.pngTitaniumtetrachloride Cell;TiCl\u2084
-16gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
-32Retrievalgregtech/gt.metaitem.01-12028.pngHot Titanium Ingot;Ti
-16gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust;MgCl\u2082
+16gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
+32gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
+64Optionalgregtech/gt.metaitem.01-30376.pngTitaniumtetrachloride Cell;TiCl\u2084
+16Optionalgregtech/gt.metaitem.01-30376.pngTitaniumtetrachloride Cell;TiCl\u2084
+16gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
+32Retrievalgregtech/gt.metaitem.01-12028.pngHot Titanium Ingot;Ti
+16gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust;MgCl\u2082
 96

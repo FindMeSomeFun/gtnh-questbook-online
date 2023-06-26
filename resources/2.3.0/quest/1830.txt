@@ -5,5 +5,5 @@
 1Avaritia/Singularity-2.pngLapis Singularity
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 64tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Added by BartWorks
-6144Checkboxcheckbox-.pngCheckbox
+6144Checkboxcheckbox-.pngCheckbox
 1

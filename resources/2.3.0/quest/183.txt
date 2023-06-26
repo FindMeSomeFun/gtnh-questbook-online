@@ -4,6 +4,6 @@
 4enhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-23.pngCalculation Processor
-8appliedenergistics2/item.ItemMultiMaterial-22.pngLogic Processor
-8appliedenergistics2/item.ItemMultiMaterial-24.pngEngineering Processor
+8appliedenergistics2/item.ItemMultiMaterial-22.pngLogic Processor
+8appliedenergistics2/item.ItemMultiMaterial-24.pngEngineering Processor
 8

@@ -3,5 +3,5 @@
 First up, Railcraft lanterns. These come in stone and metallic varieties. The stone varieties don't need much to craft. One plus/minus for these lanterns is that they are solid blocks - while you cannot walk through them, they also do not fall if the blocks around them are removed. Search "lantern" in NEI for more varieties. They are a bit annoying to craft now, but if you check NEI you can make them pretty easily with assemblers later.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemRailcraft/lantern.metal-1.pngGold Lantern;Mobs cannot Spawn on this Block
 8minecraft/stone-0.pngStone
 1tasksANDRetrievalRailcraft/lantern.stone-9.pngStone Lantern;Mobs cannot Spawn on this Block
-4Railcraft/lantern.stone-8.pngSandstone Lantern;Mobs cannot Spawn on this Block
+4Railcraft/lantern.stone-8.pngSandstone Lantern;Mobs cannot Spawn on this Block
 4

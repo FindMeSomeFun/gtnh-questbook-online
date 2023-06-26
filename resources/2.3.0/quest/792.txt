@@ -5,5 +5,5 @@ You can also use wafers to make diodes more efficiently if you have polyethylene
 4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-252.pngAdvanced Cutting Machine;Slice''N Dice;Voltage IN: 128 (MV);Capacity: 8,192 EU
-1Retrievalgregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
+1Retrievalgregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
 16

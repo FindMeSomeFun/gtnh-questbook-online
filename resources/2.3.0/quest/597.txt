@@ -5,6 +5,6 @@ The veins can be found between Y level 80-120.ANDpre881gregtech/gt.blockmac
 1gregtech/gt.metaitem.01-2089.pngLead Dust;Pb
 8Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 3tasksANDRetrievalgregtech/gt.blockores-1840.pngTetrahedrite Ore;Cu\u2083SbS\u2083Fe
-32gregtech/gt.blockores-1945.pngStibnite Ore;Sb\u2082S\u2083
-32gregtech/gt.blockores-1035.pngCopper Ore;Cu
+32gregtech/gt.blockores-1945.pngStibnite Ore;Sb\u2082S\u2083
+32gregtech/gt.blockores-1035.pngCopper Ore;Cu
 32

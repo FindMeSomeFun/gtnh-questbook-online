@@ -5,6 +5,6 @@ Now you'll get a Paralysis II effect in addition to the others.ANDpre14840d
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-30093.pngRadon Cell;Rn
-1dreamcraft/item.UncookedSlush-0.pngUncooked Slush;Heating up makes food better?
-1Retrievaldreamcraft/item.GlowingMarshmallow-0.pngGlowing Marshmallow;Is it me or it just gained pixels from all that heat.
+1dreamcraft/item.UncookedSlush-0.pngUncooked Slush;Heating up makes food better?
+1Retrievaldreamcraft/item.GlowingMarshmallow-0.pngGlowing Marshmallow;Is it me or it just gained pixels from all that heat.
 1

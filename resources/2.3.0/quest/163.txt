@@ -8,5 +8,5 @@ Well, they're all obsolete once you get AE2 though.ANDpre1690EnderIO/blockP
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalEnderIO/blockInventoryPanel-0.pngInventory Panel;Remote access and crafting
-1RetrievalEnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade;Inventory Panel Remote Awareness
+1RetrievalEnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade;Inventory Panel Remote Awareness
 8

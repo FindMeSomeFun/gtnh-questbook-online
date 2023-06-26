@@ -4,5 +4,5 @@ Nitric Acid is a bit more convoluted, but you might have already automated it, s
 32enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
-64gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+64gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
 64

@@ -9,7 +9,7 @@ Hint: Throwing Ender Eyes in the air in the Overworld will guide you to the near
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;10 Knowledge Points
 2tasksANDOptionalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-12minecraft/blaze_powder-0.pngBlaze Powder
-12Retrievalminecraft/ender_eye-0.pngEye of Ender
-12LocationDIM/1-.pngThe End
+12minecraft/blaze_powder-0.pngBlaze Powder
+12Retrievalminecraft/ender_eye-0.pngEye of Ender
+12LocationDIM/1-.pngThe End
 1

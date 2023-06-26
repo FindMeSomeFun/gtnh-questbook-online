@@ -6,8 +6,8 @@
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-17339.pngSteeleaf Plate;(Fe\u2085\u2080C)Ma
-24RetrievalTwilightForest/item.steeleafHelm-0-enchanted.pngSteeleaf Helm;Projectile Protection II;Protection: 2;Durability: 220/220
-1TwilightForest/item.steeleafPlate-0-enchanted.pngSteeleaf Plate;Blast Protection II;Protection: 7;Durability: 320/320
-1TwilightForest/item.steeleafLegs-0-enchanted.pngSteeleaf Legs;Fire Protection II;Protection: 5;Durability: 300/300
-1TwilightForest/item.steeleafBoots-0-enchanted.pngSteeleaf Boots;Feather Falling II;Protection: 2;Durability: 260/260
+24RetrievalTwilightForest/item.steeleafHelm-0-enchanted.pngSteeleaf Helm;Projectile Protection II;Protection: 2;Durability: 220/220
+1TwilightForest/item.steeleafPlate-0-enchanted.pngSteeleaf Plate;Blast Protection II;Protection: 7;Durability: 320/320
+1TwilightForest/item.steeleafLegs-0-enchanted.pngSteeleaf Legs;Fire Protection II;Protection: 5;Durability: 300/300
+1TwilightForest/item.steeleafBoots-0-enchanted.pngSteeleaf Boots;Feather Falling II;Protection: 2;Durability: 260/260
 1

@@ -3,7 +3,7 @@
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockores-918.pngIlmenite Ore;FeTiO\u2083
-64gregtech/gt.blockores-825.pngChromite Ore;FeCr\u2082O\u2084
-64gregtech/gt.blockores-842.pngUvarovite Ore;Ca\u2083Cr\u2082Si\u2083O\u2081\u2082
-16gregtech/gt.blockores-925.pngPerlite Ore;(MgFeSi\u2082O\u2088)\u2082(H\u2082O)
+64gregtech/gt.blockores-825.pngChromite Ore;FeCr\u2082O\u2084
+64gregtech/gt.blockores-842.pngUvarovite Ore;Ca\u2083Cr\u2082Si\u2083O\u2081\u2082
+16gregtech/gt.blockores-925.pngPerlite Ore;(MgFeSi\u2082O\u2088)\u2082(H\u2082O)
 16

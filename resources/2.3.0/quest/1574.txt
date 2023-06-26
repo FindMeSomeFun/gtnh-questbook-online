@@ -4,7 +4,7 @@
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalminecraft/diamond-0.pngDiamond;Burn Time: 102400
-2witchery/ingredient-30.pngOil of Vitriol
-2witchery/ingredient-27.pngClay Jar
-6Retrievalwitchery/ingredient-29.pngDiamond Vapor
+2witchery/ingredient-30.pngOil of Vitriol
+2witchery/ingredient-27.pngClay Jar
+6Retrievalwitchery/ingredient-29.pngDiamond Vapor
 8

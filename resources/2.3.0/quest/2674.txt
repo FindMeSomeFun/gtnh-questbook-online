@@ -7,6 +7,6 @@ You can also do the insane Avaritia recipe to make the Infinity Catalyst, if you
 §3The compressor can also be used to make singularities, culiminating in the Eternal Singularity, used in the alternate recipe.
 
 If you want to automate singularity creation you can just click with the middle mouse button to modify the number of items in a pattern beyond the normal limits.ANDpre26141gregtech/gt.metaitem.01-32657.png26481GalaxySpace/item.Tier8Rocket-0.png26731Avaritia/Resource-4.pngrewardstasksANDRetrievalAvaritia/Neutronium_Compressor-0.pngNeutronium Compressor
-1Retrievalgregtech/gt.metaitem.01-2394.pngInfinity Catalyst Dust;If
-64RetrievalAvaritia/Resource-5.pngInfinity Catalyst;One is all and all is one.
+1Retrievalgregtech/gt.metaitem.01-2394.pngInfinity Catalyst Dust;If
+64RetrievalAvaritia/Resource-5.pngInfinity Catalyst;One is all and all is one.
 1

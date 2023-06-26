@@ -14,5 +14,5 @@ Thanks to Nori Silverrage for writing up these quests!
 
 §3BTW, there's a Creative Supplier for creative testing. The Energistics Connector is disabled because it doesn't work correctly.ANDpre12251gregtech/gt.metaitem.01-32705.pngrewardsItemStevesFactoryManager/BlockCableName-0.pngInventory Cable
 40tasksANDRetrievalStevesFactoryManager/BlockMachineManagerName-0.pngMachine Inventory Manager
-1StevesFactoryManager/BlockCableName-0.pngInventory Cable
+1StevesFactoryManager/BlockCableName-0.pngInventory Cable
 24

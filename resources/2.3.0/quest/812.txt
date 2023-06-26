@@ -5,9 +5,9 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-37GalacticraftCore/item.basicItem-9.pngCompressed Steel
-37GalacticraftCore/item.basicItem-10.pngCompressed Bronze
-37gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-19Optionalgregtech/gt.metaitem.01-32462.pngHeavy Duty Alloy Ingot T1;Used to make Heavy Duty Plates T1
-37RetrievalGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+37GalacticraftCore/item.basicItem-9.pngCompressed Steel
+37GalacticraftCore/item.basicItem-10.pngCompressed Bronze
+37gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+19Optionalgregtech/gt.metaitem.01-32462.pngHeavy Duty Alloy Ingot T1;Used to make Heavy Duty Plates T1
+37RetrievalGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
 37

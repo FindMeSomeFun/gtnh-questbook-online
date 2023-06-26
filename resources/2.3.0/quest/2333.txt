@@ -15,8 +15,8 @@ Levers will emit a signal until switched back off. ANDpre361gregtech/gt.met
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
-5gregtech/gt.metaitem.01-27809.pngWood Screw
-20gregtech/gt.metaitem.02-24032.pngIron Spring;Fe
-5Retrievalminecraft/wooden_pressure_plate-0.pngPressure Plate;Burn Time: 75
-10Retrievalminecraft/wooden_button-0.pngButton;Burn Time: 150
+5gregtech/gt.metaitem.01-27809.pngWood Screw
+20gregtech/gt.metaitem.02-24032.pngIron Spring;Fe
+5Retrievalminecraft/wooden_pressure_plate-0.pngPressure Plate;Burn Time: 75
+10Retrievalminecraft/wooden_button-0.pngButton;Burn Time: 150
 10

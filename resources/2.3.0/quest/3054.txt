@@ -3,6 +3,6 @@ You'll need to do this in an LCR.
 
 The resulting fluid simply vanishes into the void. Best not to worry about it.ANDpre30531bartworks/gt.bwMetaGeneratedcell-11016.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11016.pngDiluted Monazite Sulfate Cell;??LaNd??;Added by GTNH: Lanthanides via BartWorks
-45bartworks/gt.bwMetaGeneratedcell-11036.pngAmmonium Nitrate Solution Cell;NH\u2084NO\u2083;Added by GTNH: Lanthanides via BartWorks
-9Retrievalbartworks/gt.bwMetaGenerateddust-11020.pngAcidic Monazite Powder Dust;????;Added by GTNH: Lanthanides via BartWorks
+45bartworks/gt.bwMetaGeneratedcell-11036.pngAmmonium Nitrate Solution Cell;NH\u2084NO\u2083;Added by GTNH: Lanthanides via BartWorks
+9Retrievalbartworks/gt.bwMetaGenerateddust-11020.pngAcidic Monazite Powder Dust;????;Added by GTNH: Lanthanides via BartWorks
 15

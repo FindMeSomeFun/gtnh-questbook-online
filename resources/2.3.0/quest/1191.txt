@@ -2,8 +2,8 @@
 2Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumcraft/WandRod-50.pngGreatwood Staff Core
-1Thaumcraft/WandCap-0.pngIron Cap
-3dreamcraft/item.LichBone-0.pngLich Bone
-2gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
-2Thaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
+1Thaumcraft/WandCap-0.pngIron Cap
+3dreamcraft/item.LichBone-0.pngLich Bone
+2gregtech/gt.metaitem.01-27366.pngEnergetic Alloy Screw;(((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083)
+2Thaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
 1

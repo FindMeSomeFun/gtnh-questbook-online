@@ -6,6 +6,6 @@ This will open the planet Pluto and the Kuiper Belt.ANDpre26401GalaxySpace/
 1Itemdreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDRetrievalGalaxySpace/proteusblocks-3.pngProteus Dungeon Bricks
-16RetrievalGalaxySpace/item.Tier7Key-0.pngTier 6 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier7-0.pngNASA Workbench Schematic;Rocket Tier 7
+16RetrievalGalaxySpace/item.Tier7Key-0.pngTier 6 Dungeon Key
+1RetrievalGalaxySpace/item.SchematicTier7-0.pngNASA Workbench Schematic;Rocket Tier 7
 1

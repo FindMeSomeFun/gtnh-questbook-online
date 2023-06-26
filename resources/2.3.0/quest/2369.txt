@@ -6,6 +6,6 @@ Once all of the blocks are lit, a Fire Fiend is spawned below. It will make his 
 3dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 3HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 5tasksANDRetrievalHardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
-16Huntmobs/HardcoreEnderExpansion-FireFiend-.pngFire Fiend
-1RetrievalHardcoreEnderExpansion/essence-1.pngFiery Essence
+16Huntmobs/HardcoreEnderExpansion-FireFiend-.pngFire Fiend
+1RetrievalHardcoreEnderExpansion/essence-1.pngFiery Essence
 16

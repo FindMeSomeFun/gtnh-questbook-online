@@ -4,7 +4,7 @@
 32enhancedlootbags/lootbag-43.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-30dreamcraft/item.Tier3Booster-0.pngTier 3 Booster
-12dreamcraft/item.HeavyDutyRocketEngineTier3-0.pngHeavy Duty Rocket Engine Tier 3
-12Retrievaldreamcraft/item.HeavyDutyRocketEngineTier4-0.pngHeavy Duty Rocket Engine Tier 4
+30dreamcraft/item.Tier3Booster-0.pngTier 3 Booster
+12dreamcraft/item.HeavyDutyRocketEngineTier3-0.pngHeavy Duty Rocket Engine Tier 3
+12Retrievaldreamcraft/item.HeavyDutyRocketEngineTier4-0.pngHeavy Duty Rocket Engine Tier 4
 6

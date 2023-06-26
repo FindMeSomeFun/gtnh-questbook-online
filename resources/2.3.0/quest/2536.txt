@@ -5,6 +5,6 @@ You can power the other side from the first, but you need to jumpstart it first,
 If you use several, you may wish to rename the QESs.ANDpre25350appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalappliedenergistics2/tile.BlockQuantumLinkChamber-0.pngME Quantum Link Chamber
-2appliedenergistics2/tile.BlockQuantumRing-0.pngME Quantum Ring
-16appliedenergistics2/item.ItemMultiMaterial-48.pngQuantum Entangled Singularity
+2appliedenergistics2/tile.BlockQuantumRing-0.pngME Quantum Ring
+16appliedenergistics2/item.ItemMultiMaterial-48.pngQuantum Entangled Singularity
 2

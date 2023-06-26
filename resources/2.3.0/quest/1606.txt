@@ -6,6 +6,6 @@ Hmm, now I want some candy. Give me some sugar from your beets. I'll share some 
 64harvestcraft/honeycombchocolatebarItem-0.pngHoneycomb Chocolate Bar;harvestcraft:honeycombchocolatebarItem
 64enhancedlootbags/lootbag-51-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 1tasksANDRetrievalIC2/itemCropSeed-0.pngSugar Beet Seeds;Gr 0;Ga 0;Re 0
-1berriespp/foodBerries-1.pngSugar Beet;berriespp:foodBerries;A sweet beet, commonly found in France, Germany, Russia and China.;Industrial Sugar!
-8Consumeminecraft/sugar-0.pngSugar
+1berriespp/foodBerries-1.pngSugar Beet;berriespp:foodBerries;A sweet beet, commonly found in France, Germany, Russia and China.;Industrial Sugar!
+8Consumeminecraft/sugar-0.pngSugar
 64

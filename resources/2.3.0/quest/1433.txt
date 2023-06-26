@@ -12,6 +12,6 @@ All dungeons work the same, just with a different boss. Also, sometimes the boss
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalGalacticraftCore/tile.moonBlock-14.pngMoon Dungeon Brick
-1RetrievalGalacticraftCore/item.key-0.pngTier 1 Dungeon Key
-1RetrievalGalacticraftCore/item.schematic-1.pngNASA Workbench Schematic;Tier 2 Rocket
+1RetrievalGalacticraftCore/item.key-0.pngTier 1 Dungeon Key
+1RetrievalGalacticraftCore/item.schematic-1.pngNASA Workbench Schematic;Tier 2 Rocket
 1

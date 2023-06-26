@@ -7,9 +7,9 @@ Majestic bees produce dripping combs every 1.5 minutes. Note that production tim
 64Forestry/honeydew-0.pngHoneydew
 64Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDOptionalForestry/beePrincessGE-0-Noble.pngNoble Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Noble.pngNoble Drone
-1Forestry/beePrincessGE-0-Cultivated.pngCultivated Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
-1RetrievalForestry/beePrincessGE-0-Majestic.pngMajestic Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Majestic.pngMajestic Drone
+1Forestry/beeDroneGE-0-Noble.pngNoble Drone
+1Forestry/beePrincessGE-0-Cultivated.pngCultivated Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
+1RetrievalForestry/beePrincessGE-0-Majestic.pngMajestic Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Majestic.pngMajestic Drone
 1

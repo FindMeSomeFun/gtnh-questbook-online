@@ -6,6 +6,6 @@
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalharvestcraft/skilletItem-0.pngSkillet
-1minecraft/egg-0.pngEgg
-4Retrievalharvestcraft/friedeggItem-0.pngFried Egg;harvestcraft:friedeggItem
+1minecraft/egg-0.pngEgg
+4Retrievalharvestcraft/friedeggItem-0.pngFried Egg;harvestcraft:friedeggItem
 4

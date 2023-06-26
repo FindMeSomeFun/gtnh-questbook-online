@@ -4,11 +4,11 @@
 2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.oxygenConcentrator-0.pngOxygen Concentrator
-1gregtech/gt.metaitem.01-32602.pngElectric Motor
-1GalacticraftCore/item.airFan-0.pngOxygen Fan
-1GalacticraftCore/item.airVent-0.pngOxygen Vent
-1GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-2GalacticraftCore/item.basicItem-9.pngCompressed Steel
-2gregtech/gt.blockmachines-1587.png2x Aluminium Cable;Max Voltage: 2,048 (EV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
-1RetrievalGalacticraftCore/tile.oxygenCollector-0.pngOxygen Collector;Power required: 30 EU /s
+1gregtech/gt.metaitem.01-32602.pngElectric Motor
+1GalacticraftCore/item.airFan-0.pngOxygen Fan
+1GalacticraftCore/item.airVent-0.pngOxygen Vent
+1GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
+2GalacticraftCore/item.basicItem-9.pngCompressed Steel
+2gregtech/gt.blockmachines-1587.png2x Aluminium Cable;Max Voltage: 2,048 (EV);Max Amperage: 2;Loss/Meter/Ampere: 1 EU-Volt
+1RetrievalGalacticraftCore/tile.oxygenCollector-0.pngOxygen Collector;Power required: 30 EU /s
 1

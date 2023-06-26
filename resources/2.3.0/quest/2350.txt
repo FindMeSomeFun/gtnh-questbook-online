@@ -17,5 +17,5 @@ Hint: Press the P key (unless you rebound it) for a key list of information abou
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 1tasksANDRetrievalminecraft/end_stone-0.pngEnd Stone
-64HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+64HardcoreEnderExpansion/end_powder-0.pngEnd Powder
 16

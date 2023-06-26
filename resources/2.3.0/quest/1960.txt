@@ -1,7 +1,7 @@
 1960Botany/ceramic-59.png0Ceramics15-1With some clay and pigments, you can make pigmented clay. Put the pigmented clay in a furnace to get basic ceramic blocks. These blocks are great if you want an area of nice even colors.ANDpre19580Botany/pigment-0.pngrewardsChoiceBotany/ceramic-75.pngCeramic Block;Mauve
 16Botany/ceramic-40.pngCeramic Block;Magenta
 16tasksANDRetrievalBotany/clay-78.pngClay;Yellow
-4Botany/clay-59.pngClay;Red
-4RetrievalBotany/ceramic-78-78.pngCeramic Block;Yellow
-4Botany/ceramic-59-59.pngCeramic Block;Red
+4Botany/clay-59.pngClay;Red
+4RetrievalBotany/ceramic-78-78.pngCeramic Block;Yellow
+4Botany/ceramic-59-59.pngCeramic Block;Red
 4

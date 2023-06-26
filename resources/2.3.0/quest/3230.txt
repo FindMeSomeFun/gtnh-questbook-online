@@ -1,7 +1,7 @@
 3230Botania/pylon-1.png1Alfheim35-1Legends speak of a portal to a different realm filled with green energy.ANDpre32291Botania/manaResource-4.pngrewardsItemdreamcraft/item.CoinFlowerIII-0.pngCoin "The Gardener 1000"
 2tasksANDRetrievalBotania/pylon-1.pngNatura Pylon;May work as an Infusion Stabilizer;Enchantment Power: 8.0
-2Botania/livingwood-5.pngGlimmering Livingwood;Mobs cannot Spawn on this Block;Burn Time: 300
-3Botania/alfheimPortal-0.pngElven Gateway Core;Burn Time: 300
-1Botania/livingwood-0.pngLivingwood;Mobs cannot Spawn on this Block;Burn Time: 300
-8Botania/pool-0.pngMana Pool
+2Botania/livingwood-5.pngGlimmering Livingwood;Mobs cannot Spawn on this Block;Burn Time: 300
+3Botania/alfheimPortal-0.pngElven Gateway Core;Burn Time: 300
+1Botania/livingwood-0.pngLivingwood;Mobs cannot Spawn on this Block;Burn Time: 300
+8Botania/pool-0.pngMana Pool
 2

@@ -6,6 +6,6 @@ Plus, free power!ANDpre11981gregtech/gt.blockmachines-1195.pngrewardsChoi
 4gregtech/gt.metaitem.01-32737.pngEnergy Cluster;Reusable battery;0 / 100,000,000,000 EU - Voltage: 524288;UV-Tier
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 5tasksANDOptionalgregtech/gt.metaitem.01-11101.pngPlutonium 241 Ingot;Pu-241
-132gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-264Retrievalgregtech/gt.metaitem.01-17103.pngAmericium Plate;Am
+132gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
+264Retrievalgregtech/gt.metaitem.01-17103.pngAmericium Plate;Am
 132

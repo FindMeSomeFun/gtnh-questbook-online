@@ -10,6 +10,6 @@ Stock up on either Charcoal or Coal Coke blocks to continue.ANDpre31280IC2/
 32enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionaldreamcraft/tile.Charcoal-0.pngBlock of Charcoal;Burn Time: 16000
-256OptionalRailcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
-64Retrievalgregtech/gt.blockmachines-244.pngAdvanced Compressor III;Compress-O-Matic C77;Voltage IN: 2,048 (EV);Capacity: 131,072 EU
+256OptionalRailcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
+64Retrievalgregtech/gt.blockmachines-244.pngAdvanced Compressor III;Compress-O-Matic C77;Voltage IN: 2,048 (EV);Capacity: 131,072 EU
 1

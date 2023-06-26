@@ -3,6 +3,6 @@
 16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-32503.pngSmall Sunnarium Battery;An empty EV Battery Container
-1Optionalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
-4Retrievalgregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048;EV-Tier
+1Optionalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
+4Retrievalgregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048;EV-Tier
 1

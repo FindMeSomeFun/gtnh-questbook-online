@@ -5,7 +5,7 @@
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemHelmetFortress-0.pngThaumium Fortress Helm;Protection: 3;Durability: 440/440
-1Thaumcraft/ItemChestplateFortress-0.pngThaumium Fortress Cuirass;Protection: 7;Durability: 640/640
-1Thaumcraft/ItemLeggingsFortress-0.pngThaumium Fortress Thigh Guards;Protection: 6;Durability: 600/600
-1Thaumcraft/BootsTraveller-0.pngBoots of the Traveler;Protection: 1;Durability: 350/350
+1Thaumcraft/ItemChestplateFortress-0.pngThaumium Fortress Cuirass;Protection: 7;Durability: 640/640
+1Thaumcraft/ItemLeggingsFortress-0.pngThaumium Fortress Thigh Guards;Protection: 6;Durability: 600/600
+1Thaumcraft/BootsTraveller-0.pngBoots of the Traveler;Protection: 1;Durability: 350/350
 1

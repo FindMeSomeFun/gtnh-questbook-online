@@ -7,10 +7,10 @@ Now that you've come this far, we think that you're able to look up the ores tha
 3dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
-9gregtech/gt.metaitem.01-2036.pngZinc Dust;Zn
-3Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
-9Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
-7gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
-1gregtech/gt.metaitem.01-2033.pngCobalt Dust;Co
-1Retrievalgregtech/gt.metaitem.01-2343.pngCobalt Brass Dust;(ZnCu\u2083)\u2087AlCo
+9gregtech/gt.metaitem.01-2036.pngZinc Dust;Zn
+3Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+9Optionalgregtech/gt.metaitem.01-2301.pngBrass Dust;ZnCu\u2083
+7gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
+1gregtech/gt.metaitem.01-2033.pngCobalt Dust;Co
+1Retrievalgregtech/gt.metaitem.01-2343.pngCobalt Brass Dust;(ZnCu\u2083)\u2087AlCo
 8

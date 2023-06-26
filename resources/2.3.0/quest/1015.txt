@@ -6,7 +6,7 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
-1Optionalgregtech/gt.metaitem.01-29035.pngCopper Foil;Cu
-6gregtech/gt.metaitem.03-32007.pngPlastic Circuit Board;A Good Board
-1Retrievalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1Optionalgregtech/gt.metaitem.01-29035.pngCopper Foil;Cu
+6gregtech/gt.metaitem.03-32007.pngPlastic Circuit Board;A Good Board
+1Retrievalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
 1

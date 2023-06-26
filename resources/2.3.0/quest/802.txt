@@ -4,12 +4,12 @@
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionaldreamcraft/item.IridiumAlloyItemCasing-0.pngIridium Alloy Item Casing
-16Optionaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet;Don''t try to wear this, you can''t
-1dreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings;Don''t try to wear this, you can''t
-1dreamcraft/item.NanoRubberBoots-0.pngNano Rubber Boots;Don''t try to wear this, you can''t
-1Optionaldreamcraft/item.QuantumPartHelmetEmpty-0.pngQuantum Parts "Helmet Empty";Don''t try to wear this, you can''t
-1dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-8Retrievaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots";Don''t try to wear this, you can''t
+16Optionaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet;Don''t try to wear this, you can''t
+1dreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings;Don''t try to wear this, you can''t
+1dreamcraft/item.NanoRubberBoots-0.pngNano Rubber Boots;Don''t try to wear this, you can''t
+1Optionaldreamcraft/item.QuantumPartHelmetEmpty-0.pngQuantum Parts "Helmet Empty";Don''t try to wear this, you can''t
+1dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
+8Retrievaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet";Don''t try to wear this, you can''t
+1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings";Don''t try to wear this, you can''t
+1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots";Don''t try to wear this, you can''t
 1

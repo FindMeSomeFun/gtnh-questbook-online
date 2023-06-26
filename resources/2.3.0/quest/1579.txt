@@ -5,6 +5,6 @@ A Charm of Fanciful Thinking is crafted using Sticks and Fanciful Thread.ANDpr
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-100.pngFanciful Thread
-1minecraft/stick-0.pngStick;Burn Time: 100
-8Retrievalwitchery/ingredient-110.pngCharm of Fanciful Thinking
+1minecraft/stick-0.pngStick;Burn Time: 100
+8Retrievalwitchery/ingredient-110.pngCharm of Fanciful Thinking
 1

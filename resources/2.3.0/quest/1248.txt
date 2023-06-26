@@ -4,10 +4,10 @@
 4enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-1gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
-1gregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
-8gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-8gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
-8gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-8Retrievalgregtech/gt.metaitem.03-32082.pngNanoprocessor;An Advanced Circuit;HV-Tier
+1gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
+1gregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
+8gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+8gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
+8gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+8Retrievalgregtech/gt.metaitem.03-32082.pngNanoprocessor;An Advanced Circuit;HV-Tier
 1

@@ -1,4 +1,4 @@
 1206gregtech/gt.metaitem.01-30740.png0Light Fuel4024000Want some light fuel? Buy some!ANDpre5490gregtech/gt.metaitem.01-30740.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30740.pngLight Fuel Cell
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
-16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5

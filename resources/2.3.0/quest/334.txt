@@ -10,5 +10,5 @@ When the water is boiling, ingredients may be added to the Cauldron (one after a
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalwitchery/ingredient-153.pngAnointing Paste
-1witchery/cauldron-0.pngWitch''s Cauldron
+1witchery/cauldron-0.pngWitch''s Cauldron
 1

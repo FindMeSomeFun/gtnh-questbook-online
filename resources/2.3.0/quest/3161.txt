@@ -3,6 +3,6 @@
 The structure itself is very similar to a Distillation Tower, but with different blocks. The controller is the most expensive part, but the biggest obstacle is having the Assembly Line; everything after that shouldn't be too difficult. It's recommended that you have more than one tower, but for one focus on making only one. 
 
 Note: the height of this tower is not adjustable. It is meant to be a 3x8x3 multiblock with at least 45 Sparge Tower Casings.ORpre31600miscutils/itemCellThoriumBerylliumDepletedMoltenSaltTBSalt-0.png31780gregtech/gt.blockmachines-31034.pngrewardstasksANDOptionalgregtech/gt.blockmachines-31035.pngSparge Tower Controller;Machine Type: Gas Sparge Tower;Controller block for the Sparging Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.5-4.pngSparge Tower Exterior Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-54Retrievalmiscutils/gtplusplus.blockcasings.5-4.pngSparge Tower Exterior Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/gtplusplus.blockcasings.5-4.pngSparge Tower Exterior Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+54Retrievalmiscutils/gtplusplus.blockcasings.5-4.pngSparge Tower Exterior Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

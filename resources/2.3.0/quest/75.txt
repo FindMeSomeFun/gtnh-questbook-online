@@ -4,9 +4,9 @@ The humidity of a biome is very important and will increase the base fill rate. 
 10enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 50tasksANDRetrievalIC2/blockRubSapling-0.pngRubber Tree Sapling;Burn Time: 80
-1CraftingIC2/itemTreetap-0.pngTreetap
-1OptionalIC2/itemHarz-0.pngSticky Resin
-26Optionalgregtech/gt.metaitem.01-23032.pngIron Rod;Fe
-52Optionalminecraft/planks-0.pngOak Wood Planks;Burn Time: 300
-130CraftingRailcraft/machine.alpha-14.pngWater Tank Siding;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
+1CraftingIC2/itemTreetap-0.pngTreetap
+1OptionalIC2/itemHarz-0.pngSticky Resin
+26Optionalgregtech/gt.metaitem.01-23032.pngIron Rod;Fe
+52Optionalminecraft/planks-0.pngOak Wood Planks;Burn Time: 300
+130CraftingRailcraft/machine.alpha-14.pngWater Tank Siding;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
 26

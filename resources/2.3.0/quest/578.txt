@@ -9,10 +9,10 @@ The carpenter needs power to work. You can use a GT cable or a battery box to co
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17310.pngCupronickel Plate;CuNi
-2gregtech/gt.metaitem.01-32650.pngRobot Arm;1 stack every 20 secs (as Cover);Grabs from and inserts into specific slots
-2gregtech/gt.metaitem.01-32600.pngElectric Motor
-1gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
-2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-1Forestry/sturdyMachine-0.pngSturdy Casing
-1RetrievalForestry/factory-1.pngCarpenter
+2gregtech/gt.metaitem.01-32650.pngRobot Arm;1 stack every 20 secs (as Cover);Grabs from and inserts into specific slots
+2gregtech/gt.metaitem.01-32600.pngElectric Motor
+1gregtech/gt.metaitem.02-20305.pngSmall Steel Gear;Fe\u2085\u2080C
+2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+1Forestry/sturdyMachine-0.pngSturdy Casing
+1RetrievalForestry/factory-1.pngCarpenter
 1

@@ -2,6 +2,6 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-2591.pngChromium Trioxide Dust;CrO\u2083
-8gregtech/gt.metaitem.01-2590.pngPotassium Nitrate Dust;KNO\u2083
-10Retrievalgregtech/gt.metaitem.01-2594.pngPotassium Dichromate Dust;K\u2082Cr\u2082O\u2087
+8gregtech/gt.metaitem.01-2590.pngPotassium Nitrate Dust;KNO\u2083
+10Retrievalgregtech/gt.metaitem.01-2594.pngPotassium Dichromate Dust;K\u2082Cr\u2082O\u2087
 11

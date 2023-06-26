@@ -5,8 +5,8 @@
 2Itemdreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
-79dreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plate
-948gregtech/gt.metaitem.01-26129.pngNeutronium Bolt;Nt
-790Optionaldreamcraft/item.HeavyDutyAlloyIngotT7-0.pngHeavy Duty Alloy Ingot T7
-79Retrievaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
+79dreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plate
+948gregtech/gt.metaitem.01-26129.pngNeutronium Bolt;Nt
+790Optionaldreamcraft/item.HeavyDutyAlloyIngotT7-0.pngHeavy Duty Alloy Ingot T7
+79Retrievaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
 79

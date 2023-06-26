@@ -3,7 +3,7 @@
 1gregtech/gt.metaitem.01-26080.pngTantalum Bolt;Ta
 64Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25tasksANDRetrievalgregtech/gt.blockores-921.pngTantalite Ore;MnTa\u2082O\u2086
-32gregtech/gt.blockores-838.pngSpessartine Ore;Al\u2082Mn\u2083Si\u2083O\u2081\u2082
-32gregtech/gt.blockores-943.pngPyrolusite Ore;MnO\u2082
-32gregtech/gt.blockores-831.pngGrossular Ore;Ca\u2083Al\u2082Si\u2083O\u2081\u2082
+32gregtech/gt.blockores-838.pngSpessartine Ore;Al\u2082Mn\u2083Si\u2083O\u2081\u2082
+32gregtech/gt.blockores-943.pngPyrolusite Ore;MnO\u2082
+32gregtech/gt.blockores-831.pngGrossular Ore;Ca\u2083Al\u2082Si\u2083O\u2081\u2082
 32

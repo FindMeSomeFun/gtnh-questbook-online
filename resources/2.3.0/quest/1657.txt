@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionaldreamcraft/item.MutatedEgg-0.pngMutated Egg
-1gregtech/gt.metaitem.01-2770.pngEndium Dust
-64gregtech/gt.metaitem.98-3.pngLiquid Ender Cell
-1Retrievaldreamcraft/item.EnderEgg-0.pngEnder Egg
+1gregtech/gt.metaitem.01-2770.pngEndium Dust
+64gregtech/gt.metaitem.98-3.pngLiquid Ender Cell
+1Retrievaldreamcraft/item.EnderEgg-0.pngEnder Egg
 1

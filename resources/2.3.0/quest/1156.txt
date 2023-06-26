@@ -6,9 +6,9 @@ Moss - Self-Repair (unlock in GTNH Thaumcraft tab)ANDpre11510TConstruct/Cro
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/woodPattern-1.pngTool Rod Pattern;Material Cost: 0.5
-1TConstruct/woodPattern-24.pngFletching Pattern;Material Cost: 1
-1OptionalTConstruct/toolRod-0.pngWooden Tool Rod;Durability Modifier: 1x;Parts can be replaced
-1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
-1OptionalTConstruct/BoltPart-0-2.pngWooden Bolt;Durability: 38;Break Chance: 50%;Weight: 0.69;Parts can be replaced
-1RetrievalTConstruct/BoltAmmo-0-188.pngIron Bolts;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
+1TConstruct/woodPattern-24.pngFletching Pattern;Material Cost: 1
+1OptionalTConstruct/toolRod-0.pngWooden Tool Rod;Durability Modifier: 1x;Parts can be replaced
+1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
+1OptionalTConstruct/BoltPart-0-2.pngWooden Bolt;Durability: 38;Break Chance: 50%;Weight: 0.69;Parts can be replaced
+1RetrievalTConstruct/BoltAmmo-0-188.pngIron Bolts;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
 1

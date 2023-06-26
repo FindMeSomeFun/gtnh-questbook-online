@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalthaumicenergistics/part.base-7.pngEssentia Storage Monitor
-1thaumicenergistics/part.base-8.pngEssentia Conversion Monitor
+1thaumicenergistics/part.base-8.pngEssentia Conversion Monitor
 1

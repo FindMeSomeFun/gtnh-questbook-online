@@ -7,6 +7,6 @@ You might also need some additional item transport pipes depending on your setup
 8enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-1.pngRouted Junction pipe
-1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
-1RetrievalProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
+1ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+1RetrievalProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
 1

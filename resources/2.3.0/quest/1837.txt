@@ -2,7 +2,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-2TwilightForest/item.ironwoodIngot-0.pngIronwood Ingot
-2gregtech/gt.metaitem.01-17338.pngIronwood Plate;Fe\u2089((COH)\u2083Ma)\u2089Au
-1RetrievalTwilightForest/item.ironwoodPick-0-enchanted.pngIronwood Pick;TwilightForest:item.ironwoodPick;Efficiency I;+4 Attack Damage;Durability: 512/512
+2TwilightForest/item.ironwoodIngot-0.pngIronwood Ingot
+2gregtech/gt.metaitem.01-17338.pngIronwood Plate;Fe\u2089((COH)\u2083Ma)\u2089Au
+1RetrievalTwilightForest/item.ironwoodPick-0-enchanted.pngIronwood Pick;TwilightForest:item.ironwoodPick;Efficiency I;+4 Attack Damage;Durability: 512/512
 1

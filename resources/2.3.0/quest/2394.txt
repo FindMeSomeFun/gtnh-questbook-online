@@ -1,7 +1,7 @@
 2394miscutils/Hydrazine-0.png0Hydrazine24-1Hydrazine is made from Ammonia and Hydrogen Peroxide.
 
 §4Hydrogen Peroxide Cell is overridden by BW one. Use tanks or Universal Cells or large cells to proceed, don't put it in a cell.ANDpre8541gregtech/gt.metaitem.01-30659.png23960miscutils/HydrogenPeroxide-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
-2miscutils/HydrogenPeroxide-0.pngHydrogen Peroxide Cell
-1Optionalmiscutils/Hydrazine-0.pnghydrazine Cell
-1Checkboxcheckbox-.pngCheckbox
+2miscutils/HydrogenPeroxide-0.pngHydrogen Peroxide Cell
+1Optionalmiscutils/Hydrazine-0.pnghydrazine Cell
+1Checkboxcheckbox-.pngCheckbox
 1

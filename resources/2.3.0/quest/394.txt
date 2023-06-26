@@ -1,7 +1,7 @@
 394gregtech/gt.metaitem.01-2819.png1§a§k§r§a§lGraphene7-1For IV motors you will need Graphene. Graphene is a material that is just one atom layer thick. It has very favourable electric properties. To create though you will have to make some Graphene you can use a powerful adhesive to pull a single layer of material away from Graphite.ANDpre4591gregtech/gt.metaitem.01-30567.png14061gregtech/gt.blockmachines-214.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-2865.pngGraphite Dust;C
-128gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-64gregtech/gt.metaitem.01-30567.pngAdvanced Glue Cell;A chemically approved glue!
-1Retrievalgregtech/gt.metaitem.01-2819.pngGraphene Dust;C
+128gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+64gregtech/gt.metaitem.01-30567.pngAdvanced Glue Cell;A chemically approved glue!
+1Retrievalgregtech/gt.metaitem.01-2819.pngGraphene Dust;C
 128

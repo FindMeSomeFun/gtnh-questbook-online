@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemShard-6.pngBalanced Shard
-10Thaumcraft/ItemResource-2.pngThaumium Ingot
+10Thaumcraft/ItemResource-2.pngThaumium Ingot
 10

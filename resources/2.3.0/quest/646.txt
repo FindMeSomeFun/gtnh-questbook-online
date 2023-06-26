@@ -5,6 +5,6 @@
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalProjRedCore/projectred.core.part-56.pngElectrotine
-6gregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
-1RetrievalProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
+6gregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
+1RetrievalProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
 1

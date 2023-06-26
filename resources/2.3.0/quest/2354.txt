@@ -15,5 +15,5 @@ Temple Caller - by infusing a vanilla Eye of Ender, requires 50 pieces of Dragon
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;55 Knowledge Points
 1tasksANDOptionalminecraft/brewing_stand-0.pngBrewing Stand
-1RetrievalHardcoreEnderExpansion/enhanced_brewing_stand-0.pngEnhanced Brewing Stand
+1RetrievalHardcoreEnderExpansion/enhanced_brewing_stand-0.pngEnhanced Brewing Stand
 1

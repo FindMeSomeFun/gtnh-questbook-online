@@ -1,9 +1,9 @@
 406AWWayofTime/lavaSigil-0.png0Tier 3 Sigils37-1They're actually useful this time.ANDpre4211AWWayofTime/imbuedSlate-0.pngrewardsItemenhancedlootbags/lootbag-17-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000"
 1tasksANDRetrievalAWWayofTime/lavaSigil-0.pngLava Sigil;Contact with liquid is;highly unrecommended.
-1AWWayofTime/sigilOfHolding-0.pngSigil of Holding;Used to hold several Sigils!
-1AWWayofTime/sigilOfMagnetism-0.pngSigil of Magnetism;I have a very magnetic personality!
-1AWWayofTime/itemBloodLightSigil-0.pngSigil of the Blood Lamp;I see a light!
-1AWWayofTime/sigilOfTheBridge-0.pngSigil of the Phantom Bridge;Activate to create a bridge;beneath your feet.
-1AWWayofTime/voidSigil-0.pngVoid Sigil;Better than a Swiffer!
+1AWWayofTime/sigilOfHolding-0.pngSigil of Holding;Used to hold several Sigils!
+1AWWayofTime/sigilOfMagnetism-0.pngSigil of Magnetism;I have a very magnetic personality!
+1AWWayofTime/itemBloodLightSigil-0.pngSigil of the Blood Lamp;I see a light!
+1AWWayofTime/sigilOfTheBridge-0.pngSigil of the Phantom Bridge;Activate to create a bridge;beneath your feet.
+1AWWayofTime/voidSigil-0.pngVoid Sigil;Better than a Swiffer!
 1

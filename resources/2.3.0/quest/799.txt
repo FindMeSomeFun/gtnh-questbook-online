@@ -4,6 +4,6 @@
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalIC2/itemArmorNanoHelmet-32767.pngNanoSuit Helmet\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
-1IC2/itemArmorHazmatHelmet-0.pngScuba Helmet;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1Retrievaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet;Don''t try to wear this, you can''t
+1IC2/itemArmorHazmatHelmet-0.pngScuba Helmet;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+1Retrievaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet;Don''t try to wear this, you can''t
 1

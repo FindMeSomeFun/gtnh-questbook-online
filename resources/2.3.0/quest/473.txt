@@ -4,7 +4,7 @@
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalTConstruct/metalPattern-5.pngSword Blade Cast;Material Cost: 1
-1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
-1RetrievalTConstruct/swordBlade-14.pngBronze Sword Blade;Reinforced I;Attack: 1.5 Hearts;Durability: 285;Parts can be replaced
-1TConstruct/toolRod-14.pngBronze Tool Rod;Reinforced I;Durability Modifier: 1.25x;Parts can be replaced
+1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
+1RetrievalTConstruct/swordBlade-14.pngBronze Sword Blade;Reinforced I;Attack: 1.5 Hearts;Durability: 285;Parts can be replaced
+1TConstruct/toolRod-14.pngBronze Tool Rod;Reinforced I;Durability Modifier: 1.25x;Parts can be replaced
 1

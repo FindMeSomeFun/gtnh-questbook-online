@@ -4,6 +4,6 @@
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalIC2/itemArmorNanoLegs-32767.pngNanoSuit Leggings\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
-1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
-4Retrievaldreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings;Don''t try to wear this, you can''t
+1gregtech/gt.metaitem.02-18306.pngStainless Steel Casing;Fe\u2086CrMnNi
+4Retrievaldreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings;Don''t try to wear this, you can''t
 1

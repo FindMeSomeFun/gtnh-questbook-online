@@ -3,7 +3,7 @@
 8minecraft/spawn_egg-55.pngSpawn Slime
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/slime.gel-0.pngCongealed Blue Slime
-3TConstruct/slime.gel-1.pngCongealed Green Slime
-1TConstruct/slime.channel-0.pngSlime Channel
-2CraftingTConstruct/slime.pad-0.pngBounce Pad
+3TConstruct/slime.gel-1.pngCongealed Green Slime
+1TConstruct/slime.channel-0.pngSlime Channel
+2CraftingTConstruct/slime.pad-0.pngBounce Pad
 1

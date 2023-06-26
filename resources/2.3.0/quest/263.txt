@@ -4,5 +4,5 @@
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalTwilightForest/item.fieryBlood-0.pngFiery Blood
-2Retrievalgregtech/gt.metaitem.01-27367.pngVibrant Alloy Screw;((((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083))((BeK\u2084N\u2085Ma\u2086)(CSMa))Cr
+2Retrievalgregtech/gt.metaitem.01-27367.pngVibrant Alloy Screw;((((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083))((BeK\u2084N\u2085Ma\u2086)(CSMa))Cr
 4

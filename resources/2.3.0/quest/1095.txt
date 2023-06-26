@@ -3,7 +3,7 @@
 8enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalgregtech/gt.metaitem.01-18086.pngDouble Gold Plate;Au
-4gregtech/gt.metaitem.01-27086.pngGold Screw;Au
-2minecraft/chest-0.pngChest;Burn Time: 300
-1RetrievalIronChest/BlockIronChest-1.pngGold Chest;9*9 Inventory - 81 Slots
+4gregtech/gt.metaitem.01-27086.pngGold Screw;Au
+2minecraft/chest-0.pngChest;Burn Time: 300
+1RetrievalIronChest/BlockIronChest-1.pngGold Chest;9*9 Inventory - 81 Slots
 1

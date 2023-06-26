@@ -6,8 +6,8 @@ To see where an ore can be found click the raw ore in nei and it will show you m
 1enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5tasksANDRetrievalgregtech/gt.blockores-917.pngBanded Iron Ore;Fe\u2082O\u2083
-16gregtech/gt.blockores-32.pngIron Ore;Fe
-16gregtech/gt.blockores-870.pngMagnetite Ore;Fe\u2083O\u2084
-16gregtech/gt.blockores-931.pngYellow Limonite Ore;FeHO\u2082
-16gregtech/gt.blockores-930.pngBrown Limonite Ore;FeHO\u2082
+16gregtech/gt.blockores-32.pngIron Ore;Fe
+16gregtech/gt.blockores-870.pngMagnetite Ore;Fe\u2083O\u2084
+16gregtech/gt.blockores-931.pngYellow Limonite Ore;FeHO\u2082
+16gregtech/gt.blockores-930.pngBrown Limonite Ore;FeHO\u2082
 16

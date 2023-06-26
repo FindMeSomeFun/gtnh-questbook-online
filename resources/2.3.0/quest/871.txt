@@ -4,9 +4,9 @@
 4enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-32302.pngMold;Mold for making Item Casings
-1gregtech/gt.metaitem.01-32303.pngMold;Mold for making Gears
-1gregtech/gt.metaitem.01-32306.pngMold;Mold for making Ingots
-1gregtech/gt.metaitem.01-32307.pngMold;Mold for making Balls
-1gregtech/gt.metaitem.01-32309.pngMold;Mold for making Nuggets
-1gregtech/gt.metaitem.01-32308.pngMold;Mold for making Blocks
+1gregtech/gt.metaitem.01-32303.pngMold;Mold for making Gears
+1gregtech/gt.metaitem.01-32306.pngMold;Mold for making Ingots
+1gregtech/gt.metaitem.01-32307.pngMold;Mold for making Balls
+1gregtech/gt.metaitem.01-32309.pngMold;Mold for making Nuggets
+1gregtech/gt.metaitem.01-32308.pngMold;Mold for making Blocks
 1

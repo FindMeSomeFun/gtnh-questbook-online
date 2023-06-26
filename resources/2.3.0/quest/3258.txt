@@ -21,5 +21,5 @@ Something else you'll want for functional flowers is a handful of redstone roots
 4Itemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 5Botania/manaResource-6.pngRedstone Root
 2tasksANDRetrievalBotania/lexicon-0.pngLexica Botania;Hold SHIFT for more info
-1RetrievalBotania/manaResource-6.pngRedstone Root
+1RetrievalBotania/manaResource-6.pngRedstone Root
 4

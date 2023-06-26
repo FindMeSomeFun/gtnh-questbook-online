@@ -5,7 +5,7 @@ It is made in a Spinning Wheel using Wispy Cotton, String and Odour of Purity.A
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalwitchery/ingredient-102.pngGolden Thread
-4witchery/ingredient-36.pngOdour of Purity
-4witchery/somniancotton-0.pngWispy Cotton
-16Retrievalwitchery/ingredient-100.pngFanciful Thread
+4witchery/ingredient-36.pngOdour of Purity
+4witchery/somniancotton-0.pngWispy Cotton
+16Retrievalwitchery/ingredient-100.pngFanciful Thread
 4

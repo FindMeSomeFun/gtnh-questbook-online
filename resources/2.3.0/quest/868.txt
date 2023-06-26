@@ -5,7 +5,7 @@
 16gregtech/gt.metaitem.01-2823.pngCalcite Dust;CaCO\u2083
 16Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10tasksANDRetrievalgregtech/gt.blockores-935.pngBasaltic Mineral Sand;(Fe\u2083O\u2084)((Mg\u2082Fe(SiO\u2082)\u2082)(CaCO\u2083)\u2083(SiO\u2082)\u2088C\u2084)
-16gregtech/gt.blockores-936.pngGranitic Mineral Sand;(Fe\u2083O\u2084)((SiO\u2082)\u2084(KMg\u2083Al\u2083F\u2082Si\u2083O\u2081\u2080))
-16gregtech/gt.blockores-928.pngFullers Earth;MgSi\u2084H(H\u2082O)\u2084O\u2081\u2081
-16gregtech/gt.blockores-934.pngGypsum Ore;CaSO\u2084(H\u2082O)\u2082
+16gregtech/gt.blockores-936.pngGranitic Mineral Sand;(Fe\u2083O\u2084)((SiO\u2082)\u2084(KMg\u2083Al\u2083F\u2082Si\u2083O\u2081\u2080))
+16gregtech/gt.blockores-928.pngFullers Earth;MgSi\u2084H(H\u2082O)\u2084O\u2081\u2081
+16gregtech/gt.blockores-934.pngGypsum Ore;CaSO\u2084(H\u2082O)\u2082
 32

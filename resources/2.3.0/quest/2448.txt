@@ -1,6 +1,6 @@
 2448gregtech/gt.metaitem.01-30632.png1§a§lDichlorobenzene7-1To make higher tier cables, you'll have to put a little more effort in. Let's start with Dichlorobenzene.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-48gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
-12Retrievalgregtech/gt.metaitem.01-30632.pngDichlorobenzene Cell;C\u2086H\u2084Cl\u2082
+48gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
+12Retrievalgregtech/gt.metaitem.01-30632.pngDichlorobenzene Cell;C\u2086H\u2084Cl\u2082
 12

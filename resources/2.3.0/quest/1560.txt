@@ -21,9 +21,9 @@ Wolfsbane seeds can be planted and eventually grow into the multistage Wolfsbane
 16minecraft/wheat_seeds-0.pngSeeds
 16Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalwitchery/seedsmandrake-0.pngMandrake Seeds
-1witchery/seedsbelladonna-0.pngBelladonna Seeds
-1witchery/seedssnowbell-0.pngSnowbell Seeds
-1witchery/seedsartichoke-0.pngWater Artichoke Seeds
-1witchery/garlic-0.pngGarlic
-1witchery/seedswolfsbane-0.pngWolfsbane Seeds
+1witchery/seedsbelladonna-0.pngBelladonna Seeds
+1witchery/seedssnowbell-0.pngSnowbell Seeds
+1witchery/seedsartichoke-0.pngWater Artichoke Seeds
+1witchery/garlic-0.pngGarlic
+1witchery/seedswolfsbane-0.pngWolfsbane Seeds
 1

@@ -6,6 +6,6 @@ Do the recipe twice if you want to clean out your reactor, or three times if use
 32enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-30650.pngVinyl Chloride Cell;C\u2082H\u2083Cl
-6gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-41Retrievalgregtech/gt.metaitem.99-649.pngMolten Polyvinyl Chloride Cell;C\u2082H\u2083Cl
+6gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+41Retrievalgregtech/gt.metaitem.99-649.pngMolten Polyvinyl Chloride Cell;C\u2082H\u2083Cl
 61

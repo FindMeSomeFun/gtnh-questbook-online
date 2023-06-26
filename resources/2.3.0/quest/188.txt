@@ -4,5 +4,5 @@
 2dreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalGalaxySpace/deimosblocks-0.pngDeimos Surface Block
-8GalaxySpace/deimosblocks-1.pngDeimos Subsurface Block
+8GalaxySpace/deimosblocks-1.pngDeimos Subsurface Block
 8

@@ -2,5 +2,5 @@
 1Forestry/beeCombs-0.pngHoney Comb
 8Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDRetrievalForestry/beePrincessGE-0.pngPrincess
-1Forestry/beeDroneGE-0.pngDrone
+1Forestry/beeDroneGE-0.pngDrone
 1

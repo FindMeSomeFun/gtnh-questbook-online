@@ -3,6 +3,6 @@
 3TConstruct/oreBerries-5.pngConcentrated Essence Berry;Tastes like Creeper;Can be placed on a empty IC2 Crop.
 5Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10tasksANDRetrievalgregtech/gt.blockores-810.pngRedstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
-32gregtech/gt.blockores-502.pngRuby Ore;CrAl\u2082O\u2083
-16gregtech/gt.blockores-826.pngCinnabar Ore;HgS
+32gregtech/gt.blockores-502.pngRuby Ore;CrAl\u2082O\u2083
+16gregtech/gt.blockores-826.pngCinnabar Ore;HgS
 16

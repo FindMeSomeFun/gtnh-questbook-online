@@ -1,5 +1,5 @@
 2650gregtech/gt.metaitem.03-32105.png1The Board that Keeps Life11-1To make Wetware Circuits, you'll need to make a Wetware Lifesupport Circuit Board. Making this board is quite a different process than making all the other Circuit Boards you've made, because making it actually requires materials!
 
 To actually use it in circuits, you need to etch it. I guess by now, you know how to etch a circuit board, so I won't tell you and you have to use NEI :PANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32006.pngWetware Lifesupport Circuit Board;The Board that keeps life
-1Retrievalgregtech/gt.metaitem.03-32105.pngExtreme Wetware Lifesupport Circuit Board;The Board that keeps life
+1Retrievalgregtech/gt.metaitem.03-32105.pngExtreme Wetware Lifesupport Circuit Board;The Board that keeps life
 1

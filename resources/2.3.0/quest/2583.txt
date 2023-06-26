@@ -1,5 +1,5 @@
 2583gregtech/gt.blockmachines-965.png1Galaxy in a Bottle...?38-1Good luck with this one, it is many many many times harder than the previous tiers. Required to make extremely endgame materials such as hypogen.ANDpre25821Avaritia/Resource_Block-1.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-965.pngFusionTech MK IV;Machine Type: Fusion Reactor;HARNESSING THE POWER OF A NEUTRON STAR;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.3-13.pngAdvanced Fusion Coil;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32miscutils/gtplusplus.blockcasings.3-12.pngFusion Machine Casing MK III;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-108gregtech/gt.blockmachines-49.pngUHV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 2,097,152 (UHV);Capacity: 16,777,728 EU
+1miscutils/gtplusplus.blockcasings.3-13.pngAdvanced Fusion Coil;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32miscutils/gtplusplus.blockcasings.3-12.pngFusion Machine Casing MK III;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+108gregtech/gt.blockmachines-49.pngUHV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 2,097,152 (UHV);Capacity: 16,777,728 EU
 16

@@ -3,6 +3,6 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"
 5tasksANDRetrievalAWWayofTime/mundaneLengtheningCatalyst-0.pngMundane Lengthening Catalyst;Used in Alchemy
-2AWWayofTime/mundanePowerCatalyst-0.pngMundane Power Catalyst;Used in Alchemy
-2AWWayofTime/weakBindingAgent-0.pngWeak Binding Agent;Used in Alchemy
+2AWWayofTime/mundanePowerCatalyst-0.pngMundane Power Catalyst;Used in Alchemy
+2AWWayofTime/weakBindingAgent-0.pngWeak Binding Agent;Used in Alchemy
 2

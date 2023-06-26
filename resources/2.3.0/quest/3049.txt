@@ -1,6 +1,6 @@
 3049bartworks/gt.bwMetaGenerateddust-11001.png0§b§lEBF Time8-1For the next step in the process, just EBF your solution with some magnesium.ANDpre30470bartworks/gt.bwMetaGenerateddust-11003.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11004.pngHafnium Tetrachloride Solution Cell;HfCl\u2084;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
-2Retrievalbartworks/gt.bwMetaGenerateddust-11001.pngLow-Purity Hafnium Dust;??Hf??;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust;MgCl\u2082
+1gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
+2Retrievalbartworks/gt.bwMetaGenerateddust-11001.pngLow-Purity Hafnium Dust;??Hf??;Added by GTNH: Lanthanides via BartWorks
+1gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust;MgCl\u2082
 2

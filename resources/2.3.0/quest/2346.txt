@@ -15,6 +15,6 @@ Next, while holding the raw fish, do not move. If you move, you will scare away 
 32enhancedlootbags/lootbag-2.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 10tasksANDOptionalminecraft/fishing_rod-0.pngFishing Rod
-1Retrievalminecraft/fence-0.pngFence;Burn Time: 300
-32minecraft/fish-0.pngRaw Fish;minecraft:fish
+1Retrievalminecraft/fence-0.pngFence;Burn Time: 300
+32minecraft/fish-0.pngRaw Fish;minecraft:fish
 16

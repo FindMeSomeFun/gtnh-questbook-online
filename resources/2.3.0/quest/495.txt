@@ -6,6 +6,6 @@
 5Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 10tasksANDRetrievalgregtech/gt.blockores-500.pngDiamond Ore;C
-16gregtech/gt.blockores-865.pngGraphite Ore;C
-16gregtech/gt.blockores-535.pngCoal Ore;C
+16gregtech/gt.blockores-865.pngGraphite Ore;C
+16gregtech/gt.blockores-535.pngCoal Ore;C
 16

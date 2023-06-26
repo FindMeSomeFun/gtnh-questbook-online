@@ -8,5 +8,5 @@ They both obviously need the essentia they request to be accessible by the netwo
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalthaumicenergistics/thaumicenergistics.block.essentia.provider-0.pngEssentia Provider
-1thaumicenergistics/thaumicenergistics.block.infusion.provider-0.pngInfusion Provider
+1thaumicenergistics/thaumicenergistics.block.infusion.provider-0.pngInfusion Provider
 1

@@ -2,6 +2,6 @@
 
 Brownstone roads are slightly faster than rough brownstone.ANDpre19360TConstruct/metalPattern-13.pngrewardsItemminecraft/lava_bucket-0.pngLava Bucket;Burn Time: 20000;You need Gloves for it?
 1tasksANDRetrievalTConstruct/SpeedBlock-1.pngBrownstone Road;You run pretty fast on it
-1TConstruct/decoration.multibrick-10.pngSlime Brick;Bouncy!
-1TConstruct/decoration.multibrick-8.pngRedstone Brick;Emits Redstone signal up to;4 blocks away
+1TConstruct/decoration.multibrick-10.pngSlime Brick;Bouncy!
+1TConstruct/decoration.multibrick-8.pngRedstone Brick;Emits Redstone signal up to;4 blocks away
 1

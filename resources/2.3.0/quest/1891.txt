@@ -4,9 +4,9 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2tasksORRetrievalgregtech/gt.blockores-4884.pngDesh Ore;De
-64gregtech/gt.blockores-4910.pngScheelite Ore;WCaO\u2084
-32gregtech/gt.blockores-4841.pngTungstate Ore;WLi\u2082O\u2084
-16Retrievalgregtech/gt.metaitem.01-5884.pngCrushed Desh Ore;De
-192gregtech/gt.metaitem.01-5910.pngCrushed Scheelite Ore;WCaO\u2084
-96gregtech/gt.metaitem.01-5841.pngCrushed Tungstate Ore;WLi\u2082O\u2084
+64gregtech/gt.blockores-4910.pngScheelite Ore;WCaO\u2084
+32gregtech/gt.blockores-4841.pngTungstate Ore;WLi\u2082O\u2084
+16Retrievalgregtech/gt.metaitem.01-5884.pngCrushed Desh Ore;De
+192gregtech/gt.metaitem.01-5910.pngCrushed Scheelite Ore;WCaO\u2084
+96gregtech/gt.metaitem.01-5841.pngCrushed Tungstate Ore;WLi\u2082O\u2084
 48

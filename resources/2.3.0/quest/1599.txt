@@ -7,5 +7,5 @@ Also, if you place a node on a block of cobble that has lava and water next to i
 §4The WIU can NOT be used for infinite water in GTNH.ANDpre1140ExtraUtilities/extractor_base-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalExtraUtilities/nodeUpgrade-2.pngWorld Interaction Upgrade
-1dreamcraft/BabyChest-0.pngBaby Chest;Aww, so tiny!;Burn Time: 300
+1dreamcraft/BabyChest-0.pngBaby Chest;Aww, so tiny!;Burn Time: 300
 9

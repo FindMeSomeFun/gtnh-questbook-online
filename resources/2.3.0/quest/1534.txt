@@ -5,5 +5,5 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5tasksORRetrievalgregtech/gt.blockores-390.pngLedox Ore;SpPb
-64Retrievalgregtech/gt.metaitem.01-5390.pngCrushed Ledox Ore;SpPb
+64Retrievalgregtech/gt.metaitem.01-5390.pngCrushed Ledox Ore;SpPb
 192

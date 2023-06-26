@@ -4,5 +4,5 @@
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDHuntmobs/TwilightForest-Redcap-.pngRedcap
-10Huntmobs/TwilightForest-Redcap Sapper-.pngRedcap Sapper
+10Huntmobs/TwilightForest-Redcap Sapper-.pngRedcap Sapper
 1

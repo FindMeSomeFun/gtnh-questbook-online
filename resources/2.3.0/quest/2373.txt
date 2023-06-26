@@ -13,5 +13,5 @@ It is used to brew Infestation Remedy.
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 3tasksANDRetrievalminecraft/golden_sword-0.pngGolden Sword;+4 Attack Damage;Durability: 24/24
-1RetrievalHardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+1RetrievalHardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
 16

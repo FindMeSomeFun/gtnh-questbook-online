@@ -5,7 +5,7 @@ Be sure to check how much gallium you have available. It might not be worth it t
 32enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.metaitem.03-32016.pngSMD Diode;Electronic Component
-64gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
-16gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-12gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
+64gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
+16gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+12gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
 48

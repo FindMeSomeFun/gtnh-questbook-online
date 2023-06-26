@@ -17,9 +17,9 @@ These are GT machines, so remember to protect them (and their power sources!) fr
 16gregtech/gt.metaitem.98-5.pngDrilling Fluid Cell
 128Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-1158.pngOre Drilling Plant;Machine Type: Miner;Controller Block for the Ore Drilling Plant I;Use a Screwdriver to configure block radius;Maximum radius is 48 blocks;Use Soldering iron to turn off chunk mode;Use Wire Cutter to toggle replacing mined blocks with cobblestone;In chunk mode, working area center is the chunk corner nearest to the drill;Gives ~3x as much crushed ore vs normal processing;Fortune bonus of 4. Only works on small ores;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-8gregtech/gt.blockmachines-4401.pngSteel Frame Box;Just something you can put covers on.
-15gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1OptionalIC2/blockMiningPipe-0.pngMining Pipe
-64Optionalgregtech/gt.metaitem.98-5.pngDrilling Fluid Cell
+1Optionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+8gregtech/gt.blockmachines-4401.pngSteel Frame Box;Just something you can put covers on.
+15gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1OptionalIC2/blockMiningPipe-0.pngMining Pipe
+64Optionalgregtech/gt.metaitem.98-5.pngDrilling Fluid Cell
 64

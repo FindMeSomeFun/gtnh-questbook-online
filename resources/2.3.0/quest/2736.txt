@@ -2,7 +2,7 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-2010.pngCarbon Dust;C
-2gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-8gregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell;CH\u2082
-4Retrievalgregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
+2gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
+8gregtech/gt.metaitem.99-874.pngMolten Polyethylene Cell;CH\u2082
+4Retrievalgregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
 32

@@ -1,5 +1,5 @@
 384appliedenergistics2/item.ItemMultiMaterial-47.png0Now that Matters!10-1Of course! The matter condenser! How come I didn't think of that?ANDpre4520minecraft/lever-0.pngrewardsItemenhancedlootbags/lootbag-42.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
-1Consumeappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
+1Consumeappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
 1

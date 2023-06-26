@@ -2,8 +2,8 @@
 4enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-2gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
-2minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-1Retrievalirontank/diamondTank-0.pngDiamond Tank;Glass-Tier: HV;Stores up to 64 Buckets of one Liquid Not portable, use a dolly
+2gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
+2minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
+2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+1Retrievalirontank/diamondTank-0.pngDiamond Tank;Glass-Tier: HV;Stores up to 64 Buckets of one Liquid Not portable, use a dolly
 1

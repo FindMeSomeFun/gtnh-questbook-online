@@ -15,5 +15,5 @@ If you're clever, you can use one oreblock to find a vein containing another ore
 1gregtech/gt.blockores-935.pngBasaltic Mineral Sand;(Fe\u2083O\u2084)((Mg\u2082Fe(SiO\u2082)\u2082)(CaCO\u2083)\u2083(SiO\u2082)\u2088C\u2084)
 1gregtech/gt.blockores-838.pngSpessartine Ore;Al\u2082Mn\u2083Si\u2083O\u2081\u2082
 1tasksANDConsumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-60dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+60dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 60

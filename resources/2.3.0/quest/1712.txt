@@ -5,8 +5,8 @@ Remember that these can't be made into MV circuits.ANDpre14070gregtech/gt.b
 4enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-16gregtech/gt.metaitem.03-32047.pngSoC;System on a Chip
-16gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-32gregtech/gt.metaitem.01-26035.pngCopper Bolt;Cu
-32Retrievalgregtech/gt.metaitem.03-32078.pngMicroprocessor;A Basic Circuit;LV-Tier
+16gregtech/gt.metaitem.03-32047.pngSoC;System on a Chip
+16gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+32gregtech/gt.metaitem.01-26035.pngCopper Bolt;Cu
+32Retrievalgregtech/gt.metaitem.03-32078.pngMicroprocessor;A Basic Circuit;LV-Tier
 32

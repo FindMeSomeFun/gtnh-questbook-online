@@ -28,12 +28,12 @@ Now that you've understood the concepts and safety of handling of the QC, what a
 
 Now that you understand the QC, it's time to build it! You'll need to gather quite a lot of resources.ANDpre20061tectech/gt.blockcasingsTT-0.png26281gregtech/gt.blockmachines-48.pngrewardsItemtectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
 20tasksANDOptionalgregtech/gt.blockmachines-15430.pngUncertainty Resolver;TecTech: Elemental Matter;Feeling certain, or not?;Schr\u00f6dinger equation in a box
-1gregtech/gt.blockmachines-15441.pngOptical Master Connector;TecTech: Elemental Matter;Quantum Data Output for Multiblocks;High speed fibre optics connector.;Must be painted to work
-1gregtech/gt.blockmachines-15470.pngOptical Fiber Cable;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
-1gregtech/gt.blockmachines-15103.pngUV 4A Energy Hatch;TecTech: Interdimensional;Multiple Ampere Energy Injector for Multiblocks;Amperes In: 5 A;Voltage IN: 524,288 (UV);Capacity: 8,389,120 EU
-1tectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
-6tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
-17tectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
-10gregtech/gt.blockmachines-15450.pngComputer Rack;TecTech: Elemental Matter;4 Slot Rack;Holds Computer Components
-2Retrievalgregtech/gt.blockmachines-15311.pngQuantum Computer;Machine Type: Quantum Computer;Controller block of the Quantum Computer;Used to generate computation (and heat);The structure is too complex!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Elemental Matter
+1gregtech/gt.blockmachines-15441.pngOptical Master Connector;TecTech: Elemental Matter;Quantum Data Output for Multiblocks;High speed fibre optics connector.;Must be painted to work
+1gregtech/gt.blockmachines-15470.pngOptical Fiber Cable;TecTech: Elemental Matter;Advanced data transmission;Don''t stare at the beam!;Must be painted to work;Do not cross or split
+1gregtech/gt.blockmachines-15103.pngUV 4A Energy Hatch;TecTech: Interdimensional;Multiple Ampere Energy Injector for Multiblocks;Amperes In: 5 A;Voltage IN: 524,288 (UV);Capacity: 8,389,120 EU
+1tectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
+6tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
+17tectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
+10gregtech/gt.blockmachines-15450.pngComputer Rack;TecTech: Elemental Matter;4 Slot Rack;Holds Computer Components
+2Retrievalgregtech/gt.blockmachines-15311.pngQuantum Computer;Machine Type: Quantum Computer;Controller block of the Quantum Computer;Used to generate computation (and heat);The structure is too complex!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Elemental Matter
 1

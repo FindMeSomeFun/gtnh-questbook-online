@@ -3,9 +3,9 @@
 8enhancedlootbags/lootbag-17.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
 2tasksANDRetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellParadigm-0.pngParticle Generator
-1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEffect-3.pngEarth Former
-1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellModifier-3.pngEnvironmental Spell Modifier
-1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-0.pngUnstable Spell Empowerer
-1AWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-10.pngUnstable Spell Augmentor
-1RetrievalAWWayofTime/itemComplexSpellCrystal-0.pngComplex Spell Crystal;Crystal of unimaginable power
+1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEffect-3.pngEarth Former
+1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellModifier-3.pngEnvironmental Spell Modifier
+1RetrievalAWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-0.pngUnstable Spell Empowerer
+1AWWayofTime/AlchemicalWizardrytile.blockSpellEnhancement-10.pngUnstable Spell Augmentor
+1RetrievalAWWayofTime/itemComplexSpellCrystal-0.pngComplex Spell Crystal;Crystal of unimaginable power
 1

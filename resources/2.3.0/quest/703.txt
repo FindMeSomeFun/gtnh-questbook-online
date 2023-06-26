@@ -5,6 +5,6 @@
 1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
 1dreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000"
 1tasksANDOptionalAWWayofTime/bloodMagicBaseItems-29.pngSoul Shard
-20AWWayofTime/bloodMagicBaseItems-28.pngLife Shard
-20RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluster
+20AWWayofTime/bloodMagicBaseItems-28.pngLife Shard
+20RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluster
 4

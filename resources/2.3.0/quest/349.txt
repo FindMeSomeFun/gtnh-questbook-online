@@ -8,6 +8,6 @@
 2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalwitchery/quiverofmog-0.pngMog''s Quiver;Limitless fast arrows that obliterate airborne targets.;Become tougher when close to a player with Gulg''s Gurdle.;Protection: 3;Durability: 240/240
-1witchery/gurdleofgulg-0.pngGulg''s Gurdle;Smash enemies into the air with your bare fists.;Become tougher when close to a player with Mog''s Quiver.;Protection: 2;Durability: 225/225
-1witchery/babashat-0.pngBaba Yaga''s Hat;Infused players have a chance to be;teleported instead of taking a hit;+25% chance of second brew;+25% chance of third brew;Protection: 1;Durability: 55/55
+1witchery/gurdleofgulg-0.pngGulg''s Gurdle;Smash enemies into the air with your bare fists.;Become tougher when close to a player with Mog''s Quiver.;Protection: 2;Durability: 225/225
+1witchery/babashat-0.pngBaba Yaga''s Hat;Infused players have a chance to be;teleported instead of taking a hit;+25% chance of second brew;+25% chance of third brew;Protection: 1;Durability: 55/55
 1

@@ -3,7 +3,7 @@
 16ProjRedFabrication/projectred.fabrication.icchip-1.pngCreative Mode IC Chip;Creative-mode only chip.;Instant and free prints.;Rightclick to add IC Gate to inventory.
 4miscutils/GTPP.bauble.fireprotection.0.name-0.pngSupreme Pizza Gloves
 1tasksANDConsumedreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-10dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
-10dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
-10dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
+10dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
+10dreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
+10dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 10

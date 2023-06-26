@@ -1,4 +1,4 @@
 2438holoinventory/Hologlasses-0.png0Holo Glasses40240000What? Lost your Holo Glasses already? Well here's a replacement. Well sure, it costs a few coins too, be more careful next time!ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemholoinventory/Hologlasses-0.pngHolo Glasses;You can put it in the Tinkers mask slot;Protection: 0
 1tasksANDConsumegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-8Consumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
+8Consumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 100

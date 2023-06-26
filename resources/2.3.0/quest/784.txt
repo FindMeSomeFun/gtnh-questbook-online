@@ -8,12 +8,12 @@ To make a large boiler you must make a 3x3x5 structure with Bronze Pipe Casings 
 2enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.blockcasings3-13.pngBronze Firebox Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-5Retrievalgregtech/gt.blockmachines-1020.pngLarge Bronze Boiler;Machine Type: Boiler;Controller block for the Large Bronze Boiler;Produces 32,000L of Steam with 1 Coal at 16,000L/s;A programmed circuit in the main block throttles the boiler (-1000L/s per config);Solid Fuels with a burn value that is too high or too low will not work;Diesel fuels have 1/4 efficiency - Takes 31.25 seconds to heat up;Causes: 1000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings2-12.pngBronze Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-3Optionalgregtech/gt.blockcasings-10.pngBronze Plated Bricks;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32Optionalgregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
-1gregtech/gt.blockmachines-61.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1gregtech/gt.blockmachines-71.pngInput Bus;Item Input for Multiblocks;Shift + right click with screwdriver to turn Sort mode on/off;Capacity: 4 stacks
-1gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1gregtech/gt.blockmachines-91.pngMuffler Hatch;Outputs the Pollution (Might cause ... things);DO NOT OBSTRUCT THE OUTPUT!;Reduces Pollution to 100%;Recovers 0% of CO2/CO/SO2
+5Retrievalgregtech/gt.blockmachines-1020.pngLarge Bronze Boiler;Machine Type: Boiler;Controller block for the Large Bronze Boiler;Produces 32,000L of Steam with 1 Coal at 16,000L/s;A programmed circuit in the main block throttles the boiler (-1000L/s per config);Solid Fuels with a burn value that is too high or too low will not work;Diesel fuels have 1/4 efficiency - Takes 31.25 seconds to heat up;Causes: 1000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+1Optionalgregtech/gt.blockcasings2-12.pngBronze Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+3Optionalgregtech/gt.blockcasings-10.pngBronze Plated Bricks;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+32Optionalgregtech/gt.blockmachines-51.pngInput Hatch;Fluid Input for Multiblocks;Capacity: 16,000L
+1gregtech/gt.blockmachines-61.pngOutput Hatch;Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
+1gregtech/gt.blockmachines-71.pngInput Bus;Item Input for Multiblocks;Shift + right click with screwdriver to turn Sort mode on/off;Capacity: 4 stacks
+1gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
+1gregtech/gt.blockmachines-91.pngMuffler Hatch;Outputs the Pollution (Might cause ... things);DO NOT OBSTRUCT THE OUTPUT!;Reduces Pollution to 100%;Recovers 0% of CO2/CO/SO2
 1

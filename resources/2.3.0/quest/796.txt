@@ -3,9 +3,9 @@
 1enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-28308.pngRed Alloy Ring;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.01-24500.pngDiamond Lens;C
-2dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-2RetrievalGalacticraftCore/item.sensorLens-0.pngSensor Lens
+4IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+4gregtech/gt.metaitem.01-24500.pngDiamond Lens;C
+2dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
+2RetrievalGalacticraftCore/item.sensorLens-0.pngSensor Lens
 2

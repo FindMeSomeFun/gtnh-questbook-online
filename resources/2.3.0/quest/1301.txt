@@ -5,5 +5,5 @@ Gates all network I/O.ANDpre12961appliedenergistics2/item.ItemMultiMaterial
 16enhancedlootbags/lootbag-37.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-44.pngAnnihilation Core
-16appliedenergistics2/item.ItemMultiMaterial-43.pngFormation Core
+16appliedenergistics2/item.ItemMultiMaterial-43.pngFormation Core
 16

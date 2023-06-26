@@ -15,5 +15,5 @@ If you are very unlucky and the Lord of Torment disappears when entering the Tor
 5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5tasksANDRetrievalwitchery/ingredient-141.pngTorment;Read this text in a circle;of standing stones. Beware its;explosive entrance.
-1LocationDIM/56-.pngThe Torment
+1LocationDIM/56-.pngThe Torment
 1

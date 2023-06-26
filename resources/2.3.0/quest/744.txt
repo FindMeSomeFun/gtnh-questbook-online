@@ -6,8 +6,8 @@ Higher tier metals require the MV extruder. Don't destroy your whole garden.
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/metalPattern-19.pngExcavator Head Cast;Material Cost: 8
-1TConstruct/metalPattern-16.pngLarge Plate Cast;Material Cost: 8
-1TConstruct/metalPattern-15.pngTough Binding Cast;Material Cost: 3
-1TConstruct/metalPattern-14.pngTough Rod Cast;Material Cost: 3
-1RetrievalTConstruct/excavator-0-2413.pngExcavator;Reinforced II;Tool Level: 01-Abused;+6 Attack Damage
+1TConstruct/metalPattern-16.pngLarge Plate Cast;Material Cost: 8
+1TConstruct/metalPattern-15.pngTough Binding Cast;Material Cost: 3
+1TConstruct/metalPattern-14.pngTough Rod Cast;Material Cost: 3
+1RetrievalTConstruct/excavator-0-2413.pngExcavator;Reinforced II;Tool Level: 01-Abused;+6 Attack Damage
 1

@@ -3,5 +3,5 @@
 1enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.03-32044.pngCentral Processing Unit;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32045.pngCentral Processing Unit;Integrated Circuit
+1Retrievalgregtech/gt.metaitem.03-32045.pngCentral Processing Unit;Integrated Circuit
 1

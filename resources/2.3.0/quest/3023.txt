@@ -7,5 +7,5 @@ In summary, this multi runs faster than the DT by doing parallels, a recipe done
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDRetrievalgregtech/gt.blockmachines-31021.pngDangote Distillus;Machine Type: Distillery, Distillation Tower;Controller Block for the Advanced Distillation Tower;Use 85% less energy in distillery mode;250%/100% faster in DT/distillery mode;Right click the controller with screwdriver to change mode.;Max parallel dictated by tower tier and mode;DTower Mode: T1=4, T2=12;Distilery Mode: Tower Tier * (4*InputTier);Distilery Mode require a full height tower;Causes: 480 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/MU-metaitem.01-32151.pngUpgrade Chip;Used to upgrade Distillus to Tier 2
+1miscutils/MU-metaitem.01-32151.pngUpgrade Chip;Used to upgrade Distillus to Tier 2
 1

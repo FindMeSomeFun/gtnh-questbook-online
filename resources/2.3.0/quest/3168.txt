@@ -5,7 +5,7 @@ How do you get it, though? The one answer is, you get it from Thorium. Looking a
 How does it work? Well, it's simple. The IC2 crop that corresponds to Thorium, the God of Thunder, can quadruple each Crushed Thorium Ore into 4 Purified Thorium Ore, but it also outputs, in fluid form, one Uranium Ingot! This means that each Thorium Ore gives you 4 Uranium Ingots, and with around 42 ore, you can do one cycle of that big reactor setup. God of Thunder needs the ore under it, though, so make sure you save some for that purpose.
 
 EV Uranium nukes are a achievement intended mostly for IC2 crop users, so this quest won't demand something like that. Still, it's a useful secret, so here it is. Additionally, the Uranium crop quest in the questbook awards you with 32 Pitchblende when you complete it, which might prove useful for both for quadrupling Uranium and getting Radium for Radon!ANDpre31570gregtech/gt.metaitem.01-32032.pngrewardstasksANDOptionalgregtech/gt.metaitem.02-32526.pngThunder Leaf;Source of Thorium
-63gregtech/gt.blockores-1096.pngThorium Ore;Th
-2gregtech/gt.metaitem.01-11098.pngUranium 238 Ingot;U
-7Retrievalgregtech/gt.metaitem.01-2098.pngUranium 238 Dust;U
+63gregtech/gt.blockores-1096.pngThorium Ore;Th
+2gregtech/gt.metaitem.01-11098.pngUranium 238 Ingot;U
+7Retrievalgregtech/gt.metaitem.01-2098.pngUranium 238 Dust;U
 2

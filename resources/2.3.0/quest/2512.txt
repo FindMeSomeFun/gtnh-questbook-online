@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalthaumicenergistics/material-0.pngDiffusion Core
-4thaumicenergistics/material-1.pngCoalescence Core
+4thaumicenergistics/material-1.pngCoalescence Core
 4

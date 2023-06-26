@@ -2,5 +2,5 @@
 
 A completely full diluted pool is barely able to make a mana diamond out of an exquisite diamond. Once you upgrade the pool you can use regular diamonds - be it at a higher mana cost.ANDpre8690gregtech/gt.blockmachines-641.png32231Botania/pool-2.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 10tasksANDOptionalgregtech/gt.metaitem.02-30500.pngExquisite Diamond;C
-1RetrievalBotania/manaResource-2.pngMana Diamond
+1RetrievalBotania/manaResource-2.pngMana Diamond
 1

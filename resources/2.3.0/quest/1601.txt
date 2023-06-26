@@ -10,9 +10,9 @@ For Ferru and Aurelia you will have to use a block of metal instead of a GT oreb
 1IC2/itemCropSeed-0.pngPyrolusium Seeds;Gr 10;Ga 10;Re 10
 1enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1tasksANDRetrievalgregtech/gt.metaitem.02-32530.pngCoppon Fiber;ORANGE WOOOOOOOL!!!
-9gregtech/gt.metaitem.02-32500.pngPlumbilia Leaf;Source of Lead
-9gregtech/gt.metaitem.02-32527.pngNickelback Leaf;Source of Nickel
-9gregtech/gt.metaitem.02-32540.pngTine Twig;Source of Tin;Burn Time: 100
-9gregtech/gt.metaitem.02-32528.pngGalvania Leaf;Source of Zinc
-9gregtech/gt.metaitem.02-32503.pngFerru Leaf;Source of Iron
+9gregtech/gt.metaitem.02-32500.pngPlumbilia Leaf;Source of Lead
+9gregtech/gt.metaitem.02-32527.pngNickelback Leaf;Source of Nickel
+9gregtech/gt.metaitem.02-32540.pngTine Twig;Source of Tin;Burn Time: 100
+9gregtech/gt.metaitem.02-32528.pngGalvania Leaf;Source of Zinc
+9gregtech/gt.metaitem.02-32503.pngFerru Leaf;Source of Iron
 9

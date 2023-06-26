@@ -8,6 +8,6 @@ Eating before you are starving restores saturation and conserves cans.ANDpre1
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.02-18057.pngTin Casing;Sn
-16OptionalIC2/itemTinCan-0.pngTin Can
-16RetrievalIC2/itemTinCanFilled-0.png(Filled) Tin Can (#4202
+16OptionalIC2/itemTinCan-0.pngTin Can
+16RetrievalIC2/itemTinCanFilled-0.png(Filled) Tin Can (#4202
 16

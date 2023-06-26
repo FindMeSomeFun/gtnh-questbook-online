@@ -3,5 +3,5 @@
 1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core;Blank
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemGolemPlacer-5.pngStone Golem
-1RetrievalThaumcraft/ItemGolemCore-4.pngGolem Animation Core;Guard
+1RetrievalThaumcraft/ItemGolemCore-4.pngGolem Animation Core;Guard
 1

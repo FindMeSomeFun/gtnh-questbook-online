@@ -9,8 +9,8 @@ If you are incredibly lucky, these towers can also offer rare items or blocks.A
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;55 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/obsidian_special-2.pngObsidian Pillar
-1HardcoreEnderExpansion/obsidian_special-0.pngSmooth Obsidian
-1HardcoreEnderExpansion/obsidian_special_glow-0.pngSmooth Glowing Obsidian
-1HardcoreEnderExpansion/obsidian_special_glow-1.pngChiseled Glowing Obsidian
-1Retrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1HardcoreEnderExpansion/obsidian_special-0.pngSmooth Obsidian
+1HardcoreEnderExpansion/obsidian_special_glow-0.pngSmooth Glowing Obsidian
+1HardcoreEnderExpansion/obsidian_special_glow-1.pngChiseled Glowing Obsidian
+1Retrievalminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
 16

@@ -7,6 +7,6 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/metalPattern-16.pngLarge Plate Cast;Material Cost: 8
-1RetrievalTConstruct/heavyPlate-6.pngObsidian Large Plate;Reinforced III;Durability: 67;Mining Speed: 6.5;Attack: 1 Heart;Parts can be replaced
-1RetrievalTConstruct/materials-43.pngReinforcement;Tool Modifier: Reinforced
+1RetrievalTConstruct/heavyPlate-6.pngObsidian Large Plate;Reinforced III;Durability: 67;Mining Speed: 6.5;Attack: 1 Heart;Parts can be replaced
+1RetrievalTConstruct/materials-43.pngReinforcement;Tool Modifier: Reinforced
 1

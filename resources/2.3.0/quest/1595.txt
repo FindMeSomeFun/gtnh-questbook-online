@@ -3,7 +3,7 @@
 16witchery/ingredient-24.pngWool of Bat
 16Itemminecraft/shears-0.pngShears
 1tasksANDOptionalwitchery/ingredient-102.pngGolden Thread
-4witchery/ingredient-36.pngOdour of Purity
-4witchery/somniancotton-0.pngWispy Cotton
-16Retrievalwitchery/ingredient-100.pngFanciful Thread
+4witchery/ingredient-36.pngOdour of Purity
+4witchery/somniancotton-0.pngWispy Cotton
+16Retrievalwitchery/ingredient-100.pngFanciful Thread
 4

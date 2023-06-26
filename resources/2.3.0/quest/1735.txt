@@ -5,5 +5,5 @@ Later on you can make better item pipes. Search for "item pipe" in NEI for optio
 §4You'll need a Steel Wrench to remove them. Don't place them down unless you're sure of the location until you have one.ANDpre12050minecraft/hopper-0.pngrewardsItemharvestcraft/spagettiItem-0.pngSpagetti;harvestcraft:spagettiItem
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-17057.pngTin Plate;Sn
-12Retrievalgregtech/gt.blockmachines-5590.pngSmall Tin Item Pipe;Item Capacity: 1 Stacks/4 sec;Routing Value: 131,072
+12Retrievalgregtech/gt.blockmachines-5590.pngSmall Tin Item Pipe;Item Capacity: 1 Stacks/4 sec;Routing Value: 131,072
 12

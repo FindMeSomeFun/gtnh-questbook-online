@@ -3,14 +3,14 @@
 4enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalGraviSuite/advNanoChestPlate-32767.pngAdvanced NanoChestPlate\nJetpack engine: off\nHover mode: off\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
-1dreamcraft/item.IridiumAlloyItemCasing-0.pngIridium Alloy Item Casing
-8Optionaldreamcraft/item.QuantumPartChestplate-0.pngQuantum Parts "Chestplate";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumCrystal-0.pngQuantum Crystal
-1gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe;A Master Circuit;LuV-Tier
-2gregtech/gt.blockmachines-1662.png4x Tungstensteel Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
-6gregtech/gt.metaitem.01-32597.pngLapotronic Energy Orb;Reusable battery;0 / 100,000,000 EU - Voltage: 8192;IV-Tier
-1gregtech/gt.metaitem.01-32673.pngField Generator
-3gregtech/gt.metaitem.01-32604.pngElectric Motor
-2gregtech/gt.metaitem.01-27316.pngTungstensteel Screw;(Fe\u2085\u2080C)W
-4RetrievalIC2/itemArmorQuantumChestplate-32767-charged.pngQuantumSuit Bodyarmor\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1dreamcraft/item.IridiumAlloyItemCasing-0.pngIridium Alloy Item Casing
+8Optionaldreamcraft/item.QuantumPartChestplate-0.pngQuantum Parts "Chestplate";Don''t try to wear this, you can''t
+1dreamcraft/item.QuantumCrystal-0.pngQuantum Crystal
+1gregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe;A Master Circuit;LuV-Tier
+2gregtech/gt.blockmachines-1662.png4x Tungstensteel Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
+6gregtech/gt.metaitem.01-32597.pngLapotronic Energy Orb;Reusable battery;0 / 100,000,000 EU - Voltage: 8192;IV-Tier
+1gregtech/gt.metaitem.01-32673.pngField Generator
+3gregtech/gt.metaitem.01-32604.pngElectric Motor
+2gregtech/gt.metaitem.01-27316.pngTungstensteel Screw;(Fe\u2085\u2080C)W
+4RetrievalIC2/itemArmorQuantumChestplate-32767-charged.pngQuantumSuit Bodyarmor\nPower Tier: 4\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
 1

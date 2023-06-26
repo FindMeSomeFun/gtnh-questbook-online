@@ -3,5 +3,5 @@
 §3If you want the TF achievement, get that first.ANDpre4510minecraft/lever-0.pngrewardsItemTConstruct/cleaver-0-27.pngPaper Cleaver;Writable;Auto-Repair;Tool Level: 01-Abused;+8 Attack Damage
 1Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 10tasksANDRetrievalTwilightForest/item.lampOfCinders-0.pngLamp of Cinders
-1ConsumeTwilightForest/item.lampOfCinders-0.pngLamp of Cinders
+1ConsumeTwilightForest/item.lampOfCinders-0.pngLamp of Cinders
 1

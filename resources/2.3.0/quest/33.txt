@@ -4,7 +4,7 @@ If you have to use wood other than oak to make your tables, you can convert them
 2TConstruct/manualBook-0.pngMaterials and You: Volume 1;By: Skyla
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDCraftingTConstruct/ToolStationBlock-1.pngPart Builder;Burn Time: 300
-1TConstruct/ToolStationBlock-10.pngStencil Table;Burn Time: 300
-1TConstruct/ToolStationBlock-0.pngTool Station;Burn Time: 300
-1TConstruct/ToolStationBlock-5.pngPattern Chest;Burn Time: 300
+1TConstruct/ToolStationBlock-10.pngStencil Table;Burn Time: 300
+1TConstruct/ToolStationBlock-0.pngTool Station;Burn Time: 300
+1TConstruct/ToolStationBlock-5.pngPattern Chest;Burn Time: 300
 1

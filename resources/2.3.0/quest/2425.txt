@@ -31,10 +31,10 @@ Also, if you already have crops in the area, they'll disappear until a block upd
 8minecraft/glowstone_dust-0.pngGlowstone Dust
 64Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5tasksANDRetrievalminecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
-1witchery/ingredient-90.pngToe of Frog
-1witchery/ingredient-24.pngWool of Bat
-1witchery/ingredient-25.pngTongue of Dog
-1witchery/ingredient-89.pngOwlet''s Wing
-1witchery/ingredient-10.pngAttuned Stone
-1witchery/ingredient-11.pngAttuned Stone
+1witchery/ingredient-90.pngToe of Frog
+1witchery/ingredient-24.pngWool of Bat
+1witchery/ingredient-25.pngTongue of Dog
+1witchery/ingredient-89.pngOwlet''s Wing
+1witchery/ingredient-10.pngAttuned Stone
+1witchery/ingredient-11.pngAttuned Stone
 1

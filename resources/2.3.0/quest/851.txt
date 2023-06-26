@@ -3,7 +3,7 @@
 1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
 8Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalIC2/itemCellEmpty-1.pngWater Cell
-12gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-12gregtech/gt.metaitem.01-30717.pngNitrogen Dioxide Cell;NO\u2082
-24Retrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+12gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+12gregtech/gt.metaitem.01-30717.pngNitrogen Dioxide Cell;NO\u2082
+24Retrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
 24

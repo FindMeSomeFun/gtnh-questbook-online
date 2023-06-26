@@ -9,9 +9,9 @@ Be careful, you'll get blindness II when holding it in your hand.ANDpre14101
 2dreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-2881.pngFlour
-2Thaumcraft/ItemResource-14.pngSalis Mundus
-2minecraft/sugar-0.pngSugar
-2DraconicEvolution/draconiumDust-0.pngDraconium Dust
-2witchery/bucketspirit-0.pngSpirit Bucket
-2Retrievaldreamcraft/item.MalformedSlush-0.pngMalformed Slush;I hope you are not going to eat this later.
+2Thaumcraft/ItemResource-14.pngSalis Mundus
+2minecraft/sugar-0.pngSugar
+2DraconicEvolution/draconiumDust-0.pngDraconium Dust
+2witchery/bucketspirit-0.pngSpirit Bucket
+2Retrievaldreamcraft/item.MalformedSlush-0.pngMalformed Slush;I hope you are not going to eat this later.
 2

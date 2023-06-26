@@ -13,9 +13,9 @@ The main bee breeding quests will require pure bees but you can use Ignoble or P
 32Forestry/beeCombs-0.pngHoney Comb
 32Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDOptionalForestry/beeDroneGE-0-Common.pngCommon Drone
-1Forestry/beePrincessGE-0-Common.pngCommon Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Forest.pngForest Drone
-1Forestry/beePrincessGE-0-Forest.pngForest Princess;Pristine Stock
-1RetrievalForestry/beePrincessGE-0-Cultivated.pngCultivated Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
+1Forestry/beePrincessGE-0-Common.pngCommon Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Forest.pngForest Drone
+1Forestry/beePrincessGE-0-Forest.pngForest Princess;Pristine Stock
+1RetrievalForestry/beePrincessGE-0-Cultivated.pngCultivated Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Cultivated.pngCultivated Drone
 1

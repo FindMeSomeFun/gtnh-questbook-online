@@ -5,5 +5,5 @@ You can add two more modifiers, but you'll need to read the tinkers book yoursel
 8harvestcraft/leafyfishsandwichItem-0.pngLeafy Fish Sandwich;harvestcraft:leafyfishsandwichItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalminecraft/gold_block-0.pngBlock of Gold
-1minecraft/diamond-0.pngDiamond;Burn Time: 102400
+1minecraft/diamond-0.pngDiamond;Burn Time: 102400
 1

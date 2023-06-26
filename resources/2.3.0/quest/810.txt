@@ -5,11 +5,11 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalGalacticraftCore/item.noseCone-0.pngNose Cone
-1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
-8GalacticraftCore/item.rocketFins-0.pngRocket Fins
-4GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
-1OptionalGalaxySpace/item.RocketControlComputer-1.pngRocket Control Computer Tier 1
-1GalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
-1GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister;Rocket Module
-2RetrievalGalacticraftCore/item.spaceship-0.pngTier 1 Rocket
+1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+8GalacticraftCore/item.rocketFins-0.pngRocket Fins
+4GalacticraftCore/item.engine-0.pngTier 1 Rocket Engine
+1OptionalGalaxySpace/item.RocketControlComputer-1.pngRocket Control Computer Tier 1
+1GalaxySpace/item.ModuleLander-0.pngLander Tier 1;Rocket Module
+1GalaxySpace/item.ModuleSmallFuelCanister-0.pngSmall Fuel Canister;Rocket Module
+2RetrievalGalacticraftCore/item.spaceship-0.pngTier 1 Rocket
 1

@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalGalacticraftCore/tile.cargo-4.pngCargo Unloader;Power required: 137 EU /s
-1GalacticraftCore/tile.cargo-0.pngCargo Loader;Power required: 137 EU /s
+1GalacticraftCore/tile.cargo-0.pngCargo Loader;Power required: 137 EU /s
 1

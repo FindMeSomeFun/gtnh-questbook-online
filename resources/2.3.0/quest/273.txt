@@ -3,5 +3,5 @@
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievaldreamcraft/item.SnowQueenBlood-0.pngSnow Queen Blood
-2Retrievalgregtech/gt.metaitem.01-27317.pngOsmiridium Screw;Ir\u2083Os
+2Retrievalgregtech/gt.metaitem.01-27317.pngOsmiridium Screw;Ir\u2083Os
 4

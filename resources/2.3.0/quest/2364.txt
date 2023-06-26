@@ -28,10 +28,10 @@ Storm - will cause a 2-3 minute storm. This is the most rare effect.ANDpre236
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 4tasksANDOptionalHardcoreEnderExpansion/spatial_dash_gem-0.pngSpatial Dash Gem
-1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
-32HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-16HardcoreEnderExpansion/essence-0.pngDragon Essence
-64HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-64gregtech/gt.metaitem.98-4.pngEnder Goo Cell
-6RetrievalHardcoreEnderExpansion/transference_gem-0.pngTransference Gem
+1HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
+32HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+16HardcoreEnderExpansion/essence-0.pngDragon Essence
+64HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+64gregtech/gt.metaitem.98-4.pngEnder Goo Cell
+6RetrievalHardcoreEnderExpansion/transference_gem-0.pngTransference Gem
 1

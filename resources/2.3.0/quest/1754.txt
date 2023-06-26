@@ -8,21 +8,21 @@ The power converter allows you to power it from your GregTech power grid, and th
 2ChoiceOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
 16enhancedlootbags/lootbag-46.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1tasksANDOptionalgregtech/gt.blockcasings-2.pngMV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
-2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-1OpenComputers/item-24.pngMicrochip
-1gregtech/gt.metaitem.02-21019.pngAluminium Rotor;Al
-2gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
-2RetrievalOpenComputers/case1-0.pngComputer Case;Hold [NONE] for material costs.
-1Consumegregtech/gt.metaitem.01-32601.pngElectric Motor
-1gregtech/gt.metaitem.01-24890.pngGlass Lens;SiO\u2082
-1gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
-1gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.metaitem.02-23035.pngSmall Copper Spring;Cu
-1OpenComputers/item-24.pngMicrochip
-3ConsumeOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
-2gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
-2OpenComputers/item-24.pngMicrochip
-2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-2gregtech/gt.blockmachines-22.pngMedium Voltage Transformer;HV -> MV (Use Soft Mallet to invert);Voltage IN: 512 (HV);Voltage OUT: 128 (MV);Amperage: 4;Capacity: 2,560 EU
+1gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
+2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1OpenComputers/item-24.pngMicrochip
+1gregtech/gt.metaitem.02-21019.pngAluminium Rotor;Al
+2gregtech/gt.metaitem.02-18019.pngAluminium Casing;Al
+2RetrievalOpenComputers/case1-0.pngComputer Case;Hold [NONE] for material costs.
+1Consumegregtech/gt.metaitem.01-32601.pngElectric Motor
+1gregtech/gt.metaitem.01-24890.pngGlass Lens;SiO\u2082
+1gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
+1gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.metaitem.02-23035.pngSmall Copper Spring;Cu
+1OpenComputers/item-24.pngMicrochip
+3ConsumeOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+2gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
+2OpenComputers/item-24.pngMicrochip
+2gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+2gregtech/gt.blockmachines-22.pngMedium Voltage Transformer;HV -> MV (Use Soft Mallet to invert);Voltage IN: 512 (HV);Voltage OUT: 128 (MV);Amperage: 4;Capacity: 2,560 EU
 1

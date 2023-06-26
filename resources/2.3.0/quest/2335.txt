@@ -15,6 +15,6 @@ Taglock kits are made by crafting a Glass Bottle with a Bone Needle.
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5tasksANDOptionalwitchery/ingredient-7.pngBone Needle
-16minecraft/glass_bottle-0.pngGlass Bottle
-16Retrievalwitchery/taglockkit-0.pngTaglock Kit;Not bound
+16minecraft/glass_bottle-0.pngGlass Bottle
+16Retrievalwitchery/taglockkit-0.pngTaglock Kit;Not bound
 16

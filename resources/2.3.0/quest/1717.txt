@@ -5,6 +5,6 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-5391.pngCrushed Quantium Ore;Qt
-192gregtech/gt.metaitem.01-5028.pngCrushed Titanium Ore;Ti
-192gregtech/gt.metaitem.01-5324.pngCrushed Naquadah Ore;Nq
+192gregtech/gt.metaitem.01-5028.pngCrushed Titanium Ore;Ti
+192gregtech/gt.metaitem.01-5324.pngCrushed Naquadah Ore;Nq
 192

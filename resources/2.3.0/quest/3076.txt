@@ -9,6 +9,6 @@ A farm for Glowing Coral or Glowstone should also help you mass produce other re
 1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalBiomesOPlenty/coral1-15.pngGlowing Coral
-32OptionalIC2/itemCellEmpty-3.pngUuMatter Cell
-1Retrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
+32OptionalIC2/itemCellEmpty-3.pngUuMatter Cell
+1Retrievalgregtech/gt.metaitem.01-2318.pngSunnarium Dust;Su
 4

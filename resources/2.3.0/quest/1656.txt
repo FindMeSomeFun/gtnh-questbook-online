@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionaldreamcraft/item.TheBigEgg-0.pngThe Big Egg
-1IC2/itemUran238-0.pngUranium 238
-64gregtech/gt.metaitem.98-2.pngMutagen Cell
-1Retrievaldreamcraft/item.MutatedEgg-0.pngMutated Egg
+1IC2/itemUran238-0.pngUranium 238
+64gregtech/gt.metaitem.98-2.pngMutagen Cell
+1Retrievaldreamcraft/item.MutatedEgg-0.pngMutated Egg
 1

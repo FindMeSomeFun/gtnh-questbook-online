@@ -18,5 +18,5 @@ It is possible to remove Curses by using a Potion of Purity.ANDpre23720Hard
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
 6tasksANDRetrievalHardcoreEnderExpansion/living_matter-0.pngLiving Matter
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
 4

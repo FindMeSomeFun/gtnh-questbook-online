@@ -7,8 +7,8 @@ You'll need to make a couple of tungstensteel ingots to make these plates. You c
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalGalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
-11gregtech/gt.metaitem.01-17340.pngMeteoric Iron Plate;SpFe
-22gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
-6Optionalgregtech/gt.metaitem.01-32463.pngHeavy Duty Alloy Ingot T2;Used to make Heavy Duty Plates T2
-11RetrievalGalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
+11gregtech/gt.metaitem.01-17340.pngMeteoric Iron Plate;SpFe
+22gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
+6Optionalgregtech/gt.metaitem.01-32463.pngHeavy Duty Alloy Ingot T2;Used to make Heavy Duty Plates T2
+11RetrievalGalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
 11

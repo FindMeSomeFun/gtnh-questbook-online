@@ -8,7 +8,7 @@ After you reach stainless steel in HV you can make these tools that last forever
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalharvestcraft/juicerItem-0.pngJuicer
-1harvestcraft/bakewareItem-0.pngBakeware
-1harvestcraft/mortarandpestleItem-0.pngMortar and Pestle
-1harvestcraft/cuttingboardItem-0.pngCutting Board
+1harvestcraft/bakewareItem-0.pngBakeware
+1harvestcraft/mortarandpestleItem-0.pngMortar and Pestle
+1harvestcraft/cuttingboardItem-0.pngCutting Board
 1

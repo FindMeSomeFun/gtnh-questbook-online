@@ -20,5 +20,5 @@ For now, just stockpile the UU matter. You need data orbs to use the replicator,
 2enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksORRetrievalgregtech/gt.blockmachines-461.pngBasic Mass Fabricator;UUM = Matter * Fabrication Squared;Voltage IN: 32 (LV);Capacity: 16,384 EU
-2Retrievalgregtech/gt.blockmachines-462.pngAdvanced Mass Fabricator;UUM = Matter * Fabrication Squared;Voltage IN: 128 (MV);Capacity: 65,536 EU
+2Retrievalgregtech/gt.blockmachines-462.pngAdvanced Mass Fabricator;UUM = Matter * Fabrication Squared;Voltage IN: 128 (MV);Capacity: 65,536 EU
 1

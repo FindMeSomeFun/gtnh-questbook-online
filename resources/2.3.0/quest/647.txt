@@ -9,9 +9,9 @@ Hint: This jetpack can't fly higher than Y-128.ANDpre6460ProjRedExpansion/p
 1enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalminecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
-1ProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
-4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2gregtech/gt.blockmachines-1422.png4x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
-1gregtech/gt.metaitem.01-17811.pngGlowstone Plate
-1RetrievalProjRedExpansion/projectred.expansion.jetpack-6400.pngJetpack;Durability: 0 / 6400;Protection: 8;Durability: 0/6400
+1ProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
+4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+2gregtech/gt.blockmachines-1422.png4x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
+1gregtech/gt.metaitem.01-17811.pngGlowstone Plate
+1RetrievalProjRedExpansion/projectred.expansion.jetpack-6400.pngJetpack;Durability: 0 / 6400;Protection: 8;Durability: 0/6400
 1

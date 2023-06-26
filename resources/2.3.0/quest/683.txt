@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 2tasksANDOptionalBiomesOPlenty/mudball-0.pngMud Ball
-24CraftingBiomesOPlenty/helmetMud-0.pngMuddy Helmet;Protection: 1;Durability: 22/22
-1BiomesOPlenty/chestplateMud-0.pngMuddy Chestplate;Protection: 1;Durability: 32/32
-1BiomesOPlenty/leggingsMud-0.pngMuddy Leggings;Protection: 1;Durability: 30/30
-1BiomesOPlenty/bootsMud-0.pngMuddy Boots;Protection: 1;Durability: 26/26
+24CraftingBiomesOPlenty/helmetMud-0.pngMuddy Helmet;Protection: 1;Durability: 22/22
+1BiomesOPlenty/chestplateMud-0.pngMuddy Chestplate;Protection: 1;Durability: 32/32
+1BiomesOPlenty/leggingsMud-0.pngMuddy Leggings;Protection: 1;Durability: 30/30
+1BiomesOPlenty/bootsMud-0.pngMuddy Boots;Protection: 1;Durability: 26/26
 1

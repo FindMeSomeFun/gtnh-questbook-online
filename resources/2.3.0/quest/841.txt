@@ -3,6 +3,6 @@
 1gregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
-24gregtech/gt.metaitem.01-30641.pngEthenone Cell;C\u2082H\u2082O
-3Retrievalgregtech/gt.metaitem.01-30639.pngTetranitromethane Cell;CN\u2084O\u2088
+24gregtech/gt.metaitem.01-30641.pngEthenone Cell;C\u2082H\u2082O
+3Retrievalgregtech/gt.metaitem.01-30639.pngTetranitromethane Cell;CN\u2084O\u2088
 6

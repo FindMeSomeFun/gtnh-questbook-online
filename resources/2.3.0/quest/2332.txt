@@ -7,8 +7,8 @@ Now let's craft some Pressure Plates and Buttons to open these heavy iron doors.
 8Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalminecraft/stone_slab-0.pngStone Slab
-10gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-20gregtech/gt.metaitem.02-24032.pngIron Spring;Fe
-5Retrievalminecraft/stone_pressure_plate-0.pngPressure Plate
-10Retrievalminecraft/stone_button-0.pngButton
+10gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+20gregtech/gt.metaitem.02-24032.pngIron Spring;Fe
+5Retrievalminecraft/stone_pressure_plate-0.pngPressure Plate
+10Retrievalminecraft/stone_button-0.pngButton
 10

@@ -7,8 +7,8 @@ You also get lead, zinc, silver, sulfur, and water back from the lead-zinc solut
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-6839.pngPurified Sphalerite Ore;ZnS
-9gregtech/gt.metaitem.01-6830.pngPurified Galena Ore;PbS
-27gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-36Optionalgregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
-36Retrievalgregtech/gt.metaitem.01-2056.pngIndium Dust;In
+9gregtech/gt.metaitem.01-6830.pngPurified Galena Ore;PbS
+27gregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+36Optionalgregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
+36Retrievalgregtech/gt.metaitem.01-2056.pngIndium Dust;In
 1

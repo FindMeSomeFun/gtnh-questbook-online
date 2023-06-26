@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalwitchery/ingredient-107.pngWitchcraft: Symbology
-1witchery/ingredient-47.pngWitchcraft: Distilling
-1witchery/ingredient-48.pngWitchcraft: Circle Magic
-1witchery/ingredient-49.pngWitchcraft: Brews & Infusions
+1witchery/ingredient-47.pngWitchcraft: Distilling
+1witchery/ingredient-48.pngWitchcraft: Circle Magic
+1witchery/ingredient-49.pngWitchcraft: Brews & Infusions
 1

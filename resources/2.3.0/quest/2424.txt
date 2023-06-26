@@ -5,9 +5,9 @@ After collecting the items, bind your familiar using them. Make sure you have en
 Now go murder a few of your new friends and tear of their Owlet's Wings, and cut off their Toe of Frog. Remember to use an Arthana. The next step needs a Seer's Stone.ANDpre24230witchery/ingredient-89.pngrewardsItemenhancedlootbags/lootbag-54.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDRetrievalwitchery/ingredient-37.pngTear of the Goddess
-1witchery/ingredient-36.pngOdour of Purity
-1witchery/ingredient-34.pngWhiff of Magic
-1minecraft/diamond-0.pngDiamond;Burn Time: 102400
-1witchery/ingredient-80.pngDemonic Blood
-1Huntmobs/witchery-toad-.pngToad1Huntmobs/witchery-owl-.pngOwl
+1witchery/ingredient-36.pngOdour of Purity
+1witchery/ingredient-34.pngWhiff of Magic
+1minecraft/diamond-0.pngDiamond;Burn Time: 102400
+1witchery/ingredient-80.pngDemonic Blood
+1Huntmobs/witchery-toad-.pngToad1Huntmobs/witchery-owl-.pngOwl
 1

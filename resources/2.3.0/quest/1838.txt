@@ -2,6 +2,6 @@
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDRetrievalTwilightForest/tile.TFSapling-1.pngCanopy Tree Sapling
-16TwilightForest/tile.TFFirefly-0.pngFirefly
-4TwilightForest/tile.TFLog-1.pngCanopy Tree Wood;Burn Time: 300
+16TwilightForest/tile.TFFirefly-0.pngFirefly
+4TwilightForest/tile.TFLog-1.pngCanopy Tree Wood;Burn Time: 300
 64

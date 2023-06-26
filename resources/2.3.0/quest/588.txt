@@ -4,6 +4,6 @@
 2Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 25tasksANDRetrievalgregtech/gt.blockores-530.pngApatite Ore;Ca\u2085(PO\u2084)\u2083Cl
-64gregtech/gt.blockores-534.pngTricalcium Phosphate Ore;Ca\u2083(PO\u2084)\u2082
-16gregtech/gt.blockores-607.pngPyrochlore Ore;Ca\u2082Nb\u2082O\u2087
+64gregtech/gt.blockores-534.pngTricalcium Phosphate Ore;Ca\u2083(PO\u2084)\u2082
+16gregtech/gt.blockores-607.pngPyrochlore Ore;Ca\u2082Nb\u2082O\u2087
 16

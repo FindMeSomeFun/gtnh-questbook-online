@@ -7,12 +7,12 @@
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5tasksANDOptionalEnderIO/item.darkSteel_helmet-0.pngDark Helm;Protection: 2;Durability: 385/385
-1EnderIO/item.darkSteel_chestplate-0.pngDark Plate;Protection: 6;Durability: 560/560
-1EnderIO/item.darkSteel_leggings-0.pngDark Leggings;Protection: 5;Durability: 525/525
-1EnderIO/item.darkSteel_boots-0.pngDark Boots;Protection: 2;Durability: 455/455
-1OptionalEnderIO/itemMaterial-6.pngVibrant Crystal
-4RetrievalEnderIO/item.darkSteel_helmet-0-upgraded.pngDark Helm;Protection: 2;Durability: 385/385;Empowered
-1EnderIO/item.darkSteel_chestplate-0-upgraded.pngDark Plate;Protection: 6;Durability: 560/560;Empowered
-1EnderIO/item.darkSteel_leggings-0-upgraded.pngDark Leggings;Protection: 5;Durability: 525/525;Empowered
-1EnderIO/item.darkSteel_boots-0-upgraded.pngDark Boots;Protection: 2;Durability: 455/455;Empowered
+1EnderIO/item.darkSteel_chestplate-0.pngDark Plate;Protection: 6;Durability: 560/560
+1EnderIO/item.darkSteel_leggings-0.pngDark Leggings;Protection: 5;Durability: 525/525
+1EnderIO/item.darkSteel_boots-0.pngDark Boots;Protection: 2;Durability: 455/455
+1OptionalEnderIO/itemMaterial-6.pngVibrant Crystal
+4RetrievalEnderIO/item.darkSteel_helmet-0-upgraded.pngDark Helm;Protection: 2;Durability: 385/385;Empowered
+1EnderIO/item.darkSteel_chestplate-0-upgraded.pngDark Plate;Protection: 6;Durability: 560/560;Empowered
+1EnderIO/item.darkSteel_leggings-0-upgraded.pngDark Leggings;Protection: 5;Durability: 525/525;Empowered
+1EnderIO/item.darkSteel_boots-0-upgraded.pngDark Boots;Protection: 2;Durability: 455/455;Empowered
 1

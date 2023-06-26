@@ -5,5 +5,5 @@ You can share a wireless network with others by adding them to your network with
 You cannot connect wires to these blocks. These are also designed to be highly lag efficient, meaning EU is added at large intervals to prevent needless calculations from occurring. This will also save you some TPS lag from vast wire networks.
 
 §3If your calculator is giving up, 2^(2^31) is a number with 646,456,994 digits.ANDpre32401gregtech/gt.metaitem.01-11588.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-287.pngULV Wireless Energy Dynamo;Stores energy globally in a network, up to 2^(2^31) EU.;Does not connect to wires. This block accepts EU into the network.;Author: Colen;Amperage: 2;Capacity: 64,000 EU
-1gregtech/gt.blockmachines-206.pngULV Wireless Energy Hatch;Stores energy globally in a network, up to 2^(2^31) EU.;Does not connect to wires. This block withdraws EU from the network.;Author: Colen;Voltage IN: 8 (ULV);Capacity: 64,000 EU
+1gregtech/gt.blockmachines-206.pngULV Wireless Energy Hatch;Stores energy globally in a network, up to 2^(2^31) EU.;Does not connect to wires. This block withdraws EU from the network.;Author: Colen;Voltage IN: 8 (ULV);Capacity: 64,000 EU
 1

@@ -6,5 +6,5 @@
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalIC2/itemHarz-0.pngSticky Resin
-30Retrievalgregtech/gt.metaitem.01-30726.pngRefined Glue Cell;No Horses were harmed for the Production
+30Retrievalgregtech/gt.metaitem.01-30726.pngRefined Glue Cell;No Horses were harmed for the Production
 3

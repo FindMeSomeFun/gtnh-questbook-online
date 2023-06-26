@@ -7,5 +7,5 @@
 5dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 5dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5tasksANDRetrievalminecraft/sapling-1.pngSpruce Sapling;Burn Time: 100
-4minecraft/sapling-3.pngJungle Sapling;Burn Time: 100
+4minecraft/sapling-3.pngJungle Sapling;Burn Time: 100
 4

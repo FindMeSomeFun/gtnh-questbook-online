@@ -12,5 +12,5 @@ While it's now possible to build a sideways EBF, or even build one into the floo
 1gregtech/gt.metatool.01-16-Cobalt-Cobalt.pngWrench;Durability: 51,200 / 51,200;Cobalt lvl 3;Attack Damage: 6.0;Mining Speed: 8.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metatool.01-16.pngWrench;Durability: 0 / 0;NULL lvl 0;Attack Damage: 3.0;Mining Speed: 1.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
-1structurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector;Triggers Constructable Interface;Shows multiblock construction schematic,;use on the multiblock controller.;(Sneak use on controller to build);Quantity of schematics in item stack affects tier/mode/type
+1structurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector;Triggers Constructable Interface;Shows multiblock construction schematic,;use on the multiblock controller.;(Sneak use on controller to build);Quantity of schematics in item stack affects tier/mode/type
 1

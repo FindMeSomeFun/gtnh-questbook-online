@@ -28,7 +28,7 @@ https://gtnh.miraheze.org/wiki/AE2FC
 1ae2fc/part_fluid_import-0.pngME Fluid Import Bus
 1ae2fc/part_fluid_export-0.pngME Fluid Export Bus
 1tasksANDRetrievalae2fc/fluid_discretizer-0.pngFluid Discretizer
-1ae2fc/fluid_interface-0.pngME Dual Interface
-1ae2fc/part_fluid_pattern_terminal-0.pngME Fluid Pattern Terminal
-1ae2fc/ingredient_buffer-0.pngIngredient Buffer
+1ae2fc/fluid_interface-0.pngME Dual Interface
+1ae2fc/part_fluid_pattern_terminal-0.pngME Fluid Pattern Terminal
+1ae2fc/ingredient_buffer-0.pngIngredient Buffer
 1

@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5tasksANDOptionalGalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
-24RetrievalGalacticraftMars/item.titanium_helmet-0.pngTitanium Helmet;Protection: 5;Durability: 286/286
-1GalacticraftMars/item.titanium_chestplate-0.pngTitanium Chestplate;Protection: 10;Durability: 416/416
-1GalacticraftMars/item.titanium_leggings-0.pngTitanium Leggings;Protection: 7;Durability: 390/390
-1GalacticraftMars/item.titanium_boots-0.pngTitanium Boots;Protection: 5;Durability: 338/338
+24RetrievalGalacticraftMars/item.titanium_helmet-0.pngTitanium Helmet;Protection: 5;Durability: 286/286
+1GalacticraftMars/item.titanium_chestplate-0.pngTitanium Chestplate;Protection: 10;Durability: 416/416
+1GalacticraftMars/item.titanium_leggings-0.pngTitanium Leggings;Protection: 7;Durability: 390/390
+1GalacticraftMars/item.titanium_boots-0.pngTitanium Boots;Protection: 5;Durability: 338/338
 1

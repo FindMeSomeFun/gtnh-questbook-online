@@ -6,13 +6,13 @@ It's complicated to explain, so check a wiki for details on how to actually do i
 8enhancedlootbags/lootbag-18.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBloodIII-0.pngCoin "The Vampire 1000"
 1tasksANDRetrievalAWWayofTime/blockCrystalBelljar-0-magicales.pngCrystal Belljar;Current Contents:;- magicales: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-potentia.pngCrystal Belljar;Current Contents:;- potentia: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-incendium.pngCrystal Belljar;Current Contents:;- incendium: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-terrae.pngCrystal Belljar;Current Contents:;- terrae: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-tenebrae.pngCrystal Belljar;Current Contents:;- tenebrae: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-sanctus.pngCrystal Belljar;Current Contents:;- sanctus: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-aether.pngCrystal Belljar;Current Contents:;- aether: 16000/16k AR;Glass-Tier: HV
-1AWWayofTime/blockCrystalBelljar-0-aquasalus.pngCrystal Belljar;Current Contents:;- aquasalus: 16000/16k AR;Glass-Tier: HV
-1RetrievalAWWayofTime/ritualStone-0.pngRitual Stone
-128OptionalAWWayofTime/activationCrystal-1.pngAwakened Activation Crystal;Activates more powerful rituals
+1AWWayofTime/blockCrystalBelljar-0-potentia.pngCrystal Belljar;Current Contents:;- potentia: 16000/16k AR;Glass-Tier: HV
+1AWWayofTime/blockCrystalBelljar-0-incendium.pngCrystal Belljar;Current Contents:;- incendium: 16000/16k AR;Glass-Tier: HV
+1AWWayofTime/blockCrystalBelljar-0-terrae.pngCrystal Belljar;Current Contents:;- terrae: 16000/16k AR;Glass-Tier: HV
+1AWWayofTime/blockCrystalBelljar-0-tenebrae.pngCrystal Belljar;Current Contents:;- tenebrae: 16000/16k AR;Glass-Tier: HV
+1AWWayofTime/blockCrystalBelljar-0-sanctus.pngCrystal Belljar;Current Contents:;- sanctus: 16000/16k AR;Glass-Tier: HV
+1AWWayofTime/blockCrystalBelljar-0-aether.pngCrystal Belljar;Current Contents:;- aether: 16000/16k AR;Glass-Tier: HV
+1AWWayofTime/blockCrystalBelljar-0-aquasalus.pngCrystal Belljar;Current Contents:;- aquasalus: 16000/16k AR;Glass-Tier: HV
+1RetrievalAWWayofTime/ritualStone-0.pngRitual Stone
+128OptionalAWWayofTime/activationCrystal-1.pngAwakened Activation Crystal;Activates more powerful rituals
 1

@@ -4,5 +4,5 @@
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalminecraft/iron_ingot-0.pngIron Ingot
-16RetrievalThaumcraft/ItemResource-2.pngThaumium Ingot
+16RetrievalThaumcraft/ItemResource-2.pngThaumium Ingot
 16

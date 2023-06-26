@@ -2,8 +2,8 @@
 
 You get just over 13 ingots' worth of Potassium back, you'll want to use the fluid solidifier and then macerate it to use it again.ANDpre23051bartworks/gt.bwMetaGeneratedcell-61.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-61.pngRhodium Sulfate Cell;Added by BartWorks
-11IC2/itemCellEmpty-1.pngWater Cell
-10Retrievalbartworks/gt.bwMetaGeneratedcell-62.pngRhodium Sulfate Solution Cell;Added by BartWorks
-11bartworks/gt.bwMetaGenerateddustTiny-60.pngTiny Pile of Leach Residue Dust;??IrOsRu??;Added by BartWorks
-10gregtech/gt.metaitem.99-25.pngMolten Potassium Cell;K
+11IC2/itemCellEmpty-1.pngWater Cell
+10Retrievalbartworks/gt.bwMetaGeneratedcell-62.pngRhodium Sulfate Solution Cell;Added by BartWorks
+11bartworks/gt.bwMetaGenerateddustTiny-60.pngTiny Pile of Leach Residue Dust;??IrOsRu??;Added by BartWorks
+10gregtech/gt.metaitem.99-25.pngMolten Potassium Cell;K
 13

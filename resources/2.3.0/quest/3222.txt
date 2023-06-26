@@ -3,8 +3,8 @@
 After placing the flower down, you can use put down stone and wood in the 8 tiles around it, and after a certain time they will be converted.ANDpre32211Botania/altar-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5tasksANDOptionalBotania/mushroom-0.pngWhite Shimmering Mushroom;May work as an Infusion Stabilizer
-1minecraft/red_flower-6.pngWhite Tulip
-3RetrievalBotania/specialFlower-0-puredaisy.pngPure Daisy;Miscellaneous Flower;What color do you want to be?
-1RetrievalBotania/livingrock-0.pngLivingrock;Mobs cannot Spawn on this Block
-8Botania/livingwood-0.pngLivingwood;Mobs cannot Spawn on this Block;Burn Time: 300
+1minecraft/red_flower-6.pngWhite Tulip
+3RetrievalBotania/specialFlower-0-puredaisy.pngPure Daisy;Miscellaneous Flower;What color do you want to be?
+1RetrievalBotania/livingrock-0.pngLivingrock;Mobs cannot Spawn on this Block
+8Botania/livingwood-0.pngLivingwood;Mobs cannot Spawn on this Block;Burn Time: 300
 8

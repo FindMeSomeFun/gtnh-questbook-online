@@ -4,11 +4,11 @@ Is this worth it? Is there any enemy worthy of using the buffs this gives on? Th
 1enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDOptionaldreamcraft/item.Marshmallow-0.pngSemi-stable Marshmallow;I have a very wired feeling.
-1Optionalharvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
-1harvestcraft/sausageinbreadItem-0.pngSausage in Bread;harvestcraft:sausageinbreadItem
-1harvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
-1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
-1harvestcraft/beefwellingtonItem-0.pngBeef Wellington;harvestcraft:beefwellingtonItem
-1harvestcraft/deluxechickencurryItem-0.pngDeluxe Chicken Curry;harvestcraft:deluxechickencurryItem
-1RetrievalDraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow;DraconicEvolution:dezilsMarshmallow
+1Optionalharvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
+1harvestcraft/sausageinbreadItem-0.pngSausage in Bread;harvestcraft:sausageinbreadItem
+1harvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
+1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
+1harvestcraft/beefwellingtonItem-0.pngBeef Wellington;harvestcraft:beefwellingtonItem
+1harvestcraft/deluxechickencurryItem-0.pngDeluxe Chicken Curry;harvestcraft:deluxechickencurryItem
+1RetrievalDraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow;DraconicEvolution:dezilsMarshmallow
 1

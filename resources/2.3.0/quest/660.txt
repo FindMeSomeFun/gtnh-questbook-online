@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalTGregworks/tGregToolPartLargePlate-1594.pngDiamond Large Plate;Durability: 960;Mining Speed: 8;Attack: 2 Hearts;Parts can be replaced
-2TGregworks/tGregToolPartToughBind-1594.pngDiamond Tough Binding;Durability Modifier: 3.5x;Parts can be replaced
-1TGregworks/tGregToolPartToughRod-1594.pngDiamond Tough Tool Rod;Durability Modifier: 3.5x;Parts can be replaced
-2Craftingbattlegear2/shield.diamond-0.pngDiamond Shield;5 s Block
+2TGregworks/tGregToolPartToughBind-1594.pngDiamond Tough Binding;Durability Modifier: 3.5x;Parts can be replaced
+1TGregworks/tGregToolPartToughRod-1594.pngDiamond Tough Tool Rod;Durability Modifier: 3.5x;Parts can be replaced
+2Craftingbattlegear2/shield.diamond-0.pngDiamond Shield;5 s Block
 1

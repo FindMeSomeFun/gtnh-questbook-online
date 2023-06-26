@@ -4,6 +4,6 @@
 16enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-28305.pngSteel Ring;Fe\u2085\u2080C
-4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-8Retrievalgregtech/gt.metaitem.03-32014.pngSmall Coil;Basic Electronic Component
+4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+8Retrievalgregtech/gt.metaitem.03-32014.pngSmall Coil;Basic Electronic Component
 8

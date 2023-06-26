@@ -5,12 +5,12 @@
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5tasksANDOptionalEnderIO/item.darkSteel_sword-0.pngThe Ender;+6 Attack Damage;Durability: 1561/1561
-1EnderIO/item.darkSteel_pickaxe-0.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561
-1EnderIO/item.darkSteel_axe-0.pngDark Axe;+5 Attack Damage;Durability: 1561/1561
-1EnderIO/item.darkSteel_shears-0.pngDark Shears
-1OptionalEnderIO/itemMaterial-6.pngVibrant Crystal
-4RetrievalEnderIO/item.darkSteel_sword-0-upgraded.pngThe Ender;+6 Attack Damage;Durability: 1561/1561;Empowered
-1EnderIO/item.darkSteel_pickaxe-0-upgraded.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561;Empowered
-1EnderIO/item.darkSteel_axe-0-upgraded.pngDark Axe;+5 Attack Damage;Durability: 1561/1561;Empowered
-1EnderIO/item.darkSteel_shears-0-upgraded.pngDark Shears;Empowered
+1EnderIO/item.darkSteel_pickaxe-0.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561
+1EnderIO/item.darkSteel_axe-0.pngDark Axe;+5 Attack Damage;Durability: 1561/1561
+1EnderIO/item.darkSteel_shears-0.pngDark Shears
+1OptionalEnderIO/itemMaterial-6.pngVibrant Crystal
+4RetrievalEnderIO/item.darkSteel_sword-0-upgraded.pngThe Ender;+6 Attack Damage;Durability: 1561/1561;Empowered
+1EnderIO/item.darkSteel_pickaxe-0-upgraded.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561;Empowered
+1EnderIO/item.darkSteel_axe-0-upgraded.pngDark Axe;+5 Attack Damage;Durability: 1561/1561;Empowered
+1EnderIO/item.darkSteel_shears-0-upgraded.pngDark Shears;Empowered
 1

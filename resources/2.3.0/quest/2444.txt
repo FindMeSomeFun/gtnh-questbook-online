@@ -14,5 +14,5 @@ This setup is lag-free in the pipe blocks, so it's useful in your base as well i
 2irontank/goldTank-0.pngGold Tank;Glass-Tier: HV;Stores up to 48 Buckets of one Liquid Not portable, use a dolly
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-2700.pngLong Distance Fluid Pipeline;Sends fluids over long distances
-2Retrievalgregtech/gt.block.longdistancepipe-0.pngLong Distance Fluid Pipeline Pipe;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2Retrievalgregtech/gt.block.longdistancepipe-0.pngLong Distance Fluid Pipeline Pipe;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 64

@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-17086.pngGold Plate;Au
-24Craftingminecraft/golden_helmet-0.pngGolden Helmet;Protection: 2;Durability: 77/77
-1minecraft/golden_chestplate-0.pngGolden Chestplate;Protection: 5;Durability: 112/112
-1minecraft/golden_leggings-0.pngGolden Leggings;Protection: 3;Durability: 105/105
-1minecraft/golden_boots-0.pngGolden Boots;Protection: 1;Durability: 91/91
+24Craftingminecraft/golden_helmet-0.pngGolden Helmet;Protection: 2;Durability: 77/77
+1minecraft/golden_chestplate-0.pngGolden Chestplate;Protection: 5;Durability: 112/112
+1minecraft/golden_leggings-0.pngGolden Leggings;Protection: 3;Durability: 105/105
+1minecraft/golden_boots-0.pngGolden Boots;Protection: 1;Durability: 91/91
 1

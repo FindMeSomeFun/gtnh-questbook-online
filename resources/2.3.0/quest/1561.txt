@@ -8,7 +8,7 @@ Purified Milk is an ingredient in the Brew of Sleeping.ANDpre15590witchery/
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDOptionalminecraft/milk_bucket-0.pngMilk
-1witchery/ingredient-36.pngOdour of Purity
-1witchery/ingredient-27.pngClay Jar
-3Retrievalwitchery/ingredient-105.pngPurified Milk
+1witchery/ingredient-36.pngOdour of Purity
+1witchery/ingredient-27.pngClay Jar
+3Retrievalwitchery/ingredient-105.pngPurified Milk
 3

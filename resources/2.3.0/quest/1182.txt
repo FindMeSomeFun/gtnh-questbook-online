@@ -7,6 +7,6 @@
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalRailcraft/machine.gamma-4.pngFluid Loader;Loads Fluids into Carts;- Place 1-2 blocks above Track -;Mobs cannot Spawn on this Block
-1Railcraft/machine.gamma-5.pngFluid Unloader;Unloads Fluids from Carts;- Place under Track -;Mobs cannot Spawn on this Block
-1RetrievalRailcraft/track-20176-locking.pngLocking Track;Stops and holds carts;- Hit with Crowbar to change mode -;- Apply Redstone to enable -
+1Railcraft/machine.gamma-5.pngFluid Unloader;Unloads Fluids from Carts;- Place under Track -;Mobs cannot Spawn on this Block
+1RetrievalRailcraft/track-20176-locking.pngLocking Track;Stops and holds carts;- Hit with Crowbar to change mode -;- Apply Redstone to enable -
 2

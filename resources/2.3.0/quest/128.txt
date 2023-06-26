@@ -4,6 +4,6 @@
 4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot;(Fe\u2085\u2080C)CSi
-8Retrievalgregtech/gt.metaitem.01-11369.pngConductive Iron Ingot;((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg
-8Retrievalgregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot;Fe(BeK\u2084N\u2085Ma\u2086)((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)
+8Retrievalgregtech/gt.metaitem.01-11369.pngConductive Iron Ingot;((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg
+8Retrievalgregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot;Fe(BeK\u2084N\u2085Ma\u2086)((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)
 8

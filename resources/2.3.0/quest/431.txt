@@ -4,7 +4,7 @@
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
 2tasksANDRetrievalAWWayofTime/boundHelmet-0.pngBound Helmet;Devilish Protection;Protection: 2;Durability: 1000/1000
-1AWWayofTime/boundPlate-0.pngBound Plate;Devilish Protection;Protection: 5;Durability: 1000/1000
-1AWWayofTime/boundLeggings-0.pngBound Leggings;Devilish Protection;Protection: 3;Durability: 1000/1000
-1AWWayofTime/boundBoots-0.pngBound Boots;Devilish Protection;Protection: 1;Durability: 1000/1000
+1AWWayofTime/boundPlate-0.pngBound Plate;Devilish Protection;Protection: 5;Durability: 1000/1000
+1AWWayofTime/boundLeggings-0.pngBound Leggings;Devilish Protection;Protection: 3;Durability: 1000/1000
+1AWWayofTime/boundBoots-0.pngBound Boots;Devilish Protection;Protection: 1;Durability: 1000/1000
 1

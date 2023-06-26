@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDRetrievalwitchery/chalkritual-0.pngRitual Chalk
-1witchery/chalkheart-0.pngGolden Chalk
-1witchery/chalkinfernal-0.pngInfernal Chalk
-1witchery/chalkotherwhere-0.pngOtherwhere Chalk
-1witchery/circletalisman-0.pngCircle Talisman
+1witchery/chalkheart-0.pngGolden Chalk
+1witchery/chalkinfernal-0.pngInfernal Chalk
+1witchery/chalkotherwhere-0.pngOtherwhere Chalk
+1witchery/circletalisman-0.pngCircle Talisman
 1

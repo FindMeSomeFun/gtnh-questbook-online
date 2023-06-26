@@ -2,8 +2,8 @@
 2enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-32101.pngSteel Minecart Wheels;To get things rolling
-2gregtech/gt.metaitem.01-23500.pngDiamond Rod;C
-3gregtech/gt.metaitem.01-25874.pngPolyethylene Round;CH\u2082
-2gregtech/gt.metaitem.01-17506.pngNether Star Plate
-1RetrievalJABBA/moverDiamond-0.pngDiamond dolly;< Empty >
+2gregtech/gt.metaitem.01-23500.pngDiamond Rod;C
+3gregtech/gt.metaitem.01-25874.pngPolyethylene Round;CH\u2082
+2gregtech/gt.metaitem.01-17506.pngNether Star Plate
+1RetrievalJABBA/moverDiamond-0.pngDiamond dolly;< Empty >
 1

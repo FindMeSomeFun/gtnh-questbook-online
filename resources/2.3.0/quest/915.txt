@@ -6,5 +6,5 @@
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksORHuntmobs/Enderman-.pngEnderman
-4Huntmobs/SpecialMobs-SpecialEnderman-.pngSpecial Enderman
+4Huntmobs/SpecialMobs-SpecialEnderman-.pngSpecial Enderman
 6

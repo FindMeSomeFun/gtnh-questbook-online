@@ -6,8 +6,8 @@ There's more ways to get alumina now that you're in MV, enough that it's basical
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-2805.pngClay Dust;Na\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
-832Retrievalgregtech/gt.metaitem.01-2697.pngAlumina Dust;Al\u2082O\u2083
-128gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
-128gregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
-128gregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
+832Retrievalgregtech/gt.metaitem.01-2697.pngAlumina Dust;Al\u2082O\u2083
+128gregtech/gt.metaitem.01-2837.pngSilicon Dioxide Dust;SiO\u2082
+128gregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
+128gregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
 64

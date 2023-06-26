@@ -12,7 +12,7 @@ Take care using the Grapple near a Nether Portal, End Portal or at a low height 
 8enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.02-14341.pngMeteoric Steel Arrow Head;SpFe\u2085\u2080C
-1dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
-3gregtech/gt.metaitem.01-28341.pngMeteoric Steel Ring;SpFe\u2085\u2080C
-1RetrievalGalacticraftMars/item.grapple-0.pngGrapple;Durability: 384/384
+1dreamcraft/item.MeteoricIronString-0.pngMeteoric Iron String
+3gregtech/gt.metaitem.01-28341.pngMeteoric Steel Ring;SpFe\u2085\u2080C
+1RetrievalGalacticraftMars/item.grapple-0.pngGrapple;Durability: 384/384
 1

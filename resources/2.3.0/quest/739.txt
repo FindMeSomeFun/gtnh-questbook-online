@@ -15,8 +15,8 @@ You can find more complex tutorials on youtube for autocrafting.ANDpre7370P
 16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe
-8ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
-4ProjRedTransportation/projectred.transportation.pipe-4.pngRouted Request pipe
-1RetrievalProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
-1ProjRedTransportation/projectred.transportation.routingchip-5.pngItem Broadcaster chip
+8ProjRedTransportation/projectred.transportation.pipe-2.pngRouted Interface pipe
+4ProjRedTransportation/projectred.transportation.pipe-4.pngRouted Request pipe
+1RetrievalProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip
+1ProjRedTransportation/projectred.transportation.routingchip-5.pngItem Broadcaster chip
 1

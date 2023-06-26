@@ -4,7 +4,7 @@
 2enhancedlootbags/lootbag-43.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionalGalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
-8dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
-32dreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
-16Retrievaldreamcraft/item.HeavyDutyRocketFinsTier4-0.pngHeavy Duty Rocket Fins Tier 4
+8dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
+32dreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
+16Retrievaldreamcraft/item.HeavyDutyRocketFinsTier4-0.pngHeavy Duty Rocket Fins Tier 4
 8

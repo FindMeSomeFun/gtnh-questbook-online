@@ -2,5 +2,5 @@
 1minecraft/dye-15.pngBone Meal
 32Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalharvestthenether/glowFlower-0.pngGlow Flower
-10Retrievalharvestthenether/glowflowerseedItem-0.pngGlow Flower Seed
+10Retrievalharvestthenether/glowflowerseedItem-0.pngGlow Flower Seed
 10

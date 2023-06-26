@@ -5,12 +5,12 @@
 1harvestcraft/cranberryjuiceItem-0.pngCranberry Juice;harvestcraft:cranberryjuiceItem
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-5502.pngCrushed Ruby Ore;CrAl\u2082O\u2083
-1gregtech/gt.metaitem.01-3502.pngImpure Pile of Ruby Dust;CrAl\u2082O\u2083;Throw into Cauldron to get clean Dust
-1gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore;CrAl\u2082O\u2083
-1gregtech/gt.metaitem.01-4502.pngPurified Pile of Ruby Dust;CrAl\u2082O\u2083;Throw into Cauldron to get clean Dust
-1Retrievalgregtech/gt.metaitem.01-685.pngTiny Pile of Sodium Hydroxide Dust;NaOH
-1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
-1Retrievalgregtech/gt.metaitem.01-30417.pngRuby Juice Cell
-1Retrievalgregtech/gt.metaitem.01-2698.pngAluminium Hydroxide Dust;Al(OH)\u2083
-3gregtech/gt.metaitem.01-2030.pngChrome Dust;Cr
+1gregtech/gt.metaitem.01-3502.pngImpure Pile of Ruby Dust;CrAl\u2082O\u2083;Throw into Cauldron to get clean Dust
+1gregtech/gt.metaitem.01-6502.pngPurified Ruby Ore;CrAl\u2082O\u2083
+1gregtech/gt.metaitem.01-4502.pngPurified Pile of Ruby Dust;CrAl\u2082O\u2083;Throw into Cauldron to get clean Dust
+1Retrievalgregtech/gt.metaitem.01-685.pngTiny Pile of Sodium Hydroxide Dust;NaOH
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
+1Retrievalgregtech/gt.metaitem.01-30417.pngRuby Juice Cell
+1Retrievalgregtech/gt.metaitem.01-2698.pngAluminium Hydroxide Dust;Al(OH)\u2083
+3gregtech/gt.metaitem.01-2030.pngChrome Dust;Cr
 1

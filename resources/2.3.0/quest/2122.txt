@@ -3,9 +3,9 @@
 Completing the quests will require scanned trees, but you can progress on breeding while waiting for your GT Scanner or Treealyzer to be made.ANDpre20840Forestry/grafter-0.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalForestry/sapling-0-Oak.pngApple Oak Sapling;Burn Time: 100
-4Forestry/sapling-0-DarkOak.pngDark Oak Sapling;Burn Time: 100
-4Forestry/sapling-0-AcaciaVanilla.pngAcacia Sapling;Burn Time: 100
-4Forestry/sapling-0-Birch.pngSilver Birch Sapling;Burn Time: 100
-4Forestry/sapling-0-Spruce.pngRed Spruce Sapling;Burn Time: 100
-4Forestry/sapling-0-Jungle.pngJungle Sapling;Burn Time: 100
+4Forestry/sapling-0-DarkOak.pngDark Oak Sapling;Burn Time: 100
+4Forestry/sapling-0-AcaciaVanilla.pngAcacia Sapling;Burn Time: 100
+4Forestry/sapling-0-Birch.pngSilver Birch Sapling;Burn Time: 100
+4Forestry/sapling-0-Spruce.pngRed Spruce Sapling;Burn Time: 100
+4Forestry/sapling-0-Jungle.pngJungle Sapling;Burn Time: 100
 4

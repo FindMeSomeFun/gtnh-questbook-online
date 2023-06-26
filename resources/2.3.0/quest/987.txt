@@ -5,5 +5,5 @@ BTW, you can also use capacitors to upgrade your EnderIO machines. They'll use m
 8Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalEnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor;Machine Upgrade
-8RetrievalEnderIO/blockCapBank-2.pngCapacitor Bank;0/5,000,000 RF
+8RetrievalEnderIO/blockCapBank-2.pngCapacitor Bank;0/5,000,000 RF
 2

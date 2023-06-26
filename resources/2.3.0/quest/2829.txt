@@ -14,8 +14,8 @@ A breeder reactor is when you setup a reactor to get an item out of it rather th
 16IC2/itemCellEmpty-9.pngCoolant Cell
 16Itemenhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalIC2/blockReactorAccessHatch-0.pngReactor Access Hatch
-1IC2/blockReactorRedstonePort-0.pngReactor Redstone Port
-1IC2/blockReactorFluidPort-0.pngReactor Fluid Port
-2IC2/blockreactorvessel-0.pngReactor Pressure Vessel
-94RetrievalIC2/itemCellEmpty-9.pngCoolant Cell
+1IC2/blockReactorRedstonePort-0.pngReactor Redstone Port
+1IC2/blockReactorFluidPort-0.pngReactor Fluid Port
+2IC2/blockreactorvessel-0.pngReactor Pressure Vessel
+94RetrievalIC2/itemCellEmpty-9.pngCoolant Cell
 16

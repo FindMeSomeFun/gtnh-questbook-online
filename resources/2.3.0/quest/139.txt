@@ -3,7 +3,7 @@
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDRetrievalEnderIO/item.darkSteel_helmet-0.pngDark Helm;Protection: 2;Durability: 385/385
-1EnderIO/item.darkSteel_chestplate-0.pngDark Plate;Protection: 6;Durability: 560/560
-1EnderIO/item.darkSteel_leggings-0.pngDark Leggings;Protection: 5;Durability: 525/525
-1EnderIO/item.darkSteel_boots-0.pngDark Boots;Protection: 2;Durability: 455/455
+1EnderIO/item.darkSteel_chestplate-0.pngDark Plate;Protection: 6;Durability: 560/560
+1EnderIO/item.darkSteel_leggings-0.pngDark Leggings;Protection: 5;Durability: 525/525
+1EnderIO/item.darkSteel_boots-0.pngDark Boots;Protection: 2;Durability: 455/455
 1

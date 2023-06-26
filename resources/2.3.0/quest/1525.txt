@@ -3,6 +3,6 @@
 Use whatever fletching you want.ANDpre1621GalacticraftCore/item.spaceship-0.png9901gregtech/gt.metaitem.01-11366.pngrewardsItemminecraft/spawn_egg-56.pngSpawn Ghast
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1tasksANDOptionalTGregworks/tGregToolPartToolRod-1635.pngEnergetic Alloy Tool Rod;Durability Modifier: 2.5x;Parts can be replaced
-1Optionalgregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingot;SpFe\u2085\u2080C
-1RetrievalTConstruct/BoltPart-1635-1573.pngEnergetic Alloy Bolt;Durability: 1805;Break Chance: 0.9%;Weight: 0.11;Parts can be replaced
+1Optionalgregtech/gt.metaitem.01-11341.pngMeteoric Steel Ingot;SpFe\u2085\u2080C
+1RetrievalTConstruct/BoltPart-1635-1573.pngEnergetic Alloy Bolt;Durability: 1805;Break Chance: 0.9%;Weight: 0.11;Parts can be replaced
 1

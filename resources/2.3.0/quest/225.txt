@@ -8,5 +8,5 @@ First, place water in a 2x2 grid, with 12 flowers surrounding it. Then toss in a
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievaldreamcraft/item.TwilightCrystal-0.pngQuick and Dirty Portal Generator
-1LocationDIM/7-.pngTwilight Forest
+1LocationDIM/7-.pngTwilight Forest
 1

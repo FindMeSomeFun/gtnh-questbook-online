@@ -3,6 +3,6 @@
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockores-905.pngBastnasite Ore;CeCFO\u2083
-64gregtech/gt.blockores-520.pngMonazite Ore;?(PO\u2084)
-64gregtech/gt.blockores-67.pngNeodymium Ore;Nd
+64gregtech/gt.blockores-520.pngMonazite Ore;?(PO\u2084)
+64gregtech/gt.blockores-67.pngNeodymium Ore;Nd
 64

@@ -6,5 +6,5 @@ The airlock will keep air inside the room while it is closed. But when the airlo
 2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalGalacticraftCore/tile.airLockFrame-1.pngAir Lock Controller
-2GalacticraftCore/tile.airLockFrame-0.pngAir Lock Frame
+2GalacticraftCore/tile.airLockFrame-0.pngAir Lock Frame
 10

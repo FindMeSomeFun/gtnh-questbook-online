@@ -3,13 +3,13 @@
 4enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalminecraft/leather-0.pngLeather
-4Backpack/tannedLeather-0.pngTanned Leather
-1harvestcraft/wovencottonItem-0.pngWoven Cotton
-2minecraft/stone-0.pngStone
-2CraftingForestry/diggerBag-0.pngDigger''s Backpack;0/15 Slots
-1Optionalminecraft/leather-0.pngLeather
-4Backpack/tannedLeather-0.pngTanned Leather
-1harvestcraft/wovencottonItem-0.pngWoven Cotton
-2minecraft/iron_ingot-0.pngIron Ingot
-2CraftingForestry/minerBag-0.pngMiner''s Backpack;0/15 Slots
+4Backpack/tannedLeather-0.pngTanned Leather
+1harvestcraft/wovencottonItem-0.pngWoven Cotton
+2minecraft/stone-0.pngStone
+2CraftingForestry/diggerBag-0.pngDigger''s Backpack;0/15 Slots
+1Optionalminecraft/leather-0.pngLeather
+4Backpack/tannedLeather-0.pngTanned Leather
+1harvestcraft/wovencottonItem-0.pngWoven Cotton
+2minecraft/iron_ingot-0.pngIron Ingot
+2CraftingForestry/minerBag-0.pngMiner''s Backpack;0/15 Slots
 1

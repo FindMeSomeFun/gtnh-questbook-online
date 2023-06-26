@@ -1,7 +1,7 @@
 3263Botania/rune-2.png1Better Generating Flowers35-1If you want anything better than an endoflame, you'll need a runic altar. Fortunately, most runes are easily crafted as soon as you can make the runic altar. Sinful runes, however, require titanium to make. For now, just make one of each of the elemental runes; that'll be enough to get you started.ANDpre32281Botania/runeAltar-0.png32621Botania/manaResource-23.pngrewardsItemBotania/manaResource-0.pngManasteel Ingot
 16dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
 10tasksANDRetrievalBotania/rune-0.pngRune of Water
-1Botania/rune-1.pngRune of Fire
-1Botania/rune-2.pngRune of Earth
-1Botania/rune-3.pngRune of Air
+1Botania/rune-1.pngRune of Fire
+1Botania/rune-2.pngRune of Earth
+1Botania/rune-3.pngRune of Air
 1

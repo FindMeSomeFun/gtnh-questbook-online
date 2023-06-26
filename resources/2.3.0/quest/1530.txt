@@ -6,6 +6,6 @@ This will open the Planets Venus and Mercury and the Jupiter Moon Io.ANDpre14
 1Itemdreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDRetrievalGalaxySpace/ceresblocks-2.pngCeres Dungeon Bricks
-16RetrievalGalaxySpace/item.Tier4Key-0.pngTier 3 Dungeon Key
-1RetrievalGalaxySpace/item.SchematicTier4-0.pngNASA Workbench Schematic;Rocket Tier 4
+16RetrievalGalaxySpace/item.Tier4Key-0.pngTier 3 Dungeon Key
+1RetrievalGalaxySpace/item.SchematicTier4-0.pngNASA Workbench Schematic;Rocket Tier 4
 1

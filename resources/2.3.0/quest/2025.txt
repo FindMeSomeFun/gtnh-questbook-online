@@ -1,7 +1,7 @@
 2025miscutils/bookGT-3.png0GT++ Knowledge18-1To become a master at GT++ you will need to craft manuals for certain machines.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemminecraft/writable_book-0.pngBook and Quill
 1tasksANDRetrievalmiscutils/bookGT-3.pngMulti-Machine Manual;Author: Alkalus;Pages: 6
-1miscutils/bookGT-1.pngPower Storage & You [Version 0.64];Author: Alkalus;Pages: 8
-1miscutils/bookGT-0.pngThermal Boiler Manual;Author: GregoriusT;Pages: 16
-1miscutils/bookGT-4.pngNuclear Chemistry [FFPP];Author: Alkalus;Pages: 5
-1miscutils/bookGT-5.pngChemical Plant Manual;Author: Alkalus;Pages: 21
+1miscutils/bookGT-1.pngPower Storage & You [Version 0.64];Author: Alkalus;Pages: 8
+1miscutils/bookGT-0.pngThermal Boiler Manual;Author: GregoriusT;Pages: 16
+1miscutils/bookGT-4.pngNuclear Chemistry [FFPP];Author: Alkalus;Pages: 5
+1miscutils/bookGT-5.pngChemical Plant Manual;Author: Alkalus;Pages: 21
 1

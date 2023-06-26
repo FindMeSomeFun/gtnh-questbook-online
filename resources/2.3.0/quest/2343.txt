@@ -5,8 +5,8 @@
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-24890.pngGlass Lens;SiO\u2082
-1gregtech/gt.metaitem.01-17522.pngNether Quartz Plate;SiO\u2082
-4gregtech/gt.metaitem.01-17523.pngQuartzite Plate;SiO\u2082
-2gregtech/gt.metaitem.01-17516.pngCertus Quartz Plate;SiO\u2082
-2Retrievalwitchery/ingredient-92.pngQuartz Sphere
+1gregtech/gt.metaitem.01-17522.pngNether Quartz Plate;SiO\u2082
+4gregtech/gt.metaitem.01-17523.pngQuartzite Plate;SiO\u2082
+2gregtech/gt.metaitem.01-17516.pngCertus Quartz Plate;SiO\u2082
+2Retrievalwitchery/ingredient-92.pngQuartz Sphere
 1

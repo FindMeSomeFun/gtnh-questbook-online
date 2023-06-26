@@ -6,7 +6,7 @@ If you die on the moon you will be returned to earth without your stuff. A Soulb
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalEnderIO/blockEnchanter-0.pngEnchanter
-1EnderIO/itemMaterial-8.pngEnder Crystal
-1minecraft/writable_book-0.pngBook and Quill
-1Retrievalminecraft/enchanted_book-0.pngEnchanted Book;Soulbound I;  - When the player dies the item/tool/armor will be kept in the inventory and not drop on the ground.;Hold the Sneak key for Enchantment Description
+1EnderIO/itemMaterial-8.pngEnder Crystal
+1minecraft/writable_book-0.pngBook and Quill
+1Retrievalminecraft/enchanted_book-0.pngEnchanted Book;Soulbound I;  - When the player dies the item/tool/armor will be kept in the inventory and not drop on the ground.;Hold the Sneak key for Enchantment Description
 1

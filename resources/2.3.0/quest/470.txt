@@ -7,12 +7,12 @@
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 2tasksANDRetrievalNatura/berry-1.pngBlueberry;Natura:berry;Saturating!
-1Natura/berry-3.pngMaloberry;Natura:berry;Saturating!
-1Natura/berry-2.pngBlackberry;Natura:berry;Saturating!
-1Natura/berry-0.pngRaspberry;Natura:berry;Saturating!
-1Retrievalminecraft/stick-0.pngStick;Burn Time: 100
-1minecraft/flint-0.pngFlint
-1Craftinggregtech/gt.metatool.01-34-Flint-Wood.pngKnife;Durability: 6,300 / 6,400;Flint lvl 1;Attack Damage: 1.0;Mining Speed: 1.25;Fire Aspect I
-1minecraft/bowl-0.pngBowl
-2CraftingNatura/berryMedley-0.pngBerry Medley;Natura:berryMedley;An irresistable combination of berries
+1Natura/berry-3.pngMaloberry;Natura:berry;Saturating!
+1Natura/berry-2.pngBlackberry;Natura:berry;Saturating!
+1Natura/berry-0.pngRaspberry;Natura:berry;Saturating!
+1Retrievalminecraft/stick-0.pngStick;Burn Time: 100
+1minecraft/flint-0.pngFlint
+1Craftinggregtech/gt.metatool.01-34-Flint-Wood.pngKnife;Durability: 6,300 / 6,400;Flint lvl 1;Attack Damage: 1.0;Mining Speed: 1.25;Fire Aspect I
+1minecraft/bowl-0.pngBowl
+2CraftingNatura/berryMedley-0.pngBerry Medley;Natura:berryMedley;An irresistable combination of berries
 2

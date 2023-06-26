@@ -1,8 +1,8 @@
 1867gregtech/gt.metaitem.01-32601.png1§6§lMV Motor5-1Most machines in MV need a motor as well. If you haven't built a polarizer already, go craft one. MV motors need magnetic steel rods and aluminium rods, 2x cupronickel wires and copper cables.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-23355.pngMagnetic Steel Rod;Fe\u2085\u2080C
-4gregtech/gt.metaitem.01-23019.pngAluminium Rod;Al
-8gregtech/gt.blockmachines-1341.png2x Cupronickel Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 6 EU-Volt
-16gregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-8Retrievalgregtech/gt.metaitem.01-32601.pngElectric Motor
+4gregtech/gt.metaitem.01-23019.pngAluminium Rod;Al
+8gregtech/gt.blockmachines-1341.png2x Cupronickel Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 6 EU-Volt
+16gregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+8Retrievalgregtech/gt.metaitem.01-32601.pngElectric Motor
 4

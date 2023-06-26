@@ -5,13 +5,13 @@ From now on, SCs are not optional, you need to make them to craft stuff.ANDpre
 2dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDOptionalgregtech/gt.metaitem.01-2029.pngVanadium Dust;V
-3gregtech/gt.metaitem.01-2056.pngIndium Dust;In
-9Optionalgregtech/gt.metaitem.01-2990.pngSuperconductor Base IV Dust;VIn\u2083
-12Optionalgregtech/gt.metaitem.01-11990.pngSuperconductor Base IV Ingot;VIn\u2083
-12Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 64 EU-Volt
-24Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 64 EU-Volt
-24gregtech/gt.blockmachines-5180.pngTiny Niobium-Titanium Fluid Pipe;Fluid Capacity: 3,000 L/sec;Heat Limit: 2,900 K
-16gregtech/gt.metaitem.01-32614.pngElectric Pump;8,192 L/t (163,840 L/s) as Cover
-2gregtech/gt.metaitem.01-30004.pngHelium Cell;He
-16Retrievalgregtech/gt.blockmachines-2380.png1x Superconductor IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 0 EU-Volt
+3gregtech/gt.metaitem.01-2056.pngIndium Dust;In
+9Optionalgregtech/gt.metaitem.01-2990.pngSuperconductor Base IV Dust;VIn\u2083
+12Optionalgregtech/gt.metaitem.01-11990.pngSuperconductor Base IV Ingot;VIn\u2083
+12Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 64 EU-Volt
+24Optionalgregtech/gt.blockmachines-2260.png1x Superconductor Base IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 4;Loss/Meter/Ampere: 64 EU-Volt
+24gregtech/gt.blockmachines-5180.pngTiny Niobium-Titanium Fluid Pipe;Fluid Capacity: 3,000 L/sec;Heat Limit: 2,900 K
+16gregtech/gt.metaitem.01-32614.pngElectric Pump;8,192 L/t (163,840 L/s) as Cover
+2gregtech/gt.metaitem.01-30004.pngHelium Cell;He
+16Retrievalgregtech/gt.blockmachines-2380.png1x Superconductor IV Wire;Max Voltage: 8,192 (IV);Max Amperage: 12;Loss/Meter/Ampere: 0 EU-Volt
 24

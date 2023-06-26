@@ -7,5 +7,5 @@ Hint: If all your surface meteors have been raided, put some skystone in your Or
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 5tasksANDRetrievalappliedenergistics2/tile.BlockSkyStone-0.pngSky Stone
-256appliedenergistics2/tile.BlockSkyChest-0.pngSky Stone Chest
+256appliedenergistics2/tile.BlockSkyChest-0.pngSky Stone Chest
 1

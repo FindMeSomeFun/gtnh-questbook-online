@@ -4,5 +4,5 @@ Fluid extracting Charcoal into Wood Tar is an example of a step that might want 
 32enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 3tasksANDRetrievalgregtech/gt.blockmachines-1199.pngProcessing Array;Machine Type: Processing Array;Runs supplied machines as if placed in the world;Place up to 64 singleblock GT machines into the controller;Note that you still need to supply power to them all;Use a screwdriver to enable separate input busses;Use a wire cutter to disable UEV+ downtiering;Doesn''t work on certain machines, deal with it;Use it if you hate GT++, or want even more speed later on;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1gregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockcasings4-0.pngRobust Tungstensteel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 14

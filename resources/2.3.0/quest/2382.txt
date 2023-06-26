@@ -16,8 +16,8 @@ Reduce the cost of Dragon Essence using in a Altar recipe.ANDpre23520Hardco
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;55 Knowledge Points
 2tasksANDRetrievalHardcoreEnderExpansion/essence_altar-0.pngBasic Essence Altar
-1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
-12minecraft/lapis_block-0.pngLapis Lazuli Block
-3minecraft/redstone_block-0.pngBlock of Redstone
-3minecraft/emerald_block-0.pngBlock of Emerald
+1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
+12minecraft/lapis_block-0.pngLapis Lazuli Block
+3minecraft/redstone_block-0.pngBlock of Redstone
+3minecraft/emerald_block-0.pngBlock of Emerald
 3

@@ -3,6 +3,6 @@
 You just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.ANDpre13021appliedenergistics2/item.ItemMultiPart-440.pngrewardsItemgregtech/gt.blockmachines-2710.pngOutput Bus;Item Output for Multiblocks;Stores directly into ME
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-2711.pngStocking Input Bus;Advanced item input for Multiblocks;Retrieves directly from ME;Keeps 16 item types in stock
-1gregtech/gt.blockmachines-2710.pngOutput Bus;Item Output for Multiblocks;Stores directly into ME
-1gregtech/gt.blockmachines-2713.pngOutput Hatch;Fluid Output for Multiblocks;Stores directly into ME
+1gregtech/gt.blockmachines-2710.pngOutput Bus;Item Output for Multiblocks;Stores directly into ME
+1gregtech/gt.blockmachines-2713.pngOutput Hatch;Fluid Output for Multiblocks;Stores directly into ME
 1

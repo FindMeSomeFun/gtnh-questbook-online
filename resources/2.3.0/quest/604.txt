@@ -7,5 +7,5 @@ These are great for interfacing with RF machines. GT wires will convert to RF, b
 8Itemdreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
-16RetrievalEnderIO/blockCapBank-1.pngBasic Capacitor Bank;0/1,000,000 RF
+16RetrievalEnderIO/blockCapBank-1.pngBasic Capacitor Bank;0/1,000,000 RF
 4

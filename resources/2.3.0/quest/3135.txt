@@ -6,5 +6,5 @@ Basically, the SSF has 3 steps: craft the binder, craft the solid block and craf
 16dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.metaitem.02-32270.pngSuper Fuel Binder;Raw Material
-64Optionalgregtech/gt.metaitem.02-32271.pngMagic Super Fuel Binder;Raw Material
+64Optionalgregtech/gt.metaitem.02-32271.pngMagic Super Fuel Binder;Raw Material
 64

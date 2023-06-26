@@ -14,17 +14,17 @@ However, if the infestation level gets high enough, it will trigger one or more 
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-0.pngInfested End Stone
-8RetrievalHardcoreEnderExpansion/ravaged_brick-0.pngRavaged Brick
-16HardcoreEnderExpansion/ravaged_brick-4.pngRavaged Brick
-2HardcoreEnderExpansion/ravaged_brick-2.pngRavaged Brick
-2HardcoreEnderExpansion/ravaged_brick-3.pngRavaged Brick
-2HardcoreEnderExpansion/ravaged_brick-1.pngRavaged Brick
-2HardcoreEnderExpansion/ravaged_brick_glow-0.pngGlowing Ravaged Brick
-2HardcoreEnderExpansion/ravaged_brick_slab-0.pngRavaged Brick Slab
-4RetrievalHardcoreEnderExpansion/dry_splinter-0.pngDry Splinter
-64HardcoreEnderExpansion/crossed_decoration-2.pngThorny Bush
-16HardcoreEnderExpansion/crossed_decoration-5.pngInfested Grass
-16HardcoreEnderExpansion/crossed_decoration-3.pngInfested Bush
-16RetrievalHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-8HardcoreEnderExpansion/stardust-0.pngStardust
+8RetrievalHardcoreEnderExpansion/ravaged_brick-0.pngRavaged Brick
+16HardcoreEnderExpansion/ravaged_brick-4.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick-2.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick-3.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick-1.pngRavaged Brick
+2HardcoreEnderExpansion/ravaged_brick_glow-0.pngGlowing Ravaged Brick
+2HardcoreEnderExpansion/ravaged_brick_slab-0.pngRavaged Brick Slab
+4RetrievalHardcoreEnderExpansion/dry_splinter-0.pngDry Splinter
+64HardcoreEnderExpansion/crossed_decoration-2.pngThorny Bush
+16HardcoreEnderExpansion/crossed_decoration-5.pngInfested Grass
+16HardcoreEnderExpansion/crossed_decoration-3.pngInfested Bush
+16RetrievalHardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+8HardcoreEnderExpansion/stardust-0.pngStardust
 16

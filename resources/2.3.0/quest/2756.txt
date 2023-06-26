@@ -3,8 +3,8 @@
 There's lots more to understand about AE2, but you should probably either experiment, read the quests, or watch a video for more than the basics.
 
 Also keep in mind that EC2 is kinda completely broken in regards to fluids, so maybe avoid that. (The questmaker is sad :()ANDpre27550appliedenergistics2/tile.BlockCraftingStorage-0.pngrewardstasksANDRetrievalappliedenergistics2/tile.BlockController-0.pngME Controller
-1appliedenergistics2/item.ItemMultiPart-460.pngP2P Tunnel - ME
-2appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
-1appliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Fluix
-1appliedenergistics2/item.ToolMemoryCard-0.pngMemory Card;Blank
+1appliedenergistics2/item.ItemMultiPart-460.pngP2P Tunnel - ME
+2appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
+1appliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Fluix
+1appliedenergistics2/item.ToolMemoryCard-0.pngMemory Card;Blank
 1

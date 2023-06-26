@@ -5,5 +5,5 @@ The reward - restrictive item pipes - allow you to prioritize destinations. Loca
 For higher tiers, look up "* item pipe" in NEI, or just look at the spreadsheet.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsItemgregtech/gt.blockmachines-5641.pngSmall Restrictive Brass Item Pipe;Item Capacity: 1 Stacks/2 sec;Routing Value: 6,553,600
 3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-11301.pngBrass Ingot;ZnCu\u2083
-12Retrievalgregtech/gt.blockmachines-5601.pngSmall Brass Item Pipe;Item Capacity: 1 Stacks/2 sec;Routing Value: 65,536
+12Retrievalgregtech/gt.blockmachines-5601.pngSmall Brass Item Pipe;Item Capacity: 1 Stacks/2 sec;Routing Value: 65,536
 12

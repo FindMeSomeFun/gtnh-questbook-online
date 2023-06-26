@@ -7,14 +7,14 @@ Mix Cadmium, Magnesium and Oxygen in an MV mixer. Next, the base dust needs an E
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-2055.pngCadmium Dust;Cd
-5gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
-1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-6Optionalgregtech/gt.metaitem.01-2987.pngSuperconductor Base MV Dust;Cd\u2085MgO\u2086
-12Optionalgregtech/gt.metaitem.01-11987.pngSuperconductor Base MV Ingot;Cd\u2085MgO\u2086
-12Optionalgregtech/gt.blockmachines-2200.png1x Superconductor Base MV Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-24Optionalgregtech/gt.blockmachines-2200.png1x Superconductor Base MV Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-24gregtech/gt.blockmachines-5140.pngTiny Stainless Steel Fluid Pipe;Fluid Capacity: 1,200 L/sec;Heat Limit: 3,000 K
-16gregtech/gt.metaitem.01-32611.pngElectric Pump;128 L/t (2,560 L/s) as Cover
-8gregtech/gt.metaitem.01-30004.pngHelium Cell;He
-16Retrievalgregtech/gt.blockmachines-2320.png1x Superconductor MV Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 0 EU-Volt
+5gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
+1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+6Optionalgregtech/gt.metaitem.01-2987.pngSuperconductor Base MV Dust;Cd\u2085MgO\u2086
+12Optionalgregtech/gt.metaitem.01-11987.pngSuperconductor Base MV Ingot;Cd\u2085MgO\u2086
+12Optionalgregtech/gt.blockmachines-2200.png1x Superconductor Base MV Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+24Optionalgregtech/gt.blockmachines-2200.png1x Superconductor Base MV Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+24gregtech/gt.blockmachines-5140.pngTiny Stainless Steel Fluid Pipe;Fluid Capacity: 1,200 L/sec;Heat Limit: 3,000 K
+16gregtech/gt.metaitem.01-32611.pngElectric Pump;128 L/t (2,560 L/s) as Cover
+8gregtech/gt.metaitem.01-30004.pngHelium Cell;He
+16Retrievalgregtech/gt.blockmachines-2320.png1x Superconductor MV Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 0 EU-Volt
 24

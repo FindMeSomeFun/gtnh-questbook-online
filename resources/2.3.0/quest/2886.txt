@@ -2,5 +2,5 @@
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockMetalDevice-9.pngAlchemical Construct
-2Thaumcraft/blockMetalDevice-0.pngCrucible
+2Thaumcraft/blockMetalDevice-0.pngCrucible
 1

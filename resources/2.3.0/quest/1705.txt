@@ -4,10 +4,10 @@
 24enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalgregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
-4gregtech/gt.metaitem.03-32085.pngQuantumprocessor;An Extreme Circuit;EV-Tier
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-16gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
-48gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-64gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
-96Retrievalgregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly;An Elite Circuit;IV-Tier
+4gregtech/gt.metaitem.03-32085.pngQuantumprocessor;An Extreme Circuit;EV-Tier
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+16gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
+48gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
+64gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
+96Retrievalgregtech/gt.metaitem.03-32086.pngQuantumprocessor Assembly;An Elite Circuit;IV-Tier
 4

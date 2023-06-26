@@ -12,13 +12,13 @@ You'll want Coke for making steel in your BBF later on. Though you can still use
 4enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 5tasksANDRetrievalminecraft/coal-0.pngCoal;Burn Time: 1600
-8minecraft/log-0.pngOak Wood;Burn Time: 300
-8minecraft/cactus-0.pngCactus;Burn Time: 50
-8minecraft/reeds-0.pngSugar Canes;Burn Time: 50
-8RetrievalRailcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
-8minecraft/coal-1.pngCharcoal;Burn Time: 1600
-8miscutils/itemCactusCharcoal-0.pngCactus Charcoal;Used for smelting.;Burn Time: 400
-8miscutils/itemSugarCharcoal-0.pngSugar Charcoal;Used for smelting.;Burn Time: 400
-8Retrievalmiscutils/itemCactusCoke-0.pngCactus Coke;Used for smelting.;Burn Time: 800
-8miscutils/itemSugarCoke-0.pngSugar Coke;Used for smelting.;Burn Time: 800
+8minecraft/log-0.pngOak Wood;Burn Time: 300
+8minecraft/cactus-0.pngCactus;Burn Time: 50
+8minecraft/reeds-0.pngSugar Canes;Burn Time: 50
+8RetrievalRailcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
+8minecraft/coal-1.pngCharcoal;Burn Time: 1600
+8miscutils/itemCactusCharcoal-0.pngCactus Charcoal;Used for smelting.;Burn Time: 400
+8miscutils/itemSugarCharcoal-0.pngSugar Charcoal;Used for smelting.;Burn Time: 400
+8Retrievalmiscutils/itemCactusCoke-0.pngCactus Coke;Used for smelting.;Burn Time: 800
+8miscutils/itemSugarCoke-0.pngSugar Coke;Used for smelting.;Burn Time: 800
 8

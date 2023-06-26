@@ -2,7 +2,7 @@
 1dreamcraft/item.MicaBasedPulp-0.pngMica Based Pulp
 16Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.blockores-901.pngMica Ore;KAl\u2083Si\u2083F\u2082O\u2081\u2080
-64gregtech/gt.blockores-924.pngKyanite Ore;Al\u2082SiO\u2085
-16gregtech/gt.blockores-824.pngCassiterite Ore;SnO\u2082
-16gregtech/gt.blockores-919.pngPollucite Ore;Cs\u2082Al\u2082Si\u2084(H\u2082O)\u2082O\u2081\u2082
+64gregtech/gt.blockores-924.pngKyanite Ore;Al\u2082SiO\u2085
+16gregtech/gt.blockores-824.pngCassiterite Ore;SnO\u2082
+16gregtech/gt.blockores-919.pngPollucite Ore;Cs\u2082Al\u2082Si\u2084(H\u2082O)\u2082O\u2081\u2082
 16

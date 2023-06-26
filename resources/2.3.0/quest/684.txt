@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 2tasksANDOptionalminecraft/log-0.pngOak Wood;Burn Time: 300
-24CraftingTConstruct/helmetWood-0.pngWooden Helmet;Protection: 1;Durability: 22/22
-1TConstruct/chestplateWood-0.pngWooden Chestplate;Protection: 2;Durability: 32/32
-1TConstruct/leggingsWood-0.pngWooden Leggings;Protection: 2;Durability: 30/30
-1TConstruct/bootsWood-0.pngWooden Boots;Protection: 1;Durability: 26/26
+24CraftingTConstruct/helmetWood-0.pngWooden Helmet;Protection: 1;Durability: 22/22
+1TConstruct/chestplateWood-0.pngWooden Chestplate;Protection: 2;Durability: 32/32
+1TConstruct/leggingsWood-0.pngWooden Leggings;Protection: 2;Durability: 30/30
+1TConstruct/bootsWood-0.pngWooden Boots;Protection: 1;Durability: 26/26
 1

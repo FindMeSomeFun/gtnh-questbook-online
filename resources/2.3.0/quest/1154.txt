@@ -11,9 +11,9 @@ To make it, you must use a Fluid Solidifer instead of the Tinker's casting table
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalTConstruct/woodPattern-24.pngFletching Pattern;Material Cost: 1
-1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
-1RetrievalTConstruct/fletching-1.pngLeaf Fletching;Stonebound [Modifier: 1];Durability: 2.5x;Break Chance: 0%;Accuracy: 75%;Parts can be replaced
-1RetrievalTGregworks/tGregToolPartToolRod-1602.pngMagnalium Tool Rod;Durability Modifier: 1.5x;Parts can be replaced
-1RetrievalTConstruct/BoltPart-1602-2.pngMagnalium Bolt;Durability: 192;Break Chance: 90%;Weight: 0.12;Parts can be replaced
-1RetrievalTConstruct/BoltAmmo-0-705.pngIron Bolts;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
+1TConstruct/metalPattern-1.pngTool Rod Cast;Material Cost: 0.5
+1RetrievalTConstruct/fletching-1.pngLeaf Fletching;Stonebound [Modifier: 1];Durability: 2.5x;Break Chance: 0%;Accuracy: 75%;Parts can be replaced
+1RetrievalTGregworks/tGregToolPartToolRod-1602.pngMagnalium Tool Rod;Durability Modifier: 1.5x;Parts can be replaced
+1RetrievalTConstruct/BoltPart-1602-2.pngMagnalium Bolt;Durability: 192;Break Chance: 90%;Weight: 0.12;Parts can be replaced
+1RetrievalTConstruct/BoltAmmo-0-705.pngIron Bolts;Reinforced I;Tool Level: 01-Abused;+3 Attack Damage
 1

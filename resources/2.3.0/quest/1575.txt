@@ -6,5 +6,5 @@
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDOptionalwitchery/ingredient-27.pngClay Jar
-8Retrievalwitchery/ingredient-28.pngFoul Fume
+8Retrievalwitchery/ingredient-28.pngFoul Fume
 16

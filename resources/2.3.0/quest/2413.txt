@@ -2,5 +2,5 @@
 
 §3Unfortunately, those tasty ores are locked beneath the mantle of the planet. You'll need to use a Void Miner to get them out.ANDpre32431gregtech/gt.metaitem.01-32018.png32441dreamcraft/item.QuantumCircuit-0.pngrewardsItemminecraft/paper-0.pngGo mine the reward yourself
 1tasksANDRetrievalgregtech/gt.blockreinforced-12.pngRaw Deep Dark Portal Block
-1RetrievalExtraUtilities/dark_portal-0.pngPortal to The Deep Dark;Riches beyond your imagination
+1RetrievalExtraUtilities/dark_portal-0.pngPortal to The Deep Dark;Riches beyond your imagination
 1

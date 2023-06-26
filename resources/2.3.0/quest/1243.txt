@@ -2,9 +2,9 @@
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2tasksORRetrievalgregtech/gt.blockores-4873.pngPitchblende;(UO\u2082)\u2083ThPb
-64gregtech/gt.blockores-4922.pngUraninite Ore;UO\u2082
-32Retrievalgregtech/gt.blockores-873.pngPitchblende;(UO\u2082)\u2083ThPb
-64gregtech/gt.blockores-922.pngUraninite Ore;UO\u2082
-32Retrievalgregtech/gt.metaitem.01-5873.pngGround Pitchblende;(UO\u2082)\u2083ThPb
-192gregtech/gt.metaitem.01-5922.pngCrushed Uraninite Ore;UO\u2082
+64gregtech/gt.blockores-4922.pngUraninite Ore;UO\u2082
+32Retrievalgregtech/gt.blockores-873.pngPitchblende;(UO\u2082)\u2083ThPb
+64gregtech/gt.blockores-922.pngUraninite Ore;UO\u2082
+32Retrievalgregtech/gt.metaitem.01-5873.pngGround Pitchblende;(UO\u2082)\u2083ThPb
+192gregtech/gt.metaitem.01-5922.pngCrushed Uraninite Ore;UO\u2082
 96

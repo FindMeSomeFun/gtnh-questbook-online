@@ -6,7 +6,7 @@
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalIC2/itemArmorNanoHelmet-32767.pngNanoSuit Helmet\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
-1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
-1IC2/itemArmorNanoLegs-32767.pngNanoSuit Leggings\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
-1IC2/itemArmorNanoBoots-32767.pngNanoSuit Boots\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
+1IC2/itemArmorNanoChestplate-32767.pngNanoSuit Bodyarmor\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 8\nDurability: 0/27
+1IC2/itemArmorNanoLegs-32767.pngNanoSuit Leggings\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 6\nDurability: 0/27
+1IC2/itemArmorNanoBoots-32767.pngNanoSuit Boots\nPower Tier: 3\nDurability: 0 / 27\nProvides full hazmat protection.\nProtection: 3\nDurability: 0/27
 1

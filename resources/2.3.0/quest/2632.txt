@@ -1,5 +1,5 @@
 2632gregtech/gt.metaitem.03-32160.png1Nano Power ICs10-1You need these for Solars, UV -> UHV transformers, and ZPM Hatches and Dynamos.
 
 §3You'll need a ZPM Cutting Machine, or an OC'd multi.ANDpre26301gregtech/gt.metaitem.03-32150.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32160.pngNPIC Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32161.pngNano Power IC;Nano Power Circuit
+1Retrievalgregtech/gt.metaitem.03-32161.pngNano Power IC;Nano Power Circuit
 1

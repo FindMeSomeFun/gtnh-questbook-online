@@ -4,9 +4,9 @@ Be careful, you'll get blindness and hunger II holding it.ANDpre14830dreamc
 8enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionaldreamcraft/item.MalformedSlush-0.pngMalformed Slush;I hope you are not going to eat this later.
-2OptionalTConstruct/blankPattern-1.pngBlank Cast
-1Optionaldreamcraft/item.MarshmallowFormMold-0.pngCasting Form
-1gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-4Optionaldreamcraft/item.MarshmallowForm-0.pngMold
-1Retrievaldreamcraft/item.UncookedSlush-0.pngUncooked Slush;Heating up makes food better?
+2OptionalTConstruct/blankPattern-1.pngBlank Cast
+1Optionaldreamcraft/item.MarshmallowFormMold-0.pngCasting Form
+1gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+4Optionaldreamcraft/item.MarshmallowForm-0.pngMold
+1Retrievaldreamcraft/item.UncookedSlush-0.pngUncooked Slush;Heating up makes food better?
 1

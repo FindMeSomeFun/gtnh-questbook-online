@@ -11,6 +11,6 @@ As a final note, the towers do process things slowly. Add Distilleries, if you w
 3dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 10dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-30675.pngCharcoal Byproducts Cell
-64gregtech/gt.blockmachines-1126.pngDistillation Tower;Machine Type: Distillery;Controller block for the Distillation Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-3gregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+64gregtech/gt.blockmachines-1126.pngDistillation Tower;Machine Type: Distillery;Controller block for the Distillation Tower;Fluids are only put out at the correct height;The correct height equals the slot number in the NEI recipe;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+3gregtech/gt.blockcasings4-1.pngClean Stainless Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 90

@@ -6,5 +6,5 @@ To see where a special ore can be found click the raw ore in NEI and it will sho
 1enhancedlootbags/lootbag-1.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5tasksANDRetrievalgregtech/gt.blockores-855.pngChalcopyrite Ore;CuFeS\u2082
-24gregtech/gt.blockores-35.pngCopper Ore;Cu
+24gregtech/gt.blockores-35.pngCopper Ore;Cu
 24

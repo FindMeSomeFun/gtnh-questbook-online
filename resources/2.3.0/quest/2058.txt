@@ -6,8 +6,8 @@
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-17362.pngKnightmetal Plate;(Fe\u2085\u2080C)\u2082Ma
-24RetrievalTwilightForest/item.knightlyHelm-0.pngKnightly Helm;Protection: 3;Durability: 220/220
-1TwilightForest/item.knightlyPlate-0.pngKnightly Plate;Protection: 8;Durability: 320/320
-1TwilightForest/item.knightlyLegs-0.pngKnightly Greaves;Protection: 6;Durability: 300/300
-1TwilightForest/item.knightlyBoots-0.pngKnightly Boots;Protection: 3;Durability: 260/260
+24RetrievalTwilightForest/item.knightlyHelm-0.pngKnightly Helm;Protection: 3;Durability: 220/220
+1TwilightForest/item.knightlyPlate-0.pngKnightly Plate;Protection: 8;Durability: 320/320
+1TwilightForest/item.knightlyLegs-0.pngKnightly Greaves;Protection: 6;Durability: 300/300
+1TwilightForest/item.knightlyBoots-0.pngKnightly Boots;Protection: 3;Durability: 260/260
 1

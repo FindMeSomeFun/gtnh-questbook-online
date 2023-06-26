@@ -3,6 +3,6 @@
 1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
 8Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-78gregtech/gt.metaitem.01-30012.pngNitrogen Cell;N
-26Retrievalgregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+78gregtech/gt.metaitem.01-30012.pngNitrogen Cell;N
+26Retrievalgregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
 26

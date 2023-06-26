@@ -6,8 +6,8 @@ There are also normal sized varieties of these sandwiches if you need more diet 
 2gregtech/gt.metaitem.02-32242.pngLarge Cheese Sandwich;gregtech:gt.metaitem.02;I need another cheesy tooltip for this
 2dreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 20tasksANDOptionalgregtech/gt.metaitem.02-32565.pngBaguette;gregtech:gt.metaitem.02;I teleported nothing BUT Bread!!!
-8minecraft/cooked_porkchop-0.pngCooked Porkchop;minecraft:cooked_porkchop
-8minecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
-8Retrievalgregtech/gt.metaitem.02-32244.pngLarge Steak Sandwich;gregtech:gt.metaitem.02;Yes, I once accidentially called it ''Steam Sandwich''
-4gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
+8minecraft/cooked_porkchop-0.pngCooked Porkchop;minecraft:cooked_porkchop
+8minecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
+8Retrievalgregtech/gt.metaitem.02-32244.pngLarge Steak Sandwich;gregtech:gt.metaitem.02;Yes, I once accidentially called it ''Steam Sandwich''
+4gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
 4

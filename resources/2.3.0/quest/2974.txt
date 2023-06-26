@@ -4,11 +4,11 @@ If you don't have Aluminum Hydroxide yet, look around a bit in NEI. You can get 
 16enhancedlootbags/lootbag-6.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-2698.pngAluminium Hydroxide Dust;Al(OH)\u2083
-4gregtech/gt.metaitem.01-30497.pngCarbon Dioxide Cell;CO\u2082
-20gregtech/gt.metaitem.01-30410.pngHeated Bauxite Slurry Cell
-32Retrievalgregtech/gt.metaitem.01-2697.pngAlumina Dust;Al\u2082O\u2083
-320gregtech/gt.metaitem.01-2823.pngCalcite Dust;CaCO\u2083
-40gregtech/gt.metaitem.01-2695.pngSodium Carbonate Dust;Na\u2082CO\u2083
-36gregtech/gt.metaitem.01-2413.pngBauxite Slag Dust
-64gregtech/gt.metaitem.01-30411.pngSluice Juice Cell
+4gregtech/gt.metaitem.01-30497.pngCarbon Dioxide Cell;CO\u2082
+20gregtech/gt.metaitem.01-30410.pngHeated Bauxite Slurry Cell
+32Retrievalgregtech/gt.metaitem.01-2697.pngAlumina Dust;Al\u2082O\u2083
+320gregtech/gt.metaitem.01-2823.pngCalcite Dust;CaCO\u2083
+40gregtech/gt.metaitem.01-2695.pngSodium Carbonate Dust;Na\u2082CO\u2083
+36gregtech/gt.metaitem.01-2413.pngBauxite Slag Dust
+64gregtech/gt.metaitem.01-30411.pngSluice Juice Cell
 20

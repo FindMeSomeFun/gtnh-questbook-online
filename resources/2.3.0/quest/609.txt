@@ -12,6 +12,6 @@ Note that if you make the battery alloy in the mixer you need to use dusts, but 
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.01-17315.pngBattery Alloy Plate;Pb\u2084Sb
-10gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-5Retrievalgregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
+10gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+5Retrievalgregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
 5

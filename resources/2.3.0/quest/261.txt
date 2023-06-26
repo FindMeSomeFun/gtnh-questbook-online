@@ -3,5 +3,5 @@
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalTwilightForest/item.fieryTears-0.pngFiery Tears
-2Retrievalgregtech/gt.metaitem.01-27316.pngTungstensteel Screw;(Fe\u2085\u2080C)W
+2Retrievalgregtech/gt.metaitem.01-27316.pngTungstensteel Screw;(Fe\u2085\u2080C)W
 4

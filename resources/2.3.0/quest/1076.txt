@@ -2,9 +2,9 @@
 
 §3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-189.pngSpawn Hydra
 1tasksANDConsumedreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-1dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
-5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-7RetrievalTwilightForest/tile.TFFireJet-8.pngFire Jet
-1TwilightForest/tile.TFFireJet-0.pngSmoking block
-1TwilightForest/item.minotaurAxe-0.pngMinotaur Axe;Extra damage while charging;+7 Attack Damage;Durability: 1561/1561
+1dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
+5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
+7RetrievalTwilightForest/tile.TFFireJet-8.pngFire Jet
+1TwilightForest/tile.TFFireJet-0.pngSmoking block
+1TwilightForest/item.minotaurAxe-0.pngMinotaur Axe;Extra damage while charging;+7 Attack Damage;Durability: 1561/1561
 1

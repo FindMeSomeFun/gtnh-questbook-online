@@ -3,7 +3,7 @@
 8enhancedlootbags/lootbag-8.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-32614.pngElectric Pump;8,192 L/t (163,840 L/s) as Cover
-1gregtech/gt.metaitem.01-32644.pngElectric Piston
-1gregtech/gt.metaitem.01-32634.pngConveyor Module;1 stack every 1/20 sec (as Cover)
-1gregtech/gt.metaitem.01-32654.pngRobot Arm;1 stack every 1/20 sec (as Cover);Grabs from and inserts into specific slots
+1gregtech/gt.metaitem.01-32644.pngElectric Piston
+1gregtech/gt.metaitem.01-32634.pngConveyor Module;1 stack every 1/20 sec (as Cover)
+1gregtech/gt.metaitem.01-32654.pngRobot Arm;1 stack every 1/20 sec (as Cover);Grabs from and inserts into specific slots
 1

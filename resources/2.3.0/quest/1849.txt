@@ -2,5 +2,5 @@
 64Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 10harvestcraft/suaderoItem-0.pngSuadero;harvestcraft:suaderoItem
 4tasksANDRetrievalminecraft/oak_stairs-0.pngOak Wood Stairs;Burn Time: 300
-8minecraft/stone_stairs-0.pngStone Stairs
+8minecraft/stone_stairs-0.pngStone Stairs
 8

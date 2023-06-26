@@ -3,10 +3,10 @@
 128IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-4gregtech/gt.metaitem.03-32082.pngNanoprocessor;An Advanced Circuit;HV-Tier
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-16gregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
-128gregtech/gt.metaitem.03-32041.pngNAND Memory Chip;Integrated Circuit
-256gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
-128Retrievalgregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage
+4gregtech/gt.metaitem.03-32082.pngNanoprocessor;An Advanced Circuit;HV-Tier
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+16gregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
+128gregtech/gt.metaitem.03-32041.pngNAND Memory Chip;Integrated Circuit
+256gregtech/gt.metaitem.02-19085.pngFine Platinum Wire;Pt
+128Retrievalgregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage
 4

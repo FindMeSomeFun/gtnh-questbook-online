@@ -10,9 +10,9 @@ Basically, make them ASAP.ANDpre491minecraft/piston-0.png4860Backpack/ta
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 10tasksANDOptionalminecraft/leather_boots-0.pngLeather Boots;Protection: 1;Durability: 65/65
-1Backpack/tannedLeather-0.pngTanned Leather
-2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
-2minecraft/piston-0.pngPiston
-2gregtech/gt.metaitem.01-27300.pngBronze Screw;SnCu\u2083
-1Retrievaladventurebackpack/pistonBoots-0.pngPiston Boots;Protection: 2;Durability: 250/250
+1Backpack/tannedLeather-0.pngTanned Leather
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
+2minecraft/piston-0.pngPiston
+2gregtech/gt.metaitem.01-27300.pngBronze Screw;SnCu\u2083
+1Retrievaladventurebackpack/pistonBoots-0.pngPiston Boots;Protection: 2;Durability: 250/250
 1

@@ -4,5 +4,5 @@
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.metaitem.01-11035.pngCopper Ingot;Cu
-64Retrievalgregtech/gt.metaitem.01-11345.pngAnnealed Copper Ingot;Cu
+64Retrievalgregtech/gt.metaitem.01-11345.pngAnnealed Copper Ingot;Cu
 64

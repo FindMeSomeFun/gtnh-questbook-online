@@ -6,7 +6,7 @@ Anchors are like covers, keeping things from connecting when you don't want them
 16appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
 32Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
-64Retrievalappliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix
-24Retrievalappliedenergistics2/item.ItemMultiPart-36.pngME Covered Cable - Fluix
-8Retrievalappliedenergistics2/item.ItemMultiPart-120.pngCable Anchor
+64Retrievalappliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix
+24Retrievalappliedenergistics2/item.ItemMultiPart-36.pngME Covered Cable - Fluix
+8Retrievalappliedenergistics2/item.ItemMultiPart-120.pngCable Anchor
 16

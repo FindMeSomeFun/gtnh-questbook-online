@@ -8,5 +8,5 @@ You'll now start in C:/ nifty! Try typing 'mkdir programs' and now you have a de
 'cd programs' will then take you to programs, and 'cd ../' will take you back a directory; you can also do things like, lets say you have a folder called apples in C as well but you're in apples, type 'cd ../apples' and it'll take you to apples. '..' essentially just means previous directory and this can be stacked; works with copying files and moving them as well, very useful to know.  
 
 But right now we're going to do something functional, come over to the next quest and bring your adapter and cables.ANDpre17610gregtech/gt.metaitem.02-32000.pngrewardstasksANDRetrievalOpenComputers/adapter-0.pngAdapter;Hold [NONE] for material costs.
-1OpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
+1OpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
 16

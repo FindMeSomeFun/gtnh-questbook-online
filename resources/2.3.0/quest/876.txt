@@ -19,7 +19,7 @@ You can use a screwdriver on an output hatch to cycle through its modes. Use shi
 16enhancedlootbags/lootbag-6-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-1169.pngLarge Chemical Reactor;Machine Type: Chemical Reactor;Controller block for the Large Chemical Reactor;Does not lose efficiency when overclocked;Accepts fluids instead of fluid cells;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings8-1.pngPTFE Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings5-0.pngCupronickel Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 1801 Kelvin
-1gregtech/gt.blockcasings8-0.pngChemically Inert Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1Optionalgregtech/gt.blockcasings8-1.pngPTFE Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockcasings5-0.pngCupronickel Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 1801 Kelvin
+1gregtech/gt.blockcasings8-0.pngChemically Inert Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 8

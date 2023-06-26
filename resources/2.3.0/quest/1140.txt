@@ -5,12 +5,12 @@
 4IC2/itemRecipePart-9.pngCarbon Rotor Blade
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksORRetrievalIC2/itemwoodrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 10MCW Max: 60 MCW
-1RetrievalIC2/itemironrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 14MCW Max: 75 MCW
-1Retrievalmiscutils/itemwoodrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 12MCW Max: 80 MCW
-1RetrievalIC2/itemsteelrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 17MCW Max: 90 MCW
-1RetrievalIC2/itemwcarbonrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 20MCW Max: 110 MCW
-1Retrievalmiscutils/itemironrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 14MCW Max: 120 MCW
-1Retrievalcompactkineticgenerators/IridiumRotor-0.pngKinetic Gearbox Rotor;Requirements Min: 23MCW Max: 130 MCW
-1Retrievalmiscutils/itemsteelrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 16MCW Max: 160 MCW
-1Retrievalmiscutils/itemwcarbonrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 18MCW Max: 320 MCW
+1RetrievalIC2/itemironrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 14MCW Max: 75 MCW
+1Retrievalmiscutils/itemwoodrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 12MCW Max: 80 MCW
+1RetrievalIC2/itemsteelrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 17MCW Max: 90 MCW
+1RetrievalIC2/itemwcarbonrotor-1.pngKinetic Gearbox Rotor;Requirements Min: 20MCW Max: 110 MCW
+1Retrievalmiscutils/itemironrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 14MCW Max: 120 MCW
+1Retrievalcompactkineticgenerators/IridiumRotor-0.pngKinetic Gearbox Rotor;Requirements Min: 23MCW Max: 130 MCW
+1Retrievalmiscutils/itemsteelrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 16MCW Max: 160 MCW
+1Retrievalmiscutils/itemwcarbonrotor-0.pngKinetic Gearbox Rotor;Requirements Min: 18MCW Max: 320 MCW
 1

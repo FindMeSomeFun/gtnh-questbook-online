@@ -1,4 +1,4 @@
 979gregtech/gt.metaitem.01-30001.png0Hydrogen4012000Want some hydrogen? Buy some!ANDpre5501gregtech/gt.metaitem.01-30001.png11481gregtech/gt.blockmachines-12.pngrewardsItemgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
-16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+16dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25

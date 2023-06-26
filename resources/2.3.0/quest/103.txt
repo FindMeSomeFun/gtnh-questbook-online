@@ -14,7 +14,7 @@ Check out the the Lead, Galena, Silver and Cryolite quest in the Novice Thaumatu
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDOptionalgregtech/gt.metaitem.01-2697.pngAlumina Dust;Al\u2082O\u2083
-20gregtech/gt.metaitem.01-2699.pngCryolite Dust;Na\u2083AlF\u2086
-10OptionalTConstruct/materials-12.pngRaw Aluminum
-8Retrievalgregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
+20gregtech/gt.metaitem.01-2699.pngCryolite Dust;Na\u2083AlF\u2086
+10OptionalTConstruct/materials-12.pngRaw Aluminum
+8Retrievalgregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
 8

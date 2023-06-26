@@ -9,34 +9,34 @@ Bring forth and slay the following and you shall receive some moderately great l
 64HardcoreEnderExpansion/arcane_shard-0.pngArcane Shard
 64Itemminecraft/fish-3-enchanted.pngGreetings from the Solar Man;minecraft:fish;Radioactivity X
 1tasksANDConsumeminecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
-1024minecraft/ender_eye-0.pngEye of Ender
-512HardcoreEnderExpansion/auricion-0.pngAuricion
-64HardcoreEnderExpansion/enderman_head-0.pngEnderman Head
-64HardcoreEnderExpansion/essence-1.pngFiery Essence
-512HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
-256HardcoreEnderExpansion/fire_shard-0.pngInfernium
-256HardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
-32minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
-64minecraft/ender_chest-0.pngPersonal Ender Chest;Only For Personal Use
-8Consumeminecraft/enchanting_table-0.pngEnchantment Table
-8HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
-16HardcoreEnderExpansion/rune-0.pngRune of Power
-16HardcoreEnderExpansion/rune-1.pngRune of Agility
-16HardcoreEnderExpansion/rune-2.pngRune of Vigor
-16HardcoreEnderExpansion/rune-3.pngRune of Defense
-16HardcoreEnderExpansion/rune-4.pngRune of Magic
-16HardcoreEnderExpansion/rune-5.pngRune of Void
-4HardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
-512Consumedreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K"
-1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
-1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
-1Huntmobs/HardcoreEnderExpansion-EnderGuardian-.pngEnder Guardian
-50Huntmobs/HardcoreEnderExpansion-Endermage-.pngEndermage
-20Huntmobs/HardcoreEnderExpansion-AngryEnderman-.pngAngry Enderman
-100Huntmobs/Enderman-.pngEnderman
-250Huntmobs/Silverfish-.pngSilverfish
-125Huntmobs/HardcoreEnderExpansion-Louse-.pngLouse
-125Huntmobs/HardcoreEnderExpansion-FireGolem-.pngFire Golem
-125Huntmobs/HardcoreEnderExpansion-ScorchedLens-.pngScorched Lens
-125Huntmobs/HardcoreEnderExpansion-HauntedMiner-.pngHaunted Miner
+1024minecraft/ender_eye-0.pngEye of Ender
+512HardcoreEnderExpansion/auricion-0.pngAuricion
+64HardcoreEnderExpansion/enderman_head-0.pngEnderman Head
+64HardcoreEnderExpansion/essence-1.pngFiery Essence
+512HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+256HardcoreEnderExpansion/fire_shard-0.pngInfernium
+256HardcoreEnderExpansion/altar_nexus-0.pngAltar Nexus
+32minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
+64minecraft/ender_chest-0.pngPersonal Ender Chest;Only For Personal Use
+8Consumeminecraft/enchanting_table-0.pngEnchantment Table
+8HardcoreEnderExpansion/silverfish_blood-0.pngSilverfish Blood
+16HardcoreEnderExpansion/rune-0.pngRune of Power
+16HardcoreEnderExpansion/rune-1.pngRune of Agility
+16HardcoreEnderExpansion/rune-2.pngRune of Vigor
+16HardcoreEnderExpansion/rune-3.pngRune of Defense
+16HardcoreEnderExpansion/rune-4.pngRune of Magic
+16HardcoreEnderExpansion/rune-5.pngRune of Void
+4HardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
+512Consumedreamcraft/item.CoinSurvivorIV-0.pngCoin "The Survivor 10K"
+1dreamcraft/item.CoinAdventureIV-0.pngCoin "The Explorer 10K"
+1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
+1Huntmobs/HardcoreEnderExpansion-EnderGuardian-.pngEnder Guardian
+50Huntmobs/HardcoreEnderExpansion-Endermage-.pngEndermage
+20Huntmobs/HardcoreEnderExpansion-AngryEnderman-.pngAngry Enderman
+100Huntmobs/Enderman-.pngEnderman
+250Huntmobs/Silverfish-.pngSilverfish
+125Huntmobs/HardcoreEnderExpansion-Louse-.pngLouse
+125Huntmobs/HardcoreEnderExpansion-FireGolem-.pngFire Golem
+125Huntmobs/HardcoreEnderExpansion-ScorchedLens-.pngScorched Lens
+125Huntmobs/HardcoreEnderExpansion-HauntedMiner-.pngHaunted Miner
 75

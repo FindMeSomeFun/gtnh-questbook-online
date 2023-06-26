@@ -7,7 +7,7 @@ Lepidolite and spodumene are good sources of lithium for your batteries. Later o
 5enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 3tasksANDRetrievalgregtech/gt.blockores-817.pngSalt Ore;NaCl
-32gregtech/gt.blockores-944.pngRock Salt Ore;KCl
-16gregtech/gt.blockores-920.pngSpodumene Ore;LiAlSi\u2082O\u2086
-32gregtech/gt.blockores-907.pngLepidolite Ore;KLi\u2083Al\u2084F\u2082O\u2081\u2080
+32gregtech/gt.blockores-944.pngRock Salt Ore;KCl
+16gregtech/gt.blockores-920.pngSpodumene Ore;LiAlSi\u2082O\u2086
+32gregtech/gt.blockores-907.pngLepidolite Ore;KLi\u2083Al\u2084F\u2082O\u2081\u2080
 32

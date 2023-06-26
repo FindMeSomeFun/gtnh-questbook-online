@@ -6,5 +6,5 @@
 1gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-1466.png1x Silver Cable;Max Voltage: 512 (HV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-1gregtech/gt.blockmachines-23.pngHigh Voltage Transformer;EV -> HV (Use Soft Mallet to invert);Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 4;Capacity: 8,704 EU
+1gregtech/gt.blockmachines-23.pngHigh Voltage Transformer;EV -> HV (Use Soft Mallet to invert);Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 4;Capacity: 8,704 EU
 1

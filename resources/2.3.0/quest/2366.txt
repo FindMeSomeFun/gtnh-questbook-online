@@ -9,8 +9,8 @@ Right click the End Powder, choose an enchantment, and fill with four End Powder
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalHardcoreEnderExpansion/transference_gem-0.pngTransference Gem
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-12RetrievalHardcoreEnderExpansion/endium_ingot-0.pngEndium Ingot
-4HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
-4minecraft/leather-0.pngLeather
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+12RetrievalHardcoreEnderExpansion/endium_ingot-0.pngEndium Ingot
+4HardcoreEnderExpansion/endoplasm-0.pngEctoplasm
+4minecraft/leather-0.pngLeather
 4

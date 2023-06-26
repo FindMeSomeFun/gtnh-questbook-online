@@ -6,7 +6,7 @@ Though you can also go the wood tar route in mid-MV.ANDpre801gregtech/gt.bl
 8enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 40tasksANDOptionalgregtech/gt.metaitem.01-30647.pngToluene Cell;C\u2087H\u2088
-26Optionalgregtech/gt.metaitem.02-32010.pngGelled Toluene;Raw Explosive
-256Optionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-16Retrievalminecraft/tnt-0.pngTNT
+26Optionalgregtech/gt.metaitem.02-32010.pngGelled Toluene;Raw Explosive
+256Optionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+16Retrievalminecraft/tnt-0.pngTNT
 64

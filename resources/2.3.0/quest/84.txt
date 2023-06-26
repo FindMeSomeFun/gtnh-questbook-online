@@ -3,10 +3,10 @@ You can also stack the tanks to increase capacity.ANDpre461gregtech/gt.bloc
 1BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalgregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-4OptionalTConstruct/GlassBlock-0.pngClear Glass;Glass-Tier: HV
-1Optionalgregtech/gt.metaitem.01-2804.pngObsidian Dust;MgFeSi\u2082O\u2088
-4ExtraUtilities/decorativeBlock2-0.pngThickened Glass;Glass-Tier: HV
-1OptionalExtraUtilities/decorativeBlock2-5.pngObsidian Glass;Glass-Tier: HV
-1RetrievalBuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
+2gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+4OptionalTConstruct/GlassBlock-0.pngClear Glass;Glass-Tier: HV
+1Optionalgregtech/gt.metaitem.01-2804.pngObsidian Dust;MgFeSi\u2082O\u2088
+4ExtraUtilities/decorativeBlock2-0.pngThickened Glass;Glass-Tier: HV
+1OptionalExtraUtilities/decorativeBlock2-5.pngObsidian Glass;Glass-Tier: HV
+1RetrievalBuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
 1

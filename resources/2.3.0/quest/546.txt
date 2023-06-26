@@ -18,5 +18,5 @@ These are GT machines, so remember to protect them (and their power sources!) fr
 4minecraft/bucket-0.pngBucket
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pump;The best way to empty Oceans! Outputs on top;64 EU/operation, 4 sec per bucket, no stuttering;Maximum pumping area: 21x21;Use Screwdriver to regulate pumping area;Use Soft Mallet to disable and retract the pipe;Disable the bottom pump to retract the pipe!;Use Soldering Iron to auto retract the pipe when hitting a rock;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1RetrievalIC2/blockMiningPipe-0.pngMining Pipe
+1RetrievalIC2/blockMiningPipe-0.pngMining Pipe
 64

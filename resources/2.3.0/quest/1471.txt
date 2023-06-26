@@ -24,6 +24,6 @@ To complete this quest get any one of the eggs - note you may need a Heavy Duty 
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksORRetrievalGalacticraftMars/tile.slimelingEgg-0.pngRed Slimeling Egg
-1RetrievalGalacticraftMars/tile.slimelingEgg-1.pngBlue Slimeling Egg
-1RetrievalGalacticraftMars/tile.slimelingEgg-2.pngYellow Slimeling Egg
+1RetrievalGalacticraftMars/tile.slimelingEgg-1.pngBlue Slimeling Egg
+1RetrievalGalacticraftMars/tile.slimelingEgg-2.pngYellow Slimeling Egg
 1

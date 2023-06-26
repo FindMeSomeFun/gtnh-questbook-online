@@ -3,7 +3,7 @@
 16enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-1IC2/itemCellEmpty-1.pngWater Cell
-1gregtech/gt.metaitem.01-30087.pngMercury Cell;Hg
-1Retrievalgregtech/gt.metaitem.01-30684.pngHypochlorous Acid Cell;HClO
+1IC2/itemCellEmpty-1.pngWater Cell
+1gregtech/gt.metaitem.01-30087.pngMercury Cell;Hg
+1Retrievalgregtech/gt.metaitem.01-30684.pngHypochlorous Acid Cell;HClO
 1

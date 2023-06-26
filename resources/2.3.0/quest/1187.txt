@@ -5,6 +5,6 @@
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalRailcraft/track-816-speed.pngH.S. Track;Dangerous;More than twice as fast as normal track;Requires Boosters/Transitions to reach speed;Cannot make corners at High Speed
-64RetrievalRailcraft/track-0-speed-boost.pngH.S. Booster Track;Dangerous;More than twice as fast as normal track;Maintains High Speed;- Apply Redstone to boost -
-16Railcraft/track-26865-speed-transition.pngH.S. Transition Track;Dangerous;More than twice as fast as normal track;Transitions to/from High Speed;- Apply Redstone to boost -
+64RetrievalRailcraft/track-0-speed-boost.pngH.S. Booster Track;Dangerous;More than twice as fast as normal track;Maintains High Speed;- Apply Redstone to boost -
+16Railcraft/track-26865-speed-transition.pngH.S. Transition Track;Dangerous;More than twice as fast as normal track;Transitions to/from High Speed;- Apply Redstone to boost -
 16

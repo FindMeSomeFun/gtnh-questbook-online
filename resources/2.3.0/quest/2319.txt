@@ -1,6 +1,6 @@
 2319bartworks/gt.bwMetaGenerateddust-76.png1§b§lEven More Chlorine Needed8-1By combining your Acidic Iridium Solution with Ammonia Chloride you'll get some Iridium Chloride, which is rather easy to process into Iridium. You're almost done.ANDpre23161bartworks/gt.bwMetaGeneratedcell-75.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-75.pngAcidic Iridium Solution Cell;???;Added by BartWorks
-1bartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell;NH\u2084Cl;Added by BartWorks
-3Retrievalbartworks/gt.bwMetaGenerateddust-76.pngIridium Chloride Dust;IrCl\u2083;Added by BartWorks
-1gregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+1bartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell;NH\u2084Cl;Added by BartWorks
+3Retrievalbartworks/gt.bwMetaGenerateddust-76.pngIridium Chloride Dust;IrCl\u2083;Added by BartWorks
+1gregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
 3

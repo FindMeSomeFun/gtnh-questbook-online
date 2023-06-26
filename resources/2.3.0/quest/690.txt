@@ -4,8 +4,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-28305.pngSteel Ring;Fe\u2085\u2080C
-24Craftingminecraft/chainmail_helmet-0.pngChain Helmet;Protection: 2;Durability: 165/165
-1minecraft/chainmail_chestplate-0.pngChain Chestplate;Protection: 5;Durability: 240/240
-1minecraft/chainmail_leggings-0.pngChain Leggings;Protection: 4;Durability: 225/225
-1minecraft/chainmail_boots-0.pngChain Boots;Protection: 1;Durability: 195/195
+24Craftingminecraft/chainmail_helmet-0.pngChain Helmet;Protection: 2;Durability: 165/165
+1minecraft/chainmail_chestplate-0.pngChain Chestplate;Protection: 5;Durability: 240/240
+1minecraft/chainmail_leggings-0.pngChain Leggings;Protection: 4;Durability: 225/225
+1minecraft/chainmail_boots-0.pngChain Boots;Protection: 1;Durability: 195/195
 1

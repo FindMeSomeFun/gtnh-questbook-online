@@ -4,7 +4,7 @@
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionaldreamcraft/item.EnderEgg-0.pngEnder Egg
-1DraconicEvolution/draconiumDust-0.pngDraconium Dust
-64gregtech/gt.metaitem.98-4.pngEnder Goo Cell
-1Retrievaldreamcraft/item.DraconiumEgg-0.pngEnriched Draconium Egg
+1DraconicEvolution/draconiumDust-0.pngDraconium Dust
+64gregtech/gt.metaitem.98-4.pngEnder Goo Cell
+1Retrievaldreamcraft/item.DraconiumEgg-0.pngEnriched Draconium Egg
 1

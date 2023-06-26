@@ -3,14 +3,14 @@
 2enhancedlootbags/lootbag-7.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-3.pngEnriched Sunnarium
-2gregtech/gt.metaitem.01-17339.pngSteeleaf Plate;(Fe\u2085\u2080C)Ma
-4gregtech/gt.metaitem.01-17098.pngUranium 238 Plate;U
-2Optionalgregtech/gt.metaitem.01-32753.pngSolar Panel;Medium Voltage Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.03-32065.pngLow Power IC;Low Power Circuit
-2gregtech/gt.metaitem.01-17981.pngIndium Gallium Phosphide Plate;InGaP
-2gregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
-4dreamcraft/item.IrradiantReinforcedTungstenPlate-0.pngIrradiant Reinforced Tungsten Plate
-2gregtech/gt.blockmachines-2360.png1x Superconductor EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32754.pngSolar Panel;High Voltage Solar Panel (Needs cleaning with right click)
+2gregtech/gt.metaitem.01-17339.pngSteeleaf Plate;(Fe\u2085\u2080C)Ma
+4gregtech/gt.metaitem.01-17098.pngUranium 238 Plate;U
+2Optionalgregtech/gt.metaitem.01-32753.pngSolar Panel;Medium Voltage Solar Panel (Needs cleaning with right click)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+4gregtech/gt.metaitem.03-32065.pngLow Power IC;Low Power Circuit
+2gregtech/gt.metaitem.01-17981.pngIndium Gallium Phosphide Plate;InGaP
+2gregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
+4dreamcraft/item.IrradiantReinforcedTungstenPlate-0.pngIrradiant Reinforced Tungsten Plate
+2gregtech/gt.blockmachines-2360.png1x Superconductor EV Wire;Max Voltage: 2,048 (EV);Max Amperage: 8;Loss/Meter/Ampere: 0 EU-Volt
+4Retrievalgregtech/gt.metaitem.01-32754.pngSolar Panel;High Voltage Solar Panel (Needs cleaning with right click)
 1

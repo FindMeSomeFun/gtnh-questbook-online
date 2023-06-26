@@ -5,6 +5,6 @@ When you're mining you'll surely pick up some Meteoric Iron from small ores, eno
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockores-822.pngBauxite Ore;(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
-64gregtech/gt.blockores-19.pngAluminium Ore;Al
-16gregtech/gt.blockores-918.pngIlmenite Ore;FeTiO\u2083
+64gregtech/gt.blockores-19.pngAluminium Ore;Al
+16gregtech/gt.blockores-918.pngIlmenite Ore;FeTiO\u2083
 16

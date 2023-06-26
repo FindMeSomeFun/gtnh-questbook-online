@@ -2,6 +2,6 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-30597.png3,3-Diaminobenzidine Cell;C\u2081\u2082H\u2081\u2084N\u2084
-18gregtech/gt.metaitem.01-30598.pngDiphenyl Isophtalate Cell;C\u2082\u2080H\u2081\u2084O\u2084
-18Retrievalgregtech/gt.metaitem.01-17599.pngPolybenzimidazole Plate;C\u2082\u2080N\u2084H\u2081\u2082
+18gregtech/gt.metaitem.01-30598.pngDiphenyl Isophtalate Cell;C\u2082\u2080H\u2081\u2084O\u2084
+18Retrievalgregtech/gt.metaitem.01-17599.pngPolybenzimidazole Plate;C\u2082\u2080N\u2084H\u2081\u2082
 125

@@ -5,7 +5,7 @@
 1minecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
 5Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 15tasksANDOptionalgregtech/gt.metaitem.02-18300.pngBronze Casing;SnCu\u2083
-8gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-8gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-2RetrievalForestry/sturdyMachine-0.pngSturdy Casing
+8gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
+8gregtech/gt.blockcasings-1.pngLV Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+2RetrievalForestry/sturdyMachine-0.pngSturdy Casing
 2

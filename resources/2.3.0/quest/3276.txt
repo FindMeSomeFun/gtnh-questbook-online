@@ -4,6 +4,6 @@ After some research, infinity as a frame and enriched holmium as the protection 
 
 §3Allows the player to use the tier 2 recipes with the use of a silver nanite in the input bus.
 This also unlocks parallels of the PCB Factory with said formula: Log2(x) parallels, where x is the amount of nanites in the input bus.ANDpre32490gregtech/gt.metaitem.01-17979.png32730gregtech/gt.blockmachines-356.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4054.pngSilver Nanites;Ag
-1Retrievalgregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockmachines-4424.pngDuranium Frame Box;Just something you can put covers on.
+1Retrievalgregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockmachines-4424.pngDuranium Frame Box;Just something you can put covers on.
 1

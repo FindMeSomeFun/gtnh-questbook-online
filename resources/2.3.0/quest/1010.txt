@@ -9,5 +9,5 @@ It is much easier using a Forestry worktable. Move all your buckets into the wor
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalharvestcraft/freshwaterItem-0.pngFresh Water
-64harvestcraft/freshmilkItem-0.pngFresh Milk
+64harvestcraft/freshmilkItem-0.pngFresh Milk
 64

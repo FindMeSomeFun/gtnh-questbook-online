@@ -4,5 +4,5 @@ Check NEI for all the recipes you can use for either of these. You only need one
 16enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 2tasksANDOptionalgregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
-20Retrievalgregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
+20Retrievalgregtech/gt.metaitem.01-30673.pngMethanol Cell;CH\u2084O
 20

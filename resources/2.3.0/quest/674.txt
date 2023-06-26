@@ -6,6 +6,6 @@ NEI doesn't show the right recipe on the first page. Go through the recipes a bi
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalRailcraft/track-736-slow-junction.pngWooden Junction Track;30% of the speed of normal track
-4Railcraft/track-19986-slow-switch.pngWooden Switch Track;30% of the speed of normal track;- Requires Switch Motor/Lever to switch -
-4Railcraft/track-736-slow-wye.pngWooden Wye Track;30% of the speed of normal track;- Requires Switch Motor/Lever to switch -
+4Railcraft/track-19986-slow-switch.pngWooden Switch Track;30% of the speed of normal track;- Requires Switch Motor/Lever to switch -
+4Railcraft/track-736-slow-wye.pngWooden Wye Track;30% of the speed of normal track;- Requires Switch Motor/Lever to switch -
 4

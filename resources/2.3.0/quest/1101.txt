@@ -11,8 +11,8 @@ Beware! Your actions will have consequences.ANDpre1170ExtraUtilities/golden
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5tasksANDOptionalExtraUtilities/divisionSigil-0.pngDivision Sigil;INACTIVE: You must perform Activation Ritual.;Sneak right-click on an enchanting table;for more details
-1Optionalminecraft/enchanting_table-0.pngEnchantment Table
-1minecraft/redstone-0.pngRedstone
-8ExtraUtilities/golden_lasso-0.pngGolden Lasso
-1RetrievalExtraUtilities/divisionSigil-0-activated.pngDivision Sigil;ACTIVE: Number of uses remaining - 256
+1Optionalminecraft/enchanting_table-0.pngEnchantment Table
+1minecraft/redstone-0.pngRedstone
+8ExtraUtilities/golden_lasso-0.pngGolden Lasso
+1RetrievalExtraUtilities/divisionSigil-0-activated.pngDivision Sigil;ACTIVE: Number of uses remaining - 256
 1

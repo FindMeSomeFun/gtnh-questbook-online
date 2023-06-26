@@ -5,5 +5,5 @@
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 20dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 20tasksANDRetrievalminecraft/rail-0.pngTrack
-512Railcraft/track-32363-buffer-stop.pngBuffer Stop Track;End of the Line;- Hit with Crowbar to change direction -
+512Railcraft/track-32363-buffer-stop.pngBuffer Stop Track;End of the Line;- Hit with Crowbar to change direction -
 2

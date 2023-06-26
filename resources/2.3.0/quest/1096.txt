@@ -4,6 +4,6 @@ Note: Thaumcraft Research Tweaks has reworked the research table GUI. Aspects ar
 64Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockTable-0.pngTable;Burn Time: 300
-2RetrievalThaumcraft/ItemInkwell-0.pngScribing Tools
-2minecraft/paper-0.pngPaper
+2RetrievalThaumcraft/ItemInkwell-0.pngScribing Tools
+2minecraft/paper-0.pngPaper
 16

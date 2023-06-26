@@ -11,16 +11,16 @@ It is also possible to use mutators to increase chances of mutation, alveary lig
 32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5enhancedlootbags/lootbag-26.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDOptionalgregtech/gt.metaitem.02-19086.pngFine Gold Wire;Au
-432Forestry/royalJelly-0.pngRoyal Jelly
-216Forestry/pollen-0.pngPollen Cluster
-216OptionalForestry/beeswax-0.pngBeeswax
-432Forestry/oakStick-0.pngImpregnated Stick
-648gregtech/gt.metaitem.01-30725.pngHoney Cell
-216OptionalForestry/craftingMaterial-6.pngScented Paneling
-216Optionalminecraft/log-0.pngOak Wood;Burn Time: 300
-216gregtech/gt.metaitem.01-30713.pngSeed Oil Cell
-7OptionalForestry/impregnatedCasing-0.pngImpregnated Casing
-27Forestry/craftingMaterial-6.pngScented Paneling
-216RetrievalForestry/alveary-0.pngAlveary
-27Optionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
+432Forestry/royalJelly-0.pngRoyal Jelly
+216Forestry/pollen-0.pngPollen Cluster
+216OptionalForestry/beeswax-0.pngBeeswax
+432Forestry/oakStick-0.pngImpregnated Stick
+648gregtech/gt.metaitem.01-30725.pngHoney Cell
+216OptionalForestry/craftingMaterial-6.pngScented Paneling
+216Optionalminecraft/log-0.pngOak Wood;Burn Time: 300
+216gregtech/gt.metaitem.01-30713.pngSeed Oil Cell
+7OptionalForestry/impregnatedCasing-0.pngImpregnated Casing
+27Forestry/craftingMaterial-6.pngScented Paneling
+216RetrievalForestry/alveary-0.pngAlveary
+27Optionalminecraft/wooden_slab-0.pngOak Wood Slab;Burn Time: 150
 9

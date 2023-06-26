@@ -8,9 +8,9 @@ As long as it stays anywhere in the inventory, it protects players from Forest G
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 1tasksANDOptionalminecraft/emerald-0.pngEmerald
-1minecraft/string-0.pngString
-1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
-1HardcoreEnderExpansion/bucket_ender_goo-0.pngEnder Goo Bucket
-1OptionalHardcoreEnderExpansion/ghost_amulet-0.pngGhost Amulet
-1RetrievalHardcoreEnderExpansion/ghost_amulet-1.pngGhost Amulet
+1minecraft/string-0.pngString
+1HardcoreEnderExpansion/end_powder-0.pngEnd Powder
+1HardcoreEnderExpansion/bucket_ender_goo-0.pngEnder Goo Bucket
+1OptionalHardcoreEnderExpansion/ghost_amulet-0.pngGhost Amulet
+1RetrievalHardcoreEnderExpansion/ghost_amulet-1.pngGhost Amulet
 1

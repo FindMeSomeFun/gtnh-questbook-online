@@ -3,7 +3,7 @@
 16enhancedlootbags/lootbag-4.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30tasksANDOptionalminecraft/string-0.pngString
-64minecraft/gunpowder-0.pngGunpowder
-256gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
-256Retrievalgregtech/gt.blockreinforced-5.pngPowderbarrel
+64minecraft/gunpowder-0.pngGunpowder
+256gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
+256Retrievalgregtech/gt.blockreinforced-5.pngPowderbarrel
 64

@@ -2,7 +2,7 @@
 
 §3Only works in the Twilight Forest dim.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-231.pngSpawn Snow Queen
 1tasksANDConsumedreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
-1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5RetrievalTwilightForest/item.alphaFur-0.pngAlpha Yeti Fur
-1TwilightForest/tile.AuroraPillar-0.pngAurora Pillar
+1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
+5RetrievalTwilightForest/item.alphaFur-0.pngAlpha Yeti Fur
+1TwilightForest/tile.AuroraPillar-0.pngAurora Pillar
 1

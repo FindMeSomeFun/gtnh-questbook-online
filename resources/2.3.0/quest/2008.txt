@@ -6,10 +6,10 @@ Still confused? Good, that's the spirit of learning! Always make sure to test th
 
 §3Note that some researches require a significant amount of amps, so keep that in mind.§rANDpre20071gregtech/gt.blockmachines-15311.pngrewardsItemtectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
 59tasksANDOptionalgregtech/gt.blockmachines-15103.pngUV 4A Energy Hatch;TecTech: Interdimensional;Multiple Ampere Energy Injector for Multiblocks;Amperes In: 5 A;Voltage IN: 524,288 (UV);Capacity: 8,389,120 EU
-1gregtech/gt.blockmachines-15440.pngOptical Slave Connector;TecTech: Elemental Matter;Quantum Data Input for Multiblocks;High speed fibre optics connector.;Must be painted to work
-1gregtech/gt.blockmachines-15451.pngObject Holder;TecTech: Elemental Matter;For Research Station;Advanced Holding Mechanism!
-1tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
-52tectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
-23tectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
-14Retrievalgregtech/gt.blockmachines-15331.pngResearch Station;Machine Type: Research Station;Controller block of the Research Station;Used to scan Data Sticks for Assembling Line Recipes;Needs to be fed with computation to work;Does not consume the item until the Data Stick is written;The structure is too complex!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Elemental Matter
+1gregtech/gt.blockmachines-15440.pngOptical Slave Connector;TecTech: Elemental Matter;Quantum Data Input for Multiblocks;High speed fibre optics connector.;Must be painted to work
+1gregtech/gt.blockmachines-15451.pngObject Holder;TecTech: Elemental Matter;For Research Station;Advanced Holding Mechanism!
+1tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
+52tectech/gt.blockcasingsTT-3.pngAdvanced Computer Casing;TecTech: Elemental Matter;Contains high bandwidth bus;couple thousand qubits wide.
+23tectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
+14Retrievalgregtech/gt.blockmachines-15331.pngResearch Station;Machine Type: Research Station;Controller block of the Research Station;Used to scan Data Sticks for Assembling Line Recipes;Needs to be fed with computation to work;Does not consume the item until the Data Stick is written;The structure is too complex!;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: TecTech: Elemental Matter
 1

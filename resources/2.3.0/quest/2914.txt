@@ -8,8 +8,8 @@ You can make it with your EBF now using Cobaltite Ore from the Twilight Forest a
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-2827.pngCobaltite Dust;CoAsS
-16gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-48Retrievalgregtech/gt.metaitem.01-2551.pngRoasted Cobalt Dust
-16gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
-8Retrievalgregtech/gt.metaitem.01-11033.pngCobalt Ingot;Co
+16gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+48Retrievalgregtech/gt.metaitem.01-2551.pngRoasted Cobalt Dust
+16gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
+8Retrievalgregtech/gt.metaitem.01-11033.pngCobalt Ingot;Co
 24

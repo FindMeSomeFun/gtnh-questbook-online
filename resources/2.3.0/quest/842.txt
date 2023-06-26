@@ -4,5 +4,5 @@
 4enhancedlootbags/lootbag-5.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25tasksANDRetrievalgregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
-64Retrievalgregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
+64Retrievalgregtech/gt.metaitem.01-30715.pngMethane Cell;CH\u2084
 64

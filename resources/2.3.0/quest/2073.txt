@@ -2,5 +2,5 @@
 8minecraft/fish-3.pngPufferfish;minecraft:fish
 64dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDHuntmobs/Bat-.pngBat
-250Huntmobs/Thaumcraft-Firebat-.pngFirebat
+250Huntmobs/Thaumcraft-Firebat-.pngFirebat
 1

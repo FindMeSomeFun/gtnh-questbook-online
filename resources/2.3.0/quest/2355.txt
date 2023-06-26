@@ -7,10 +7,10 @@ Holding the compass shows all biomes of the selected type as markers on the scre
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;30 Knowledge Points
 1tasksANDOptionalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
-1gregtech/gt.metaitem.01-28770.pngEndium Ring
-2gregtech/gt.metaitem.01-17770.pngEndium Plate
-1gregtech/gt.metaitem.01-27770.pngEndium Screw
-2gregtech/gt.metaitem.01-26770.pngEndium Bolt
-1gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-1RetrievalHardcoreEnderExpansion/biome_compass-0.pngBiome Compass
+1gregtech/gt.metaitem.01-28770.pngEndium Ring
+2gregtech/gt.metaitem.01-17770.pngEndium Plate
+1gregtech/gt.metaitem.01-27770.pngEndium Screw
+2gregtech/gt.metaitem.01-26770.pngEndium Bolt
+1gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+1RetrievalHardcoreEnderExpansion/biome_compass-0.pngBiome Compass
 1

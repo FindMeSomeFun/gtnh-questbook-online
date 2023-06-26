@@ -7,15 +7,15 @@ You'll need Nichrome Coils and an HV Assembler.
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
-1gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
-9gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
-10gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-20Optionalgregtech/gt.metaitem.01-2988.pngSuperconductor Base HV Dust;TiBa\u2089Cu\u2081\u2080O\u2082\u2080
-40Optionalgregtech/gt.metaitem.01-11988.pngSuperconductor Base HV Ingot;TiBa\u2089Cu\u2081\u2080O\u2082\u2080
-24Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 8 EU-Volt
-48Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 8 EU-Volt
-48gregtech/gt.blockmachines-5150.pngTiny Titanium Fluid Pipe;Fluid Capacity: 1,600 L/sec;Heat Limit: 5,000 K
-32gregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
-8gregtech/gt.metaitem.01-30004.pngHelium Cell;He
-32Retrievalgregtech/gt.blockmachines-2340.png1x Superconductor HV Wire;Max Voltage: 512 (HV);Max Amperage: 6;Loss/Meter/Ampere: 0 EU-Volt
+1gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
+9gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+10gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+20Optionalgregtech/gt.metaitem.01-2988.pngSuperconductor Base HV Dust;TiBa\u2089Cu\u2081\u2080O\u2082\u2080
+40Optionalgregtech/gt.metaitem.01-11988.pngSuperconductor Base HV Ingot;TiBa\u2089Cu\u2081\u2080O\u2082\u2080
+24Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 8 EU-Volt
+48Optionalgregtech/gt.blockmachines-2220.png1x Superconductor Base HV Wire;Max Voltage: 512 (HV);Max Amperage: 2;Loss/Meter/Ampere: 8 EU-Volt
+48gregtech/gt.blockmachines-5150.pngTiny Titanium Fluid Pipe;Fluid Capacity: 1,600 L/sec;Heat Limit: 5,000 K
+32gregtech/gt.metaitem.01-32612.pngElectric Pump;512 L/t (10,240 L/s) as Cover
+8gregtech/gt.metaitem.01-30004.pngHelium Cell;He
+32Retrievalgregtech/gt.blockmachines-2340.png1x Superconductor HV Wire;Max Voltage: 512 (HV);Max Amperage: 6;Loss/Meter/Ampere: 0 EU-Volt
 48

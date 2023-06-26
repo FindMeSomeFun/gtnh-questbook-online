@@ -3,10 +3,10 @@
 5dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-2056.pngIndium Dust;In
-8gregtech/gt.metaitem.01-2057.pngTin Dust;Sn
-4gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
-4gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
-2gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
-14gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-28Retrievalgregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
+8gregtech/gt.metaitem.01-2057.pngTin Dust;Sn
+4gregtech/gt.metaitem.01-2063.pngBarium Dust;Ba
+4gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
+2gregtech/gt.metaitem.01-2035.pngCopper Dust;Cu
+14gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+28Retrievalgregtech/gt.blockmachines-2400.png1x Superconductor LuV Wire;Max Voltage: 32,768 (LuV);Max Amperage: 16;Loss/Meter/Ampere: 0 EU-Volt
 60

@@ -6,5 +6,5 @@
 64gregtech/gt.blockores-526.pngLapis Ore;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
 64Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalgregtech/gt.blockmachines-850.pngOre Washing Plant;Machine Type: Ore Washer, Simple Washer, Chemical Bath;Controller Block for the Industrial Wash Plant;Can be configured with a screwdriver to also do Simple Washer and process Chemical Bathing;400% faster than using single block machines of the same voltage;Processes four item per voltage tier;Always requires an Input Hatch full of water to refill structure;Need to be filled with water.;Will automatically fill water from input hatch.;Causes: 100 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.2-4.pngWash Plant Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1miscutils/gtplusplus.blockcasings.2-4.pngWash Plant Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 1

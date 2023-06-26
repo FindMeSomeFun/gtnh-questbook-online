@@ -7,6 +7,6 @@
 16gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-64Retrievalgregtech/gt.blockcasings4-15.pngFirebricks;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-24Retrievalgregtech/gt.blockmachines-140.pngBricked Blast Furnace;Machine Type: Blast Furnace;Controller Block for the Bricked Blast Furnace;Usable for Steel and general Pyrometallurgy;Has a useful interface, unlike other gregtech multis;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+64Retrievalgregtech/gt.blockcasings4-15.pngFirebricks;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+24Retrievalgregtech/gt.blockmachines-140.pngBricked Blast Furnace;Machine Type: Blast Furnace;Controller Block for the Bricked Blast Furnace;Usable for Steel and general Pyrometallurgy;Has a useful interface, unlike other gregtech multis;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
 1

@@ -9,6 +9,6 @@ The GT++ multiblocks you can now make are optional, but quite powerful upgrades 
 16miscutils/itemDustInconel625-0.pngInconel-625 Dust;Ni\u2083Cr\u2087Mo\u2081\u2080(Fe\u2082Ni)\u2081\u2080(Ni\u2084Cr)\u2081\u2083;Hold Ctrl to show additional info.
 16Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalmiscutils/miscutils.blockcasings-14.pngBlast Smelter Heat Containment Coil;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-16Optionalmiscutils/miscutils.blockcasings-15.pngBlast Smelter Casing Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-13Retrievalgregtech/gt.blockmachines-810.pngAlloy Blast Smelter;Machine Type: Fluid Alloy Cooker;Controller Block for the Alloy Blast Smelter;20% Faster than the Electric Blast Furnace;Allows Complex GT++ alloys to be created;Accepts only one Energy Hatch;Circuit for recipe goes in the Input Bus or GUI slot;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
+16Optionalmiscutils/miscutils.blockcasings-15.pngBlast Smelter Casing Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+13Retrievalgregtech/gt.blockmachines-810.pngAlloy Blast Smelter;Machine Type: Fluid Alloy Cooker;Controller Block for the Alloy Blast Smelter;20% Faster than the Electric Blast Furnace;Allows Complex GT++ alloys to be created;Accepts only one Energy Hatch;Circuit for recipe goes in the Input Bus or GUI slot;Causes: 200 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

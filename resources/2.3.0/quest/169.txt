@@ -12,5 +12,5 @@ If you set it to capture mode, you can make souls of a specific mob without any 
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5tasksANDRetrievalEnderIO/itemBrokenSpawner-0.pngBroken Spawner
-1RetrievalEnderIO/blockPoweredSpawner-0.pngPowered Spawner;Empty
+1RetrievalEnderIO/blockPoweredSpawner-0.pngPowered Spawner;Empty
 1

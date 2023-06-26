@@ -4,9 +4,9 @@
 4minecraft/netherrack-0.pngNetherrack
 1witchery/cauldron-0.pngWitch''s Cauldron
 1tasksANDConsumewitchery/cauldron-0.pngWitch''s Cauldron
-1minecraft/bucket-0.pngBucket
-4minecraft/netherrack-0.pngNetherrack
-1minecraft/flint_and_steel-0.pngFlint and Steel
-1LocationDIM/55-.pngSpirit World
-1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
+1minecraft/bucket-0.pngBucket
+4minecraft/netherrack-0.pngNetherrack
+1minecraft/flint_and_steel-0.pngFlint and Steel
+1LocationDIM/55-.pngSpirit World
+1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5

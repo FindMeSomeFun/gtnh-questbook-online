@@ -5,12 +5,12 @@ Don't forget to bring repair stuff for your tools and armor! Dream 2018!ANDpre
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1tasksANDRetrievalminecraft/cobblestone-0.pngCobblestone
-128minecraft/glass-0.pngGlass;Glass-Tier: HV
-64GalacticraftCore/tile.oxygenCollector-0.pngOxygen Collector;Power required: 30 EU /s
-1GalacticraftCore/tile.oxygenCompressor-0.pngOxygen Compressor;Power required: 45 EU /s
-1GalacticraftCore/tile.distributor-0.pngOxygen Bubble Distributor;Power required: 30 EU /s
-1GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
-10minecraft/leaves-0.pngOak Leaves
-64minecraft/log-0.pngOak Wood;Burn Time: 300
-16gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;1,600,000 / 1,600,000 EU - Voltage: 512;HV-Tier
+128minecraft/glass-0.pngGlass;Glass-Tier: HV
+64GalacticraftCore/tile.oxygenCollector-0.pngOxygen Collector;Power required: 30 EU /s
+1GalacticraftCore/tile.oxygenCompressor-0.pngOxygen Compressor;Power required: 45 EU /s
+1GalacticraftCore/tile.distributor-0.pngOxygen Bubble Distributor;Power required: 30 EU /s
+1GalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
+10minecraft/leaves-0.pngOak Leaves
+64minecraft/log-0.pngOak Wood;Burn Time: 300
+16gregtech/gt.metaitem.01-32538.pngLarge Lithium Battery;Reusable;1,600,000 / 1,600,000 EU - Voltage: 512;HV-Tier
 2

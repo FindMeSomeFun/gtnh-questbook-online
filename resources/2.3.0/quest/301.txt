@@ -4,8 +4,8 @@ Fire spread is disabled in the configs of servers to prevent massive lag and wor
 5Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumicTinkerer/fireChaos-0.pngPerditio Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireAir-0.pngAer Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireFire-0.pngIgnis Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireEarth-0.pngTerra Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireWater-0.pngAqua Imbued Fire;ELEMENTAL firespread disabled
+1ThaumicTinkerer/fireAir-0.pngAer Imbued Fire;ELEMENTAL firespread disabled
+1ThaumicTinkerer/fireFire-0.pngIgnis Imbued Fire;ELEMENTAL firespread disabled
+1ThaumicTinkerer/fireEarth-0.pngTerra Imbued Fire;ELEMENTAL firespread disabled
+1ThaumicTinkerer/fireWater-0.pngAqua Imbued Fire;ELEMENTAL firespread disabled
 1

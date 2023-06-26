@@ -5,7 +5,7 @@
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDOptionalgregtech/gt.metaitem.02-22809.pngLong Wood Stick
-3gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-1minecraft/string-0.pngString
-1Craftingminecraft/fishing_rod-0.pngFishing Rod
+3gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+1minecraft/string-0.pngString
+1Craftingminecraft/fishing_rod-0.pngFishing Rod
 1

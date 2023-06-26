@@ -2,7 +2,7 @@
 1enhancedlootbags/lootbag-41-enchanted.pngLootBag;Your luck is increased by 100 %;Fortune III
 2Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-6gregtech/gt.metaitem.01-11067.pngNeodymium Ingot;Nd
-13Retrievalgregtech/gt.blockmetal3-3.pngBlock of Europium
-1gregtech/gt.metaitem.01-17070.pngEuropium Plate;Eu
+6gregtech/gt.metaitem.01-11067.pngNeodymium Ingot;Nd
+13Retrievalgregtech/gt.blockmetal3-3.pngBlock of Europium
+1gregtech/gt.metaitem.01-17070.pngEuropium Plate;Eu
 4

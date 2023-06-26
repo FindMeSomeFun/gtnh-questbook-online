@@ -4,7 +4,7 @@
 8Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalminecraft/wool-0.pngWool
-3minecraft/carpet-0.pngCarpet
-3Backpack/tannedLeather-0.pngTanned Leather
-3Craftingsleepingbag/sleepingBag-0.pngSleeping Bag
+3minecraft/carpet-0.pngCarpet
+3Backpack/tannedLeather-0.pngTanned Leather
+3Craftingsleepingbag/sleepingBag-0.pngSleeping Bag
 1

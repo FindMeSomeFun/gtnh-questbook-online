@@ -1,4 +1,4 @@
 982gregtech/gt.metaitem.01-30720.png0Sulfuric Acid4024000What some sulfuric acid? Buy some!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
 16tasksANDConsumeIC2/itemCellEmpty-0.pngEmpty Cell
-16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
+16dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5

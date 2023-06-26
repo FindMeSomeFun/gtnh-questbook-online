@@ -3,7 +3,7 @@
 1enhancedlootbags/lootbag-9.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalThaumcraft/blockStoneDevice-2.pngRunic Matrix
-1Thaumcraft/blockStoneDevice-1.pngArcane Pedestal
-7Thaumcraft/blockCosmeticSolid-7.pngArcane Stone Bricks
-4Thaumcraft/blockCosmeticSolid-6.pngArcane Stone Block
+1Thaumcraft/blockStoneDevice-1.pngArcane Pedestal
+7Thaumcraft/blockCosmeticSolid-7.pngArcane Stone Bricks
+4Thaumcraft/blockCosmeticSolid-6.pngArcane Stone Block
 4

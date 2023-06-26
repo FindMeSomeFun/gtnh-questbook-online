@@ -6,9 +6,9 @@ You can make some unique armor with this material.ANDpre2251minecraft/end_p
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalTwilightForest/item.liveRoot-0.pngLiveroot
-9Optionalgregtech/gt.metaitem.01-2832.pngLiveroot Dust
-9gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
-9gregtech/gt.metaitem.01-86.pngTiny Pile of Gold Dust;Au
-9Optionalgregtech/gt.metaitem.01-2338.pngIronwood Dust;Fe\u2089((COH)\u2083Ma)\u2089Au
-18RetrievalTwilightForest/item.ironwoodIngot-0.pngIronwood Ingot
+9Optionalgregtech/gt.metaitem.01-2832.pngLiveroot Dust
+9gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
+9gregtech/gt.metaitem.01-86.pngTiny Pile of Gold Dust;Au
+9Optionalgregtech/gt.metaitem.01-2338.pngIronwood Dust;Fe\u2089((COH)\u2083Ma)\u2089Au
+18RetrievalTwilightForest/item.ironwoodIngot-0.pngIronwood Ingot
 18

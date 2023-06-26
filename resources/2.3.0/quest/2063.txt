@@ -2,7 +2,7 @@
 
 This multiblock requires centi-vis to operate. You can use 2-6 Thaumostatic Pylons, with additional pylons extending the range. Provide the construct Aer centi-vis to operate, and and it will accept Potentia essentia to transfer to flyers. The construct will also accept Aer and Volatus essentia to increase the range and rate of transfer, respectively. Right-click the sides of the controller to control which type of essentia each side will accept.ANDpre20600Thaumcraft/HoverHarness-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalAutomagy/blockThaumostaticPylon-1.pngThaumostatic Controller
-1Automagy/blockThaumostaticPylon-0.pngThaumostatic Pylon
-2minecraft/quartz_block-1.pngChiseled Quartz Block
-1Thaumcraft/blockCosmeticSolid-4.pngThaumium Block
+1Automagy/blockThaumostaticPylon-0.pngThaumostatic Pylon
+2minecraft/quartz_block-1.pngChiseled Quartz Block
+1Thaumcraft/blockCosmeticSolid-4.pngThaumium Block
 1

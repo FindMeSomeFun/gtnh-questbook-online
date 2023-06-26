@@ -6,7 +6,7 @@ Use the autoclave to make crystals. Or if you have lots of sodium, you can use t
 8gregtech/gt.blockores-810.pngRedstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
 8Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalminecraft/redstone-0.pngRedstone
-32gregtech/gt.metaitem.01-2516.pngCertus Quartz Dust;SiO\u2082
-32Optionaldreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
-32Retrievalappliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
+32gregtech/gt.metaitem.01-2516.pngCertus Quartz Dust;SiO\u2082
+32Optionaldreamcraft/item.ChargedCertusQuartzDust-0.pngCharged Certus Quartz Dust
+32Retrievalappliedenergistics2/item.ItemMultiMaterial-1.pngCharged Certus Quartz Crystal
 32

@@ -8,9 +8,9 @@ Put some glass or sand into your thermionic fabricator and make your first tubes
 2enhancedlootbags/lootbag-19.pngLootBag;You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25tasksANDOptionalgregtech/gt.metaitem.02-22530.pngLong Apatite Rod;Ca\u2085(PO\u2084)\u2083Cl
-2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
-2gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-1gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
-2minecraft/glass-0.pngGlass;Glass-Tier: HV
-2RetrievalForestry/thermionicTubes-10.pngApatine Electron Tube
+2gregtech/gt.metaitem.01-26086.pngGold Bolt;Au
+2gregtech/gt.metaitem.01-17308.pngRed Alloy Plate;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+1gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+2minecraft/glass-0.pngGlass;Glass-Tier: HV
+2RetrievalForestry/thermionicTubes-10.pngApatine Electron Tube
 2

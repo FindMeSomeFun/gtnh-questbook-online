@@ -9,7 +9,7 @@ The soldering iron can also be used to remove the circuit board from electrical 
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 25tasksANDOptionalgregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
-2gregtech/gt.metaitem.01-26305.pngSteel Bolt;Fe\u2085\u2080C
-1IC2/itemRecipePart-3.pngSmall Power Unit
-1RetrievalForestry/solderingIron-0.pngSoldering Iron
+2gregtech/gt.metaitem.01-26305.pngSteel Bolt;Fe\u2085\u2080C
+1IC2/itemRecipePart-3.pngSmall Power Unit
+1RetrievalForestry/solderingIron-0.pngSoldering Iron
 1

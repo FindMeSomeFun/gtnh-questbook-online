@@ -9,9 +9,9 @@ Make sure your bees are pure by checking their genetics with a Beealyzer or GT s
 16Forestry/beeCombs-0.pngHoney Comb
 16Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 25tasksANDOptionalForestry/beeDroneGE-0-Meadows.pngMeadows Drone
-1Forestry/beePrincessGE-0-Meadows.pngMeadows Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Forest.pngForest Drone
-1Forestry/beePrincessGE-0-Forest.pngForest Princess;Pristine Stock
-1RetrievalForestry/beePrincessGE-0-Common.pngCommon Princess;Pristine Stock
-1Forestry/beeDroneGE-0-Common.pngCommon Drone
+1Forestry/beePrincessGE-0-Meadows.pngMeadows Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Forest.pngForest Drone
+1Forestry/beePrincessGE-0-Forest.pngForest Princess;Pristine Stock
+1RetrievalForestry/beePrincessGE-0-Common.pngCommon Princess;Pristine Stock
+1Forestry/beeDroneGE-0-Common.pngCommon Drone
 1

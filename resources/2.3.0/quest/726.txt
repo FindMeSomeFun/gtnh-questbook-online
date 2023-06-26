@@ -3,7 +3,7 @@
 16Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-2896.pngRaw Rubber Dust;C\u2085H\u2088
-63gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
-7Retrievalgregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-30gregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
+63gregtech/gt.metaitem.01-2022.pngSulfur Dust;S;Burn Time: 1600
+7Retrievalgregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+30gregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
 30

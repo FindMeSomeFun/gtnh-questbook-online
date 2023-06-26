@@ -4,7 +4,7 @@
 2Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionaldreamcraft/item.LapotronDust-0.pngLapotron Dust
-120OptionalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-8dreamcraft/item.RawLapotronCrystal-0.pngRaw Lapotron Crystal
-4RetrievalIC2/itemBatLamaCrystal-26.pngLapotron Crystal;Durability: 1 / 27
+120OptionalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+8dreamcraft/item.RawLapotronCrystal-0.pngRaw Lapotron Crystal
+4RetrievalIC2/itemBatLamaCrystal-26.pngLapotron Crystal;Durability: 1 / 27
 4

@@ -3,14 +3,14 @@
 Combine these in the Forming Press to make Raw Imprint Supporting Boards.
 
 You then craft those into Imprint Supporting Boards in an Autoclave in a Cleanroom with Soldering Alloy. Unfortunately, there's only a 75% chance of succeeding, so I had you collect extra materials. You can use the leftovers for your next imprint.ANDpre26031gregtech/gt.metaitem.01-2059.png26041bartworks/gt.bwMetaGenerateddust-4.png26051bartworks/gt.bwMetaGeneratedgemExquisite-35.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2355.pngMagnetic Steel Dust;Fe\u2085\u2080C
-2bartworks/gt.bwMetaGenerateddust-4.pngCubic Zirconia Dust;ZrO\u2082;Added by BartWorks;Check Flawed Crystal recipe in EBF
-2bartworks/gt.bwMetaGenerateddust-35.pngPrasiolite Dust;Si\u2085O\u2081\u2080Fe;Added by BartWorks
-6bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust;Bi\u2082Te\u2083;Added by BartWorks
-8bartworks/gt.bwMetaGenerateddust-36.pngMagneto Resonatic Dust;(Si\u2085O\u2081\u2080Fe)\u2083(Bi\u2082Te\u2083)\u2084ZrO\u2082Fe\u2085\u2080C;Added by BartWorks
-18Optionalgregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust;InGaP
-12bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust;Bi\u2082Te\u2083;Added by BartWorks
-24bartworks/gt.bwMetaGenerateddust-33.pngDibismuthhydroborat Dust;Bi\u2082BH;Added by BartWorks
-36bartworks/gt.bwMetaGenerateddust-34.pngCircuit Compound MK3 Dust;InGaP(Bi\u2082BH)\u2083(Bi\u2082Te\u2083)\u2082;Added by BartWorks
-72Optionalbartworks/gt.bwMetaGeneratedItem0-2.pngRaw Imprint supporting Board;A Raw Board needed for Circuit Imprints;Added by BartWorks
-18Retrievalbartworks/gt.bwMetaGeneratedItem0-3.pngImprint supporting Board;A Board needed for Circuit Imprints;Added by BartWorks
+2bartworks/gt.bwMetaGenerateddust-4.pngCubic Zirconia Dust;ZrO\u2082;Added by BartWorks;Check Flawed Crystal recipe in EBF
+2bartworks/gt.bwMetaGenerateddust-35.pngPrasiolite Dust;Si\u2085O\u2081\u2080Fe;Added by BartWorks
+6bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust;Bi\u2082Te\u2083;Added by BartWorks
+8bartworks/gt.bwMetaGenerateddust-36.pngMagneto Resonatic Dust;(Si\u2085O\u2081\u2080Fe)\u2083(Bi\u2082Te\u2083)\u2084ZrO\u2082Fe\u2085\u2080C;Added by BartWorks
+18Optionalgregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust;InGaP
+12bartworks/gt.bwMetaGenerateddust-31.pngBismuth Tellurite Dust;Bi\u2082Te\u2083;Added by BartWorks
+24bartworks/gt.bwMetaGenerateddust-33.pngDibismuthhydroborat Dust;Bi\u2082BH;Added by BartWorks
+36bartworks/gt.bwMetaGenerateddust-34.pngCircuit Compound MK3 Dust;InGaP(Bi\u2082BH)\u2083(Bi\u2082Te\u2083)\u2082;Added by BartWorks
+72Optionalbartworks/gt.bwMetaGeneratedItem0-2.pngRaw Imprint supporting Board;A Raw Board needed for Circuit Imprints;Added by BartWorks
+18Retrievalbartworks/gt.bwMetaGeneratedItem0-3.pngImprint supporting Board;A Board needed for Circuit Imprints;Added by BartWorks
 8

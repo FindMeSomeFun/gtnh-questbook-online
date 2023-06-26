@@ -5,5 +5,5 @@ You'll need to chisel a thaumium block to get the right kind you need for the go
 1Thaumcraft/ItemGolemCore-100.pngGolem Animation Core;Blank
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemGolemPlacer-7.pngThaumium Golem
-1RetrievalThaumcraft/ItemGolemCore-6.pngGolem Animation Core;Alchemy
+1RetrievalThaumcraft/ItemGolemCore-6.pngGolem Animation Core;Alchemy
 1

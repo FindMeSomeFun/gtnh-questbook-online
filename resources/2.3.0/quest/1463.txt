@@ -10,9 +10,9 @@ The chamber does not require energy to work.ANDpre14541GalacticraftMars/ite
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalGraviSuite/itemSimpleItem-2.pngCooling Core
-1CarpentersBlocks/itemCarpentersBed-0.pngCarpenter''s Bed
-1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-4GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
-2minecraft/clock-0.pngClock
-1RetrievalGalacticraftMars/tile.marsMachine-4.pngCryogenic Chamber
+1CarpentersBlocks/itemCarpentersBed-0.pngCarpenter''s Bed
+1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
+4GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
+2minecraft/clock-0.pngClock
+1RetrievalGalacticraftMars/tile.marsMachine-4.pngCryogenic Chamber
 1

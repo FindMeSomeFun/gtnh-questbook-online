@@ -3,5 +3,5 @@
 8enhancedlootbags/lootbag-51.pngLootBag;You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalIC2/itemWeedingTrowel-0.pngWeeding Trowel
-1ConsumeIC2/itemWeed-0.pngWeed
+1ConsumeIC2/itemWeed-0.pngWeed
 16

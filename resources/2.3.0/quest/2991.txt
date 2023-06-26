@@ -4,5 +4,5 @@ To get clean Light Fuel, the sulfur needs to be drawn out with something that re
 1gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-421.pngBasic Chemical Reactor;Letting Chemicals react with each other;Voltage IN: 32 (LV);Capacity: 2,048 EU
-1gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
+1gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
 10

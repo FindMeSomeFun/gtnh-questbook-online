@@ -6,6 +6,6 @@ Of course, you'll need enough oxygen to do so.ANDpre6620gregtech/gt.blockma
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalminecraft/iron_ingot-0.pngIron Ingot
-64Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot;Fe
-64Retrievalgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+64Retrievalgregtech/gt.metaitem.01-11304.pngWrought Iron Ingot;Fe
+64Retrievalgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 64

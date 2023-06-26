@@ -2,7 +2,7 @@
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-18gregtech/gt.metaitem.01-30595.pngPhthalic Acid Cell;C\u2088H\u2086O\u2084
-18gregtech/gt.metaitem.01-30687.pngPhenol Cell;C\u2086H\u2086O
-36Retrievalgregtech/gt.metaitem.01-30598.pngDiphenyl Isophtalate Cell;C\u2082\u2080H\u2081\u2084O\u2084
+18gregtech/gt.metaitem.01-30595.pngPhthalic Acid Cell;C\u2088H\u2086O\u2084
+18gregtech/gt.metaitem.01-30687.pngPhenol Cell;C\u2086H\u2086O
+36Retrievalgregtech/gt.metaitem.01-30598.pngDiphenyl Isophtalate Cell;C\u2082\u2080H\u2081\u2084O\u2084
 18

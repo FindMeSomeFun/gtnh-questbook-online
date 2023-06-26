@@ -12,6 +12,6 @@ GT Ores are not affected. You can find Vanilla Ores in the Twilight Forest insid
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
 1tasksANDOptionalminecraft/golden_pickaxe-0.pngGolden Pickaxe;+2 Attack Damage;Durability: 24/24;This tool cannot mine anything!;It can only be used for crafting
-1HardcoreEnderExpansion/fire_shard-0.pngInfernium
-8RetrievalHardcoreEnderExpansion/schorching_pickaxe-0.pngScorching Pickaxe
+1HardcoreEnderExpansion/fire_shard-0.pngInfernium
+8RetrievalHardcoreEnderExpansion/schorching_pickaxe-0.pngScorching Pickaxe
 1

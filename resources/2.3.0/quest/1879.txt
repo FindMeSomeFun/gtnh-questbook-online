@@ -11,5 +11,5 @@ For some things (Oganesson), this might be considered the only reasonable way of
 8IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
 4Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage
-1Retrievalgregtech/gt.blockmachines-482.pngAdvanced Replicator;Producing Elemental Matter;Voltage IN: 128 (MV);Capacity: 8,192 EU
+1Retrievalgregtech/gt.blockmachines-482.pngAdvanced Replicator;Producing Elemental Matter;Voltage IN: 128 (MV);Capacity: 8,192 EU
 1

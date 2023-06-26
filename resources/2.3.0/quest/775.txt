@@ -3,8 +3,8 @@
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalIC2/itemPartCarbonPlate-0.pngCarbon Plate
-24Retrievaldreamcraft/item.CarbonPartHelmet-0.pngCarbon Parts "Helmet";Don''t try to wear this, you can''t
-1dreamcraft/item.CarbonPartChestplate-0.pngCarbon Parts "Chestplate";Don''t try to wear this, you can''t
-1dreamcraft/item.CarbonPartLeggings-0.pngCarbon Parts "Leggings";Don''t try to wear this, you can''t
-1dreamcraft/item.CarbonPartBoots-0.pngCarbon Parts "Boots";Don''t try to wear this, you can''t
+24Retrievaldreamcraft/item.CarbonPartHelmet-0.pngCarbon Parts "Helmet";Don''t try to wear this, you can''t
+1dreamcraft/item.CarbonPartChestplate-0.pngCarbon Parts "Chestplate";Don''t try to wear this, you can''t
+1dreamcraft/item.CarbonPartLeggings-0.pngCarbon Parts "Leggings";Don''t try to wear this, you can''t
+1dreamcraft/item.CarbonPartBoots-0.pngCarbon Parts "Boots";Don''t try to wear this, you can''t
 1
