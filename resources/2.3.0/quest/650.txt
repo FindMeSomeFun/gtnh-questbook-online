@@ -8,7 +8,7 @@ Max flying height is limited to Y-200.
 
 Vertical velocity decreases linearly with height after overcoming optimal height - 135 for jetpack and 100 for copter.
 
-§3Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.ANDpre18700gregtech/gt.blockmachines-1111.pngrewardsChoiceBuildCraftEnergy/bucketFuel-0.pngFuel Bucket
+Dropped items will be pushed away from you, just like a helicopter pushes things away, so be careful in the End, or by cliffsides.ANDpre18700gregtech/gt.blockmachines-1111.pngrewardsChoiceBuildCraftEnergy/bucketFuel-0.pngFuel Bucket
 4minecraft/enchanted_book-0.pngEnchanted Book;Feather Falling III;Hold the Sneak key for Enchantment Description
 1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

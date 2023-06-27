@@ -1,4 +1,4 @@
-45Railcraft/machine.beta-0.png0§6§lMultiblock Tanks... Railcraft Tanks17-1576 buckets of fluid, that should be enough to store all the creosote you have accumulated thus far. If that isn't enough you can make this tank bigger. The smallest tanks are 3x4x3 while the biggest are 9x8x9.
+45Railcraft/machine.beta-0.png0Multiblock Tanks... Railcraft Tanks17-1576 buckets of fluid, that should be enough to store all the creosote you have accumulated thus far. If that isn't enough you can make this tank bigger. The smallest tanks are 3x4x3 while the biggest are 9x8x9.
 
 Hint: Fluid will auto-output (without any pumps) if you place a valve on the bottom side of the tank. The output rate is 1000 L/t so twice as fast as a GT HV Pump Cover. You can color the tank with Buildcraft paintbrushes and the GT spray can.
 

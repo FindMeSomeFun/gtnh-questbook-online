@@ -1,4 +1,4 @@
-3091AdvancedSolarPanel/asp_crafting_items-1.png0§l§c§lSun Fusion9-1Alternative way to mass produce Sunnarium.ANDpre12121gregtech/gt.blockmachines-1193.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-31004.pngHelium Plasma Cell;He
+3091AdvancedSolarPanel/asp_crafting_items-1.png0Sun Fusion9-1Alternative way to mass produce Sunnarium.ANDpre12121gregtech/gt.blockmachines-1193.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-31004.pngHelium Plasma Cell;He
 1gregtech/gt.metaitem.99-811.pngMolten Glowstone Cell
 1Retrievalgregtech/gt.metaitem.99-318.pngMolten Sunnarium Cell;Su
 1

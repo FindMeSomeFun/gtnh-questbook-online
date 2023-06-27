@@ -1,4 +1,4 @@
-893gregtech/gt.metaitem.01-32611.png1§6§lYou're Gonna Hate This in MV Too #25-1The second item you'll need a lot of in MV tier. When you want to get fluid out of tanks you'll want one, though you don't necessarily need an MV one.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.blockmachines-5134.pngHuge Steel Fluid Pipe;Fluid Capacity: 19,200 L/sec;Heat Limit: 2,500 K
+893gregtech/gt.metaitem.01-32611.png1You're Gonna Hate This in MV Too #25-1The second item you'll need a lot of in MV tier. When you want to get fluid out of tanks you'll want one, though you don't necessarily need an MV one.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.blockmachines-5134.pngHuge Steel Fluid Pipe;Fluid Capacity: 19,200 L/sec;Heat Limit: 2,500 K
 6enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-32611.pngElectric Pump (MV);128 L/t (2,560 L/s) as Cover

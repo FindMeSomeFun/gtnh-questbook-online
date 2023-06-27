@@ -1,4 +1,4 @@
-1235gregtech/gt.metaitem.03-32078.png0§9§lLV Microprocessor6-1The Microprocessor is the highest tier version of the LV circuit, getting you 2 per recipe.
+1235gregtech/gt.metaitem.03-32078.png0LV Microprocessor6-1The Microprocessor is the highest tier version of the LV circuit, getting you 2 per recipe.
 
 In addition to what's listed, you'll need 2 Resistors, Transistors, and Capcitors, SMD or non-SMD.
 

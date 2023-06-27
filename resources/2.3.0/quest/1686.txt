@@ -1,4 +1,4 @@
-1686gregtech/gt.metaitem.03-32089.png1§c§lCrystalprocessors9-1Now that you're this far into LuV, you can make easier IV circuits, as well as your first UV circuit.
+1686gregtech/gt.metaitem.03-32089.png1Crystalprocessors9-1Now that you're this far into LuV, you can make easier IV circuits, as well as your first UV circuit.
 
 After crafting each circuit, make an imprint of it to reduce the cost of following ones.ANDpre12491gregtech/gt.metaitem.03-32045.png15221gregtech/gt.metaitem.01-11360.png16881gregtech/gt.metaitem.03-32104.png26021bartworks/gt.bwMetaGeneratedItem0-0.png26081gregtech/gt.metaitem.03-32025.pngrewardsChoicegregtech/gt.metaitem.03-32049.pngASoC;Advanced System on a Chip
 8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board

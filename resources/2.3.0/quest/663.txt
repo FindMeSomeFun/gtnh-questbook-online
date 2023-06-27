@@ -1,4 +1,4 @@
-663IC2/upgradeModule-0.png0§5§lFaster Steel Production4-1A faster alternative to steel production is to use the arc furnace and smelt iron ingots (or dust) into wrought iron ingots. Then macerate them to dust and smelt them very fast in the EBF to steel.
+663IC2/upgradeModule-0.png0Faster Steel Production4-1A faster alternative to steel production is to use the arc furnace and smelt iron ingots (or dust) into wrought iron ingots. Then macerate them to dust and smelt them very fast in the EBF to steel.
 
 Of course, you'll need enough oxygen to do so.ANDpre6620gregtech/gt.blockmachines-651.pngrewardsChoicegregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
 1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O

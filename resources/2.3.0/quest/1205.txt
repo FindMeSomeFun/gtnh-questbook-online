@@ -1,4 +1,4 @@
-1205minecraft/hopper-0.png0§3§lHoppers3-1Hoppers come in handy when you want to automate your machines. You can input items via hoppers directly into GT pipes and you don't have to use a conveyor module. However, the input rate is much slower, and the hopper must be beneath its source inventory.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemharvestcraft/chocolatesprinklecakeItem-0.pngChocolate Sprinkles Cake
+1205minecraft/hopper-0.png0Hoppers3-1Hoppers come in handy when you want to automate your machines. You can input items via hoppers directly into GT pipes and you don't have to use a conveyor module. However, the input rate is much slower, and the hopper must be beneath its source inventory.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemharvestcraft/chocolatesprinklecakeItem-0.pngChocolate Sprinkles Cake
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalminecraft/hopper-0.pngHopper
 1

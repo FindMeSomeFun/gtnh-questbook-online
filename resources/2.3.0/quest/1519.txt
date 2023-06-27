@@ -1,6 +1,6 @@
-1519gregtech/gt.metaitem.01-32405.png0§4§5§lPortable Tanks Too Small?4-1How about large steel fluid cells instead? Each holds 8000L, and they can stack to 64. Unfortunately, you have to load and unload them using a machine's interface (like ULV tanks for example), but hey, 512 buckets in a single slot is pretty good!
+1519gregtech/gt.metaitem.01-32405.png0Portable Tanks Too Small?4-1How about large steel fluid cells instead? Each holds 8000L, and they can stack to 64. Unfortunately, you have to load and unload them using a machine's interface (like ULV tanks for example), but hey, 512 buckets in a single slot is pretty good!
 
-§3In case it wasn't clear, you cannot use these directly in the world, like with BC tanks, or dumping the fluid on the ground.ANDpre1051gregtech/gt.blockmachines-221.pngrewardsItemgregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cell;No Fluids Contained;0L / 8,000L
+In case it wasn't clear, you cannot use these directly in the world, like with BC tanks, or dumping the fluid on the ground.ANDpre1051gregtech/gt.blockmachines-221.pngrewardsItemgregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cell;No Fluids Contained;0L / 8,000L
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.metaitem.01-32405.pngLarge Steel Fluid Cell;No Fluids Contained;0L / 8,000L
 4

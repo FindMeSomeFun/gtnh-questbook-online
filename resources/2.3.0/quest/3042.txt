@@ -1,4 +1,4 @@
-3042gregtech/gt.blockmachines-10501.png1§6§lDissolution Tank17-1Basically a mixing machine purposely made for dilution.
+3042gregtech/gt.blockmachines-10501.png1Dissolution Tank17-1Basically a mixing machine purposely made for dilution.
 
 You'll need to take care in providing the inputs at the required ratios, else you'll get no output.
 

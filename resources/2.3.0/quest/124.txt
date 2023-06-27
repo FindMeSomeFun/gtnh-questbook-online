@@ -1,4 +1,4 @@
-124openmodularturrets/potatoCannonTurret-0.png0§5§lDon't Play With Your Food!14-1Use it to kill zombies instead. Does only a little damage, but hey, who cares?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+124openmodularturrets/potatoCannonTurret-0.png0Don't Play With Your Food!14-1Use it to kill zombies instead. Does only a little damage, but hey, who cares?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-30707.pngOil Cell
 8Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

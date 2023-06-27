@@ -2,7 +2,7 @@
 
 You can also connect to chests and other things if you want. You can use an Ender Chest to send stuff into your network, which will then send it to the drawers, but you'll have stuff entering and exiting constantly, so it'll mess up your view in the Terminal. You can use filtered view cells, or process them before they go into your ME network (or in a different one) and/or send them to the DC directly via another EC. It depends on what you want to do and what it is.
 
-§4Using the drawer controller with large amounts of I/O will tank TPS! If you're on a server, do not use drawer cubes, or expect the possibility of it being deleted or you getting banned.ANDpre27530appliedenergistics2/tile.BlockEnergyAcceptor-0.pngrewardstasksANDRetrievalStorageDrawers/controller-0.pngDrawer Controller;Interact with a bank of connected drawers
+Using the drawer controller with large amounts of I/O will tank TPS! If you're on a server, do not use drawer cubes, or expect the possibility of it being deleted or you getting banned.ANDpre27530appliedenergistics2/tile.BlockEnergyAcceptor-0.pngrewardstasksANDRetrievalStorageDrawers/controller-0.pngDrawer Controller;Interact with a bank of connected drawers
 1StorageDrawers/fullDrawers1-0.pngOak Drawer;Holds 64 stacks per drawer;Burn Time: 300
 1appliedenergistics2/item.ItemMultiPart-220.pngME Storage Bus
 1appliedenergistics2/item.ItemMultiPart-16.pngME Glass Cable - Fluix

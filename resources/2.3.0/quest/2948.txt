@@ -4,9 +4,9 @@ It uses liquid naquadah or excited nuclear liquid as fuel, and outputs the deple
 
 It consumes 2400 L/s liquid air when running, otherwise it will keep consuming your fuel without outputing power.
 
-§4It will explode with more than one types of fuel in its hatches.
+It will explode with more than one types of fuel in its hatches.
 
-§rYou can input in coolant to increase efficiency.
+You can input in coolant to increase efficiency.
 IC2 Coolant: 1.05x
 Super Coolant: 1.5x
 Cryotheum: 2.75x
@@ -18,9 +18,9 @@ Molten Naquadah: 4x
 Molten Atomic Separation Catalyst: 16x
 Note: It will consume more fuel to match the output power, unlike coolant which directly increases the power. The molten metal works like 'parallels' for your reactor.
 
-It also supports §9Tec§1Tech§r's Multi-Amp Dynamo hatches and laser hatches.
+It also supports TecTech's Multi-Amp Dynamo hatches and laser hatches.
 
-§3PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell;Added by Good Generator via BartWorks
+PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell;Added by Good Generator via BartWorks
 2tasksANDOptionalgregtech/gt.blockcasings3-12.pngRadiation Proof Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 77gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 6GoodGenerator/MAR_Casing-0.pngField Restriction Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!

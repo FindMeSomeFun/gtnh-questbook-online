@@ -1,4 +1,4 @@
-190IC2/blockGenerator-5.png0§a§lAppropriate Power19-1Whether you used magic, steam, oil or biogas for power until now, you will run into problems as you advance to higher tiers. So you'll need to upgrade your power grid, at least for your EBF(s). So let's start with something more powerful: A nuclear reactor!
+190IC2/blockGenerator-5.png0Appropriate Power19-1Whether you used magic, steam, oil or biogas for power until now, you will run into problems as you advance to higher tiers. So you'll need to upgrade your power grid, at least for your EBF(s). So let's start with something more powerful: A nuclear reactor!
 
 If you want to know how they work, refer to The Internet or the Reactor Planner at https://github.com/MauveCloud/Ic2ExpReactorPlanner/releases
 

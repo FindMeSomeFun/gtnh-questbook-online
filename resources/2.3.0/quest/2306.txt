@@ -1,4 +1,4 @@
-2306bartworks/gt.bwMetaGenerateddust-65.png1§b§lSecond Separation - Ruthenium8-1For the next step in the process, we will split up the Ruthenium from the Leach Residue. Remember that you can get it from both Platinum Residue and a little bit more from making Rhodium Sulfate Solution.
+2306bartworks/gt.bwMetaGenerateddust-65.png1Second Separation - Ruthenium8-1For the next step in the process, we will split up the Ruthenium from the Leach Residue. Remember that you can get it from both Platinum Residue and a little bit more from making Rhodium Sulfate Solution.
 
 You'll need Saltpeter and Saltwater for this. You can pump saltwater or make it, and mine saltpeter or make it too. Given how much KNO3 you need, you should probably automate making it.
 

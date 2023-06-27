@@ -2,7 +2,7 @@
 
 Lighter fractions are generally more useful than heavier ones, but that doesn't mean that lightest is best. For now, going for Sulfuric Light Fuel is the best option, since it will become a good source of power after being treated. Don't use the Oil to power these machines, stick to Steam until you can use something better.
 
-§3You can find info about the other fractions in the LV tab!ANDpre29860gregtech/gt.blockcasings2-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You can find info about the other fractions in the LV tab!ANDpre29860gregtech/gt.blockcasings2-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1IC2/itemCellEmpty-0.pngEmpty Cell
 20Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-531.pngBasic Distillery;Extracting the most relevant Parts of Fluids;Voltage IN: 32 (LV);Capacity: 2,048 EU

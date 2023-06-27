@@ -1,6 +1,6 @@
 520gendustry/GeneSample-0.png0Only the Best: Humidity28-1On your way to awesome bees, you have to collect only the best traits available.
 
-§3None is for testing jubilant state, while 2 is what you'll have on most of the time. 3+ don't do anything as the range doesn't go that high.ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag (Bees Expert);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+None is for testing jubilant state, while 2 is what you'll have on most of the time. 3+ don't do anything as the range doesn't go that high.ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag (Bees Expert);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Humidity tolerance: None
 1gendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Humidity tolerance: Both 2

@@ -1,4 +1,4 @@
-1480miscutils/dustRadium226-0.png0§a§lRadon Decay7-1Radon is needed for EV Emitters and Sensors.
+1480miscutils/dustRadium226-0.png0Radon Decay7-1Radon is needed for EV Emitters and Sensors.
 
 You can get Radium-226 from sifting Thorium, Pitchblende, Uraninite, or Uranium 238. It needs 4500 seconds, or 75 mins, to decay, and it will debuff you until it decays unless you have complete hazmat protection. It's a good idea to make a Lead-Lined Box and let the Radium decay there, instead.
 
@@ -6,7 +6,7 @@ Thorium can be obtained from the Nether, whereas the other 3 ores are locked aft
 
 After it decays, you can electrolyze Radon out of it and progress into the next circuit line. However, you will not be able to do the Radon loop here, that can only be done with Plutonium 239.
 
-§3You only need to do one task.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
+You only need to do one task.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
 8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
 16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

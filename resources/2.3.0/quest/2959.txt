@@ -2,7 +2,7 @@
 
 It can't be overclocked by increasing the input voltage. The only way to overclock it is to use higher tier coils.
 
-It also supports §9Tec§1Tech§r's Multi-Amp energy hatches and laser hatches.
+It also supports TecTech's Multi-Amp energy hatches and laser hatches.
 
 Example: The MkIV fuel requires tier 2 coils and the refinery is using tier 3 coils. This gives an overclock similar to fusion, using 2x power and 0.5x time.ANDpre29480gregtech/gt.blockmachines-12732.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10046.pngNaquadah Based Liquid Fuel MkIII Cell;Added by Good Generator via BartWorks
 1tasksANDOptionalGoodGenerator/FRF_Casings-0.pngNaquadah Fuel Refinery Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!

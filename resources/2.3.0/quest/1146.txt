@@ -1,4 +1,4 @@
-1146gregtech/gt.blockmachines-5123.png1§2§lGT6-Styled Pipes1-1Maybe you are wondering why the new pipes don't auto-connect anymore? This was changed to make the pipes smarter. You can now use a wrench to connect only the pipes you want. You don't need a plate or a foil to prevent pipes from connecting anymore.
+1146gregtech/gt.blockmachines-5123.png1GT6-Styled Pipes1-1Maybe you are wondering why the new pipes don't auto-connect anymore? This was changed to make the pipes smarter. You can now use a wrench to connect only the pipes you want. You don't need a plate or a foil to prevent pipes from connecting anymore.
 
 Pipes transferring anything hotter than a certain amount (like steam) will cause damage to a player touching them. You'll want to cover hot pipes to prevent getting hurt if you want to walk over them. Also, if the heat level is higher than the pipe's heat capacity, it will melt.
 
@@ -14,7 +14,7 @@ For machine outputs, including the boilers, and RC water tanks (the one made of 
 
 You can put covers such as GT oak planks or plates on a pipe as well. Normally this prevents connections in that direction, but you can use a screwdriver to enable connections. This lets you make pipes that look nice going through walls. Use a crowbar to remove covers.
 
-§3Hint: If you click one pipe onto the other they will auto-connect.ANDpre351gregtech/gt.metaitem.01-2300.pngrewardsChoiceIronChest/woodIronUpgrade-0.pngWood to Iron Chest Upgrade
+Hint: If you click one pipe onto the other they will auto-connect.ANDpre351gregtech/gt.metaitem.01-2300.pngrewardsChoiceIronChest/woodIronUpgrade-0.pngWood to Iron Chest Upgrade
 2gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
 8enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

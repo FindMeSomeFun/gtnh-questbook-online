@@ -1,8 +1,8 @@
-2027gregtech/gt.blockmachines-875.png0§6§lThermal Boiler - Lava you long time18-1If you want energy from Lava and the byproducts, the Thermal Boiler is the perfect solution. It processes Lava super fast for Steam, and with a Lava Filter will provide some centrifuged lava byproducts as well. A great source of Copper, Silver, Gold, Tin, Tantalum, and Tungstate, better outputs than regular lava processing in a Centrifuge.
+2027gregtech/gt.blockmachines-875.png0Thermal Boiler - Lava you long time18-1If you want energy from Lava and the byproducts, the Thermal Boiler is the perfect solution. It processes Lava super fast for Steam, and with a Lava Filter will provide some centrifuged lava byproducts as well. A great source of Copper, Silver, Gold, Tin, Tantalum, and Tungstate, better outputs than regular lava processing in a Centrifuge.
 
 You can get even better efficiency pairing it with a Large Heat Exchanger. The LHE will turn normal vanilla Lava into Pahoehoe Lava, which will provide Steam and byproducts in the Thermal Boiler. Win/Win/Win!
 
-§3This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemmiscutils/itemLavaFilter-0.pngLava Filter;Filters Lava within a Thermal Boiler.;100 / 100
+This multi is IV.ANDpre14161gregtech/gt.blockmachines-810.pngrewardsItemmiscutils/itemLavaFilter-0.pngLava Filter;Filters Lava within a Thermal Boiler.;100 / 100
 3tasksANDRetrievalgregtech/gt.blockmachines-875.pngThermal Boiler;Machine Type: Boiler;Thermal Boiler Controller;Converts Water & Heat into Steam;Explodes if water is not supplied;Consult user manual for more information;Causes: 700 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1miscutils/itemLavaFilter-0.pngLava Filter;Filters Lava within a Thermal Boiler.;100 / 100
 1miscutils/miscutils.blockcasings-3.pngHeat Proof Coke Oven Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!

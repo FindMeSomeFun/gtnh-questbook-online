@@ -1,10 +1,10 @@
-482OpenBlocks/trophy-0-Cow.png0§2§lAnimal Farms2-1Trying to get some leather or wool? You'd probably need to spend a lot of time hunting animals and traveling around, or you could simply make a farm to get a decent amount of leather, wool and meat close to home. Make sure you don't put too many animals in the pen or they will overcrowd and kill each other (this happens to villagers as well).
+482OpenBlocks/trophy-0-Cow.png0Animal Farms2-1Trying to get some leather or wool? You'd probably need to spend a lot of time hunting animals and traveling around, or you could simply make a farm to get a decent amount of leather, wool and meat close to home. Make sure you don't put too many animals in the pen or they will overcrowd and kill each other (this happens to villagers as well).
 
 Animals will prioritize moving towards grass blocks over any other blocks, and if there's no grass blocks around, lit blocks over dark blocks. You can encourage animals to stay in pens (or at least not crowd the edges) by removing grass from around both sides of the fence (and under!) and placing a torch in the center of the pen. For sheep that need the grass to eat (reduces time to mature and replaces sheared wool instantly), place it in the center of a cleared out area with a border of non-grass.
 
 Also, large quantities can cause server lag, especially if they are bumping into each other a lot. So make sure you limit animals to no more than ~ 1 per block for small entities like chickens and 1 entity per 2 blocks for large entities like cows if playing MP.
 
-§3PS: Most animal/mob drops can be gotten from less laggy IC2 crop farms.ANDpre4830minecraft/wheat_seeds-0.png14760gregtech/gt.metatool.01-36-Iron-Iron.pngrewardsChoiceExtraUtilities/shears-0.pngPrecision Shears
+PS: Most animal/mob drops can be gotten from less laggy IC2 crop farms.ANDpre4830minecraft/wheat_seeds-0.png14760gregtech/gt.metatool.01-36-Iron-Iron.pngrewardsChoiceExtraUtilities/shears-0.pngPrecision Shears
 1TConstruct/mattock-0-67.pngUnstable Induced Mattock;Mathematical!;Unbreakable;Tool Level: 01-Abused;+6 Attack Damage
 1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 3Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"

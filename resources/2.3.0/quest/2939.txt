@@ -1,3 +1,3 @@
-2939GoodGenerator/radioactiveWaste-0.png0§6§lOops1760000If you failed to meet the NKE as NEI requested, you can recycle something useful in this place.ANDpre29361gregtech/gt.blockmachines-32013.pngrewardsItembartworks/gt.bwMetaGenerateddust-10054.pngNaquadah Oxide Mixture Dust;??NqTiGaAd??;Added by Good Generator via BartWorks
+2939GoodGenerator/radioactiveWaste-0.png0Oops1760000If you failed to meet the NKE as NEI requested, you can recycle something useful in this place.ANDpre29361gregtech/gt.blockmachines-32013.pngrewardsItembartworks/gt.bwMetaGenerateddust-10054.pngNaquadah Oxide Mixture Dust;??NqTiGaAd??;Added by Good Generator via BartWorks
 1tasksANDConsumeGoodGenerator/radioactiveWaste-0.pngRadioactive Waste
 64

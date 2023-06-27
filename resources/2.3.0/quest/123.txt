@@ -1,4 +1,4 @@
-123openmodularturrets/disposeItemTurret-0.png0§5§lWho Needs That Dirt Anyway14-1You probably have a ton of items floating around in your base. So why not use them to kill your enemies?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+123openmodularturrets/disposeItemTurret-0.png0Who Needs That Dirt Anyway14-1You probably have a ton of items floating around in your base. So why not use them to kill your enemies?ANDpre1220openmodularturrets/baseTierWood-0.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Forestry/canWater-0.pngWater Can
 8Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

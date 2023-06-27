@@ -172,7 +172,26 @@ function loadQuestData(data, eId) {
 	var name = data[3];
 	var qLine = data[4];
 	var rTime = +data[5];
-	var elementString = '<div style="height: 64px;"><div class="inline icon' + main + '"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id + ' - ' + name + '</div><div class="sub-title">QuestLine: ' + window.questLines[qLine] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>' + rTime + '</div><div class="inline top btn hide">Hide</div>';
+	var elementString = '<div style="height: 64px;"><div class="inline icon'
+	if (main == 1) {
+		elementString += ' quest-main';
+	} else {
+		elementString += ' quest-optional';
+	}
+	elementString += '"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + id + ' - ' + name + '</div><div class="sub-title">QuestLine: ' + window.questLines[qLine] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>'
+	if (rTime == -1) {
+		elementString += 'None';
+	} else if (rTime < 20) {
+		elementString += '0 s';
+	} else {
+		var s = rTime / 20;
+		var m = s / 60;
+		var h = m / 60;
+		m = m - Math.floor(h) * 60;
+		s = s - (Math.floor(h) * 60 + Math.floor(m)) * 60;
+		elementString += (h > 0 ? h + ' h ' : '') + (m > 0 ? m + ' m ' : '') + (s > 0 ? s + ' s ' : '');
+	}
+	elementString +=  '</div><div class="inline top btn hide">Hide</div>';
 	if (eId == 'pinned') {
 		elementString += '<div class="inline top btn remove">Remove</div></div></div>';
 	} else {
@@ -224,7 +243,7 @@ function loadQuestData(data, eId) {
 				var icon = data[i++];
 				var name = data[i++];
 				var number = data[i++];
-				elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
+				elementString += '<div><div class="icon item"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
 				var nameParts = name.split(';');
 				for (var j = 0; j < nameParts.length; j++) {
 					elementString += nameParts[j]
@@ -256,7 +275,7 @@ function loadQuestData(data, eId) {
 			var name = data[i++];
 			var number = data[i++];
 //alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
-			elementString += '<div><div class="icon"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
+			elementString += '<div><div class="icon item"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
 			var nameParts = name.split(';');
 			for (var j = 0; j < nameParts.length; j++) {
 				elementString += nameParts[j]

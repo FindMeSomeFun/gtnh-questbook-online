@@ -1,4 +1,4 @@
 2734kekztech/kekztech_lapotronicenergyunit_block-3.png0Lapotronic Capacitor (ZPM)20-1It holds more than the previous tier, other than that there is no difference. Your LSC can hold between 540B and 8.1T EU with these.
 
-§3Requires EV-tier Glass.ANDpre27330kekztech/kekztech_lapotronicenergyunit_block-2.pngrewardstasksANDRetrievalkekztech/kekztech_lapotronicenergyunit_block-3.pngLapotronic Capacitor (ZPM);Part of the Lapotronic Super Capacitor;Capacity: 60,000,000,000EU
+Requires EV-tier Glass.ANDpre27330kekztech/kekztech_lapotronicenergyunit_block-2.pngrewardstasksANDRetrievalkekztech/kekztech_lapotronicenergyunit_block-3.pngLapotronic Capacitor (ZPM);Part of the Lapotronic Super Capacitor;Capacity: 60,000,000,000EU
 1

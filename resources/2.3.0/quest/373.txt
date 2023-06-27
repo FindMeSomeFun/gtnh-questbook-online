@@ -1,11 +1,11 @@
-373gregtech/gt.blockmachines-14201.png0§6§lAn Industrial Mobfarm17-1§6§lExtreme Extermination Chamber§r is your new and probably the §lbest§r spawner/grinder, with this you are not only able to get drops without any §lTPS§r issues but also with style and §lextreme§r efficiency.
+373gregtech/gt.blockmachines-14201.png0An Industrial Mobfarm17-1Extreme Extermination Chamber is your new and probably the best spawner/grinder, with this you are not only able to get drops without any TPS issues but also with style and extreme efficiency.
 
-Of course that depends on the quality of your sword, damage and looting are the only stats that matter (weapon is optional since structure requires spikes and if you want to use it you need to add §cULV§r input bus to the structure).
+Of course that depends on the quality of your sword, damage and looting are the only stats that matter (weapon is optional since structure requires spikes and if you want to use it you need to add ULV input bus to the structure).
 
 If normal drops aren't your thing then you can build blood magic ritual "Well of Suffering" on top of the multiblock (you still get items but at a very slow rate).
 Also generates liquid xp (always 120L) and can spawn infernal mobs if possible (uses x8 power with every infernal spawn so you need to take into account that energy usage will spike once in a while so be prepared for that!).
 
-§lNotes:§r
+Notes:
 In case of any problems with multiblock animation just use soldering iron on the machine to disable it.ANDpre1690EnderIO/blockPoweredSpawner-0.png1761gregtech/gt.blockmachines-14.png9620OpenBlocks/vacuumhopper-0.pngrewardsItemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1Itemkubatech/kubaitems-8.pngKuba''s Pu-erh Tea;This item is from;Turbo Legendary Secret Tea Collection

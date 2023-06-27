@@ -1,13 +1,13 @@
-3043gregtech/gt.metaitem.01-8520.png1§b§lMonazite8-1Welcome to lanthanide processing!
+3043gregtech/gt.metaitem.01-8520.png1Monazite8-1Welcome to lanthanide processing!
 It'll be a fun journey, whether you like it or not :P
 
 First off get some monazite. This is only to get you started,
-as you're going to need a §oton§o§o§r to truly reap the rewards
+as you're going to need a ton to truly reap the rewards
 of this line.
 
 You'll then need to combine it with nitric acid in the Digester multiblock,
 to get its mud form.
-Yes, this is a §overy§r nitric acid hungry process!ANDpre2131gregtech/gt.blockmachines-15.png30411gregtech/gt.blockmachines-10500.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+Yes, this is a very nitric acid hungry process!ANDpre2131gregtech/gt.blockmachines-15.png30411gregtech/gt.blockmachines-10500.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalgregtech/gt.metaitem.01-5520.pngCrushed Monazite Ore;?(PO\u2084)
 60gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
 21Retrievalbartworks/gt.bwMetaGeneratedcell-11014.pngMuddy Monazite Rare Earth Solution Cell;??LaNdZr??;Added by GTNH: Lanthanides via BartWorks

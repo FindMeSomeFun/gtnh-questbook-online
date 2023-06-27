@@ -1,4 +1,4 @@
-1819gregtech/gt.metaitem.01-2837.png0§6§lSilicon Dioxide5-1Get yourself some Silicon Dioxide! Smelting it in your EBF with some carbon is the best way to obtain raw silicon ingots. It is used it a few places but most importantly you can macerate it back down to raw silicon dust. You can also turn the silicon dioxide into raw silicon dust via chemical processes using aluminium or magnesium.
+1819gregtech/gt.metaitem.01-2837.png0Silicon Dioxide5-1Get yourself some Silicon Dioxide! Smelting it in your EBF with some carbon is the best way to obtain raw silicon ingots. It is used it a few places but most importantly you can macerate it back down to raw silicon dust. You can also turn the silicon dioxide into raw silicon dust via chemical processes using aluminium or magnesium.
 
 You can get silicon dioxide easily by centrifuging glass dust or electrolyzing sand.
 

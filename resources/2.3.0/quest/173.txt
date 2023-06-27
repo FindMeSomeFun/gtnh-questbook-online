@@ -1,4 +1,4 @@
-173openmodularturrets/baseTierTwoBlock-0.png0§9§lTier 3 Base14-1More storage, more power, and a lot more slots for possible upgrades.ANDpre1720openmodularturrets/chamberTierThree-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+173openmodularturrets/baseTierTwoBlock-0.png0Tier 3 Base14-1More storage, more power, and a lot more slots for possible upgrades.ANDpre1720openmodularturrets/chamberTierThree-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalopenmodularturrets/baseTierTwoBlock-0.pngTurret Base (Tier 3);--Energy--;Max capacity: 150000;Max IO: 500;--Extras--;2x Addon slots;1x Upgrade slots;I said good day sir!
 2

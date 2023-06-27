@@ -1,8 +1,8 @@
-2849gregtech/gt.metaitem.01-32620.png0§5§lFaster Steam Transportation4-1Do you think that steam fluid transport is far too slow? Your LV pumps got you down, doing only 640L/s? Then it's time to make the 32 times faster LV steam valves!
+2849gregtech/gt.metaitem.01-32620.png0Faster Steam Transportation4-1Do you think that steam fluid transport is far too slow? Your LV pumps got you down, doing only 640L/s? Then it's time to make the 32 times faster LV steam valves!
 
 They only work with steam and are just as fast as the valve on a Railcraft tank (if you put it on the bottom side).
 
-§6§4§3There's also MV, HV, EV and IV versions.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsChoicegregtech/gt.metaitem.01-32600.pngElectric Motor (LV)
+There's also MV, HV, EV and IV versions.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsChoicegregtech/gt.metaitem.01-32600.pngElectric Motor (LV)
 2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
 16gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

@@ -9,7 +9,7 @@ Once you have a bit of Hypogen you can then use that as a starting point to make
 However, you will still need more Dragonblood eventually for UMV superconductors.
 
 
-§3There is actually another way to get Dragonblood which is similar to the DE Fusion Crafter recipes but in the mixer instead. Its even slower and less resource efficient. In particular, the dragon egg does not survive the process. So only use that if you are absolutely trying to avoid magic and bees.
+There is actually another way to get Dragonblood which is similar to the DE Fusion Crafter recipes but in the mixer instead. Its even slower and less resource efficient. In particular, the dragon egg does not survive the process. So only use that if you are absolutely trying to avoid magic and bees.
 
 Just a reminder: a fluid task just needs you to have the fluid in some container in your inventory. (cell, universal cell, large cell, volumetric cell, etc.)ANDpre25831gregtech/gt.blockmachines-965.pngrewardstasksANDFluidfluids/molten-dragonblood-.pngMolten Dragonblood
 576

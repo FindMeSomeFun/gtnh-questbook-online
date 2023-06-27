@@ -1,4 +1,4 @@
-1004AdvancedSolarPanel/BlockAdvSolarPanel-1.png0§a§lPower of the Sun 1x1 MV19-1Put those 128 EU panels on a block to make them placeable in the world.ANDpre10030gregtech/gt.metaitem.01-32753.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+1004AdvancedSolarPanel/BlockAdvSolarPanel-1.png0Power of the Sun 1x1 MV19-1Put those 128 EU panels on a block to make them placeable in the world.ANDpre10030gregtech/gt.metaitem.01-32753.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 4gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
 32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

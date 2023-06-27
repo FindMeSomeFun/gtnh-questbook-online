@@ -1,4 +1,4 @@
-460gregtech/gt.metaitem.01-30680.png1§a§k§r§a§lPolyvinyl Acetate7-1You know how polymerization works by now. Use Air or Oxygen and optionally Titaniumtetrachloride to obtain Polyvinyl Acetate.ANDpre4611gregtech/gt.metaitem.01-30679.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+460gregtech/gt.metaitem.01-30680.png1Polyvinyl Acetate7-1You know how polymerization works by now. Use Air or Oxygen and optionally Titaniumtetrachloride to obtain Polyvinyl Acetate.ANDpre4611gregtech/gt.metaitem.01-30679.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDRetrievalgregtech/gt.metaitem.01-30680.pngPolyvinyl Acetate Cell;C\u2084H\u2086O\u2082
 1

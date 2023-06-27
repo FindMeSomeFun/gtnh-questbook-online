@@ -1,8 +1,8 @@
-162GalacticraftCore/item.spaceship-0.png1§9§lDimensional Goal: Moon6-1HV is about getting to the moon so you can get Titanium, used to make EV and AE2 machines. It's a long and involved task though, so head on over to the Space Race tab for more info.
+162GalacticraftCore/item.spaceship-0.png1Dimensional Goal: Moon6-1HV is about getting to the moon so you can get Titanium, used to make EV and AE2 machines. It's a long and involved task though, so head on over to the Space Race tab for more info.
 
-§3You need IV circuits and the HV assembler to start the tab though.
+You need IV circuits and the HV assembler to start the tab though.
 
-§6If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-22.pngLootBag (Space Invaders Moon);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-22.pngLootBag (Space Invaders Moon);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"

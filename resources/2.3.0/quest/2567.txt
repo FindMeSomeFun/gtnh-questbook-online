@@ -1,4 +1,4 @@
-2567gregtech/gt.metaitem.03-32022.png1§9§lPetri Dishes, Not for Eating6-1You'll need petri dishes to hold the cultures. You can make them out of borosilicate, styrene, or PTFE.
+2567gregtech/gt.metaitem.03-32022.png1Petri Dishes, Not for Eating6-1You'll need petri dishes to hold the cultures. You can make them out of borosilicate, styrene, or PTFE.
 
 The petri dishes must then be sterilized to allow cultures to grow on them. You can use ethanol, methanol, ammonia, or chlorine to sterilize them.ANDpre25661gregtech/gt.blockmachines-12699.pngrewardsChoicegregtech/gt.metaitem.03-32022.pngPetri Dish;For cultivating cells
 16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

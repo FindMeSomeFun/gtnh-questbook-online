@@ -1,4 +1,4 @@
-158openmodularturrets/machineGunTurret-0.png0§6§lSometimes, a Bullet Will Do14-1They hit hard. You have been warned.ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+158openmodularturrets/machineGunTurret-0.png0Sometimes, a Bullet Will Do14-1They hit hard. You have been warned.ANDpre1570openmodularturrets/baseTierOneBlock-0.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1openmodularturrets/bulletCraftable-0.pngAmmo - Bullet
 32Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

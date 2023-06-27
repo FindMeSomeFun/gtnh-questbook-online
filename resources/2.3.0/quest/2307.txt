@@ -1,4 +1,4 @@
-2307bartworks/gt.bwMetaGeneratedcell-86.png1§b§lRe-Solving the Purity Issue8-1Hmm, the sifiting did well, you lost a lot of impurities, but also, new ones from the sifting grates are there... Time to filter them out with water.ANDpre23261bartworks/gt.bwMetaGenerateddust-85.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+2307bartworks/gt.bwMetaGeneratedcell-86.png1Re-Solving the Purity Issue8-1Hmm, the sifiting did well, you lost a lot of impurities, but also, new ones from the sifting grates are there... Time to filter them out with water.ANDpre23261bartworks/gt.bwMetaGenerateddust-85.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-85.pngRhodium Filter Cake Dust;Added by BartWorks
 1IC2/itemCellEmpty-1.pngWater Cell
 1Retrievalbartworks/gt.bwMetaGeneratedcell-86.pngRhodium Filter Cake Solution Cell;Added by BartWorks

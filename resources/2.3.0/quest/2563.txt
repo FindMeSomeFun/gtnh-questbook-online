@@ -1,10 +1,10 @@
-2563dreamcraft/dreamcraft_EnrichedBacterialSludge-0.png0§6§lSievert for the Vat17-1Some Vat recipes require a certain Sievert (radioactivity) value. So attach this Radio Hatch to your Vat to input radioactive material!
+2563dreamcraft/dreamcraft_EnrichedBacterialSludge-0.png0Sievert for the Vat17-1Some Vat recipes require a certain Sievert (radioactivity) value. So attach this Radio Hatch to your Vat to input radioactive material!
 
 The Radio Hatch holds rods/long rods of radioactive material and uses them to produce Sievert. The input item determines the Sievert value and how long it lasts. Items stored in the hatch will be used continuously even if machine not active, so make sure you want to craft something before putting items in.
 
-§rYou can check the stats of an inputted item with a portable scanner. Higher tiers of hatch hold more, from 1kg (HV) to 6kg (UV). Rods are worth 1kg, while long rods are 2kg.
+You can check the stats of an inputted item with a portable scanner. Higher tiers of hatch hold more, from 1kg (HV) to 6kg (UV). Rods are worth 1kg, while long rods are 2kg.
 
-Some recipes require §4exact§r sievert, you can use the screwdriver to access the radiation shutter control to adjust how much sv is blocked from being sent to the vat. For example, you need 100sv to make SeaweedBroth, so you'd use Naquadah rods, and block off 30sv.
+Some recipes require exact sievert, you can use the screwdriver to access the radiation shutter control to adjust how much sv is blocked from being sent to the vat. For example, you need 100sv to make SeaweedBroth, so you'd use Naquadah rods, and block off 30sv.
 
 Rod Stats:
 Material-Sievert-Apprx. time until used up

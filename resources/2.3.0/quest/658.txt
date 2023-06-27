@@ -1,4 +1,4 @@
-658battlegear2/spear.iron-0.png0§3§lIron Spear14-1Upgrade your wooden spear with an iron arrowhead and two steel screws to an iron spear. 
+658battlegear2/spear.iron-0.png0Iron Spear14-1Upgrade your wooden spear with an iron arrowhead and two steel screws to an iron spear. 
 
 The iron spear has better durability than the stone variant.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceminecraft/spawn_egg-58.pngSpawn Enderman
 1minecraft/spawn_egg-59.pngSpawn Cave Spider

@@ -1,8 +1,8 @@
-2830gregtech/gt.blockmachines-45.png1§1§b§l§1§2§3§4§5§4§6§7§8§9§a§b§c§d§e§c§b§lIV Energy Hatch8-1You'll need this to increase the power to your multis and progress.
+2830gregtech/gt.blockmachines-45.png1IV Energy Hatch8-1You'll need this to increase the power to your multis and progress.
 
 You need some Vanadium-Gallium to make HPIC Wafers for it, and an IV Cutting Machine if you haven't made the multi.
 
-§3I hope you had fun with the platline, lol.ANDpre14091gregtech/gt.blockmachines-2380.png18901gregtech/gt.blockmachines-215.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+I hope you had fun with the platline, lol.ANDpre14091gregtech/gt.blockmachines-2380.png18901gregtech/gt.blockmachines-215.png23211gregtech/gt.metaitem.01-2084.pngrewardsChoiceenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 4gregtech/gt.metaitem.01-2056.pngIndium Dust;In
 16gregtech/gt.metaitem.01-11084.pngIridium Ingot;Ir
 8Itemgregtech/gt.metaitem.01-2817.pngSalt;NaCl

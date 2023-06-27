@@ -1,8 +1,8 @@
-948gregtech/gt.metaitem.01-11304.png1§3§lBetter Than Iron3-1But not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.
+948gregtech/gt.metaitem.01-11304.png1Better Than Iron3-1But not as good as steel. Mostly, this is used in machine hulls, or in tools if you don't want to use steel up for that.
 
 To make wrought iron, you need a tinkers smelter to melt some iron ingots down and cast nuggets; or use an ingot and a saw to get your nuggets. Now put these in a furnace to get wrought iron nuggets. With the compressor, you can compress the nuggets into ingots.
 
-§3Hint: Crushed or purified iron ore (not a mixed version like pyrite, look for Iron Ore in Chalcopyrite veins) can be smelted to iron nuggets directly. Or you can use an alloy smelter to turn iron ingots into nuggets faster than a smeltery. You can also use a saw to cut up iron ingots into nuggets.
+Hint: Crushed or purified iron ore (not a mixed version like pyrite, look for Iron Ore in Chalcopyrite veins) can be smelted to iron nuggets directly. Or you can use an alloy smelter to turn iron ingots into nuggets faster than a smeltery. You can also use a saw to cut up iron ingots into nuggets.
 
 Later on, you can use an arc furnace to make wrought iron ingots directly.
 

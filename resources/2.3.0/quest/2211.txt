@@ -8,5 +8,5 @@ Rain Tolerant - Water - Keep producing even when it is raining.
 
 High Fertility - Wintry - For breeding purposes, you want the maximum number of drones produced.
 
-Reminder - Specialty products from bees require Jubilant state. That means the bee is in its §lNATURAL§r preferred climate. So it must not be in a biome it can tolerate due to temp/humidity improvements. For example, a Salt bee needs Warm/Normal climate. Even if it has +- humidity and temp, it will not produce its Salt comb unless it is in a Warm/Normal climate. Use Alveary upgrades to make sure it is in its preferred temp/humidity.ANDpre22090minecraft/book-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Reminder - Specialty products from bees require Jubilant state. That means the bee is in its NATURAL preferred climate. So it must not be in a biome it can tolerate due to temp/humidity improvements. For example, a Salt bee needs Warm/Normal climate. Even if it has +- humidity and temp, it will not produce its Salt comb unless it is in a Warm/Normal climate. Use Alveary upgrades to make sure it is in its preferred temp/humidity.ANDpre22090minecraft/book-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

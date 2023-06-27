@@ -1,4 +1,4 @@
-751gregtech/gt.blockmachines-582.png1§6§lMixing at MV level5-1MV Mixer is needed to progress toward HV. It also unlocks Diesel, more efficient fuel.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.02-32221.pngVeggieburger;gregtech:gt.metaitem.02;No matter how you call this, this is NOT a Burger!
+751gregtech/gt.blockmachines-582.png1Mixing at MV level5-1MV Mixer is needed to progress toward HV. It also unlocks Diesel, more efficient fuel.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsItemgregtech/gt.metaitem.02-32221.pngVeggieburger;gregtech:gt.metaitem.02;No matter how you call this, this is NOT a Burger!
 2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

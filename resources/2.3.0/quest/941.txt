@@ -1,4 +1,4 @@
-941gregtech/gt.metaitem.01-32762.png1§6§lA Very Useful Scanner17-1The portable scanner is a tool capable of showing advanced information about almost every block in the game. In order to function, the tool needs to be charged first. It can hold up to 400k EU and accept 128 EU/t or less. This is MV tier.
+941gregtech/gt.metaitem.01-32762.png1A Very Useful Scanner17-1The portable scanner is a tool capable of showing advanced information about almost every block in the game. In order to function, the tool needs to be charged first. It can hold up to 400k EU and accept 128 EU/t or less. This is MV tier.
 
 It can scan crops by right clicking it to fully scan it, unlike a cropnalyzer which needs a seed bag in your inventory, and takes multiple goes. Crops that were scanned in the world will drop a scanned seed bag.
 

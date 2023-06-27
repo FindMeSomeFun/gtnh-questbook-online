@@ -1,6 +1,6 @@
 2363HardcoreEnderExpansion/spatial_dash_gem-0.png0Spatial Dash Gem30-1The Spatial Dash Gem is used for enderpearl-like teleportation.
 
-The Spatial Dash Gem uses Energy and can be charged in an Energy Extraction Table.§3(?)§r Right-clicking with the gem in hand sends a purple beam straight to where the player is aiming. When the beam hits a block, the player will be teleported to it. Maximum travel distance is 75 blocks horizontally. The teleportation doesn't hurt the player, unlike Ender Pearls.
+The Spatial Dash Gem uses Energy and can be charged in an Energy Extraction Table.(?) Right-clicking with the gem in hand sends a purple beam straight to where the player is aiming. When the beam hits a block, the player will be teleported to it. Maximum travel distance is 75 blocks horizontally. The teleportation doesn't hurt the player, unlike Ender Pearls.
 
 The Spatial Dash Gem always tries to place the player on the top of the block, even if the beams hits a side or a bottom of it. 
 

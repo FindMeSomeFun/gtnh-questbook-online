@@ -1,11 +1,11 @@
-1853minecraft/book-0.png0§6§lMoron's Manual for Effective EBFing1-1Welcome to the latest Moron's Manual, Effective EBFing! This manual covers common problems encountered when using the GregTech 1000 Electric Blast Furnace.
+1853minecraft/book-0.png0Moron's Manual for Effective EBFing1-1Welcome to the latest Moron's Manual, Effective EBFing! This manual covers common problems encountered when using the GregTech 1000 Electric Blast Furnace.
 
 Setup
 When setting up your EBF, make sure to place it a few chunks away from things pollution affects, like farmland. Pollution is nobody's friend!
 
 During setup, make sure the center of the EBF is hollow. Sometimes things can sneak in there without you noticing, like a Thaumcraft light orb!
 
-Make sure your muffler faces §lout§r, not §lin§r. The EBF can't work if it is not spreading those delightful odors!
+Make sure your muffler faces out, not in. The EBF can't work if it is not spreading those delightful odors!
 
 When placing your power hatches, make sure to minimize the distance between any generators and the EBF. Especially at LV, those few blocks make a big difference! Every amp of energy travelling over a cable loses a little bit - and you'll need as much as you can get! Your best setup is to put two generators right next to each hatch, with a 2A cable. If you're poor, you could use 2 battery buffers with 2 batteries each directly attached to each hatch. Make sure to top off the buffers' generators. If you make 9 slot battery buffers, you can fill them up over time to get longer running time until you get stable power.
 

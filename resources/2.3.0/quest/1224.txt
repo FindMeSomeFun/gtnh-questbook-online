@@ -1,4 +1,4 @@
-1224gregtech/gt.metaitem.01-17470.png1§a§lEpoxid7-1Epoxid is needed for Advanced Circuits boards. You need Sodium Hydroxide, Epichlorohydrin and Bispenol A to make it.
+1224gregtech/gt.metaitem.01-17470.png1Epoxid7-1Epoxid is needed for Advanced Circuits boards. You need Sodium Hydroxide, Epichlorohydrin and Bispenol A to make it.
 
 You can also use the molten form for some other things you might want to check out.ANDpre12281gregtech/gt.metaitem.01-30648.png12301gregtech/gt.metaitem.01-30669.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
 8gregtech/gt.metaitem.01-11067.pngNeodymium Ingot;Nd

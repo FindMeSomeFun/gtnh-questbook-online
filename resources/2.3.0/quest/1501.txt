@@ -1,4 +1,4 @@
-1501adventurebackpack/blockCampFire-0.png0§1§lBackup Your Stuff...1-1AromaBackup is included with the pack. Adjust the settings as you like (frequency, number of backups to keep, etc). You can also use another mod like FTB Utilities, or even an external program. Try not to use more than one, or it'll just use up disk space and CPU power for no reason.
+1501adventurebackpack/blockCampFire-0.png0Backup Your Stuff...1-1AromaBackup is included with the pack. Adjust the settings as you like (frequency, number of backups to keep, etc). You can also use another mod like FTB Utilities, or even an external program. Try not to use more than one, or it'll just use up disk space and CPU power for no reason.
 
 If you need to restore from a backup, the AB ones are found in the backups folder in the instance directory, not the world save directory.
 

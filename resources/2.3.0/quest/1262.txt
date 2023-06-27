@@ -1,6 +1,6 @@
 1262gregtech/gt.blockmachines-184.png0EV Battery Buffer20-1It's EV, ok?
 
-§3Complete one task.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+Complete one task.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
 8gregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
 8gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
 4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

@@ -1,4 +1,4 @@
-8minecraft/cobblestone-0.png1§1§lGet That Stone0-1Look at you, with your shiny flint pickaxe! Time to mine some cobblestone. Yay! (And maybe you can improve this dirt-hut too...)ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/flint-0.pngFlint
+8minecraft/cobblestone-0.png1Get That Stone0-1Look at you, with your shiny flint pickaxe! Time to mine some cobblestone. Yay! (And maybe you can improve this dirt-hut too...)ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemminecraft/flint-0.pngFlint
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 5tasksANDRetrievalminecraft/cobblestone-0.pngCobblestone
 64

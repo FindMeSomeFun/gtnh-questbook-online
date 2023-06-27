@@ -1,4 +1,4 @@
-1873gregtech/gt.metaitem.99-649.png0§6§lPolyvinyl Chloride5-1Polyvinyl Chloride is PVC which can be used for the PVC Pipes. You need Vinyl Chloride and Oxygen to make it. You'll also want it for SMD capacitors later.
+1873gregtech/gt.metaitem.99-649.png0Polyvinyl Chloride5-1Polyvinyl Chloride is PVC which can be used for the PVC Pipes. You need Vinyl Chloride and Oxygen to make it. You'll also want it for SMD capacitors later.
 
 Do the recipe twice if you want to clean out your reactor, or three times if used the eight second recipe.ANDpre18720gregtech/gt.metaitem.01-30650.pngrewardsChoicegregtech/gt.blockmachines-1341.png2x Cupronickel Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 6 EU-Volt
 8gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl

@@ -2,7 +2,7 @@
 
 Multiple Ampere and Laser Hatches Compatibility - to ease power distribution.
 
-Power Pass - Allows connected dynamo hatches to take power from the controller and output it, just like the active transformer does (and that is why the controller always need it in it's recipe if that function is enabled...). §4Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!§r
+Power Pass - Allows connected dynamo hatches to take power from the controller and output it, just like the active transformer does (and that is why the controller always need it in it's recipe if that function is enabled...). Be sure to turn off Power Pass if you want to edit your machine and don't want it to explode!
 
 Safe Void - Enabling this moves all EM (Elemental Matter, not all machines use this) from input and output hatches to overflow hatches. Which allows the machine to be disassembled more easily.
 

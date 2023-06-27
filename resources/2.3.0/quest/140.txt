@@ -1,4 +1,4 @@
-140EnderIO/item.darkSteel_sword-0.png0§6§lDark Steel Tools14-1There are also tools made of dark steel. Each of them can receive upgrades. Hold shift to get the tooltip which will explain what you need in order to upgrade them.
+140EnderIO/item.darkSteel_sword-0.png0Dark Steel Tools14-1There are also tools made of dark steel. Each of them can receive upgrades. Hold shift to get the tooltip which will explain what you need in order to upgrade them.
 
 These tools can also be enchanted like vanilla tools.
 

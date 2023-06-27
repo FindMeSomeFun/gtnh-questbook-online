@@ -1,4 +1,4 @@
-2607gregtech/gt.metaitem.01-11325.png1§c§lNaquadah Alloy9-1In order to make a Fusion Reactor you're going to need some Naquadah Alloy.
+2607gregtech/gt.metaitem.01-11325.png1Naquadah Alloy9-1In order to make a Fusion Reactor you're going to need some Naquadah Alloy.
 
 First, pop on by Mercury and collect some Deep Iron from small ores if you haven't already, and get Trinium out of it.
 

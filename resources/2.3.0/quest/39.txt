@@ -1,4 +1,4 @@
-39JABBA/barrel-0.png0§2§lBetter Storage2-1While standard chests are good for your basic items and goods, they are not ideal for storing a large amount of ore. You should build yourself some barrels in order to keep things organized.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceStorageDrawers/fullDrawers1-0.pngOak Drawer;Holds 64 stacks per drawer;Burn Time: 300
+39JABBA/barrel-0.png0Better Storage2-1While standard chests are good for your basic items and goods, they are not ideal for storing a large amount of ore. You should build yourself some barrels in order to keep things organized.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoiceStorageDrawers/fullDrawers1-0.pngOak Drawer;Holds 64 stacks per drawer;Burn Time: 300
 2JABBA/barrel-0.pngBetter Barrel
 2enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

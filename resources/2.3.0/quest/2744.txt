@@ -1,8 +1,8 @@
 2744GalacticraftCore/tile.rocketWorkbench-0.png1NASA Workbench24-1The NASA Workbench is used to craft your rockets and other related vehicles. Build it to start your journey into space.
 
-§3Hint: Check out the nether star recipe which uses null catalyst and salis mundus. Null catalyst can be duplicated by adding magma cream, blaze powder and a tiny pile of nether star dust.§r
+Hint: Check out the nether star recipe which uses null catalyst and salis mundus. Null catalyst can be duplicated by adding magma cream, blaze powder and a tiny pile of nether star dust.
 
-§3Also, if you're having trouble getting the wither skulls, you can make a Cleaver or the Skullfire Sword to help with that.ANDpre1601gregtech/gt.blockmachines-13.png7701gregtech/gt.blockmachines-213.png12251gregtech/gt.metaitem.01-32705.pngrewardsItemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
+Also, if you're having trouble getting the wither skulls, you can make a Cleaver or the Skullfire Sword to help with that.ANDpre1601gregtech/gt.blockmachines-13.png7701gregtech/gt.blockmachines-213.png12251gregtech/gt.metaitem.01-32705.pngrewardsItemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalGalacticraftCore/tile.rocketWorkbench-0.pngNASA Workbench
 1

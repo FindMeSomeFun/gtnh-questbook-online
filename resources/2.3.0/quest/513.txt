@@ -1,6 +1,6 @@
 513gendustry/MutatronAdv-0.png0Advanced Mutatron28-1A more advanced version of the mutatron. It uses more energy to mutate a drone with a princess, and you can select which mutation you want to have. This machine is a must-have for high-tier bees.
 
-§3You'll need neutronium bees to make this.ANDpre5080gendustry/Mutatron-0.pngrewardsItemgendustry/Labware-0.pngGenetics Labware
+You'll need neutronium bees to make this.ANDpre5080gendustry/Mutatron-0.pngrewardsItemgendustry/Labware-0.pngGenetics Labware
 5Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 5enhancedlootbags/lootbag-27.pngLootBag (Bees Expert);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalgendustry/MutatronAdv-0.pngAdvanced Mutatron

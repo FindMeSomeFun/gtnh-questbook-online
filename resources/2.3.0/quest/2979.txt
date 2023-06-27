@@ -1,4 +1,4 @@
-2979irontank/emeraldTank-0.png0§5§6§l§5§lAluminium Tank4-1If you make some Double Aluminium Plates, you can make a new 96,000L single block tank.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemirontank/diamondEmeraldUpgrade-0.pngDiamond to Aluminium Tank Upgrade
+2979irontank/emeraldTank-0.png0Aluminium Tank4-1If you make some Double Aluminium Plates, you can make a new 96,000L single block tank.ANDpre1031gregtech/gt.metaitem.01-11019.pngrewardsItemirontank/diamondEmeraldUpgrade-0.pngDiamond to Aluminium Tank Upgrade
 1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalgregtech/gt.metaitem.01-18019.pngDouble Aluminium Plate;Al

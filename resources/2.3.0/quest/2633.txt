@@ -1,6 +1,6 @@
 2633gregtech/gt.metaitem.03-32164.png1Quantum Power ICs11-1You need Quantum Power ICs for UEV -> UIV and UIV -> UMV transformers, and UHV Hatches and Dynamos.
 
-§3You'll need a UHV Cutting Machine, or an OC'd multi to actually cut the wafers.
+You'll need a UHV Cutting Machine, or an OC'd multi to actually cut the wafers.
 
 
 ANDpre20411gregtech/gt.metaitem.03-32152.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-32164.pngQPIC Wafer;Raw Circuit

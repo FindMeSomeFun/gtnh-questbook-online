@@ -8,7 +8,7 @@ Agar has a more complicated processing chain, but it's nothing compared to Plati
 
 Use some of the Bacteria to create an Ova Evolutionis culture (15% chance), and then use that in the vat's controller to make Raw Growth Medium. You'll need IV-tier glass, and Uranium rods. There are also higher tier recipes.
 
-§3Cultures are not consumed when used in the vat.ANDpre25611gregtech/gt.blockmachines-12712.png25661gregtech/gt.blockmachines-12699.png26351gregtech/gt.blockmachines-1186.pngrewardstasksANDOptionalgregtech/gt.metaitem.98-15.pngBacteria Cell
+Cultures are not consumed when used in the vat.ANDpre25611gregtech/gt.blockmachines-12712.png25661gregtech/gt.blockmachines-12699.png26351gregtech/gt.blockmachines-1186.pngrewardstasksANDOptionalgregtech/gt.metaitem.98-15.pngBacteria Cell
 1Optionaldreamcraft/GTNHBioItems-2.pngAgar;Added by BartWorks
 1bartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Ova Evolutionis (Ova Evolutionis);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
 1Retrievalgregtech/gt.metaitem.01-30608.pngRaw Growth Catalyst Medium Cell

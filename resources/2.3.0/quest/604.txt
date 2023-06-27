@@ -1,4 +1,4 @@
-604EnderIO/blockCapBank-1-charged.png0§6§lRF Batteries5-1Basic Capacitor Banks are RF batteries which can store the RF power you generate. You can put many blocks together to enlarge your total battery capacity - they will merge into one battery.
+604EnderIO/blockCapBank-1-charged.png0RF Batteries5-1Basic Capacitor Banks are RF batteries which can store the RF power you generate. You can put many blocks together to enlarge your total battery capacity - they will merge into one battery.
 
 You can also change the mode of each face using your wire cutters or yeta wrench instead of the GUI. One option is a nice display of input and output RF, but it has to be taller than it is wide.
 

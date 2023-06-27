@@ -1,4 +1,4 @@
-1789minecraft/iron_door-0.png0§3§lFactory Iron Door3-1For your new Factory you need iron doors. Unfortunately, the recipe is really hard, needing steel.
+1789minecraft/iron_door-0.png0Factory Iron Door3-1For your new Factory you need iron doors. Unfortunately, the recipe is really hard, needing steel.
 
 You can choose two more iron doors as reward if you like.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1minecraft/iron_door-0.pngIron Door

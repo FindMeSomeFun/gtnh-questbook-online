@@ -1,4 +1,4 @@
-2328bartworks/gt.bwMetaGenerateddust-78.png1§b§lRhodium8-1This is the last step for Rhodium. You also get some Chlorine and Ammonia back.ANDpre23271bartworks/gt.bwMetaGenerateddust-87.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+2328bartworks/gt.bwMetaGenerateddust-78.png1Rhodium8-1This is the last step for Rhodium. You also get some Chlorine and Ammonia back.ANDpre23271bartworks/gt.bwMetaGenerateddust-87.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-87.pngReprecipitated Rhodium Dust;Rh\u2082NH\u2084;Added by BartWorks
 1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
 1Retrievalbartworks/gt.bwMetaGenerateddust-78.pngRhodium Dust;Rh;Added by BartWorks

@@ -3,11 +3,11 @@
 - Needs 1000 L/s of Gelid Cryotheum.
 - Requires n computation per tick according to this formula: n=0.1*m^1.075-128, where m is the amount of modules. As you can see, you get 128 computation for free! Isn't that nice?
 
-§cNote: §9Tec§1Tech§r's Multi-Amp Dynamo Hatches and Laser Source Hatches are supported.
+Note: TecTech's Multi-Amp Dynamo Hatches and Laser Source Hatches are supported.
 
-§cNote: §rThe amount of each part on the right is only the minimum, depending on how many Dynamo Hatches, Input Busses, Input Hatches and Optical Slave Connectors you use, you may need more Energy Receiver Base Casings, Module Deployment Unit Base Casings or Control Center Base Casings.
+Note: The amount of each part on the right is only the minimum, depending on how many Dynamo Hatches, Input Busses, Input Hatches and Optical Slave Connectors you use, you may need more Energy Receiver Base Casings, Module Deployment Unit Base Casings or Control Center Base Casings.
 
-§6Fun fact: §rThe maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag (Tier 8 UV);Your luck is increased by 100 %;Fortune III
+Fun fact: The maximum output is 105,553,116,266,496 EU/t (limited by 12 UEV 1048576A/t Laser Source Hatches)ANDpre26211gregtech/gt.blockmachines-2020.png27170bartworks/BioLabParts-0.png30380GalaxySpace/item.DysonSwarmParts-3.pngrewardsChoiceenhancedlootbags/lootbag-43-enchanted.pngLootBag (Tier 8 UV);Your luck is increased by 100 %;Fortune III
 4GalaxySpace/item.DysonSwarmParts-0.pngDyson Swarm Module
 256Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 5dreamcraft/item.CoinSpaceIV-0.pngCoin "The Space Invaders 10K"

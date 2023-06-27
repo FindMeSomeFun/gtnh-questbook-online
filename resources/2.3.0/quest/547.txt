@@ -1,4 +1,4 @@
-547gregtech/gt.blockmachines-531.png1§5§lYour Oil is Too Crude? Refine it!4-1Burning oil in the combustion generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to refine it.
+547gregtech/gt.blockmachines-531.png1Your Oil is Too Crude? Refine it!4-1Burning oil in the combustion generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to refine it.
 
 You'll need to use a circuit to pick which of the products you want. Later on you can make a Distillation Tower to get all of them, but that's far away for now.
 

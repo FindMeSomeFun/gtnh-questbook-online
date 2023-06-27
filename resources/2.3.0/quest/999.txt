@@ -1,4 +1,4 @@
-999EnderIO/item.darkSteel_sword-0-upgraded.png0§9§lDark Steel Tool and Weapon Advanced Upgrades14-1Your weapons and tools can be upgraded even more by adding capacitors and various other items.ANDpre9980EnderIO/item.darkSteel_sword-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-2.pngOctadic Capacitor;Machine Upgrade
+999EnderIO/item.darkSteel_sword-0-upgraded.png0Dark Steel Tool and Weapon Advanced Upgrades14-1Your weapons and tools can be upgraded even more by adding capacitors and various other items.ANDpre9980EnderIO/item.darkSteel_sword-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-2.pngOctadic Capacitor;Machine Upgrade
 8EnderIO/blockCapBank-3.pngVibrant Capacitor Bank;0/25,000,000 RF
 1miscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048
 1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

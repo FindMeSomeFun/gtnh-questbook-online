@@ -1,4 +1,4 @@
-1285ExtraUtilities/spike_base_diamond-0.png0§5§lDiamond Spikes4-1Diamond Spikes damages mobs (or you!) that touch any side of it other than the bottom. With 7 attack damage, the Spike does as much damage as a Diamond Sword. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block. Most explosions won't destroy the Spike because it has a very high blast resistance.
+1285ExtraUtilities/spike_base_diamond-0.png0Diamond Spikes4-1Diamond Spikes damages mobs (or you!) that touch any side of it other than the bottom. With 7 attack damage, the Spike does as much damage as a Diamond Sword. Mobs will not walk around the block, but will try to walk over it as if it were a regular solid block. Most explosions won't destroy the Spike because it has a very high blast resistance.
 
 These can also be enchanted with all the enchantments a regular diamond sword would receive. This includes Looting and Sharpness, which function exactly as it does on a sword. Interestingly, mobs killed by the Diamond Spike will return experience as if killed by the player.
 

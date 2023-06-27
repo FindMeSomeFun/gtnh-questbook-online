@@ -14,7 +14,7 @@ Note that the implementation is not finished, so there are some problems. Upgrad
 
 Please report any bugs/problems to the CFB-specific GTNH issue tracker at https://github.com/GTNewHorizons/CookingForBlockheads/issues
 
-§3There is no cow in a jar, it will not come back.ANDpre10081minecraft/book-0.pngrewardstasksANDRetrievalcookingforblockheads/white_kitchen_floor-0.pngKitchen Floor;Multiblock Kitchen;Connect kitchen blocks over distances.
+There is no cow in a jar, it will not come back.ANDpre10081minecraft/book-0.pngrewardstasksANDRetrievalcookingforblockheads/white_kitchen_floor-0.pngKitchen Floor;Multiblock Kitchen;Connect kitchen blocks over distances.
 24cookingforblockheads/counter-0.pngCounter;Multiblock Kitchen;Stores ingredients for recipes.;Dyeable
 1cookingforblockheads/countercorner-0.pngCounter Corner;Multiblock Kitchen;Keeping up appearances.;Dyeable
 1cookingforblockheads/cabinet-0.pngCabinet;Multiblock Kitchen;Stores ingredients for recipes.;Dyeable

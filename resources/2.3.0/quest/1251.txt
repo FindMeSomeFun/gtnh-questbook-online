@@ -1,4 +1,4 @@
-1251gregtech/gt.metaitem.03-32084.png1§a§lElite Nanocomputer7-1The elite nanocomputer is an IV circuit.ANDpre12501gregtech/gt.metaitem.03-32083.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
+1251gregtech/gt.metaitem.03-32084.png1Elite Nanocomputer7-1The elite nanocomputer is an IV circuit.ANDpre12501gregtech/gt.metaitem.03-32083.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
 2gregtech/gt.metaitem.03-32043.pngNOR Memory Chip;Integrated Circuit
 2gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
 4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

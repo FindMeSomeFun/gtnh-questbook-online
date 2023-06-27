@@ -1,6 +1,6 @@
 1330appliedenergistics2/item.ItemMultiMaterial-55.png0Ore Dictionary Output27-1The ME ore dictionary export card will attempt to push the configured item/fluid [From the same ore dictionary] from the ME network into a machine or other input inventory. To configure an item/liquid, type in the item's name [e.g. if you want to export all ores put "ore*"]. The rate of export is very fast.
 
-§3PS: Use §6crushed* & !crushedPurified* & !crushedCentrifuged*§3§3 to get any crushed ore, but not ore that has been washed, then crushed (to get purified) or run through the thermal centrifuge.§r
+PS: Use crushed* & !crushedPurified* & !crushedCentrifuged* to get any crushed ore, but not ore that has been washed, then crushed (to get purified) or run through the thermal centrifuge.
 
 The card can be used in more devices, and causes less lag, but works in a similar way. Put it inside a bus and set the filter using the T looking button that appears. The standalone bus is no longer craftable.ANDpre13061appliedenergistics2/item.ItemMultiPart-260.pngrewardsChoiceappliedenergistics2/item.ItemMultiMaterial-22.pngLogic Processor
 1appliedenergistics2/item.ItemMultiMaterial-24.pngEngineering Processor

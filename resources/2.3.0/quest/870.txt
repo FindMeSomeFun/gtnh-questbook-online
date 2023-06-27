@@ -1,4 +1,4 @@
-870Railcraft/machine.alpha-3.png0§6§lSmelt All the Things...17-1Smelting up to nine items at once sound nice? With a bit of steel you can make a railcraft Steam Oven. 2x2x2
+870Railcraft/machine.alpha-3.png0Smelt All the Things...17-1Smelting up to nine items at once sound nice? With a bit of steel you can make a railcraft Steam Oven. 2x2x2
 
 Hint: All furnace recipes work just fine, but you cannot use it to make charcoal from wood.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

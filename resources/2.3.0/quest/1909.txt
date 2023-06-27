@@ -1,4 +1,4 @@
-1909gregtech/gt.blockmachines-137.png0§9§lHow Much is Too Much Cobblestone?6-1A super chest III is just ridiculous. Who would possibly need to store 16 million items? You, that's who.ANDpre18710gregtech/gt.metaitem.01-32670.pngrewardsItemgregtech/gt.metaitem.01-32670.pngField Generator (LV)
+1909gregtech/gt.blockmachines-137.png0How Much is Too Much Cobblestone?6-1A super chest III is just ridiculous. Who would possibly need to store 16 million items? You, that's who.ANDpre18710gregtech/gt.metaitem.01-32670.pngrewardsItemgregtech/gt.metaitem.01-32670.pngField Generator (LV)
 3Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalgregtech/gt.blockmachines-137.pngSuper Chest III;This Chest stores 16,000,000 Blocks;Use a screwdriver to enable;voiding items on overflow;Will keep its contents when harvested
 1

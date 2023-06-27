@@ -1,4 +1,4 @@
-481Railcraft/fluid.creosote.bucket-0.png0§l§2§lCreosote2-1I guess you already processed a bit of wood into charcoal and wonder what you can do with all this creosote?
+481Railcraft/fluid.creosote.bucket-0.png0Creosote2-1I guess you already processed a bit of wood into charcoal and wonder what you can do with all this creosote?
 
 Well you can burn it in a normal furnace to cook your food or you can make more torches with it. Later in the LV age you can run combustion generators with it, but it's super inefficient. It works better in the RC boiler instead.ANDpre241Railcraft/machine.alpha-7.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

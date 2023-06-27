@@ -1,4 +1,4 @@
-1492gregtech/gt.metaitem.01-30972.png1§6§lTrichlorosilane - continued5-1Keep the hydrogen and continue in a second chemical reactor to obtain the purified Solar Grade Silicon. You get all the Hydrochloric Acid back!
+1492gregtech/gt.metaitem.01-30972.png1Trichlorosilane - continued5-1Keep the hydrogen and continue in a second chemical reactor to obtain the purified Solar Grade Silicon. You get all the Hydrochloric Acid back!
 
 Maybe you can automate this process?ANDpre15491gregtech/gt.metaitem.01-30972.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"

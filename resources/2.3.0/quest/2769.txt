@@ -1,22 +1,22 @@
 2769gregtech/gt.blockmachines-345.png0Even More Stats13-1There's seven more stats to worry about too.
 
-§7Fertilizer§r, §9Water§r, and §4Weed-EX§r are all about how much of these is on the crop stick rather than the crop itself. They're all about how much was applied, and is left of that.
+Fertilizer, Water, and Weed-EX are all about how much of these is on the crop stick rather than the crop itself. They're all about how much was applied, and is left of that.
 
-§2Nutrients§r, §1Humidity§r, and §6Air Quality§r are all about the environment. They're also affected by the Fertilizer and Water stats.
+Nutrients, Humidity, and Air Quality are all about the environment. They're also affected by the Fertilizer and Water stats.
 
 Nutrients and Humidity are mostly about the right biome, with swamp and rainforest types (hot+humid) being the best, but you can also get some extra stats by setting up right.
 
-§2Nutrients§r:
+Nutrients:
 3 possible free points from dirt under the farmland block, 2 for plants that require a specific block. So optimally always make sure that the required block is at the bottommost bottom in the column, because it checks in chain, not certain height. For example: cropstick -> farmland -> dirt -> oreblock -> dirt, it will only register 1 dirt, ignoring the one below the oreblock.
 
 5-10 possible points from fertilizing your crops. You can use fertilizer on a crop to increase its nutrients stat. Fertilizer caps at 199 which gives 10 nutrients, but can be applied again only if the crop drops below 100 fertilizer points. So for high stat crops its safe to assume and make tests for 100 fertilizer points as its a given constant unlike 199->100 values. You can apply bonemeal, IC2 fertilizer and Forestry fertilizer to a crop by hand. Forestry manual orchard multifarm and crop matron does this automatically when supplied with fertilizer (the multifarm needs fertilizer to harvest crops as well).
 
-§1Humidity§r:
+Humidity:
 2 free points from using dirt as farmland, as when farmland gets hydrated by water(turns darker) it gains 2 humidity points. This is why other blocks for this suck, since they don't give this bonus.
 
 10 possible points from hydrating your crop. Similiar to fertilizing, water can be applied to crop up to 200 points, which is 10 humidity points, altough unlike fertilizer it does not need to drop below value of 100, water can be applied over and over keeping it at constant 200 points. You can apply water to your crop by using IC2 hydration cells by hand, or let your Forestry manual orchard multifarm and crop matron do it automatically. The multifarm needs water to harvest crops as well though.
 
-§6Air Quality§r:
+Air Quality:
 4 potential free points from empty space around crop. A crop checks for empty spaces to calculate bonus air quality points, it gives up to 4 points, 1 point for each 2 empty spaces. It only counts full blocks or cropsticks though. If you like looks, you'll probably have to sacrifice this.
 
 4 free points from height of your farm. You get 1 free point every 15 blocks startng at Y79.
@@ -25,9 +25,9 @@ Nutrients and Humidity are mostly about the right biome, with swamp and rainfore
 109 - 3 points
 124 - 4 points
 
-2 free points from no opaque blocks above the crop. You can place glass above and you won't lose the bonus since it's a transparent block. You cannot use dark glass, several layers of water, or gaseous tenebrae to get around this if your crop likes the dark. Unless you only let it grow at night I guess§..
+2 free points from no opaque blocks above the crop. You can place glass above and you won't lose the bonus since it's a transparent block. You cannot use dark glass, several layers of water, or gaseous tenebrae to get around this if your crop likes the dark. Unless you only let it grow at night I guess.
 
-§aGrowability§r:
+Growability:
 Your crop will require a certain level of NHA, try to reach or surpass this, or the crop will either not grow, or even die (disappear). Each crop is different, and higher tiers (and stats) require more. It's generally easy to meet though, as long as you're in a good biome.
 
 Growability is determined by the difference between what the crop needs in terms of NHA, and what it actually has. If you have more than what you need it grows faster. This is why you don't want a maxed resistance stat, since higher stats will slow it down.ANDpre17940gregtech/gt.metaitem.01-32762.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox

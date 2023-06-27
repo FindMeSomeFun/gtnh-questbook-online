@@ -8,5 +8,5 @@ First we need to understand the parameter naming, like ID:0:1:I. The first numbe
 
 Inputs are something that is either set or is a default. Outputs give information that the machine sends to you, that indicates things. (like heat or Computation)
 
-§3You might still want to use the Parametrizer in block form if you want to copy and paste the settings.ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+You might still want to use the Parametrizer in block form if you want to copy and paste the settings.ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

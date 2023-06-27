@@ -1,4 +1,4 @@
-559Railcraft/machine.beta-3.png0§6§lLow-Pressure Boiler Tank17-1The low pressure boiler tank is the easiest way to make steam with an RC boiler. The firebox needs this tank on top to produce steam. The bigger the boiler the slower it heats up, but it will produce more steam when heated up.
+559Railcraft/machine.beta-3.png0Low-Pressure Boiler Tank17-1The low pressure boiler tank is the easiest way to make steam with an RC boiler. The firebox needs this tank on top to produce steam. The bigger the boiler the slower it heats up, but it will produce more steam when heated up.
 
 Extract steam by attaching a pipe to the boiler tank.ORpre5600Railcraft/machine.beta-5.png5610Railcraft/machine.beta-6.pngrewardsChoicedreamcraft/item.SteelBars-0.pngSteel Bars
 1gregtech/gt.metaitem.01-17032.pngIron Plate;Fe

@@ -1,4 +1,4 @@
-876gregtech/gt.blockmachines-1169.png0§6§lBring Me My Vat of Polyethelyne!17-1Tired of using small cells to process chemicals? Build a Large Chemical Reactor and you can just pipe in and out fluids. Or use the glorious large fluid cells to deliver and remove fluids from the hatches. 
+876gregtech/gt.blockmachines-1169.png0Bring Me My Vat of Polyethelyne!17-1Tired of using small cells to process chemicals? Build a Large Chemical Reactor and you can just pipe in and out fluids. Or use the glorious large fluid cells to deliver and remove fluids from the hatches. 
 
 Be careful, if the output hatches are full, the reactor will void any extra products!
 

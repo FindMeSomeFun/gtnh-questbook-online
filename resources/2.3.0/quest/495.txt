@@ -1,4 +1,4 @@
-495minecraft/diamond-0.png0§3§lOoo, Shiny! (Not Platinum!)3-1To make your first macerator you need two diamonds, and to enter the Twilight Forest you need one. Finding a diamond vein would help you a lot. Go and look for one at Y 5-20.ANDpre491minecraft/piston-0.pngrewardsItemgregtech/gt.metaitem.02-32234.pngSteak Sandwich;gregtech:gt.metaitem.02;Not a ''Steam Sandwich''
+495minecraft/diamond-0.png0Ooo, Shiny! (Not Platinum!)3-1To make your first macerator you need two diamonds, and to enter the Twilight Forest you need one. Finding a diamond vein would help you a lot. Go and look for one at Y 5-20.ANDpre491minecraft/piston-0.pngrewardsItemgregtech/gt.metaitem.02-32234.pngSteak Sandwich;gregtech:gt.metaitem.02;Not a ''Steam Sandwich''
 2gregtech/gt.metaitem.02-32232.pngCheese Sandwich;gregtech:gt.metaitem.02;Say Cheese!
 2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1ChoiceIC2/itemPlates-2.pngBronze Plate

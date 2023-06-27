@@ -1,10 +1,10 @@
-77gregtech/gt.blockmachines-1000.png1§r§6§l§5§l§o§l§r§6§lEBF-Time17-1In order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.
+77gregtech/gt.blockmachines-1000.png1EBF-Time17-1In order to get alumin(i)um ingots, you need an electric blast furnace. It's another very important step towards victory, so let's get started.
 
 Getting the Mica for the heating coils might be a little tricky...but you can use a substitute for the first tier of coils.
 
-§4(You need 2 LV hatches with 4A of 32V total, or 3 LV hatches with MOOOORE power if the multiblock is not fully repaired)
+(You need 2 LV hatches with 4A of 32V total, or 3 LV hatches with MOOOORE power if the multiblock is not fully repaired)
 
-§rA few recipes produce CO2/SO2 as fluid. You can put an output fluid hatch to the top layer of the EBF to collect it otherwise it gets auto voided. It depends on the muffler hatch how much fluid you can recover. Bart's Platinum Series recipes output fluids on the BOTTOM, so if you want to do Platinum Stuff later, remember that.
+A few recipes produce CO2/SO2 as fluid. You can put an output fluid hatch to the top layer of the EBF to collect it otherwise it gets auto voided. It depends on the muffler hatch how much fluid you can recover. Bart's Platinum Series recipes output fluids on the BOTTOM, so if you want to do Platinum Stuff later, remember that.
 
 Moron always says - Make Muffler Moint Mup. Or point up, anyways.
 
@@ -16,7 +16,7 @@ As you upgrade your EBF over the course of the game, this heat adjustment will i
 
 This adjustment does not apply to the Volcanus.
 
-§4If the pollution gets really bad, check in GT++ Multiblocks for a pollution scrubber, or upgrade your Muffler.
+If the pollution gets really bad, check in GT++ Multiblocks for a pollution scrubber, or upgrade your Muffler.
 ANDpre881gregtech/gt.blockmachines-1120.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 3gregtech/gt.metaitem.01-32764.pngBrainTech Aerospace Advanced Reinforced Duct Tape FAL-84;If you can''t fix it with this, use more of it!
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

@@ -1,6 +1,6 @@
-92gregtech/gt.metaitem.01-32650.png1§5§lYou're Gonna Hate This #44-1The fourth item you'll need a lot of, and is also a pain to craft. The most painful item you need to make lots of. 
+92gregtech/gt.metaitem.01-32650.png1You're Gonna Hate This #44-1The fourth item you'll need a lot of, and is also a pain to craft. The most painful item you need to make lots of. 
 
-§3Works like a conveyor but can work with selected item slots, adjust with a screwdriver.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemIC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+Works like a conveyor but can work with selected item slots, adjust with a screwdriver.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemIC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
 2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.metaitem.01-32650.pngRobot Arm (LV);1 stack every 20 secs (as Cover);Grabs from and inserts into specific slots

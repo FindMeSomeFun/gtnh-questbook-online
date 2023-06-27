@@ -1,22 +1,22 @@
-2406Automagy/enchantedPaper-2.png0§1§lNumbers in the Corner?1-1What's with the numbers in the corner? Well that's In-Game Info, a handy mod that gives you necessary information for GregTech: New Horizons.
+2406Automagy/enchantedPaper-2.png0Numbers in the Corner?1-1What's with the numbers in the corner? Well that's In-Game Info, a handy mod that gives you necessary information for GregTech: New Horizons.
 
 The most important info is whether or not you are in an ore chunk. Later quests will explain what that means.
 
 If you don't want to see the IGI information, you can use 
 
-§l/igi disable
+/igi disable
 /igi enable
-§r
+
 to disable and enable the window.
 
-§l/igi config
+/igi config
 
-§rwill bring up the configuration window, which you can use to control placement, and the scale/size of the font.
+will bring up the configuration window, which you can use to control placement, and the scale/size of the font.
 
 
 Another useful display is Extra Utilities' TPS meter. It gives you the instantaneous tps, average tps, and worst-case tps. TPS is Ticks-per-second, a measure of how well your server is running. TPS=20 is ideal, and TPS<15 is going to start noticeably lagging. TPS<10 is going to be hard to play. If you need suggestions solving TPS problems, contact us on Discord.
 
 Toggle the display with
 
-§l/xu_tpsANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+/xu_tpsANDpre01minecraft/wheat-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

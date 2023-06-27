@@ -1,4 +1,4 @@
-50gregtech/gt.blockmachines-106.png1§3§lMacerator v1.0!3-1Finally you are able to make a device that will replace your mortar. However, the "no-durability" feature of this device comes with a cost: You need 2 diamonds for the grinding heads.
+50gregtech/gt.blockmachines-106.png1Macerator v1.0!3-1Finally you are able to make a device that will replace your mortar. However, the "no-durability" feature of this device comes with a cost: You need 2 diamonds for the grinding heads.
 
 The macerator will double your ore output. Put ores through it instead of smelting directly.
 

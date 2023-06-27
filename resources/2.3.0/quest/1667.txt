@@ -1,10 +1,10 @@
-1667gregtech/gt.metaitem.01-11324.png1§b§lYour First Naquadah Ingot8-1You may have noticed that you can't get naquadah dust from the naquadah ore, it will only give you the Naquadah Oxide Mixture (NOM) dust, annoying.
+1667gregtech/gt.metaitem.01-11324.png1Your First Naquadah Ingot8-1You may have noticed that you can't get naquadah dust from the naquadah ore, it will only give you the Naquadah Oxide Mixture (NOM) dust, annoying.
 
 The full naquadah processing line is too complex and does not fit in IV. I believe you won't want to set up another line after finishing Platinum, PBI and Lanthanide lines.
 
 Lucky, you can directly smelt the NOM dust into naquadah nuggets in EBF, but it is inefficient and you will lose the byproducts in it.
 
-§3PS: The Naquadah Oxide Mixture is once called "Naquadah Metal Oxide Mixture" and someone called it Nq-MOM for short. §6§4ANDpre15381gregtech/gt.blockores-828.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+PS: The Naquadah Oxide Mixture is once called "Naquadah Metal Oxide Mixture" and someone called it Nq-MOM for short. ANDpre15381gregtech/gt.blockores-828.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-11324.pngNaquadah Ingot;Nq

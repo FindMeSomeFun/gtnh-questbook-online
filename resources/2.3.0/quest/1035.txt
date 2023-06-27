@@ -1,6 +1,6 @@
-1035OpenBlocks/xpshower-0.png0§5§lBe Sure to Get Your Armpits4-1Want to use all that delicious XP to raise your levels? Move the tank with XP above you and attach this convenient shower head to take the XP from the tank.
+1035OpenBlocks/xpshower-0.png0Be Sure to Get Your Armpits4-1Want to use all that delicious XP to raise your levels? Move the tank with XP above you and attach this convenient shower head to take the XP from the tank.
 
-§3This can be laggy, so be careful about letting too many xp orbs out of a tank. Apply a RS signal to turn it off.ANDpre981gregtech/gt.blockmachines-291.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+This can be laggy, so be careful about letting too many xp orbs out of a tank. Apply a RS signal to turn it off.ANDpre981gregtech/gt.blockmachines-291.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15tasksANDRetrievalOpenBlocks/xpshower-0.pngXP Shower
 1

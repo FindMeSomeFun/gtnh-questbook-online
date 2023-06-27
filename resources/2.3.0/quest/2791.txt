@@ -1,6 +1,6 @@
 2791gregtech/gt.blockmachines-31026.png0You Haven't Learned How to Separate Fluids Yet? Seriously?19-1This multi follows the same logic as the Large Combustion Engine, but it uses semifluids instead. If you have the need to burn any of those for power, like Heavy Fuel for example, you can put this together.
 
-§3Check the Large Combustion Engine quest for more details.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+Check the Large Combustion Engine quest for more details.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalgregtech/gt.blockcasings2-3.pngSteel Gear Box Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!

@@ -9,7 +9,7 @@ Right-click:
 Shift-right-click:
  * Teleport to travel anchor, 2048 range
 
-§3Tip: You won't be able to see travel anchors that are far away, but can still teleport to them if they are in range and chunk-loaded. Try using JourneyMap waypoints to mark anchors!
+Tip: You won't be able to see travel anchors that are far away, but can still teleport to them if they are in range and chunk-loaded. Try using JourneyMap waypoints to mark anchors!
 
-§3Note: The staff of teleportation has inverted shift behavior compared to the regular staff. This is to make moving around with right-click easier.ANDpre15090EnderIO/itemTravelStaff-0-charged.png26731Avaritia/Resource-4.pngrewardstasksANDRetrievalEnderIO/itemTeleportStaff-0.pngStaff of Teleportation;Infinite RF
+Note: The staff of teleportation has inverted shift behavior compared to the regular staff. This is to make moving around with right-click easier.ANDpre15090EnderIO/itemTravelStaff-0-charged.png26731Avaritia/Resource-4.pngrewardstasksANDRetrievalEnderIO/itemTeleportStaff-0.pngStaff of Teleportation;Infinite RF
 1

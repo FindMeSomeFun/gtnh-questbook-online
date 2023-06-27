@@ -1,6 +1,6 @@
-2426gregtech/gt.blockores-1080.png0§6§lTantalum Nether5-1Tantalum is used in the GT (optional) and Ender IO Capacitors, and is also a source for niobium. You can find Tantalite at Y 20-30 in the Nether.
+2426gregtech/gt.blockores-1080.png0Tantalum Nether5-1Tantalum is used in the GT (optional) and Ender IO Capacitors, and is also a source for niobium. You can find Tantalite at Y 20-30 in the Nether.
 
-§4Keep in mind you need an HV + Kanthal EBF and an MV Chemical Bath to get Tantalum Ingots.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsItemharvestcraft/celerysoupItem-0.pngCelery Soup;harvestcraft:celerysoupItem
+Keep in mind you need an HV + Kanthal EBF and an MV Chemical Bath to get Tantalum Ingots.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsItemharvestcraft/celerysoupItem-0.pngCelery Soup;harvestcraft:celerysoupItem
 1Choiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-26080.pngTantalum Bolt;Ta
 64Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

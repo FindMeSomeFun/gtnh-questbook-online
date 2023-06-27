@@ -5,7 +5,7 @@ Using 2 in the X and Z dimensions and 3 in the Y will give you a 1x2x1 teleporte
 Read this if you want to know more about spatial IO in general, and larger setups: https://www.reddit.com/r/feedthebeast/comments/3c2b2r/a_treatise_on_nocheat_smp_ae2_spatial_io/
 Also see this if you want to see a fancy teleporter: https://www.reddit.com/r/feedthebeast/comments/2mhrf8/ae2_spatial_transporters/
 
-§4Spatial cells, once used, will only work in the XYZ dimensions first used, with no way to format or recraft. Test in creative first!
+Spatial cells, once used, will only work in the XYZ dimensions first used, with no way to format or recraft. Test in creative first!
 
 Expect your world to lag for a second after using, blame AE.ANDpre25050dreamcraft/item.EngineeringProcessorSpatialPulsatingCore-0.png25090appliedenergistics2/item.ItemSpatialStorageCell.2Cubed-0.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

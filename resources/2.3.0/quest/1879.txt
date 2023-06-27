@@ -1,4 +1,4 @@
-1879gregtech/gt.blockmachines-484.png0§a§lCreate New Materials Out of Pure Energy7-1Using the scanner, you can scan certain items (check the replicator's NEI recipes) to store the information of the item to a data orb so you can make copies of them with the replicator. This process uses a varying amount of UUM and time, depending on the item. Scanning also takes forever.
+1879gregtech/gt.blockmachines-484.png0Create New Materials Out of Pure Energy7-1Using the scanner, you can scan certain items (check the replicator's NEI recipes) to store the information of the item to a data orb so you can make copies of them with the replicator. This process uses a varying amount of UUM and time, depending on the item. Scanning also takes forever.
 
 Some items you might want to replicate include:
 Indium

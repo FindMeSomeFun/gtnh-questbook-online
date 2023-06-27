@@ -1,4 +1,4 @@
-1710gregtech/gt.metaitem.03-32091.png1§c§lCrystalprocessor Mainframe9-1The Crystalprocessor Mainframe is the first UV circuit you can make.ANDpre17091gregtech/gt.metaitem.03-32090.png17111gregtech/gt.blockmachines-2400.pngrewardsChoicegregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
+1710gregtech/gt.metaitem.03-32091.png1Crystalprocessor Mainframe9-1The Crystalprocessor Mainframe is the first UV circuit you can make.ANDpre17091gregtech/gt.metaitem.03-32090.png17111gregtech/gt.blockmachines-2400.pngrewardsChoicegregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
 64gregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
 4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

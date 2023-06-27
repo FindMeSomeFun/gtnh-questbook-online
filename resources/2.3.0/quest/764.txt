@@ -1,4 +1,4 @@
-764IC2/itemDynamite-0.png0§6§lDynamite17-1Dynamite is the most basic explosive you can use in the implosion compressor.
+764IC2/itemDynamite-0.png0Dynamite17-1Dynamite is the most basic explosive you can use in the implosion compressor.
 Mix some paper, string and glyceryl trinitrate in a chemical reactor to get dynamite.ANDpre5560gregtech/gt.metaitem.01-30714.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
 32IC2/itemDynamite-0.pngDynamite

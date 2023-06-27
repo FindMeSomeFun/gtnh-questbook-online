@@ -1,4 +1,4 @@
-938IC2/itemTreetapElectric-1-charged.png0§5§6§l§5§lAutomated Sticky Resin Farmer4-1If you're tired of crafting tons of tree taps, how about a machine that uses power but never breaks? Let's craft an electric tree tap!
+938IC2/itemTreetapElectric-1-charged.png0Automated Sticky Resin Farmer4-1If you're tired of crafting tons of tree taps, how about a machine that uses power but never breaks? Let's craft an electric tree tap!
 
 (If you're looking for better ways to get Sticky Resin, you might want to consider the Stickreed crop from IC2 crops. To get it, plant Sugarcanes on Crops on a X formation, with spaces between them, and then put 2 Crops on each empty slot. For more information, check the crop quests.ANDpre6200IC2/itemBatRE-1-charged.pngrewardsItemgregtech/gt.metaitem.01-32500.pngSmall Battery Hull;An empty LV Battery Hull
 1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

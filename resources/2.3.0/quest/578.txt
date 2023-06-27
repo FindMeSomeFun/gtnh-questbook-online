@@ -2,7 +2,7 @@
 
 The carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
 
-§3PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceminecraft/glass-0.pngGlass;Glass-Tier: HV
+PS: Yes it's a pain in the ass to automate, just make one for each thing you want to make.ANDpre5770Forestry/sturdyMachine-0.pngrewardsChoiceminecraft/glass-0.pngGlass;Glass-Tier: HV
 16minecraft/redstone-0.pngRedstone
 10gregtech/gt.metaitem.01-30712.pngCreosote Cell
 8enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

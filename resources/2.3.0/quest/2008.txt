@@ -4,7 +4,7 @@ Once fully assembled, you can begin operating recipes at any time, so long as th
 
 Still confused? Good, that's the spirit of learning! Always make sure to test these things in creative single player if you wish to find exact measurements and such. Don't forget to ALWAYS COLOR THE OPTICAL HATCHES AND FIBERS!
 
-§3Note that some researches require a significant amount of amps, so keep that in mind.§rANDpre20071gregtech/gt.blockmachines-15311.pngrewardsItemtectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
+Note that some researches require a significant amount of amps, so keep that in mind.ANDpre20071gregtech/gt.blockmachines-15311.pngrewardsItemtectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
 59tasksANDOptionalgregtech/gt.blockmachines-15103.pngUV 4A Energy Hatch;TecTech: Interdimensional;Multiple Ampere Energy Injector for Multiblocks;Amperes In: 5 A;Voltage IN: 524,288 (UV);Capacity: 8,389,120 EU
 1gregtech/gt.blockmachines-15440.pngOptical Slave Connector;TecTech: Elemental Matter;Quantum Data Input for Multiblocks;High speed fibre optics connector.;Must be painted to work
 1gregtech/gt.blockmachines-15451.pngObject Holder;TecTech: Elemental Matter;For Research Station;Advanced Holding Mechanism!

@@ -1,6 +1,6 @@
 3252Botania/manaResource-0.png1What are all these flowers even for?35-1If you've never used Botania before, you may be wondering about the purpose of all this effort. This isn't a simple question to answer, but one thing you can do that's quite useful right now is making yourself some manasteel.
 
-Among its many uses, manasteel has one of the best, if not simply §othe§o §rbest, durabilities of materials available at LV, so it's perfect for all of your crafting tools.
+Among its many uses, manasteel has one of the best, if not simply the best, durabilities of materials available at LV, so it's perfect for all of your crafting tools.
 
 If you have a particular dislike of Tinker's Construct, manasteel is a great material to make a Gregtech pickaxe out of too.ANDpre32231Botania/pool-2.pngrewardsChoicegregtech/gt.metatool.01-16-Manasteel-Manasteel.pngWrench;Durability: 512,000 / 512,000;Manasteel lvl 4;Attack Damage: 7.0;Mining Speed: 8.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
 1gregtech/gt.metatool.01-22-Manasteel-Wood.pngScrewdriver;Durability: 512,000 / 512,000;Manasteel lvl 4;Attack Damage: 5.5;Mining Speed: 8.0;Adjusts Covers and Machines

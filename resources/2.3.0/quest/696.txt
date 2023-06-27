@@ -1,4 +1,4 @@
-696minecraft/comparator-0.png0§6§lAutomation, Tier 217-1You want a better automation than using pipes? Sure, craft a comparator and link it with redstone dust placed on the ground. The redstone needs to be adjacent to the faucet to activate the crafting process.ANDpre4791minecraft/portal-0.png6950gregtech/gt.blockmachines-5123.pngrewardsItemminecraft/redstone_torch-0.pngRedstone Torch
+696minecraft/comparator-0.png0Automation, Tier 217-1You want a better automation than using pipes? Sure, craft a comparator and link it with redstone dust placed on the ground. The redstone needs to be adjacent to the faucet to activate the crafting process.ANDpre4791minecraft/portal-0.png6950gregtech/gt.blockmachines-5123.pngrewardsItemminecraft/redstone_torch-0.pngRedstone Torch
 2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalminecraft/comparator-0.pngRedstone Comparator

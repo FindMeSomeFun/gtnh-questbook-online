@@ -1,4 +1,4 @@
-2321gregtech/gt.metaitem.01-2084.png1§b§lIridium8-1Add Calcium to Iridium Chloride to finally get pure Iridium.
+2321gregtech/gt.metaitem.01-2084.png1Iridium8-1Add Calcium to Iridium Chloride to finally get pure Iridium.
 
 You can run the Metallic Sludge through a centrifuge to get nickel and copper, while the Calcium Chloride needs to be solidified in a fluid solidifier before it can be electrolyzed for calcium and chlorine.
 

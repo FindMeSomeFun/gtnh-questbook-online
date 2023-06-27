@@ -1,4 +1,4 @@
-154Translocator/translocator-1.png0§6§lSimple Fluid Transfer5-1Just like the item translocators, the fluid ones transfer... fluids. Same restrictions apply, 1 block distance. These can also be upgraded.ANDpre1530Translocator/translocator-0.pngrewardsItemTranslocator/diamondNugget-0.pngDiamond Nugget
+154Translocator/translocator-1.png0Simple Fluid Transfer5-1Just like the item translocators, the fluid ones transfer... fluids. Same restrictions apply, 1 block distance. These can also be upgraded.ANDpre1530Translocator/translocator-0.pngrewardsItemTranslocator/diamondNugget-0.pngDiamond Nugget
 2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalTranslocator/translocator-1.pngLiquid Translocator

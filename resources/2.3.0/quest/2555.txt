@@ -1,17 +1,17 @@
 2555gregtech/gt.metaitem.01-32619.png0Underground Fluids1-1So you're probably wondering what all the underground fluids are, so here's a list. They're sorted by rocket tier and planet. Any Dims not listed have none.
 
-§cThis list is subject to change due to balancing at any time!§r
+This list is subject to change due to balancing at any time!
 
-§2Example:
+Example:
 
 Tier X:
 Dimension/Planet
 Fluid <Number that represents how likely it is for this fluid to show up> <Number that represents how much can be present in any 8x8 UF chunk. They are 0-# unless otherwise specified>
 Other fluid that is also present <same as above> <same as above>
-Etc§r
+Etc
 
 
-§5Tier 0:§r
+Tier 0:
 Overworld
 Natural Gas 20 350
 Oil 20 625
@@ -20,19 +20,19 @@ Light Oil 20 625
 Heavy Oil 20 625
 
 
-§5Tier 1:§r
+Tier 1:
 Moon
 Helium-3 100 425
 Salt water 20 200
 
 
-§5Tier 2:§r
+Tier 2:
 Mars
 Chlorobenzene 100 400
 Salt Water 100 400
 
 
-§5Tier 3:§r
+Tier 3:
 Callisto
 Liquid Air 100 2-200
 Oxygen 100 200
@@ -49,7 +49,7 @@ Natural Gas 65 625
 Very Heavy Oil 40 625
 
 
-§5Tier 4:§r
+Tier 4:
 Io
 Carbon Dioxide 80 750
 Molten Lead 20 650
@@ -65,7 +65,7 @@ Molten Lead 100 1600
 Sulfuric Acid 100 250
 
 
-§5Tier 5:§r
+Tier 5:
 Miranda
 Hydrogen Sulfide 100 900
 
@@ -81,7 +81,7 @@ Ethane 100 200
 Methane 100 800
 
 
-§5Tier 6:§r
+Tier 6:
 Proteus
 Deuterium 100 700
 
@@ -90,7 +90,7 @@ Ethylene 100 800
 Nitrogen 100 800
 
 
-§5Tier 7:§r
+Tier 7:
 Makemake
 Hydrofluoric Acid 80 300
 
@@ -101,7 +101,7 @@ Nitrogen 100 800
 Oxygen 100 800
 
 
-§5Tier 8:§r
+Tier 8:
 Alpha Centauri Bb
 Molten Copper 10 300
 

@@ -4,7 +4,7 @@ It will need a minecart load of resources, so start mining!
 
 Catalysts are needed in some recipes, place them in the Catalyst Housing. They use durability, this includes ones that don't look like it.
 
-§3You can make Silicon Carbide in the mixer, you don't need the ABS.§r
+You can make Silicon Carbide in the mixer, you don't need the ABS.
 
 Valid solid casings: (Determines CP Tier for recipes)
 1 Strong Bronze Machine Casing
@@ -27,6 +27,6 @@ Tungstensteel
 
 All coils from Cupronickel to Eternal are valid. Each one increases speed by +50%, starting at 50% speed for Cupronickel.
 
-§3Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+Additionally: If you have at least Awakened Draconium Coils and Tungstensteel pipe casings, then no catalyst is consumed at all!ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1tasksANDRetrievalgregtech/gt.blockmachines-998.pngExxonMobil Chemical Plant;Machine Type: Chemical Plant;Controller Block for the Chemical Plant;Heavy Industry, now right at your doorstep!;Please read the user manual for more information on construction and usage;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

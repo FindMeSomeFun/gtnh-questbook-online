@@ -1,6 +1,6 @@
 615gregtech/gt.metaitem.01-32518.png0Reusable Battery: Lithium20-1...and the Lithium one.
 
-§3Lithium is the one that stores the most EU of the 3 rechargable batteries.ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
+Lithium is the one that stores the most EU of the 3 rechargable batteries.ANDpre6091gregtech/gt.metaitem.01-32500.png6240gregtech/gt.blockmachines-231.pngrewardsChoicegregtech/gt.metaitem.01-2006.pngLithium Dust;Li;Burn Time: 6000
 2gregtech/gt.metaitem.01-2315.pngBattery Alloy Dust;Pb\u2084Sb
 4gregtech/gt.blockmachines-1246.png1x Tin Cable;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
 4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

@@ -1,4 +1,4 @@
-1017gregtech/gt.metaitem.01-32703.png1§9§lProcessor Assembly6-1This is the second step to making EV and IV circuits.ANDpre10191gregtech/gt.metaitem.03-32014.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+1017gregtech/gt.metaitem.01-32703.png1Processor Assembly6-1This is the second step to making EV and IV circuits.ANDpre10191gregtech/gt.metaitem.03-32014.pngrewardsChoicegregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
 4gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
 1gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
 4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

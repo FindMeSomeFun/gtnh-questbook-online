@@ -2,7 +2,7 @@
 
 By the way, you can wall-share Oil Crackers, just like DTs, LCRs and many other multis, and doing this will save on the amount of coils you need!
 
-§3You only need to do one of the two tasks.ANDpre30100gregtech/gt.blockmachines-142.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
+You only need to do one of the two tasks.ANDpre30100gregtech/gt.blockmachines-142.pngrewardsItemIC2/itemCellEmpty-0.pngEmpty Cell
 64gregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
 16IC2/itemCellEmpty-14.pngSteam Cell
 16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

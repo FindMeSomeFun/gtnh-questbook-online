@@ -1,4 +1,4 @@
-741TConstruct/ToolForgeBlock-0.png0§5§3§lTool Forge3-1After getting alumite, it's time to craft a tool forge for making bigger (and better) Tinkers tools. ANDpre11260TConstruct/materials-15.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+741TConstruct/ToolForgeBlock-0.png0Tool Forge3-1After getting alumite, it's time to craft a tool forge for making bigger (and better) Tinkers tools. ANDpre11260TConstruct/materials-15.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/heavyPlate-15.pngAlumite Large Plate;Reinforced II;Durability: 413;Mining Speed: 7.9;Attack: 2 Hearts;Parts can be replaced

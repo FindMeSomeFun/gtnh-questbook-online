@@ -1,4 +1,4 @@
-781gregtech/gt.blockmachines-1159.png0§6§lStill Not Enough Charcoal?17-1This oven is the best way to get charcoal and creosote (x50 faster than Railcraft's coke oven) and other byproducts. You will need tons of bronze, iron and steel to build it, but it's worth it. Finally, it will be possible to dismantle the charcoal pit.
+781gregtech/gt.blockmachines-1159.png0Still Not Enough Charcoal?17-1This oven is the best way to get charcoal and creosote (x50 faster than Railcraft's coke oven) and other byproducts. You will need tons of bronze, iron and steel to build it, but it's worth it. Finally, it will be possible to dismantle the charcoal pit.
 
 With Cupronickel coils the oven is a bit slower. Each coil tier speeds up the charcoal production.ANDpre771gregtech/gt.blockmachines-1000.png7171gregtech/gt.metaitem.01-32702.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2dreamcraft/tile.TripleCompressedCharcoal-0.pngBlock of Triple Compressed Charcoal;Burn Time: 11664000

@@ -1,6 +1,6 @@
 507Forestry/apiculture-0.png0Upgraded Home28-1The Bee House can be used to stabilize mutations, for example if you have successfully bred two different bees, but the passive traits are different from the active ones. 
 
-To actually breed those together to get a new species, you'll need something different - the Apiary. Building them will require a Carpenter and Impregnated frames, along with Seed Oil and Creosote - quite a bit of industrialization! Or, if you're lucky, you can find a beekeeper villager to trade with. Maybe you can help the villagers §lget lucky§r to make more beekeeper villagers? If only Cupid and his bow were around...
+To actually breed those together to get a new species, you'll need something different - the Apiary. Building them will require a Carpenter and Impregnated frames, along with Seed Oil and Creosote - quite a bit of industrialization! Or, if you're lucky, you can find a beekeeper villager to trade with. Maybe you can help the villagers get lucky to make more beekeeper villagers? If only Cupid and his bow were around...
 
 Production rates in an empty Apiary are low - lower than a Bee House by quite a bit, in fact.  But the Apiary has two big advantages - Frames, and Automation. You can now use your Untreated or Impregnated frames in here to boost output - and the boost is multiplied. So 3 x2 frames gives you 2 * 2 * 2 = 8x extra output! You can also automate I/O for the bees and their products, though not frames unfortunately.
 

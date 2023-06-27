@@ -1,4 +1,4 @@
-2765gregtech/gt.blockmachines-13104.png0§6§lTFFT17-1The TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.
+2765gregtech/gt.blockmachines-13104.png0TFFT17-1The TFFT is very useful if you don't want to have a bunch of Super Tanks with overflow covers on buffer ULV Tanks.
 
 With the tier I storage field block, it consumes 31.5 EU/t but only has about 0.315x the storage capacity of a ST I per fluid.
 
@@ -8,7 +8,7 @@ You can use the multi hatch to access all the fluids at once with an ME Fluid St
 
 You need 63 of any tier of storage field block, you can mix them too.
 
-§3Remember to turn auto-voiding on.
+Remember to turn auto-voiding on.
 
-§4The TFFT was reworked apparently, so this quest might or might not be accurate.ANDpre2131gregtech/gt.blockmachines-15.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-13104.pngT.F.F.T;Machine Type: Fluid Tank;High-Tech fluid tank that can hold up to 25 different fluids!;Has 1/25th of the total capacity as capacity for each fluid.;Right clicking the controller with a screwdriver will turn on excess voiding.;Fluid storage amount and running cost depends on the storage field blocks used.;-----------------------------------------;Note on hatch locking:;Use an Integrated Circuit in the GUI slot to limit which fluid is output.;The index of a stored fluid can be obtained through the Tricorder.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: KekzTech
+The TFFT was reworked apparently, so this quest might or might not be accurate.ANDpre2131gregtech/gt.blockmachines-15.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-13104.pngT.F.F.T;Machine Type: Fluid Tank;High-Tech fluid tank that can hold up to 25 different fluids!;Has 1/25th of the total capacity as capacity for each fluid.;Right clicking the controller with a screwdriver will turn on excess voiding.;Fluid storage amount and running cost depends on the storage field blocks used.;-----------------------------------------;Note on hatch locking:;Use an Integrated Circuit in the GUI slot to limit which fluid is output.;The index of a stored fluid can be obtained through the Tricorder.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: KekzTech
 1

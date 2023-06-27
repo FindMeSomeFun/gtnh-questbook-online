@@ -1,2 +1,2 @@
-2811compactkineticgenerators/BlockCkg-6.png0§9§lKinetic Water Power LuV19-1This is the LuV version.ANDpre14891gregtech/gt.metaitem.01-32655.png28090compactkineticgenerators/BlockCkg-5.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-6.pngHigh Kinetic Water Generator;Power Output: 0-64.0x KU/t max
+2811compactkineticgenerators/BlockCkg-6.png0Kinetic Water Power LuV19-1This is the LuV version.ANDpre14891gregtech/gt.metaitem.01-32655.png28090compactkineticgenerators/BlockCkg-5.pngrewardstasksANDRetrievalcompactkineticgenerators/BlockCkg-6.pngHigh Kinetic Water Generator;Power Output: 0-64.0x KU/t max
 1

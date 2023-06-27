@@ -1,4 +1,4 @@
-1661gregtech/gt.metaitem.01-30664.png1§9§lSilicone Rubber6-1Want to make the synthetic rubber Silicone? As the first step you need Chloromethane.
+1661gregtech/gt.metaitem.01-30664.png1Silicone Rubber6-1Want to make the synthetic rubber Silicone? As the first step you need Chloromethane.
 
 You can use 2 Chlorine and 1 Methane per Chloromethane in your chemical reactor. Alternatively you can use Methanol and Hydrochloric Acid.
 

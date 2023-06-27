@@ -1,6 +1,6 @@
 3144gregtech/gt.blockmachines-31027.png0Too much Indium?18-1Milling process is an alternative way to produce Indium, designed for ZPM and UV people. It does not void Aluminium and Galena for no reason, and you can extract Indium from Sphalerite efficiently. In exchange of machine cost and infrastructure needed to process.
 
-§3This multi is LuV, but you have to use in combination with Vacuum Furnace, which is ZPM.ANDpre27600gregtech/gt.blockmachines-995.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV);Your luck is increased by 100 %;Fortune III
+This multi is LuV, but you have to use in combination with Vacuum Furnace, which is ZPM.ANDpre27600gregtech/gt.blockmachines-995.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV);Your luck is increased by 100 %;Fortune III
 1tasksANDRetrievalgregtech/gt.blockmachines-31027.pngIsaMill Grinding Machine;Machine Type: Grinding Machine;Controller Block for the Large Grinding Machine;Grind ores.;Causes: 1280 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1Retrievalgregtech/gt.blockmachines-31028.pngFlotation Cell Regulator;Machine Type: Flotation Cell;Process that milled ore!;You can only ever process one type of material per controller;Causes: 0 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
 1

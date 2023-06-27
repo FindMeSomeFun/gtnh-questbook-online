@@ -1,4 +1,4 @@
-597gregtech/gt.blockores-1840.png1§5§lTetrahedrite, Stibnite and Copper4-1Maybe you're wondering why you need tetrahedrite or stibnite. Well, antimony can be centrifuged out of it which is very useful for batteries. Batteries store power, so you can have highs and lows in your power production while still outputting stable power.
+597gregtech/gt.blockores-1840.png1Tetrahedrite, Stibnite and Copper4-1Maybe you're wondering why you need tetrahedrite or stibnite. Well, antimony can be centrifuged out of it which is very useful for batteries. Batteries store power, so you can have highs and lows in your power production while still outputting stable power.
 
 The veins can be found between Y level 80-120.ANDpre881gregtech/gt.blockmachines-1120.png4791minecraft/portal-0.pngrewardsItemharvestcraft/carrotsoupItem-0.pngCarrot Soup;harvestcraft:carrotsoupItem
 1Choiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

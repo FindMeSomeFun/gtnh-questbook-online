@@ -1,14 +1,14 @@
-2856structurelib/item.structurelib.constructableTrigger-0.png0§6§lAdvanced MB Construction17-1The ability to rotate MBs and view a structure hologram has been sto-§oborrowed§r from §9Tec§1Tech§r, giving you greater freedom to build the way you want! §5(until we nerf wallsharing at least)§r
+2856structurelib/item.structurelib.constructableTrigger-0.png0Advanced MB Construction17-1The ability to rotate MBs and view a structure hologram has been sto-borrowed from TecTech, giving you greater freedom to build the way you want! (until we nerf wallsharing at least)
 
 Unlike TT, you can use a normal wrench for this, just aim at the front center of a controller (or one of the other sides if you want to. You just need to aim for the part of the grid with the mark) and right click or shift-right-click. The first rotates it clockwise, the latter flips it. If you want to change the facing of the controller itself, do that the normal way.
 
 Use a Multiblock Structure Hologram Projector or MSHP to visualize the structure, pay attention to the bottom left for structure details. For multiblocks that accept multiple types of tiered components or have a variable size, the number of MSHPs you hold in your hand will decide which tier is shown in the hologram.
 
-§3If you don't get it, try placing a controller, wrenching it, and using the MSHP on it.§r
+If you don't get it, try placing a controller, wrenching it, and using the MSHP on it.
 
 While it's now possible to build a sideways EBF, or even build one into the floor, not everything can be rotated. Exceptions include: LSC, Charcoal Pile Igniter, BBF, DT, Miners, Industial Washing Plant, Algae Farm, Bacterial Vat, DEHP, the MVF can, but the MBF cannot.
 
-§3PS: We did get permission, that was just a little joke.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+PS: We did get permission, that was just a little joke.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsChoiceenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metatool.01-16-Cobalt-Cobalt.pngWrench;Durability: 51,200 / 51,200;Cobalt lvl 3;Attack Damage: 6.0;Mining Speed: 8.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metatool.01-16.pngWrench;Durability: 0 / 0;NULL lvl 0;Attack Damage: 3.0;Mining Speed: 1.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick

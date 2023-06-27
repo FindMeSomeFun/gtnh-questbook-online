@@ -1,4 +1,4 @@
-1410gregtech/gt.blockmachines-585.png1§b§lIV Mixer8-1An IV mixer is required for example to mix HSS-S dust or to make IV superconductors.
+1410gregtech/gt.blockmachines-585.png1IV Mixer8-1An IV mixer is required for example to mix HSS-S dust or to make IV superconductors.
 
 You can also check out the GT++ tab and make a multiblock mixer out of this one.ANDpre2131gregtech/gt.blockmachines-15.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
 8gregtech/gt.metaitem.01-11047.pngNiobium Ingot;Nb

@@ -1,5 +1,5 @@
-2672GoodGenerator/preciseUnitCasing-2.png0§6§lHigher Precision17-1You can upgrade the precise casings to unlock more recipes in precise mode and gain more parallels in normal mode.
+2672GoodGenerator/preciseUnitCasing-2.png0Higher Precision17-1You can upgrade the precise casings to unlock more recipes in precise mode and gain more parallels in normal mode.
 
-§3To make orundum check out the recipe for the orundum plate.ANDpre30901gregtech/gt.blockmachines-32018.pngrewardstasksANDRetrievalGoodGenerator/preciseUnitCasing-1.pngPrecise Electronic Unit Casing MK-II;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+To make orundum check out the recipe for the orundum plate.ANDpre30901gregtech/gt.blockmachines-32018.pngrewardstasksANDRetrievalGoodGenerator/preciseUnitCasing-1.pngPrecise Electronic Unit Casing MK-II;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 42RetrievalGoodGenerator/preciseUnitCasing-2.pngPrecise Electronic Unit Casing MK-III;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 42

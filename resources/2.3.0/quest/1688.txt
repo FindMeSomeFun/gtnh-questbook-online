@@ -1,4 +1,4 @@
-1688gregtech/gt.metaitem.03-32104.png1§c§lElite Circuit Board9-1A new circuit line, a new board. Also required for the Hi-Computation Station MK-I.ANDpre14931gregtech/gt.blockmachines-16.png16771gregtech/gt.metaitem.03-32103.pngrewardsChoicegregtech/gt.metaitem.01-29085.pngPlatinum Foil;Pt
+1688gregtech/gt.metaitem.03-32104.png1Elite Circuit Board9-1A new circuit line, a new board. Also required for the Hi-Computation Station MK-I.ANDpre14931gregtech/gt.blockmachines-16.png16771gregtech/gt.metaitem.03-32103.pngrewardsChoicegregtech/gt.metaitem.01-29085.pngPlatinum Foil;Pt
 64gregtech/gt.metaitem.01-32720.pngFiber-Reinforced Circuit Board;An Extreme Board
 4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"

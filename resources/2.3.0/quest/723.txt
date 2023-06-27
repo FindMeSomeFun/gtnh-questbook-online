@@ -4,9 +4,9 @@ The only way to change a crop's GGR without 3rd party tools (like NBTedit!) is t
 
 The highest score for GGR is 31, while the lowest is 0.
 
-§3BTW, if you want to skip all this BS, the nbtedit command is /nbtedit me, click root in the upper left, then scroll down to inventory, and find the seedbag (empty your inventory first to make it easier) and click on the icons until you find the page with the stats. Once you've found the GGR stats, select one and click edit in the upper left, make sure to save.
+BTW, if you want to skip all this BS, the nbtedit command is /nbtedit me, click root in the upper left, then scroll down to inventory, and find the seedbag (empty your inventory first to make it easier) and click on the icons until you find the page with the stats. Once you've found the GGR stats, select one and click edit in the upper left, make sure to save.
 
-§4Remember that you can §5permanantly brick your character!§4 So make a backup first if you don't know what you're doing, or want to edit your actual character.§r
+Remember that you can permanantly brick your character! So make a backup first if you don't know what you're doing, or want to edit your actual character.
 
 Of course, you can't do any of this on a server.ANDpre7210Natura/N Crops-0.pngrewardsChoiceminecraft/glowstone-0.pngGlowstone;Glass-Tier: HV
 32IC2/blockCrop-0.pngCrop

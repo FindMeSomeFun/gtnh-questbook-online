@@ -1,4 +1,4 @@
-1003gregtech/gt.metaitem.01-32753.png0§a§lPower of the Sun at MV Level19-1The next solar panel you can make is the MV one. It gives 128 EU/t.ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+1003gregtech/gt.metaitem.01-32753.png0Power of the Sun at MV Level19-1The next solar panel you can make is the MV one. It gives 128 EU/t.ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 2AdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
 2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

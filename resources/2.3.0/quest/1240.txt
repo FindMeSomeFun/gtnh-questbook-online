@@ -1,4 +1,4 @@
-1240gregtech/gt.metaitem.01-32708.png1§9§lData Sticks6-1Data sticks are very important for seismic prospecting and for the assembly line in the LuV age. Go and craft a few data sticks.ANDpre10181gregtech/gt.metaitem.03-32045.png12391gregtech/gt.metaitem.03-32041.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
+1240gregtech/gt.metaitem.01-32708.png1Data Sticks6-1Data sticks are very important for seismic prospecting and for the assembly line in the LuV age. Go and craft a few data sticks.ANDpre10181gregtech/gt.metaitem.03-32045.png12391gregtech/gt.metaitem.03-32041.pngrewardsChoicegregtech/gt.metaitem.01-17874.pngPolyethylene Sheet;CH\u2082
 16gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
 4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

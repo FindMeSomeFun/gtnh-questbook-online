@@ -1,4 +1,4 @@
-81gregtech/gt.blockmachines-1002.png1§6§lAt the End of...17-1...the universe everything freezes eventually. But waiting for the heat death of the universe might take too long. Therefore we present you the vacuum freezer. It should be good enough to cool your hot stuff.
+81gregtech/gt.blockmachines-1002.png1At the End of...17-1...the universe everything freezes eventually. But waiting for the heat death of the universe might take too long. Therefore we present you the vacuum freezer. It should be good enough to cool your hot stuff.
 
 Ingots that go through the EBF above a certain temperature will come out as hot ingots that need to be cooled.
 

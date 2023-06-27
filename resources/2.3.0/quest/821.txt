@@ -2,7 +2,7 @@
 
 You can also power it with batteries, if you're worried about it draining your power, or don't want to set up the infrastructure.
 
-§3Rockets keep their fuel in them on landing now, so you don't need to take this with you anymore unless you want to go to multiple places in one trip. Or you didn't fill it all the way or something.ANDpre8191GalaxySpace/item.ModuleSmallFuelCanister-0.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
+Rockets keep their fuel in them on landing now, so you don't need to take this with you anymore unless you want to go to multiple places in one trip. Or you didn't fill it all the way or something.ANDpre8191GalaxySpace/item.ModuleSmallFuelCanister-0.pngrewardsChoicegregtech/gt.metaitem.01-30709.pngCetane-Boosted Diesel Cell;Can be used as rocket fuel up to tier 2
 1GalacticraftCore/item.basicItem-9.pngCompressed Steel
 2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

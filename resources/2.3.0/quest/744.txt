@@ -1,8 +1,8 @@
-744TConstruct/excavator-0-2413.png0§3§lMining Dirt Block by Block is so Old School3-1By making an excavator you are now able to mine dirt in a 3x3 area. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. 
+744TConstruct/excavator-0-2413.png0Mining Dirt Block by Block is so Old School3-1By making an excavator you are now able to mine dirt in a 3x3 area. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. 
 
 Higher tier metals require the MV extruder. Don't destroy your whole garden.
 
-§6The quest should accept the tool whatever materials you used.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+The quest should accept the tool whatever materials you used.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/metalPattern-19.pngExcavator Head Cast;Material Cost: 8

@@ -1,4 +1,4 @@
-1653ExtraUtilities/trading_post-0.png0§5§lAkihabara4-1Tired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.
+1653ExtraUtilities/trading_post-0.png0Akihabara4-1Tired of talking one by one with every villager to determine their trades? A trading post will show you all available trades from villagers in the area.
 
 You'll need an Assembler to finish it up.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/emerald-0.pngEmerald
 5Itemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

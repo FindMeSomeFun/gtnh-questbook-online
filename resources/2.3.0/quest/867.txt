@@ -1,4 +1,4 @@
-867minecraft/lapis_block-0.png0§3§lLapis, Lazurite, Sodalite, Calcite3-1In order to make your bricked blast furnace you need to find a lapis vein containing calcite.
+867minecraft/lapis_block-0.png0Lapis, Lazurite, Sodalite, Calcite3-1In order to make your bricked blast furnace you need to find a lapis vein containing calcite.
 
 You can find the vein in the overworld at Y 20-50.ANDpre501gregtech/gt.blockmachines-106.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
 1gregtech/gt.metaitem.02-32244.pngLarge Steak Sandwich;gregtech:gt.metaitem.02;Yes, I once accidentially called it ''Steam Sandwich''

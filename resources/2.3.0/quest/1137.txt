@@ -1,4 +1,4 @@
-1137IC2/blockGenerator-9.png0§9§lKinetic Power HV19-1The Kinetic Generator will transform mechanical energy into electricity. The EU output depends on the KU input. It is most commonly used together with a Kinetic Wind Generator or Kinetic Water Generator. The Kinetic Steam Generator only has one tier, so your should probably use a Steam Turbine instead.
+1137IC2/blockGenerator-9.png0Kinetic Power HV19-1The Kinetic Generator will transform mechanical energy into electricity. The EU output depends on the KU input. It is most commonly used together with a Kinetic Wind Generator or Kinetic Water Generator. The Kinetic Steam Generator only has one tier, so your should probably use a Steam Turbine instead.
 
 When placing a kinetic generator, any time, the "input" side is the side facing you.  So you will place the kinetic generator, then the wind/water/steam gen, and then place a rotor inside. Power can be drawn from any side of the kinetic generator, up to the rated amount per side. 
 

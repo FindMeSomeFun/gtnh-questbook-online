@@ -1,4 +1,4 @@
-755gregtech/gt.metatool.01-160-Iron-Rubber.png0§6§lBetter Than Duct Tape17-1Using a soldering iron tool to remove the "burned out circuits" message is cheaper than duct tape. 
+755gregtech/gt.metatool.01-160-Iron-Rubber.png0Better Than Duct Tape17-1Using a soldering iron tool to remove the "burned out circuits" message is cheaper than duct tape. 
 
 The soldering iron requires one soldering material item and 10,000 EU. Valid soldering materials are fine wires, rods, and ingots made from either tin, lead, or soldering alloy. The soldering iron will consume the first such material it finds in the player's inventory. Since you'll likely have more than enough, Fine Wires of Soldering Alloy are probably best.
 

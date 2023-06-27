@@ -1,4 +1,4 @@
-1659minecraft/dragon_egg-0.png0§a§lDragon Egg Omlet7-1The last step to create a dragon egg is to add enderium using a dragon heart as a catalyst. It's not used up.ANDpre16580dreamcraft/item.DraconiumEgg-0.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
+1659minecraft/dragon_egg-0.png0Dragon Egg Omlet7-1The last step to create a dragon egg is to add enderium using a dragon heart as a catalyst. It's not used up.ANDpre16580dreamcraft/item.DraconiumEgg-0.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
 64DraconicEvolution/draconiumDust-0.pngDraconium Dust
 64enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

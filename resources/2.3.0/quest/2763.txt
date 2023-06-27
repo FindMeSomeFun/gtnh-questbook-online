@@ -1,6 +1,6 @@
-2763gregtech/gt.blockmachines-1199.png0§6§lI Put a Machine Into Your Machine17-1Effectively lets you parallel like crazy if you can afford the power. 1 EV hatch can supply all 64 possible machines if they're LV. You can also separate busses with a screwdriver. The PA is usually less efficient than a dedicated multiblock but it is very versatile and allows for TecTech energy hatches and even laser hatches once you get there.
+2763gregtech/gt.blockmachines-1199.png0I Put a Machine Into Your Machine17-1Effectively lets you parallel like crazy if you can afford the power. 1 EV hatch can supply all 64 possible machines if they're LV. You can also separate busses with a screwdriver. The PA is usually less efficient than a dedicated multiblock but it is very versatile and allows for TecTech energy hatches and even laser hatches once you get there.
 
-§3Doesn't work with some machines, like mass fabs.
+Doesn't work with some machines, like mass fabs.
 
 Just in case you get that far and still remember it: The PA maxes out at UHV recipes. But UEV machines are treated as 4x UHV machines giving you a lot of parallels.
 

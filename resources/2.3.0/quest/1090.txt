@@ -1,10 +1,10 @@
-1090minecraft/flowing_lava-0.png0§5§lTime to Dry Out the Nether4-1Pumps can do more than pump oil and water. You can go to the nether and pump lava from the huge lava lakes too.
+1090minecraft/flowing_lava-0.png0Time to Dry Out the Nether4-1Pumps can do more than pump oil and water. You can go to the nether and pump lava from the huge lava lakes too.
 
 Once you reach HV, lava can be centrifuged for Silicon Dioxide, Magnesia, Quicklime, Gold, Sapphire, and Tantalite. You can get Silicon, Magnesium, Calcium, Gold, Aluminium, Manganese, Tantalum, and Oxygen out of them.
 
 This is a good use for your LV pumps once you upgrade to MV pumps for oil. If you get into Thaumcraft or Blood Magic, there are ways to produce lava with magic unlimitedly and easily too.
 
-§3You'll want either ULV tanks and cells, or BC tanks and a dolly to transport your lava.ANDpre5461BuildCraftEnergy/blockOil-0.png6250JABBA/mover-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You'll want either ULV tanks and cells, or BC tanks and a dolly to transport your lava.ANDpre5461BuildCraftEnergy/blockOil-0.png6250JABBA/mover-0.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalgregtech/gt.blockmachines-1140.pngBasic Pump;The best way to empty Oceans! Outputs on top;64 EU/operation, 4 sec per bucket, no stuttering;Maximum pumping area: 21x21;Use Screwdriver to regulate pumping area;Use Soft Mallet to disable and retract the pipe;Disable the bottom pump to retract the pipe!;Use Soldering Iron to auto retract the pipe when hitting a rock;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1RetrievalIC2/blockMiningPipe-0.pngMining Pipe

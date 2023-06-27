@@ -1,4 +1,4 @@
-1233minecraft/ender_eye-0.png1§9§lEnder Eyes6-1Ender eyes are available at HV in the chemical reactor. Combine some ender pearls with blaze powder.ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemgregtech/gt.metaitem.01-11303.pngElectrum Ingot;AgAu
+1233minecraft/ender_eye-0.png1Ender Eyes6-1Ender eyes are available at HV in the chemical reactor. Combine some ender pearls with blaze powder.ANDpre9431gregtech/gt.blockmachines-423.pngrewardsItemgregtech/gt.metaitem.01-11303.pngElectrum Ingot;AgAu
 8gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
 4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

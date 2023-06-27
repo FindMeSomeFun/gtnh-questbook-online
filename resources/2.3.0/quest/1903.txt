@@ -1,4 +1,4 @@
-1903gregtech/gt.blockmachines-43.png1§9§e§9§lHV Energy Hatch6-1The HV energy hatch is crucial to a faster EBF that can do higher tier recipes.
+1903gregtech/gt.blockmachines-43.png1HV Energy Hatch6-1The HV energy hatch is crucial to a faster EBF that can do higher tier recipes.
 
 You'll need to make He coolant cells or NaK coolant cells using a fluid canner. Follow NEI to figure out how to make them, and the rest.
 

@@ -1,4 +1,4 @@
-2982dreamcraft/item.AdsorptionFilter-0.png0§6§lAbsorption Filter17-1When you reach MV tier you can make your own Absorption Filter for the Air Filter to clean pollution much more efficient. The Filter will be consumed and you get a dirty Filter back after 30 Cycles.ANDpre7531gregtech/gt.metaitem.01-11306.png29811gregtech/gt.blockmachines-12020.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+2982dreamcraft/item.AdsorptionFilter-0.png0Absorption Filter17-1When you reach MV tier you can make your own Absorption Filter for the Air Filter to clean pollution much more efficient. The Filter will be consumed and you get a dirty Filter back after 30 Cycles.ANDpre7531gregtech/gt.metaitem.01-11306.png29811gregtech/gt.blockmachines-12020.pngrewardsChoicegregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
 8gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
 256dreamcraft/item.AdsorptionFilterCasing-0.pngAbsorption Filter Casing
 1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

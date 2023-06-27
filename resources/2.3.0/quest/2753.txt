@@ -1,6 +1,6 @@
 2753appliedenergistics2/tile.BlockEnergyAcceptor-0.png0Basic AE2 System27-1So you've unlocked AE2, but don't know how to use it? Not to worry, that's what this questline is for. For a basic (and not completely useless) ME system, make the items on the right first. After you go through the quests to get them normally of course.
 
-§3You could technically make one with an ME Chest, but there'd be no advantage over using a regular chest.§r
+You could technically make one with an ME Chest, but there'd be no advantage over using a regular chest.
 
 Connect power to the Energy Acceptor, place the ME Drive next to it, place a Fluix Cable on top of the ME Drive connect the ME Terminal to the cable. Just put in the Storage cells, and you're done! Remember you need a Network Tool to see how much power it actually uses. Also, it lets you pick up stuff easier.
 

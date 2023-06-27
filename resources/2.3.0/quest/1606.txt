@@ -2,7 +2,7 @@
 
 Hmm, now I want some candy. Give me some sugar from your beets. I'll share some with you.
 
-§3Electrolyze the sugar into O2 for an easy source.ANDpre16000minecraft/reeds-0.pngrewardsItemMagicBees/jellyBabies-0.pngHandful of Jelly Babies;MagicBees:jellyBabies
+Electrolyze the sugar into O2 for an easy source.ANDpre16000minecraft/reeds-0.pngrewardsItemMagicBees/jellyBabies-0.pngHandful of Jelly Babies;MagicBees:jellyBabies
 64harvestcraft/honeycombchocolatebarItem-0.pngHoneycomb Chocolate Bar;harvestcraft:honeycombchocolatebarItem
 64enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops);Your luck is increased by 100 %;Fortune III
 1tasksANDRetrievalIC2/itemCropSeed-0.pngSugar Beet Seeds;Gr 0;Ga 0;Re 0

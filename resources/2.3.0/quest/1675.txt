@@ -1,4 +1,4 @@
-1675gregtech/gt.metaitem.03-32021.png1§a§lGlass Fiber7-1Glass Fiber is used in Fiber Reinforced Boards for circuits. §3For next tier. Go left for this tier's circuits.§r
+1675gregtech/gt.metaitem.03-32021.png1Glass Fiber7-1Glass Fiber is used in Fiber Reinforced Boards for circuits. For next tier. Go left for this tier's circuits.
 
 Borax can be extracted out of Salt ores. Electrolyze it to get Boron and mix it with Glass dust to get Borosilicate Glass Dust.
 

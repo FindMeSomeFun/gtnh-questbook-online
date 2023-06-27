@@ -1,8 +1,8 @@
-2566gregtech/gt.blockmachines-12699.png1§9§lBio Lab6-1The Bio Lab is a multi-use Bioengineering station. You can create bacterial cultures for use in the Bacterial Vat with it, as well as make DNA Samples and Data Orbs, and Plasmids to duplicate cultures and create new ones.
+2566gregtech/gt.blockmachines-12699.png1Bio Lab6-1The Bio Lab is a multi-use Bioengineering station. You can create bacterial cultures for use in the Bacterial Vat with it, as well as make DNA Samples and Data Orbs, and Plasmids to duplicate cultures and create new ones.
 
 The Bacterial Vat can be found in the Multibock Goals tab. You can use it right now if you have any industrial brewing needs or wait until later when you need to get into bioengineering.
 
-§3If you are only doing this later you might as well make a higher tier Bio Lab. You only need one of them to complete the quest.ANDpre18141gregtech/gt.metaitem.01-17473.png25651gregtech/gt.metaitem.01-17636.pngrewardsChoicegregtech/gt.metaitem.03-32022.pngPetri Dish;For cultivating cells
+If you are only doing this later you might as well make a higher tier Bio Lab. You only need one of them to complete the quest.ANDpre18141gregtech/gt.metaitem.01-17473.png25651gregtech/gt.metaitem.01-17636.pngrewardsChoicegregtech/gt.metaitem.03-32022.pngPetri Dish;For cultivating cells
 16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksORRetrievalgregtech/gt.blockmachines-12699.pngHV Bio Lab;The BioLab, a Multi-Use Bioengineering Station;Added by bartimaeusnek via BartWorks;Voltage IN: 512 (HV);Capacity: 32,768 EU

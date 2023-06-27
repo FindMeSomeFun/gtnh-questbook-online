@@ -1,4 +1,4 @@
-2325bartworks/gt.bwMetaGenerateddust-83.png1§b§lThere's My Salt!8-1Combine Rhodium Salt Solution with Sodium Nitrate to get Rhodium Nitrate.ANDpre28791bartworks/gt.bwMetaGeneratedcell-81.png28801bartworks/gt.bwMetaGenerateddust-82.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+2325bartworks/gt.bwMetaGenerateddust-83.png1There's My Salt!8-1Combine Rhodium Salt Solution with Sodium Nitrate to get Rhodium Nitrate.ANDpre28791bartworks/gt.bwMetaGeneratedcell-81.png28801bartworks/gt.bwMetaGenerateddust-82.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-81.pngRhodium Salt Solution Cell;Added by BartWorks
 1bartworks/gt.bwMetaGenerateddust-82.pngSodium Nitrate Dust;NaNO\u2083;Added by BartWorks
 1Retrievalbartworks/gt.bwMetaGenerateddust-83.pngRhodium Nitrate Dust;Added by BartWorks

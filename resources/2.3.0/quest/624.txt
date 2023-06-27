@@ -1,4 +1,4 @@
-624gregtech/gt.blockmachines-231.png0§5§lBasic Canner4-1The canning machine is used to fill batteries, fill cells with stuff (usually dust, not used that often), or to fill tin cans with any kind of food (HV+).
+624gregtech/gt.blockmachines-231.png0Basic Canner4-1The canning machine is used to fill batteries, fill cells with stuff (usually dust, not used that often), or to fill tin cans with any kind of food (HV+).
 
 At LV-HV tier you can make batteries with sodium, cadmium, or lithium.ANDpre6091gregtech/gt.metaitem.01-32500.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

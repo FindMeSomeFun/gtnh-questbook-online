@@ -1,4 +1,4 @@
-937AdvancedSolarPanel/BlockAdvSolarPanel-0.png0§a§lPower of the Sun 1x1 LV19-1Put those 32 EU panels on a block to make them placeable in the world. Use an MV assembler to combine the panel with an LV hull, a battery, and a robot arm. Now this panel will clean itself!ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+937AdvancedSolarPanel/BlockAdvSolarPanel-0.png0Power of the Sun 1x1 LV19-1Put those 32 EU panels on a block to make them placeable in the world. Use an MV assembler to combine the panel with an LV hull, a battery, and a robot arm. Now this panel will clean itself!ANDpre9360gregtech/gt.metaitem.01-32752.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 2gregtech/gt.metaitem.01-2028.pngTitanium Dust;Ti
 16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

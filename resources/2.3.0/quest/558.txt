@@ -1,10 +1,10 @@
-558Backpack/backpack-0.png0§3§lHow Can I Carry All These Items?3-1After you make your first steel you're able to craft the small backpack. In this bag you can put a lot of the stuff you want to carry around. With 36 slots it's a bit bigger than a small chest. Later you can make it even larger. You can put one on your back and set it to automatically pick up stuff. 
+558Backpack/backpack-0.png0How Can I Carry All These Items?3-1After you make your first steel you're able to craft the small backpack. In this bag you can put a lot of the stuff you want to carry around. With 36 slots it's a bit bigger than a small chest. Later you can make it even larger. You can put one on your back and set it to automatically pick up stuff. 
 
-§4Check out the "Backpacks" control configuration "Open Backpacks" and remap it to a new key.
+Check out the "Backpacks" control configuration "Open Backpacks" and remap it to a new key.
 
 The key binding only works after the backpack is added to the back slot, which can be done using Shift+<Open Backpacks Key>.
 
-§4The maximum you can have in your inventory at once is 4.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemExtraUtilities/paintbrush-0.pngPaintbrush
+The maximum you can have in your inventory at once is 4.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemExtraUtilities/paintbrush-0.pngPaintbrush
 1Choicegregtech/gt.metaitem.02-32414.pngBlack Dye
 10gregtech/gt.metaitem.02-32415.pngRed Dye
 10gregtech/gt.metaitem.02-32416.pngGreen Dye

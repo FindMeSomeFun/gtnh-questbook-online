@@ -1,4 +1,4 @@
-1241gregtech/gt.metaitem.01-30093.png0§a§lRadon Loop7-1Radon is needed for EV emitters and sensors.
+1241gregtech/gt.metaitem.01-30093.png0Radon Loop7-1Radon is needed for EV emitters and sensors.
 
 If you can get some Plutonium 239 and Uranium 238, you can use the LCR recipe and just keep cycling the Plutonium around to get more.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
 8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board

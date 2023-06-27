@@ -1,4 +1,4 @@
-835gregtech/gt.metaitem.01-32716.png1§5§4§3§lResistor3-1Every basic circuit needs two resistors to work.
+835gregtech/gt.metaitem.01-32716.png1Resistor3-1Every basic circuit needs two resistors to work.
 
 There are better versions you can make later.ANDpre671gregtech/gt.blockmachines-1360.pngrewardsItemharvestcraft/blueberrysmoothieItem-0.pngBlueberry Smoothie;harvestcraft:blueberrysmoothieItem
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

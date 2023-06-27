@@ -1,4 +1,4 @@
-579gregtech/gt.blockmachines-511.png1§5§lMolten Redstone?4-1You heard that the carpenter needs some molten redstone for a few recipes. Converting redstone dust into a fluid requires a fluid extractor. Let's build one.
+579gregtech/gt.blockmachines-511.png1Molten Redstone?4-1You heard that the carpenter needs some molten redstone for a few recipes. Converting redstone dust into a fluid requires a fluid extractor. Let's build one.
 
 If you want to get that molten redstone into a cell, you'll need a fluid canner instead of a GT tank. Why? Because Reasons.
 

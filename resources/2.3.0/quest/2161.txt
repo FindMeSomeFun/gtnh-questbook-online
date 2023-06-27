@@ -1,4 +1,4 @@
-2161chisel/warningSign-7.png0§3§lSafety First1-1For those new to GregTech, here are some tips and warnings about electricity. 
+2161chisel/warningSign-7.png0Safety First1-1For those new to GregTech, here are some tips and warnings about electricity. 
 
 Machines don't like being out in the rain, and will start fires nearby. Fires next to a machine have a random chance of an explosion. Also, sending a higher voltage than a machine's tier cause an explosion. Or several, if you pack things together, like many people. Sending more amps than a machine can use doesn't harm anything though.
 

@@ -1,4 +1,4 @@
-1614gregtech/gt.blockmachines-911.png0§6§lChemical Dehydrator5-1Dehydrate your grapes to raisins. Or make some Styrene, Benzene or Ethylene at MV. Either way, this device is a nice to have.
+1614gregtech/gt.blockmachines-911.png0Chemical Dehydrator5-1Dehydrate your grapes to raisins. Or make some Styrene, Benzene or Ethylene at MV. Either way, this device is a nice to have.
 
 It also does the Drying Rack recipes as well.ANDpre8971gregtech/gt.metaitem.01-32651.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

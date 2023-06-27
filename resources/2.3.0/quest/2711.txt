@@ -2,7 +2,7 @@
 
 To start off, you'll need to get an eColi Culture.
 
-Use that to make the eColi Bacteria Fluid.§3 (I know the name is completely different, deal with it)§r
+Use that to make the eColi Bacteria Fluid. (I know the name is completely different, deal with it)
 
 Centrifuge that to make Liquid DNA.
 
@@ -14,9 +14,9 @@ And then Centrifuge the EnzymesSollution again for Polymerase.
 
 You should expect to need a significant amount of eColi Bacteria Fluid if you plan on copying a lot of cultures, or making the hard to make ones.
 
-§3To search for items related to copying cultures, search for 'culture', 'dna sample', or 'plasmid'. You can't do this for the Data Orbs, you have to check the uses of DNA Samples.
+To search for items related to copying cultures, search for 'culture', 'dna sample', or 'plasmid'. You can't do this for the Data Orbs, you have to check the uses of DNA Samples.
 
-§5A bunch of the fluids have incorrect spelling, don't blame me for it.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Escherichia koli (eColi Bacteria);Added by BartWorks
+A bunch of the fluids have incorrect spelling, don't blame me for it.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Escherichia koli (eColi Bacteria);Added by BartWorks
 1Retrievalgregtech/gt.metaitem.98-11.pngeColi Bacteria Fluid Cell
 1Retrievalgregtech/gt.metaitem.98-16.pngLiquid DNA Cell
 1gregtech/gt.metaitem.98-13.pngFluorescent DNA Cell

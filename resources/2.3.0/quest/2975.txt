@@ -1,6 +1,6 @@
-2975harvestcraft/cranberryjuiceItem-0.png0§6§lI need a drink. And more Chrome.5-1The most efficient way to process Ruby Ore. Better than electrolysis.
+2975harvestcraft/cranberryjuiceItem-0.png0I need a drink. And more Chrome.5-1The most efficient way to process Ruby Ore. Better than electrolysis.
 
-§3Check out NEI for similar processes based on Sapphire and Green Sapphire.ANDpre7511gregtech/gt.blockmachines-582.png8490gregtech/gt.metaitem.01-2685.png13220gregtech/gt.blockmachines-362.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Check out NEI for similar processes based on Sapphire and Green Sapphire.ANDpre7511gregtech/gt.blockmachines-582.png8490gregtech/gt.metaitem.01-2685.png13220gregtech/gt.blockmachines-362.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-30417.pngRuby Juice Cell
 1harvestcraft/cranberryjuiceItem-0.pngCranberry Juice;harvestcraft:cranberryjuiceItem
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"

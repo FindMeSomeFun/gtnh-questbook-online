@@ -1,4 +1,4 @@
-487Forestry/diggerBag-0.png0§2§lNeed More Space?2-1As you might know: tanned leather is more resistant and good enough for a backpack. Let's get a digger's backpack and a miner's backpack. Each pack holds different items. So use both for your first true back-packed mining experience.ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceminecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
+487Forestry/diggerBag-0.png0Need More Space?2-1As you might know: tanned leather is more resistant and good enough for a backpack. Let's get a digger's backpack and a miner's backpack. Each pack holds different items. So use both for your first true back-packed mining experience.ANDpre4860Backpack/tannedLeather-0.pngrewardsChoiceminecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
 2minecraft/leather-0.pngLeather
 4enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

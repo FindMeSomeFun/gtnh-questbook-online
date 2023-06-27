@@ -1,4 +1,4 @@
-936gregtech/gt.metaitem.01-32752.png0§a§lPower of the Sun at LV Level19-1The next solar panel you can make is the LV one. It generates 32 EU/t. You'll need to make some sunnarium first though.ANDpre9340gregtech/gt.metaitem.01-32751.png30780minecraft/nether_star-0.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
+936gregtech/gt.metaitem.01-32752.png0Power of the Sun at LV Level19-1The next solar panel you can make is the LV one. It generates 32 EU/t. You'll need to make some sunnarium first though.ANDpre9340gregtech/gt.metaitem.01-32751.png30780minecraft/nether_star-0.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
 2IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond;Burn Time: 102400
 2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

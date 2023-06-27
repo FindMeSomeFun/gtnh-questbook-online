@@ -1,4 +1,4 @@
-1721supersolarpanel/SpectralSolarPanel-0.png0§c§lPower of the Sun 1x1 IV19-1Put those 8192 EU panels on a block to make them placeable in the world.ANDpre17200gregtech/gt.metaitem.01-32756.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
+1721supersolarpanel/SpectralSolarPanel-0.png0Power of the Sun 1x1 IV19-1Put those 8192 EU panels on a block to make them placeable in the world.ANDpre17200gregtech/gt.metaitem.01-32756.pngrewardsChoicegregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
 4bartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot;Pd\u2083Rh;Added by BartWorks
 4enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

@@ -1,8 +1,8 @@
-2848GalacticraftCore/tile.machineTiered-0.png0How the Eff Do I Charge This Sh*t?24-1Given the number of people asking about this and the incompatibility it has with §oso§r many methods, here's a quest to tell you what §owill§r work.
+2848GalacticraftCore/tile.machineTiered-0.png0How the Eff Do I Charge This Sh*t?24-1Given the number of people asking about this and the incompatibility it has with so many methods, here's a quest to tell you what will work.
 
-§3You only need to make one.
+You only need to make one.
 
-§rAlso keep in mind that the energy storage ones can have EU put in, if you just wanna charge, unlike the solars (also the solar wind ones don't work for some reason). The higher tier ones charge faster (advanced solars just point at the sun to get 100% power during daylight instead of only at noonish, but hybrids are indeed faster. Also hybrids don't crash the game just by placing them anymore!)ANDpre17320GalaxySpace/item.spacesuit_jetplate-0.pngrewardsChoiceGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
+Also keep in mind that the energy storage ones can have EU put in, if you just wanna charge, unlike the solars (also the solar wind ones don't work for some reason). The higher tier ones charge faster (advanced solars just point at the sun to get 100% power during daylight instead of only at noonish, but hybrids are indeed faster. Also hybrids don't crash the game just by placing them anymore!)ANDpre17320GalaxySpace/item.spacesuit_jetplate-0.pngrewardsChoiceGalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
 1GalacticraftCore/tile.solar-0.pngBasic Solar Panel
 1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Itemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

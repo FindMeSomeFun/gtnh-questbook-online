@@ -1,4 +1,4 @@
-2301bartworks/gt.bwMetaGeneratedcell-50.png1§a§lPlatinum Processing, Step 2a7-1Ammonium Chloride is used to precipitate the dissolved Platinum into a purer form, you'll need some of this.ANDpre23001bartworks/gt.bwMetaGeneratedcell-48.pngrewardsItembartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell;NH\u2084Cl;Added by BartWorks
+2301bartworks/gt.bwMetaGeneratedcell-50.png1Platinum Processing, Step 2a7-1Ammonium Chloride is used to precipitate the dissolved Platinum into a purer form, you'll need some of this.ANDpre23001bartworks/gt.bwMetaGeneratedcell-48.pngrewardsItembartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell;NH\u2084Cl;Added by BartWorks
 5dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionalgregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
 10gregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083

@@ -1,4 +1,4 @@
-1540gregtech/gt.blockores-908.png0§5§lMagnalium Source4-1Magnesite, the source of Magnesium can be found in the Twilight Forest at Y 10-40. Fullers Earth can be found on the Overworld at Y 50-70. Marble dust can be used for magnesium dust also.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
+1540gregtech/gt.blockores-908.png0Magnalium Source4-1Magnesite, the source of Magnesium can be found in the Twilight Forest at Y 10-40. Fullers Earth can be found on the Overworld at Y 50-70. Marble dust can be used for magnesium dust also.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
 1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
 1Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 8gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083

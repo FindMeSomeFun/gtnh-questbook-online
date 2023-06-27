@@ -6,7 +6,7 @@ Certain bees will not produce their specialty items unless they are Jubilant. Th
 
 It is also possible to use mutators to increase chances of mutation, alveary lighting and alveary rain shield to allow bees without the nocturnal and tolerant flyer traits to work during the night and rain, respectively, and the swarmer to use excess royal jelly to create princesses that last for a limited number of generations.
 
-§3If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.ANDpre5070Forestry/apiculture-0.pngrewardsItemForestry/royalJelly-0.pngRoyal Jelly
+If you're mutating bees that need a specific block in it, you need to place the required block under the middle bottom, and have the one directly above be a normal alveary block.ANDpre5070Forestry/apiculture-0.pngrewardsItemForestry/royalJelly-0.pngRoyal Jelly
 16Forestry/propolis-3.pngSilky Propolis
 32Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

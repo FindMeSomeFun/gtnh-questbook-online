@@ -1,8 +1,8 @@
-2914gregtech/gt.metaitem.01-11033.png0§d§0§5§lCobalt from Cobaltite4-1Can't find any Cobalt in the Nether? Too lazy to bother finding some Ironwood in the Twilight Forest, even though it's super duper easy?
+2914gregtech/gt.metaitem.01-11033.png0Cobalt from Cobaltite4-1Can't find any Cobalt in the Nether? Too lazy to bother finding some Ironwood in the Twilight Forest, even though it's super duper easy?
 
 You can make it with your EBF now using Cobaltite Ore from the Twilight Forest and Oxygen to get Cobalt. It's a little complicated, but you also get arsenic out of it.
 
-§3You can also just electrolyze it out in MV, which is what you §oshould§r§3 be doing instead of this, assuming you actually need it.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+You can also just electrolyze it out in MV, which is what you should be doing instead of this, assuming you actually need it.ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemgregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
 8gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
 16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

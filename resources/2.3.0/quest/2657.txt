@@ -6,7 +6,7 @@ The second one is basically the first one, but it requires Infinity Catalyst ins
 
 The third one is the most efficient, but it requires Biocells (which you don't have yet), and 4 dust of Infinity Catalyst at UV voltage and 150 Sievert (Naquadria level) in a Bacterial Vat. It makes Raw Bio Medium at 1:2 ratio.
 
-§3The second and third ways use a different culture.ANDpre26481GalaxySpace/item.Tier8Rocket-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30608.pngRaw Growth Catalyst Medium Cell
+The second and third ways use a different culture.ANDpre26481GalaxySpace/item.Tier8Rocket-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30608.pngRaw Growth Catalyst Medium Cell
 1Optionaldreamcraft/item.TCetiESeaweedExtract-0.pngTCetiE-Seaweed Extract
 1bartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Derivantur Cellula Evolutionis (Derivantur Cellula Evolutionis);This is a weak culture, it can not be bred in the Bacterial Vat!;Added by BartWorks
 1Retrievalgregtech/gt.metaitem.01-30603.pngRaw Bio Catalyst Medium Cell

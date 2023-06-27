@@ -1,4 +1,4 @@
-693appliedenergistics2/tile.BlockSkyStone-0.png0§2§lFallen From the Sky2-1You may have noticed big meteors everywhere, and maybe wondered if they're useful somehow? Well, they are, but not just yet. I'll give you a reward for collecting some now.
+693appliedenergistics2/tile.BlockSkyStone-0.png0Fallen From the Sky2-1You may have noticed big meteors everywhere, and maybe wondered if they're useful somehow? Well, they are, but not just yet. I'll give you a reward for collecting some now.
 
 Inside the meteor you can find a skystone chest containing some processor press plates. Save them for later, you can't do AE2 without them. Though you can also just make them yourself in EV. Plus the chest is nice, and can be placed underneath blocks and still opened.
 

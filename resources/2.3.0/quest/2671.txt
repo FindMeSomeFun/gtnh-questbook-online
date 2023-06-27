@@ -2,11 +2,11 @@
 
 Place the controller one block above the ground and use the Multiblock Structure Hologram Projector to see how it is built. You will need a Maintenance Hatch and at least an EV Energy Hatch, though the power requirements can be much higher if you use many Data Access Hatches and Data Bank Master Connectors, so you might as well go for an LuV energy hatch, which will power a maxed one. Trying to run the Data Bank and then scanning the controller will tell you how much eu/t is needed.
 
-§rYou will need more blocks then what is asked for in this quest, as the number of Data Access Hatches and Connectors is up to you. You can have a maximum of 15 combined.
+You will need more blocks then what is asked for in this quest, as the number of Data Access Hatches and Connectors is up to you. You can have a maximum of 15 combined.
 
 The Assembly Line Slave Connector replaces your old Data Access Hatch on the Assembling Line. Connect it to a Master Connector on the Data Bank with Optical Fiber Cable and make sure to color the hatches and the cable.
 
-§3If you can't figure out what blocks to place, pay attention to the tooltip in the bottom-left when using the Multiblock Structure Hologram Projector. In this case the filler blocks are Computer Casing.ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionaltectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
+If you can't figure out what blocks to place, pay attention to the tooltip in the bottom-left when using the Multiblock Structure Hologram Projector. In this case the filler blocks are Computer Casing.ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDOptionaltectech/gt.blockcasingsTT-2.pngComputer Heat Vent;TecTech: Elemental Matter;Air vent with a filter.;Perfectly muffled sound!
 18tectech/gt.blockcasingsTT-0.pngHigh Power Casing;TecTech: Elemental Matter;Well suited for high power applications.;The power levels are rising!
 6tectech/gt.blockcasingsTT-1.pngComputer Casing;TecTech: Elemental Matter;Nice and clean casing.;Dust can break it!?
 3gregtech/gt.blockmachines-146.pngAdvanced Data Access Hatch;Data Access for Multiblocks;Adds 16 extra slots for Data Sticks

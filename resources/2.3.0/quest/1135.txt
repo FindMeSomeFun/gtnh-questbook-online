@@ -1,6 +1,6 @@
-1135gregtech/gt.blockmachines-20.png0§5§lULV Transformer20-1To get your simple ore washer working you need a ULV Transformer. The Washer can only work with 8 EU. If you put more energy into it you get a big hole in your base.
+1135gregtech/gt.blockmachines-20.png0ULV Transformer20-1To get your simple ore washer working you need a ULV Transformer. The Washer can only work with 8 EU. If you put more energy into it you get a big hole in your base.
 
-§3This will probably be the only one you make in the game.ANDpre8980gregtech/gt.blockmachines-767.pngrewardsItemgregtech/gt.blockmachines-2006.png1x Red Alloy Cable;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 0 EU-Volt
+This will probably be the only one you make in the game.ANDpre8980gregtech/gt.blockmachines-767.pngrewardsItemgregtech/gt.blockmachines-2006.png1x Red Alloy Cable;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 0 EU-Volt
 8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalgregtech/gt.blockmachines-20.pngUltra Low Voltage Transformer;LV -> ULV (Use Soft Mallet to invert);Voltage IN: 32 (LV);Voltage OUT: 8 (ULV);Amperage: 4;Capacity: 640 EU

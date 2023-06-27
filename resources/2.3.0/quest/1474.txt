@@ -1,4 +1,4 @@
-1474ExtraUtilities/drum-0.png0§a§lWant to Join a Band?7-1Or at least play with drums? If you have extra Meteoric Iron after building your rocket and making your thermal padding, turn it into Meteoric Steel and use it to make some drums. These drums can hold 256 buckets even after breaking.
+1474ExtraUtilities/drum-0.png0Want to Join a Band?7-1Or at least play with drums? If you have extra Meteoric Iron after building your rocket and making your thermal padding, turn it into Meteoric Steel and use it to make some drums. These drums can hold 256 buckets even after breaking.
 
 And did you know you can use them as cells? Try loading or unloading a supertank!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemExtraUtilities/drum-0.pngDrum;Empty: 0 / 256,000
 2enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book

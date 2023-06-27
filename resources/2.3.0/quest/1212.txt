@@ -1,4 +1,4 @@
-1212gregtech/gt.blockmachines-1193.png1§l§c§lStarting Fusion9-1Now that your power needs are increasing, you need a way to keep up with demand. To generate over 1A ZPM with a single machine you have two options: solars, and fusion.
+1212gregtech/gt.blockmachines-1193.png1Starting Fusion9-1Now that your power needs are increasing, you need a way to keep up with demand. To generate over 1A ZPM with a single machine you have two options: solars, and fusion.
 
 While solars are simpler to set up, solars cap out at 524288 EU/t. Fusion can reach levels close to eight times that with the right setup. 
 

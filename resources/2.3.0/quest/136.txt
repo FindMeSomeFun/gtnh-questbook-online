@@ -1,6 +1,6 @@
-136EnderIO/itemBasicFilterUpgrade-0.png0§6§lImproving Conduits5-1Conduits on their own are pretty awesome, but you can do better. By using filters and speed upgrades, you gain even more control over what they do and how fast they work.
+136EnderIO/itemBasicFilterUpgrade-0.png0Improving Conduits5-1Conduits on their own are pretty awesome, but you can do better. By using filters and speed upgrades, you gain even more control over what they do and how fast they work.
 
-§3PS: You can't make all of these right now.ANDpre1340EnderIO/itemPowerConduit-0.pngrewardsItemEnderIO/itemItemConduit-0.pngItem Conduit
+PS: You can't make all of these right now.ANDpre1340EnderIO/itemPowerConduit-0.pngrewardsItemEnderIO/itemItemConduit-0.pngItem Conduit
 32Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalEnderIO/itemBasicFilterUpgrade-0.pngBasic Item Filter;Upgrade for item conduits
 1EnderIO/itemBigFilterUpgrade-0.pngBig Item Filter;Upgrade for item conduits

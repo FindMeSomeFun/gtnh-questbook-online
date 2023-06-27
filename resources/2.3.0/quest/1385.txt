@@ -1,8 +1,8 @@
 1385ThaumicTinkerer/focusDislocation-0.png0Wand Focus Dislocation34-1Wand Focus: Dislocation allows the user to take and place any blocks, even Tile Entities and things usually unobtainable, like Aura Nodes, Energized Nodes, Spawners, planted IC2 Crops, and others.
 
-§4Please use responsibly, and don't move things you shouldn't, like door halves, or some multiblock parts, unless you like the idea of world corruption destroying your world. That said, if you've backed up and play SP, do whatever, so long as you don't complain to us about it.§r §4§r
+Please use responsibly, and don't move things you shouldn't, like door halves, or some multiblock parts, unless you like the idea of world corruption destroying your world. That said, if you've backed up and play SP, do whatever, so long as you don't complain to us about it. 
 
-§4Moving Nodes can cause massive Flux explosions so handle with care.§r
+Moving Nodes can cause massive Flux explosions so handle with care.
 
 It uses:
 5 Ordo + 5 Perditio + 1 Terra to take any solid block. 

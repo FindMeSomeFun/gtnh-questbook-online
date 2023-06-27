@@ -15,7 +15,7 @@ Pressurized pipes are pipes that use a pressure based routing system where the p
 
 However, in order to control the logic of the routed pipes you will need special circuit chips.
 
-§4Note: I have no idea how PR works, or if this questline is entirely a duplicate, and have zero willpower to read all the boring text and find out, so I just unhid them since no one came forward with any info after I asked. If it should be removed or w/e, make a ticket.ANDpre7171gregtech/gt.metaitem.01-32702.pngrewardsChoicegregtech/gt.metaitem.02-22032.pngLong Iron Rod;Fe
+Note: I have no idea how PR works, or if this questline is entirely a duplicate, and have zero willpower to read all the boring text and find out, so I just unhid them since no one came forward with any info after I asked. If it should be removed or w/e, make a ticket.ANDpre7171gregtech/gt.metaitem.01-32702.pngrewardsChoicegregtech/gt.metaitem.02-22032.pngLong Iron Rod;Fe
 16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.pipe-0.pngItem Transport pipe

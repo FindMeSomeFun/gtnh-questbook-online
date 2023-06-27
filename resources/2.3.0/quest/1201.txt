@@ -1,6 +1,6 @@
-1201gregtech/gt.metatool.01-172-Draconium-Draconium.png0§a§b§c§d§e§f§d§l§l§c§lTurbine Time19-1Your fancy new Large Plasma Turbine will need a rotor to go inside of it. 
+1201gregtech/gt.metatool.01-172-Draconium-Draconium.png0Turbine Time19-1Your fancy new Large Plasma Turbine will need a rotor to go inside of it. 
 
-You can make it out of any GT material, but the best right now is NORMAL Draconium. §4Always test in Creative first!§r
+You can make it out of any GT material, but the best right now is NORMAL Draconium. Always test in Creative first!
 
 When using turbines, be careful of flow rates. To find the optimal flow rate, you divide the optimal energy flow rate listed on the turbine, by the energy value for the plasma. You can also use the Large Turbine Calculator (there's a link on the main spreadsheet, which is linked to in discord), or scan the multiblock's controller while feeding it a minimal amount of plasma to see what the optimal flow is. Make sure to use a Fluid Regulator set to this flow rate for highest fuel efficiency, or go beyond it to get more EU/t at a cost to efficiency, with Plasma Turbines being the best at retaining efficiency beyond the optimal flow.
 
@@ -8,7 +8,7 @@ If you go beyond the optimal flow, you will get a higher EU/t value, but less fu
 
 The choice is yours!
 
-§3For a lot of extra information on fusion, check out the new quest line called Powerful Nuclear Physics.ANDpre12000gregtech/gt.blockmachines-1153.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
+For a lot of extra information on fusion, check out the new quest line called Powerful Nuclear Physics.ANDpre12000gregtech/gt.blockmachines-1153.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
 32gregtech/gt.metaitem.01-11975.pngDraconium Ingot;D
 32enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"

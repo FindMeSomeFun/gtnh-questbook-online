@@ -1,4 +1,4 @@
-1371GalacticraftMars/item.canisterPartialLOX-1.png0LOX and Bagels24-1§cNOTE: You cannot directly refill your tanks in a crafting grid anymore!§r
+1371GalacticraftMars/item.canisterPartialLOX-1.png0LOX and Bagels24-1NOTE: You cannot directly refill your tanks in a crafting grid anymore!
 
 The LOX canister is an alternate solution to refilling your oxygen tanks.
 

@@ -1,6 +1,6 @@
 464DraconicEvolution/draconicCore-0.png0Draconic Core12-1Yes, this schematic is perfect! Whatever alien civilization this belonged to, it is exactly what you needed. Lets make a Draconic Core.
 
 
-§3You can find the schematic in a Pluto dungeon.ANDpre3880gregtech/gt.blockmachines-5001.pngrewardstasksANDRetrievalEMT/EMTItems-16.pngDraconic Core Schematic;This Schematic can be found in Pluto Dungeons
+You can find the schematic in a Pluto dungeon.ANDpre3880gregtech/gt.blockmachines-5001.pngrewardstasksANDRetrievalEMT/EMTItems-16.pngDraconic Core Schematic;This Schematic can be found in Pluto Dungeons
 1RetrievalDraconicEvolution/draconicCore-0.pngDraconic Core;The core crafting component for Draconic Evolution;Can be used to stabilize mob spawners
 1

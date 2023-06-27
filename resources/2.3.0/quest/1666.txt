@@ -1,4 +1,4 @@
-1666gregtech/gt.metaitem.01-30024.png1§c§b§lArgon8-1To process some of the new ingots you will find, you need argon. Your first source will come from air, in small amounts. Unlike centrifuging Compressed Air Cells, you'll need to turn the Air into Liquid Air first in a Vacuum Freezer so you can centrifuge it more efficiently.
+1666gregtech/gt.metaitem.01-30024.png1Argon8-1To process some of the new ingots you will find, you need argon. Your first source will come from air, in small amounts. Unlike centrifuging Compressed Air Cells, you'll need to turn the Air into Liquid Air first in a Vacuum Freezer so you can centrifuge it more efficiently.
 
 You can make the Air Intake Hatch instead of using a Compresser PA, it's way better.
 

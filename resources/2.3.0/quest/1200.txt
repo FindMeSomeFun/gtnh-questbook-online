@@ -1,4 +1,4 @@
-1200gregtech/gt.blockmachines-1153.png0§d§l§f§c§lMaking Power With Your Plasma19-1Now that you have a reactor, it's time to utilize it to create power. 
+1200gregtech/gt.blockmachines-1153.png0Making Power With Your Plasma19-1Now that you have a reactor, it's time to utilize it to create power. 
 
 The simplest plasma you can make for power is Helium plasma, but it also provides a lot of power. Deuterium is renewable from water, and you can get Helium-3 from Endstone.
 

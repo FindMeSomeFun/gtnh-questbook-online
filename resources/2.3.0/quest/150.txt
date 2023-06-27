@@ -1,3 +1,3 @@
-150EnderIO/bucketHootch-0.png0§6§lHootch5-1The lowest tier of renewable, burnable fluid. Generates 60 RF/t, but can be automated for "green" infinite power.ANDpre1420EnderIO/blockVat-0.pngrewardsItemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
+150EnderIO/bucketHootch-0.png0Hootch5-1The lowest tier of renewable, burnable fluid. Generates 60 RF/t, but can be automated for "green" infinite power.ANDpre1420EnderIO/blockVat-0.pngrewardsItemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25tasksANDRetrievalEnderIO/bucketHootch-0.pngHootch Bucket
 1

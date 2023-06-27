@@ -1,8 +1,8 @@
-1495minecraft/command_block-0.png0§1§lAll Alone in the Night1-1If you are playing single player, updates mean having to reload the questbook. Use the Default Load Block to do it for you without having to enter creative mode - you don't lose progress, but you'll have new quests to complete! Use the items to craft it, then place it and right-click.
+1495minecraft/command_block-0.png0All Alone in the Night1-1If you are playing single player, updates mean having to reload the questbook. Use the Default Load Block to do it for you without having to enter creative mode - you don't lose progress, but you'll have new quests to complete! Use the items to craft it, then place it and right-click.
 
 Sorry, no rewards, other than the satisfaction of knowing it's you versus the world.
 
-§3PS: This is the same as /bq_admin default load.ANDpre12041minecraft/crafting_table-0.pngrewardstasksANDRetrievalminecraft/dirt-0.pngDirt
+PS: This is the same as /bq_admin default load.ANDpre12041minecraft/crafting_table-0.pngrewardstasksANDRetrievalminecraft/dirt-0.pngDirt
 1minecraft/gravel-0.pngGravel
 1minecraft/stick-0.pngStick;Burn Time: 100
 1

@@ -4,7 +4,7 @@ When finished, remove the disk and toss it on your wall and reboot the computer.
 
 Type 'df' to display all present file systems and mount points, you'll notice one named OpenOS; this is your hard drive's default name after installing the OS.
 
-Let's change it with 'label -a OpenOS HDD', '-a' checks for names starting with what you type after it with that command. §3<-- part of this is apparently wrong? Thanks for the non-ticket explaining what part, guys.§r
+Let's change it with 'label -a OpenOS HDD', '-a' checks for names starting with what you type after it with that command. <-- part of this is apparently wrong? Thanks for the non-ticket explaining what part, guys.
 
 Now for fun, let's make your first program! How about something functional, make a with 'edit startup' this will bring you to an edit page for a new program called startup. Let's just have it do something simple, 'print("Hello World!")' Like that'll never get old.
 

@@ -1,6 +1,6 @@
 2090miscutils/frameMutagenic-0.png0Fastest Way to Get There28-1A GT++ Mutagenic frame will get your bees to their final destination faster than you can blink. Just remember to wear your rubber suit while making it!
 
-§3These will break in the alveary before they take effect since their durability is under 6. So you can only get to 125x, but I think that's enough, don't you?ANDpre15150ExtraBees/hiveFrame.soul-0.pngrewardsChoicegregtech/gt.metaitem.01-11097.pngUranium 235 Ingot;U-235
+These will break in the alveary before they take effect since their durability is under 6. So you can only get to 125x, but I think that's enough, don't you?ANDpre15150ExtraBees/hiveFrame.soul-0.pngrewardsChoicegregtech/gt.metaitem.01-11097.pngUranium 235 Ingot;U-235
 8gregtech/gt.metaitem.01-11101.pngPlutonium 241 Ingot;Pu-241
 4enhancedlootbags/lootbag-26-enchanted.pngLootBag (Bees Advanced);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

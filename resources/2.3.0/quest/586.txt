@@ -1,4 +1,4 @@
-586minecraft/bookshelf-0.png1§3§lWelcome to Forestry16-1Want to make some automated farms or work with tree or bee breeding? Want the Forestry Worktable for easier recipe access? Then this is the right chapter for you. You'll need a bookshelf to unlock it, better rev up that compressor.ANDpre10081minecraft/book-0.pngrewardsItemForestry/honeyedSlice-0.pngHoneyed Slice;Forestry:honeyedSlice
+586minecraft/bookshelf-0.png1Welcome to Forestry16-1Want to make some automated farms or work with tree or bee breeding? Want the Forestry Worktable for easier recipe access? Then this is the right chapter for you. You'll need a bookshelf to unlock it, better rev up that compressor.ANDpre10081minecraft/book-0.pngrewardsItemForestry/honeyedSlice-0.pngHoneyed Slice;Forestry:honeyedSlice
 2Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 30tasksANDRetrievalminecraft/bookshelf-0.pngBookshelf;Enchantment Power: 1.0;Burn Time: 300
 1

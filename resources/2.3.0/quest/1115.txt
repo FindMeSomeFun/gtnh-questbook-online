@@ -2,9 +2,9 @@
 
 IT IS RECOMMENDED YOU DO YOUR FORESTRY TREE BREEDING IN AN ENCLOSED AREA, OR UNDERGROUND. BUTTERFLIES ARE A KNOWN LAG SOURCE.
 
-For faster tree breeding, enclose your trees so that butterflies cannot escape, and breed bees with better traits for area and pollination speed. There's also frames too if you can afford it. The sieve may also help if you want to do it more exactly if you can make an alveary. §3PS: You need either bees or butterflies, trees won't pollinate each other. §r
+For faster tree breeding, enclose your trees so that butterflies cannot escape, and breed bees with better traits for area and pollination speed. There's also frames too if you can afford it. The sieve may also help if you want to do it more exactly if you can make an alveary. PS: You need either bees or butterflies, trees won't pollinate each other. 
 
-§eSaplings/Fertility§r: Chance of getting a sapling from a detroyed leaf. Good for making into biomass or other uses. Balsa, Gooseberry and Sweetgum are what you want.
+Saplings/Fertility: Chance of getting a sapling from a detroyed leaf. Good for making into biomass or other uses. Balsa, Gooseberry and Sweetgum are what you want.
 
 Allele     Drop Chance
 Lowest   1%
@@ -13,7 +13,7 @@ Low       3.5%
 Average 5%
 High      10%
 
-§cMaturation/Matures§r: The growth speed of a sapling into a tree. Important if you plan to cut it down right away for logs. Golden Rasperry is the fastest.
+Maturation/Matures: The growth speed of a sapling into a tree. Important if you plan to cut it down right away for logs. Golden Rasperry is the fastest.
 
 Allele    Time
 Slowest  10
@@ -24,7 +24,7 @@ Fast      3
 Faster   2 
 Fastest  ?
 
-§dHeight§r: Controls how high the tree grows. Giant Sequoia is the best, though it may be a little §otoo§r large.
+Height: Controls how high the tree grows. Giant Sequoia is the best, though it may be a little too large.
 
 Allele    Value
 Smallest  25%
@@ -36,7 +36,7 @@ Larger   150%
 Largest  175%
 Gigantic  BIG
 
-§bGirth§r: The width of your tree.  Wider trees have more leaves and logs, but will also need more saplings to begin growing. All saplings must be the same species and girth. The sapling in the NW corner determines the stats of the new tree, and is where bone meal must be applied to mature the tree. The Giant Sequoia is best here too.
+Girth: The width of your tree.  Wider trees have more leaves and logs, but will also need more saplings to begin growing. All saplings must be the same species and girth. The sapling in the NW corner determines the stats of the new tree, and is where bone meal must be applied to mature the tree. The Giant Sequoia is best here too.
 
 Allele/Size
 1x1
@@ -54,7 +54,7 @@ Average 20%
 High       30% 
 Higher    ?%
 
-§6Sappiness§r: The amount of biomass a sapling produces in the Fermenter (forestry). Boost Fermenter output more using honey or fruit juice. Blue Mahoe and Red Maple are the best. §3NEI doesn't show recipes for analyzed saplings in the fermenter (and maybe hybrids, I dunno).§r
+Sappiness: The amount of biomass a sapling produces in the Fermenter (forestry). Boost Fermenter output more using honey or fruit juice. Blue Mahoe and Red Maple are the best. NEI doesn't show recipes for analyzed saplings in the fermenter (and maybe hybrids, I dunno).
 
 Allele  Biomass (forestry)
 Lowest   100mB
@@ -63,27 +63,27 @@ Low       300mB
 Average 400mB
 High       600mB 
 
-§4Fireproof§r: Kind of obvious. Applies to the wood. Only the Coast and Giant Sequoia have this.
+Fireproof: Kind of obvious. Applies to the wood. Only the Coast and Giant Sequoia have this.
 
-§7Effect§r: All trees are None.
+Effect: All trees are None.
 
 ========================================================================
 
-§2Growth§r: Sipiri trees have Tropical instead of Light, and can only be bred in a Biome with temperature 90%-190% and humidity 90%-200% and can only grow in 120%-190% temp and 90%-200% humidity. All other trees just need light to grow.
+Growth: Sipiri trees have Tropical instead of Light, and can only be bred in a Biome with temperature 90%-190% and humidity 90%-200% and can only grow in 120%-190% temp and 90%-200% humidity. All other trees just need light to grow.
 
-§3Territory/Soil§r: All trees have Average, whatever that means. Probably something related to the below that never really got used.
+Territory/Soil: All trees have Average, whatever that means. Probably something related to the below that never really got used.
 
-§eTolerates§r: If it can be planted on sand or not. Only Desert Acacia and Grandidier's Baobab have this. The trait is either Plains or Plains, Desert.
+Tolerates: If it can be planted on sand or not. Only Desert Acacia and Grandidier's Baobab have this. The trait is either Plains or Plains, Desert.
 
-§5Supports§r: What kind of fruits it can theoretically have. Determined by Species. Only fruits from families listed under this trait can be produced by the tree, regardless of what appears under the tree's §aFruits§r trait. There's a number of Extra Trees trees that support all 4 types, but none from Forestry itself.
+Supports: What kind of fruits it can theoretically have. Determined by Species. Only fruits from families listed under this trait can be produced by the tree, regardless of what appears under the tree's Fruits trait. There's a number of Extra Trees trees that support all 4 types, but none from Forestry itself.
 
-§aFruit§r: Determines what fruit or nut it produces. Each fruit/nut provides different advantages:
+Fruit: Determines what fruit or nut it produces. Each fruit/nut provides different advantages:
 Plum and Cherry Plum only produces 100L Fruit Juice, but have a 60% chance of producing Mulch in the Fluid Extractor or Squeezer.
 Papaya produces 600L Fruit Juice, but only has a 10% chance to produce Mulch.
 Coconuts produce 300L Seed Oil, but only have a 25% chance to produce Mulch.
 Use a forestry Multifarm so you don't have to break the leaf block to get the fruit/nut. Set it to Manual Orchard, and place everything first.
 
-§bFamily§r: Tells you what family of the fruit listed under the Fruits trait is: Pomes, Prunes, Nuts or Jungle.
+Family: Tells you what family of the fruit listed under the Fruits trait is: Pomes, Prunes, Nuts or Jungle.
 
-§4When breeding these trees for quests, you will need to breed the species "pure", not a hybrid. Fortunately, that's much easier for trees. You should probably save the crossbreeding 'till after you get all the good ones.ORpre21230minecraft/sapling-4.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+When breeding these trees for quests, you will need to breed the species "pure", not a hybrid. Fortunately, that's much easier for trees. You should probably save the crossbreeding 'till after you get all the good ones.ORpre21230minecraft/sapling-4.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

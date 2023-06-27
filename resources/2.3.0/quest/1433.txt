@@ -4,7 +4,7 @@ Kill the Boss Monster again in a different dungeon if you want an extra tier 2 s
 
 Place the schematic in the NASA Worbench and unlock it on the last tab. This will unlock it for your character, so you can move the workbench if you want.
 
-§3If you've made the chip in an older version, you can turn it back into a schematic in a PLE.
+If you've made the chip in an older version, you can turn it back into a schematic in a PLE.
 
 All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.ANDpre8101GalacticraftCore/item.spaceship-0.png8201GalacticraftCore/tile.landingPad-0.png8211GalacticraftCore/tile.fuelLoader-0.png8291GalacticraftCore/tile.oxygenCompressor-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot;SpFe
 16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti

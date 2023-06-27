@@ -1,4 +1,4 @@
-2879bartworks/gt.bwMetaGeneratedcell-81.png1§b§lSalt Can't be Stored in Water?8-1Dissolve the Rhodium Salt in Water in a mixer to get Rhodium Salt Solution.ANDpre23241bartworks/gt.bwMetaGenerateddust-80.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
+2879bartworks/gt.bwMetaGeneratedcell-81.png1Salt Can't be Stored in Water?8-1Dissolve the Rhodium Salt in Water in a mixer to get Rhodium Salt Solution.ANDpre23241bartworks/gt.bwMetaGenerateddust-80.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
 1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-80.pngRhodium Salt Dust;Added by BartWorks
 5IC2/itemCellEmpty-1.pngWater Cell
 1Retrievalbartworks/gt.bwMetaGeneratedcell-81.pngRhodium Salt Solution Cell;Added by BartWorks

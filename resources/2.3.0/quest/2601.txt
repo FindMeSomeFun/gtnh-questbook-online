@@ -1,4 +1,4 @@
-2601gregtech/gt.blockmachines-12735.png1§c§l§6§e§6§lCircuit Assembly Line17-1You'll need all of this to create 4 CALs, enough for a single series of circuits. If you only want one (for the microprocessors for example), just divide by 4.
+2601gregtech/gt.blockmachines-12735.png1Circuit Assembly Line17-1You'll need all of this to create 4 CALs, enough for a single series of circuits. If you only want one (for the microprocessors for example), just divide by 4.
 
 Assuming you got the necessary imprints on the LuV tab, you can now craft the CALs for the crystalprocessor series. We're starting with 4 since you'll need one per circuit, the imprint is not removable. And yes this means you need one for every circuit type you want to make with the CAL.
 
@@ -6,7 +6,7 @@ As an Assembly Line, it generally works like the normal one, with different item
 
 The CAL uses 'wraps' to make 16 of a circuit at a time (aside from ULV and LV circuits), saving you time, EU, and Soldering Alloy (or Indalloy). You make the wraps in an Assembler with 16 of the item and Polyethylene.
 
-§3BTW you can change out the Hatches and Busses for better ones, but you still need to keep ingredient order. Also CAL grants perfect overclock.ANDpre14121gregtech/gt.blockmachines-1170.png16801gregtech/gt.metaitem.01-32675.png16831gregtech/gt.blockmachines-1185.png26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDOptionalgregtech/gt.blockcasings3-10.pngGrate Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+BTW you can change out the Hatches and Busses for better ones, but you still need to keep ingredient order. Also CAL grants perfect overclock.ANDpre14121gregtech/gt.blockmachines-1170.png16801gregtech/gt.metaitem.01-32675.png16831gregtech/gt.blockmachines-1185.png26061bartworks/gt.bwMetaGeneratedItem0-3.pngrewardstasksANDOptionalgregtech/gt.blockcasings3-10.pngGrate Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 76gregtech/gt.blockcasings2-5.pngAssembling Line Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
 28IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
 56gregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!

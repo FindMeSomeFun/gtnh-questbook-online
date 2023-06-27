@@ -1,6 +1,6 @@
 1073TwilightForest/item.tfspawnegg-182.png0Naga40720000Summon a Naga.
 
-§3Only works in the Twilight Forest dim.
+Only works in the Twilight Forest dim.
 
 The name of the nagastone is messed up, this is a side effect of allowing any meta #.ANDpre2251minecraft/end_portal-0.pngrewardsItemTwilightForest/item.tfspawnegg-182.pngSpawn Naga
 1tasksANDConsumedreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"

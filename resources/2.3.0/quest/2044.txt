@@ -1,4 +1,4 @@
-2044gregtech/gt.blockmachines-12730.png0§6§lMega is Betta17-1For someone who needs to blast a truly §lridiculous§r amount of stuff, this is the machine for you. This monster machine can handle up to 256 parallel recipes at a time.
+2044gregtech/gt.blockmachines-12730.png0Mega is Betta17-1For someone who needs to blast a truly ridiculous amount of stuff, this is the machine for you. This monster machine can handle up to 256 parallel recipes at a time.
 
 The glass tier sets the maximum energy hatch tier for this machine.
 

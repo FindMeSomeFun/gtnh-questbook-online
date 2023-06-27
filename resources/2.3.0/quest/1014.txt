@@ -1,4 +1,4 @@
-1014gregtech/gt.metaitem.01-32704.png1§9§lWorkstations, Your First EV Circuit6-1Your first EV circuit is the Workstation.
+1014gregtech/gt.metaitem.01-32704.png1Workstations, Your First EV Circuit6-1Your first EV circuit is the Workstation.
 
 In addition, you'll need 16 Diodes, SMD or non-SMD.
 

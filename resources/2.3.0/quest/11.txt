@@ -1,8 +1,8 @@
-11gregtech/gt.metatool.01-0-Flint-Wood.png1§1§lSharpness: Over... 5...14-1It's about time to craft something more useful: A sword!
+11gregtech/gt.metatool.01-0-Flint-Wood.png1Sharpness: Over... 5...14-1It's about time to craft something more useful: A sword!
 
 Now that you have a sword, you will get credit for monster kills in the Kill All the Things tab. Watch out, monsters in this world will chew you up and spit you out!
 
-§3PS: You can find additional weapon quests on the Getting Around Without Dying tab.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
+PS: You can find additional weapon quests on the Getting Around Without Dying tab.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 5tasksANDCraftinggregtech/gt.metatool.01-0-Flint-Wood.pngSword;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 5.0;Mining Speed: 2.5;Fire Aspect I
 1

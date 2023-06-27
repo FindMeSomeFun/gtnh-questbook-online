@@ -1,4 +1,4 @@
-1204minecraft/crafting_table-0.png1§1§lCrafting Time0-1It's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!ANDpre11minecraft/flint-0.pngrewardsItemminecraft/apple-0.pngApple;minecraft:apple
+1204minecraft/crafting_table-0.png1Crafting Time0-1It's time to get yourself a 3x3 crafting area. Use your flint and some wood, and build one!ANDpre11minecraft/flint-0.pngrewardsItemminecraft/apple-0.pngApple;minecraft:apple
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDCraftingminecraft/crafting_table-0.pngCrafting Table;Burn Time: 300
 1

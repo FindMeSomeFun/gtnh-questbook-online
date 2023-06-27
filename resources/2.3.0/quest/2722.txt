@@ -1,4 +1,4 @@
-2722RIO/tile.machine-0.png0§a§lWater, Fast7-1The Remote IO Water Reservoir works like the Everfull Urn in that you can pull water out as fast as you can pull it out, but you can use all the sides to do so.ANDpre12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-32613.pngElectric Pump (EV);2,048 L/t (40,960 L/s) as Cover
+2722RIO/tile.machine-0.png0Water, Fast7-1The Remote IO Water Reservoir works like the Everfull Urn in that you can pull water out as fast as you can pull it out, but you can use all the sides to do so.ANDpre12451gregtech/gt.metaitem.01-32653.pngrewardsItemgregtech/gt.metaitem.01-32613.pngElectric Pump (EV);2,048 L/t (40,960 L/s) as Cover
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalRIO/tile.machine-0.pngWater Reservoir

@@ -1,4 +1,4 @@
-1888IC2/itemArmorHazmatChestplate-64.png0§4§3§lRepairing Your Hazmat Suit3-1Be careful when wearing your hazmat suit all the time. The duarbility is not very high. Even just falling a few blocks will damage the boots quickly.
+1888IC2/itemArmorHazmatChestplate-64.png0Repairing Your Hazmat Suit3-1Be careful when wearing your hazmat suit all the time. The duarbility is not very high. Even just falling a few blocks will damage the boots quickly.
 
 You can repair your suit long before you can craft a new one in late LV Age, using some rubber sheets and a glue bucket.ANDpre5340dreamcraft/dreamcraft_Pollution-0.pngrewardsItemgregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
 8minecraft/bucket-0.pngBucket

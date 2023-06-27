@@ -1,6 +1,6 @@
 1473GalaxySpace/item.ThermalPaddingT2-0.png1Nice and Comfortable - in Space!24-1These thermal clothes will keep you nice and warm even in the coldest depths of outer space. Tier 3+ planets pretty much all require these.
 
-§3You'll also need some PBI.ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
+You'll also need some PBI.ANDpre14531GalacticraftMars/item.itemBasicAsteroids-0.pngrewardsChoiceGalacticraftMars/item.null-5.pngCompressed Desh
 16GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
 16dreamcraft/item.MediumFuelCanister-0.pngMedium Fuel Canister
 1enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book

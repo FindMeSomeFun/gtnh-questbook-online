@@ -1,6 +1,6 @@
-748gregtech/gt.metaitem.03-32101.png1§5§lEmpty Circuit Board4-1Good circuit boards require wooden pulp and refined glue to make phenolic circuit boards. By adding gold wire you can craft a good circuit board.
+748gregtech/gt.metaitem.03-32101.png1Empty Circuit Board4-1Good circuit boards require wooden pulp and refined glue to make phenolic circuit boards. By adding gold wire you can craft a good circuit board.
 
-§3There's more efficient ways to make it if you look in NEI.ANDpre971gregtech/gt.blockmachines-211.png7451gregtech/gt.metaitem.01-30726.pngrewardsChoicegregtech/gt.blockmachines-1420.png1x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 4 EU-Volt
+There's more efficient ways to make it if you look in NEI.ANDpre971gregtech/gt.blockmachines-211.png7451gregtech/gt.metaitem.01-30726.pngrewardsChoicegregtech/gt.blockmachines-1420.png1x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 4 EU-Volt
 8gregtech/gt.metaitem.01-29086.pngGold Foil;Au
 16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"

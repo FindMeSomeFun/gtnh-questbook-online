@@ -1,6 +1,6 @@
-134EnderIO/itemPowerConduit-0.png0§6§lConduits5-1Probably the most awesome way to transport just about anything in multiple different ways. Get some conduits of each type. Higher tiers of each (except item) exist.
+134EnderIO/itemPowerConduit-0.png0Conduits5-1Probably the most awesome way to transport just about anything in multiple different ways. Get some conduits of each type. Higher tiers of each (except item) exist.
 
-§3There's also ME conduits for when you can do that.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsChoiceEnderIO/itemItemConduit-0.pngItem Conduit
+There's also ME conduits for when you can do that.ANDpre1280EnderIO/blockEnderIo-0.pngrewardsChoiceEnderIO/itemItemConduit-0.pngItem Conduit
 4EnderIO/itemLiquidConduit-0.pngFluid Conduit
 4EnderIO/itemRedstoneConduit-0.pngRedstone Conduit
 4EnderIO/itemPowerConduit-0.pngEnergy Conduit;Max Output 640 RF/t

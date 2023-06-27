@@ -1,12 +1,12 @@
-766gregtech/gt.blockmachines-1160.png0§6§lLet's Get Crackin!17-1Cracking oil products like light and heavy fuel with the oil cracker is faster and more efficent than using a chemical reactor, producing 25 to 50 percent more output, depending on which cracking method it's doing (steam does 50%, hydro does 25% but consumes 20% less hydrogen). Cracked products will result in additional by-products in the distillation tower. It is a smart idea to get this multiblock since you are going to need TONS of industrial TNT from Toluene for advanced tier rockets. 
+766gregtech/gt.blockmachines-1160.png0Let's Get Crackin!17-1Cracking oil products like light and heavy fuel with the oil cracker is faster and more efficent than using a chemical reactor, producing 25 to 50 percent more output, depending on which cracking method it's doing (steam does 50%, hydro does 25% but consumes 20% less hydrogen). Cracked products will result in additional by-products in the distillation tower. It is a smart idea to get this multiblock since you are going to need TONS of industrial TNT from Toluene for advanced tier rockets. 
 
 The 16 coils form 2 vertical rings of 8 on either side of the controller. The casings between the rings can be replaced with a hatch for steam/hydrogen input. Energy hatch and maintenance hatch can replace any of the casings. The input product hatch and output product hatch must replace one of the casings outside of the coils.
 
 Hint: Only GT/Railcraft steam can be used, not ic2 steam. You can use a fluid heater to make it instead of a boiler.
 
-§3The circuit goes in the controller.
+The circuit goes in the controller.
 
-§3PS: I listed all the cracker recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpre1601gregtech/gt.blockmachines-13.png8381IC2/itemPartCircuitAdv-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+PS: I listed all the cracker recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpre1601gregtech/gt.blockmachines-13.png8381IC2/itemPartCircuitAdv-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 2Choicegregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
 32gregtech/gt.metaitem.98-0.pngSteam Cell
 64Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

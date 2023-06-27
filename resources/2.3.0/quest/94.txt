@@ -1,6 +1,6 @@
-94gregtech/gt.blockmachines-301.png0§5§lElectric Macerator4-1It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to macerate something is a lot better when using EU.
+94gregtech/gt.blockmachines-301.png0Electric Macerator4-1It is highly recommended to get one of these, as the efficiency in terms of coal/steam used to macerate something is a lot better when using EU.
 
-You get the first extra slot at HV, then +1 for EV and IV. The 2nd slot is for more byproducts, and is super §osuper§r useful. The 3rd slot is for ore block dusts. The 4th slot is basically only used for recycling stuff.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You get the first extra slot at HV, then +1 for EV and IV. The 2nd slot is for more byproducts, and is super super useful. The 3rd slot is for ore block dusts. The 4th slot is basically only used for recycling stuff.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 3tasksANDRetrievalgregtech/gt.blockmachines-301.pngBasic Macerator;Schreddering your Ores;Voltage IN: 32 (LV);Capacity: 2,048 EU
 1

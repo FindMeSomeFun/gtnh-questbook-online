@@ -5,7 +5,7 @@ Oil @30RF/t for a total of 150K
 Ethanol @40RF/t for a total of 360K
 Diesel @60RF/t for a total of 1,500K
 
-§3Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpre5770Forestry/sturdyMachine-0.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cell
+Make sure to use Oil, not raw, light, medium, or heavy oil.ANDpre5770Forestry/sturdyMachine-0.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cell
 16Choicegregtech/gt.metaitem.01-30707.pngOil Cell
 16gregtech/gt.metaitem.01-30706.pngEthanol Cell;C\u2082H\u2086O
 8gregtech/gt.metaitem.01-30708.pngDiesel Cell

@@ -1,4 +1,4 @@
-1261gregtech/gt.metaitem.01-32706.png1§a§lNanoprocessor Mainframe7-1The nanoprocessor mainframe is the first LuV Circuit, and the end of this circuit line produced in EV. To craft the Tier 2 Rocket and reach Mars, Phobos and Deimos, you need to reach this circuit and make 8 of it.
+1261gregtech/gt.metaitem.01-32706.png1Nanoprocessor Mainframe7-1The nanoprocessor mainframe is the first LuV Circuit, and the end of this circuit line produced in EV. To craft the Tier 2 Rocket and reach Mars, Phobos and Deimos, you need to reach this circuit and make 8 of it.
 
 After that, you will be able to progress into IV much more easily, but you will need two more circuits to make the IV Circuit Assembling Machine.ANDpre12511gregtech/gt.metaitem.03-32084.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
 16gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit

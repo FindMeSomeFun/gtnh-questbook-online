@@ -1,10 +1,10 @@
-2333minecraft/wooden_pressure_plate-0.png0§2§lHow to Open Your Wooden Doors?2-1Wooden doors make your House safer. Let's craft some wooden Pressure plates and Buttons to open these Doors.
+2333minecraft/wooden_pressure_plate-0.png0How to Open Your Wooden Doors?2-1Wooden doors make your House safer. Let's craft some wooden Pressure plates and Buttons to open these Doors.
 
 Doors will open when they receive a redstone signal, and close again after it stops. If you place the plates on either side of a door, it will open when you step on it. Or a monster does. Double doors will open together.
 
 You'll need to use Oak for this quest. Purchase some saplings from the Coins tab if you don't have any nearby.
 
-§3Pressure plates will send a RS when an entity is on top of them. There are different types, like items or not, or mobs/player/any entity/etc.
+Pressure plates will send a RS when an entity is on top of them. There are different types, like items or not, or mobs/player/any entity/etc.
 
 Buttons will emit one for about 2s before resetting.
 

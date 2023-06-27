@@ -1,4 +1,4 @@
-2603gregtech/gt.metaitem.01-2059.png1§c§lFetching Tellurium9-1For Tellurium, you can do it these ways:
+2603gregtech/gt.metaitem.01-2059.png1Fetching Tellurium9-1For Tellurium, you can do it these ways:
 
 1) EBF Crushed Lead Ore for 2 Tellurium Nuggets
 2) If you have old worldgen, you can get it from Temagamite practically anywhere (it was broken so it currently doesn't generate), or Mercury if it's been fixed

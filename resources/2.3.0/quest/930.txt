@@ -1,4 +1,4 @@
-930gregtech/gt.blockmachines-679.png0§5§lAuto Mining4-1Automatic mining in LV tier? Wow! This nifty machine will collect ores for you, which can be helpful especially in the Nether, as it won't anger pigmen.
+930gregtech/gt.blockmachines-679.png0Auto Mining4-1Automatic mining in LV tier? Wow! This nifty machine will collect ores for you, which can be helpful especially in the Nether, as it won't anger pigmen.
 
 Place up to two stacks of mining pipes in the right slots. Each pipe can go 1 block, and allow the miner to dig 1 block further. If you're above Y64, you may need to pipe more in.
 

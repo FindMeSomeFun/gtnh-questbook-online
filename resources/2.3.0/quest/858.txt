@@ -1,6 +1,6 @@
 858harvestcraft/market-0.png0Chef Training410I need some ingredients to help me train since they don't grow well where I am, could you provide some? I'll give you the results in return.
 
-§3You only need to turn in one set each time you complete the quest.ANDpre6650harvestcraft/potItem-0.pngrewardsItemenhancedlootbags/lootbag-28.pngLootBag (Fast Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You only need to turn in one set each time you complete the quest.ANDpre6650harvestcraft/potItem-0.pngrewardsItemenhancedlootbags/lootbag-28.pngLootBag (Fast Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksORConsumeharvestcraft/ryeItem-0.pngRye;harvestcraft:ryeItem
 64Consumeharvestcraft/cornItem-0.pngCorn;harvestcraft:cornItem
 64Consumeharvestcraft/cucumberItem-0.pngCucumber;harvestcraft:cucumberItem

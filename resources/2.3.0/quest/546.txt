@@ -1,4 +1,4 @@
-546BuildCraftEnergy/blockOil-0.png1§5§lHello Baron, How's Your Black Gold Today?21-1During your travels you may have seen some huge oil spouts. Now's the time to make a pump and go collect this black gold into tanks. Oil can be burned directly in a combustion generator (onsite to power the pump, perhaps?) or be refined for better fuels and crafting materials. 
+546BuildCraftEnergy/blockOil-0.png1Hello Baron, How's Your Black Gold Today?21-1During your travels you may have seen some huge oil spouts. Now's the time to make a pump and go collect this black gold into tanks. Oil can be burned directly in a combustion generator (onsite to power the pump, perhaps?) or be refined for better fuels and crafting materials. 
 
 Bring a generator or battery buffer (with full batteries obviously) with you to power the pump. Thanks to the advancement of technology the pump can auto output on top. Stacking multiple pumps makes them work faster. In that case, oil has to be removed from the bottom of the stack using a pump cover or other means like a conduit.
 
@@ -8,7 +8,7 @@ Mining pipes are needed for pumping the oil, same as the auto miner. When it hit
 
 These are GT machines, so remember to protect them (and their power sources!) from rain on all sides. And set a waypoint with JourneyMaps so you don't forget where you placed it!
 
-§3Once you run out of surface oil, you'll want to turn to:
+Once you run out of surface oil, you'll want to turn to:
 1) Oilsands ore, though this is better suited for making heavy oil
 2) Making oil from logs in a pyro
 4) Ridiculous bio vat nonsense

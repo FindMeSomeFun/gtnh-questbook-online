@@ -1,4 +1,4 @@
-768gregtech/gt.blockmachines-1126.png0§6§lYou Smell Like a Distillery!17-1This bad boy will tremendously boost the byproducts of your cracked fuel or pyrolyse oven. This way you can make industrial TNT, polyethylene, polytetrafluoroethylene and other plastics more efficiently. You'll also need this for the platline.
+768gregtech/gt.blockmachines-1126.png0You Smell Like a Distillery!17-1This bad boy will tremendously boost the byproducts of your cracked fuel or pyrolyse oven. This way you can make industrial TNT, polyethylene, polytetrafluoroethylene and other plastics more efficiently. You'll also need this for the platline.
 
 You'll need to make EV circuits in a cleanroom to build this machine.
 
@@ -6,7 +6,7 @@ For hatches, you can choose your own tier. 1 MV energy does most of the useful r
 
 You will need 1 input hatch, and at least 5 output hatches. An output bus will capture any solid outputs.
 
-§3PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoicegregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
+PS: I listed all the DT recipes on the spreadsheet for you to look at in a convenient format. Now you can easily compare which oil path to take!ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoicegregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 16gregtech/gt.metaitem.01-30740.pngLight Fuel Cell
 32enhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

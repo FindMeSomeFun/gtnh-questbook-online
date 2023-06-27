@@ -1,4 +1,4 @@
-1482gregtech/gt.detrav.metatool.01-2-Steel-Steel.png0§5§6§lPortable Prospecting Tool5-1Now that you have some tech, you've discovered a way to prospect for ores. This tool only has a chance at finding the ores in a chunk. If you are clever, you can use it to locate ores.
+1482gregtech/gt.detrav.metatool.01-2-Steel-Steel.png0Portable Prospecting Tool5-1Now that you have some tech, you've discovered a way to prospect for ores. This tool only has a chance at finding the ores in a chunk. If you are clever, you can use it to locate ores.
 
 Unfortunately, the tech to make it repairable or rechargeable doesn't work, so you'll have to make a new one each time it breaks. It does work better at higher tiers and lasts longer with better materials.
 

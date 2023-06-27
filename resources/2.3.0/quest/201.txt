@@ -1,10 +1,10 @@
-201ExtraUtilities/enderQuarry-0.png0§c§lAutomated Mining9-1The QED enables you to assemble the most convenient device for mining: The ender quarry.
+201ExtraUtilities/enderQuarry-0.png0Automated Mining9-1The QED enables you to assemble the most convenient device for mining: The ender quarry.
 
 As 0lafe says, "This small black box is life-changing" and "Sympathy for the amount of dense obsidian plates you need."
 
 Guess you better get compressing!
 
-§4NOTE: It's best to place your quarry and markers on orevein boundaries. This way you start getting ores right away, especially from planets.ANDpre1990ExtraUtilities/endConstructor-0.png12131gregtech/gt.blockmetal3-3.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV);Your luck is increased by 100 %;Fortune III
+NOTE: It's best to place your quarry and markers on orevein boundaries. This way you start getting ores right away, especially from planets.ANDpre1990ExtraUtilities/endConstructor-0.png12131gregtech/gt.blockmetal3-3.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV);Your luck is increased by 100 %;Fortune III
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalExtraUtilities/enderQuarry-0.pngEnder Quarry

@@ -1,4 +1,4 @@
-860gregtech/gt.metaitem.01-11028.png1§9§lTitanium, Finally6-1You just need to cool down those ingots in your Vacuum Freezer and you'll get your first Titanium.ANDpre811gregtech/gt.blockmachines-1002.png10121gregtech/gt.metaitem.01-2375.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+860gregtech/gt.metaitem.01-11028.png1Titanium, Finally6-1You just need to cool down those ingots in your Vacuum Freezer and you'll get your first Titanium.ANDpre811gregtech/gt.blockmachines-1002.png10121gregtech/gt.metaitem.01-2375.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

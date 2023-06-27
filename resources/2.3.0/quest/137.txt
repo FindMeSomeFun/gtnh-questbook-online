@@ -1,4 +1,4 @@
-137EnderIO/blockPainter-0.png0§6§lMaking Things Pretty5-1While conduits on their own are already awesome, you can also hide them if you want. There are 2 types of facades, basic and hardened. While basic ones are simple and easy, the reinforced ones are able to withstand explosions and mining with tools. You have to use your Yeta Wrench to remove it.
+137EnderIO/blockPainter-0.png0Making Things Pretty5-1While conduits on their own are already awesome, you can also hide them if you want. There are 2 types of facades, basic and hardened. While basic ones are simple and easy, the reinforced ones are able to withstand explosions and mining with tools. You have to use your Yeta Wrench to remove it.
 
 You'll have to paint your facades in the Painting Machine first - place the block you want them to look like where the paintbrush is, and the facade on the left. Of course, the Painting Machine needs to be powered.ANDpre1290EnderIO/itemMachinePart-0.png1340EnderIO/itemPowerConduit-0.pngrewardsChoiceEnderIO/itemConduitFacade-1.pngHardened Conduit Facade;Not Painted
 64EnderIO/itemConduitFacade-0.pngConduit Facade;Not Painted

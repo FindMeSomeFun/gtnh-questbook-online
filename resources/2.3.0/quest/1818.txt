@@ -1,6 +1,6 @@
-1818gregtech/gt.blockmachines-13000.png0§6§lLarge Essentia Generator19-1Having one Essentia Generator per Essentia type seeems impractical... Better make a Large Essentia Generator and burn all the Essentia in parallel! As another bonus, this generator produces 20x the energy a single block machine will produce. You might need more Magic Containment Casings than this quest asks for.
+1818gregtech/gt.blockmachines-13000.png0Large Essentia Generator19-1Having one Essentia Generator per Essentia type seeems impractical... Better make a Large Essentia Generator and burn all the Essentia in parallel! As another bonus, this generator produces 20x the energy a single block machine will produce. You might need more Magic Containment Casings than this quest asks for.
 
-§4PS: This is apparently super buggy and may or may not work. Rather check out the LEG from GoodGenerator!ANDpre13330EMT/EssentiaGenerators-0.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+PS: This is apparently super buggy and may or may not work. Rather check out the LEG from GoodGenerator!ANDpre13330EMT/EssentiaGenerators-0.pngrewardsItemenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1dreamcraft/item.CoinDarkWizardIV-0.pngCoin "The Dark Wizard 10K"
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1ChoiceAvaritia/big_pearl-0.pngExtremely Primordial Pearl

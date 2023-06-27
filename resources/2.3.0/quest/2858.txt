@@ -1,4 +1,4 @@
-2858IC2/itemCellEmpty-1.png0§5§lMachine Interface Fluid I/O1-1Thanks to the tireless work of the devs, you can now use cells to I/O fluids directly from the interface of GT machines. Just click on the fluid while holding a cell or other fluid container item.
+2858IC2/itemCellEmpty-1.png0Machine Interface Fluid I/O1-1Thanks to the tireless work of the devs, you can now use cells to I/O fluids directly from the interface of GT machines. Just click on the fluid while holding a cell or other fluid container item.
 
 Points to consider:
 1) Left click to attempt filling/emptying all fluid containers held on cursor.

@@ -1,4 +1,4 @@
-1812gregtech/gt.metaitem.01-30667.png1§9§lTeflon Don6-1To make PTFE, aka Teflon, you only need a few steps.  
+1812gregtech/gt.metaitem.01-30667.png1Teflon Don6-1To make PTFE, aka Teflon, you only need a few steps.  
 
 The first one is hydrofluoric acid. If you haven't reached the moon yet, the best sources for fluorine might be cryolite. Other options are mining calcite or sandstone for a chance at fluorite ore, and centrifuging stone dust or black granite dust for biotite. You can also get small amounts from Lepidolite in salt veins and Mica. Mix it with some hydrogen to get hydrofluoric acid.
 

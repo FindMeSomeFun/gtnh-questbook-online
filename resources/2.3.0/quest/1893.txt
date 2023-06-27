@@ -1,4 +1,4 @@
-1893gregtech/gt.metaitem.01-32662.png0§6§lFluid Regulator19-1Turbines require precise amounts of fluids or else they will §4explode§r. Use the fluid regulator on the pipe attached to the input bus to control the rate of fluids into the turbine. To raise the fluid limit, look at the right side of the regulator and:
+1893gregtech/gt.metaitem.01-32662.png0Fluid Regulator19-1Turbines require precise amounts of fluids or else they will explode. Use the fluid regulator on the pipe attached to the input bus to control the rate of fluids into the turbine. To raise the fluid limit, look at the right side of the regulator and:
 
 1L - Right click with an empty hand
 16L - Right click with a screwdriver
@@ -8,7 +8,7 @@ To lower the fluid limit, do the same while looking at the left side.
 
 Use the Large Turbine Calculator and the Turbine stats sheet on the spreadsheet to find what to set it to (after deciding on a fuel). At GTNH, we do the math for you! For this at least.
 
-§3If you shift-right click on it you can use the interface which is more precise.ORpre7830gregtech/gt.blockmachines-1131.png12000gregtech/gt.blockmachines-1153.png18940gregtech/gt.blockmachines-1151.pngrewardsItemenhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+If you shift-right click on it you can use the interface which is more precise.ORpre7830gregtech/gt.blockmachines-1131.png12000gregtech/gt.blockmachines-1153.png18940gregtech/gt.blockmachines-1151.pngrewardsItemenhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalgregtech/gt.metaitem.01-32662.pngFluid Regulator (HV);Configurable up to 10,240 L/sec (as Cover);Rightclick/Screwdriver-rightclick/Shift-screwdriver-rightclick;to adjust the pump speed by 1/16/256 L/sec per click

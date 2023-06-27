@@ -1,6 +1,6 @@
 1897gregtech/gt.MNqCell-0.png0Tricky Nuclear Fuel II: Naquadria19-1They're so not worth it I'm just going to give you back the materials. Like naquadah, they're the same as MOX other than materials.
 
-§3PS: You can get Nq* from both centrifuging Nq or Nq+ dust, processing the ores, or thermal centrifuging the depleted Nq+ rods.ANDpre1920gregtech/gt.reactorMOXSimple-0.pngrewardsItemgregtech/gt.metaitem.01-2327.pngNaquadria Dust;Nq*
+PS: You can get Nq* from both centrifuging Nq or Nq+ dust, processing the ores, or thermal centrifuging the depleted Nq+ rods.ANDpre1920gregtech/gt.reactorMOXSimple-0.pngrewardsItemgregtech/gt.metaitem.01-2327.pngNaquadria Dust;Nq*
 3gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
 4gregtech/gt.metaitem.01-11085.pngPlatinum Ingot;Pt
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

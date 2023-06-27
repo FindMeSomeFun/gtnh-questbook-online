@@ -1,6 +1,6 @@
-1546minecraft/diamond_ore-0.png0§2§lRare Ores2-1Did you look for days to find Diamonds, Redstone, Tantalite, Certus Quartz or Mica?
+1546minecraft/diamond_ore-0.png0Rare Ores2-1Did you look for days to find Diamonds, Redstone, Tantalite, Certus Quartz or Mica?
  
 Well for a few mixes you can use different ores like Coal for Diamond Vein or Quarzite Ore for Certus Quartz Vein. Mica ore mix can be found if you have Cassiterite Ore (not the sand).
 
-§4Tetrahedrite in the nether can be found with copper ore.ANDpre15040ifu/ifu_buildingKit-1.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Tetrahedrite in the nether can be found with copper ore.ANDpre15040ifu/ifu_buildingKit-1.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

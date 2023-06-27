@@ -1,4 +1,4 @@
-1147gregtech/gt.blockmachines-1246.png0§3§2§4§3§lGT6-Styled Wires and Cables3-1They work basically the same as pipes, but you need wire cutters (or a soldering iron) instead of a wrench. Additionally, you take damage if they're not insulated (wire) but not if they are (cable).
+1147gregtech/gt.blockmachines-1246.png0GT6-Styled Wires and Cables3-1They work basically the same as pipes, but you need wire cutters (or a soldering iron) instead of a wrench. Additionally, you take damage if they're not insulated (wire) but not if they are (cable).
 
 Hint: If you click one wire or cable on the other it will auto-connect. Cables and pipes can be painted to make sure you do not cross your MV line with your EV line, or dump hot lava into your plastic water pipes. No boom today.
 

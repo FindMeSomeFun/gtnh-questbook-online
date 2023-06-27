@@ -1,4 +1,4 @@
-550gregtech/gt.metaitem.01-30001.png1§5§lH for Hydrogen... the Rest of the Alphabet is Too Complicated...4-1Centrifuge some brown or yellow limonite dust, or use an Electrolyser with water to get some hydrogen.
+550gregtech/gt.metaitem.01-30001.png1H for Hydrogen... the Rest of the Alphabet is Too Complicated...4-1Centrifuge some brown or yellow limonite dust, or use an Electrolyser with water to get some hydrogen.
 
 There are many other ways of obtaining hydrogen which you might want to look into. Some are only available much later.
 

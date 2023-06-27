@@ -1,8 +1,8 @@
-1136gregtech/gt.blockmachines-30651.png0§5§lLossless LV Cables4-1How about lossless 32 EU cables? Redstone alloy is a superconductor and will transfer your energy without any loss.
+1136gregtech/gt.blockmachines-30651.png0Lossless LV Cables4-1How about lossless 32 EU cables? Redstone alloy is a superconductor and will transfer your energy without any loss.
 
 Redstone Alloy is a new alloy which requires an EBF. Mix redstone, silicon and coal by hand, or in the mixer for a better result.
 
-§3Remember not to mix it up with Red Alloy, that's the ULV one.ANDpre771gregtech/gt.blockmachines-1000.png971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Remember not to mix it up with Red Alloy, that's the ULV one.ANDpre771gregtech/gt.blockmachines-1000.png971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"

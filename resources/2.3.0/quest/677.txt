@@ -2,9 +2,9 @@
 
 Well, not really. You will need some kind of tracks first.
 
-§3We here at QuestBook, Inc. do not guarantee the usefulness of minecarts or trains in any way. Especially since you can mine out a vein in a single session once you have a hammer and backpacks.
+We here at QuestBook, Inc. do not guarantee the usefulness of minecarts or trains in any way. Especially since you can mine out a vein in a single session once you have a hammer and backpacks.
 
-§c§lWARNING: §r§cUnprotected carts can be knocked off their rails by lightning. Cover the area with blocks to prevent carts from disappearing.
+WARNING: Unprotected carts can be knocked off their rails by lightning. Cover the area with blocks to prevent carts from disappearing.
 
 Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metaitem.01-32100.pngIron Minecart Wheels;To get things rolling
 2Railcraft/track-736-slow.pngWooden Track;30% of the speed of normal track

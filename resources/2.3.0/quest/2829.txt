@@ -6,11 +6,11 @@ Vac nukes remove heat by sending it to coolant cells instead of coolant. Any cel
 
 Wrench reactors are when you fill the reacor with fuel rods, turn it on, and wrench it to reset it's heat state before it explodes. If you can automate it, you deserve a medal!
 
-If you still don't know what a MOX one is, it produces more power the higher the temperature, so you try to keep it heat neutral, and as hot as possible. Of course, this can cause things nearby to, well, §omelt.§r You use MOX or Naquadria fuel cells work for this. You can also get more Plutonium out of MOX than Uranium.
+If you still don't know what a MOX one is, it produces more power the higher the temperature, so you try to keep it heat neutral, and as hot as possible. Of course, this can cause things nearby to, well, melt. You use MOX or Naquadria fuel cells work for this. You can also get more Plutonium out of MOX than Uranium.
 
 A breeder reactor is when you setup a reactor to get an item out of it rather than power, like Lutetium from Thorium, Plutonium from MOX, etc. Look at the depleted x fuel rod list in NEI or on the wiki to see more.
 
-§3Since Fluid Nukes are liable to explode if you run out of coolant, make sure you setup a cutoff tied to the temperature or amount of coolant with redstone.ANDpre1900IC2/blockGenerator-5.png19050gregtech/gt.blockmachines-1154.pngrewardsItembartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt;NaCl;Added by BartWorks
+Since Fluid Nukes are liable to explode if you run out of coolant, make sure you setup a cutoff tied to the temperature or amount of coolant with redstone.ANDpre1900IC2/blockGenerator-5.png19050gregtech/gt.blockmachines-1154.pngrewardsItembartworks/gt.bwMetaGeneratedgemExquisite-20.pngExquisite Salt;NaCl;Added by BartWorks
 16IC2/itemCellEmpty-9.pngCoolant Cell
 16Itemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1tasksANDRetrievalIC2/blockReactorAccessHatch-0.pngReactor Access Hatch

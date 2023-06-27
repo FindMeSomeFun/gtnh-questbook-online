@@ -1,8 +1,8 @@
-1896gregtech/gt.Naquadahcell-0.png0Standard Nuclear Fuel II: Naquadah19-1These are...not worth it. Go do something else with your enriched naquadah, like putting it in a naq gen if you want power. They work §oexactly§r the same as uranium other than materials cost/output.
+1896gregtech/gt.Naquadahcell-0.png0Standard Nuclear Fuel II: Naquadah19-1These are...not worth it. Go do something else with your enriched naquadah, like putting it in a naq gen if you want power. They work exactly the same as uranium other than materials cost/output.
 
-§3PS: You can get Nq+ from both centrifuging Nq dust or processing the ore.
+PS: You can get Nq+ from both centrifuging Nq dust or processing the ore.
 
-§3And why are they Naquadah rods when they're made of Enriched Naquadah?ANDpre1910gregtech/gt.reactorUraniumSimple-0.png16671gregtech/gt.metaitem.01-11324.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+And why are they Naquadah rods when they're made of Enriched Naquadah?ANDpre1910gregtech/gt.reactorUraniumSimple-0.png16671gregtech/gt.metaitem.01-11324.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalgregtech/gt.Naquadahcell-0.pngFuel Rod (Naquadah);100 / 100;Durability: 100,000/100,000
 1

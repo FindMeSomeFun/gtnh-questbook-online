@@ -1,4 +1,4 @@
-17minecraft/sand-0.png1§2§lSand: The Gathering2-1In a strange vision you saw a big structure which would allow you to make charcoal. Finally some torches! According to your calculations, you will need a lot of sand for that.ANDpre151SpiceOfLife/lunchbag-0.pngrewardsChoiceminecraft/sand-0.pngSand
+17minecraft/sand-0.png1Sand: The Gathering2-1In a strange vision you saw a big structure which would allow you to make charcoal. Finally some torches! According to your calculations, you will need a lot of sand for that.ANDpre151SpiceOfLife/lunchbag-0.pngrewardsChoiceminecraft/sand-0.pngSand
 16harvestcraft/leekbaconsoupItem-0.pngLeek Bacon Soup;harvestcraft:leekbaconsoupItem
 2enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"

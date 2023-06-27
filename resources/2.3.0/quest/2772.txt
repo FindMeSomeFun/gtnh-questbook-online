@@ -4,7 +4,7 @@ The solution to this is to kill them. Also, the bats. Stupid Thaumcraft warp. Us
 
 Notes: Hydrogen Cyanide has a recipe now. Both it and Formaldehyde require a Chemical Plant. It doesn't appear to use any of the Formaldehyde up though. The range is apparently 5x5 chunks, not blocks. It also only runs once every 30s or so?
 
-§3PS: If you experience problems using it (more than already mentioned), raise a ticket on github.ANDpre21220Forestry/sapling-0-Oak.png23971gregtech/gt.blockmachines-998.pngrewardsItemwitchery/ingredient-24.pngWool of Bat
+PS: If you experience problems using it (more than already mentioned), raise a ticket on github.ANDpre21220Forestry/sapling-0-Oak.png23971gregtech/gt.blockmachines-998.pngrewardsItemwitchery/ingredient-24.pngWool of Bat
 8miscutils/Formaldehyde-0.pngFormaldehyde Cell
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"

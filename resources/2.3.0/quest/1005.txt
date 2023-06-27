@@ -1,4 +1,4 @@
-1005gregtech/gt.metaitem.01-2056.png1§a§lIndium7-1At EV you're able to make Indium. Indium cannot be found in Ore form §3(except in super small amounts on Ross)§r.
+1005gregtech/gt.metaitem.01-2056.png1Indium7-1At EV you're able to make Indium. Indium cannot be found in Ore form (except in super small amounts on Ross).
 
 First you need to make Indium concentrate out of purified galena and sphalerite ore, then mix in some aluminium to get Indium. Indium is used in large amounts later on, automate this ASAP.
 

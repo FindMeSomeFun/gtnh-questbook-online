@@ -1,4 +1,4 @@
-197IC2/reactorVentDiamond-1.png0§a§lVenting Heat19-1You can't just move the heat around, eventually you need to get rid of it. Just like the exchangers, there are different types of vents, each of them has a certain usage. Same as the other quest, either read a wiki and try to comprehend how these work, or give up and just use the versions on the wiki.ANDpre1900IC2/blockGenerator-5.pngrewardsChoiceIC2/reactorVent-1.pngHeat Vent
+197IC2/reactorVentDiamond-1.png0Venting Heat19-1You can't just move the heat around, eventually you need to get rid of it. Just like the exchangers, there are different types of vents, each of them has a certain usage. Same as the other quest, either read a wiki and try to comprehend how these work, or give up and just use the versions on the wiki.ANDpre1900IC2/blockGenerator-5.pngrewardsChoiceIC2/reactorVent-1.pngHeat Vent
 2IC2/reactorVentCore-1.pngReactor Heat Vent
 2IC2/reactorVentGold-1.pngOverclocked Heat Vent
 2IC2/reactorVentSpread-0.pngComponent Heat Vent

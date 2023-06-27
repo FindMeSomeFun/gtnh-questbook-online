@@ -1,4 +1,4 @@
-769gregtech/gt.blockmachines-573.png1§9§lPlaying With Dust6-1This machine will help you turn dust into crystals which you will need for high tier recipes. ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+769gregtech/gt.blockmachines-573.png1Playing With Dust6-1This machine will help you turn dust into crystals which you will need for high tier recipes. ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1IC2/itemDust2-2.pngEnergium Dust
 9Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-573.pngAdvanced Autoclave II;Crystallizing your Dusts;Voltage IN: 512 (HV);Capacity: 32,768 EU

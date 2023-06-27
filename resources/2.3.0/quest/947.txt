@@ -1,4 +1,4 @@
-947TConstruct/trap.punji-0.png0§2§lPunji Sticks2-1An early game protection moat can be made out of punji sticks. It hurts all mobs/players and additionally gives a slowness II potion effect. Make a trench around your base and put the punji sticks inside.ANDpre431Natura/barleyFood-3.pngrewardsItemBiomesOPlenty/saplings-2.pngBamboo Sapling;Burn Time: 100
+947TConstruct/trap.punji-0.png0Punji Sticks2-1An early game protection moat can be made out of punji sticks. It hurts all mobs/players and additionally gives a slowness II potion effect. Make a trench around your base and put the punji sticks inside.ANDpre431Natura/barleyFood-3.pngrewardsItemBiomesOPlenty/saplings-2.pngBamboo Sapling;Burn Time: 100
 10Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDOptionalminecraft/string-0.pngString
 20minecraft/stick-0.pngStick;Burn Time: 100

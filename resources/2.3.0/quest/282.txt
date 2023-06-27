@@ -1,6 +1,6 @@
 282Thaumcraft/ItemHelmetCultistRobe-0.png1Secrets32-1I can feel it. Yess. Yeeeess. We will gain more power nigh. Nigh! Yes. My precious. The voices gave me a hint, there is a dimension filled with unbelievable sources of magic energy. I must go there. I must! The crimson people know the secret. I will rip them aparrrt.. They will tell me!
 
-§3NOTE: You might want to setup a spawner because you'll likely need to kill a lot of these guys for the book you need for the next task. Additionally, they're spawned by the Clerics, which DO NOT RESPAWN.ANDpre2891Thaumcraft/FocusHellbat-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+NOTE: You might want to setup a spawner because you'll likely need to kill a lot of these guys for the book you need for the next task. Additionally, they're spawned by the Clerics, which DO NOT RESPAWN.ANDpre2891Thaumcraft/FocusHellbat-0.pngrewardsItemenhancedlootbags/lootbag-10.pngLootBag (Magic Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

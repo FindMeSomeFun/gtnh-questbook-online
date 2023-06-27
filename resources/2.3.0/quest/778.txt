@@ -1,4 +1,4 @@
-778IC2/itemPartCarbonPlate-0.png0§7§6§lCarbon Plates5-1Carbon plates are used for a bunch of stuff, including eventually the nanosuit. Go check out the armor chapter.ANDpre7730IC2/itemPartCarbonMesh-0.pngrewardsChoicegregtech/gt.metaitem.01-11473.pngPolytetrafluoroethylene Bar;C\u2082F\u2084
+778IC2/itemPartCarbonPlate-0.png0Carbon Plates5-1Carbon plates are used for a bunch of stuff, including eventually the nanosuit. Go check out the armor chapter.ANDpre7730IC2/itemPartCarbonMesh-0.pngrewardsChoicegregtech/gt.metaitem.01-11473.pngPolytetrafluoroethylene Bar;C\u2082F\u2084
 4gregtech/gt.metaitem.01-11874.pngPolyethylene Bar;CH\u2082
 8enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"

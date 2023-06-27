@@ -1,4 +1,4 @@
-1876gregtech/gt.blockmachines-473.png0§a§9§lAmplifying Your UUM Production6-1To get UUAmplifier out of your scrap you need an Amplifabricator. Both types of scrap are equivalent.ANDpre19060gregtech/gt.blockmachines-333.pngrewardsChoiceIC2/itemScrapbox-0.pngScrap Box;Burn Time: 3150
+1876gregtech/gt.blockmachines-473.png0Amplifying Your UUM Production6-1To get UUAmplifier out of your scrap you need an Amplifabricator. Both types of scrap are equivalent.ANDpre19060gregtech/gt.blockmachines-333.pngrewardsChoiceIC2/itemScrapbox-0.pngScrap Box;Burn Time: 3150
 64gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
 16gregtech/gt.blockmachines-1426.png1x Gold Cable;Max Voltage: 512 (HV);Max Amperage: 3;Loss/Meter/Ampere: 2 EU-Volt
 64enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

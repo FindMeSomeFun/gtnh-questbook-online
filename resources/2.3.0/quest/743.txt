@@ -1,8 +1,8 @@
-743TConstruct/lumberaxe-0-2193.png0§3§lCutting a Tree log by log is so Old School3-1By making a lumber axe you are now able to cut down the entire tree in one hit. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. Don't forget your backpack when you are cutting a sacred oak tree down.
+743TConstruct/lumberaxe-0-2193.png0Cutting a Tree log by log is so Old School3-1By making a lumber axe you are now able to cut down the entire tree in one hit. You can use iron, steel, or alumite poured from the Smeltery, it doesn't need to be steel. Higher tier metals require the MV extruder. Don't forget your backpack when you are cutting a sacred oak tree down.
 
-§6The quest should accept the tool whatever materials you used.
+The quest should accept the tool whatever materials you used.
 
-§3Protip: Make one out of netherrack, the lower the mining speed, the less XP needed to level up. Use the modifier slots to add reinforced. Once you've got it leveled up enough, change the parts out for better (and faster) ones. You can't use auto-smelt, so don't bother with that.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Protip: Make one out of netherrack, the lower the mining speed, the less XP needed to level up. Use the modifier slots to add reinforced. Once you've got it leveled up enough, change the parts out for better (and faster) ones. You can't use auto-smelt, so don't bother with that.ANDpre7410TConstruct/ToolForgeBlock-0.pngrewardsItemenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalTConstruct/metalPattern-17.pngBroadaxe Head Cast;Material Cost: 8

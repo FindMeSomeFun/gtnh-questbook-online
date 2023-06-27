@@ -1,6 +1,6 @@
 1421gregtech/gt.blockmachines-797.png0Hulk Smash!18-1Mass destruction! Or at least, lots and lots of crushed ores. Build a maceration statck to keep up with all the ores you are getting.
 
-§3This multi is IV, but uses a ZPM circuit. Also has 33% bonus output on byproducts.ANDpre14161gregtech/gt.blockmachines-810.png17071gregtech/gt.metaitem.03-32088.pngrewardsChoicegregtech/gt.blockores-4884.pngDesh Ore;De
+This multi is IV, but uses a ZPM circuit. Also has 33% bonus output on byproducts.ANDpre14161gregtech/gt.blockmachines-810.png17071gregtech/gt.metaitem.03-32088.pngrewardsChoicegregtech/gt.blockores-4884.pngDesh Ore;De
 64gregtech/gt.blockores-4841.pngTungstate Ore;WLi\u2082O\u2084
 64gregtech/gt.blockores-4873.pngPitchblende;(UO\u2082)\u2083ThPb
 64enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

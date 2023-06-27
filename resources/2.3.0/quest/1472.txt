@@ -1,4 +1,4 @@
-1472GalacticraftMars/item.grapple-0.png0Grapple24-1The Grapple is a grappling hook and rope which can be thrown by a player, and then used to swing the player in the direction it was thrown. Useful for reaching places that are otherwise too high to jump to, or traveling around the Asteroids. §3(Or just, you know, §ofly§r§3.)§r
+1472GalacticraftMars/item.grapple-0.png0Grapple24-1The Grapple is a grappling hook and rope which can be thrown by a player, and then used to swing the player in the direction it was thrown. Useful for reaching places that are otherwise too high to jump to, or traveling around the Asteroids. (Or just, you know, fly.)
 
 Right-click to aim the Grapple at a block you want to reach, similar to aiming a Bow. Release the right-click - similar to firing an arrow from a bow - to grapple yourself in that direction.
 

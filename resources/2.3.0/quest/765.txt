@@ -1,4 +1,4 @@
-765gregtech/gt.blockmachines-1157.png0§6§lTime to Drill for Oil!17-1Pumps are nice but you're going to reach a point where you'll want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you'll need to search for oil using a seismic prospector. You can find raw, light, medium, and heavy oil. There's also a chance to find natural gas.
+765gregtech/gt.blockmachines-1157.png0Time to Drill for Oil!17-1Pumps are nice but you're going to reach a point where you'll want MOOOOOOOOOOOOORE oil. This multiblock will help with that but you'll need to search for oil using a seismic prospector. You can find raw, light, medium, and heavy oil. There's also a chance to find natural gas.
 
 Higher tiers of power will drill faster. You need to upgrade the energy hatch corresponding to the power tier. 
 

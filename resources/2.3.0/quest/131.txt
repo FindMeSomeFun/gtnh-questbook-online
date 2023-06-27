@@ -1,4 +1,4 @@
-131EnderIO/blockStirlingGenerator-0.png0§6§lSimple RF power: Solid5-1By simply burning coal as fuel, this machine produces RF power. Enough for a basic machine setup. This machine will also accept compressed and multiple-compressed blocks. Want to burn something for 250+ days? Also, with double or octadic capacitors the output will increase and efficiency will improve.
+131EnderIO/blockStirlingGenerator-0.png0Simple RF power: Solid5-1By simply burning coal as fuel, this machine produces RF power. Enough for a basic machine setup. This machine will also accept compressed and multiple-compressed blocks. Want to burn something for 250+ days? Also, with double or octadic capacitors the output will increase and efficiency will improve.
 
 GT wiring can convert EU to RF, but not the other way around. Note that with the eNet changes a GT wire network will need at least one GT energy consumer - a machine hull of the matching voltage will work.
 

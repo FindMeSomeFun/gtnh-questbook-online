@@ -1,4 +1,4 @@
-951gregtech/gt.blockmachines-522.png1§6§lFluid Solidifier5-1Use molds to make plates, sticks, bolts and many more item parts in the fluid solidifier.
+951gregtech/gt.blockmachines-522.png1Fluid Solidifier5-1Use molds to make plates, sticks, bolts and many more item parts in the fluid solidifier.
 
 Molds are != to Extruder shapes. You're gonna need 2 sets. If they're too expensive, just make the most important ones for now.ORpre8931gregtech/gt.metaitem.01-32611.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
 16gregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool

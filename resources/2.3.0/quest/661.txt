@@ -1,4 +1,4 @@
-661minecraft/bow-0.png0§5§lBow, Arrows and Quiver14-1Wow, your first handmade §oehm§r machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. 
+661minecraft/bow-0.png0Bow, Arrows and Quiver14-1Wow, your first handmade ehm machine made bow. You find out that you can put the bow in the mine and blade battlegears slots. Now it's time to make a quiver and maybe some arrows. 
 
 To place arrows in the quiver, put the quiver and the stack of arrows in a crafting grid. Make sure the Gameplay key Special is deconflicted. By default it is Z. When you have the bow selected, use Z to swap arrow slots in the quiver.
 

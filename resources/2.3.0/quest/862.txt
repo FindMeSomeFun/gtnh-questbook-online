@@ -1,8 +1,8 @@
-862TConstruct/ShortBow-0-57.png0§2§lYour First Bow14-1Since vanilla bows are only craftable in the assembling machine and mobs don't drop them very often you should make a Tinkers bow.
+862TConstruct/ShortBow-0-57.png0Your First Bow14-1Since vanilla bows are only craftable in the assembling machine and mobs don't drop them very often you should make a Tinkers bow.
 
 Wood would be the best material for now. Craft the bow limbs out of wood and the bow string out of strings. The arrow that has the most durability is bone, so craft the stick out of bone. It is much lighter but less durable than a regular arrow. Use a flint tip to make it repairable with flint.
 
-§4You can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemminecraft/bone-0.pngBone
+You can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemminecraft/bone-0.pngBone
 10TConstruct/blankPattern-0.pngBlank Pattern
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

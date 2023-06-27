@@ -1,4 +1,4 @@
-561Railcraft/machine.beta-6.png0§6§lLiquid-Fuelled Firebox17-1Cresosote oil into steam! After you make your first steel you are able to craft a liquid fueled firebox.
+561Railcraft/machine.beta-6.png0Liquid-Fuelled Firebox17-1Cresosote oil into steam! After you make your first steel you are able to craft a liquid fueled firebox.
 
 Diesel, ethanol, creosote and bio diesel all work well here. This will also require a boiler tank - see the quests linked below.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsItemgregtech/gt.metaitem.01-30712.pngCreosote Cell
 16Choicegregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C

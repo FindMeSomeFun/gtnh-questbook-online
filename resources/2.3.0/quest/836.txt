@@ -1,4 +1,4 @@
-836gregtech/gt.metaitem.03-32190.png1§5§lGallium Arsenide Crystal4-1The diode requires gallium arsenide, and you may be wondering how to get gallium or arsenic this early in the game.
+836gregtech/gt.metaitem.03-32190.png1Gallium Arsenide Crystal4-1The diode requires gallium arsenide, and you may be wondering how to get gallium or arsenic this early in the game.
 
 Sphalerite and zinc are the primary sources of gallium at this tier.
 

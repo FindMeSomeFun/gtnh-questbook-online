@@ -1,4 +1,4 @@
-3038GalaxySpace/item.DysonSwarmParts-3.png0UHT Resistant Mesh19-1§o*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!§r
+3038GalaxySpace/item.DysonSwarmParts-3.png0UHT Resistant Mesh19-1*Slaps UHT Resistant Mesh* This bad boy can withstand so much heat!
 
 You should probably automate this if you want to build and use the Dyson Swarm multiblock.ANDpre26691gregtech/gt.metaitem.01-11129.pngrewardsChoiceenhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV);You feel that a bit more "Fortune" might be a good idea...
 1GalaxySpace/item.DysonSwarmParts-3.pngUltra High Temperature Resistant Mesh

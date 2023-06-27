@@ -1,6 +1,6 @@
-745gregtech/gt.metaitem.01-30726.png1§5§lGlue4-1If you centrifuge sticky resin, you get glue. Glue is very useful in the creation of good circuit boards.
+745gregtech/gt.metaitem.01-30726.png1Glue4-1If you centrifuge sticky resin, you get glue. Glue is very useful in the creation of good circuit boards.
 
-§3Note that this is GT glue, not TiC glue.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsChoiceIC2/itemHarz-0.pngSticky Resin
+Note that this is GT glue, not TiC glue.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsChoiceIC2/itemHarz-0.pngSticky Resin
 16IC2/itemCellEmpty-0.pngEmpty Cell
 8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"

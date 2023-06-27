@@ -1,4 +1,4 @@
-2917gregtech/gt.blockmachines-553.png1§9§lBetter Magnetic Rods6-1You don't need them this tier, but for EV motors, you're going to need Magnetic Neodymium Rods, so make sure to make this before you start EV.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-23067.pngNeodymium Rod;Nd
+2917gregtech/gt.blockmachines-553.png1Better Magnetic Rods6-1You don't need them this tier, but for EV motors, you're going to need Magnetic Neodymium Rods, so make sure to make this before you start EV.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsItemgregtech/gt.metaitem.01-23067.pngNeodymium Rod;Nd
 4Itemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalgregtech/gt.blockmachines-553.pngAdvanced Polarizer II;Bipolarising your Magnets;Voltage IN: 512 (HV);Capacity: 32,768 EU

@@ -1,8 +1,8 @@
-1411gregtech/gt.metaitem.01-2241.png0§9§lSome Rare High Tier Metals6-1Platinum, Palladium, Iridium and Osmium can be extracted with a chemical reaction from Chalcopyrite and Pentlandite using sulfuric acid. You don't have the technology to process them properly right now but later on you need large amounts of them.
+1411gregtech/gt.metaitem.01-2241.png0Some Rare High Tier Metals6-1Platinum, Palladium, Iridium and Osmium can be extracted with a chemical reaction from Chalcopyrite and Pentlandite using sulfuric acid. You don't have the technology to process them properly right now but later on you need large amounts of them.
 
 Note that this is not the proper method to get rare metals. This means none of them are pure, and cannot be utilized without the platline method, aside from EBF-ing platinum. Proper Platinum processing is EV, but you'll have to wait until IV to use the rest. Collecting a lot of it now (especially using this method) might not be a great idea depending on how long that will be.
 
-§3A Chemical Bath also extracts Platinum from Nickel Ore if you use Mercury. Time to head back to the Twilight Forest!ANDpre8511gregtech/gt.metaitem.01-30653.png8541gregtech/gt.metaitem.01-30659.pngrewardsChoicegregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+A Chemical Bath also extracts Platinum from Nickel Ore if you use Mercury. Time to head back to the Twilight Forest!ANDpre8511gregtech/gt.metaitem.01-30653.png8541gregtech/gt.metaitem.01-30659.pngrewardsChoicegregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
 16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1gregtech/gt.metaitem.01-6855.pngPurified Chalcopyrite Ore;CuFeS\u2082
 64Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"

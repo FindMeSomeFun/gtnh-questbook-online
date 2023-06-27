@@ -1,4 +1,4 @@
-792gregtech/gt.metaitem.03-32033.png1§6§lSilicon Wafer5-1To create some silicon wafers, put the monocrystalline silicon boule in a cutting machine. It would be best to make the MV version because you'll need it soon for ILCs, RAM, and other chips.
+792gregtech/gt.metaitem.03-32033.png1Silicon Wafer5-1To create some silicon wafers, put the monocrystalline silicon boule in a cutting machine. It would be best to make the MV version because you'll need it soon for ILCs, RAM, and other chips.
 
 You can also use wafers to make diodes more efficiently if you have polyethylene as well.ANDpre7821gregtech/gt.metaitem.03-32030.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
 4gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al

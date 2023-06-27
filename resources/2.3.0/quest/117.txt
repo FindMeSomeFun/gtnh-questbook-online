@@ -1,6 +1,6 @@
-117ExtraUtilities/golden_lasso-0.png0§5§lGotta Catch 'em All4-1Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.
+117ExtraUtilities/golden_lasso-0.png0Gotta Catch 'em All4-1Sure, you can use wheat/potatoes/carrots to make animals follow you back to your base, but that can be tedious. A golden lasso is a proper solution for animal transportation.
 
-You can use it for §oany§r passive mob, like for getting villagers back to base, or a horse across a river.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You can use it for any passive mob, like for getting villagers back to base, or a horse across a river.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalExtraUtilities/golden_lasso-0.pngGolden Lasso

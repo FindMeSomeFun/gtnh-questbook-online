@@ -1,6 +1,6 @@
 2364HardcoreEnderExpansion/transference_gem-0.png0Transference Gem30-1The Transference Gem is used to teleport to a marked location.
 
-The Transference Gem uses Energy and can be charged in an Energy Extraction Table.§3 (?)§r Shift+right-clicking on a block with a Transference Gem in hand will link the gem to that block. 
+The Transference Gem uses Energy and can be charged in an Energy Extraction Table. (?) Shift+right-clicking on a block with a Transference Gem in hand will link the gem to that block. 
 The state of the gem itself will switch to "Linked", as seen in its tooltip. 
 After linking, the player can right-click with a Transference Gem in hand to teleport to the linked block, using some of the Energy stored in the gem.
 

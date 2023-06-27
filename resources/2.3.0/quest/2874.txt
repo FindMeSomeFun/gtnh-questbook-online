@@ -1,4 +1,4 @@
-2874dreamcraft/item.CoinChunkloaderTierI-0.png0§1§lLoading the Chunks0-1In this, like many packs, you'll want to have things in your base keep running while you're off exploring. §3(Though admittedly once you reach midgame you'll spend almost no time off-base, you'll still want to make sure everything is still chunkloaded just in case to prevent machine explosions, especially for multiblocks)§r
+2874dreamcraft/item.CoinChunkloaderTierI-0.png0Loading the Chunks0-1In this, like many packs, you'll want to have things in your base keep running while you're off exploring. (Though admittedly once you reach midgame you'll spend almost no time off-base, you'll still want to make sure everything is still chunkloaded just in case to prevent machine explosions, especially for multiblocks)
 
 In order to have things keep running, you need to have the chunks loaded. You can do this in a few ways.
 

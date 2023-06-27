@@ -1,4 +1,4 @@
-220openmodularturrets/chamberTierFive-0.png0§b§lProtect Your Base: Tier 514-1Tough materials, for tough weapons. Railguns, and lasers, and... stuff. I assume you want a lot of those soon.ANDpre2190openmodularturrets/fenceTierFive-0.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+220openmodularturrets/chamberTierFive-0.png0Protect Your Base: Tier 514-1Tough materials, for tough weapons. Railguns, and lasers, and... stuff. I assume you want a lot of those soon.ANDpre2190openmodularturrets/fenceTierFive-0.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalopenmodularturrets/chamberTierFive-0.pngChamber (Tier 5)
 2openmodularturrets/barrelTierFive-0.pngBarrel (Tier 5)

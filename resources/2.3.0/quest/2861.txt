@@ -1,4 +1,4 @@
-2861gregtech/gt.blockmachines-441.png0§5§lPrison Gangs are Obsolete4-1Want lots of cobble, stone, or obsidian? This is the machine for you!
+2861gregtech/gt.blockmachines-441.png0Prison Gangs are Obsolete4-1Want lots of cobble, stone, or obsidian? This is the machine for you!
 
 Cobble: Water and lava on 2 of the sides.
 Stone: Water on a side, lava on top.
@@ -6,7 +6,7 @@ Obsidian: Either of the above, and redstone in the machine.
 
 You of course need to power it. If you don't want to spend power on cobble, do it the ExU way with the WIU.
 
-§3You need to toggle the ghost circuit to circuit 1 to get obsidian.
+You need to toggle the ghost circuit to circuit 1 to get obsidian.
 ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemminecraft/water_bucket-0.pngWater Bucket
 1minecraft/lava_bucket-0.pngLava Bucket;Burn Time: 20000;You need Gloves for it?
 1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
