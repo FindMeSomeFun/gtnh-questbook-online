@@ -129,20 +129,17 @@ function populateElement(text, eId) {
 			}
 			element.innerHTML += elementString + '" qid="' + id + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><img class="openQuest max" src="./resources/image/' + icon + '" alt="No Image"></img></div>';
 		}
+		drawPreLines[id] = pre;
 		var dl =  window.drawLines;
 		var dpl = window.drawPreLines;
-		console.log('dl: ', dl);
-		console.log('dpl: ', dpl);
 		var j = 0;
 		for (var key in dpl) {
 			for (var i in dpl[key]) {
 				if (dpl[key][i] in dl) {
 					j++;
 					if (dl[key][0] == 1 && dl[dpl[key][i]][0] == 1) {
-						console.log(j + ': dl[', dpl[key][i], '] -> ', dl[dpl[key][i]], ' RED');
 						drawLine(ctx, dl[key][1], dl[key][2], dl[dpl[key][i]][1], dl[dpl[key][i]][2], 'red', 5);
 					} else {
-						console.log(j + ': dl[', dpl[key][i], '] -> ', dl[dpl[key][i]], ' GREEN');
 						drawLine(ctx, dl[key][1], dl[key][2], dl[dpl[key][i]][1], dl[dpl[key][i]][2], 'green', 5);
 					}
 				}
