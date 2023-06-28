@@ -81,7 +81,7 @@ function populateElement(text, eId) {
 	} else if (eId == 'questLines') {
 		var j = 0;
 		for (var i = 0; i < data.length; i++) {
-			element.innerHTML += '<div class="questLine" qlid="' + j + '"><img src="./resources/image/' + data[i++] + '" alt="No Image"><span> ' + data[i] + '</span></div>';
+			element.innerHTML += '<div class="questLine" qlid="' + j + '"><img src="./resources/image/' + data[i++] + '" alt="No Image"><span> Id: ' + j + ' - ' + data[i] + '</span></div>';
 			window.questLines[j] = data[i];
 			j++;
 		}
