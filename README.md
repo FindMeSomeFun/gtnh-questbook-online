@@ -3,7 +3,7 @@ GregTech New Horizons Questbook Wiki
 
 Page organization:
 1. Menu part holding: Version + Questline Menu + Theme.
-2. Selected Questline Description + Tree. Border color meaning: Green = optional, Red = main
+2. Selected Questline Description + Tree. Border: Green = optional, Red = main, Double = selected.
 3. Quest Info placeholder where Quest selected from Questline Tree is shown + Auto-Scroll to it.
 4. Pre Quest Info placeholder where Quest selected from Pre-Requisites is shown + Auto-Scroll to it.
 5. Pinned Quests placeholder where Pinned Quest are listed - no Auto-Scroll here.
