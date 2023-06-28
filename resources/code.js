@@ -93,8 +93,8 @@ function populateElement(text, eId) {
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
-		canvas.width = data[1];
-		canvas.height = data[2];
+		window.canvas.width = data[1];
+		window.canvas.height = data[2];
 		element.innerHTML = ""
 		for (var i = 4; i < data.length; i++) {
 			var id = +data[i++];
