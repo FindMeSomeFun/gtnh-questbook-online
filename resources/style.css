@@ -175,11 +175,13 @@ input[type=checkbox]:checked + label {
 .quest-main {
 	border: 4px solid red;
 	border-radius: 10px;
+	background-color: #aaa;
 }
 
 .quest-optional {
 	border: 4px solid green;
 	border-radius: 10px;
+	background-color: #aaa;
 }
 
 .item {
@@ -210,6 +212,7 @@ input[type=checkbox]:checked + label {
 
 #canvas {
 	float: left;
+	
 }
 
 .questInfo {
@@ -242,11 +245,23 @@ input[type=checkbox]:checked + label {
 	margin: 0px 10px;
 }
 
+.tasks > p {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.tasks > div > p {
+	margin: 0px;
+}
+
+.tasks > div > div {
+	margin: 5px 0px;
+}
+
 .tasks > div > div > div {
 	position: relative;
 	display: inline-block;
 	vertical-align: top;
-	padding: 5px;
 }
 
 .title {
@@ -260,6 +275,7 @@ input[type=checkbox]:checked + label {
 
 .text {
 	white-space: pre-wrap;
+	padding-left: 5px;
 }
 
 .btn {
