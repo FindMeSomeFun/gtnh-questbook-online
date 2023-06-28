@@ -81,7 +81,7 @@ function populateElement(text, eId) {
 	} else if (eId == 'questLines') {
 		var j = 0;
 		for (var i = 0; i < data.length; i++) {
-			element.innerHTML += '<div class="questLine" qlid="' + j + '"><img src="./resources/image/' + data[i++] + '" alt="No Image"><span> Id: ' + j + ' - ' + data[i] + '</span></div>';
+			element.innerHTML += '<div class="questLine" qlid="' + j + '"><img src="./resources/image/' + data[i++] + '" alt="No Image"><span> [' + j + '] ' + data[i] + '</span></div>';
 			window.questLines[j] = data[i];
 			j++;
 		}
@@ -172,7 +172,7 @@ function loadQuestData(data, eId) {
 	} else {
 		elementString += ' quest-optional';
 	}
-	elementString += '"><img src="./resources/image/' + data[1] + '" alt="No Image"></div><div class="inline top"><div class="title top">Id: ' + data[0] + ' - ' + data[3] + '</div><div class="sub-title">QuestLine: ' + window.questLines[data[4]] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>'
+	elementString += '"><img src="./resources/image/' + data[1] + '" alt="No Image"></div><div class="inline top"><div class="title top">[' + data[0] + '] ' + data[3] + '</div><div class="sub-title">QuestLine: ' + window.questLines[data[4]] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>'
 	if (+data[5] == -1) {
 		elementString += 'None';
 	} else if (+data[5] < 20) {
