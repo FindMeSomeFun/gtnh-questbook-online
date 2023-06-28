@@ -1,4 +1,4 @@
-1146gregtech/gt.blockmachines-5123.png1GT6-Styled Pipes1-1Maybe you are wondering why the new pipes don't auto-connect anymore? This was changed to make the pipes smarter. You can now use a wrench to connect only the pipes you want. You don't need a plate or a foil to prevent pipes from connecting anymore.
+1146gregtech/gt.blockmachines-5123.png1GT6-Styled Pipes2,1-1Maybe you are wondering why the new pipes don't auto-connect anymore? This was changed to make the pipes smarter. You can now use a wrench to connect only the pipes you want. You don't need a plate or a foil to prevent pipes from connecting anymore.
 
 Pipes transferring anything hotter than a certain amount (like steam) will cause damage to a player touching them. You'll want to cover hot pipes to prevent getting hurt if you want to walk over them. Also, if the heat level is higher than the pipe's heat capacity, it will melt.
 

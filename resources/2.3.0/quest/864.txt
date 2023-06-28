@@ -1,4 +1,4 @@
-864TConstruct/ThrowingKnife-0-113.png0Your First Flint Throwing Knife14-1Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemminecraft/flint-0.pngFlint
+864TConstruct/ThrowingKnife-0-113.png0Your First Flint Throwing Knife2,14-1Is the bone bow too expensive for your taste? Then make a flint throwing knife instead. You need flint and a stick to get 12 knives. The durability and the attack damage are very low but it still helps with killing mobs from a safe distance.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemminecraft/flint-0.pngFlint
 10TConstruct/blankPattern-0.pngBlank Pattern
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

@@ -1,4 +1,4 @@
-195IC2/blockReactorChamber-0.png0Increasing the Capacity19-1To unleash the full potential of your reactor, you have to attach six reactor chambers to it.ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+195IC2/blockReactorChamber-0.png0Increasing the Capacity7,19-1To unleash the full potential of your reactor, you have to attach six reactor chambers to it.ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalIC2/blockReactorChamber-0.pngReactor Chamber
 6

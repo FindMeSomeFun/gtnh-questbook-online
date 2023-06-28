@@ -1,4 +1,4 @@
-933gregtech/gt.metaitem.01-32750.png0Power of the Sun19-1Now it's time to invest in some renewable energy. Let's start with solar panels. The basic one only gives 1 EU/t. Most GT machines can use them as covers, and receive power, but only so long as it can see the sun (the top). Be sure to put a glass layer above them in case it rains while you swap panels. You'll still want to keep rain off the sides of the machine hull too.
+933gregtech/gt.metaitem.01-32750.png0Power of the Sun5,19-1Now it's time to invest in some renewable energy. Let's start with solar panels. The basic one only gives 1 EU/t. Most GT machines can use them as covers, and receive power, but only so long as it can see the sun (the top). Be sure to put a glass layer above them in case it rains while you swap panels. You'll still want to keep rain off the sides of the machine hull too.
 
 The Aluminium Iron plate needs an MV Forming Press.ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
 16gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al

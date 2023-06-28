@@ -1,4 +1,4 @@
-1505minecraft/bookshelf-0.png1Not Enough Items - Now with Bookmarks!1-1More like too many items! Here are some tips for using NEI.
+1505minecraft/bookshelf-0.png1Not Enough Items - Now with Bookmarks!2,1-1More like too many items! Here are some tips for using NEI.
 
 When you have your inventory open, you can type the search terms in the text bar at the bottom. Make sure your GUI size is set correctly, or you won't be able to see it. Double-click the bar to highlight any matching items in your inventory or inventories you're looking at. Handy for searching for a specific ore, as they tend to look the same!
 

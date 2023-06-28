@@ -1,4 +1,4 @@
-3142gregtech/gt.blockmachines-12792.png0Faster Crops17-1Welcome to my ted talk, today we talk about the Extreme Industrial Greenhouse.
+3142gregtech/gt.blockmachines-12792.png0Faster Crops13,17-1Welcome to my ted talk, today we talk about the Extreme Industrial Greenhouse.
 It is the most advanced and LAG FREE crop farm that will allow you to supply the amount of tea you need.
 The machine starts at EV, but to farm IC2 crops you will need at least LuV power.
 To see the structure, place the controller on ground and use a structure hologram to build.

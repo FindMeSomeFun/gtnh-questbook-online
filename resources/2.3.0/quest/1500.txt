@@ -1,4 +1,4 @@
-1500questbook/ItemQuestBook-0.png0Better Questing?1-1Better Questing has a number of commands, I'll list the useful ones here so ya'll can stop asking on discord. Note that you need to have cheats enabled to use them.
+1500questbook/ItemQuestBook-0.png0Better Questing?0,1-1Better Questing has a number of commands, I'll list the useful ones here so ya'll can stop asking on discord. Note that you need to have cheats enabled to use them.
 
 If your world does not have cheats enabled, there's a workaround: On the ESC screen, open to LAN, then enable cheats. This makes pausing impossible, so consider reloading your world after. If you are using a personal server, you can do the command on the command line, without the /. You can also edit the level.dat file, and set 'allowCommands' to 1. Make sure to make a backup first, and use NBTExplorer or a similar program to do so.
 

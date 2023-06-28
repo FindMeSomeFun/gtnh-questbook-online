@@ -1,2 +1,2 @@
-3247minecraft/nether_star-0.png0Tool: Never completeqLine-1This quest should never be complete which is useful to hide templates and other things.ANDpre4050witchery/infinityegg-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+3247minecraft/nether_star-0.png0Tool: Never complete-1This quest should never be complete which is useful to hide templates and other things.ANDpre4050witchery/infinityegg-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
 1

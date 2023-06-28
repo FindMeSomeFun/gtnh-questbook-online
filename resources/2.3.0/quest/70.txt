@@ -1,4 +1,4 @@
-70gregtech/gt.blockmachines-1120.png1Steam-a-licious!19-1You've almost made it. One last crafting step is required in order to advance to Tier 1. Keep going!
+70gregtech/gt.blockmachines-1120.png1Steam-a-licious!3,19-1You've almost made it. One last crafting step is required in order to advance to Tier 1. Keep going!
 
 This Steam Turbine generates electricity from Steam. The power source you've been using is the same, but from this point on you will generate EU, and bring it to your machines via cables, instead of bringing the Steam directly to them. Luckily, electric machines don't need an exhaust port, and they are considerably more efficient than Bronze machines.
 

@@ -1,2 +1,2 @@
-452minecraft/lever-0.png0Trigger SingularityqLine-1Triggered by making a singularity.ANDpre3800ExtraUtilities/cobblestone_compressed-3.pngrewardstasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
+452minecraft/lever-0.png0Trigger Singularity-1Triggered by making a singularity.ANDpre3800ExtraUtilities/cobblestone_compressed-3.pngrewardstasksANDRetrievalappliedenergistics2/item.ItemMultiMaterial-47.pngSingularity
 1

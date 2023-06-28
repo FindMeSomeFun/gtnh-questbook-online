@@ -1,4 +1,4 @@
-3182gregtech/gt.blockmachines-12791.png0High Temperature Super Breeder23-1Have you heard of pebble reactors? There's a quest for the other one, the Thorium High Temperature Reactor, on the powergen side of this branch, but this is a diferent multiblock. 
+3182gregtech/gt.blockmachines-12791.png0High Temperature Super Breeder17,23-1Have you heard of pebble reactors? There's a quest for the other one, the Thorium High Temperature Reactor, on the powergen side of this branch, but this is a diferent multiblock. 
 
 It's called the High Temperature Gas-cooled Reactor (HTGR), and it uses fuel pebbles and consumes power. However, it doesn't really make a lot of power, and doesn't even match the EU/t of the other version, despite being much more expensive. The multiblock structure is basically the same, a huge reactor around 12x12x12 blocks in size, with 500+ casings made with Europium. What it doesn't make in power, it compensates in breeding, however.
 

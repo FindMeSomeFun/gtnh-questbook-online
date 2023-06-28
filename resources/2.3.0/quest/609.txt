@@ -1,4 +1,4 @@
-609gregtech/gt.metaitem.01-32500.png1Battery Alloy20-1Mixing antimony and lead in the alloy smelter will give you battery alloy. Combine it with tin cable and voila, there's your small battery hull.
+609gregtech/gt.metaitem.01-32500.png1Battery Alloy4,20-1Mixing antimony and lead in the alloy smelter will give you battery alloy. Combine it with tin cable and voila, there's your small battery hull.
 
 Small = LV, Medium = MV, Large = HV. It gets weirder after that.
 

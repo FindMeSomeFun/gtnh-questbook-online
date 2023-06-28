@@ -1,4 +1,4 @@
-3165universalsingularities/universal.draconicEvolution.singularity-0.png0UV Power Per Turbine23-1Once you progress enough in ZPM to make ZPM Dynamo Hatches, you can increase each turbine's output to 524,288 EU/t. At this number, you'll be a lot less limited by the turbine material, and it's possible to increase the total power output of one Fusion Reactor considerably. You can cover the total Helium Plasma output from one reactor with 3 Plasma Turbines, if you choose the right materials:
+3165universalsingularities/universal.draconicEvolution.singularity-0.png0UV Power Per Turbine19,23-1Once you progress enough in ZPM to make ZPM Dynamo Hatches, you can increase each turbine's output to 524,288 EU/t. At this number, you'll be a lot less limited by the turbine material, and it's possible to increase the total power output of one Fusion Reactor considerably. You can cover the total Helium Plasma output from one reactor with 3 Plasma Turbines, if you choose the right materials:
 
 Large High Durability Compound Steel 230% 202,860 EU/t
 Large Atomic Separation Catalyst 200% 399,672 EU/t

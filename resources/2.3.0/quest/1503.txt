@@ -1,4 +1,4 @@
-1503minecraft/fireworks-0.png1Nobody Wants an Explosion...1-1...right? So when building multiblocks, make sure you
+1503minecraft/fireworks-0.png1Nobody Wants an Explosion...17,1-1...right? So when building multiblocks, make sure you
 
 1. Don't cross chunk boundaries with the multiblock.
 

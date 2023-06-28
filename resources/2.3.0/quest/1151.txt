@@ -1,4 +1,4 @@
-1151TConstruct/Crossbow-0-38.png0Wooden Crossbow14-1Now you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
+1151TConstruct/Crossbow-0-38.png0Wooden Crossbow3,14-1Now you are able to make a better long range weapon - a crossbow. Use wood for the the crossbow limb and the body and use obsidian (Reinforced III) for the tough binding. Normal strings for the bowstrings would be enough for now.
 
 Assemble the bow yourself on your tool forge.
 

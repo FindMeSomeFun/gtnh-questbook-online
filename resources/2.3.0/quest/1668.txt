@@ -1,4 +1,4 @@
-1668gregtech/gt.metaitem.01-11372.png1HSSGqLine-1After you can make Tungsten Steel and may upgrade your Electric Blastfurnace with new Coils you are able to make HSS-G Ingots. This ingot becomes very important in LuV tier.
+1668gregtech/gt.metaitem.01-11372.png1HSSG-1After you can make Tungsten Steel and may upgrade your Electric Blastfurnace with new Coils you are able to make HSS-G Ingots. This ingot becomes very important in LuV tier.
 Hss-g is made out of tungstensteel, chrome, molydenum and vanadium dust.ANDpre16671gregtech/gt.metaitem.01-11324.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"

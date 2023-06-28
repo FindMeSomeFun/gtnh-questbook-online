@@ -1,4 +1,4 @@
-3273gregtech/gt.blockmachines-356.png0PCB Factory10-1All those boards made in a chemical reactor. It's time to stop that, there must be a more efficient way to make them. After a couple days of research I have found one, a factory designed to print out circuit boards.
+3273gregtech/gt.blockmachines-356.png0PCB Factory17,10-1All those boards made in a chemical reactor. It's time to stop that, there must be a more efficient way to make them. After a couple days of research I have found one, a factory designed to print out circuit boards.
 
 The PCB Factory is able to use a wide range of plastics to create circuit boards ready to be used. The printing mechanism overheats when it tries to overclock currently, so I will have to find a way to make that work later. Boards with neurons on them will also take a bit before they can be made, but it won't be hard to achieve.
 

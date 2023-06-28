@@ -1,4 +1,4 @@
-1416gregtech/gt.blockmachines-810.png1Mallard Rust Smelly18-1Or is it Alloy Blast Smelter? Well, that makes more sense. This multiblock creates the higher tier alloys needed for the more advanced GT++ multiblocks and your soldering needs. It directly smelts ingredients into liquids. You can even melt down metals like Tungsten faster too! Until you get better coils for your EBF at least.
+1416gregtech/gt.blockmachines-810.png1Mallard Rust Smelly8,18-1Or is it Alloy Blast Smelter? Well, that makes more sense. This multiblock creates the higher tier alloys needed for the more advanced GT++ multiblocks and your soldering needs. It directly smelts ingredients into liquids. You can even melt down metals like Tungsten faster too! Until you get better coils for your EBF at least.
 
 Can only have one energy hatch.
 

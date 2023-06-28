@@ -1,4 +1,4 @@
-3275IC2/upgradeModule-0.png0Liquid Cooling Tower12-1I have started to hit the limit of the multiblock without overclocking it, so I decided to give it a liquid cooler to cool down the mechanism. This will allow it to overclock like every other multi with 2xSpeed 4xEU/t.
+3275IC2/upgradeModule-0.png0Liquid Cooling Tower17,12-1I have started to hit the limit of the multiblock without overclocking it, so I decided to give it a liquid cooler to cool down the mechanism. This will allow it to overclock like every other multi with 2xSpeed 4xEU/t.
 
 I will need to provide some distilled water to its hatch to avoid blockage in the pipes.
 

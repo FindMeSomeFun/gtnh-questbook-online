@@ -1,4 +1,4 @@
-1464GalacticraftCore/tile.arclamp-0.png0Arc Lamp24-1The Arc Lamp is a very bright lamp. It is directional - meaning the light it casts is brighter in the direction it is facing. Its facing can be rotated using a standard Wrench.
+1464GalacticraftCore/tile.arclamp-0.png0Arc Lamp15,24-1The Arc Lamp is a very bright lamp. It is directional - meaning the light it casts is brighter in the direction it is facing. Its facing can be rotated using a standard Wrench.
 
 Including the Arc Lamp the brightness of blocks which are close to light sources is:
 

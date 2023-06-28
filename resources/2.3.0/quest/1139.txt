@@ -1,4 +1,4 @@
-1139IC2/blockKineticGenerator-4.png0Kinetic Water Power HV19-1The Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.
+1139IC2/blockKineticGenerator-4.png0Kinetic Water Power HV6,19-1The Kinetic Water Generator allows Kinetic Units to be produced via the movement of water in river and ocean biomes. As with the Kinetic Wind Generator, it requires either Gearbox Rotor. Search NEI for appropriate options.
 
 If the Kinetic Water Generator's Rotor isn't entirely submerged in water, it will alert you there is "no room for the rotor". If the Kinetic Water Generator isn't placed in a river, ocean or deep ocean biome, it will alert you it "must be placed in a river or ocean biome". Check the Game Mechanics spreadsheet on Discord for a list of biomes and their tags.
 

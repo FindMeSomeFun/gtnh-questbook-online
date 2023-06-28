@@ -1,4 +1,4 @@
-3192eternalsingularity/combined_singularity-1.png0Infinite Turbines23-1Some turbine materials are not available for you, either because you don't have the material itself or because the Dynamo Hatch in the turbine cannot handle the power output from plasma. It will be a different story in UHV, when you can once again quadruple the max output of each turbine, and also unlock Infinity as an option for turbines.
+3192eternalsingularity/combined_singularity-1.png0Infinite Turbines19,23-1Some turbine materials are not available for you, either because you don't have the material itself or because the Dynamo Hatch in the turbine cannot handle the power output from plasma. It will be a different story in UHV, when you can once again quadruple the max output of each turbine, and also unlock Infinity as an option for turbines.
 
 Large Infinity 270% 4,354,560 EU/t
 Large Infinity Catalyst 200% 806,400 EU/t

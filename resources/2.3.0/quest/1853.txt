@@ -1,4 +1,4 @@
-1853minecraft/book-0.png0Moron's Manual for Effective EBFing1-1Welcome to the latest Moron's Manual, Effective EBFing! This manual covers common problems encountered when using the GregTech 1000 Electric Blast Furnace.
+1853minecraft/book-0.png0Moron's Manual for Effective EBFing17,1-1Welcome to the latest Moron's Manual, Effective EBFing! This manual covers common problems encountered when using the GregTech 1000 Electric Blast Furnace.
 
 Setup
 When setting up your EBF, make sure to place it a few chunks away from things pollution affects, like farmland. Pollution is nobody's friend!

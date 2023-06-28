@@ -132,6 +132,8 @@ function populateElement(text, eId) {
 		drawPreLines[id] = pre;
 		var dl =  window.drawLines;
 		var dpl = window.drawPreLines;
+		console.log('dl: ', dl);
+		console.log('dpl: ', dpl);
 		var j = 0;
 		for (var key in dpl) {
 			for (var i in dpl[key]) {

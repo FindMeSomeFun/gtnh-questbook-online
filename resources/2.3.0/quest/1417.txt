@@ -1,4 +1,4 @@
-1417dreamcraft/dreamcraft_Pollution-0.png0Cough Cough - Something Needs to Be Done About the Smell18-1Birds falling out of the sky, fish dead and floating belly up in the rivers, acid rain melting the ground...Time to start picking up the trash and cleaning up the air. Small black steel turbines should be fine for now. You'll need two amps of steady power to keep the scrubber working.
+1417dreamcraft/dreamcraft_Pollution-0.png0Cough Cough - Something Needs to Be Done About the Smell5,18-1Birds falling out of the sky, fish dead and floating belly up in the rivers, acid rain melting the ground...Time to start picking up the trash and cleaning up the air. Small black steel turbines should be fine for now. You'll need two amps of steady power to keep the scrubber working.
 
 The detector's setting can be changed by clicking on the +/- texture with a screwdriver. Also, in general, better (and larger) turbines work better at cleaning up pollution. The code is too complex to fully explain here, but that's basically it. More EU turbine = more pollution cleaning turbine.
 

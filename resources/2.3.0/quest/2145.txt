@@ -1,4 +1,4 @@
-2145Thaumcraft/ArcaneDoorKey-0.png0E_TOO_MANY_KEYS1-1ERROR: Too many keys to fit a 104 key keyboard.
+2145Thaumcraft/ArcaneDoorKey-0.png0E_TOO_MANY_KEYS0,1-1ERROR: Too many keys to fit a 104 key keyboard.
 
 There are lots of keybinds in this modpack, to avoid conflicts most of them are unbinded by default and only those available from the start of the game are binded.
 Here is a list of what some of them do :

@@ -1,4 +1,4 @@
-3279gregtech/gt.metaitem.03-4010.png0Nano Forge Tier 111-1There must a be a way to make a nano scale robots to work in a machine. Carbon ones can be made in an assembly line, but very inefficiently. There must be a better way.
+3279gregtech/gt.metaitem.03-4010.png0Nano Forge Tier 117,11-1There must a be a way to make a nano scale robots to work in a machine. Carbon ones can be made in an assembly line, but very inefficiently. There must be a better way.
 
 What about a Nano Forge, able to cut up blocks into nano-thin sheets and then creating the first nanite, which helps create thousands of them in mere seconds.
 

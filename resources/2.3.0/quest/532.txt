@@ -1,4 +1,4 @@
-532gregtech/gt.blockmachines-1110.png0Exploding Fluids For Power19-1The Combustion Generator produces EU from several fluids. Some are more popular than others, but the Oil processing line has a different combustion fluid in every tier from LV to EV, and all of them are burned in these generators.
+532gregtech/gt.blockmachines-1110.png0Exploding Fluids For Power4,19-1The Combustion Generator produces EU from several fluids. Some are more popular than others, but the Oil processing line has a different combustion fluid in every tier from LV to EV, and all of them are burned in these generators.
 
 To start, LV is the tier of Light Fuel. It is worth much more than the Oil itself for generating power, so you should distill and dessulfurize the Oil to get clean Light Fuel and use it for power. It's a great way to run your base, and can be upgraded further in the next tiers. Check the "Working with Oil" tab for more information, once you've made a Pump and found some Oil.
 

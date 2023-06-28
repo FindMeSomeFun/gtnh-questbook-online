@@ -1,4 +1,4 @@
-1138IC2/blockKineticGenerator-0.png0Kinetic Wind Power HV19-1The Kinetic Wind Generator generates energy from wind power which varies randomly, although certain factors can change this.
+1138IC2/blockKineticGenerator-0.png0Kinetic Wind Power HV6,19-1The Kinetic Wind Generator generates energy from wind power which varies randomly, although certain factors can change this.
 
 Unlike the Windmill, the Kinetic Wind Generator will require maintenance in the form of Rotors. These are needed to run the Kinetic Wind Generator.
 Once a Rotor is placed inside the GUI, the block is given sufficient space, and the current wind level is adequate for the current rotor, the Kinetic Wind Generator will begin to generate Kinetic Energy. 

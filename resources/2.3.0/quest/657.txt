@@ -1,4 +1,4 @@
-657battlegear2/spear.stone-0.png0Stone spear14-1Upgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.
+657battlegear2/spear.stone-0.png0Stone spear2,14-1Upgrade your wooden spear with a stone arrowhead and iron screws to a stone spear.
 This spear has better durability than the wooden one.ANDpre361gregtech/gt.metatool.01-16.png4500battlegear2/spear.wood-0.pngrewardsChoiceminecraft/spawn_egg-51.pngSpawn Skeleton
 1minecraft/spawn_egg-50.pngSpawn Creeper
 1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book

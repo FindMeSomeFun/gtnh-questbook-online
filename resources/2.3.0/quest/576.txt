@@ -1,4 +1,4 @@
-576Forestry/factory2-2.png0Working Table 2.016-1A manual crafting table which remembers the last nine used recipes. Left click one of the recipes shown in the right-hand side to automatically fill in the crafting grid. Right-click to lock a memorized recipe and prevent a newer recipe from bumping it off.
+576Forestry/factory2-2.png0Working Table 2.03,16-1A manual crafting table which remembers the last nine used recipes. Left click one of the recipes shown in the right-hand side to automatically fill in the crafting grid. Right-click to lock a memorized recipe and prevent a newer recipe from bumping it off.
 
 Resources need to go into the internal inventory. The crafting matrix is only a visual representation.
 

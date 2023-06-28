@@ -1,4 +1,4 @@
-1154TConstruct/BoltAmmo-0-705.png0Magnalium Crossbow Bolts14-1Magnalium bolts are much better than your old wooden bolts.
+1154TConstruct/BoltAmmo-0-705.png0Magnalium Crossbow Bolts4,14-1Magnalium bolts are much better than your old wooden bolts.
 
 You can use nether quartz on the bolts to make them even better. This requires a free modifier slot.
 

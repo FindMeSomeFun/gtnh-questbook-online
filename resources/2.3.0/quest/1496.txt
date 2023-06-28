@@ -1,4 +1,4 @@
-1496minecraft/iron_ore-0.png1How the Heck Do I Find Ores?1-1GregTech ore generation is based on veins. Veins are centered on orecenters, based on the chunk number. Look at upper left of the screen to find the chunk number. Those infos are displayed by InGame Info XML mod. It has some useful info, but for now you need to see chunk info like "Chunk X: 3 Z: -2".
+1496minecraft/iron_ore-0.png1How the Heck Do I Find Ores?2,1-1GregTech ore generation is based on veins. Veins are centered on orecenters, based on the chunk number. Look at upper left of the screen to find the chunk number. Those infos are displayed by InGame Info XML mod. It has some useful info, but for now you need to see chunk info like "Chunk X: 3 Z: -2".
 
 The 3,-2 is the chunk's address. Ignore the negative sign.  Now, the orecenters are located at 3N+1 chunks.  So, 4,7 is an orecenter. 10,16. -22,19.  Etc. 
 Protip: to find out if a number is divisible by 3, add the digits and see if the sum is divisible by 3.  So 86 = 8+6 = 14. So you need to go down 1 chunk or up 2 chunks so that you are on a 3N+1 chunk.

@@ -1,4 +1,4 @@
-3280gregtech/gt.metaitem.03-4129.png0Nano Forge Tier 212-1Carbon Nanites are good first worker, but they don't have much in the way of working with more complex systems as they have a very basic nanite network. So a new more advanced nanite will be needed to produce complex nanites.
+3280gregtech/gt.metaitem.03-4129.png0Nano Forge Tier 217,12-1Carbon Nanites are good first worker, but they don't have much in the way of working with more complex systems as they have a very basic nanite network. So a new more advanced nanite will be needed to produce complex nanites.
 
 The neutronium nanite is an in-between of the two tiers able to produce tier 2 nanites, which have other uses.
 

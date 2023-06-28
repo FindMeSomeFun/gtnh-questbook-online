@@ -1,4 +1,4 @@
-1899gregtech/gt.Double_Thoriumcell-0.png0Double the Fun19-1Need even more power? Why not combine rods? Produces more power (NOT double, it varies per rod type) and more heat (again NOT double) but only uses up one slot. You need more complex designs to handle them, but you were ready for that, right?
+1899gregtech/gt.Double_Thoriumcell-0.png0Double the Fun7,19-1Need even more power? Why not combine rods? Produces more power (NOT double, it varies per rod type) and more heat (again NOT double) but only uses up one slot. You need more complex designs to handle them, but you were ready for that, right?
 
 So how about doubling your doubling to double your double (4x)? Quad rods put out even more power and heat, expect all the other rods to work similarly (for the most part).
 

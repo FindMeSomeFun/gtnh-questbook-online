@@ -1,4 +1,4 @@
-2764gregtech/gt.blockmachines-31041.png0A Steam Tier Multi? Unpossible!18-1It's a larger version of the steam macerator. It only works 8 at a time, but is faster.
+2764gregtech/gt.blockmachines-31041.png0A Steam Tier Multi? Unpossible!3,18-1It's a larger version of the steam macerator. It only works 8 at a time, but is faster.
 
 Note that this multi requires Very Specific I/O blocks, don't mess it up.
 
