@@ -342,6 +342,7 @@ window.onclick = function(event) {
 			}
 		}
 		loadQuestLineTree(event.target.getAttribute('qlid'));
+		populateUrl();
 	} else if (event.target.matches('.version')) {
 		//window.version = event.target.children[1].textContent;
 		var dropdowns = document.getElementsByClassName('dropdown-content');
@@ -352,6 +353,7 @@ window.onclick = function(event) {
 			}
 		}
 		alert('change version: ' + event.target.children[1].textContent);
+		populateUrl();
 	} else if (event.target.matches('.openQuest')) {
 		var elems = document.getElementsByClassName('selected')
 		for (var i = 0; i < elems.length; i++) {
@@ -359,9 +361,11 @@ window.onclick = function(event) {
 		}
 		event.target.parentNode.classList.toggle('selected');
 		loadQuest(event.target.previousElementSibling.value, 'questInfo');
+		populateUrl();
 		document.getElementById('questInfoView').scrollIntoView();
 	} else if (event.target.matches('.openPre')) {
 		loadQuest(event.target.previousElementSibling.value, 'preQuestInfo');
+		populateUrl();
 		document.getElementById('preInfoView').scrollIntoView();
 	} else if (event.target.matches('.hide')) {
 		var elem = event.target.parentNode.parentNode.nextElementSibling;
@@ -376,6 +380,7 @@ window.onclick = function(event) {
 		var elem = event.target.parentNode.parentNode.parentNode;
 		window.pinnedQuests.delete(elem.getAttribute('qid'));
 		elem.remove();
+		populateUrl();
 	} else if (event.target.matches('.pin')) {
 		var elem = event.target.parentNode.parentNode.parentNode;
 		var qid = elem.getAttribute('qid');
@@ -384,8 +389,8 @@ window.onclick = function(event) {
 			var copy = elem.innerHTML;
 			document.getElementById('main').innerHTML += '<div class="questInfo pinned" qid="' + qid + '">' + copy.replace('pin">Pin', 'remove">Remove') + '</div>';
 		}
+		populateUrl();
 	}
-	populateUrl();
 }
 
 function switchTheme() {
