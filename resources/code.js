@@ -171,7 +171,18 @@ function loadQuestData(data, eId) {
 	} else {
 		elementString += ' quest-optional';
 	}
-	elementString += '"><img src="./resources/image/' + data[1] + '" alt="No Image"></div><div class="inline top"><div class="title top">[' + data[0] + '] ' + data[3] + '</div><div class="sub-title">QuestLine: ' + window.questLines[data[4]] + '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>'
+	elementString += '"><img src="./resources/image/' + data[1] + '" alt="No Image"></div><div class="inline top"><div class="title top">[' + data[0] + '] ' + data[3] + '</div><div class="sub-title">QuestLines: '
+	alert(data[4]);
+	var qls = data[4].split(',');
+	if (qls.length == 1) {
+		elementString += window.questLines[qls[0]];
+	} else {
+		elementString += window.questLines[qls[0]];
+		for (var j = 1; j < qls.length; j++) {
+			elementString += '; ' + window.questLines[qls[j]];
+		}
+	}
+	elementString += '</div></div><div class="inline float-right"><div class="inline top">Repeat:<br \>'
 	if (+data[5] == -1) {
 		elementString += 'None';
 	} else if (+data[5] < 20) {
@@ -191,7 +202,7 @@ function loadQuestData(data, eId) {
 		elementString += '<div class="inline top btn pin">Pin</div></div></div>';
 		
 	}
-	//   0-id 1-icon, 2-main, 3-name, 4-questLine, 5-repeatTime, 6-desc, 7-questLogic, 8-pre[[id, main, icon]], 9-rewards[type, [[icon, name, number]]], 10-tasks, 11-taskLogic [type, [[icon, name, number]]]
+	//   0-id 1-icon, 2-main, 3-name, 4-questLine[], 5-repeatTime, 6-desc, 7-questLogic, 8-pre[[id, main, icon]], 9-rewards[type, [[icon, name, number]]], 10-tasks, 11-taskLogic [type, [[icon, name, number]]]
 	var i = 9;
 	elementString += '<div class="pad-top"><div class="half"><div><span>Pre-Requisites: ';
 	if (data[9] == 'rewards') {
