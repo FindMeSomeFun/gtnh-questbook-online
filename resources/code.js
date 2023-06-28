@@ -304,7 +304,7 @@ function loadQuest(questId, elemId) {
 
 function populateUrl() {
 	var url = '';
-	if (window.location.hostname = 'htmlpreview.github.io') {
+	if (window.location.hostname == 'htmlpreview.github.io') {
 		url = '?https://github.com/FindMeSomeFun/gtnh-questbook-wiki/main/index.html?version=' + window.version;
 	} else {
 		url = '?version=' + window.version;
@@ -322,7 +322,7 @@ function populateUrl() {
 		url += '&pinnedquests=' + Array.from(pinnedQuests.values()).join(",");;
 	}
 	var parts = window.location.href.split('?');
-	window.history.pushState(url, '', url);
+	window.history.pushState('', '', url);
 }
 
 /* Dropdown List with Images */
