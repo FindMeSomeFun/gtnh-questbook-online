@@ -60,7 +60,11 @@ body {
 }
 
 #versions > div:hover,
-#questLines > div:hover,
+#questLines > div:hover {
+	background-color: rgba(128, 128, 128, 0.4);
+	cursor: pointer;
+}
+
 .dropbtn:hover,
 .quest:hover,
 .questPre:hover,
@@ -68,7 +72,7 @@ body {
 .remove:hover,
 .pin:hover,
 label:hover {
-	background-color: rgba(128, 128, 128, 0.4);
+	background-color: #666;
 	cursor: pointer;
 }
 

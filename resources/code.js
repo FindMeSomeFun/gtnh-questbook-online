@@ -90,6 +90,10 @@ function populateElement(text, eId) {
 			document.getElementById('welcome').remove();
 		}
 		//   0-desc, 1-sizeX, 2-sizeY, 3-q[[id, main, icon, x, y, iconSize, pre[id]]]
+ 		var ctx = canvas.getContext("2d");
+		ctx.clearRect(0, 0, window.canvas.width, window.canvas.height);
+		window.drawLines = {}
+		window.drawPreLines = {}
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
@@ -103,13 +107,13 @@ function populateElement(text, eId) {
 			var x = +data[i++];
 			var y = +data[i++];
 			var iconSize = +data[i];
-			var half = iconSize / 2;
+			var half = iconSize / 2 + 4;
 			var pre = [main, x + half, y + half];
 			// drawLines{'id': main, centerX, centerY}
 			drawLines[id] = pre;
 			pre = []
 			for (i; i < data.length; i++) {
-				if (data[i] == 'q') {
+				if (data[i] == 'q' || i == data.length) {
 					// drawPreLines['id': pre[id]]
 					drawPreLines[id] = pre;
 					break;
@@ -123,31 +127,27 @@ function populateElement(text, eId) {
 			} else {
 				elementString += ' quest-optional';
 			}
-			element.innerHTML += elementString + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><input type="hidden" value="' + id + '" /><img class="openQuest max" src="./resources/image/' + icon + '" alt="No Image"></img></div>';
+			element.innerHTML += elementString + '" qid="' + id + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><img class="openQuest max" src="./resources/image/' + icon + '" alt="No Image"></img></div>';
 		}
-/* 		for (var key in window.drawLines) {
-			console.log('dl ', key, ' = ', window.drawLines[key]);
-		} */
-/* 		var ctx = canvas.getContext("2d");
 		var dl =  window.drawLines;
 		var dpl = window.drawPreLines;
-		console.log('dpl: ', dpl[0]);
-		console.log('dpl: ', dpl[0][0][0]);
-		console.log('dl: ', dl[0]);
-		console.log('dl: ', dl[0][0]);
-		console.log('dl: ', dl[0][0][1]);
-		console.log('dl-dpl: ', dl[198][0][1]);
-		 */
-/*   		for (var key in dpl) {
-			console.log('dpl: ', key, ': ', dpl[key]);
-			for (var id in dpl[key][0]) {
-				console.log('dl: ', dpl[key][0][id]);
-				//console.log('dl: ', dl['198']);//, ' x: ', dl[dpl[key][0][id]][0], ' y: ', dl[dpl[key][0][id]][1]);
+		console.log('dl: ', dl);
+		console.log('dpl: ', dpl);
+		var j = 0;
+		for (var key in dpl) {
+			for (var i in dpl[key]) {
+				if (dpl[key][i] in dl) {
+					j++;
+					if (dl[key][0] == 1 && dl[dpl[key][i]][0] == 1) {
+						console.log(j + ': dl[', dpl[key][i], '] -> ', dl[dpl[key][i]], ' RED');
+						drawLine(ctx, dl[key][1], dl[key][2], dl[dpl[key][i]][1], dl[dpl[key][i]][2], 'red', 5);
+					} else {
+						console.log(j + ': dl[', dpl[key][i], '] -> ', dl[dpl[key][i]], ' GREEN');
+						drawLine(ctx, dl[key][1], dl[key][2], dl[dpl[key][i]][1], dl[dpl[key][i]][2], 'green', 5);
+					}
+				}
 			}
-		} */
-		// drawLine(ctx, xy["100"], xy["200"], "red", 1);
-		// drawLine(ctx, xy["200"], xy["300"], "green", 2);
-		// drawLine(ctx, xy["300"], xy["400"], "blue", 3);
+		}
 	} else if (eId == 'questInfo' || eId == 'preQuestInfo') {
 		element.setAttribute('qid', data[0]);
 		element.innerHTML = loadQuestData(data, eId);
@@ -208,7 +208,7 @@ function loadQuestData(data, eId) {
 			} else {
 				elementString += ' quest-optional';
 			}
-			elementString += '"><input type="hidden" value="' + id + '"><img class="openPre max" src="./resources/image/' + icon + '" alt="No Image"></div>';
+			elementString += '" qid="' + id + '"><img class="openPre max" src="./resources/image/' + icon + '" alt="No Image"></div>';
 			if (data[i + 1] == 'rewards') {
 				elementString += '</div>';
 				i = i + 1;
@@ -360,11 +360,11 @@ window.onclick = function(event) {
 			elems[i].classList.toggle('selected');
 		}
 		event.target.parentNode.classList.toggle('selected');
-		loadQuest(event.target.previousElementSibling.value, 'questInfo');
+		loadQuest(event.target.parentNode.getAttribute('qid'), 'questInfo');
 		populateUrl();
 		document.getElementById('questInfoView').scrollIntoView();
 	} else if (event.target.matches('.openPre')) {
-		loadQuest(event.target.previousElementSibling.value, 'preQuestInfo');
+		loadQuest(event.target.parentNode.getAttribute('qid'), 'preQuestInfo');
 		populateUrl();
 		document.getElementById('preInfoView').scrollIntoView();
 	} else if (event.target.matches('.hide')) {
