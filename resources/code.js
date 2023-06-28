@@ -132,8 +132,8 @@ function populateElement(text, eId) {
 		drawPreLines[id] = pre;
 		var dl =  window.drawLines;
 		var dpl = window.drawPreLines;
-		console.log('dl: ', dl);
-		console.log('dpl: ', dpl);
+		// console.log('dl: ', dl);
+		// console.log('dpl: ', dpl);
 		var j = 0;
 		for (var key in dpl) {
 			for (var i in dpl[key]) {
@@ -172,7 +172,6 @@ function loadQuestData(data, eId) {
 		elementString += ' quest-optional';
 	}
 	elementString += '"><img src="./resources/image/' + data[1] + '" alt="No Image"></div><div class="inline top"><div class="title top">[' + data[0] + '] ' + data[3] + '</div><div class="sub-title">QuestLines: '
-	alert(data[4]);
 	var qls = data[4].split(',');
 	if (qls.length == 1) {
 		elementString += window.questLines[qls[0]];
@@ -276,7 +275,6 @@ function loadQuestData(data, eId) {
 			var icon = data[i++];
 			var name = data[i++];
 			var number = data[i++];
-//alert('icon: ' + icon + '\nname: ' + name + '\nnumber: ' + number + '\nnext: ' + data[i+1]);
 			elementString += '<div><div class="icon item"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
 			var nameParts = name.split(';');
 			for (var j = 0; j < nameParts.length; j++) {
