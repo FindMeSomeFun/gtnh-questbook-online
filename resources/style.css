@@ -194,6 +194,12 @@ input[type=checkbox]:checked + label {
 	background-color: #aaa;
 }
 
+.choice {
+	border: 4px solid orange;
+	border-radius: 10px;
+	background-color: #aaa;
+}
+
 .selected {
 	border-width: 10px;
 	border-style: double;

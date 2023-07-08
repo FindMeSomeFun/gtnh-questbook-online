@@ -250,7 +250,13 @@ function loadQuestData(data, eId) {
 				var icon = data[i++];
 				var name = data[i++];
 				var number = data[i++];
-				elementString += '<div><div class="icon item"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
+				elementString += '<div><div class="icon ';
+				if (type == 'Choice') {
+					elementString += ' choice';
+				} else {
+					elementString += ' item';
+				}
+				elementString += '"><img src="./resources/image/' + icon + '" alt="No Image"></div><div class="text">'
 				var nameParts = name.split(';');
 				for (var j = 0; j < nameParts.length; j++) {
 					elementString += nameParts[j]
