@@ -410,11 +410,11 @@ function switchTheme() {
 	var themeInput = document.getElementById('lights-on');
 	if (themeInput.checked) {
 		themeInput.checked = false;
-		themeInput.nextElementSibling.children[0].src = './resources/image/sun.png';
+		themeInput.nextElementSibling.children[0].src = './resources/image/other/sun.png';
 		replaceTheme('light','dark');
 	} else {
 		themeInput.checked = true;
-		themeInput.nextElementSibling.children[0].src = './resources/image/moon.png';
+		themeInput.nextElementSibling.children[0].src = './resources/image/other/moon.png';
 		replaceTheme('dark', 'light');
 	}
 }
