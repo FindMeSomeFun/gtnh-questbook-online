@@ -1,4 +1,4 @@
-var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/compact/';
+var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
 var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
 var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid', 'Consume'];
 var availableVersions = [];
