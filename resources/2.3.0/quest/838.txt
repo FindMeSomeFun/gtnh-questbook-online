@@ -1,15 +1,15 @@
 838IC2/itemPartCircuitAdv-0.png1Advanced Circuits5-1Finally, the HV circuit! To make it, you need good integrated circuits, RAM, an integrated logic circuit, and transistors.
 
-By the way, circuits get cheaper to make as you go along, but not till HV.ANDpre7851gregtech/gt.metaitem.01-32717.png7931gregtech/gt.metaitem.03-32079.pngrewardsChoicegregtech/gt.metaitem.01-28308.pngRed Alloy Ring;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
+By the way, circuits get cheaper to make as you go along, but not till HV.ANDpre7851gregtech/gt.metaitem.01-32717.png7931gregtech/gt.metaitem.03-32079.pngrewardsChoicegregtech/gt.metaitem.01-28308.pngRed Alloy Ring
 2dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
-4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2gregtech/gt.metaitem.01-27306.pngStainless Steel Screw
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
-4gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit;Integrated Circuit
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-8gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
-16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-32gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt;Cu
-32RetrievalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+5tasksANDOptionalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit
+4gregtech/gt.metaitem.03-32037.pngIntegrated Logic Circuit
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip
+8gregtech/gt.metaitem.01-32717.pngTransistor
+16gregtech/gt.metaitem.02-19303.pngFine Electrum Wire
+32gregtech/gt.metaitem.01-26345.pngAnnealed Copper Bolt
+32RetrievalIC2/itemPartCircuitAdv-0.pngAdvanced Circuit
 4

@@ -1,11 +1,11 @@
-834gregtech/gt.metaitem.03-32100.png1Circuit Boards3-1For every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.ANDpre661gregtech/gt.metaitem.01-32700.pngrewardsItemminecraft/bread-0.pngBread;minecraft:bread
-2Choicegregtech/gt.metaitem.01-32710.pngCoated Circuit Board;A Basic Board
-2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+834gregtech/gt.metaitem.03-32100.png1Circuit Boards3-1For every circuit you need a circuit board. Craft a coated circuit board and use copper wire to finish it.ANDpre661gregtech/gt.metaitem.01-32700.pngrewardsItemminecraft/bread-0.pngBread
+2Choicegregtech/gt.metaitem.01-32710.pngCoated Circuit Board
+2enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
+15tasksANDOptionalgregtech/gt.metaitem.01-17809.pngWood Plank
 1IC2/itemHarz-0.pngSticky Resin
-2Craftinggregtech/gt.metaitem.01-32710.pngCoated Circuit Board;A Basic Board
-1Optionalgregtech/gt.metaitem.01-32710.pngCoated Circuit Board;A Basic Board
-1gregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-8Craftinggregtech/gt.metaitem.03-32100.pngCircuit Board;A basic Circuit Board
+2Craftinggregtech/gt.metaitem.01-32710.pngCoated Circuit Board
+1Optionalgregtech/gt.metaitem.01-32710.pngCoated Circuit Board
+1gregtech/gt.blockmachines-1360.png1x Copper Wire
+8Craftinggregtech/gt.metaitem.03-32100.pngCircuit Board
 1

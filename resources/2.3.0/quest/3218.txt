@@ -4,5 +4,5 @@ What truly happened inside that Mk4 Fusion Reactor? What is this material? Its d
 
 It absorbs and radiates energy without any effort, but it would be stupid to attempt making coils out of this without assistance. Wetware wasn't good enough anymore, and only the most advanced living circuit could withstand the erratic behavior Hypogen demonstrates.
 
-Provides 12601K heat. Almost certainly, this will end up on your DTPF.ANDpre25841miscutils/itemIngotHypogen-0.png32171gregtech/gt.blockcasings5-11.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-12.pngHypogen Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 12601 Kelvin
+Provides 12601K heat. Almost certainly, this will end up on your DTPF.ANDpre25841miscutils/itemIngotHypogen-0.png32171gregtech/gt.blockcasings5-11.pngrewardstasksANDRetrievalgregtech/gt.blockcasings5-12.pngHypogen Coil Block
 16

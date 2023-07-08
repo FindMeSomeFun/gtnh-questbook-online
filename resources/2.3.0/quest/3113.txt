@@ -4,7 +4,7 @@ That's all fine and dandy, but unfortunately it is not optional. To get past HV,
 
 Toluene, plus TNT or iTNT is what you need. The rocket will thank you later.ANDpre31100gregtech/gt.blockmachines-1126.pngrewardsItemminecraft/tnt-0.pngTNT
 8IC2/blockITNT-0.pngIndustrial TNT
-4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-1tasksANDRetrievalgregtech/gt.metaitem.01-30647.pngToluene Cell;C\u2087H\u2088
+1tasksANDRetrievalgregtech/gt.metaitem.01-30647.pngToluene Cell
 64

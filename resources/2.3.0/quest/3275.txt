@@ -2,9 +2,9 @@
 
 I will need to provide some distilled water to its hatch to avoid blockage in the pipes.
 
-The Liquid Cooling Tower allows the Multiblock to have 2/4 OC at the cost of 10/s of distilled water when running. The hatch is placed in the center of the Liquid Cooling Tower.ANDpre26751Avaritia/Resource-6.png32730gregtech/gt.blockmachines-356.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-4431.pngDamascus Steel Frame Box;Just something you can put covers on.
-1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings8-4.pngExtreme Engine Intake Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+The Liquid Cooling Tower allows the Multiblock to have 2/4 OC at the cost of 10/s of distilled water when running. The hatch is placed in the center of the Liquid Cooling Tower.ANDpre26751Avaritia/Resource-6.png32730gregtech/gt.blockmachines-356.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-4431.pngDamascus Steel Frame Box
+1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing
+1gregtech/gt.blockcasings8-12.pngReinforced Photolithographic Framework Casing
+1gregtech/gt.blockcasings8-4.pngExtreme Engine Intake Casing
+1gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing
 1

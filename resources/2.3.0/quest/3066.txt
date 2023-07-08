@@ -1,8 +1,8 @@
 3066bartworks/gt.bwMetaGenerateddust-11026.png1The Start of Cerium8-1This line will guide you through obtaining elemental cerium.
 
 First, react your cerium dioxide with ammonium chloride for some cerium chloride.ANDpre30651bartworks/gt.bwMetaGeneratedcell-11018.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11025.pngCerium Dioxide Dust;CeO\u2082;Added by GTNH: Lanthanides via BartWorks
-1bartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell;NH\u2084Cl;Added by BartWorks
-3Retrievalbartworks/gt.bwMetaGenerateddust-11026.pngCerium Chloride Dust;CeCl\u2083;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+2tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11025.pngCerium Dioxide Dust
+1bartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell
+3Retrievalbartworks/gt.bwMetaGenerateddust-11026.pngCerium Chloride Dust
+1gregtech/gt.metaitem.01-30659.pngAmmonia Cell
 3

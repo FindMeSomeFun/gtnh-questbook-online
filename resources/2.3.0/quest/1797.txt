@@ -1,6 +1,6 @@
 1797minecraft/string-0.png0New Threads13-1Tired of killing spiders for string? Grow some flax for an easy non-biting source of string.
 
 You can also directly place Cotton seeds on cropsticks to grow cotton that way. With some Corium in the next quest, you can get easy tanned leather.ANDpre16000minecraft/reeds-0.pngrewardsItemminecraft/string-0.pngString
-64enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalIC2/itemCropSeed-0.pngFlax Seeds;Gr 0;Ga 0;Re 0
+64enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops)
+1tasksANDRetrievalIC2/itemCropSeed-0.pngFlax Seeds
 1

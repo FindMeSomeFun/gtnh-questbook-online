@@ -1,7 +1,7 @@
 284Thaumcraft/ItemEldritchObject-3.png1The Power of Creation32-1What... What am I doing here? Where am I?! What is this place?! Oh those headaches... (It seems that the pulsating pearl you just found cured your brain from... something. Something old, probably some kind of trap to keep away unworthy ones.)
 
-/iskamiunlocked will tell you if you have successfully unlocked Kami. If not, try researching the Thaumium Crowbar and the Cursed Spirits Blade. Or other stuff on the vanilla pages. Or in TT. It's not really reliable anymore with all the mods and such.ANDpre2831Thaumcraft/ItemEldritchObject-2.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/blockLootCrate-2.pngAbandoned Crate;Rare;Burn Time: 300
+/iskamiunlocked will tell you if you have successfully unlocked Kami. If not, try researching the Thaumium Crowbar and the Cursed Spirits Blade. Or other stuff on the vanilla pages. Or in TT. It's not really reliable anymore with all the mods and such.ANDpre2831Thaumcraft/ItemEldritchObject-2.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster)
+1Thaumcraft/blockLootCrate-2.pngAbandoned Crate
 5Itemdreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
-1tasksANDRetrievalThaumcraft/ItemEldritchObject-3.pngPrimordial Pearl;The very fabric of magic seems ;to buckle each time it pulses.
+1tasksANDRetrievalThaumcraft/ItemEldritchObject-3.pngPrimordial Pearl
 1

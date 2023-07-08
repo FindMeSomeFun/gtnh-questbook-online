@@ -1,6 +1,6 @@
-345witchery/seepingshoes-0.png0Seeping Shoes36-1Who needs an antidote? Now with free fertilizer!ANDpre3350witchery/spinningwheel-0.pngrewardsItemenhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+345witchery/seepingshoes-0.png0Seeping Shoes36-1Who needs an antidote? Now with free fertilizer!ANDpre3350witchery/spinningwheel-0.pngrewardsItemenhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalwitchery/seepingshoes-0.pngSeeping Shoes;Cave spider''s bane.;Remove poison effects when standing on ground;Protection: 1;Durability: 65/65
+5tasksANDRetrievalwitchery/seepingshoes-0.pngSeeping Shoes
 1

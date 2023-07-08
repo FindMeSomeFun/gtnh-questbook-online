@@ -16,6 +16,6 @@ A single block machine starved of EU will restart progress but not lose the reci
 
 Note that any block that emits EU has loss when doing so: 2 ^ tier. So 2 EU at LV, 4 EU at MV, and so on. Using large numbers of battery buffers in a row is thus very wasteful of your power, and even 1 can prevent usage of an EBF at MV voltage. Of course, if you want to keep your amps topped up, you'll need to place BBs occasionally to 'top up' the amps, though this is less the case the further ingame you get, as the loss becomes less of something to worry about.
 
-If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemmiscutils/itemHatTinFoil-0.pngTin Foil Hat;DoomSquirter''s protection against cosmic radiation!;General paranoia makes the wearer unable to collect xp;Movement speed is also reduced, to keep you safe;This hat may also have other strange powers;Protection: 1;Durability: 55/55
-1tasksANDCheckboxcheckbox-.pngCheckbox
+If this info isn't enough for you, head on over to https://gtnh.miraheze.org/wiki/Electricity to read more.ANDpre701gregtech/gt.blockmachines-1120.pngrewardsItemmiscutils/itemHatTinFoil-0.pngTin Foil Hat
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

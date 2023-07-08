@@ -4,11 +4,11 @@ This will increase your mining speed.
 Hint:
 Every Armor part has 3 Slots for modification, aside from gloves, which have 5.ANDpre17810TConstruct/travelVest-0.pngrewardsChoiceTConstruct/slime.pad-0.pngBounce Pad
 2minecraft/piston-0.pngPiston
-4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDOptionalTConstruct/travelGlove-0.pngTraveller''s Gloves
+25tasksANDOptionalTConstruct/travelGlove-0.pngTraveller's Gloves
 1minecraft/redstone-0.pngRedstone
 5minecraft/redstone_block-0.pngBlock of Redstone
-55RetrievalTConstruct/travelGlove-0-upgraded.pngTraveller's Gloves;Haste
+55RetrievalTConstruct/travelGlove-0-upgraded.pngtravelGlove
 1

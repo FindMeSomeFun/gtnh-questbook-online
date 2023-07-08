@@ -1,12 +1,12 @@
-488Forestry/foresterBag-0.png0You Need Them All!2-1There are many more backpacks: Hunter, builder, forester...ANDpre4870Forestry/diggerBag-0.pngrewardsItemminecraft/leather_helmet-0.pngLeather Cap;Protection: 1;Durability: 55/55
-1minecraft/leather_chestplate-0.pngLeather Tunic;Protection: 3;Durability: 80/80
-1minecraft/leather_leggings-0.pngLeather Pants;Protection: 2;Durability: 75/75
-1minecraft/leather_boots-0.pngLeather Boots;Protection: 1;Durability: 65/65
-1Choiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+488Forestry/foresterBag-0.png0You Need Them All!2-1There are many more backpacks: Hunter, builder, forester...ANDpre4870Forestry/diggerBag-0.pngrewardsItemminecraft/leather_helmet-0.pngLeather Cap
+1minecraft/leather_chestplate-0.pngLeather Tunic
+1minecraft/leather_leggings-0.pngLeather Pants
+1minecraft/leather_boots-0.pngLeather Boots
+1Choiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 2Backpack/tannedLeather-0.pngTanned Leather
 2harvestcraft/wovencottonItem-0.pngWoven Cotton
 8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDCraftingForestry/foresterBag-0.pngForester''s Backpack;0/15 Slots
-1CraftingForestry/hunterBag-0.pngHunter''s Backpack;0/15 Slots
-1CraftingForestry/builderBag-0.pngBuilder''s Backpack;0/15 Slots
+5tasksANDCraftingForestry/foresterBag-0.pngForester's Backpack
+1CraftingForestry/hunterBag-0.pngHunter's Backpack
+1CraftingForestry/builderBag-0.pngBuilder's Backpack
 1

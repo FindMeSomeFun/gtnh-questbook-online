@@ -1,5 +1,5 @@
 2825gregtech/gt.blockmachines-1130.png0Absorbing Magic Energy to Produce EU EV19-1The EV Version.ANDpre12251gregtech/gt.metaitem.01-32705.png28230gregtech/gt.blockmachines-1128.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
 32Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 3dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-3tasksANDRetrievalgregtech/gt.blockmachines-1130.pngGrandmaster Magic Energy Absorber;Feasts on magic close to it:;- A  Dragon Egg atop;- 512EU per Ender Crystal in range;- 113CV/t from an Energised Node;- 256EU per Essentia Aspect-Value from containers in range; ;Lookup range (Use Screwdriver to change):;Default: 16;Max: 64; ;Fuels on enchantments input:;- Item: 8000EU per enchant weight \u00d7 level / max;- Book: 10000EU per enchant weight \u00d7 level / max; ;Efficiency: 80%;Voltage OUT: 2,048 (EV);Capacity: 32,768,512 EU
+3tasksANDRetrievalgregtech/gt.blockmachines-1130.pngGrandmaster Magic Energy Absorber
 1

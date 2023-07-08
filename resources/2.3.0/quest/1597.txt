@@ -1,6 +1,6 @@
 1597witchery/ingredient-5.png0More Power Now!36-1The Dream Weaver of Intensity has two effects, firstly it will add a very short night vision effect (or blindness if corrupted by a nightmare) to a player when they wake up from a good nights sleep. Secondly, it will intensify all other nearby dream weavers so that they have either a stronger (but shorter lasting) effect or their duration is increased.ANDpre15840witchery/ingredient-96.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
 8witchery/ingredient-99.pngDisturbed Cotton
-8enhancedlootbags/lootbag-55.pngLootBag (Witchery Witch);You feel that a bit more "Fortune" might be a good idea...
+8enhancedlootbags/lootbag-55.pngLootBag (Witchery Witch)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"

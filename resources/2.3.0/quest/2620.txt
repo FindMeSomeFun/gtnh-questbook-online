@@ -1,2 +1,2 @@
-2620gregtech/gt.blockmachines-2440.png1UV Superconductors (524,288 EU/t)11-1I wonder what temperature they start superconducting at?ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2440.png1x Superconductor UV Wire;Max Voltage: 524,288 (UV);Max Amperage: 32;Loss/Meter/Ampere: 0 EU-Volt
+2620gregtech/gt.blockmachines-2440.png1UV Superconductors (524,288 EU/t)11-1I wonder what temperature they start superconducting at?ANDpre26131gregtech/gt.blockmachines-18.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-2440.png1x Superconductor UV Wire
 64

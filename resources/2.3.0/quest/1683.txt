@@ -1,8 +1,8 @@
 1683gregtech/gt.blockmachines-1185.png1LuV Circuit Assembler9-1You may have noticed that the circuits you're thinking of crafting cost way more, 6x more. This is intended for circuits needing LuV+ voltage. You now need to craft your circuits in the Circuit Assembly Line or CAL if you don't want to pay out the ears in materials. You'll still need to craft your first ones using the normal Circuit Assembler though.
 
-Once you've done that, you can make an imprint for use in the CAL to set it to make that (and only that) type of circuit.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsChoicebartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot;Pd\u2083Rh;Added by BartWorks
-4gregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
-8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+Once you've done that, you can make an imprint for use in the CAL to set it to make that (and only that) type of circuit.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsChoicebartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot
+4gregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board
+8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDRetrievalgregtech/gt.blockmachines-1185.pngAdvanced Circuit Assembler V;Pick-n-Place all over the place;Voltage IN: 32,768 (LuV);Capacity: 2,097,152 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-1185.pngAdvanced Circuit Assembler V
 1

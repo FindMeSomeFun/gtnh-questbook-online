@@ -1,11 +1,11 @@
-632minecraft/fishing_rod-0.png0A Fisherman's Friend13-1Have you ever tried to catch a fish with your bare hands? It's time to craft a fishing rod and get some fish the easy way. Cast your fishing rod in some water and wait until the bobber dips below the surface. Then reel back in your line and hopefully you caught yourself something nice.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsChoiceminecraft/fish-3.pngPufferfish;minecraft:fish
-5harvestcraft/jellyfishrawItem-0.pngRaw Jellyfish;harvestcraft:jellyfishrawItem
-5harvestcraft/catfishrawItem-0.pngRaw Catfish;harvestcraft:catfishrawItem
-5enhancedlootbags/lootbag-28.pngLootBag (Fast Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+632minecraft/fishing_rod-0.png0A Fisherman's Friend13-1Have you ever tried to catch a fish with your bare hands? It's time to craft a fishing rod and get some fish the easy way. Cast your fishing rod in some water and wait until the bobber dips below the surface. Then reel back in your line and hopefully you caught yourself something nice.ANDpre4931gregtech/gt.metatool.01-26.pngrewardsChoiceminecraft/fish-3.pngPufferfish
+5harvestcraft/jellyfishrawItem-0.pngRaw Jellyfish
+5harvestcraft/catfishrawItem-0.pngRaw Catfish
+5enhancedlootbags/lootbag-28.pngLootBag (Fast Food)
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDOptionalgregtech/gt.metaitem.02-22809.pngLong Wood Stick
-3gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
+3gregtech/gt.metaitem.01-28032.pngIron Ring
 1minecraft/string-0.pngString
 1Craftingminecraft/fishing_rod-0.pngFishing Rod
 1

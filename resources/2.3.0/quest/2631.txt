@@ -1,7 +1,7 @@
 2631gregtech/gt.metaitem.03-32162.png1PPIC Wafers10-1You'll need Piko Power ICs to make Solars, UHV -> UEV transformers, and UV Hatches and Dynamos.
 
-You'll need a UV Cutting Machine, or an OC'd multi to cut the wafers.ANDpre26321gregtech/gt.metaitem.03-32160.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32160.pngNPIC Wafer;Raw Circuit
-1gregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust;InGaP
-64gregtech/gt.metaitem.99-318.pngMolten Sunnarium Cell;Su
-10Retrievalgregtech/gt.metaitem.03-32162.pngPPIC Wafer;Raw Circuit
+You'll need a UV Cutting Machine, or an OC'd multi to cut the wafers.ANDpre26321gregtech/gt.metaitem.03-32160.pngrewardstasksANDOptionalgregtech/gt.metaitem.03-32160.pngNPIC Wafer
+1gregtech/gt.metaitem.01-2981.pngIndium Gallium Phosphide Dust
+64gregtech/gt.metaitem.99-318.pngMolten Sunnarium Cell
+10Retrievalgregtech/gt.metaitem.03-32162.pngPPIC Wafer
 1

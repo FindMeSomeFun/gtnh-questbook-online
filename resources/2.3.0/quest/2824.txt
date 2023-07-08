@@ -1,5 +1,5 @@
 2824gregtech/gt.blockmachines-1127.png0Absorbing Magic Energy to Produce EU LV19-1These produce power by absorbing magic energy from nodes, dragon eggs, creeper eggs, etc.ANDpre14770gregtech/gt.metaitem.01-32691.png28190gregtech/gt.blockmachines-1123.pngrewardsItemThaumcraft/ItemShard-6.pngBalanced Shard
 8Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 1dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-1tasksANDRetrievalgregtech/gt.blockmachines-1127.pngNovice Magic Energy Absorber;Feasts on magic close to it:;- A  Dragon Egg atop;- 512EU per Ender Crystal in range;- 13CV/t from an Energised Node;- 304EU per Essentia Aspect-Value from containers in range; ;Lookup range (Use Screwdriver to change):;Default: 2;Max: 8; ;Fuels on enchantments input:;- Item: 9500EU per enchant weight \u00d7 level / max;- Book: 10000EU per enchant weight \u00d7 level / max; ;Efficiency: 95%;Voltage OUT: 32 (LV);Capacity: 512,512 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-1127.pngNovice Magic Energy Absorber
 1

@@ -10,13 +10,13 @@ Formulas:
 
 Using the GUI, the player can go to the configuration menu. There they can change the trace size or add new parts to the multiblock. One can also change where they are placed around the multiblock.
 
-Make sure to set the configuration you want before using the structure lib blueprint for autobuild.ANDpre26111gregtech/gt.metaitem.01-32656.pngrewardsItemgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-64gregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
-16gregtech/gt.metaitem.03-32105.pngExtreme Wetware Lifesupport Circuit Board;The Board that keeps life
-8tasksANDRetrievalgregtech/gt.blockmachines-356.pngPCB Factory;Machine Type: Circuit Board Fabricator;Controller for the PCB Factory;IMPORTANT! Check the configuration menu before building.;Tier of the machine determines the available recipes.;Machine tier (1-3) is set in the controller GUI.;The configuration menu can be used to add upgrades.;Each tier and upgrade requires additional structures.;Power consumption is multiplied by Sqrt(structures).;Tier 2 and 3 allow parallel by using extra nanites.;Every doubling of nanites adds one parallel.;1x->1, 2x->2, 4x->3, 8x->4 with no limit.;Recipes require a cooling upgrade to be overclocked.;Liquid Cooling uses 10 L/s of distilled water and enables default overclocks.;Thermosink uses 10 L/s of Space Coolant and enables perfect overclocks.;Trace size can be changed to modify the material usage and machine speed.;Author: BlueWeabo;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GregTech
-1Retrievalgregtech/gt.blockcasings8-11.pngBasic Photolithographic Framework Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockmachines-4431.pngDamascus Steel Frame Box;Just something you can put covers on.
-1gregtech/gt.blockmachines-4463.pngVibrant Alloy Frame Box;Just something you can put covers on.
+Make sure to set the configuration you want before using the structure lib blueprint for autobuild.ANDpre26111gregtech/gt.metaitem.01-32656.pngrewardsItemgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board
+64gregtech/gt.metaitem.03-32104.pngElite Circuit Board
+16gregtech/gt.metaitem.03-32105.pngExtreme Wetware Lifesupport Circuit Board
+8tasksANDRetrievalgregtech/gt.blockmachines-356.pngPCB Factory
+1Retrievalgregtech/gt.blockcasings8-11.pngBasic Photolithographic Framework Casing
+1gregtech/gt.blockmachines-4431.pngDamascus Steel Frame Box
+1gregtech/gt.blockmachines-4463.pngVibrant Alloy Frame Box
 1gregtech/gt.blockreinforced-2.pngPlascrete Block
-1gregtech/gt.blockcasings3-10.pngGrate Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1gregtech/gt.blockcasings3-10.pngGrate Machine Casing
 1

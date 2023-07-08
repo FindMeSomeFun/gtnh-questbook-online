@@ -1,5 +1,5 @@
-1109WarpTheory/item.warptheory.cleanser-0.png1Ohhh, Crunchy33-1After many, many, hours of doing Thaumcraft research you've found a way to craft pure tears. Ichorium purifies the nether star which sucks all the warp away. Be careful, as this may have a deadly end.ANDpre3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+1109WarpTheory/item.warptheory.cleanser-0.png1Ohhh, Crunchy33-1After many, many, hours of doing Thaumcraft research you've found a way to craft pure tears. Ichorium purifies the nether star which sucks all the warp away. Be careful, as this may have a deadly end.ANDpre3201ThaumicTinkerer/kamiResource-2.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster)
+1Thaumcraft/ItemLootBag-2.pngRare Treasure
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalWarpTheory/item.warptheory.cleanser-0.pngPure Tear;Crunchy
+5tasksANDRetrievalWarpTheory/item.warptheory.cleanser-0.pngPure Tear
 1

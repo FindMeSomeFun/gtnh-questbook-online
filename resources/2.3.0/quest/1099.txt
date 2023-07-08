@@ -1,7 +1,7 @@
 1099Thaumcraft/ItemSanitySoap-0.png0Temp Warp Remover Soap32-1This soap is very special. It will remove temporary warp and has a small chance to also remove some normal warp, if you are lucky. Taking a bath first increases your chances.
 
 Hint: You need to chisel your tallow block for the recipe to work.ANDpre10970Thaumcraft/ItemBathSalts-0.pngrewardsItemThaumcraft/ItemResource-4.pngMagic Tallow
-18Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+18Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemSanitySoap-0.pngSanitizing Soap
 2

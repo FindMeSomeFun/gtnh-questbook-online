@@ -5,13 +5,13 @@ A diamond chestplate surrounded with 4 electrotine batteries is powerful enough 
 It does not have a hover mode so you better take your glider with you. 
 
 Hint: This jetpack can't fly higher than Y-128.ANDpre6460ProjRedExpansion/projectred.expansion.battery-0.pngrewardsChoiceProjRedCore/projectred.core.part-56.pngElectrotine
-32minecraft/enchanted_book-0.pngEnchanted Book;Feather Falling II;Hold the Sneak key for Enchantment Description
-1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32minecraft/enchanted_book-0.pngEnchanted Book
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalminecraft/diamond_chestplate-0.pngDiamond Chestplate;Protection: 8;Durability: 528/528
+15tasksANDOptionalminecraft/diamond_chestplate-0.pngDiamond Chestplate
 1ProjRedExpansion/projectred.expansion.emptybattery-0.pngBattery
-4IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-2gregtech/gt.blockmachines-1422.png4x Gold Wire;Max Voltage: 512 (HV);Max Amperage: 12;Loss/Meter/Ampere: 4 EU-Volt
+4IC2/itemPartCircuit-0.pngElectronic Circuit
+2gregtech/gt.blockmachines-1422.png4x Gold Wire
 1gregtech/gt.metaitem.01-17811.pngGlowstone Plate
-1RetrievalProjRedExpansion/projectred.expansion.jetpack-6400.pngJetpack;Durability: 0 / 6400;Protection: 8;Durability: 0/6400
+1RetrievalProjRedExpansion/projectred.expansion.jetpack-6400.pngJetpack
 1

@@ -1,3 +1,3 @@
-1771OpenComputers/cable-32767.png0Purchase Cables2672000I'll sell you 16 cables for two bitcoins.ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/cable-32767.pngCable;A cheap way of connecting blocks. ;Hold [NONE] for material costs.
-16tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1771OpenComputers/cable-32767.png0Purchase Cables2672000I'll sell you 16 cables for two bitcoins.ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/cable-32767.pngCable
+16tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin
 2

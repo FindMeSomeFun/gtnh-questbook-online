@@ -8,5 +8,5 @@ For reading all the way, I'll give you an ingot of iron.
 TLDR: There's an ore vein every 3 chunks. Look in the upper left to see if you're over one.
 
 They have nothing to do with biomes, ok?ANDpre281ExtraUtilities/curtains-0.pngrewardsItemminecraft/iron_ingot-0.pngIron Ingot
-1tasksANDCheckboxcheckbox-.pngCheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

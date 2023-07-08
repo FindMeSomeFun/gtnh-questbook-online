@@ -5,7 +5,7 @@ There are rumors of a weird crop in the shape of a fish...
 Otherwise look under Fishing Farming Cooking tab for fish catching options. ANDpre13240gregtech/gt.blockmachines-512.pngrewardsChoicegregtech/gt.metaitem.01-30713.pngSeed Oil Cell
 16IC2/itemFuelPlantBall-0.pngPlantball
 64IC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metaitem.01-30711.pngFish Oil Cell

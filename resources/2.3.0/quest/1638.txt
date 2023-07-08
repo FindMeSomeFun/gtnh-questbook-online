@@ -8,7 +8,7 @@ For the electrolyzer put in item stock keeper set to keep 2 empty cells stored. 
 
 Now for the oxygen storage put it item responder chip set to accept oxygen cells and extractor set to extract empty cells.
 
-Now put some empty cells inside your default storage chest and don't forget to have a broadcaster there.ANDpre16370gregtech/gt.blockmachines-130.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-371.pngBasic Electrolyzer;Electrolyzing Molecules;Voltage IN: 32 (LV);Capacity: 2,048 EU
+Now put some empty cells inside your default storage chest and don't forget to have a broadcaster there.ANDpre16370gregtech/gt.blockmachines-130.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-371.pngBasic Electrolyzer
 1ProjRedTransportation/projectred.transportation.routingchip-4.pngItem Extractor chip
 2ProjRedTransportation/projectred.transportation.routingchip-6.pngItem Stock Keeper chip
 1ProjRedTransportation/projectred.transportation.routingchip-0.pngItem Responder chip

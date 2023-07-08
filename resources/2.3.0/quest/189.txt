@@ -2,9 +2,9 @@
 
 Other items will give you a general sickness with many debuffs, but not Radiation. That can be removed the normal ways, Milk, Terrawart, Aqua bees, etc.
 
-If you wear a Hazmat suit (and rubber boots!) you are not affected by radioactive effects at all. Same for some other armors that list hazmat protection.ANDpre1900IC2/blockGenerator-5.pngrewardsItemIC2/itemArmorRubBoots-0.pngRubber Boots;Provides full hazmat protection.;Protection: 3;Durability: 64/64
+If you wear a Hazmat suit (and rubber boots!) you are not affected by radioactive effects at all. Same for some other armors that list hazmat protection.ANDpre1900IC2/blockGenerator-5.pngrewardsItemIC2/itemArmorRubBoots-0.pngRubber Boots
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalIC2/itemArmorHazmatHelmet-0.pngScuba Helmet;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1IC2/itemArmorHazmatChestplate-0.pngHazmat Suit;Provides full hazmat protection.;Protection: 8;Durability: 64/64
-1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Leggings;Provides full hazmat protection.;Protection: 6;Durability: 64/64
+2tasksANDRetrievalIC2/itemArmorHazmatHelmet-0.pngScuba Helmet
+1IC2/itemArmorHazmatChestplate-0.pngHazmat Suit
+1IC2/itemArmorHazmatLeggings-0.pngHazmat Suit Leggings
 1

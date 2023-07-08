@@ -1,6 +1,6 @@
 2611gregtech/gt.metaitem.01-32656.png1You Cant Get Enough of This Pt 1 in ZPM10-1You know what to do.ANDpre26101gregtech/gt.blockmachines-17.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32607.pngElectric Motor (ZPM)
 1gregtech/gt.metaitem.01-32646.pngElectric Piston (ZPM)
-1gregtech/gt.metaitem.01-32636.pngConveyor Module (ZPM);4 stacks every 1/20 sec (as Cover)
-1gregtech/gt.metaitem.01-32616.pngElectric Pump (ZPM);131,072 L/t (2,621,440 L/s) as Cover
-1gregtech/gt.metaitem.01-32656.pngRobot Arm (ZPM);Cannot be used as a Cover
+1gregtech/gt.metaitem.01-32636.pngConveyor Module (ZPM)
+1gregtech/gt.metaitem.01-32616.pngElectric Pump (ZPM)
+1gregtech/gt.metaitem.01-32656.pngRobot Arm (ZPM)
 1

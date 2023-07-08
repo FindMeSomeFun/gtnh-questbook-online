@@ -12,17 +12,17 @@ You can craft magnetic iron rods by combining an iron rod with some redstone.
 
 Also, because of the magical nature of the wand, the ore is stored with the player, not the wand. If you want to give the wand to someone else, remove the ore first.
 
-It doesn't work in space! The vast cosmic energies of the sun interfere with it's inner workings. Or we want you to use something more complicated than a stick, you choose.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.blockores-35.pngCopper Ore;Cu
-1gregtech/gt.blockores-937.pngCassiterite Sand;SnO\u2082
-1gregtech/gt.blockores-870.pngMagnetite Ore;Fe\u2083O\u2084
-1gregtech/gt.blockores-834.pngPyrite Ore;FeS\u2082
+It doesn't work in space! The vast cosmic energies of the sun interfere with it's inner workings. Or we want you to use something more complicated than a stick, you choose.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.blockores-35.pngCopper Ore
+1gregtech/gt.blockores-937.pngCassiterite Sand
+1gregtech/gt.blockores-870.pngMagnetite Ore
+1gregtech/gt.blockores-834.pngPyrite Ore
 1minecraft/clay-0.pngClay
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-2gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod;Fe
-2gregtech/gt.metaitem.01-23032.pngIron Rod;Fe
+5tasksANDOptionalminecraft/stick-0.pngStick
+2gregtech/gt.metaitem.01-23354.pngMagnetic Iron Rod
+2gregtech/gt.metaitem.01-23032.pngIron Rod
 1minecraft/redstone-0.pngRedstone
-2gregtech/gt.metaitem.01-28086.pngGold Ring;Au
-1Retrievalifu/ifu_buildingKit-32767.pngOre Finder Wand
+2gregtech/gt.metaitem.01-28086.pngGold Ring
+1Retrievalifu/ifu_buildingKit-32767.pngifu_buildingKit
 1

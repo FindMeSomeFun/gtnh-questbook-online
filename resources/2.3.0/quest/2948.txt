@@ -20,10 +20,10 @@ Note: It will consume more fuel to match the output power, unlike coolant which 
 
 It also supports TecTech's Multi-Amp Dynamo hatches and laser hatches.
 
-PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell;Added by Good Generator via BartWorks
-2tasksANDOptionalgregtech/gt.blockcasings3-12.pngRadiation Proof Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-77gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-6GoodGenerator/MAR_Casing-0.pngField Restriction Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-48GoodGenerator/radiationProtectionSteelFrame-0.pngRadiation Proof Steel Frame Box;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-36Retrievalgregtech/gt.blockmachines-12732.pngLarge Naquadah Reactor;Machine Type: Naquadah Reactor;Controller block for the Naquadah Reactor;Environmental Friendly!;Generate power with the High-energy liquid.;Consume liquid air 2400 L/s to keep running, otherwise it will void your fuel.;Input liquid nuclear fuel or liquid naquadah fuel.;The reactor will explode when there are more than ONE types of fuel in the hatch!;Consume coolant 1000 L/s to increase the efficiency:;IC2 Coolant 105%, Super Coolant 150%, Cryotheum 275%;Consume excited liquid to increase the output power:;molten caesium | 2x power | 180 L/s ;molten uranium-235 | 3x power | 180 L/s;molten naquadah | 4x power | 20 L/s;molten Atomic Separation Catalyst | 16x power | 20 L/s;The structure is too complex!;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Good Generator
+PS: This generator has the highest output power in this pack currently, but it may get nerfed in future.ANDpre26221gregtech/gt.metaitem.01-32676.pngrewardsItembartworks/gt.bwMetaGeneratedcell-10041.pngNaquadah Based Liquid Fuel MkII Cell
+2tasksANDOptionalgregtech/gt.blockcasings3-12.pngRadiation Proof Machine Casing
+77gregtech/gt.blockcasings2-15.pngTungstensteel Pipe Casing
+6GoodGenerator/MAR_Casing-0.pngField Restriction Casing
+48GoodGenerator/radiationProtectionSteelFrame-0.pngRadiation Proof Steel Frame Box
+36Retrievalgregtech/gt.blockmachines-12732.pngLarge Naquadah Reactor
 1

@@ -1,5 +1,5 @@
-892gregtech/gt.blockmachines-819.png0GT MV Tank...Already?4-1These store 128,000L. The dark steel plates and LV pump make it a little annoying to make, since it needs an EBF.ANDpre771gregtech/gt.blockmachines-1000.png8910gregtech/gt.blockmachines-818.pngrewardsItemgregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe;Fluid Capacity: 9,600 L/sec;Heat Limit: 2,500 K
-4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+892gregtech/gt.blockmachines-819.png0GT MV Tank...Already?4-1These store 128,000L. The dark steel plates and LV pump make it a little annoying to make, since it needs an EBF.ANDpre771gregtech/gt.blockmachines-1000.png8910gregtech/gt.blockmachines-818.pngrewardsItemgregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalgregtech/gt.blockmachines-819.pngMedium Voltage Fluid Tank;Stores 128000L of fluid;A portable tank.;Added by: Alkalus - [GT++]
+10tasksANDRetrievalgregtech/gt.blockmachines-819.pngMedium Voltage Fluid Tank
 1

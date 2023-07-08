@@ -1,4 +1,4 @@
 107StevesCarts/CartModule-44.png0Cart Modules: Coal Power25-1Your cart needs power, obviously. A cart can be powered via coal, solar, or lava. But for now you have to use a simple coal engine.ANDpre1110StevesCarts/CartModule-38.pngrewardsItemIC2/blockMachine-1.pngIron Furnace
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalStevesCarts/CartModule-0.pngCoal Engine;Modular cost: 15;Type: Engine
+25tasksANDRetrievalStevesCarts/CartModule-0.pngCoal Engine
 1

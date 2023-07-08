@@ -20,21 +20,21 @@ Unfortunately, sometimes after logging out and back in again you may find that i
 Also, if you already have crops in the area, they'll disappear until a block update or relog.
 
 PS: To pack your circle back up, you need to bring your altar with you.
-ANDpre23440witchery/ingredient-94.png24240ForbiddenMagic/SubCollar-0.pngrewardsItemenhancedlootbags/lootbag-56.pngLootBag (Witchery Deamon);You feel that a bit more "Fortune" might be a good idea...
-1minecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
+ANDpre23440witchery/ingredient-94.png24240ForbiddenMagic/SubCollar-0.pngrewardsItemenhancedlootbags/lootbag-56.pngLootBag (Witchery Deamon)
+1minecraft/spider_eye-0.pngSpider Eye
 8witchery/ingredient-90.pngToe of Frog
 8witchery/ingredient-24.pngWool of Bat
 8witchery/ingredient-25.pngTongue of Dog
-8witchery/ingredient-89.pngOwlet''s Wing
+8witchery/ingredient-89.pngOwlet's Wing
 8witchery/ingredient-10.pngAttuned Stone
 8witchery/ingredient-11.pngAttuned Stone (Charged)
 8minecraft/glowstone_dust-0.pngGlowstone Dust
 64Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-5tasksANDRetrievalminecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
+5tasksANDRetrievalminecraft/spider_eye-0.pngSpider Eye
 1witchery/ingredient-90.pngToe of Frog
 1witchery/ingredient-24.pngWool of Bat
 1witchery/ingredient-25.pngTongue of Dog
-1witchery/ingredient-89.pngOwlet''s Wing
+1witchery/ingredient-89.pngOwlet's Wing
 1witchery/ingredient-10.pngAttuned Stone
 1witchery/ingredient-11.pngAttuned Stone (Charged)
 1

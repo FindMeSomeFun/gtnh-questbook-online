@@ -10,7 +10,7 @@ To determine if another player is cursed, to find out if they have a coven or fa
 
 A Seer Stone is created by infusing a Quartz Sphere with Obsidian and Happenstance Oil using a Rite of Infusion.ANDpre23430witchery/ingredient-92.pngrewardsChoiceExtraUtilities/golden_lasso-0.pngGolden Lasso
 4witchery/ingredient-40.pngRedstone Soup
-2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+2enhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinCookII-0.pngCoin "The Cook 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"

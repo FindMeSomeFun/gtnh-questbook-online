@@ -1,7 +1,7 @@
-274TwilightForest/item.carminite-0.png1Reactor Material32-1This stuff is interesting... Maybe I can use it as a wand conductor?ANDpre2611TwilightForest/item.fieryTears-0.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+274TwilightForest/item.carminite-0.png1Reactor Material32-1This stuff is interesting... Maybe I can use it as a wand conductor?ANDpre2611TwilightForest/item.fieryTears-0.pngrewardsItemThaumcraft/ItemLootBag-2.pngRare Treasure
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalTwilightForest/item.carminite-0.pngCarminite
-2Retrievalgregtech/gt.metaitem.01-27321.pngEnderium Screw;(Sn\u2082AgPt)\u2082(FeMa)(BeK\u2084N\u2085Ma\u2086)
+2Retrievalgregtech/gt.metaitem.01-27321.pngEnderium Screw
 4

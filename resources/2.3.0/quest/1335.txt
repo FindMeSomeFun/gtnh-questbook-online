@@ -1,5 +1,5 @@
 1335EMT/EMTSolars2-2.png0Infused Solars19-1Compressed Solar Panels can be infused with Aspects for certain additional features. Check them out and choose one of them.ANDpre2411Thaumcraft/blockMetalDevice-0.png13320EMT/EMTSolars-0.pngrewardsChoiceThaumcraft/ItemEssence-0.pngGlass Phial
-64Thaumcraft/blockJar-0.pngWarded Jar;Glass-Tier: HV
+64Thaumcraft/blockJar-0.pngWarded Jar
 8tasksORRetrievalEMT/EMTSolars-3.pngWater Infused Compressed Solar Panel
 1RetrievalEMT/EMTSolars-12.pngFire Infused Compressed Solar Panel
 1RetrievalEMT/EMTSolars2-2.pngCompressed Terra Solar

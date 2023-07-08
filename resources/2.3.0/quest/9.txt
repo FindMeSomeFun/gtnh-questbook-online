@@ -1,4 +1,4 @@
-9minecraft/furnace-0.png1Fire, Fire, Grandpa!0-1Time to burn some stuff, isn't it? You can't make charcoal in it, but you sure will find some usage for it soon™.ANDpre81minecraft/cobblestone-0.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+9minecraft/furnace-0.png1Fire, Fire, Grandpa!0-1Time to burn some stuff, isn't it? You can't make charcoal in it, but you sure will find some usage for it soon™.ANDpre81minecraft/cobblestone-0.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 5tasksANDCraftingminecraft/furnace-0.pngFurnace
 1

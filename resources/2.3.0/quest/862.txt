@@ -9,13 +9,13 @@ You can repair your bow the same way as all the other Tinkers tools. Arrows can 
 10tasksANDOptionalminecraft/string-0.pngString
 3minecraft/flint-0.pngFlint
 1minecraft/feather-0.pngFeather
-1minecraft/planks-0.pngOak Wood Planks;Burn Time: 300
+1minecraft/planks-0.pngOak Wood Planks
 3minecraft/bone-0.pngBone
-1RetrievalTConstruct/arrowhead-3.pngFlint Arrowhead;Attack: 1 Heart;Durability: 113;Break Chance: 100%;Weight: 1.33;Parts can be replaced
-1TConstruct/toolRod-5.pngBone Tool Rod;Durability Modifier: 1.08x;Parts can be replaced
-1TConstruct/fletching-0.pngFeather Fletching;Durability: 1x;Break Chance: 5%;Accuracy: 95%;Parts can be replaced
-1TConstruct/BowLimbPart-0.pngWooden Bow Limb;Durability: 38;Draw Speed: 0.9s;Arrow Speed: 3;Parts can be replaced
-2TConstruct/bowstring-0.pngBowstring;Draw Speed: 1x;Durability: 1x;Arrow Speed: 1x;Parts can be replaced
-1RetrievalTConstruct/ShortBow-0-57.pngWooden Shortbow;Tool Level: 01-Abused;Arrow
-1TConstruct/ArrowAmmo-0-107.pngFlint Arrows;Tool Level: 01-Abused;+2 Attack Damage
+1RetrievalTConstruct/arrowhead-3.pngFlint Arrowhead
+1TConstruct/toolRod-5.pngBone Tool Rod
+1TConstruct/fletching-0.pngFeather Fletching
+1TConstruct/BowLimbPart-0.pngWooden Bow Limb
+2TConstruct/bowstring-0.pngBowstring
+1RetrievalTConstruct/ShortBow-0-57.pngWooden Shortbow
+1TConstruct/ArrowAmmo-0-107.pngFlint Arrows
 1

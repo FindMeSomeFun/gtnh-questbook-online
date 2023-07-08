@@ -1,8 +1,8 @@
-841gregtech/gt.metaitem.01-30639.png0Tetranitromethane6-1Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.ANDpre8500gregtech/gt.metaitem.01-30641.png8511gregtech/gt.metaitem.01-30653.pngrewardsChoicegregtech/gt.metaitem.01-30629.pngGlycerol Cell;C\u2083H\u2088O\u2083
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool
+841gregtech/gt.metaitem.01-30639.png0Tetranitromethane6-1Bio diesel and diesel can be boosted using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.ANDpre8500gregtech/gt.metaitem.01-30641.png8511gregtech/gt.metaitem.01-30653.pngrewardsChoicegregtech/gt.metaitem.01-30629.pngGlycerol Cell
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
+1gregtech/gt.integrated_circuit-0.pngProgrammed Circuit
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
-24gregtech/gt.metaitem.01-30641.pngEthenone Cell;C\u2082H\u2082O
-3Retrievalgregtech/gt.metaitem.01-30639.pngTetranitromethane Cell;CN\u2084O\u2088
+5tasksANDOptionalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell
+24gregtech/gt.metaitem.01-30641.pngEthenone Cell
+3Retrievalgregtech/gt.metaitem.01-30639.pngTetranitromethane Cell
 6

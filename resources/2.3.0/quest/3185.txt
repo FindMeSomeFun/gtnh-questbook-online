@@ -2,8 +2,8 @@
 
 Making the pebbles for any of these elements is a multi-step process. To get them, you need to throw in huge amount of the main radioactive fuel alongside some materials used to make the outer shell, namely Carbon, Silicon, and Graphite Dust.
 
-For a full reactor, you will need thousands of stacks of each of these, much more than quest tasks could ask for. Anyways, the depleted pebbles can be centrifuge to recover most of the materials used to reach the final pebbles (Silicon, Graphite, Carbon), alongside a smaller chance at getting the main nuclear material for each kind of pebble. On top of that, you will get the breeding outputs: Lutetium from Thorium, Krypton from Uranium, Xenon from Plutonium.ANDpre31820gregtech/gt.blockmachines-12791.pngrewardstasksANDOptionalbartworks/bw.HTGRMaterials-3.pngTRISO ball (Thorium);Material for High Temperature Gas-cooled Reactor;Added by BartWorks
-512bartworks/bw.HTGRMaterials-10.pngTRISO ball (Uranium);Material for High Temperature Gas-cooled Reactor;Added by BartWorks
-512bartworks/bw.HTGRMaterials-17.pngTRISO ball (Plutonium);Material for High Temperature Gas-cooled Reactor;Added by BartWorks
-512Retrievalbartworks/bw.HTGRMaterials-11.pngTRISO pebble (Uranium);Multiplies coolant by 1.5;Material for High Temperature Gas-cooled Reactor;Added by BartWorks
+For a full reactor, you will need thousands of stacks of each of these, much more than quest tasks could ask for. Anyways, the depleted pebbles can be centrifuge to recover most of the materials used to reach the final pebbles (Silicon, Graphite, Carbon), alongside a smaller chance at getting the main nuclear material for each kind of pebble. On top of that, you will get the breeding outputs: Lutetium from Thorium, Krypton from Uranium, Xenon from Plutonium.ANDpre31820gregtech/gt.blockmachines-12791.pngrewardstasksANDOptionalbartworks/bw.HTGRMaterials-3.pngTRISO ball (Thorium)
+512bartworks/bw.HTGRMaterials-10.pngTRISO ball (Uranium)
+512bartworks/bw.HTGRMaterials-17.pngTRISO ball (Plutonium)
+512Retrievalbartworks/bw.HTGRMaterials-11.pngTRISO pebble (Uranium)
 64

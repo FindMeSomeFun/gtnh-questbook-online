@@ -1,7 +1,7 @@
 2542ae2wct/wirelessCraftingTerminal-0-6400000.png0Wireless 2.027-1This is the good wireless terminal. It even has crafting. There's a bit of lag when you open it, but the convenience it worth it, right? You can't pull out fluids, but you can hold on to the universal one if you want.
 
-The Magnet Card does not pull items to you. Instead, it allows you to automatically deposit them into the network. You can right-click to change the white/blacklist, or shift-right-click to change the mode.ANDpre13000appliedenergistics2/item.ToolWirelessTerminal-0-1600000.png25350appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
+The Magnet Card does not pull items to you. Instead, it allows you to automatically deposit them into the network. You can right-click to change the white/blacklist, or shift-right-click to change the mode.ANDpre13000appliedenergistics2/item.ToolWirelessTerminal-0-1600000.png25350appliedenergistics2/item.ItemMultiMaterial-47.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDRetrievalae2wct/wirelessCraftingTerminal-0.pngWireless Crafting Terminal;Stored Energy: 0 AE - 0.0%
+2tasksANDRetrievalae2wct/wirelessCraftingTerminal-0.pngWireless Crafting Terminal
 1ae2wct/magnetCard-0.pngMagnet Card
 1

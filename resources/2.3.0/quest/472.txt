@@ -15,23 +15,23 @@ Nether Star=8
 
 You can use paper binding to add extra modifier, but not very much important as tool level exists.ANDpre331TConstruct/ToolStationBlock-1.pngrewardsItemminecraft/flint-0.pngFlint
 10TConstruct/blankPattern-0.pngBlank Pattern
-2Choiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2Choiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 1TConstruct/blankPattern-0.pngBlank Pattern
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalTConstruct/blankPattern-0.pngBlank Pattern
-4OptionalTConstruct/woodPattern-2.pngPickaxe Head Pattern;Material Cost: 1
-1TConstruct/woodPattern-4.pngAxe Head Pattern;Material Cost: 1
-1TConstruct/woodPattern-9.pngTool Binding Pattern;Material Cost: 0.5
-1TConstruct/woodPattern-3.pngShovel Head Pattern;Material Cost: 1
+4OptionalTConstruct/woodPattern-2.pngPickaxe Head Pattern
+1TConstruct/woodPattern-4.pngAxe Head Pattern
+1TConstruct/woodPattern-9.pngTool Binding Pattern
+1TConstruct/woodPattern-3.pngShovel Head Pattern
 1Optionalminecraft/flint-0.pngFlint
-3minecraft/planks-0.pngOak Wood Planks;Burn Time: 300
-1RetrievalTConstruct/pickaxeHead-3.pngFlint Pickaxe Head;Durability: 113;Mining Speed: 4;Mining Level: 00-Stone;Parts can be replaced
-1TConstruct/shovelHead-3.pngFlint Shovel Head;Durability: 113;Mining Speed: 4;Mining Level: 01-Copper;Parts can be replaced
-1TConstruct/hatchetHead-3.pngFlint Axe Head;Durability: 113;Usage Speed: 4;Attack: 1 Heart;Parts can be replaced
-1TConstruct/binding-0.pngWooden Binding;Parts can be replaced
-1minecraft/stick-0.pngStick;Burn Time: 100
-3RetrievalTConstruct/pickaxe-0-113.pngFlint Pickaxe;Mining Level: 00-Stone;Tool Level: 01-Abused;+3 Attack Damage
-1TConstruct/hatchet-0-113.pngFlint Hatchet;Tool Level: 01-Abused;+5 Attack Damage
-1TConstruct/shovel-0-113.pngFlint Shovel;Tool Level: 01-Abused;+4 Attack Damage
+3minecraft/planks-0.pngOak Wood Planks
+1RetrievalTConstruct/pickaxeHead-3.pngFlint Pickaxe Head
+1TConstruct/shovelHead-3.pngFlint Shovel Head
+1TConstruct/hatchetHead-3.pngFlint Axe Head
+1TConstruct/binding-0.pngWooden Binding
+1minecraft/stick-0.pngStick
+3RetrievalTConstruct/pickaxe-0-113.pngFlint Pickaxe
+1TConstruct/hatchet-0-113.pngFlint Hatchet
+1TConstruct/shovel-0-113.pngFlint Shovel
 1

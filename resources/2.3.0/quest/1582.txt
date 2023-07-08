@@ -1,6 +1,6 @@
 1582witchery/ingredient-5.png0Hunger No More!36-1The Dream Weaver of Fasting will add a boost to the saturation of a player when they wake up from a good nights sleep, essentially meaning they will not get hungry for the duration of the effect. If the dream weaver is corrupted by a nearby Dream Weaver of Nightmares, the weaver will instead add a hunger effect to the player.ANDpre15830witchery/ingredient-103.pngrewardsItemwitchery/somniancotton-0.pngWispy Cotton
 4witchery/ingredient-99.pngDisturbed Cotton
-4enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+4enhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
@@ -9,7 +9,7 @@
 2minecraft/item_frame-0.pngItem Frame
 1minecraft/feather-0.pngFeather
 2witchery/ingredient-103.pngMellifluous Hunger
-1minecraft/potion-16421.pngSplash Potion of Healing;Instant Health II
+1minecraft/potion-16421.pngSplash Potion of Healing
 1witchery/ingredient-29.pngDiamond Vapor
 1Retrievalwitchery/ingredient-5.pngDream Weaver of Fasting
 1

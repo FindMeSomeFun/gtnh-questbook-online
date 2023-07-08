@@ -1,6 +1,6 @@
-1669gregtech/gt.blockmachines-1184.png1IV Circuit Assembler8-1The IV circuit assembler will let you make easier MV circuits, as well as single step EV circuits.ANDpre14141gregtech/gt.metaitem.01-32694.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
-8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1669gregtech/gt.blockmachines-1184.png1IV Circuit Assembler8-1The IV circuit assembler will let you make easier MV circuits, as well as single step EV circuits.ANDpre14141gregtech/gt.metaitem.01-32694.pngrewardsChoicegregtech/gt.metaitem.01-11316.pngTungstensteel Ingot
+8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board
+16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.blockmachines-1184.pngAdvanced Circuit Assembler IV;Pick-n-Place all over the place;Voltage IN: 8,192 (IV);Capacity: 524,288 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-1184.pngAdvanced Circuit Assembler IV
 1

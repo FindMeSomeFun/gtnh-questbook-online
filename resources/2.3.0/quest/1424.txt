@@ -1,9 +1,9 @@
-1424gregtech/gt.blockores-28.png1Find Ilmenite6-1This vein is kind lame, but you might as well get some I guess?ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1424gregtech/gt.blockores-28.png1Find Ilmenite6-1This vein is kind lame, but you might as well get some I guess?ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockores-918.pngIlmenite Ore;FeTiO\u2083
-64gregtech/gt.blockores-825.pngChromite Ore;FeCr\u2082O\u2084
-64gregtech/gt.blockores-842.pngUvarovite Ore;Ca\u2083Cr\u2082Si\u2083O\u2081\u2082
-16gregtech/gt.blockores-925.pngPerlite Ore;(MgFeSi\u2082O\u2088)\u2082(H\u2082O)
+1tasksANDRetrievalgregtech/gt.blockores-918.pngIlmenite Ore
+64gregtech/gt.blockores-825.pngChromite Ore
+64gregtech/gt.blockores-842.pngUvarovite Ore
+16gregtech/gt.blockores-925.pngPerlite Ore
 16

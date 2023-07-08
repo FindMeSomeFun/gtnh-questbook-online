@@ -1,9 +1,9 @@
 846gregtech/gt.metaitem.01-30013.png1O like Oxygen5-1Oxygen can be made in lots of different ways. Most commonly you'll either electrolyze it out of cassiterite sand, sugar from sugar canes or sugar beets, water, or various other oxygen-rich dusts, or centrifuge it from brown or yellow limonite dust.
 
-Later on, water electrolyzing or air centrifuging is probably going to be your main source.ANDpre1261gregtech/gt.blockmachines-372.pngrewardsChoicegregtech/gt.metaitem.01-2930.pngBrown Limonite Dust;FeHO\u2082
-16gregtech/gt.metaitem.01-2931.pngYellow Limonite Dust;FeHO\u2082
+Later on, water electrolyzing or air centrifuging is probably going to be your main source.ANDpre1261gregtech/gt.blockmachines-372.pngrewardsChoicegregtech/gt.metaitem.01-2930.pngBrown Limonite Dust
+16gregtech/gt.metaitem.01-2931.pngYellow Limonite Dust
 16IC2/itemCellEmpty-1.pngWater Cell
-16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+5tasksANDRetrievalgregtech/gt.metaitem.01-30013.pngOxygen Cell
 64

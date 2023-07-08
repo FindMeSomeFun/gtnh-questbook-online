@@ -10,5 +10,5 @@ There are also two commands:
 Will tell you total progress, and progress to next heart.
 
 /foodlist sync <PlayerName>
-Is to sync with the server if it gets out of sync.ANDpre151SpiceOfLife/lunchbag-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Is to sync with the server if it gets out of sync.ANDpre151SpiceOfLife/lunchbag-0.pngrewardstasksANDCheckboxother/checkbox-.pngCheckbox
 1

@@ -1,11 +1,11 @@
-66gregtech/gt.metaitem.01-32700.png1Time For Some Logic3-1Good news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!ANDpre671gregtech/gt.blockmachines-1360.png8711gregtech/gt.metaitem.01-32307.pngrewardsItemharvestcraft/turkeycookedItem-0.pngCooked Turkey;harvestcraft:turkeycookedItem
-2Choicegregtech/gt.metaitem.01-32700.pngVacuum Tube;A very simple Circuit;ULV-Tier
-2enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+66gregtech/gt.metaitem.01-32700.png1Time For Some Logic3-1Good news! You are now able to advance to the next tier! Bad news: You still have to craft a lot of things before you can begin. Fear not mortal, I shall guide you!ANDpre671gregtech/gt.blockmachines-1360.png8711gregtech/gt.metaitem.01-32307.pngrewardsItemharvestcraft/turkeycookedItem-0.pngCooked Turkey
+2Choicegregtech/gt.metaitem.01-32700.pngVacuum Tube
+2enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 4 EU-Volt
-6gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt;Cu(Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)\u2084
-2gregtech/gt.metaitem.01-23305.pngSteel Rod;Fe\u2085\u2080C
-4gregtech/gt.metaitem.02-19035.pngFine Copper Wire;Cu
+15tasksANDOptionalgregtech/gt.blockmachines-1360.png1x Copper Wire
+6gregtech/gt.metaitem.01-26308.pngRed Alloy Bolt
+2gregtech/gt.metaitem.01-23305.pngSteel Rod
+4gregtech/gt.metaitem.02-19035.pngFine Copper Wire
 4gregtech/gt.metaitem.03-32012.pngGlass Tube
-2Craftinggregtech/gt.metaitem.01-32700.pngVacuum Tube;A very simple Circuit;ULV-Tier
+2Craftinggregtech/gt.metaitem.01-32700.pngVacuum Tube
 2

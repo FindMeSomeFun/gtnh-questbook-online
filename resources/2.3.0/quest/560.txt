@@ -4,13 +4,13 @@ More than one size is possible: (1x1 which the quest gets you to make) 2x2 and 3
 
 Provide water and coal to the firebox. Make sure you don't run out of water or...BOOM.
 
-Each boiler needs 1, 2 or 3 layers of tanks on top, equal to the size (1x1x1, 2x2x2, or 3x3x3) - see the quests linked below.ANDpre590gregtech/gt.GregTech_FluidDisplay-89.pngrewardsItemgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-4harvestcraft/figjellysandwichItem-0.pngFig Jelly Sandwich;harvestcraft:figjellysandwichItem
+Each boiler needs 1, 2 or 3 layers of tanks on top, equal to the size (1x1x1, 2x2x2, or 3x3x3) - see the quests linked below.ANDpre590gregtech/gt.GregTech_FluidDisplay-89.pngrewardsItemgregtech/gt.metaitem.01-17032.pngIron Plate
+4harvestcraft/figjellysandwichItem-0.pngFig Jelly Sandwich
 3Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.blockcasings3-13.pngBronze Firebox Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+10tasksANDOptionalgregtech/gt.blockcasings3-13.pngBronze Firebox Casing
 1minecraft/brick_block-0.pngBricks
 2IC2/blockMachine-1.pngIron Furnace
 1minecraft/cauldron-0.pngCauldron
-1gregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-4RetrievalRailcraft/machine.beta-5.pngSolid Fueled Boiler Firebox;Multi-Block: Variable Size, Bottom Layer;Dimensions: 1x1, 2x2, 3x3;Mobs cannot Spawn on this Block
+1gregtech/gt.metaitem.01-17032.pngIron Plate
+4RetrievalRailcraft/machine.beta-5.pngSolid Fueled Boiler Firebox
 1

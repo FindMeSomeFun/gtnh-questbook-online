@@ -2,11 +2,11 @@
 
 This is a big downside, but the upside is that these boilers output respectable power even in these tiers. Without any other inputs, this boiler produces Superheated Steam at a flow rate matching 4000 EU/t, on turbines running at 100% fuel efficiency. If this becomes 150%, then the steam output will produce 6000 EU/t, almost the same as a boosted Large Combustion Engine!
 
-To get all the power from this, though, you will need a HP Steam Turbine, followed by a regular Steam Turbine, or more than one of each if the flow rate is too big for the turbine material you've chosen. Make sure to send the Distilled Water back to the boilers!ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemgregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-48enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+To get all the power from this, though, you will need a HP Steam Turbine, followed by a regular Steam Turbine, or more than one of each if the flow rate is too big for the turbine material you've chosen. Make sure to send the Distilled Water back to the boilers!ANDpre1621GalacticraftCore/item.spaceship-0.pngrewardsItemgregtech/gt.metaitem.01-11028.pngTitanium Ingot
+48enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.blockmachines-1022.pngLarge Titanium Boiler;Machine Type: Boiler;Controller block for the Large Titanium Boiler;Produces 16,000L of Superheated Steam with 1 Coal at 53,333L/s;A programmed circuit in the main block throttles the boiler (-1000L/s per config);Only some solid fuels are allowed (check the NEI Large Boiler tab for details);If there are any disallowed fuels in the input bus, the boiler won''t run!;Diesel fuels have 1/4 efficiency - Takes 62.5 seconds to heat up;Causes: 3000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1gregtech/gt.blockcasings2-14.pngTitanium Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-3gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-32Retrievalgregtech/gt.blockmachines-1022.pngLarge Titanium Boiler;Machine Type: Boiler;Controller block for the Large Titanium Boiler;Produces 16,000L of Superheated Steam with 1 Coal at 53,333L/s;A programmed circuit in the main block throttles the boiler (-1000L/s per config);Only some solid fuels are allowed (check the NEI Large Boiler tab for details);If there are any disallowed fuels in the input bus, the boiler won''t run!;Diesel fuels have 1/4 efficiency - Takes 62.5 seconds to heat up;Causes: 3000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
+5tasksANDOptionalgregtech/gt.blockmachines-1022.pngLarge Titanium Boiler
+1gregtech/gt.blockcasings2-14.pngTitanium Pipe Casing
+3gregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing
+32Retrievalgregtech/gt.blockmachines-1022.pngLarge Titanium Boiler
 1

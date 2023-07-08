@@ -1,7 +1,7 @@
 848ExtraTrees/food-50.png0Seed Oil5-1Pam's peanuts are a good seed oil source, and can be sped up with sprinklers. Or you can use IC2 crops to get Rapeseed. Another option is Forestry tree nuts such as Hazelnuts, Butternuts, or the King of nuts, coconuts. Or you can be lame and get them from regular seeds like wheat seeds.ANDpre13240gregtech/gt.blockmachines-512.pngrewardsChoicegregtech/gt.metaitem.01-30711.pngFish Oil Cell
 16IC2/itemFuelPlantBall-0.pngPlantball
 64IC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalgregtech/gt.metaitem.01-30713.pngSeed Oil Cell

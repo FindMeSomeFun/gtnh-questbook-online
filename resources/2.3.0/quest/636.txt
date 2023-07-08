@@ -1,7 +1,7 @@
-636minecraft/bread-0.png0First Handmade Bread13-1Baking your dough in a Furnace makes some tasty bread. Your first bread!ANDpre71minecraft/carrot-0.png6370gregtech/gt.metaitem.02-32559.pngrewardsChoicegregtech/gt.metatool.01-34-Steel-Steel.pngKnife;Durability: 51,200 / 51,200;Steel lvl 3;Attack Damage: 3.0;Mining Speed: 3.0;Sharpness II
-1gregtech/gt.metatool.01-24-Steel-Stone.pngMortar;Durability: 51,200 / 51,200;Steel lvl 3;Attack Damage: 5.0;Mining Speed: 6.0
-1gregtech/gt.metatool.01-46-Aluminium-Aluminium.pngRolling Pin;Durability: 12,800 / 12,800;Aluminium lvl 2;Attack Damage: 4.0;Mining Speed: 10.0
-1enhancedlootbags/lootbag-28.pngLootBag (Fast Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+636minecraft/bread-0.png0First Handmade Bread13-1Baking your dough in a Furnace makes some tasty bread. Your first bread!ANDpre71minecraft/carrot-0.png6370gregtech/gt.metaitem.02-32559.pngrewardsChoicegregtech/gt.metatool.01-34-Steel-Steel.pngKnife
+1gregtech/gt.metatool.01-24-Steel-Stone.pngMortar
+1gregtech/gt.metatool.01-46-Aluminium-Aluminium.pngRolling Pin
+1enhancedlootbags/lootbag-28.pngLootBag (Fast Food)
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-15tasksANDRetrievalminecraft/bread-0.pngBread;minecraft:bread
+15tasksANDRetrievalminecraft/bread-0.pngBread
 8

@@ -1,8 +1,8 @@
 3237gregtech/gt.metaitem.01-32017.png1Nearly there...38-1So close.ANDpre32391gregtech/gt.metaitem.01-32415.png32421dreamcraft/item.PikoCircuit-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32017.pngElectric Motor (UIV)
 1gregtech/gt.metaitem.01-32021.pngElectric Piston (UIV)
-1gregtech/gt.metaitem.01-32025.pngElectric Pump (UIV);Cannot be used as a Cover
-1gregtech/gt.metaitem.01-32029.pngConveyor Module (UIV);Cannot be used as a Cover
-1gregtech/gt.metaitem.01-32033.pngRobot Arm (UIV);Cannot be used as a Cover
+1gregtech/gt.metaitem.01-32025.pngElectric Pump (UIV)
+1gregtech/gt.metaitem.01-32029.pngConveyor Module (UIV)
+1gregtech/gt.metaitem.01-32033.pngRobot Arm (UIV)
 1gregtech/gt.metaitem.01-32037.pngEmitter (UIV)
 1gregtech/gt.metaitem.01-32041.pngSensor (UIV)
 1gregtech/gt.metaitem.01-32045.pngField Generator (UIV)

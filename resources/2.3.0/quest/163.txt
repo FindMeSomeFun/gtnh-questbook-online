@@ -1,12 +1,12 @@
 163EnderIO/blockInventoryPanel-0.png0I See Everything6-1The inventory panel is an alternative to a PR or LP storage system. Just like PR, you have to connect every chest/barrel with an item conduit. In addition to that, you also have to install a "remote awareness" upgrade into every conduit side you want the panel to see.
 
-Well, they're all obsolete once you get AE2 though.ANDpre1690EnderIO/blockPoweredSpawner-0.pngrewardsItemEnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade;Inventory Panel Remote Awareness
-1IronChest/BlockIronChest-4.pngSteel Chest;8*9 Inventory - 72 Slots
+Well, they're all obsolete once you get AE2 though.ANDpre1690EnderIO/blockPoweredSpawner-0.pngrewardsItemEnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade
+1IronChest/BlockIronChest-4.pngSteel Chest
 1ChoiceEnderIO/itemItemConduit-0.pngItem Conduit
-16IronChest/BlockIronChest-4.pngSteel Chest;8*9 Inventory - 72 Slots
-4EnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade;Inventory Panel Remote Awareness
+16IronChest/BlockIronChest-4.pngSteel Chest
+4EnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalEnderIO/blockInventoryPanel-0.pngInventory Panel;Remote access and crafting
-1RetrievalEnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade;Inventory Panel Remote Awareness
+5tasksANDRetrievalEnderIO/blockInventoryPanel-0.pngInventory Panel
+1RetrievalEnderIO/itemFunctionUpgrade-0.pngRemote Awareness Upgrade
 8

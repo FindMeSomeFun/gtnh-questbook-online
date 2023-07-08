@@ -2,7 +2,7 @@
 
 As an alternative, if you can afford them, try the GT++ Energy Buffers. They are more expensive and cannot charge items, but store more, don't lose any EU, and can be configured from 1-16A. See the GT++ tab for details.
 
-These can apparently draw infinite amps, so maybe use a diode or something if you like having the power on.ANDpre21490gregtech/gt.metaitem.01-32597.pngrewardsItemIC2/itemBatLamaCrystal-26.pngLapotron Crystal;Durability: 1 / 27
+These can apparently draw infinite amps, so maybe use a diode or something if you like having the power on.ANDpre21490gregtech/gt.metaitem.01-32597.pngrewardsItemIC2/itemBatLamaCrystal-26.pngLapotron Crystal
 4tasksANDOptionalAFSU/ALC-0.pngAFB
-1RetrievalAFSU/AFSU-0.pngAFSU;Output: 8192EU/t Capacity: 1b EU;Store: 0 EU
+1RetrievalAFSU/AFSU-0.pngAFSU
 1

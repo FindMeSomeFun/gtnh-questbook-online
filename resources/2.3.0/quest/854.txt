@@ -1,8 +1,8 @@
 854gregtech/gt.metaitem.01-30659.png1Ammonia6-1Nitrogen and hydrogen... Ammonia.ANDpre5501gregtech/gt.metaitem.01-30001.png5551gregtech/gt.metaitem.01-30012.png9431gregtech/gt.blockmachines-423.pngrewardsChoiceIC2/itemCellEmpty-1.pngWater Cell
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
+1gregtech/gt.metaitem.01-30013.pngOxygen Cell
 8Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-78gregtech/gt.metaitem.01-30012.pngNitrogen Cell;N
-26Retrievalgregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
+5tasksANDOptionalgregtech/gt.metaitem.01-30001.pngHydrogen Cell
+78gregtech/gt.metaitem.01-30012.pngNitrogen Cell
+26Retrievalgregtech/gt.metaitem.01-30659.pngAmmonia Cell
 26

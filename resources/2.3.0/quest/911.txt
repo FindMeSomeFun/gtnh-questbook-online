@@ -3,5 +3,5 @@
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDHuntmobs/Spider-.pngSpider
+25tasksANDHuntminecraft/Spider-.pngSpider
 10

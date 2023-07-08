@@ -1,6 +1,6 @@
-1414gregtech/gt.metaitem.01-32694.png1You're Gonna Hate This 5 and 6 in IV8-1Some machines need emitters and sensors, like the analyzer or the circuit assembler.ANDpre15391gregtech/gt.metaitem.01-32725.pngrewardsItemgregtech/gt.metaitem.01-2056.pngIndium Dust;In
-2gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
-8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1414gregtech/gt.metaitem.01-32694.png1You're Gonna Hate This 5 and 6 in IV8-1Some machines need emitters and sensors, like the analyzer or the circuit assembler.ANDpre15391gregtech/gt.metaitem.01-32725.pngrewardsItemgregtech/gt.metaitem.01-2056.pngIndium Dust
+2gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot
+8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalgregtech/gt.metaitem.01-32684.pngEmitter (IV)
 1gregtech/gt.metaitem.01-32694.pngSensor (IV)

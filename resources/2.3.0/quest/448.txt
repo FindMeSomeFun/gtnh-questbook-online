@@ -1,5 +1,5 @@
-448battlegear2/shield.hide-0.png0Shield Update0,14-1Your wooden shield is very weak. So you should make a better one. Looks like you need some leather, so go and find some cows.ANDpre4460battlegear2/shield.wood-0.pngrewardsItemminecraft/fence-0.pngFence;Burn Time: 300
+448battlegear2/shield.hide-0.png0Shield Update0,14-1Your wooden shield is very weak. So you should make a better one. Looks like you need some leather, so go and find some cows.ANDpre4460battlegear2/shield.wood-0.pngrewardsItemminecraft/fence-0.pngFence
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 2dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-2tasksANDCraftingbattlegear2/shield.hide-0.pngHide Shield;1.5 s Block
+2tasksANDCraftingbattlegear2/shield.hide-0.pngHide Shield
 1

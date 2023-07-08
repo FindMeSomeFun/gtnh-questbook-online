@@ -1,4 +1,4 @@
-2261EMT/NanoBootsTraveller-1-charged.png0Walk all over you14-1Nanosuit boots will give the nanosuit benefits along with a massive speed boost, higher jump, and better vis discount. Great boots for the master magical engineer.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png22600EMT/ElectricBootsTraveller-1-charged.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2261EMT/NanoBootsTraveller-1-charged.png0Walk all over you14-1Nanosuit boots will give the nanosuit benefits along with a massive speed boost, higher jump, and better vis discount. Great boots for the master magical engineer.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png22600EMT/ElectricBootsTraveller-1-charged.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master)
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalEMT/NanoBootsTraveller-32767.pngNanosuit Boots of the Traveller;Power Tier: 3;Vis Discount: 4%;Durability: 0 / 27;Provides full hazmat protection.;Protection: 3;Durability: 0/27
+1tasksANDRetrievalEMT/NanoBootsTraveller-32767.pngNanoBootsTraveller
 1

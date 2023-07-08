@@ -1,10 +1,10 @@
-1719AdvancedSolarPanel/BlockAdvSolarPanel-3.png0Power of the Sun 1x1 EV19-1Put those 2048 EU panels on a block to make them placeable in the world.ANDpre16720gregtech/gt.metaitem.01-32755.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.01-2316.pngTungstensteel Dust;(Fe\u2085\u2080C)W
-16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1719AdvancedSolarPanel/BlockAdvSolarPanel-3.png0Power of the Sun 1x1 EV19-1Put those 2048 EU panels on a block to make them placeable in the world.ANDpre16720gregtech/gt.metaitem.01-32755.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer
+4gregtech/gt.metaitem.01-2316.pngTungstensteel Dust
+16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-32755.pngSolar Panel (EV);Extreme Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048;EV-Tier
-1gregtech/gt.metaitem.01-32653.pngRobot Arm (EV);1 stack every 1/5 sec (as Cover);Grabs from and inserts into specific slots
-1gregtech/gt.blockmachines-14.pngEV Machine Hull;You just need Imagination to use this.;Voltage IN: 2,048 (EV);Voltage OUT: 2,048 (EV);Capacity: 102,912 EU
+2tasksANDOptionalgregtech/gt.metaitem.01-32755.pngSolar Panel (EV)
+1gregtech/gt.metaitem.01-32540.pngSmall Sunnarium Battery
+1gregtech/gt.metaitem.01-32653.pngRobot Arm (EV)
+1gregtech/gt.blockmachines-14.pngEV Machine Hull
 1RetrievalAdvancedSolarPanel/BlockAdvSolarPanel-3.pngQuantum Solar Panel
 1

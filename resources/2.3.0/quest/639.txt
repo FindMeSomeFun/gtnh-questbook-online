@@ -1,5 +1,5 @@
-639gregtech/gt.metaitem.01-30736.png0Sulfuric Naphtha4-1Another distillate you can make out of oil is sulfuric naphtha with a burn value of 40,000 EU per cell in the gas turbine.ANDpre5471gregtech/gt.blockmachines-531.pngrewardsChoicegregtech/gt.metaitem.01-30001.pngHydrogen Cell;H
-8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+639gregtech/gt.metaitem.01-30736.png0Sulfuric Naphtha4-1Another distillate you can make out of oil is sulfuric naphtha with a burn value of 40,000 EU per cell in the gas turbine.ANDpre5471gregtech/gt.blockmachines-531.pngrewardsChoicegregtech/gt.metaitem.01-30001.pngHydrogen Cell
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 3tasksANDRetrievalgregtech/gt.metaitem.01-30736.pngSulfuric Naphtha Cell
 9

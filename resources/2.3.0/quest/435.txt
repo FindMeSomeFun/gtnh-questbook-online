@@ -1,8 +1,8 @@
 435AWWayofTime/boundShovel-0.png0Bound Tools: Shovel37-1Ever wanted to clear out a large piece of terrain with dirt, gravel and sand? Why not let demons do it? This shovel, imbued with the soul of a demon will unleash the power by your will. But be warned: The demon you're about to summon with this is thirsty, and it costs a lot of LP to make use of it, so make sure your LP pool is full!
 
-Will not dig beneath you.ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag (BM Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Will not dig beneath you.ANDpre4331AWWayofTime/masterStone-0.pngrewardsItemenhancedlootbags/lootbag-17.pngLootBag (BM Adept)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-2tasksANDRetrievalAWWayofTime/boundShovel-0.pngBound Shovel;No, not that type of spade.;+9 Attack Damage;Durability: 1000/1000
+2tasksANDRetrievalAWWayofTime/boundShovel-0.pngBound Shovel
 1

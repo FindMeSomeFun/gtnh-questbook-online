@@ -6,7 +6,7 @@ For processing patterns (machines, anything not regular 3x3 crafting) click the 
 1appliedenergistics2/item.ItemMultiPart-440.pngME Interface
 1appliedenergistics2/item.ItemMultiMaterial-52.pngBlank Pattern
 1minecraft/flint-0.pngFlint
-2minecraft/log-0.pngOak Wood;Burn Time: 300
+2minecraft/log-0.pngOak Wood
 2Retrievalappliedenergistics2/item.ItemMultiPart-440.pngME Interface
 1appliedenergistics2/item.ItemMultiMaterial-52.pngBlank Pattern
 1appliedenergistics2/item.ItemMultiPart-240.pngME Import Bus

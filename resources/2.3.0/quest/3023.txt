@@ -2,10 +2,10 @@
 
 No, not really, but you can do better now. The catch is that the upgrade to this, the Dangote Distillus, is special in the sense that its crafting recipe is in the Chemical Plant, and the one you have to build for this recipe is very expensive. Should you decide to accept the costs, though, you can build a Dangote in much the same way as the DT, and even upgrade it to tier 2 for better performance (look in NEI for a Distillus Chip, you have to put it in the controller). 
 
-In summary, this multi runs faster than the DT by doing parallels, a recipe done multiple times at once. A quad DT that you were using to distill Oil can be replaced by a Dangote, and so on. Since distillation is usually a bottleneck in speed for oil processing, this multi should prove useful.ANDpre30220gregtech/gt.blockmachines-2105.pngrewardsItemgregtech/gt.blockmachines-132.pngSuper Tank III;Stores 16,000,000L of fluid;Will keep its contents when harvested
-3enhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+In summary, this multi runs faster than the DT by doing parallels, a recipe done multiple times at once. A quad DT that you were using to distill Oil can be replaced by a Dangote, and so on. Since distillation is usually a bottleneck in speed for oil processing, this multi should prove useful.ANDpre30220gregtech/gt.blockmachines-2105.pngrewardsItemgregtech/gt.blockmachines-132.pngSuper Tank III
+3enhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV)
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 1dreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDRetrievalgregtech/gt.blockmachines-31021.pngDangote Distillus;Machine Type: Distillery, Distillation Tower;Controller Block for the Advanced Distillation Tower;Use 85% less energy in distillery mode;250%/100% faster in DT/distillery mode;Right click the controller with screwdriver to change mode.;Max parallel dictated by tower tier and mode;DTower Mode: T1=4, T2=12;Distilery Mode: Tower Tier * (4*InputTier);Distilery Mode require a full height tower;Causes: 480 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/MU-metaitem.01-32151.pngUpgrade Chip;Used to upgrade Distillus to Tier 2
+1tasksANDRetrievalgregtech/gt.blockmachines-31021.pngDangote Distillus
+1miscutils/MU-metaitem.01-32151.pngDistillus Upgrade Chip
 1

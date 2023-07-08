@@ -3,8 +3,8 @@
 First off you'll need to react your hafnia with some hydrochloric acid.
 
 And, like with zirconium, you'll need the solution rather than the dust.ANDpre30450bartworks/gt.bwMetaGenerateddust-11011.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dust;HfO\u2082;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
-4Optionalbartworks/gt.bwMetaGenerateddust-11003.pngHafnium Tetrachloride Dust;HfCl\u2084;Added by GTNH: Lanthanides via BartWorks
-1Retrievalbartworks/gt.bwMetaGeneratedcell-11004.pngHafnium Tetrachloride Solution Cell;HfCl\u2084;Added by GTNH: Lanthanides via BartWorks
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11002.pngHafnia Dust
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell
+4Optionalbartworks/gt.bwMetaGenerateddust-11003.pngHafnium Tetrachloride Dust
+1Retrievalbartworks/gt.bwMetaGeneratedcell-11004.pngHafnium Tetrachloride Solution Cell
 1

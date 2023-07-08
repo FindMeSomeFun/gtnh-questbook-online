@@ -8,7 +8,7 @@ If you haven't already, consider building some Filing Cabinets. They make storin
 
 Or use double chests and toss the ones you don't want.ANDpre7180IC2/blockCrop-0.pngrewardsChoiceIC2/blockCrop-0.pngCrop
 32minecraft/nether_wart-0.pngNether Wart
-16enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
+16enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops)
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDRetrievalIC2/itemCropSeed-0.pngUnknown Seeds
 8

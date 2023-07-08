@@ -1,6 +1,6 @@
 3264Botania/specialFlower-0-gourmaryllis.png0Shut down your canning machine35-1Some flowers eat bees. Some eat leaves. Some eat slimes. This one eats everything (everything you can eat, anyway). The gourmaryllis is happiest when provided with a good variety of delicious meals, so I hope the HV-tier diet of canned sludge hasn't made you forget how to cook.ANDpre32631Botania/rune-2.pngrewardsItemdreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
-5harvestcraft/porklomeinItem-0.pngPork Lo Mein;harvestcraft:porklomeinItem
-2harvestcraft/pistachiobakedsalmonItem-0.pngPistachio Baked Salmon;harvestcraft:pistachiobakedsalmonItem
-2harvestcraft/peachesandcreamoatmealItem-0.pngPeaches and Cream Oatmeal;harvestcraft:peachesandcreamoatmealItem
-2tasksANDRetrievalBotania/specialFlower-0-gourmaryllis.pngGourmaryllis;Generating Flower;Fuyukai Desu
+5harvestcraft/porklomeinItem-0.pngPork Lo Mein
+2harvestcraft/pistachiobakedsalmonItem-0.pngPistachio Baked Salmon
+2harvestcraft/peachesandcreamoatmealItem-0.pngPeaches and Cream Oatmeal
+2tasksANDRetrievalBotania/specialFlower-0-gourmaryllis.pngGourmaryllis
 1

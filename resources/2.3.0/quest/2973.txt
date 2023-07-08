@@ -3,15 +3,15 @@
 Congratulations to making it this far! Enjoy your ginormous energy buffer!
 
 If you have any further questions, missing information or suggestions please do not hesitate to post on the official GT New Horizons Discord. Please add '@SinTh0r4s' to your post to make sure I’ll see it.
-ANDpre29710gregtech/gt.blockmachines-17000.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe;Fluid Capacity: 9,600 L/sec;Heat Limit: 2,500 K
-16gregtech/gt.metaitem.01-32730.pngMachine Controller Cover;Turns Machines ON/OFF
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+ANDpre29710gregtech/gt.blockmachines-17000.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe
+16gregtech/gt.metaitem.01-32730.pngMachine Controller Cover
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-17019.pngHydro Turbine (MV);Hydro Turbine Controller;Controller Block for the Hydro Turbine;Consumes pressurize water to produce EU;Input is pressurized water from Hydro Dams;Requires a Dynamo, Input, Output and Maintenance Hatch anywhere!;Produces up to 128mB Water per Tick;Efficiency: 94%;To see the structure, use a TecTech Blueprint on the Controller!;Use Redstone to automate!
-1Optionalgregtech/gt.blockmachines-51.pngInput Hatch (LV);Fluid Input for Multiblocks;Capacity: 16,000L
-1gregtech/gt.blockmachines-61.pngOutput Hatch (LV);Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1gregtech/gt.blockmachines-90.pngMaintenance Hatch;For maintaining Multiblocks;Cannot be shared between Multiblocks!
-1gregtech/gt.blockmachines-32.pngMV Dynamo Hatch;Generating electric Energy from Multiblocks;Puts out up to 1 Amp;Voltage OUT: 128 (MV);Capacity: 1,536 EU
-1Optionalgregtech/gt.blockcasings2-1.pngFrost Proof Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-21Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector;Triggers Constructable Interface;Shows multiblock construction schematic,;use on the multiblock controller.;(Sneak use on controller to build);Quantity of schematics in item stack affects tier/mode/type
+5tasksANDRetrievalgregtech/gt.blockmachines-17019.pngHydro Turbine (MV)
+1Optionalgregtech/gt.blockmachines-51.pngInput Hatch (LV)
+1gregtech/gt.blockmachines-61.pngOutput Hatch (LV)
+1gregtech/gt.blockmachines-90.pngMaintenance Hatch
+1gregtech/gt.blockmachines-32.pngMV Dynamo Hatch
+1Optionalgregtech/gt.blockcasings2-1.pngFrost Proof Machine Casing
+21Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector
 1

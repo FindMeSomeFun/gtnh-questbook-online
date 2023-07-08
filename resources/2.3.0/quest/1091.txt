@@ -1,9 +1,9 @@
-1091irontank/diamondTank-0.png0Diamond Tanks... Ooo, Shiny4-1After you build a cutting machine you can make some diamond plates for your new 64,000L single block tank.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/diamond-0.pngDiamond;Burn Time: 102400
-4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1091irontank/diamondTank-0.png0Diamond Tanks... Ooo, Shiny4-1After you build a cutting machine you can make some diamond plates for your new 64,000L single block tank.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemminecraft/diamond-0.pngDiamond
+4enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-2gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
-2minecraft/glass_pane-0.pngGlass Pane;Glass-Tier: HV
-2BuildCraftFactory/tankBlock-0.pngTank;Glass-Tier: HV;Stores up to 16 Buckets of one Liquid Not portable, use a dolly
-1Retrievalirontank/diamondTank-0.pngDiamond Tank;Glass-Tier: HV;Stores up to 64 Buckets of one Liquid Not portable, use a dolly
+15tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate
+2gregtech/gt.metaitem.01-27500.pngDiamond Screw
+2minecraft/glass_pane-0.pngGlass Pane
+2BuildCraftFactory/tankBlock-0.pngTank
+1Retrievalirontank/diamondTank-0.pngDiamond Tank
 1

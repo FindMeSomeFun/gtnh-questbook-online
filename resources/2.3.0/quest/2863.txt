@@ -1,6 +1,6 @@
 2863Forestry/sapling-0-Wenge.png0Wenge16-1You can get Wenge by combining Balsa and Cocobolo.ANDpre21340Forestry/sapling-0-Cocobolo.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-30enhancedlootbags/lootbag-19-enchanted.pngLootBag (Forest Ranger Basic);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Balsa.pngBalsa Sapling;Burn Time: 100
-1Forestry/sapling-0-Cocobolo.pngCocobolo Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-Wenge.pngWenge Sapling;Burn Time: 100
+30enhancedlootbags/lootbag-19-enchanted.pngLootBag (Forest Ranger Basic)
+1tasksANDOptionalForestry/sapling-0-Balsa.pngBalsa Sapling
+1Forestry/sapling-0-Cocobolo.pngCocobolo Sapling
+1RetrievalForestry/sapling-0-Wenge.pngWenge Sapling
 1

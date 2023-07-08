@@ -1,5 +1,5 @@
-1509EnderIO/itemTravelStaff-0-charged.png0Travelocity!6-1A staff of traveling can get you really moving around your base. Hold shift and right click to teleport in that direction. If you've got travel anchors, just right clicking will send you to them. The range is 16 blocks for normal TP, 128 to an anchor.ANDpre1410EnderIO/itemMaterial-6.pngrewardsItemEnderIO/blockTravelAnchor-0.pngTravel Anchor;Cooldown 2 seconds
+1509EnderIO/itemTravelStaff-0-charged.png0Travelocity!6-1A staff of traveling can get you really moving around your base. Hold shift and right click to teleport in that direction. If you've got travel anchors, just right clicking will send you to them. The range is 16 blocks for normal TP, 128 to an anchor.ANDpre1410EnderIO/itemMaterial-6.pngrewardsItemEnderIO/blockTravelAnchor-0.pngTravel Anchor
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5tasksANDRetrievalEnderIO/itemTravelStaff-16.pngStaff of Traveling;0/250,000 RF;Durability: 0 / 16
+5tasksANDRetrievalEnderIO/itemTravelStaff-16.pngStaff of Traveling
 1

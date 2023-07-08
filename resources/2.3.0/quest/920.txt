@@ -1,7 +1,7 @@
-920adventurebackpack/adventureBackpack-4.png1Blaze: Evolved391728000In order to proceed to Tier 4 Planets, the blaze boss needs to be killed. Find him in one of the dungeons on Ceres.ANDpre9191minecraft/skull-4.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+920adventurebackpack/adventureBackpack-4.png1Blaze: Evolved391728000In order to proceed to Tier 4 Planets, the blaze boss needs to be killed. Find him in one of the dungeons on Ceres.ANDpre9191minecraft/skull-4.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksANDLocationDIM/42-.pngCeres
-1Huntmobs/GalacticraftCore-EvolvedBossBlaze-.pngEvolved Boss Blaze
+2tasksANDLocationDIM/42-.png42
+1HuntGalacticraftCore/EvolvedBossBlaze-.pngEvolvedBossBlaze
 1

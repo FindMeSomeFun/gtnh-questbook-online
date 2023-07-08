@@ -2,7 +2,7 @@
 
 It is used in various signaling systems, mainly to change the way switch tracks and wye tracks work.ANDpre481gregtech/gt.metaitem.01-11308.png761gregtech/gt.blockmachines-140.png6670Railcraft/track-736-slow.pngrewardsChoiceRailcraft/part.rail-2.pngWooden Rail
 16Railcraft/part.rail-0.pngStandard Rail
-8enhancedlootbags/lootbag-32.pngLootBag (Transportation 3 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+8enhancedlootbags/lootbag-32.pngLootBag (Transportation 3 Class)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalRailcraft/signal-4.pngSwitch Lever;Controls adjacent Switch Tracks;Manual Operation;Mobs cannot Spawn on this Block
+15tasksANDRetrievalRailcraft/signal-4.pngSwitch Lever
 1

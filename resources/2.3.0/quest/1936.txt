@@ -1,3 +1,3 @@
 1936TConstruct/metalPattern-13.png0The Right Tool for the Job15-1Tinker's Construct has their own chisel tool variant, for converting Tinker blocks into different types. Not a lot of uses, but if you check NEI you can see what you can do.ANDpre19370TConstruct/SpeedBlock-0.pngrewardsItemTConstruct/GravelOre-4.pngAluminum Gravel Ore
-4tasksANDRetrievalTConstruct/metalPattern-13.pngChisel Head Cast;Material Cost: 0.5
+4tasksANDRetrievalTConstruct/metalPattern-13.pngChisel Head Cast
 1

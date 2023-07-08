@@ -1,12 +1,12 @@
 1451GalacticraftMars/tile.minerBase-0.png0Astro Miner Base24-1To construct the dock, place 8 Astro Miner Base blocks in a cube, 2 blocks high, 2 blocks wide and 2 blocks deep. When the last of the base blocks is placed, it should automatically convert into an Astro Miner Base.ANDpre14500GalacticraftMars/item.itemAstroMiner-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-8.pngBeam Core
-4gregtech/gt.metaitem.01-11081.pngTungsten Ingot;W
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4gregtech/gt.metaitem.01-11081.pngTungsten Ingot
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.blockmachines-4177.pngTungsten Frame Box;Just something you can put covers on.
+2tasksANDOptionalgregtech/gt.blockmachines-4177.pngTungsten Frame Box
 2GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
 4GalacticraftMars/item.null-5.pngCompressed Desh
 4GalacticraftMars/item.itemBasicAsteroids-8.pngBeam Core
-4IronChest/BlockIronChest-4.pngSteel Chest;8*9 Inventory - 72 Slots
+4IronChest/BlockIronChest-4.pngSteel Chest
 2GalacticraftCore/tile.machineTiered-0.pngEnergy Storage Module
 2RetrievalGalacticraftMars/tile.minerBase-0.pngAstro Miner Base
 8

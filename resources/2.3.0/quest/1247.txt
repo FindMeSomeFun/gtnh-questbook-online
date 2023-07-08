@@ -1,8 +1,8 @@
-1247gregtech/gt.metaitem.01-32724.png1Quantum Eye7-1Quantum eyes are required in EV emitters and sensors. Just infuse your ender eye with radon to get one.ORpre12410gregtech/gt.metaitem.01-30093.png14800miscutils/dustRadium226-0.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1247gregtech/gt.metaitem.01-32724.png1Quantum Eye7-1Quantum eyes are required in EV emitters and sensors. Just infuse your ender eye with radon to get one.ORpre12410gregtech/gt.metaitem.01-30093.png14800miscutils/dustRadium226-0.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot
+8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionalminecraft/ender_eye-0.pngEye of Ender
-4gregtech/gt.metaitem.01-30093.pngRadon Cell;Rn
-1Retrievalgregtech/gt.metaitem.01-32724.pngQuantum Eye;Improved Ender Eye
+4gregtech/gt.metaitem.01-30093.pngRadon Cell
+1Retrievalgregtech/gt.metaitem.01-32724.pngQuantum Eye
 4

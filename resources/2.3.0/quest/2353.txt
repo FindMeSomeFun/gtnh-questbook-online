@@ -21,12 +21,12 @@ Stardust Ore block has different textures on its sides.
 
 Sphalerite: You can macerate it for crushed normal sphalerite,ORpre23560HardcoreEnderExpansion/auricion-0.png23580HardcoreEnderExpansion/arcane_shard-0.png23590HardcoreEnderExpansion/endoplasm-0.png23600HardcoreEnderExpansion/fire_shard-0.pngrewardsChoiceHardcoreEnderExpansion/sphalerite-1.pngSphalerite with Stardust
 32HardcoreEnderExpansion/essence-0.pngDragon Essence
-16enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic);You feel that a bit more "Fortune" might be a good idea...
+16enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic)
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;40 Knowledge Points
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note
 1tasksANDRetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
-64HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+64HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock
 16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
 16HardcoreEnderExpansion/stardust-0.pngStardust
 32HardcoreEnderExpansion/endium_ore-0.pngEndium Ore

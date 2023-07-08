@@ -1,6 +1,6 @@
 1656dreamcraft/item.MutatedEgg-0.png0Egg Mutation7-1After you've gotten some mutagen try soaking your Big Egg in it along with some U-238.ANDpre16550dreamcraft/item.TheBigEgg-0.pngrewardsItemminecraft/spawn_egg-61.pngSpawn Blaze
 1minecraft/spawn_egg-56.pngSpawn Ghast
-1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionaldreamcraft/item.TheBigEgg-0.pngThe Big Egg

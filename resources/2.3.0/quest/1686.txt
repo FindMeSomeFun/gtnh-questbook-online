@@ -1,16 +1,16 @@
 1686gregtech/gt.metaitem.03-32089.png1Crystalprocessors9-1Now that you're this far into LuV, you can make easier IV circuits, as well as your first UV circuit.
 
-After crafting each circuit, make an imprint of it to reduce the cost of following ones.ANDpre12491gregtech/gt.metaitem.03-32045.png15221gregtech/gt.metaitem.01-11360.png16881gregtech/gt.metaitem.03-32104.png26021bartworks/gt.bwMetaGeneratedItem0-0.png26081gregtech/gt.metaitem.03-32025.pngrewardsChoicegregtech/gt.metaitem.03-32049.pngASoC;Advanced System on a Chip
-8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+After crafting each circuit, make an imprint of it to reduce the cost of following ones.ANDpre12491gregtech/gt.metaitem.03-32045.png15221gregtech/gt.metaitem.01-11360.png16881gregtech/gt.metaitem.03-32104.png26021bartworks/gt.bwMetaGeneratedItem0-0.png26081gregtech/gt.metaitem.03-32025.pngrewardsChoicegregtech/gt.metaitem.03-32049.pngASoC
+8gregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board
+8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board;A elite Circuit Board
-6gregtech/gt.metaitem.03-32070.pngCrystal Processing Unit;Crystal CPU
-6gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit;Power Circuit
-12gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor;Advanced Electronic Component
-36gregtech/gt.metaitem.03-32026.pngAdvanced SMD Transistor;Advanced Electronic Component
-36gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire;NbTi
-48Retrievalgregtech/gt.metaitem.03-32089.pngCrystalprocessor;An Elite Circuit;IV-Tier
-1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit;A Sliced Circuit;Added by BartWorks
-1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint;An Imprint for a Circuit;Added by BartWorks
+5tasksANDOptionalgregtech/gt.metaitem.03-32104.pngElite Circuit Board
+6gregtech/gt.metaitem.03-32070.pngCrystal Processing Unit
+6gregtech/gt.metaitem.03-32055.pngNanocomponent Central Processing Unit
+12gregtech/gt.metaitem.03-32027.pngAdvanced SMD Capacitor
+36gregtech/gt.metaitem.03-32026.pngAdvanced SMD Transistor
+36gregtech/gt.metaitem.02-19360.pngFine Niobium-Titanium Wire
+48Retrievalgregtech/gt.metaitem.03-32089.pngCrystalprocessor
+1Optionalbartworks/gt.bwMetaGeneratedItem0-1.pngSliced Circuit
+1Retrievalbartworks/gt.bwMetaGeneratedItem0-0.pngCircuit Imprint
 1

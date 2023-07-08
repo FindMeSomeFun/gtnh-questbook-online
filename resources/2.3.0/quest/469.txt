@@ -1,8 +1,8 @@
-469Natura/BerryBush-12.png0Collecting Some Berries0-1Are you waiting for the carrots to grow? Go and find some berry bushes and berries. The berries are a good source of food and you can put these bushes around your house to make a wall. It should provide a good protection against all those monsters that want to come into your house and kill you.ANDpre61minecraft/wheat_seeds-0.pngrewardsItemNatura/BerryBush-3.pngMaloberry Bush;Tasty and yellow-orange;Found in cold areas
-2Natura/BerryBush-2.pngBlackberry Bush;Sweet and black;Found in wet areas
+469Natura/BerryBush-12.png0Collecting Some Berries0-1Are you waiting for the carrots to grow? Go and find some berry bushes and berries. The berries are a good source of food and you can put these bushes around your house to make a wall. It should provide a good protection against all those monsters that want to come into your house and kill you.ANDpre61minecraft/wheat_seeds-0.pngrewardsItemNatura/BerryBush-3.pngMaloberry Bush
+2Natura/BerryBush-2.pngBlackberry Bush
 2Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-2tasksANDRetrievalNatura/berry-1.pngBlueberry;Natura:berry;Saturating!
-5Natura/berry-0.pngRaspberry;Natura:berry;Saturating!
-5RetrievalNatura/BerryBush-0.pngRaspberry Bush;Sweet and red;Found in warm areas
-5Natura/BerryBush-1.pngBlueberry Bush;Tart and blue;Found in temperate areas
+2tasksANDRetrievalNatura/berry-1.pngBlueberry
+5Natura/berry-0.pngRaspberry
+5RetrievalNatura/BerryBush-0.pngRaspberry Bush
+5Natura/BerryBush-1.pngBlueberry Bush
 5

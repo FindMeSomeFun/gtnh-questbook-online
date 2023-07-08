@@ -2,10 +2,10 @@
 
 You can also use the pyrolyze oven to make biomass in a more efficient way if you make it.
 
-Note that forestry has it's own biomass as well. It can also be made into fermented biomass like this kind. Choose which kind you want to make later on yourself.ORpre7340IC2/blockMachine-6.png7350gregtech/gt.blockmachines-492.png30700gregtech/gt.blockmachines-1159.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-2gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
+Note that forestry has it's own biomass as well. It can also be made into fermented biomass like this kind. Choose which kind you want to make later on yourself.ORpre7340IC2/blockMachine-6.png7350gregtech/gt.blockmachines-492.png30700gregtech/gt.blockmachines-1159.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable
+2gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit
 1IC2/itemCellEmpty-0.pngEmpty Cell
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalIC2/itemCellEmpty-6.pngBiomass Cell

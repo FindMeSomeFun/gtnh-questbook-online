@@ -1,6 +1,6 @@
-2860BuildCraftTransport/item.buildcraftPipe.pipepowerwood-0.png0Kinesis Pipes16-1To transfer RF power more than 1 block, you'll want some kinesis pipes. Use a wooden one first to connect to the pipe network, then other types to transfer it. That said, they seem to be lossy somewhat, so conduits are better, if more expensive. Also, you need capacitors to store the RF anyway.ORpre12140Forestry/engine-4.png12150Forestry/engine-2.png12160Forestry/engine-1.png28590BuildCraftCore/engineBlock-2.pngrewardsItemBuildCraftTransport/item.buildcraftPipe.pipepowercobblestone-0.pngCobblestone Kinesis Pipe;80 RF/t
+2860BuildCraftTransport/item.buildcraftPipe.pipepowerwood-0.png0Kinesis Pipes16-1To transfer RF power more than 1 block, you'll want some kinesis pipes. Use a wooden one first to connect to the pipe network, then other types to transfer it. That said, they seem to be lossy somewhat, so conduits are better, if more expensive. Also, you need capacitors to store the RF anyway.ORpre12140Forestry/engine-4.png12150Forestry/engine-2.png12160Forestry/engine-1.png28590BuildCraftCore/engineBlock-2.pngrewardsItemBuildCraftTransport/item.buildcraftPipe.pipepowercobblestone-0.pngCobblestone Kinesis Pipe
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-10tasksANDRetrievalBuildCraftTransport/item.buildcraftPipe.pipepowerwood-0.pngWooden Kinesis Pipe;Power Input Pipe;320 RF/t
-1BuildCraftTransport/item.buildcraftPipe.pipepowercobblestone-0.pngCobblestone Kinesis Pipe;80 RF/t
+10tasksANDRetrievalBuildCraftTransport/item.buildcraftPipe.pipepowerwood-0.pngWooden Kinesis Pipe
+1BuildCraftTransport/item.buildcraftPipe.pipepowercobblestone-0.pngCobblestone Kinesis Pipe
 1

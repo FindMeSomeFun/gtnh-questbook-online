@@ -1,7 +1,7 @@
 2706dreamcraft/item.HeavyDutyRocketFinsTier4-0.png1Heavy Duty Rocket Fins Tier 424-1Every rocket needs a few rocket fins. Tier 7 rockets need heavy ones Tier 4.ANDpre26411dreamcraft/item.HeavyDutyPlateTier7-0.pngrewardsChoicedreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
 8dreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5
 4dreamcraft/item.HeavyDutyPlateTier6-0.pngHeavy Duty Plate Tier 6
-2enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV);You feel that a bit more "Fortune" might be a good idea...
+2enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV)
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionalGalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
 8dreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7

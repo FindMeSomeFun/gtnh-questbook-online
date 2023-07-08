@@ -1,7 +1,7 @@
 1603TConstruct/oreBerries-5.png0Feeling a Little Like a Noob...13-1So could you grow me some essence berries so I can level up? You can plant the ones you get from the bushes, or breed up some.
 
-As a reward, I'll give you a silly seed a friend of mine came up with. It will definitely keep you on your toes.ANDpre7210Natura/N Crops-0.pngrewardsItemIC2/itemCropSeed-0.pngGoldfish Plant Seeds;Gr 1;Ga 1;Re 1
-1enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
-1tasksANDConsumeTConstruct/oreBerries-5.pngConcentrated Essence Berry;Tastes like Creeper;Can be placed on a empty IC2 Crop.
-64RetrievalIC2/itemCropSeed-0.pngEssence Berry Seeds;Gr 0;Ga 0;Re 0
+As a reward, I'll give you a silly seed a friend of mine came up with. It will definitely keep you on your toes.ANDpre7210Natura/N Crops-0.pngrewardsItemIC2/itemCropSeed-0.pngGoldfish Plant Seeds
+1enhancedlootbags/lootbag-51.pngLootBag (IC2 Crops)
+1tasksANDConsumeTConstruct/oreBerries-5.pngConcentrated Essence Berry
+64RetrievalIC2/itemCropSeed-0.pngEssence Berry Seeds
 1

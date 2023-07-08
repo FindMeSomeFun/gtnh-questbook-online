@@ -4,5 +4,5 @@ Kill it twice for something nice.ANDpre5630minecraft/skull-1.pngrewardsIt
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
-1tasksANDHuntmobs/WitherBoss-.pngWitherBoss
+1tasksANDHuntminecraft/WitherBoss-.pngWitherBoss
 1

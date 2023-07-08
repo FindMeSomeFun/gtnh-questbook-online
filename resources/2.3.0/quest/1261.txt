@@ -1,15 +1,15 @@
 1261gregtech/gt.metaitem.01-32706.png1Nanoprocessor Mainframe7-1The nanoprocessor mainframe is the first LuV Circuit, and the end of this circuit line produced in EV. To craft the Tier 2 Rocket and reach Mars, Phobos and Deimos, you need to reach this circuit and make 8 of it.
 
-After that, you will be able to progress into IV much more easily, but you will need two more circuits to make the IV Circuit Assembling Machine.ANDpre12511gregtech/gt.metaitem.03-32084.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
-16gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-8gregtech/gt.metaitem.03-32011.pngSMD Resistor;Electronic Component
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+After that, you will be able to progress into IV much more easily, but you will need two more circuits to make the IV Circuit Assembling Machine.ANDpre12511gregtech/gt.metaitem.03-32084.pngrewardsChoicegregtech/gt.blockmachines-4115.pngAluminium Frame Box
+16gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip
+8gregtech/gt.metaitem.03-32011.pngSMD Resistor
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
-2gregtech/gt.metaitem.03-32084.pngElite Nanocomputer;An Elite Circuit;IV-Tier
-2gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
-16gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-32gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-16gregtech/gt.blockmachines-1380.png1x Annealed Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-32Retrievalgregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe;A Master Circuit;LuV-Tier
+2tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box
+2gregtech/gt.metaitem.03-32084.pngElite Nanocomputer
+2gregtech/gt.metaitem.03-32182.pngSMD Inductor
+16gregtech/gt.metaitem.03-32020.pngSMD Capacitor
+32gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip
+16gregtech/gt.blockmachines-1380.png1x Annealed Copper Wire
+32Retrievalgregtech/gt.metaitem.01-32706.pngNanoprocessor Mainframe
 1

@@ -6,5 +6,5 @@ If you use 3 racks with 3 Crystalprocessor Mainframes and 1 Advanced Heat Vent e
 
 A third option for higher computation needs is to finally go back and learn how to set parameters in a useful way. That gives you finer control over the maximum heat your QC reaches and get everything out of it.
 
-Remember to let all the heat in your QCs dissipate before changing things.ANDpre20071gregtech/gt.blockmachines-15311.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Remember to let all the heat in your QCs dissipate before changing things.ANDpre20071gregtech/gt.blockmachines-15311.pngrewardstasksANDCheckboxother/checkbox-.pngCheckbox
 1

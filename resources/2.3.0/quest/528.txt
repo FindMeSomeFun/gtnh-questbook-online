@@ -1,4 +1,4 @@
-528gendustry/GeneSample-0.png0Only the Best: Cave28-1On your way to awesome bees, you have to collect only the best traits available. Bees with Cave can work in housing that is covered - by more housing!ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag (Bees Expert);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+528gendustry/GeneSample-0.png0Only the Best: Cave28-1On your way to awesome bees, you have to collect only the best traits available. Bees with Cave can work in housing that is covered - by more housing!ANDpre5090gendustry/Sampler-0.pngrewardsItemenhancedlootbags/lootbag-27-enchanted.pngLootBag (Bees Expert)
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample;Taken from a Bee;Cave dwelling: True
+1tasksANDRetrievalgendustry/GeneSample-0.pngGene Sample
 1

@@ -10,10 +10,10 @@ You can use a Energy Detector Cover in Normal Electrical Storage (including batt
 
 You can use MCCs on more than just generators though, you can use it on any multiblock (and most SBs too). This is useful to prevent voiding of materials. If a non-GT++ multi is full, it'll void the items or liquid (GT++ ones will halt) and keep on truckin', potentially voiding huge amounts of materials. You'll want to use them in combination with Fluid or Item Detection Covers on the output hatch or bus.
 
-If you still don't get it, watch moron's video on it at: https://www.youtube.com/watch?v=jPfnifJEO64ORpre7840gregtech/gt.blockmachines-1020.png17400gregtech/gt.blockmachines-1171.png18940gregtech/gt.blockmachines-1151.pngrewardsItemgregtech/gt.metaitem.01-32734.pngEnergy Detector Cover;Gives out Energy Amount as Redstone
+If you still don't get it, watch moron's video on it at: https://www.youtube.com/watch?v=jPfnifJEO64ORpre7840gregtech/gt.blockmachines-1020.png17400gregtech/gt.blockmachines-1171.png18940gregtech/gt.blockmachines-1151.pngrewardsItemgregtech/gt.metaitem.01-32734.pngEnergy Detector Cover
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5enhancedlootbags/lootbag-4-enchanted.pngLootBag (Tier 1 LV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-2tasksANDRetrievalgregtech/gt.metaitem.01-32730.pngMachine Controller Cover;Turns Machines ON/OFF
+5enhancedlootbags/lootbag-4-enchanted.pngLootBag (Tier 1 LV)
+2tasksANDRetrievalgregtech/gt.metaitem.01-32730.pngMachine Controller Cover
 1ProjRedIntegration/projectred.integration.gate-12.pngRS Latch
 1ProjRedIntegration/projectred.integration.gate-2.pngNOT Gate
 1minecraft/redstone-0.pngRedstone

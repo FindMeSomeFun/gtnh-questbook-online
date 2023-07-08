@@ -1,13 +1,13 @@
-492OpenBlocks/trophy-0-Sheep.png0Sheep Hairdresser2-1Killing sheep to get the wool is so inefficient. Making some shears would make sense if you need more wool.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metatool.01-12-DamascusSteel-Wood.pngHammer;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 6.0;Mining Speed: 6.0;Crushes Ores instead of harvesting them;Usable for Prospecting;Sharpness V
-1gregtech/gt.metatool.01-18-DamascusSteel-Wood.pngFile;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.5;Mining Speed: 8.0
-1gregtech/gt.metatool.01-22-DamascusSteel-Wood.pngScrewdriver;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.5;Mining Speed: 8.0;Adjusts Covers and Machines
-1gregtech/gt.metatool.01-10-DamascusSteel-Wood.pngSaw;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 4.75;Mining Speed: 8.0;Can also harvest Ice
-1gregtech/gt.metatool.01-16-DamascusSteel-DamascusSteel.pngWrench;Durability: 128,000 / 128,000;Damascus Steel lvl 3;Attack Damage: 6.0;Mining Speed: 8.0;Hold Leftclick to dismantle Machines;Rotates Blocks on Rightclick
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+492OpenBlocks/trophy-0-Sheep.png0Sheep Hairdresser2-1Killing sheep to get the wool is so inefficient. Making some shears would make sense if you need more wool.ANDpre361gregtech/gt.metatool.01-16.pngrewardsChoicegregtech/gt.metatool.01-12-DamascusSteel-Wood.pngHammer
+1gregtech/gt.metatool.01-18-DamascusSteel-Wood.pngFile
+1gregtech/gt.metatool.01-22-DamascusSteel-Wood.pngScrewdriver
+1gregtech/gt.metatool.01-10-DamascusSteel-Wood.pngSaw
+1gregtech/gt.metatool.01-16-DamascusSteel-DamascusSteel.pngWrench
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-2gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-1minecraft/stick-0.pngStick;Burn Time: 100
+5tasksANDOptionalgregtech/gt.metaitem.01-17032.pngIron Plate
+2gregtech/gt.metaitem.01-28032.pngIron Ring
+1gregtech/gt.metaitem.01-27032.pngIron Screw
+1minecraft/stick-0.pngStick
 2Retrievalminecraft/shears-0.pngShears
 1

@@ -4,7 +4,7 @@ Needless to say an unprepared witch will almost always experience a nightmare wh
 
 The witch must drink the brew and then will fall into a deep sleep, leaving their body and items behind and entering the world of spirits.ANDpre15620witchery/ingredient-75.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
 16witchery/ingredient-14.pngMutandis
-16enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept);You feel that a bit more "Fortune" might be a good idea...
+16enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept)
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
@@ -12,7 +12,7 @@ The witch must drink the brew and then will fall into a deep sleep, leaving thei
 1witchery/ingredient-34.pngWhiff of Magic
 1witchery/ingredient-105.pngPurified Milk
 1witchery/ingredient-78.pngIcy Needle
-1minecraft/cookie-0.pngCookie;minecraft:cookie
+1minecraft/cookie-0.pngCookie
 1witchery/ingredient-69.pngWater Artichoke Globe
 1Retrievalwitchery/ingredient-95.pngBrew of Sleeping
 1

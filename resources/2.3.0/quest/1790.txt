@@ -1,14 +1,14 @@
 1790minecraft/wooden_door-0.png0Wooden Door2-1For your new House you need some wooden doors. Well, the recipe is really hard and needs iron/copper and a lot of wood. 
 
-You can choose two more doors as a reward if you like.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1minecraft/wooden_door-0.pngWooden Door;Burn Time: 600
-2minecraft/wooden_pressure_plate-0.pngPressure Plate;Burn Time: 75
+You can choose two more doors as a reward if you like.ANDpre371minecraft/iron_ingot-0.pngrewardsChoiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
+1minecraft/wooden_door-0.pngWooden Door
+2minecraft/wooden_pressure_plate-0.pngPressure Plate
 4minecraft/iron_ingot-0.pngIron Ingot
 4Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalminecraft/planks-0.pngOak Wood Planks;Burn Time: 300
-4minecraft/trapdoor-0.pngTrapdoor;Burn Time: 300
-1gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
-1gregtech/gt.metaitem.01-28032.pngIron Ring;Fe
-1Retrievalminecraft/wooden_door-0.pngWooden Door;Burn Time: 600
+10tasksANDOptionalminecraft/planks-0.pngOak Wood Planks
+4minecraft/trapdoor-0.pngTrapdoor
+1gregtech/gt.metaitem.01-27032.pngIron Screw
+1gregtech/gt.metaitem.01-28032.pngIron Ring
+1Retrievalminecraft/wooden_door-0.pngWooden Door
 1

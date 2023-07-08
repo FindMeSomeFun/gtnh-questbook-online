@@ -1,4 +1,4 @@
 2713bartworks/BioLabModules-1.png0Data Orbs for Copying Cultures11-1After getting your sample you need to encode the information to a Data Orb. Again, many times you'll have to do it repeatedly (the Data Orb is given back if it fails), but in this case it's 100%.
 
-Look at the uses of the eColi DNA Sample to see the recipe.ANDpre27120bartworks/BioLabModules-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage;DNA Sample;Escherichia koli
+Look at the uses of the eColi DNA Sample to see the recipe.ANDpre27120bartworks/BioLabModules-0.pngrewardstasksANDRetrievalgregtech/gt.metaitem.01-32707.pngData Orb
 1

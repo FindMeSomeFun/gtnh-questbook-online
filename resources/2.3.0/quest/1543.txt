@@ -1,11 +1,11 @@
 1543IC2/itemWeedEx-0.png0Weed Ex13-1Weed-EX is used to prevent the growth of Weeds on empty Crop blocks at the cost of some weed-EX. Damage to the crop's quality is illusory, and not true. We have people that have looked at the code, we assure you. Unless it counts as a weed (venomilia Gr 8+, any other crop Gr 24+), then it loses maybe 1 stat. Maybe. And you can just increase it again too. And it might not take effect even then if you don't apply too much, like a crop matron won't.
 
 Usage:
-While holding Weed-Ex, right-click on a Crop to apply it. It can also be placed in a Crop-Matron to automatically apply it to your crops.ANDpre12730gregtech/gt.blockmachines-491.png15420IC2/blockMachine2-2.pngrewardsChoiceminecraft/spider_eye-0.pngSpider Eye;minecraft:spider_eye
-16gregtech/gt.metaitem.01-32402.pngEmpty Spray Can;Used for making Sprays
-16enhancedlootbags/lootbag-29.pngLootBag (Slow Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+While holding Weed-Ex, right-click on a Crop to apply it. It can also be placed in a Crop-Matron to automatically apply it to your crops.ANDpre12730gregtech/gt.blockmachines-491.png15420IC2/blockMachine2-2.pngrewardsChoiceminecraft/spider_eye-0.pngSpider Eye
+16gregtech/gt.metaitem.01-32402.pngEmpty Spray Can
+16enhancedlootbags/lootbag-29.pngLootBag (Slow Food)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 30dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-30enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops);Your luck is increased by 100 %;Fortune III
+30enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops)
 4tasksANDRetrievalIC2/itemWeedEx-0.pngWeed-EX
 32

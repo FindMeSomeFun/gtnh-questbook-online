@@ -3,7 +3,7 @@
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalminecraft/flint-0.pngFlint
-1minecraft/stick-0.pngStick;Burn Time: 100
-1RetrievalTConstruct/knifeBlade-3.pngFlint Knife Blade;Attack: 1 Heart;Durability: 113;Parts can be replaced
-1RetrievalTConstruct/ThrowingKnife-0-113.pngFlint Throwing Knife;Tool Level: 01-Abused;+3 Attack Damage
+1minecraft/stick-0.pngStick
+1RetrievalTConstruct/knifeBlade-3.pngFlint Knife Blade
+1RetrievalTConstruct/ThrowingKnife-0-113.pngFlint Throwing Knife
 1

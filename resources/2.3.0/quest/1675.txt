@@ -4,13 +4,13 @@ Borax can be extracted out of Salt ores. Electrolyze it to get Boron and mix it 
 
 The ingots can be turned into glass fiber in the wiremill or extruder.
 
-You can also use borosilicate to make higher tier glass for higher tier SB recipes, or for the blocks for the multis that need it.ANDpre12241gregtech/gt.metaitem.01-17470.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You can also use borosilicate to make higher tier glass for higher tier SB recipes, or for the blocks for the multis that need it.ANDpre12241gregtech/gt.metaitem.01-17470.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-2941.pngBorax Dust;Na\u2082B\u2084O\u2087(H\u2082O)\u2081\u2080
-23Optionalgregtech/gt.metaitem.01-2009.pngBoron Dust;B
-1gregtech/gt.metaitem.01-2890.pngGlass Dust;SiO\u2082
-7Optionalgregtech/gt.metaitem.01-2611.pngBorosilicate Glass Dust;B(SiO\u2082)\u2087
-8Optionalgregtech/gt.metaitem.01-11611.pngBorosilicate Glass Bar;B(SiO\u2082)\u2087
-2Retrievalgregtech/gt.metaitem.03-32021.pngGlass Fiber;B(SiO\u2082)\u2087
+2tasksANDOptionalgregtech/gt.metaitem.01-2941.pngBorax Dust
+23Optionalgregtech/gt.metaitem.01-2009.pngBoron Dust
+1gregtech/gt.metaitem.01-2890.pngGlass Dust
+7Optionalgregtech/gt.metaitem.01-2611.pngBorosilicate Glass Dust
+8Optionalgregtech/gt.metaitem.01-11611.pngBorosilicate Glass Bar
+2Retrievalgregtech/gt.metaitem.03-32021.pngGlass Fiber
 16

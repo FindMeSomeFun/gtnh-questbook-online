@@ -4,5 +4,5 @@ WARNING: Unprotected carts can be knocked off their rails by lightning. Cover th
 
 Also, make sure to keep your cart in one chunk, or use chunkloaders covering the whole area the cart works within. Loading/unloading chunks may cause carts to disappear or duplicate.ANDpre1060StevesCarts/BlockCartAssembler-0.pngrewardsItemminecraft/rail-0.pngTrack
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalStevesCarts/CartModule-38.pngStandard Minecart Hull;Modular capacity: 200;Module complexity cap: 50;Max engines count: 3;Max Addon count: 6;Type: Hull
+25tasksANDRetrievalStevesCarts/CartModule-38.pngStandard Hull
 1

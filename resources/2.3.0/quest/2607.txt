@@ -2,9 +2,9 @@
 
 First, pop on by Mercury and collect some Deep Iron from small ores if you haven't already, and get Trinium out of it.
 
-You'll also need Naquadah coils, and LuV Energy Hatches.ANDpre4761gregtech/gt.blockcasings5-5.png25991gregtech/gt.blockmachines-46.png29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2324.pngNaquadah Dust;Nq
-18gregtech/gt.metaitem.01-2868.pngTrinium Dust;Ke
-9gregtech/gt.metaitem.01-2010.pngCarbon Dust;C
-9Optionalgregtech/gt.metaitem.01-2325.pngNaquadah Alloy Dust;Nq\u2082KeC
-36Retrievalgregtech/gt.metaitem.01-11325.pngNaquadah Alloy Ingot;Nq\u2082KeC
+You'll also need Naquadah coils, and LuV Energy Hatches.ANDpre4761gregtech/gt.blockcasings5-5.png25991gregtech/gt.blockmachines-46.png29411bartworks/gt.bwMetaGenerateddust-10063.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-2324.pngNaquadah Dust
+18gregtech/gt.metaitem.01-2868.pngTrinium Dust
+9gregtech/gt.metaitem.01-2010.pngCarbon Dust
+9Optionalgregtech/gt.metaitem.01-2325.pngNaquadah Alloy Dust
+36Retrievalgregtech/gt.metaitem.01-11325.pngNaquadah Alloy Ingot
 36

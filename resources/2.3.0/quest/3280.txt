@@ -2,7 +2,7 @@
 
 The neutronium nanite is an in-between of the two tiers able to produce tier 2 nanites, which have other uses.
 
-When putting the neutronium nanite in the controller, you will need to wait for the structure check to happen again or break and replace the controller with a neutronium nanite inside. Allows the Nano Forge to make tier 2 nanites.ANDpre4581miscutils/MU-metaitem.01-32105.png32790gregtech/gt.metaitem.03-4010.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4129.pngNeutronium Nanites;Nt
-1Retrievalgregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings2-5.pngAssembling Line Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+When putting the neutronium nanite in the controller, you will need to wait for the structure check to happen again or break and replace the controller with a neutronium nanite inside. Allows the Nano Forge to make tier 2 nanites.ANDpre4581miscutils/MU-metaitem.01-32105.png32790gregtech/gt.metaitem.03-4010.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4129.pngNeutronium Nanites
+1Retrievalgregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing
+1gregtech/gt.blockcasings2-5.pngAssembling Line Casing
 1

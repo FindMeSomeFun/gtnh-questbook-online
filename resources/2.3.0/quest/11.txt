@@ -4,5 +4,5 @@ Now that you have a sword, you will get credit for monster kills in the Kill All
 
 PS: You can find additional weapon quests on the Getting Around Without Dying tab.ANDpre51gregtech/gt.metatool.01-2-Flint-Wood.pngrewardsItemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-5tasksANDCraftinggregtech/gt.metatool.01-0-Flint-Wood.pngSword;Durability: 12,800 / 12,800;Flint lvl 1;Attack Damage: 5.0;Mining Speed: 2.5;Fire Aspect I
+5tasksANDCraftinggregtech/gt.metatool.01-0-Flint-Wood.pngSword
 1

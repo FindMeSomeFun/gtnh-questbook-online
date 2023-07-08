@@ -1,4 +1,4 @@
 224WitchingGadgets/item.WG_AdvancedRobeChest-0.png0Witchy (Wo)man31-1If you've made the spinning wheel and done the research, you can make these as soon as you make a 50 vis wand. They're very helpful.ANDpre19960Thaumcraft/ItemChestplateRobe-0.pngrewardsItemThaumcraft/blockCustomPlant-5.pngVishroom
-4tasksANDRetrievalWitchingGadgets/item.WG_AdvancedRobeChest-0.pngBewitched Robe;Vis discount: 5%;Protection: 4;Durability: 400/400
-1WitchingGadgets/item.WG_AdvancedRobeLegs-0.pngBewitched Leggings;Vis discount: 4%;Protection: 3;Durability: 375/375
+4tasksANDRetrievalWitchingGadgets/item.WG_AdvancedRobeChest-0.pngBewitched Robe
+1WitchingGadgets/item.WG_AdvancedRobeLegs-0.pngBewitched Leggings
 1

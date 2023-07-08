@@ -2,9 +2,9 @@
 
 You can use lithium batteries, or if you're on a budget, cadmium or sodium batteries instead. Later on, Vibrant Alloy will make excellent tools with great durability.
 
-If you look in NEI, you can also see MV and HV versions, but you need Aluminium or Stainless Steel for those.ANDpre761gregtech/gt.blockmachines-140.png6091gregtech/gt.metaitem.01-32500.pngrewardsChoicegregtech/gt.metaitem.01-32518.pngSmall Lithium Battery;Reusable;0 / 100,000 EU - Voltage: 32;LV-Tier
-2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+If you look in NEI, you can also see MV and HV versions, but you need Aluminium or Stainless Steel for those.ANDpre761gregtech/gt.blockmachines-140.png6091gregtech/gt.metaitem.01-32500.pngrewardsChoicegregtech/gt.metaitem.01-32518.pngSmall Lithium Battery
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metatool.01-120.pngWrench (LV);Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.0;Mining Speed: 2.0;Hold Left Button to dismantle Machines;Rotates Blocks on Rightclick
-1Retrievalgregtech/gt.metatool.01-150.pngScrewdriver (LV);Durability: 0 / 0;NULL lvl 0;Attack Damage: 1.5;Mining Speed: 1.0;Adjusts Covers and Machines
+25tasksANDRetrievalgregtech/gt.metatool.01-120.pngWrench (LV)
+1Retrievalgregtech/gt.metatool.01-150.pngScrewdriver (LV)
 1

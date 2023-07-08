@@ -2,8 +2,8 @@
 
 You need IV circuits and the HV assembler to start the tab though.
 
-If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-22.pngLootBag (Space Invaders Moon);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+If you're doing the no-rocket run, hold a stack of Titanium Ingots to proceed. Same thing for Tungstensteel when you get to EV.ANDpre12311gregtech/gt.metaitem.01-32652.pngrewardsItemenhancedlootbags/lootbag-22.pngLootBag (Space Invaders Moon)
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"

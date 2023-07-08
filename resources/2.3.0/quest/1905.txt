@@ -8,8 +8,8 @@ If you go above these input rates, the output becomes Superheated Steam, which n
 
 Very powerful, but complicated, and needs turbines!
 
-For more information, go to https://tinyurl.com/GTNH-LHE and read about it there, or to https://gtnh.miraheze.org/wiki/Fluid_Reactor for how to use it in a Fluid Reactor setup.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemenhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-2tasksANDRetrievalgregtech/gt.blockmachines-1154.pngLarge Heat Exchanger;Machine Type: Heat Exchanger;Controller Block for the Large Heat Exchanger;More complicated than a Fusion Reactor. Seriously;Inputs are Hot Coolant or Lava;Outputs Coolant or Pahoehoe Lava and SH Steam/Steam;Read the wiki article to understand how it works;Then go to the Discord to understand the wiki;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech;Hot coolant steam output is increased by 5x
-1Optionalgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-20Optionalgregtech/gt.blockcasings2-14.pngTitanium Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+For more information, go to https://tinyurl.com/GTNH-LHE and read about it there, or to https://gtnh.miraheze.org/wiki/Fluid_Reactor for how to use it in a Fluid Reactor setup.ANDpre8601gregtech/gt.metaitem.01-11028.png12451gregtech/gt.metaitem.01-32653.pngrewardsItemenhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV)
+2tasksANDRetrievalgregtech/gt.blockmachines-1154.pngLarge Heat Exchanger
+1Optionalgregtech/gt.blockcasings4-2.pngStable Titanium Machine Casing
+20Optionalgregtech/gt.blockcasings2-14.pngTitanium Pipe Casing
 2

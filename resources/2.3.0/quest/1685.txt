@@ -1,9 +1,9 @@
 1685gregtech/gt.metaitem.03-32049.png0ASoc Advanced System on a chip9-1To make cheaper HV and EV circuits you need ASoCs. Advanced system on a chip.
 
-You'll need to wait for the next tier to make the cheaper EV circuits though.ANDpre14070gregtech/gt.blockmachines-594.png16711gregtech/gt.metaitem.03-32035.png26021bartworks/gt.bwMetaGeneratedItem0-0.pngrewardsChoicegregtech/gt.metaitem.01-24528.pngYellow Garnet Lens;(Ca\u2083Fe\u2082Si\u2083O\u2081\u2082)\u2085(Ca\u2083Al\u2082Si\u2083O\u2081\u2082)\u2088(Ca\u2083Cr\u2082Si\u2083O\u2081\u2082)\u2083
-1gregtech/gt.metaitem.01-24507.pngTopaz Lens;Al\u2082SiF\u2082H\u2082O\u2086
-1enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+You'll need to wait for the next tier to make the cheaper EV circuits though.ANDpre14070gregtech/gt.blockmachines-594.png16711gregtech/gt.metaitem.03-32035.png26021bartworks/gt.bwMetaGeneratedItem0-0.pngrewardsChoicegregtech/gt.metaitem.01-24528.pngYellow Garnet Lens
+1gregtech/gt.metaitem.01-24507.pngTopaz Lens
+1enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.03-32048.pngASoC Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32049.pngASoC;Advanced System on a Chip
+5tasksANDOptionalgregtech/gt.metaitem.03-32048.pngASoC Wafer
+1Retrievalgregtech/gt.metaitem.03-32049.pngASoC
 6

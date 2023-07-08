@@ -6,7 +6,7 @@ The Chisel is used to alter the structure of blocks in various ways. Some blocks
 
 Some blocks can have a secondary material applied to them. The secondary material can be removed by right-clicking on the center of the block with a chisel.
 
-You can also right-click on a vanilla Glass, Glass Pane, Glowstone or Ice block with a chisel to harvest the block without breaking it.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemArchitectureCraft/hammer-0.pngArchitect''s Hammer
-1ArchitectureCraft/chisel-0.pngArchitect''s Chisel
-1tasksANDRetrievalArchitectureCraft/sawbench-0.pngArchitect''s Sawbench;Burn Time: 300
+You can also right-click on a vanilla Glass, Glass Pane, Glowstone or Ice block with a chisel to harvest the block without breaking it.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemArchitectureCraft/hammer-0.pngArchitect's Hammer
+1ArchitectureCraft/chisel-0.pngArchitect's Chisel
+1tasksANDRetrievalArchitectureCraft/sawbench-0.pngArchitect's Sawbench
 1

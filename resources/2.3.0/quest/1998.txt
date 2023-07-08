@@ -5,5 +5,5 @@ Simple lens upgrades will grant you various seeing abilities as well.
 Later you can make more advanced goggles and even integrate the goggles into advanced armors.
 
 With TC Node Tracker, it makes remembering nodes trivial. The default key is I. You can select from the list of nodes you have scanned, and an in-world arrow will show you the way. You can also sort the list.ANDpre2371Thaumcraft/WandCasting-9.pngrewardsItemThaumcraft/blockCustomPlant-5.pngVishroom
-2tasksANDRetrievalThaumcraft/ItemGoggles-0.pngGoggles of Revealing;Vis discount: 5%;Protection: 1;Durability: 350/350
+2tasksANDRetrievalThaumcraft/ItemGoggles-0.pngGoggles of Revealing
 1

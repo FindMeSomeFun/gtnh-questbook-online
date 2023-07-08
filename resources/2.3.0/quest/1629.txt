@@ -1,8 +1,8 @@
 1629ProjRedTransportation/projectred.transportation.routingchip-1.png0Dynamic Item Responder25-1The dynamic item responder chip behaves exactly like an item responder chip, but instead of you setting up which items it should accept, it looks in the chest what items are there and those items it will accept.ANDpre16270ProjRedTransportation/projectred.transportation.routingchip-0.pngrewardsChoiceProjRedCore/projectred.core.part-0.pngCircuit Plate
-2IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
-1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
+2IC2/itemPartCircuit-0.pngElectronic Circuit
+1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire
 8ProjRedCore/projectred.core.part-44.pngNull-Logic Routing Chip
-1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalProjRedTransportation/projectred.transportation.routingchip-1.pngDynamic Item Responder chip
 1

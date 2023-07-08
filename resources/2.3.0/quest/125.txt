@@ -1,4 +1,4 @@
 125openmodularturrets/expanderInvTierOne-0.png0Upgrading Intensifies14-1Your turrets probably need more space to hold more ammunition, so why not get an upgrade for that?ANDpre1230openmodularturrets/disposeItemTurret-0.png1240openmodularturrets/potatoCannonTurret-0.pngrewardsItemBuildCraftCore/engineBlock-2.pngCombustion Engine
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalopenmodularturrets/expanderInvTierOne-0.pngBase Inventory Expander (Tier 1);Turret Base Inventory Expander;Adds 9 slots of inventory space that the turret base can use.;Each slot can only accept a max stack size of 4.;A little goes a long way.
+15tasksANDRetrievalopenmodularturrets/expanderInvTierOne-0.pngBase Inventory Expander (Tier 1)
 1

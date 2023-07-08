@@ -1,4 +1,4 @@
-141EnderIO/itemMaterial-6.png0Vibrant Crystals6-1Vibrant capacitor banks need this magical crystal. Armor and tools can be upgraded with it too.ANDpre9890gregtech/gt.metaitem.01-11367.pngrewardsItemHardcoreEnderExpansion/exp_bottle_consistent-0.pngBottle o'' Enchanting
+141EnderIO/itemMaterial-6.png0Vibrant Crystals6-1Vibrant capacitor banks need this magical crystal. Armor and tools can be upgraded with it too.ANDpre9890gregtech/gt.metaitem.01-11367.pngrewardsItemHardcoreEnderExpansion/exp_bottle_consistent-0.pngBottle o' Enchanting
 16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDRetrievalEnderIO/itemMaterial-6.pngVibrant Crystal
 8

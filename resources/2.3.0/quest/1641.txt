@@ -1,4 +1,4 @@
-1641enhancedlootbags/lootbag-4.png0Small Reward25-1Here's a small reward for making all those chips.ANDpre16320ProjRedTransportation/projectred.transportation.routingchip-6.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1641enhancedlootbags/lootbag-4.png0Small Reward25-1Here's a small reward for making all those chips.ANDpre16320ProjRedTransportation/projectred.transportation.routingchip-6.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1ProjRedCore/projectred.core.part-0.pngCircuit Plate
 8dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5ChoiceProjRedCore/projectred.core.part-30.pngBlue Illumar
@@ -8,5 +8,5 @@
 8ProjRedCore/projectred.core.part-21.pngMagenta Illumar
 8ProjRedCore/projectred.core.part-32.pngGreen Illumar
 8ProjRedCore/projectred.core.part-33.pngRed Illumar
-8tasksANDCheckboxcheckbox-.pngCheckbox
+8tasksANDCheckboxother/checkbox-.pngCheckbox
 1

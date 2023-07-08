@@ -2,7 +2,7 @@
 
 You'll need to make He coolant cells or NaK coolant cells using a fluid canner. Follow NEI to figure out how to make them, and the rest.
 
-Note that you'll need a cleanroom, vacuum freezer, and new coils.ANDpre7701gregtech/gt.blockmachines-213.pngrewardsItemgregtech/gt.blockmachines-43.pngHV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 512 (HV);Capacity: 4,608 EU
+Note that you'll need a cleanroom, vacuum freezer, and new coils.ANDpre7701gregtech/gt.blockmachines-213.pngrewardsItemgregtech/gt.blockmachines-43.pngHV Energy Hatch
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-43.pngHV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 512 (HV);Capacity: 4,608 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-43.pngHV Energy Hatch
 1

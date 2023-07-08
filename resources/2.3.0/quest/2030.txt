@@ -11,8 +11,8 @@ Bate bate chocolate
 Mix your chocolate, chocolate
 Mix your chocolate, chocolate
 Bate bate chocolate
-Bate bate chocolateANDpre14101gregtech/gt.blockmachines-585.png14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.02-32213.pngChocolate Dough;gregtech:gt.metaitem.02;I said don''t eat the Dough!
-64tasksANDRetrievalgregtech/gt.blockmachines-811.pngIndustrial Mixing Machine;Machine Type: Mixer;Controller Block for the Industrial Mixer;250% faster than using single block machines of the same voltage;Processes eight recipes per voltage tier;Causes: 800 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.3-2.pngMulti-Use Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+Bate bate chocolateANDpre14101gregtech/gt.blockmachines-585.png14161gregtech/gt.blockmachines-810.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
+1gregtech/gt.metaitem.02-32213.pngChocolate Dough
+64tasksANDRetrievalgregtech/gt.blockmachines-811.pngIndustrial Mixing Machine
+1miscutils/gtplusplus.blockcasings.3-2.pngMulti-Use Casing
 1

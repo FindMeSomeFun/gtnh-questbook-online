@@ -2,11 +2,11 @@
 
 The best place to find them is in a Magical Forest, but if you can't find one you can try a Garden or Cherry Wood Grove. Or just randomly everywhere.
 
-If you have trouble finding them, you can go to "Coins, Coins, Coins" tab and buy them.ANDpre131minecraft/bed-0.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+If you have trouble finding them, you can go to "Coins, Coins, Coins" tab and buy them.ANDpre131minecraft/bed-0.pngrewardsItemenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 10dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 10tasksANDRetrievalThaumcraft/blockCustomPlant-1.pngSilverwood Sapling
-1Thaumcraft/blockMagicalLog-1.pngSilverwood Log;Burn Time: 300
+1Thaumcraft/blockMagicalLog-1.pngSilverwood Log
 5RetrievalThaumcraft/blockCustomPlant-0.pngGreatwood Sapling
-1Thaumcraft/blockMagicalLog-0.pngGreatwood Log;Burn Time: 400
+1Thaumcraft/blockMagicalLog-0.pngGreatwood Log
 5

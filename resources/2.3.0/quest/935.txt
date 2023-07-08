@@ -1,8 +1,8 @@
-935IC2/blockGenerator-3.png0Power of the Sun 1x15,19-1Put those single EU panels on a block to make them placeable in the world. Use an MV assembler to combine the panel with a ULV hull.ANDpre9330gregtech/gt.metaitem.01-32750.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
-2gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
-16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+935IC2/blockGenerator-3.png0Power of the Sun 1x15,19-1Put those single EU panels on a block to make them placeable in the world. Use an MV assembler to combine the panel with a ULV hull.ANDpre9330gregtech/gt.metaitem.01-32750.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer
+2gregtech/gt.metaitem.01-2019.pngAluminium Dust
+16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-32750.pngSolar Panel;May the Sun be with you (Needs cleaning with right click)
-1gregtech/gt.blockmachines-10.pngULV Machine Hull;You just need Imagination to use this.;Voltage IN: 8 (ULV);Voltage OUT: 8 (ULV);Capacity: 912 EU
-1RetrievalIC2/blockGenerator-3.pngSolar Panel;Power Output: 1 EU/t max
+25tasksANDOptionalgregtech/gt.metaitem.01-32750.pngSolar Panel
+1gregtech/gt.blockmachines-10.pngULV Machine Hull
+1RetrievalIC2/blockGenerator-3.pngSolar Panel
 1

@@ -1,11 +1,11 @@
 2978gregtech/gt.metaitem.01-5822.png0Getting the most out of your Bauxite.6-1If processed correctly you can get a lot more Gallium out of your Bauxite compared to just using the Thermal Centrifuge. You will also get large amounts of Rutile and Alumina.
 
-First, make some Bauxite Slurry.ANDpre10111gregtech/gt.blockores-822.pngrewardsChoicegregtech/gt.metaitem.01-5822.pngCrushed Bauxite Ore;(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+First, make some Bauxite Slurry.ANDpre10111gregtech/gt.blockores-822.pngrewardsChoicegregtech/gt.metaitem.01-5822.pngCrushed Bauxite Ore
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-5822.pngCrushed Bauxite Ore;(TiO\u2082)\u2082Al\u2081\u2086H\u2081\u2080O\u2081\u2081
-128gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust;NaOH
-36gregtech/gt.metaitem.01-2622.pngQuicklime Dust;CaO
+5tasksANDOptionalgregtech/gt.metaitem.01-5822.pngCrushed Bauxite Ore
+128gregtech/gt.metaitem.01-2685.pngSodium Hydroxide Dust
+36gregtech/gt.metaitem.01-2622.pngQuicklime Dust
 16IC2/itemCellEmpty-1.pngWater Cell
 20Retrievalgregtech/gt.metaitem.01-30409.pngBauxite Slurry Cell
 32

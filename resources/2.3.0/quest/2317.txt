@@ -1,7 +1,7 @@
 2317gregtech/gt.metaitem.01-2083.png1Osmium8-1Since you have concentrated your solution, it's now time to gather the solid Osmium from it. Go ahead and mix it with Hydrochloric Acid.ANDpre23151bartworks/gt.bwMetaGeneratedcell-74.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-74.pngOsmium Solution Cell;???;Added by BartWorks
-1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
-6Retrievalgregtech/gt.metaitem.01-2083.pngOsmium Dust;Os
-1gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-74.pngOsmium Solution Cell
+1gregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell
+6Retrievalgregtech/gt.metaitem.01-2083.pngOsmium Dust
+1gregtech/gt.metaitem.01-30023.pngChlorine Cell
 7IC2/itemCellEmpty-1.pngWater Cell
 2

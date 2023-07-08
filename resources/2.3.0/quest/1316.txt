@@ -1,8 +1,8 @@
 1316appliedenergistics2/item.ItemBasicStorageCell.4k-0.png04k Item Storage Cell27-1Second tier storage cell, which can contain 4,096 bytes of storage. 4,096 bytes of storage can hold 508 stacks of a single item, or 260 stacks, while holding 63 different items. The 4k storage cell uses 32 bytes of data to store a single type.
 
-When placed inside a drive or chest will consume 1.0 ae/t.ANDpre13170appliedenergistics2/item.ItemMultiMaterial-36.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot;Al
-16gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
-8enhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+When placed inside a drive or chest will consume 1.0 ae/t.ANDpre13170appliedenergistics2/item.ItemMultiMaterial-36.pngrewardsChoicegregtech/gt.metaitem.01-11019.pngAluminium Ingot
+16gregtech/gt.metaitem.01-11306.pngStainless Steel Ingot
+8enhancedlootbags/lootbag-37.pngLootBag (AE Basic)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalappliedenergistics2/item.ItemBasicStorageCell.4k-0.png4k ME Storage Cell;0 of 4,096 Bytes Used;0 of 63 Types
+1tasksANDRetrievalappliedenergistics2/item.ItemBasicStorageCell.4k-0.png4k ME Storage Cell
 1

@@ -1,10 +1,10 @@
 2069miscutils/GTPP.bauble.fireprotection.0.name-0.png0Hot Hot Hot!17-1Once you build your vacuum freezer, you're going to have to carry around hot ingots all the time (assuming you don't automate it). Your old gloves are falling apart, and take up both hands. I think there's a way to glue them together so you can carry hot items with just one hand. Give me some parts and I'll do it for you.
 
 PS: The particle effect is active all the time, so if you don't like that, don't do this quest or don't wear them.ANDpre811gregtech/gt.blockmachines-1002.pngrewardsItemmiscutils/GTPP.bauble.fireprotection.0.name-0.pngSupreme Pizza Gloves
-1tasksANDRetrievaldreamcraft/item.OvenGlove-0.pngCake Glove (Left hand);Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
-1dreamcraft/item.OvenGlove-1.pngLava Glove (Right hand);Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
-1Natura/barleyFood-7.pngFlamestring;Somewhat more durable than string
+1tasksANDRetrievaldreamcraft/item.OvenGlove-0.pngCake Glove (Left hand)
+1dreamcraft/item.OvenGlove-1.pngCake Glove (Right hand)
+1Natura/barleyFood-7.pngFlamestring
 8Thaumcraft/ItemResource-7.pngEnchanted Fabric
-8Natura/barleyFood-6.pngImp Leather;Resist the heat of the Nether
+8Natura/barleyFood-6.pngImp Leather
 8dreamcraft/item.MicaInsulatorFoil-0.pngMica Insulator Foil
 8

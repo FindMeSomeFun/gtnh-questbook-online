@@ -1,7 +1,7 @@
 1927minecraft/coal-0.png0Coal...From Withereed?13-1Withereed is a source for coal, and more importantly, a good breeding stock for higher tiers.
 
-You'll need coal blocks underneath it to fully mature.ANDpre17990minecraft/blaze_rod-0.pngrewardsItemminecraft/coal-0.pngCoal;Burn Time: 1600
-64Itemenhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops);Your luck is increased by 100 %;Fortune III
+You'll need coal blocks underneath it to fully mature.ANDpre17990minecraft/blaze_rod-0.pngrewardsItemminecraft/coal-0.pngCoal
+64Itemenhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops)
 1dreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
-5tasksANDRetrievalIC2/itemCropSeed-0.pngWithereed Seeds;Gr 0;Ga 0;Re 0
+5tasksANDRetrievalIC2/itemCropSeed-0.pngWithereed Seeds
 1

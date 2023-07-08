@@ -1,18 +1,18 @@
 991EnderIO/item.darkSteel_chestplate-0.png0Dark Steel Armor Basic Upgrades14-1In order to upgrade one armor item with basic upgrades, you need a vibrant crystal and 10 xp levels.ANDpre1390EnderIO/item.darkSteel_helmet-0.png1410EnderIO/itemMaterial-6.pngrewardsChoiceminecraft/waterlily-0.pngLily Pad
 16minecraft/piston-0.pngPiston
 1Forestry/craftingMaterial-2.pngSilk Wisp
-36minecraft/potion-8198.pngPotion of Night Vision;Night Vision (3:00)
-1minecraft/potion-8194.pngPotion of Swiftness;Speed (3:00);When Applied:;+20% Speed
-1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+36minecraft/potion-8198.pngPotion of Night Vision
+1minecraft/potion-8194.pngPotion of Swiftness
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5tasksANDOptionalEnderIO/item.darkSteel_helmet-0.pngDark Helm;Protection: 2;Durability: 385/385
-1EnderIO/item.darkSteel_chestplate-0.pngDark Plate;Protection: 6;Durability: 560/560
-1EnderIO/item.darkSteel_leggings-0.pngDark Leggings;Protection: 5;Durability: 525/525
-1EnderIO/item.darkSteel_boots-0.pngDark Boots;Protection: 2;Durability: 455/455
+5tasksANDOptionalEnderIO/item.darkSteel_helmet-0.pngDark Helm
+1EnderIO/item.darkSteel_chestplate-0.pngDark Plate
+1EnderIO/item.darkSteel_leggings-0.pngDark Leggings
+1EnderIO/item.darkSteel_boots-0.pngDark Boots
 1OptionalEnderIO/itemMaterial-6.pngVibrant Crystal
-4RetrievalEnderIO/item.darkSteel_helmet-0-upgraded.pngDark Helm;Protection: 2;Durability: 385/385;Empowered
-1EnderIO/item.darkSteel_chestplate-0-upgraded.pngDark Plate;Protection: 6;Durability: 560/560;Empowered
-1EnderIO/item.darkSteel_leggings-0-upgraded.pngDark Leggings;Protection: 5;Durability: 525/525;Empowered
-1EnderIO/item.darkSteel_boots-0-upgraded.pngDark Boots;Protection: 2;Durability: 455/455;Empowered
+4RetrievalEnderIO/item.darkSteel_helmet-0-upgraded.pngDark Helm
+1EnderIO/item.darkSteel_chestplate-0-upgraded.pngDark Plate
+1EnderIO/item.darkSteel_leggings-0-upgraded.pngDark Leggings
+1EnderIO/item.darkSteel_boots-0-upgraded.pngDark Boots
 1

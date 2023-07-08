@@ -1,12 +1,12 @@
-1225gregtech/gt.metaitem.01-32705.png1Mainframes, Your First IV Circuit 6-1Mainframes are the first IV Circuits you can make. It's used for a few EV machines, and basically all IV machines and components.ANDpre12221gregtech/gt.blockmachines-1182.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
-16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
-2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1225gregtech/gt.metaitem.01-32705.png1Mainframes, Your First IV Circuit 6-1Mainframes are the first IV Circuits you can make. It's used for a few EV machines, and basically all IV machines and components.ANDpre12221gregtech/gt.blockmachines-1182.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer
+16IC2/itemPartCircuitAdv-0.pngAdvanced Circuit
+2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box;Just something you can put covers on.
-2gregtech/gt.metaitem.01-32704.pngWorkstation;An Extreme Circuit;EV-Tier
-2gregtech/gt.metaitem.03-32014.pngSmall Coil;Basic Electronic Component
-12gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-16gregtech/gt.blockmachines-1380.png1x Annealed Copper Wire;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-24gregtech/gt.metaitem.01-32718.pngCapacitor;Electronic Component
-24Retrievalgregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
+1tasksANDOptionalgregtech/gt.blockmachines-4115.pngAluminium Frame Box
+2gregtech/gt.metaitem.01-32704.pngWorkstation
+2gregtech/gt.metaitem.03-32014.pngSmall Coil
+12gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip
+16gregtech/gt.blockmachines-1380.png1x Annealed Copper Wire
+24gregtech/gt.metaitem.01-32718.pngCapacitor
+24Retrievalgregtech/gt.metaitem.01-32705.pngMainframe
 1

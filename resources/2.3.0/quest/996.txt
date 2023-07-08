@@ -1,12 +1,12 @@
-996Forestry/apiaristHelmet-0.png0Apiarist's Cloth28-1If you have collected 24 woven silk you can make a complete Apiarist's suit to be protected from bee stings and other bad bee effects. You can also use the suit parts to upgrade your EnderIO Dark Steel Armor to have the same effect.ANDpre5780Forestry/factory-1.png9950Forestry/craftingMaterial-3.pngrewardsChoiceForestry/beeQueenGE-0-Cultivated.pngCultivated Queen;Pristine Stock
+996Forestry/apiaristHelmet-0.png0Apiarist's Cloth28-1If you have collected 24 woven silk you can make a complete Apiarist's suit to be protected from bee stings and other bad bee effects. You can also use the suit parts to upgrade your EnderIO Dark Steel Armor to have the same effect.ANDpre5780Forestry/factory-1.png9950Forestry/craftingMaterial-3.pngrewardsChoiceForestry/beeQueenGE-0-Cultivated.pngCultivated Queen
 1ExtraBees/hiveFrame.cocoa-0.pngChocolate Frame
-4enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced)
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5tasksANDOptionalForestry/craftingMaterial-3.pngWoven Silk
-24RetrievalForestry/apiaristHelmet-0.pngApiarist''s Hat;Protection: 1;Durability: 100/100
-1Forestry/apiaristChest-0.pngApiarist''s Shirt;Protection: 3;Durability: 100/100
-1Forestry/apiaristLegs-0.pngApiarist''s Pants;Protection: 2;Durability: 100/100
-1Forestry/apiaristBoots-0.pngApiarist''s Shoes;Protection: 1;Durability: 100/100
+24RetrievalForestry/apiaristHelmet-0.pngApiarist's Hat
+1Forestry/apiaristChest-0.pngApiarist's Shirt
+1Forestry/apiaristLegs-0.pngApiarist's Pants
+1Forestry/apiaristBoots-0.pngApiarist's Shoes
 1

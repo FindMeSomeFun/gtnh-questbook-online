@@ -1,5 +1,5 @@
 1352EMT/SolarHelmetRevealing-1-charged.png0Goggles > 900014-1This special pair of goggles recharges itself while you wander in sunlight. How convenient.ANDpre13360EMT/EMTSolars-1.png13510EMT/QuantumGogglesRevealing-1-charged.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-4enhancedlootbags/lootbag-11.pngLootBag (Magic Master);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalEMT/SolarHelmetRevealing-32767.pngSolar Goggles of Revealing;Power Tier: 4;Vis Discount: 8%;Durability: 0 / 27;Provides full hazmat protection.;Protection: 3;Durability: 0/27
+4enhancedlootbags/lootbag-11.pngLootBag (Magic Master)
+1tasksANDRetrievalEMT/SolarHelmetRevealing-32767.pngSolarHelmetRevealing
 1

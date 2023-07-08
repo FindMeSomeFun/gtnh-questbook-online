@@ -1,8 +1,8 @@
 2592Forestry/sapling-0-Papaya.png0Papaya16-1The Papaya tree produces Papayas, which produce the most Fruice Juice. Sluuuurp!
 
 Papaya and Fruit Juice Get!ANDpre21280Forestry/sapling-0-Cherry.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Jungle.pngJungle Sapling;Burn Time: 100
-1Forestry/sapling-0-Cherry.pngHill Cherry Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-Papaya.pngPapaya Sapling;Burn Time: 100
+15enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic)
+1tasksANDOptionalForestry/sapling-0-Jungle.pngJungle Sapling
+1Forestry/sapling-0-Cherry.pngHill Cherry Sapling
+1RetrievalForestry/sapling-0-Papaya.pngPapaya Sapling
 1

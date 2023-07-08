@@ -1,11 +1,11 @@
 850gregtech/gt.metaitem.01-30641.png0Ethenone5-1Hopefully you saved some sulfuric acid. If not, make some more. Together with acetic acid you can make ethenone.
 
 Save the ethenone for HV, you'll need it to make tetranitromethane for cetane boosted diesel.ANDpre8520gregtech/gt.metaitem.01-30670.png17440gregtech/gt.blockmachines-422.pngrewardsChoicegregtech/gt.metaitem.01-30691.pngFermented Biomass Cell
-12enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool
+12enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
+1gregtech/gt.integrated_circuit-0.pngProgrammed Circuit
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
-3gregtech/gt.metaitem.01-30670.pngAcetic Acid Cell;C\u2082H\u2084O\u2082
-3Retrievalgregtech/gt.metaitem.01-30641.pngEthenone Cell;C\u2082H\u2082O
+25tasksANDRetrievalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell
+3gregtech/gt.metaitem.01-30670.pngAcetic Acid Cell
+3Retrievalgregtech/gt.metaitem.01-30641.pngEthenone Cell
 3

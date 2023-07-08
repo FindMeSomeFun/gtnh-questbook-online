@@ -1,4 +1,4 @@
-116gregtech/gt.blockmachines-201.png0Alloy Smelter4-1Upgrade your steam alloy smelter to an LV one.ANDpre701gregtech/gt.blockmachines-1120.png881gregtech/gt.blockmachines-1120.pngrewardsItemBiomesOPlenty/food-13.pngBowl of Rice;BiomesOPlenty:food
+116gregtech/gt.blockmachines-201.png0Alloy Smelter4-1Upgrade your steam alloy smelter to an LV one.ANDpre701gregtech/gt.blockmachines-1120.png881gregtech/gt.blockmachines-1120.pngrewardsItemBiomesOPlenty/food-13.pngBowl of Rice
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.blockmachines-201.pngBasic Alloy Smelter;HighTech combination Smelter;Voltage IN: 32 (LV);Capacity: 2,048 EU
+15tasksANDRetrievalgregtech/gt.blockmachines-201.pngBasic Alloy Smelter
 1

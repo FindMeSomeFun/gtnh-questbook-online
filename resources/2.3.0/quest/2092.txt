@@ -9,7 +9,7 @@ Lava - Temp+10%, Humidity-20%
 Water - Temp010%, Humidity+20%
 
 Unfortunately, there's no way to make them like caves with a block.ANDpre11230Forestry/alveary-0.pngrewardsItemForestry/alveary-0.pngAlveary
-1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced)
 1tasksANDRetrievalExtraBees/alveary-2.pngRain Shield
 1ExtraBees/alveary-3.pngAlveary Lighting
 1Forestry/alveary-4.pngAlveary Heater

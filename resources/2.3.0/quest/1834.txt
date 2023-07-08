@@ -1,5 +1,5 @@
 1834BiomesOPlenty/mushrooms-3.png0Mushroom Biomes? Why Are There So Many?0,1-1The GNTH pack is made for the RWG worldgen. If you run the vanilla biomes worldgen you get huge Mushroom biomes over the map. Go and generate a new world before you continue. If you run a server put the following into your server.properties file:
 
- "level-type=rwg".ANDpre01minecraft/wheat-0.pngrewardsItemWitchingGadgets/item.WG_MagicFood-2.pngBrain Jerky;WitchingGadgets:item.WG_MagicFood
-1tasksANDCheckboxcheckbox-.pngCheckbox
+ "level-type=rwg".ANDpre01minecraft/wheat-0.pngrewardsItemWitchingGadgets/item.WG_MagicFood-2.pngBrain Jerky
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

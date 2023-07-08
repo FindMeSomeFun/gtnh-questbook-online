@@ -1,6 +1,6 @@
 2760gregtech/gt.blockmachines-995.png0What Even is This?18-1In addition to being a dehydrator multi, it's also a Vacuum Furnace, for which no singleblock exists. It's supposed to be used with the IsaMill Grinding Machine multi and the Flotation Cell Regulator multi for the purposes of ore milling, an advanced method of ore processing that needs a lot of infrastructure, but which gives many new outputs for each ore it supports.
 
-This multi is ZPM.ANDpre14161gregtech/gt.blockmachines-810.png26101gregtech/gt.blockmachines-17.pngrewardsItemenhancedlootbags/lootbag-42-enchanted.pngLootBag (Tier 7 ZPM);Your luck is increased by 100 %;Fortune III
-1tasksANDRetrievalgregtech/gt.blockmachines-995.pngUtupu-Tanuri;Machine Type: Vacuum Furnace / Dehydrator;Factory Grade Vacuum Furnace;Can toggle the operation temperature with a Screwdriver;All Dehydrator recipes are Low Temp recipes;Speed: +120% | EU Usage: 50% | Parallel: 4;Each 900K over the min. Heat Capacity grants 5% speedup (multiplicatively);Each 1800K over the min. Heat Capacity allows for one upgraded overclock;Upgraded overclocks reduce recipe time to 25% and increase EU/t to 400%;Causes: 500 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Alkalus - [GT++]
-1miscutils/gtplusplus.blockcasings.4-10.pngVacuum Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+This multi is ZPM.ANDpre14161gregtech/gt.blockmachines-810.png26101gregtech/gt.blockmachines-17.pngrewardsItemenhancedlootbags/lootbag-42-enchanted.pngLootBag (Tier 7 ZPM)
+1tasksANDRetrievalgregtech/gt.blockmachines-995.pngUtupu-Tanuri
+1miscutils/gtplusplus.blockcasings.4-10.pngVacuum Casing
 1

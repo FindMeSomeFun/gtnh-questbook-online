@@ -2,5 +2,5 @@
 
 The efficiency gradually increases as the output hatch fills up and reaches maximum efficiency when it is exactly half-filled. If the hatch fills even more, the efficiency goes down again, so try to keep it close to half! At maximum efficiency the amount of fluid consumed and produced per recipe is multiplied by 1001. The items and culture are not affected.
 
-There are different means to keep it at half, including OC (not SFM, it doesn't like BW fluids), fluid detector+machine controller, or a fluid regulator, as well as more off the wall ones such as frames or block-sharing. If you choose the fluid detector route, remember that using a larger output hatch will make it easier to keep it close to half-filled.ANDpre25611gregtech/gt.blockmachines-12712.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+There are different means to keep it at half, including OC (not SFM, it doesn't like BW fluids), fluid detector+machine controller, or a fluid regulator, as well as more off the wall ones such as frames or block-sharing. If you choose the fluid detector route, remember that using a larger output hatch will make it easier to keep it close to half-filled.ANDpre25611gregtech/gt.blockmachines-12712.pngrewardstasksANDCheckboxother/checkbox-.pngCheckbox
 1

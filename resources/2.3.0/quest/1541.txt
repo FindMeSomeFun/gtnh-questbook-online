@@ -8,11 +8,11 @@ When trying to get a specific crop, you generally want to maximize its percentag
 
 Use the crops guide at https://tinyurl.com/GTNH-Crops for more details.
 
-A large field of stickreeds has a good chance at making lots of valuable crosses. This is because it's decently high tier (they randomly mutate to tiers nearby mostly), and it's really fast, so you can get it to a high stat fast, which you should probably do first. Mutations are random, you can get transformium from stickreed, so keep that in mind. You do tend to get similar crops, so if you want metals, get the metal crops for example. Go to the wiki or spreadsheet (not up to date) to see the attributes that govern similarity.ANDpre1031gregtech/gt.metaitem.01-11019.png7210Natura/N Crops-0.pngrewardsChoiceIC2/itemCropSeed-0.pngGlowflower Seeds;Gr 1;Ga 1;Re 1
+A large field of stickreeds has a good chance at making lots of valuable crosses. This is because it's decently high tier (they randomly mutate to tiers nearby mostly), and it's really fast, so you can get it to a high stat fast, which you should probably do first. Mutations are random, you can get transformium from stickreed, so keep that in mind. You do tend to get similar crops, so if you want metals, get the metal crops for example. Go to the wiki or spreadsheet (not up to date) to see the attributes that govern similarity.ANDpre1031gregtech/gt.metaitem.01-11019.png7210Natura/N Crops-0.pngrewardsChoiceIC2/itemCropSeed-0.pngGlowflower Seeds
 4IC2/blockCrop-0.pngCrop
-32enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops);Your luck is increased by 100 %;Fortune III
+32enhancedlootbags/lootbag-51-enchanted.pngLootBag (IC2 Crops)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 30dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-30gregtech/gt.metaitem.01-32529.pngMedium Sodium Battery;Reusable;200,000 / 200,000 EU - Voltage: 128;MV-Tier
-1tasksANDRetrievalIC2/itemCropnalyzer-32767.pngCropnalyzer;Durability: 1 / 27
+30gregtech/gt.metaitem.01-32529.pngMedium Sodium Battery
+1tasksANDRetrievalIC2/itemCropnalyzer-32767.pngitemCropnalyzer
 1

@@ -1,7 +1,7 @@
 1395TaintedMagic/ItemFocusVisShard-0.png0Wand Focus Vis Shard34-1Wand Focus: Vis Shard can be equipped on any wand. While equipped, it can be right-clicked to cast a homing projectile which deals 2-5 damage points. This projectile can bounce off of solid blocks. If the target is not hit in 10 seconds, the projectile disappears. This focus can be enchanted with Frugal, Potency and Persistent.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+This focus can be upgraded at the Focal Manipulator.ANDpre2271Thaumcraft/blockTable-15.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice)
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalTaintedMagic/ItemFocusVisShard-0.pngWand Focus: Vis Shard;Vis per cast; Aer x 1.2; Ignis x 1.2; Perditio x 1.2;35 Attack Damage (When Equipped);Staff gives x1.5 Damage
+5tasksANDRetrievalTaintedMagic/ItemFocusVisShard-0.pngWand Focus: Vis Shard
 1

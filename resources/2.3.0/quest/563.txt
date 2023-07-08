@@ -5,5 +5,5 @@ BTW, in case you didn't know, you can summon the Wither by placing 4 soul sand b
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDHuntmobs/Skeleton-.pngSkeleton
+5tasksANDHuntminecraft/Skeleton-.pngSkeleton
 10

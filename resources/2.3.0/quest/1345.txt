@@ -1,7 +1,7 @@
 1345EMT/NanosuitWing-1-charged.png0Secret-Angel-Assasin14-1Infusing your Wings with Nano-Technologies seems to be the next step, to further improve them and combine magic and technology.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png13440EMT/ThaumiumWing-0.pngrewardsItemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5IC2/itemPartCarbonPlate-0.pngCarbon Plate
-4Choiceenhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1tasksANDRetrievalEMT/NanosuitWing-32767.pngNanosuit Wings;Power Tier: 3;Durability: 0 / 27;Provides full hazmat protection.;Protection: 8;Durability: 0/27
+4Choiceenhancedlootbags/lootbag-10-enchanted.pngLootBag (Magic Adept)
+1enhancedlootbags/lootbag-5-enchanted.pngLootBag (Tier 2 MV)
+1tasksANDRetrievalEMT/NanosuitWing-32767.pngNanosuitWing
 1

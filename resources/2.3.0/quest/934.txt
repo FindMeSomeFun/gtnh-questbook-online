@@ -1,12 +1,12 @@
-934gregtech/gt.metaitem.01-32751.png0Power of the Sun ULV5,19-1The next solar panel you can make is the ULV one. It generates 8 EU/t.ANDpre9330gregtech/gt.metaitem.01-32750.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
-2gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
-32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+934gregtech/gt.metaitem.01-32751.png0Power of the Sun ULV5,19-1The next solar panel you can make is the ULV one. It generates 8 EU/t.ANDpre9330gregtech/gt.metaitem.01-32750.pngrewardsChoicegregtech/gt.metaitem.03-32033.pngWafer
+2gregtech/gt.metaitem.01-2019.pngAluminium Dust
+32enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-32750.pngSolar Panel;May the Sun be with you (Needs cleaning with right click)
-2gregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
-1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2gregtech/gt.metaitem.01-17980.pngGallium Arsenide Plate;AsGa
+25tasksANDOptionalgregtech/gt.metaitem.01-32750.pngSolar Panel
+2gregtech/gt.metaitem.03-32033.pngWafer
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit
+2gregtech/gt.metaitem.01-17980.pngGallium Arsenide Plate
 1dreamcraft/item.ReinforcedAluminiumIronPlate-0.pngReinforced Aluminium-Iron Plate
-1gregtech/gt.blockmachines-1240.png1x Tin Wire;Max Voltage: 32 (LV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-2Retrievalgregtech/gt.metaitem.01-32751.pngSolar Panel (8V);8 Volt Solar Panel (Needs cleaning with right click)
+1gregtech/gt.blockmachines-1240.png1x Tin Wire
+2Retrievalgregtech/gt.metaitem.01-32751.pngSolar Panel (8V)
 1

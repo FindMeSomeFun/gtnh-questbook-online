@@ -2,7 +2,7 @@
 
 The largest size supports ~1100 crops, while the smallest supports ~600 depending on your layout if you use it for IC2 crops. This is because it will look for crops up to 5 blocks out further than normal in this mode (In the cardinal directions, it's further out in the corners. Just try it out, it's hard to describe). They're the same size as in previous versions, so you don't need to rejigger them.
 ANDpre5810Forestry/thermionicTubes-10.pngrewardsItemForestry/thermionicTubes-13.pngUranium238 Electron Tube
-4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinForestryII-0.pngCoin "The Forest Ranger 100"
 1tasksANDRetrievalForestry/thermionicTubes-13.pngUranium238 Electron Tube
 4

@@ -1,5 +1,5 @@
 1647witchery/ingredient-72.png0Leather Goddess of Robe-us36-1To make appropriate witchwear, you'll need to make some impregnated leather with your diamond vapor.ANDpre15740witchery/ingredient-29.pngrewardsItemwitchery/ingredient-72.pngImpregnated Leather
-4enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+4enhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalwitchery/ingredient-72.pngImpregnated Leather

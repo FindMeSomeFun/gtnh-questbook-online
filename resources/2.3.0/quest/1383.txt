@@ -1,6 +1,6 @@
-1383Thaumcraft/blockStoneDevice-10.png0Advanced Node Stabilizer32-1The advanced node stabilizer acts like a normal node stabilizer but with key differences. It will still stop the node it affects from being drained but the node can still drain from other, lesser nodes. It also has a higher chance to improve fading and unstable nodes. The downside is that any nodes it affects will have their recharge rates effectively reduced to nothing. They will recharge at an extremely reduced rate.ANDpre2761Thaumcraft/blockStoneDevice-9.pngrewardsItemThaumcraft/ItemResource-0.pngAlumentum;Burn Time: 8000
+1383Thaumcraft/blockStoneDevice-10.png0Advanced Node Stabilizer32-1The advanced node stabilizer acts like a normal node stabilizer but with key differences. It will still stop the node it affects from being drained but the node can still drain from other, lesser nodes. It also has a higher chance to improve fading and unstable nodes. The downside is that any nodes it affects will have their recharge rates effectively reduced to nothing. They will recharge at an extremely reduced rate.ANDpre2761Thaumcraft/blockStoneDevice-9.pngrewardsItemThaumcraft/ItemResource-0.pngAlumentum
 4Thaumcraft/ItemResource-1.pngNitor
-4Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+4Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/blockStoneDevice-10.pngAdvanced Node Stabilizer
 1

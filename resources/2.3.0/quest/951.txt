@@ -1,10 +1,10 @@
 951gregtech/gt.blockmachines-522.png1Fluid Solidifier5-1Use molds to make plates, sticks, bolts and many more item parts in the fluid solidifier.
 
 Molds are != to Extruder shapes. You're gonna need 2 sets. If they're too expensive, just make the most important ones for now.ORpre8931gregtech/gt.metaitem.01-32611.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
-16gregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool
-1gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe;Fluid Capacity: 4,800 L/sec;Heat Limit: 2,500 K
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16gregtech/gt.integrated_circuit-0.pngProgrammed Circuit
+1gregtech/gt.blockmachines-5132.pngSteel Fluid Pipe
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-32301.pngMold (Plate);Mold for making Plates
-1Retrievalgregtech/gt.blockmachines-522.pngAdvanced Fluid Solidifier;Cools Fluids down to form Solids;Voltage IN: 128 (MV);Capacity: 8,192 EU
+5tasksANDRetrievalgregtech/gt.metaitem.01-32301.pngMold (Plate)
+1Retrievalgregtech/gt.blockmachines-522.pngAdvanced Fluid Solidifier
 1

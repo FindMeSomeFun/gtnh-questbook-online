@@ -1,7 +1,7 @@
 1399TaintedMagic/ItemFocusMageMace-0.png0Wand Focus Mage's Mace34-1Wand Focus: Mage's Mace can be equipped by any wand and will boost attack damage up to 15 hearts. It can be enchanted with Frugal, Potency and Bloodlust. Each attack with this focus costs 0.5 Perditio.
 
-This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+This focus can be upgraded at the Focal Manipulator.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice)
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalTaintedMagic/ItemFocusMageMace-0.pngWand Focus: Mage''s Mace;Vis per hit; Ordo x 1.8; Perditio x 2.2; Terra x 2.2;+60 Attack Damage (When Equipped);Staff gives x2.0 Damage
+5tasksANDRetrievalTaintedMagic/ItemFocusMageMace-0.pngWand Focus: Mage's Mace
 1

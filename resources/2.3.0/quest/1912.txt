@@ -1,5 +1,5 @@
-1912WitchingGadgets/item.WG_Material-7.png03 Plus 4, Carry the 2...31-1When doing infusions, it's always good to know how close you are in stability. Once you get to HV you can make an Arcane Abacus to track your infusions. This makes infusions 100 percent safe, right??ANDpre2381Thaumcraft/blockCosmeticSolid-7.png12321gregtech/gt.metaitem.01-32692.pngrewardsItemminecraft/skull-0.pngSkeleton Skull;May work as an Infusion Stabilizer;Applicable up to: 02-Iron
-4ItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
-1enhancedlootbags/lootbag-9.pngLootBag (Magic Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1912WitchingGadgets/item.WG_Material-7.png03 Plus 4, Carry the 2...31-1When doing infusions, it's always good to know how close you are in stability. Once you get to HV you can make an Arcane Abacus to track your infusions. This makes infusions 100 percent safe, right??ANDpre2381Thaumcraft/blockCosmeticSolid-7.png12321gregtech/gt.metaitem.01-32692.pngrewardsItemminecraft/skull-0.pngSkeleton Skull
+4ItemThaumcraft/ItemLootBag-1.pngUncommon Treasure
+1enhancedlootbags/lootbag-9.pngLootBag (Magic Novice)
 1tasksANDRetrievalWitchingGadgets/item.WG_Material-7.pngArcane Abacus
 1

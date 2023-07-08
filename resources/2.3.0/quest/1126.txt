@@ -1,9 +1,9 @@
 1126TConstruct/materials-15.png0Alumite3-1It's upgrade time again. You could in principle make alumite by mixing obsidian, steel and aluminium in the smeltery. But to get a much better yield, you can show you are a GregTech hero and search NEI for an alternate recipe using dusts. Alumite pickaxes are able to mine ardite in the Nether.
 
-Leave the rest of your Alumite as liquid in your smeltery, you'll want it to make the Tool Forge. You need 16 ingots in the smeltery to make 2 Large Plates.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-8TConstruct/toolRod-31.pngThaumium Tool Rod;Thaumic;Durability Modifier: 1.18x;Parts can be replaced
+Leave the rest of your Alumite as liquid in your smeltery, you'll want it to make the Tool Forge. You need 16 ingots in the smeltery to make 2 Large Plates.ANDpre651gregtech/gt.metaitem.01-11305.pngrewardsChoicegregtech/gt.metaitem.01-11305.pngSteel Ingot
+8TConstruct/toolRod-31.pngThaumium Tool Rod
 1minecraft/gold_block-0.pngBlock of Gold
-1enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 10dreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"

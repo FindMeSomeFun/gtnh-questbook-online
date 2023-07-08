@@ -1,10 +1,10 @@
-1150TConstruct/Crossbow-0-288.png0Magnalium Crossbow4,14-1It's time to craft a Crossbow Limb and the Crossbow Body to upgrade your old Wooden Crossbow.ANDpre7410TConstruct/ToolForgeBlock-0.png11490gregtech/gt.metaitem.01-11313.pngrewardsItemNatura/barleyFood-7.pngFlamestring;Somewhat more durable than string
-2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1150TConstruct/Crossbow-0-288.png0Magnalium Crossbow4,14-1It's time to craft a Crossbow Limb and the Crossbow Body to upgrade your old Wooden Crossbow.ANDpre7410TConstruct/ToolForgeBlock-0.png11490gregtech/gt.metaitem.01-11313.pngrewardsItemNatura/barleyFood-7.pngFlamestring
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-11313.pngMagnalium Ingot;MgAl\u2082
-9OptionalTConstruct/Cast-1.pngCrossbow Limb Cast;Material Cost: 4
-1TConstruct/Cast-2.pngCrossbow Body Cast;Material Cost: 5
-1RetrievalTGregworks/tGregToolPartCrossbowLimb-1602.pngMagnalium Crossbow Limb;Durability: 192;Draw Speed: 0.9s;Arrow Speed: 3.33;Parts can be replaced
-1TGregworks/tGregToolPartCrossbowBody-1602.pngMagnalium Crossbow Body;Durability: 192;Draw Speed: 0.9s;Arrow Speed: 3.33;Parts can be replaced
+15tasksANDOptionalgregtech/gt.metaitem.01-11313.pngMagnalium Ingot
+9OptionalTConstruct/Cast-1.pngCrossbow Limb Cast
+1TConstruct/Cast-2.pngCrossbow Body Cast
+1RetrievalTGregworks/tGregToolPartCrossbowLimb-1602.pngMagnalium Crossbow Limb
+1TGregworks/tGregToolPartCrossbowBody-1602.pngMagnalium Crossbow Body
 1

@@ -9,5 +9,5 @@ We have also provided the special Y command to look for a machine in the world, 
 We now have an extra-fancy Bookmark feature! The default key is A, but can be changed in the NEI config window. Bookmarks will be on the left side of the inventory, and you can use R and U on the bookmarks to see the recipes or uses for that item, as normal.
 
 Pushing O will hide NEI, useful for fancy screenshots.ANDpre151SpiceOfLife/lunchbag-0.pngrewardsItemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-1tasksANDCheckboxcheckbox-.pngCheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

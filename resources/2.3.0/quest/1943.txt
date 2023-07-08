@@ -1,11 +1,11 @@
-1943chisel/futura-3.png0Fun Party Blocks15-1There's also some really funky blocks available. ANDpre19350chisel/obsidianChisel-0.pngrewardsItemIC2/itemCellEmpty-2.pngLava Cell;Burn Time: 20000
-4tasksANDRetrievalchisel/warningSign-6.pngWarning Sign;Danger of Falling;Mobs cannot Spawn on this Block
+1943chisel/futura-3.png0Fun Party Blocks15-1There's also some really funky blocks available. ANDpre19350chisel/obsidianChisel-0.pngrewardsItemIC2/itemCellEmpty-2.pngLava Cell
+4tasksANDRetrievalchisel/warningSign-6.pngWarning Sign
 1chisel/obsidian_snakestone-1.pngObsidian Snakestone
-1chisel/jackolantern16-0.pngJack o''Lantern
-1Retrievalchisel/technical3-0.pngIndustrial Technical Block;I''m a big fan of this massive fan!;Mobs cannot Spawn on this Block
-9chisel/laboratoryblock-0.pngLaboratory Block;Wall Panel;Mobs cannot Spawn on this Block
-1chisel/hexPlating-0.pngHex Plating;Black Plating;Mobs cannot Spawn on this Block
-1Retrievalchisel/futura-3.pngFutura Block;Poptart Rainbow;Mobs cannot Spawn on this Block
-1chisel/futura-4.pngFutura Block;Purple Applied Labyrinthic Neon Lines;Mobs cannot Spawn on this Block
-1chisel/futuraCircuit-1.pngFutura Circuit;Red;Mobs cannot Spawn on this Block
+1chisel/jackolantern16-0.pngJack o'Lantern
+1Retrievalchisel/technical3-0.pngIndustrial Technical Block
+9chisel/laboratoryblock-0.pngLaboratory Block
+1chisel/hexPlating-0.pngHex Plating
+1Retrievalchisel/futura-3.pngFutura Block
+1chisel/futura-4.pngFutura Block
+1chisel/futuraCircuit-1.pngFutura Circuit
 1

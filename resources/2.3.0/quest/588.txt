@@ -1,9 +1,9 @@
-588gregtech/gt.metaitem.01-8530.png0Finding Apatite16-1It's now time to search for some ores. Apatite is the most important material in Forestry. You can make fertilizer, farm blocks and other things with it. The vein is found between Y 40-60.ANDpre5800Forestry/factory2-0.pngrewardsChoiceenhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1harvestcraft/frenchtoastItem-0.pngFrench Toast;harvestcraft:frenchtoastItem
-1gregtech/gt.metaitem.02-32224.pngChumburger;gregtech:gt.metaitem.02;Fum is Chum!
+588gregtech/gt.metaitem.01-8530.png0Finding Apatite16-1It's now time to search for some ores. Apatite is the most important material in Forestry. You can make fertilizer, farm blocks and other things with it. The vein is found between Y 40-60.ANDpre5800Forestry/factory2-0.pngrewardsChoiceenhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic)
+1harvestcraft/frenchtoastItem-0.pngFrench Toast
+1gregtech/gt.metaitem.02-32224.pngChumburger
 2Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-25tasksANDRetrievalgregtech/gt.blockores-530.pngApatite Ore;Ca\u2085(PO\u2084)\u2083Cl
-64gregtech/gt.blockores-534.pngTricalcium Phosphate Ore;Ca\u2083(PO\u2084)\u2082
-16gregtech/gt.blockores-607.pngPyrochlore Ore;Ca\u2082Nb\u2082O\u2087
+25tasksANDRetrievalgregtech/gt.blockores-530.pngApatite Ore
+64gregtech/gt.blockores-534.pngTricalcium Phosphate Ore
+16gregtech/gt.blockores-607.pngPyrochlore Ore
 16

@@ -1,5 +1,5 @@
 3061gregtech/gt.metaitem.01-2097.png0Uranium?8-1...And sift it to get the uranium. You do get some 235 out of it so time not entirely wasted, hopefully?ANDpre30600bartworks/gt.bwMetaGenerateddust-11039.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-6tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11040.pngNeutralized Uranium Filtrate Dust;??U??;Added by GTNH: Lanthanides via BartWorks
-1Retrievalgregtech/gt.metaitem.01-2098.pngUranium 238 Dust;U
-1gregtech/gt.metaitem.01-2097.pngUranium 235 Dust;U-235
+6tasksANDOptionalbartworks/gt.bwMetaGenerateddust-11040.pngNeutralized Uranium Filtrate Dust
+1Retrievalgregtech/gt.metaitem.01-2098.pngUranium 238 Dust
+1gregtech/gt.metaitem.01-2097.pngUranium 235 Dust
 1

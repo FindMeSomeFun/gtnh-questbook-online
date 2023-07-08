@@ -1,4 +1,4 @@
-1817gregtech/gt.blockcasings5-7.png1Electrum Flux Coil Upgrade17-1To process more advanced materials like Cosmic Neutronium, Tritanium and Awakened Draconium you need more than 9000K. Upgrade your EBF to 9900k.ANDpre28931gregtech/gt.blockcasings5-10.pngrewardsItemenhancedlootbags/lootbag-42-enchanted.pngLootBag (Tier 7 ZPM);Your luck is increased by 100 %;Fortune III
+1817gregtech/gt.blockcasings5-7.png1Electrum Flux Coil Upgrade17-1To process more advanced materials like Cosmic Neutronium, Tritanium and Awakened Draconium you need more than 9000K. Upgrade your EBF to 9900k.ANDpre28931gregtech/gt.blockcasings5-10.pngrewardsItemenhancedlootbags/lootbag-42-enchanted.pngLootBag (Tier 7 ZPM)
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
-1tasksANDRetrievalgregtech/gt.blockcasings5-7.pngElectrum Flux Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 9901 Kelvin
+1tasksANDRetrievalgregtech/gt.blockcasings5-7.pngElectrum Flux Coil Block
 16

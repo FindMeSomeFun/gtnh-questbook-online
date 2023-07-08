@@ -2,8 +2,8 @@
 
 You can fully recycle 2-Ethylanthraquinone, so don't make bunch of them.ANDpre8541gregtech/gt.metaitem.01-30659.png26900miscutils/2Ethylanthrahydroquinone-0.pngrewardstasksANDOptionalIC2/itemCellEmpty-5.pngCompressed Air Cell
 20miscutils/2Ethylanthrahydroquinone-0.png2-Ethylanthrahydroquinone Cell
-5gregtech/gt.Volumetric_Flask-0.pngVolumetric flask;< Anthracene, 50 mB >;Rightclick on air to set volume (only while empty)
+5gregtech/gt.Volumetric_Flask-0.pngVolumetric flask
 1Optionalmiscutils/2Ethylanthraquinone-0.png2-Ethylanthraquinone Cell
 5miscutils/HydrogenPeroxide-0.pngHydrogen Peroxide Cell
-5Checkboxcheckbox-.pngCheckbox
+5Checkboxother/checkbox-.pngCheckbox
 1

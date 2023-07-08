@@ -1,9 +1,9 @@
 799dreamcraft/item.NanoScubaHelmet-0.png0Don't Try to Dive With It14-1Combining a scuba helmet with a nano helmet in an assembling machine will give you a nano scuba helmet. You'd better not try to dive with it because you can't. It is a part of the new quantum suit helmet.ANDpre7790IC2/itemArmorNanoChestplate-1-charged.png18901gregtech/gt.blockmachines-215.pngrewardsChoicedreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-2gregtech/gt.metaitem.01-17880.pngRubber Sheet;C\u2085H\u2088
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2gregtech/gt.metaitem.01-17880.pngRubber Sheet
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalIC2/itemArmorNanoHelmet-32767.pngNanoSuit Helmet;Power Tier: 3;Durability: 0 / 27;Provides full hazmat protection.;Protection: 3;Durability: 0/27
-1IC2/itemArmorHazmatHelmet-0.pngScuba Helmet;Provides full hazmat protection.;Protection: 3;Durability: 64/64
-1Retrievaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet;Don''t try to wear this, you can''t
+1tasksANDOptionalIC2/itemArmorNanoHelmet-32767.pngitemArmorNanoHelmet
+1IC2/itemArmorHazmatHelmet-0.pngScuba Helmet
+1Retrievaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet
 1

@@ -1,2 +1,2 @@
-2589GalacticraftCore/item.infiniteOxygen-0.png0Infinite Oxygen Tank38-1Provides infinite oxygen. In the past you could only use it to refill tanks. But now you can just put it in your oxygen slot!ANDpre25950gregtech/gt.blockmachines-15300.pngrewardstasksANDRetrievalGalacticraftCore/item.infiniteOxygen-0.pngInfinite Oxygen Supply;Oxygen Remaining: INFINITE
+2589GalacticraftCore/item.infiniteOxygen-0.png0Infinite Oxygen Tank38-1Provides infinite oxygen. In the past you could only use it to refill tanks. But now you can just put it in your oxygen slot!ANDpre25950gregtech/gt.blockmachines-15300.pngrewardstasksANDRetrievalGalacticraftCore/item.infiniteOxygen-0.pngInfinite Oxygen Supply
 1

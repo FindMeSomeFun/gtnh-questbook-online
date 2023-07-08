@@ -1,4 +1,4 @@
 2492ae2fc/fluid_storage256-0.png0256k Fluid Storage Cell27-1These hold 65,536 buckets, or 65,536,000L of a single fluid. They hold a bit more than a Super Tank V.ANDpre24890ae2fc/fluid_part-4.pngrewardsItemdreamcraft/item.EmeraldAdvancedFluidCoreChip-0.pngFluid Circuit Tier II
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-4tasksANDRetrievalae2fc/fluid_storage256-0.png256k ME Fluid Storage Cell;0 of 262,144 Bytes Used;0 of 1 Types;> Hold Ctrl for more information
+4tasksANDRetrievalae2fc/fluid_storage256-0.png256k ME Fluid Storage Cell
 1

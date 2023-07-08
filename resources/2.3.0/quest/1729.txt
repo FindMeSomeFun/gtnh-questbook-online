@@ -1,7 +1,7 @@
-1729dreamcraft/item.HeavyDutyRocketFinsTier3-0.png1Heavy Duty Rocket Fins Tier 324-1Every rocket needs a few rocket fins. Tier 5 rockets need heavy ones Tier 3.ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
-8GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
+1729dreamcraft/item.HeavyDutyRocketFinsTier3-0.png1Heavy Duty Rocket Fins Tier 324-1Every rocket needs a few rocket fins. Tier 5 rockets need heavy ones Tier 3.ANDpre17241dreamcraft/item.HeavyDutyPlateTier5-0.pngrewardsChoiceGalacticraftMars/item.null-3.pngHeavy Duty Plate
+8GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate
 4dreamcraft/item.HeavyDutyPlateTier4-0.pngHeavy Duty Plate Tier 4
-2enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+2enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
 2tasksANDOptionalGalaxySpace/item.CompressedSDHD120-0.pngCompressed Alloy "SDHC-120"
 6dreamcraft/item.HeavyDutyPlateTier5-0.pngHeavy Duty Plate Tier 5

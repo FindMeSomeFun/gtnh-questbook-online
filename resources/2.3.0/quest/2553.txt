@@ -9,5 +9,5 @@
 3dreamcraft/item.RuneOfDefenseFragment-0.pngRune of Defense Fragment
 3dreamcraft/item.RuneOfMagicFragment-0.pngRune of Magic Fragment
 3dreamcraft/item.RuneOfVoidFragment-0.pngRune of Void Fragment
-1tasksANDHuntmobs/HardcoreEnderExpansion-HauntedMiner-.pngHaunted Miner
+1tasksANDHuntHardcoreEnderExpansion/HauntedMiner-.pngHauntedMiner
 25

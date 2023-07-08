@@ -1,7 +1,7 @@
-1868gregtech/gt.metaitem.03-32063.png1Ultra Low Power IC5-1MV Energy hatches need ultra low power ICs. Go and craft some.ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-24501.pngEmerald Lens;Be\u2083Al\u2082Si\u2086O\u2081\u2088
+1868gregtech/gt.metaitem.03-32063.png1Ultra Low Power IC5-1MV Energy hatches need ultra low power ICs. Go and craft some.ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-24501.pngEmerald Lens
 1gregtech/gt.metaitem.01-24542.pngTerra Lens
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.03-32062.pngULPIC Wafer;Raw Circuit
-1Retrievalgregtech/gt.metaitem.03-32063.pngUltra Low Power IC;Ultra Low Power Circuit
+5tasksANDOptionalgregtech/gt.metaitem.03-32062.pngULPIC Wafer
+1Retrievalgregtech/gt.metaitem.03-32063.pngUltra Low Power IC
 4

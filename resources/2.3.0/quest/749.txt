@@ -2,13 +2,13 @@
 
 Manganese can be acquired as ore byproducts from spessartine, pyrolusite and tantalite ore. You can also pull them apart to get even more. Alternatively you can take apart Red Garnet dusts. If you get desperate, you can buy some ore from the Coins tab.
 
-Chrome can be centrifuged out of ruby dust. You can get ruby dust from redstone if the ruby in redstone veins isn't enough.ANDpre7511gregtech/gt.blockmachines-582.pngrewardsItemgregtech/gt.metaitem.02-32224.pngChumburger;gregtech:gt.metaitem.02;Fum is Chum!
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Chrome can be centrifuged out of ruby dust. You can get ruby dust from redstone if the ruby in redstone veins isn't enough.ANDpre7511gregtech/gt.blockmachines-582.pngrewardsItemgregtech/gt.metaitem.02-32224.pngChumburger
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-2032.pngIron Dust;Fe
-48gregtech/gt.metaitem.01-2034.pngNickel Dust;Ni
-8gregtech/gt.metaitem.01-2031.pngManganese Dust;Mn
-8gregtech/gt.metaitem.01-2030.pngChrome Dust;Cr
-8Retrievalgregtech/gt.metaitem.01-2306.pngStainless Steel Dust;Fe\u2086CrMnNi
+5tasksANDOptionalgregtech/gt.metaitem.01-2032.pngIron Dust
+48gregtech/gt.metaitem.01-2034.pngNickel Dust
+8gregtech/gt.metaitem.01-2031.pngManganese Dust
+8gregtech/gt.metaitem.01-2030.pngChrome Dust
+8Retrievalgregtech/gt.metaitem.01-2306.pngStainless Steel Dust
 72

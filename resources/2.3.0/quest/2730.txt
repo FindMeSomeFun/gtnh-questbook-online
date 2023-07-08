@@ -4,5 +4,5 @@ Laser Converters are basically: Laser Source (on machine) -> Vacuum Pipes -> LC 
 
 You can use the Low Power Laser Pipes if using a 'Low Power' Hatch or Converter, but keep in mind you'll need to connect them with wire cutters yourself after coloring them.
 
-Be careful with using very high ampere hatches as every Laser Hatch has 1EU/s per max. ampere passive power loss.ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Be careful with using very high ampere hatches as every Laser Hatch has 1EU/s per max. ampere passive power loss.ANDpre20061tectech/gt.blockcasingsTT-0.pngrewardstasksANDCheckboxother/checkbox-.pngCheckbox
 1

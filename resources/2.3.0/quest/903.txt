@@ -1,6 +1,6 @@
-903TwilightForest/item.trophy-2.png0Adventure Time!39864000Stop him before he makes his wish at Prismos'!ANDpre9020TwilightForest/item.trophy-1.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+903TwilightForest/item.trophy-2.png0Adventure Time!39864000Stop him before he makes his wish at Prismos'!ANDpre9020TwilightForest/item.trophy-1.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 6dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 6dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-6tasksANDHuntmobs/TwilightForest-Twilight Lich-.pngTwilight Lich
+6tasksANDHuntTwilightForest/TwilightLich-.pngTwilightLich
 1

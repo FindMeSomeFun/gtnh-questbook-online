@@ -1,6 +1,6 @@
 24Railcraft/machine.alpha-7.png1Getting (Char)coal2-1It's time to get yourself some charcoal. For that, we're going to build a coke oven. Good that you just collected a lot of resources! (What a coincidence...)
 
-Even though Waila says you can't, you can punch these blocks to get them back if you mess up the placement before you have a metal pickaxe.ANDpre171minecraft/sand-0.png251minecraft/brick-0.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
+Even though Waila says you can't, you can punch these blocks to get them back if you mess up the placement before you have a metal pickaxe.ANDpre171minecraft/sand-0.png251minecraft/brick-0.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDCraftingRailcraft/machine.alpha-7.pngCoke Oven Brick;Multi-Block: 3x3x3 (Hollow);Mobs cannot Spawn on this Block
+10tasksANDCraftingRailcraft/machine.alpha-7.pngCoke Oven Brick
 26

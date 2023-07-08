@@ -1,6 +1,6 @@
-399witchery/hornofthehunt-0.png0Kill Horned Huntsman39-1A Horned Huntsman is a member of the Wild Hunt, a powerful entity created by the Horned God. If one is encountered, either prepare for a hard fight, or flee.ANDpre15710witchery/distilleryidle-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch);Your luck is increased by 100 %;Fortune III
+399witchery/hornofthehunt-0.png0Kill Horned Huntsman39-1A Horned Huntsman is a member of the Wild Hunt, a powerful entity created by the Horned God. If one is encountered, either prepare for a hard fight, or flee.ANDpre15710witchery/distilleryidle-0.pngrewardsItemenhancedlootbags/lootbag-55-enchanted.pngLootBag (Witchery Witch)
 1Itemdreamcraft/item.CoinSurvivorIII-0.pngCoin "The Survivor 1000"
 1dreamcraft/item.CoinDarkWizardIII-0.pngCoin "The Dark Wizard 1000"
 1dreamcraft/item.CoinAdventureIII-0.pngCoin "The Explorer 1000"
-1tasksANDHuntmobs/witchery-hornedHuntsman-.pngHorned Huntsman
+1tasksANDHuntwitchery/hornedHuntsman-.pnghornedHuntsman
 1

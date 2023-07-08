@@ -1,8 +1,8 @@
 1094IronChest/BlockIronChest-2.png0Diamond Chests... Ooo, Shiny4-1After you build a cutting machine you can make some diamond plates for your new, even bigger diamond chests.ANDpre1021gregtech/gt.blockmachines-251.pngrewardsItemIronChest/goldDiamondUpgrade-0.pngGold to Diamond Chest Upgrade
-1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-4gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
-2minecraft/chest-0.pngChest;Burn Time: 300
-1RetrievalIronChest/BlockIronChest-2.pngDiamond Chest;12*9 Inventory - 108 Slots
+15tasksANDOptionalgregtech/gt.metaitem.01-17500.pngDiamond Plate
+4gregtech/gt.metaitem.01-27500.pngDiamond Screw
+2minecraft/chest-0.pngChest
+1RetrievalIronChest/BlockIronChest-2.pngDiamond Chest
 1

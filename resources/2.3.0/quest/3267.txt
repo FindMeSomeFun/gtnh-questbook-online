@@ -2,7 +2,7 @@
 
 There is another way of getting these, but you'll have to figure that one out for yourself.ANDpre32281Botania/runeAltar-0.png32581Botania/lexicon-0.pngrewardsItemBotania/rune-8.pngRune of Mana
 2dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
-20tasksANDRetrievalBotania/specialFlower-0-jadedAmaranthus.pngJaded Amaranthus;Functional Flower;A couple died for this
+20tasksANDRetrievalBotania/specialFlower-0-jadedAmaranthus.pngJaded Amaranthus
 1RetrievalBotania/flower-0.pngMystical White Flower
 4Botania/flower-1.pngMystical Orange Flower
 4Botania/flower-2.pngMystical Magenta Flower

@@ -5,13 +5,13 @@ By connecting fluid pipes into the farm valve and supplying water, you can autom
 If it hasn't rained for a while, the required water will go up, up to 1500%. Use an Everfull Urn, or Reservoir (RIO) for serious water needs.ANDpre5820Forestry/ffarm-0.pngrewardsChoiceForestry/thermionicTubes-10.pngApatine Electron Tube
 4Forestry/thermionicTubes-11.pngLapis Electron Tube
 4Forestry/thermionicTubes-3.pngIron Electron Tube
-4enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic)
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-25tasksANDOptionalForestry/ffarm-0.pngFarm Block;Stone Bricks
-1gregtech/gt.metaitem.01-32610.pngElectric Pump (LV);32 L/t (640 L/s) as Cover
+25tasksANDOptionalForestry/ffarm-0.pngFarm Block
+1gregtech/gt.metaitem.01-32610.pngElectric Pump (LV)
 2gregtech/gt.metaitem.01-32600.pngElectric Motor (LV)
-1gregtech/gt.metaitem.01-28880.pngRubber Ring;C\u2085H\u2088
+1gregtech/gt.metaitem.01-28880.pngRubber Ring
 1Forestry/thermionicTubes-11.pngLapis Electron Tube
-4gregtech/gt.metaitem.02-31305.pngSteel Gear;Fe\u2085\u2080C
-1RetrievalForestry/ffarm-4.pngFarm Valve;Stone Bricks
+4gregtech/gt.metaitem.02-31305.pngSteel Gear
+1RetrievalForestry/ffarm-4.pngFarm Valve
 2

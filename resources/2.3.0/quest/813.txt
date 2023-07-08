@@ -1,10 +1,10 @@
 813GalacticraftCore/item.noseCone-0.png1Rocket Nose Cone24-1Every rocket needs a nose cone.ANDpre8121GalacticraftCore/item.heavyPlating-0.pngrewardsChoiceGalacticraftCore/item.basicItem-9.pngCompressed Steel
 8GalacticraftCore/item.basicItem-10.pngCompressed Bronze
 8GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+1tasksANDOptionalgregtech/gt.metaitem.01-27306.pngStainless Steel Screw
 2ProjRedIllumination/projectred.illumination.cagelamp2.inv-14.pngInverted Red Cage Lamp
-1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate
 4RetrievalGalacticraftCore/item.noseCone-0.pngNose Cone
 1

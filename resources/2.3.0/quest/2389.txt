@@ -4,7 +4,7 @@ Fill it with water on the bottom side to produce steam. Unlike the other boilers
 
 Hint: The solar boiler calcifies and becomes less efficient over time. Later on you can consider using distilled water to avoid calcification.
 
-You'll need silver from the Twilight Forest (LV+) or from small ores for this.ANDpre620gregtech/gt.blockmachines-105.png761gregtech/gt.blockmachines-140.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemharvestcraft/kiwijellysandwichItem-0.pngKiwi Jelly Sandwich;harvestcraft:kiwijellysandwichItem
+You'll need silver from the Twilight Forest (LV+) or from small ores for this.ANDpre620gregtech/gt.blockmachines-105.png761gregtech/gt.blockmachines-140.png9481gregtech/gt.metaitem.01-11304.pngrewardsItemharvestcraft/kiwijellysandwichItem-0.pngKiwi Jelly Sandwich
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDRetrievalgregtech/gt.blockmachines-114.pngHigh Pressure Solar Boiler;Steam Power by the Sun;Produces 360L of Steam per second;Calcifies over time, reducing Steam output to 120L/s;Break and replace to descale
+10tasksANDRetrievalgregtech/gt.blockmachines-114.pngHigh Pressure Solar Boiler
 1

@@ -4,8 +4,8 @@ What about a Nano Forge, able to cut up blocks into nano-thin sheets and then cr
 
 The Nano Forge is a big multiblock requiring lots of power over the course of a couple minutes. It is able to use TT energy hatches (including lasers). The controller must have a carbon nanite to use tier 1 recipes.
 
-Despite what NEI might claim there are no minimum voltages for the Nano Forge recipes. If you want to do a recipe you just have to achieve the raw EU/t required, no matter the voltage.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4010.pngCarbon Nanites;C
-1Retrievalgregtech/gt.blockmachines-357.pngNano Forge;Machine Type: Nanite Fabricator;Controller block for the Nano Forge;Requires insane amounts of power to create nanites. Each tier;the multi gains a new building next to it. The nanite in the;controller slot controls the tier.;--------------------------------------------;Requires a Carbon Nanite to use tier tier 1;Requires a Neutronium Nanite to use tier 2;Requires a Transcendent Metal Nanite to use tier 3;--------------------------------------------;If a recipe''s tier is lower than the tier of the Nano Forge;it gains perfect overclock.;Author: BlueWeabo;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GregTech
-1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockmachines-4501.pngStellar Alloy Frame Box;Just something you can put covers on.
+Despite what NEI might claim there are no minimum voltages for the Nano Forge recipes. If you want to do a recipe you just have to achieve the raw EU/t required, no matter the voltage.ANDpre26491gregtech/gt.metaitem.03-32073.pngrewardstasksANDRetrievalgregtech/gt.metaitem.03-4010.pngCarbon Nanites
+1Retrievalgregtech/gt.blockmachines-357.pngNano Forge
+1gregtech/gt.blockcasings8-10.pngRadiant Naquadah Alloy Casing
+1gregtech/gt.blockmachines-4501.pngStellar Alloy Frame Box
 1

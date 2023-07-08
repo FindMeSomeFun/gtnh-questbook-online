@@ -1,11 +1,11 @@
-83Railcraft/machine.alpha-12.png0High-Speed Charcoal17-1Sure, those coke ovens are nice, but they aren't even remotely fast enough to keep up with a large steam boiler. Luckily, there is an upgrade available! The creosote oil will not be produced, but the process will speed up dramatically. Who needs that nasty yellowish flammable stuff anyway...ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemgregtech/gt.blockgem3-4.pngBlock of Charcoal;Burn Time: 16000
-10minecraft/coal_block-0.pngBlock of Coal;Burn Time: 16000
-10Railcraft/cube-0.pngBlock of Coal Coke;32,000 Fuel Units;Mobs cannot Spawn on this Block;Burn Time: 32000
+83Railcraft/machine.alpha-12.png0High-Speed Charcoal17-1Sure, those coke ovens are nice, but they aren't even remotely fast enough to keep up with a large steam boiler. Luckily, there is an upgrade available! The creosote oil will not be produced, but the process will speed up dramatically. Who needs that nasty yellowish flammable stuff anyway...ANDpre771gregtech/gt.blockmachines-1000.pngrewardsItemgregtech/gt.blockgem3-4.pngBlock of Charcoal
+10minecraft/coal_block-0.pngBlock of Coal
+10Railcraft/cube-0.pngBlock of Coal Coke
 10Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
 5tasksANDOptionalminecraft/netherbrick-0.pngNether Brick
 68Optionaldreamcraft/item.HotNetherrackBrick-0.pngHot Netherrack Brick
 68Optionaldreamcraft/item.CokeOvenBrick-0.pngCoke Oven Brick
 68dreamcraft/item.InfernalBrick-0.pngInfernal Brick
 68Optionaldreamcraft/item.AdvancedCokeOvenBrick-0.pngAdvanced Coke Oven Brick
-136RetrievalRailcraft/machine.alpha-12.pngAdvanced Coke Oven Brick;Multi-Block: 3x4x3 (Hollow);Mobs cannot Spawn on this Block
+136RetrievalRailcraft/machine.alpha-12.pngAdvanced Coke Oven Brick
 34

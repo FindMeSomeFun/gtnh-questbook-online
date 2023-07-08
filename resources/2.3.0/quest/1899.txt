@@ -2,8 +2,8 @@
 
 So how about doubling your doubling to double your double (4x)? Quad rods put out even more power and heat, expect all the other rods to work similarly (for the most part).
 
-BTW it's more efficient to go 1->4 rather than 1->2->4 materials-wise.ANDpre1930gregtech/gt.Thoriumcell-0.pngrewardsItemgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium);100 / 100;Durability: 50,000/50,000
+BTW it's more efficient to go 1->4 rather than 1->2->4 materials-wise.ANDpre1930gregtech/gt.Thoriumcell-0.pngrewardsItemgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.Double_Thoriumcell-0.pngDual Fuel Rod (Thorium);100 / 100;Durability: 50,000/50,000
-1Retrievalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium);100 / 100;Durability: 50,000/50,000
+1tasksANDRetrievalgregtech/gt.Double_Thoriumcell-0.pngDual Fuel Rod (Thorium)
+1Retrievalgregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium)
 1

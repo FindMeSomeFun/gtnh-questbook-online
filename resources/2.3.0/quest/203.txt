@@ -6,7 +6,7 @@ Generally, you'll want to have the first point be one side of an ME Controller b
 
 A nice online guide can be found at https://tinyurl.com/GTNH-AE2 under P2P tunnels.
 
-If you want to use one of the P2P tunnels for something other than ME channels, use an applicable item on the center of the face of the tunnel, (for example, a GT cable for GT EU, redstone for RS signal, an RF conduit for RF, a torch for light, a bucket for fluid, a chest for items, or an OC cable for OC) and it will convert to that type, even if you pick it up. Use a fluix cable to change it back.ANDpre1811appliedenergistics2/item.ItemMultiMaterial-7.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+If you want to use one of the P2P tunnels for something other than ME channels, use an applicable item on the center of the face of the tunnel, (for example, a GT cable for GT EU, redstone for RS signal, an RF conduit for RF, a torch for light, a bucket for fluid, a chest for items, or an OC cable for OC) and it will convert to that type, even if you pick it up. Use a fluix cable to change it back.ANDpre1811appliedenergistics2/item.ItemMultiMaterial-7.pngrewardsItemenhancedlootbags/lootbag-37.pngLootBag (AE Basic)
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-460.pngP2P Tunnel - ME

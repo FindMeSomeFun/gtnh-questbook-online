@@ -7,9 +7,9 @@ Black - Indicates there is no channel, or power is offline.
 
 It's important to note, that without an ME Network this block does nothing. It's only useful when combined with a way to input, and output items, and requires 2 AE/t power to function, and additional power for each storage cell stored inside it.
 
-About Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.png1841appliedenergistics2/item.ItemMultiPart-16.pngrewardsChoicegregtech/gt.metaitem.01-11085.pngPlatinum Ingot;Pt
-16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-16enhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+About Priority: Many devices in AE2 have a priority setting, this determines what gets items first. This is useful in some situations, but not so much in others. Higher number = higher priority.ANDpre1831appliedenergistics2/item.ItemMultiMaterial-22.png1841appliedenergistics2/item.ItemMultiPart-16.pngrewardsChoicegregtech/gt.metaitem.01-11085.pngPlatinum Ingot
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot
+16enhancedlootbags/lootbag-37.pngLootBag (AE Basic)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalappliedenergistics2/tile.BlockDrive-0.pngME Drive;Do not move chests with AE drives; It may corrupt your profile. No refunds!
+1tasksANDRetrievalappliedenergistics2/tile.BlockDrive-0.pngME Drive
 1

@@ -8,8 +8,8 @@ Passive Anchors are loaded once the owner visits, and stays loaded until the ser
 
 World Anchors are always loaded, even after a server reset.
 
-Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS highANDpre7701gregtech/gt.blockmachines-213.pngrewardsItemdreamcraft/item.CoinChunkloaderTierII-0.pngChunkloader Coin Tier II;24H Chunkloader Coin, 48H in Passive Chunkloader, 96H in Personal Chunkloader
-4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Check with server operators in case world anchors are disabled. On the official servers, world anchors are currently disabled to keep TPS highANDpre7701gregtech/gt.blockmachines-213.pngrewardsItemdreamcraft/item.CoinChunkloaderTierII-0.pngChunkloader Coin Tier II
+4enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalRailcraft/machine.alpha-0.pngWorld Anchor;0.00 hours;Mobs cannot Spawn on this Block
+5tasksANDRetrievalRailcraft/machine.alpha-0.pngWorld Anchor
 1

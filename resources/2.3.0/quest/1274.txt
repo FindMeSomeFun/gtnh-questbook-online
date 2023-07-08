@@ -1,5 +1,5 @@
-1274gregtech/gt.blockmachines-501.png0Ferment Your Brew!4-1What's better than lame brews? Alcoholic brews! Get one of these to make beer, rum or even vodka.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemberriespp/BppPotions-5.pngBottled Mash;Soo Sweet
+1274gregtech/gt.blockmachines-501.png0Ferment Your Brew!4-1What's better than lame brews? Alcoholic brews! Get one of these to make beer, rum or even vodka.ANDpre931gregtech/gt.metaitem.01-32610.pngrewardsItemberriespp/BppPotions-5.pngBottled Mash
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.blockmachines-501.pngBasic Fermenter;Fermenting Fluids;Voltage IN: 32 (LV);Capacity: 2,048 EU
+15enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
+1tasksANDRetrievalgregtech/gt.blockmachines-501.pngBasic Fermenter
 1

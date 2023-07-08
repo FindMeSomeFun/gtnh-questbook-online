@@ -1,6 +1,6 @@
-324ThaumicTinkerer/ichorSwordGem-0.png0Unleashed the Power - Sword33-1To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3210ThaumicTinkerer/ichorSword-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+324ThaumicTinkerer/ichorSwordGem-0.png0Unleashed the Power - Sword33-1To make use of your tool to its full extent, you'll have to unleash its hidden power. This is not an easy task; But it's well worth the effort!ANDpre3210ThaumicTinkerer/ichorSword-0.pngrewardsItemenhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/ichorSwordGem-0.pngAwakened Ichorium Sword;Single Mode;+9 Attack Damage
+5tasksANDRetrievalThaumicTinkerer/ichorSwordGem-0.pngAwakened Ichorium Sword
 1

@@ -1,6 +1,6 @@
 1305ae2fc/fluid_interface-0.png0For Fluid Recipes27-1Placing your fluid crafting patterns in a Dual Interface. That will allow AE2 to push the fluids and items both. Note. Fluids are being sent first, then items.ANDpre13021appliedenergistics2/item.ItemMultiPart-440.pngrewardsChoicegregtech/gt.metaitem.01-17811.pngGlowstone Plate
-16gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-16enhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
+16gregtech/gt.metaitem.01-17526.pngLapis Plate
+16enhancedlootbags/lootbag-38.pngLootBag (AE Good)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalae2fc/fluid_interface-0.pngME Dual Interface
 1

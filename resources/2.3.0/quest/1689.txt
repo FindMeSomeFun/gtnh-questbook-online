@@ -1,8 +1,8 @@
 1689gregtech/gt.blockmachines-10930.png1LuV Laser Engraver9-1The LuV laser engraver is an important part of lategame circuit production. You need to make crystal CPU's for both the crystalprocessor series of circuits, and later on for the wetware series.
 
-If you've made the LPF, you can just upgrade that instead.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsChoicebartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot;Pd\u2083Rh;Added by BartWorks
-4gregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board;A more advanced Circuit Board
-8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+If you've made the LPF, you can just upgrade that instead.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsChoicebartworks/gt.bwMetaGeneratedingot-88.pngRhodium-Plated Palladium Ingot
+4gregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board
+8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDCheckboxcheckbox-.pngCheckbox
+5tasksANDCheckboxother/checkbox-.pngCheckbox
 1

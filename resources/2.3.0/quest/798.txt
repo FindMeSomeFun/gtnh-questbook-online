@@ -1,4 +1,4 @@
-798Thaumcraft/WandCap-0.png1Iron Capped Greatwood Wand31-1Making a gold capped greatwood wand requires 30 vis, but your old wand's limit is 25. So first create an iron or copper capped greatwood wand reload it with 50 vis and then later on in the next quest create a gold capped greatwood wand.ANDpre2341Thaumcraft/WandRod-0.png2351gregtech/gt.metaitem.01-27306.png2361dreamcraft/item.LichBone-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+798Thaumcraft/WandCap-0.png1Iron Capped Greatwood Wand31-1Making a gold capped greatwood wand requires 30 vis, but your old wand's limit is 25. So first create an iron or copper capped greatwood wand reload it with 50 vis and then later on in the next quest create a gold capped greatwood wand.ANDpre2341Thaumcraft/WandRod-0.png2351gregtech/gt.metaitem.01-27306.png2361dreamcraft/item.LichBone-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDCheckboxcheckbox-.pngCheckbox
+5tasksANDCheckboxother/checkbox-.pngCheckbox
 1

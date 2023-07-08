@@ -14,12 +14,12 @@ You will also need:
 2+ Input Hatch (use 1 for every fluid)
 1+ Output Hatch (same as above)
 
-You can use a screwdriver on an output hatch to cycle through its modes. Use shift-right click to go directly to specific fluid mode, then lock the fluid with a cell for easier automation. This works on more than just the LCR.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoicegregtech/gt.blockmachines-5683.pngLarge PTFE Fluid Pipe;Fluid Capacity: 19,200 L/sec;Heat Limit: 600 K
-16gregtech/gt.metaitem.01-32408.pngLarge Stainless Steel Fluid Cell;No Fluids Contained;0L / 64,000L
-16enhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+You can use a screwdriver on an output hatch to cycle through its modes. Use shift-right click to go directly to specific fluid mode, then lock the fluid with a cell for easier automation. This works on more than just the LCR.ANDpre1601gregtech/gt.blockmachines-13.pngrewardsChoicegregtech/gt.blockmachines-5683.pngLarge PTFE Fluid Pipe
+16gregtech/gt.metaitem.01-32408.pngLarge Stainless Steel Fluid Cell
+16enhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-1169.pngLarge Chemical Reactor;Machine Type: Chemical Reactor;Controller block for the Large Chemical Reactor;Does not lose efficiency when overclocked;Accepts fluids instead of fluid cells;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings8-1.pngPTFE Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-1gregtech/gt.blockcasings5-0.pngCupronickel Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 1801 Kelvin
-1gregtech/gt.blockcasings8-0.pngChemically Inert Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1tasksANDRetrievalgregtech/gt.blockmachines-1169.pngLarge Chemical Reactor
+1Optionalgregtech/gt.blockcasings8-1.pngPTFE Pipe Casing
+1gregtech/gt.blockcasings5-0.pngCupronickel Coil Block
+1gregtech/gt.blockcasings8-0.pngChemically Inert Machine Casing
 8

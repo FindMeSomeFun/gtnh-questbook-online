@@ -1,7 +1,7 @@
-919minecraft/skull-4.png1Creeper: Evolved391728000Not that regular creepers are nasty enough, no. There is an evolved creeper boss! He is your key (Well he HAS a key...) to reach the next tier of planets (Asteroid Belt, Ceres, Io, Europa, Ganymede, Callisto).ANDpre9181minecraft/skull-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+919minecraft/skull-4.png1Creeper: Evolved391728000Not that regular creepers are nasty enough, no. There is an evolved creeper boss! He is your key (Well he HAS a key...) to reach the next tier of planets (Asteroid Belt, Ceres, Io, Europa, Ganymede, Callisto).ANDpre9181minecraft/skull-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1tasksANDLocationDIM/29-.pngMars
-1Huntmobs/GalacticraftMars-CreeperBoss-.pngCreeper Boss
+1tasksANDLocationDIM/29-.png29
+1HuntGalacticraftMars/CreeperBoss-.pngCreeperBoss
 1

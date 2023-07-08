@@ -1,7 +1,7 @@
 2891DraconicEvolution/magnet-0.png0Magnets != Magic4-1Tired of running after ore or other blocks? Use a magnet! It has a limited range, but who cares? Just remember to turn it on.
 
-Craft it into the better one in HV, if you still need a magnet by then.ANDpre6091gregtech/gt.metaitem.01-32500.png6150gregtech/gt.metaitem.01-32518.pngrewardsItemenhancedlootbags/lootbag-4-enchanted.pngLootBag (Tier 1 LV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+Craft it into the better one in HV, if you still need a magnet by then.ANDpre6091gregtech/gt.metaitem.01-32500.png6150gregtech/gt.metaitem.01-32518.pngrewardsItemenhancedlootbags/lootbag-4-enchanted.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalDraconicEvolution/magnet-0.pngItem Dislocator;Shift-Right click to activate.;8 Block Range.
+3tasksANDRetrievalDraconicEvolution/magnet-0.pngItem Dislocator
 1

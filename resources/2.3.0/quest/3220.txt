@@ -2,7 +2,7 @@
 
 Look in deep caves in the Twilight Forest at low Y-levels for glimmering mushrooms. These are your starting ingredient and can be used instead of flower petals. Beware, unlike flowers you can't grow more just yet, so be careful what you use them for.ANDpre2251minecraft/end_portal-0.pngrewardsItemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-5ChoiceBotania/mushroom-0.pngWhite Shimmering Mushroom;May work as an Infusion Stabilizer
-8enhancedlootbags/lootbag-36.pngLootBag (Gardens);You feel that a bit more "Fortune" might be a good idea...
-1tasksANDRetrievalBotania/mushroom-0.pngWhite Shimmering Mushroom;May work as an Infusion Stabilizer
+5ChoiceBotania/mushroom-0.pngWhite Shimmering Mushroom
+8enhancedlootbags/lootbag-36.pngLootBag (Gardens)
+1tasksANDRetrievalBotania/mushroom-0.pngWhite Shimmering Mushroom
 1

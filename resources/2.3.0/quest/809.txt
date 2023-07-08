@@ -1,18 +1,18 @@
-809Avaritia/Dire_Crafting-0.png0Dire Crafting Table24-1The Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.ANDpre8310GalacticraftCore/item.basicItem-14.pngrewardsChoiceminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
+809Avaritia/Dire_Crafting-0.png0Dire Crafting Table24-1The Avaritia 9x9 dire crafting table...is no longer used to make rockets :(. But you can still make it, if you want solars, kinetics, or whatnot. First of all you need 81 crafting tables to make a double compressed crafting table, a few HV components, wafers and a crystal matrix. And yes, you do need that many nether stars.ANDpre8310GalacticraftCore/item.basicItem-14.pngrewardsChoiceminecraft/nether_star-0.pngNether Star
 1witchery/ingredient-130.pngNull Catalyst
-1enhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalminecraft/crafting_table-0.pngCrafting Table;Burn Time: 300
-81OptionalAvaritia/Triple_Craft-0.pngDouble Compressed Crafting Table;Burn Time: 300
-1Optionalgregtech/gt.metaitem.01-17500.pngDiamond Plate;C
+1tasksANDOptionalminecraft/crafting_table-0.pngCrafting Table
+81OptionalAvaritia/Triple_Craft-0.pngDouble Compressed Crafting Table
+1Optionalgregtech/gt.metaitem.01-17500.pngDiamond Plate
 144dreamcraft/item.StainlessSteelBars-0.pngStainless Steel Bars
-36Optionalminecraft/nether_star-0.pngNether Star;Applicable up to: 08-Manyullyn
+36Optionalminecraft/nether_star-0.pngNether Star
 18Avaritia/Resource-0.pngDiamond Lattice
-36OptionalAvaritia/Resource-1.pngCrystal Matrix Ingot;This isn''t even its final form.
+36OptionalAvaritia/Resource-1.pngCrystal Matrix Ingot
 9OptionalAvaritia/Crystal_Matrix-0.pngCrystal Matrix
 1OptionalGalacticraftCore/item.basicItem-14.pngAdvanced Wafer
 2gregtech/gt.metaitem.01-32642.pngElectric Piston (HV)
-2gregtech/gt.metaitem.01-32652.pngRobot Arm (HV);1 stack every 1 sec (as Cover);Grabs from and inserts into specific slots
-2gregtech/gt.metaitem.01-32705.pngMainframe;An Elite Circuit;IV-Tier
+2gregtech/gt.metaitem.01-32652.pngRobot Arm (HV)
+2gregtech/gt.metaitem.01-32705.pngMainframe
 1RetrievalAvaritia/Dire_Crafting-0.pngDire Crafting Table
 1

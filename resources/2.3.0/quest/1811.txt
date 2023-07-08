@@ -1,5 +1,5 @@
-1811gregtech/gt.blockmachines-131.png0Even LARGER Tanks6-14000 buckets not enough storage? Stockpiling diesel for a lifetime? Try a Super Tank 2.ANDpre9890gregtech/gt.metaitem.01-11367.png18740gregtech/gt.metaitem.01-17649.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.blockores-19.pngAluminium Ore;Al
+1811gregtech/gt.blockmachines-131.png0Even LARGER Tanks6-14000 buckets not enough storage? Stockpiling diesel for a lifetime? Try a Super Tank 2.ANDpre9890gregtech/gt.metaitem.01-11367.png18740gregtech/gt.metaitem.01-17649.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
+1gregtech/gt.blockores-19.pngAluminium Ore
 16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-131.pngSuper Tank II;Stores 8,000,000L of fluid;Will keep its contents when harvested
+5tasksANDRetrievalgregtech/gt.blockmachines-131.pngSuper Tank II
 1

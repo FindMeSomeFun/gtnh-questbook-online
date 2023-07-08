@@ -3,5 +3,5 @@
 3dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 3dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDHuntmobs/Automagy-WispNether-.pngWisp Nether
+3tasksANDHuntAutomagy/WispNether-.pngWispNether
 15

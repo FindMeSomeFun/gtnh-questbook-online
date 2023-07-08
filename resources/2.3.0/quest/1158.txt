@@ -1,14 +1,14 @@
 1158TwilightForest/item.ironwoodIngot-0.png0Ironwood31-1Ironwood is much harder and durable than rubber. Ideal for a soft mallet. Collect some liveroot underground, from some roots, macerate it and mix the powder with iron and gold to create a new magical material.
 
-You can make some unique armor with this material.ANDpre2251minecraft/end_portal-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You can make some unique armor with this material.ANDpre2251minecraft/end_portal-0.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 25dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDOptionalTwilightForest/item.liveRoot-0.pngLiveroot
 9Optionalgregtech/gt.metaitem.01-2832.pngLiveroot Dust
-9gregtech/gt.metaitem.01-2032.pngIron Dust;Fe
-9gregtech/gt.metaitem.01-86.pngTiny Pile of Gold Dust;Au
-9Optionalgregtech/gt.metaitem.01-2338.pngIronwood Dust;Fe\u2089((COH)\u2083Ma)\u2089Au
+9gregtech/gt.metaitem.01-2032.pngIron Dust
+9gregtech/gt.metaitem.01-86.pngTiny Pile of Gold Dust
+9Optionalgregtech/gt.metaitem.01-2338.pngIronwood Dust
 18RetrievalTwilightForest/item.ironwoodIngot-0.pngIronwood Ingot
 18

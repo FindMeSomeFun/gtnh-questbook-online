@@ -1,5 +1,5 @@
-2767miscutils/frameStabilizing-0.png0Get it Together Bees!28-1These frames help prevent genetic decay.ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2767miscutils/frameStabilizing-0.png0Get it Together Bees!28-1These frames help prevent genetic decay.ANDpre11130Forestry/frameImpregnated-0.pngrewardsItemenhancedlootbags/lootbag-26.pngLootBag (Bees Advanced)
 1Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
 5tasksANDRetrievalMagicBees/frameGentle-0.pngGentle Frame
-1miscutils/frameStabilizing-0.pngStabilizing Frame;If you wish your bees to keep their form.
+1miscutils/frameStabilizing-0.pngStabilizing Frame
 1

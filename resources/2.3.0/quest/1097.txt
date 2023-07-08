@@ -1,8 +1,8 @@
-1097Thaumcraft/ItemBathSalts-0.png0Bathing the Warp Effects Away32-1Litmus paper will tell you how high your warp level is, but how can you get rid of the nasty warp effects? Bath salt will help you by prohibiting warp effects for a short period. Just throw the salt into a 1x1 water hole and jump inside. You will feel relieved a bit after bathing.ANDpre10550WarpTheory/item.warptheory.paper-0.pngrewardsItemThaumcraft/ItemEssence-1-auram.pngPhial of Essentia;Auram x 8
-2Thaumcraft/ItemEssence-1-cognitio.pngPhial of Essentia;Cognitio x 8
-2Thaumcraft/ItemEssence-1-ordo.pngPhial of Essentia;Ordo x 8
-2Thaumcraft/ItemEssence-1-sano.pngPhial of Essentia;Sano x 8
-2Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+1097Thaumcraft/ItemBathSalts-0.png0Bathing the Warp Effects Away32-1Litmus paper will tell you how high your warp level is, but how can you get rid of the nasty warp effects? Bath salt will help you by prohibiting warp effects for a short period. Just throw the salt into a 1x1 water hole and jump inside. You will feel relieved a bit after bathing.ANDpre10550WarpTheory/item.warptheory.paper-0.pngrewardsItemThaumcraft/ItemEssence-1-auram.pngPhial of Essentia
+2Thaumcraft/ItemEssence-1-cognitio.pngPhial of Essentia
+2Thaumcraft/ItemEssence-1-ordo.pngPhial of Essentia
+2Thaumcraft/ItemEssence-1-sano.pngPhial of Essentia
+2Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalThaumcraft/ItemBathSalts-0.pngPurifying Bath Salts
 2
