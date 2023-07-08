@@ -1,14 +1,14 @@
 879Thaumcraft/ItemResource-15.png0Primal Charm32-1With your new 50 vis wand you are able to make a Scepter which holds up to 75 vis.
-First you need some primal charms which cost 50 vis to craft.ANDpre2651Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/blockCrystal-6.pngMixed Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-4Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+First you need some primal charms which cost 50 vis to craft.ANDpre2651Thaumcraft/WandCasting-0.pngrewardsItemThaumcraft/blockCrystal-6.pngMixed Crystal Cluster
+4Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDOptionalThaumcraft/blockCrystal-0.pngAir Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1Thaumcraft/blockCrystal-6.pngMixed Crystal Cluster;Glass-Tier: HV;May work as an Infusion Stabilizer
-1gregtech/gt.metaitem.01-28351.pngRose Gold Ring;CuAu\u2084
-2RetrievalThaumcraft/ItemResource-15.pngPrimal Charm;You think you hear whispering
+5tasksANDOptionalThaumcraft/blockCrystal-0.pngAir Crystal Cluster
+1Thaumcraft/blockCrystal-1.pngFire Crystal Cluster
+1Thaumcraft/blockCrystal-2.pngWater Crystal Cluster
+1Thaumcraft/blockCrystal-3.pngEarth Crystal Cluster
+1Thaumcraft/blockCrystal-4.pngOrder Crystal Cluster
+1Thaumcraft/blockCrystal-5.pngEntropy Crystal Cluster
+1Thaumcraft/blockCrystal-6.pngMixed Crystal Cluster
+1gregtech/gt.metaitem.01-28351.pngRose Gold Ring
+2RetrievalThaumcraft/ItemResource-15.pngPrimal Charm
 1

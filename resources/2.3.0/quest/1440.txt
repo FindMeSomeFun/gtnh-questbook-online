@@ -1,11 +1,11 @@
-1440GalacticraftCore/tile.distributor-0.png0Oxygen Bubble Distributer24-1The Oxygen Bubble Distributor takes oxygen from the Oxygen Collector, and makes an oxygen bubble providing an area to safely breathe in without needing Oxygen Gear. The bubble is a sphere surrounding the distributor and will go through walls (or any block). Alternatively, you can use an Oxygen Sealer (which needs compressed Desh Plates) to contain oxygen inside a room.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
+1440GalacticraftCore/tile.distributor-0.png0Oxygen Bubble Distributer24-1The Oxygen Bubble Distributor takes oxygen from the Oxygen Collector, and makes an oxygen bubble providing an area to safely breathe in without needing Oxygen Gear. The bubble is a sphere surrounding the distributor and will go through walls (or any block). Alternatively, you can use an Oxygen Sealer (which needs compressed Desh Plates) to contain oxygen inside a room.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe
 6minecraft/leaves-0.pngOak Leaves
-512enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+512enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
 2GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
 2gregtech/gt.metaitem.01-32602.pngElectric Motor (HV)
 1GalacticraftCore/item.airVent-0.pngOxygen Vent
 2GalacticraftCore/item.airFan-0.pngOxygen Fan
-2RetrievalGalacticraftCore/tile.distributor-0.pngOxygen Bubble Distributor;Power required: 30 EU /s
+2RetrievalGalacticraftCore/tile.distributor-0.pngOxygen Bubble Distributor
 1

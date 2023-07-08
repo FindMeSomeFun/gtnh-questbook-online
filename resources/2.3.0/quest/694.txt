@@ -6,7 +6,7 @@ With the anvil you can repair, rename and enchant armor and tools.
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDOptionalminecraft/iron_block-0.pngBlock of Iron
-10gregtech/gt.metaitem.01-17032.pngIron Plate;Fe
-4gregtech/gt.metaitem.01-27032.pngIron Screw;Fe
+10gregtech/gt.metaitem.01-17032.pngIron Plate
+4gregtech/gt.metaitem.01-27032.pngIron Screw
 4Craftingminecraft/anvil-0.pngAnvil
 2

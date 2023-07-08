@@ -1,6 +1,6 @@
 175openmodularturrets/grenadeTurret-0.png0Fire in the Hole14-1Ah, there's nothing like an explosion and the certainty that your enemies have been blasted into tiny pieces.ANDpre1730openmodularturrets/baseTierTwoBlock-0.pngrewardsChoiceopenmodularturrets/grenadeCraftable-0.pngAmmo - Grenade
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalopenmodularturrets/grenadeTurret-0.pngGrenade Launcher Turret;--Info--;Tier: 3;Range (in blocks): 20;Accuracy: Medium;Ammo Type: Grenade;Base Minimum Tier: Tier 3 Turret Base;--Damage Output--;Projectile Damage: 9.0 Hearts;AOE Radius: 3;Shots/s: 0.5;Energy usage per shot: 3000 RF;Another example is the inductive;form of the horse paradox.;Glass-Tier: HV
+5tasksANDRetrievalopenmodularturrets/grenadeTurret-0.pngGrenade Launcher Turret
 1

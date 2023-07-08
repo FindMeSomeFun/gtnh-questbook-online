@@ -1,11 +1,11 @@
 485BiomesOPlenty/colorizedSaplings-0.png0You Need MOOOOOOORE Wood2-1It's time to feed your new coke oven with some wood to get more charcoal. You're looking for the most efficient way to plant trees. Try to find some spruce saplings and some jungle saplings. Both can be planted in a 2x2 grid to get bigger trees.
 
-Warning label: Do not put your pets in the microwave to dry them. And do not plant any of these rewards in the middle of your base.ANDpre241Railcraft/machine.alpha-7.pngrewardsChoiceBiomesOPlenty/colorizedSaplings-0.pngSacred Oak Sapling;Burn Time: 100
-1Natura/florasapling-0.pngRedwood Sapling;Plant these in a 7x7;It takes days to grow;Burn Time: 100
-49BiomesOPlenty/colorizedSaplings-3.pngRedwood Sapling;Burn Time: 100
+Warning label: Do not put your pets in the microwave to dry them. And do not plant any of these rewards in the middle of your base.ANDpre241Railcraft/machine.alpha-7.pngrewardsChoiceBiomesOPlenty/colorizedSaplings-0.pngSacred Oak Sapling
+1Natura/florasapling-0.pngRedwood Sapling
+49BiomesOPlenty/colorizedSaplings-3.pngRedwood Sapling
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 5dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 5dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-5tasksANDRetrievalminecraft/sapling-1.pngSpruce Sapling;Burn Time: 100
-4minecraft/sapling-3.pngJungle Sapling;Burn Time: 100
+5tasksANDRetrievalminecraft/sapling-1.pngSpruce Sapling
+4minecraft/sapling-3.pngJungle Sapling
 4

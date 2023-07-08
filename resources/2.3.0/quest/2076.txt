@@ -2,5 +2,5 @@
 1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDHuntmobs/LavaSlime-.pngLava Slime
+5tasksANDHuntminecraft/LavaSlime-.pngLavaSlime
 20

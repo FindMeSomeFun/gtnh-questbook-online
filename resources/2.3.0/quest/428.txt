@@ -1,5 +1,5 @@
-428AWWayofTime/itemRitualDiviner-0.png0Rituals Made Easy37-1Now that you have access to elemental chalk, you can get yourself the basic ritual diviner. A convenient way to place simple but yet complex magical rituals. Shift-right-click to cycle between rituals.ANDpre4250AWWayofTime/waterScribeTool-0.pngrewardsItemAWWayofTime/imbuedSlate-0.pngImbued Slate;Infused stone inside of;a blood altar
-2enhancedlootbags/lootbag-17.pngLootBag (BM Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+428AWWayofTime/itemRitualDiviner-0.png0Rituals Made Easy37-1Now that you have access to elemental chalk, you can get yourself the basic ritual diviner. A convenient way to place simple but yet complex magical rituals. Shift-right-click to cycle between rituals.ANDpre4250AWWayofTime/waterScribeTool-0.pngrewardsItemAWWayofTime/imbuedSlate-0.pngImbued Slate
+2enhancedlootbags/lootbag-17.pngLootBag (BM Adept)
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-2tasksANDRetrievalAWWayofTime/itemRitualDiviner-0.pngRitual Diviner;Used to explore new types of rituals;Can not place Dusk runes;Ritual tuned to face: NORTH
+2tasksANDRetrievalAWWayofTime/itemRitualDiviner-0.pngRitual Diviner
 1

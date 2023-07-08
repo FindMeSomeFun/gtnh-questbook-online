@@ -2,5 +2,5 @@
 
 Alternatively, Heavy Fuel? It has the same EU per bucket as Benzene, 360k, and is the only semifluid with more than 100k per bucket. If you have it, and are not consuming enough for Diesel, you can use it this way.ANDpre8961gregtech/gt.metaitem.01-32641.pngrewardsItemgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
 4Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-838.pngAdvanced Semi-Fluid Generator;Requires semi-fluid Fuel;Produces 160 pollution/sec;Fuel Efficiency: 90%;Added by: Alkalus - [GT++];Voltage OUT: 128 (MV);Capacity: 10,752 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-838.pngAdvanced Semi-Fluid Generator
 1

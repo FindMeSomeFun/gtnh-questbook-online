@@ -1,6 +1,6 @@
 1309ae2fc/part_fluid_import-0.png0Emptying Tanks27-1Import Bus for Fluids only.ANDpre13081appliedenergistics2/item.ItemMultiPart-240.pngrewardsChoicegregtech/gt.metaitem.01-17811.pngGlowstone Plate
-16gregtech/gt.metaitem.01-17526.pngLapis Plate;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-16enhancedlootbags/lootbag-37.pngLootBag (AE Basic);You feel that a bit more "Fortune" might be a good idea...
+16gregtech/gt.metaitem.01-17526.pngLapis Plate
+16enhancedlootbags/lootbag-37.pngLootBag (AE Basic)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDRetrievalae2fc/part_fluid_import-0.pngME Fluid Import Bus
 2

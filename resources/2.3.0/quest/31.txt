@@ -1,8 +1,8 @@
 31gregtech/gt.metaitem.01-11057.png1Tin2-1Tin ingots can be created by smelting Tin, Cassiterite, or Cassiterite Sand ore. Tin and Cassiterite ores are only found at high altitudes, but Cassiterite Sand ore is plentiful near the surface.
 
-Tip: If you get lucky and find a high altitude Tin/Cassiterite vein, save one of the Cassiterite ore to find a Mica vein later on using the ore finder wand.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceNatura/berryMedley-0.pngBerry Medley;Natura:berryMedley;An irresistable combination of berries
-4harvestcraft/strawberrypieItem-0.pngStrawberry Pie;harvestcraft:strawberrypieItem
-1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Tip: If you get lucky and find a high altitude Tin/Cassiterite vein, save one of the Cassiterite ore to find a Mica vein later on using the ore finder wand.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceNatura/berryMedley-0.pngBerry Medley
+4harvestcraft/strawberrypieItem-0.pngStrawberry Pie
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-10tasksANDRetrievalgregtech/gt.metaitem.01-11057.pngTin Ingot;Sn
+10tasksANDRetrievalgregtech/gt.metaitem.01-11057.pngTin Ingot
 16

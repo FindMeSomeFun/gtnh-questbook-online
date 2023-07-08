@@ -7,6 +7,6 @@
 1minecraft/bucket-0.pngBucket
 4minecraft/netherrack-0.pngNetherrack
 1minecraft/flint_and_steel-0.pngFlint and Steel
-1LocationDIM/55-.pngSpirit World
+1LocationDIM/55-.png55
 1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5

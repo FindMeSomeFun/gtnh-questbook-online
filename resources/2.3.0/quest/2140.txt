@@ -1,5 +1,5 @@
 2140gregtech/gt.metatool.01-12-Diamond-Wood.png0A Fool Fit for a King3-1Only the craziest fool would use diamonds to make a tool! Or is it crazy like a fox?
 
-PS: You can also burn them for fuel for that extra bit of craziness.ANDpre4950minecraft/diamond-0.pngrewardsItemgregtech/gt.metaitem.02-29500.pngFlawless Diamond;C
-1tasksANDRetrievalgregtech/gt.metatool.01-12-Diamond-Wood.pngHammer;Durability: 128,000 / 128,000;Diamond lvl 4;Attack Damage: 7.0;Mining Speed: 6.0;Crushes Ores instead of harvesting them;Usable for Prospecting
+PS: You can also burn them for fuel for that extra bit of craziness.ANDpre4950minecraft/diamond-0.pngrewardsItemgregtech/gt.metaitem.02-29500.pngFlawless Diamond
+1tasksANDRetrievalgregtech/gt.metatool.01-12-Diamond-Wood.pngHammer
 1

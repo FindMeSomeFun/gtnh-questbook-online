@@ -6,7 +6,7 @@ Once you complete this quest, check out the rest of the Quest Tabs. A new one, "
 1harvestcraft/pamwalnutSapling-0.pngWalnut Sapling
 1Itemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
 2dreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
-2tasksANDOptionalminecraft/sapling-0.pngOak Sapling;Burn Time: 100
-1minecraft/apple-0.pngApple;minecraft:apple
+2tasksANDOptionalminecraft/sapling-0.pngOak Sapling
+1minecraft/apple-0.pngApple
 1Craftingharvestcraft/pamappleSapling-0.pngApple Sapling
 1

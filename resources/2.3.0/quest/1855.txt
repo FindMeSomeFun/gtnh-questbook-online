@@ -2,12 +2,12 @@
 
 The veggie and cheese options aren't quite as good and need more work to produce.
 
-There are also normal sized varieties of these sandwiches if you need more diet choices.ANDpre6370gregtech/gt.metaitem.02-32559.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich;gregtech:gt.metaitem.02;Just not worth it
-2gregtech/gt.metaitem.02-32242.pngLarge Cheese Sandwich;gregtech:gt.metaitem.02;I need another cheesy tooltip for this
+There are also normal sized varieties of these sandwiches if you need more diet choices.ANDpre6370gregtech/gt.metaitem.02-32559.pngrewardsItemgregtech/gt.metaitem.02-32241.pngLarge Veggie Sandwich
+2gregtech/gt.metaitem.02-32242.pngLarge Cheese Sandwich
 2dreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
-20tasksANDOptionalgregtech/gt.metaitem.02-32565.pngBaguette;gregtech:gt.metaitem.02;I teleported nothing BUT Bread!!!
-8minecraft/cooked_porkchop-0.pngCooked Porkchop;minecraft:cooked_porkchop
-8minecraft/cooked_beef-0.pngSteak;minecraft:cooked_beef
-8Retrievalgregtech/gt.metaitem.02-32244.pngLarge Steak Sandwich;gregtech:gt.metaitem.02;Yes, I once accidentially called it ''Steam Sandwich''
-4gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
+20tasksANDOptionalgregtech/gt.metaitem.02-32565.pngBaguette
+8minecraft/cooked_porkchop-0.pngCooked Porkchop
+8minecraft/cooked_beef-0.pngSteak
+8Retrievalgregtech/gt.metaitem.02-32244.pngLarge Steak Sandwich
+4gregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich
 4

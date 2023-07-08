@@ -2,22 +2,22 @@
 
 Go and get a few trees like Bloodwood, Fusewood, Darkwood or Ghostwood out of the Nether.
 
-These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.ANDpre4961IC2/itemDust-13.pngrewardsChoiceenhancedlootbags/lootbag-2-enchanted.pngLootBag (Steam Age);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1EnderIO/itemAlloy-6.pngDark Steel;((Fe\u2085\u2080C)CSi)C(MgFeSi\u2082O\u2088)
+These trees can be planted like normal trees, except for Bloodwood. That has to planted on a ceiling and will grow down instead of up.ANDpre4961IC2/itemDust-13.pngrewardsChoiceenhancedlootbags/lootbag-2-enchanted.pngLootBag (Steam Age)
+1EnderIO/itemAlloy-6.pngDark Steel
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25dreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-25tasksANDRetrievalNatura/floraleavesnocolor-1.pngGhostwood Leaves;Nether Tree;Pale as a ghost
-16Natura/florasapling-4.pngGhostwood Sapling;Pale as a ghost;Burn Time: 100
-4Natura/tree-2.pngGhostwood;Nether Tree;Pale as a ghost;Burn Time: 300
-8RetrievalNatura/floraleavesnocolor-2.pngBloodleaves;Nether Tree;Fire-resistant leaves
-16Natura/bloodwood-0.pngBloodwood;Fire-resistant tree;Burn Time: 300
-8Natura/bloodwood-15.pngBloodwood;Fire-resistant tree;Burn Time: 300
-8Natura/florasapling-5.pngBlood Sapling;Lava-resistant;Grows on the ceiling;Burn Time: 100
-4RetrievalNatura/Dark Tree-0.pngDarkwood;Nether Tree;Burn Time: 300
-8Natura/florasapling-6.pngDarkwood Sapling;Produces chalky apples;Burn Time: 100
-4Natura/Dark Leaves-0.pngDarkwood Leaves;Nether Tree
-16Natura/Natura.netherfood-0.pngPotash Apple;Natura:Natura.netherfood;Tastes a bit like chalk
-1RetrievalNatura/Dark Tree-1.pngFusewood;Nether Tree;Explosive Personality;Burn Time: 300
-8Natura/Dark Leaves-3.pngFusewood Leaves;Nether Tree;Explosive Personality
-16Natura/florasapling-7.pngFusewood Sapling;Explosive Personality;Burn Time: 100
+25tasksANDRetrievalNatura/floraleavesnocolor-1.pngGhostwood Leaves
+16Natura/florasapling-4.pngGhostwood Sapling
+4Natura/tree-2.pngGhostwood
+8RetrievalNatura/floraleavesnocolor-2.pngBloodleaves
+16Natura/bloodwood-0.pngBloodwood
+8Natura/bloodwood-15.pngBloodwood
+8Natura/florasapling-5.pngBlood Sapling
+4RetrievalNatura/Dark Tree-0.pngDarkwood
+8Natura/florasapling-6.pngDarkwood Sapling
+4Natura/Dark Leaves-0.pngDarkwood Leaves
+16Natura/Natura.netherfood-0.pngPotash Apple
+1RetrievalNatura/Dark Tree-1.pngFusewood
+8Natura/Dark Leaves-3.pngFusewood Leaves
+16Natura/florasapling-7.pngFusewood Sapling
 4

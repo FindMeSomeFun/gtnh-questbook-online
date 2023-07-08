@@ -1,5 +1,5 @@
 2314bartworks/gt.bwMetaGeneratedcell-68.png1Where's the Salt?8-1Add Chlorine to Sodium Ruthenate to get Ruthenium Tetroxide Solution.ANDpre23061bartworks/gt.bwMetaGenerateddust-65.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-65.pngSodium Ruthenate Dust;Na\u2082RuO\u2083;Added by BartWorks
-6gregtech/gt.metaitem.01-30023.pngChlorine Cell;Cl
-3Retrievalbartworks/gt.bwMetaGeneratedcell-68.pngRuthenium Tetroxide Solution Cell;???;Added by BartWorks
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-65.pngSodium Ruthenate Dust
+6gregtech/gt.metaitem.01-30023.pngChlorine Cell
+3Retrievalbartworks/gt.bwMetaGeneratedcell-68.pngRuthenium Tetroxide Solution Cell
 9

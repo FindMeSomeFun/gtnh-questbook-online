@@ -1,5 +1,5 @@
 2077minecraft/slime_ball-0.png0Time to Kill (Slime)39432000Sticky and bouncy! Now in many variations. Say hello to my little friend, Lemon Slice!ANDpre111gregtech/gt.metatool.01-0-Flint-Wood.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
 1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDHuntmobs/Slime-.pngSlime
+5tasksANDHuntminecraft/Slime-.pngSlime
 40

@@ -1,4 +1,4 @@
-477gregtech/gt.blockcasings5-6.png1Naquadah Alloy Coil Upgrade17-1This one is optional now. But still very useful and recommended.ANDpre4761gregtech/gt.blockcasings5-5.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV);Your luck is increased by 100 %;Fortune III
+477gregtech/gt.blockcasings5-6.png1Naquadah Alloy Coil Upgrade17-1This one is optional now. But still very useful and recommended.ANDpre4761gregtech/gt.blockcasings5-5.pngrewardsItemenhancedlootbags/lootbag-41-enchanted.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-5tasksANDRetrievalgregtech/gt.blockcasings5-6.pngNaquadah Alloy Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 8101 Kelvin
+5tasksANDRetrievalgregtech/gt.blockcasings5-6.pngNaquadah Alloy Coil Block
 16

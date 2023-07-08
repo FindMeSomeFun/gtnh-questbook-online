@@ -9,11 +9,11 @@
 
 You can change out the Data Orb for one with whatever culture you wish to copy. Keep in mind that it might be easier to make a second culture the normal way, and that there's generally an alternative recipe that uses the fluid it produces to make it with a higher chance.
 
-PS: This recipe is the only one in NEI that uses this module, so you can find it if you look, but the number will change, so I can't specify which page.ANDpre27130bartworks/BioLabModules-1.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngSterilized Petri Dish;An empty Sterilized Petri Dish.;Added by BartWorks
-1bartworks/BioLabParts-6.pngPlasma Membrane;Added by BartWorks
-1gregtech/gt.metaitem.03-32073.pngStemcells;Raw inteligence
-2gregtech/gt.metaitem.01-32707.pngData Orb;A High Capacity Data Storage;DNA Sample;Escherichia koli
+PS: This recipe is the only one in NEI that uses this module, so you can find it if you look, but the number will change, so I can't specify which page.ANDpre27130bartworks/BioLabModules-1.pngrewardstasksANDRetrievalbartworks/BioLabParts-0.pngSterilized Petri Dish
+1bartworks/BioLabParts-6.pngPlasma Membrane
+1gregtech/gt.metaitem.03-32073.pngStemcells
+2gregtech/gt.metaitem.01-32707.pngData Orb
 1gregtech/gt.metaitem.98-16.pngLiquid DNA Cell
-8Retrievalbartworks/BioLabModules-4.pngClonal Cellular Synthesis Module;A Module used to change the BioLab''s working Mode;Added by BartWorks
-1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture;A Petri Dish containing: Escherichia koli (eColi Bacteria);Added by BartWorks
+8Retrievalbartworks/BioLabModules-4.pngClonal Cellular Synthesis Module
+1Retrievalbartworks/BioLabParts-0.pngPetri Dish with a Culture
 1

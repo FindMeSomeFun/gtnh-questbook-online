@@ -1,6 +1,6 @@
-605minecraft/ender_eye-0.png0Slay the Eyes!39432000Find and kill Ender-Eyes, that guard the Towers.ANDpre23490HardcoreEnderExpansion/obsidian_special_glow-1.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+605minecraft/ender_eye-0.png0Slay the Eyes!39432000Find and kill Ender-Eyes, that guard the Towers.ANDpre23490HardcoreEnderExpansion/obsidian_special_glow-1.pngrewardsItemenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-2tasksANDHuntmobs/HardcoreEnderExpansion-EnderEye-.pngEnder Eye
+2tasksANDHuntHardcoreEnderExpansion/EnderEye-.pngEnderEye
 1

@@ -4,5 +4,5 @@ From the air with a bow and arrow or crossbow they're easy targets.ANDpre111
 3dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 3dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDHuntmobs/SpecialMobs-LavaMonster-.pngLava Monster
+3tasksANDHuntSpecialMobs/LavaMonster-.pngLavaMonster
 25

@@ -1,8 +1,8 @@
-1622gregtech/gt.metaitem.01-2634.png1Raw Styrene-Butadiene Rubber6-1The second last step is Raw Styrene-Butadiene Rubber. Mix Butadiene, Styrene and Oxygen to make the dust.ANDpre16201gregtech/gt.metaitem.01-30637.pngrewardsChoicegregtech/gt.metaitem.01-30637.pngStyrene Cell;C\u2088H\u2088
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1622gregtech/gt.metaitem.01-2634.png1Raw Styrene-Butadiene Rubber6-1The second last step is Raw Styrene-Butadiene Rubber. Mix Butadiene, Styrene and Oxygen to make the dust.ANDpre16201gregtech/gt.metaitem.01-30637.pngrewardsChoicegregtech/gt.metaitem.01-30637.pngStyrene Cell
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-30637.pngStyrene Cell;C\u2088H\u2088
-1gregtech/gt.metaitem.01-30646.pngButadiene Cell;C\u2084H\u2086
-3gregtech/gt.metaitem.01-30013.pngOxygen Cell;O
-15Retrievalgregtech/gt.metaitem.01-2634.pngRaw Styrene-Butadiene Rubber Dust;(C\u2088H\u2088)(C\u2084H\u2086)\u2083
+5tasksANDOptionalgregtech/gt.metaitem.01-30637.pngStyrene Cell
+1gregtech/gt.metaitem.01-30646.pngButadiene Cell
+3gregtech/gt.metaitem.01-30013.pngOxygen Cell
+15Retrievalgregtech/gt.metaitem.01-2634.pngRaw Styrene-Butadiene Rubber Dust
 41

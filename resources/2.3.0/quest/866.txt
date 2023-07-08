@@ -1,9 +1,9 @@
 866minecraft/rail-0.png0The Transcontinental Railroad14-1All the different mining veins that have been found seem to be really far apart. One way to shorten the travel time is to create a railroad from your base to the different mines. Sadly this requires a large amount of both iron and creosote. Let's not forget to place the last symbolic rivet on one of your new train lines.ANDpre971gregtech/gt.blockmachines-211.png6670Railcraft/track-736-slow.pngrewardsChoiceminecraft/rail-0.pngTrack
 128Railcraft/part.rail-0.pngStandard Rail
 60Railcraft/part.railbed-0.pngWooden Railbed
-32enhancedlootbags/lootbag-32.pngLootBag (Transportation 3 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-32.pngLootBag (Transportation 3 Class)
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 20dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 20tasksANDRetrievalminecraft/rail-0.pngTrack
-512Railcraft/track-32363-buffer-stop.pngBuffer Stop Track;End of the Line;- Hit with Crowbar to change direction -
+512Railcraft/track-32363-buffer-stop.pngBuffer Stop Track
 2

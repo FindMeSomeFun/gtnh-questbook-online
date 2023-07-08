@@ -1,5 +1,5 @@
-1701gregtech/gt.metaitem.01-30593.png1Dimethylbenzene8-1Dimethylbenzene can be distilled from Wood Tar or using Benzene and Methane gas in a Chemical Reactor.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1701gregtech/gt.metaitem.01-30593.png1Dimethylbenzene8-1Dimethylbenzene can be distilled from Wood Tar or using Benzene and Methane gas in a Chemical Reactor.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30593.png1,2-Dimethylbenzen Cell;C\u2088H\u2081\u2080
+5tasksANDRetrievalgregtech/gt.metaitem.01-30593.png1,2-Dimethylbenzen Cell
 18

@@ -1,4 +1,4 @@
-1268gregtech/gt.blockmachines-878.png0LV High-Amp Transformer20-1If you need a transformer with more than 4A you need a high amp transformer. You can input 4A MV and output 16A LV. Useful for running lots of LV machines. Its mode can be changed with a soft mallet, just like before.ANDpre12660gregtech/gt.blockmachines-21.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1268gregtech/gt.blockmachines-878.png0LV High-Amp Transformer20-1If you need a transformer with more than 4A you need a high amp transformer. You can input 4A MV and output 16A LV. Useful for running lots of LV machines. Its mode can be changed with a soft mallet, just like before.ANDpre12660gregtech/gt.blockmachines-21.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.blockmachines-878.pngLV Hi-Amp Transformer;MV -> LV (Use Soft Mallet to invert);Accepts 4A and outputs 16A;Toggle 2A/8A half-mode with Screwdriver;Added by: Alkalus - [GT++];Voltage IN: 128 (MV);Voltage OUT: 32 (LV);Amperage: 16;Capacity: 6,144 EU
+25tasksANDRetrievalgregtech/gt.blockmachines-878.pngLV Hi-Amp Transformer
 1

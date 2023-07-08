@@ -23,5 +23,5 @@ Control buttons - Buttons might change their behavior and appearance depending o
 5) Power Switch - Soft Mallet with your finger...
 
 6) Input slot - Standard functionality.
-ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+ANDpre20051structurelib/item.structurelib.constructableTrigger-0.pngrewardstasksANDCheckboxother/checkbox-.pngcheckbox
 1

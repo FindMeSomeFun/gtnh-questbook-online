@@ -2,6 +2,6 @@
 64witchery/witchesovenidle-0.pngWitches Oven
 1tasksANDConsumewitchery/ingredient-27.pngClay Jar
 64witchery/witchesovenidle-0.pngWitches Oven
-1LocationDIM/55-.pngSpirit World
+1LocationDIM/55-.png55
 1Consumedreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 5

@@ -4,11 +4,11 @@ If you need the schematics for the astro miner or the cargo rocket, kill another
 Before you journey home make sure you fulfill the quest requirements in the EV tab.
 
 ANDpre14291GalacticraftMars/item.spaceshipTier2-0.pngrewardsChoiceGalacticraftMars/item.null-2.pngDesh Ingot
-16gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot;(Fe\u2085\u2080C)W
-8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16gregtech/gt.metaitem.01-11316.pngTungstensteel Ingot
+8enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDRetrievalGalacticraftMars/tile.mars-7.pngMars Dungeon Brick
 16RetrievalGalacticraftMars/item.key-0.pngTier 2 Dungeon Key
-1RetrievalGalacticraftMars/item.schematic-0.pngNASA Workbench Schematic;Tier 3 Rocket
+1RetrievalGalacticraftMars/item.schematic-0.pngNASA Workbench Schematic
 1

@@ -1,7 +1,7 @@
 628harvestcraft/fruitbaitItem-0.png0Fruit Bait13-1Crafting some tasty fruit bait for your animal trap.ANDpre4400harvestcraft/pamappleSapling-0.png6310harvestcraft/animaltrap-0.pngrewardsChoiceharvestcraft/veggiebaitItem-0.pngVeggie Bait
 4harvestcraft/grainbaitItem-0.pngGrain Bait
 4harvestcraft/fishtrapbaitItem-0.pngFish Trap Bait
-4enhancedlootbags/lootbag-28.pngLootBag (Fast Food);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-28.pngLootBag (Fast Food)
 1Itemdreamcraft/item.CoinFarmer-0.pngCoin "The Farmer 1"
 15tasksANDCraftingharvestcraft/fruitbaitItem-0.pngFruit Bait
 16

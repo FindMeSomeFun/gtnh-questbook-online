@@ -1,4 +1,4 @@
 2430minecraft/diamond_ore-0.png0Diamond Ore exchange4024000You can exchange your Stack of GT Diamond Ore for vanilla Diamond Ore.ANDpre4950minecraft/diamond-0.pngrewardsItemminecraft/diamond_ore-0.pngDiamond Ore
 64tasksANDConsumedreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
-50gregtech/gt.blockores-500.pngDiamond Ore;C
+50gregtech/gt.blockores-500.pngDiamond Ore
 64

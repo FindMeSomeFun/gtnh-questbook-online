@@ -1,4 +1,4 @@
-1168gregtech/gt.metaitem.01-2017.png0Sodium4-1Sodium can be washed out of Glauconite Ore and Sand. It can also be electrolyzed out of salt.ORpre6210gregtech/gt.blockores-933.png6221gregtech/gt.blockores-817.pngrewardsItemgregtech/gt.metaitem.02-32224.pngChumburger;gregtech:gt.metaitem.02;Fum is Chum!
+1168gregtech/gt.metaitem.01-2017.png0Sodium4-1Sodium can be washed out of Glauconite Ore and Sand. It can also be electrolyzed out of salt.ORpre6210gregtech/gt.blockores-933.png6221gregtech/gt.blockores-817.pngrewardsItemgregtech/gt.metaitem.02-32224.pngChumburger
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
+15tasksANDRetrievalgregtech/gt.metaitem.01-2017.pngSodium Dust
 10

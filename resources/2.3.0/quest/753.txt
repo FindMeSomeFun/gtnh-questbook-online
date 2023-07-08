@@ -1,7 +1,7 @@
 753gregtech/gt.metaitem.01-11306.png1Stainless Steel EBF processing5-1Stainless Steel ingots are made in the Electric Blast Furnace at a temperature of 1700K.
 
-It takes 85 seconds at 480 EU/t or 60 seconds at 480 EU/t by adding Oxygen gas. Always add a gas if you can, you're saving tons of power by doing so, and you're gonna need a TON of SS. The Cracker, Large Steam Turbine, and Distillery Tower all need huge amounts of SS. A single DT uses several stacks, and you're gonna want more than just one.ORpre7491gregtech/gt.metaitem.01-2306.png7541gregtech/gt.blockmachines-42.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+It takes 85 seconds at 480 EU/t or 60 seconds at 480 EU/t by adding Oxygen gas. Always add a gas if you can, you're saving tons of power by doing so, and you're gonna need a TON of SS. The Cracker, Large Steam Turbine, and Distillery Tower all need huge amounts of SS. A single DT uses several stacks, and you're gonna want more than just one.ORpre7491gregtech/gt.metaitem.01-2306.png7541gregtech/gt.blockmachines-42.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot;Fe\u2086CrMnNi
+5tasksANDRetrievalgregtech/gt.metaitem.01-11306.pngStainless Steel Ingot
 64

@@ -23,8 +23,8 @@ The maximum you can have in your inventory at once is 4.ANDpre651gregtech/g
 10gregtech/gt.metaitem.02-32429.pngWhite Dye
 10Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 10dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDOptionalgregtech/gt.metaitem.01-28305.pngSteel Ring;Fe\u2085\u2080C
+10tasksANDOptionalgregtech/gt.metaitem.01-28305.pngSteel Ring
 1harvestcraft/wovencottonItem-0.pngWoven Cotton
 3Backpack/tannedLeather-0.pngTanned Leather
-5CraftingBackpack/backpack-0.pngBackpack;Press SHIFT for more information;4*9 Inventory - 36 Slots
+5CraftingBackpack/backpack-0.pngBackpack
 1

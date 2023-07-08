@@ -6,12 +6,12 @@ Place the schematic in the NASA Worbench and unlock it on the last tab. This wil
 
 If you've made the chip in an older version, you can turn it back into a schematic in a PLE.
 
-All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.ANDpre8101GalacticraftCore/item.spaceship-0.png8201GalacticraftCore/tile.landingPad-0.png8211GalacticraftCore/tile.fuelLoader-0.png8291GalacticraftCore/tile.oxygenCompressor-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot;SpFe
-16gregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+All dungeons work the same, just with a different boss. Also, sometimes the boss room or chest room doesn't generate, you'll need to find another dungeon.ANDpre8101GalacticraftCore/item.spaceship-0.png8201GalacticraftCore/tile.landingPad-0.png8211GalacticraftCore/tile.fuelLoader-0.png8291GalacticraftCore/tile.oxygenCompressor-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot
+16gregtech/gt.metaitem.01-11028.pngTitanium Ingot
+8enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalGalacticraftCore/tile.moonBlock-14.pngMoon Dungeon Brick
 1RetrievalGalacticraftCore/item.key-0.pngTier 1 Dungeon Key
-1RetrievalGalacticraftCore/item.schematic-1.pngNASA Workbench Schematic;Tier 2 Rocket
+1RetrievalGalacticraftCore/item.schematic-1.pngNASA Workbench Schematic
 1

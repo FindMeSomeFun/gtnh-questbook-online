@@ -6,12 +6,12 @@ Thorium can be obtained from the Nether, whereas the other 3 ores are locked aft
 
 After it decays, you can electrolyze Radon out of it and progress into the next circuit line. However, you will not be able to do the Radon loop here, that can only be done with Plutonium 239.
 
-You only need to do one task.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You only need to do one task.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot
+8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksORRetrievalgregtech/gt.metaitem.01-6873.pngPurified Pitchblende;(UO\u2082)\u2083ThPb
-64Retrievalgregtech/gt.metaitem.01-6922.pngPurified Uraninite Ore;UO\u2082
-64Retrievalgregtech/gt.metaitem.01-6098.pngPurified Uranium 238 Ore;U
-64Retrievalgregtech/gt.metaitem.01-6096.pngPurified Thorium Ore;Th
+2tasksORRetrievalgregtech/gt.metaitem.01-6873.pngPurified Pitchblende
+64Retrievalgregtech/gt.metaitem.01-6922.pngPurified Uraninite Ore
+64Retrievalgregtech/gt.metaitem.01-6098.pngPurified Uranium 238 Ore
+64Retrievalgregtech/gt.metaitem.01-6096.pngPurified Thorium Ore
 128

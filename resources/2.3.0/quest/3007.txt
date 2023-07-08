@@ -2,8 +2,8 @@
 
 You'll still need to automate Ammonia, though, and there are two main ways of doing this. One of the options is to create it directly from Nitrogen and Hydrogen, but this recipe consumes a lot of EU. The other option is to switch to the biological side of things and get it from the DT recipe of Fermented Biomass, but this requires a whole another setup with sapling automation, a Pyrolyse Oven and some other machines, so don't do it unless you're interested in getting the other outputs of that recipe. It, however, might be a good option if you don't have those yet. Either way, automate your Ammonia.
 
-ANDpre30030gregtech/gt.blockmachines-1112.pngrewardsItemgregtech/gt.metaitem.01-30659.pngAmmonia Cell;NH\u2083
-10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+ANDpre30030gregtech/gt.blockmachines-1112.pngrewardsItemgregtech/gt.metaitem.01-30659.pngAmmonia Cell
+10gregtech/gt.metaitem.01-30653.pngNitric Acid Cell
 10dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-10tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
+10tasksANDRetrievalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell
 64

@@ -1,4 +1,4 @@
 3265Botania/specialFlower-0-arcanerose.png0Experienced Botanist35-1The rosa arcana transmutes experience into mana. A player standing near it will have their experience drained for this purpose. This process is unfortunately not very practical to automate, as the experience can only be extracted directly from a player, and not from orbs on the ground or any method of storage. It might be wise to place it somewhere you spend a lot of time.ANDpre32631Botania/rune-2.pngrewardsItemminecraft/experience_bottle-0.pngBottle o'' Enchanting
 8dreamcraft/item.CoinFlowerII-0.pngCoin "The Gardener 100"
-5tasksANDRetrievalBotania/specialFlower-0-arcanerose.pngRosa Arcana;Generating Flower;Ten blue orbs in the corner
+5tasksANDRetrievalBotania/specialFlower-0-arcanerose.pngRosa Arcana
 1

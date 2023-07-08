@@ -5,7 +5,7 @@ To brew a potion, cast a ritual or create an item, the cauldron must first be fi
 Once a cauldron is full of water, it must boil. Lighting a fire beneath the cauldron is the only way for this to happen. Using a netherrack block will guarantee the fire does not go out, although if it does go out, it may be set to boil again without any consequences (unlike brewing in a Kettle!).
 
 When the water is boiling, ingredients may be added to the Cauldron (one after another), to create the desired effect. The book, Witches' Brews gives a complete overview of all ingredients and what they can do when added to a brew.ANDpre3320witchery/witchesovenidle-0.png15600witchery/seedsbelladonna-0.pngrewardsItemminecraft/bucket-0.pngBucket
-4enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept);You feel that a bit more "Fortune" might be a good idea...
+4enhancedlootbags/lootbag-53.pngLootBag (Witchery Adept)
 1Itemdreamcraft/item.CoinCookI-0.pngCoin "The Cook 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"

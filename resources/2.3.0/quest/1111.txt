@@ -1,7 +1,7 @@
-1111Forestry/apicultureChest-0.png0A Chest for Bees28-1A chest for bees only. It can hold up to 125 different bees in one chest.ANDpre5070Forestry/apiculture-0.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1111Forestry/apicultureChest-0.png0A Chest for Bees28-1A chest for bees only. It can hold up to 125 different bees in one chest.ANDpre5070Forestry/apiculture-0.pngrewardsItemenhancedlootbags/lootbag-25.pngLootBag (Bees Basic)
 1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5tasksANDOptionalForestry/beeCombs-0.pngHoney Comb
-3gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-1gregtech/gt.metaitem.01-32403.pngEmpty Crate;To Package lots of Material
+3gregtech/gt.metaitem.01-27305.pngSteel Screw
+1gregtech/gt.metaitem.01-32403.pngEmpty Crate
 5RetrievalForestry/apicultureChest-0.pngApiarist''s Chest
 1

@@ -1,4 +1,4 @@
-2451AWWayofTime/itemBloodPack-0.png0Blood Letters Pack37-1The Blood Letters Pack will damage you by half a heart until you're at half health (accounts for extra health!), and stores 100 LP each time up to 10,000. You can then use it on an altar to deposit the contents so long as it's not currently crafting something.ANDpre4221AWWayofTime/reinforcedSlate-0.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag (BM Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2451AWWayofTime/itemBloodPack-0.png0Blood Letters Pack37-1The Blood Letters Pack will damage you by half a heart until you're at half health (accounts for extra health!), and stores 100 LP each time up to 10,000. You can then use it on an altar to deposit the contents so long as it's not currently crafting something.ANDpre4221AWWayofTime/reinforcedSlate-0.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag (BM Novice)
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-1tasksANDRetrievalAWWayofTime/itemBloodPack-0.pngBlood Letter''s Pack;This pack really chaffs...;Protection: 5;Durability: 240/240
+1tasksANDRetrievalAWWayofTime/itemBloodPack-0.pngBlood Letter''s Pack
 1

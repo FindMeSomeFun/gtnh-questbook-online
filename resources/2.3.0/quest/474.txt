@@ -2,9 +2,9 @@
 
 I have an idea; bring me some of the stone you mined with your flint pickaxe and I will give you a better tool head in exchange.
 
-Remember to level it up again!ANDpre281ExtraUtilities/curtains-0.png4721TConstruct/pickaxe-0-56.pngrewardsItemTConstruct/pickaxeHead-2.pngIron Pickaxe Head;Reinforced I;Durability: 188;Mining Speed: 6;Mining Level: 02-Iron;Parts can be replaced
-1Choiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1TConstruct/hatchetHead-2.pngIron Axe Head;Reinforced I;Durability: 188;Usage Speed: 6;Attack: 1.5 Hearts;Parts can be replaced
-1TConstruct/shovelHead-2.pngIron Shovel Head;Reinforced I;Durability: 188;Mining Speed: 6;Mining Level: 03-Tin;Parts can be replaced
+Remember to level it up again!ANDpre281ExtraUtilities/curtains-0.png4721TConstruct/pickaxe-0-56.pngrewardsItemTConstruct/pickaxeHead-2.pngIron Pickaxe Head
+1Choiceenhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
+1TConstruct/hatchetHead-2.pngIron Axe Head
+1TConstruct/shovelHead-2.pngIron Shovel Head
 1tasksANDConsumeminecraft/cobblestone-0.pngCobblestone
 256

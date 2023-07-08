@@ -1,6 +1,6 @@
 556gregtech/gt.metaitem.01-30714.png0Glyceryl Trini...... What?17-1Kids, today we will make some glyceryl trinitrate (aka Nitroglycerin) with some glycerol.
     - Chemistry 101ANDpre801gregtech/gt.blockmachines-1001.png5431gregtech/gt.blockmachines-421.png5551gregtech/gt.metaitem.01-30012.pngrewardsItemIC2/itemCellEmpty-1.pngWater Cell
 16Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
-25tasksANDOptionalgregtech/gt.metaitem.01-30629.pngGlycerol Cell;C\u2083H\u2088O\u2083
-8Retrievalgregtech/gt.metaitem.01-30714.pngGlyceryl Trinitrate Cell;C\u2083H\u2085N\u2083O\u2089
+25tasksANDOptionalgregtech/gt.metaitem.01-30629.pngGlycerol Cell
+8Retrievalgregtech/gt.metaitem.01-30714.pngGlyceryl Trinitrate Cell
 8

@@ -11,7 +11,7 @@ If the correct plasmas are added, the boosting will work, but it is also possibl
 There are three new items and four tiers in the structure. The first tier can be built without them, but every new tier needs a new item crafted in the tier before. These outputs are related to the recipe where they can be obtained, and they possess unique characteristics that, in real life, are only theoretical.
 
 The first item you will need to craft is the Hyper-Stable Self-Healing Adhesive. To craft this material, proceed with the Glue/Solder recipe by using the Adhesion Promoter Catalyst. Additionally, make these other catalysts to prove you're well set in your QFT journey.
-ANDpre32870gregtech/gt.blockmachines-31151.pngrewardstasksANDRetrievalmiscutils/item.BasicGenericChemItem-16.pngPlatinum Group Catalyst;Active Reaction Agent;50 / 50
-1miscutils/item.BasicGenericChemItem-17.pngPlastic Polymer Catalyst;Active Reaction Agent;50 / 50
-1miscutils/item.BasicGenericChemItem-19.pngAdhesion Promoter Catalyst;Active Reaction Agent;50 / 50
+ANDpre32870gregtech/gt.blockmachines-31151.pngrewardstasksANDRetrievalmiscutils/item.BasicGenericChemItem-16.pngPlatinum Group Catalyst
+1miscutils/item.BasicGenericChemItem-17.pngPlastic Polymer Catalyst
+1miscutils/item.BasicGenericChemItem-19.pngAdhesion Promoter Catalyst
 1

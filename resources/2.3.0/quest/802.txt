@@ -1,15 +1,15 @@
 802dreamcraft/item.QuantumPartHelmet-0.png0Iridium Plated14-1Plating all your armor parts with iridium alloy casings gives them a better durability. Before you can wear these quantum armor parts you need to activate them with some quantum crystals.ANDpre6540GraviSuite/advNanoChestPlate-1-charged.png7990dreamcraft/item.NanoScubaHelmet-0.png8000dreamcraft/item.NanoPlatedLeggings-0.png8010dreamcraft/item.NanoRubberBoots-0.pngrewardsChoiceIC2/itemPartIridium-0.pngIridium Reinforced Plate
 4IC2/blockITNT-0.pngIndustrial TNT
-32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 2dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDOptionaldreamcraft/item.IridiumAlloyItemCasing-0.pngIridium Alloy Item Casing
-16Optionaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet;Don''t try to wear this, you can''t
-1dreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings;Don''t try to wear this, you can''t
-1dreamcraft/item.NanoRubberBoots-0.pngNano Rubber Boots;Don''t try to wear this, you can''t
-1Optionaldreamcraft/item.QuantumPartHelmetEmpty-0.pngQuantum Parts "Helmet Empty";Don''t try to wear this, you can''t
+16Optionaldreamcraft/item.NanoScubaHelmet-0.pngNano Scuba Helmet
+1dreamcraft/item.NanoPlatedLeggings-0.pngNano Plated Leggings
+1dreamcraft/item.NanoRubberBoots-0.pngNano Rubber Boots
+1Optionaldreamcraft/item.QuantumPartHelmetEmpty-0.pngQuantum Parts "Helmet Empty"
 1dreamcraft/item.ReinforcedGlassLense-0.pngReinforced Glass Lens
-8Retrievaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings";Don''t try to wear this, you can''t
-1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots";Don''t try to wear this, you can''t
+8Retrievaldreamcraft/item.QuantumPartHelmet-0.pngQuantum Parts "Helmet"
+1dreamcraft/item.QuantumPartLeggings-0.pngQuantum Parts "Leggings"
+1dreamcraft/item.QuantumPartBoots-0.pngQuantum Parts "Boots"
 1

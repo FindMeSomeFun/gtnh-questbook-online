@@ -1,9 +1,9 @@
 1130TConstruct/creativeModifier-0.png0Extra Modifier3-1If you don't have an extra modifier on your tool you can easily add one. A gold block and a diamond are all you need.
 
-You can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.ANDpre541gregtech/gt.blockmachines-115.png4950minecraft/diamond-0.pngrewardsItemgregtech/gt.blockores-86.pngGold Ore;Au
-16gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
-8harvestcraft/leafyfishsandwichItem-0.pngLeafy Fish Sandwich;harvestcraft:leafyfishsandwichItem
+You can add two more modifiers, but you'll need to read the tinkers book yourself to know what to use.ANDpre541gregtech/gt.blockmachines-115.png4950minecraft/diamond-0.pngrewardsItemgregtech/gt.blockores-86.pngGold Ore
+16gregtech/gt.metaitem.01-11300.pngBronze Ingot
+8harvestcraft/leafyfishsandwichItem-0.pngLeafy Fish Sandwich
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDRetrievalminecraft/gold_block-0.pngBlock of Gold
-1minecraft/diamond-0.pngDiamond;Burn Time: 102400
+1minecraft/diamond-0.pngDiamond
 1

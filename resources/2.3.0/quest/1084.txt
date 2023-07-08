@@ -3,7 +3,7 @@
 You can make lubricant out of oil, seed oil, fish oil or creosote in a distillery (or distillation tower later on). If you're able to craft a brewery you can use talc or soapstone to get much more lubricant each cycle.
 
 Lube cells are required to make low tier energy hatches, so stockpile a few cells and use the rest to make your cutting machine faster.ORpre5471gregtech/gt.blockmachines-531.png12730gregtech/gt.blockmachines-491.pngrewardsChoicegregtech/gt.metaitem.01-30713.pngSeed Oil Cell
-8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 15tasksANDRetrievalgregtech/gt.metaitem.01-30724.pngLubricant Cell
 8

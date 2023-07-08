@@ -1,4 +1,4 @@
-598gregtech/gt.metaitem.01-2058.png1Antimony4-1The most efficient way to get antimony for batteries is to run stibnite through a BBF or EBF, burning off the impurities (sulfur), and giving you more antimony. You can also centrifuge it if you want to keep the sulfur. You can also centrifuge tetrahedrite dust if you're desperate.ANDpre5971gregtech/gt.blockores-1840.pngrewardsItemBiomesOPlenty/food-6.pngShroom Salad;BiomesOPlenty:food
+598gregtech/gt.metaitem.01-2058.png1Antimony4-1The most efficient way to get antimony for batteries is to run stibnite through a BBF or EBF, burning off the impurities (sulfur), and giving you more antimony. You can also centrifuge it if you want to keep the sulfur. You can also centrifuge tetrahedrite dust if you're desperate.ANDpre5971gregtech/gt.blockores-1840.pngrewardsItemBiomesOPlenty/food-6.pngShroom Salad
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.metaitem.01-11058.pngAntimony Ingot;Sb
+3tasksANDRetrievalgregtech/gt.metaitem.01-11058.pngAntimony Ingot
 32

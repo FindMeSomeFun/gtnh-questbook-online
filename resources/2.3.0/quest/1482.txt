@@ -15,8 +15,8 @@ IV Oriharukon 7x7 - 2649
 Each chunk successfully scanned costs 100 durability. Each failed chunk costs 25. The average for MV is ~55 per chunk when scanning a large area. As you can see, the prospectors become better and better with each tier, so craft one whenever you think you need it.
 
 Good luck.ANDpre14770gregtech/gt.metaitem.01-32691.pngrewardsItemgregtech/gt.metaitem.01-32691.pngSensor (MV)
-1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.detrav.metatool.01-4.pngProspector''s Scanner(MV);Durability:0 / 0;NULL;Chunks:3x3;Right click on rock for prospecting current chunk!;Right click on bedrock for prospecting fluids!;Chance of a successful scan:40%;next to you (0 chunks away), close to you (1-2);at medium range (3-5), at long range (6-8), far away (9+)
+25tasksANDRetrievalgregtech/gt.detrav.metatool.01-4.pngProspector''s Scanner(MV)
 1

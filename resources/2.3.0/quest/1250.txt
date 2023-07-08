@@ -1,13 +1,13 @@
-1250gregtech/gt.metaitem.03-32083.png1Nanoprocessor Assembly7-1The Nanoprocessor Assembly is an EV circuit.ANDpre12481gregtech/gt.metaitem.03-32082.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-2gregtech/gt.metaitem.03-32014.pngSmall Coil;Basic Electronic Component
-4gregtech/gt.metaitem.03-32018.pngSMD Transistor;Electronic Component
-4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1250gregtech/gt.metaitem.03-32083.png1Nanoprocessor Assembly7-1The Nanoprocessor Assembly is an EV circuit.ANDpre12481gregtech/gt.metaitem.03-32082.pngrewardsChoicegregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board
+2gregtech/gt.metaitem.03-32014.pngSmall Coil
+4gregtech/gt.metaitem.03-32018.pngSMD Transistor
+4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board;A advanced Circuit Board
-1gregtech/gt.metaitem.03-32082.pngNanoprocessor;An Advanced Circuit;HV-Tier
-2gregtech/gt.metaitem.03-32182.pngSMD Inductor;Electronic Component
-8gregtech/gt.metaitem.03-32020.pngSMD Capacitor;Electronic Component
-8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip;Integrated Circuit
-8gregtech/gt.metaitem.02-19303.pngFine Electrum Wire;AgAu
-16Retrievalgregtech/gt.metaitem.03-32083.pngNanoprocessor Assembly;An Extreme Circuit;EV-Tier
+2tasksANDOptionalgregtech/gt.metaitem.03-32102.pngAdvanced Circuit Board
+1gregtech/gt.metaitem.03-32082.pngNanoprocessor
+2gregtech/gt.metaitem.03-32182.pngSMD Inductor
+8gregtech/gt.metaitem.03-32020.pngSMD Capacitor
+8gregtech/gt.metaitem.03-32039.pngRandom Access Memory Chip
+8gregtech/gt.metaitem.02-19303.pngFine Electrum Wire
+16Retrievalgregtech/gt.metaitem.03-32083.pngNanoprocessor Assembly
 1

@@ -7,5 +7,5 @@ Points to consider:
 4) Can fill/take less than one cell (1000L or 144L if molten) of fluid if the fluid container supports doing so.
 5) It won't check if it's a valid fluid for the machine/recipe, keep that in mind.
 6) Doesn't work with Crops++ alcohols, feel free to code compatibility for us.
-7) EIO tanks need to be placed and picked up first before they can be used.ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+7) EIO tanks need to be placed and picked up first before they can be used.ANDpre881gregtech/gt.blockmachines-1120.pngrewardstasksANDCheckboxother/checkbox-.pngcheckbox
 1

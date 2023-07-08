@@ -4,17 +4,17 @@ The Scorching variation has large blobs of cinder, streams and pools of Lava and
 
 The Mine variation spawns Haunted Miners, which protect Resource Pits (holes with ores from the End and Lava) and long patches of Overworld ores. Not all Overworld ores are present in a single island, usually one or two random ores are missing.
 ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemHardcoreEnderExpansion/fire_shard-0.pngInfernium
-8enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic);You feel that a bit more "Fortune" might be a good idea...
+8enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic)
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note
 1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-1.pngBurned End Stone
 4RetrievalHardcoreEnderExpansion/cinder-0.pngCinder
 4HardcoreEnderExpansion/igneous_rock_ore-0.pngIgneous Rock Ore
 4HardcoreEnderExpansion/crossed_decoration-11.pngFlameweed
 2HardcoreEnderExpansion/crossed_decoration-6.pngLilyfire
 2RetrievalHardcoreEnderExpansion/fire_shard-0.pngInfernium
-8HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock;Burn Time: 8000
+8HardcoreEnderExpansion/igneous_rock-0.pngIgneous Rock
 16HardcoreEnderExpansion/instability_orb-0.pngInstability Orb
 8

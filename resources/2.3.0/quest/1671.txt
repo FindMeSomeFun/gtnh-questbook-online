@@ -1,6 +1,6 @@
-1671gregtech/gt.metaitem.03-32035.png1Naquadah Doped Wafer8-1To create some naquadah doped silicon wafers, place the monocrystalline naquadah doped silicon boule in a cutting machine. An HV cutting machine is needed for future advanced wafers and chips.ANDpre16701gregtech/gt.metaitem.03-32032.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
-64gregtech/gt.metaitem.01-2316.pngTungstensteel Dust;(Fe\u2085\u2080C)W
-16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1671gregtech/gt.metaitem.03-32035.png1Naquadah Doped Wafer8-1To create some naquadah doped silicon wafers, place the monocrystalline naquadah doped silicon boule in a cutting machine. An HV cutting machine is needed for future advanced wafers and chips.ANDpre16701gregtech/gt.metaitem.03-32032.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust
+64gregtech/gt.metaitem.01-2316.pngTungstensteel Dust
+16enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer;Raw Circuit
+5tasksANDRetrievalgregtech/gt.metaitem.03-32035.pngNaquadah doped Wafer
 256

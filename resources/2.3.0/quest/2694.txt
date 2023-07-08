@@ -1,8 +1,8 @@
 2694miscutils/Naphthalene-0.png0Naphthalene24-1To make Naphthalene, combine your Coal Oil Tar with Sulfuric Acid to get Sulfuric Coal Tar Oil.
 
-Then distill it to get Naphthalene. Seem easy? It gets harder.ANDpre26850miscutils/CoalTar-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell;H\u2082SO\u2084
+Then distill it to get Naphthalene. Seem easy? It gets harder.ANDpre26850miscutils/CoalTar-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30720.pngSulfuric Acid Cell
 1miscutils/CoalTarOil-0.pngCoal Tar Oil Cell
 1Optionalmiscutils/SulfuricCoalTarOil-0.pngSulfuric Coal Tar Oil Cell
 2Optionalmiscutils/Naphthalene-0.pngNaphthalene Cell
-2Checkboxcheckbox-.pngCheckbox
+2Checkboxother/checkbox-.pngcheckbox
 1

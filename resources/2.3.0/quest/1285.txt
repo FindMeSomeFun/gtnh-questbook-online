@@ -2,17 +2,17 @@
 
 These can also be enchanted with all the enchantments a regular diamond sword would receive. This includes Looting and Sharpness, which function exactly as it does on a sword. Interestingly, mobs killed by the Diamond Spike will return experience as if killed by the player.
 
-There are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.ANDpre981gregtech/gt.blockmachines-291.png4950minecraft/diamond-0.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
-2harvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
-2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Choiceminecraft/diamond-0.pngDiamond;Burn Time: 102400
-9gregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
+There are weaker versions, but who wants that? If you happen to want the last hit, you might want the wooden ones though.ANDpre981gregtech/gt.blockmachines-291.png4950minecraft/diamond-0.pngrewardsItemharvestcraft/heartybreakfastItem-0.pngHearty Breakfast
+2harvestcraft/epicbaconItem-0.pngEpic Bacon
+2enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
+1Choiceminecraft/diamond-0.pngDiamond
+9gregtech/gt.metaitem.01-17305.pngSteel Plate
 12Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-15tasksANDOptionalminecraft/stick-0.pngStick;Burn Time: 100
-1gregtech/gt.metaitem.01-27500.pngDiamond Screw;C
-2gregtech/gt.metaitem.01-17500.pngDiamond Plate;C
-5minecraft/diamond_block-0.pngBlock of Diamond;Burn Time: 1024000
-1Optionalminecraft/diamond_sword-0.pngDiamond Sword;+7 Attack Damage;Durability: 768/768
-1RetrievalExtraUtilities/spike_base_diamond-0.pngDiamond Spike;+7 Attack Damage
+15tasksANDOptionalminecraft/stick-0.pngStick
+1gregtech/gt.metaitem.01-27500.pngDiamond Screw
+2gregtech/gt.metaitem.01-17500.pngDiamond Plate
+5minecraft/diamond_block-0.pngBlock of Diamond
+1Optionalminecraft/diamond_sword-0.pngDiamond Sword
+1RetrievalExtraUtilities/spike_base_diamond-0.pngDiamond Spike
 2

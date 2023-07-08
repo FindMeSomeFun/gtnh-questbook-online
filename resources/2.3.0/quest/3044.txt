@@ -3,7 +3,7 @@
 Fun fact, the saltpeter in the recipe was only added due to a problem with recipe search!
 
 You also get some Zirconium and Hafnium from this. You'll probably need both later on, so definitely don't void any.ANDpre30431gregtech/gt.metaitem.01-8520.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11014.pngMuddy Monazite Rare Earth Solution Cell;??LaNdZr??;Added by GTNH: Lanthanides via BartWorks
-12gregtech/gt.metaitem.01-2836.pngSaltpeter Dust;KNO\u2083
-12Retrievalbartworks/gt.bwMetaGeneratedcell-11015.pngDiluted Monazite Rare Earth Mud Cell;??LaNdHf??;Added by GTNH: Lanthanides via BartWorks
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11014.pngMuddy Monazite Rare Earth Solution Cell
+12gregtech/gt.metaitem.01-2836.pngSaltpeter Dust
+12Retrievalbartworks/gt.bwMetaGeneratedcell-11015.pngDiluted Monazite Rare Earth Mud Cell
 132

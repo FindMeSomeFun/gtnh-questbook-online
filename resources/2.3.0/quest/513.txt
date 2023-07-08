@@ -2,6 +2,6 @@
 
 You'll need neutronium bees to make this.ANDpre5080gendustry/Mutatron-0.pngrewardsItemgendustry/Labware-0.pngGenetics Labware
 5Itemdreamcraft/item.CoinBeesII-0.pngCoin "The Beekeeper 100"
-5enhancedlootbags/lootbag-27.pngLootBag (Bees Expert);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+5enhancedlootbags/lootbag-27.pngLootBag (Bees Expert)
 1tasksANDRetrievalgendustry/MutatronAdv-0.pngAdvanced Mutatron
 1

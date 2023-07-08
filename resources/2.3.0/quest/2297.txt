@@ -6,11 +6,11 @@ Reprecipitated Platinum: Go to step 4, the last step.
 Platinum Salt: Go to the recycling step.
 Palladium Enriched Ammonia: Keep it like the Platinum Residue until IV. Or process it now if you like, but you don't need it until later.
 Others: Can be reused.ANDpre22991bartworks/gt.bwMetaGeneratedcell-44.png23011bartworks/gt.bwMetaGeneratedcell-50.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-3tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-44.pngPlatinum Concentrate Cell;Added by BartWorks
-20bartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell;NH\u2084Cl;Added by BartWorks
-2Retrievalbartworks/gt.bwMetaGenerateddustTiny-45.pngTiny Pile of Platinum Salt Dust;Added by BartWorks
-160bartworks/gt.bwMetaGenerateddustTiny-51.pngTiny Pile of Reprecipitated Platinum Dust;PtCl;Added by BartWorks
-40bartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell;?Pd;Added by BartWorks
-2gregtech/gt.metaitem.01-30640.pngDiluted Sulfuric Acid Cell;H\u2082SO\u2084
-10gregtech/gt.metaitem.01-30717.pngNitrogen Dioxide Cell;NO\u2082
+3tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-44.pngPlatinum Concentrate Cell
+20bartworks/gt.bwMetaGeneratedcell-50.pngAmmonium Chloride Cell
+2Retrievalbartworks/gt.bwMetaGenerateddustTiny-45.pngTiny Pile of Platinum Salt Dust
+160bartworks/gt.bwMetaGenerateddustTiny-51.pngTiny Pile of Reprecipitated Platinum Dust
+40bartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell
+2gregtech/gt.metaitem.01-30640.pngDiluted Sulfuric Acid Cell
+10gregtech/gt.metaitem.01-30717.pngNitrogen Dioxide Cell
 10

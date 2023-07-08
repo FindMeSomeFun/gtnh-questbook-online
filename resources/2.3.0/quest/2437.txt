@@ -1,8 +1,8 @@
 2437holoinventory/Hologlasses-0.png0Seeing Inside Your Chests14-1With the Holo-glasses you are able to look into Chests, Barrels and Drawers like a Holographic inventory.
 
-If you lost your free one, you should be capable of making another now.ANDpre651gregtech/gt.metaitem.01-11305.png2291gregtech/gt.blockores-541.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
+If you lost your free one, you should be capable of making another now.ANDpre651gregtech/gt.metaitem.01-11305.png2291gregtech/gt.blockores-541.pngrewardsChoiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age)
+1gregtech/gt.metaitem.01-11305.pngSteel Ingot
 8Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalholoinventory/Hologlasses-0.pngHolo Glasses;You can put it in the Tinkers mask slot;Protection: 0
+15tasksANDRetrievalholoinventory/Hologlasses-0.pngHolo Glasses
 1

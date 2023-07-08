@@ -1,11 +1,11 @@
 1155gregtech/gt.blockmachines-521.png1Basic Fluid Solidifier4-1To get your molten fluids back to a solid state you need a fluid solidifier. This is handy for processing molten rubber directly from the chemical reactor. It's used for crossbow bolts as well.
 
-Keep in mind that GT fluids are different from Tinker's Construct. You will mainly work with GT fluids going forward.ORpre5431gregtech/gt.blockmachines-421.png5791gregtech/gt.blockmachines-511.pngrewardsItemharvestcraft/energydrinkItem-0.pngEnergy Drink;harvestcraft:energydrinkItem
-5harvestcraft/beansontoastItem-0.pngBeans on Toast;harvestcraft:beansontoastItem
-2Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
+Keep in mind that GT fluids are different from Tinker's Construct. You will mainly work with GT fluids going forward.ORpre5431gregtech/gt.blockmachines-421.png5791gregtech/gt.blockmachines-511.pngrewardsItemharvestcraft/energydrinkItem-0.pngEnergy Drink
+5harvestcraft/beansontoastItem-0.pngBeans on Toast
+2Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot
+8enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
+1gregtech/gt.metaitem.01-32716.pngResistor
 2minecraft/glowstone_dust-0.pngGlowstone Dust
 16Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-521.pngBasic Fluid Solidifier;Cools Fluids down to form Solids;Voltage IN: 32 (LV);Capacity: 2,048 EU
+3tasksANDRetrievalgregtech/gt.blockmachines-521.pngBasic Fluid Solidifier
 1

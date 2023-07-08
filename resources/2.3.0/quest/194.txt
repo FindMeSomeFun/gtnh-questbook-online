@@ -5,5 +5,5 @@ Use the sensor kit on the block you want to monitor, then put the sensor card in
 5IC2NuclearControl/ItemRemoteSensorKit-0.pngRemote Sensor Kit
 1IC2NuclearControl/ItemUpgrade-0.pngRange Upgrade
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDCheckboxcheckbox-.pngCheckbox
+1tasksANDCheckboxother/checkbox-.pngcheckbox
 1

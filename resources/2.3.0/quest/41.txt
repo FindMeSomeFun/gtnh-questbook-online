@@ -7,6 +7,6 @@ For the protection effect, the hot item has to be in your active slot. I wonder 
 10tasksANDOptionalminecraft/leather-0.pngLeather
 6minecraft/string-0.pngString
 6harvestcraft/wovencottonItem-0.pngWoven Cotton
-6Craftingdreamcraft/item.OvenGlove-0.pngCake Glove (Left hand);Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
-1dreamcraft/item.OvenGlove-1.pngLava Glove (Right hand);Protecting your fingers since 1890;Durability: 1000/1000;Put both Gloves in the Baubles Ring Slot
+6Craftingdreamcraft/item.OvenGlove-0.pngCake Glove (Left hand)
+1dreamcraft/item.OvenGlove-1.pngCake Glove (Right hand)
 1

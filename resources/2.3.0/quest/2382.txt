@@ -11,10 +11,10 @@ Increasing the speed of the Altar.
 
 Efficency (Block of Emerald)
 Reduce the cost of Dragon Essence using in a Altar recipe.ANDpre23520HardcoreEnderExpansion/essence_altar-0.pngrewardsItemHardcoreEnderExpansion/essence-0.pngDragon Essence
-32enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced);You feel that a bit more "Fortune" might be a good idea...
+32enhancedlootbags/lootbag-58.pngLootBag (HEE-Advanced)
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;55 Knowledge Points
+2HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note
 2tasksANDRetrievalHardcoreEnderExpansion/essence_altar-0.pngBasic Essence Altar
 1RetrievalHardcoreEnderExpansion/end_powder-0.pngEnd Powder
 12minecraft/lapis_block-0.pngLapis Lazuli Block

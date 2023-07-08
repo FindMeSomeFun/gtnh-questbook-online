@@ -13,13 +13,13 @@ Of course, there is also a normal GUI (simple right-click). It shows you the ene
 
 If you have any further questions, find missing information, or have suggestions please do not hesitate to post on the official GT New Horizons Discord. Please add '@SinTh0r4s' to your post to make sure I’ll see it.
 
-A warning though: there have been a lot of mentions of bugs and even world corruptions caused by the Hydro Dam. Use at your own risk. If you have more detailed information, please report these problems on the GTNH github.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe;Fluid Capacity: 9,600 L/sec;Heat Limit: 2,500 K
-16gregtech/gt.integrated_circuit-2.pngProgrammed Circuit;Configuration: == 2;Right click to reconfigure;Needs a screwdriver or circuit programming tool
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+A warning though: there have been a lot of mentions of bugs and even world corruptions caused by the Hydro Dam. Use at your own risk. If you have more detailed information, please report these problems on the GTNH github.ANDpre11481gregtech/gt.blockmachines-12.pngrewardsChoicegregtech/gt.blockmachines-5133.pngLarge Steel Fluid Pipe
+16gregtech/gt.integrated_circuit-2.pngProgrammed Circuit
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-17000.pngHydro Dam;Hydro Dam Controller;Controller Block for the Hydro Dam;Input is pressurized water from Hydro Pumps;Output is pressurized water for Hydro Turbines;Requires an Input and Output Hatch on the front!;To see the structure, use a TecTech Blueprint on the Controller!
-1Optionalgregtech/gt.blockmachines-51.pngInput Hatch (LV);Fluid Input for Multiblocks;Capacity: 16,000L
-1gregtech/gt.blockmachines-61.pngOutput Hatch (LV);Fluid Output for Multiblocks;Capacity: 16,000L;Right click with screwdriver to restrict output;Can be restricted to put out Items and/or Steam/No Steam/1 specific Fluid;Restricted Output Hatches are given priority for Multiblock Fluid output
-1Optionalgregtech/gt.blockconcretes-8.pngLight Concrete;You can walk faster on this Block
-89Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector;Triggers Constructable Interface;Shows multiblock construction schematic,;use on the multiblock controller.;(Sneak use on controller to build);Quantity of schematics in item stack affects tier/mode/type
+5tasksANDRetrievalgregtech/gt.blockmachines-17000.pngHydro Dam
+1Optionalgregtech/gt.blockmachines-51.pngInput Hatch (LV)
+1gregtech/gt.blockmachines-61.pngOutput Hatch (LV)
+1Optionalgregtech/gt.blockconcretes-8.pngLight Concrete
+89Optionalstructurelib/item.structurelib.constructableTrigger-0.pngMultiblock Structure Hologram Projector
 1

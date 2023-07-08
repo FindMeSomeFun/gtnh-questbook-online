@@ -2,8 +2,8 @@
 
 To automate this from regular Oil, you will need another Distillery and Chemical Reactor, and finally a Mixer to put the fuels together. There are other possible sources of Heavy Fuel, mentioned on another quest in this chain, which can be of assistance if the input of Oil into the setup isn't very high. You will also need more Hydrogen, so get on it!ANDpre29970gregtech/gt.metaitem.01-30001.pngrewardsItemgregtech/gt.metaitem.01-30740.pngLight Fuel Cell
 10gregtech/gt.metaitem.01-30737.pngSulfuric Light Fuel Cell
-10enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+10enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1dreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 10tasksANDRetrievalgregtech/gt.metaitem.01-30741.pngHeavy Fuel Cell
-30gregtech/gt.blockmachines-582.pngAdvanced Mixer;Will it Blend?;Voltage IN: 128 (MV);Capacity: 8,192 EU
+30gregtech/gt.blockmachines-582.pngAdvanced Mixer
 1

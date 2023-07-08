@@ -4,15 +4,15 @@ Using the chamber during the daytime will skip the time to the next sunrise, exc
 
 Once the player has used the Cryogenic Chamber, there is a 300 seconds cool-down time before he can use the chamber again. Breaking and placing back the chamber or trying to use different chamber will not reset the cool-down time, unless by dying.
 
-The chamber does not require energy to work.ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-2GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
-4enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+The chamber does not require energy to work.ANDpre14541GalacticraftMars/item.itemTier3Rocket-0.pngrewardsChoiceGalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate
+2GalacticraftMars/item.null-3.pngHeavy Duty Plate
+4enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5tasksANDOptionalGraviSuite/itemSimpleItem-2.pngCooling Core
 1CarpentersBlocks/itemCarpentersBed-0.pngCarpenter''s Bed
-1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate;Tier 3
-4GalacticraftMars/item.null-3.pngHeavy Duty Plate;Tier 2
+1GalacticraftMars/item.itemBasicAsteroids-0.pngHeavy Duty Plate
+4GalacticraftMars/item.null-3.pngHeavy Duty Plate
 2minecraft/clock-0.pngClock
 1RetrievalGalacticraftMars/tile.marsMachine-4.pngCryogenic Chamber
 1

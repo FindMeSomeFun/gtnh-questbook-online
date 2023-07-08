@@ -1,7 +1,7 @@
 772gregtech/gt.blockmachines-593.png1Precision is Required6-1You'll use this a lot to make high tier circuits, and for other recipes.
 
-You'll soon find that everything you use the PLE on needs a cleanroom, so make sure you start on that.ANDpre12321gregtech/gt.metaitem.01-32692.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1gregtech/gt.metaitem.01-24532.pngEnderpearl Lens;BeK\u2084N\u2085Ma\u2086
+You'll soon find that everything you use the PLE on needs a cleanroom, so make sure you start on that.ANDpre12321gregtech/gt.metaitem.01-32692.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
+1gregtech/gt.metaitem.01-24532.pngEnderpearl Lens
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-593.pngAdvanced Precision Laser Engraver II;Don''t look directly at the Laser;Voltage IN: 512 (HV);Capacity: 32,768 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-593.pngAdvanced Precision Laser Engraver II
 1

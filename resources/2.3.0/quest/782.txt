@@ -1,8 +1,8 @@
-782gregtech/gt.metaitem.03-32030.png1Monocrystalline Silicon Boules5-1To make wafers, you need to make monocrystalline silicon boules first. The process takes 450 seconds and requires solar grade silicon dust and a small gallium arsenide crystal in the electric blast furnace. You can make 16 wafers out of every boule.ANDpre8361gregtech/gt.metaitem.03-32190.png17881gregtech/gt.metaitem.01-2856.pngrewardsChoicegregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dust;Si*
-32gregtech/gt.metaitem.03-32191.pngSmall Gallium Arsenide Crystal;For making boules
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+782gregtech/gt.metaitem.03-32030.png1Monocrystalline Silicon Boules5-1To make wafers, you need to make monocrystalline silicon boules first. The process takes 450 seconds and requires solar grade silicon dust and a small gallium arsenide crystal in the electric blast furnace. You can make 16 wafers out of every boule.ANDpre8361gregtech/gt.metaitem.03-32190.png17881gregtech/gt.metaitem.01-2856.pngrewardsChoicegregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dust
+32gregtech/gt.metaitem.03-32191.pngSmall Gallium Arsenide Crystal
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dust;Si*
-32gregtech/gt.metaitem.03-32191.pngSmall Gallium Arsenide Crystal;For making boules
-1Retrievalgregtech/gt.metaitem.03-32030.pngMonocrystalline Silicon Boule;Raw Circuit
+5tasksANDOptionalgregtech/gt.metaitem.01-2856.pngSilicon Solar Grade (Poly SI) Dust
+32gregtech/gt.metaitem.03-32191.pngSmall Gallium Arsenide Crystal
+1Retrievalgregtech/gt.metaitem.03-32030.pngMonocrystalline Silicon Boule
 1

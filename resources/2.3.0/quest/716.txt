@@ -1,8 +1,8 @@
-716gregtech/gt.metaitem.01-8516.png1Process Some Certus Quartz4-1For the emitter and the sensor you'll need to get some certus quartz.ORpre881gregtech/gt.blockmachines-1120.png11660minecraft/quartz_ore-0.pngrewardsItemgregtech/gt.metaitem.02-32107.pngMineral Water;gregtech:gt.metaitem.02;The best Stuff you can drink to stay healthy
+716gregtech/gt.metaitem.01-8516.png1Process Some Certus Quartz4-1For the emitter and the sensor you'll need to get some certus quartz.ORpre881gregtech/gt.blockmachines-1120.png11660minecraft/quartz_ore-0.pngrewardsItemgregtech/gt.metaitem.02-32107.pngMineral Water
 5Choiceminecraft/glowstone_dust-0.pngGlowstone Dust
 8minecraft/blaze_powder-0.pngBlaze Powder
-2Natura/barleyFood-7.pngFlamestring;Somewhat more durable than string
-3enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2Natura/barleyFood-7.pngFlamestring
+3enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
-3tasksANDRetrievalgregtech/gt.metaitem.01-8516.pngCertus Quartz;SiO\u2082
+3tasksANDRetrievalgregtech/gt.metaitem.01-8516.pngCertus Quartz
 2

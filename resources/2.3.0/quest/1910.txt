@@ -1,8 +1,8 @@
-1910TConstruct/hammer-0-32400.png0Better Tools5-1Now that you have an MV extruder you can make the next level of Tinker Tools - Vanadiumsteel head parts with Damascus Steel rods.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceTGregworks/tGregToolPartLumberHead-1650.pngVanadiumsteel Broad Axe Head;Durability: 1440;Usage Speed: 18;Attack: 7 Hearts;Parts can be replaced
-1TGregworks/tGregToolPartExcavatorHead-1650.pngVanadiumsteel Excavator Head;Durability: 1440;Mining Speed: 18;Mining Level: 05-Obsidian;Parts can be replaced
-1Itemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1910TConstruct/hammer-0-32400.png0Better Tools5-1Now that you have an MV extruder you can make the next level of Tinker Tools - Vanadiumsteel head parts with Damascus Steel rods.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceTGregworks/tGregToolPartLumberHead-1650.pngVanadiumsteel Broad Axe Head
+1TGregworks/tGregToolPartExcavatorHead-1650.pngVanadiumsteel Excavator Head
+1Itemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
-5TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod;Reinforced II;Durability Modifier: 5x;Parts can be replaced
-1tasksANDRetrievalTGregworks/tGregToolPartHammerHead-1650.pngVanadiumsteel Hammer Head;Durability: 1440;Mining Speed: 18;Mining Level: 05-Obsidian;Attack: 7 Hearts;Parts can be replaced
-1TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod;Reinforced II;Durability Modifier: 5x;Parts can be replaced
+5TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod
+1tasksANDRetrievalTGregworks/tGregToolPartHammerHead-1650.pngVanadiumsteel Hammer Head
+1TGregworks/tGregToolPartToughRod-1634.pngDamascus Steel Tough Tool Rod
 1

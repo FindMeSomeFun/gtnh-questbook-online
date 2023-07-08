@@ -10,9 +10,9 @@ Now you only need to chunkload the start and end points and the items will be "t
 
 Of course, later on you'll probably use ender chests to actually teleport the ore, especially from other dims.
 
-This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpre9300gregtech/gt.blockmachines-679.pngrewardsItemgregtech/gt.metaitem.01-32630.pngConveyor Module (LV);1 stack every 20 secs (as Cover)
-2IronChest/BlockIronChest-1.pngGold Chest;9*9 Inventory - 81 Slots
+This setup is lag-free in the pipe blocks, so it's useful in your base as well if you want to reduce lag.ANDpre9300gregtech/gt.blockmachines-679.pngrewardsItemgregtech/gt.metaitem.01-32630.pngConveyor Module (LV)
+2IronChest/BlockIronChest-1.pngGold Chest
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.blockmachines-2701.pngLong Distance Item Pipeline;Sends Items over long distances
-2Retrievalgregtech/gt.block.longdistancepipe-1.pngLong Distance Item Pipeline Pipe;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+15tasksANDRetrievalgregtech/gt.blockmachines-2701.pngLong Distance Item Pipeline
+2Retrievalgregtech/gt.block.longdistancepipe-1.pngLong Distance Item Pipeline Pipe
 64

@@ -6,9 +6,9 @@ To connect up your boilers, be sure to provide water from the bottom, they'll ac
 
 Steam will come out from the sides. Remember, steam is hot! It will destroy wooden pipes. And it can burn you if you walk on bronze pipes full of steam.  Cover them with wooden planks or paper. Or just don't walk on/next to them.
 
-And no, you can't automate it. Make an electric one if you want to do that.ANDpre401gregtech/gt.blockmachines-100.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke;Burn Time: 3200
-2minecraft/coal-0.pngCoal;Burn Time: 1600
-2minecraft/coal-1.pngCharcoal;Burn Time: 1600
-2gregtech/gt.metaitem.01-8538.pngLignite Coal;C\u2083(H\u2082O);Burn Time: 1200
-2tasksANDRetrievalgregtech/gt.blockmachines-100.pngSmall Coal Boiler;An early way to get Steam Power;Produces 120L of Steam per second;Causes 20 Pollution per second
+And no, you can't automate it. Make an electric one if you want to do that.ANDpre401gregtech/gt.blockmachines-100.pngrewardsItemRailcraft/fuel.coke-0.pngCoal Coke
+2minecraft/coal-0.pngCoal
+2minecraft/coal-1.pngCharcoal
+2gregtech/gt.metaitem.01-8538.pngLignite Coal
+2tasksANDRetrievalgregtech/gt.blockmachines-100.pngSmall Coal Boiler
 1

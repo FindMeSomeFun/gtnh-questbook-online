@@ -1,7 +1,7 @@
 1617gregtech/gt.metaitem.01-30646.png1Distillation6-1For the next steps you need a few fluids/gases like Benzene, Ethylene and Butadiene. Run your distillation tower a few cycles to get them.ANDpre16151gregtech/gt.metaitem.99-13739.pngrewardsChoicegregtech/gt.metaitem.01-30739.pngNaphtha Cell
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30646.pngButadiene Cell;C\u2084H\u2086
-3gregtech/gt.metaitem.01-30686.pngBenzene Cell;C\u2086H\u2086
-2gregtech/gt.metaitem.01-30677.pngEthylene Cell;C\u2082H\u2084
+5tasksANDRetrievalgregtech/gt.metaitem.01-30646.pngButadiene Cell
+3gregtech/gt.metaitem.01-30686.pngBenzene Cell
+2gregtech/gt.metaitem.01-30677.pngEthylene Cell
 2

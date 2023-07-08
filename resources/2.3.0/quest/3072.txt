@@ -1,7 +1,7 @@
-3072gregtech/gt.metaitem.01-11312.png1First Kanthal5-1You made your first Kanthal ingots. It's time to make some more to upgrade your Electric Blast Furnace.ANDpre7541gregtech/gt.blockmachines-42.png30711gregtech/gt.blockmachines-542.png30731IC2/itemCellEmpty-9.pngrewardsChoicegregtech/gt.metaitem.01-2312.pngKanthal Dust;FeAlCr
+3072gregtech/gt.metaitem.01-11312.png1First Kanthal5-1You made your first Kanthal ingots. It's time to make some more to upgrade your Electric Blast Furnace.ANDpre7541gregtech/gt.blockmachines-42.png30711gregtech/gt.blockmachines-542.png30731IC2/itemCellEmpty-9.pngrewardsChoicegregtech/gt.metaitem.01-2312.pngKanthal Dust
 16IC2/itemCellEmpty-9.pngCoolant Cell
-16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metaitem.01-11312.pngKanthal Ingot;FeAlCr
+25tasksANDRetrievalgregtech/gt.metaitem.01-11312.pngKanthal Ingot
 16

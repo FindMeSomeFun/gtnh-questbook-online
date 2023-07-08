@@ -1,3 +1,3 @@
-1983OpenBlocks/guide-0.png0Build it Bigger15-1You can build it! The Building Guide helps show you an outline of simple geometric shapes. Provide it with a redstone signal to activate.ANDpre971gregtech/gt.blockmachines-211.png981gregtech/gt.blockmachines-291.pngrewardsItemminecraft/glass-0.pngGlass;Glass-Tier: HV
+1983OpenBlocks/guide-0.png0Build it Bigger15-1You can build it! The Building Guide helps show you an outline of simple geometric shapes. Provide it with a redstone signal to activate.ANDpre971gregtech/gt.blockmachines-211.png981gregtech/gt.blockmachines-291.pngrewardsItemminecraft/glass-0.pngGlass
 64tasksANDRetrievalOpenBlocks/guide-0.pngBuilding Guide
 1

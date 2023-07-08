@@ -1,7 +1,7 @@
 1605IC2/itemTerraWart-0.png0Better Than Milk13-1I haven't been feeling well lately. Would you grow me some Terrawart? They're better than milk, since they only remove negative effects, and stack to 64. Really nice when fighting that Alchemist infernal!
 
-They also have Auramx8, Praecantatiox4 and Victusx4 essentia on them, very useful for the budding thaumaturge. And you can get them by placing a snow block under your netherwart and waiting instead of mutating to get them.ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-51.pngLootBag (IC2 Crops);You feel that a bit more "Fortune" might be a good idea...
+They also have Auramx8, Praecantatiox4 and Victusx4 essentia on them, very useful for the budding thaumaturge. And you can get them by placing a snow block under your netherwart and waiting instead of mutating to get them.ANDpre16000minecraft/reeds-0.pngrewardsItemenhancedlootbags/lootbag-51.pngLootBag (IC2 Crops)
 1dreamcraft/item.CoinFarmerI-0.pngCoin "The Farmer 10"
-5tasksANDRetrievalIC2/itemCropSeed-0.pngTerra Wart Seeds;Gr 0;Ga 0;Re 0
-1IC2/itemTerraWart-0.pngTerra Wart;IC2:itemTerraWart
+5tasksANDRetrievalIC2/itemCropSeed-0.pngTerra Wart Seeds
+1IC2/itemTerraWart-0.pngTerra Wart
 16

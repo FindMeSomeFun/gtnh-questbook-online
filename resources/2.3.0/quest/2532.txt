@@ -1,6 +1,6 @@
 2532appliedenergistics2/item.ItemMultiPart-300.png0Alpha and Omega27-1The ME Annihilation Plane destroys blocks as if you had mined them, and places them into the network. The Identity version acts as if silk touch was used.
 
-The ME Formation Plane does the opposite, it places blocks into the world. You'll need to tell it what to place/drop though. This can work in both block and item mode.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good);You feel that a bit more "Fortune" might be a good idea...
+The ME Formation Plane does the opposite, it places blocks into the world. You'll need to tell it what to place/drop though. This can work in both block and item mode.ANDpre13011appliedenergistics2/item.ItemMultiMaterial-44.pngrewardsItemenhancedlootbags/lootbag-38.pngLootBag (AE Good)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2tasksANDRetrievalappliedenergistics2/item.ItemMultiPart-300.pngME Annihilation Plane
 1appliedenergistics2/item.ItemMultiPart-301.pngME Identity Annihilation Plane

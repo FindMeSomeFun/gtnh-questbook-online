@@ -2,5 +2,5 @@
 
 You'll need to take care in providing the inputs at the required ratios, else you'll get no output.
 
-Anyway, this plays a large part in the lanthanide line so craft it up.ANDpre14061gregtech/gt.blockmachines-214.png30411gregtech/gt.blockmachines-10500.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10501.pngDissolution Tank;Machine Type: Dissolution Tank;Controller block for the Dissolution Tank;Input Water and Fluid, output Fluid;You must input the Fluids at the correct Ratio;Follow the StructureLib hologram projector to build the main structure.;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GTNH: Lanthanides
+Anyway, this plays a large part in the lanthanide line so craft it up.ANDpre14061gregtech/gt.blockmachines-214.png30411gregtech/gt.blockmachines-10500.pngrewardstasksANDRetrievalgregtech/gt.blockmachines-10501.pngDissolution Tank
 1

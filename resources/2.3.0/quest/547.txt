@@ -3,7 +3,7 @@
 You'll need to use a circuit to pick which of the products you want. Later on you can make a Distillation Tower to get all of them, but that's far away for now.
 
 You can also distill many other fluids! There are two that are useful, but take a long time to distill, so you should set them up in advance: Lubricant (from Creosote) and Distilled Water (from Water).ORpre931gregtech/gt.metaitem.01-32610.png5461BuildCraftEnergy/blockOil-0.pngrewardsChoiceIC2/itemCellEmpty-0.pngEmpty Cell
-64gregtech/gt.integrated_circuit-0.pngProgrammed Circuit;Configuration: == 0;Right click to reconfigure;Needs a screwdriver or circuit programming tool
+64gregtech/gt.integrated_circuit-0.pngProgrammed Circuit
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-531.pngBasic Distillery;Extracting the most relevant Parts of Fluids;Voltage IN: 32 (LV);Capacity: 2,048 EU
+3tasksANDRetrievalgregtech/gt.blockmachines-531.pngBasic Distillery
 1

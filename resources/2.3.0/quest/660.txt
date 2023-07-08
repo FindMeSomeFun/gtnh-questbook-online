@@ -1,10 +1,10 @@
 660battlegear2/shield.diamond-0.png0Diamond Shield14-1Your iron shield is old and worn out. With a shield made from diamond plates you can maintain block for up to 5 seconds.ANDpre7401gregtech/gt.blockmachines-282.pngrewardsChoiceminecraft/spawn_egg-57.pngSpawn Zombie Pigman
 1minecraft/spawn_egg-62.pngSpawn Magma Cube
-1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDOptionalTGregworks/tGregToolPartLargePlate-1594.pngDiamond Large Plate;Durability: 960;Mining Speed: 8;Attack: 2 Hearts;Parts can be replaced
-2TGregworks/tGregToolPartToughBind-1594.pngDiamond Tough Binding;Durability Modifier: 3.5x;Parts can be replaced
-1TGregworks/tGregToolPartToughRod-1594.pngDiamond Tough Tool Rod;Durability Modifier: 3.5x;Parts can be replaced
-2Craftingbattlegear2/shield.diamond-0.pngDiamond Shield;5 s Block
+25tasksANDOptionalTGregworks/tGregToolPartLargePlate-1594.pngDiamond Large Plate
+2TGregworks/tGregToolPartToughBind-1594.pngDiamond Tough Binding
+1TGregworks/tGregToolPartToughRod-1594.pngDiamond Tough Tool Rod
+2Craftingbattlegear2/shield.diamond-0.pngDiamond Shield
 1

@@ -1,3 +1,3 @@
-1774OpenComputers/item-4.png0Purchase Floppy Disk2672000I'll sell you a Floppy Disk for a Bitcoins.ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-4.pngFloppy Disk;Hold [NONE] for material costs.
-1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
+1774OpenComputers/item-4.png0Purchase Floppy Disk2672000I'll sell you a Floppy Disk for a Bitcoins.ANDpre17650miscutils/itemGenericToken-0.pngrewardsItemOpenComputers/item-4.pngFloppy Disk
+1tasksANDConsumemiscutils/itemGenericToken-0.pngBitCoin
 1

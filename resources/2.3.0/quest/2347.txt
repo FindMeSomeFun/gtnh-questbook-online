@@ -25,16 +25,16 @@ A very well treated Flame Imp may even yield knowledge to summon a Lord of Torme
 1witchery/ingredient-38.pngRefined Evil
 2witchery/chalkinfernal-0.pngInfernal Chalk
 1witchery/chalkheart-0.pngGolden Chalk
-1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 2tasksANDRetrievalwitchery/ingredient-38.pngRefined Evil
 1witchery/ingredient-80.pngDemonic Blood
-1minecraft/ender_pearl-0.pngEnder Pearl;1H Chunkloader Use in Passive and 4H in Personal Chunkloader
+1minecraft/ender_pearl-0.pngEnder Pearl
 1witchery/ingredient-10.pngAttuned Stone
 1Retrievalwitchery/ingredient-140.pngDemonic Contract
-1witchery/taglockkit-0.pngTaglock Kit;Not bound
-1Retrievalminecraft/diamond-0.pngDiamond;Burn Time: 102400
-16Retrievalwitchery/ingredient-141.pngTorment;Read this text in a circle;of standing stones. Beware its;explosive entrance.
+1witchery/taglockkit-0.pngTaglock Kit
+1Retrievalminecraft/diamond-0.pngDiamond
+16Retrievalwitchery/ingredient-141.pngTorment
 1

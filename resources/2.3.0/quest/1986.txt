@@ -8,5 +8,5 @@ Some blocks can have a secondary material applied to them. The secondary materia
 
 You can also right-click on a vanilla Glass, Glass Pane, Glowstone or Ice block with a chisel to harvest the block without breaking it.ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemArchitectureCraft/hammer-0.pngArchitect''s Hammer
 1ArchitectureCraft/chisel-0.pngArchitect''s Chisel
-1tasksANDRetrievalArchitectureCraft/sawbench-0.pngArchitect''s Sawbench;Burn Time: 300
+1tasksANDRetrievalArchitectureCraft/sawbench-0.pngArchitect''s Sawbench
 1

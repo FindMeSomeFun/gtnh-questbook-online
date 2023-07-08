@@ -1,9 +1,9 @@
 1791gregtech/gt.blockores-878.png0Oilsand, or How You Get Heavy Oil4-1Oilsand is another way to get heavy oil. Maybe you got lucky and found some in a mountainous biome. With your centrifuge you're able to get heavy oil and sand out of the ore. The veins can be found between Y 50-80.
 
-Sadly, you can't use heavy oil until MV, so just stick them in a barrel or something until then.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemNatura/berryMedley-0.pngBerry Medley;Natura:berryMedley;An irresistable combination of berries
-16harvestcraft/strawberrypieItem-0.pngStrawberry Pie;harvestcraft:strawberrypieItem
-2harvestcraft/carrotsoupItem-0.pngCarrot Soup;harvestcraft:carrotsoupItem
-1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Sadly, you can't use heavy oil until MV, so just stick them in a barrel or something until then.ANDpre5391gregtech/gt.blockmachines-361.pngrewardsItemNatura/berryMedley-0.pngBerry Medley
+16harvestcraft/strawberrypieItem-0.pngStrawberry Pie
+2harvestcraft/carrotsoupItem-0.pngCarrot Soup
+1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1IC2/itemCellEmpty-0.pngEmpty Cell
 16Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
 15tasksANDRetrievalgregtech/gt.blockores-878.pngOilsands Ore

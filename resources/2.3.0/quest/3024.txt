@@ -1,5 +1,5 @@
-3024gregtech/gt.blockcasings5-4.png0Maxed Oil Cracker21-1How many oils have you cracked at this point? No matter the number, you can do it cheaper. Once you reach HSS-G coils, you will have achieved the maximum EU/t discount of 50% on your Oil Crackers, and enjoy the full array of benefits that they can provide you. Don't forget to overclock them if they're running slow, the energy cost is minimal at this point.ANDpre30230gregtech/gt.blockmachines-31021.pngrewardsItemgregtech/gt.blockcasings5-4.pngHSS-G Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 5401 Kelvin
-8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+3024gregtech/gt.blockcasings5-4.png0Maxed Oil Cracker21-1How many oils have you cracked at this point? No matter the number, you can do it cheaper. Once you reach HSS-G coils, you will have achieved the maximum EU/t discount of 50% on your Oil Crackers, and enjoy the full array of benefits that they can provide you. Don't forget to overclock them if they're running slow, the energy cost is minimal at this point.ANDpre30230gregtech/gt.blockmachines-31021.pngrewardsItemgregtech/gt.blockcasings5-4.pngHSS-G Coil Block
+8enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDRetrievalgregtech/gt.blockcasings5-4.pngHSS-G Coil Block;Mobs cannot Spawn on this Block;This is NOT a TileEntity!;Base Heating Capacity = 5401 Kelvin
+1tasksANDRetrievalgregtech/gt.blockcasings5-4.pngHSS-G Coil Block
 16

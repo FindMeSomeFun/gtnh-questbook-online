@@ -1,11 +1,11 @@
 301ThaumicTinkerer/fireFire-0.png0One Does Not Simply...32-1...play with magic. Be warned, these fires are very dangerous! But who doesn't want a patch of snow in the nether?
 
-Fire spread is disabled in the configs of servers to prevent massive lag and world destruction.ANDpre2720Thaumcraft/WandCap-2.pngrewardsItemThaumicTinkerer/fireOrder-0.pngOrdo Imbued Fire;ELEMENTAL firespread disabled
+Fire spread is disabled in the configs of servers to prevent massive lag and world destruction.ANDpre2720Thaumcraft/WandCap-2.pngrewardsItemThaumicTinkerer/fireOrder-0.pngOrdo Imbued Fire
 5Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalThaumicTinkerer/fireChaos-0.pngPerditio Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireAir-0.pngAer Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireFire-0.pngIgnis Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireEarth-0.pngTerra Imbued Fire;ELEMENTAL firespread disabled
-1ThaumicTinkerer/fireWater-0.pngAqua Imbued Fire;ELEMENTAL firespread disabled
+1tasksANDRetrievalThaumicTinkerer/fireChaos-0.pngPerditio Imbued Fire
+1ThaumicTinkerer/fireAir-0.pngAer Imbued Fire
+1ThaumicTinkerer/fireFire-0.pngIgnis Imbued Fire
+1ThaumicTinkerer/fireEarth-0.pngTerra Imbued Fire
+1ThaumicTinkerer/fireWater-0.pngAqua Imbued Fire
 1

@@ -119,5 +119,5 @@ Molten Tin 15 400
 Tau Ceti E
 Distilled Water 100 10000
 Hydrogen 50 700
-Very Heavy Oil 100 200ANDpre7650gregtech/gt.blockmachines-1157.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Very Heavy Oil 100 200ANDpre7650gregtech/gt.blockmachines-1157.pngrewardstasksANDCheckboxother/checkbox-.pngcheckbox
 1

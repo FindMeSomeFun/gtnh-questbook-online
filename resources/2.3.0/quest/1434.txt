@@ -1,15 +1,15 @@
-1434GalacticraftCore/item.buggy-0.png0Moon Patrol24-1Moving faster on the Moon or other planets surface will be fun. I'm sure it will be totally safe.ANDpre14350GalacticraftCore/item.schematic-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot;SpFe
+1434GalacticraftCore/item.buggy-0.png0Moon Patrol24-1Moving faster on the Moon or other planets surface will be fun. I'm sure it will be totally safe.ANDpre14350GalacticraftCore/item.schematic-0.pngrewardsChoicegregtech/gt.metaitem.01-11340.pngMeteoric Iron Ingot
 16GalacticraftMars/item.itemBasicAsteroids-6.pngCompressed Titanium
-4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalaxySpace/item.RocketControlComputer-100.pngMoon Buggy Control Computer
 1GalacticraftCore/item.buggymat-0.pngBuggy Wheel
 4GalacticraftCore/item.buggymat-1.pngBuggy Seat
-1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate;Tier 1
+1GalacticraftCore/item.heavyPlating-0.pngHeavy Duty Plate
 11GalacticraftCore/item.meteoricIronIngot-1.pngCompressed Meteoric Iron
-5gregtech/gt.metaitem.01-23306.pngStainless Steel Rod;Fe\u2086CrMnNi
-4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw;Fe\u2086CrMnNi
+5gregtech/gt.metaitem.01-23306.pngStainless Steel Rod
+4gregtech/gt.metaitem.01-27306.pngStainless Steel Screw
 8RetrievalGalacticraftCore/item.buggy-0.pngBuggy
-1RetrievalGalacticraftCore/item.basicItem-19.pngFrequency Module;Can receive weak sound;waves and distant signals
+1RetrievalGalacticraftCore/item.basicItem-19.pngFrequency Module
 1

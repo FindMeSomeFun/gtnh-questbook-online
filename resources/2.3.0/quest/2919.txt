@@ -1,6 +1,6 @@
 2919gregtech/gt.metaitem.01-11326.png0Enriched Naquadah Ingot10-1Ah, you made it.
 
 You can choose to smelt it with zinc in an EBF or electrolyze it. Either is fine but you can fully recycle the zinc, so the EBF recipe is better if you want the ingot.ANDpre29470bartworks/gt.bwMetaGenerateddust-10071.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-20enhancedlootbags/lootbag-42-enchanted.pngLootBag (Tier 7 ZPM);Your luck is increased by 100 %;Fortune III
-2tasksANDRetrievalgregtech/gt.metaitem.01-11326.pngEnriched Naquadah Ingot;Nq+
+20enhancedlootbags/lootbag-42-enchanted.pngLootBag (Tier 7 ZPM)
+2tasksANDRetrievalgregtech/gt.metaitem.01-11326.pngEnriched Naquadah Ingot
 1

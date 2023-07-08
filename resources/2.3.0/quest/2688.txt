@@ -1,4 +1,4 @@
 2688miscutils/RocketFuelMixC-0.png1CN3H7O3 (Purple) Rocket Fuel24-1To make CN3H7O3 for your T5 rocket, you'll need to combine Monomethylhydrazine and Nitric Acid in a Chemical Plant. Make sure to upgrade your casings to Tungstensteel.ANDpre8511gregtech/gt.metaitem.01-30653.png26870miscutils/Monomethylhydrazine-0.pngrewardstasksANDOptionalmiscutils/Monomethylhydrazine-0.pngMonomethylhydrazine Cell
-2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
-1Retrievalmiscutils/RocketFuelMixC-0.pngCN3H7O3 Rocket Fuel Cell;Can be used as rocket fuel up to tier 6
+2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell
+1Retrievalmiscutils/RocketFuelMixC-0.pngCN3H7O3 Rocket Fuel Cell
 2

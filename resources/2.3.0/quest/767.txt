@@ -14,9 +14,9 @@ Ore locations are given as the center of the chunk. Ores that are marginal in th
 
 Each underground fluid field is 8x8 chunks. This starts at 0,0 and continues for 8 chunks east and south, containing 64 chunks. Not all fields have anything in them though. Within the field the amount can vary +/- 25 percent. The amount reported in the book is the minimum and maximum per field across all chunks in the field. The prospector reports on 3x3 fields (as in, 9 fields of 8x8 chunks) at all tiers with the center field where the seismic prospector is located. Fluid extraction rate depends on many factors, check the wiki for details. In general, anything above 300 is really good. The total amount in the chunk is complicated. 
 
-ANDpre5310gregtech/gt.blockmachines-341.pngrewardsItemgregtech/gt.metaitem.01-32708.pngData Stick;A Low Capacity Data Storage
+ANDpre5310gregtech/gt.blockmachines-341.pngrewardsItemgregtech/gt.metaitem.01-32708.pngData Stick
 4gregtech/gt.blockreinforced-5.pngPowderbarrel
-64enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+64enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-2102.pngAdvanced Seismic Prospector LV;Place, activate with explosives;2 Powderbarrels, 4 Glyceryl Trinitrate, 16 TNT, or 8 ITNT;Use Data Stick, Scan Data Stick, Print Data Stick, Bind Pages into Book;Ore prospecting area = 80x80 ONLY blocks below prospector;Oil prospecting area 3x3 oilfields, each is 8x8 chunks;Voltage IN: 32 (LV);Capacity: 2,048 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-2102.pngAdvanced Seismic Prospector LV
 1

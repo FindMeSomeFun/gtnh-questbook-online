@@ -1,11 +1,11 @@
 1241gregtech/gt.metaitem.01-30093.png0Radon Loop7-1Radon is needed for EV emitters and sensors.
 
-If you can get some Plutonium 239 and Uranium 238, you can use the LCR recipe and just keep cycling the Plutonium around to get more.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot;Ti
-8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
-16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+If you can get some Plutonium 239 and Uranium 238, you can use the LCR recipe and just keep cycling the Plutonium around to get more.ANDpre12521gregtech/gt.blockmachines-544.pngrewardsChoicegregtech/gt.metaitem.01-11028.pngTitanium Ingot
+8gregtech/gt.metaitem.03-32106.pngPlastic Circuit Board
+16enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-2tasksANDOptionalgregtech/gt.metaitem.01-11100.pngPlutonium 239 Ingot;Pu
-8gregtech/gt.metaitem.01-98.pngTiny Pile of Uranium 238 Dust;U
+2tasksANDOptionalgregtech/gt.metaitem.01-11100.pngPlutonium 239 Ingot
+8gregtech/gt.metaitem.01-98.pngTiny Pile of Uranium 238 Dust
 40IC2/itemCellEmpty-5.pngCompressed Air Cell
-20Retrievalgregtech/gt.metaitem.01-30093.pngRadon Cell;Rn
+20Retrievalgregtech/gt.metaitem.01-30093.pngRadon Cell
 4

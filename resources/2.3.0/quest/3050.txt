@@ -1,7 +1,7 @@
-3050bartworks/gt.bwMetaGeneratedingot-11007.png1Zirconium Ingots8-1Just EBF your zirconium tetrachloride with some magnesium and you're done!ANDpre30480bartworks/gt.bwMetaGenerateddust-11009.pngrewardsChoiceenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1bartworks/gt.bwMetaGeneratedingot-11007.pngZirconium Ingot;Zr;Added by GTNH: Lanthanides via BartWorks
-32tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11010.pngZirconium Tetrachloride Solution Cell;ZrCl\u2084;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2018.pngMagnesium Dust;Mg
-2Retrievalbartworks/gt.bwMetaGeneratedingot-11007.pngZirconium Ingot;Zr;Added by GTNH: Lanthanides via BartWorks
-1gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust;MgCl\u2082
+3050bartworks/gt.bwMetaGeneratedingot-11007.png1Zirconium Ingots8-1Just EBF your zirconium tetrachloride with some magnesium and you're done!ANDpre30480bartworks/gt.bwMetaGenerateddust-11009.pngrewardsChoiceenhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV)
+1bartworks/gt.bwMetaGeneratedingot-11007.pngZirconium Ingot
+32tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-11010.pngZirconium Tetrachloride Solution Cell
+1gregtech/gt.metaitem.01-2018.pngMagnesium Dust
+2Retrievalbartworks/gt.bwMetaGeneratedingot-11007.pngZirconium Ingot
+1gregtech/gt.metaitem.01-2377.pngMagnesiumchloride Dust
 2

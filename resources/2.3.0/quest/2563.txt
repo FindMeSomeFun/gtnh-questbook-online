@@ -17,6 +17,6 @@ Naquadah             130sv   14.5s
 Enriched Naquadah 140sv   10.5s
 Naquadria            150sv     8s
 
-There are more radioactive materials than these, but these are the main ones.ANDpre12430gregtech/gt.blockores-4873.png25611gregtech/gt.blockmachines-12712.pngrewardsItemgregtech/gt.metaitem.01-23098.pngUranium 238 Rod;U
-1tasksANDRetrievalgregtech/gt.blockmachines-12713.pngHV Radio Hatch;Radioactive Item Chamber for Multiblocks;Capacity: 1 kg;Use a screwdriver to set the containment level;Added by bartimaeusnek via BartWorks
+There are more radioactive materials than these, but these are the main ones.ANDpre12430gregtech/gt.blockores-4873.png25611gregtech/gt.blockmachines-12712.pngrewardsItemgregtech/gt.metaitem.01-23098.pngUranium 238 Rod
+1tasksANDRetrievalgregtech/gt.blockmachines-12713.pngHV Radio Hatch
 1

@@ -1,8 +1,8 @@
-286Thaumcraft/ItemHelmetVoidFortress-0.png1"Armor"32-1This new metal, it's so... appealing. You feel comfortable while holding it, so why not get yourself some armor? What could go wrong? It will surely protect you.ANDpre2871Thaumcraft/blockEssentiaReservoir-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+286Thaumcraft/ItemHelmetVoidFortress-0.png1"Armor"32-1This new metal, it's so... appealing. You feel comfortable while holding it, so why not get yourself some armor? What could go wrong? It will surely protect you.ANDpre2871Thaumcraft/blockEssentiaReservoir-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure
 4Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDRetrievalThaumcraft/ItemHelmetVoidFortress-0.pngVoid Thaumaturge Hood;Vis discount: 5%;Warping 2;Protection: 3;Durability: 110/110
-1Thaumcraft/ItemChestplateVoidFortress-0.pngVoid Thaumaturge Robe;Vis discount: 5%;Warping 2;Protection: 7;Durability: 160/160
-1Thaumcraft/ItemLeggingsVoidFortress-0.pngVoid Thaumaturge Leggings;Vis discount: 5%;Warping 2;Protection: 6;Durability: 150/150
+1tasksANDRetrievalThaumcraft/ItemHelmetVoidFortress-0.pngVoid Thaumaturge Hood
+1Thaumcraft/ItemChestplateVoidFortress-0.pngVoid Thaumaturge Robe
+1Thaumcraft/ItemLeggingsVoidFortress-0.pngVoid Thaumaturge Leggings
 1

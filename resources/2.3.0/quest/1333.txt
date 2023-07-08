@@ -1,7 +1,7 @@
 1333EMT/EssentiaGenerators-0.png0Essentia Generator: Potentia19-1Aren't you tired of voiding all that useless potentia essentia? Well here's the solution:
-A generator that consumes potentia and outputs GT EU NO TRANSFORMER NEEDED!ANDpre881gregtech/gt.blockmachines-1120.png2381Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.pngrewardsChoiceThaumcraft/ItemEssence-1-potentia.pngPhial of Essentia;Potentia x 8
-8Thaumcraft/FocusTrade-0.pngWand Focus: Equal Trade;Vis per cast; Ordo x 0.05; Perditio x 0.05; Terra x 0.05
-1IC2/itemAdvBat-26.pngAdvanced RE-Battery;Durability: 1 / 27
+A generator that consumes potentia and outputs GT EU NO TRANSFORMER NEEDED!ANDpre881gregtech/gt.blockmachines-1120.png2381Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.pngrewardsChoiceThaumcraft/ItemEssence-1-potentia.pngPhial of Essentia
+8Thaumcraft/FocusTrade-0.pngWand Focus: Equal Trade
+1IC2/itemAdvBat-26.pngAdvanced RE-Battery
 3gregtech/gt.metaitem.01-32681.pngEmitter (MV)
 2tasksANDRetrievalEMT/EssentiaGenerators-0.pngPotentia Generator
 1

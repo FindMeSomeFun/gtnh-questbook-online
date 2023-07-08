@@ -1,7 +1,7 @@
 2705dreamcraft/item.HeavyDutyRocketEngineTier4-0.png1Heavy Duty Rocket Engine Tier 424-1Every rocket needs a rocket engine. A heavy one tier 3 is needed in the tier 5 rocket.ANDpre27041dreamcraft/item.Tier3Booster-0.pngrewardsChoicedreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plate
 16dreamcraft/item.LeadOriharukonPlate-0.pngCompressed Lead-Oriharukon Plate
 16dreamcraft/item.QuantinumCompressedPlate-0.pngCompressed Quantium Plate
-32enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV);You feel that a bit more "Fortune" might be a good idea...
+32enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV)
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionaldreamcraft/item.HeavyDutyPlateTier7-0.pngHeavy Duty Plate Tier 7
 30dreamcraft/item.Tier3Booster-0.pngTier 3 Booster

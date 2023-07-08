@@ -17,6 +17,6 @@ Now print(batteryCharge) will display the total charge. Here's a program example
 Place in your tape drive and type 'install', and follow the promps to install it into C. Then edit it, test it, figure how it works.
 
 I suppose that's enough for now; congrats! Experiment and learn, and don't forget to check google as much as possible!  
-This questline will be updated again in the future; but I figure this is a good ending point for now.ANDpre17630OpenComputers/item-5.pngrewardsItemOpenComputers/item-4-PowerDisplay.pngFloppy Disk;PowerDisplay;Disk usage: 2045/524288 Byte;Mode: Managed;Hold [NONE] for material costs.;9147f798-ee2f...
-1tasksANDCheckboxcheckbox-.pngCheckbox
+This questline will be updated again in the future; but I figure this is a good ending point for now.ANDpre17630OpenComputers/item-5.pngrewardsItemOpenComputers/item-4-PowerDisplay.pngFloppy Disk
+1tasksANDCheckboxother/checkbox-.pngcheckbox
 1

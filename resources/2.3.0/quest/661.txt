@@ -4,16 +4,16 @@ To place arrows in the quiver, put the quiver and the stack of arrows in a craft
 
 While it seems like these might be worthless, these arrows do have special uses. You really want to share a cookie with friends, don't you?
 
-Let's go hunt a bit.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItembattlegear2/mb.arrow-0.pngHoly Torch Arrow;It helps you face the darkness;Put a torch where it falls
-10battlegear2/mb.arrow-6.pngPoison Arrow;Expensive, heh ?;Deals Wither effect
-10battlegear2/mb.arrow-2.pngExplosive Arrow;Packs some explosive power;Explosion strength depends on arrow critical hit
-10battlegear2/mb.arrow-5.pngPiercing Arrow;Uncommon cutting ability;Shears sheeps with style
-10battlegear2/mb.arrow-3.pngEnder Arrow;This Ender Eye seems in pain...;Instant travel or block transportation
-10battlegear2/mb.arrow-1.pngIce Packed Arrow;Effective against hot creatures like blazes and lava monsters;Is effective against creatures immune to fire
-10battlegear2/mb.arrow-4.pngFlaming Arrow;Flint and Steel ? No need;Set mobs, players and blocks on fire
+Let's go hunt a bit.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItembattlegear2/mb.arrow-0.pngHoly Torch Arrow
+10battlegear2/mb.arrow-6.pngPoison Arrow
+10battlegear2/mb.arrow-2.pngExplosive Arrow
+10battlegear2/mb.arrow-5.pngPiercing Arrow
+10battlegear2/mb.arrow-3.pngEnder Arrow
+10battlegear2/mb.arrow-1.pngIce Packed Arrow
+10battlegear2/mb.arrow-4.pngFlaming Arrow
 10Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 15dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-15tasksANDRetrievalminecraft/bow-0.pngBow;Durability: 384/384
-1Retrievalbattlegear2/quiver-0.pngQuiver;Arrows; 0: Empty; 1: Empty; 2: Empty; 3: Empty
+15tasksANDRetrievalminecraft/bow-0.pngBow
+1Retrievalbattlegear2/quiver-0.pngQuiver
 1Retrievalminecraft/arrow-0.pngArrow
 64

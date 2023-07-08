@@ -2,14 +2,14 @@
 
 You can get some Cobalt out of Cobaltite through the side processes such as washing or thermal centrifuging. To electrolyze it, you'll need an MV electrolyzer though. Or you can EBF it after your EBF is done. Remember that the Sulfur Dioxide you get is based on your muffler tier. This is probably easier than searching in the Nether for Cobalt.
 
-You can also find small quantities of Pentlandite ore in the Overworld if you care.ANDpre2251minecraft/end_portal-0.pngrewardsItemharvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
-1harvestcraft/supremepizzaItem-0.pngSupreme Pizza;harvestcraft:supremepizzaItem
-1Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot;Fe\u2085\u2080C
-8gregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
-16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You can also find small quantities of Pentlandite ore in the Overworld if you care.ANDpre2251minecraft/end_portal-0.pngrewardsItemharvestcraft/epicbaconItem-0.pngEpic Bacon
+1harvestcraft/supremepizzaItem-0.pngSupreme Pizza
+1Choicegregtech/gt.metaitem.01-11305.pngSteel Ingot
+8gregtech/gt.metaitem.01-11300.pngBronze Ingot
+16enhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-15tasksANDRetrievalgregtech/gt.blockores-906.pngGarnierite Ore;NiO
-64gregtech/gt.blockores-34.pngNickel Ore;Ni
-64gregtech/gt.blockores-827.pngCobaltite Ore;CoAsS
-64gregtech/gt.blockores-909.pngPentlandite Ore;Ni\u2089S\u2088
+15tasksANDRetrievalgregtech/gt.blockores-906.pngGarnierite Ore
+64gregtech/gt.blockores-34.pngNickel Ore
+64gregtech/gt.blockores-827.pngCobaltite Ore
+64gregtech/gt.blockores-909.pngPentlandite Ore
 64

@@ -1,6 +1,6 @@
 1657dreamcraft/item.EnderEgg-0.png0Ender Egg7-1Next, we need to start infusing it with the essence of The End. Start with endium dust and molten ender to get an ender egg.ANDpre16560dreamcraft/item.MutatedEgg-0.pngrewardsItemminecraft/spawn_egg-58.pngSpawn Enderman
 1HardcoreEnderExpansion/spawn_eggs-1.pngSpawn Baby Enderman
-1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDOptionaldreamcraft/item.MutatedEgg-0.pngMutated Egg

@@ -1,6 +1,6 @@
 2403miscutils/MU-metaitem.01-32072.png0Where Does it All Go? 4-1The time may come when you finally decide you have enough of a fluid. This overflow cover lets you tune how full a tank can get. You can put it on a smaller tank leading to a bigger tank, and when the bigger tank gets full, the fluid will backup into the smaller tank. Once the fluid level in the smaller tank exceeds the setting on the cover, it will start voiding fluid.
 
-Handy for an oxygen centrifuge setup when you don't want to stop from excess nitrogen.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemgregtech/gt.blockmachines-818.pngLow Voltage Fluid Tank;Stores 64000L of fluid;A portable tank.;Added by: Alkalus - [GT++]
+Handy for an oxygen centrifuge setup when you don't want to stop from excess nitrogen.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemgregtech/gt.blockmachines-818.pngLow Voltage Fluid Tank
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalmiscutils/MU-metaitem.01-32072.pngOverflow Valve (LV);Maximum void amount: 64000
+15tasksANDRetrievalmiscutils/MU-metaitem.01-32072.pngOverflow Valve (LV)
 1

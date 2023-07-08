@@ -1,8 +1,8 @@
 727StorageDrawers/fullDrawers1-0.png0Better Than Barrels2-1While barrels offer a slot for a single item, drawers can have up to 4 slots each (holding 16 stacks per slot).
 
-Just watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only access the contents from the front (automation can use any side). ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemharvestcraft/butteredpotatoItem-0.pngButtered Potato;harvestcraft:butteredpotatoItem
+Just watch out, they do come with some downsides. You won't be able to make them point up or down, and you can only access the contents from the front (automation can use any side). ANDpre361gregtech/gt.metatool.01-16.pngrewardsItemharvestcraft/butteredpotatoItem-0.pngButtered Potato
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDCraftingStorageDrawers/fullDrawers1-0.pngOak Drawer;Holds 64 stacks per drawer;Burn Time: 300
-4StorageDrawers/fullDrawers2-0.pngOak Drawers 1x2;Holds 32 stacks per drawer;Burn Time: 300
-4StorageDrawers/fullDrawers4-0.pngOak Drawers 2x2;Holds 16 stacks per drawer;Burn Time: 300
+5tasksANDCraftingStorageDrawers/fullDrawers1-0.pngOak Drawer
+4StorageDrawers/fullDrawers2-0.pngOak Drawers 1x2
+4StorageDrawers/fullDrawers4-0.pngOak Drawers 2x2
 4

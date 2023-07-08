@@ -5,5 +5,5 @@ They also cause a lot more damage. So be careful!ANDpre4791minecraft/portal
 3dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 3dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 3dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDHuntmobs/Natura-NitroCreeper-.pngNitro Creeper
+3tasksANDHuntNatura/NitroCreeper-.pngNitroCreeper
 15

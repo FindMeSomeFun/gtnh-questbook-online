@@ -1,14 +1,14 @@
 1488DraconicEvolution/dezilsMarshmallow-0.png0Dezil's Marshmallow13-1In the last step you need to infuse your Marshmallow with some epic food in the thaumcraft infusion altar. Before you can do it you need to unlock the research.
 
-Is this worth it? Is there any enemy worthy of using the buffs this gives on? That's up to you.ANDpre14870dreamcraft/item.Marshmallow-0.pngrewardsChoiceDraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow;DraconicEvolution:dezilsMarshmallow
-1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Is this worth it? Is there any enemy worthy of using the buffs this gives on? That's up to you.ANDpre14870dreamcraft/item.Marshmallow-0.pngrewardsChoiceDraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow
+1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDOptionaldreamcraft/item.Marshmallow-0.pngSemi-stable Marshmallow;I have a very wired feeling.
-1Optionalharvestcraft/epicbaconItem-0.pngEpic Bacon;harvestcraft:epicbaconItem
-1harvestcraft/sausageinbreadItem-0.pngSausage in Bread;harvestcraft:sausageinbreadItem
-1harvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
-1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza;harvestcraft:meatfeastpizzaItem
-1harvestcraft/beefwellingtonItem-0.pngBeef Wellington;harvestcraft:beefwellingtonItem
-1harvestcraft/deluxechickencurryItem-0.pngDeluxe Chicken Curry;harvestcraft:deluxechickencurryItem
-1RetrievalDraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow;DraconicEvolution:dezilsMarshmallow
+2tasksANDOptionaldreamcraft/item.Marshmallow-0.pngSemi-stable Marshmallow
+1Optionalharvestcraft/epicbaconItem-0.pngEpic Bacon
+1harvestcraft/sausageinbreadItem-0.pngSausage in Bread
+1harvestcraft/heartybreakfastItem-0.pngHearty Breakfast
+1harvestcraft/meatfeastpizzaItem-0.pngMeat Feast Pizza
+1harvestcraft/beefwellingtonItem-0.pngBeef Wellington
+1harvestcraft/deluxechickencurryItem-0.pngDeluxe Chicken Curry
+1RetrievalDraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow
 1

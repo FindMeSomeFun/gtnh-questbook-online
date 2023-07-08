@@ -1,9 +1,9 @@
 731IC2/itemFuelPlantBall-0.png0Plantballs5-1Next you should compress plantballs out of your wheat.
 
-The MV compressor is twice as fast as the LV. You might think this means using it is a good idea. You would be WRONG. Why? Remember it also uses 4x the power. This means you spend 4x the EU to get the same amount of EU, twice as fast. Eventually, you end up with an EU deficit with this kind of setup, though not necessarily this setup. Ironic, I know. You can use multiple machines (like, a lot), and later use a Processing Array or multiblock if there is one. This applies to all fuel production, basically.ANDpre7300minecraft/wheat-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable;Max Voltage: 128 (MV);Max Amperage: 1;Loss/Meter/Ampere: 2 EU-Volt
-4gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit;A Good Circuit;MV-Tier
-1gregtech/gt.metaitem.01-17019.pngAluminium Plate;Al
-4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+The MV compressor is twice as fast as the LV. You might think this means using it is a good idea. You would be WRONG. Why? Remember it also uses 4x the power. This means you spend 4x the EU to get the same amount of EU, twice as fast. Eventually, you end up with an EU deficit with this kind of setup, though not necessarily this setup. Ironic, I know. You can use multiple machines (like, a lot), and later use a Processing Array or multiblock if there is one. This applies to all fuel production, basically.ANDpre7300minecraft/wheat-0.pngrewardsChoicegregtech/gt.blockmachines-1366.png1x Copper Cable
+4gregtech/gt.metaitem.01-32702.pngGood Electronic Circuit
+1gregtech/gt.metaitem.01-17019.pngAluminium Plate
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 25tasksANDRetrievalIC2/itemFuelPlantBall-0.pngPlantball
 64

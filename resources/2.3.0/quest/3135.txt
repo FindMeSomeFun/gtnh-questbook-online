@@ -2,9 +2,9 @@
 
 The good part is, you don't really need lots of Thaumcraft progression. You barely need any, if at all, because there are many ways to make the Magic Fuel Binder and the block itself, including some that don't use any Thaumcraft items. There are so many options that this quest won't ask for a specific one, and it is once again up to you to decide which to choose, if you choose the magic fuel at all. As a tip, Alumentum is not mineable like Diamonds, but it can be automated by throwing Charcoal Dust at a Cauldron, and it has a higher burn value than the inputs. Additionally, for Coal Coke, only the Alumentum option is available.
 
-Basically, the SSF has 3 steps: craft the binder, craft the solid block and craft the fluid. The MSSF has more steps: craft the binder, upgrade it to magic binder, craft the solid block, craft the fluid and then finish with the extra items. Choose your own path.ANDpre31280IC2/fluidSuperheatedSteam-0.pngrewardsItemgregtech/gt.metaitem.02-32270.pngSuper Fuel Binder;Raw Material
+Basically, the SSF has 3 steps: craft the binder, craft the solid block and craft the fluid. The MSSF has more steps: craft the binder, upgrade it to magic binder, craft the solid block, craft the fluid and then finish with the extra items. Choose your own path.ANDpre31280IC2/fluidSuperheatedSteam-0.pngrewardsItemgregtech/gt.metaitem.02-32270.pngSuper Fuel Binder
 16dreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalgregtech/gt.metaitem.02-32270.pngSuper Fuel Binder;Raw Material
-64Optionalgregtech/gt.metaitem.02-32271.pngMagic Super Fuel Binder;Raw Material
+1enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
+1tasksANDRetrievalgregtech/gt.metaitem.02-32270.pngSuper Fuel Binder
+64Optionalgregtech/gt.metaitem.02-32271.pngMagic Super Fuel Binder
 64

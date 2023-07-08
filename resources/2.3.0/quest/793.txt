@@ -1,13 +1,13 @@
-793gregtech/gt.metaitem.03-32079.png1Good Integrated Circuits5-1By the way, did you ever try looking at the oredict for circuits? You can tell what tier they are from that. They go: Primitive (ULV), Basic (LV), Good (MV), Advanced (HV), etc. Now make your Good Integrated Circuits.ANDpre7941gregtech/gt.metaitem.01-32701.pngrewardsChoicegregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-2gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
-1gregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
-4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+793gregtech/gt.metaitem.03-32079.png1Good Integrated Circuits5-1By the way, did you ever try looking at the oredict for circuits? You can tell what tier they are from that. They go: Primitive (ULV), Basic (LV), Good (MV), Advanced (HV), etc. Now make your Good Integrated Circuits.ANDpre7941gregtech/gt.metaitem.01-32701.pngrewardsChoicegregtech/gt.metaitem.03-32101.pngGood Circuit Board
+2gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit
+1gregtech/gt.metaitem.01-32716.pngResistor
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board;A good Circuit Board
-8gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit;A Basic Circuit;LV-Tier
-16gregtech/gt.metaitem.01-32716.pngResistor;Basic Electronic Component
-32gregtech/gt.metaitem.01-32715.pngDiode;Basic Electronic Component
-32gregtech/gt.metaitem.02-19086.pngFine Gold Wire;Au
-32gregtech/gt.metaitem.01-26054.pngSilver Bolt;Ag
-32Retrievalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit;Good Circuit;MV-Tier
+5tasksANDOptionalgregtech/gt.metaitem.03-32101.pngGood Circuit Board
+8gregtech/gt.metaitem.01-32701.pngIntegrated Logic Circuit
+16gregtech/gt.metaitem.01-32716.pngResistor
+32gregtech/gt.metaitem.01-32715.pngDiode
+32gregtech/gt.metaitem.02-19086.pngFine Gold Wire
+32gregtech/gt.metaitem.01-26054.pngSilver Bolt
+32Retrievalgregtech/gt.metaitem.03-32079.pngGood Integrated Circuit
 8

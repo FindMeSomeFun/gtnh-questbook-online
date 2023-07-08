@@ -1,6 +1,6 @@
 617gregtech/gt.blockmachines-431.png0Fluid Canner4-1The fluid canner can be used to fill cells, batteries (acid only), coolant cells, etc with a fluid. Most of the time, you won't need it, since you can fill cells with a GT tank, and single use batteries suck. There are some fluids that won't work properly like molten redstone, so that's why this device even exists.
 
-Another interesting thing about the fluid canner is that it can be transformed into a raintank, by attaching a drain cover on its top (Any machine with a tank actually can be...).ORpre6091gregtech/gt.metaitem.01-32500.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Another interesting thing about the fluid canner is that it can be transformed into a raintank, by attaching a drain cover on its top (Any machine with a tank actually can be...).ORpre6091gregtech/gt.metaitem.01-32500.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalgregtech/gt.blockmachines-431.pngBasic Fluid Canner;Puts Fluids into and out of Containers;Voltage IN: 32 (LV);Capacity: 2,048 EU
+15tasksANDRetrievalgregtech/gt.blockmachines-431.pngBasic Fluid Canner
 1

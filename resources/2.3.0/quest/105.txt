@@ -1,6 +1,6 @@
 105gregtech/gt.blockmachines-221.png1Saving Metal With Bending4-1Instead of a 3:2 ratio of ingots to plates, this machine allows for 1:1. This saves an enormous amount of metal, so make it ASAP.
 
-BTW if you want foils, just run the plate back through. There's other circuit modes, but you can discover them later.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+BTW if you want foils, just run the plate back through. There's other circuit modes, but you can discover them later.ANDpre951gregtech/gt.metaitem.01-32640.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-3tasksANDRetrievalgregtech/gt.blockmachines-221.pngBasic Bending Machine;Boo, he''s bad! We want BENDER!!!;Voltage IN: 32 (LV);Capacity: 2,048 EU
+3tasksANDRetrievalgregtech/gt.blockmachines-221.pngBasic Bending Machine
 1

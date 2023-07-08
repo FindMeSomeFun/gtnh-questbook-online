@@ -1,5 +1,5 @@
 2880bartworks/gt.bwMetaGenerateddust-82.png1Sodium Nitrate8-1You need Sodium Nitrate to process your Rhodium further.ANDpre28791bartworks/gt.bwMetaGeneratedcell-81.pngrewardsItemdreamcraft/item.CoinChemistIII-0.pngCoin "The Chemist 1000"
-1tasksANDOptionalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell;HNO\u2083
-1gregtech/gt.metaitem.01-2017.pngSodium Dust;Na;Burn Time: 400
-1Retrievalbartworks/gt.bwMetaGenerateddust-82.pngSodium Nitrate Dust;NaNO\u2083;Added by BartWorks
+1tasksANDOptionalgregtech/gt.metaitem.01-30653.pngNitric Acid Cell
+1gregtech/gt.metaitem.01-2017.pngSodium Dust
+1Retrievalbartworks/gt.bwMetaGenerateddust-82.pngSodium Nitrate Dust
 2

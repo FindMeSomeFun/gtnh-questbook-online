@@ -1,6 +1,6 @@
-121openmodularturrets/fenceTierOne-0.png0Passive Defence14-1A more "passive" approach to base defence are walls and fences. But seriously, where's the fun in that?ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+121openmodularturrets/fenceTierOne-0.png0Passive Defence14-1A more "passive" approach to base defence are walls and fences. But seriously, where's the fun in that?ANDpre881gregtech/gt.blockmachines-1120.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 15dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDRetrievalopenmodularturrets/hardWallTierOne-0.pngHard Wall (Tier 1);Hardness: 10 - Blast Resistance: 10
-4openmodularturrets/fenceTierOne-0.pngFence (Tier 1);Hardness: 10 - Blast Resistance: 10
+15tasksANDRetrievalopenmodularturrets/hardWallTierOne-0.pngHard Wall (Tier 1)
+4openmodularturrets/fenceTierOne-0.pngFence (Tier 1)
 4

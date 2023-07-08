@@ -6,5 +6,5 @@ Also keep in mind that EC2 is kinda completely broken in regards to fluids, so m
 1appliedenergistics2/item.ItemMultiPart-460.pngP2P Tunnel - ME
 2appliedenergistics2/item.ItemMultiPart-140.pngQuartz Fiber
 1appliedenergistics2/item.ItemMultiPart-76.pngME Dense Smart Cable - Fluix
-1appliedenergistics2/item.ToolMemoryCard-0.pngMemory Card;Blank
+1appliedenergistics2/item.ToolMemoryCard-0.pngMemory Card
 1

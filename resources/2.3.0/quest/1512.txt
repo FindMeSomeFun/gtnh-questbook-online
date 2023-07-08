@@ -4,7 +4,7 @@ Healing? XP? Poison?
 
 The collector's jars can even be piped or connected to a conveyor so that drones last a long time.
 
-PS: Using the regen effect of Imperial bees while doing Blood Magic may be useful.ANDpre5040Forestry/beealyzer-0.pngrewardsItemMagicBees/effectJar-0.pngBee Collector''s Jar;Glass-Tier: HV
+PS: Using the regen effect of Imperial bees while doing Blood Magic may be useful.ANDpre5040Forestry/beealyzer-0.pngrewardsItemMagicBees/effectJar-0.pngBee Collector''s Jar
 1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
-5tasksANDRetrievalMagicBees/effectJar-0.pngBee Collector''s Jar;Glass-Tier: HV
+5tasksANDRetrievalMagicBees/effectJar-0.pngBee Collector''s Jar
 1

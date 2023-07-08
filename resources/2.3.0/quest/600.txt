@@ -1,4 +1,4 @@
-600ExtraUtilities/defoliageAxe-0.png0Hunger No More13-1The hunger is constantly following you, consuming you, never letting you rest. The world around you is full of nourishing fruits, vegetables and crafted meals. Use them to curb your insatiable hunger.ANDpre131minecraft/bed-0.pngrewardsItemExtraUtilities/defoliageAxe-0.pngHealing Axe;+6 Attack Damage;Durability: 1561/1561
+600ExtraUtilities/defoliageAxe-0.png0Hunger No More13-1The hunger is constantly following you, consuming you, never letting you rest. The world around you is full of nourishing fruits, vegetables and crafted meals. Use them to curb your insatiable hunger.ANDpre131minecraft/bed-0.pngrewardsItemExtraUtilities/defoliageAxe-0.pngHealing Axe
 1tasksANDConsumeharvestcraft/leafygarden-0.pngLeafy Garden
 8harvestcraft/mushroomgarden-0.pngMushroom Garden
 8harvestcraft/stalkgarden-0.pngStalk Garden
@@ -12,12 +12,12 @@
 8harvestcraft/gourdgarden-0.pngGourd Garden
 8harvestcraft/herbgarden-0.pngHerb Garden
 8harvestcraft/watergarden-0.pngWater Garden
-8Consumeharvestcraft/firmtofuItem-0.pngFirm Tofu;harvestcraft:firmtofuItem
-128harvestcraft/silkentofuItem-0.pngSilken Tofu;harvestcraft:silkentofuItem
-128Consumeharvestcraft/delightedmealItem-0.pngDelighted Meal;harvestcraft:delightedmealItem
-20harvestcraft/heartybreakfastItem-0.pngHearty Breakfast;harvestcraft:heartybreakfastItem
-20harvestcraft/rainbowcurryItem-0.pngRainbow Curry;harvestcraft:rainbowcurryItem
-20harvestcraft/supremepizzaItem-0.pngSupreme Pizza;harvestcraft:supremepizzaItem
-20harvestcraft/sausageinbreadItem-0.pngSausage in Bread;harvestcraft:sausageinbreadItem
-20harvestcraft/beefwellingtonItem-0.pngBeef Wellington;harvestcraft:beefwellingtonItem
+8Consumeharvestcraft/firmtofuItem-0.pngFirm Tofu
+128harvestcraft/silkentofuItem-0.pngSilken Tofu
+128Consumeharvestcraft/delightedmealItem-0.pngDelighted Meal
+20harvestcraft/heartybreakfastItem-0.pngHearty Breakfast
+20harvestcraft/rainbowcurryItem-0.pngRainbow Curry
+20harvestcraft/supremepizzaItem-0.pngSupreme Pizza
+20harvestcraft/sausageinbreadItem-0.pngSausage in Bread
+20harvestcraft/beefwellingtonItem-0.pngBeef Wellington
 20

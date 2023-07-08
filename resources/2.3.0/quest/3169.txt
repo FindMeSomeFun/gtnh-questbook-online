@@ -20,6 +20,6 @@ P -> Reactor Plating (7 needed)
 When the fuel rods get repleted, you can reprocess them to get 3/4 of the U235 back, and also a bit of Plutonium.ANDpre31680gregtech/gt.metaitem.01-2098.pngrewardstasksANDOptionalIC2/reactorHeatSwitchSpread-1.pngComponent Heat Exchanger
 1IC2/reactorVentSpread-0.pngComponent Heat Vent
 11IC2/reactorVentGold-1.pngOverclocked Heat Vent
-28gregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod (Uranium);100 / 100;Durability: 20,000/20,000
-7Retrievalgregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod (Uranium);100 / 100;Durability: 20,000/20,000
+28gregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod (Uranium)
+7Retrievalgregtech/gt.reactorUraniumQuad-0.pngQuad Fuel Rod (Uranium)
 1

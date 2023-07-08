@@ -1,7 +1,7 @@
 1590witchery/ingredient-14.png0Dreaming Mutandis360Go and find some chicken and eggs, brew some Exhale of the Horned One in your oven and plant some mandrake. Make a stack of mutadis to get some witchery tree saplings. Gravel hoes are good enough for planting stuff.ANDpre15850witchery/witchesovenidle-0.png15870witchery/cauldron-0.pngrewardsItemminecraft/glass_bottle-0.pngGlass Bottle
 16witchery/ingredient-27.pngClay Jar
 16Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
-2tasksANDLocationDIM/55-.pngSpirit World
+2tasksANDLocationDIM/55-.png55
 1Optionalminecraft/egg-0.pngEgg
 10witchery/ingredient-22.pngMandrake Root
 10witchery/ingredient-31.pngExhale of the Horned One

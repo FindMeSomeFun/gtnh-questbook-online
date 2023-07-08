@@ -1,4 +1,4 @@
-1924gregtech/gt.blockmachines-12003.png0More Than 4 Amps? Crazy!20-1For the truly insane, there is a 16 to 64 A power amp transformer. Just ludicrous!ANDpre19230gregtech/gt.blockmachines-880.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+1924gregtech/gt.blockmachines-12003.png0More Than 4 Amps? Crazy!20-1For the truly insane, there is a 16 to 64 A power amp transformer. Just ludicrous!ANDpre19230gregtech/gt.blockmachines-880.pngrewardsItemenhancedlootbags/lootbag-6-enchanted.pngLootBag (Tier 3 HV)
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalgregtech/gt.blockmachines-12003.pngHigh Voltage Power Transformer;EV -> HV (Use Soft Mallet to invert);Accepts 16A and outputs 64A;TecTech: Interdimensional;Voltage IN: 2,048 (EV);Voltage OUT: 512 (HV);Amperage: 64;Capacity: 262,656 EU
+1tasksANDRetrievalgregtech/gt.blockmachines-12003.pngHigh Voltage Power Transformer
 1

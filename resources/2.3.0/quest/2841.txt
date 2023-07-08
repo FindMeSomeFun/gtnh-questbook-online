@@ -3,5 +3,5 @@
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDHuntmobs/TwilightForest-Twilight Kobold-.pngTwilight Kobold
+5tasksANDHuntTwilightForest/TwilightKobold-.pngTwilightKobold
 20

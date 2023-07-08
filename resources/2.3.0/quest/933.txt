@@ -1,14 +1,14 @@
 933gregtech/gt.metaitem.01-32750.png0Power of the Sun5,19-1Now it's time to invest in some renewable energy. Let's start with solar panels. The basic one only gives 1 EU/t. Most GT machines can use them as covers, and receive power, but only so long as it can see the sun (the top). Be sure to put a glass layer above them in case it rains while you swap panels. You'll still want to keep rain off the sides of the machine hull too.
 
-The Aluminium Iron plate needs an MV Forming Press.ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust;Si
-16gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
-16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+The Aluminium Iron plate needs an MV Forming Press.ANDpre7921gregtech/gt.metaitem.03-32033.pngrewardsChoicegregtech/gt.metaitem.01-2020.pngRaw Silicon Dust
+16gregtech/gt.metaitem.01-2019.pngAluminium Dust
+16enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDOptionalgregtech/gt.metaitem.03-32033.pngWafer;Raw Circuit
-2IC2/blockAlloyGlass-0.pngReinforced Glass;Glass-Tier: EV
-1IC2/itemPartCircuit-0.pngElectronic Circuit;LV-tier
+25tasksANDOptionalgregtech/gt.metaitem.03-32033.pngWafer
+2IC2/blockAlloyGlass-0.pngReinforced Glass
+1IC2/itemPartCircuit-0.pngElectronic Circuit
 2IC2/itemPartCarbonPlate-0.pngCarbon Plate
 1dreamcraft/item.AluminiumIronPlate-0.pngAluminium-Iron Plate
-1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire;Max Voltage: 8 (ULV);Max Amperage: 1;Loss/Meter/Ampere: 1 EU-Volt
-2Retrievalgregtech/gt.metaitem.01-32750.pngSolar Panel;May the Sun be with you (Needs cleaning with right click)
+1gregtech/gt.blockmachines-2000.png1x Red Alloy Wire
+2Retrievalgregtech/gt.metaitem.01-32750.pngSolar Panel
 1

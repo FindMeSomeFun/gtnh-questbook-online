@@ -4,7 +4,7 @@ In tier 1 you only need to place the blood altar. Plan for the configuration to 
 
 Keep in mind that you get less blood, and use more when crafting in GTNH. Plan for pain and frustration too.
 
-The altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.ANDpre2391Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.png2411Thaumcraft/blockMetalDevice-0.png15680witchery/ingredient-10.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag (BM Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+The altar has a 10,000L blood tank, plus a 1,000L I/O buffer (you can pump in and out, but the rate is pitifully low at the start). Blood will flow to the I/O buffer until it's full, so be aware of that before your first craft.ANDpre2391Thaumcraft/blockCosmeticSolid-7.png2401Thaumcraft/blockStoneDevice-0.png2411Thaumcraft/blockMetalDevice-0.png15680witchery/ingredient-10.pngrewardsItemenhancedlootbags/lootbag-16.pngLootBag (BM Novice)
 1Itemdreamcraft/item.CoinBloodII-0.pngCoin "The Vampire 100"
-1tasksANDRetrievalAWWayofTime/Altar-0.pngAltar of GregoriusT''s Blood
+1tasksANDRetrievalAWWayofTime/Altar-0.pngBlood Altar
 1

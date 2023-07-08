@@ -2,10 +2,10 @@
 
 Another good source of alumina and oxygen is red granite dusts. You can get those from red stonelillies. Check out the Fishing Farming Cooking tab for more details about IC2 crops.
 
-Don't be decieved by false ruby ...ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Don't be decieved by false ruby ...ANDpre1261gregtech/gt.blockmachines-372.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metaitem.01-2502.pngRuby Dust;CrAl\u2082O\u2083
-60Retrievalgregtech/gt.metaitem.01-2030.pngChrome Dust;Cr
-10gregtech/gt.metaitem.01-2019.pngAluminium Dust;Al
+25tasksANDRetrievalgregtech/gt.metaitem.01-2502.pngRuby Dust
+60Retrievalgregtech/gt.metaitem.01-2030.pngChrome Dust
+10gregtech/gt.metaitem.01-2019.pngAluminium Dust
 20

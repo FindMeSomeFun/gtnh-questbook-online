@@ -4,11 +4,11 @@ But first you'll need a smeltery. See the Multiblock Goals tab for details. You 
 
 You can then use your fancy new bronze to make better tools with a higher mining level.
 
-Remember, you need to gather mining xp or use an upgrade slot to get the full mining level on your bronze pickaxe.ANDpre301gregtech/gt.metaitem.01-11035.png351gregtech/gt.metaitem.01-2300.png18661gregtech/gt.metaitem.01-2019.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich;gregtech:gt.metaitem.02;For Men! (and manly Women)
+Remember, you need to gather mining xp or use an upgrade slot to get the full mining level on your bronze pickaxe.ANDpre301gregtech/gt.metaitem.01-11035.png351gregtech/gt.metaitem.01-2300.png18661gregtech/gt.metaitem.01-2019.pngrewardsItemgregtech/gt.metaitem.02-32243.pngLarge Bacon Sandwich
 2Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 5dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-5tasksANDRetrievalTConstruct/metalPattern-2.pngPickaxe Head Cast;Material Cost: 1
-1RetrievalTConstruct/metalPattern-3.pngShovel Head Cast;Material Cost: 1
-1RetrievalTConstruct/pickaxeHead-14.pngBronze Pickaxe Head;Reinforced I;Durability: 285;Mining Speed: 6.5;Mining Level: 03-Tin;Parts can be replaced
-1RetrievalTConstruct/shovelHead-14.pngBronze Shovel Head;Reinforced I;Durability: 285;Mining Speed: 6.5;Mining Level: 04-Redstone;Parts can be replaced
+5tasksANDRetrievalTConstruct/metalPattern-2.pngPickaxe Head Cast
+1RetrievalTConstruct/metalPattern-3.pngShovel Head Cast
+1RetrievalTConstruct/pickaxeHead-14.pngBronze Pickaxe Head
+1RetrievalTConstruct/shovelHead-14.pngBronze Shovel Head
 1

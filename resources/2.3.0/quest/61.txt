@@ -1,4 +1,4 @@
-61gregtech/gt.blockmachines-102.png0Another Use for Java, I Mean Lava3-1With a more durable steel casing, you can use lava to make steam.ANDpre590gregtech/gt.GregTech_FluidDisplay-89.png761gregtech/gt.blockmachines-140.png840BuildCraftFactory/tankBlock-0.pngrewardsItemharvestcraft/cranberryjellysandwichItem-0.pngCranberry Jelly Sandwich;harvestcraft:cranberryjellysandwichItem
+61gregtech/gt.blockmachines-102.png0Another Use for Java, I Mean Lava3-1With a more durable steel casing, you can use lava to make steam.ANDpre590gregtech/gt.GregTech_FluidDisplay-89.png761gregtech/gt.blockmachines-140.png840BuildCraftFactory/tankBlock-0.pngrewardsItemharvestcraft/cranberryjellysandwichItem-0.pngCranberry Jelly Sandwich
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDCraftinggregtech/gt.blockmachines-102.pngHigh Pressure Lava Boiler;A Boiler running off Lava;Produces 600L of Steam per second;Causes 20 Pollution per second;Consumes 3.0L of Lava every 20 ticks when fully heat up
+10tasksANDCraftinggregtech/gt.blockmachines-102.pngHigh Pressure Lava Boiler
 1

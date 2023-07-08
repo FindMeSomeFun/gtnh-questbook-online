@@ -2,13 +2,13 @@
 
 PS: You can't make all of these right now.ANDpre1340EnderIO/itemPowerConduit-0.pngrewardsItemEnderIO/itemItemConduit-0.pngItem Conduit
 32Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalEnderIO/itemBasicFilterUpgrade-0.pngBasic Item Filter;Upgrade for item conduits
-1EnderIO/itemBigFilterUpgrade-0.pngBig Item Filter;Upgrade for item conduits
-1RetrievalEnderIO/itemBasicFilterUpgrade-1.pngAdvanced Item Filter;Upgrade for item conduits
-1EnderIO/itemBigFilterUpgrade-1.pngBig Advanced Item Filter;Upgrade for item conduits
-1RetrievalEnderIO/itemExistingItemFilter-0.pngExisting Item Filter;Upgrade for item conduits
-1EnderIO/itemModItemFilter-0.pngMod Item Filter;Upgrade for item conduits
-1EnderIO/itemPowerItemFilter-0.pngChargeable Item Filter;Upgrade for item conduits
-1RetrievalEnderIO/itemExtractSpeedUpgrade-0.pngItem Conduit Speed Upgrade;Upgrade for item conduits
-1EnderIO/itemExtractSpeedUpgrade-1.pngItem Conduit Speed Downgrade;Downgrade for item conduits
+5tasksANDRetrievalEnderIO/itemBasicFilterUpgrade-0.pngBasic Item Filter
+1EnderIO/itemBigFilterUpgrade-0.pngBig Item Filter
+1RetrievalEnderIO/itemBasicFilterUpgrade-1.pngAdvanced Item Filter
+1EnderIO/itemBigFilterUpgrade-1.pngBig Advanced Item Filter
+1RetrievalEnderIO/itemExistingItemFilter-0.pngExisting Item Filter
+1EnderIO/itemModItemFilter-0.pngMod Item Filter
+1EnderIO/itemPowerItemFilter-0.pngChargeable Item Filter
+1RetrievalEnderIO/itemExtractSpeedUpgrade-0.pngItem Conduit Speed Upgrade
+1EnderIO/itemExtractSpeedUpgrade-1.pngItem Conduit Speed Downgrade
 1

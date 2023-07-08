@@ -1,5 +1,5 @@
-2801IC2/blockGenerator-6.png0Radioisotope Thermoelectric Generator19-1Runs forever on the fuel you give it. Puts out 1 EU/t, but doubles for each one added, up to 32 EU/t. Might be useful for a farm?ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2801IC2/blockGenerator-6.png0Radioisotope Thermoelectric Generator19-1Runs forever on the fuel you give it. Puts out 1 EU/t, but doubles for each one added, up to 32 EU/t. Might be useful for a farm?ANDpre1900IC2/blockGenerator-5.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDRetrievalIC2/blockGenerator-6.pngRadioisotope Thermoelectric Generator;Power Output: 1-32 EU/t max
+1tasksANDRetrievalIC2/blockGenerator-6.pngRadioisotope Thermoelectric Generator
 1IC2/itemRTGPellet-0.pngPellets of RTG Fuel
 6

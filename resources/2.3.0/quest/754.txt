@@ -1,6 +1,6 @@
 754gregtech/gt.blockmachines-42.png1MV Energy Hatch5-1Some materials like stainless steel require 480 EU/t. Your LV hatches are not good enough. Craft a minimum of two MV hatches to upgrade your electric blast furnace to HV.
 
-BTW, if a MB recipe is 1EU over 1A for that tier, you must use a second energy hatch for it to use 2A or more.ANDpre771gregtech/gt.blockmachines-1000.png10841gregtech/gt.metaitem.01-30724.png18681gregtech/gt.metaitem.03-32063.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+BTW, if a MB recipe is 1EU over 1A for that tier, you must use a second energy hatch for it to use 2A or more.ANDpre771gregtech/gt.blockmachines-1000.png10841gregtech/gt.metaitem.01-30724.png18681gregtech/gt.metaitem.03-32063.pngrewardsItemenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-42.pngMV Energy Hatch;Energy Injector for Multiblocks;Accepts up to 2 Amps;Voltage IN: 128 (MV);Capacity: 1,536 EU
+5tasksANDRetrievalgregtech/gt.blockmachines-42.pngMV Energy Hatch
 2

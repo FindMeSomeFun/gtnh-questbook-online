@@ -1,9 +1,9 @@
-128EnderIO/blockEnderIo-0.png0IO, IO, It's Off to EnderIO We Go5-1You've probably used EnderIO before. It's quite useful for a lot of things. But the recipes are different and it's not as useful for some things like ore processing. Let's go through what it has to offer. Note that the other half is in HV.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsChoicegregtech/gt.metaitem.01-11369.pngConductive Iron Ingot;((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg
-4gregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot;Fe(BeK\u2084N\u2085Ma\u2086)((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)
-4gregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot;(Fe\u2085\u2080C)CSi
+128EnderIO/blockEnderIo-0.png0IO, IO, It's Off to EnderIO We Go5-1You've probably used EnderIO before. It's quite useful for a lot of things. But the recipes are different and it's not as useful for some things like ore processing. Let's go through what it has to offer. Note that the other half is in HV.ANDpre18671gregtech/gt.metaitem.01-32601.pngrewardsChoicegregtech/gt.metaitem.01-11369.pngConductive Iron Ingot
+4gregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot
+4gregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot
 4Itemdreamcraft/item.CoinChemist-0.pngCoin "The Chemist 1"
 25dreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot;(Fe\u2085\u2080C)CSi
-8Retrievalgregtech/gt.metaitem.01-11369.pngConductive Iron Ingot;((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg
-8Retrievalgregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot;Fe(BeK\u2084N\u2085Ma\u2086)((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)
+25tasksANDRetrievalgregtech/gt.metaitem.01-11365.pngElectrical Steel Ingot
+8Retrievalgregtech/gt.metaitem.01-11369.pngConductive Iron Ingot
+8Retrievalgregtech/gt.metaitem.01-11378.pngPulsating Iron Ingot
 8

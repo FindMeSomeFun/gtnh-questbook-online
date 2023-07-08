@@ -1,16 +1,16 @@
-999EnderIO/item.darkSteel_sword-0-upgraded.png0Dark Steel Tool and Weapon Advanced Upgrades6,14-1Your weapons and tools can be upgraded even more by adding capacitors and various other items.ANDpre9980EnderIO/item.darkSteel_sword-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-2.pngOctadic Capacitor;Machine Upgrade
-8EnderIO/blockCapBank-3.pngVibrant Capacitor Bank;0/25,000,000 RF
-1miscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Battery;Reusable;0 / 6,400,000 EU - Voltage: 2048
-1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+999EnderIO/item.darkSteel_sword-0-upgraded.png0Dark Steel Tool and Weapon Advanced Upgrades6,14-1Your weapons and tools can be upgraded even more by adding capacitors and various other items.ANDpre9980EnderIO/item.darkSteel_sword-0.pngrewardsChoiceEnderIO/itemBasicCapacitor-2.pngOctadic Capacitor
+8EnderIO/blockCapBank-3.pngVibrant Capacitor Bank
+1miscutils/MU-metaitem.01-32054.pngQuad Cell Lithium Battery
+1enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5tasksANDOptionalEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
-4EnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor;Machine Upgrade
-4EnderIO/itemBasicCapacitor-2.pngOctadic Capacitor;Machine Upgrade
+4EnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor
+4EnderIO/itemBasicCapacitor-2.pngOctadic Capacitor
 4OptionalEnderIO/itemMaterial-8.pngEnder Crystal
-2Optionalminecraft/diamond_shovel-0.pngDiamond Shovel;+4 Attack Damage;Durability: 768/768;This tool cannot mine anything!;It can only be used for crafting
-1RetrievalEnderIO/item.darkSteel_sword-0-upgraded.pngThe Ender;+6 Attack Damage;Durability: 1561/1561;Empowered IV;Travel
-1EnderIO/item.darkSteel_pickaxe-0-upgraded.pngDark Pick;EnderIO:item.darkSteel_pickaxe;+4 Attack Damage;Durability: 1561/1561;Empowered IV;Travel;Spoon
-1EnderIO/item.darkSteel_axe-0-upgraded.pngDark Axe;+5 Attack Damage;Durability: 1561/1561;Empowered IV
-1EnderIO/item.darkSteel_shears-0-upgraded.pngDark Shears;Empowered IV
+2Optionalminecraft/diamond_shovel-0.pngDiamond Shovel
+1RetrievalEnderIO/item.darkSteel_sword-0-upgraded.pngThe Ender
+1EnderIO/item.darkSteel_pickaxe-0-upgraded.pngDark Pick
+1EnderIO/item.darkSteel_axe-0-upgraded.pngDark Axe
+1EnderIO/item.darkSteel_shears-0-upgraded.pngDark Shears
 1

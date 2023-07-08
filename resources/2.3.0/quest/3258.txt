@@ -2,24 +2,24 @@
 
 Besides being a repository of useful information, the Lexica Botania has another function: if, while holding it, you look at any Botania block in the world, you can shift+right click on that block to open up the relevant page.
 
-Something else you'll want for functional flowers is a handful of redstone roots. Flowers which have a redstone root in their recipe have the ability to toggle whether they are active by applying a redstone signal. Make a few before you move on.ANDpre32201Botania/grassSeeds-0.pngrewardsChoiceBotania/mushroom-0.pngWhite Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-1.pngOrange Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-2.pngMagenta Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-3.pngLight Blue Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-4.pngYellow Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-5.pngLime Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-6.pngPink Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-7.pngGray Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-8.pngLight Gray Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-9.pngCyan Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-10.pngPurple Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-11.pngBlue Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-12.pngBrown Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-13.pngGreen Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-14.pngRed Shimmering Mushroom;May work as an Infusion Stabilizer
-4Botania/mushroom-15.pngBlack Shimmering Mushroom;May work as an Infusion Stabilizer
+Something else you'll want for functional flowers is a handful of redstone roots. Flowers which have a redstone root in their recipe have the ability to toggle whether they are active by applying a redstone signal. Make a few before you move on.ANDpre32201Botania/grassSeeds-0.pngrewardsChoiceBotania/mushroom-0.pngWhite Shimmering Mushroom
+4Botania/mushroom-1.pngOrange Shimmering Mushroom
+4Botania/mushroom-2.pngMagenta Shimmering Mushroom
+4Botania/mushroom-3.pngLight Blue Shimmering Mushroom
+4Botania/mushroom-4.pngYellow Shimmering Mushroom
+4Botania/mushroom-5.pngLime Shimmering Mushroom
+4Botania/mushroom-6.pngPink Shimmering Mushroom
+4Botania/mushroom-7.pngGray Shimmering Mushroom
+4Botania/mushroom-8.pngLight Gray Shimmering Mushroom
+4Botania/mushroom-9.pngCyan Shimmering Mushroom
+4Botania/mushroom-10.pngPurple Shimmering Mushroom
+4Botania/mushroom-11.pngBlue Shimmering Mushroom
+4Botania/mushroom-12.pngBrown Shimmering Mushroom
+4Botania/mushroom-13.pngGreen Shimmering Mushroom
+4Botania/mushroom-14.pngRed Shimmering Mushroom
+4Botania/mushroom-15.pngBlack Shimmering Mushroom
 4Itemdreamcraft/item.CoinFlowerI-0.pngCoin "The Gardener 10"
 5Botania/manaResource-6.pngRedstone Root
-2tasksANDRetrievalBotania/lexicon-0.pngLexica Botania;Hold SHIFT for more info
+2tasksANDRetrievalBotania/lexicon-0.pngLexica Botania
 1RetrievalBotania/manaResource-6.pngRedstone Root
 4

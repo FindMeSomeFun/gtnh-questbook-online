@@ -1,5 +1,5 @@
 2071gregtech/gt.detrav.metatool.01-100.png0Panning For Gold is For Chumps9-1Now that you've reached LuV you can make the god-tier prospector - The Electric Prospector. This handheld machine can provide detailed information on ores in the area, and return maps of how much UG fluid and what type is in each chunk.
 
 Note that the range is determined by the tier and material (the durability seems to not matter). You can select an ore from the list to show only that ore, or double click to switch dark/light mode.ANDpre14901gregtech/gt.metaitem.01-32695.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.detrav.metatool.01-100.pngElectric Prospector''s Scanner (LuV);Durability:0 / 0;NULL;Chunks:1x1;Right click on rock for prospecting current chunk!;Right click on bedrock for prospecting fluids!;Right click on air for scanning!;Shift + Right click on air to switch modes!;Double click any entry to invert the background color!
+5tasksANDRetrievalgregtech/gt.detrav.metatool.01-100.pngElectric Prospector''s Scanner (LuV)
 1

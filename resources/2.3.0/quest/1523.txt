@@ -1,19 +1,19 @@
 1523ifu/ifu_buildingKit-0.png0Can't Find Those Ores?40144000Having trouble locating some of the basic ores? Trade in some coins for oreblocks to use in the Ore Finder Wand.
 
-If you're clever, you can use one oreblock to find a vein containing another oreblock to use to find another vein. For example, if you choose Redstone, you can use that to find Cinnabar, which can be used to find Thaumcraft Aspect Shard ores in the Twilight Forest. Experiment and find some combos!ANDpre15040ifu/ifu_buildingKit-1.pngrewardsChoicegregtech/gt.blockores-937.pngCassiterite Sand;SnO\u2082
-1gregtech/gt.blockores-35.pngCopper Ore;Cu
-1gregtech/gt.blockores-870.pngMagnetite Ore;Fe\u2083O\u2084
-1gregtech/gt.blockores-834.pngPyrite Ore;FeS\u2082
-1gregtech/gt.blockores-500.pngDiamond Ore;C
-1gregtech/gt.blockores-810.pngRedstone Ore;Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083
-1gregtech/gt.blockores-526.pngLapis Ore;(Al\u2086Si\u2086Ca\u2088Na\u2088)\u2081\u2082(Al\u2083Si\u2083Na\u2084Cl)\u2082(FeS\u2082)(CaCO\u2083)
-1gregtech/gt.blockores-530.pngApatite Ore;Ca\u2085(PO\u2084)\u2083Cl
-1gregtech/gt.blockores-523.pngQuartzite Ore;SiO\u2082
-1gregtech/gt.blockores-535.pngCoal Ore;C
-1gregtech/gt.blockores-57.pngTin Ore;Sn
-1gregtech/gt.blockores-936.pngGranitic Mineral Sand;(Fe\u2083O\u2084)((SiO\u2082)\u2084(KMg\u2083Al\u2083F\u2082Si\u2083O\u2081\u2080))
-1gregtech/gt.blockores-935.pngBasaltic Mineral Sand;(Fe\u2083O\u2084)((Mg\u2082Fe(SiO\u2082)\u2082)(CaCO\u2083)\u2083(SiO\u2082)\u2088C\u2084)
-1gregtech/gt.blockores-838.pngSpessartine Ore;Al\u2082Mn\u2083Si\u2083O\u2081\u2082
+If you're clever, you can use one oreblock to find a vein containing another oreblock to use to find another vein. For example, if you choose Redstone, you can use that to find Cinnabar, which can be used to find Thaumcraft Aspect Shard ores in the Twilight Forest. Experiment and find some combos!ANDpre15040ifu/ifu_buildingKit-1.pngrewardsChoicegregtech/gt.blockores-937.pngCassiterite Sand
+1gregtech/gt.blockores-35.pngCopper Ore
+1gregtech/gt.blockores-870.pngMagnetite Ore
+1gregtech/gt.blockores-834.pngPyrite Ore
+1gregtech/gt.blockores-500.pngDiamond Ore
+1gregtech/gt.blockores-810.pngRedstone Ore
+1gregtech/gt.blockores-526.pngLapis Ore
+1gregtech/gt.blockores-530.pngApatite Ore
+1gregtech/gt.blockores-523.pngQuartzite Ore
+1gregtech/gt.blockores-535.pngCoal Ore
+1gregtech/gt.blockores-57.pngTin Ore
+1gregtech/gt.blockores-936.pngGranitic Mineral Sand
+1gregtech/gt.blockores-935.pngBasaltic Mineral Sand
+1gregtech/gt.blockores-838.pngSpessartine Ore
 1tasksANDConsumedreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 60dreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 60

@@ -3,14 +3,14 @@
 It can be found with the HEE Biome Compass. 
 
 There are also regular chests with loot. Those can contain Obsidian Fragments and Auricion, amongst several other items.ANDpre23550HardcoreEnderExpansion/biome_compass-0.pngrewardsItemHardcoreEnderExpansion/obsidian_fragment-0.pngObsidian Fragment
-32enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic);You feel that a bit more "Fortune" might be a good idea...
+32enhancedlootbags/lootbag-57.pngLootBag (HEE-Basic)
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1dreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note;65 Knowledge Points
+1HardcoreEnderExpansion/knowledge_note-0.pngKnowledge Note
 1tasksANDRetrievalHardcoreEnderExpansion/end_stone_terrain-2.pngEnchanted End Stone
 8RetrievalHardcoreEnderExpansion/laboratory_obsidian-0.pngLaboratory Obsidian
-8HardcoreEnderExpansion/laboratory_glass-0.pngLaboratory Glass;Glass-Tier: HV
+8HardcoreEnderExpansion/laboratory_glass-0.pngLaboratory Glass
 8HardcoreEnderExpansion/laboratory_floor-0.pngLaboratory Floor
 8HardcoreEnderExpansion/laboratory_stairs-0.pngLaboratory Stairs
 2RetrievalHardcoreEnderExpansion/auricion-0.pngAuricion

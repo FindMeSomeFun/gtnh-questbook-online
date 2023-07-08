@@ -1,7 +1,7 @@
-313ThaumicTinkerer/ichorclothLegs-0.png0Unbreakable Leggings33-1They will never break. How convenient.ANDpre3160ThaumicTinkerer/kamiResource-1.pngrewardsChoiceThaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
-1enhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+313ThaumicTinkerer/ichorclothLegs-0.png0Unbreakable Leggings33-1They will never break. How convenient.ANDpre3160ThaumicTinkerer/kamiResource-1.pngrewardsChoiceThaumcraft/ItemLootBag-2.pngRare Treasure
+1enhancedlootbags/lootbag-12.pngLootBag (Magic Grandmaster)
 1Itemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 5dreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
 5dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/ichorclothLegs-0.pngIchorcloth Leggings;Vis discount: 6%;Warping 3;Protection: 6
+5tasksANDRetrievalThaumicTinkerer/ichorclothLegs-0.pngIchorcloth Leggings
 1

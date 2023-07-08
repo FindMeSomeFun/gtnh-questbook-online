@@ -2,11 +2,11 @@
 
 The detector's setting can be changed by clicking on the +/- texture with a screwdriver. Also, in general, better (and larger) turbines work better at cleaning up pollution. The code is too complex to fully explain here, but that's basically it. More EU turbine = more pollution cleaning turbine.
 
-This quest covers one method of combating pollution - there are others, including not making as much to begin with.ANDpre14940gregtech/gt.blockmachines-1000.pngrewardsChoicemiscutils/itemAirFilter-0.pngAir Filter [Tier 1];An Air filter for Atmospheric Reconditioning.;50/50 uses left.
-2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+This quest covers one method of combating pollution - there are others, including not making as much to begin with.ANDpre14940gregtech/gt.blockmachines-1000.pngrewardsChoicemiscutils/itemAirFilter-0.pngAir Filter [Tier 1]
+2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-25tasksANDRetrievalgregtech/gt.blockmachines-756.pngPollution Detection Device;Tells you if you''re living in Gwalior yet.;Right click to check pollution levels.;Configure with screwdriver to set redstone output amount.;Does not use power.;Added by: Alkalus - [GT++]
-1Retrievalmiscutils/itemAirFilter-0.pngAir Filter [Tier 1];An Air filter for Atmospheric Reconditioning.;50/50 uses left.
-1Retrievalgregtech/gt.metatool.01-170.pngSmall Turbine;Durability: 0 / 0;NULL lvl 0;Turbine Efficiency: 50.0%;Optimal Steam flow: 50 L/t;Energy from Optimal Steam Flow: 12 EU/t;Turbine Efficiency (Loose): 45%;Optimal Steam flow (Loose): 200 L/t;Energy from Optimal Steam Flow (Loose): 45 EU/t;(Superheated Steam EU values are 2x those of Steam);Energy from Optimal Gas Flow: 25 EU/t;Energy from Optimal Plasma Flow: 1,050 EU/t;Overflow Efficiency Tier: 1;Turbine Rotors for your power station;(EU/t values include efficiency and are not 100% accurate)
-1Retrievalgregtech/gt.blockmachines-759.pngAdvanced Pollution Scrubber;Making sure you don''t live in Gwalior - Uses 2A;Requires a turbine rotor and an Air Filter [T1/T2] to run.;The turbine rotor must be manually inserted/replaced;Can be configured with a soldering iron to change modes;Low Efficiency: Removes half pollution, Turbine takes 50% dmg;High Efficiency: Removes full pollution, Turbine takes 100% dmg;Turbine Rotor will not break in LE mode;Insert an equal tier Conveyor Module to enable automation;Voltage IN: 128 (MV);Capacity: 32,768 EU
+25tasksANDRetrievalgregtech/gt.blockmachines-756.pngPollution Detection Device
+1Retrievalmiscutils/itemAirFilter-0.pngAir Filter [Tier 1]
+1Retrievalgregtech/gt.metatool.01-170.pngSmall Turbine
+1Retrievalgregtech/gt.blockmachines-759.pngAdvanced Pollution Scrubber
 1

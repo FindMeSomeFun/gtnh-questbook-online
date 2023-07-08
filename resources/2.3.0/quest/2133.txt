@@ -1,6 +1,6 @@
 2133Forestry/sapling-0-Acacia.png0Desert Acacia16-1Desert Acacia. Another step on the road. Breed it by mating Teak with Balsa.ANDpre21260Forestry/sapling-0-Balsa.pngrewardsItemdreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDOptionalForestry/sapling-0-Teak.pngTeak Sapling;Burn Time: 100
-1Forestry/sapling-0-Balsa.pngBalsa Sapling;Burn Time: 100
-1RetrievalForestry/sapling-0-Acacia.pngDesert Acacia Sapling;Burn Time: 100
+15enhancedlootbags/lootbag-19.pngLootBag (Forest Ranger Basic)
+1tasksANDOptionalForestry/sapling-0-Teak.pngTeak Sapling
+1Forestry/sapling-0-Balsa.pngBalsa Sapling
+1RetrievalForestry/sapling-0-Acacia.pngDesert Acacia Sapling
 1

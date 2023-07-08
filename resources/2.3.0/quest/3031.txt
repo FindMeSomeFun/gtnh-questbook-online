@@ -1,23 +1,23 @@
 3031minecraft/wooden_shovel-0.png0You Are Not Prepared!!!17-1It's time for something really big: A smeltery! There's a lot to craft, so better gather some resources... or you could go try complete this with the help of some unhappy NPC friends, but that would void your quest rewards.
 
-Note: This quest is mutually exclusive with the other smeltry quest.XORpre181minecraft/stone-0.png29850StevesCarts/CartModule-23.pngrewardsItemTConstruct/oreBerries-4.pngAluminum Oreberry;White Chocolate;Can be placed on a empty IC2 Crop.
-10enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+Note: This quest is mutually exclusive with the other smeltry quest.XORpre181minecraft/stone-0.png29850StevesCarts/CartModule-23.pngrewardsItemTConstruct/oreBerries-4.pngAluminum Oreberry
+10enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 2Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 50tasksANDOptionalminecraft/sand-0.pngSand
 123minecraft/gravel-0.pngGravel
-123gregtech/gt.metaitem.01-2805.pngClay Dust;Na\u2082LiAl\u2082Si\u2082(H\u2082O)\u2086
-82OptionalTConstruct/CraftedSoil-1.pngGrout;I am Grout!
+123gregtech/gt.metaitem.01-2805.pngClay Dust
+82OptionalTConstruct/CraftedSoil-1.pngGrout
 162Optionaldreamcraft/item.WoodenBrickForm-0.pngWooden Form (Brick)
 1Optionaldreamcraft/item.UnfiredSearedBrick-0.pngUnfired Seared Brick
 162OptionalTConstruct/materials-2.pngSeared Brick
-162CraftingTConstruct/Smeltery-2.pngSeared Bricks;Smeltery structure block;(Safe for decoration)
+162CraftingTConstruct/Smeltery-2.pngSeared Bricks
 28Optionalminecraft/furnace-0.pngFurnace
-1CraftingTConstruct/Smeltery-0.pngSmeltery Controller;Brain of the Smeltery;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1TConstruct/LavaTank-0.pngSeared Tank;Heart of the Smeltery;Keeps any fluids it has when harvested;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1RetrievalTConstruct/SearedBlock-1.pngSeared Faucet;This Smeltery is leaking;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-2TConstruct/CastingChannel-0.pngCasting Channel;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-2CraftingTConstruct/Smeltery-1.pngSmeltery Drain;Works both as input and output for;fluids in the Smeltery
-2TConstruct/SearedBlock-2.pngCasting Basin;For the ambitious Smeltery;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1RetrievalTConstruct/Smeltery-4.pngSeared Stone;Smeltery structure block;(Safe for decoration)
-1CraftingTConstruct/SearedBlock-0.pngCasting Table;Basic Smeltery equipment;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
+1CraftingTConstruct/Smeltery-0.pngSmeltery Controller
+1TConstruct/LavaTank-0.pngSeared Tank
+1RetrievalTConstruct/SearedBlock-1.pngSeared Faucet
+2TConstruct/CastingChannel-0.pngCasting Channel
+2CraftingTConstruct/Smeltery-1.pngSmeltery Drain
+2TConstruct/SearedBlock-2.pngCasting Basin
+1RetrievalTConstruct/Smeltery-4.pngSeared Stone
+1CraftingTConstruct/SearedBlock-0.pngCasting Table
 1

@@ -5,5 +5,5 @@
 1tasksANDOptionalThaumicTinkerer/kamiResource-2.pngIchorium
 56Optionalgregtech/gt.blockmetal8-13.pngBlock of Ichorium
 28RetrievalAWWayofTime/blockCrystal-0.pngCrystal Cluster
-4dreamcraft/tile.BloodyIchorium-0.pngBlood-Soaked Ichorium Block;Used for Blood Altar Tier 6 Pillars
+4dreamcraft/tile.BloodyIchorium-0.pngBlood-Soaked Ichorium Block
 28

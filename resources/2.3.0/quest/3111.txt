@@ -1,7 +1,7 @@
 3111Railcraft/fluid.creosote.cell-0.png0Creosote's Work22-1Your old pal, Creosote Oil, is back in the game! That's right, you can get it automatically from Charcoal processing again, as you did with the first Coke Ovens, and what you can do with it is about the same. The two main purposes it has are power generation and Lubricant, which you will want to use in Cutting Machines, and will also be required in some later multiblocks like the Large Combustion Engine and the Multiblock Miner. Using a Brewery, you can add some Redstone to quickly convert this oil to Lubricant and keep it in stock for whatever machine or craft needs it.
 
 Alternatively, you can get a bit of extra power from this. The fuel value per bucket is much lower than the big three, but it still has an interesting use. When the semifluid generators were broken, and the Creosote wasn't usable in them, there were setups using two max-size LP Railcraft boilers to turn the amount you get from one DT into the EU needed to run it, making that step completely free in terms of power. There were some fine details, such as the Steam Turbines needing to all be LV for the fuel efficiency, but it'd be easier to use semifluid generators from the start. Either way, you can at least remove the EU cost from the DT from the equation, if you wish to.ANDpre31100gregtech/gt.blockmachines-1126.pngrewardsItemgregtech/gt.metaitem.01-30724.pngLubricant Cell
-32enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1dreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 1tasksANDRetrievalRailcraft/fluid.creosote.cell-0.pngCreosote Cell
 64

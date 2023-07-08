@@ -1,8 +1,8 @@
 2832minecraft/wool-15.png0Time to Kill (Bighorn Sheep)39432000Oh no, not the poor bighorn sheep! Fluffy and red, I'm so sad in the Twilight Forest.ANDpre2251minecraft/end_portal-0.pngrewardsItembetterquesting/extra_life-2.pngQuarter Heart
-1Thaumcraft/ItemLootBag-0.pngCommon Treasure;Click to open or keep to trade
+1Thaumcraft/ItemLootBag-0.pngCommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDHuntmobs/TwilightForest-Bighorn Sheep-.pngBighorn Sheep
+5tasksANDHuntTwilightForest/BighornSheep-.pngBighornSheep
 20

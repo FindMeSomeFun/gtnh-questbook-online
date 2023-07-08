@@ -1,8 +1,8 @@
-786gregtech/gt.blockmachines-1021.png0Steam is Never Enough17-1Now you can make Advanced Circuits, which means it's time to build a Large Steel Boiler. Each one of these produces 1000 EU/t in Steam, which means you will need several Steam Turbines to convert it all to power! Keep in mind that the MV ones are less efficient, so calculate your losses when building your setup.ANDpre8381IC2/itemPartCircuitAdv-0.pngrewardsItemgregtech/gt.blockmachines-5134.pngHuge Steel Fluid Pipe;Fluid Capacity: 19,200 L/sec;Heat Limit: 2,500 K
-12enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+786gregtech/gt.blockmachines-1021.png0Steam is Never Enough17-1Now you can make Advanced Circuits, which means it's time to build a Large Steel Boiler. Each one of these produces 1000 EU/t in Steam, which means you will need several Steam Turbines to convert it all to power! Keep in mind that the MV ones are less efficient, so calculate your losses when building your setup.ANDpre8381IC2/itemPartCircuitAdv-0.pngrewardsItemgregtech/gt.blockmachines-5134.pngHuge Steel Fluid Pipe
+12enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 2Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1tasksANDOptionalgregtech/gt.blockcasings3-14.pngSteel Firebox Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-4Retrievalgregtech/gt.blockmachines-1021.pngLarge Steel Boiler;Machine Type: Boiler;Controller block for the Large Steel Boiler;Produces 40,000L of Steam with 1 Coal at 40,000L/s;A programmed circuit in the main block throttles the boiler (-1000L/s per config);Solid Fuels with a burn value that is too high or too low will not work;Diesel fuels have 1/4 efficiency - Takes 41.67 seconds to heat up;Causes: 2000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings2-13.pngSteel Pipe Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
-3Optionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+1tasksANDOptionalgregtech/gt.blockcasings3-14.pngSteel Firebox Casing
+4Retrievalgregtech/gt.blockmachines-1021.pngLarge Steel Boiler
+1Optionalgregtech/gt.blockcasings2-13.pngSteel Pipe Casing
+3Optionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing
 32

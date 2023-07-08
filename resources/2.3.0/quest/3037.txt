@@ -4,11 +4,11 @@ By pumping on different depths, you are able to extract different gases. The dep
 
 While operational, the multiblock needs d*4^(t+2) EU/t (t is the space station's tier and d is the depth).
 
-You can find an overview of what you can pump where in the Tips and Tricks chapter.ANDpre10670GalaxySpace/item.Icon-37.png15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceenhancedlootbags/lootbag-24.pngLootBag (Space Invaders Asteroids);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You can find an overview of what you can pump where in the Tips and Tricks chapter.ANDpre10670GalaxySpace/item.Icon-37.png15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceenhancedlootbags/lootbag-24.pngLootBag (Space Invaders Asteroids)
+1enhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1IC2/blockMiningPipe-0.pngMining Pipe
 256Itemdreamcraft/item.CoinSpaceII-0.pngCoin "The Space Invaders 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 5dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
-5tasksANDRetrievalgregtech/gt.blockmachines-14002.pngPlanetary Gas Siphon;Machine Type: Pump;It''s time to SUCC!;Build on an Space Station orbiting a Gas Planet;Requires a Programmed Circuit set to the depth you want to pump from (1 - 4);Requires 64x depth Mining Pipes;EU/t: d*4^(t+2), t is the Space Station''s tier and d the depth;Can load the chunk it is in (toggle using a Soldering Iron);-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: GalaxySpace;Author: glowredman
+5tasksANDRetrievalgregtech/gt.blockmachines-14002.pngPlanetary Gas Siphon
 1

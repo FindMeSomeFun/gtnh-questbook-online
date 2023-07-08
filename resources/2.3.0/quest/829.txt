@@ -1,14 +1,14 @@
-829GalacticraftCore/tile.oxygenCompressor-0.png1Oxygen Compressor24-1The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.ANDpre8241GalacticraftCore/item.oxygenTankLightFull-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
+829GalacticraftCore/tile.oxygenCompressor-0.png1Oxygen Compressor24-1The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.ANDpre8241GalacticraftCore/item.oxygenTankLightFull-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe
 4GalacticraftCore/item.basicItem-10.pngCompressed Bronze
 2GalacticraftCore/item.basicItem-9.pngCompressed Steel
-2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+2enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalGalacticraftCore/item.oxygenConcentrator-0.pngOxygen Concentrator
 1gregtech/gt.metaitem.01-32602.pngElectric Motor (HV)
-1GalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister;Durability: 0 / 1001
+1GalacticraftCore/item.oilCanisterPartial-1001.pngEmpty Canister
 1gregtech/gt.metaitem.01-32642.pngElectric Piston (HV)
 1GalacticraftCore/item.basicItem-9.pngCompressed Steel
 2GalacticraftCore/item.basicItem-10.pngCompressed Bronze
 1GalacticraftCore/item.basicItem-8.pngCompressed Aluminum
-2RetrievalGalacticraftCore/tile.oxygenCompressor-0.pngOxygen Compressor;Power required: 45 EU /s
+2RetrievalGalacticraftCore/tile.oxygenCompressor-0.pngOxygen Compressor
 1

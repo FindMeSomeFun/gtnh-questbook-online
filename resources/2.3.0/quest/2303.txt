@@ -2,7 +2,7 @@
 
 This questline will help you figure out how to process it properly.
 
-First, process some of your Palladium Enriched Ammonia to Palladium Salt Dust.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemTGregworks/tGregToolPartLargeSwordBlade-1514.pngPalladium Large Sword Blade;Attack: 16 Hearts;Durability: 2200;Parts can be replaced
-1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell;?Pd;Added by BartWorks
-18Retrievalbartworks/gt.bwMetaGenerateddust-55.pngPalladium Salt Dust;Added by BartWorks
+First, process some of your Palladium Enriched Ammonia to Palladium Salt Dust.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemTGregworks/tGregToolPartLargeSwordBlade-1514.pngPalladium Large Sword Blade
+1tasksANDOptionalbartworks/gt.bwMetaGeneratedcell-52.pngPalladium Enriched Ammonia Cell
+18Retrievalbartworks/gt.bwMetaGenerateddust-55.pngPalladium Salt Dust
 9

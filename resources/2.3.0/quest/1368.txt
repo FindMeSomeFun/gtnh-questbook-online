@@ -4,5 +4,5 @@ Also consider making an extra yourself and sticking it in a chest on the TF side
 1tasksANDConsumeTwilightForest/item.tfFeather-0.pngRaven''s Feather
 2TwilightForest/tile.TFFirefly-0.pngFirefly
 4TwilightForest/item.torchberries-0.pngTorchberries
-16TwilightForest/tile.TFLog-1.pngCanopy Tree Wood;Burn Time: 300
+16TwilightForest/tile.TFLog-1.pngCanopy Tree Wood
 64

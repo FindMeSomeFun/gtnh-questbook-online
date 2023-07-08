@@ -1,10 +1,10 @@
 1189Railcraft/track-0-electric.png0The Transcontinental Railroad - Electric14-1Electrical tracks are used together with your electric locomotive. You need to power the rails with energy.
 
-NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.ANDpre771gregtech/gt.blockmachines-1000.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-0-electric.pngElectric Track;Danger: High Voltage;Powered by Electricity;Use with Electric Locomotive;Use Electric Feeder Units to power;Use Shunting Wire to bridge gaps
+NEI doesn't show the right recipe on the first page. Go through the recipes a bit to find the right one.ANDpre771gregtech/gt.blockmachines-1000.png8660minecraft/rail-0.pngrewardsChoiceRailcraft/track-0-electric.pngElectric Track
 16Railcraft/part.rail-5.pngElectric Rail
 32Railcraft/part.railbed-1.pngStone Railbed
-32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+32enhancedlootbags/lootbag-33.pngLootBag (Transportation 2 Class)
 1Itemdreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalRailcraft/track-0-electric.pngElectric Track;Danger: High Voltage;Powered by Electricity;Use with Electric Locomotive;Use Electric Feeder Units to power;Use Shunting Wire to bridge gaps
+5tasksANDRetrievalRailcraft/track-0-electric.pngElectric Track
 64

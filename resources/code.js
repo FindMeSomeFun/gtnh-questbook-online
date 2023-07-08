@@ -1,4 +1,6 @@
-var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/main/';
+var repo = 'https://raw.githubusercontent.com/FindMeSomeFun/gtnh-questbook-wiki/compact/';
+var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
+var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid', 'Consume'];
 var availableVersions = [];
 var fallbackVersion = '';
 var version = '2.3.0';
@@ -8,7 +10,6 @@ var preQuestId = '';
 var pinnedQuests = new Set();
 var drawLines = {}
 var drawPreLines = {}
-var canvas = document.getElementById("canvas");
 var questLines = {};
 
 readTextFile(repo + 'resources/versions.txt', 'versions');
@@ -90,15 +91,16 @@ function populateElement(text, eId) {
 			document.getElementById('welcome').remove();
 		}
 		//   0-desc, 1-sizeX, 2-sizeY, 3-q[[id, main, icon, x, y, iconSize, pre[id]]]
+		var canvas = document.getElementById("canvas");
  		var ctx = canvas.getContext("2d");
-		ctx.clearRect(0, 0, window.canvas.width, window.canvas.height);
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		window.drawLines = {}
 		window.drawPreLines = {}
 		document.getElementById('questLineDesc').innerHTML = data[0];
 		element.style.width = data[1] + 'px';
 		element.style.height = data[2] + 'px';
-		window.canvas.width = data[1];
-		window.canvas.height = data[2];
+		canvas.width = data[1];
+		canvas.height = data[2];
 		element.innerHTML = ""
 		for (var i = 4; i < data.length; i++) {
 			var id = +data[i++];
@@ -110,12 +112,12 @@ function populateElement(text, eId) {
 			var half = iconSize / 2 + 4;
 			var pre = [main, x + half, y + half];
 			// drawLines{'id': main, centerX, centerY}
-			drawLines[id] = pre;
+			window.drawLines[id] = pre;
 			pre = []
 			for (i; i < data.length; i++) {
 				if (data[i] == 'q' || i == data.length) {
 					// drawPreLines['id': pre[id]]
-					drawPreLines[id] = pre;
+					window.drawPreLines[id] = pre;
 					break;
 				} else {
 					pre.push(+data[i]);
@@ -129,11 +131,21 @@ function populateElement(text, eId) {
 			}
 			element.innerHTML += elementString + '" qid="' + id + '" style="left: ' + x + 'px; top: ' + y + 'px; width: ' + iconSize + 'px; height: ' + iconSize + 'px;"><img class="openQuest max" src="./resources/image/' + icon + '" alt="No Image"></img></div>';
 		}
-		drawPreLines[id] = pre;
+		window.drawPreLines[id] = pre;
+		drawCanvas();
+	} else if (eId == 'questInfo' || eId == 'preQuestInfo') {
+		element.setAttribute('qid', data[0]);
+		element.innerHTML = loadQuestData(data, eId);
+	} else if (eId == 'pinned') {
+		document.getElementById('main').insertAdjacentHTML('beforeend', '<div class="questInfo pinned" qid="' + data[0] + '">' + loadQuestData(data, eId) + '</div>');
+	}
+}
+
+function drawCanvas() {
+	if (Object.keys(drawLines).length > 0) {
+		var ctx = document.getElementById("canvas").getContext("2d");
 		var dl =  window.drawLines;
 		var dpl = window.drawPreLines;
-		// console.log('dl: ', dl);
-		// console.log('dpl: ', dpl);
 		var j = 0;
 		for (var key in dpl) {
 			for (var i in dpl[key]) {
@@ -147,14 +159,9 @@ function populateElement(text, eId) {
 				}
 			}
 		}
-	} else if (eId == 'questInfo' || eId == 'preQuestInfo') {
-		element.setAttribute('qid', data[0]);
-		element.innerHTML = loadQuestData(data, eId);
-	} else if (eId == 'pinned') {
-		document.getElementById('main').innerHTML += '<div class="questInfo pinned" qid="' + data[0] + '">' + loadQuestData(data, eId) + '</div>';
 	}
 }
-		
+
 function drawLine(ctx, x1, y1, x2, y2, color, width) {
 	ctx.beginPath();
 	ctx.lineWidth = width;
@@ -228,7 +235,6 @@ function loadQuestData(data, eId) {
 		}
 	}
 	elementString += ' <div class="text">' + data[6] + '</div></div><div class="half"><div class="tasks"><p>Rewards:</p><div>';
-	var rewardTypes = ['Item', 'Choice', 'Questcompletion', 'XP Levels'];
 	i++;	// jump over 'rewards' string
 	if (data[i] == 'tasks') {
 		elementString += '<p> NONE </p></div>';
@@ -267,7 +273,6 @@ function loadQuestData(data, eId) {
 	var taskNo = 1;
 	var tLogic = data[i++];
 	elementString += '<div class="tasks"><p> Tasks: ' + tLogic + ' </p> ';
-	var taskTypes = ['Retrieval', 'Crafting', 'Checkbox', 'Hunt', 'Optional', 'Location', 'Fluid', 'Consume'];
 	for (; i < data.length; i++) {
 		var type = data[i++];
 		elementString += '<div><p> ' + taskNo++ + '. ' + type + ' Task </p> ';
@@ -395,7 +400,7 @@ window.onclick = function(event) {
 		if (!window.pinnedQuests.has(qid)) {
 			window.pinnedQuests.add(elem.getAttribute('qid'));
 			var copy = elem.innerHTML;
-			document.getElementById('main').innerHTML += '<div class="questInfo pinned" qid="' + qid + '">' + copy.replace('pin">Pin', 'remove">Remove') + '</div>';
+			document.getElementById('main').insertAdjacentHTML('beforeend', '<div class="questInfo pinned" qid="' + qid + '">' + copy.replace('pin">Pin', 'remove">Remove') + '</div>');
 		}
 		populateUrl();
 	}

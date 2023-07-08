@@ -44,5 +44,5 @@ Barnarda C - Habitable Planet (needs no Oxygen Gear/Thermal Padding)
 Barnarda E
 Barnarda F
 Tau Ceti E - Habitable Planet (needs no Oxygen Gear/Thermal Padding)
-Vega BANDpre8101GalacticraftCore/item.spaceship-0.pngrewardstasksANDCheckboxcheckbox-.pngCheckbox
+Vega BANDpre8101GalacticraftCore/item.spaceship-0.pngrewardstasksANDCheckboxother/checkbox-.pngcheckbox
 1

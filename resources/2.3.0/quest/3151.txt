@@ -17,8 +17,8 @@ O -> Overclocked Heat Vent (26 needed)
 R -> Quad Fuel Rod of Thorium (10 needed)
 P -> Reactor Plating (6 needed)
 
-You can make this setup, if you wish, but the only required task to continue to the next quest are 10 single Thorium rods. ANDpre31450IC2/blockGenerator-5.pngrewardstasksANDOptionalIC2/blockGenerator-5.pngNuclear Reactor;Power Output: 1-8196 EU/t max
+You can make this setup, if you wish, but the only required task to continue to the next quest are 10 single Thorium rods. ANDpre31450IC2/blockGenerator-5.pngrewardstasksANDOptionalIC2/blockGenerator-5.pngNuclear Reactor
 1IC2/blockReactorChamber-0.pngReactor Chamber
-6gregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium);100 / 100;Durability: 50,000/50,000
-10Retrievalgregtech/gt.Thoriumcell-0.pngFuel Rod (Thorium);100 / 100;Durability: 50,000/50,000
+6gregtech/gt.Quad_Thoriumcell-0.pngQuad Fuel Rod (Thorium)
+10Retrievalgregtech/gt.Thoriumcell-0.pngFuel Rod (Thorium)
 10

@@ -1,8 +1,8 @@
-263TwilightForest/item.fieryBlood-0.png1A Silverwood Wand at Last32-1I tried to combine the lich bones I had with a silverwood rod. The result: A pile of ashes. It crumbled to dust within seconds. I need a better conductor. The hydra in the Twilight Forest has the ability to regrow an entire head! Her blood must contain a large amount of magic. I guess I need a bit of that to finally complete my silverwood wand.ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemBiomesOPlenty/misc-1.pngLich Bone;It crumbled to dust within seconds...;Burn Time: 400
-1Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+263TwilightForest/item.fieryBlood-0.png1A Silverwood Wand at Last32-1I tried to combine the lich bones I had with a silverwood rod. The result: A pile of ashes. It crumbled to dust within seconds. I need a better conductor. The hydra in the Twilight Forest has the ability to regrow an entire head! Her blood must contain a large amount of magic. I guess I need a bit of that to finally complete my silverwood wand.ANDpre2661gregtech/gt.metaitem.01-27366.pngrewardsItemBiomesOPlenty/misc-1.pngLich Bone
+1Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5tasksANDRetrievalTwilightForest/item.fieryBlood-0.pngFiery Blood
-2Retrievalgregtech/gt.metaitem.01-27367.pngVibrant Alloy Screw;((((Si(FeS\u2082)\u2085(CrAl\u2082O\u2083)Hg\u2083)SiC)FeAg)Au(Ni(AuAgCu\u2083)(Fe\u2085\u2080C)\u2083))((BeK\u2084N\u2085Ma\u2086)(CSMa))Cr
+2Retrievalgregtech/gt.metaitem.01-27367.pngVibrant Alloy Screw
 4

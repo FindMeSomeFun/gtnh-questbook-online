@@ -6,8 +6,8 @@ NOTE: Like all steam machines, the output port doubles as a steam outlet when re
 
 If you try enabling item output, you'll see it comes out the same side as the steam outlet. How unfortunate! However you can still empty the machine by putting a hopper beneath it. 
 
-WARNING: The Alloy Smelter recipes take a lot of steam. Do them one by one until you understand how fast you use steam, and how much you will need buffered. Large pipes are a decent "poor mans" buffer, and the boiler can hold quite a bit of steam, as well as the machine itself. Once you get a little further along, make a larger steam buffer with an iron or steel railcraft tank.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemgregtech/gt.metaitem.01-11300.pngBronze Ingot;SnCu\u2083
+WARNING: The Alloy Smelter recipes take a lot of steam. Do them one by one until you understand how fast you use steam, and how much you will need buffered. Large pipes are a decent "poor mans" buffer, and the boiler can hold quite a bit of steam, as well as the machine itself. Once you get a little further along, make a larger steam buffer with an iron or steel railcraft tank.ANDpre441gregtech/gt.blockmachines-100.pngrewardsItemgregtech/gt.metaitem.01-11300.pngBronze Ingot
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-15tasksANDCraftinggregtech/gt.blockmachines-2.pngBricked Bronze Hull;For your first Steam Machines
-1Craftinggregtech/gt.blockmachines-118.pngSteam Alloy Smelter;Combination Smelter
+15tasksANDCraftinggregtech/gt.blockmachines-2.pngBricked Bronze Hull
+1Craftinggregtech/gt.blockmachines-118.pngSteam Alloy Smelter
 1

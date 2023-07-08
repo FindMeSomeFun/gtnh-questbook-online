@@ -1,6 +1,6 @@
-413AWWayofTime/weakFillingAgent-0.png0Refilling Your Potions37-1If empty, you don't have to throw the potion away. Just refill it.ANDpre4150AWWayofTime/alchemyFlask-0.pngrewardsItemAWWayofTime/standardFillingAgent-0.pngStandard Filling Agent;Used in Alchemy
-1enhancedlootbags/lootbag-16.pngLootBag (BM Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+413AWWayofTime/weakFillingAgent-0.png0Refilling Your Potions37-1If empty, you don't have to throw the potion away. Just refill it.ANDpre4150AWWayofTime/alchemyFlask-0.pngrewardsItemAWWayofTime/standardFillingAgent-0.pngStandard Filling Agent
+1enhancedlootbags/lootbag-16.pngLootBag (BM Novice)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5dreamcraft/item.CoinBloodI-0.pngCoin "The Vampire 10"
-5tasksANDRetrievalAWWayofTime/weakFillingAgent-0.pngWeak Filling Agent;Used in Alchemy
+5tasksANDRetrievalAWWayofTime/weakFillingAgent-0.pngWeak Filling Agent
 1

@@ -1,7 +1,7 @@
-1702gregtech/gt.metaitem.01-2594.png1Potassium Dichromate8-1Potassium Dichromate is made out of Potassium Nitrate and Chromium Trioxide in an HV Chemical Reactor.ANDpre17031gregtech/gt.metaitem.01-2590.png17041gregtech/gt.metaitem.01-2591.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+1702gregtech/gt.metaitem.01-2594.png1Potassium Dichromate8-1Potassium Dichromate is made out of Potassium Nitrate and Chromium Trioxide in an HV Chemical Reactor.ANDpre17031gregtech/gt.metaitem.01-2590.png17041gregtech/gt.metaitem.01-2591.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
 5dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDOptionalgregtech/gt.metaitem.01-2591.pngChromium Trioxide Dust;CrO\u2083
-8gregtech/gt.metaitem.01-2590.pngPotassium Nitrate Dust;KNO\u2083
-10Retrievalgregtech/gt.metaitem.01-2594.pngPotassium Dichromate Dust;K\u2082Cr\u2082O\u2087
+5tasksANDOptionalgregtech/gt.metaitem.01-2591.pngChromium Trioxide Dust
+8gregtech/gt.metaitem.01-2590.pngPotassium Nitrate Dust
+10Retrievalgregtech/gt.metaitem.01-2594.pngPotassium Dichromate Dust
 11

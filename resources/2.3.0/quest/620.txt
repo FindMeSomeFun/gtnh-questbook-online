@@ -1,5 +1,5 @@
 620IC2/itemBatRE-1-charged.png0IC2 Battery4-1A few recipes require IC2 batteries. Fill your small battery hull with some molten redstone and you'll get an RE-Battery.ANDpre6170gregtech/gt.blockmachines-431.pngrewardsItemminecraft/redstone-0.pngRedstone
-32minecraft/bread-0.pngBread;minecraft:bread
+32minecraft/bread-0.pngBread
 4Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 15tasksANDRetrievalIC2/itemBatREDischarged-0.pngRE-Battery
 1

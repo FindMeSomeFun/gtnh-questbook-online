@@ -1,8 +1,8 @@
-348witchery/canesword-0.png0Bloodlust: "Cain" Sword36-1Serves 2 purposes: Style. And... ah, yeah... Something useful for vampires.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/canesword-0.pngCane Sword;Sneak-Use to draw/sheathe.;Siphons blood of kills to an internal;resevoir, use when sheathed to extract.;Blood resevoir: 0;+1 Attack Damage;Durability: 1561/1561
-1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+348witchery/canesword-0.png0Bloodlust: "Cain" Sword36-1Serves 2 purposes: Style. And... ah, yeah... Something useful for vampires.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/canesword-0.pngCane Sword
+1enhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinWitchI-0.pngCoin "Spirit 10"
-5tasksANDHuntmobs/witchery-goblinmog-.pngGoblin Mog
-1Huntmobs/witchery-goblingulg-.pngGoblin Gulg
+5tasksANDHuntwitchery/goblinmog-.pnggoblinmog
+1Huntwitchery/goblingulg-.pnggoblingulg
 1

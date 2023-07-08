@@ -9,5 +9,5 @@ Now do that 5 more times, and you can make yourself a bedrockium drum.
 64k buckets of portable fluid. Perfect for your new Ore drill!
 
 There's also a Bedrockium ore much later on if you're lazy. By then you probably won't want the drums though.ANDpre14740ExtraUtilities/drum-0.pngrewardsItemExtraUtilities/bedrockiumIngot-0.pngBedrockium Ingot
-3tasksANDRetrievalExtraUtilities/drum-1.pngBedrockium Drum;Empty: 0 / 65,536,000
+3tasksANDRetrievalExtraUtilities/drum-1.pngBedrockium Drum
 1

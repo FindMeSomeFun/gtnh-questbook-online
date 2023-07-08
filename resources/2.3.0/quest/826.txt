@@ -1,13 +1,13 @@
 826minecraft/iron_ore-0.png0Iron Ore2-1With iron tools, you are able to mine most of the Overworld ores. You've probably already found iron or magnetite, given how common it is. So bring me some ores and make some iron ingots out of them.
 
 Hint:
-To see where an ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceTConstruct/oreBerries-0.pngIron Oreberry;Sweet Irony;Can be placed on a empty IC2 Crop.
-5minecraft/lava_bucket-0.pngLava Bucket;Burn Time: 20000;You need Gloves for it?
-1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+To see where an ore can be found click the raw ore in nei and it will show you more details. Works with small ores too.ANDpre4741TConstruct/pickaxe-0-225.pngrewardsChoiceTConstruct/oreBerries-0.pngIron Oreberry
+5minecraft/lava_bucket-0.pngLava Bucket
+1enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 1Itemdreamcraft/item.CoinAdventure-0.pngCoin "The Explorer 1"
-5tasksANDRetrievalgregtech/gt.blockores-917.pngBanded Iron Ore;Fe\u2082O\u2083
-16gregtech/gt.blockores-32.pngIron Ore;Fe
-16gregtech/gt.blockores-870.pngMagnetite Ore;Fe\u2083O\u2084
-16gregtech/gt.blockores-931.pngYellow Limonite Ore;FeHO\u2082
-16gregtech/gt.blockores-930.pngBrown Limonite Ore;FeHO\u2082
+5tasksANDRetrievalgregtech/gt.blockores-917.pngBanded Iron Ore
+16gregtech/gt.blockores-32.pngIron Ore
+16gregtech/gt.blockores-870.pngMagnetite Ore
+16gregtech/gt.blockores-931.pngYellow Limonite Ore
+16gregtech/gt.blockores-930.pngBrown Limonite Ore
 16

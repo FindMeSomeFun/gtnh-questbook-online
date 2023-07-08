@@ -1,10 +1,10 @@
 1474ExtraUtilities/drum-0.png0Want to Join a Band?7-1Or at least play with drums? If you have extra Meteoric Iron after building your rocket and making your thermal padding, turn it into Meteoric Steel and use it to make some drums. These drums can hold 256 buckets even after breaking.
 
-And did you know you can use them as cells? Try loading or unloading a supertank!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemExtraUtilities/drum-0.pngDrum;Empty: 0 / 256,000
-2enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
+And did you know you can use them as cells? Try loading or unloading a supertank!ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemExtraUtilities/drum-0.pngDrum
+2enhancedlootbags/lootbag-7-enchanted.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinSmithII-0.pngCoin "Blacksmith 100"
-1tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate;Fe\u2085\u2080C
-12gregtech/gt.metaitem.01-28341.pngMeteoric Steel Ring;SpFe\u2085\u2080C
-4gregtech/gt.blockmachines-5134.pngHuge Steel Fluid Pipe;Fluid Capacity: 19,200 L/sec;Heat Limit: 2,500 K
-2RetrievalExtraUtilities/drum-0.pngDrum;Empty: 0 / 256,000
+1tasksANDOptionalgregtech/gt.metaitem.01-17305.pngSteel Plate
+12gregtech/gt.metaitem.01-28341.pngMeteoric Steel Ring
+4gregtech/gt.blockmachines-5134.pngHuge Steel Fluid Pipe
+2RetrievalExtraUtilities/drum-0.pngDrum
 2

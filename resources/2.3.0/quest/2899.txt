@@ -4,7 +4,7 @@ Flippers allow the player to swim at the same speed as walking. The only problem
 
 If you're doing underwater construction, or digging out some clay or gravel, you may find them useful.ANDpre131minecraft/bed-0.png29000BiomesOPlenty/flippers-0.pngrewardsChoiceminecraft/waterlily-0.pngLily Pad
 16minecraft/dye-0.pngInk Sac
-16enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-1.pngLootBag (Basic Stone Age)
 1Itemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-2tasksANDRetrievalBiomesOPlenty/flippers-0.pngFlippers;Protection: 0
+2tasksANDRetrievalBiomesOPlenty/flippers-0.pngFlippers
 1

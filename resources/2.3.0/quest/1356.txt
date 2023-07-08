@@ -1,6 +1,6 @@
 1356EMT/itemArmorQuantumChestplate-1-charged.png0Angel Wings - Combine!14-1The last step is to combine the quantum armor with your quantum wings.ANDpre31430IC2/itemArmorQuantumChestplate-1-charged.pngrewardsItemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2Itemenhancedlootbags/lootbag-12-enchanted.pngLootBag (Magic Grandmaster);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1enhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV);Your luck is increased by 100 %;Fortune III;Enchant with a Fortune III Book
-1tasksANDRetrievalEMT/itemArmorQuantumChestplate-27.pngInfused Quantum Chestplate;Power Tier: 4;Durability: 0 / 27;Provides SpaceSuit capability.;Provides full hazmat protection.;Protection: 8;Durability: 0/27
+2Itemenhancedlootbags/lootbag-12-enchanted.pngLootBag (Magic Grandmaster)
+1enhancedlootbags/lootbag-8-enchanted.pngLootBag (Tier 5 IV)
+1tasksANDRetrievalEMT/itemArmorQuantumChestplate-27.pngInfused Quantum Chestplate
 1

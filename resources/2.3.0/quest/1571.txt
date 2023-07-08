@@ -3,7 +3,7 @@
 One or two ingredients are distilled together and will result in up to four resulting materials. A supply of clay jars is also needed to capture the some or all of the distillates.
 
 A distillery is crafted using Iron Ingots, Gold Ingots, an Attuned Stone and Clay jars.ANDpre3350witchery/spinningwheel-0.pngrewardsItemwitchery/ingredient-27.pngClay Jar
-64enhancedlootbags/lootbag-54.pngLootBag (Witchery Master);You feel that a bit more "Fortune" might be a good idea...
+64enhancedlootbags/lootbag-54.pngLootBag (Witchery Master)
 1Itemdreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 1dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
 1tasksANDRetrievalwitchery/distilleryidle-0.pngDistillery

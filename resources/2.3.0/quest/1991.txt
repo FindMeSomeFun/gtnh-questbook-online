@@ -4,6 +4,6 @@ Type in the text box to set a label or to searched stored labels - click any sto
 
 Left click to set labels, right click to open the gui. Setting a blank label will remove any existing labels.
 
-May or may not be buggy. Will lose the label in MP when relogging, but works fine in SP. It'll still work until you need to change it though. Have fun!ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDRetrievalStevesAddons/labeler-0.pngFactory Labeler;Clear Label
+May or may not be buggy. Will lose the label in MP when relogging, but works fine in SP. It'll still work until you need to change it though. Have fun!ANDpre19890StevesFactoryManager/BlockMachineManagerName-0.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
+1tasksANDRetrievalStevesAddons/labeler-0.pngFactory Labeler
 1

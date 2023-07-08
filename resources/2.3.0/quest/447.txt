@@ -1,3 +1,3 @@
-447enhancedlootbags/lootbag-8.png0HV > EV Lootbag Trade410Trade three HV lootbags to get a better one: EV.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1tasksANDConsumeenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+447enhancedlootbags/lootbag-8.png0HV > EV Lootbag Trade410Trade three HV lootbags to get a better one: EV.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItemenhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
+1tasksANDConsumeenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 3

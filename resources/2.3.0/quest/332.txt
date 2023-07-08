@@ -8,8 +8,8 @@ Upgrading an Oven
 
 An oven can be upgraded by placing either a Fume Funnel or a Filtered Fume Funnel to the left and right of it. Each Fume Funnel will increase the cooking speed by and additional 10 percent (over a furnace) and increase the chance of a by-product being produced by and additional 25 percent for a Fume Funnel or 30 percent for a Filtered Fume Funnel.
 
-A fully upgraded oven will therefore cook at 130 percent speed (compared to a furnace) and have a chance of a by-product of 90 percent.ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemenhancedlootbags/lootbag-52.pngLootBag (Witchery Novice);You feel that a bit more "Fortune" might be a good idea...
-1minecraft/sapling-2.pngBirch Sapling;Burn Time: 100
+A fully upgraded oven will therefore cook at 130 percent speed (compared to a furnace) and have a chance of a by-product of 90 percent.ANDpre2411Thaumcraft/blockMetalDevice-0.pngrewardsItemenhancedlootbags/lootbag-52.pngLootBag (Witchery Novice)
+1minecraft/sapling-2.pngBirch Sapling
 30Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 25dreamcraft/item.CoinWitch-0.pngCoin "Spirit 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"

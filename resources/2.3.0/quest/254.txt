@@ -1,6 +1,6 @@
 254Thaumcraft/blockMetalDevice-1.png1Essentia Filtering31-1This nifty little device will filter essentia out of an Alchemical Crucible or Alchemical Boiler. Once it has received a single unit of any type, it will only accept this type until it is completely empty. You can place more than one on top of an alchemical furnace, and you should. Try to have one per essentia type in the item you're melting on a furnace.
 
-You should lock the type with a Label, or every time it fills again, it's likely to be a different type, and gum up your pipes.ANDpre2551Thaumcraft/ItemResource-1.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+You should lock the type with a Label, or every time it fills again, it's likely to be a different type, and gum up your pipes.ANDpre2551Thaumcraft/ItemResource-1.pngrewardsItemenhancedlootbags/lootbag-9.pngLootBag (Magic Novice)
 1Itemdreamcraft/item.CoinCook-0.pngCoin "The Cook 1"
 25dreamcraft/item.CoinDarkWizard-0.pngCoin "The Dark Wizard 1"
 25tasksANDRetrievalThaumcraft/blockMetalDevice-1.pngArcane Alembic

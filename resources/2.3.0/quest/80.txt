@@ -1,9 +1,9 @@
 80gregtech/gt.blockmachines-1001.png1Compress All the Things17-1Martin's (DreamMasterXXL) favourite machine. Compress ALL the things! With explosives, of course. Boom today!
 
-Note: You might want to put this far from your living quarters, the pollution can get high really fast.ANDpre8381IC2/itemPartCircuitAdv-0.png11481gregtech/gt.blockmachines-12.pngrewardsChoiceExtraUtilities/cobblestone_compressed-3.pngQuadruple Compressed Cobblestone;6,561 Cobblestone
-1ExtraUtilities/cobblestone_compressed-11.pngQuadruple Compressed Dirt;6,561 Dirt
-1IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond;Burn Time: 102400
+Note: You might want to put this far from your living quarters, the pollution can get high really fast.ANDpre8381IC2/itemPartCircuitAdv-0.png11481gregtech/gt.blockmachines-12.pngrewardsChoiceExtraUtilities/cobblestone_compressed-3.pngQuadruple Compressed Cobblestone
+1ExtraUtilities/cobblestone_compressed-11.pngQuadruple Compressed Dirt
+1IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond
 2Itemdreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.blockmachines-1001.pngImplosion Compressor;Machine Type: Implosion Compressor;Explosions are fun;Controller block for the Implosion Compressor;Causes: 10000 pollution per second;-----------------------------------------;Hold [LSHIFT] to display structure guidelines;Added by: Gregtech
-1Optionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing;Mobs cannot Spawn on this Block;This is NOT a TileEntity!
+5tasksANDRetrievalgregtech/gt.blockmachines-1001.pngImplosion Compressor
+1Optionalgregtech/gt.blockcasings2-0.pngSolid Steel Machine Casing
 20

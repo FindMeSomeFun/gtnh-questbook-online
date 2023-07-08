@@ -1,6 +1,6 @@
 2304bartworks/gt.bwMetaGeneratedcellMolten-59.png1Platinum Group Processing - All the Other Metals8-1If you've been processing Platinum, you should have a lot of Platinum Residue Dust lying around. 
 
 Now you can finally process it and gain all the rest of the delicious rare metals from it. But to do so, we'll need some to make Potassium Disulfate, and then fluid extract it to get the molten version beforehand.ANDpre16961gregtech/gt.blockmachines-425.pngrewardsItemdreamcraft/item.CoinChemistII-0.pngCoin "The Chemist 100"
-5tasksANDOptionalbartworks/gt.bwMetaGenerateddust-59.pngPotassium Disulfate Dust;K\u2082S\u2082O\u2087;Added by BartWorks
-88Retrievalbartworks/gt.bwMetaGeneratedcellMolten-59.pngMolten Potassium Disulfate Cell;K\u2082S\u2082O\u2087;Added by BartWorks
+5tasksANDOptionalbartworks/gt.bwMetaGenerateddust-59.pngPotassium Disulfate Dust
+88Retrievalbartworks/gt.bwMetaGeneratedcellMolten-59.pngMolten Potassium Disulfate Cell
 78

@@ -1,5 +1,5 @@
-1391ThaumicTinkerer/focusXPDrain-0.png0Wand Focus Experience Drain34-1Wand Focus: Experience Drain will drain the player's experience at a rate of 15 xp per tick, restoring vis at a rather fast rate.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1Thaumcraft/ItemLootBag-2.pngRare Treasure;Click to open or keep to trade
+1391ThaumicTinkerer/focusXPDrain-0.png0Wand Focus Experience Drain34-1Wand Focus: Experience Drain will drain the player's experience at a rate of 15 xp per tick, restoring vis at a rather fast rate.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsItemenhancedlootbags/lootbag-11.pngLootBag (Magic Master)
+1Thaumcraft/ItemLootBag-2.pngRare Treasure
 2Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-5tasksANDRetrievalThaumicTinkerer/focusXPDrain-0.pngWand Focus: Experience Drain;Vis per tick; Experience x 15
+5tasksANDRetrievalThaumicTinkerer/focusXPDrain-0.pngWand Focus: Experience Drain
 1

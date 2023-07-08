@@ -1,11 +1,11 @@
-290Thaumcraft/ItemHelmetFortress-0.png0Improved Armor: Samurai Style31-1Time to get some decent armor. With this, those infernal monsters won't be as much of a pain as they are now.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book;Repair II;Hold the Sneak key for Enchantment Description
-1minecraft/enchanted_book-0.pngEnchanted Book;Unbreaking IV;Hold the Sneak key for Enchantment Description
-1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+290Thaumcraft/ItemHelmetFortress-0.png0Improved Armor: Samurai Style31-1Time to get some decent armor. With this, those infernal monsters won't be as much of a pain as they are now.ANDpre2381Thaumcraft/blockCosmeticSolid-7.pngrewardsChoiceminecraft/enchanted_book-0.pngEnchanted Book
+1minecraft/enchanted_book-0.pngEnchanted Book
+1enhancedlootbags/lootbag-10.pngLootBag (Magic Adept)
 1Itemdreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5dreamcraft/item.CoinSmithI-0.pngCoin "Blacksmith 10"
 5dreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDRetrievalThaumcraft/ItemHelmetFortress-0.pngThaumium Fortress Helm;Protection: 3;Durability: 440/440
-1Thaumcraft/ItemChestplateFortress-0.pngThaumium Fortress Cuirass;Protection: 7;Durability: 640/640
-1Thaumcraft/ItemLeggingsFortress-0.pngThaumium Fortress Thigh Guards;Protection: 6;Durability: 600/600
-1Thaumcraft/BootsTraveller-0.pngBoots of the Traveler;Protection: 1;Durability: 350/350
+5tasksANDRetrievalThaumcraft/ItemHelmetFortress-0.pngThaumium Fortress Helm
+1Thaumcraft/ItemChestplateFortress-0.pngThaumium Fortress Cuirass
+1Thaumcraft/ItemLeggingsFortress-0.pngThaumium Fortress Thigh Guards
+1Thaumcraft/BootsTraveller-0.pngBoots of the Traveler
 1

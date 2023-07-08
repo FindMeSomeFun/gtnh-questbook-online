@@ -3,8 +3,8 @@
 You can use 2 Chlorine and 1 Methane per Chloromethane in your chemical reactor. Alternatively you can use Methanol and Hydrochloric Acid.
 
 There are different ways to do it and this quest is only an example of how you can make it.
-ANDpre9431gregtech/gt.blockmachines-423.pngrewardsChoicegregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell;HCl
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+ANDpre9431gregtech/gt.blockmachines-423.pngrewardsChoicegregtech/gt.metaitem.01-30683.pngHydrochloric Acid Cell
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30664.pngChloromethane Cell;CH\u2083Cl
+5tasksANDRetrievalgregtech/gt.metaitem.01-30664.pngChloromethane Cell
 42

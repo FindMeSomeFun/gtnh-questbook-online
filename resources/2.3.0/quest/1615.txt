@@ -3,7 +3,7 @@
 I'll show you a way you can get it. You'll need an Oil Cracker and a Distillation Tower. There are different ways to do it and this quest is only an example of how you can make it.
 
 The first step is to crack your Naphtha with steam.ANDpre9431gregtech/gt.blockmachines-423.pngrewardsChoicegregtech/gt.metaitem.01-30707.pngOil Cell
-16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1Itemdreamcraft/item.CoinChemistI-0.pngCoin "The Chemist 10"
 5tasksANDOptionalgregtech/gt.metaitem.01-30739.pngNaphtha Cell
 20IC2/itemCellEmpty-14.pngSteam Cell

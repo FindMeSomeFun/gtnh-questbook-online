@@ -1,4 +1,4 @@
 2096Genetics/machine-0.png0Isolator28-1The Isolator acts in a similar way to the Genepool, but does not completely destroy genes. It instead allows the isolation of a single gene from an organism, without destroying it. The exact gene is random, and is written into an Blank Sequence. Until the sequence is analysed in an Analyser, it will be unknown what the gene is. It doesn't however need to be analysed before being sent to the Sequencer.ANDpre20950Genetics/labMachine-3.pngrewardsItemGenetics/misc-5.pngBlank Sequence
-16enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+16enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced)
 1tasksANDRetrievalGenetics/machine-0.pngIsolator
 1

@@ -1,10 +1,10 @@
 2703dreamcraft/item.ExtraLargeFuelCanister-0.png1Extra Large Fuel Canisters24-1Every rocket needs fuel storage canisters. For the tier 7 rocket you need to craft two large and two extra large canisters.ANDpre26411dreamcraft/item.HeavyDutyPlateTier7-0.pngrewardsChoicedreamcraft/item.MysteriousCrystalCompressedPlate-0.pngCompressed Mysterious Crystal Plate
 4dreamcraft/item.MytrylCompressedPlate-0.pngCompressed Mytryl Plate
-4enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV);You feel that a bit more "Fortune" might be a good idea...
+4enhancedlootbags/lootbag-43.pngLootBag (Tier 8 UV)
 1Itemdreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionaldreamcraft/item.LargeFuelCanister-0.pngLarge Fuel Canister
 4dreamcraft/item.MytrylDualCompressedPlates-0.pngCompressed Dual Mytryl Plates
 2dreamcraft/item.MysteriousCrystalDualCompressedPlates-0.pngCompressed Dual Mysterious Crystal Plates
-2gregtech/gt.metaitem.01-27084.pngIridium Screw;Ir
+2gregtech/gt.metaitem.01-27084.pngIridium Screw
 8Retrievaldreamcraft/item.ExtraLargeFuelCanister-0.pngExtra Large Fuel Canister
 2

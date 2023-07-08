@@ -4,12 +4,12 @@ The villager are too dumb that they spent all their seared bricks without adding
 
 Totally not useful tip: if you hold off building this long enough, you will be able to break down seared brick blocks into seared brick items with a forge hammer or extractor.
 
-Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.XORpre181minecraft/stone-0.png30310minecraft/wooden_shovel-0.pngrewardstasksANDRetrievalTConstruct/SearedBlock-1.pngSeared Faucet;This Smeltery is leaking;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-2TConstruct/LavaTank-0.pngSeared Tank;Heart of the Smeltery;Keeps any fluids it has when harvested;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1TConstruct/Smeltery-0.pngSmeltery Controller;Brain of the Smeltery;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1TConstruct/CastingChannel-0.pngCasting Channel;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-2TConstruct/SearedBlock-0.pngCasting Table;Basic Smeltery equipment;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1TConstruct/SearedBlock-2.pngCasting Basin;For the ambitious Smeltery;Some metals processed in smeltery don't meet; the purity requirement for GregTech processing.
-1TConstruct/Smeltery-1.pngSmeltery Drain;Works both as input and output for;fluids in the Smeltery
-2Checkboxcheckbox-.pngCheckbox
+Unfortunately, going down this path means we will not give you quest rewards, since you are already getting this important multiblock for free. Check the checkbox to signify your consent.XORpre181minecraft/stone-0.png30310minecraft/wooden_shovel-0.pngrewardstasksANDRetrievalTConstruct/SearedBlock-1.pngSeared Faucet
+2TConstruct/LavaTank-0.pngSeared Tank
+1TConstruct/Smeltery-0.pngSmeltery Controller
+1TConstruct/CastingChannel-0.pngCasting Channel
+2TConstruct/SearedBlock-0.pngCasting Table
+1TConstruct/SearedBlock-2.pngCasting Basin
+1TConstruct/Smeltery-1.pngSmeltery Drain
+2Checkboxother/checkbox-.pngcheckbox
 1

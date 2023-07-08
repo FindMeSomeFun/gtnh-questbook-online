@@ -1,10 +1,10 @@
-2724GalacticraftCore/item.oxygenTankUltraHeavyFull-0.png0Ultra Large Oxygen Tanks24-1The Ultra Heavy oxygen tank is an oxygen storage tank that can hold up to 16000 units of air.ANDpre15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
-64gregtech/gt.metaitem.01-17868.pngTrinium Plate;Ke
+2724GalacticraftCore/item.oxygenTankUltraHeavyFull-0.png0Ultra Large Oxygen Tanks24-1The Ultra Heavy oxygen tank is an oxygen storage tank that can hold up to 16000 units of air.ANDpre15351GalaxySpace/item.Tier4Rocket-0.pngrewardsChoiceGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe
+64gregtech/gt.metaitem.01-17868.pngTrinium Plate
 16dreamcraft/item.WaferTier3-0.pngWafer Tier 3
-8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV);You feel that a bit more "Fortune" might be a good idea...
+8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-1tasksANDOptionalGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe;Glass-Tier: HV
-2gregtech/gt.metaitem.01-19868.pngTriple Trinium Plate;Ke
-14gregtech/gt.metaitem.01-32412.pngLarge Osmium Fluid Cell;No Fluids Contained;0L / 32,768,000L
-2RetrievalGalacticraftCore/item.oxygenTankUltraHeavyFull-5000.pngUltra Heavy Oxygen Tank;Oxygen Remaining: 11000;Durability: 11000 / 16000
+1tasksANDOptionalGalacticraftCore/tile.oxygenPipe-0.pngOxygen Pipe
+2gregtech/gt.metaitem.01-19868.pngTriple Trinium Plate
+14gregtech/gt.metaitem.01-32412.pngLarge Osmium Fluid Cell
+2RetrievalGalacticraftCore/item.oxygenTankUltraHeavyFull-5000.pngUltra Heavy Oxygen Tank
 2

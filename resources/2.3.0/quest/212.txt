@@ -4,7 +4,7 @@ For Tungstate, you can centrifuge previously macerated moon dust, macerate end s
 
 If you want to make your rocket, you need to get at least a little before you can get to a planet with the ore. However, keep in mind that you'll need an EBF with TPV Coils to smelt Tungstensteel Dust into the ingot!
 
-Do one of the tasks.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItembartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust;??PtPdIrOsRhRu??;Added by BartWorks
+Do one of the tasks.ANDpre1761gregtech/gt.blockmachines-14.pngrewardsItembartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust
 8gregtech/gt.metaitem.98-4.pngEnder Goo Cell
 8Itemdreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 1tasksORRetrievaldreamcraft/item.MoonStoneDust-0.pngMoon Stone Dust

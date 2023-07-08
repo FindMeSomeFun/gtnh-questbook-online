@@ -1,6 +1,6 @@
-133EnderIO/blockTravelAnchor-0.png0The Power of Endermen6-1Elevators are nice, but they're limited to vertical teleportation, and their range is also highly limited. Travel anchors don't have a limitation on angle, you can teleport from one anchor to any other within 128 blocks. You do this by looking at the anchor you wish to travel to and pressing the shift button. You can also name them and even set them as private if you like. They have a 2s cooldown.ANDpre1290EnderIO/itemMachinePart-0.png18710gregtech/gt.metaitem.01-32670.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
-1EnderIO/blockTravelAnchor-0.pngTravel Anchor;Cooldown 2 seconds
+133EnderIO/blockTravelAnchor-0.png0The Power of Endermen6-1Elevators are nice, but they're limited to vertical teleportation, and their range is also highly limited. Travel anchors don't have a limitation on angle, you can teleport from one anchor to any other within 128 blocks. You do this by looking at the anchor you wish to travel to and pressing the shift button. You can also name them and even set them as private if you like. They have a 2s cooldown.ANDpre1290EnderIO/itemMachinePart-0.png18710gregtech/gt.metaitem.01-32670.pngrewardsChoiceenhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
+1EnderIO/blockTravelAnchor-0.pngTravel Anchor
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalEnderIO/blockTravelAnchor-0.pngTravel Anchor;Cooldown 2 seconds
+5tasksANDRetrievalEnderIO/blockTravelAnchor-0.pngTravel Anchor
 1

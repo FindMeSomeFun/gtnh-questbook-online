@@ -1,11 +1,11 @@
 1442Railcraft/armor.steel.plate-0.png0Compressed Steel Armor14-1The compressed steel armor has more durability than the steel armor.ANDpre801gregtech/gt.blockmachines-1001.png6920IC2/itemArmorAlloyChestplate-0.pngrewardsChoiceminecraft/tnt-0.pngTNT
 16GalacticraftCore/item.basicItem-9.pngCompressed Steel
-4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+4enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
 25tasksANDOptionalGalacticraftCore/item.basicItem-9.pngCompressed Steel
-24CraftingGalacticraftCore/item.steel_helmet-0.pngHeavy Duty Helmet;Protection: 3;Durability: 330/330
-1GalacticraftCore/item.steel_chestplate-0.pngHeavy Duty Chestplate;Protection: 8;Durability: 480/480
-1GalacticraftCore/item.steel_leggings-0.pngHeavy Duty Leggings;Protection: 6;Durability: 450/450
-1GalacticraftCore/item.steel_boots-0.pngHeavy Duty Boots;Protection: 3;Durability: 390/390
+24CraftingGalacticraftCore/item.steel_helmet-0.pngHeavy Duty Helmet
+1GalacticraftCore/item.steel_chestplate-0.pngHeavy Duty Chestplate
+1GalacticraftCore/item.steel_leggings-0.pngHeavy Duty Leggings
+1GalacticraftCore/item.steel_boots-0.pngHeavy Duty Boots
 1

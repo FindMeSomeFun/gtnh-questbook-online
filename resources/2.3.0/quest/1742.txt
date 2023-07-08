@@ -2,14 +2,14 @@
 
 Salt water is also available in smaller quantities. you can get chlorine out of it. You will want plenty of chlorine for processing Rutile to get Titanium. 
 
-There are more planets and moons with gas and fluids underneath the surface. Bring along a multiblock fluid drill to recover these fluids.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+There are more planets and moons with gas and fluids underneath the surface. Bring along a multiblock fluid drill to recover these fluids.ANDpre8101GalacticraftCore/item.spaceship-0.pngrewardsChoiceenhancedlootbags/lootbag-6.pngLootBag (Tier 3 HV)
 1EnderIO/blockTank-1.pngPressurized Fluid Tank
-4gregtech/gt.metaitem.01-32708.pngData Stick;A Low Capacity Data Storage
+4gregtech/gt.metaitem.01-32708.pngData Stick
 4gregtech/gt.blockreinforced-5.pngPowderbarrel
-64gregtech/gt.metaitem.01-17306.pngStainless Steel Plate;Fe\u2086CrMnNi
+64gregtech/gt.metaitem.01-17306.pngStainless Steel Plate
 16Itemdreamcraft/item.CoinSpaceI-0.pngCoin "The Space Invaders 10"
 5dreamcraft/item.CoinAdventureI-0.pngCoin "The Explorer 10"
 5dreamcraft/item.CoinTechnicianI-0.pngCoin "The Technician 10"
-5tasksANDRetrievalgregtech/gt.metaitem.01-30005.pngHelium-3 Cell;He-3
+5tasksANDRetrievalgregtech/gt.metaitem.01-30005.pngHelium-3 Cell
 64gregtech/gt.metaitem.01-30692.pngSalt Water Cell
 64

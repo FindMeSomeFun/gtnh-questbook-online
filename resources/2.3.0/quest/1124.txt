@@ -1,13 +1,13 @@
 1124JABBA/upgradeStructural-0.png0Barrel Upgrades3-1Are your cobblestone or dirt barrels filled to the brim? No problem, upgrade them!ANDpre541gregtech/gt.blockmachines-115.png761gregtech/gt.blockmachines-140.pngrewardsChoiceminecraft/piston-0.pngPiston
 2JABBA/barrel-0.pngBetter Barrel
-5enhancedlootbags/lootbag-2.pngLootBag (Steam Age);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+5enhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
 10tasksANDOptionalJABBA/barrel-0.pngBetter Barrel
-1gregtech/gt.metaitem.01-17809.pngWood Plank;Burn Time: 1600
-4minecraft/stick-0.pngStick;Burn Time: 100
-4RetrievalJABBA/upgradeStructural-0.pngStructural MK I (Oak Wood Planks);Slots Provided :1
+1gregtech/gt.metaitem.01-17809.pngWood Plank
+4minecraft/stick-0.pngStick
+4RetrievalJABBA/upgradeStructural-0.pngStructural MK I (Oak Wood Planks)
 1OptionalJABBA/barrel-0.pngBetter Barrel
 1minecraft/piston-0.pngPiston
-1gregtech/gt.metaitem.01-27305.pngSteel Screw;Fe\u2085\u2080C
-4RetrievalJABBA/upgradeCore-0.pngStorage upgrade;Slots Used :1;Increases the storage capacity by 64 stacks
+1gregtech/gt.metaitem.01-27305.pngSteel Screw
+4RetrievalJABBA/upgradeCore-0.pngStorage upgrade
 1

@@ -1,5 +1,5 @@
 3225TwilightForest/item.magicMap-0.png0Pollination buddies35-1Some flowers are everywhere, and some are limited to specific biomes. If you don't want to walk long distances from home, you can call in some help.
 
 Bees with the flower trait will slowly generate new flowers in its working are, including plenty that have been brought in from distant pastures.ANDpre32211Botania/altar-0.pngrewardsItemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
-5tasksANDRetrievalForestry/beeQueenGE-0-Meadows.pngMeadows Queen;Pristine Stock
+5tasksANDRetrievalForestry/beeQueenGE-0-Meadows.pngMeadows Queen
 1

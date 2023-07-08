@@ -2,7 +2,7 @@
 
 PS: You can get Nq+ from both centrifuging Nq dust or processing the ore.
 
-And why are they Naquadah rods when they're made of Enriched Naquadah?ANDpre1910gregtech/gt.reactorUraniumSimple-0.png16671gregtech/gt.metaitem.01-11324.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+And why are they Naquadah rods when they're made of Enriched Naquadah?ANDpre1910gregtech/gt.reactorUraniumSimple-0.png16671gregtech/gt.metaitem.01-11324.pngrewardsItemenhancedlootbags/lootbag-8.pngLootBag (Tier 5 IV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDRetrievalgregtech/gt.Naquadahcell-0.pngFuel Rod (Naquadah);100 / 100;Durability: 100,000/100,000
+5tasksANDRetrievalgregtech/gt.Naquadahcell-0.pngFuel Rod (Naquadah)
 1

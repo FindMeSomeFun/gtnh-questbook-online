@@ -1,13 +1,13 @@
-936gregtech/gt.metaitem.01-32752.png0Power of the Sun at LV Level19-1The next solar panel you can make is the LV one. It generates 32 EU/t. You'll need to make some sunnarium first though.ANDpre9340gregtech/gt.metaitem.01-32751.png30780minecraft/nether_star-0.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-2IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond;Burn Time: 102400
-2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV);You feel that a bit more "Fortune" might be a good idea...;Enchant with a Fortune III Book
+936gregtech/gt.metaitem.01-32752.png0Power of the Sun at LV Level19-1The next solar panel you can make is the LV one. It generates 32 EU/t. You'll need to make some sunnarium first though.ANDpre9340gregtech/gt.metaitem.01-32751.png30780minecraft/nether_star-0.pngrewardsChoicegregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer
+2IC2/itemPartIndustrialDiamond-0.pngIndustrial Diamond
+2enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
 1tasksANDOptionalAdvancedSolarPanel/asp_crafting_items-9.pngSunnarium Piece
-2Optionalgregtech/gt.metaitem.01-32751.pngSolar Panel (8V);8 Volt Solar Panel (Needs cleaning with right click)
-1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer;Raw Circuit
-4gregtech/gt.metaitem.01-17473.pngPolytetrafluoroethylene Sheet;C\u2082F\u2084
-2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit;HV-tier
+2Optionalgregtech/gt.metaitem.01-32751.pngSolar Panel (8V)
+1gregtech/gt.metaitem.03-32034.pngPhosphorus doped Wafer
+4gregtech/gt.metaitem.01-17473.pngPolytetrafluoroethylene Sheet
+2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit
 2dreamcraft/item.IrradiantReinforcedAluminiumPlate-0.pngIrradiant Reinforced Aluminium Plate
-2gregtech/gt.blockmachines-2320.png1x Superconductor MV Wire;Max Voltage: 128 (MV);Max Amperage: 4;Loss/Meter/Ampere: 0 EU-Volt
-4Retrievalgregtech/gt.metaitem.01-32752.pngSolar Panel (LV);Low Voltage Solar Panel (Needs cleaning with right click)
+2gregtech/gt.blockmachines-2320.png1x Superconductor MV Wire
+4Retrievalgregtech/gt.metaitem.01-32752.pngSolar Panel (LV)
 1

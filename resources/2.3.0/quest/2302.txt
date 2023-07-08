@@ -1,6 +1,6 @@
 2302bartworks/gt.bwMetaGenerateddust-46.png1Back to Step 17-1The Refined Platinum Salt can be heated to evaporate the last remaining impurities. Now you are left with PMP again, which you can use back in the first step again.
 
-Add an output hatch to the bottom layer of your EBF to capture the Chlorine for reuse.ANDpre22981bartworks/gt.bwMetaGenerateddust-45.png23001bartworks/gt.bwMetaGeneratedcell-48.pngrewardsItemgregtech/gt.metaitem.01-32477.pngPlatinum Lighter (Empty);A known Prank Master is engraved on it
-1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-46.pngRefined Platinum Salt Dust;Added by BartWorks
-1Retrievalbartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust;??PtPdIrOsRhRu??;Added by BartWorks
+Add an output hatch to the bottom layer of your EBF to capture the Chlorine for reuse.ANDpre22981bartworks/gt.bwMetaGenerateddust-45.png23001bartworks/gt.bwMetaGeneratedcell-48.pngrewardsItemgregtech/gt.metaitem.01-32477.pngPlatinum Lighter (Empty)
+1tasksANDOptionalbartworks/gt.bwMetaGenerateddust-46.pngRefined Platinum Salt Dust
+1Retrievalbartworks/gt.bwMetaGenerateddust-47.pngPlatinum Metallic Powder Dust
 1

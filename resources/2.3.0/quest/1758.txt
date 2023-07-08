@@ -2,11 +2,11 @@
 
 Your BIOS go onto these little disks,  get me a blank and I'll write the basic BIOS onto it for you.
 
-You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/eeprom-0.pngEEPROM (Lua BIOS);Hold [NONE] for material costs.
-1miscutils/itemGenericToken-0.pngBitCoin;Can be reclaimed in some way, shape or form;Can be used on the dark web
-1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board;A good Board
+You can do this later when you make more computers by flashing your existing BIOS onto new cards or combining a blank with the manual.ANDpre17450OpenComputers/item-48.pngrewardsItemOpenComputers/eeprom-0.pngEEPROM (Lua BIOS)
+1miscutils/itemGenericToken-0.pngBitCoin
+1tasksANDOptionalgregtech/gt.metaitem.03-32106.pngPlastic Circuit Board
 1OpenComputers/item-24.pngMicrochip (Tier 1)
-1gregtech/gt.metaitem.01-32717.pngTransistor;Basic Electronic Component
-6gregtech/gt.metaitem.01-29086.pngGold Foil;Au
-1ConsumeOpenComputers/eeprom-0.pngEEPROM;Hold [NONE] for material costs.
+1gregtech/gt.metaitem.01-32717.pngTransistor
+6gregtech/gt.metaitem.01-29086.pngGold Foil
+1ConsumeOpenComputers/eeprom-0.pngEEPROM
 1

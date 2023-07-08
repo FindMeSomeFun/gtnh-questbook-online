@@ -1,7 +1,7 @@
 237Thaumcraft/WandCasting-9.png1"Stores 50 Vis" Wand31-1Now combine your new wand, and be more powerful than before! You have a feeling that this new wand will come in handy very soon™.
 
 Make sure you use the NEI 'U' command on the gold caps to find the correct GT:NH recipe for the wand.ANDpre7981Thaumcraft/WandCap-0.pngrewardsItemminecraft/spawn_egg-95.pngSpawn Wolf
-4Thaumcraft/ItemLootBag-1.pngUncommon Treasure;Click to open or keep to trade
+4Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDCheckboxcheckbox-.pngCheckbox
+5tasksANDCheckboxother/checkbox-.pngcheckbox
 1

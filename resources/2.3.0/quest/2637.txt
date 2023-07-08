@@ -1,6 +1,6 @@
-2637gregtech/gt.metaitem.03-32085.png0Cheaper EV Circuits10-1With a higher voltage, you can use your ASoCs to make cheaper Quantumprocessors.ANDpre16850gregtech/gt.metaitem.03-32049.png26271gregtech/gt.blockmachines-47.pngrewardstasksANDOptionalbartworks/gt.bwMetaGeneratedItem0-32754.pngWrap of More Advanced Circuit Boards;A more advanced Circuit Board;Added by BartWorks
-4bartworks/gt.bwMetaGeneratedItem0-32730.pngWrap of ASoCs;Advanced System on a Chip;Added by BartWorks
-4gregtech/gt.blockmachines-1642.png4x Platinum Wire;Max Voltage: 8,192 (IV);Max Amperage: 8;Loss/Meter/Ampere: 2 EU-Volt
-64gregtech/gt.metaitem.01-26360.pngNiobium-Titanium Bolt;NbTi
-256Retrievalgregtech/gt.metaitem.03-32085.pngQuantumprocessor;An Extreme Circuit;EV-Tier
+2637gregtech/gt.metaitem.03-32085.png0Cheaper EV Circuits10-1With a higher voltage, you can use your ASoCs to make cheaper Quantumprocessors.ANDpre16850gregtech/gt.metaitem.03-32049.png26271gregtech/gt.blockmachines-47.pngrewardstasksANDOptionalbartworks/gt.bwMetaGeneratedItem0-32754.pngWrap of More Advanced Circuit Boards
+4bartworks/gt.bwMetaGeneratedItem0-32730.pngWrap of ASoCs
+4gregtech/gt.blockmachines-1642.png4x Platinum Wire
+64gregtech/gt.metaitem.01-26360.pngNiobium-Titanium Bolt
+256Retrievalgregtech/gt.metaitem.03-32085.pngQuantumprocessor
 64
