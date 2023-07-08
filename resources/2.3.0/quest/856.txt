@@ -7,5 +7,5 @@
 2gregtech/gt.metaitem.01-30001.pngHydrogen Cell
 4miscutils/item.BasicGenericChemItem-13.pngFormaldehyde Catalyst
 1Optionalgregtech/gt.metaitem.01-30654.png1,1-Dimethylhydrazine Cell
-2Checkboxother/checkbox-.pngcheckbox
+2Checkboxother/checkbox-.pngCheckbox
 1

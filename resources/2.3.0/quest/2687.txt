@@ -4,5 +4,5 @@ Look up recipe for CN3H7O3 to properly see recipe for Monomethylhydrazine.ANDp
 4miscutils/Hydrazine-0.pngHydrazine Cell
 2gregtech/gt.metaitem.01-2010.pngCarbon Dust
 2Optionalmiscutils/Monomethylhydrazine-0.pngMonomethylhydrazine Cell
-2Checkboxother/checkbox-.pngcheckbox
+2Checkboxother/checkbox-.pngCheckbox
 1

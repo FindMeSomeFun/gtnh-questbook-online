@@ -25,7 +25,7 @@ PS: To pack your circle back up, you need to bring your altar with you.
 8witchery/ingredient-90.pngToe of Frog
 8witchery/ingredient-24.pngWool of Bat
 8witchery/ingredient-25.pngTongue of Dog
-8witchery/ingredient-89.pngOwlet''s Wing
+8witchery/ingredient-89.pngOwlet's Wing
 8witchery/ingredient-10.pngAttuned Stone
 8witchery/ingredient-11.pngAttuned Stone (Charged)
 8minecraft/glowstone_dust-0.pngGlowstone Dust
@@ -34,7 +34,7 @@ PS: To pack your circle back up, you need to bring your altar with you.
 1witchery/ingredient-90.pngToe of Frog
 1witchery/ingredient-24.pngWool of Bat
 1witchery/ingredient-25.pngTongue of Dog
-1witchery/ingredient-89.pngOwlet''s Wing
+1witchery/ingredient-89.pngOwlet's Wing
 1witchery/ingredient-10.pngAttuned Stone
 1witchery/ingredient-11.pngAttuned Stone (Charged)
 1

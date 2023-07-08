@@ -3,5 +3,5 @@
 If you need to restore from a backup, the AB ones are found in the backups folder in the instance directory, not the world save directory.
 
 Remember though, JourneyMap and Thaumcraft Node Tracker information isn't included with AromaBackup, so you should backup your journeymap and tcnodetracker directories yourself if you don't trust them or are moving data to another drive or computer. Also, the Thaumcraft data is a little buggy, losing scanned aspect data and Thaumonomicon data, so consider backing up that file as well, the file is the 'saves\<worldname>\playerdata\<nameofplayer>.thaum' file.ANDpre01minecraft/wheat-0.pngrewardsItemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-1tasksANDCheckboxother/checkbox-.pngcheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

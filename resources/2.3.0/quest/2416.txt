@@ -1,4 +1,4 @@
 2416gadomancy/ItemCreativeNode-5.png0Ghetto Biome Changing28-1If you don't want to change the biome to a specific one, and just want a neutral environment for your bees, maybe using nodes is for you. You can try planting a Silverwood Sapling to get one with a pure node, or use other methods to move one.
 
-Keep in mind a 'bare' pure node won't change anything unless it has Victus. You can try use Sinister or Tainted, but...no refunds. These nodes have a radius of 11. To change the biome back, use an Ethereal Bloom (radius of 7). Keep in mind that both Pech and Wisps spawn in 'Magical' type biomes.ANDpre24150witchery/ingredient-106.pngrewardstasksANDCheckboxother/checkbox-.pngcheckbox
+Keep in mind a 'bare' pure node won't change anything unless it has Victus. You can try use Sinister or Tainted, but...no refunds. These nodes have a radius of 11. To change the biome back, use an Ethereal Bloom (radius of 7). Keep in mind that both Pech and Wisps spawn in 'Magical' type biomes.ANDpre24150witchery/ingredient-106.pngrewardstasksANDCheckboxother/checkbox-.pngCheckbox
 1

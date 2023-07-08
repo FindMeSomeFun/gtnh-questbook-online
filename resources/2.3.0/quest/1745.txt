@@ -1,4 +1,4 @@
 1745OpenComputers/item-48.png0Welcome to OpenComputers!26-1Hello there, my name is Teirdalin and today we shall embark on one of the most exciting and fun mods; OpenComputers! First things first though, you will need some patience to get through this mod, but it will certainly pay off in the end!ANDpre12211gregtech/gt.blockmachines-1181.png15981gregtech/gt.blockmachines-212.pngrewardsItemOpenComputers/item-98.pngOpenComputers Manual
 1gregtech/gt.metaitem.02-32007.pngTea
-1tasksANDCheckboxother/checkbox-.pngcheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

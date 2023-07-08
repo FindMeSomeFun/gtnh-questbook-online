@@ -5,5 +5,5 @@ I mean you could do that, but maybe just check the box once your autocrafting is
 1Avaritia/Singularity-2.pngLapis Singularity
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 64tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing
-6144Checkboxother/checkbox-.pngcheckbox
+6144Checkboxother/checkbox-.pngCheckbox
 1

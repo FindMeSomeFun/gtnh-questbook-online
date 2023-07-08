@@ -23,10 +23,10 @@ Later on you can upgrade your items to become more powerful ones.ANDpre1021
 1TConstruct/fletching-0.pngFeather Fletching
 4gregtech/gt.metaitem.01-32642.pngElectric Piston (HV)
 2IC2/itemPartCircuitAdv-0.pngAdvanced Circuit
-6RetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles
-1TConstruct/travelVest-0.pngTraveller''s Vest
-1TConstruct/travelWings-0.pngTraveller''s Wings
-1TConstruct/travelBelt-0.pngTraveller''s Belt
-1TConstruct/travelGlove-0.pngTraveller''s Gloves
-1TConstruct/travelBoots-0.pngTraveller''s Boots
+6RetrievalTConstruct/travelGoggles-0.pngTraveller's Goggles
+1TConstruct/travelVest-0.pngTraveller's Vest
+1TConstruct/travelWings-0.pngTraveller's Wings
+1TConstruct/travelBelt-0.pngTraveller's Belt
+1TConstruct/travelGlove-0.pngTraveller's Gloves
+1TConstruct/travelBoots-0.pngTraveller's Boots
 1

@@ -7,7 +7,7 @@
 2dreamcraft/item.CoinAdventureII-0.pngCoin "The Explorer 100"
 2dreamcraft/item.CoinWitchII-0.pngCoin "Spirit 100"
 2dreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-2tasksANDRetrievalwitchery/quiverofmog-0.pngMog''s Quiver
-1witchery/gurdleofgulg-0.pngGulg''s Gurdle
-1witchery/babashat-0.pngBaba Yaga''s Hat
+2tasksANDRetrievalwitchery/quiverofmog-0.pngMog's Quiver
+1witchery/gurdleofgulg-0.pngGulg's Gurdle
+1witchery/babashat-0.pngBaba Yaga's Hat
 1

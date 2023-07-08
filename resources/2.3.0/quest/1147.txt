@@ -6,5 +6,5 @@ Ha ha just kidding there is always a boom today!ANDpre671gregtech/gt.blockm
 1Choiceenhancedlootbags/lootbag-2.pngLootBag (Steam Age)
 1gregtech/gt.metaitem.01-2880.pngRubber Pulp
 8Itemdreamcraft/item.CoinTechnician-0.pngCoin "The Technician 1"
-10tasksANDCheckboxother/checkbox-.pngcheckbox
+10tasksANDCheckboxother/checkbox-.pngCheckbox
 1

@@ -5,5 +5,5 @@ If you dont want to clear out your inventory, just check the box when you have e
 1minecraft/lapis_block-0.pngLapis Lazuli Block
 1dreamcraft/item.CoinTechnicianIV-0.pngCoin "The Technician 10K"
 1tasksANDOptionalbartworks/GT_LESU_CASING-0.pngLESU Casing
-1536Checkboxother/checkbox-.pngcheckbox
+1536Checkboxother/checkbox-.pngCheckbox
 1

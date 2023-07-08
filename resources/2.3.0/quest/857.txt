@@ -6,5 +6,5 @@
 1gregtech/gt.metaitem.01-30013.pngOxygen Cell
 32gregtech/gt.metaitem.01-30673.pngMethanol Cell
 32Optionalmiscutils/Formaldehyde-0.pngFormaldehyde Cell
-32Checkboxother/checkbox-.pngcheckbox
+32Checkboxother/checkbox-.pngCheckbox
 1

@@ -36,5 +36,5 @@ Ti - Titan
 Tr - Triton
 VB - Vega B
 Ve - VenusANDpre32470minecraft/nether_star-0.pngrewardsItemdreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-5tasksANDCheckboxother/checkbox-.pngcheckbox
+5tasksANDCheckboxother/checkbox-.pngCheckbox
 1

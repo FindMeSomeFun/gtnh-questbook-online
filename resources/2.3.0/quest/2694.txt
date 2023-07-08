@@ -4,5 +4,5 @@ Then distill it to get Naphthalene. Seem easy? It gets harder.ANDpre26850mi
 1miscutils/CoalTarOil-0.pngCoal Tar Oil Cell
 1Optionalmiscutils/SulfuricCoalTarOil-0.pngSulfuric Coal Tar Oil Cell
 2Optionalmiscutils/Naphthalene-0.pngNaphthalene Cell
-2Checkboxother/checkbox-.pngcheckbox
+2Checkboxother/checkbox-.pngCheckbox
 1

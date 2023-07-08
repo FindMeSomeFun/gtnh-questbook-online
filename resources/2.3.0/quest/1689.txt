@@ -4,5 +4,5 @@ If you've made the LPF, you can just upgrade that instead.ANDpre14901gregte
 4gregtech/gt.metaitem.03-32103.pngMore Advanced Circuit Board
 8enhancedlootbags/lootbag-41.pngLootBag (Tier 6 LuV)
 1Itemdreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-5tasksANDCheckboxother/checkbox-.pngcheckbox
+5tasksANDCheckboxother/checkbox-.pngCheckbox
 1

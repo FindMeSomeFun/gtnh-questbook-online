@@ -3,5 +3,5 @@
 Hydrogen Peroxide Cell is overridden by BW one. Use tanks or Universal Cells or large cells to proceed, don't put it in a cell.ANDpre8541gregtech/gt.metaitem.01-30659.png23960miscutils/HydrogenPeroxide-0.pngrewardstasksANDOptionalgregtech/gt.metaitem.01-30659.pngAmmonia Cell
 2miscutils/HydrogenPeroxide-0.pngHydrogen Peroxide Cell
 1Optionalmiscutils/Hydrazine-0.pngHydrazine Cell
-1Checkboxother/checkbox-.pngcheckbox
+1Checkboxother/checkbox-.pngCheckbox
 1

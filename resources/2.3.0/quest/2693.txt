@@ -3,5 +3,5 @@
 Ironically, you can't make this out of Naphtha.ANDpre26940miscutils/Naphthalene-0.pngrewardstasksANDOptionalmiscutils/Naphthalene-0.pngNaphthalene Cell
 4gregtech/gt.metaitem.01-2006.pngLithium Dust
 10Optionalmiscutils/PhthalicAcid-0.pngPhthalic Acid Cell
-5Checkboxother/checkbox-.pngcheckbox
+5Checkboxother/checkbox-.pngCheckbox
 1

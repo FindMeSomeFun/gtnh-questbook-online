@@ -8,7 +8,7 @@ Every Armor has 3 slots for modofication.ANDpre17810TConstruct/travelVest-0
 2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDRetrievalTConstruct/travelGoggles-0.pngTraveller''s Goggles
+25tasksANDRetrievalTConstruct/travelGoggles-0.pngTraveller's Goggles
 1minecraft/flint_and_steel-0.pngFlint and Steel
 1minecraft/golden_carrot-0.pngGolden Carrot
 1minecraft/potion-8198.pngPotion of Night Vision

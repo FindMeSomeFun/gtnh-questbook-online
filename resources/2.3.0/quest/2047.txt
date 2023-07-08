@@ -18,5 +18,5 @@ As you can now use the ghost circuits for almost everything, the tasks here are 
 1Optionalbartworks/gt.BWCircuitProgrammer-0.pngCircuit Programmer
 1Optionalmiscutils/blockCircuitProgrammer-0.pngCircuit Programmer
 1Optionalgregtech/gt.integrated_circuit-1.pngProgrammed Circuit
-1Checkboxother/checkbox-.pngcheckbox
+1Checkboxother/checkbox-.pngCheckbox
 1

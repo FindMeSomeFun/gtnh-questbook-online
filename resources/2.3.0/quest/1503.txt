@@ -9,5 +9,5 @@ Also, if you haven't discovered it yet, Electric machines don't like getting rai
 Good luck.
 
 BTW, there's also an Explosion.log file in the logs folder that tracks what caused an explosion if you're unsure. It appears to reset on world load though.ANDpre131minecraft/bed-0.pngrewardsItemminecraft/fireworks-0.pngFirework Rocket
-1tasksANDCheckboxother/checkbox-.pngcheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

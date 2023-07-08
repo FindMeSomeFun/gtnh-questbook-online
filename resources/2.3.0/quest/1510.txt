@@ -8,5 +8,5 @@ Some things to keep in mind:
 5) There's lots of different 'versions' of biomes under the same category, so if you want a tropical one for tropical bees, there's actually a bunch of places you can get it.ANDpre971gregtech/gt.blockmachines-211.pngrewardsItemenhancedlootbags/lootbag-4.pngLootBag (Tier 1 LV)
 1Itemdreamcraft/item.CoinBees-0.pngCoin "The Beekeeper 1"
 15dreamcraft/item.CoinForestry-0.pngCoin "The Forest Ranger 1"
-15tasksANDRetrievalnaturescompass/NaturesCompass-0.pngNature''s Compass
+15tasksANDRetrievalnaturescompass/NaturesCompass-0.pngNature's Compass
 1

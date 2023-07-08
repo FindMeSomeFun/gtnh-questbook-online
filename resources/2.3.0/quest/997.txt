@@ -11,10 +11,10 @@ Make sure when making the potions to only do three at a time, so the NBT data ma
 5tasksANDOptionalEnderIO/itemBasicCapacitor-0.pngBasic Capacitor
 4EnderIO/itemBasicCapacitor-1.pngDouble-Layer Capacitor
 4EnderIO/itemBasicCapacitor-2.pngOctadic Capacitor
-4OptionalForestry/apiaristHelmet-0.pngApiarist''s Hat
-1Forestry/apiaristChest-0.pngApiarist''s Shirt
-1Forestry/apiaristLegs-0.pngApiarist''s Pants
-1Forestry/apiaristBoots-0.pngApiarist''s Shoes
+4OptionalForestry/apiaristHelmet-0.pngApiarist's Hat
+1Forestry/apiaristChest-0.pngApiarist's Shirt
+1Forestry/apiaristLegs-0.pngApiarist's Pants
+1Forestry/apiaristBoots-0.pngApiarist's Shoes
 1Optionalminecraft/potion-8194.pngPotion of Swiftness
 3minecraft/potion-8198.pngPotion of Night Vision
 1Optionalminecraft/waterlily-0.pngLily Pad

@@ -17,7 +17,7 @@ This multi consumes 1A LuV when operating, no matter how many pebbles are inside
 In this reactor, the throughput increases with the amount of pebbles put into it.
 
 By typing HTGR in NEI, you can see all the items that are related to this multiblock.ANDpre31800gregtech/gt.metaitem.01-2078.pngrewardsItemdreamcraft/item.CoinTechnicianIII-0.pngCoin "The Technician 1000"
-10Itemkubatech/kubaitems-7.pngKuba''s Peppermint Tea
+10Itemkubatech/kubaitems-7.pngKuba's Peppermint Tea
 1tasksANDOptionalgregtech/gt.blockcasings8-5.pngEuropium Reinforced Radiation Proof Machine Casing
 531Retrievalgregtech/gt.blockmachines-12791.pngHigh Temperature Gas-cooled Reactor
 1

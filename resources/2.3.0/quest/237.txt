@@ -3,5 +3,5 @@
 Make sure you use the NEI 'U' command on the gold caps to find the correct GT:NH recipe for the wand.ANDpre7981Thaumcraft/WandCap-0.pngrewardsItemminecraft/spawn_egg-95.pngSpawn Wolf
 4Thaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardI-0.pngCoin "The Dark Wizard 10"
-5tasksANDCheckboxother/checkbox-.pngcheckbox
+5tasksANDCheckboxother/checkbox-.pngCheckbox
 1

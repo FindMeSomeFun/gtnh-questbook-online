@@ -7,6 +7,6 @@ If the recipe isn't working, put the bag in a crafting grid to reset its nbt dat
 1enhancedlootbags/lootbag-26.pngLootBag (Bees Advanced)
 1Itemdreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5tasksANDOptionalForestry/craftingMaterial-3.pngWoven Silk
-18RetrievalForestry/diggerBagT2-0.pngDigger''s Woven Backpack
-1Forestry/minerBagT2-0.pngMiner''s Woven Backpack
+18RetrievalForestry/diggerBagT2-0.pngDigger's Woven Backpack
+1Forestry/minerBagT2-0.pngMiner's Woven Backpack
 1

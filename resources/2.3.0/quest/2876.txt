@@ -4,5 +4,5 @@ If you fail with Minesweeper, it blows up. Be sure to make room for escape!
 
 Make sure that no water/oil is flowing into the room because of worldgen or it will kill you and destroy your grave because of 'cheating'. This is a bug.ANDpre28750minecraft/nether_star-0.pngrewardsItemminecraft/skull-3.pngskull
 1gregtech/gt.metaitem.01-2817.pngSalt
-1tasksANDCheckboxother/checkbox-.pngcheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

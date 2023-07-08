@@ -39,5 +39,5 @@ Warp Theory adds a bunch of new Warp Effects to the Player. Be very careful beca
 16Thaumcraft/ItemBathSalts-0.pngPurifying Bath Salts
 4Thaumcraft/ItemSanitySoap-0.pngSanitizing Soap
 2Thaumcraft/ItemLootBag-0.pngCommon Treasure
-2tasksANDCheckboxother/checkbox-.pngcheckbox
+2tasksANDCheckboxother/checkbox-.pngCheckbox
 1

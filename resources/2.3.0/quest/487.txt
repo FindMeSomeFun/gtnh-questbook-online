@@ -6,10 +6,10 @@
 4Backpack/tannedLeather-0.pngTanned Leather
 1harvestcraft/wovencottonItem-0.pngWoven Cotton
 2minecraft/stone-0.pngStone
-2CraftingForestry/diggerBag-0.pngDigger''s Backpack
+2CraftingForestry/diggerBag-0.pngDigger's Backpack
 1Optionalminecraft/leather-0.pngLeather
 4Backpack/tannedLeather-0.pngTanned Leather
 1harvestcraft/wovencottonItem-0.pngWoven Cotton
 2minecraft/iron_ingot-0.pngIron Ingot
-2CraftingForestry/minerBag-0.pngMiner''s Backpack
+2CraftingForestry/minerBag-0.pngMiner's Backpack
 1

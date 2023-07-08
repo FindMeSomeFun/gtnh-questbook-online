@@ -6,5 +6,5 @@
 2gregtech/gt.metaitem.01-30653.pngNitric Acid Cell
 4miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst
 1Optionalmiscutils/NitrogenTetroxide-0.pngNitrogen Tetroxide Cell
-2Checkboxother/checkbox-.pngcheckbox
+2Checkboxother/checkbox-.pngCheckbox
 1

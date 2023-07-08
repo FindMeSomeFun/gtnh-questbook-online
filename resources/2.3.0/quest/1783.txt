@@ -9,7 +9,7 @@ Every Armor part has 3 Slots for modification.ANDpre17810TConstruct/travelV
 2enhancedlootbags/lootbag-5.pngLootBag (Tier 2 MV)
 1Itemdreamcraft/item.CoinSmith-0.pngCoin "Blacksmith 1"
 25dreamcraft/item.CoinSurvivor-0.pngCoin "The Survivor 1"
-25tasksANDRetrievalTConstruct/travelVest-0.pngTraveller''s Vest
+25tasksANDRetrievalTConstruct/travelVest-0.pngTraveller's Vest
 1minecraft/sugar-0.pngSugar
 1minecraft/ender_pearl-0.pngEnder Pearl
 1minecraft/ender_eye-0.pngEye of Ender

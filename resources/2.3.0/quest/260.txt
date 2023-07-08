@@ -1,4 +1,4 @@
 260Thaumcraft/ItemLootBag-1.png1Adept Thaumaturgy32-1I have mastered the basics. Master warned me about forbidden magic, but it sounds so promising. I think a bit of the forbidden can't hurt...ANDpre2521minecraft/cake-0.pngrewardsItemThaumcraft/ItemLootBag-1.pngUncommon Treasure
 1Itemdreamcraft/item.CoinDarkWizardII-0.pngCoin "The Dark Wizard 100"
-1tasksANDCheckboxother/checkbox-.pngcheckbox
+1tasksANDCheckboxother/checkbox-.pngCheckbox
 1

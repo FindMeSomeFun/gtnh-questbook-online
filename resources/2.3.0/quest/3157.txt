@@ -2,5 +2,5 @@
 
 As you know, the placement of each component is critical to keep the reactor safe. Fuel automation is as simple as just pushing fuel rods into the reactor, but you need to make it so the open slots are the only safe places for the rods. From there, you can extract with a filter set to the depleted version of the rods you are using. and the exchange will happen seamlessly.
 
-From there, you can turn the depleted rods into usable rods by putting them in the Thermal Centrifuge, adding back the fuel that wasn't recycled (each type of rod recycles different amounts of fuel) and the Empty Fuel Rods/Steel Rods.ANDpre31550gregtech/gt.ThoriumcellDep-0.pngrewardstasksANDCheckboxother/checkbox-.pngcheckbox
+From there, you can turn the depleted rods into usable rods by putting them in the Thermal Centrifuge, adding back the fuel that wasn't recycled (each type of rod recycles different amounts of fuel) and the Empty Fuel Rods/Steel Rods.ANDpre31550gregtech/gt.ThoriumcellDep-0.pngrewardstasksANDCheckboxother/checkbox-.pngCheckbox
 1

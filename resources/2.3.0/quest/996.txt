@@ -5,8 +5,8 @@
 5dreamcraft/item.CoinBeesI-0.pngCoin "The Beekeeper 10"
 5dreamcraft/item.CoinSurvivorI-0.pngCoin "The Survivor 10"
 5tasksANDOptionalForestry/craftingMaterial-3.pngWoven Silk
-24RetrievalForestry/apiaristHelmet-0.pngApiarist''s Hat
-1Forestry/apiaristChest-0.pngApiarist''s Shirt
-1Forestry/apiaristLegs-0.pngApiarist''s Pants
-1Forestry/apiaristBoots-0.pngApiarist''s Shoes
+24RetrievalForestry/apiaristHelmet-0.pngApiarist's Hat
+1Forestry/apiaristChest-0.pngApiarist's Shirt
+1Forestry/apiaristLegs-0.pngApiarist's Pants
+1Forestry/apiaristBoots-0.pngApiarist's Shoes
 1

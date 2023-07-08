@@ -11,5 +11,5 @@ Unfortunately, going down this path means we will not give you quest rewards, si
 2TConstruct/SearedBlock-0.pngCasting Table
 1TConstruct/SearedBlock-2.pngCasting Basin
 1TConstruct/Smeltery-1.pngSmeltery Drain
-2Checkboxother/checkbox-.pngcheckbox
+2Checkboxother/checkbox-.pngCheckbox
 1

@@ -4,5 +4,5 @@ You need Palladium to make the Catalyst, so keep that in mind.ANDpre23101gr
 5gregtech/gt.metaitem.01-30001.pngHydrogen Cell
 10miscutils/item.BasicGenericChemItem-3.pngOrange Metal Catalyst
 1Optionalmiscutils/2Ethylanthrahydroquinone-0.png2-Ethylanthrahydroquinone Cell
-5Checkboxother/checkbox-.pngcheckbox
+5Checkboxother/checkbox-.pngCheckbox
 1

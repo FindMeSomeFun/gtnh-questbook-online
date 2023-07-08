@@ -3,6 +3,6 @@
 PS: The loot is lame, don't pick this one.XORpre2141GalacticraftCore/tile.treasureChest-0.png2170personalspace/personalPortal-0.pngrewardsChoiceThaumcraft/ItemLootBag-2.pngRare Treasure
 10enhancedlootbags/lootbag-7.pngLootBag (Tier 4 EV)
 10Thaumcraft/blockLootCrate-2.pngAbandoned Crate
-10DraconicEvolution/dezilsMarshmallow-0.pngDezil''s Marshmallow
-16tasksANDCheckboxother/checkbox-.pngcheckbox
+10DraconicEvolution/dezilsMarshmallow-0.pngDezil's Marshmallow
+16tasksANDCheckboxother/checkbox-.pngCheckbox
 1

@@ -7,5 +7,5 @@ Mother spiders will spawn a lot of baby spiders, some of which may be infernal.
 A flying spider can grab the oblivious flyer.
 
 Ghost spiders are partially invisible and can pass through thin walls.ANDpre18420minecraft/gunpowder-0.pngrewardsItemminecraft/string-0.pngString
-8tasksANDCheckboxother/checkbox-.pngcheckbox
+8tasksANDCheckboxother/checkbox-.pngCheckbox
 1

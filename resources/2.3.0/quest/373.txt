@@ -8,6 +8,6 @@ Also generates liquid xp (always 120L) and can spawn infernal mobs if possible (
 Notes:
 In case of any problems with multiblock animation just use soldering iron on the machine to disable it.ANDpre1690EnderIO/blockPoweredSpawner-0.png1761gregtech/gt.blockmachines-14.png9620OpenBlocks/vacuumhopper-0.pngrewardsItemdreamcraft/item.CoinSurvivorII-0.pngCoin "The Survivor 100"
 1dreamcraft/item.CoinTechnicianII-0.pngCoin "The Technician 100"
-1Itemkubatech/kubaitems-8.pngKuba''s Pu-erh Tea
+1Itemkubatech/kubaitems-8.pngKuba's Pu-erh Tea
 1tasksANDRetrievalgregtech/gt.blockmachines-14201.pngExtreme Extermination Chamber
 1

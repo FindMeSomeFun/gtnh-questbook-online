@@ -6,5 +6,5 @@ Since you need multiple products, use a Distillery Tower to get them all. Everyt
 2miscutils/Ethylbenzene-0.pngEthylbenzene Cell
 3miscutils/Anthracene-0.pngAnthracene Cell
 1miscutils/Kerosene-0.pngKerosene Cell
-8Checkboxother/checkbox-.pngcheckbox
+8Checkboxother/checkbox-.pngCheckbox
 1
