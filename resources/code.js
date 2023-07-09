@@ -110,8 +110,8 @@ function populateElement(text, eId) {
 			var y = +data[i++];
 			var iconSize = +data[i++];
 			var half = iconSize / 2 + 4;
-			var pre = [main, x + half, y + half];
-			// drawLines{'id': main, centerX, centerY}
+			var pre = [main, x + half, y + half, half];
+			// drawLines{'id': main, centerX, centerY, half}
 			window.drawLines[id] = pre;
 			pre = []
 			for (i; i < data.length; i++) {
@@ -146,26 +146,62 @@ function drawCanvas() {
 		var ctx = document.getElementById("canvas").getContext("2d");
 		var dl =  window.drawLines;
 		var dpl = window.drawPreLines;
-		var j = 0;
 		for (var key in dpl) {
 			for (var i in dpl[key]) {
 				if (dpl[key][i] in dl) {
-					j++;
-					if (dl[key][0] == 1 && dl[dpl[key][i]][0] == 1) {
-						drawLine(ctx, dl[key][1], dl[key][2], dl[dpl[key][i]][1], dl[dpl[key][i]][2], 'red', 5);
-					} else {
-						drawLine(ctx, dl[key][1], dl[key][2], dl[dpl[key][i]][1], dl[dpl[key][i]][2], 'green', 5);
-					}
+					prepareAndDrawLine(ctx, dl[key], dl[dpl[key][i]]);
 				}
 			}
 		}
 	}
 }
 
+function prepareAndDrawLine(ctx, p1, p2) {
+	// drawLines{'id': main, centerX, centerY, half}
+	var width = 5;
+	var color = 'green';
+	if (p1[0] == 1 && p2[0] == 1) {
+		color = 'red';
+	}
+	if (Math.abs(p2[1] - p1[1]) >= Math.abs(p2[2] - p1[2])) {
+		if (p2[1] > p1[1]) {
+			var x1 = p1[1] + p1[3] - 5;
+			var x2 = p2[1] - p2[3] + 5;
+			var midX = x1 + (x2 - x1) / 2;
+			var midY = p1[2] + (p2[2] - p1[2]) / 2;
+			drawLine(ctx, x1, p1[2], midX, midY, color, width / 2);
+			drawLine(ctx, midX, midY, x2, p2[2], color, width);
+		} else {
+			var x1 = p1[1] - p1[3] + 5;
+			var x2 = p2[1] + p2[3] - 5;
+			var midX = x1 + (x2 - x1) / 2;
+			var midY = p1[2] + (p2[2] - p1[2]) / 2;
+			drawLine(ctx, x1, p1[2], midX, midY, color, width / 2);
+			drawLine(ctx, midX, midY, x2, p2[2], color, width);
+		}
+	} else {
+		if (p2[2] > p1[2]) {
+			var y1 = p1[2] + p1[3] - 5;
+			var y2 = p2[2] - p2[3] + 5;
+			var midX = p1[1] + (p2[1] - p1[1]) / 2;
+			var midY = y1 + (y2 - y1) / 2;
+			drawLine(ctx, p1[1], y1, midX, midY, color, width / 2);
+			drawLine(ctx, midX, midY, p2[1], y2, color, width);
+		} else {
+			var y1 = p1[2] - p1[3] + 5;
+			var y2 = p2[2] + p2[3] - 5;
+			var midX = p1[1] + (p2[1] - p1[1]) / 2;
+			var midY = y1 + (y2 - y1) / 2;
+			drawLine(ctx, p1[1], y1, midX, midY, color, width / 2);
+			drawLine(ctx, midX, midY, p2[1], y2, color, width);
+		}
+	}
+}
+
 function drawLine(ctx, x1, y1, x2, y2, color, width) {
 	ctx.beginPath();
-	ctx.lineWidth = width;
 	ctx.strokeStyle = color;
+	ctx.lineWidth = width;
 	ctx.moveTo(x1, y1);
 	ctx.lineTo(x2, y2);
 	ctx.stroke();
