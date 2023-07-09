@@ -159,9 +159,9 @@ function drawCanvas() {
 function prepareAndDrawLine(ctx, p1, p2) {
 	// drawLines{'id': main, centerX, centerY, half}
 	var width = 5;
-	var color = 'green';
+	var color = 'lime';
 	if (p1[0] == 1 && p2[0] == 1) {
-		color = 'red';
+		color = 'magenta';
 	}
 	if (Math.abs(p2[1] - p1[1]) >= Math.abs(p2[2] - p1[2])) {
 		if (p2[1] > p1[1]) {
