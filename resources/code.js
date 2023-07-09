@@ -108,7 +108,7 @@ function populateElement(text, eId) {
 			var icon = data[i++];
 			var x = +data[i++];
 			var y = +data[i++];
-			var iconSize = +data[i];
+			var iconSize = +data[i++];
 			var half = iconSize / 2 + 4;
 			var pre = [main, x + half, y + half];
 			// drawLines{'id': main, centerX, centerY}
