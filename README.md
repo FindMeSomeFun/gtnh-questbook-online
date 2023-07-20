@@ -13,6 +13,7 @@ Pinned Quests is a list of Quests intended to be read or done.
 URL is auto generated so you can copy and paste it for later use or send it to somebody else to see.
 
 Page preview at:
+
 https://findmesomefun.github.io/gtnh-questbook-wiki/
 
 or
