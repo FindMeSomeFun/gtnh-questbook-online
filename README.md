@@ -1,5 +1,4 @@
-# gtnh-questbook-wiki
-GregTech New Horizons Questbook Wiki
+# GregTech New Horizons Questbook Wiki
 
 Page organization:
 1. Menu part holding: Version + Questline Menu + Theme.
